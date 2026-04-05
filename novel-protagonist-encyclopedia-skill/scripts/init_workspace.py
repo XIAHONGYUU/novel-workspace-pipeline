@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+from datetime import date
 import json
 import os
 import re
@@ -375,12 +376,14 @@ def final_card_md(protagonist_name: str) -> str:
 """
 
 
-def index_md(protagonist_name: str) -> str:
+def index_md(novel_name: str, protagonist_name: str) -> str:
     return f"""# {protagonist_name}词条总索引
 
 ## 说明
 
 本索引用于汇总当前已经为主角建立的核心入口文件，并固定后续词条扩展方向。
+
+当前阶段的目标，不是把所有词条一次性铺满，而是先把主梁、一级词条和第一批高价值二级词条钉稳。
 
 ## 一、主人物卡
 
@@ -388,16 +391,40 @@ def index_md(protagonist_name: str) -> str:
 
 ## 二、核心总览文件
 
-- 《小说名》主角锚点与骨架
-- 《小说名》整书粗阶段划分
-- {protagonist_name}-核心体系总览
-- 《小说名》全书精华总结
+- [{novel_name}-主角锚点与骨架.md]({novel_name}-主角锚点与骨架.md)
+- [{novel_name}-整书粗阶段划分.md]({novel_name}-整书粗阶段划分.md)
+- [{protagonist_name}-核心体系总览.md]({protagonist_name}-核心体系总览.md)
+- [{novel_name}-全书精华总结.md]({novel_name}-全书精华总结.md)
 
-## 三、一级词条
+## 三、当前已完成的一级词条
 
-## 四、关键二级词条
+当前已经落地、可以直接作为骨架使用的一级词条如下：
 
-## 五、当前结构总览
+### 1. 人物核心词条
+
+- 待补
+
+### 2. 力量体系词条
+
+- 待补
+
+### 3. 世界与高位设定词条
+
+- 待补
+
+### 4. 结构与关系网络词条
+
+- 待补
+
+## 四、当前已完成的核心二级词条
+
+当前我认为最值得优先补完的一批二级词条，已经先落下这几条：
+
+- 待补
+
+## 五、当前整体结构总结
+
+按照目前已经确认的信息，这条主角线可以先按四层理解：
 
 - 第一层：他是谁
 - 第二层：他靠什么成长
@@ -406,19 +433,46 @@ def index_md(protagonist_name: str) -> str:
 
 ## 六、当前完成度判断
 
+当前可以明确判断为：
+
+- 主角锚点：待判断
+- 主角总卡：待判断
+- 整书粗阶段划分：待判断
+- 第一批核心一级词条：待判断
+- 一级词条全集：待判断
+- 总索引：已建立模板
+- 核心体系总览：待判断
+- 全书精华总结：已建立模板
+- 关键二级词条：待判断
+
 ### 当前判定：骨架完成
 
-- 当前判断：
+- 当前判断：`未完成`
 - 理由：
+  - 主角总卡、一级词条和总索引闭环还需补实
+  - 当前只是完成了索引模板和结构入口
 
 ### 当前判定：体系闭环完成
 
-- 当前判断：
+- 当前判断：`未完成`
 - 理由：
+  - 核心体系总览、全书精华总结和关键二级词条还未补齐
+  - 当前还不能判断主干体系已经自洽解释
 
 ## 七、推荐阅读顺序
 
+- {novel_name}-主角锚点与骨架.md
+- {novel_name}-整书粗阶段划分.md
+- {protagonist_name}-最终人物卡.md
+- 再按词条完成情况继续往下读
+
 ## 八、下一步执行顺序
+
+1. 先补主角最终人物卡
+2. 再补整书粗阶段划分
+3. 再从人物卡反推第一批一级词条
+4. 再补核心体系总览与全书精华总结
+5. 最后判断是否达到骨架完成 / 体系闭环完成
 """
 
 
@@ -487,6 +541,8 @@ def readme_md(novel_name: str, source_name: str | None) -> str:
   第一轮 chunk 蒸馏时使用的阶段划分文件
 - `{novel_name}-主角锚点与骨架.md`
   主角骨架入口
+- `工作状态-YYYY-MM-DD.md`
+  当前项目阶段性交接文件
 
 ## 建议顺序
 
@@ -499,6 +555,119 @@ def readme_md(novel_name: str, source_name: str | None) -> str:
 7. 拆一级词条
 8. 补核心体系总览与全书精华总结
 """
+
+
+def workspace_status_md(novel_name: str, protagonist_name: str | None, created_focus: bool, report_created: bool, today: date) -> str:
+    protagonist_line = protagonist_name or "待确认"
+    report_line = "已生成首轮诊断报告" if report_created else "尚未生成首轮诊断报告"
+    focus_line = "已建立主角 focus 入口" if created_focus else "尚未建立主角 focus 入口"
+    return f"""# 《{novel_name}》工作状态 {today.isoformat()}
+
+## 当前结论
+
+《{novel_name}》当前处于初始化后的首轮推进阶段。
+
+当前已知：
+
+- 当前主角候选：`{protagonist_line}`
+- {report_line}
+- {focus_line}
+
+## 当前已经具备的文件骨架
+
+- 项目启动清单
+- 整书粗阶段划分
+- 主角锚点与骨架
+- 全书精华总结模板
+{"- 主角最终人物卡模板\n- 主角词条总索引模板\n- 主角核心体系总览模板" if protagonist_name else ""}
+
+## 当前不应误判为已完成的部分
+
+- 还不能因为工作区已初始化，就判断为 `骨架完成`
+- 还不能因为有 heuristic 结果，就判断为 `体系闭环完成`
+- 还不能把 `work/cards/index.md` 当作正式成果
+
+## 下一步建议
+
+1. 先读首轮诊断报告，确认主角候选是否稳定
+2. 补整书粗阶段划分
+3. 写主角最终人物卡
+4. 从人物卡反推一级词条并建立总索引闭环
+
+## 一句话交接
+
+《{novel_name}》当前已经有工作区和闭环模板，但还需要继续从首轮诊断推进到主角骨架和正式词条体系。
+"""
+
+
+def current_status_template(active_project: str, known_projects: list[str]) -> str:
+    project_lines = "\n".join(f"- `{name}`" for name in known_projects) or "- 待补"
+    return f"""# 当前工作指针
+
+## 当前主任务
+
+- 当前主项目：`{active_project}`
+- 当前状态：`初始化后待推进`
+- 当前建议模式：`先完成首轮诊断，再推进主角骨架`
+
+## 已有项目级检查点
+
+{project_lines}
+
+## 上次停下的位置
+
+- `{active_project}` 已建立工作区模板和项目级状态文件
+- 其余项目如已有独立 checkpoint，也应在本节补充
+
+## 下次开始时先看
+
+1. `git status --short`
+2. `CURRENT_STATUS.md`
+3. 当前项目目录下的 `项目启动清单`
+4. 当前项目目录下最新的 `工作状态-YYYY-MM-DD.md`
+
+## 下一步优先级
+
+1. 先确认首轮诊断结论
+2. 再补主角总卡
+3. 再补一级词条与总索引闭环
+
+## 更新规则
+
+- 每次任务结束时，只更新这四项：
+  - 当前主项目
+  - 当前状态
+  - 上次停下的位置
+  - 下一步优先级
+- 如果任务已经收尾，就把“当前建议模式”改成“维护 / 深拆 / 新项目”
+"""
+
+
+def update_root_current_status(project_root: Path, novel_name: str) -> Path:
+    path = project_root / "CURRENT_STATUS.md"
+    if not path.exists():
+        write_file(path, current_status_template(novel_name, [novel_name]))
+        return path
+
+    content = path.read_text(encoding="utf-8")
+    content, active_count = re.subn(
+        r"(?m)^- 当前主项目：`.*`$",
+        f"- 当前主项目：`{novel_name}`",
+        content,
+        count=1,
+    )
+    if active_count == 0:
+        content = current_status_template(novel_name, [novel_name]) + "\n"
+
+    if f"- `{novel_name}`" not in content:
+        marker = "## 已有项目级检查点\n"
+        if marker in content:
+            content = content.replace(marker, marker + f"\n- `{novel_name}`\n", 1)
+        else:
+            content += f"\n## 已有项目级检查点\n\n- `{novel_name}`\n"
+
+    write_file(path, content)
+    return path
 
 
 def main() -> None:
@@ -533,6 +702,11 @@ def main() -> None:
     parser.add_argument("--focus-name", help="Optional protagonist focus name for a focus-tracking pass")
     parser.add_argument("--focus-alias", action="append", default=[], help="Additional alias for the focus name")
     parser.add_argument("--summary-interval", type=int, default=80, help="Checkpoint interval for focus tracking")
+    parser.add_argument(
+        "--no-update-current-status",
+        action="store_true",
+        help="Do not create or update the project-root CURRENT_STATUS.md entry",
+    )
     args = parser.parse_args()
 
     project_root = Path(args.project_root).expanduser().resolve()
@@ -540,6 +714,7 @@ def main() -> None:
     workspace = project_root / args.novel_name
     source_dir = workspace / "source"
     work_dir = workspace / "work"
+    today = date.today()
     source_dir.mkdir(parents=True, exist_ok=True)
     work_dir.mkdir(parents=True, exist_ok=True)
 
@@ -557,7 +732,7 @@ def main() -> None:
     write_file(workspace / "README.md", readme_md(args.novel_name, copied_name))
     if args.focus_name:
         write_file(workspace / f"{args.focus_name}-最终人物卡.md", final_card_md(args.focus_name))
-        write_file(workspace / f"{args.focus_name}-词条总索引.md", index_md(args.focus_name))
+        write_file(workspace / f"{args.focus_name}-词条总索引.md", index_md(args.novel_name, args.focus_name))
         write_file(workspace / f"{args.focus_name}-核心体系总览.md", core_overview_md(args.focus_name))
     write_file(workspace / f"{args.novel_name}-全书精华总结.md", full_book_essence_md(args.novel_name))
 
@@ -644,6 +819,21 @@ def main() -> None:
     else:
         report_path = None
 
+    status_path = workspace / f"工作状态-{today.isoformat()}.md"
+    write_file(
+        status_path,
+        workspace_status_md(
+            args.novel_name,
+            args.focus_name,
+            created_focus=bool(args.focus_name),
+            report_created=report_path is not None,
+            today=today,
+        ),
+    )
+    current_status_path = None
+    if not args.no_update_current_status:
+        current_status_path = update_root_current_status(project_root, args.novel_name)
+
     print(f"workspace: {workspace}")
     print("created:")
     print(f"- {workspace / 'README.md'}")
@@ -651,10 +841,13 @@ def main() -> None:
     print(f"- {workspace / f'{args.novel_name}-整书粗阶段划分.md'}")
     print(f"- {workspace / f'{args.novel_name}-主角锚点与骨架.md'}")
     print(f"- {workspace / f'{args.novel_name}-全书精华总结.md'}")
+    print(f"- {status_path}")
     if args.focus_name:
         print(f"- {workspace / f'{args.focus_name}-最终人物卡.md'}")
         print(f"- {workspace / f'{args.focus_name}-词条总索引.md'}")
         print(f"- {workspace / f'{args.focus_name}-核心体系总览.md'}")
+    if current_status_path is not None:
+        print(f"- {current_status_path}")
     if copied_name:
         print(f"- {source_dir / copied_name}")
     if generated_md is not None and generated_md.exists():
