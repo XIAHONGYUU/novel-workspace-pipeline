@@ -1,0 +1,19 @@
+[project]
+name = "novel-character-cards"
+version = "0.1.0"
+description = "Chunk novels, extract character data, merge entities, and render Markdown cards."
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+novel-character-cards = "novel_character_cards.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
