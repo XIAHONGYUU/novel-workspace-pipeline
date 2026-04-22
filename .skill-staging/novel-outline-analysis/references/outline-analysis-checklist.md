@@ -7,6 +7,21 @@ Do not finish the task until you have checked both:
 - the common layers every novel should cover
 - the book-specific structural modules unique to this novel
 
+Default assumption:
+
+- this skill often runs after a protagonist-centered workspace already exists
+- existing protagonist files should be read and reused first
+- the outline layer should grow on top of the protagonist layer, not ignore it
+
+Recommended execution order:
+
+1. read existing workspace files
+2. convert existing protagonist knowledge into outline understanding
+3. split the whole book by stages / regions / time / place
+4. analyze core supporting characters through those stages and regions
+5. cover common layers, then extract book-specific traits
+6. compare outputs against the checklist until the stop condition is met
+
 ## A. Common Coverage Checklist
 
 ### 1. Project entry and handoff
@@ -235,6 +250,12 @@ Before you say the task is done, explicitly confirm:
 3. which common layers were newly created
 4. which common layers were satisfied by existing project files
 5. which layers remain missing or should be the next step
+
+If the result was written into a durable workspace, prefer running:
+
+- `scripts/validate_outline_outputs.py --workspace "<工作区路径>" --novel-name "<小说名>"`
+
+and use the validation result as part of the final completion judgment.
 
 ## Non-Goals
 
