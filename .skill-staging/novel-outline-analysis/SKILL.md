@@ -44,6 +44,41 @@ Unless the user narrows the scope, aim to produce a reusable outline-analysis pa
 
 Prefer a file set when the user wants durable results.
 
+## Default Assumption
+
+Unless the user clearly says otherwise, assume this skill is being used after a protagonist-centered workspace already exists.
+
+In other words, the default starting point is not:
+
+- no context
+- no protagonist layer
+- no prior project files
+
+The default starting point is:
+
+- a novel workspace already exists
+- the workspace often already contains protagonist files
+- this skill should extend that workspace into a whole-book outline layer
+
+This means the first move is usually:
+
+- read the workspace
+- understand the existing protagonist layer
+- then build the outline layer on top of it
+
+not:
+
+- regenerate the protagonist workflow from scratch
+
+## Scripts
+
+Use the bundled scripts when the task is starting a fresh workspace or when you need a deterministic completion check.
+
+- `scripts/init_outline_workspace.py`
+  Use when a new novel needs a durable outline-analysis workspace with starter files.
+- `scripts/validate_outline_outputs.py`
+  Use before closing the task when you want a repeatable check of file coverage and content coverage.
+
 ## Common Output Standard
 
 Every durable analysis should cover the common layers below. These layers may be satisfied by:
@@ -90,6 +125,23 @@ Also check whether the project already has, or should now add:
 
 If protagonist files already exist from `novel-character-cards` or `novel-protagonist-encyclopedia`, reuse and link them instead of regenerating a duplicate.
 
+## Genre Reference Map
+
+When the novel clearly fits one of these dominant modes, read the matching reference before finalizing the structure judgment:
+
+- `references/progression.md`
+  For upgrade-flow, cultivation-flow, system-flow, or power-ladder novels
+- `references/politics.md`
+  For faction, court, institution, empire, or war/power-shift novels
+- `references/horror.md`
+  For horror, folklore, taboo, ritual, or rules-based dread novels
+- `references/multiverse.md`
+  For multiworld, higher-realm, cross-boundary, or endgame-elevation novels
+- `references/ensemble.md`
+  For strong relationship, group-dynamic, or antagonist-function-heavy novels
+
+Read only the references that actually fit the book.
+
 ## Per-Book Specificity Requirement
 
 This skill must not stop at generic structure labels.
@@ -128,9 +180,35 @@ If needed, create extra book-specific files or sections for these modules.
 
 ## Workflow
 
-### 1. Confirm the source and normalize the text
+### 1. Enter the workspace and read existing files first
+
+Before doing fresh analysis, inspect the current workspace and build a whole-book baseline from files that already exist.
+
+Prioritize:
+
+- `README.md`
+- `工作状态-YYYY-MM-DD.md`
+- protagonist final card
+- protagonist index
+- core system overview
+- previous stage files
+- existing topic summaries
+
+The goal of step 1 is to answer:
+
+- what this book already has
+- what the protagonist layer already explains
+- what is still missing from the outline layer
+
+Do not skip this step when the workspace already exists.
+
+### 2. Confirm the source and normalize the text
 
 Identify the novel source first.
+
+If this is a fresh project and the user wants durable results, initialize the workspace with:
+
+- `scripts/init_outline_workspace.py --novel-name "<小说名>" --source "<原文路径>" [--protagonist "<主角名>"]`
 
 If the source is `.txt` or messy plain text, use local conversion tools before analysis:
 
@@ -146,7 +224,7 @@ Build a usable text layer first:
 - recurring place names
 - recurring force names
 
-### 2. Build the context layer before writing conclusions
+### 3. Build the context layer before writing conclusions
 
 Read enough of the text to answer the structural questions, not just the first chapters.
 
@@ -163,15 +241,9 @@ If the novel is chaptered, use chapter titles and checkpoints to reconstruct sta
 
 If the chapter numbering resets by volume, rely on content transitions rather than bare numbering.
 
-Before writing conclusions, also inspect existing project files if they exist:
+If the workspace is fresh, the init script should already create starter files. Treat those as placeholders, not finished outputs.
 
-- `README.md`
-- `工作状态-YYYY-MM-DD.md`
-- protagonist card / index / system summary files
-- previous stage split files
-- existing topic summaries that can sharpen the outline reading
-
-### 3. Lock the protagonist and relationship layer
+### 4. Reuse the protagonist layer and convert it into outline understanding
 
 Do not treat the protagonist as optional context.
 
@@ -179,12 +251,25 @@ Confirm:
 
 - who the protagonist is
 - what structural role they serve
+- what their growth spine is
 - whether the protagonist is the absolute main axis or one axis among several
-- which supporting characters actually change the protagonist's route
+- how the protagonist's route maps onto the whole-book structure
+
+Important:
+
+If the workspace already has a protagonist card, do not rewrite it unless necessary.
+
+Instead:
+
+- reuse it
+- extract the protagonist's structural role from it
+- convert protagonist knowledge into outline-layer understanding
 
 If no durable protagonist summary exists, produce a concise one or point out that this common layer is still missing.
 
-### 4. Write the stage split first
+### 5. Split the whole book by stages, regions, time, and place
+
+Before analyzing core supporting characters, first stabilize the whole-book map.
 
 Produce the stage split before writing the high-level diagnosis.
 
@@ -202,7 +287,33 @@ Use one or both dimensions:
 - growth / time stages
 - map / location / organization stages
 
-### 5. Separate the main line from the side lines
+Also make time and place transitions explicit:
+
+- which boundaries are mostly time-driven
+- which are mostly place-driven
+- which are caused by both
+
+When useful, region or arena changes should be treated as a first-class structure layer, not as background scenery.
+
+### 6. Analyze core supporting characters through stages and regions
+
+Once stages and regions are stable, analyze supporting characters in that structure, not in the abstract.
+
+Focus on:
+
+- which supporting characters matter in which stage
+- which region or arena makes them structurally important
+- how they pressure, support, redirect, betray, or complete the protagonist's path
+
+Do not treat this as a flat character list.
+
+The goal is to explain:
+
+- which supporting characters actually carry plot pressure
+- which ones are only local figures
+- which relationships are structure-bearing
+
+### 7. Separate the main line from the side lines
 
 Do not call everything a main plot.
 
@@ -220,7 +331,7 @@ For each important line, answer:
 - where it peaks
 - whether it closes cleanly
 
-### 6. Map conflicts, explosion points, and transitions
+### 8. Map conflicts, explosion points, and transitions
 
 Always identify the highest-signal structural pressure points.
 
@@ -247,7 +358,29 @@ Also map:
 - time jumps that change structure
 - location changes that change rules, factions, or stakes
 
-### 7. Diagnose pacing and structural integrity
+### 9. Diagnose common layers first, then extract book-specific traits
+
+Do not jump too early to "what makes this book unique."
+
+First make sure the common layers are actually covered:
+
+- protagonist structure
+- core supporting relations
+- stages
+- conflicts and explosion points
+- time and place transitions
+- climax and closure
+
+Then identify `2 to 4` book-specific structural modules.
+
+This order matters:
+
+- common structure first
+- specific structure second
+
+because early "specificity" guesses are often just impressions.
+
+### 10. Diagnose pacing and structural integrity
 
 After the stage split and line map are stable, evaluate:
 
@@ -260,9 +393,18 @@ After the stage split and line map are stable, evaluate:
 
 Be explicit when something is only partially closed.
 
-### 8. Finish with a verdict and a compliance check
+### 11. Generate outputs and iterate against the checklist until the stop standard is met
 
-End with a direct structural judgment.
+Do not stop just because several files now exist.
+
+The required loop is:
+
+1. generate outputs
+2. compare them against the checklist
+3. fill the missing layers
+4. repeat until the end condition is reached or a real blocker remains
+
+End with a direct structural judgment only after this loop.
 
 At minimum, state:
 
@@ -276,12 +418,22 @@ Before closing the task, run the checklist in:
 
 - [references/outline-analysis-checklist.md](references/outline-analysis-checklist.md)
 
+If the task produced durable files in a workspace, also run:
+
+- `scripts/validate_outline_outputs.py --workspace "<工作区路径>" --novel-name "<小说名>"`
+
 Your final completion judgment should explicitly say whether the result is:
 
 - `共性标准已覆盖`
 - `共性标准部分覆盖`
 - `单书特性已明确`
 - `单书特性仍不足`
+
+Also state:
+
+- which layers came from existing workspace files
+- which layers were produced in this run
+- whether the stop condition was reached by checklist comparison rather than by impression
 
 ## Quality Bar
 
@@ -303,3 +455,8 @@ The output is only complete when it can explain the novel as a structure and sho
 Read this file when you need the fixed analysis checklist and section expectations:
 
 - [references/outline-analysis-checklist.md](references/outline-analysis-checklist.md)
+- [references/progression.md](references/progression.md)
+- [references/politics.md](references/politics.md)
+- [references/horror.md](references/horror.md)
+- [references/multiverse.md](references/multiverse.md)
+- [references/ensemble.md](references/ensemble.md)
