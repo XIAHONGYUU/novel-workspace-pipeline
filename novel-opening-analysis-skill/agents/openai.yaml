@@ -1,0 +1,4 @@
+interface:
+  display_name: "Novel Opening Analysis"
+  short_description: "Analyze a novel's first three chapters in detail"
+  default_prompt: "Use $novel-opening-analysis to analyze this novel's opening, especially the first three chapters."
