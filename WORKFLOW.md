@@ -188,7 +188,7 @@ python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.
 
 1. 确认 `CURRENT_STATUS.md` 已更新
 2. 如果当天有阶段性推进，补一份对应项目的 `工作状态-YYYY-MM-DD.md`
-3. 确认 `workspace-status.json`、`workspace-gap-report.md`、`工作区流程判断报告.md` 已同步
+3. 确认 `workspace-status.json`、`workspace-gap-report.md`、`workspace-repair-plan.md`、`工作区流程判断报告.md` 已同步
 4. 用 Git 提交一次，提交信息尽量写清楚本次推进内容
 
 ## 七、推荐提交粒度
@@ -214,6 +214,7 @@ python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.
 - `工作状态-YYYY-MM-DD.md` 只记录阶段性交接，不替代总索引和启动清单
 - `workspace-status.json` 是总控脚本共享状态层
 - `workspace-gap-report.md` 负责告诉你“现在最该补什么”
+- `workspace-repair-plan.md` 负责把 `repair-existing` 拆成可执行修复动作
 - `工作区流程判断报告.md` 负责告诉你“当前总控建议怎么走”
 
 ## 十、当前边界

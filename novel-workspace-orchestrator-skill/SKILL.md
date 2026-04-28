@@ -196,6 +196,7 @@ Prefer durable outputs such as:
 - `CURRENT_STATUS.md` when the repo-level pointer should change
 - `workspace-status.json`
 - `workspace-gap-report.md`
+- `workspace-repair-plan.md` when the workspace should enter `repair-existing`
 - `工作区流程判断报告.md`
 
 ## Scripts
@@ -210,6 +211,8 @@ Use the bundled scripts when you want repeatable routing and judgment instead of
   Build reusable context for a target layer from the existing workspace.
 - `scripts/run_novel_workspace_pipeline.py`
   Produce a top-level pipeline decision, optional context file, and orchestration report.
+- `scripts/run_workspace_regression.py`
+  Run the fixed seven-workspace regression suite and check that routing decisions did not drift.
 
 These scripts are meant to support this skill, not replace the lower-layer analysis skills.
 
