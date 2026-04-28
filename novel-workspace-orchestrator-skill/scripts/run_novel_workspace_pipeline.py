@@ -14,6 +14,7 @@ from workspace_lib import (
     preferred_source_file,
     render_gap_report,
     render_pipeline_report,
+    render_repair_plan,
     render_workspace_handoff,
     update_repo_current_status,
     write_json,
@@ -50,6 +51,7 @@ def main() -> int:
     )
     parser.add_argument("--no-write-status", action="store_true", help="Do not write workspace-status.json.")
     parser.add_argument("--no-write-gap-report", action="store_true", help="Do not write workspace-gap-report.md.")
+    parser.add_argument("--no-write-repair-plan", action="store_true", help="Do not write workspace-repair-plan.md.")
     parser.add_argument("--no-write-pipeline-report", action="store_true", help="Do not write 工作区流程判断报告.md.")
     parser.add_argument(
         "--write-context",
@@ -115,6 +117,7 @@ def main() -> int:
         context_path.write_text(build_layer_context(status, target_layer), encoding="utf-8")
 
     gap_report = render_gap_report(status)
+    repair_plan = render_repair_plan(status)
     handoff_path: Path | None = None
     if not args.no_write_workspace_handoff:
         handoff_path = workspace / f"工作状态-{date.today().isoformat()}.md"
@@ -152,6 +155,8 @@ def main() -> int:
         write_json(workspace / "workspace-status.json", status)
     if not args.no_write_gap_report:
         (workspace / "workspace-gap-report.md").write_text(gap_report, encoding="utf-8")
+    if repair_plan and not args.no_write_repair_plan:
+        (workspace / "workspace-repair-plan.md").write_text(repair_plan, encoding="utf-8")
     if not args.no_write_pipeline_report:
         (workspace / "工作区流程判断报告.md").write_text(pipeline_report, encoding="utf-8")
 

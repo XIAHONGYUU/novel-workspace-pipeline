@@ -25,6 +25,7 @@ Use this reference when you want a stable machine-readable view of a novel works
 - `recommended_mode`
 - `recommended_next_step`
 - `optional_backfill_layers`
+- `repair_plan`
 - `updated_at`
 - `layer_status`
 
@@ -41,8 +42,25 @@ Each layer entry should contain:
 - `reason`
 - `files`
 - `checks`
+- `failed_checks`
+- `repair_targets`
 - `validator_report`
 - `validator_summary`
+
+## `repair_plan`
+
+Present when the current workspace should enter `repair-existing`.
+
+- `required`
+- `target_layer`
+- `target_label`
+- `mode`
+- `reason`
+- `failed_checks`
+- `repair_targets`
+- `context_files`
+- `suggested_context_file`
+- `suggested_repair_note`
 
 ## Current Layer Keys
 

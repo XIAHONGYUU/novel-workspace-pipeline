@@ -30,6 +30,54 @@ LAYER_LABELS = {
     "outline": "整书大纲层",
     "highlight": "剧情高光层",
 }
+CHECK_LABELS = {
+    "chapter-distillation": {
+        "manifest": "章节蒸馏 manifest",
+        "chapter_skeleton": "章节蒸馏骨架",
+        "stage_skeleton": "阶段骨架与换挡草图",
+        "calibration_anchors": "校准与验证锚点",
+    },
+    "opening": {
+        "total_judgment": "黄金前三章总判断",
+        "chapter_1": "第一章拆解",
+        "chapter_2": "第二章拆解",
+        "chapter_3": "第三章拆解",
+        "hook_promise": "开篇钩子与读者承诺",
+        "issues_revision": "开篇问题与修改建议",
+    },
+    "protagonist": {
+        "startup_checklist": "项目启动清单",
+        "anchor": "主角锚点与骨架",
+        "stage_outline": "整书粗阶段划分",
+        "final_card": "最终人物卡",
+        "index": "词条总索引",
+        "core_overview": "核心体系总览",
+        "essence_summary": "全书精华总结",
+    },
+    "outline": {
+        "protagonist_layer": "主角层承接文件",
+        "core_supporting_relations": "核心配角与主角关系",
+        "overview": "大纲总览",
+        "stages": "阶段与篇章拆分",
+        "lines": "主线支线与冲突地图",
+        "conflicts": "核心冲突点与爆发点",
+        "time_place": "时间与地点转折",
+        "climax_pacing": "高潮节奏与收束诊断",
+        "issues_revision": "结构问题与修改建议",
+        "stage_split": "阶段与篇章拆分",
+        "plot_map": "主线支线与冲突地图",
+        "climax": "高潮节奏与收束诊断",
+        "revision": "结构问题与修改建议",
+    },
+    "highlight": {
+        "top10_table": "最吸引人的十个剧情细节总表",
+        "mechanism": "剧情吸引力机制分析",
+        "top10_breakdown": "Top10 细节逐条拆解",
+        "distribution": "高光桥段分布与节奏判断",
+        "pleasure_summary": "最强爽点痛点悬念点总结",
+        "revision": "剧情高光改造建议",
+    },
+}
 PLACEHOLDER_TOKENS = (
     "待补充",
     "待确认",
@@ -45,7 +93,7 @@ VALIDATOR_SCRIPTS = {
     / "novel-chapter-distillation-skill/scripts/validate_chapter_distillation_outputs.py",
     "opening": REPO_ROOT / "novel-opening-analysis-skill/scripts/validate_opening_outputs.py",
     "protagonist": REPO_ROOT / "novel-protagonist-encyclopedia-skill/scripts/validate_protagonist_outputs.py",
-    "outline": REPO_ROOT / ".skill-staging/novel-outline-analysis/scripts/validate_outline_outputs.py",
+    "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/validate_outline_outputs.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/validate_highlight_outputs.py",
 }
 INIT_SCRIPTS = {
@@ -53,7 +101,7 @@ INIT_SCRIPTS = {
     / "novel-chapter-distillation-skill/scripts/init_chapter_distillation_workspace.py",
     "opening": REPO_ROOT / "novel-opening-analysis-skill/scripts/init_opening_workspace.py",
     "protagonist": REPO_ROOT / "novel-protagonist-encyclopedia-skill/scripts/init_workspace.py",
-    "outline": REPO_ROOT / ".skill-staging/novel-outline-analysis/scripts/init_outline_workspace.py",
+    "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/init_outline_workspace.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/init_highlight_workspace.py",
 }
 LAYER_VALIDATED_TAGS = {
@@ -269,6 +317,53 @@ def validator_result_to_layer_status(
             }
         },
     }
+
+
+def check_label(layer: str, key: str) -> str:
+    return CHECK_LABELS.get(layer, {}).get(key, key)
+
+
+def build_failed_checks(layer: str, item: dict[str, Any]) -> list[dict[str, Any]]:
+    failed: list[dict[str, Any]] = []
+    files = item.get("files", {})
+    for key, value in item.get("checks", {}).items():
+        if not isinstance(value, dict) or value.get("content_ok"):
+            continue
+        entry = {
+            "check": key,
+            "label": check_label(layer, key),
+            "reason": value.get("reason", "unknown"),
+            "file": files.get(key),
+        }
+        if value.get("placeholder_hits"):
+            entry["placeholder_hits"] = value["placeholder_hits"][:5]
+        failed.append(entry)
+    return failed
+
+
+def repair_target_for_failure(layer: str, failure: dict[str, Any]) -> str:
+    label = failure["label"]
+    reason = failure["reason"]
+    if reason == "missing":
+        return f"补齐 `{label}`，至少先从缺失补到可校验骨架。"
+    if reason == "too_short":
+        return f"扩写 `{label}`，把当前短骨架补成可判断正文。"
+    if reason == "placeholder_detected":
+        return f"替换 `{label}` 里的占位内容，补成明确结论和证据。"
+    if reason == "keywords_missing":
+        return f"补齐 `{label}` 的关键判断字段，避免只有摘要没有结论。"
+    if reason == "fallback_exists_only":
+        return f"把 `{label}` 从“只有文件存在”补到“内容可验证”。"
+    return f"检查并修复 `{label}`，当前原因：`{reason}`。"
+
+
+def augment_layer_status_for_repair(layer: str, item: dict[str, Any]) -> dict[str, Any]:
+    failed_checks = build_failed_checks(layer, item)
+    repair_targets = [repair_target_for_failure(layer, failure) for failure in failed_checks]
+    repair_targets = list(dict.fromkeys(repair_targets))
+    item["failed_checks"] = failed_checks
+    item["repair_targets"] = repair_targets
+    return item
 
 
 def _infer_layer_file_name(layer: str, key: str, novel_name: str) -> str:
@@ -691,6 +786,8 @@ def detect_layer_status(
                 "validator_report": None,
                 "validator_summary": {},
             }
+    for layer, item in result.items():
+        result[layer] = augment_layer_status_for_repair(layer, item)
     return result
 
 
@@ -748,6 +845,42 @@ def recommend_next_action(layer_status: dict[str, Any], is_long_novel: bool) -> 
     }
 
 
+def build_repair_plan(status: dict[str, Any]) -> dict[str, Any] | None:
+    target_layer = None
+    if status["recommended_mode"] == "repair-existing":
+        target_layer = status["recommended_next_layer"]
+    elif status["incomplete_layers"]:
+        target_layer = status["incomplete_layers"][0]
+    if not target_layer:
+        return None
+
+    item = status["layer_status"][target_layer]
+    failed_checks = item.get("failed_checks", [])
+    repair_targets = item.get("repair_targets", [])
+    context_files = [str(path) for _label, path in _candidate_context_files(status, target_layer)[:6]]
+    summary_parts = []
+    if failed_checks:
+        summary_parts.append(
+            "；".join(f"{failure['label']} -> {failure['reason']}" for failure in failed_checks[:4])
+        )
+    if item.get("has_placeholders"):
+        summary_parts.append("检测到占位内容")
+    if not summary_parts:
+        summary_parts.append(f"{item['label']} 已存在但尚未达标")
+    return {
+        "required": True,
+        "target_layer": target_layer,
+        "target_label": item["label"],
+        "mode": "repair-existing",
+        "reason": "；".join(summary_parts),
+        "failed_checks": failed_checks,
+        "repair_targets": repair_targets,
+        "context_files": context_files,
+        "suggested_context_file": str(Path(status["workspace_path"]) / f"workspace-context-{target_layer}.md"),
+        "suggested_repair_note": str(Path(status["workspace_path"]) / "workspace-repair-plan.md"),
+    }
+
+
 def collect_workspace_status(
     workspace: Path,
     novel_name: str | None = None,
@@ -771,7 +904,7 @@ def collect_workspace_status(
     completed_layers = [layer for layer in LAYER_ORDER if layer_status[layer]["validated"]]
     incomplete_layers = [layer for layer in LAYER_ORDER if layer_status[layer]["exists"] and not layer_status[layer]["validated"]]
     last_run_layer = completed_layers[-1] if completed_layers else (available_layers[-1] if available_layers else None)
-    return {
+    status = {
         "workspace_path": str(workspace),
         "novel_name": novel_name,
         "protagonist_name": protagonist_name,
@@ -794,6 +927,8 @@ def collect_workspace_status(
         "updated_at": datetime.now().isoformat(timespec="seconds"),
         "layer_status": layer_status,
     }
+    status["repair_plan"] = build_repair_plan(status)
+    return status
 
 
 def summarize_current_judgement(status: dict[str, Any]) -> str:
@@ -1059,6 +1194,19 @@ def render_gap_report(status: dict[str, Any]) -> str:
                 *[f"- `{layer}`：建议在主流程不阻塞时补上，用于增强后续校准稳定性。" for layer in status["optional_backfill_layers"]],
             ]
         )
+    if status.get("repair_plan"):
+        repair_plan = status["repair_plan"]
+        lines.extend(
+            [
+                "",
+                "## Repair Plan",
+                "",
+                f"- 目标层：`{repair_plan['target_layer']}` / `{repair_plan['target_label']}`",
+                f"- 进入原因：{repair_plan['reason']}",
+            ]
+        )
+        for target in repair_plan["repair_targets"]:
+            lines.append(f"- {target}")
     lines.extend(["", "## 分层结果", ""])
     for layer in LAYER_ORDER:
         item = status["layer_status"][layer]
@@ -1072,12 +1220,46 @@ def render_gap_report(status: dict[str, Any]) -> str:
             sample_files = ", ".join(sorted(Path(path).name for path in item["files"].values() if isinstance(path, str)))
             lines.append(f"- 识别到的关键文件：`{sample_files}`")
         failed_checks = []
-        for key, value in item.get("checks", {}).items():
-            if isinstance(value, dict) and not value.get("content_ok"):
-                failed_checks.append(f"{key}:{value.get('reason')}")
+        for failure in item.get("failed_checks", []):
+            failed_checks.append(f"{failure['label']}:{failure['reason']}")
         if failed_checks:
             lines.append(f"- 主要缺口：`{' | '.join(failed_checks[:5])}`")
+        if item.get("repair_targets"):
+            lines.append(f"- 修复动作：`{' | '.join(item['repair_targets'][:4])}`")
         lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def render_repair_plan(status: dict[str, Any]) -> str:
+    repair_plan = status.get("repair_plan")
+    if not repair_plan:
+        return ""
+    lines = [
+        f"# 《{status['novel_name']}》Repair Plan",
+        "",
+        f"- 工作区：`{status['workspace_path']}`",
+        f"- 目标层：`{repair_plan['target_layer']}` / `{repair_plan['target_label']}`",
+        f"- 模式：`{repair_plan['mode']}`",
+        f"- 原因：{repair_plan['reason']}",
+        "",
+        "## 修复动作",
+        "",
+    ]
+    for target in repair_plan["repair_targets"]:
+        lines.append(f"- {target}")
+    if repair_plan["failed_checks"]:
+        lines.extend(["", "## 失败检查项", ""])
+        for failure in repair_plan["failed_checks"]:
+            line = f"- `{failure['label']}`：`{failure['reason']}`"
+            if failure.get("file"):
+                line += f"；文件：`{Path(failure['file']).name}`"
+            if failure.get("placeholder_hits"):
+                line += f"；占位：`{', '.join(failure['placeholder_hits'])}`"
+            lines.append(line)
+    if repair_plan["context_files"]:
+        lines.extend(["", "## 推荐先读", ""])
+        for path in repair_plan["context_files"]:
+            lines.append(f"- `{Path(path).name}`")
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -1190,9 +1372,23 @@ def build_layer_context(status: dict[str, Any], target_layer: str) -> str:
         f"- 已达标层：`{', '.join(status['completed_layers']) if status['completed_layers'] else '无'}`",
         f"- 待修层：`{', '.join(status['incomplete_layers']) if status['incomplete_layers'] else '无'}`",
         "",
+    ]
+    layer_item = status["layer_status"][target_layer]
+    if layer_item.get("repair_targets"):
+        lines.extend(
+            [
+                "## 当前 repair 重点",
+                "",
+                *[f"- {target}" for target in layer_item["repair_targets"]],
+                "",
+            ]
+        )
+    lines.extend(
+        [
         "## 选取文件",
         "",
-    ]
+        ]
+    )
     for label, path in _candidate_context_files(status, target_layer):
         lines.append(f"### {label}: `{path.name}`")
         lines.append("")
@@ -1229,6 +1425,8 @@ def render_pipeline_report(
         lines.append(f"- 已写回工作状态：`{handoff_path}`")
     if current_status_path:
         lines.append(f"- 已更新仓库状态：`{current_status_path}`")
+    if status.get("repair_plan"):
+        lines.append("- 当前存在 repair plan：`workspace-repair-plan.md`")
     if execution_results:
         lines.extend(["", "## 执行记录", ""])
         for item in execution_results:
@@ -1236,6 +1434,19 @@ def render_pipeline_report(
             layer = item.get("layer", "unknown")
             state = "成功" if item.get("ok") else "失败"
             lines.append(f"- `{action}` / `{layer}`：{state}（exit {item.get('returncode', '?')}）")
+    if status.get("repair_plan"):
+        repair_plan = status["repair_plan"]
+        lines.extend(
+            [
+                "",
+                "## Repair Plan",
+                "",
+                f"- 目标层：`{repair_plan['target_layer']}` / `{repair_plan['target_label']}`",
+                f"- 原因：{repair_plan['reason']}",
+            ]
+        )
+        for target in repair_plan["repair_targets"]:
+            lines.append(f"- {target}")
     lines.extend(
         [
             "",
