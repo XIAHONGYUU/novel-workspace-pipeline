@@ -1,0 +1,4 @@
+interface:
+  display_name: "Novel Workspace Orchestrator"
+  short_description: "Coordinate a novel workspace across multiple analysis layers"
+  default_prompt: "Use $novel-workspace-orchestrator to inspect this novel workspace, decide the next layer, and orchestrate the right analysis flow."

@@ -54,7 +54,7 @@ def placeholder_hits(text: str) -> list[str]:
 
 
 def content_check(path: Path | None, keywords: list[str], minimum: int = 1, min_chars: int = 120) -> dict:
-    if not path:
+    if not path or not path.exists():
         return {"exists": False, "content_ok": False, "reason": "missing"}
     text = read_text(path)
     if len(text.strip()) < min_chars:
