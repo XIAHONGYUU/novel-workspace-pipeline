@@ -20,6 +20,27 @@ def run_cmd(cmd: list[str], env: dict[str, str] | None = None) -> None:
     subprocess.run(cmd, check=True, env=env)
 
 
+def find_refresh_status_script() -> Path | None:
+    for parent in Path(__file__).resolve().parents:
+        candidate = parent / "novel-workspace-orchestrator-skill/scripts/refresh_workspace_status.py"
+        if candidate.exists():
+            return candidate
+    return None
+
+
+def refresh_workspace_status(workspace: Path, novel_name: str, protagonist: str | None) -> None:
+    script = find_refresh_status_script()
+    if not script:
+        return
+    cmd = ["python3", str(script), "--workspace", str(workspace), "--novel-name", novel_name]
+    if protagonist:
+        cmd += ["--protagonist-name", protagonist]
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    if proc.returncode != 0:
+        message = proc.stderr.strip() or proc.stdout.strip() or "unknown error"
+        print(f"warning: failed to refresh workspace-status.json: {message}")
+
+
 STOPWORDS = {
     "只是", "顿时", "此时", "居然", "若是", "仿佛", "忽然", "却是", "直接", "还有",
     "女子", "都是", "无数", "也是", "其中", "而是", "狠狠", "已经", "整个", "你们",
@@ -833,6 +854,7 @@ def main() -> None:
     current_status_path = None
     if not args.no_update_current_status:
         current_status_path = update_root_current_status(project_root, args.novel_name)
+    refresh_workspace_status(workspace, args.novel_name, args.focus_name)
 
     print(f"workspace: {workspace}")
     print("created:")

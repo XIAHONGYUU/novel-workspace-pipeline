@@ -33,6 +33,27 @@ def run_cmd(cmd: list[str]) -> bool:
         return False
 
 
+def find_refresh_status_script() -> Path | None:
+    for parent in Path(__file__).resolve().parents:
+        candidate = parent / "novel-workspace-orchestrator-skill/scripts/refresh_workspace_status.py"
+        if candidate.exists():
+            return candidate
+    return None
+
+
+def refresh_workspace_status(workspace: Path, novel_name: str, protagonist: str | None) -> None:
+    script = find_refresh_status_script()
+    if not script:
+        return
+    cmd = ["python3", str(script), "--workspace", str(workspace), "--novel-name", novel_name]
+    if protagonist:
+        cmd += ["--protagonist-name", protagonist]
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    if proc.returncode != 0:
+        message = proc.stderr.strip() or proc.stdout.strip() or "unknown error"
+        print(f"warning: failed to refresh workspace-status.json: {message}")
+
+
 def copy_source(source: Path, target_dir: Path, force: bool) -> Path:
     target_dir.mkdir(parents=True, exist_ok=True)
     copied = target_dir / source.name
@@ -409,6 +430,7 @@ def main() -> int:
     write_file(workspace / f"{args.novel_name}-第三章拆解.md", chapter_placeholder(args.novel_name, 3), args.force)
     write_file(workspace / f"{args.novel_name}-开篇钩子与读者承诺.md", hook_placeholder(args.novel_name), args.force)
     write_file(workspace / f"{args.novel_name}-开篇问题与修改建议.md", issues_placeholder(args.novel_name), args.force)
+    refresh_workspace_status(workspace, args.novel_name, args.protagonist)
 
     print(f"workspace initialized: {workspace}")
     print(f"source copied: {copied_source}")

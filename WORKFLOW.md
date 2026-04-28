@@ -156,6 +156,18 @@ python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.
 
 - 让总控真正调下层脚本，而不是只做判断
 
+### 回归检查
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py
+```
+
+作用：
+
+- 对固定样书集合跑只读回归
+- 检查推荐模式、推荐下一层、已完成层、待修层是否漂移
+- 作为 workflow 脚本改动后的最小验收
+
 ## 五、每次开始
 
 1. 先看 `git status --short`

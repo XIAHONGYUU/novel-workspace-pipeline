@@ -5,7 +5,7 @@ import argparse
 import json
 from pathlib import Path
 
-from workspace_lib import collect_workspace_status, render_gap_report, write_json
+from workspace_lib import collect_workspace_status, render_gap_report, render_repair_plan, write_json
 
 
 def main() -> int:
@@ -16,6 +16,7 @@ def main() -> int:
     parser.add_argument("--json", action="store_true", help="Emit status JSON instead of only markdown.")
     parser.add_argument("--no-write-status", action="store_true", help="Do not write workspace-status.json.")
     parser.add_argument("--no-write-report", action="store_true", help="Do not write workspace-gap-report.md.")
+    parser.add_argument("--no-write-repair-plan", action="store_true", help="Do not write workspace-repair-plan.md.")
     parser.add_argument("--skip-validators", action="store_true", help="Use heuristics only.")
     parser.add_argument(
         "--persist-validator-reports",
@@ -33,10 +34,13 @@ def main() -> int:
         persist_validator_reports=args.persist_validator_reports,
     )
     report = render_gap_report(status)
+    repair_plan = render_repair_plan(status)
     if not args.no_write_status:
         write_json(workspace / "workspace-status.json", status)
     if not args.no_write_report:
         (workspace / "workspace-gap-report.md").write_text(report, encoding="utf-8")
+    if repair_plan and not args.no_write_repair_plan:
+        (workspace / "workspace-repair-plan.md").write_text(repair_plan, encoding="utf-8")
     if args.json:
         print(json.dumps(status, ensure_ascii=False, indent=2))
     else:
