@@ -15,6 +15,8 @@ The format is based on Keep a Changelog, adapted to the simpler release style of
 - `MIT` license for reuse and redistribution.
 - Public synthetic demo workspaces under `fixtures/`.
 - Public default regression cases based on synthetic fixtures.
+- `SECURITY.md` for vulnerability reporting guidance.
+- `CHANGELOG.md` for release-oriented project history.
 
 ### Changed
 
