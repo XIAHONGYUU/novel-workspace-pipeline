@@ -33,3 +33,11 @@ novel-run-sample/
 .codex/
 .skill-build/
 .skill-staging/
+
+# Generated files inside tracked demo fixtures
+fixtures/CURRENT_STATUS.md
+fixtures/**/workspace-status.json
+fixtures/**/workspace-gap-report.md
+fixtures/**/workspace-repair-plan.md
+fixtures/**/workspace-context-*.md
+fixtures/**/工作区流程判断报告.md

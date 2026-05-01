@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "demo-outline-repair",
+    "workspace": "fixtures/demo-outline-repair",
+    "expected_mode": "repair-existing",
+    "expected_next_layer": "outline",
+    "expected_completed_layers": ["protagonist"],
+    "expected_incomplete_layers": ["outline"],
+    "expected_repair_target": "outline"
+  },
+  {
+    "name": "demo-opening-missing",
+    "workspace": "fixtures/demo-opening-missing",
+    "expected_mode": "extend-existing",
+    "expected_next_layer": "opening",
+    "expected_completed_layers": ["protagonist", "outline"],
+    "expected_incomplete_layers": [],
+    "expected_repair_target": null
+  }
+]

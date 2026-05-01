@@ -146,6 +146,8 @@ python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py \
 
 - [WORKFLOW.md](WORKFLOW.md)
   High-level operating model and workflow conventions.
+- [LICENSE](LICENSE)
+  MIT license for reuse, modification, and redistribution.
 - [docs/getting-started.md](docs/getting-started.md)
   First-run setup and a minimal end-to-end path.
 - [docs/workspace-lifecycle.md](docs/workspace-lifecycle.md)
@@ -154,6 +156,8 @@ python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py \
   What each top-level directory is responsible for.
 - [docs/regression-cases.example.json](docs/regression-cases.example.json)
   Example shape for custom regression cases.
+- [fixtures/README.md](fixtures/README.md)
+  Public synthetic workspaces for demos and regression.
 - [CONTRIBUTING.md](CONTRIBUTING.md)
   Practical contribution rules for keeping the repo clean.
 
