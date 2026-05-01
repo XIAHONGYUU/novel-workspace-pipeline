@@ -148,6 +148,10 @@ python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py \
   High-level operating model and workflow conventions.
 - [LICENSE](LICENSE)
   MIT license for reuse, modification, and redistribution.
+- [SECURITY.md](SECURITY.md)
+  Security reporting policy for the public repository.
+- [CHANGELOG.md](CHANGELOG.md)
+  Release-oriented change history for the public repository.
 - [docs/getting-started.md](docs/getting-started.md)
   First-run setup and a minimal end-to-end path.
 - [docs/workspace-lifecycle.md](docs/workspace-lifecycle.md)
