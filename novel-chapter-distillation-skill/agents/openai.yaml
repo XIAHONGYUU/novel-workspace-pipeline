@@ -1,0 +1,4 @@
+interface:
+  display_name: "Novel Chapter Distillation"
+  short_description: "Distill every chapter into a reusable novel skeleton"
+  default_prompt: "Use $novel-chapter-distillation to distill this novel chapter by chapter into a reusable verification skeleton."
