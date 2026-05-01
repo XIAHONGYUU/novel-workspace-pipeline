@@ -1,0 +1,35 @@
+.DS_Store
+Thumbs.db
+
+.pytest_cache/
+.mypy_cache/
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+node_modules/
+*.log
+
+# Generated novel workspace outputs
+novel-run-sample/
+*/source/*
+*/work/
+*/focus-*/
+*/cards/
+*/chunks/
+*/extractions/
+*/merged/
+*/workspace-status.json
+*/workspace-gap-report.md
+*/workspace-repair-plan.md
+*/workspace-context-*.md
+*/工作区流程判断报告.md
+*/工作状态-*.md
+
+# Local build artifacts
+.codex/
+.skill-build/
+.skill-staging/
