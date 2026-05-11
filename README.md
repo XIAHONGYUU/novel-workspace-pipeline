@@ -160,6 +160,8 @@ python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py \
   What each top-level directory is responsible for.
 - [docs/regression-cases.example.json](docs/regression-cases.example.json)
   Example shape for custom regression cases.
+- [docs/github-promo-copy.md](docs/github-promo-copy.md)
+  Reusable copy for GitHub, forums, and community posts.
 - [fixtures/README.md](fixtures/README.md)
   Public synthetic workspaces for demos and regression.
 - [CONTRIBUTING.md](CONTRIBUTING.md)
