@@ -5,7 +5,14 @@ import argparse
 import json
 from pathlib import Path
 
-from workspace_lib import collect_workspace_status, render_gap_report, render_repair_plan, write_json
+from workspace_lib import (
+    collect_workspace_status,
+    render_gap_report,
+    render_repair_plan,
+    run_quality_gate_for_workspace,
+    write_json,
+    LAYER_ORDER,
+)
 
 
 def main() -> int:
@@ -18,6 +25,7 @@ def main() -> int:
     parser.add_argument("--no-write-report", action="store_true", help="Do not write workspace-gap-report.md.")
     parser.add_argument("--no-write-repair-plan", action="store_true", help="Do not write workspace-repair-plan.md.")
     parser.add_argument("--skip-validators", action="store_true", help="Use heuristics only.")
+    parser.add_argument("--skip-quality-gate", action="store_true", help="Skip quality gate assessment.")
     parser.add_argument(
         "--persist-validator-reports",
         action="store_true",
@@ -33,6 +41,37 @@ def main() -> int:
         run_validators=not args.skip_validators,
         persist_validator_reports=args.persist_validator_reports,
     )
+
+    # 运行质量门检测（默认开启，用 --skip-quality-gate 跳过）
+    if not args.skip_quality_gate:
+        try:
+            novel_name = status["novel_name"]
+            quality_result = run_quality_gate_for_workspace(
+                workspace, novel_name, target_layer=None, persist_report=True
+            )
+            if quality_result and "layer_results" in quality_result:
+                for layer in LAYER_ORDER:
+                    lr = quality_result["layer_results"].get(layer)
+                    if lr:
+                        status["layer_status"][layer]["quality"] = {
+                            "score": lr["score"],
+                            "ok": lr["ok"],
+                            "issues": lr["issues"],
+                        }
+                status["quality_gate"] = {
+                    "overall_score": quality_result["overall_score"],
+                    "is_quality_pass": quality_result["is_quality_pass"],
+                    "issue_count": quality_result["issue_count"],
+                    "cross_layer_conflicts": quality_result.get("cross_layer_consistency", {}).get("conflict_count", 0),
+                }
+        except Exception as e:
+            # 质量门失败不应阻塞主流程
+            status["quality_gate"] = {
+                "overall_score": None,
+                "is_quality_pass": False,
+                "error": str(e),
+            }
+
     report = render_gap_report(status)
     repair_plan = render_repair_plan(status)
     if not args.no_write_status:

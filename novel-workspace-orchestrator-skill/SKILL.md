@@ -108,6 +108,8 @@ Rules:
 - patch the weak layer first
 - do not rewrite unrelated valid layers
 - rerun the relevant validator before closing
+- **rerun quality gate** before closing — a layer is not truly "done" until both validator AND quality gate pass
+- a quality gate score ≥ 75 qualifies as "quality pass"
 
 ### `validate-only`
 

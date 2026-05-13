@@ -7,7 +7,7 @@ import json
 import re
 
 from .chunker import Chunk
-from .ai_extractor import extract_with_openai
+from .ai_extractor import extract_with_deepseek, extract_with_openai
 from .io_utils import ensure_dir
 
 
@@ -220,9 +220,15 @@ def write_extractions(
     manifest = []
 
     for chunk in chunks:
-        if extractor_mode == "openai":
-            payload = extract_with_openai(chunk, model=model, prompt_path=prompt_path)
-        else:
+        try:
+            if extractor_mode == "openai":
+                payload = extract_with_openai(chunk, model=model, prompt_path=prompt_path)
+            elif extractor_mode == "deepseek":
+                payload = extract_with_deepseek(chunk, model=model, prompt_path=prompt_path)
+            else:
+                payload = heuristic_extract(chunk)
+        except Exception as exc:
+            print(f"warning: chunk {chunk.chunk_id} extraction failed: {exc}", flush=True)
             payload = heuristic_extract(chunk)
         path = extraction_dir / f"{chunk.chunk_id}.json"
         path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
