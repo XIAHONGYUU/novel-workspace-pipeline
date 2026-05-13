@@ -23,11 +23,11 @@ def build_parser() -> argparse.ArgumentParser:
     pipeline.add_argument("--limit-chunks", type=int, help="Only process the first N chunks")
     pipeline.add_argument(
         "--extractor",
-        choices=("heuristic", "openai"),
+        choices=("heuristic", "openai", "deepseek"),
         default="heuristic",
         help="Character extraction backend",
     )
-    pipeline.add_argument("--model", default="gpt-5", help="Model name for the OpenAI extractor")
+    pipeline.add_argument("--model", default="gpt-5", help="Model name for the OpenAI/DeepSeek extractor")
     pipeline.add_argument("--prompt-path", help="Prompt template path for the OpenAI extractor")
     pipeline.add_argument("--focus-name", help="Only track one target character and write checkpoint summaries")
     pipeline.add_argument("--focus-alias", action="append", default=[], help="Additional alias for the focus character")

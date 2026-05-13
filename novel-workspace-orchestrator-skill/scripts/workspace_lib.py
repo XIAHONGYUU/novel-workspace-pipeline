@@ -96,6 +96,7 @@ VALIDATOR_SCRIPTS = {
     "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/validate_outline_outputs.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/validate_highlight_outputs.py",
 }
+QUALITY_GATE_SCRIPT = REPO_ROOT / "novel-workspace-orchestrator-skill/scripts/quality_gate.py"
 INIT_SCRIPTS = {
     "chapter-distillation": REPO_ROOT
     / "novel-chapter-distillation-skill/scripts/init_chapter_distillation_workspace.py",
@@ -459,6 +460,106 @@ def run_validator(layer: str, workspace: Path, novel_name: str, persist_report: 
     report_path = Path(raw["report_path"]) if raw.get("report_path") else None
     status_file = Path(raw["status_file"]) if raw.get("status_file") else None
     return validator_result_to_layer_status(layer, raw, workspace, report_path, status_file)
+
+
+def run_quality_gate_for_workspace(
+    workspace: Path,
+    novel_name: str,
+    target_layer: str | None = None,
+    persist_report: bool = True,
+) -> dict[str, Any] | None:
+    """Run the quality gate script and return structured results.
+
+    Returns None if the quality gate script is not available.
+    """
+    if not QUALITY_GATE_SCRIPT.exists():
+        return None
+    cmd = ["python3", str(QUALITY_GATE_SCRIPT), "--workspace", str(workspace), "--novel-name", novel_name, "--json"]
+    if target_layer:
+        cmd += ["--layer", target_layer]
+    if not persist_report:
+        cmd.append("--no-write-report")
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    if proc.returncode != 0 and not proc.stdout.strip():
+        return {
+            "ok": False,
+            "error": proc.stderr.strip() or f"exit code {proc.returncode}",
+        }
+    try:
+        raw = json.loads(proc.stdout) if proc.stdout.strip() else {}
+    except json.JSONDecodeError:
+        return {"ok": False, "error": f"json decode failed: {proc.stdout[:200]}"}
+    return raw
+
+
+def append_quality_section_to_validator_report(
+    report_text: str,
+    workspace: Path,
+    novel_name: str,
+    layer: str,
+) -> str:
+    """Run quality gate for a specific layer and append the quality section to a validator report.
+
+    If the quality gate script is unavailable or fails, returns the original report unchanged.
+    """
+    if not QUALITY_GATE_SCRIPT.exists():
+        return report_text
+
+    cmd = [
+        "python3", str(QUALITY_GATE_SCRIPT),
+        "--workspace", str(workspace),
+        "--novel-name", novel_name,
+        "--layer", layer,
+        "--json",
+        "--no-write-report",
+    ]
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    if proc.returncode != 0 or not proc.stdout.strip():
+        return report_text
+
+    try:
+        qr = json.loads(proc.stdout)
+    except json.JSONDecodeError:
+        return report_text
+
+    lr = qr.get("layer_results", {}).get(layer)
+    if not lr:
+        return report_text
+
+    score = lr.get("score", "N/A")
+    issues = lr.get("issues", [])
+    all_issues = qr.get("all_issues", [])
+
+    quality_section = [
+        "",
+        "---",
+        "",
+        "## 质量门评估（Quality Gate）",
+        "",
+        f"- 本层质量评分：**{score}/100** {'✅ 通过' if lr.get('ok') else '⚠️ 未通过'}",
+    ]
+
+    # 层特定问题
+    if issues:
+        quality_section.append("")
+        quality_section.append("### 本层质量问题")
+        for issue in issues:
+            quality_section.append(f"- ⚠️ {issue}")
+
+    # 跨层问题（仅与该层相关的）
+    cross = qr.get("cross_layer_consistency", {})
+    cross_conflicts = cross.get("conflicts", [])
+    if cross_conflicts:
+        quality_section.append("")
+        quality_section.append("### 跨层一致性问题")
+        for c in cross_conflicts:
+            sev = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(c.get("severity", ""), "⚪")
+            quality_section.append(f"- {sev} {c.get('detail', '')}")
+
+    quality_section.append("")
+    quality_section.append(f"*质量门由 `quality_gate.py --layer {layer}` 自动评估*")
+
+    return report_text.rstrip() + "\n" + "\n".join(quality_section) + "\n"
 
 
 def run_command(cmd: list[str]) -> dict[str, Any]:
@@ -1211,9 +1312,15 @@ def render_gap_report(status: dict[str, Any]) -> str:
     for layer in LAYER_ORDER:
         item = status["layer_status"][layer]
         state = "通过" if item["validated"] else ("仅存在" if item["exists"] else "缺失")
+        quality_info = item.get("quality", {})
+        quality_line = ""
+        if quality_info and quality_info.get("score") is not None:
+            qs = quality_info["score"]
+            q_icon = "✅" if qs >= 75 else ("⚠️" if qs >= 60 else "❌")
+            quality_line = f" | 质量评分：{q_icon} {qs}/100"
         lines.append(f"### {item['label']} / `{layer}`")
         lines.append("")
-        lines.append(f"- 当前状态：`{state}`")
+        lines.append(f"- 当前状态：`{state}`{quality_line}")
         lines.append(f"- 完成标签：`{item['completion_label']}`")
         lines.append(f"- 判断来源：`{item['reason']}`")
         if item["files"]:
@@ -1226,6 +1333,12 @@ def render_gap_report(status: dict[str, Any]) -> str:
             lines.append(f"- 主要缺口：`{' | '.join(failed_checks[:5])}`")
         if item.get("repair_targets"):
             lines.append(f"- 修复动作：`{' | '.join(item['repair_targets'][:4])}`")
+        # 质量门问题
+        quality_issues = quality_info.get("issues", [])
+        if quality_issues:
+            lines.append(f"- 质量门问题：")
+            for qi in quality_issues[:3]:
+                lines.append(f"  - {qi}")
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 

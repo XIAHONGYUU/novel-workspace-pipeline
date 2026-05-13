@@ -174,6 +174,24 @@ Rules:
 - preserve valid analysis where possible
 - rerun validation before closing
 
+## 质量标准（Quality Requirements）
+
+**禁止的泛化话术：**
+- ❌ "这个情节很爽" → 没说为什么爽、爽在哪个机制（反差/宣泄/翻转/揭露）
+- ❌ "读者会追读" → 没有分析追读的具体心理驱动力
+- ❌ "高光分布合理" → 没有给出分布的具体数据和判断依据
+- ❌ "应该加强这里" → 没有说怎么加强、加强到什么程度
+
+**正确的分析写法：**
+- ✅ Top10 每个高光必须写明**吸引力类型**（爽点/痛点/悬念点/反差/翻转/揭露/情绪兑现）
+- ✅ 每个高光必须写明**前置铺垫**和**发生后改变**，形成完整的因果链
+- ✅ 改造建议必须包含**具体章节目标**和**可执行方案**
+
+**两轮精炼：**
+1. 第一轮：生成 Top10 总表和逐条拆解初稿
+2. 第二轮：逐条自检——吸引力类型判断是否准确？前置铺垫和后置改变是否成因果链？改造建议是否可执行？
+3. 重写不合格部分后再提交 validator
+
 ## Scripts
 
 Use the bundled scripts when the task is starting a durable highlight-analysis workspace or when you need deterministic completion checks.

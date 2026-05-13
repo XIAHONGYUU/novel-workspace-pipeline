@@ -70,6 +70,25 @@ not:
 
 - regenerate the protagonist workflow from scratch
 
+## 质量标准（Quality Requirements）
+
+**禁止的泛化话术：**
+- ❌ "中段扩张有效" → 没说为什么有效、依据是什么
+- ❌ "主线清晰" → 没说主线是什么、如何判断的
+- ❌ "高潮成立" → 没说为什么成立、高潮的具体效果
+- ❌ "收束完整" → 没说收束了什么、收束得怎样
+
+**正确的分析写法：**
+- ✅ 阶段划分必须有**明确的边界依据**（具体章节/事件/转折，而非模糊范围）
+- ✅ 主线/支线判断必须有**具体的剧情证据链**
+- ✅ 结构问题必须附带**可执行的修改方案**（压缩哪些章节、前移哪个事件、扩写哪个段落）
+- ✅ "单书特性"必须是**真实的、可验证的结构驱动力**，而非泛化标签
+
+**两轮精炼：**
+1. 第一轮：生成大纲初稿
+2. 第二轮：逐文件自检——阶段边界是否有依据？主线判断是否有证据？修改建议是否可执行？
+3. 重写不合格部分后再提交 validator
+
 ## Scripts
 
 Use the bundled scripts when the task is starting a fresh workspace or when you need a deterministic completion check.

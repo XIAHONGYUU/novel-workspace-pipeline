@@ -264,6 +264,49 @@ Must include:
 - ending or terminal anchor
 - later skills should verify against what
 
+## 反模板质量约束（Anti-Template Quality Guard）
+
+以下写法视为**不合格**，不得出现在任何章节蒸馏产出中：
+
+### 禁止的模板话术
+
+- ❌ "本章围绕[章节名]对应事件推进当前主线" → 循环定义，不是分析
+- ❌ "把主角从上一节点推向下一节点" → 万能填充句
+- ❌ "本章至少会补入与[章节名]相关的新线索" → 占位话术
+- ❌ "会出现细小但明确的变化" → 模糊到无法验证
+- ❌ "为下一轮局势升级做铺垫" → 可套用在任何一章
+- ❌ "只是单章事件，而是连续推进链上的一个节点" → 模板废话
+
+### 正确的蒸馏写法
+
+- ✅ 必须写出**本章实际发生的具体事件**（人名、地名、具体冲突、具体转折）
+- ✅ "核心推进"必须包含至少 1 个具体人名和 1 个具体事件
+- ✅ "章末钩子"必须写出**具体的悬念内容**，不能只写"留下新的风险"
+- ✅ 如果某章是过渡章，明确标注但**仍需写清过渡了什么具体内容**
+
+### 每章蒸馏自检
+
+完成每章蒸馏后，自问三个问题：
+
+1. **遮名测试**：如果把章节名遮住，能从蒸馏中推断出这是哪一章吗？→ 不能则重写
+2. **互换测试**：本章的"核心推进"和相邻章节交换后，有区别吗？→ 没区别则重写
+3. **独有信息**：这一章蒸馏是否包含至少一条本章**独有**的信息？→ 没有则重写
+
+## 两轮精炼流程
+
+章节蒸馏必须经过两轮：
+
+### 第一轮：生成初稿
+- 逐章生成蒸馏骨架
+- 覆盖所有必需字段
+- 允许速度快，但不允许模板填充
+
+### 第二轮：自检与重写
+- 对每章执行"遮名测试""互换测试""独有信息"三个自检
+- 标记所有不合格章节
+- **重写**所有不合格章节
+- 全部通过后再运行 validator
+
 ## Workflow
 
 ### 1. Normalize the source before distilling
@@ -328,6 +371,26 @@ At the end, explicitly decide:
 
 - has the project reached `章节骨架已形成`
 - has the project reached `校准锚点已可用`
+
+### 6. Mandatory: Run quality gate
+
+After validator passes, you MUST run the quality gate:
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/quality_gate.py --workspace <工作区路径>
+```
+
+The quality gate assesses four dimensions:
+1. **结构完整度** — 模板填充检测、章节独特性、具体性密度
+2. **跨层一致性** — 阶段边界对立、模板内容蔓延
+3. **分析深度** — 因果推理密度
+4. **可操作性** — 修改建议是否可执行
+
+A layer is not truly closed until:
+- ✅ validator passes (文件存在/字数/关键词)
+- ✅ quality gate ≥ 75 (内容质量达标)
+
+If quality gate score < 75, fix the flagged issues and rerun both validator and quality gate.
 
 ## Reference
 
