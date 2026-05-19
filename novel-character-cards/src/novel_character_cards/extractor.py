@@ -7,7 +7,7 @@ import json
 import re
 
 from .chunker import Chunk
-from .ai_extractor import extract_with_openai
+from .ai_extractor import extract_with_deepseek, extract_with_openai
 from .io_utils import ensure_dir
 
 
@@ -208,6 +208,27 @@ def heuristic_extract(chunk: Chunk, top_n: int = 12) -> dict:
     }
 
 
+def _extraction_is_valid(path: Path) -> bool:
+    """Check if an existing extraction file has real content (not a heuristic fallback stub)."""
+    if not path.exists():
+        return False
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        chars = data.get("characters", [])
+        if not chars:
+            return True
+        first = chars[0]
+        has_fields = bool(first.get("identity") or first.get("faction") or first.get("personality"))
+        return has_fields or len(chars) >= 3
+    except Exception:
+        return False
+
+
+def _load_character_count(path: Path) -> int:
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return len(data.get("characters", []))
+
+
 def write_extractions(
     chunks: list[Chunk],
     workdir: str | Path,
@@ -215,18 +236,29 @@ def write_extractions(
     extractor_mode: str = "heuristic",
     model: str = "gpt-5",
     prompt_path: str | Path | None = None,
+    skip_existing: bool = False,
 ) -> Path:
     extraction_dir = ensure_dir(Path(workdir) / "extractions")
     manifest = []
 
+    skipped = 0
     for chunk in chunks:
+        chunk_path = extraction_dir / f"{chunk.chunk_id}.json"
+        if skip_existing and _extraction_is_valid(chunk_path):
+            skipped += 1
+            manifest.append({"chunk_id": chunk.chunk_id, "character_count": _load_character_count(chunk_path)})
+            continue
         if extractor_mode == "openai":
             payload = extract_with_openai(chunk, model=model, prompt_path=prompt_path)
+        elif extractor_mode == "deepseek":
+            payload = extract_with_deepseek(chunk, model=model, prompt_path=prompt_path)
         else:
             payload = heuristic_extract(chunk)
-        path = extraction_dir / f"{chunk.chunk_id}.json"
-        path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        chunk_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         manifest.append({"chunk_id": chunk.chunk_id, "character_count": len(payload["characters"])})
+
+    if skipped:
+        print(f"skipped {skipped} already-extracted chunks", flush=True)
 
     manifest_path = Path(workdir) / "extractions.json"
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")

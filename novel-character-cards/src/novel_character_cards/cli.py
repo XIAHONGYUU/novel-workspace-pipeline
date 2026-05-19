@@ -23,12 +23,13 @@ def build_parser() -> argparse.ArgumentParser:
     pipeline.add_argument("--limit-chunks", type=int, help="Only process the first N chunks")
     pipeline.add_argument(
         "--extractor",
-        choices=("heuristic", "openai"),
+        choices=("heuristic", "openai", "deepseek"),
         default="heuristic",
         help="Character extraction backend",
     )
-    pipeline.add_argument("--model", default="gpt-5", help="Model name for the OpenAI extractor")
+    pipeline.add_argument("--model", default="gpt-5", help="Model name for the OpenAI/DeepSeek extractor")
     pipeline.add_argument("--prompt-path", help="Prompt template path for the OpenAI extractor")
+    pipeline.add_argument("--resume", action="store_true", help="Skip already-extracted chunks")
     pipeline.add_argument("--focus-name", help="Only track one target character and write checkpoint summaries")
     pipeline.add_argument("--focus-alias", action="append", default=[], help="Additional alias for the focus character")
     pipeline.add_argument("--summary-interval", type=int, default=100, help="Checkpoint interval for focus tracking")
@@ -45,6 +46,7 @@ def run_pipeline(
     extractor: str,
     model: str,
     prompt_path: str | None,
+    resume: bool,
     focus_name: str | None,
     focus_aliases: list[str],
     summary_interval: int,
@@ -55,7 +57,7 @@ def run_pipeline(
     if limit_chunks is not None:
         chunks = chunks[:limit_chunks]
     write_chunks(chunks, workdir)
-    write_extractions(chunks, workdir, extractor_mode=extractor, model=model, prompt_path=prompt_path)
+    write_extractions(chunks, workdir, extractor_mode=extractor, model=model, prompt_path=prompt_path, skip_existing=resume)
     if focus_name:
         focus_path = build_focus_reports(
             chunks,
@@ -95,6 +97,7 @@ def main() -> None:
             args.extractor,
             args.model,
             args.prompt_path,
+            args.resume,
             args.focus_name,
             args.focus_alias,
             args.summary_interval,
