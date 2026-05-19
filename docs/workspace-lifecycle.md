@@ -4,6 +4,15 @@
 
 A workspace is not "done" because files exist. It is only meaningfully advanced when a layer is both present and validated.
 
+Just as importantly, a layer is not meaningfully advanced when init has only created scaffold files. Real progress happens in the loop:
+
+```text
+init/scaffold
+  -> AI fill
+  -> validator
+  -> repair
+```
+
 ## Modes
 
 ### `fresh`
@@ -39,6 +48,7 @@ This order is not a moral law, but it is the default progression encoded into th
 
 - the next recommended action is explicit
 - placeholder files are not mistaken for completed analysis
+- init output is not mistaken for finished layer content
 - validator output matches the actual workspace condition
 - handoff files tell the next operator where to resume
 
@@ -46,5 +56,6 @@ This order is not a moral law, but it is the default progression encoded into th
 
 - source text exists, but no layer has real analysis content
 - layer files exist, but still contain placeholders
+- operators assume `--execute` finished the analysis instead of only scaffolding it
 - repo-level docs drift away from actual script behavior
 - raw source or generated artifacts get mixed into the public code repository

@@ -15,6 +15,7 @@ Its job is to:
 - decide which layer should run next
 - choose the right mode
 - route work to the correct lower-layer skill
+- trigger init/scaffolding and refresh status when scripts are used
 - write back status, validation result, and next-step handoff
 
 It should not replace:
@@ -26,6 +27,11 @@ It should not replace:
 - `novel-highlight-scenes-analysis`
 
 Instead, it coordinates them.
+
+Important boundary:
+
+- this skill can scaffold and route work
+- it does not magically replace the AI step that must read source text and fill the layer outputs
 
 ## Core Layers
 
@@ -184,6 +190,7 @@ That means:
 
 - the next layer has been correctly chosen
 - the right mode was used
+- init output was not mistaken for finished analysis
 - relevant validator checks were run when available
 - the latest handoff state was written back
 - the user can resume without rereading the whole project from scratch
@@ -210,11 +217,25 @@ Use the bundled scripts when you want repeatable routing and judgment instead of
 - `scripts/build_layer_context.py`
   Build reusable context for a target layer from the existing workspace.
 - `scripts/run_novel_workspace_pipeline.py`
-  Produce a top-level pipeline decision, optional context file, and orchestration report.
+  Produce a top-level pipeline decision, optional context file, run layer init when requested, and write orchestration artifacts.
 - `scripts/run_workspace_regression.py`
-  Run the fixed seven-workspace regression suite and check that routing decisions did not drift.
+  Run the bundled or user-provided workspace regression fixtures and check that routing decisions did not drift.
 
 These scripts are meant to support this skill, not replace the lower-layer analysis skills.
+
+## Standard Execution Loop
+
+When you use script-assisted orchestration, the intended loop is:
+
+1. inspect workspace state
+2. choose target layer and mode
+3. run init/scaffolding for that layer when needed
+4. read `workspace-context-<layer>.md` and source text
+5. have the AI fill the target layer files with concrete analysis
+6. rerun validators
+7. write handoff artifacts
+
+Do not describe step 3 as if it already completed step 5.
 
 ## Chinese Prompt Examples
 

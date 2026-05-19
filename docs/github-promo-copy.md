@@ -4,7 +4,7 @@ Use this file as a starting point when you want to present `Novel Workspace Pipe
 
 ## One-Line Intro
 
-Turn long-novel analysis from one-off chat outputs into a replayable, validator-backed workspace pipeline.
+Turn long-novel analysis from one-off chat outputs into a replayable, validator-backed workspace pipeline with an explicit AI-writing loop.
 
 ## Repository Subtitle
 
@@ -12,7 +12,7 @@ A layered workflow for long-novel analysis with orchestration, validation, gap r
 
 ## Short Description
 
-`Novel Workspace Pipeline` turns each novel into its own workspace instead of producing a single summary that cannot be extended. The workflow moves through five layers: chapter distillation, opening analysis, protagonist knowledge, outline analysis, and highlight-scene extraction. An orchestrator inspects workspace state, recommends the next step, runs validators, and writes back handoff artifacts.
+`Novel Workspace Pipeline` turns each novel into its own workspace instead of producing a single summary that cannot be extended. The workflow moves through five layers: chapter distillation, opening analysis, protagonist knowledge, outline analysis, and highlight-scene extraction. An orchestrator inspects workspace state, recommends the next step, runs layer init, refreshes validators and handoff artifacts, and then hands the scaffold to an AI fill pass that writes the actual analysis.
 
 ## Social Post
 
@@ -34,7 +34,7 @@ The main problem it tries to solve is that most novel analysis either stops at a
 - `outline`
 - `highlight`
 
-On top of that, an orchestrator decides whether a workspace is in `fresh`, `extend-existing`, `repair-existing`, or `validate-only` mode, recommends the next layer, reruns validators, and writes back status plus handoff artifacts.
+On top of that, an orchestrator decides whether a workspace is in `fresh`, `extend-existing`, `repair-existing`, or `validate-only` mode, recommends the next layer, runs init, reruns validators, writes back status plus handoff artifacts, and makes the AI fill step explicit instead of pretending scaffolding equals analysis.
 
 This repo may be relevant if you care about:
 
