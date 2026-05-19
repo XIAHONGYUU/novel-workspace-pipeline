@@ -23,6 +23,7 @@ This repository is meant to host the reusable workflow, not a mixed archive of p
 - choose `fresh / extend-existing / repair-existing / validate-only`
 - select the next layer
 - call layer init scripts
+- refresh validation and handoff state after init
 - rerun validators
 - update workspace and repo-level handoff files
 
@@ -50,13 +51,26 @@ python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.
   --workspace ./your-workspace
 ```
 
-Execute the chosen layer:
+Run layer init and refresh workflow state:
 
 ```bash
 python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py \
   --workspace ./your-workspace \
   --execute
 ```
+
+`--execute` is not the same thing as "the analysis is now complete".
+
+Its real job is to:
+
+- run layer init/scaffolding
+- refresh workspace status
+- rerun validators when available
+- write handoff files and reports
+
+After that, an AI operator still needs to fill the scaffold files with actual analysis content.
+
+See [docs/ai-fill-step.md](docs/ai-fill-step.md) for the standard scaffold -> AI fill -> validator loop.
 
 Run regression after you add your own fixtures:
 

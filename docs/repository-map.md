@@ -27,7 +27,7 @@
 ## Orchestration
 
 - `novel-workspace-orchestrator-skill/`
-  Status collection, next-step recommendation, execution routing, gap reports, repair plans, and regression harness.
+  Status collection, next-step recommendation, init routing, gap reports, repair plans, bridge-context generation, and regression harness.
 
 ## Helper Tools
 
@@ -40,3 +40,4 @@
 
 - `docs/`
   Product-facing supporting documentation and example configuration files.
+  Includes the explicit AI fill step needed between scaffolding and final validation.
