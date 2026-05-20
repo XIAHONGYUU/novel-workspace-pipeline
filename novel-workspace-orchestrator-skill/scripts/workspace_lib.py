@@ -13,6 +13,7 @@ LAYER_ORDER = (
     "chapter-distillation",
     "opening",
     "protagonist",
+    "supporting-cast",
     "outline",
     "highlight",
 )
@@ -20,6 +21,7 @@ LAYER_TO_SKILL = {
     "chapter-distillation": "novel-chapter-distillation",
     "opening": "novel-opening-analysis",
     "protagonist": "novel-protagonist-encyclopedia",
+    "supporting-cast": "novel-supporting-cast-analysis",
     "outline": "novel-outline-analysis",
     "highlight": "novel-highlight-scenes-analysis",
 }
@@ -27,6 +29,7 @@ LAYER_LABELS = {
     "chapter-distillation": "章节蒸馏层",
     "opening": "黄金前三章层",
     "protagonist": "主角百科层",
+    "supporting-cast": "重要配角层",
     "outline": "整书大纲层",
     "highlight": "剧情高光层",
 }
@@ -53,6 +56,13 @@ CHECK_LABELS = {
         "index": "词条总索引",
         "core_overview": "核心体系总览",
         "essence_summary": "全书精华总结",
+    },
+    "supporting-cast": {
+        "top10_table": "重要配角Top10总表",
+        "relation_map": "重要配角与主角关系图",
+        "stage_distribution": "重要配角阶段作用分布",
+        "index": "配角分析索引",
+        "profiles": "Top10 配角分析文件",
     },
     "outline": {
         "protagonist_layer": "主角层承接文件",
@@ -93,6 +103,7 @@ VALIDATOR_SCRIPTS = {
     / "novel-chapter-distillation-skill/scripts/validate_chapter_distillation_outputs.py",
     "opening": REPO_ROOT / "novel-opening-analysis-skill/scripts/validate_opening_outputs.py",
     "protagonist": REPO_ROOT / "novel-protagonist-encyclopedia-skill/scripts/validate_protagonist_outputs.py",
+    "supporting-cast": REPO_ROOT / "novel-supporting-cast-analysis-skill/scripts/validate_supporting_cast_outputs.py",
     "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/validate_outline_outputs.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/validate_highlight_outputs.py",
 }
@@ -102,12 +113,14 @@ INIT_SCRIPTS = {
     / "novel-chapter-distillation-skill/scripts/init_chapter_distillation_workspace.py",
     "opening": REPO_ROOT / "novel-opening-analysis-skill/scripts/init_opening_workspace.py",
     "protagonist": REPO_ROOT / "novel-protagonist-encyclopedia-skill/scripts/init_workspace.py",
+    "supporting-cast": REPO_ROOT / "novel-supporting-cast-analysis-skill/scripts/init_supporting_cast_workspace.py",
     "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/init_outline_workspace.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/init_highlight_workspace.py",
 }
 LAYER_VALIDATED_TAGS = {
     "chapter-distillation": "章节蒸馏层校验通过",
     "opening": "黄金前三章分析层校验通过",
+    "supporting-cast": "重要配角层校验通过",
     "outline": "大纲分析层校验通过",
     "highlight": "剧情高光分析层校验通过",
 }
@@ -259,6 +272,13 @@ def validator_result_to_layer_status(
     elif layer == "protagonist":
         completion_label = result.get("system_status") or result.get("skeleton_status") or "体系闭环仍不足"
         validated = result.get("skeleton_status") == "骨架完成"
+    elif layer == "supporting-cast":
+        completion_label = result.get("top10_status", "重要配角 Top10 仍不足")
+        validated = (
+            result.get("top10_status") == "重要配角 Top10 已明确"
+            and result.get("relation_status") == "配角与主角关系已可用"
+            and result.get("stage_status") == "配角阶段作用层已可用"
+        )
     elif layer == "outline":
         completion_label = result.get("common_status", "共性标准仍不足")
         validated = result.get("common_status") == "共性标准已覆盖"
@@ -398,6 +418,17 @@ def _infer_layer_file_name(layer: str, key: str, novel_name: str) -> str:
             "anchor": f"{novel_name}-主角锚点与骨架.md",
             "stage_outline": f"{novel_name}-整书粗阶段划分.md",
             "essence_summary": f"{novel_name}-全书精华总结.md",
+        }
+        return mapping.get(key, key)
+    if layer == "supporting-cast":
+        mapping = {
+            "project_entry": "README.md",
+            "handoff": latest_status_file_name(),
+            "top10_table": f"{novel_name}-重要配角Top10总表.md",
+            "relation_map": f"{novel_name}-重要配角与主角关系图.md",
+            "stage_distribution": f"{novel_name}-重要配角阶段作用分布.md",
+            "index": "supporting-cast/index.md",
+            "profiles": "supporting-cast",
         }
         return mapping.get(key, key)
     if layer == "outline":
@@ -646,6 +677,21 @@ def build_layer_init_command(
             cmd.append("--skip-bootstrap")
         return cmd
 
+    if layer == "supporting-cast":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+        ]
+        if protagonist_name:
+            cmd += ["--protagonist", protagonist_name]
+        if force:
+            cmd.append("--force")
+        return cmd
+
     raise ValueError(f"unsupported layer: {layer}")
 
 
@@ -752,6 +798,51 @@ def heuristic_protagonist_status(
     }
 
 
+def heuristic_supporting_cast_status(workspace: Path, novel_name: str, status_path: Path | None) -> dict[str, Any]:
+    files = {
+        "top10_table": workspace / f"{novel_name}-重要配角Top10总表.md",
+        "relation_map": workspace / f"{novel_name}-重要配角与主角关系图.md",
+        "stage_distribution": workspace / f"{novel_name}-重要配角阶段作用分布.md",
+        "index": workspace / "supporting-cast" / "index.md",
+    }
+    profile_files = sorted((workspace / "supporting-cast").glob("*-配角分析.md"))
+    checks = {
+        "top10_table": content_check(files["top10_table"], ["Top 10", "综合分", "结构角色"], minimum=3, min_chars=500),
+        "relation_map": content_check(files["relation_map"], ["关系线总判断", "与主角关系", "结构角色"], minimum=3, min_chars=420),
+        "stage_distribution": content_check(files["stage_distribution"], ["阶段层总判断", "阶段分布", "阶段作用判断"], minimum=3, min_chars=320),
+        "index": content_check(files["index"], ["Top10 文件", "Top 1"], minimum=2, min_chars=120),
+        "profiles": {
+            "exists": bool(profile_files),
+            "content_ok": len(profile_files) >= 10,
+            "reason": "ok" if len(profile_files) >= 10 else "missing_profiles",
+        },
+    }
+    validated = (
+        checks["top10_table"]["content_ok"]
+        and checks["relation_map"]["content_ok"]
+        and checks["stage_distribution"]["content_ok"]
+        and checks["index"]["content_ok"]
+        and checks["profiles"]["content_ok"]
+    )
+    completion_label = "重要配角 Top10 已明确" if validated else "重要配角 Top10 仍不足"
+    resolved_files = {key: str(path) for key, path in files.items() if path.exists()}
+    if profile_files:
+        resolved_files["profiles"] = str((workspace / "supporting-cast").resolve())
+    return {
+        "layer": "supporting-cast",
+        "label": LAYER_LABELS["supporting-cast"],
+        "exists": any(value["exists"] for value in checks.values()),
+        "validated": validated,
+        "has_placeholders": any(bool(value.get("placeholder_hits")) for value in checks.values() if isinstance(value, dict)),
+        "completion_label": completion_label,
+        "reason": "heuristic",
+        "files": resolved_files,
+        "checks": checks,
+        "validator_report": None,
+        "validator_summary": {"profile_count": len(profile_files)},
+    }
+
+
 def heuristic_outline_status(workspace: Path, novel_name: str, status_path: Path | None) -> dict[str, Any]:
     files = {
         "overview": workspace / f"{novel_name}-大纲总览.md",
@@ -820,6 +911,8 @@ def detect_layer_status(
                 continue
         if layer == "protagonist":
             result[layer] = heuristic_protagonist_status(workspace, novel_name, protagonist_name, status_path)
+        elif layer == "supporting-cast":
+            result[layer] = heuristic_supporting_cast_status(workspace, novel_name, status_path)
         elif layer == "outline":
             result[layer] = heuristic_outline_status(workspace, novel_name, status_path)
         elif layer == "chapter-distillation":
@@ -941,7 +1034,7 @@ def recommend_next_action(layer_status: dict[str, Any], is_long_novel: bool) -> 
         "recommended_mode": "validate-only",
         "recommended_next_layer": None,
         "recommended_skill": None,
-        "recommended_next_step": "五层当前都已达成可用状态；建议只做验收、交接或继续深拆项目内容。",
+        "recommended_next_step": "六层当前都已达成可用状态；建议只做验收、交接或继续深拆项目内容。",
         "optional_backfill_layers": optional_backfill_layers,
     }
 
@@ -1037,7 +1130,7 @@ def summarize_current_judgement(status: dict[str, Any]) -> str:
     protagonist_status = status["layer_status"]["protagonist"]
     if protagonist_status["validated"]:
         parts.append(protagonist_status["completion_label"])
-    for layer in ("chapter-distillation", "opening", "outline", "highlight"):
+    for layer in ("chapter-distillation", "opening", "supporting-cast", "outline", "highlight"):
         item = status["layer_status"][layer]
         if item["validated"]:
             parts.append(LAYER_VALIDATED_TAGS[layer])
@@ -1060,7 +1153,7 @@ def _prefer_report_or_file(item: dict[str, Any]) -> Path | None:
     report = item.get("validator_report")
     if report:
         return Path(report)
-    for preferred_key in ("index", "final_card", "core_overview", "overview", "top10_table", "total_judgment"):
+    for preferred_key in ("index", "final_card", "core_overview", "top10_table", "overview", "total_judgment"):
         if preferred_key in item.get("files", {}):
             return Path(item["files"][preferred_key])
     for path in item.get("files", {}).values():
@@ -1381,6 +1474,7 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
     novel_name = status["novel_name"]
     latest_status = latest_status_file(workspace)
     protagonist_files = status["layer_status"]["protagonist"]["files"]
+    supporting_files = status["layer_status"]["supporting-cast"]["files"]
     outline_files = status["layer_status"]["outline"]["files"]
 
     candidates: list[tuple[str, Path | None]] = [
@@ -1406,6 +1500,16 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
                 ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
             ]
         )
+    elif target_layer == "supporting-cast":
+        candidates.extend(
+            [
+                ("merged_characters", workspace / "work" / "merged" / "characters.json"),
+                ("cards_index", workspace / "work" / "cards" / "index.md"),
+                ("protagonist_index", Path(protagonist_files["index"])) if "index" in protagonist_files else ("protagonist_index", None),
+                ("final_card", Path(protagonist_files["final_card"])) if "final_card" in protagonist_files else ("final_card", None),
+                ("anchor", Path(protagonist_files["anchor"])) if "anchor" in protagonist_files else ("anchor", workspace / f"{novel_name}-主角锚点与骨架.md"),
+            ]
+        )
     elif target_layer == "outline":
         candidates.extend(
             [
@@ -1413,6 +1517,8 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
                 ("final_card", Path(protagonist_files["final_card"])) if "final_card" in protagonist_files else ("final_card", None),
                 ("core_overview", Path(protagonist_files["core_overview"])) if "core_overview" in protagonist_files else ("core_overview", None),
                 ("essence_summary", Path(protagonist_files["essence_summary"])) if "essence_summary" in protagonist_files else ("essence_summary", None),
+                ("supporting_top10", Path(supporting_files["top10_table"])) if "top10_table" in supporting_files else ("supporting_top10", None),
+                ("supporting_relations", Path(supporting_files["relation_map"])) if "relation_map" in supporting_files else ("supporting_relations", None),
                 ("opening_total", workspace / f"{novel_name}-黄金前三章总判断.md"),
             ]
         )
@@ -1422,6 +1528,7 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
                 ("outline_overview", Path(outline_files["overview"])) if "overview" in outline_files else ("outline_overview", None),
                 ("outline_stages", Path(outline_files["stages"])) if "stages" in outline_files else ("outline_stages", None),
                 ("outline_lines", Path(outline_files["lines"])) if "lines" in outline_files else ("outline_lines", None),
+                ("supporting_top10", Path(supporting_files["top10_table"])) if "top10_table" in supporting_files else ("supporting_top10", None),
                 ("protagonist_index", Path(protagonist_files["index"])) if "index" in protagonist_files else ("protagonist_index", None),
                 ("core_overview", Path(protagonist_files["core_overview"])) if "core_overview" in protagonist_files else ("core_overview", None),
                 ("opening_total", workspace / f"{novel_name}-黄金前三章总判断.md"),

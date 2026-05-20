@@ -65,7 +65,7 @@ Do not treat these as final success conditions:
 - many character files were generated
 - a merged character list exists
 - `work/cards/index.md` exists
-- the heuristic extractor produced lots of names
+- the first-pass extractor produced lots of names
 - the workspace was initialized successfully
 
 Those are only diagnostic or helper layers.
@@ -358,9 +358,30 @@ It is not successful merely because it created:
 - a noisy card index
 - only the first-pass workspace
 
-## Script
+## Scripts
 
-- `python3 scripts/init_workspace.py --novel-name "<小说名>" [--source "<原始文本路径>"]`
-- `python3 scripts/init_workspace.py --novel-name "<小说名>" --source "<原始文本路径>" [--focus-name "<主角名>"] [--focus-alias "<别名>"] [--limit-chunks N] [--extractor heuristic|openai]`
+### init_workspace.py
 
-This is the default executable entry for starting a new novel project with this skill.
+`python3 scripts/init_workspace.py --novel-name "<小说名>" --source "<原始文本路径>" [--focus-name "<主角名>"] [--extractor openai|deepseek]`
+
+**角色**：唯一能做自动化工作的脚本——chunk 蒸馏、人物抽取、focus 追踪。但它不写词条内容、不填人物卡、不生成分析。生成的词条文件是框架，需要你读原文来填充具体内容。
+
+注意：用于 `work/merged/characters.json` 的全角色抽取应使用 AI extractor，不应把 heuristic 提取当作当前 workflow 的正式上游。
+
+### validate_protagonist_outputs.py
+
+`python3 scripts/validate_protagonist_outputs.py --workspace <项目名> --novel-name <小说名>`
+
+### Validator 关键词速查表
+
+Validator 通过 `has_keywords()` 检查每个文件是否包含特定关键词。请在填充内容时确保覆盖以下关键词（概念覆盖即可，不需要逐字照搬）：
+
+| 文件 | 需覆盖的关键词 | minimum | min_chars |
+|---|---|---|---|
+| `<小说名>-项目启动清单.md` | 体系闭环 Checklist、当前已达到、首轮执行顺序 | 3 | 180 |
+| `<小说名>-主角锚点与骨架.md` | 主角锚点、骨架、身份、成长 | 3 | 220 |
+| `<小说名>-整书粗阶段划分.md` | 阶段、主角状态、主要矛盾、地点 | 3 | 220 |
+| `<主角名>-最终人物卡.md` | 基本信息、身份概述、核心能力、成长阶段、最终结论 | 4 | 320 |
+| `<主角名>-词条总索引.md` | 当前判定、推荐阅读顺序、一级词条、已完成的核心二级词条 | 4 | 400 |
+| `<主角名>-核心体系总览.md` | 核心体系、总判断、最终结论、主干词条 | 3 | 260 |
+| `<小说名>-全书精华总结.md` | 一句话定性、最核心写的是什么、精华、最终结论 | 3 | 260 |

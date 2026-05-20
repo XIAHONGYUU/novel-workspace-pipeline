@@ -11,9 +11,9 @@
 
 ## 一、简介
 
-当前 workflow 采用“五层能力 + 总控调度”的结构。
+当前 workflow 采用“六层能力 + 总控调度”的结构。
 
-### 五层能力
+### 六层能力
 
 1. `chapter-distillation`
    章节蒸馏层。负责逐章压骨架，固定每章核心推进、状态变化、结构功能和章末钩子。
@@ -21,9 +21,11 @@
    黄金前三章层。负责判断开篇抓力、主角首亮相、冲突启动、信息释放和章末拉力。
 3. `protagonist`
    主角百科层。负责建立主角知识库主干、人物关系、成长路线和核心体系。
-4. `outline`
+4. `supporting-cast`
+   重要配角层。负责从全角色 AI 抽取结果中筛出最重要的 10 个配角，并建立配角压力、关系和阶段作用图。
+5. `outline`
    整书大纲层。负责阶段结构、主线支线、冲突升级、高潮节奏与收束判断。
-5. `highlight`
+6. `highlight`
    剧情高光层。负责提炼全书最强记忆点、读者吸引力机制和高光分布判断。
 
 ### 总控层
@@ -123,7 +125,7 @@ python3 novel-workspace-orchestrator-skill/scripts/refresh_workspace_status.py -
 作用：
 
 - 刷新 `workspace-status.json`
-- 查看五层当前达标情况
+- 查看六层当前达标情况
 
 ### 差距报告
 

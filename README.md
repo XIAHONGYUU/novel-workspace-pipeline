@@ -20,12 +20,13 @@
   -> chapter-distillation
   -> opening
   -> protagonist
+  -> supporting-cast
   -> outline
   -> highlight
   -> workspace status / gap report / repair plan / handoff files
 ```
 
-五层能力分别负责：
+六层能力分别负责：
 
 1. `chapter-distillation`
    逐章压骨架，固定每章推进、状态变化、结构功能和章末钩子。
@@ -33,9 +34,11 @@
    分析前三章的抓力、承诺、冲突启动和章末拉力。
 3. `protagonist`
    建立主角知识主干、关系网、成长路线和核心体系。
-4. `outline`
+4. `supporting-cast`
+   从全角色 AI 抽取结果里筛出最重要的 10 个配角，并建立配角压力、关系和阶段作用层。
+5. `outline`
    判断整书阶段结构、主线支线、冲突升级和高潮收束。
-5. `highlight`
+6. `highlight`
    提炼最强记忆点，分析高光场景为什么有效。
 
 总控层是 [`novel-workspace-orchestrator-skill`](novel-workspace-orchestrator-skill/SKILL.md)，负责：
@@ -61,6 +64,8 @@
   黄金前三章层。
 - [novel-protagonist-encyclopedia-skill](novel-protagonist-encyclopedia-skill/SKILL.md)
   主角百科层。
+- [novel-supporting-cast-analysis-skill](novel-supporting-cast-analysis-skill/SKILL.md)
+  重要配角 Top10 分析层。
 - [novel-outline-analysis-skill](novel-outline-analysis-skill/SKILL.md)
   整书大纲层。
 - [novel-highlight-scenes-analysis-skill](novel-highlight-scenes-analysis-skill/SKILL.md)
@@ -82,7 +87,7 @@
 
 - 它不是单次输出，而是可持续推进的 workspace 系统
 - 它不是纯文档堆积，而是带有状态判断、校验和回归
-- 它不是“想到哪写到哪”，而是固定五层分析模型
+- 它不是“想到哪写到哪”，而是固定六层分析模型
 - 它已经在多本长篇小说上反复使用，而不是空壳设计
 
 如果你做的是：

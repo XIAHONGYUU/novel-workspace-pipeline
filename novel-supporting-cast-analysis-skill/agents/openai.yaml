@@ -1,0 +1,4 @@
+interface:
+  display_name: "Novel Supporting Cast Analysis"
+  short_description: "Rank and analyze the top ten supporting characters in a novel workspace"
+  default_prompt: "Use $novel-supporting-cast-analysis to identify the ten most important supporting characters from this workspace and build a durable supporting-cast analysis layer."
