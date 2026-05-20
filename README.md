@@ -145,6 +145,15 @@ The standard loop is:
 
 See [docs/ai-fill-step.md](docs/ai-fill-step.md) for the standard prompt shape and review loop.
 
+Optional shortcut:
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/prepare_ai_fill.py \
+  --workspace ./your-workspace
+```
+
+This writes both `workspace-context-<layer>.md` and `workspace-ai-fill-<layer>.md` for the current target layer.
+
 ## Common Workflows
 
 Initialize protagonist scaffolding only:
@@ -189,6 +198,8 @@ python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py \
   How a workspace moves from empty to layered.
 - [docs/ai-fill-step.md](docs/ai-fill-step.md)
   The standard scaffold -> AI fill -> validator repair loop.
+- [docs/prompt-templates/](docs/prompt-templates)
+  Layer-specific prompt starters for the AI fill pass.
 - [docs/repository-map.md](docs/repository-map.md)
   What each top-level directory is responsible for.
 - [docs/regression-cases.example.json](docs/regression-cases.example.json)

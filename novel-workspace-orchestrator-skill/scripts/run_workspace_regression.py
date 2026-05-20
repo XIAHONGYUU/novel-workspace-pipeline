@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from workspace_lib import collect_workspace_status
+from workspace_lib import build_ai_fill_brief, build_layer_context, collect_workspace_status
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -109,6 +109,19 @@ def run_case(project_root: Path, case: RegressionCase) -> dict[str, Any]:
         if not layer_state.get("repair_targets"):
             failures.append(f"{case.expected_repair_target} should expose repair_targets, but none were found")
 
+    context_ok = True
+    ai_fill_ok = True
+    target_layer = status["recommended_next_layer"] or case.expected_repair_target
+    if target_layer:
+        context_text = build_layer_context(status, target_layer)
+        ai_fill_text = build_ai_fill_brief(status, target_layer)
+        context_ok = "## 本层要编辑的文件" in context_text and "## Validator 关注点" in context_text
+        ai_fill_ok = "## 本层目标文件" in ai_fill_text and "## Validator 重点" in ai_fill_text
+        if not context_ok:
+            failures.append(f"context generation for {target_layer} is missing required sections")
+        if not ai_fill_ok:
+            failures.append(f"ai-fill brief for {target_layer} is missing required sections")
+
     return {
         "name": case.name,
         "workspace": str(workspace),
@@ -120,6 +133,8 @@ def run_case(project_root: Path, case: RegressionCase) -> dict[str, Any]:
             "completed_layers": status["completed_layers"],
             "incomplete_layers": status["incomplete_layers"],
             "repair_target": actual_repair_target,
+            "context_ok": context_ok,
+            "ai_fill_ok": ai_fill_ok,
         },
     }
 

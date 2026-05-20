@@ -72,6 +72,13 @@ After that, an AI operator still needs to fill the scaffold files with actual an
 
 See [docs/ai-fill-step.md](docs/ai-fill-step.md) for the standard scaffold -> AI fill -> validator loop.
 
+Optional shortcut:
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/prepare_ai_fill.py \
+  --workspace ./your-workspace
+```
+
 Run regression after you add your own fixtures:
 
 ```bash
