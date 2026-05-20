@@ -41,3 +41,5 @@
 - `docs/`
   Product-facing supporting documentation and example configuration files.
   Includes the explicit AI fill step needed between scaffolding and final validation.
+- `docs/prompt-templates/`
+  Layer-specific prompt starters used during the AI fill pass.

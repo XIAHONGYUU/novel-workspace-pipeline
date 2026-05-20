@@ -27,6 +27,8 @@ Use this checklist before declaring orchestration complete.
 ## Handoff Pass
 
 - [ ] validator result was checked when available
+- [ ] if a layer was scaffolded, the follow-up AI fill step is explicit
+- [ ] context file or AI-fill brief is ready for the next operator
 - [ ] latest handoff state was written back
 - [ ] next recommended layer is explicit
 - [ ] resume reading order is explicit

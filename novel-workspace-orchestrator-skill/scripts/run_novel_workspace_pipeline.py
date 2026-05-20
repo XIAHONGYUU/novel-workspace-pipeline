@@ -8,7 +8,9 @@ from pathlib import Path
 
 from workspace_lib import (
     LAYER_ORDER,
+    ai_fill_brief_path,
     build_layer_context,
+    build_ai_fill_brief,
     collect_workspace_status,
     execute_layer_init,
     preferred_source_file,
@@ -28,7 +30,11 @@ def main() -> int:
     parser.add_argument("--protagonist-name", help="Override detected protagonist name.")
     parser.add_argument("--target-layer", choices=LAYER_ORDER, help="Force the pipeline to prepare a specific next layer.")
     parser.add_argument("--source", help="Optional source file override used when initializing a lower layer.")
-    parser.add_argument("--execute", action="store_true", help="Actually call the lower-layer init entrypoint before re-validating.")
+    parser.add_argument(
+        "--execute",
+        action="store_true",
+        help="Run the target layer init/scaffolding entrypoint, then refresh validators and handoff artifacts.",
+    )
     parser.add_argument("--force-init", action="store_true", help="Allow the target layer init script to overwrite scaffold files when supported.")
     parser.add_argument(
         "--bootstrap-protagonist",
@@ -58,7 +64,10 @@ def main() -> int:
         action="store_true",
         help="Write a reusable context file for the chosen target layer.",
     )
+    parser.add_argument("--no-write-context", action="store_true", help="Do not write workspace-context-<layer>.md.")
     parser.add_argument("--context-output", help="Custom output path for the context markdown.")
+    parser.add_argument("--no-write-ai-fill-brief", action="store_true", help="Do not write workspace-ai-fill-<layer>.md.")
+    parser.add_argument("--ai-fill-output", help="Custom output path for the AI fill markdown.")
     parser.add_argument("--no-write-workspace-handoff", action="store_true", help="Do not write 工作状态-YYYY-MM-DD.md.")
     parser.add_argument("--no-write-current-status", action="store_true", help="Do not update the repository CURRENT_STATUS.md.")
     parser.add_argument("--json", action="store_true", help="Emit workspace status JSON before the markdown report.")
@@ -107,7 +116,7 @@ def main() -> int:
         )
 
     context_path: Path | None = None
-    should_write_context = args.write_context or (args.execute and target_layer is not None)
+    should_write_context = target_layer is not None and not args.no_write_context
     if should_write_context and target_layer:
         context_path = (
             Path(args.context_output).expanduser().resolve()
@@ -115,6 +124,15 @@ def main() -> int:
             else workspace / f"workspace-context-{target_layer}.md"
         )
         context_path.write_text(build_layer_context(status, target_layer), encoding="utf-8")
+    ai_fill_path: Path | None = None
+    should_write_ai_fill_brief = target_layer is not None and not args.no_write_ai_fill_brief
+    if should_write_ai_fill_brief and target_layer:
+        ai_fill_path = (
+            Path(args.ai_fill_output).expanduser().resolve()
+            if args.ai_fill_output
+            else ai_fill_brief_path(workspace, target_layer)
+        )
+        ai_fill_path.write_text(build_ai_fill_brief(status, target_layer, context_path=context_path), encoding="utf-8")
 
     gap_report = render_gap_report(status)
     repair_plan = render_repair_plan(status)
@@ -128,6 +146,7 @@ def main() -> int:
                 executed_mode=executed_mode,
                 execution_results=execution_results or None,
                 context_path=context_path,
+                ai_fill_path=ai_fill_path,
             ),
             encoding="utf-8",
         )
@@ -146,6 +165,7 @@ def main() -> int:
         status,
         target_layer,
         context_path,
+        ai_fill_path=ai_fill_path,
         execution_results=execution_results or None,
         handoff_path=handoff_path,
         current_status_path=current_status_path,

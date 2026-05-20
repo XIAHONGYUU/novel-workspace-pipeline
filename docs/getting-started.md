@@ -62,6 +62,18 @@ After `--execute`, do an explicit AI writing pass:
 
 Use [ai-fill-step.md](ai-fill-step.md) as the standard operating loop.
 
+If you want a ready-made AI writing brief, run:
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/prepare_ai_fill.py \
+  --workspace ./my-novel
+```
+
+This writes:
+
+- `workspace-context-<layer>.md`
+- `workspace-ai-fill-<layer>.md`
+
 ## Typical Outputs
 
 After a run, you will usually see some of these files:

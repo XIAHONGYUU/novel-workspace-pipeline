@@ -218,6 +218,8 @@ Use the bundled scripts when you want repeatable routing and judgment instead of
   Build reusable context for a target layer from the existing workspace.
 - `scripts/run_novel_workspace_pipeline.py`
   Produce a top-level pipeline decision, optional context file, run layer init when requested, and write orchestration artifacts.
+- `scripts/prepare_ai_fill.py`
+  Generate a context file plus an AI-writing brief for the target layer before the fill pass.
 - `scripts/run_workspace_regression.py`
   Run the bundled or user-provided workspace regression fixtures and check that routing decisions did not drift.
 
