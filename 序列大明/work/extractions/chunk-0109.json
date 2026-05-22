@@ -1,251 +1,226 @@
 {
   "chunk_id": "chunk-0109",
-  "title": "第107章顾阀总管",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "李部长"
+      ],
+      "identity": "蜀道物流集团安保部长",
+      "faction": "蜀道物流集团",
       "status": "登场",
       "first_appearance": "第107章顾阀总管",
-      "summary": "”　　李钧缓缓抬起眼皮，一栋占地广阔的深宅豪院映入眼底",
+      "summary": "蜀道物流集团安保部长，武八修为，心思缜密，被顾家召见。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧缓缓抬起眼皮，一栋占地广阔的深宅豪院映入眼底",
-        "一路踩着尸山血海拾阶而上，李钧终于站到了这扇位于成都府山巅的朱门之前，心中不由泛起一阵感叹",
-        "”　　李钧快步上前，抱拳行礼，面上极为恭敬"
+      "personality": [
+        "谨慎",
+        "心思通透"
       ],
-      "mention_count": 26
-    },
-    {
-      "name": "顾家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第107章顾阀总管",
-      "summary": "“这里就是集团真正的主人，顾家",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这里就是集团真正的主人，顾家",
-        "”　　钱海能够在顾家总管这个位置上稳坐这么多年，还能塞那么多废物进蜀道物流捞钱，手段犀利可见一斑",
-        "”　　这一次蜀道物流集团被炸，掌舵人顾邕生死不明，被狠狠抽了一耳光的顾家俨然成了成都府各方势力之中的笑柄"
+      "abilities": [
+        "武八修为"
       ],
-      "mention_count": 7
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "齐珠",
+          "type": "下属"
+        },
+        {
+          "target": "钱海",
+          "type": "顾府总管，有利益交换"
+        },
+        {
+          "target": "钱仲骁",
+          "type": "钱海为其求情"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抵达顾府，与钱海会面，讨论集团遇袭后续事宜。"
+        }
+      ],
+      "evidence": [
+        "李钧缓缓抬起眼皮，一栋占地广阔的深宅豪院映入眼底。",
+        "李钧快步上前，抱拳行礼，面上极为恭敬。",
+        "李钧闻言心头蓦然一沉，下意识眯起眼睛。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "钱海",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "钱老",
+        "总管",
+        "顾阀总管"
+      ],
+      "identity": "顾府总管",
+      "faction": "顾家",
       "status": "登场",
       "first_appearance": "第107章顾阀总管",
-      "summary": "钱海同样点头笑道：“少爷已经在等伱了，跟我走吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "钱海同样点头笑道：“少爷已经在等伱了，跟我走吧",
-        "”　　钱海能够在顾家总管这个位置上稳坐这么多年，还能塞那么多废物进蜀道物流捞钱，手段犀利可见一斑",
-        "钱海叹了口气，“我在这座深宅之中工作了大半辈子，外人只看到顾阀总管威风的一面，却从不知道这些年老夫是如何如履薄冰，战战兢兢"
+      "summary": "顾府总管，老谋深算，为后辈子弟钱仲骁求情。",
+      "appearance": [
+        "身穿绸缎白袍",
+        "右手拇指上一块翠绿的扳指"
       ],
-      "mention_count": 7
+      "personality": [
+        "老谋深算",
+        "如履薄冰"
+      ],
+      "abilities": [],
+      "equipment": [
+        "翠绿扳指"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "利益交换"
+        },
+        {
+          "target": "钱仲骁",
+          "type": "为其求情"
+        },
+        {
+          "target": "钱劲东",
+          "type": "其子侄，被李钧所杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "代表顾家迎接李钧，并为其侄钱仲骁求情。"
+        }
+      ],
+      "evidence": [
+        "一名身穿绸缎白袍的老人步出门口，右手拇指上一块翠绿的扳指格外醒目，正面带笑意看着李钧。",
+        "钱海叹了口气，“我在这座深宅之中工作了大半辈子，外人只看到顾阀总管威风的一面，却从不知道这些年老夫是如何如履薄冰，战战兢兢。”",
+        "钱海压摇了摇头，“有佛道两家在前方拦路，武道序列根本没有前途可言”"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "钱老",
+      "name": "齐珠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "李钧的下属",
+      "faction": "蜀道物流集团",
       "status": "登场",
       "first_appearance": "第107章顾阀总管",
-      "summary": "”　　“见过钱老",
-      "appearance": [],
+      "summary": "李钧的下属，负责提供情报和文件。",
+      "appearance": [
+        "略显惨白的脸上顿时露出明媚的笑意"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“见过钱老",
-        "”　　李钧眉头一挑，“钱老有话不妨直说",
-        "”　　李钧根本没有迟疑，“钱老的意思我明白，我这边您大可放心"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "陪同李钧前往顾府，并递上电子案卷。"
+        }
+      ],
+      "evidence": [
+        "坐在副驾驶位置的齐珠半侧着身子，看着后排闭目养神的年轻武夫。",
+        "齐珠递过来一份巴掌大小的电子案卷",
+        "齐珠自然听出了李钧的话外之音，略显惨白的脸上顿时露出明媚的笑意"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "钱海叹",
+      "name": "钱仲骁",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "钱家下一代，蜀道物流集团遇袭时表现不佳",
+      "faction": "钱家",
+      "status": "提及",
       "first_appearance": "第107章顾阀总管",
-      "summary": "钱海叹了口气，“我在这座深宅之中工作了大半辈子，外人只看到顾阀总管威风的一面，却从不知道这些年老夫是如何如履薄冰，战战兢兢",
+      "summary": "钱海为其求情的后辈，资质较好但表现不佳。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "钱海叹了口气，“我在这座深宅之中工作了大半辈子，外人只看到顾阀总管威风的一面，却从不知道这些年老夫是如何如履薄冰，战战兢兢",
-        "”　　钱海叹了口气，脚下步子放缓，身形落到和李钧并肩"
+      "relationships": [
+        {
+          "target": "钱海",
+          "type": "长辈"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第107章顾阀总管",
-      "summary": "在川渝赌会袭击集团的时候，虽然集团内部的防御机关和火力矩阵提前被人黑了，但这个蠢货和他选拔的那群安保部员工也都是些酒囊饭袋",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在川渝赌会袭击集团的时候，虽然集团内部的防御机关和火力矩阵提前被人黑了，但这个蠢货和他选拔的那群安保部员工也都是些酒囊饭袋",
-        "只不过”　　李钧哑然一笑，虽然现在还没到锦衣卫上门抄家的时候",
-        "”　　虽然开的仅仅是一扇等级最低的侧门，但出来迎接的人却是顾府的总管"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "钱海为其求情，希望李钧宽宏大量。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "或者",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第107章顾阀总管",
-      "summary": "所有人都在等着看顾家会如何报复，或者说在期待顾家和吴家这两座门阀会不会真的撕破脸皮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "所有人都在等着看顾家会如何报复，或者说在期待顾家和吴家这两座门阀会不会真的撕破脸皮",
-        "或者是　　“我让你找的东西，准备的怎么样了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "顾府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第107章顾阀总管",
-      "summary": "两盏暗红色的灯笼拱卫着中间一块金丝楠木牌匾，上书篆体——顾府",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两盏暗红色的灯笼拱卫着中间一块金丝楠木牌匾，上书篆体——顾府",
-        "两人一前一后，从侧门进入顾府",
-        "与此同时，顾府大门旁一扇不起眼的侧门悄无声息的滑开"
+        "虽然这一次蜀道物流遇袭的时候，仲骁表现不佳。但他的资质却已经是钱家下一代之中最好的一个了",
+        "这老头兜兜转转绕了这么半天，原来是为了替钱仲骁求情。"
       ],
       "mention_count": 3
     },
     {
-      "name": "转头",
+      "name": "钱劲东",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "钱海子侄，被李钧所杀",
+      "faction": "钱家",
+      "status": "提及",
       "first_appearance": "第107章顾阀总管",
-      "summary": "”　　李钧掐断脑海中不断延展扩散的念头，转头看向齐珠",
+      "summary": "钱海的子侄，因渎职贪污被李钧砍死。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "嚣张跋扈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧掐断脑海中不断延展扩散的念头，转头看向齐珠"
+      "relationships": [
+        {
+          "target": "钱海",
+          "type": "子侄"
+        },
+        {
+          "target": "李钧",
+          "type": "被其杀死"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被李钧砍死。"
+        }
+      ],
+      "evidence": [
+        "钱劲东这个畜牲这些年打着我的旗号在外嚣张跋扈，渎职贪污。如果不是李部长你，我都不知道他居然敢勾结天府重工！你那一刀，砍得好！"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "外人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "顾邕",
+      "aliases": [
+        "掌舵人"
+      ],
+      "identity": "顾家掌舵人，蜀道物流集团掌舵人",
+      "faction": "顾家",
+      "status": "提及",
       "first_appearance": "第107章顾阀总管",
-      "summary": "钱海叹了口气，“我在这座深宅之中工作了大半辈子，外人只看到顾阀总管威风的一面，却从不知道这些年老夫是如何如履薄冰，战战兢兢",
+      "summary": "顾家掌舵人，在集团遇袭中被掳走，生死不明。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "钱海叹了口气，“我在这座深宅之中工作了大半辈子，外人只看到顾阀总管威风的一面，却从不知道这些年老夫是如何如履薄冰，战战兢兢",
-        "顾家是否会报复，这一点毋庸置疑，就算是做给外人看，顾家也必须维持住明面上的面子"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被掳走，生死不明。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第107章顾阀总管",
-      "summary": "这次集团遇袭损失惨重，肯定很多地方需要重建，特别是安保这一块",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这次集团遇袭损失惨重，肯定很多地方需要重建，特别是安保这一块",
-        "”　　这一次蜀道物流集团被炸，掌舵人顾邕生死不明，被狠狠抽了一耳光的顾家俨然成了成都府各方势力之中的笑柄",
-        "顾家是否会报复，这一点毋庸置疑，就算是做给外人看，顾家也必须维持住明面上的面子"
+        "这一次蜀道物流集团被炸，掌舵人顾邕生死不明"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "你现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第107章顾阀总管",
-      "summary": "钱海哈哈一笑，树皮一般的老脸上露出感叹的神情，“要是当年那些武道序列的能有李部长你这样谦逊的性子，你现在也不至于过的如此辛苦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "钱海哈哈一笑，树皮一般的老脸上露出感叹的神情，“要是当年那些武道序列的能有李部长你这样谦逊的性子，你现在也不至于过的如此辛苦"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

@@ -1,257 +1,650 @@
 {
   "chunk_id": "chunk-0358",
-  "title": "第一百三十一章 破堡（一）",
   "characters": [
     {
-      "name": "方云堡",
+      "name": "方大剑师",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "剑师",
+      "faction": "方云堡",
+      "status": "死亡",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "军旗一展，刹那间，方云堡四面城门大开，剩下的剑徒，混合着陈国特有的仆从兵，足有两万，密密麻麻的冲了过来，同一时间，城墙上上百口大炮轰鸣，同时箭楼、剑孔之中，无数弓弩、弓箭、还有超大号的剑弩，同时轰出",
+      "summary": "方云堡的剑师，在剑阵中战死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "军旗一展，刹那间，方云堡四面城门大开，剩下的剑徒，混合着陈国特有的仆从兵，足有两万，密密麻麻的冲了过来，同一时间，城墙上上百口大炮轰鸣，同时箭楼、剑孔之中，无数弓弩、弓箭、还有超大号的剑弩，同时轰出",
-        "同一时间，苍老道金丹出窍，化作一道流光，钻入剑池之中，然后在下一刻，方云堡的护堡阵势，‘先天龟灵图’展开，一时间，整座大堡化作一只扬首摆尾的巨龟，将头一伸，便有无量水汽喷涌而出",
-        "苍老道固然是金丹高人，方云堡的护堡阵势也是极强，但是以一己之力，对抗这么多同道中人，这位老道人也感到压力巨大，他咬牙道：“道不同，不相为谋，老道先是陈国人，再是道人"
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "在剑阵中被斩首身亡。"
+        }
       ],
-      "mention_count": 9
+      "evidence": [
+        "方大剑师死不瞑目",
+        "刀光在后面一闪，一颗脑袋冲天而起"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "剑先生",
+      "aliases": [],
+      "identity": "剑客团统帅",
+      "faction": "方云堡",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "与王天德共同统帅千人剑客团，在阵中左冲右突。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王天德",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "与王天德统帅剑客团陷入阵势。"
+        }
+      ],
+      "evidence": [
+        "剑先生和王天德统帅的千人剑客团，像是无头苍蝇一般"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "王天德",
+      "aliases": [],
+      "identity": "剑客团统帅",
+      "faction": "方云堡",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "与剑先生共同统帅千人剑客团。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "剑先生",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "与剑先生统帅剑客团陷入阵势。"
+        }
+      ],
+      "evidence": [
+        "剑先生和王天德统帅的千人剑客团"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "公孙裕德",
+      "aliases": [
+        "公孙先生"
+      ],
+      "identity": "方云堡高层",
+      "faction": "方云堡",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "方云堡高层，与先祖对话，后主持军议。",
+      "appearance": [],
+      "personality": [
+        "冷漠",
+        "苍老",
+        "带有一丝快意"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "先祖",
+          "type": "后裔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "在城墙上观察战局，与先祖商议。"
+        },
+        {
+          "stage": "战后军议",
+          "event": "主持军议，决定固守待援。"
+        }
+      ],
+      "evidence": [
+        "城墙顶上的公孙裕德，这位公孙先生的眼神很冷漠、很苍老，甚至，隐约带着一丝快意",
+        "公孙裕德坐在主位之上，面沉如水，但是眼中却闪过一丝笑意"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "先祖",
+      "aliases": [],
+      "identity": "公孙裕德的先祖",
+      "faction": "方云堡",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "附身于公孙裕德，指挥战局。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙裕德",
+          "type": "先祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "通过公孙裕德之口下令派援兵。"
+        }
+      ],
+      "evidence": [
+        "先祖，差不多了，此时再不派援兵，事后恐惹人怀疑",
+        "那就照你说的做吧，‘公孙裕德’道"
+      ],
+      "mention_count": 2
     },
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "薛保侯",
+        "侯爷"
+      ],
+      "identity": "先锋卫统帅",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "戚笼微微转头，翡翠先生举起军旗，挥动两下，后营之中，一门门镇妖大炮被推了出来，然后炮声大作，无数刻上镇妖符文的炮弹打了出去",
+      "summary": "先锋卫统帅，指挥攻城，收服叶红玉和洪一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼微微转头，翡翠先生举起军旗，挥动两下，后营之中，一门门镇妖大炮被推了出来，然后炮声大作，无数刻上镇妖符文的炮弹打了出去",
-        "虽然大战开启，军用物资的价格上涨了接近十倍，但仗着新收八个宗师的服务费，加上司马正道的后门，戚笼还是收购了大量的攻城器材，单论火力，短时间内，竟与这百年重堡不相上下",
-        "这一支千人魔兵，便是除了四大弟子外，魔后给与戚笼最大的支持"
+      "relationships": [
+        {
+          "target": "翡翠先生",
+          "type": "部下"
+        },
+        {
+          "target": "叶红玉",
+          "type": "投靠者"
+        },
+        {
+          "target": "洪一",
+          "type": "投靠者"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "指挥攻城，使用镇妖大炮。"
+        },
+        {
+          "stage": "战后",
+          "event": "在大帐中接待叶红玉和洪一。"
+        }
+      ],
+      "evidence": [
+        "戚笼微微转头，翡翠先生举起军旗",
+        "戚笼还是收购了大量的攻城器材",
+        "侯爷在接待两个客人"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "方云",
+      "name": "翡翠先生",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "戚笼的部下",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "军旗一展，刹那间，方云堡四面城门大开，剩下的剑徒，混合着陈国特有的仆从兵，足有两万，密密麻麻的冲了过来，同一时间，城墙上上百口大炮轰鸣，同时箭楼、剑孔之中，无数弓弩、弓箭、还有超大号的剑弩，同时轰出",
+      "summary": "戚笼的部下，负责举军旗指挥。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "军旗一展，刹那间，方云堡四面城门大开，剩下的剑徒，混合着陈国特有的仆从兵，足有两万，密密麻麻的冲了过来，同一时间，城墙上上百口大炮轰鸣，同时箭楼、剑孔之中，无数弓弩、弓箭、还有超大号的剑弩，同时轰出",
-        "同一时间，苍老道金丹出窍，化作一道流光，钻入剑池之中，然后在下一刻，方云堡的护堡阵势，‘先天龟灵图’展开，一时间，整座大堡化作一只扬首摆尾的巨龟，将头一伸，便有无量水汽喷涌而出",
-        "苍老道固然是金丹高人，方云堡的护堡阵势也是极强，但是以一己之力，对抗这么多同道中人，这位老道人也感到压力巨大，他咬牙道：“道不同，不相为谋，老道先是陈国人，再是道人"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主从"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "举起军旗指挥镇妖大炮。"
+        }
+      ],
+      "evidence": [
+        "翡翠先生举起军旗，挥动两下"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "苍老道",
+      "aliases": [
+        "苍老兄"
+      ],
+      "identity": "金丹道人",
+      "faction": "陈国",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "方云堡的金丹道人，金丹出窍驱动护堡阵势。",
+      "appearance": [],
+      "personality": [
+        "固执"
+      ],
+      "abilities": [
+        "金丹出窍",
+        "驱动先天龟灵图"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玉微道人",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "金丹出窍，驱动先天龟灵图对抗众道人。"
+        }
+      ],
+      "evidence": [
+        "苍老道金丹出窍，化作一道流光，钻入剑池之中",
+        "苍老道固然是金丹高人",
+        "老道先是陈国人，再是道人"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "玉微道人",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "武平督护府",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "与苍老道对抗的道人，金丹化作玉如意攻击。",
+      "appearance": [],
+      "personality": [
+        "矫情"
+      ],
+      "abilities": [
+        "金丹化玉如意"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苍老道",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "金丹所化玉如意攻击苍老道。"
+        }
+      ],
+      "evidence": [
+        "玉微道人呵呵一笑，金丹所化的玉如意涨到三百丈之大"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黑夜叉",
+      "aliases": [],
+      "identity": "魔兵将领",
+      "faction": "赤炼魔府",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "魔兵将领之一，与白修罗、红恶鬼、月姹女共同率领魔兵。",
+      "appearance": [
+        "纤细洁白的双手，散着玉一般的光彩"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白修罗",
+          "type": "同僚"
+        },
+        {
+          "target": "红恶鬼",
+          "type": "同僚"
+        },
+        {
+          "target": "月姹女",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "率领魔兵阻击道装甲具。"
+        }
+      ],
+      "evidence": [
+        "黑夜叉、白修罗、红恶鬼、月姹女当先而出"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白修罗",
+      "aliases": [],
+      "identity": "魔兵将领",
+      "faction": "赤炼魔府",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "魔兵将领，话多，战后向小天器佬请教。",
+      "appearance": [],
+      "personality": [
+        "嘀咕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黑夜叉",
+          "type": "同僚"
+        },
+        {
+          "target": "红恶鬼",
+          "type": "同僚"
+        },
+        {
+          "target": "月姹女",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "与黑夜叉等率领魔兵。"
+        },
+        {
+          "stage": "战后",
+          "event": "凑上去想请小天器佬训练魔兵。"
+        }
+      ],
+      "evidence": [
+        "白修罗嘀咕道",
+        "白修罗也凑了上去，旁敲侧击"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "红恶鬼",
+      "aliases": [],
+      "identity": "魔兵将领",
+      "faction": "赤炼魔府",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "魔兵将领，面容狰狞。",
+      "appearance": [
+        "狰狞的、剥了皮的面孔"
+      ],
+      "personality": [
+        "憨"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黑夜叉",
+          "type": "同僚"
+        },
+        {
+          "target": "白修罗",
+          "type": "同僚"
+        },
+        {
+          "target": "月姹女",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "与黑夜叉等率领魔兵。"
+        }
+      ],
+      "evidence": [
+        "红恶鬼憨憨一笑"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "月姹女",
+      "aliases": [],
+      "identity": "魔兵将领",
+      "faction": "赤炼魔府",
+      "status": "登场",
+      "first_appearance": "第一百三十一章 破堡（一）",
+      "summary": "魔兵将领之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黑夜叉",
+          "type": "同僚"
+        },
+        {
+          "target": "白修罗",
+          "type": "同僚"
+        },
+        {
+          "target": "红恶鬼",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "与黑夜叉等率领魔兵。"
+        }
+      ],
+      "evidence": [
+        "黑夜叉、白修罗、红恶鬼、月姹女当先而出"
+      ],
+      "mention_count": 1
     },
     {
       "name": "胖子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "未知",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "在它们面前，只有一个傻乎乎的胖子，胖子憨笑着，两条眼睛被肥肉挤压，只剩一条细缝",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "一个傻乎乎的胖子，能操控妖虫，对抗尸王。",
+      "appearance": [
+        "傻乎乎的胖子，两条眼睛被肥肉挤压，只剩一条细缝"
+      ],
+      "personality": [
+        "傻乎乎"
+      ],
+      "abilities": [
+        "操控妖虫"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在它们面前，只有一个傻乎乎的胖子，胖子憨笑着，两条眼睛被肥肉挤压，只剩一条细缝",
-        "”    胖子傻乎乎道：“我们…比一比……比一比谁的人多",
-        "”    胖子从外皮上擦出一抹黄色的油水，然后塞入嘴里，而在下一刻，无数粗大恐怖的妖虫拔地而起，此起彼伏，无边无际"
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "独自对抗两个尸王，召唤妖虫。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "胖子傻乎乎道",
+        "胖子从外皮上擦出一抹黄色的油水，然后塞入嘴里",
+        "无数粗大恐怖的妖虫拔地而起"
+      ],
+      "mention_count": 3
     },
     {
       "name": "魉主",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "魉先生"
+      ],
+      "identity": "五殿之主麾下",
+      "faction": "陈国",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "”一位高层祸水东引，直指魉主",
+      "summary": "方云堡的鬼道高手，感应到敌方鬼气波动而未出手。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴沉"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”一位高层祸水东引，直指魉主",
-        "“呵呵，我感应到敌方阵营中，有一道强大不逊于我的鬼气波动，我若是出手，它自然不会袖手旁观，倒不如养精蓄锐，以起奇效，”魉主不在意道",
-        "”魉主面色一变，阴沉沉道：“吾主要庇护的，是整个陈国，不是一城一地的损失"
+      "relationships": [
+        {
+          "target": "五殿之主",
+          "type": "下属"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "破堡之战",
+          "event": "未出战，声称感应到敌方鬼气波动。"
+        },
+        {
+          "stage": "战后军议",
+          "event": "与王家高层争执。"
+        }
+      ],
+      "evidence": [
+        "魉先生此战为何不出动",
+        "魉主面色一变，阴沉沉道"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "公孙",
+      "name": "侯仲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "戚笼部下",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "方大剑师最后看到了城墙顶上的公孙裕德，这位公孙先生的眼神很冷漠、很苍老，甚至，隐约带着一丝快意",
+      "summary": "戚笼的部下，战后寻找戚笼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方大剑师最后看到了城墙顶上的公孙裕德，这位公孙先生的眼神很冷漠、很苍老，甚至，隐约带着一丝快意",
-        "“先祖，差不多了，此时再不派援兵，事后恐惹人怀疑，”公孙裕德低声道",
-        "“那就照你说的做吧，”‘公孙裕德’道"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主从"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "寻找戚笼，询问侯爷去向。"
+        }
+      ],
+      "evidence": [
+        "侯仲欲言又止，犹豫了好半晌，才发现‘薛保侯’不见了"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "公孙裕",
+      "name": "叶红玉",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "将领",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "方大剑师最后看到了城墙顶上的公孙裕德，这位公孙先生的眼神很冷漠、很苍老，甚至，隐约带着一丝快意",
+      "summary": "率烈火刀兵四千投靠戚笼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方大剑师最后看到了城墙顶上的公孙裕德，这位公孙先生的眼神很冷漠、很苍老，甚至，隐约带着一丝快意",
-        "“先祖，差不多了，此时再不派援兵，事后恐惹人怀疑，”公孙裕德低声道",
-        "“那就照你说的做吧，”‘公孙裕德’道"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "投靠"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "率烈火刀兵投靠戚笼。"
+        }
+      ],
+      "evidence": [
+        "末将叶红玉，率烈火刀兵四千，为侯爷效力"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "公孙裕德",
+      "name": "洪一",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "将领",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "方大剑师最后看到了城墙顶上的公孙裕德，这位公孙先生的眼神很冷漠、很苍老，甚至，隐约带着一丝快意",
+      "summary": "率夜不收三千投靠戚笼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方大剑师最后看到了城墙顶上的公孙裕德，这位公孙先生的眼神很冷漠、很苍老，甚至，隐约带着一丝快意",
-        "“先祖，差不多了，此时再不派援兵，事后恐惹人怀疑，”公孙裕德低声道",
-        "“那就照你说的做吧，”‘公孙裕德’道"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "投靠"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "率夜不收投靠戚笼。"
+        }
+      ],
+      "evidence": [
+        "末将洪一，率领夜不收三千，投靠侯爷"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "同时",
+      "name": "小天器佬",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "阵法大师",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "军旗一展，刹那间，方云堡四面城门大开，剩下的剑徒，混合着陈国特有的仆从兵，足有两万，密密麻麻的冲了过来，同一时间，城墙上上百口大炮轰鸣，同时箭楼、剑孔之中，无数弓弩、弓箭、还有超大号的剑弩，同时轰出",
+      "summary": "布置天兵巨神阵的阵法大师，战后受众人吹捧。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "舒爽"
+      ],
+      "abilities": [
+        "布置天兵巨神阵"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "军旗一展，刹那间，方云堡四面城门大开，剩下的剑徒，混合着陈国特有的仆从兵，足有两万，密密麻麻的冲了过来，同一时间，城墙上上百口大炮轰鸣，同时箭楼、剑孔之中，无数弓弩、弓箭、还有超大号的剑弩，同时轰出",
-        "”    十几派道人同时施法，上百道仙光一闪，便化作种种神通法相，与那‘玄武’纠缠起来",
-        "化魔符引发魔兵体内的魔血，让它们长出真正的外魔躯壳，并随着各种凄厉的怪吼声，一道一魔，两股骑兵，同时发起冲锋，毅然决然的撞在了一起，一时间，山塌石陷、血雨腥风，还有——怪兽一般的撕杀"
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "大马金刀坐着，接受众人吹捧。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "然而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "陈国的道装甲具是纸人兵马的进化版本，在道门中，纸人兵马没多少攻击力，只是障眼的戏法，是下九流法术，然而陈国道人将纸人兵马与祖灵之术融合，却是创造出了一种极具战斗力的道家兵马",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "陈国的道装甲具是纸人兵马的进化版本，在道门中，纸人兵马没多少攻击力，只是障眼的戏法，是下九流法术，然而陈国道人将纸人兵马与祖灵之术融合，却是创造出了一种极具战斗力的道家兵马",
-        "然而堵住大道的，却同样是一道骑兵，黑魔战甲、魔角枪、化魔符，以及最重要的，夜魔马",
-        "然而此时此刻，尸王猩红的眼中，却时不时的缩上一下，这是遇上天敌，警戒到极点的表现"
+        "小天器佬正大马金刀的坐着，腆着脸，迎接众人的吹捧"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "而在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "”    胖子从外皮上擦出一抹黄色的油水，然后塞入嘴里，而在下一刻，无数粗大恐怖的妖虫拔地而起，此起彼伏，无边无际",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    胖子从外皮上擦出一抹黄色的油水，然后塞入嘴里，而在下一刻，无数粗大恐怖的妖虫拔地而起，此起彼伏，无边无际",
-        "”    而在戚笼所在的大帐中，一男一女，两位兵将，正半跪于地"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "剑徒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十一章 破堡（一）",
-      "summary": "方大剑师死不瞑目，他最后看到的，是以往锋锐无比的剑徒，纷纷惨死在这诡异的阵势中，剑器破裂、白衣染血，然后，被各种兵器剁成肉酱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方大剑师死不瞑目，他最后看到的，是以往锋锐无比的剑徒，纷纷惨死在这诡异的阵势中，剑器破裂、白衣染血，然后，被各种兵器剁成肉酱",
-        "军旗一展，刹那间，方云堡四面城门大开，剩下的剑徒，混合着陈国特有的仆从兵，足有两万，密密麻麻的冲了过来，同一时间，城墙上上百口大炮轰鸣，同时箭楼、剑孔之中，无数弓弩、弓箭、还有超大号的剑弩，同时轰出",
-        "……    一战定胜负的战局是不存在的，哪怕是剑徒们落入绝对性的下风，也煎熬到了半夜，然后双方收兵回阵，倒不是说不能夜战，而是一到深夜，外道黑瘴就会迅速蔓延，这对于双方来说，都不是什么好消息，稍有不慎，整支兵马都会神秘消失"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

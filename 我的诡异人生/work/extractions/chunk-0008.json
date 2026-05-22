@@ -1,256 +1,104 @@
 {
   "chunk_id": "chunk-0008",
-  "title": "第7章 帝钟",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "模拟器使用者，前公司职员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第7章 帝钟",
-      "summary": "第7章 帝钟　　苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神，以及两旁显得有些臊眉耷眼的佛菩萨",
+      "summary": "主角，通过模拟器探索未来，谨慎且善于记录。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第7章 帝钟　　苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神，以及两旁显得有些臊眉耷眼的佛菩萨",
-        "苏午摸了摸衣兜，摸到衣兜里的手机，以及巴掌大的一个记事本",
-        "苏午微微安心"
+      "personality": [
+        "谨慎",
+        "善于记录"
       ],
-      "mention_count": 26
-    },
-    {
-      "name": "选项",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "”　　选项0：签筒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　选项0：签筒",
-        "选项2：解签书",
-        "选项3：香烛纸钱"
+      "abilities": [
+        "黑暗行者（绿色）天赋，可在黑暗中视物"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "年轻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "直到苏午将那一杯茶都喝完，年轻道士才拿着一个长条锦盒姗姗来迟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "直到苏午将那一杯茶都喝完，年轻道士才拿着一个长条锦盒姗姗来迟",
-        "这件铜铃，即是苏午与年轻道士好说歹说，才向对方求来的一件法器－帝钟",
-        "年轻道士拿这个过来，也是因为苏午想在云龙观购买一件能安神的法器"
+      "equipment": [
+        "记事本",
+        "手机",
+        "帝钟",
+        "神秘的包铜骨骼"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "年轻道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "直到苏午将那一杯茶都喝完，年轻道士才拿着一个长条锦盒姗姗来迟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "直到苏午将那一杯茶都喝完，年轻道士才拿着一个长条锦盒姗姗来迟",
-        "这件铜铃，即是苏午与年轻道士好说歹说，才向对方求来的一件法器－帝钟",
-        "年轻道士拿这个过来，也是因为苏午想在云龙观购买一件能安神的法器"
+      "relationships": [
+        {
+          "target": "年轻道士",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在云龙观模拟未来后死亡，退出模拟器，向年轻道士求取帝钟，返回平安花苑准备再次模拟。"
+        }
+      ],
+      "evidence": [
+        "苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神",
+        "苏午摸了摸衣兜，摸到衣兜里的手机，以及巴掌大的一个记事本。",
+        "苏午与道士就此别过，打车回了平安花苑。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "年轻道士",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "道长"
+      ],
+      "identity": "云龙观道士",
+      "faction": "云龙观",
       "status": "登场",
       "first_appearance": "第7章 帝钟",
-      "summary": "直到苏午将那一杯茶都喝完，年轻道士才拿着一个长条锦盒姗姗来迟",
+      "summary": "云龙观的道士，苏午的朋友，将师父的帝钟借给苏午。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "随和",
+        "不在乎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "朋友"
+        },
+        {
+          "target": "师父",
+          "type": "师徒"
+        }
+      ],
       "evidence": [
-        "直到苏午将那一杯茶都喝完，年轻道士才拿着一个长条锦盒姗姗来迟",
-        "这件铜铃，即是苏午与年轻道士好说歹说，才向对方求来的一件法器－帝钟",
-        "年轻道士拿这个过来，也是因为苏午想在云龙观购买一件能安神的法器"
+        "年轻道士才拿着一个长条锦盒姗姗来迟。",
+        "年轻道士好笑地看着苏午",
+        "年轻道士眼睛一亮，当即扫了二维码"
       ],
       "mention_count": 6
     },
     {
-      "name": "以及",
+      "name": "师父",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "云龙观老道士，年轻道士的师父",
+      "faction": "云龙观",
+      "status": "提及",
       "first_appearance": "第7章 帝钟",
-      "summary": "第7章 帝钟　　苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神，以及两旁显得有些臊眉耷眼的佛菩萨",
+      "summary": "年轻道士的师父，帝钟的原主人，也在苏午的钓鱼佬群里。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第7章 帝钟　　苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神，以及两旁显得有些臊眉耷眼的佛菩萨",
-        "苏午摸了摸衣兜，摸到衣兜里的手机，以及巴掌大的一个记事本",
-        "正要打开记事本翻阅一二时，敞开的大殿三门外，忽然有绯红光芒照了进来，笼住殿里的泥胎塑像，以及跪坐在蒲团上的苏午"
+      "relationships": [
+        {
+          "target": "年轻道士",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "帝钟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "第7章 帝钟　　苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神，以及两旁显得有些臊眉耷眼的佛菩萨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第7章 帝钟　　苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神，以及两旁显得有些臊眉耷眼的佛菩萨",
-        "这件铜铃，即是苏午与年轻道士好说歹说，才向对方求来的一件法器－帝钟",
-        "帝钟是道教重要法器，又名三清铃，一般道士驱邪降魔，祀神请圣都需要用到这件法器"
+        "这是我师父箱子里的东西",
+        "我师父也在你这个群里！"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "当下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "垂头环视周遭，当下光线昏暗，像是处于夜间的大殿里，各项摆设尽皆如旧，就是不见云龙观道士们的踪影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "垂头环视周遭，当下光线昏暗，像是处于夜间的大殿里，各项摆设尽皆如旧，就是不见云龙观道士们的踪影",
-        "当下看来，未来的自己依然保有了这个习惯"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "元玉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "”　　“本次可带出模拟游戏的物品有如下几项，可消耗一定数量的元玉选择带出某几项物品",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“本次可带出模拟游戏的物品有如下几项，可消耗一定数量的元玉选择带出某几项物品",
-        "”　　“你的钱包元玉余额为6，个人人生模拟消耗1元玉",
-        "”　　“是否消耗元玉，将现实物品带到模拟游戏中"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "垂头环视周遭，当下光线昏暗，像是处于夜间的大殿里，各项摆设尽皆如旧，就是不见云龙观道士们的踪影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "垂头环视周遭，当下光线昏暗，像是处于夜间的大殿里，各项摆设尽皆如旧，就是不见云龙观道士们的踪影",
-        "如此再戴着夜视仪进游戏，就是浪费元玉"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "也不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "也不知道现在是什么时间",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "也不知道现在是什么时间",
-        "门外也不安全",
-        "而云龙观以外，那一盏盏游荡在天空中、好似笼罩了整个明州市的‘红灯笼’，也不是善类"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "未来",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第7章 帝钟",
-      "summary": "当下看来，未来的自己依然保有了这个习惯",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当下看来，未来的自己依然保有了这个习惯",
-        "他本以为换个地方开启模拟，会有一个不一样的、或许更好的未来起点",
-        "却没想到在云龙观内模拟出的未来更加恐怖"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

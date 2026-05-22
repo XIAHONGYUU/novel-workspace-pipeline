@@ -1,251 +1,349 @@
 {
   "chunk_id": "chunk-0115",
-  "title": "第113章阀犬红衫奴",
   "characters": [
     {
-      "name": "吴拱",
-      "aliases": [],
-      "identity": "",
+      "name": "乌鸦华",
+      "aliases": [
+        "老人",
+        "老头"
+      ],
+      "identity": "乌鸦朵朵的爷爷",
       "faction": "",
       "status": "登场",
       "first_appearance": "第113章阀犬红衫奴",
-      "summary": "一副朱门贵公子打扮的吴拱高坐堂上，两名容貌艳丽的红衫侍女站在他左右",
+      "summary": "乌鸦朵朵的爷爷，联系了墨家天志会寻求保护。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "担忧",
+        "兴奋",
+        "信誓旦旦"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "乌鸦朵朵",
+          "type": "孙女"
+        },
+        {
+          "target": "李钧",
+          "type": "求助对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧通话后告知乌鸦朵朵已联系天志会。"
+        }
+      ],
       "evidence": [
-        "一副朱门贵公子打扮的吴拱高坐堂上，两名容貌艳丽的红衫侍女站在他左右",
-        "吴拱冷冷一笑，用脚尖点了点地上的尸体，“派人把这根‘叁条’给龚青鸿送回去，告诉他这就是剩下的尾款",
-        "”　　吴拱怒意冲霄，指着跪在地上的男人破口大骂，“怪不得几次三番都没碾死那只跳蚤，手下都是你这样的蠢货怎么办得成事"
+        "房间内，老人挂断了通讯，站在原地怔怔出神。",
+        "乌鸦华拍着胸脯，一副信誓旦旦的模样。",
+        "我联系上了墨家天志会的人，那群狂徒可半点不会惧怕锦衣卫。"
       ],
       "mention_count": 10
     },
     {
-      "name": "老人",
-      "aliases": [],
-      "identity": "",
+      "name": "乌鸦朵朵",
+      "aliases": [
+        "朵朵",
+        "丫头",
+        "少女"
+      ],
+      "identity": "乌鸦华的孙女",
       "faction": "",
       "status": "登场",
       "first_appearance": "第113章阀犬红衫奴",
-      "summary": "”　　应该了得到了对面肯定的答复，老人脸上的担忧稍缓",
+      "summary": "乌鸦华的孙女，担心爷爷花钱，不愿复兴门派。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "茫然",
+        "倔强",
+        "感性"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "爷爷"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "坐在冰柜上看书，与爷爷对话。"
+        }
+      ],
       "evidence": [
-        "”　　应该了得到了对面肯定的答复，老人脸上的担忧稍缓",
-        "”　　房间内，老人挂断了通讯，站在原地怔怔出神",
-        "”　　乌鸦朵朵抿着嘴唇，看向老人的眼眸中蓦然微微泛红"
+        "少女正坐在一台用来冷冻器官的冰柜上，一本画满小人的线装古籍平摊在膝盖上，眼睛却直愣愣的看着前方，眸底一片空洞。",
+        "她双拳攥紧压在树上，用怎么也掩藏不住的哭腔说道：",
+        "爷，我不要什么嫁妆，也不会再去想着复兴门派了，把钱都给别人吧。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "吴拱",
+      "aliases": [
+        "少爷",
+        "公子"
+      ],
+      "identity": "朱门贵公子，吴阀少爷",
+      "faction": "吴阀",
+      "status": "登场",
+      "first_appearance": "第113章阀犬红衫奴",
+      "summary": "吴阀少爷，性格暴戾，正在处理与李钧的冲突。",
+      "appearance": [
+        "一副朱门贵公子打扮"
+      ],
+      "personality": [
+        "暴戾",
+        "傲慢",
+        "狠辣"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴阀总管",
+          "type": "主仆"
+        },
+        {
+          "target": "扫红",
+          "type": "侍女"
+        },
+        {
+          "target": "锄药",
+          "type": "侍女"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "敌对"
+        },
+        {
+          "target": "顾玺",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "追杀目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在堂上审问总管，决定继续追杀李钧。"
+        }
+      ],
+      "evidence": [
+        "一副朱门贵公子打扮的吴拱高坐堂上，两名容貌艳丽的红衫侍女站在他左右。",
+        "吴拱怒意冲霄，指着跪在地上的男人破口大骂。",
+        "吴拱冷冷一笑，用脚尖点了点地上的尸体。"
       ],
       "mention_count": 8
     },
     {
-      "name": "乌鸦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "吴阀总管",
+      "aliases": [
+        "总管"
+      ],
+      "identity": "吴阀总管",
+      "faction": "吴阀",
       "status": "登场",
       "first_appearance": "第113章阀犬红衫奴",
-      "summary": "第113章阀犬红衫奴　　鸡鹅区，鬼街，乌鸦诊所",
+      "summary": "吴阀总管，因办事不力被吴拱责骂。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谄媚",
+        "惶恐"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第113章阀犬红衫奴　　鸡鹅区，鬼街，乌鸦诊所",
-        "”　　乌鸦华被看的浑身发毛，摸了摸自己下颌的胡须，两根手指捏在一起举到面前，悻悻道：“那个，确实是小花了点代价",
-        "”　　乌鸦朵朵抿着嘴唇，看向老人的眼眸中蓦然微微泛红"
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被吴拱用砚台砸伤，跪地求饶。"
+        }
+      ],
+      "evidence": [
+        "总管噗通一声跪倒在地，血肉翻卷的额头哐哐砸着地面。",
+        "总管谄媚道：“少爷，这川渝赌会里可有序七的刀客啊...”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "真的",
+      "name": "扫红",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "吴拱的侍女，红衫奴",
+      "faction": "吴阀",
       "status": "登场",
       "first_appearance": "第113章阀犬红衫奴",
-      "summary": "”　　“真的",
+      "summary": "吴拱的侍女，聪明，被吴拱称赞。",
+      "appearance": [
+        "容貌艳丽"
+      ],
+      "personality": [
+        "冰雪聪明",
+        "妩媚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为吴拱献酒，并分析顾玺可能出阴招。"
+        }
+      ],
+      "evidence": [
+        "一名容貌艳丽的红衫侍女站在他左右。",
+        "一个妩媚婉转的声音响起，短短一句话中却透着浓浓的媚意。",
+        "还是扫红你冰雪聪明。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "锄药",
+      "aliases": [],
+      "identity": "吴拱的侍女，红衫奴",
+      "faction": "吴阀",
+      "status": "登场",
+      "first_appearance": "第113章阀犬红衫奴",
+      "summary": "吴拱的侍女，有英气，自信能对付来犯之敌。",
+      "appearance": [
+        "眉眼中带着英气"
+      ],
+      "personality": [
+        "巾帼不让须眉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "附声表示只要敢来定让有来无回。"
+        }
+      ],
+      "evidence": [
+        "另一名眉眼中带着英气的红衫奴附声道。",
+        "只要敢来，奴婢定让他有来无回！",
+        "不愧是我的锄药，巾帼不让须眉！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "被吴阀追杀的目标",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第113章阀犬红衫奴",
+      "summary": "被吴阀追杀，乌鸦华向其求助。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "求助对象"
+        },
+        {
+          "target": "吴拱",
+          "type": "追杀目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乌鸦华与其通话，请求保密。"
+        }
+      ],
       "evidence": [
-        "”　　“真的",
-        "”　　“不过你放心哈，”老人急忙补充道：“真的就只花了一点点，我给你攒的嫁妆可一点没动",
-        "“真的"
+        "李钧.这次多谢伱了。",
+        "把那个李钧给超度了！",
+        "连这根‘叁条’都杀不了李钧"
       ],
       "mention_count": 5
     },
     {
-      "name": "我一定",
+      "name": "龚青鸿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "川渝赌会成员，刀客",
+      "faction": "川渝赌会",
+      "status": "提及",
       "first_appearance": "第113章阀犬红衫奴",
-      "summary": "”　　“老头，我先给你说，如果你敢骗我，我一定不给你养老送终，也不会再跟着你姓",
+      "summary": "川渝赌会的刀客，失手未能杀死李钧。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“老头，我先给你说，如果你敢骗我，我一定不给你养老送终，也不会再跟着你姓",
-        "”　　这位总管浑然没有察觉到那两名红衫奴眼中的戏谑，依旧殷勤道：“少爷您放心，这件事您交给我去办，我一定把那个李钧给超度了"
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "雇佣关系"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被吴拱提及，尸体被送回。"
+        }
+      ],
+      "evidence": [
+        "派人把这根‘叁条’给龚青鸿送回去，告诉他这就是剩下的尾款。",
+        "这次有龚青鸿失手在先"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "乌鸦华",
+      "name": "顾玺",
       "aliases": [],
-      "identity": "",
+      "identity": "吴拱的敌对人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第113章阀犬红衫奴",
-      "summary": "”　　乌鸦华被看的浑身发毛，摸了摸自己下颌的胡须，两根手指捏在一起举到面前，悻悻道：“那个，确实是小花了点代价",
+      "summary": "被吴拱视为阴狠的对手，隐忍不发。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴狠"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华被看的浑身发毛，摸了摸自己下颌的胡须，两根手指捏在一起举到面前，悻悻道：“那个，确实是小花了点代价",
-        "”　　乌鸦华拍着胸脯，一副信誓旦旦的模样",
-        "”　　半晌，乌鸦华突然大笑出声，伸手去抚摸女孩的头顶"
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "连这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第113章阀犬红衫奴",
-      "summary": "连这点小事都办不好，也配号称重庆府最大的‘刀客集团’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "连这点小事都办不好，也配号称重庆府最大的‘刀客集团’",
-        "”　　“连这根‘叁条’都杀不了李钧，其他的刀客来的也是送死吧"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被吴拱猜测会出阴招。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "一个跟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第113章阀犬红衫奴",
-      "summary": "而且你以后嫁人了，怎么得也要生两个娃，一个跟着夫家姓，一个跟着咱们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "而且你以后嫁人了，怎么得也要生两个娃，一个跟着夫家姓，一个跟着咱们"
+        "顾玺那孙子一肚子的阴狠心肠",
+        "以顾玺一贯的手段，现在恐怕是在打你们的主意了。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "还是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第113章阀犬红衫奴",
-      "summary": "“还是扫红你冰雪聪明",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“还是扫红你冰雪聪明",
-        "”　　吴拱哈哈一笑，反手捞住婢女纤细的腰肢，冷笑道：“老子这次就把脸伸给他，看是他打我的脸，还是我砍了他这只手"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "我一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第113章阀犬红衫奴",
-      "summary": "”　　“你也做好准备，我一旦把消息散出来，恐怕立刻会有人找你的麻烦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“你也做好准备，我一旦把消息散出来，恐怕立刻会有人找你的麻烦",
-        "”　　“老头，我先给你说，如果你敢骗我，我一定不给你养老送终，也不会再跟着你姓",
-        "”　　这位总管浑然没有察觉到那两名红衫奴眼中的戏谑，依旧殷勤道：“少爷您放心，这件事您交给我去办，我一定把那个李钧给超度了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "应该",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第113章阀犬红衫奴",
-      "summary": "”　　应该了得到了对面肯定的答复，老人脸上的担忧稍缓",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　应该了得到了对面肯定的答复，老人脸上的担忧稍缓"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "尸体",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第113章阀犬红衫奴",
-      "summary": "一具冷硬发臭的尸体被扔在堂下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一具冷硬发臭的尸体被扔在堂下",
-        "尸体的胸口处有一个拳头大小的洞眼，周围裸露的血肉早已经被雨水泡的肿胀发白",
-        "吴拱冷冷一笑，用脚尖点了点地上的尸体，“派人把这根‘叁条’给龚青鸿送回去，告诉他这就是剩下的尾款"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

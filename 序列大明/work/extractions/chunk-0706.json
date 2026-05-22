@@ -1,253 +1,392 @@
 {
   "chunk_id": "chunk-0706",
-  "title": "第703章长生",
   "characters": [
     {
       "name": "施卿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "纵横序说客",
+      "faction": "朱彝焰（大明皇帝）",
+      "status": "死亡",
       "first_appearance": "第703章长生",
-      "summary": "”　　施卿侃侃而谈：“但先不论这个梦想能否实现，这都与您的‘位业’背道而驰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　施卿侃侃而谈：“但先不论这个梦想能否实现，这都与您的‘位业’背道而驰",
-        "”　　施卿挺起残破的身躯，受损的械体让他的声音变得尖厉",
-        "”　　施卿突然抬手指向门口，李钧不知何时悄然现身，正面无表情的看着他"
+      "summary": "纵横序说客，受朱彝焰之命劝说张嗣源离开，最终被李钧击杀。",
+      "appearance": [
+        "残破的身躯",
+        "受损的械体",
+        "仅存的一只械眼"
       ],
-      "mention_count": 28
-    },
-    {
-      "name": "张嗣源",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "”　　张嗣源不屑道：“我有什么‘位业’，连我自己都不知道，你知道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "能言善辩",
+        "冷静",
+        "骄傲"
+      ],
+      "abilities": [
+        "纵横序能力",
+        "捭阖之术"
+      ],
+      "equipment": [
+        "械体"
+      ],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "劝说对象"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "君主"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "劝说张嗣源离开大明，被李钧枪杀。"
+        }
+      ],
       "evidence": [
-        "”　　张嗣源不屑道：“我有什么‘位业’，连我自己都不知道，你知道",
-        "”　　张嗣源似被勾动了往日的回忆，身上逸散的杀意正在缓缓变淡",
-        "”　　施卿这番话说的虽然有些笼统，但先后在刘谨勋和裴行俭的手下呆过的张嗣源，就算再大大咧咧，埋头当刀，依旧能够明白对方的意思"
+        "施卿侃侃而谈",
+        "施卿挺起残破的身躯",
+        "砰！枪声暴起，瞬间轰碎了施卿的械躯。"
       ],
       "mention_count": 20
     },
     {
-      "name": "张嗣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "”　　张嗣源不屑道：“我有什么‘位业’，连我自己都不知道，你知道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　张嗣源不屑道：“我有什么‘位业’，连我自己都不知道，你知道",
-        "”　　张嗣源似被勾动了往日的回忆，身上逸散的杀意正在缓缓变淡",
-        "”　　施卿这番话说的虽然有些笼统，但先后在刘谨勋和裴行俭的手下呆过的张嗣源，就算再大大咧咧，埋头当刀，依旧能够明白对方的意思"
+      "name": "张嗣源",
+      "aliases": [
+        "张公子",
+        "张大人"
       ],
-      "mention_count": 16
+      "identity": "张峰岳之子，儒序三（射艺儒序）",
+      "faction": "张峰岳阵营",
+      "status": "存活",
+      "first_appearance": "第703章长生",
+      "summary": "张峰岳之子，儒序三，性格豪爽不羁，与李钧、邹四九、陈乞生同行。",
+      "appearance": [],
+      "personality": [
+        "豪爽",
+        "不羁",
+        "狡猾",
+        "至孝"
+      ],
+      "abilities": [
+        "儒序三（射艺）",
+        "枪法"
+      ],
+      "equipment": [
+        "枪"
+      ],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "父子"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "施卿",
+          "type": "敌对"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与施卿对话，套取情报，后与李钧等人离开。"
+        }
+      ],
+      "evidence": [
+        "张嗣源不屑道",
+        "张嗣源冷笑道",
+        "张嗣源脱下外衣裹住李不逢的遗骸"
+      ],
+      "mention_count": 25
     },
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "李革君"
+      ],
+      "identity": "武序强者",
+      "faction": "张峰岳阵营",
+      "status": "存活",
       "first_appearance": "第703章长生",
-      "summary": "”　　施卿突然抬手指向门口，李钧不知何时悄然现身，正面无表情的看着他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "武序强者，与张嗣源同行，击杀施卿。",
+      "appearance": [
+        "脸色苍白"
+      ],
+      "personality": [
+        "冷静",
+        "杀伐果断"
+      ],
+      "abilities": [
+        "武序能力",
+        "枪法"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "同伴"
+        },
+        {
+          "target": "施卿",
+          "type": "敌对"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身，击杀施卿，与张嗣源等人离开。"
+        }
+      ],
       "evidence": [
-        "”　　施卿突然抬手指向门口，李钧不知何时悄然现身，正面无表情的看着他",
-        "”　　李钧冷声开口：“姓朱躲得了一时，不可能躲得了一辈子",
-        "“李钧"
+        "李钧不知何时悄然现身",
+        "李钧冷声开口",
+        "砰！枪声暴起，瞬间轰碎了施卿的械躯。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "张大人",
+        "张老头"
+      ],
+      "identity": "儒序二，前首辅",
+      "faction": "反朱阵营",
+      "status": "存活（提及）",
+      "first_appearance": "第703章长生",
+      "summary": "张嗣源之父，儒序二，推行新政，意图断绝序列。",
+      "appearance": [],
+      "personality": [
+        "老谋深算",
+        "理想主义"
+      ],
+      "abilities": [
+        "儒序二"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "父子"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及正在推行新政，与朱家对抗。"
+        }
+      ],
+      "evidence": [
+        "张大人所追求的梦想，是打破序列形成的壁垒",
+        "张峰岳要想断绝序列"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "朱彝焰",
+      "aliases": [
+        "陛下",
+        "小皇帝"
+      ],
+      "identity": "大明皇帝",
+      "faction": "大明皇室",
+      "status": "存活（提及）",
+      "first_appearance": "第703章长生",
+      "summary": "大明皇帝，与张峰岳对抗，利用纵横序和黄粱。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "善于布局"
+      ],
+      "abilities": [
+        "可能拥有长生之秘"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "施卿",
+          "type": "君主"
+        },
+        {
+          "target": "张峰岳",
+          "type": "敌对"
+        },
+        {
+          "target": "张嗣源",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及派施卿劝说张嗣源，并分享长生之秘。"
+        }
+      ],
+      "evidence": [
+        "陛下却不允许我们这这么做",
+        "朱彝焰这是打定主意要当缩头乌龟了"
       ],
       "mention_count": 8
     },
     {
-      "name": "难道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "”　　“难道在下说的可有半句假话错话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“难道在下说的可有半句假话错话",
-        "“你可知道为什么会有天下分武，难道是因为门派武序果真已经暴虐到了人神共愤的地步",
-        "为什么会有老派道序被灭，难道也只是因为所谓的新旧道统之争"
+      "name": "邹四九",
+      "aliases": [
+        "邹爷"
       ],
-      "mention_count": 8
+      "identity": "序列能力者（梦境相关）",
+      "faction": "张峰岳阵营",
+      "status": "存活",
+      "first_appearance": "第703章长生",
+      "summary": "与张嗣源、李钧同行，能力与梦境相关。",
+      "appearance": [],
+      "personality": [
+        "洒脱"
+      ],
+      "abilities": [
+        "梦境序列"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身与张嗣源等人同行。"
+        }
+      ],
+      "evidence": [
+        "邹四九的身影出现在张嗣源左侧"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "一样",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "”　　“连门阀都已经倒戈大半，张峰岳就算是儒序二，一样无力回天",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“连门阀都已经倒戈大半，张峰岳就算是儒序二，一样无力回天",
-        "那头黄粱鬼野性难驯，他能捅张希极一刀，一样也能捅你们一刀",
-        "”　　张嗣源耸动肩膀：“施卿你要是眼睛不瞎，应该能看得出来，朱彝焰那个小皇帝不是什么靠谱的东家，你给他卖命，前途暗淡，说不定什么时候就跟春秋会一样被抛弃"
+      "name": "陈乞生",
+      "aliases": [
+        "牛鼻子"
       ],
-      "mention_count": 7
+      "identity": "道序修仙者",
+      "faction": "张峰岳阵营",
+      "status": "存活",
+      "first_appearance": "第703章长生",
+      "summary": "道序修仙者，杀性重，与张嗣源等人同行。",
+      "appearance": [],
+      "personality": [
+        "杀伐果断",
+        "言简意赅"
+      ],
+      "abilities": [
+        "道序修仙"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身与张嗣源等人同行。"
+        }
+      ],
+      "evidence": [
+        "陈乞生双手踹在袖中，站在李钧右手"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "位业",
+      "name": "詹舜",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "黄粱鬼野性难驯的存在",
+      "faction": "未知",
+      "status": "存活（提及）",
       "first_appearance": "第703章长生",
-      "summary": "”　　施卿侃侃而谈：“但先不论这个梦想能否实现，这都与您的‘位业’背道而驰",
+      "summary": "被提及帮助朱彝焰，但可能反噬。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　施卿侃侃而谈：“但先不论这个梦想能否实现，这都与您的‘位业’背道而驰",
-        "”　　张嗣源不屑道：“我有什么‘位业’，连我自己都不知道，你知道",
-        "”　　施卿话音感慨：“这可都是您曾经说过的原话，如此‘位业’如果就这样轻易放弃，那真是令人扼腕叹息，甚至抱憾终身"
+      "personality": [
+        "野性难驯"
       ],
-      "mention_count": 6
+      "abilities": [
+        "黄粱相关"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱彝焰",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及帮助朱彝焰。"
+        }
+      ],
+      "evidence": [
+        "现在有詹舜帮忙",
+        "他能捅张希极一刀，一样也能捅你们一刀"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "其实",
+      "name": "李不逢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "遗骸",
+      "faction": "未知",
+      "status": "死亡",
       "first_appearance": "第703章长生",
-      "summary": "”　　施卿放声一笑：“其实对于我们这些做臣子的来说，在这种你死我活的关头，不应该，也不能放过张公子您，而是该无所不用其极",
+      "summary": "遗骸被张嗣源包裹带走。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　施卿放声一笑：“其实对于我们这些做臣子的来说，在这种你死我活的关头，不应该，也不能放过张公子您，而是该无所不用其极",
-        "”　　张嗣源直言不讳：“不过话说回来，就现在这形势，其实都不用你反，只要朱家铁了心当缩头乌龟，连我都不确定老头子到底还能不能赢"
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "被其带走"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "但先",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "”　　施卿侃侃而谈：“但先不论这个梦想能否实现，这都与您的‘位业’背道而驰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　施卿侃侃而谈：“但先不论这个梦想能否实现，这都与您的‘位业’背道而驰",
-        "”　　施卿这番话说的虽然有些笼统，但先后在刘谨勋和裴行俭的手下呆过的张嗣源，就算再大大咧咧，埋头当刀，依旧能够明白对方的意思"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "遗骸被张嗣源包裹带走。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "这才是序列存在的意义，这才是从序者存在的意义",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这才是序列存在的意义，这才是从序者存在的意义",
-        "张嗣源脱下外衣裹住李不逢的遗骸，仔仔细细系在背上，做完这一切后，这才小心翼翼看着李钧说道：“先说好啊，什么长生不长生的，我以前是真不知道"
+        "张嗣源脱下外衣裹住李不逢的遗骸"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "那我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "”　　“当然怕了，要是连你都投靠了朱家，那我就只能举枪给自己一个痛快了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“当然怕了，要是连你都投靠了朱家，那我就只能举枪给自己一个痛快了",
-        "“如果施卿说的那些话都是真的，那我也总算是能理解了，为什么老张他一辈子的想法总是在变"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "连我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第703章长生",
-      "summary": "”　　张嗣源不屑道：“我有什么‘位业’，连我自己都不知道，你知道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　张嗣源不屑道：“我有什么‘位业’，连我自己都不知道，你知道",
-        "”　　张嗣源直言不讳：“不过话说回来，就现在这形势，其实都不用你反，只要朱家铁了心当缩头乌龟，连我都不确定老头子到底还能不能赢"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

@@ -37,22 +37,19 @@ Prefer durable files when the user wants reusable output.
 
 This skill should usually be used after a novel workspace already exists.
 
-The normal starting point is:
+### 开始前必读文件（按文件名直接打开）
 
-- protagonist layer already exists, or
-- outline layer already exists, or
-- opening layer already exists, or
-- at least the workspace already contains stable project files
+不要凭记忆或猜测——以下文件名是固定的，按模板替换 `<小说名>` 和 `<主角名>` 即可定位：
 
-That means the first move is usually:
+| 优先级 | 文件名 | 从中提取的信息 |
+|---|---|---|
+| P0 | `<小说名>-整书粗阶段划分.md` | 五阶段边界——用于定位每个高光桥段的所属阶段 |
+| P0 | `<小说名>-主线支线与冲突地图.md`（如有） | 主线/支线结构——用于判断高光的结构功能 |
+| P0 | `<主角名>-最终人物卡.md` | 主角身份变化序列——用于标注高光对应的身份含金量 |
+| P1 | `<小说名>-高潮节奏与收束诊断.md`（如有） | 高潮分布和收束判断——交叉验证高光判断 |
+| P1 | `<小说名>-黄金前三章总判断.md`（如有） | 开篇钩子体系——用于判断全书吸引力机制的延续性 |
 
-- read the workspace first
-- reuse protagonist, outline, and opening context when present
-- then build the highlight-analysis layer on top of it
-
-not:
-
-- rebuild the project from zero
+**读取方式**：打开文件直接读。写 Top10 总表时，每个高光桥段应能标注它属于全书五阶段的哪一个。如果你不知道阶段边界在哪，说明你还没读粗阶段划分文件。
 
 ## What This Skill Is Not
 
@@ -78,7 +75,7 @@ Use this when the novel already has a durable workspace and the goal is to add a
 Default execution shape:
 
 - read the workspace first
-- detect reusable context such as protagonist card, index, outline files, or opening files
+- **开始前必读**：`<小说名>-整书粗阶段划分.md`、`<主角名>-最终人物卡.md`、`<小说名>-主线支线与冲突地图.md`（如有）
 - initialize highlight-analysis files in the existing workspace
 - write the Top 10 highlight file set
 - run validator
@@ -197,7 +194,23 @@ Rules:
 Use the bundled scripts when the task is starting a durable highlight-analysis workspace or when you need deterministic completion checks.
 
 - `scripts/init_highlight_workspace.py`
-  Use when a new highlight-analysis workspace needs starter files, or when an existing novel workspace needs highlight-analysis files added in place.
+  **角色**：搭脚手架，不写分析。此脚本只生成文件框架和字段模板——你需要读取已有上下文和原文来填充内容。
+
+- `scripts/validate_highlight_outputs.py`
+  Use before closing the task when you want a repeatable check of file coverage and content coverage.
+
+### Validator 关键词速查表
+
+Validator 通过 `has_keywords()` 检查每个文件是否包含特定关键词。请在填充内容时确保覆盖以下关键词：
+
+| 文件 | 需覆盖的关键词（minimum ≥4） |
+|---|---|
+| `<小说名>-最吸引人的十个剧情细节总表.md` | 总判断、高光细节 1、所在阶段、吸引力类型、主要作用 |
+| `<小说名>-剧情吸引力机制分析.md` | 核心判断、反差、悬念、情绪兑现、翻转、揭露 |
+| `<小说名>-Top10细节逐条拆解.md` | 细节 1、发生位置、前置铺垫、吸引力为什么成立、改变了什么 |
+| `<小说名>-高光桥段分布与节奏判断.md` | 高光分布总判断、前段高光、中段高光、后段高光、节奏判断 |
+| `<小说名>-最强爽点痛点悬念点总结.md` | 最强爽点、最强痛点、最强悬念点、综合判断 |
+| `<小说名>-剧情高光改造建议.md` | 当前最强高光、当前最弱区段、应该补强什么、应该前移或后移什么、应该压缩或合并什么 |
 - `scripts/validate_highlight_outputs.py`
   Use before closing the task when you want a repeatable check of file coverage and content coverage. The validator rejects placeholders and writes a persistent markdown report back into the workspace by default.
 

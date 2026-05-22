@@ -1,255 +1,269 @@
 {
   "chunk_id": "chunk-0223",
-  "title": "第二百二十一章 后遗症（上）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "林新往下看向山庄诸人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新往下看向山庄诸人",
-        "”林新媛在侧面座位低声道，“邀请诸多真人高手固然让我们声威大震，但也有极大的负担",
-        "”林新媛继续道，“只是大哥你……”　　她转头看向林新，却是话音一顿，面色愕然，没能再说下去"
+      "aliases": [
+        "庄主",
+        "大哥"
       ],
-      "mention_count": 32
-    },
-    {
-      "name": "公孙离",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "公孙离更是满头银丝，老态龙钟，遮掩不住的苍老",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "公孙离更是满头银丝，老态龙钟，遮掩不住的苍老",
-        "”林新媛急声看向精通医术的公孙离",
-        "公孙离也是此时面色凝重，起身悄悄靠近林新，动作极其轻缓，仿佛是害怕刺激到他"
+      "identity": "灵心山庄庄主",
+      "faction": "灵心山庄",
+      "status": "发病中",
+      "first_appearance": "",
+      "summary": "灵心山庄庄主，因离魂症后遗症陷入幻觉，失控杀戮后逃离山庄。",
+      "appearance": [
+        "满面红色血管凸起",
+        "双目隐现血红",
+        "白色衣服染成灰绿"
       ],
-      "mention_count": 9
+      "personality": [],
+      "abilities": [
+        "心眼剑道",
+        "红花剑"
+      ],
+      "equipment": [
+        "红花剑"
+      ],
+      "relationships": [
+        {
+          "target": "林新媛",
+          "type": "兄妹"
+        },
+        {
+          "target": "赵玉娘",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在庄主大厅发病，暴起杀人后逃入竹林，最终滚落山坡昏迷。"
+        }
+      ],
+      "evidence": [
+        "林新坐在主位上，此时正满面红色血管凸起，仿佛痛苦异常",
+        "林新捏爆扶手，整个人暴起射出，朝着大厅外飞射而去",
+        "这就是……幻觉……的代价么……？"
+      ],
+      "mention_count": 30
     },
     {
       "name": "林新媛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "”林新媛在侧面座位低声道，“邀请诸多真人高手固然让我们声威大震，但也有极大的负担",
+      "identity": "林新妹妹，山庄管事",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "",
+      "summary": "林新的妹妹，负责山庄日常事务和接待。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "关心兄长"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新媛在侧面座位低声道，“邀请诸多真人高手固然让我们声威大震，但也有极大的负担",
-        "”林新媛继续道，“只是大哥你……”　　她转头看向林新，却是话音一顿，面色愕然，没能再说下去",
-        "”　　林新媛猛地出声"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "兄妹"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大厅向林新汇报山庄情况，发现林新发病后疏散众人，试图安抚。"
+        }
+      ],
+      "evidence": [
+        "林新媛在侧面座位低声道",
+        "林新媛猛地出声",
+        "林新媛站出来，大声道"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "公孙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "公孙离更是满头银丝，老态龙钟，遮掩不住的苍老",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "name": "公孙离",
+      "aliases": [
+        "离老"
+      ],
+      "identity": "精通医术的元老",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "",
+      "summary": "山庄元老，精通医术，了解林新的离魂症。",
+      "appearance": [
+        "满头银丝，老态龙钟"
+      ],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "医术"
+      ],
+      "equipment": [
+        "药水"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属/医者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图接近林新安抚，但林新暴起逃离。"
+        }
+      ],
       "evidence": [
-        "公孙离更是满头银丝，老态龙钟，遮掩不住的苍老",
-        "”林新媛急声看向精通医术的公孙离",
-        "公孙离也是此时面色凝重，起身悄悄靠近林新，动作极其轻缓，仿佛是害怕刺激到他"
+        "公孙离更是满头银丝，老态龙钟",
+        "公孙离也是此时面色凝重，起身悄悄靠近林新",
+        "公孙离拿出一瓶准备在身上的药水"
       ],
       "mention_count": 6
     },
     {
-      "name": "仿佛",
+      "name": "陆索道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "林新坐在主位上，此时正满面红色血管凸起，仿佛痛苦异常，双手紧紧握在座椅两边扶手上，细微的咔咔声传出，扶手上明显浮现一道道细密的裂纹",
-      "appearance": [],
+      "identity": "山庄元老",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "",
+      "summary": "山庄元老之一，头发变为银白色。",
+      "appearance": [
+        "黑青色的长发也换成了淡淡的银白色"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新坐在主位上，此时正满面红色血管凸起，仿佛痛苦异常，双手紧紧握在座椅两边扶手上，细微的咔咔声传出，扶手上明显浮现一道道细密的裂纹",
-        "公孙离也是此时面色凝重，起身悄悄靠近林新，动作极其轻缓，仿佛是害怕刺激到他",
-        "林新不断在扭曲的漩涡中挣扎着，周围全部是海水一样的血红色液体，将他层层不断包裹起来，一种仿佛窒息的感觉不断冲击着他的肺部"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大厅参与会议，后离开。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "陆索道人原本黑青色的长发也换成了淡淡的银白色"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "山庄",
+      "name": "三元禅师",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "第二百二十一章 后遗症（上）　　重新坐在山庄主厅中主位",
-      "appearance": [],
+      "identity": "山庄元老",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "",
+      "summary": "山庄元老中最年轻的一位。",
+      "appearance": [
+        "精神奕奕"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二百二十一章 后遗症（上）　　重新坐在山庄主厅中主位",
-        "林新往下看向山庄诸人",
-        "“山庄现今的情况，大哥应该也清楚"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大厅参与会议，后离开。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "三元禅师还算是精神奕奕，是元老中最年轻的"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "都是",
+      "name": "欧映红",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "“山庄现在管辖一个大区，每隔一段时日都会有其他地境的镇压者前来拜访，都是由我和几位元老负责接待",
-      "appearance": [],
+      "identity": "山庄成员",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "",
+      "summary": "山庄成员，隐隐有成熟韵味。",
+      "appearance": [
+        "隐隐有了一丝成熟韵味"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“山庄现在管辖一个大区，每隔一段时日都会有其他地境的镇压者前来拜访，都是由我和几位元老负责接待",
-        "整个大厅内此时所有人高层都在，都是看到林新双眼眼神涣散，没有一点焦距，加上其脸上痛苦的表情和满脸的红色血管凸起",
-        "大厅内其余人面面相觑，都是感觉不知道出了什么事"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大厅参与会议。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "就连欧映红都隐隐有了一丝成熟韵味"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "只是",
+      "name": "赵玉娘",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "”林新媛继续道，“只是大哥你……”　　她转头看向林新，却是话音一顿，面色愕然，没能再说下去",
+      "identity": "林新母亲",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "",
+      "summary": "林新的母亲，外出游玩归来，险些被失控的林新所杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新媛继续道，“只是大哥你……”　　她转头看向林新，却是话音一顿，面色愕然，没能再说下去",
-        "只是林新作为庄主，此时的样子确实有些吓人，一行人出来以后也都各自分派自己手下打听消息，关于林新的具体情报一道道被汇聚在一起",
-        "林新似有所觉，但只是身法顿了顿，便再度化为一道红线飞出大厅"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "母子"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与亲族妇女说笑时，林新红线突至，险被刺中。"
+        }
+      ],
+      "evidence": [
+        "林新母亲赵玉娘正外出游玩回来",
+        "尖锐剑尖险险的悬停在赵玉娘后颈处"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "此时",
+      "name": "灰衣男子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "林新坐在主位上，此时正满面红色血管凸起，仿佛痛苦异常，双手紧紧握在座椅两边扶手上，细微的咔咔声传出，扶手上明显浮现一道道细密的裂纹",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新坐在主位上，此时正满面红色血管凸起，仿佛痛苦异常，双手紧紧握在座椅两边扶手上，细微的咔咔声传出，扶手上明显浮现一道道细密的裂纹",
-        "整个大厅内此时所有人高层都在，都是看到林新双眼眼神涣散，没有一点焦距，加上其脸上痛苦的表情和满脸的红色血管凸起",
-        "公孙离也是此时面色凝重，起身悄悄靠近林新，动作极其轻缓，仿佛是害怕刺激到他"
+      "identity": "金丹真人，山庄助拳者",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "",
+      "summary": "林新请来助拳的金丹真人之一，在竹林中潜修时遇到林新。",
+      "appearance": [
+        "灰衣"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "各自",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "众人此时都能看出来是林新身体出了问题，既然林新媛出来说话了，再加上有医术最好的公孙离在，便都是点头应是，各自一一离开",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "众人此时都能看出来是林新身体出了问题，既然林新媛出来说话了，再加上有医术最好的公孙离在，便都是点头应是，各自一一离开",
-        "只是林新作为庄主，此时的样子确实有些吓人，一行人出来以后也都各自分派自己手下打听消息，关于林新的具体情报一道道被汇聚在一起",
-        "漫天的木质扶手碎末到处飞舞溅射，公孙离两人都被突变带起的劲风撞开，各自弹开"
+      "abilities": [
+        "金丹修为"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "以至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "”林新浑身无法动弹，仿佛所有灵气都被沸腾的力量完全失控，以至于自己根本无法控制一丝一毫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新浑身无法动弹，仿佛所有灵气都被沸腾的力量完全失控，以至于自己根本无法控制一丝一毫",
-        "躺在草丛里他一动也不能动，心眼剑道速度太快，以至于金丹真人们都没来得及反应，他便自己冲出山庄阵法，现在也不知道跑到了什么地方"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "助拳者"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "重新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十一章 后遗症（上）",
-      "summary": "第二百二十一章 后遗症（上）　　重新坐在山庄主厅中主位",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二百二十一章 后遗症（上）　　重新坐在山庄主厅中主位"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在竹林中遇到林新，林新迅速逃离。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "忽然一灰衣男子缓缓从竹林中走出来",
+        "这人是山庄林新请来助拳的金丹真人之一"
+      ],
+      "mention_count": 2
     }
   ]
 }

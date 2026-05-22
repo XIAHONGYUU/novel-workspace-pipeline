@@ -1,258 +1,314 @@
 {
   "chunk_id": "chunk-0119",
-  "title": "第118章 五大巡察",
   "characters": [
     {
       "name": "肖巡察",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第118章 五大巡察",
-      "summary": "肖巡察，你为你儿子要来五百年的刑期，这种刑期是极重刑犯才有的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "肖巡察，你为你儿子要来五百年的刑期，这种刑期是极重刑犯才有的",
-        "”坐在‘肖巡察’对面的白发老者漠然开口，一点也未给同僚留下情面，“更何况，　　你儿子的‘体弱多病’究竟是怎么一回事呢",
-        "”　　“……”　　“我的儿子死了……”肖巡察顿了顿，没有理会白发老者的质问，仍然在喃喃自语"
+      "aliases": [
+        "肖巡察"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "青年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诡狱巡察",
+      "faction": "诡狱",
       "status": "登场",
       "first_appearance": "第118章 五大巡察",
-      "summary": "”肖巡察旁边白T恤的青年点了点头，和蔼的眼神看向其他三人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”肖巡察旁边白T恤的青年点了点头，和蔼的眼神看向其他三人",
-        "”白T青年轻声问道",
-        "”白T青年轻轻鼓掌，“现在可能与此事相关的云霓裳已经被崔勋运送往最近的诡狱"
+      "summary": "诡狱五大巡察之一，其子肖锦荣在龙山集死亡，导致诡狱收回部分加持力量。",
+      "appearance": [
+        "长脸，眼睛狭长，穿了一件夹克，看起来严肃正经的中年男人，眼里不断淌出泪水"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "肖巡",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第118章 五大巡察",
-      "summary": "肖巡察，你为你儿子要来五百年的刑期，这种刑期是极重刑犯才有的",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "悲伤",
+        "激动",
+        "擅专"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "肖锦荣",
+          "type": "儿子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在五大巡察会议上痛诉儿子死亡，并指出诡狱收回力量。"
+        }
+      ],
       "evidence": [
-        "肖巡察，你为你儿子要来五百年的刑期，这种刑期是极重刑犯才有的",
-        "”坐在‘肖巡察’对面的白发老者漠然开口，一点也未给同僚留下情面，“更何况，　　你儿子的‘体弱多病’究竟是怎么一回事呢",
-        "”　　“……”　　“我的儿子死了……”肖巡察顿了顿，没有理会白发老者的质问，仍然在喃喃自语"
+        "我的儿子被杀死了……",
+        "诡狱，收回了部分加持在我身上的力量！"
       ],
       "mention_count": 10
     },
     {
-      "name": "诡狱",
+      "name": "白发老者",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诡狱巡察",
+      "faction": "诡狱",
       "status": "登场",
       "first_appearance": "第118章 五大巡察",
-      "summary": "为了他能安稳活到百年以后，　　我在诡狱内兢兢业业做事，积攒功绩，为他兑换了一个服刑名额",
-      "appearance": [],
-      "personality": [],
+      "summary": "诡狱五大巡察之一，较为冷静，指出诡狱可能新增更高阶存在。",
+      "appearance": [
+        "白发老者"
+      ],
+      "personality": [
+        "冷静",
+        "漠然"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在会议上反驳肖巡察，分析诡狱力量被收回的原因。"
+        }
+      ],
       "evidence": [
-        "为了他能安稳活到百年以后，　　我在诡狱内兢兢业业做事，积攒功绩，为他兑换了一个服刑名额",
-        "是写入诡狱律条里的规则",
-        "“连诡狱都无法将我的儿子带回来，让他活命"
+        "坐在‘肖巡察’对面的白发老者漠然开口",
+        "这种情况并不是第一次出现"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "方乾",
+      "aliases": [
+        "白T青年",
+        "方巡察"
+      ],
+      "identity": "诡狱巡察",
+      "faction": "诡狱",
+      "status": "登场",
+      "first_appearance": "第118章 五大巡察",
+      "summary": "诡狱五大巡察之一，计划接收云霓裳并派人监视苏午。",
+      "appearance": [
+        "白T恤的青年，和蔼的眼神"
+      ],
+      "personality": [
+        "和蔼",
+        "周密"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "方元",
+          "type": "弟弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议接收云霓裳，并派弟弟方元与调查员许进监视苏午。"
+        }
+      ],
+      "evidence": [
+        "白T青年方乾神色郑重，应声道",
+        "我已经派了我的弟弟——观察员方元，与调查员许进，动身前往许清"
       ],
       "mention_count": 8
     },
     {
-      "name": "形成",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张游",
+      "aliases": [
+        "张巡察",
+        "矮胖中年"
+      ],
+      "identity": "诡狱巡察",
+      "faction": "诡狱",
       "status": "登场",
       "first_appearance": "第118章 五大巡察",
-      "summary": "黑暗在此间弥漫，与光明交织，形成了一种朦胧而阴沉的氛围",
-      "appearance": [],
-      "personality": [],
+      "summary": "诡狱五大巡察之一，心腹崔勋抓住了云霓裳，同意将云霓裳移交给方乾。",
+      "appearance": [
+        "穿这件套头衫的矮胖中年"
+      ],
+      "personality": [
+        "温声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崔勋",
+          "type": "心腹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在会议上安抚肖巡察，并决定将云霓裳移交给方乾。"
+        }
+      ],
+      "evidence": [
+        "矮胖中年温声提醒",
+        "张游目视肖巡察，主动出声道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "长衫老者",
+      "aliases": [
+        "瘦若骷髅的老者"
+      ],
+      "identity": "诡狱巡察",
+      "faction": "诡狱",
+      "status": "登场",
+      "first_appearance": "第118章 五大巡察",
+      "summary": "诡狱五大巡察之一，提议大家各自派人去许清抓苏午。",
+      "appearance": [
+        "眼窝深陷、瘦得只剩一把骨头的长衫老者"
+      ],
+      "personality": [
+        "阴森"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑暗在此间弥漫，与光明交织，形成了一种朦胧而阴沉的氛围",
-        "它们竖立交叠，形成了栅栏，将五人围在这栅栏里",
-        "把那个民间驭诡者‘苏午’捉回来，　　在此之前，许清本地驭诡者将对苏午形成严密监控，确保他不会突然消失"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在会议上提议各自派人去许清抓苏午。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "穿着长衫，瘦若骷髅，极没有存在感的老者，面上露出一抹阴森的笑容",
+        "既然这样，那大家就都派人去许清"
+      ],
+      "mention_count": 3
     },
     {
       "name": "云霓裳",
       "aliases": [],
-      "identity": "",
+      "identity": "民间驭诡者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第118章 五大巡察",
-      "summary": "云霓裳和那个民间驭诡者，究竟对我的儿子做了什么",
+      "summary": "被崔勋抓住，将被移送到铁塔山诡狱，由方乾审讯。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "云霓裳和那个民间驭诡者，究竟对我的儿子做了什么",
-        "”白T青年轻轻鼓掌，“现在可能与此事相关的云霓裳已经被崔勋运送往最近的诡狱",
-        "肖巡察盯着他开口了：“两个可能涉及此事的人‘云霓裳’、‘苏午’你都要掌握住，　　你不觉得你太擅专了么"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被崔勋控制，即将被移送至铁塔山诡狱。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "方乾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第118章 五大巡察",
-      "summary": "”　　白T青年方乾神色郑重，应声道：“我一定全力以赴",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　白T青年方乾神色郑重，应声道：“我一定全力以赴",
-        "虽然不知张游与方乾私下里达成了什么交易，但既然张游做主要把云霓裳送给方乾来接手，　　其他三位巡察也无可奈何",
-        "方乾迈步走入黑暗中，光芒无法照亮的黑暗中，显出两堵青砖砌造的墙壁"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第118章 五大巡察",
-      "summary": "他的双手捧着一根血淋淋的物什，捧在桌面上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他的双手捧着一根血淋淋的物什，捧在桌面上",
-        "”肖巡察看另外四人没有理会他的意思，　　顿时加大了音量，语调也变得亢奋起来：“你们难道不想知道原因吗",
-        "而他的身后，有一扇锁链被打开的，遍布铁刺与血污的栅栏门"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "让他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第118章 五大巡察",
-      "summary": "本以为这样就能把他留在我的身边，让他能安稳活到正常人的寿命——可他却在第一次服劳役时，就这样死掉了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "本以为这样就能把他留在我的身边，让他能安稳活到正常人的寿命——可他却在第一次服劳役时，就这样死掉了",
-        "“连诡狱都无法将我的儿子带回来，让他活命",
-        "为了保证对苏午的监控不会失败，　　我已经派了我的弟弟——观察员方元，与调查员许进，动身前往许清，让他们在苏午居所附近找地方住下，时刻监视苏午的行踪"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "云霓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第118章 五大巡察",
-      "summary": "云霓裳和那个民间驭诡者，究竟对我的儿子做了什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "云霓裳和那个民间驭诡者，究竟对我的儿子做了什么",
-        "”白T青年轻轻鼓掌，“现在可能与此事相关的云霓裳已经被崔勋运送往最近的诡狱",
-        "肖巡察盯着他开口了：“两个可能涉及此事的人‘云霓裳’、‘苏午’你都要掌握住，　　你不觉得你太擅专了么"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "黑暗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第118章 五大巡察",
-      "summary": "黑暗在此间弥漫，与光明交织，形成了一种朦胧而阴沉的氛围",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑暗在此间弥漫，与光明交织，形成了一种朦胧而阴沉的氛围",
-        "五人的身后，光芒投照进的黑暗深处，隐约可以看到一根根布满倒刺与血污的铁柱",
-        "”　　说完话，他站起身，背着手缓缓走入了身后的黑暗里"
+        "云霓裳已经被崔勋控制住",
+        "云霓裳和那个民间驭诡者，究竟对我的儿子做了什么？"
       ],
       "mention_count": 4
     },
     {
-      "name": "五人",
-      "aliases": [],
-      "identity": "",
+      "name": "苏午",
+      "aliases": [
+        "民间驭诡者"
+      ],
+      "identity": "民间驭诡者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第118章 五大巡察",
-      "summary": "五人的身后，光芒投照进的黑暗深处，隐约可以看到一根根布满倒刺与血污的铁柱",
+      "summary": "被怀疑与诡狱力量被收回有关，正被许清本地驭诡者监控，五大巡察计划派人抓捕。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "五人的身后，光芒投照进的黑暗深处，隐约可以看到一根根布满倒刺与血污的铁柱",
-        "它们竖立交叠，形成了栅栏，将五人围在这栅栏里",
-        "好似将五人围困在笼中"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被许清本地驭诡者监控，五大巡察计划派人抓捕。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "把那个民间驭诡者‘苏午’捉回来",
+        "许清本地驭诡者将对苏午形成严密监控"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "崔勋",
+      "aliases": [],
+      "identity": "张巡察的心腹",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第118章 五大巡察",
+      "summary": "张游的心腹，抓住了云霓裳，并将她运送往最近的诡狱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张游",
+          "type": "心腹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抓住云霓裳，并运送她往最近的诡狱。"
+        }
+      ],
+      "evidence": [
+        "云霓裳已经被崔勋控制住",
+        "崔勋——更是张巡察的心腹"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "方元",
+      "aliases": [],
+      "identity": "观察员，方乾的弟弟",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第118章 五大巡察",
+      "summary": "方乾的弟弟，被派往许清监视苏午。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "方乾",
+          "type": "哥哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与调查员许进动身前往许清监视苏午。"
+        }
+      ],
+      "evidence": [
+        "我已经派了我的弟弟——观察员方元，与调查员许进，动身前往许清"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "许进",
+      "aliases": [],
+      "identity": "调查员",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第118章 五大巡察",
+      "summary": "被方乾派往许清监视苏午的调查员。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与观察员方元动身前往许清监视苏午。"
+        }
+      ],
+      "evidence": [
+        "我已经派了我的弟弟——观察员方元，与调查员许进，动身前往许清"
+      ],
+      "mention_count": 1
     }
   ]
 }

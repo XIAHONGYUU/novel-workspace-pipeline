@@ -1,257 +1,193 @@
 {
   "chunk_id": "chunk-0524",
-  "title": "第522章意外和惊喜",
   "characters": [
     {
       "name": "王旗",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "小王"
+      ],
+      "identity": "大明帝国底层平民，穿越者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第522章意外和惊喜",
-      "summary": "自从知道这个世界只是一场黄粱游戏之后，王旗便感觉整个人瞬间豁然开朗",
-      "appearance": [],
-      "personality": [],
+      "summary": "穿越到黄粱梦境世界的现代人，角色为大明帝国最底层‘三无’人员，目标是成为从序者。",
+      "appearance": [
+        "浑身衣衫尽湿，看上去比拾荒汉还狼狈"
+      ],
+      "personality": [
+        "胆大",
+        "敢想敢干",
+        "虚荣",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "自从知道这个世界只是一场黄粱游戏之后，王旗便感觉整个人瞬间豁然开朗",
-        "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-        "从那间触发任务房间离开后，王旗花了足足大半天的时间，徒步到了金陵北城的狮子山下"
+      "relationships": [
+        {
+          "target": "鳌虎",
+          "type": "梦境人物，任务关联"
+        },
+        {
+          "target": "李钧",
+          "type": "第二次见面，试图攀交情"
+        },
+        {
+          "target": "沈笠",
+          "type": "初次见面，互相试探"
+        },
+        {
+          "target": "荣麓",
+          "type": "初次见面，被其视为意外"
+        }
       ],
-      "mention_count": 40
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往金陵北城狮子山下黑市交易点，途中偶遇荣麓，后在酒肆遇见李钧和沈笠。"
+        }
+      ],
+      "evidence": [
+        "自从知道这个世界只是一场黄粱游戏之后，王旗便感觉整个人瞬间豁然开朗。",
+        "他现在浑身上下还有不到一万宝钞。",
+        "王旗大喇喇拉开椅子坐下，对着李钧拱手抱拳。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "钧哥"
+      ],
+      "identity": "武序从序者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第522章意外和惊喜",
+      "summary": "王旗之前在地龙站遇到的梦境角色，实力强劲，与王旗再次相遇。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "生硬"
+      ],
+      "abilities": [
+        "武序"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王旗",
+          "type": "第二次见面，被其试图攀交情"
+        },
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        },
+        {
+          "target": "荣麓",
+          "type": "被其视为惊喜"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在酒肆中与沈笠一起，遇到王旗和荣麓。"
+        }
+      ],
+      "evidence": [
+        "李钧回了沈笠一个稍安勿躁的目光，问道：‘王旗，你怎么会来这儿？’",
+        "李钧笑道：‘可我走的是武序，可不是什么大路。’"
+      ],
+      "mention_count": 12
     },
     {
       "name": "沈笠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "‘天阙’年轻一辈三杰之一，武序从序者",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第522章意外和惊喜",
-      "summary": "”　　沈笠表情古怪的看着眼前面露期待的王旗，一时间有点摸不清楚对方跟李钧的关系",
+      "summary": "李钧的同伴，专精内功一系的武序四，曾被大昭寺通缉。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　沈笠表情古怪的看着眼前面露期待的王旗，一时间有点摸不清楚对方跟李钧的关系",
-        "而且在沈笠的感知中，对方就是个实打实的普通人，而且因为淋了雨受了冷，现在身体还在打着摆子",
-        "沈笠腰杆挺直，两手抱拳，神情郑重道：“小弟我叫沈笠，没请教阁下"
+      "personality": [
+        "跋扈",
+        "警惕"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "男人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "他抬起头，一个将近八尺高的男人挡在他面前，伞面下是一副刀眉隆鼻，宽松的衣袍依旧能看出肌肉隆起的形状，和常人截然不同的淡红眸子里，带着生人勿近的厉色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "武序四",
+        "内功",
+        "感知和抗性基因反哺"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "王旗",
+          "type": "初次见面，互相试探"
+        },
+        {
+          "target": "荣麓",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在酒肆中与李钧一起，遇到王旗和荣麓。"
+        }
+      ],
       "evidence": [
-        "他抬起头，一个将近八尺高的男人挡在他面前，伞面下是一副刀眉隆鼻，宽松的衣袍依旧能看出肌肉隆起的形状，和常人截然不同的淡红眸子里，带着生人勿近的厉色",
-        "”　　男人点头看向王旗，说话的语气生硬无比",
-        "男人并没有阻拦王旗的离开，只是撑着伞站在雨中，定定看着那道带着仓惶味道的背影，如同雕像一般，眼底红光流转"
+        "沈笠腰杆挺直，两手抱拳，神情郑重道：‘小弟我叫沈笠，没请教阁下？’",
+        "沈笠一身跋扈气焰，根本不把荣麓放在眼里。"
       ],
       "mention_count": 10
     },
     {
-      "name": "而且",
+      "name": "荣麓",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "墨序从序者，中部分院兼爱所二把手",
+      "faction": "墨序",
       "status": "登场",
       "first_appearance": "第522章意外和惊喜",
-      "summary": "整个过程不止耗时很长，而且花费巨大，对于王旗来说显然不是一个好的选择",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "整个过程不止耗时很长，而且花费巨大，对于王旗来说显然不是一个好的选择",
-        "所以他只能将目标放在一个最简单粗暴，而且门槛最低的晋升方法",
-        "而且这个人能把给自己引路的鳌虎打成那样，说明肯定是一个强劲的梦境角色，甚至可能和自己所处的阵营关系匪浅"
+      "summary": "墨序高手，以前是孟席的头号走狗，现在改投刘仙州旗下，以分身出现。",
+      "appearance": [
+        "将近八尺高的男人，刀眉隆鼻，宽松衣袍下肌肉隆起，淡红眸子，带着生人勿近的厉色"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "”　　再次见到李钧，王旗已经不再像当时那样在地龙列车上那样害怕",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　再次见到李钧，王旗已经不再像当时那样在地龙列车上那样害怕",
-        "王旗大喇喇拉开椅子坐下，对着李钧拱手抱拳",
-        "”　　“李钧"
+      "personality": [
+        "生硬",
+        "冷静"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "要不然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-        "听两人这几句话的意思，他们之前应该是见过面的，但绝对没有什么交情，要不然也不会连李钧的名字也不知道",
-        "”　　王旗斩钉截铁道：“而是兄弟情谊，要不然就是师徒情分"
+      "abilities": [
+        "墨序"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "还是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "这倒不是他已经穷困潦倒连搭乘地龙的钱都没有，在那长达半年的前置剧情之中，他当工奴还是攒下了一些积蓄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这倒不是他已经穷困潦倒连搭乘地龙的钱都没有，在那长达半年的前置剧情之中，他当工奴还是攒下了一些积蓄",
-        "虽然被自己的工头联合黑医馆骗了大半，但多少还是留了点傍身",
-        "王旗放慢脚步走在街上，细细感受着这个无论是真实度，还是细腻度，都高得吓人的梦境世界"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "视为惊喜"
+        },
+        {
+          "target": "沈笠",
+          "type": "视为意外"
+        },
+        {
+          "target": "王旗",
+          "type": "初次见面，被其撞到"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "他这次横穿大半个金陵城来到这里，并不是漫无目的的到处闲逛，而是为了完成当前的主要任务",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他这次横穿大半个金陵城来到这里，并不是漫无目的的到处闲逛，而是为了完成当前的主要任务",
-        "不过，王旗倒不是突然关心起朝廷大事来，而是对袭击发生的地点位于辽东而感到震惊",
-        "不再是索命的恶徒，而是一座待挖的金山"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在雨中与王旗相遇，后进入酒肆与李钧、沈笠对峙。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "小弟我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "沈笠腰杆挺直，两手抱拳，神情郑重道：“小弟我叫沈笠，没请教阁下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "沈笠腰杆挺直，两手抱拳，神情郑重道：“小弟我叫沈笠，没请教阁下",
-        "”　　没等李钧回答，王旗便端着屁股下的椅子，往李钧那一边靠了靠，兴冲冲道：“其实那天地龙站一别，小弟我一直后悔当时没有抓住机会，向钧哥表达我心底的钦佩之意",
-        "“巧了，小弟我也是走这条小道来的"
+        "男人点头看向王旗，说话的语气生硬无比。",
+        "荣麓话音平静：‘我今天不是来找你的，你只是一个意外。’",
+        "荣麓转头看向李钧，眼如深潭：‘而你，是一个惊喜！’"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "此刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "什么如履薄冰，什么谨小慎微，此刻在他眼中那都是扯淡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "什么如履薄冰，什么谨小慎微，此刻在他眼中那都是扯淡",
-        "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-        "此刻的天色已经是昏暗一片，路边街灯和两侧店铺照片散发出的光芒却足以让王旗看清楚每一个路人的脸"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "要不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-        "听两人这几句话的意思，他们之前应该是见过面的，但绝对没有什么交情，要不然也不会连李钧的名字也不知道",
-        "”　　王旗斩钉截铁道：“而是兄弟情谊，要不然就是师徒情分"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "王旗觉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第522章意外和惊喜",
-      "summary": "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "要不然，王旗觉得自己此刻应该已经上街横冲直撞，开始横行霸道了",
-        "想来想去，王旗觉得这些正经途径自己大概率都是走不通了，只能把精力放在一些能够速成的野路子上"
-      ],
-      "mention_count": 4
+      "mention_count": 8
     }
   ]
 }

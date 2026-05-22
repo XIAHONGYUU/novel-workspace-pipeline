@@ -1,252 +1,205 @@
 {
   "chunk_id": "chunk-0125",
-  "title": "第123章莫须有",
   "characters": [
     {
       "name": "吴拱",
       "aliases": [],
-      "identity": "",
+      "identity": "儒家士子，冯黄的学生",
       "faction": "",
       "status": "登场",
       "first_appearance": "第123章莫须有",
-      "summary": "”吴拱面色平静",
+      "summary": "吴拱在朝堂上举报冯黄和顾玺受贿，拿出证据，态度不卑不亢。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "不卑不亢",
+        "大胆"
+      ],
+      "abilities": [
+        "六艺实力较强"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "冯黄",
+          "type": "学生与老师"
+        },
+        {
+          "target": "顾玺",
+          "type": "竞争对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在朝堂上出示证据，指控冯黄和顾玺受贿。"
+        }
+      ],
+      "evidence": [
+        "吴拱拿出一份电子档案放在桌上，伸手轻轻一点，立马有投影飞射而出，悬浮在众人面前。",
+        "吴拱眼神睥睨，“说句有辱斯文的话，凭你顾玺也配？”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "冯黄",
+      "aliases": [
+        "冯掌固"
+      ],
+      "identity": "朝廷命官，吏部考公司掌固",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第123章莫须有",
+      "summary": "冯黄被吴拱指控受贿，面对证据面色铁青，心慌。",
+      "appearance": [],
+      "personality": [
+        "心慌",
+        "色厉内荏"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”吴拱面色平静",
-        "吴拱，你这是罪加一等",
-        "”　　面对冯黄和顾玺的发难，吴拱依旧慢条斯理道：“有句话说得好，若要人不知，除非己莫为啊"
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "老师与学生"
+        },
+        {
+          "target": "顾玺",
+          "type": "受贿关系"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被吴拱当众指控受贿。"
+        }
+      ],
+      "evidence": [
+        "冯黄此时面色铁青，朝着老神在在的张显抱拳一礼，“请大人处置这个造谣中伤属下的狂徒！”",
+        "冯黄按在腰带间上的手掌猛地捏紧，这个该死的顾玺，送我的东西居然还敢留底子？！"
+      ],
+      "mention_count": 8
     },
     {
       "name": "顾玺",
       "aliases": [],
-      "identity": "",
+      "identity": "朝廷命官，吏部考公司官员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第123章莫须有",
-      "summary": "”　　顾玺冷冷一笑，“按大明律，要剥夺你序列之身，贬为罪民，流放帝国本土之外，永不得回",
+      "summary": "顾玺与冯黄有受贿往来，被吴拱举报，但试图辩解。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "自信",
+        "狡辩"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾玺冷冷一笑，“按大明律，要剥夺你序列之身，贬为罪民，流放帝国本土之外，永不得回",
-        "”　　面对冯黄和顾玺的发难，吴拱依旧慢条斯理道：“有句话说得好，若要人不知，除非己莫为啊",
-        "“湖笔、徽砚、宣德描金笺、崇祯诏书、春宫画”　　这一点，顾玺自己也是心知肚明"
+      "relationships": [
+        {
+          "target": "冯黄",
+          "type": "行贿关系"
+        },
+        {
+          "target": "吴拱",
+          "type": "竞争对手"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被吴拱举报行贿，但声称自己行的端坐得正。"
+        }
+      ],
+      "evidence": [
+        "顾玺冷冷一笑，“按大明律，要剥夺你序列之身，贬为罪民，流放帝国本土之外，永不得回！”",
+        "顾玺表情不屑，“如此血口喷人，胡乱攀咬，也配得上儒家士子的身份？”"
+      ],
+      "mention_count": 8
     },
     {
       "name": "张显",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "张大人"
+      ],
+      "identity": "朝廷高官，主持问询",
       "faction": "",
       "status": "登场",
       "first_appearance": "第123章莫须有",
-      "summary": "”　　张显抬了抬手，“要是有证据，现在就拿出来吧",
+      "summary": "张显在朝堂上主持问询，要求吴拱拿出证据，并让冯黄解释。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "威严",
+        "冷静"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　张显抬了抬手，“要是有证据，现在就拿出来吧",
-        "可要是没有，那就是当着张显的面攀咬吏部考公司的官员，犯了庙堂大忌",
-        "张显微微点头，“那你倒是说说，什么叫莫须有"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主持对吴拱举报的审理。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "冯黄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章莫须有",
-      "summary": "第123章莫须有　　冯黄厉声喝道：“大胆狂生，你可知道污蔑朝廷命官是什么罪名",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第123章莫须有　　冯黄厉声喝道：“大胆狂生，你可知道污蔑朝廷命官是什么罪名",
-        "”　　面对冯黄和顾玺的发难，吴拱依旧慢条斯理道：“有句话说得好，若要人不知，除非己莫为啊",
-        "这么华而不实的东西，件件都是冯黄的心头好"
+        "张显抬了抬手，“要是有证据，现在就拿出来吧。”",
+        "张显缓缓开口，表情平静，不见波澜，却给人一种不容置疑的威严感。"
       ],
-      "mention_count": 5
+      "mention_count": 4
     },
     {
       "name": "姚崇礼",
       "aliases": [],
-      "identity": "",
+      "identity": "朝廷官员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第123章莫须有",
-      "summary": "”　　姚崇礼的脸色同样阴难看，心头怒意升腾",
+      "summary": "姚崇礼对吴拱的突然出手感到被动，但看到证据后脸色好转。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　姚崇礼的脸色同样阴难看，心头怒意升腾",
-        "姚崇礼喝道：“你什么身份，也配开口",
-        "姚崇礼轻声念着投影上的内容，每说出一件礼物的名字，脸上的阴沉就消散一分"
+      "personality": [
+        "阴晴不定"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "也配",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章莫须有",
-      "summary": "姚崇礼喝道：“你什么身份，也配开口",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姚崇礼喝道：“你什么身份，也配开口",
-        "顾玺表情不屑，“如此血口喷人，胡乱攀咬，也配得上儒家士子的身份",
-        "吴拱眼神睥睨，“说句有辱斯文的话，凭你顾玺也配"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "对吴拱的举报感到被动，但看到证据后脸色好转。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "学生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章莫须有",
-      "summary": "只听他朗声道：“回禀大人，学生当然有证据",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "只听他朗声道：“回禀大人，学生当然有证据",
-        "“大人，如此莫须有的罪名，学生不认为冯大人有什么好解释的",
-        "“启禀大人，学生虽然没有官身，却早就拜师在冯掌固座下学习"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "永不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章莫须有",
-      "summary": "”　　顾玺冷冷一笑，“按大明律，要剥夺你序列之身，贬为罪民，流放帝国本土之外，永不得回",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾玺冷冷一笑，“按大明律，要剥夺你序列之身，贬为罪民，流放帝国本土之外，永不得回"
+        "姚崇礼的脸色同样阴难看，心头怒意升腾。",
+        "姚崇礼轻声念着投影上的内容，每说出一件礼物的名字，脸上的阴沉就消散一分。"
       ],
       "mention_count": 3
     },
     {
-      "name": "要是",
+      "name": "裴行俭",
       "aliases": [],
-      "identity": "",
+      "identity": "朝廷官员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第123章莫须有",
-      "summary": "”　　张显抬了抬手，“要是有证据，现在就拿出来吧",
+      "summary": "裴行俭在朝堂上观察事态发展，对吴拱的举动感兴趣。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷峻",
+        "观察力强"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　张显抬了抬手，“要是有证据，现在就拿出来吧",
-        "“吴拱，你要是有证据，就拿出来",
-        "但若你要是没有，本官这次也轻饶不了你"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在朝堂上观察吴拱举报事件。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "姚崇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章莫须有",
-      "summary": "”　　姚崇礼的脸色同样阴难看，心头怒意升腾",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　姚崇礼的脸色同样阴难看，心头怒意升腾",
-        "姚崇礼喝道：“你什么身份，也配开口",
-        "姚崇礼轻声念着投影上的内容，每说出一件礼物的名字，脸上的阴沉就消散一分"
+        "裴行俭眼眸中冷光流转，原本随意卧在椅中的身体微微坐直。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "伸手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章莫须有",
-      "summary": "”　　吴拱拿出一份电子档案放在桌上，伸手轻轻一点，立马有投影飞射而出，悬浮在众人面前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　吴拱拿出一份电子档案放在桌上，伸手轻轻一点，立马有投影飞射而出，悬浮在众人面前"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "回禀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章莫须有",
-      "summary": "只听他朗声道：“回禀大人，学生当然有证据",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只听他朗声道：“回禀大人，学生当然有证据"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

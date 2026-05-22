@@ -1,257 +1,315 @@
 {
   "chunk_id": "chunk-0218",
-  "title": "第二百一十六章 麻烦（下）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "红花",
+        "红花先生"
+      ],
+      "identity": "灵心山庄庄主，阵符师",
+      "faction": "光耀会",
       "status": "登场",
       "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "“这是我才接到的一道血符，是我老师的好友临死发过来的，林新，我这边直接给你复制了一份过来",
+      "summary": "灵心山庄庄主，化名红花加入光耀会，修为疑似隐藏，与独孤霖、东月交好，正面临花玉奴等人的怀疑与追杀。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这是我才接到的一道血符，是我老师的好友临死发过来的，林新，我这边直接给你复制了一份过来",
-        "”　　林新眉头紧蹙，心头隐隐有了一丝不祥的预感",
-        "”　　林新此时也是有些愕然，林青明明就是从山庄走出去的南顺青，出去时还只是筑基期，然后金丹，现在更是金丹后期"
+      "personality": [
+        "冷静",
+        "谨慎"
       ],
-      "mention_count": 29
+      "abilities": [
+        "阵符师",
+        "铭刻法器"
+      ],
+      "equipment": [
+        "红花剑",
+        "黑色金属鬼面面具"
+      ],
+      "relationships": [
+        {
+          "target": "南顺青",
+          "type": "山庄旧识"
+        },
+        {
+          "target": "独孤霖",
+          "type": "好友"
+        },
+        {
+          "target": "东月",
+          "type": "朋友"
+        },
+        {
+          "target": "瓷王",
+          "type": "光耀会同僚"
+        },
+        {
+          "target": "花玉奴",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到独孤霖传来的征讨队失败消息，得知南顺青（林青）可能陨落；前往光耀会分部找瓷王雇佣高手保护自己。"
+        }
+      ],
+      "evidence": [
+        "林新眉头紧蹙，心头隐隐有了一丝不祥的预感。",
+        "林新此时也是有些愕然，林青明明就是从山庄走出去的南顺青",
+        "林新站在原地，久久没有言语。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "瓷王",
+      "name": "薛凌子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "征讨主导者之一，白发老者",
+      "faction": "征讨队",
+      "status": "提及（可能已死）",
       "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "无论如何，去找光耀会分部的瓷王，绝对能够获得更多讯息",
-      "appearance": [],
+      "summary": "征讨虫母的主导者之一，通过血符传讯，称征讨失败，虫母自爆，修士十存一二，自己快要坚持不住。",
+      "appearance": [
+        "浑身是血",
+        "白发",
+        "持满是锈迹的白色长剑"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "无论如何，去找光耀会分部的瓷王，绝对能够获得更多讯息",
-        "”　　瓷王的声音从房内传出",
-        "”瓷王伸手指向两位"
+      "equipment": [
+        "白色长剑"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "花玉奴",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "”花玉奴脸色阴晴不定的问面前几人属下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”花玉奴脸色阴晴不定的问面前几人属下",
-        "”　　和花玉奴一起的还有三人，一男两女，都是气度自若，隐隐有种淡淡傲然之色",
-        "”　　三个花玉奴请来的金丹修士你一言我一句的说着，很快便将事情整理得差不多了"
+      "relationships": [
+        {
+          "target": "黄宗贤",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "征讨期间",
+          "event": "发出血符，告知征讨失败，虫母自爆。"
+        }
+      ],
+      "evidence": [
+        "我是薛凌子，此次征讨主导者之一",
+        "征讨失败了，不，也不能算是失败，虫母自爆，我等修士十存一二"
+      ],
+      "mention_count": 2
     },
     {
       "name": "独孤霖",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的好友，传讯者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "”独孤霖的声音从屏幕里传出来",
+      "summary": "林新的好友，将征讨队的血符复制给林新，并告知林青（南顺青）的真相。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”独孤霖的声音从屏幕里传出来",
-        "”独孤霖的声音凝重传来",
-        "”独孤霖语气略微带着一丝惋惜"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "好友"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "我等",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "“征讨失败了，不，也不能算是失败，虫母自爆，我等修士十存一二，损失惨重，或许这次我们算是真的回不去了，若有人能够看到我这道符纸，请转告黄宗贤，老头不能回去陪他喝酒了，保重",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“征讨失败了，不，也不能算是失败，虫母自爆，我等修士十存一二，损失惨重，或许这次我们算是真的回不去了，若有人能够看到我这道符纸，请转告黄宗贤，老头不能回去陪他喝酒了，保重",
-        "“我等前来目的已到，告辞",
-        "“可是，没有证据……”　　“我等真人行事，还需证据"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过传讯告知林新征讨队失败及林青的消息。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "林新闻言抬眼看向另两人，既然能够被请入这里，必定是能够叫瓷王另眼相看的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "林新闻言抬眼看向另两人，既然能够被请入这里，必定是能够叫瓷王另眼相看的",
-        "”　　两人一个戴着猴子面具，异一人戴着猫头鹰面具，都是女子",
-        "”两人异口同声道"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "花玉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "”花玉奴脸色阴晴不定的问面前几人属下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”花玉奴脸色阴晴不定的问面前几人属下",
-        "”　　和花玉奴一起的还有三人，一男两女，都是气度自若，隐隐有种淡淡傲然之色",
-        "”　　三个花玉奴请来的金丹修士你一言我一句的说着，很快便将事情整理得差不多了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "光圈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "几个浑身散发各色光圈包裹自身的修士及时抗住浪潮的爆炸，但也能隐约看到其中修士都是狂喷鲜血，光圈也一个个的萎靡下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "几个浑身散发各色光圈包裹自身的修士及时抗住浪潮的爆炸，但也能隐约看到其中修士都是狂喷鲜血，光圈也一个个的萎靡下来",
-        "光圈也缓缓淡化"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "巨虫周围大量的修士如同小虫子一般围绕它飞舞不断，一个个修士和巨虫相比犹如蚂蚁比大象，只是远远望去只能看到一群各色小光点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "巨虫周围大量的修士如同小虫子一般围绕它飞舞不断，一个个修士和巨虫相比犹如蚂蚁比大象，只是远远望去只能看到一群各色小光点",
-        "”　　林新此时也是有些愕然，林青明明就是从山庄走出去的南顺青，出去时还只是筑基期，然后金丹，现在更是金丹后期",
-        "只是虽然理解是这么理解，但真正面对这个结果时，还是黯然和担忧"
+        "独孤霖的声音从屏幕里传出来。",
+        "独孤霖的声音凝重传来。"
       ],
       "mention_count": 5
     },
     {
-      "name": "独孤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "林青",
+      "aliases": [
+        "南顺青",
+        "天绝手"
+      ],
+      "identity": "散修，金丹后期，战力堪比元婴",
+      "faction": "征讨队",
+      "status": "提及（可能已死或失踪）",
       "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "”独孤霖的声音从屏幕里传出来",
+      "summary": "从灵心山庄走出去的南顺青，在征讨队中化名林青，修为隐藏极深，从筑基到金丹后期，人称天绝手，与元婴修士并列。征讨队失败后下落不明。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "天绝手"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "山庄旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "征讨期间",
+          "event": "在征讨虫母战斗中展现金丹后期修为，战力堪比元婴。"
+        },
+        {
+          "stage": "当前",
+          "event": "征讨队失败，可能已死或失踪。"
+        }
+      ],
       "evidence": [
-        "”独孤霖的声音从屏幕里传出来",
-        "”独孤霖的声音凝重传来",
-        "”独孤霖语气略微带着一丝惋惜"
+        "所有征讨队中修士，只有这么一个人叫林青",
+        "到了最后围剿的时候，他才展现出真正修为，金丹后期，且战力惊人堪比元婴"
       ],
       "mention_count": 5
     },
     {
-      "name": "如同",
+      "name": "瓷王",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "光耀会分部负责人",
+      "faction": "光耀会",
       "status": "登场",
       "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "一个庞大无比的黑色虫子悬浮在半空中，如同一条巨大的毛毛虫",
-      "appearance": [],
+      "summary": "光耀会分部负责人，与林新（红花）有合作，接待了两位金丹期使者。",
+      "appearance": [
+        "一米高的小瓷人"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接待林新，并介绍两位使者。"
+        }
+      ],
       "evidence": [
-        "一个庞大无比的黑色虫子悬浮在半空中，如同一条巨大的毛毛虫",
-        "巨虫周围大量的修士如同小虫子一般围绕它飞舞不断，一个个修士和巨虫相比犹如蚂蚁比大象，只是远远望去只能看到一群各色小光点",
-        "果然，不多时，画面内那只巨虫轰然爆炸，无数黑色浆液如同狂潮海浪，铺天盖地的朝着四周一切空间喷涌"
+        "瓷王的声音从房内传出。",
+        "瓷王伸手指向两位。"
       ],
       "mention_count": 4
     },
     {
-      "name": "大量",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "花玉奴",
+      "aliases": [
+        "化龙子"
+      ],
+      "identity": "飞天门修士",
+      "faction": "飞天门",
       "status": "登场",
       "first_appearance": "第二百一十六章 麻烦（下）",
-      "summary": "其身上长满了无以计数的透明尖刺和苍蝇一样的羽翼，大量细小的触手从其身上突然钻出，抓住一个个周边飞舞的修士，便猛然缩回去",
+      "summary": "怀疑林新就是征讨队中的红花，雇佣月英三君前往灵心山庄刺杀林新。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴晴不定",
+        "吝啬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "怀疑对象"
+        },
+        {
+          "target": "月英三君",
+          "type": "雇佣关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "确认红花就是林新，雇佣月英三君刺杀林新。"
+        }
+      ],
       "evidence": [
-        "其身上长满了无以计数的透明尖刺和苍蝇一样的羽翼，大量细小的触手从其身上突然钻出，抓住一个个周边飞舞的修士，便猛然缩回去",
-        "巨虫周围大量的修士如同小虫子一般围绕它飞舞不断，一个个修士和巨虫相比犹如蚂蚁比大象，只是远远望去只能看到一群各色小光点",
-        "大量还在发出彩光攻击的修士，几乎没有任何反抗之力，便被直接淹没"
+        "花玉奴脸色阴晴不定的问面前几人属下。",
+        "花玉奴心头暗骂，但表面上终究还是得做出平和之色。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "月英三君",
+      "aliases": [],
+      "identity": "三位金丹修士",
+      "faction": "飞天门",
+      "status": "登场",
+      "first_appearance": "第二百一十六章 麻烦（下）",
+      "summary": "花玉奴雇佣的三位金丹修士，一男两女，袖口绣金色梅花，行事雷霆，计划直奔山庄杀人。",
+      "appearance": [
+        "一男两女",
+        "袖口绣金色梅花"
+      ],
+      "personality": [
+        "傲然",
+        "自负"
+      ],
+      "abilities": [
+        "金丹期"
+      ],
+      "equipment": [
+        "黑色玉质酒杯"
+      ],
+      "relationships": [
+        {
+          "target": "花玉奴",
+          "type": "雇佣关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受花玉奴雇佣，计划刺杀林新。"
+        }
+      ],
+      "evidence": [
+        "和花玉奴一起的还有三人，一男两女，都是气度自若",
+        "我月英三君，从来都是行雷霆之势，完结远走。"
       ],
       "mention_count": 4
+    },
+    {
+      "name": "两位使者",
+      "aliases": [],
+      "identity": "光耀会分部使者，金丹期",
+      "faction": "光耀会",
+      "status": "登场",
+      "first_appearance": "第二百一十六章 麻烦（下）",
+      "summary": "两位金丹期女子，戴着猴子面具和猫头鹰面具，使用遁法神通，前来通知瓷王大事。",
+      "appearance": [
+        "猴子面具",
+        "猫头鹰面具"
+      ],
+      "personality": [],
+      "abilities": [
+        "遁法神通"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "瓷王",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前来通知瓷王，随即离去。"
+        }
+      ],
+      "evidence": [
+        "两人一个戴着猴子面具，异一人戴着猫头鹰面具，都是女子。",
+        "噗的一下，两人居然直接变成两团灰色烟雾慢慢消失。"
+      ],
+      "mention_count": 3
     }
   ]
 }

@@ -1,253 +1,173 @@
 {
   "chunk_id": "chunk-0019",
-  "title": "第18章雕版符咒和神识",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "成都府锦衣卫校尉",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第18章雕版符咒和神识",
-      "summary": "”　　李钧愣了一下，一时间不确定自己是不是听错了",
+      "summary": "刚入武道序列的锦衣卫校尉，在乌鸦华的诊所中遭遇余寇。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧愣了一下，一时间不确定自己是不是听错了",
-        "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书",
-        "”　　李钧心中腹诽，那些书可不是教人玩兵器的，是教人‘肉搏’的"
+      "personality": [
+        "易被杀意影响",
+        "谨慎"
       ],
-      "mention_count": 19
+      "abilities": [
+        "武九暴徒"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余寇",
+          "type": "上司"
+        },
+        {
+          "target": "乌鸦华",
+          "type": "医生"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在诊所中与乌鸦爷孙交谈，余寇突然来访。"
+        }
+      ],
+      "evidence": [
+        "李钧摆摆手，示意自己不会在意",
+        "李钧眼疾手快，一把抄住少女抱在怀中",
+        "成都府锦衣卫校尉"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "乌鸦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-        "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书",
-        "乌鸦朵朵冷哼一声，脸上愤愤不平，却还是闭上了嘴巴，把脸扭向一旁，不去看自己的爷爷"
+      "name": "乌鸦朵朵",
+      "aliases": [
+        "朵朵"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "余寇",
-      "aliases": [],
-      "identity": "",
+      "identity": "乌鸦华的孙女",
       "faction": "",
       "status": "登场",
       "first_appearance": "第18章雕版符咒和神识",
-      "summary": "都怪我平时把伱惯坏了，让你养成这个骄横的性格”　　这张脸就算化成灰李钧也认识，正是成都府锦衣卫二处总旗，余寇",
+      "summary": "乌鸦华的孙女，性格彪悍，崇拜武道，对三教有敌意。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "都怪我平时把伱惯坏了，让你养成这个骄横的性格”　　这张脸就算化成灰李钧也认识，正是成都府锦衣卫二处总旗，余寇",
-        "余寇身上套着件纹路花哨的丝绸短衣，满是肥肉的脸上挂着淡淡笑意，称赞道：“刚入序列就能有这么强的身体抗性，连驱魂咒的影响都能抵消，真不愧是武道序列",
-        "余寇的话语像是一盆冷水浇下，李钧的意识猛然清明，脸色变得极为难看"
+      "personality": [
+        "彪悍",
+        "执拗",
+        "愤世嫉俗"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "乌鸦华",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "祖孙"
+        },
+        {
+          "target": "李钧",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧争论武道与三教，被余寇的雕版符咒震晕。"
+        }
+      ],
       "evidence": [
-        "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书",
-        "”　　但有一点李钧看的真切，那就是乌鸦朵朵对于乌鸦华的关心不是做假",
-        "”　　乌鸦华把手中的器械狠狠摔在地上，脸上罕见的露出暴怒的神情"
+        "乌鸦朵朵抬起头，清秀的脸上神情异常认真",
+        "乌鸦朵朵冷哼一声，脸上愤愤不平",
+        "乌鸦朵朵像一头发怒的幼狼"
       ],
       "mention_count": 8
     },
     {
-      "name": "乌鸦朵",
+      "name": "乌鸦华",
       "aliases": [],
-      "identity": "",
+      "identity": "鬼街医生",
       "faction": "",
       "status": "登场",
       "first_appearance": "第18章雕版符咒和神识",
-      "summary": "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
+      "summary": "鬼街诊所的医生，擅长机械和预警设备，对孙女乌鸦朵朵管教严格。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-        "乌鸦朵朵冷哼一声，脸上愤愤不平，却还是闭上了嘴巴，把脸扭向一旁，不去看自己的爷爷",
-        "”　　但有一点李钧看的真切，那就是乌鸦朵朵对于乌鸦华的关心不是做假"
+      "personality": [
+        "易怒",
+        "关心孙女"
       ],
-      "mention_count": 5
+      "abilities": [],
+      "equipment": [
+        "武器矩阵"
+      ],
+      "relationships": [
+        {
+          "target": "乌鸦朵朵",
+          "type": "祖孙"
+        },
+        {
+          "target": "李钧",
+          "type": "医生与病人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "训斥孙女，被余寇的雕版符咒震晕。"
+        }
+      ],
+      "evidence": [
+        "乌鸦华轻斥一声，停下收拾器械的动作",
+        "乌鸦华把手中的器械狠狠摔在地上",
+        "乌鸦华健步冲到乌鸦朵朵身旁"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "乌鸦朵朵",
+      "name": "余寇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "成都府锦衣卫二处总旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第18章雕版符咒和神识",
-      "summary": "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-        "乌鸦朵朵冷哼一声，脸上愤愤不平，却还是闭上了嘴巴，把脸扭向一旁，不去看自己的爷爷",
-        "”　　但有一点李钧看的真切，那就是乌鸦朵朵对于乌鸦华的关心不是做假"
+      "summary": "锦衣卫总旗，身形肥硕，实力强大，使用雕版符咒和神识。",
+      "appearance": [
+        "身形肥硕",
+        "两眼如缝",
+        "满是肥肉的脸上挂着淡淡笑意"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "武道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-        "余寇身上套着件纹路花哨的丝绸短衣，满是肥肉的脸上挂着淡淡笑意，称赞道：“刚入序列就能有这么强的身体抗性，连驱魂咒的影响都能抵消，真不愧是武道序列",
-        "”　　“要不是因为它们，武道怎么会衰微，世道也不会沦为这样.”　　“嗡"
+      "personality": [
+        "笑里藏刀",
+        "森冷"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这丫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书",
-        "余寇似乎没有注意到李钧的神色变化，饶有兴趣的看了眼昏迷中乌鸦朵朵，砸了砸嘴巴，自言自语道：“仇恨三教，一身反骨，这丫头或许是个不错的苗子"
+      "abilities": [
+        "神识",
+        "雕版符咒"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "诊所",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "”　　老人的神情异常惊恐，这间诊所所有的防卫机制都是他亲手布置的，而且使用的都是十分先进的预警设备",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　老人的神情异常惊恐，这间诊所所有的防卫机制都是他亲手布置的，而且使用的都是十分先进的预警设备",
-        "但在李钧震惊的眼神中，诊所上空悬挂的武器矩阵如同听话的家犬，齐刷刷没入天花板中，无论乌鸦华怎么操控都不再落下",
-        "”　　悄无声息中，诊所昏暗的廊道中出现了一个巨大的人影"
+      "equipment": [
+        "雕版符咒木牌"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "清秀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵抬起头，清秀的脸上神情异常认真，一字一顿：“我说，武道才是大明帝国最强的序列"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "上司"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "扭头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华轻斥一声，停下收拾器械的动作，扭头对着李钧歉意道：“别介意，这丫头从小就喜欢舞刀弄枪，也不知道是不是看多了那些莫名其妙的书"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "突然出现在诊所，用雕版符咒震晕乌鸦爷孙，给李钧校尉令牌。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "木牌",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章雕版符咒和神识",
-      "summary": "”　　木牌上有暗红色纹路，如同龙蛇盘绕，形成一些复杂难明的符号",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　木牌上有暗红色纹路，如同龙蛇盘绕，形成一些复杂难明的符号",
-        "与此同时，有轻微的破空声响起，一块巴掌大小的长条形木牌射了进来，十分诡异的悬停在三人前方",
-        "木牌颤动，散发出肉眼可见的暗红涟漪，在空气中一圈圈扩散"
+        "正是成都府锦衣卫二处总旗，余寇",
+        "余寇从裤兜里掏出一块牌子扔给过来",
+        "余寇的话语像是一盆冷水浇下"
       ],
-      "mention_count": 3
+      "mention_count": 8
     }
   ]
 }

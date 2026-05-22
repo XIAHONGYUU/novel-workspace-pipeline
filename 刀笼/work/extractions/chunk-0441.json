@@ -1,256 +1,521 @@
 {
   "chunk_id": "chunk-0441",
-  "title": "第二百一十四章 神王之力（上）",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "金翅神王"
+      ],
+      "identity": "金翅大鹏神王",
+      "faction": "神庭",
       "status": "登场",
       "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "戚笼大概是明白了，为什么神庭要在虚妄界建立，因为只有虚妄界，才能遮掩住这众多高手的气息，而且虚妄界是东荒流放之地，对于真神有所限制，真神意志轻易降不下来",
+      "summary": "金翅大鹏神王，拥有金翅大鹏鸟血脉，身穿黑色王袍，头戴骨冠，参与神庭朝会。",
+      "appearance": [
+        "黑色王袍",
+        "骨冠"
+      ],
+      "personality": [],
+      "abilities": [
+        "神性璀璨"
+      ],
+      "equipment": [
+        "皇道九州金座"
+      ],
+      "relationships": [
+        {
+          "target": "血麒麟",
+          "type": "提供情报"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在神庭朝会上观察十二神王和地军大公，发现混沌和饕餮的危险气息，并注意到邪龙皇不在。"
+        }
+      ],
+      "evidence": [
+        "戚笼身上的黑色王袍无风自动，头上骨冠更是神性璀璨",
+        "戚笼把目光落在混沌和饕餮的身影上",
+        "戚笼把目光落在最后的皇椅之上"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "重明儿",
+      "aliases": [
+        "妖女",
+        "末代公主",
+        "圣女"
+      ],
+      "identity": "末代公主，东荒神格继承者",
+      "faction": "下界",
+      "status": "提及",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "屡次破坏神朝大事的妖女，拥有最后一点古国气运，知晓皇族辛密，继承了东荒神格。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼大概是明白了，为什么神庭要在虚妄界建立，因为只有虚妄界，才能遮掩住这众多高手的气息，而且虚妄界是东荒流放之地，对于真神有所限制，真神意志轻易降不下来",
-        "面对这一幕，来源于金翅大鹏鸟的血脉记忆有些激荡，戚笼身上的黑色王袍无风自动，头上骨冠更是神性璀璨，一时间，十二神王所在的王位上，十二尊神兽的幻影咆哮而出",
-        "’    虽然是传音，但戚笼却是听出了一丝不屑"
+      "abilities": [
+        "东荒神格"
       ],
-      "mention_count": 18
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "紫衣人",
+          "type": "被追杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被威德正法国师提议出动天神兵卫诛杀。"
+        }
+      ],
+      "evidence": [
+        "下界有妖女重明儿，屡屡坏我神朝大事",
+        "此女身为末代公主，自身藏有最后一点古国气运",
+        "她继承了东荒神格，成为了真正的圣女"
+      ],
+      "mention_count": 5
     },
     {
       "name": "紫衣人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神庭将领",
+      "faction": "神庭",
       "status": "登场",
       "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "又何必劳烦国师，让紫衣人去一趟便是了",
-      "appearance": [],
+      "summary": "主动请缨捉拿重明儿，立下一个月期限和以命抵命的誓言。",
+      "appearance": [
+        "紫衣"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "又何必劳烦国师，让紫衣人去一趟便是了",
-        "紫衣人与重明儿、明妖皇与横天都部大元帅的故事，可以说是流传极广",
-        "紫衣人上前，冷冷道：“若拿不下重明儿，我愿意以命抵命"
+      "relationships": [
+        {
+          "target": "重明儿",
+          "type": "追杀"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在朝会上请命捉拿重明儿，获得神王批准。"
+        }
+      ],
+      "evidence": [
+        "紫衣人上前，冷冷道：若拿不下重明儿，我愿意以命抵命。",
+        "紫衣人点头，钻入人群中。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "饕餮",
+      "name": "威德正法国师",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神庭国师",
+      "faction": "神庭",
       "status": "登场",
       "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "祝融、共工、穷奇、狻猊、白泽、金翅大鹏、白虎、谛听、夔牛、钟山神、混沌、饕餮    在这十二股神王的气息下，坐于王座上的前地军大公们，也一个个暴露出了实力层次，半神巅峰，而且一个个上古气息缠绕，多少有些探不清底",
+      "summary": "提议诛杀重明儿，并请求亲自下凡捉拿。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "祝融、共工、穷奇、狻猊、白泽、金翅大鹏、白虎、谛听、夔牛、钟山神、混沌、饕餮    在这十二股神王的气息下，坐于王座上的前地军大公们，也一个个暴露出了实力层次，半神巅峰，而且一个个上古气息缠绕，多少有些探不清底",
-        "戚笼把目光落在混沌和饕餮的身影上，因为根据血麒麟的资料，这两位在古国中期就因为挑战妖皇被打死了，八王之乱中都没有祂们的踪影",
-        "饕餮则是个瘦骨如柴的中年人"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "上本请求出动天神兵卫诛杀重明儿。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "不知",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "不知怎么，这二人给他的感觉，居然比起其它几位还要危险",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "不知怎么，这二人给他的感觉，居然比起其它几位还要危险",
-        "瘟太师、穷奇、狻猊都藏在浓郁的神光之中，显的高深莫测，不知是什么想法",
-        "不知在做些什么"
+        "威德正法国师上本道：下界有妖女重明儿，屡屡坏我神朝大事，老臣请出动天神兵卫，诛杀此女。",
+        "老臣请亲自下凡捉拿。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "邪龙皇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "戚笼还以为坐在上面的会是邪龙皇呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼还以为坐在上面的会是邪龙皇呢",
-        "’    ‘邪龙皇不会在大劫开始前下场",
-        "”    威德正法国师看向几位神王，白泽传音道：“邪龙皇不在期间，朝事由我等做主，旦有一位不同意，此事便容后再议"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "威德",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "”    威德正法国师上本道：“下界有妖女重明儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    威德正法国师上本道：“下界有妖女重明儿",
-        "”    威德正法国师道：“回瘟王，此女身为末代公主，自身藏有最后一点古国气运，加上知晓很多皇族辛密，一旦投身七府",
-        "”    威德正法国师道：“此事可有时限"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "威德正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "”    威德正法国师上本道：“下界有妖女重明儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    威德正法国师上本道：“下界有妖女重明儿",
-        "”    威德正法国师道：“回瘟王，此女身为末代公主，自身藏有最后一点古国气运，加上知晓很多皇族辛密，一旦投身七府",
-        "”    威德正法国师道：“此事可有时限"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "威德正法",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "”    威德正法国师上本道：“下界有妖女重明儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    威德正法国师上本道：“下界有妖女重明儿",
-        "”    威德正法国师道：“回瘟王，此女身为末代公主，自身藏有最后一点古国气运，加上知晓很多皇族辛密，一旦投身七府",
-        "”    威德正法国师道：“此事可有时限"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "name": "句芒",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神王之一",
+      "faction": "神庭",
       "status": "登场",
       "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "而除了句芒一开始打了个招呼外",
+      "summary": "神王之一，主持朝会讨论。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而除了句芒一开始打了个招呼外",
-        "”    句芒皱眉道：“你奏折上说",
-        "句芒见其它人没有开口的打算，“那此事便就这么定了，我会调遣神庭五百神将，下界皇城司势力，助你一臂之力"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼打招呼，并决定调遣神将助紫衣人捉拿重明儿。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "句芒见其它人没有开口的打算，那此事便就这么定了"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "紫衣",
+      "name": "饕餮",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神王之一，上古神兽",
+      "faction": "神庭",
       "status": "登场",
       "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "又何必劳烦国师，让紫衣人去一趟便是了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "又何必劳烦国师，让紫衣人去一趟便是了",
-        "紫衣人与重明儿、明妖皇与横天都部大元帅的故事，可以说是流传极广",
-        "紫衣人上前，冷冷道：“若拿不下重明儿，我愿意以命抵命"
+      "summary": "上古龙族后裔，喜食神性，被邪龙皇招揽，指出有人在吞噬气运。",
+      "appearance": [
+        "瘦骨如柴的中年人"
       ],
-      "mention_count": 4
+      "personality": [
+        "有气无力"
+      ],
+      "abilities": [
+        "吞噬万物"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "混沌",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在朝会上指出有人悄悄吞噬气运。"
+        }
+      ],
+      "evidence": [
+        "饕餮则是个瘦骨如柴的中年人",
+        "有个人，一直在悄悄吞噬我们的气运，嗯，他就在这里，还在吞噬。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "一尊",
+      "name": "混沌",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神王之一，上古神兽",
+      "faction": "神庭",
       "status": "登场",
       "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "”    几尊神王都站起身来，尤其是体型最强大的穷奇，战意几乎形成了领域，一下子覆盖在整座火都上，天空之中，一尊黑色凶兽的幻影若隐若现",
-      "appearance": [],
+      "summary": "上古神兽，与饕餮一同被邪龙皇招揽。",
+      "appearance": [
+        "小眼大嘴的婴儿"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    几尊神王都站起身来，尤其是体型最强大的穷奇，战意几乎形成了领域，一下子覆盖在整座火都上，天空之中，一尊黑色凶兽的幻影若隐若现",
-        "”    然后便是一声巨响，戚笼抬头，只见城门被轰开，一尊与城墙同高的黑佛出现在墙外"
+      "relationships": [
+        {
+          "target": "饕餮",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与饕餮一同出席朝会。"
+        }
+      ],
+      "evidence": [
+        "混沌是一个小眼大嘴的婴儿",
+        "嗯，还是混沌提醒了我"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "戚笼抬",
+      "name": "穷奇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神王之一，上古神兽",
+      "faction": "神庭",
       "status": "登场",
       "first_appearance": "第二百一十四章 神王之力（上）",
-      "summary": "戚笼抬头瞄了一眼，自言自语，“后天吞噬大道，这不该是饕餮的本事嘛",
+      "summary": "神王之一，战意形成领域，显化本相攻击黑佛。",
+      "appearance": [
+        "似虎，蝟毛，有翼"
+      ],
+      "personality": [
+        "战意强"
+      ],
+      "abilities": [
+        "显化本相，背上城池妖魔"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在发现吞噬气运者后，显化本相攻击黑佛。"
+        }
+      ],
+      "evidence": [
+        "穷奇二话不说，直接显化出本相",
+        "似虎，蝟毛，有翼，铭曰穷奇之兽"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "瘟太师",
+      "aliases": [
+        "瘟神"
+      ],
+      "identity": "神王之一",
+      "faction": "神庭",
+      "status": "登场",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "神王之一，对饕餮未早说吞噬气运之事表示愤怒。",
+      "appearance": [],
+      "personality": [
+        "易怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在饕餮指出吞噬气运后发怒。"
+        }
+      ],
+      "evidence": [
+        "你怎么不早说！？瘟太师怒道。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白泽",
+      "aliases": [],
+      "identity": "神王之一",
+      "faction": "神庭",
+      "status": "登场",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "神王之一，向戚笼解释一票否决制。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传音告知戚笼朝事规则。"
+        }
+      ],
+      "evidence": [
+        "白泽传音道：邪龙皇不在期间，朝事由我等做主，旦有一位不同意，此事便容后再议。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "邪龙皇",
+      "aliases": [],
+      "identity": "龙庭使者，化乐天之主候选",
+      "faction": "龙庭",
+      "status": "提及",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "龙庭使者，不在朝会现场，可能正在突破化乐天之主。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "不在朝会，可能正在突破。"
+        }
+      ],
+      "evidence": [
+        "邪龙皇不会在大劫开始前下场。",
+        "这一位实力的提升之快，是外人难以想象的。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "黑佛",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "突然出现在火都城外的巨大黑佛，被穷奇攻击。",
+      "appearance": [
+        "与城墙同高"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在火都城外，被穷奇攻击。"
+        }
+      ],
+      "evidence": [
+        "一尊与城墙同高的黑佛出现在墙外。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "虞道人",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "猥琐藏在墙角的道人。",
+      "appearance": [],
+      "personality": [
+        "猥琐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在火都城外。"
+        }
+      ],
+      "evidence": [
+        "猥琐藏在墙角的虞道人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女武神盔甲",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "一副轰开城门的女武神盔甲。",
+      "appearance": [
+        "女武神盔甲"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "轰开火都城门。"
+        }
+      ],
+      "evidence": [
+        "而轰开城门的，居然是一副女武神盔甲！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "肃河卿",
+      "aliases": [],
+      "identity": "钟毓秀的人",
+      "faction": "神庭",
+      "status": "提及",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "钟毓秀的属下，在朝会中提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟毓秀",
+          "type": "属下"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "戚笼抬头瞄了一眼，自言自语，“后天吞噬大道，这不该是饕餮的本事嘛",
-        "”    然后便是一声巨响，戚笼抬头，只见城门被轰开，一尊与城墙同高的黑佛出现在墙外"
+        "肃河卿、天官冢宰、紫衣人，毫无疑问是钟毓秀的人"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "天官冢宰",
+      "aliases": [],
+      "identity": "钟毓秀的人",
+      "faction": "神庭",
+      "status": "提及",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "钟毓秀的属下，在朝会中发言。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟毓秀",
+          "type": "属下"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "天官冢宰笑道：区区一妖女，又何必劳烦国师，让紫衣人去一趟便是了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钟毓秀",
+      "aliases": [],
+      "identity": "神庭高层",
+      "faction": "神庭",
+      "status": "提及",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "神庭高层，肃河卿、天官冢宰、紫衣人都是其属下。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "肃河卿",
+          "type": "属下"
+        },
+        {
+          "target": "天官冢宰",
+          "type": "属下"
+        },
+        {
+          "target": "紫衣人",
+          "type": "属下"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "肃河卿、天官冢宰、紫衣人，毫无疑问是钟毓秀的人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "血麒麟",
+      "aliases": [],
+      "identity": "情报提供者",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第二百一十四章 神王之力（上）",
+      "summary": "为戚笼提供关于混沌和饕餮的资料。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "提供情报"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "根据血麒麟的资料，这两位在古国中期就因为挑战妖皇被打死了"
+      ],
+      "mention_count": 1
     }
   ]
 }

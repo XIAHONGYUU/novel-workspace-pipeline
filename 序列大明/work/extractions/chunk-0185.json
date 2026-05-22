@@ -1,238 +1,166 @@
 {
   "chunk_id": "chunk-0185",
-  "title": "第183章大雾之中",
   "characters": [
     {
       "name": "顾用",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "小顾",
+        "顾哥"
+      ],
+      "identity": "乐土青楼夜场的龟公",
       "faction": "",
       "status": "登场",
       "first_appearance": "第183章大雾之中",
-      "summary": "少女虽然还有些心有不甘，但在看到顾用眼中的凶光后，也不敢再拒绝",
+      "summary": "乐土青楼夜场的龟公，负责接待客人，与看场打手关系较好，消息灵通。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谄媚",
+        "凶狠",
+        "有烟瘾"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "少女虽然还有些心有不甘，但在看到顾用眼中的凶光后，也不敢再拒绝",
-        "顾用搀扶着最后一名客人走到店外，对着跟在身后那名面带不满的少女甩过去一个凶狠的眼神",
-        "后者不情不愿凑了过来，刚刚站稳，已经是醉醺醺的客人便直接摔进少女香软的怀抱中，大着舌头含糊说道：　　顾用瞥了对方一眼，轻轻点了点头，接过烟杆深吸一口"
+      "relationships": [
+        {
+          "target": "若男",
+          "type": "同事"
+        },
+        {
+          "target": "周少爷",
+          "type": "客人"
+        },
+        {
+          "target": "看场打手",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在乐土青楼夜场送走客人，与看场打手交谈，打听店铺能否坚持下去。"
+        }
+      ],
+      "evidence": [
+        "顾用搀扶着最后一名客人走到店外",
+        "小顾你在店里做事，接触有钱人多，消息比咱们灵通。我就是想替兄弟们问问，咱们这店到底还能不能坚持下去啊？",
+        "顾用双眉一横，“我告诉你，傍上这个周少爷就够你吃个一年半载的了！”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "少女",
+      "name": "若男",
       "aliases": [],
-      "identity": "",
+      "identity": "乐土青楼夜场的流莺（妓女）",
       "faction": "",
       "status": "登场",
       "first_appearance": "第183章大雾之中",
-      "summary": "少女虽然还有些心有不甘，但在看到顾用眼中的凶光后，也不敢再拒绝",
+      "summary": "乐土青楼夜场的流莺，被顾用安排接待周少爷，内心不满但不敢反抗。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "委屈",
+        "不情愿"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "少女虽然还有些心有不甘，但在看到顾用眼中的凶光后，也不敢再拒绝",
-        "顾用搀扶着最后一名客人走到店外，对着跟在身后那名面带不满的少女甩过去一个凶狠的眼神",
-        "后者不情不愿凑了过来，刚刚站稳，已经是醉醺醺的客人便直接摔进少女香软的怀抱中，大着舌头含糊说道：　　顾用瞥了对方一眼，轻轻点了点头，接过烟杆深吸一口"
+      "relationships": [
+        {
+          "target": "顾用",
+          "type": "同事/上级"
+        },
+        {
+          "target": "周少爷",
+          "type": "客人"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被顾用安排接待周少爷，虽不情愿但被迫服从。"
+        }
+      ],
+      "evidence": [
+        "少女虽然还有些心有不甘，但在看到顾用眼中的凶光后，也不敢再拒绝。",
+        "少女脸上满是委屈的神情。",
+        "若男伱愣着干什么，还不过来扶着点？！"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "想要",
-      "aliases": [],
-      "identity": "",
+      "name": "周少爷",
+      "aliases": [
+        "周少"
+      ],
+      "identity": "有钱人家的少爷，顾用的金主",
       "faction": "",
       "status": "登场",
       "first_appearance": "第183章大雾之中",
-      "summary": "想要更多打折好物，请接入天工集团黄粱梦境",
+      "summary": "乐土青楼夜场的客人，出手阔绰，被顾用奉为金主。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "醉醺醺",
+        "大方"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "顾用",
+          "type": "客人/金主"
+        },
+        {
+          "target": "若男",
+          "type": "嫖客与妓女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在乐土青楼夜场消费后离开，由若男搀扶。"
+        }
+      ],
       "evidence": [
-        "想要更多打折好物，请接入天工集团黄粱梦境",
-        "“想要容似西施，艳压貂蝉吗",
-        "想要貌比潘安、颜如宋玉吗"
+        "周少您慢小心脚下",
+        "多谢周少爷，多谢周少爷。",
+        "唔真香！顾用，你小子真真是个好龟公！本少爷今天很开心，以后只捧你的场，钱.不是问题！"
       ],
       "mention_count": 4
     },
     {
-      "name": "多谢周",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "”　　“多谢周少爷，多谢周少爷",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“多谢周少爷，多谢周少爷"
+      "name": "看场打手",
+      "aliases": [
+        "汉子",
+        "老哥"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
+      "identity": "乐土青楼夜场的看场打手，人中之下已换成机械",
       "faction": "",
       "status": "登场",
       "first_appearance": "第183章大雾之中",
-      "summary": "穿着比甲，露出一身龙凤刺青的壮汉守在店门左右，瞪大双眼，保持高度警惕，随之准备好堵截逃单的客人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "穿着比甲，露出一身龙凤刺青的壮汉守在店门左右，瞪大双眼，保持高度警惕，随之准备好堵截逃单的客人"
+      "summary": "乐土青楼夜场的看场打手，与顾用关系较好，打听店铺能否坚持下去。",
+      "appearance": [
+        "人中之下已经换成机械"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "瞪大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "穿着比甲，露出一身龙凤刺青的壮汉守在店门左右，瞪大双眼，保持高度警惕，随之准备好堵截逃单的客人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "穿着比甲，露出一身龙凤刺青的壮汉守在店门左右，瞪大双眼，保持高度警惕，随之准备好堵截逃单的客人"
+      "personality": [
+        "友善",
+        "好奇"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "眯着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "穿着打扮略显寒酸的平民工奴缩在屋檐下站在一排，眯着眼上下审视",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "穿着打扮略显寒酸的平民工奴缩在屋檐下站在一排，眯着眼上下审视"
+      "relationships": [
+        {
+          "target": "顾用",
+          "type": "朋友/同事"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "不少",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "除了一些常见的民生商品，不少在大明律中明令禁止买卖，只能在黑市中流通的违禁品，也这里都是明目张胆的出售",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "除了一些常见的民生商品，不少在大明律中明令禁止买卖，只能在黑市中流通的违禁品，也这里都是明目张胆的出售"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与顾用交谈，询问店铺能否坚持下去，并提及罗汉寺新开的赌场会所。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "只能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "除了一些常见的民生商品，不少在大明律中明令禁止买卖，只能在黑市中流通的违禁品，也这里都是明目张胆的出售",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "除了一些常见的民生商品，不少在大明律中明令禁止买卖，只能在黑市中流通的违禁品，也这里都是明目张胆的出售"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "也这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "除了一些常见的民生商品，不少在大明律中明令禁止买卖，只能在黑市中流通的违禁品，也这里都是明目张胆的出售",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "除了一些常见的民生商品，不少在大明律中明令禁止买卖，只能在黑市中流通的违禁品，也这里都是明目张胆的出售"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "按理",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "此时的天色不过刚是亥时，按理来说正是青楼夜场生意兴隆的时候",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时的天色不过刚是亥时，按理来说正是青楼夜场生意兴隆的时候"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "轻轻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第183章大雾之中",
-      "summary": "后者不情不愿凑了过来，刚刚站稳，已经是醉醺醺的客人便直接摔进少女香软的怀抱中，大着舌头含糊说道：　　顾用瞥了对方一眼，轻轻点了点头，接过烟杆深吸一口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "后者不情不愿凑了过来，刚刚站稳，已经是醉醺醺的客人便直接摔进少女香软的怀抱中，大着舌头含糊说道：　　顾用瞥了对方一眼，轻轻点了点头，接过烟杆深吸一口"
+        "人中之下已经换成机械的看场打手正努力挤出一个友善的笑容。",
+        "小顾，来，抽我的。刚买的烟弹，味道堪比纸烟！",
+        "小顾你怎么了，这烟弹不合胃口？"
       ],
       "mention_count": 3
     }

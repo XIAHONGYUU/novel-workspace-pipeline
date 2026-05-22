@@ -1,254 +1,275 @@
 {
   "chunk_id": "chunk-0581",
-  "title": "第五百七十七章 突破（四）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "林摄日",
+        "摄日公子"
+      ],
+      "identity": "林家宗家高手",
+      "faction": "林家",
       "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "林新站在船头，一头二十多米的巨大妖将轰然被斩成两片，分开坠入海水",
+      "first_appearance": "",
+      "summary": "林家宗家高手，带领林又可等人前往青云岛执行任务。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "奔雷剑法",
+        "红花剑"
+      ],
+      "equipment": [
+        "红花剑"
+      ],
+      "relationships": [
+        {
+          "target": "林又可",
+          "type": "下属"
+        },
+        {
+          "target": "林传",
+          "type": "下属"
+        },
+        {
+          "target": "金马",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抵达青云岛，发现岛上异常，与金马对峙并追击。"
+        }
+      ],
+      "evidence": [
+        "林新站在船头，一头二十多米的巨大妖将轰然被斩成两片",
+        "林新面色冷厉下来。'上岛。'",
+        "林新神色一厉。'对我诛世会动手，就是勾结妖灵！凡勾结妖灵者，杀无赦！！'"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "林又可",
+      "aliases": [],
+      "identity": "林家下属",
+      "faction": "林家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林新的下属，服用丹药后实力提升，即将突破奔雷剑法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "奔雷剑法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随林新前往青云岛，服用丹药后感觉良好。"
+        }
+      ],
+      "evidence": [
+        "林又可稳住身体走到他身边轻声道。'公子，我们和船队分开已经两天了，差不多也快到青云岛了。'",
+        "'效果很好！'提起丹药，林又可顿时露出惊喜兴奋之色。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林传",
+      "aliases": [],
+      "identity": "林家下属",
+      "faction": "林家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林新的下属，随行前往青云岛。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新站在船头，一头二十多米的巨大妖将轰然被斩成两片，分开坠入海水",
-        "林新深吸一口气，冰冷的海风越来越大了，带着湿意的空气不断打在脸上",
-        "”　　林新随口问道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "上级"
+        }
       ],
-      "mention_count": 33
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随林新上岛，被林新拦住下船。"
+        }
+      ],
+      "evidence": [
+        "林传等到舟船靠岸停下，率先正要下船。却被林新抬手拦住。"
+      ],
+      "mention_count": 1
     },
     {
       "name": "金马",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "散修（伪装），实为元景高手",
+      "faction": "未知",
       "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "金马睁开眼睛，缓缓转动身体，仿佛身下有着一个转盘一般",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "金马睁开眼睛，缓缓转动身体，仿佛身下有着一个转盘一般",
-        "“原来是林家摄日公子当面，在下一介散修金马，也是前来参与围剿妖灵的散修，之前雾气浓密，妖灵袭击，碰巧和队友失散，到这岛上已经有三天了",
-        "“金马"
+      "first_appearance": "",
+      "summary": "伪装成散修的元景高手，与诛世会敌对，灭掉了宫商世家的驻守点。",
+      "appearance": [
+        "中年儒生"
       ],
-      "mention_count": 14
+      "personality": [
+        "阴险",
+        "隐忍"
+      ],
+      "abilities": [
+        "元景修为"
+      ],
+      "equipment": [
+        "玉盘"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "宫商雾",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在青云岛伪装成散修，被林新识破并追击。"
+        }
+      ],
+      "evidence": [
+        "金马睁开眼睛，缓缓转动身体，'原来是林家摄日公子当面，在下一介散修金马'",
+        "金马心头憋屈至极。他根本不想这么早对林摄日动手",
+        "他堂堂元景高手，居然被一个毛头小子追得落荒而逃。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "我们",
+      "name": "宫商雾",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "宫商世家家主",
+      "faction": "宫商世家",
       "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "“公子，我们和船队分开已经两天了，差不多也快到青云岛了",
-      "appearance": [],
+      "first_appearance": "",
+      "summary": "宫商世家家主，被金马击败但未死，试图为金马辩解。",
+      "appearance": [
+        "狼狈不堪"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“公子，我们和船队分开已经两天了，差不多也快到青云岛了",
-        "“奔雷剑法原本便是需要身体强度和雷气配合的功法，我们才二十几层分的境界，雷气不缺，唯一缺的，其实就是身体强度",
-        "所以才服用两天，我们三个都有了快突破的感觉"
+      "relationships": [
+        {
+          "target": "金马",
+          "type": "敌对"
+        },
+        {
+          "target": "林新",
+          "type": "同属诛世会"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在青云岛，试图阻止林新攻击金马。"
+        }
+      ],
+      "evidence": [
+        "宫商雾，他身上狼狈不堪，脸上还带着一丝焦急。'公子误会啊！误会！金马先生出手及时救了我等'"
+      ],
+      "mention_count": 3
     },
     {
       "name": "断青龙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛世会成员",
+      "faction": "诛世会",
       "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "……　　断青龙和孔心小心翼翼的躲藏在岛屿边的一片浅海里，透过海水看着林摄日一行人快步上岛，走向营地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　断青龙和孔心小心翼翼的躲藏在岛屿边的一片浅海里，透过海水看着林摄日一行人快步上岛，走向营地",
-        "断青龙一边脸肿了，像是馒头一样红肿得不行，一条手臂也不知道什么时候断掉了",
-        "我本来打算暗示他赶紧离开，差点暴露，没想到反而刺激到……”　　断青龙吐了口气，艰难苦笑道"
+      "first_appearance": "",
+      "summary": "诛世会成员，被金马击败后躲藏，对林新抱有希望。",
+      "appearance": [
+        "一边脸肿了，一条手臂断掉"
       ],
-      "mention_count": 8
+      "personality": [
+        "有底线"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑色短剑"
+      ],
+      "relationships": [
+        {
+          "target": "孔心",
+          "type": "同伴"
+        },
+        {
+          "target": "林新",
+          "type": "希望其存活"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "躲藏在浅海，观察林新上岛。"
+        }
+      ],
+      "evidence": [
+        "断青龙一边脸肿了，像是馒头一样红肿得不行，一条手臂也不知道什么时候断掉了。",
+        "'是林摄日，林家宗家的高手，肯定已经被那怪物发觉了。'"
+      ],
+      "mention_count": 5
     },
     {
       "name": "孔心",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛世会成员",
+      "faction": "诛世会",
       "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "……　　断青龙和孔心小心翼翼的躲藏在岛屿边的一片浅海里，透过海水看着林摄日一行人快步上岛，走向营地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　断青龙和孔心小心翼翼的躲藏在岛屿边的一片浅海里，透过海水看着林摄日一行人快步上岛，走向营地",
-        "孔心一条腿没了，只能用木杖支撑起身体，看向岛屿深处的眼神充满恨意",
-        "”孔心咬牙道"
+      "first_appearance": "",
+      "summary": "诛世会成员，被金马击败后失去一条腿，对金马充满恨意。",
+      "appearance": [
+        "一条腿没了，用木杖支撑"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "舟船",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "舟船被海水冲击力激荡得不断摇晃",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "舟船被海水冲击力激荡得不断摇晃",
-        "”　　舟船缓缓靠向小岛",
-        "舟船得以继续前进"
+      "personality": [
+        "有恨意",
+        "不甘"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "断青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "……　　断青龙和孔心小心翼翼的躲藏在岛屿边的一片浅海里，透过海水看着林摄日一行人快步上岛，走向营地",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　断青龙和孔心小心翼翼的躲藏在岛屿边的一片浅海里，透过海水看着林摄日一行人快步上岛，走向营地",
-        "断青龙一边脸肿了，像是馒头一样红肿得不行，一条手臂也不知道什么时候断掉了",
-        "我本来打算暗示他赶紧离开，差点暴露，没想到反而刺激到……”　　断青龙吐了口气，艰难苦笑道"
+      "equipment": [
+        "木杖"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "”　　他心头转动着念头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他心头转动着念头",
-        "此时被林新接连逼迫，他心头怒意也是越积越多"
+      "relationships": [
+        {
+          "target": "断青龙",
+          "type": "同伴"
+        },
+        {
+          "target": "金马",
+          "type": "仇敌"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "”提起丹药，林又可顿时露出惊喜兴奋之色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”提起丹药，林又可顿时露出惊喜兴奋之色",
-        "顿时几块礁石被切割断裂，沉入水底",
-        "”　　林又可几人顿时凛然应道"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与断青龙一起躲藏，想抢林新的船但被阻止。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "忽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "林新目光沉凝，忽然盯住岸边一个阴影处",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "林新目光沉凝，忽然盯住岸边一个阴影处",
-        "”　　岛上乱石堆后，忽然阴影一闪即逝",
-        "忽然冷笑一声"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "上边",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "上边的林又可几人努力维持着身体平衡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "上边的林又可几人努力维持着身体平衡",
-        "猛然间一道劲气闪电般划过，从右侧地面挑出一把刻有宫商家主徽记的短刀，上边还残留着淡淡血迹"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "林又",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百七十七章 突破（四）",
-      "summary": "上边的林又可几人努力维持着身体平衡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "上边的林又可几人努力维持着身体平衡",
-        "加上有林又可他们三人代替我辅助家族，我也能放心去踏海崖寻求机缘",
-        "”林又可稳住身体走到他身边轻声道"
+        "孔心一条腿没了，只能用木杖支撑起身体，看向岛屿深处的眼神充满恨意。",
+        "孔心此时看向岸边停靠的小舟船，眼中露出一丝意动。"
       ],
       "mention_count": 4
     }

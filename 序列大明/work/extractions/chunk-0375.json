@@ -1,256 +1,318 @@
 {
   "chunk_id": "chunk-0375",
-  "title": "第373章入城（三）",
   "characters": [
     {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第373章入城（三）",
-      "summary": "一旁听课的李钧和马王爷两人连连点头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一旁听课的李钧和马王爷两人连连点头",
-        "”　　李钧没有给马王爷抒发自己敬仰之情的机会，重新将话头引回了正题上",
-        "”　　对方的杀心已经袒露无疑，迟早会和李钧有一场生死搏杀"
-      ],
-      "mention_count": 16
-    },
-    {
       "name": "林锦江",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "鸨鬼"
+      ],
+      "identity": "李钧的下属，情报人员",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第373章入城（三）",
-      "summary": "第373章入城（三）　　林锦江的长相虽然十分粗犷，但说话的嗓音却是格外温柔，语速不疾不徐，令人如沐春风",
-      "appearance": [],
-      "personality": [],
+      "summary": "李钧的下属，负责情报工作，正在汇报大阪城百户所的情况。",
+      "appearance": [
+        "长相粗犷"
+      ],
+      "personality": [
+        "嗓音温柔",
+        "语速不疾不徐"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第373章入城（三）　　林锦江的长相虽然十分粗犷，但说话的嗓音却是格外温柔，语速不疾不徐，令人如沐春风",
-        "”　　林锦江沉声道：“退一步说，就算您和李大人成功打了进去，那万一要是扑空了怎么办",
-        "”　　林锦江继续说道：“而且您这次的行踪连鸿鹄都不知道，所以真君这次的转变应该不是因为提前得到了警示的缘故"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        },
+        {
+          "target": "马王爷",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧和马王爷汇报大阪城百户所的情报。"
+        }
+      ],
+      "evidence": [
+        "林锦江的长相虽然十分粗犷，但说话的嗓音却是格外温柔",
+        "林锦江手掌一拨，投影而出的大楼骤然崩塌，演变成整个大阪城的地图。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "林锦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李钧",
+      "aliases": [
+        "老李",
+        "李大人"
+      ],
+      "identity": "锦衣卫官员，犬山城相关人物",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第373章入城（三）",
-      "summary": "第373章入城（三）　　林锦江的长相虽然十分粗犷，但说话的嗓音却是格外温柔，语速不疾不徐，令人如沐春风",
+      "summary": "锦衣卫官员，正在策划针对大阪城百户所真君的行动。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "杀心坚定",
+        "冷静"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第373章入城（三）　　林锦江的长相虽然十分粗犷，但说话的嗓音却是格外温柔，语速不疾不徐，令人如沐春风",
-        "”　　林锦江沉声道：“退一步说，就算您和李大人成功打了进去，那万一要是扑空了怎么办",
-        "”　　林锦江继续说道：“而且您这次的行踪连鸿鹄都不知道，所以真君这次的转变应该不是因为提前得到了警示的缘故"
+      "relationships": [
+        {
+          "target": "林锦江",
+          "type": "上级"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        },
+        {
+          "target": "余沧海",
+          "type": "敌人"
+        },
+        {
+          "target": "荒世烈",
+          "type": "隐患"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第373章入城（三）",
-      "summary": "先不说百户所内戒备森严，易守难攻，强冲的危险实在太高，而且很容易暴露身份",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "先不说百户所内戒备森严，易守难攻，强冲的危险实在太高，而且很容易暴露身份",
-        "”　　林锦江继续说道：“而且您这次的行踪连鸿鹄都不知道，所以真君这次的转变应该不是因为提前得到了警示的缘故",
-        "而且还有倭区四大公司在旁边虎视眈眈，李钧不相信他们能够眼睁睁看着新政彻底推行，彻底掰断倭民的脊梁"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林锦江、马王爷商议对付大阪城百户所真君。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "属下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第373章入城（三）",
-      "summary": "“属下知道，在大人您抵达之前，我已经派人又摸了一次大阪城百户所目前的情况",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“属下知道，在大人您抵达之前，我已经派人又摸了一次大阪城百户所目前的情况",
-        "”　　“马爷您这个想法，属下不太赞同",
-        "“不清楚，不过属下总有一种感觉，他这么做，像是在防备着什么"
+        "李钧说道：锦衣卫总旗的官职品级虽然不高",
+        "李钧眼眸微阖"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "大阪城",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第373章入城（三）",
-      "summary": "“我和马王爷这一次来大阪城的目的，小白那边应该已经告知你了吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我和马王爷这一次来大阪城的目的，小白那边应该已经告知你了吧",
-        "“属下知道，在大人您抵达之前，我已经派人又摸了一次大阪城百户所目前的情况",
-        "“大阪城户所的整体结构是一栋七层高楼，墙体是砖石结构，内部镶嵌了一层两寸厚的钢板，寻常的火药枪械根本无法穿透"
-      ],
-      "mention_count": 5
+      "mention_count": 12
     },
     {
       "name": "马王爷",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "李钧的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第373章入城（三）",
-      "summary": "一旁听课的李钧和马王爷两人连连点头",
+      "summary": "李钧的同伴，性格急躁，主张强攻。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "表情虔诚",
+        "脸上浮现出浓浓的敬佩之情",
+        "急躁"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "林锦江",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与商议，主张直接冲进百户所。"
+        }
+      ],
       "evidence": [
-        "一旁听课的李钧和马王爷两人连连点头",
-        "特别是马王爷，表情异常虔诚，甚至脸上还浮现出了浓浓的敬佩之情",
-        "“我和马王爷这一次来大阪城的目的，小白那边应该已经告知你了吧"
+        "马王爷两手一摊，表情无奈。",
+        "马王爷脸上戾气浮现"
       ],
       "mention_count": 5
     },
     {
-      "name": "大人您",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "真君",
+      "aliases": [
+        "百户真君"
+      ],
+      "identity": "大阪城百户所的最高长官",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第373章入城（三）",
-      "summary": "“属下知道，在大人您抵达之前，我已经派人又摸了一次大阪城百户所目前的情况",
+      "summary": "大阪城百户所的新任百户，行踪飘忽，正在防备什么。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "警觉性高",
+        "深居简出"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“属下知道，在大人您抵达之前，我已经派人又摸了一次大阪城百户所目前的情况",
-        "”　　林锦江话音一顿，表情猛的恍然，“大人您的意思是，从他们身上下手",
-        "林锦江语气自信，“大人您再给我一点时间，属下应该能把这些暗门的位置全部摸出来"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌人"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在犬山城遇袭后变得深居简出，行踪不定。"
+        }
+      ],
+      "evidence": [
+        "真君在上任之后，主要的活动轨迹遍布整座大阪城",
+        "在咱们犬山城遇袭击后的这段时间内，他突然变得深居简出，行踪飘忽不定"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "表情",
+      "name": "监坛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "大阪城百户所一处总旗",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第373章入城（三）",
-      "summary": "特别是马王爷，表情异常虔诚，甚至脸上还浮现出了浓浓的敬佩之情",
+      "summary": "大阪城百户所一处总旗，新提拔，实力序八，威信不高。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "序八层次"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "真君",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "特别是马王爷，表情异常虔诚，甚至脸上还浮现出了浓浓的敬佩之情",
-        "”　　马王爷两手一摊，表情无奈",
-        "”　　林锦江话音一顿，表情猛的恍然，“大人您的意思是，从他们身上下手"
+        "一处三十人，总旗花名监坛",
+        "这两个人都是刚刚上任的百户真君新晋提拔的，实力只有序八层次"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "甚至",
+      "name": "知炉",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "大阪城百户所二处总旗",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第373章入城（三）",
-      "summary": "特别是马王爷，表情异常虔诚，甚至脸上还浮现出了浓浓的敬佩之情",
+      "summary": "大阪城百户所二处总旗，新提拔，实力序八，威信不高。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "序八层次"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "真君",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "特别是马王爷，表情异常虔诚，甚至脸上还浮现出了浓浓的敬佩之情",
-        "”　　“真君在上任之后，主要的活动轨迹遍布整座大阪城，甚至带队出城开展了一次清剿流寇的行动"
+        "二处四十三人，总旗花名知炉",
+        "这两个人都是刚刚上任的百户真君新晋提拔的，实力只有序八层次"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "他们",
+      "name": "余沧海",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧的敌人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第373章入城（三）",
-      "summary": "”　　“鸨鬼，我刚才听你在介绍大阪城百户所情况的时候，提到了现任的两个总旗，他们都是真君上任之后新提拔的",
+      "summary": "挡在李钧破锁晋序路上的人，与李钧有仇。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌人"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“鸨鬼，我刚才听你在介绍大阪城百户所情况的时候，提到了现任的两个总旗，他们都是真君上任之后新提拔的",
-        "”　　“没有被调走，据我所知，他们现在还在大阪城百户所内",
-        "”　　林锦江话音一顿，表情猛的恍然，“大人您的意思是，从他们身上下手"
+        "更是因为余沧海现在挡在了李钧破锁晋序的路上。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "他们现",
+      "name": "荒世烈",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧心中的巨大隐患",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第373章入城（三）",
-      "summary": "”　　“没有被调走，据我所知，他们现在还在大阪城百户所内",
+      "summary": "李钧认为的隐患，可能来自阵营对立。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "隐患"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "抛开这些阵营对立，李钧心中还有一个巨大的隐患。那就是荒世烈。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "神棍"
+      ],
+      "identity": "李钧留在犬山城演戏的人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第373章入城（三）",
+      "summary": "被李钧留在犬山城演戏以掩饰行踪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "老李你在犬山城还留了邹四九那个神棍演戏"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "松山",
+      "aliases": [],
+      "identity": "农序五春帝令的持有者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第373章入城（三）",
+      "summary": "曾差点将整个犬山城付之一炬的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "农序五春帝令"
+      ],
+      "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　“没有被调走，据我所知，他们现在还在大阪城百户所内",
-        "他们现在还没有明显的动作，可能只是在积蓄力量，不鸣则已，一鸣惊人"
+        "一个农序五春帝令的松山就差点将整个犬山城付之一炬"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

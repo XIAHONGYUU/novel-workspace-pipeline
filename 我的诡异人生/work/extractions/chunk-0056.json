@@ -1,255 +1,241 @@
 {
   "chunk_id": "chunk-0056",
-  "title": "第55章 影像资料",
   "characters": [
     {
-      "name": "师父",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "苏午",
+      "aliases": [
+        "3号"
+      ],
+      "identity": "实验对象",
+      "faction": "神打派",
       "status": "登场",
       "first_appearance": "第55章 影像资料",
-      "summary": "盘发髻，留山羊胡的‘师父’站在前头，身后跟着药师、兽形拳术教师、体型较小的女子、白大褂医生共四人",
+      "summary": "正在学习心猿拳的实验对象，拥有模拟器能力。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "盘发髻，留山羊胡的‘师父’站在前头，身后跟着药师、兽形拳术教师、体型较小的女子、白大褂医生共四人",
-        "在进度条到90％时，师父伸手关掉了屏幕",
-        "”师父看向药师，开口问道"
+      "personality": [
+        "专注",
+        "谨慎"
       ],
-      "mention_count": 18
+      "abilities": [
+        "模拟器能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "药师",
+          "type": "实验指导者"
+        },
+        {
+          "target": "师父",
+          "type": "实验主导者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在封闭房间内准备观看心猿拳影像资料。"
+        }
+      ],
+      "evidence": [
+        "苏午坐在房间唯一的椅子上，眼睛盯着前方的屏幕",
+        "他只要念头一动，随时都能退出这次模拟"
+      ],
+      "mention_count": 10
     },
     {
       "name": "药师",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神打派弟子，实验辅助人员",
+      "faction": "神打派",
       "status": "登场",
       "first_appearance": "第55章 影像资料",
-      "summary": "苏午坐在房间唯一的椅子上，眼睛盯着前方的屏幕，看到药师提着一个保险箱走进来",
+      "summary": "负责为苏午提供实验指导和药物准备的女弟子。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午坐在房间唯一的椅子上，眼睛盯着前方的屏幕，看到药师提着一个保险箱走进来",
-        "药师把那个物件插入屏幕的接口内",
-        "屏幕仍未亮起，药师转身微笑着看向苏午，轻声道：“这次我们传授你一门特殊的拳法"
+      "personality": [
+        "谨慎"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "苏午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第55章 影像资料",
-      "summary": "苏午坐在房间唯一的椅子上，眼睛盯着前方的屏幕，看到药师提着一个保险箱走进来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午坐在房间唯一的椅子上，眼睛盯着前方的屏幕，看到药师提着一个保险箱走进来",
-        "——果然是一个U盘……苏午见之恍然",
-        "屏幕仍未亮起，药师转身微笑着看向苏午，轻声道：“这次我们传授你一门特殊的拳法"
+      "equipment": [
+        "保险箱",
+        "U盘"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "兽形",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第55章 影像资料",
-      "summary": "‘兽形拳’是初步的制御诡异之法，练成此法可以让人初步控制诡异的力量",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "实验指导者"
+        },
+        {
+          "target": "师父",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将U盘交给苏午观看，后离开房间。"
+        }
+      ],
       "evidence": [
-        "‘兽形拳’是初步的制御诡异之法，练成此法可以让人初步控制诡异的力量",
-        "‘兽形拳’其后或许还有其他方法，可以补完这整套制御法——当下即将播放的折断影像里，就可能存在后续的制御法",
-        "兽形拳因其只是入门，正常人学习了也不会有什么不适，甚至可能因此种方法而发挥出超常的力量，但更高深的制御法，必然与诡异有极深的牵连"
+        "药师提着一个保险箱走进来",
+        "药师转身微笑着看向苏午"
       ],
       "mention_count": 6
     },
     {
-      "name": "兽形拳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "师父",
+      "aliases": [
+        "山羊胡中年人"
+      ],
+      "identity": "神打派掌门，实验主导者",
+      "faction": "神打派",
       "status": "登场",
       "first_appearance": "第55章 影像资料",
-      "summary": "‘兽形拳’是初步的制御诡异之法，练成此法可以让人初步控制诡异的力量",
-      "appearance": [],
-      "personality": [],
+      "summary": "神打派的师父，主导心猿拳实验，对苏午寄予厚望。",
+      "appearance": [
+        "盘发髻",
+        "留山羊胡"
+      ],
+      "personality": [
+        "理智",
+        "务实",
+        "有远见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘兽形拳’是初步的制御诡异之法，练成此法可以让人初步控制诡异的力量",
-        "‘兽形拳’其后或许还有其他方法，可以补完这整套制御法——当下即将播放的折断影像里，就可能存在后续的制御法",
-        "兽形拳因其只是入门，正常人学习了也不会有什么不适，甚至可能因此种方法而发挥出超常的力量，但更高深的制御法，必然与诡异有极深的牵连"
+      "relationships": [
+        {
+          "target": "药师",
+          "type": "弟子"
+        },
+        {
+          "target": "医生",
+          "type": "弟子"
+        },
+        {
+          "target": "兽形拳教师",
+          "type": "弟子"
+        },
+        {
+          "target": "娇小女子",
+          "type": "弟子"
+        },
+        {
+          "target": "苏午",
+          "type": "实验对象"
+        },
+        {
+          "target": "老板",
+          "type": "资助者"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在监控室观察苏午，并教导弟子。"
+        }
+      ],
+      "evidence": [
+        "盘发髻，留山羊胡的‘师父’站在前头",
+        "师父摆了摆手，语气悠然道"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "如果他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第55章 影像资料",
-      "summary": "这时，药师旁边身穿白大褂的‘医生’皱眉问道：“师父，他毕竟不是我们这边的人，如果他破限成功，我们制不住他，岂不是就……”　　师父摆了摆手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这时，药师旁边身穿白大褂的‘医生’皱眉问道：“师父，他毕竟不是我们这边的人，如果他破限成功，我们制不住他，岂不是就……”　　师父摆了摆手",
-        "如果他能够成功，正说明我们试验的这条路没有错",
-        "”师父的脸色严肃起来，来回扫视着四个弟子的面孔，继续道，“你们要记住，如果他真的学会这套拳法，无论如何都不要想着和他做敌人"
+      "name": "医生",
+      "aliases": [
+        "白大褂医生"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "自然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神打派弟子，实验辅助人员",
+      "faction": "神打派",
       "status": "登场",
       "first_appearance": "第55章 影像资料",
-      "summary": "药师是正常人，自然不愿意陪着苏午在这里‘作死’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "药师是正常人，自然不愿意陪着苏午在这里‘作死’",
-        "——他们真的见过，其他同门观看影像资料时的惨相，自然不愿意自己也那样凄惨地死去"
+      "summary": "对苏午学习心猿拳持保留态度的弟子。",
+      "appearance": [
+        "身穿白大褂"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "老板",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第55章 影像资料",
-      "summary": "我们进行这么多次试验，目的就是把咱们神打派的古法走通，让老板可以因此受益",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我们进行这么多次试验，目的就是把咱们神打派的古法走通，让老板可以因此受益",
-        "老板还会因此受益，延长生命",
-        "老板也会认同它的价值，愿意给我们更多投资"
+      "personality": [
+        "谨慎",
+        "不甘"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "影像",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第55章 影像资料",
-      "summary": "第55章 影像资料　　练功场馆的封闭房间内",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "师父",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在监控室质疑苏午破限后的控制问题。"
+        }
+      ],
       "evidence": [
-        "第55章 影像资料　　练功场馆的封闭房间内",
-        "只留下了一些影像传到如今，还没有人能通过影像学会",
-        "影像只有1分32秒的时间"
+        "身穿白大褂的‘医生’皱眉问道"
       ],
       "mention_count": 3
     },
     {
-      "name": "屏幕",
+      "name": "兽形拳教师",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神打派弟子，兽形拳教师",
+      "faction": "神打派",
       "status": "登场",
       "first_appearance": "第55章 影像资料",
-      "summary": "苏午坐在房间唯一的椅子上，眼睛盯着前方的屏幕，看到药师提着一个保险箱走进来",
+      "summary": "负责教授兽形拳的弟子，对苏午的未来行为有疑虑。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午坐在房间唯一的椅子上，眼睛盯着前方的屏幕，看到药师提着一个保险箱走进来",
-        "她把箱子放在屏幕前的桌上，输入指纹后解锁保险箱，取出了内里一枚银色的小物件",
-        "药师把那个物件插入屏幕的接口内"
+      "relationships": [
+        {
+          "target": "师父",
+          "type": "弟子"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在监控室提出苏午破限后可能不配合的问题。"
+        }
+      ],
+      "evidence": [
+        "兽形拳教师冷不丁问了句"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "只留",
+      "name": "娇小女子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神打派弟子",
+      "faction": "神打派",
       "status": "登场",
       "first_appearance": "第55章 影像资料",
-      "summary": "只留下了一些影像传到如今，还没有人能通过影像学会",
-      "appearance": [],
+      "summary": "长相娟秀的女弟子，询问苏午后续训练安排。",
+      "appearance": [
+        "长相娟秀",
+        "体型较小"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只留下了一些影像传到如今，还没有人能通过影像学会"
+      "relationships": [
+        {
+          "target": "师父",
+          "type": "弟子"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "正常人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第55章 影像资料",
-      "summary": "不是给正常人学习的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不是给正常人学习的",
-        "兽形拳因其只是入门，正常人学习了也不会有什么不适，甚至可能因此种方法而发挥出超常的力量，但更高深的制御法，必然与诡异有极深的牵连",
-        "这个时候，正常人还要学习的话，就是在找死了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在监控室询问苏午是否需要练习兵击拳。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "一直不曾出过声，长相娟秀的娇小女子这时开口道"
+      ],
+      "mention_count": 1
     }
   ]
 }

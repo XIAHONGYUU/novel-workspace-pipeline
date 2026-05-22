@@ -1,78 +1,139 @@
 {
   "chunk_id": "chunk-0067",
-  "title": "第66章合作",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "武道序列",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "”　　李钧将墨刀插回刀鞘，大马金刀坐到马王爷身旁，语气中充满了不解和诧异",
+      "first_appearance": "",
+      "summary": "武道序列，与马王爷谈判合作，对佛道两教的武九绝户计感到震惊。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧将墨刀插回刀鞘，大马金刀坐到马王爷身旁，语气中充满了不解和诧异",
-        "”　　李钧眼神恍惚，一张张脸跑马灯般从眼前一晃而过",
-        "”　　武九绝户计.　　李钧眉头紧骤，身上杀机滚荡不休，眼中有冷光熠熠，“佛道两教为什么要这么干"
+      "personality": [
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 31
+      "abilities": [
+        "墨刀"
+      ],
+      "equipment": [
+        "墨刀"
+      ],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "合作谈判"
+        },
+        {
+          "target": "赵青侠",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与马王爷谈判合作，得知武九绝户计等秘辛。"
+        }
+      ],
+      "evidence": [
+        "李钧将墨刀插回刀鞘，大马金刀坐到马王爷身旁",
+        "李钧眉头紧骤，身上杀机滚荡不休",
+        "李钧吐出一口气，将刀推回鞘中"
+      ],
+      "mention_count": 30
     },
     {
       "name": "马王爷",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "外骨骼装甲器灵",
+      "faction": "墨家",
       "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "”　　李钧将墨刀插回刀鞘，大马金刀坐到马王爷身旁，语气中充满了不解和诧异",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "一副如人一般的外骨骼装甲，拥有器灵，与李钧谈判合作。",
+      "appearance": [
+        "黑色甲胄",
+        "眉心红眼"
+      ],
+      "personality": [
+        "幽默",
+        "深沉"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧将墨刀插回刀鞘，大马金刀坐到马王爷身旁，语气中充满了不解和诧异",
-        "”　　眉心红眼亮起，马王爷忧郁的声音传出",
-        "这个墨八或许指的不是赵青侠，而是这副如人一般的外骨骼装甲，马王爷"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "合作谈判"
+        },
+        {
+          "target": "赵青侠",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧谈判合作，透露武九绝户计等秘密。"
+        }
+      ],
+      "evidence": [
+        "眉心红眼亮起，马王爷忧郁的声音传出",
+        "马王爷竖起大拇指",
+        "马王爷一字一顿，简简单单的四个字"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "马王",
+      "name": "赵青侠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "”　　李钧将墨刀插回刀鞘，大马金刀坐到马王爷身旁，语气中充满了不解和诧异",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧将墨刀插回刀鞘，大马金刀坐到马王爷身旁，语气中充满了不解和诧异",
-        "”　　眉心红眼亮起，马王爷忧郁的声音传出",
-        "这个墨八或许指的不是赵青侠，而是这副如人一般的外骨骼装甲，马王爷"
+      "identity": "墨家序列，武痴",
+      "faction": "墨家",
+      "status": "昏迷",
+      "first_appearance": "",
+      "summary": "墨家从序者，武痴，因与李钧单挑被打晕。",
+      "appearance": [
+        "灰衣青年"
       ],
-      "mention_count": 13
+      "personality": [
+        "勇猛",
+        "脑残"
+      ],
+      "abilities": [
+        "墨八"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对手"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧单挑被打晕。"
+        }
+      ],
+      "evidence": [
+        "灰衣青年双眼紧闭，面门朝下直挺挺栽倒在泥地之中",
+        "赵青侠这瘪犊子就是脑残",
+        "赵青侠虽然是墨家序列，却是个武痴"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "他一",
+      "name": "吴锦丰",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "“他一直都这么勇的吗",
+      "identity": "天府重工人员",
+      "faction": "天府重工",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天府重工的人，被提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -80,171 +141,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "“他一直都这么勇的吗"
+        "天府重工，吴锦丰。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "眉心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "在不远处的廊檐下，一副外骨骼装甲坐在台阶上，用手甲将头盔眉心处那只竖眼般的装饰遮的严严实实，似乎不忍去看眼前这一幕",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在不远处的廊檐下，一副外骨骼装甲坐在台阶上，用手甲将头盔眉心处那只竖眼般的装饰遮的严严实实，似乎不忍去看眼前这一幕",
-        "”　　眉心红眼亮起，马王爷忧郁的声音传出"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "身上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "”　　武九绝户计.　　李钧眉头紧骤，身上杀机滚荡不休，眼中有冷光熠熠，“佛道两教为什么要这么干",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　武九绝户计.　　李钧眉头紧骤，身上杀机滚荡不休，眼中有冷光熠熠，“佛道两教为什么要这么干",
-        "”　　如人一般跨坐的黑色甲胄，身上的甲片在悄无声息的合拢",
-        "”　　在这副铠甲身上，他感受到了比费白驹还要强烈的威胁"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "咧嘴",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "”　　李钧舌尖舔舐着唇齿间翻覆的血腥味，咧嘴一笑，”但再杀一个序列八，应该不是问题",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧舌尖舔舐着唇齿间翻覆的血腥味，咧嘴一笑，”但再杀一个序列八，应该不是问题"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "盔中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "盔中红眼光芒一黯，如人沉默",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "盔中红眼光芒一黯，如人沉默",
-        "”　　那枚盔中红眼颇有深意看向李钧，“至少墨家从没有背叛过你们，甚至在佛道设下武九绝户计的时候，墨家这群人还为此出过头"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "如人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "这个墨八或许指的不是赵青侠，而是这副如人一般的外骨骼装甲，马王爷",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个墨八或许指的不是赵青侠，而是这副如人一般的外骨骼装甲，马王爷",
-        "盔中红眼光芒一黯，如人沉默",
-        "”　　如人一般跨坐的黑色甲胄，身上的甲片在悄无声息的合拢"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "马王爷语",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "马王爷语气唏嘘，“被折腾的太狠了，仇深似海啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "马王爷语气唏嘘，“被折腾的太狠了，仇深似海啊",
-        "”　　红眼光芒猛的一盛，马王爷语气肯定：“一个打铁的工匠非要跟武夫抡拳头，这不是脑残是什么",
-        "一阵械体启动的微弱嗡鸣突然响起，马王爷语气戏谑：“怎么，已经打不动了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "确实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "“确实不聪明",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“确实不聪明",
-        "”　　这个叫赵青侠的墨家从序者对于武道的痴迷程度，确实已经到了走火入魔地步"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "廊檐",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章合作",
-      "summary": "在不远处的廊檐下，一副外骨骼装甲坐在台阶上，用手甲将头盔眉心处那只竖眼般的装饰遮的严严实实，似乎不忍去看眼前这一幕",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在不远处的廊檐下，一副外骨骼装甲坐在台阶上，用手甲将头盔眉心处那只竖眼般的装饰遮的严严实实，似乎不忍去看眼前这一幕",
-        "”　　一人一甲相视一笑，旋即陷入沉默之中，廊檐下的气氛突然变得吊诡"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

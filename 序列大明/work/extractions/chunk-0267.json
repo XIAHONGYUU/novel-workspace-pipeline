@@ -1,99 +1,128 @@
 {
   "chunk_id": "chunk-0267",
-  "title": "第265章明鬼之志（三）",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "钧哥"
+      ],
+      "identity": "武六序列者",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "一头红眼乌鸦从尚显微薄的月光中穿过，锋利的尖喙上叼着一根手掌长短的注入器，徐徐落在李钧的肩头",
+      "first_appearance": "",
+      "summary": "武六序列者，被赵青侠和乌鸦朵朵用作明鬼之志药剂的试验品。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一头红眼乌鸦从尚显微薄的月光中穿过，锋利的尖喙上叼着一根手掌长短的注入器，徐徐落在李钧的肩头",
-        "”　　李钧笑骂一声，低头看着落在掌心之中的注入器",
-        "没来由，李钧突然想起了昔日在成都府鬼街的乌鸦诊所内，乌鸦朵朵在解剖自己身体的时候，同样也是一副狂热的神情"
+      "abilities": [
+        "明鬼之志（八品技击）"
       ],
-      "mention_count": 21
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "被试验对象"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "师妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被注入明鬼之志药剂，获得八品技击能力。"
+        }
+      ],
+      "evidence": [
+        "李钧将注入器举到眼前，半透明的药仓内有漆黑的液体来回流动。",
+        "药剂打入身体之内，没有什么注入武学之时的心潮澎湃，也没有基因冲突的彻骨之痛。",
+        "【明鬼之志（八品技击）学习完成，八品初期0/200】"
+      ],
+      "mention_count": 20
     },
     {
       "name": "赵青侠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "研究者，墨序工匠",
+      "faction": "墨序",
       "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "”　　赵青侠的声音逐渐变得激动，“我们甚至认为在各条序列之中，这条原理都能适用",
+      "first_appearance": "",
+      "summary": "与乌鸦朵朵共同研究出明鬼之志药剂，用于唤醒墨序能力。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "狂热"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵青侠的声音逐渐变得激动，“我们甚至认为在各条序列之中，这条原理都能适用",
-        "有了赵青侠在前面趟路，李钧也用不着再继续犹豫",
-        "李钧眼眸发冷，他此刻脑海中蓦然浮现出一个念头，赵青侠的这门技术，恐怕早就被墨序的人研究出来了，而且早已经普及到了帝国上下"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "试验对象"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "合作研究者"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧解释明鬼之志药剂的原理。"
+        }
+      ],
+      "evidence": [
+        "赵青侠狂热的声音终于稍稍降温。",
+        "赵青侠的声音中带着深深的余悸。",
+        "赵青侠在传音中听着李钧渐渐粗重的呼吸声"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "赵青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "”　　赵青侠的声音逐渐变得激动，“我们甚至认为在各条序列之中，这条原理都能适用",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵青侠的声音逐渐变得激动，“我们甚至认为在各条序列之中，这条原理都能适用",
-        "有了赵青侠在前面趟路，李钧也用不着再继续犹豫",
-        "李钧眼眸发冷，他此刻脑海中蓦然浮现出一个念头，赵青侠的这门技术，恐怕早就被墨序的人研究出来了，而且早已经普及到了帝国上下"
+      "name": "乌鸦朵朵",
+      "aliases": [
+        "朵朵"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "恐怕",
-      "aliases": [],
-      "identity": "",
+      "identity": "李钧的师妹，研究者",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "这种情况下就算去强行唤醒武道基因，恐怕也只能得到一个会念论语的肌肉棒子",
+      "first_appearance": "",
+      "summary": "与赵青侠共同研究明鬼之志药剂，曾在赵青侠身上试验。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "狂热"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "师兄"
+        },
+        {
+          "target": "赵青侠",
+          "type": "合作研究者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "安抚李钧，说明药剂已在赵青侠身上试验过。"
+        }
+      ],
       "evidence": [
-        "这种情况下就算去强行唤醒武道基因，恐怕也只能得到一个会念论语的肌肉棒子",
-        "“钧哥你现在是武六，如果去唤醒你基因中关于修道和念佛的基因，恐怕立马就会引起基因震荡，陷入崩溃之中",
-        "李钧眼眸发冷，他此刻脑海中蓦然浮现出一个念头，赵青侠的这门技术，恐怕早就被墨序的人研究出来了，而且早已经普及到了帝国上下"
+        "乌鸦朵朵安抚道：“放心吧师兄，其实我已经在赵青侠身上试过了”",
+        "乌鸦朵朵在解剖自己身体的时候，同样也是一副狂热的神情。"
       ],
       "mention_count": 5
     },
     {
-      "name": "而且",
+      "name": "马王爷",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "“就好像武序和兵序之间，道序和阴阳之间.，而且随着序列品级的提高，主基因对其他基因的压制能力也会越强，想要跨序也就越难",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "在场人物，对赵青侠的经历表示同情。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -101,153 +130,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "“就好像武序和兵序之间，道序和阴阳之间.，而且随着序列品级的提高，主基因对其他基因的压制能力也会越强，想要跨序也就越难",
-        "李钧眼眸发冷，他此刻脑海中蓦然浮现出一个念头，赵青侠的这门技术，恐怕早就被墨序的人研究出来了，而且早已经普及到了帝国上下",
-        "而且在‘天下分武’之前的很长时间里，墨序和武序始终关系密切，彼此之间基因交流频繁"
+        "马王爷听得长吁短叹，一脸同情。"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "墨序",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "不过其中蕴藏是用于唤醒墨序的一项特殊能力明鬼之志的特殊药剂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过其中蕴藏是用于唤醒墨序的一项特殊能力明鬼之志的特殊药剂",
-        "”　　一片血色的背景中，无数走投无路、重伤濒死的武道从序者，前赴后继的走向手术台，祈求曾经并肩作战的墨序工匠，将自己数十年锻炼增强的基因作为蓝本，制作成一支支带着斑驳血迹的武学注入器",
-        "”　　他脑海里甚至不受控制的跳出一个画面，那是自己脚踏飞剑，头顶佛轮，右手握着绣春刀，左手捏着大明律，肌肉虬结的身体上穿着墨序甲胄，胸腔之中械心跳的隆隆作响，阴阳家的算筹在背后不断推演"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "之前",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "在帝国建立之前的数千年时间中，前人通过一代代的基因更迭，将序列的能力篆刻进了基因之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在帝国建立之前的数千年时间中，前人通过一代代的基因更迭，将序列的能力篆刻进了基因之中",
-        "而且在‘天下分武’之前的很长时间里，墨序和武序始终关系密切，彼此之间基因交流频繁",
-        "“在‘第一次帝国浪潮’之前，习武之人通过各种刻苦锻炼，来唤醒这方面的基因"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "暂时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "“这个.暂时还没有",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这个.暂时还没有",
-        "”　　“我目前的序列太低，暂时还做不到那一步，但按理来应该是可以的，不过批量生产是不是太残忍了一些，这东西要抽骨髓，很痛的.”　　“那武序和墨序之间有关联性"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "一头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "一头红眼乌鸦从尚显微薄的月光中穿过，锋利的尖喙上叼着一根手掌长短的注入器，徐徐落在李钧的肩头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一头红眼乌鸦从尚显微薄的月光中穿过，锋利的尖喙上叼着一根手掌长短的注入器，徐徐落在李钧的肩头"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "低头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "”　　李钧笑骂一声，低头看着落在掌心之中的注入器",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧笑骂一声，低头看着落在掌心之中的注入器"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "乌鸦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "一头红眼乌鸦从尚显微薄的月光中穿过，锋利的尖喙上叼着一根手掌长短的注入器，徐徐落在李钧的肩头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一头红眼乌鸦从尚显微薄的月光中穿过，锋利的尖喙上叼着一根手掌长短的注入器，徐徐落在李钧的肩头",
-        "没来由，李钧突然想起了昔日在成都府鬼街的乌鸦诊所内，乌鸦朵朵在解剖自己身体的时候，同样也是一副狂热的神情",
-        "这时候，乌鸦朵朵的声音插了进来"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "乌鸦朵",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第265章明鬼之志（三）",
-      "summary": "没来由，李钧突然想起了昔日在成都府鬼街的乌鸦诊所内，乌鸦朵朵在解剖自己身体的时候，同样也是一副狂热的神情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "没来由，李钧突然想起了昔日在成都府鬼街的乌鸦诊所内，乌鸦朵朵在解剖自己身体的时候，同样也是一副狂热的神情",
-        "这时候，乌鸦朵朵的声音插了进来",
-        "”　　乌鸦朵朵安抚道：“放心吧师兄，其实我已经在赵青侠身上试过了，虽然是同序列看不出有什么作用，但也没有什么不良反应"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

@@ -1,0 +1,118 @@
+{
+  "chunk_id": "chunk-0303",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "穿越者，拥有芯片辅助，正在探索幻影池。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "战斗辅助模式",
+        "芯片分析"
+      ],
+      "equipment": [
+        "恶念弯刀",
+        "荆棘之光",
+        "暗金色钥匙"
+      ],
+      "relationships": [
+        {
+          "target": "疑惑之墙",
+          "type": "指引者"
+        },
+        {
+          "target": "白露",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入幻影池大厅，与美人蝎子对峙，最终击杀一只并跳入幻影池返回卧室。"
+        }
+      ],
+      "evidence": [
+        "安格列轻轻吐了口气，缓缓走进大厅。",
+        "安格列缓缓将荆棘之光的银白指环戴在手指间。",
+        "安格列毫不犹豫，俯下身，嘴对准那个红色音符，轻轻一吸。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "白露",
+      "aliases": [
+        "北露丝·卡希尔"
+      ],
+      "identity": "幻影池守卫者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "美人蝎子，幻影池的守卫者之一，能说话，被安格列击杀。",
+      "appearance": [
+        "美人蝎子形态，黑色长发，雪白皮肤，黑色蝎尾"
+      ],
+      "personality": [
+        "狡猾",
+        "诱惑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列对话，提出交配或灵魂代价的选择，后被安格列识破并击杀。"
+        }
+      ],
+      "evidence": [
+        "唏……已经很久没有人来到幻影池了。",
+        "北露丝·卡希尔。我的名字。你可以称呼我白露。",
+        "不！！白露疯狂的叫了起来。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "疑惑之墙",
+      "aliases": [],
+      "identity": "神秘存在",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "通过声音指引安格列，告知蝎子的真相。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "指引者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传音给安格列，指示他杀死蝎子。"
+        }
+      ],
+      "evidence": [
+        "疑惑之墙的声音顿时传进他的耳中。",
+        "杀了她们……看守幻影池的蝎子们拥有着最纯正的穿梭梦魇世界血脉"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

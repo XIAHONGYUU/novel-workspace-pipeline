@@ -1,255 +1,183 @@
 {
   "chunk_id": "chunk-0416",
-  "title": "第415章 “罗生门”（一）",
   "characters": [
     {
-      "name": "安纲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "安纲有些迷惘地看着弘正的动作，不知道这位白衣僧侣，为何会突然起身",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "安纲有些迷惘地看着弘正的动作，不知道这位白衣僧侣，为何会突然起身",
-        "”　　听着弘正认真的言语，　　安纲内心不禁有些发毛",
-        "安纲大师，和我一起去吧"
-      ],
-      "mention_count": 34
-    },
-    {
       "name": "弘正",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "弘正法师",
+        "白衣僧侣",
+        "招提寺僧弘正"
+      ],
+      "identity": "招提寺僧侣",
       "faction": "",
       "status": "登场",
       "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "弘正提起禅杖，一手撑着禅杖，一手提着太刀，身形站立了起来，看向门口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "弘正提起禅杖，一手撑着禅杖，一手提着太刀，身形站立了起来，看向门口",
-        "这个时候，　　弘正禅杖上的铃铛不再发出响声",
-        "安纲有些迷惘地看着弘正的动作，不知道这位白衣僧侣，为何会突然起身"
+      "summary": "一位白衣僧侣，手持禅杖和太刀，警惕性高，暗中与平氏通信。",
+      "appearance": [
+        "白衣"
       ],
-      "mention_count": 25
+      "personality": [
+        "警惕",
+        "谨慎",
+        "有心计"
+      ],
+      "abilities": [
+        "使用惊妖铃",
+        "使用灵钞通信"
+      ],
+      "equipment": [
+        "禅杖",
+        "太刀",
+        "惊妖铃",
+        "灵钞",
+        "毛笔",
+        "竹筒",
+        "杀生石矿粉调制的墨水",
+        "淡粉色脂膏"
+      ],
+      "relationships": [
+        {
+          "target": "渡边纲",
+          "type": "同行"
+        },
+        {
+          "target": "安纲",
+          "type": "监视对象"
+        },
+        {
+          "target": "平灵子",
+          "type": "通信对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在废弃村落中与渡边纲、安纲共处，惊妖铃响，怀疑渡边纲，后写信给平灵子。"
+        }
+      ],
+      "evidence": [
+        "弘正提起禅杖，一手撑着禅杖，一手提着太刀，身形站立了起来，看向门口。",
+        "弘正摇了摇头，重新坐回去，禅杖竖立着放在靠墙的位置，手里握着的太刀顺势挂在腰袢上。",
+        "弘正取来一个竹筒，将毛笔蘸入竹筒中，随后在粗黄纸上写字。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "渡边纲",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "渡边纲大人"
+      ],
+      "identity": "武士首领",
       "faction": "",
       "status": "登场",
       "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "‘渡边纲’从门口大步走了进来",
+      "summary": "曾斩切过‘罗生门之诡’一条手臂的武士，带领武士队，邀请安纲前往平安京。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "豪爽",
+        "不以为意"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘渡边纲’从门口大步走了进来",
-        "他看到渡边纲走进屋子里，也跟着仓促起身",
-        "”　　‘渡边纲’大笑着，向弘正说话道"
+      "relationships": [
+        {
+          "target": "弘正",
+          "type": "同行"
+        },
+        {
+          "target": "安纲",
+          "type": "邀请对象"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从门口走进来，与弘正交谈，传达命令。"
+        }
+      ],
+      "evidence": [
+        "渡边纲从门口大步走了进来。",
+        "渡边纲大笑着，向弘正说话道。",
+        "渡边纲点点头，招手唤来门口守卫的武士。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "渡边",
-      "aliases": [],
-      "identity": "",
+      "name": "安纲",
+      "aliases": [
+        "安纲大师",
+        "安纲匠师"
+      ],
+      "identity": "刀匠",
       "faction": "",
       "status": "登场",
       "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "‘渡边纲’从门口大步走了进来",
+      "summary": "一位刀匠，随身携带一把无上级太刀，被卷入源氏争斗。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘渡边纲’从门口大步走了进来",
-        "他看到渡边纲走进屋子里，也跟着仓促起身",
-        "”　　‘渡边纲’大笑着，向弘正说话道"
+      "personality": [
+        "迷惘",
+        "紧张",
+        "谨慎"
       ],
-      "mention_count": 8
+      "abilities": [],
+      "equipment": [
+        "太刀（无上级）",
+        "黑布包裹"
+      ],
+      "relationships": [
+        {
+          "target": "弘正",
+          "type": "同行，被监视"
+        },
+        {
+          "target": "渡边纲",
+          "type": "被邀请"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随弘正如厕，被弘正试图夺取太刀，意识到自己是鱼饵。"
+        }
+      ],
+      "evidence": [
+        "安纲有些迷惘地看着弘正的动作。",
+        "安纲内心不禁有些发毛。",
+        "安纲伸手推开茅厕的门板。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "茅厕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "平灵子",
+      "aliases": [
+        "平灵子小姐"
+      ],
+      "identity": "平氏贵族小姐",
+      "faction": "平氏",
+      "status": "提及",
       "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "这座村居的茅厕由茅草屋顶以及四块木板拼接而成",
+      "summary": "平氏贵族小姐，弘正写信向其报告情况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这座村居的茅厕由茅草屋顶以及四块木板拼接而成",
-        "站在长方形的茅厕门口，弘正立下禅杖，同安纲说道：“大师先去吧",
-        "安纲听言道了声谢，　　背着黑布包裹、长度似是一把太刀那般长的刀剑，拉开茅厕门板走了进去"
+      "relationships": [
+        {
+          "target": "弘正",
+          "type": "通信对象"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "法师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "”　　‘渡边纲’不以为意，　　在火炉边挨着弘正坐下，看着弘正笑道：“法师难道觉得，我是鬼怪变化的吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　‘渡边纲’不以为意，　　在火炉边挨着弘正坐下，看着弘正笑道：“法师难道觉得，我是鬼怪变化的吗",
-        "结合先前弘正法师禅杖上的惊妖铃响，　　安纲不免猜测——渡边纲或许变成了一只厉诡",
-        "他眼见弘正起身，听到对方的话，赶紧从地板上爬起，连连点头道：“两人一组，两人一组，正好，我和你一起去，法师"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "弘正写信给平灵子，告知渡边纲队伍方位。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "沥沥",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "沥沥的水声响起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "沥沥的水声响起",
-        "这时候，安纲忽然听到背后哐当一声——门板被人拉开了——他身形一抖，沥沥的水声顿时止住——一只手抓住了他身后以黑布包裹的刀剑——　　安纲都来不及穿衣服，　　也连忙伸手向后握住刀剑的把柄",
-        "将门板重新合拢，　　弘正手持禅杖，默默比着口型：“一，二，三……”　　数到第五个数的时候，　　茅厕里重又响起沥沥的水声"
+        "平灵子小姐尊鉴：",
+        "我听闻平灵子小姐今领武士队，截堵于玉色山——长船国一带。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "不要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "不要让他们走远了，　　鬼怪侵袭之时，越少分散力量，对我们的好处就越大",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不要让他们走远了，　　鬼怪侵袭之时，越少分散力量，对我们的好处就越大",
-        "不要独自一人前去",
-        "”渡边纲点点头，　　招手唤来门口守卫的武士，　　把弘正方才提过的建议——包括令在外巡防的武士收缩阵线，团聚在这件房屋四周，不要走远，上厕所两两结伴等命令，都一一传达给了手下武士"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "内心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "”　　听着弘正认真的言语，　　安纲内心不禁有些发毛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　听着弘正认真的言语，　　安纲内心不禁有些发毛",
-        "他看着已经停止发出响声的禅杖，内心不禁闪出念头：难道真的有鬼怪侵袭了这里",
-        "安纲穿好衣衫，　　内心一片冰凉"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "好似",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "随着那阵铃铛声，好似有阵阴风从屋门口吹刮了进来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着那阵铃铛声，好似有阵阴风从屋门口吹刮了进来",
-        "坐在火炉边，安纲却觉得身上越来越冷，　　好似有只恶诡盘踞在自己身畔，　　他悄悄地观察了渡边纲片刻，　　越看越觉得这位曾斩切过‘罗生门之诡’一条手臂的武士，在如厕回来以后，好似与先前不一样了，但具体是哪里不一样，他却一时半会儿间又难以说清",
-        "原本面无表情的弘正，此时面露歉然之色，匆匆缩回手掌，同安纲合十行礼道：“方才听到茅厕里好似有怪异的响声，我担心大师可能会出问题，　　所以开门查探了一下"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "团聚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "为防意外，还是令外面巡逻的武士收缩阵线，团聚在房屋四周为好",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "为防意外，还是令外面巡逻的武士收缩阵线，团聚在房屋四周为好",
-        "”渡边纲点点头，　　招手唤来门口守卫的武士，　　把弘正方才提过的建议——包括令在外巡防的武士收缩阵线，团聚在这件房屋四周，不要走远，上厕所两两结伴等命令，都一一传达给了手下武士"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第415章 “罗生门”（一）",
-      "summary": "他眼见弘正起身，听到对方的话，赶紧从地板上爬起，连连点头道：“两人一组，两人一组，正好，我和你一起去，法师",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他眼见弘正起身，听到对方的话，赶紧从地板上爬起，连连点头道：“两人一组，两人一组，正好，我和你一起去，法师"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

@@ -1,251 +1,146 @@
 {
   "chunk_id": "chunk-0186",
-  "title": "第184章鸿鹄走卒",
   "characters": [
     {
       "name": "顾用",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "顾邕"
+      ],
+      "identity": "和平饭店东主手下的金牌龟公",
+      "faction": "鸿鹄",
+      "status": "被殴打后觉醒记忆",
       "first_appearance": "第184章鸿鹄走卒",
-      "summary": "”　　顾用一语道破汉子心中的想法，毫不客气说道：“这些事还轮不到你们来担心，踏实做好本职工作就行了",
+      "summary": "表面身份是和平饭店的龟公，实则是被挖去芯片的前门阀顾邕，在被打后觉醒记忆。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾用一语道破汉子心中的想法，毫不客气说道：“这些事还轮不到你们来担心，踏实做好本职工作就行了",
-        "”　　汉子大笑一声，脸上突然横生戾气，身形猛然暴起，一拳将顾用砸翻在地",
-        "顾用摔倒在雨地之中，身体蜷缩如同一只煮熟的虾子，双手捂着腹部，大口大口呕着酸水"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被李钧点醒身份"
+        },
+        {
+          "target": "汉子（老王）",
+          "type": "被其殴打"
+        }
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "”李钧突然开口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”李钧突然开口",
-        "李钧没有回答，不过他身上那股浓郁的血腥气便足以解释一切",
-        "怒吼声戛然而止、　　李钧缓缓起身，将手指伸出伞外，等上面的血水被冲刷干净后，这才转身离开这条幽暗的巷道"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被汉子殴打后觉醒记忆，意识到自己是顾邕。"
+        }
       ],
-      "mention_count": 9
+      "evidence": [
+        "顾用颤抖着抬起手，贴着脸一寸寸摸向脑后。",
+        "昔日门阀顾邕，今日鸿鹄走卒。",
+        "我是顾邕！"
+      ],
+      "mention_count": 20
     },
     {
       "name": "汉子",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "老王"
+      ],
+      "identity": "和平饭店的打手",
       "faction": "",
-      "status": "登场",
+      "status": "殴打顾用",
       "first_appearance": "第184章鸿鹄走卒",
-      "summary": "第184章鸿鹄走卒　　汉子见他态度突然变得冷淡，有些尴尬的挠了挠头，“也没怎么，只是兄弟们看到好多熟客都跑到那边去了，有些担心店里的生意",
+      "summary": "和平饭店的打手，因不满顾用的训斥而动手殴打顾用。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "暴躁",
+        "欺软怕硬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "顾用",
+          "type": "殴打对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "殴打顾用并辱骂他。"
+        }
+      ],
       "evidence": [
-        "第184章鸿鹄走卒　　汉子见他态度突然变得冷淡，有些尴尬的挠了挠头，“也没怎么，只是兄弟们看到好多熟客都跑到那边去了，有些担心店里的生意",
-        "”　　顾用一语道破汉子心中的想法，毫不客气说道：“这些事还轮不到你们来担心，踏实做好本职工作就行了",
-        "”　　汉子大笑一声，脸上突然横生戾气，身形猛然暴起，一拳将顾用砸翻在地"
+        "汉子见他态度突然变得冷淡，有些尴尬的挠了挠头",
+        "汉子大笑一声，脸上突然横生戾气，身形猛然暴起，一拳将顾用砸翻在地!",
+        "汉子满不在乎的回应着，再次扬起手狠狠一甩！"
       ],
       "mention_count": 8
     },
     {
-      "name": "邹四九",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "不明，但似乎与顾用相识",
       "faction": "",
-      "status": "登场",
+      "status": "旁观并点醒顾用",
       "first_appearance": "第184章鸿鹄走卒",
-      "summary": "”　　邹四九一脸错愕，“什么",
-      "appearance": [],
-      "personality": [],
+      "summary": "在巷口撑伞旁观的神秘人物，点醒顾用其真实身份。",
+      "appearance": [
+        "撑伞的人影"
+      ],
+      "personality": [
+        "冷漠",
+        "神秘"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "伞"
+      ],
+      "relationships": [
+        {
+          "target": "顾用",
+          "type": "点醒其身份"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在巷口旁观顾用被打，后点醒顾用。"
+        }
+      ],
       "evidence": [
-        "”　　邹四九一脸错愕，“什么",
-        "嗡.　　开门之中的防卫系统突然自行开启，闪动的红光映照着邹四九那张略显懵逼的脸",
-        "邹四九敏锐感觉到，李钧的心情似乎不是太好"
+        "当掠过巷子口的时候，他依稀看到有一个撑伞的人影，笔直立在那里。",
+        "清冷的声音如同一把利刃搅入脑中",
+        "李钧缓缓起身，将手指伸出伞外"
       ],
       "mention_count": 5
     },
     {
-      "name": "接着",
+      "name": "邹四九",
       "aliases": [],
-      "identity": "",
+      "identity": "和平饭店相关人员",
       "faction": "",
-      "status": "登场",
+      "status": "在和平饭店内",
       "first_appearance": "第184章鸿鹄走卒",
-      "summary": "接着又是一脚扫踢在胸口",
+      "summary": "在和平饭店内，与李钧有对话，似乎负责防卫系统。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "接着又是一脚扫踢在胸口",
-        "”　　特别是周围同伴戏谑的眼神，更是让他怒上心头，一脚接着一脚狠狠踩在顾用身上",
-        "”　　入手处的皮肤十分粗糙，接着一个足有两寸长宽的凹陷陡然出现在那里"
+      "abilities": [
+        "操控防卫系统"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "我是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "我是被买的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我是被买的",
-        "”　　“喵呜.”　　顾用嘴角刚刚扬起的笑容猛然一窒，“那那我是谁",
-        "“我是谁"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对话"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "老子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "“伱他妈的就是个臭拉皮条的，跟老子在这儿拽什么拽",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“伱他妈的就是个臭拉皮条的，跟老子在这儿拽什么拽",
-        "还敢教训老子，今天我就让你知道我的厉害",
-        "“怕什么，反正这家店早晚也要关张了，老子回头就到罗汉寺那边的新店去应聘，我不信他还敢到那里找我的麻烦"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在和平饭店内与李钧对话，关闭防卫系统。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "大口",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "顾用摔倒在雨地之中，身体蜷缩如同一只煮熟的虾子，双手捂着腹部，大口大口呕着酸水",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "顾用摔倒在雨地之中，身体蜷缩如同一只煮熟的虾子，双手捂着腹部，大口大口呕着酸水"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "将他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "”　　颅骨的伤口此时如同一块烙铁，将他一身鲜血点燃",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　颅骨的伤口此时如同一块烙铁，将他一身鲜血点燃",
-        "汉子挪开撵动的脚掌，蹲下身子，抓着顾用的头发将他拽着坐了起来，狞笑着问道：“你说什么"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "贴着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "顾用颤抖着抬起手，贴着脸一寸寸摸向脑后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾用颤抖着抬起手，贴着脸一寸寸摸向脑后"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "在他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "”　　在他身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　在他身后",
-        "”　　这一刻，无数支离破碎的记忆在他脑海里快速翻滚，最后定格在一块挂满碎肉，被人硬生生拔出的芯片上",
-        "蓦然，一片密集且温热的雨点打在他的脸上，让顾用即将黯淡的视线微微恢复了一点光亮"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "邹四",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第184章鸿鹄走卒",
-      "summary": "”　　邹四九一脸错愕，“什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　邹四九一脸错愕，“什么",
-        "嗡.　　开门之中的防卫系统突然自行开启，闪动的红光映照着邹四九那张略显懵逼的脸",
-        "邹四九敏锐感觉到，李钧的心情似乎不是太好"
+        "盘腿而坐的邹四九看着推门而入的李钧，“解决了？”",
+        "邹四九背心顷刻浸出一片汗水，他双手凌空掐动，将防卫系统强行关闭。"
       ],
       "mention_count": 3
     }

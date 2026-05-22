@@ -1,257 +1,315 @@
 {
   "chunk_id": "chunk-0277",
-  "title": "第275章老鬼双煞",
   "characters": [
     {
+      "name": "北三奉行",
+      "aliases": [],
+      "identity": "小型暴力团伙组长，荒世集团下线",
+      "faction": "荒世集团",
+      "status": "被捕",
+      "first_appearance": "第275章老鬼双煞",
+      "summary": "犬山城本地的小型暴力团伙组长，经营居酒屋和混堂，倒卖器官、义肢和违禁品，因替荒世集团分销墨家军械被锦衣卫抓捕。",
+      "appearance": [],
+      "personality": [
+        "惊恐",
+        "愤怒"
+      ],
+      "abilities": [],
+      "equipment": [
+        "机械脊椎"
+      ],
+      "relationships": [
+        {
+          "target": "荒世集团",
+          "type": "下线"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "被捕时",
+          "event": "被范无咎和谢必安踩在泥中审讯，最终屈服交代。"
+        }
+      ],
+      "evidence": [
+        "北三奉行清楚听见了自己颈骨关节错位的响声，幸好他早就换了一根机械脊椎",
+        "七天前，你搭上了荒世集团的线，专门帮他们分销从帝国本土偷运来的墨家军械",
+        "北三奉行，隆武五十二年生人，籍贯大明帝国倭民区犬山城。在一个小型暴力团伙担任组长"
+      ],
+      "mention_count": 12
+    },
+    {
       "name": "范无咎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第275章老鬼双煞",
-      "summary": "”　　范无咎突然大吼一声，“老谢，这小子的嘴是真硬啊，要不直接弄死算了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　范无咎突然大吼一声，“老谢，这小子的嘴是真硬啊，要不直接弄死算了",
-        "”　　男人这才意犹未尽的闭上嘴巴，又剜了范无咎一眼，这才停下嘴巴",
-        "”　　范无咎面露错愕，“什么日子"
+      "aliases": [
+        "老黑",
+        "色中恶鬼"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "谢必安",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "犬山城锦衣卫户所一处处长",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第275章老鬼双煞",
-      "summary": "谢必安你为什么不早点说",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "谢必安你为什么不早点说",
-        "”　　谢必安松开手指，白色的文件被冷风吹动，盖在北三奉行惶恐的脸上",
-        "谢必安没好气道：“他把荒世源和墨恪都砍了"
+      "summary": "犬山城锦衣卫户所一处处长，性格粗犷好色，崇拜李钧，与谢必安搭档抓捕北三奉行。",
+      "appearance": [
+        "皮肤黝黑"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "谢必",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第275章老鬼双煞",
-      "summary": "谢必安你为什么不早点说",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "谢必安你为什么不早点说",
-        "”　　谢必安松开手指，白色的文件被冷风吹动，盖在北三奉行惶恐的脸上",
-        "谢必安没好气道：“他把荒世源和墨恪都砍了"
+      "personality": [
+        "粗犷",
+        "好色",
+        "崇拜强者"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "范无",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第275章老鬼双煞",
-      "summary": "”　　范无咎突然大吼一声，“老谢，这小子的嘴是真硬啊，要不直接弄死算了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "谢必安",
+          "type": "搭档"
+        },
+        {
+          "target": "李钧",
+          "type": "崇拜对象"
+        },
+        {
+          "target": "鬼王达",
+          "type": "上司"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抓捕时",
+          "event": "与谢必安一起抓捕北三奉行，踩断其颈骨。"
+        }
+      ],
       "evidence": [
-        "”　　范无咎突然大吼一声，“老谢，这小子的嘴是真硬啊，要不直接弄死算了",
-        "”　　男人这才意犹未尽的闭上嘴巴，又剜了范无咎一眼，这才停下嘴巴",
-        "”　　范无咎面露错愕，“什么日子"
+        "知道我为什么取个范无咎的假名吗？就因为我是色中恶鬼啊！",
+        "范无咎突然大吼一声，“老谢，这小子的嘴是真硬啊，要不直接弄死算了！”",
+        "范无咎一脸崇拜，“我大哥就是猛！”"
       ],
       "mention_count": 8
     },
     {
-      "name": "北三",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第275章老鬼双煞",
-      "summary": "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
-        "北三奉行清楚听见了自己颈骨关节错位的响声，幸好他早就换了一根机械脊椎，要不然这一脚就能让他下半辈子瘫在床上渡过",
-        "”　　男人一边跺着北三奉行的脑袋，口中大声抱怨，“这鬼天气难道不应该泡在温泉里，左拥右抱，手揽山峰观明月"
+      "name": "谢必安",
+      "aliases": [
+        "老谢"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "北三奉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "犬山城锦衣卫户人员",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第275章老鬼双煞",
-      "summary": "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
-        "北三奉行清楚听见了自己颈骨关节错位的响声，幸好他早就换了一根机械脊椎，要不然这一脚就能让他下半辈子瘫在床上渡过",
-        "”　　男人一边跺着北三奉行的脑袋，口中大声抱怨，“这鬼天气难道不应该泡在温泉里，左拥右抱，手揽山峰观明月"
+      "summary": "犬山城锦衣卫，与范无咎搭档，性格相对冷静，负责审讯北三奉行。",
+      "appearance": [
+        "皮肤白皙",
+        "薄唇猩红",
+        "白发扎髻",
+        "白色劲装"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "北三奉行",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第275章老鬼双煞",
-      "summary": "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
-        "北三奉行清楚听见了自己颈骨关节错位的响声，幸好他早就换了一根机械脊椎，要不然这一脚就能让他下半辈子瘫在床上渡过",
-        "”　　男人一边跺着北三奉行的脑袋，口中大声抱怨，“这鬼天气难道不应该泡在温泉里，左拥右抱，手揽山峰观明月"
+      "personality": [
+        "冷静",
+        "干练"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第275章老鬼双煞",
-      "summary": "”　　“李钧见过鬼鬼哥",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "黑色雨伞"
+      ],
+      "relationships": [
+        {
+          "target": "范无咎",
+          "type": "搭档"
+        },
+        {
+          "target": "鬼王达",
+          "type": "上司"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抓捕时",
+          "event": "与范无咎一起抓捕北三奉行，出示文件并给出选择。"
+        }
+      ],
       "evidence": [
-        "”　　“李钧见过鬼鬼哥",
-        "呲.　　厢门滑动着打开，李钧的身影缓缓步出",
-        "“李钧虽然在蜀地当过浑水袍哥，但是不是川蜀人还是个问题"
+        "谢必安松开手指，白色的文件被冷风吹动，盖在北三奉行惶恐的脸上。",
+        "谢必安撑着伞走近，从怀中掏出一份纸质文件",
+        "谢必安喝道：“别他妈踩了，赶紧麻溜问话！”"
       ],
       "mention_count": 6
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "鬼王达",
+      "aliases": [
+        "老鬼",
+        "鬼哥",
+        "达哥"
+      ],
+      "identity": "犬山城锦衣卫百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第275章老鬼双煞",
-      "summary": "“他妈的，抓一个小小的兵八都需要我们两大处长出动，咱们犬山城锦衣卫户所什么时候沦落到这个地步了",
-      "appearance": [],
-      "personality": [],
+      "summary": "犬山城锦衣卫百户，负责迎接李钧，性格随和但威严。",
+      "appearance": [
+        "脸型圆润",
+        "长相普通"
+      ],
+      "personality": [
+        "随和",
+        "有威严"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同僚"
+        },
+        {
+          "target": "范无咎",
+          "type": "下属"
+        },
+        {
+          "target": "谢必安",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "迎接时",
+          "event": "在月台迎接李钧，并介绍同僚。"
+        }
+      ],
       "evidence": [
-        "“他妈的，抓一个小小的兵八都需要我们两大处长出动，咱们犬山城锦衣卫户所什么时候沦落到这个地步了",
-        "这让新同僚怎么看待我们的业务能力",
-        "”　　谢必安轻轻叹了口气，“对了，等一会办完事我们顺便去把他全家也扔进去"
+        "小李是吧，我是犬山城锦衣卫百户鬼王达，你可以喊我老鬼，也可以喊我鬼哥或者达哥",
+        "中年男人迎了上来，一脸殷勤拍了拍李钧的肩头。",
+        "鬼王达转身面向众人，抬手拍了拍，“来，喊人了。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "将他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李钧",
+      "aliases": [
+        "小李"
+      ],
+      "identity": "锦衣卫杰出代表",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第275章老鬼双煞",
-      "summary": "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
+      "summary": "锦衣卫杰出代表，曾从成都府砍到重庆府，捅死藩王，又追到倭民区砍鸿鹄，受到范无咎崇拜。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一只皮面崭新的厚底皂靴狠狠踩在北三奉行的后颈上，将他的头碾进泥泞之中",
-        "他张开嘴想要呼喊，可下一秒压在颈上的脚又重了一分，泥浆立马涌入嘴巴之中，将他涌到唇边的话语堵了回去"
+      "abilities": [
+        "武艺高强"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "范无咎",
+          "type": "被崇拜"
+        },
+        {
+          "target": "鬼王达",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "到达时",
+          "event": "乘坐攘夷号抵达犬山城月台，受到锦衣卫欢迎。"
+        }
+      ],
+      "evidence": [
+        "不愧是从成都府砍到重庆府，捅死了藩王，又追到倭民区砍鸿鹄的锦衣卫杰出代表啊！",
+        "李钧虽然在蜀地当过浑水袍哥",
+        "李钧要是折了，咱们今天还送什么礼？该送挽联了！"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "要不",
+      "name": "马王爷",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第275章老鬼双煞",
-      "summary": "北三奉行清楚听见了自己颈骨关节错位的响声，幸好他早就换了一根机械脊椎，要不然这一脚就能让他下半辈子瘫在床上渡过",
-      "appearance": [],
+      "summary": "与李钧一同乘坐攘夷号到达，裹着黑袍，对本地锦衣卫的嚣张表示评论。",
+      "appearance": [
+        "裹着一袭黑袍"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "北三奉行清楚听见了自己颈骨关节错位的响声，幸好他早就换了一根机械脊椎，要不然这一脚就能让他下半辈子瘫在床上渡过",
-        "”　　范无咎突然大吼一声，“老谢，这小子的嘴是真硬啊，要不直接弄死算了",
-        "要不是为了给那位大哥送上一份见面礼，你跟我用得着在这里收拾这个荒世集团的小兵八"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "到达时",
+          "event": "与李钧一起下车，评论本地锦衣卫。"
+        }
+      ],
+      "evidence": [
+        "裹着一袭黑袍的马王爷看着眼前杀气腾腾的欢迎队伍，低声说道。",
+        "老李，本地的锦衣卫看起来很嚣张啊。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "这就",
+      "name": "荒世源",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "荒世集团成员",
+      "faction": "荒世集团",
+      "status": "已死",
       "first_appearance": "第275章老鬼双煞",
-      "summary": "这就铁骨铮铮了",
+      "summary": "荒世集团成员，被李钧砍死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这就铁骨铮铮了",
-        "这就放弃审问了",
-        "”　　“好咧好咧，这就问"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被杀死"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被李钧砍死。"
+        }
+      ],
+      "evidence": [
+        "他把荒世源和墨恪都砍了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "墨恪",
+      "aliases": [],
+      "identity": "天志会墨攻部队主官",
+      "faction": "天志会",
+      "status": "已死",
+      "first_appearance": "第275章老鬼双煞",
+      "summary": "天志会墨攻部队主官，因惹到李钧的朋友而被李钧砍死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被杀死"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被李钧砍死。"
+        }
+      ],
+      "evidence": [
+        "天志会墨攻部队的主官墨恪，因为一个矩子堂的入堂名额，惹到了李钧的朋友。",
+        "他把荒世源和墨恪都砍了。"
+      ],
+      "mention_count": 2
     }
   ]
 }

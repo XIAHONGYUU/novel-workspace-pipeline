@@ -1,256 +1,210 @@
 {
   "chunk_id": "chunk-0517",
-  "title": "第515章何为鬼",
   "characters": [
+    {
+      "name": "梁火",
+      "aliases": [
+        "梁老板",
+        "小梁"
+      ],
+      "identity": "作坊老板",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第515章何为鬼",
+      "summary": "三山街作坊老板，与马王爷相识，对蒙虫持警惕态度。",
+      "appearance": [],
+      "personality": [
+        "警惕",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "朵颜卫"
+      ],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "下属或朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "开门营业时遇到蒙虫来访，拔枪对峙，后开启屏蔽设备警戒。"
+        }
+      ],
+      "evidence": [
+        "梁火按照以往的习惯准时准点开门营业。",
+        "梁火从柜台下抽出一把朵颜卫，单手抓住枪栓上下一顿，推弹上膛。",
+        "站在柜台后的梁火脚下一敲，开启店铺内的屏蔽设备，端着那把朵颜卫神情警惕的看着门外。"
+      ],
+      "mention_count": 8
+    },
     {
       "name": "蒙虫",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "中部分院明鬼，现附身于普通人躯体",
+      "faction": "中部分院（原属）",
       "status": "登场",
       "first_appearance": "第515章何为鬼",
-      "summary": "”　　“我叫蒙虫",
-      "appearance": [],
-      "personality": [],
+      "summary": "原为中部分院明鬼，墨甲躯体被打烂后附身普通人，前来与马王爷联手对付中院。",
+      "appearance": [
+        "中年男人，五官线条硬朗，一脸不苟言笑"
+      ],
+      "personality": [
+        "坚定",
+        "愤慨",
+        "善于言辞"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“我叫蒙虫",
-        "如果你不是”　　蒙虫对顶在胸膛上的枪口视若无睹，轻声说道：“我不是来找麻烦的",
-        "”　　蒙虫身处光明，但脸上神情晦暗"
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "旧识，曾为同门"
+        },
+        {
+          "target": "蚩主",
+          "type": "同为中院明鬼，崇敬对象"
+        },
+        {
+          "target": "王旗",
+          "type": "关键人物，希望所在"
+        }
       ],
-      "mention_count": 34
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在明鬼境与马王爷一起抢入世名额；后被中部分院选中；墨甲躯体被打烂，核心受损。"
+        },
+        {
+          "stage": "当前",
+          "event": "以普通人躯体拜访梁火作坊，与马王爷会面，讨论联手对付中院。"
+        }
+      ],
+      "evidence": [
+        "我叫蒙虫。",
+        "被人打烂了。核心受损，就算修好了也最多能恢复到六七品的水准。",
+        "一具普通人的身体，中院明鬼自己开发出来的新法门，勉强能够维持明鬼意识不消散。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "马王爷",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "四品明鬼，附身于钢铁躯体",
       "faction": "",
       "status": "登场",
       "first_appearance": "第515章何为鬼",
-      "summary": "”　　马王爷看着蒙虫问道:“这么说来，你当初是被分流到了中部分院",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　马王爷看着蒙虫问道:“这么说来，你当初是被分流到了中部分院",
-        "”　　马王爷闻言陷入沉默，片刻之后开口问道：“怎么会弄成这个样子",
-        "”马王爷眼中红光闪动"
+      "summary": "原明鬼境老流氓，现附身于钢铁躯体，与李钧等人保持消息互通，对蒙虫的现状感到惋惜。",
+      "appearance": [
+        "隐于阴影，眼中红光似剑",
+        "充满压迫感的钢铁身躯"
       ],
-      "mention_count": 17
+      "personality": [
+        "沧桑",
+        "重情义",
+        "固执于真假之分"
+      ],
+      "abilities": [
+        "四品实力"
+      ],
+      "equipment": [
+        "钢铁躯体"
+      ],
+      "relationships": [
+        {
+          "target": "蒙虫",
+          "type": "旧识，曾为同门"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴，消息互通"
+        },
+        {
+          "target": "蚩主",
+          "type": "同为明鬼，提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在明鬼境带领众人抢入世名额；因南院明鬼境被闹而离开。"
+        },
+        {
+          "stage": "当前",
+          "event": "在梁火作坊与蒙虫会面，讨论明鬼与黄粱鬼的区别及联手事宜。"
+        }
+      ],
+      "evidence": [
+        "马爷隐于阴影，可眼中红光似剑。",
+        "马王爷看着蒙虫问道:'这么说来，你当初是被分流到了中部分院？'",
+        "马王爷问道:'你们的机会，就是那个叫王旗的普通人？'"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "马王",
+      "name": "蚩主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "中院明鬼",
+      "faction": "中部分院",
+      "status": "提及",
       "first_appearance": "第515章何为鬼",
-      "summary": "”　　马王爷看着蒙虫问道:“这么说来，你当初是被分流到了中部分院",
+      "summary": "中院明鬼，被蒙虫视为爷们，曾站着求死。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "勇敢",
+        "有骨气"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "蒙虫",
+          "type": "同为中院明鬼，被崇敬"
+        },
+        {
+          "target": "马王爷",
+          "type": "同为明鬼，被提及"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　马王爷看着蒙虫问道:“这么说来，你当初是被分流到了中部分院",
-        "”　　马王爷闻言陷入沉默，片刻之后开口问道：“怎么会弄成这个样子",
-        "”马王爷眼中红光闪动"
+        "同为中院明鬼，蚩主他虽然比我们这群人都年轻，但比谁都更像个一个爷们。",
+        "能站着求死，是爷们。"
       ],
-      "mention_count": 13
+      "mention_count": 2
     },
     {
-      "name": "梁火",
+      "name": "王旗",
       "aliases": [],
-      "identity": "",
+      "identity": "普通人，从序者候选",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第515章何为鬼",
-      "summary": "梁火按照以往的习惯准时准点开门营业",
+      "summary": "被明鬼们视为最有希望成为从序者的普通人，是蒙虫等人计划的关键。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "蒙虫",
+          "type": "关键人物"
+        },
+        {
+          "target": "马王爷",
+          "type": "被关注"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "梁火按照以往的习惯准时准点开门营业",
-        "正在整理货架的梁火闻声转头，就见一个中年男人走了进来，五官线条硬朗，一脸不苟言笑",
-        "以梁火的眼力，一眼便能看出对方的脸是原装货，而且身上恐怕没有接受过什么械体改造"
+        "他是目前进展最好的一个，也是最有希望成功的一个。",
+        "似乎基因给我们的答案只有一个，就是王旗。"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "”　　“我也一样，我现在都经常回想起您当年在明鬼境里，领着我们跟别人茬架抢入世名额，挖坑围殴那些钻进来的黄粱硕鼠的场景",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“我也一样，我现在都经常回想起您当年在明鬼境里，领着我们跟别人茬架抢入世名额，挖坑围殴那些钻进来的黄粱硕鼠的场景",
-        "“同为中院明鬼，蚩主他虽然比我们这群人都年轻，但比谁都更像个一个爷们",
-        "”　　“但如今我们只差一个机会，就能做到和蚩主一样的事情"
-      ],
-      "mention_count": 11
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "”　　目前马王爷和李钧他们虽然分开行动，但始终保持着消息互通，所以关于王旗的情报他早就知晓",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　目前马王爷和李钧他们虽然分开行动，但始终保持着消息互通，所以关于王旗的情报他早就知晓",
-        "”　　“现成的从序者，哪怕只是最低级的序九，思想和意志都远比普通人要更加坚韧和强横，以他们为载体，排斥太强",
-        "”　　蒙虫毫不示弱道：“黄粱鬼、明鬼，说白了都是鬼，他们夺舍是为了跳出井底，我们夺舍是为了重获自由，殊途同归罢了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "这么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "这么早就有人上门",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这么早就有人上门",
-        "”　　马王爷看着蒙虫问道:“这么说来，你当初是被分流到了中部分院",
-        "这么简单的道理，没想到马爷我活了这么多年，却还是没能彻底搞懂"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "”　　马王爷叹了口气：“看来你们这些年倒是走出了不少新路子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　马王爷叹了口气：“看来你们这些年倒是走出了不少新路子",
-        "你们和他，不一样",
-        "”　　马王爷问道：“你们的机会，就是那个叫王旗的普通人"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "以梁火的眼力，一眼便能看出对方的脸是原装货，而且身上恐怕没有接受过什么械体改造",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "以梁火的眼力，一眼便能看出对方的脸是原装货，而且身上恐怕没有接受过什么械体改造",
-        "而且我们一旦强行进入之后，基因便会莫名其妙开始枯萎沉寂"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "我这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "“我这家店虽然不大，但却是五脏俱全，价格在整个三山街也是出了名的公道，客人想来点什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我这家店虽然不大，但却是五脏俱全，价格在整个三山街也是出了名的公道，客人想来点什么",
-        "”　　“我这里是有的是刀剑和子弹，偏偏就是没有你说的人",
-        "”　　蒙虫也收起了刚才争辩之时显露的锐利锋芒，轻声说出了自己此行的目的：“我这次过来，是想告诉您，我们愿意和您联手一起对付中院"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "如果你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "”　　梁火脸上的笑容逐渐凝固，冷冷道：“如果你是兼爱所的人，那你现在就可以滚了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　梁火脸上的笑容逐渐凝固，冷冷道：“如果你是兼爱所的人，那你现在就可以滚了",
-        "如果你不是”　　蒙虫对顶在胸膛上的枪口视若无睹，轻声说道：“我不是来找麻烦的",
-        "“是你锋芒太盛啊，如果你当初听我的话韬光养晦，别在‘天下分武’的时候出那么多风头，又怎么会被中部分院看中选走"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那你现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第515章何为鬼",
-      "summary": "”　　梁火脸上的笑容逐渐凝固，冷冷道：“如果你是兼爱所的人，那你现在就可以滚了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　梁火脸上的笑容逐渐凝固，冷冷道：“如果你是兼爱所的人，那你现在就可以滚了",
-        "”　　“那你现在这是"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

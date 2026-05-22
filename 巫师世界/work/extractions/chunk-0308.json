@@ -1,0 +1,125 @@
+{
+  "chunk_id": "chunk-0308",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "安格列·里奥"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "故事主角，拥有芯片辅助，正在尝试进入梦魇世界并处理与海茵的关系。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "金属天赋力场",
+        "荆棘之光（指环技能）",
+        "芯片辅助"
+      ],
+      "equipment": [
+        "黑色长袍",
+        "腰囊",
+        "刺蝎屏蔽力场",
+        "银白色指环"
+      ],
+      "relationships": [
+        {
+          "target": "海茵",
+          "type": "同一身体中的灵魂"
+        },
+        {
+          "target": "薇薇",
+          "type": "信任者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与海茵商议干扰薇薇的引力巫阵；成功进入梦魇世界但遭遇甲虫群；尝试从不同位置进入失败；决定先解决剥离海茵的问题。"
+        }
+      ],
+      "evidence": [
+        "安格列站在窗前。",
+        "安格列轻轻吐了口气。转身离开窗台，走向床铺，思索了下，缓缓坐在柔软的大床上。",
+        "安格列面色阴沉，伸手按住胸口印记。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "海茵",
+      "aliases": [],
+      "identity": "灵魂体",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "寄宿在安格列体内的灵魂，试图利用安格列干扰薇薇的引力巫阵。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "冷笑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同一身体中的灵魂"
+        },
+        {
+          "target": "薇薇",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向安格列提出干扰薇薇引力巫阵的计划。"
+        }
+      ],
+      "evidence": [
+        "海茵阴阴的冷笑着。",
+        "海茵传音说，直接沉寂下去。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "薇薇",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "拥有雪山遗迹最高权限的巫师，被海茵设计。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "信任"
+        },
+        {
+          "target": "海茵",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被海茵提及，其引力巫阵可能被干扰。"
+        }
+      ],
+      "evidence": [
+        "薇薇给了你进出雪山遗迹的最高权限",
+        "她对你完全没有防备"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

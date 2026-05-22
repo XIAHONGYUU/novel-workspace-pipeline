@@ -1,256 +1,247 @@
 {
   "chunk_id": "chunk-0350",
-  "title": "第一百二十三章 高手如林（中）",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "其中，白发青年专注棋盘，不问外事，而那个道人抬起头来，看了戚笼一眼，表情闪过一丝诧异",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其中，白发青年专注棋盘，不问外事，而那个道人抬起头来，看了戚笼一眼，表情闪过一丝诧异",
-        "”    戚笼面无表情的打量着对方，这二人的气息都深不可测，身体表面都被淡淡的光芒覆盖，看不清五官，只不过白发青年体表的白光，散发着古拙的锋锐之意，而道人身上的青光，则又是另一种难以言喻的气息",
-        "”    戚笼目光落在白发青年身上，那么这一位，便是如今钟吾古地，唯一的剑仙王三缺了"
+      "aliases": [
+        "先生",
+        "佛门道友",
+        "和尚",
+        "刀客"
       ],
-      "mention_count": 30
-    },
-    {
-      "name": "公孙",
-      "aliases": [],
-      "identity": "",
+      "identity": "佛门修士，刀客",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "“公孙家先祖",
+      "summary": "与公孙望圣对弈，识破其封印真相，拒绝其诱惑。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "冷静",
+        "警惕",
+        "果断"
+      ],
+      "abilities": [
+        "佛门功法",
+        "阿鼻道大法"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "公孙望圣",
+          "type": "对弈对手"
+        },
+        {
+          "target": "王三缺",
+          "type": "间接关联"
+        },
+        {
+          "target": "巫名",
+          "type": "传授功法"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与公孙望圣对弈，识破其封印真相。"
+        }
+      ],
       "evidence": [
-        "“公孙家先祖",
-        "”    “贫道公孙望圣",
-        "公孙望圣与王三缺对弈七日，立剑阁，阐道机，此事便是在武平府中也是鼎鼎大名，而二人回归之后，一人铸剑成型，创《向天借剑》，三缺补一缺，证就剑仙，另一人死关坐化，元神散尽，回归自然"
+        "戚笼面无表情的打量着对方",
+        "戚笼想了想，坐了下来",
+        "戚笼没有解释，只是笑道"
       ],
       "mention_count": 20
     },
     {
       "name": "公孙望圣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "”    “贫道公孙望圣",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “贫道公孙望圣",
-        "公孙望圣与王三缺对弈七日，立剑阁，阐道机，此事便是在武平府中也是鼎鼎大名，而二人回归之后，一人铸剑成型，创《向天借剑》，三缺补一缺，证就剑仙，另一人死关坐化，元神散尽，回归自然",
-        "外界传闻，公孙望圣以自身尸解为代价，让王三缺证就剑仙"
+      "aliases": [
+        "道人",
+        "公孙家先祖"
       ],
-      "mention_count": 9
+      "identity": "道人，公孙家先祖",
+      "faction": "公孙家",
+      "status": "已故（元神残识）",
+      "first_appearance": "第一百二十三章 高手如林（中）",
+      "summary": "与王三缺对弈后尸解，元神被封印于剑阁，试图引诱戚笼替代自己。",
+      "appearance": [
+        "体表被青光覆盖"
+      ],
+      "personality": [
+        "怨毒",
+        "狡猾"
+      ],
+      "abilities": [
+        "天河剑解"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王三缺",
+          "type": "对弈对手，助其证剑仙"
+        },
+        {
+          "target": "戚笼",
+          "type": "对弈对手，试图引诱"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与王三缺对弈七日，尸解助其证剑仙。"
+        },
+        {
+          "stage": "当前",
+          "event": "元神残识被封印于剑阁，与戚笼对弈。"
+        }
+      ],
+      "evidence": [
+        "公孙望圣与王三缺对弈七日",
+        "公孙望圣以自身尸解为代价，让王三缺证就剑仙",
+        "公孙望圣怨毒的大吼"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "只剩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "王三缺",
+      "aliases": [
+        "白发青年",
+        "剑仙",
+        "三傻子"
+      ],
+      "identity": "剑仙",
+      "faction": "王家",
+      "status": "已证剑仙",
       "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "眼前幻影尽皆消散，归于无形，天地之间，只剩下一对博弈的男子，一个道人，一个白发青年",
-      "appearance": [],
+      "summary": "钟吾古地唯一的剑仙，与公孙望圣对弈后证就剑仙。",
+      "appearance": [
+        "白发",
+        "体表白光，散发古拙锋锐之意"
+      ],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "剑仙之道",
+        "向天借剑"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "公孙望圣",
+          "type": "对弈对手，受其尸解相助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与公孙望圣对弈七日，证就剑仙。"
+        }
+      ],
       "evidence": [
-        "眼前幻影尽皆消散，归于无形，天地之间，只剩下一对博弈的男子，一个道人，一个白发青年",
-        "”    不知何时起，王三缺消失不见，天地之间，只剩一棋盘，一蒲团，而那棋盘上的黑白二子，是一盘凶险无比的残局"
+        "白发青年专注棋盘",
+        "如今钟吾古地，唯一的剑仙王三缺",
+        "三傻子"
       ],
       "mention_count": 5
     },
     {
-      "name": "一道",
+      "name": "巫名",
       "aliases": [],
-      "identity": "",
+      "identity": "宗师",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "恍惚之间，戚笼仿佛看到，一道剑影闪烁不定，缓缓成型",
+      "summary": "修炼阿鼻道大法，创出阿鼻魔蛊，与剑先生交手。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "恍惚之间，戚笼仿佛看到，一道剑影闪烁不定，缓缓成型",
-        "恍惚之间，棋子仿佛化作一颗颗星辰，顺天河而下，绕身而转，而整条天河起落、转承、纵横，都是一道道剑招",
-        "猛然间，天河之上，一道白发人影乍显，手中剑影一挥，天河之水倒灌而来"
+      "abilities": [
+        "阿鼻道大法",
+        "阿鼻魔蛊"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "先生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "“先生来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“先生来了",
-        "“生死乃门户，道人自出入，”公孙望圣笑容不改，道：“先生可要对弈一盘",
-        "拳与剑交，阿鼻印冲破惊天剑影，‘珰’的一声，伴随着宝剑的断裂声，剑先生‘哇’的一声，吐出一口乌血，血中是不断蠕动的小虫"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "受其传授功法"
+        },
+        {
+          "target": "剑先生",
+          "type": "对手"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "”公孙望圣眼神中闪过一丝狂热，“真正的剑仙，能斩断的，可就不只是后天大道了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”公孙望圣眼神中闪过一丝狂热，“真正的剑仙，能斩断的，可就不只是后天大道了",
-        "”    “谁跟你说，我就只是和尚的",
-        "棋盘纹丝不动，好似刚刚的落子，只是一场幻觉"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与剑先生交手，将其击退。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "剑仙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "”    戚笼目光落在白发青年身上，那么这一位，便是如今钟吾古地，唯一的剑仙王三缺了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    戚笼目光落在白发青年身上，那么这一位，便是如今钟吾古地，唯一的剑仙王三缺了",
-        "公孙望圣与王三缺对弈七日，立剑阁，阐道机，此事便是在武平府中也是鼎鼎大名，而二人回归之后，一人铸剑成型，创《向天借剑》，三缺补一缺，证就剑仙，另一人死关坐化，元神散尽，回归自然",
-        "外界传闻，公孙望圣以自身尸解为代价，让王三缺证就剑仙"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "怪不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "“怪不得",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“怪不得",
-        "”    戚笼自言自语，怪不得这处剑阁汇聚着天地锋锐之气，而每一个王家剑徒，都能借用此方天地的锋锐之气"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "天地",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "眼前幻影尽皆消散，归于无形，天地之间，只剩下一对博弈的男子，一个道人，一个白发青年",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "眼前幻影尽皆消散，归于无形，天地之间，只剩下一对博弈的男子，一个道人，一个白发青年",
-        "”    不知何时起，王三缺消失不见，天地之间，只剩一棋盘，一蒲团，而那棋盘上的黑白二子，是一盘凶险无比的残局",
-        "”    “可以斩断的，天地运转，生灭不息，斩断一条，自然会有一条新大道孕育生成，不过在这钟吾古地，却又稍微不同"
+        "巫名突破宗师之后，在魔功之中，融入了自身修行功法，创出阿鼻魔蛊",
+        "巫名摆了摆手"
       ],
       "mention_count": 3
     },
     {
-      "name": "公孙家",
+      "name": "剑先生",
       "aliases": [],
-      "identity": "",
+      "identity": "剑客",
       "faction": "",
-      "status": "登场",
+      "status": "登场后撤退",
       "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "“公孙家先祖",
+      "summary": "与巫名交手，被阿鼻魔蛊所伤，撤退。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“公孙家先祖",
-        "虽然传闻或许有假，但是公孙家与王家世代交好，也足以证明一些东西",
-        "公孙家与王家数百年的相互扶持，原来是一个谎言"
+      "abilities": [
+        "剑术"
       ],
-      "mention_count": 3
+      "equipment": [
+        "宝剑"
+      ],
+      "relationships": [
+        {
+          "target": "巫名",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与巫名交手，被击退。"
+        }
+      ],
+      "evidence": [
+        "剑先生‘哇’的一声，吐出一口乌血",
+        "剑先生剑意内打，将体内蛊虫一一杀尽",
+        "撤退！"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "让王",
-      "aliases": [],
+      "name": "小天器佬",
+      "aliases": [
+        "器老爷"
+      ],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十三章 高手如林（中）",
-      "summary": "外界传闻，公孙望圣以自身尸解为代价，让王三缺证就剑仙",
+      "summary": "在军中待了半年，为真神神性而来，但未出手。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "失望"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "外界传闻，公孙望圣以自身尸解为代价，让王三缺证就剑仙",
-        "戚笼想了想，坐了下来，问道：“传闻中，阁下以自身殒落为代价，让王家剑仙以剑道化元神，我对此事很感兴趣",
-        "”    “所以这方世界证不得剑仙，你便以自身化大道，让王三缺斩了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "见剑先生撤退，感到失望。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "小天器佬‘啪嗒’‘啪嗒’的走了出来",
+        "为了那点真神神性，小天器佬在军中待了将近半年"
+      ],
+      "mention_count": 2
     }
   ]
 }

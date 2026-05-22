@@ -1,246 +1,164 @@
 {
   "chunk_id": "chunk-0195",
-  "title": "第193章舌上有龙泉",
   "characters": [
     {
-      "name": "道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "突然间，道人前冲的势头猛然一顿，侧身一翻，让开一道凭空乍现的锋芒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "突然间，道人前冲的势头猛然一顿，侧身一翻，让开一道凭空乍现的锋芒",
-        "“舌上有龙泉你是纵横七.”　　道人脸上血水横流，空洞的眼眶看起来骇人无比",
-        "王谢的怒喝如同一道狂暴的惊雷，炸响在道人脑海之中"
-      ],
-      "mention_count": 28
-    },
-    {
       "name": "王谢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "锦衣卫"
+      ],
+      "identity": "重庆府锦衣卫",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第193章舌上有龙泉",
-      "summary": "王谢拖刀在手，在接连炸开的火球中闲庭信步",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "王谢拖刀在手，在接连炸开的火球中闲庭信步",
-        "王谢的怒喝如同一道狂暴的惊雷，炸响在道人脑海之中",
-        "王谢冷笑：“现在才知道"
+      "summary": "锦衣卫成员，追杀青衣道人张缙云。",
+      "appearance": [
+        "上身负甲，下身着裙",
+        "手持绣春刀，身着飞鱼服"
       ],
-      "mention_count": 21
+      "personality": [
+        "杀意满腔",
+        "冷笑",
+        "睥睨"
+      ],
+      "abilities": [
+        "刀法凌厉",
+        "能通过某种方式在道人的脑海中响起声音"
+      ],
+      "equipment": [
+        "绣春刀",
+        "飞鱼服"
+      ],
+      "relationships": [
+        {
+          "target": "张缙云",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在山林中追杀青衣道人张缙云，并与之激战。"
+        }
+      ],
+      "evidence": [
+        "王谢拖刀在手，在接连炸开的火球中闲庭信步。",
+        "王谢眯着眼眸，紧咬着的牙关中崩出两个生硬的字眼，“逆贼。”",
+        "王谢面如止水，横刀身前。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "垂在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张缙云",
+      "aliases": [
+        "青衣道人",
+        "道人"
+      ],
+      "identity": "道八奉道人",
+      "faction": "鸿鹄（被策反）",
       "status": "登场",
       "first_appearance": "第193章舌上有龙泉",
-      "summary": "一道青色身影在山林之中发足狂奔，头顶的鎏金法冠不知何时已经掉落，道髻散乱，垂在额前",
+      "summary": "原为道门弟子，因不满王文钦不给予洞天权限而背叛，投靠鸿鹄。",
+      "appearance": [
+        "青色身影",
+        "道髻散乱",
+        "鎏金法冠掉落",
+        "血色满脸",
+        "空洞的眼眶"
+      ],
+      "personality": [
+        "不甘",
+        "愤懑",
+        "冷漠",
+        "声嘶力竭"
+      ],
+      "abilities": [
+        "使用符篆",
+        "道门甲马械足（加速）",
+        "能施展遮蔽耳目的术法"
+      ],
+      "equipment": [
+        "雕版符篆",
+        "甲马械足"
+      ],
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "敌对"
+        },
+        {
+          "target": "王文钦",
+          "type": "师徒/上下级（背叛）"
+        },
+        {
+          "target": "鸿鹄",
+          "type": "投靠"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被王谢追杀，战斗中失去双目和听觉，最终被王谢所杀。"
+        }
+      ],
+      "evidence": [
+        "我张缙云一生为道，最终却因为王文钦的自私和贪欲，要断绝自己毕生的志向。",
+        "我只能依靠洞天晋升，可是他不给我机会啊，哪怕他给我一丁点希望，我都不会选择背叛。",
+        "道人声嘶力竭吼道：“你告诉我，我该不该反?!”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "王文钦",
+      "aliases": [],
+      "identity": "栖霞集团（可能为道门领袖）",
+      "faction": "栖霞集团",
+      "status": "提及",
+      "first_appearance": "第193章舌上有龙泉",
+      "summary": "张缙云的上级，因自私不给予张缙云洞天权限，导致其背叛。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "自私",
+        "贪欲"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张缙云",
+          "type": "师徒/上下级（被背叛）"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "一道青色身影在山林之中发足狂奔，头顶的鎏金法冠不知何时已经掉落，道髻散乱，垂在额前"
+        "王文钦不会给我权限，他甚至连一件像样的法宝都不会给我。",
+        "他就是怕我有朝一日会要了他的命，抢了他的洞天。"
       ],
       "mention_count": 3
     },
     {
-      "name": "空洞",
+      "name": "鸿鹄",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "反叛组织首领",
+      "faction": "鸿鹄",
+      "status": "提及",
       "first_appearance": "第193章舌上有龙泉",
-      "summary": "“舌上有龙泉你是纵横七.”　　道人脸上血水横流，空洞的眼眶看起来骇人无比",
+      "summary": "策反张缙云的组织首领，被张缙云称为义军。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张缙云",
+          "type": "策反者"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“舌上有龙泉你是纵横七.”　　道人脸上血水横流，空洞的眼眶看起来骇人无比"
+        "鸿鹄到底给了你什么，能让你背叛师门，滥杀无辜？",
+        "或许要不了多久，你就该称呼我们为义军了。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "你刚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "”　　“你刚才就应该死了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“你刚才就应该死了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "才能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "”　　修道之人有了那能够链接白玉京的‘权限’，才能修筑出属于自己的道场，属于自己的洞天",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　修道之人有了那能够链接白玉京的‘权限’，才能修筑出属于自己的道场，属于自己的洞天",
-        "才能调动更多的天地之力，提升自己的精神力，去修炼更加高深的术法",
-        "”　　“先除首恶，才能救人"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "栖霞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "“栖霞集团难道给不了你.”　　王谢心头陡然一沉，脸色不由难看几分",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“栖霞集团难道给不了你.”　　王谢心头陡然一沉，脸色不由难看几分",
-        "“栖霞术法，侵掠如火，延时半息，敕",
-        "”　　栖霞集团如果能做到这些，道人恐怕也不会被鸿鹄策反"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "直至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "直至在白玉京的仙班之中，获得一席之地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "直至在白玉京的仙班之中，获得一席之地"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "紧咬",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "王谢眯着眼眸，紧咬着的牙关中崩出两个生硬的字眼，“逆贼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "王谢眯着眼眸，紧咬着的牙关中崩出两个生硬的字眼，“逆贼"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "横刀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "王谢面如止水，横刀身前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "王谢面如止水，横刀身前"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "绣春",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "那柄架在肩膀上的绣春刀，正在散发着刺骨的寒意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那柄架在肩膀上的绣春刀，正在散发着刺骨的寒意",
-        "”　　绣春刀斩开雨幕，划出一道冷冽寒光，直奔道人面门",
-        "绣春刀破焰而出，刀势回转，在王谢身上裹缠一番，撩动的劲风将衣衫上跳动的火星尽数扑灭"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "绣春刀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第193章舌上有龙泉",
-      "summary": "那柄架在肩膀上的绣春刀，正在散发着刺骨的寒意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那柄架在肩膀上的绣春刀，正在散发着刺骨的寒意",
-        "”　　绣春刀斩开雨幕，划出一道冷冽寒光，直奔道人面门",
-        "绣春刀破焰而出，刀势回转，在王谢身上裹缠一番，撩动的劲风将衣衫上跳动的火星尽数扑灭"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

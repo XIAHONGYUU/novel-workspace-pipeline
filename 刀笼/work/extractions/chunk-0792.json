@@ -1,257 +1,415 @@
 {
   "chunk_id": "chunk-0792",
-  "title": "第一百二十章 宁乞道",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "神豪真人"
+      ],
+      "identity": "神秘修士，疑似与剑仙、人皇有关",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十章 宁乞道",
-      "summary": "戚笼一言不发，突然向那对猩红光芒加速遁去，手中似乎又多了一个葫芦",
+      "summary": "主角，实力强大，拥有斩仙葫芦、人道雾气等能力，正在探索身世之谜。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "视生死如常"
+      ],
+      "abilities": [
+        "人道雾气",
+        "斩仙葫芦",
+        "肉身强横"
+      ],
+      "equipment": [
+        "斩仙葫芦",
+        "龟壳（小洞天）",
+        "海眼",
+        "钥匙（圆道人遗藏）"
+      ],
+      "relationships": [
+        {
+          "target": "宁红",
+          "type": "救命恩人"
+        },
+        {
+          "target": "宁尘",
+          "type": "救命恩人"
+        },
+        {
+          "target": "宁乞道",
+          "type": "相识"
+        },
+        {
+          "target": "鳖龙王",
+          "type": "敌对"
+        },
+        {
+          "target": "天恶老魔",
+          "type": "斩杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "斩杀天恶老魔，夺取海眼和龟壳，救下宁家姐弟，与宁乞道会面。"
+        }
+      ],
+      "evidence": [
+        "戚笼一言不发，突然向那对猩红光芒加速遁去",
+        "戚笼手掌缓缓下压，没下压一寸，便多了十万斤之重",
+        "戚笼笑道：'我跟百灵子没什么关系，非要说的话，跟人皇倒是有些联系。'"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "鳖龙王",
+      "aliases": [
+        "老甲鱼"
+      ],
+      "identity": "龙宫主人，非龙种",
+      "faction": "",
+      "status": "被擒",
+      "first_appearance": "第一百二十章 宁乞道",
+      "summary": "拥有龟壳小洞天和海眼，被戚笼击败后舍弃龟壳逃跑，后被宁家姐弟擒获。",
+      "appearance": [
+        "秃头矮小",
+        "身裹粘液",
+        "肋骨突出",
+        "脊椎弯曲"
+      ],
+      "personality": [
+        "胆小",
+        "决断"
+      ],
+      "abilities": [
+        "操控海眼",
+        "龟壳防御"
+      ],
+      "equipment": [
+        "金色乌龟壳（小洞天）",
+        "海眼"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "宁家姐弟",
+          "type": "仇敌"
+        },
+        {
+          "target": "天恶老魔",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼击败，舍弃龟壳逃跑，被宁家姐弟擒获。"
+        }
+      ],
+      "evidence": [
+        "鳖龙王几乎不敢置信眼前这一幕",
+        "鳖龙王也是又决断的人，瞬间舍弃了数千年以日月精华修练的龟壳",
+        "鳖龙王被钉了手脚，用仙气化作的网子捆住"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "天恶老魔",
+      "aliases": [],
+      "identity": "魔头，宁乞道的种子分身",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第一百二十章 宁乞道",
+      "summary": "被戚笼用斩仙葫芦斩杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼一言不发，突然向那对猩红光芒加速遁去，手中似乎又多了一个葫芦",
-        "他被戚笼吓破了胆，直接跑路了",
-        "戚笼则没管对方，海眼没了镇压，便是一件无主之物，戚笼手掌缓缓下压，没下压一寸，便多了十万斤之重，一寸又一寸，等到了三百万斤重量时，海眼已被压成巴掌大的水球，猛然抓在手上，手心一沉"
+      "equipment": [
+        "钥匙（圆道人遗藏）"
       ],
-      "mention_count": 51
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被斩杀"
+        },
+        {
+          "target": "鳖龙王",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼一刀解决。"
+        }
+      ],
+      "evidence": [
+        "天恶老魔，主人的种子分身，未来降临的对象，就这么被一刀解决了？"
+      ],
+      "mention_count": 3
     },
     {
       "name": "宁红",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "宁家姐弟中的姐姐",
+      "faction": "宁家",
       "status": "登场",
       "first_appearance": "第一百二十章 宁乞道",
-      "summary": "”宁红惭愧道",
+      "summary": "被戚笼所救，体内有先天血光，证就二气元神。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "惭愧"
+      ],
+      "abilities": [
+        "二气元神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "救命恩人"
+        },
+        {
+          "target": "宁尘",
+          "type": "姐弟"
+        },
+        {
+          "target": "宁乞道",
+          "type": "祖父"
+        },
+        {
+          "target": "鳖龙王",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与弟弟宁尘一起攻击鳖龙王，后被戚笼所救。"
+        }
+      ],
+      "evidence": [
+        "宁红惭愧道",
+        "宁红证就二气元神倒还好些",
+        "宁红脸色一红，摇头道：'只能依靠仙气强行镇压'"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "宁尘",
+      "aliases": [],
+      "identity": "宁家姐弟中的弟弟",
+      "faction": "宁家",
+      "status": "登场",
+      "first_appearance": "第一百二十章 宁乞道",
+      "summary": "与姐姐宁红一起被戚笼所救。",
+      "appearance": [],
+      "personality": [
+        "感激"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "救命恩人"
+        },
+        {
+          "target": "宁红",
+          "type": "姐弟"
+        },
+        {
+          "target": "宁乞道",
+          "type": "祖父"
+        },
+        {
+          "target": "鳖龙王",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与姐姐宁红一起攻击鳖龙王，后被戚笼所救。"
+        }
+      ],
       "evidence": [
-        "”宁红惭愧道",
-        "”    戚笼点了点头，看向宁红，问道：“你身上那道先天血光如何了",
-        "”    宁红脸色一红，摇头道：“只能依靠仙气强行镇压，无法炼化，更无法排出体外，只有回去求祖父帮助"
+        "宁尘咬牙，深鞠一躬，道：'多谢前辈救命之恩'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "宁乞道",
+      "aliases": [
+        "宁真人"
+      ],
+      "identity": "宁家祖父，疑似已登仙",
+      "faction": "宁家",
+      "status": "登场（肉身与声音分离）",
+      "first_appearance": "第一百二十章 宁乞道",
+      "summary": "深不可测的强者，肉身与意志分离，拥有三百二十七座法场。",
+      "appearance": [
+        "国字脸",
+        "白发白须",
+        "狭长双眼"
+      ],
+      "personality": [
+        "高傲",
+        "木讷（肉身）"
+      ],
+      "abilities": [
+        "缩海域",
+        "屈指弹真神",
+        "空气弹"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "宁红",
+          "type": "祖父"
+        },
+        {
+          "target": "宁尘",
+          "type": "祖父"
+        },
+        {
+          "target": "戚笼",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以肉身降临，救下宁家姐弟，邀请戚笼去天宁岛。"
+        }
+      ],
+      "evidence": [
+        "'宁乞道'站在虚空之上，须发飘扬，单掌虚抓",
+        "'宁乞道'屈指连弹，轻描淡写中，这几位真神就被再度弹入海面",
+        "天空之上传来一道微微疲惫的声音，却不是从'宁乞道'身上发出的"
       ],
       "mention_count": 10
     },
     {
-      "name": "宁乞",
+      "name": "桃女仙",
       "aliases": [],
-      "identity": "",
+      "identity": "被先天血光污染者",
       "faction": "",
-      "status": "登场",
+      "status": "被救",
       "first_appearance": "第一百二十章 宁乞道",
-      "summary": "第一百二十章 宁乞道    最快更新刀笼最新章节",
+      "summary": "被戚笼从体内吐出，托付给宁乞道救治。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百二十章 宁乞道    最快更新刀笼最新章节",
-        "仇人见面，分外眼红，宁家姐弟直接使出了看家本事，那是宁乞道注入他们体内的一道仙气，化作宁家的乾阳都天雷网，铺天盖地，向鳖龙王兜去",
-        "海面之上，‘宁乞道’站在虚空之上，须发飘扬，单掌虚抓"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被救"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼吐出，交由宁乞道救治。"
+        }
+      ],
+      "evidence": [
+        "戚笼嘴巴一张，四道身影被'吐'了出来，正是桃女仙、柳真君、海夫人、乌贼夫人四人"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "宁乞道",
+      "name": "柳真君",
       "aliases": [],
-      "identity": "",
+      "identity": "被先天血光污染者",
       "faction": "",
-      "status": "登场",
+      "status": "被救",
       "first_appearance": "第一百二十章 宁乞道",
-      "summary": "第一百二十章 宁乞道    最快更新刀笼最新章节",
+      "summary": "被戚笼从体内吐出，托付给宁乞道救治。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百二十章 宁乞道    最快更新刀笼最新章节",
-        "仇人见面，分外眼红，宁家姐弟直接使出了看家本事，那是宁乞道注入他们体内的一道仙气，化作宁家的乾阳都天雷网，铺天盖地，向鳖龙王兜去",
-        "海面之上，‘宁乞道’站在虚空之上，须发飘扬，单掌虚抓"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被救"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼吐出，交由宁乞道救治。"
+        }
+      ],
+      "evidence": [
+        "戚笼嘴巴一张，四道身影被'吐'了出来，正是桃女仙、柳真君、海夫人、乌贼夫人四人"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "鳖龙王",
+      "name": "海夫人",
       "aliases": [],
-      "identity": "",
+      "identity": "被先天血光污染者",
       "faction": "",
-      "status": "登场",
+      "status": "被救",
       "first_appearance": "第一百二十章 宁乞道",
-      "summary": "“你、你你——”    鳖龙王几乎不敢置信眼前这一幕，天恶老魔，主人的种子分身，未来降临的对象，就这么被一刀解决了",
+      "summary": "被戚笼从体内吐出，托付给宁乞道救治。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你、你你——”    鳖龙王几乎不敢置信眼前这一幕，天恶老魔，主人的种子分身，未来降临的对象，就这么被一刀解决了",
-        "“不、不不不——”鳖龙王面色大变，心中被恐惧填满",
-        "有道是蛇吞蛋、龟吐壳，那都是本能反应，鳖龙王也是又决断的人，瞬间舍弃了数千年以日月精华修练的龟壳，一道矮小的身影突然从海眼中弹射而出"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被救"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼吐出，交由宁乞道救治。"
+        }
+      ],
+      "evidence": [
+        "戚笼嘴巴一张，四道身影被'吐'了出来，正是桃女仙、柳真君、海夫人、乌贼夫人四人"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "天恶",
+      "name": "乌贼夫人",
       "aliases": [],
-      "identity": "",
+      "identity": "被先天血光污染者",
       "faction": "",
-      "status": "登场",
+      "status": "被救",
       "first_appearance": "第一百二十章 宁乞道",
-      "summary": "“你、你你——”    鳖龙王几乎不敢置信眼前这一幕，天恶老魔，主人的种子分身，未来降临的对象，就这么被一刀解决了",
+      "summary": "被戚笼从体内吐出，托付给宁乞道救治。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你、你你——”    鳖龙王几乎不敢置信眼前这一幕，天恶老魔，主人的种子分身，未来降临的对象，就这么被一刀解决了",
-        "”    戚笼环顾左右，天恶老魔被斩杀，周围的血气虽然淡薄了一两分，但却并没有消散，反而覆盖范围更大了，已然入侵龙宫",
-        "‘或者说，借助海眼，召唤出无尽海水，就像鳖龙王隐藏天恶老魔一般，直接将此处海域彻底稀释"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被救"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "海眼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 宁乞道",
-      "summary": "有道是蛇吞蛋、龟吐壳，那都是本能反应，鳖龙王也是又决断的人，瞬间舍弃了数千年以日月精华修练的龟壳，一道矮小的身影突然从海眼中弹射而出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "有道是蛇吞蛋、龟吐壳，那都是本能反应，鳖龙王也是又决断的人，瞬间舍弃了数千年以日月精华修练的龟壳，一道矮小的身影突然从海眼中弹射而出",
-        "戚笼则没管对方，海眼没了镇压，便是一件无主之物，戚笼手掌缓缓下压，没下压一寸，便多了十万斤之重，一寸又一寸，等到了三百万斤重量时，海眼已被压成巴掌大的水球，猛然抓在手上，手心一沉",
-        "海眼，号称大海奇观，一般是在某处水力旺盛、天地元气充足的海域，经过数万年、十数万年的冲刷，才会诞生的一种海中异宝"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼吐出，交由宁乞道救治。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "难道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 宁乞道",
-      "summary": "‘难道这龙伯心脏还有第三种解法",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "‘难道这龙伯心脏还有第三种解法",
-        "宁红看着戚笼的表情，心道难道自己猜错了",
-        "‘真神做不到的事，未必仙人做不到，难道这一位已经登仙了"
+        "戚笼嘴巴一张，四道身影被'吐'了出来，正是桃女仙、柳真君、海夫人、乌贼夫人四人"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "鳖龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 宁乞道",
-      "summary": "“你、你你——”    鳖龙王几乎不敢置信眼前这一幕，天恶老魔，主人的种子分身，未来降临的对象，就这么被一刀解决了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你、你你——”    鳖龙王几乎不敢置信眼前这一幕，天恶老魔，主人的种子分身，未来降临的对象，就这么被一刀解决了",
-        "“不、不不不——”鳖龙王面色大变，心中被恐惧填满",
-        "有道是蛇吞蛋、龟吐壳，那都是本能反应，鳖龙王也是又决断的人，瞬间舍弃了数千年以日月精华修练的龟壳，一道矮小的身影突然从海眼中弹射而出"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "然而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 宁乞道",
-      "summary": "然而却正巧不巧，被随后赶来的宁家姐弟撞了个正着",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "然而却正巧不巧，被随后赶来的宁家姐弟撞了个正着",
-        "然而戚笼却是遗憾的叹了口气，明明只差一点，却终究是差了那么一点",
-        "然而没等这几位显出元神法相，‘宁乞道’屈指连弹，轻描淡写中，这几位真神就被再度弹入海面"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "就算",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 宁乞道",
-      "summary": "三百万斤之重，就算强如戚笼，也不可能带着它轻松飞遁；而没了海眼之后，‘龙宫’破土而出，开始节节缩小，最后变成鳖龙王背后的那只金色乌龟壳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "三百万斤之重，就算强如戚笼，也不可能带着它轻松飞遁；而没了海眼之后，‘龙宫’破土而出，开始节节缩小，最后变成鳖龙王背后的那只金色乌龟壳",
-        "就算有，对方是怎么知道的",
-        "“这是血污染，《血神经》号称邪道第一宝典，炼出的血气几乎没有克制之物，更可怕的是这类血水可以自动繁衍，吞噬生灵，将青山碧水化作血海滔天，而在血气浓郁到一定程度，便会诞生一尊血神，就算是当年的圆道人都没有杀死血神君，而是只能封印"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "就差",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 宁乞道",
-      "summary": "就差一点点，他便能撑爆血域",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就差一点点，他便能撑爆血域",
-        "仅仅凭着一记空气弹，就差点打破了戚笼引以为傲的肉身，这位宁真人真是深不可测"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

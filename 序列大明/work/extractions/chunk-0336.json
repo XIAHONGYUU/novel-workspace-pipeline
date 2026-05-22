@@ -1,141 +1,219 @@
 {
   "chunk_id": "chunk-0336",
-  "title": "第334章独行武序",
   "characters": [
     {
-      "name": "苏策",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第334章独行武序",
-      "summary": "”苏策轻点着头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”苏策轻点着头",
-        "”　　苏策说道：“不过你也要回答我一个问题",
-        "”　　如果此时钱凤庭在场，必然会被苏策展现出的耐心所震惊"
-      ],
-      "mention_count": 24
-    },
-    {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "李钧"
+      ],
+      "identity": "独行武序，倭区锦衣卫成员",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第334章独行武序",
-      "summary": "”　　李钧吐出一口悠长的叹息，“可惜，你不止是序五啊",
+      "summary": "独行武序，与苏策对话，了解自身路径本质，准备决死但被苏策放过。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧吐出一口悠长的叹息，“可惜，你不止是序五啊",
-        "李钧面上的语气看起来轻松，可身体却已经在悄无声息中绷紧",
-        "李钧闻言愕然回头，只见一个魁梧至极的身影从门外挤了进来"
+      "personality": [
+        "坦诚",
+        "有胆气",
+        "谨慎"
       ],
-      "mention_count": 22
+      "abilities": [
+        "八极拳",
+        "分筋错骨手",
+        "句芒术",
+        "食龙虎",
+        "伏渊鲸甲",
+        "列缺伐步"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "上下级"
+        },
+        {
+          "target": "谢必安",
+          "type": "同僚，请求留命"
+        },
+        {
+          "target": "明王",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏策交谈，了解独行武序本质，请求放过谢必安等人。"
+        }
+      ],
+      "evidence": [
+        "李钧吐出一口悠长的叹息，'可惜，你不止是序五啊。'",
+        "李钧若有所思，在沉默良久后却突然咧嘴一笑，'不过这些跟我也没关系了。'",
+        "李钧仰头，端起面前的饭碗，'刚才光记得填肚子了，没品出味道。'"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "所谓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "苏策",
+      "aliases": [
+        "苏千户",
+        "苏策",
+        "虎山堂苏策"
+      ],
+      "identity": "虎山堂出身，倭区锦衣卫千户，门派武序",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第334章独行武序",
-      "summary": "所谓的‘武序基因’，这个‘基’字代表着所属门派的内功武学，而择徒之时看中的根骨和天赋，便是和这门内功的适配度",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所谓的‘武序基因’，这个‘基’字代表着所属门派的内功武学，而择徒之时看中的根骨和天赋，便是和这门内功的适配度",
-        "所谓的成术，也指的是这门武学锻炼的本能被彻底唤醒",
-        "当时李钧只是猜测，所谓的‘属性’可能是武序前人为了区别基因契合度而做出的一种区分"
+      "summary": "倭区锦衣卫千户，门派武序，对李钧展现耐心，解释独行武序与门派武序区别，决定不杀李钧。",
+      "appearance": [
+        "狮鼻虎口，双眉如龙"
       ],
-      "mention_count": 6
+      "personality": [
+        "耐心",
+        "敞亮",
+        "有手腕"
+      ],
+      "abilities": [],
+      "equipment": [
+        "纸烟",
+        "印有'锦衣卫特供'字眼的白色烟盒"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        },
+        {
+          "target": "明王",
+          "type": "下属，但不满其做法"
+        },
+        {
+          "target": "荒世烈",
+          "type": "客人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧交谈，解释武序路径，答应其请求，并告知有客人到。"
+        }
+      ],
+      "evidence": [
+        "苏策莞尔一笑，抬手打了个响指，一名偃人侍女悄无声息的走了进来，接过了李钧手中空碗。",
+        "苏策鼻间喷出一条雾龙，'更何况你现在是倭区的锦衣卫，是我苏策的手下。'",
+        "苏策神色略显萧索，感叹道：'其中艰辛根本不是三言两语能够说尽的。'"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "明王",
+      "aliases": [
+        "明王"
+      ],
+      "identity": "佛序，江户城百户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第334章独行武序",
-      "summary": "“看在我今天帮你解决了明王他们这座小山头的份上，能不能留谢必安他们一条命",
+      "summary": "佛序，被苏策容忍但最终被李钧解决的小山头头目。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "私心重"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "下属"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被李钧解决。"
+        }
+      ],
       "evidence": [
-        "“看在我今天帮你解决了明王他们这座小山头的份上，能不能留谢必安他们一条命",
-        "他们都不是武序，序列之争就不用把他们牵扯进来了吧",
-        "”　　“相比之下明王他们确实私心太重"
+        "看在我今天帮你解决了明王他们这座小山头的份上",
+        "明王能够安稳的混这么多年，我已经觉得很稀奇了",
+        "连明王一个佛序我都能让他当上江户城的百户"
       ],
       "mention_count": 5
     },
     {
-      "name": "刚才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "谢必安",
+      "aliases": [
+        "谢必安"
+      ],
+      "identity": "非武序，李钧同僚",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第334章独行武序",
-      "summary": "“刚才在会场中，你那么强势的针对明王等人，甚至敢在千户所动手，是看出来本官想要借此机会针对他们",
+      "summary": "李钧请求苏策留其性命。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同僚"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“刚才在会场中，你那么强势的针对明王等人，甚至敢在千户所动手，是看出来本官想要借此机会针对他们",
-        "“老夫只是一个门派武序，刚才给你说的那些也不过是从别人嘴里听来的，怎么会知道你们的仪轨",
-        "李钧仰头，端起面前的饭碗，“刚才光记得填肚子了，没品出味道"
+        "能不能留谢必安他们一条命？"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "荒世烈",
+      "aliases": [
+        "荒世烈"
+      ],
+      "identity": "荒世集团东主",
+      "faction": "荒世集团",
       "status": "登场",
       "first_appearance": "第334章独行武序",
-      "summary": "”　　“这个要求不过分，可以答应",
-      "appearance": [],
+      "summary": "荒世集团东主，在对话末尾作为客人出现。",
+      "appearance": [
+        "魁梧至极"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“这个要求不过分，可以答应",
-        "“等你坐上了我这个位置，就知道什么叫用贪不用廉了",
-        "”　　苏策似乎早预料到李钧会问出这个问题，“两者的差别不止是仪轨，在发展方式方面更是大相径庭"
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "客人"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "作为客人到访苏策处。"
+        }
+      ],
+      "evidence": [
+        "只见一个魁梧至极的身影从门外挤了进来。",
+        "正是荒世集团东主，荒世烈！"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "长远",
-      "aliases": [],
-      "identity": "",
+      "name": "钱凤庭",
+      "aliases": [
+        "钱凤庭"
+      ],
+      "identity": "未明确",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第334章独行武序",
-      "summary": "但他们的做法却是钝刀子割肉，长远来看对帝国更加有利",
+      "summary": "被提及的人物，若在场会对苏策的耐心感到震惊。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -143,110 +221,93 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "但他们的做法却是钝刀子割肉，长远来看对帝国更加有利"
+        "如果此时钱凤庭在场，必然会被苏策展现出的耐心所震惊。"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "对你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "虬龙",
+      "aliases": [
+        "虬龙"
+      ],
+      "identity": "百户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第334章独行武序",
-      "summary": "”　　“基因的‘因’字，对门派武序是制约，对你来说却是解放，解放囚禁在人体之内的大势",
+      "summary": "恪守规矩、恩怨分明的百户。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恪守规矩",
+        "恩怨分明"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“基因的‘因’字，对门派武序是制约，对你来说却是解放，解放囚禁在人体之内的大势",
-        "”　　“但对你来说，却直接跨过了其中的很多步，能够进步神速",
-        "这对你来说是天赋，对别人来说却是不公"
+        "和鬼王达、虬龙他们这样恪守规矩，恩怨分明的百户"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "鬼王达",
+      "aliases": [
+        "鬼王达"
+      ],
+      "identity": "百户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第334章独行武序",
-      "summary": "“刚才在会场中，你那么强势的针对明王等人，甚至敢在千户所动手，是看出来本官想要借此机会针对他们",
+      "summary": "恪守规矩、恩怨分明的百户。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恪守规矩",
+        "恩怨分明"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“刚才在会场中，你那么强势的针对明王等人，甚至敢在千户所动手，是看出来本官想要借此机会针对他们",
-        "甚至明王能够安稳的混这么多年，我已经觉得很稀奇了，只能说你老人家脾气够好",
-        "甚至可能在背后递刀子的人，还有咱们的邻居宣慰司衙门"
+        "和鬼王达、虬龙他们这样恪守规矩，恩怨分明的百户"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "老夫",
-      "aliases": [],
-      "identity": "",
+      "name": "乌鸦朵朵",
+      "aliases": [
+        "乌鸦朵朵"
+      ],
+      "identity": "未明确",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第334章独行武序",
-      "summary": "“老夫是虎山堂苏策，不是黄天门那种输不起，放不下的废物",
+      "summary": "曾给李钧提到过‘同属性’观念。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "曾提供信息"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“老夫是虎山堂苏策，不是黄天门那种输不起，放不下的废物",
-        "“老夫只是一个门派武序，刚才给你说的那些也不过是从别人嘴里听来的，怎么会知道你们的仪轨",
-        "“之后于血战搏杀之中登顶戎首，千锤百炼成为武魁，最后一步才能晋升成老夫这样的武序三，成为序列雄主"
+        "在成都府的时候，乌鸦朵朵曾给他提到过‘同属性’这个观念。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "放不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第334章独行武序",
-      "summary": "“老夫是虎山堂苏策，不是黄天门那种输不起，放不下的废物",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“老夫是虎山堂苏策，不是黄天门那种输不起，放不下的废物"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "等你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第334章独行武序",
-      "summary": "“等你坐上了我这个位置，就知道什么叫用贪不用廉了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“等你坐上了我这个位置，就知道什么叫用贪不用廉了"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

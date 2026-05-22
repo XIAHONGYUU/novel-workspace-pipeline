@@ -1,256 +1,215 @@
 {
   "chunk_id": "chunk-0440",
-  "title": "第438章大恩大德",
   "characters": [
     {
-      "name": "丰臣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "丰臣秀峦自然不会去自取其辱，默默跟在对方身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "丰臣秀峦自然不会去自取其辱，默默跟在对方身后",
-        "同样，沿途的亭台楼阁究竟深有几许，丰臣秀峦也根本无心去思量",
-        "当走进一间用来会客的花厅之后，引路的仆从便告辞离去，只留下一句让丰臣秀峦稍等片刻的客套话语"
-      ],
-      "mention_count": 22
-    },
-    {
-      "name": "丰臣秀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "丰臣秀峦自然不会去自取其辱，默默跟在对方身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "丰臣秀峦自然不会去自取其辱，默默跟在对方身后",
-        "同样，沿途的亭台楼阁究竟深有几许，丰臣秀峦也根本无心去思量",
-        "当走进一间用来会客的花厅之后，引路的仆从便告辞离去，只留下一句让丰臣秀峦稍等片刻的客套话语"
-      ],
-      "mention_count": 15
-    },
-    {
       "name": "丰臣秀峦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "秀峦先生",
+        "秀峦小友"
+      ],
+      "identity": "倭区丰臣家族子弟，三川重工负责人",
+      "faction": "丰臣家族",
       "status": "登场",
       "first_appearance": "第438章大恩大德",
-      "summary": "丰臣秀峦自然不会去自取其辱，默默跟在对方身后",
-      "appearance": [],
-      "personality": [],
+      "summary": "倭区丰臣家族的代表，为家族存亡向刘公求助，控诉锦衣卫千户苏策的迫害。",
+      "appearance": [
+        "俊朗的面容"
+      ],
+      "personality": [
+        "坚毅",
+        "恭敬",
+        "绝望"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "刘公",
+          "type": "求助对象"
+        },
+        {
+          "target": "苏策",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向刘公求助，控诉苏策迫害，愿献出家族产业成为刘氏门客。"
+        }
+      ],
       "evidence": [
-        "丰臣秀峦自然不会去自取其辱，默默跟在对方身后",
-        "同样，沿途的亭台楼阁究竟深有几许，丰臣秀峦也根本无心去思量",
-        "当走进一间用来会客的花厅之后，引路的仆从便告辞离去，只留下一句让丰臣秀峦稍等片刻的客套话语"
+        "大明帝国倭区丰臣家族子弟，丰臣秀峦见过刘公。",
+        "丰臣家族灭亡在即，恳求刘公出手搭救。",
+        "丰臣家族自愿将倭区一切产业献给刘公，成为沛县刘氏的门客。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "刘公",
+      "aliases": [
+        "刘公",
+        "老人"
+      ],
+      "identity": "致仕官员，沛县刘氏",
+      "faction": "沛县刘氏",
+      "status": "登场",
+      "first_appearance": "第438章大恩大德",
+      "summary": "一位致仕的老者，丰臣秀峦求助的对象，对苏策的行为表示愤怒但声称无力直接干预。",
+      "appearance": [
+        "黑衣长衫",
+        "眉眼柔和",
+        "投影"
+      ],
+      "personality": [
+        "嫉恶如仇",
+        "谨慎",
+        "有顾虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丰臣秀峦",
+          "type": "被求助者"
+        },
+        {
+          "target": "苏策",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接见丰臣秀峦，听取其控诉，承诺上报内阁责问北镇抚司。"
+        }
+      ],
+      "evidence": [
+        "被丰臣秀峦尊称为‘刘公’的老人右手轻抬，示意对方起身。",
+        "刘公冷哼一声，于太师椅中起身，负手在背在堂内缓缓踱步。",
+        "老夫虽然已经致仕多年，但一生最是嫉恶如仇。"
       ],
       "mention_count": 15
     },
     {
-      "name": "倭区",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "苏策",
+      "aliases": [
+        "苏策",
+        "苏千户"
+      ],
+      "identity": "锦衣卫千户，倭区锦衣卫首领",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第438章大恩大德",
-      "summary": "可倭区锦衣卫却是欺上瞒下，利用新政的名义，歪曲事实，大肆构陷无辜百姓，意图巧取豪夺",
+      "summary": "倭区锦衣卫千户，被丰臣秀峦指控欺上瞒下、巧取豪夺，迫害倭区百姓。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "贪婪",
+        "杀戮",
+        "根深蒂固"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "丰臣秀峦",
+          "type": "敌对"
+        },
+        {
+          "target": "刘公",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被丰臣秀峦指控迫害倭区百姓，下令召开千户所会议。"
+        }
+      ],
       "evidence": [
-        "可倭区锦衣卫却是欺上瞒下，利用新政的名义，歪曲事实，大肆构陷无辜百姓，意图巧取豪夺",
-        "丰臣秀峦声如泣血，哀切道：“新旦以来短短数月，倭区多家公司已经惨遭锦衣卫毒手，不仅产业被夺，主事的良民更是被肆意屠戮，意识被投入诏狱，生不如死，还请刘公明察啊",
-        "”　　“丰臣家族自愿将倭区一切产业献给刘公，成为沛县刘氏的门客，还请刘公能够成全"
+        "苏策在倭区盘踞多年，早已经是根深蒂固。",
+        "他苏策不过是一个锦衣卫的小小千户，怎敢如此藐视帝国律法？",
+        "这是苏策亲自下方的命令。"
       ],
       "mention_count": 10
     },
     {
-      "name": "帝国",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "”　　“帝国在罪民区推行新政，本是当今朝廷体恤罪民生存不易，特意颁布的一项普惠全体罪民的大好国策",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“帝国在罪民区推行新政，本是当今朝廷体恤罪民生存不易，特意颁布的一项普惠全体罪民的大好国策",
-        "”　　“哎，可如果接纳了你们，帝国上下会怎么看我刘氏",
-        "等苏策罪行曝光之时，帝国上下会明白您的忍辱负重，倭区上下也会感念您的大恩大德"
-      ],
-      "mention_count": 8
-    },
-    {
-      "name": "刘公",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "”　　被丰臣秀峦尊称为‘刘公’的老人右手轻抬，示意对方起身，可丰臣秀峦却以头抢地，额头在青砖上砸出清脆的声响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　被丰臣秀峦尊称为‘刘公’的老人右手轻抬，示意对方起身，可丰臣秀峦却以头抢地，额头在青砖上砸出清脆的声响",
-        "刘公冷哼一声，于太师椅中起身，负手在背在堂内缓缓踱步",
-        "刘公眼神蓦然转冷：“你觉得老夫那种落井下石，想要横掠你们家族资产的人"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "丰臣家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "不过等苏策被治罪的那天，老夫会放你们丰臣家族自由，所有资产如数奉还",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过等苏策被治罪的那天，老夫会放你们丰臣家族自由，所有资产如数奉还",
-        "”　　“因为唯有让丰臣家族成为刘氏门客，让三川重工成为刘氏产业，您才能名正言顺的阻止苏策那头恶狼，丰臣家族才有活命的机会",
-        "”　　丰臣秀峦哀鸣道：“况且如今苏策已经对三川重工起了贪心，恐怕要不了多久，丰臣家族就要沦为他的刀下亡魂了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "丰臣家族",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "不过等苏策被治罪的那天，老夫会放你们丰臣家族自由，所有资产如数奉还",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过等苏策被治罪的那天，老夫会放你们丰臣家族自由，所有资产如数奉还",
-        "”　　“因为唯有让丰臣家族成为刘氏门客，让三川重工成为刘氏产业，您才能名正言顺的阻止苏策那头恶狼，丰臣家族才有活命的机会",
-        "”　　丰臣秀峦哀鸣道：“况且如今苏策已经对三川重工起了贪心，恐怕要不了多久，丰臣家族就要沦为他的刀下亡魂了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "老人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "”　　被丰臣秀峦尊称为‘刘公’的老人右手轻抬，示意对方起身，可丰臣秀峦却以头抢地，额头在青砖上砸出清脆的声响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　被丰臣秀峦尊称为‘刘公’的老人右手轻抬，示意对方起身，可丰臣秀峦却以头抢地，额头在青砖上砸出清脆的声响",
-        "”　　黑衣老人长叹一声，“那就让他们骂吧",
-        "”　　老人突然脚步一顿，“如今老夫已经不在朝中任职，能让北镇抚司介入调查，已经是豁出去这张老脸了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "小友",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "“可秀峦小友.“　　袁明妃推门而入，冲着李钧扬了扬手中的电子案牍",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“可秀峦小友.“　　袁明妃推门而入，冲着李钧扬了扬手中的电子案牍",
-        "小友这话是从何说起",
-        "”　　“小友你放心，老夫虽然已经致仕多年，但一生最是嫉恶如仇，遇见这种事情定然不会袖手旁观"
-      ],
-      "mention_count": 4
-    },
-    {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
       "status": "登场",
       "first_appearance": "第438章大恩大德",
-      "summary": "“可秀峦小友.“　　袁明妃推门而入，冲着李钧扬了扬手中的电子案牍",
+      "summary": "与袁明妃一同出现，接过电子案牍，提及新客人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“可秀峦小友.“　　袁明妃推门而入，冲着李钧扬了扬手中的电子案牍",
-        "”　　李钧接过案牍扫了一眼，看见公文落款的位置除了‘倭区千户所’五个大字之外，还有一个笔走龙蛇的‘苏’字",
-        "”　　“那这么说.”　　李钧微微一笑：“又要有新客人来了"
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只留",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第438章大恩大德",
-      "summary": "当走进一间用来会客的花厅之后，引路的仆从便告辞离去，只留下一句让丰臣秀峦稍等片刻的客套话语",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接过袁明妃递来的电子案牍，查看公文。"
+        }
+      ],
       "evidence": [
-        "当走进一间用来会客的花厅之后，引路的仆从便告辞离去，只留下一句让丰臣秀峦稍等片刻的客套话语"
+        "李钧接过案牍扫了一眼，看见公文落款的位置除了‘倭区千户所’五个大字之外，还有一个笔走龙蛇的‘苏’字。",
+        "李钧微微一笑：“又要有新客人来了？”"
       ],
       "mention_count": 3
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第438章大恩大德",
+      "summary": "推门而入，向李钧递送电子案牍。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "推门而入，向李钧递送电子案牍。"
+        }
+      ],
+      "evidence": [
+        "袁明妃推门而入，冲着李钧扬了扬手中的电子案牍。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "杨白泽",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第438章大恩大德",
+      "summary": "被提及的人物，与某件事有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "应该跟杨白泽说的那件事有关。"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,258 +1,524 @@
 {
   "chunk_id": "chunk-0450",
-  "title": "第二百二十三章 道门大佬",
   "characters": [
     {
-      "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "过了许久，五道光芒从黑暗中飞出，除了戚笼、皇甫天奇、血麒麟三人外，还多了两道人影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "过了许久，五道光芒从黑暗中飞出，除了戚笼、皇甫天奇、血麒麟三人外，还多了两道人影",
-        "”    然后老祖宗贴在戚笼身上闻了闻，又眉开眼笑",
-        "”    戚笼看向司马正道，眼中金光一闪，道：“封神事中，司马都督看起来收获不小"
+      "name": "重明儿",
+      "aliases": [
+        "长公主",
+        "末代皇族"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "白泽",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "末代皇族，长公主",
+      "faction": "皇族",
+      "status": "被俘",
       "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "”    白泽公子沙哑的声音中带着几分调笑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    白泽公子沙哑的声音中带着几分调笑",
-        "“你是这一代的白泽",
-        "本宫还以为白泽血脉断绝了"
+      "summary": "末代皇族长公主，被龙庭俘虏，面临被杀断龙的命运。",
+      "appearance": [
+        "闭月羞花、倾国倾城",
+        "银甲破破烂烂，被四根黄箭锁住四肢"
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "司马",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "司马正道、老祖宗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "司马正道、老祖宗",
-        "”    戚笼看向司马正道，眼中金光一闪，道：“封神事中，司马都督看起来收获不小",
-        "”    司马正道不谦虚的道：“的确有所收获"
+      "personality": [
+        "英姿飒爽",
+        "从容"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "司马正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "司马正道、老祖宗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "abilities": [
+        "上古女武神化身"
+      ],
+      "equipment": [
+        "铜戈"
+      ],
+      "relationships": [
+        {
+          "target": "横田",
+          "type": "旧识"
+        },
+        {
+          "target": "明妖皇",
+          "type": "被提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被龙庭俘虏，四肢被黄箭锁住，面临被杀断龙。"
+        }
+      ],
       "evidence": [
-        "司马正道、老祖宗",
-        "”    戚笼看向司马正道，眼中金光一闪，道：“封神事中，司马都督看起来收获不小",
-        "”    司马正道不谦虚的道：“的确有所收获"
+        "一个银甲女人转过身来，露出了真容，闭月羞花、倾国倾城都不足以形容其美貌",
+        "重明儿英姿飒爽的一笑，紫色的眸子纯粹无暇，没有半分被俘虏的颓丧。",
+        "重明儿背后，那尊手持铜戈的女武神幻影再度浮现"
       ],
       "mention_count": 10
+    },
+    {
+      "name": "白泽公子",
+      "aliases": [
+        "白泽"
+      ],
+      "identity": "龙庭公子，白泽血脉",
+      "faction": "龙庭",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "龙庭的白泽公子，负责抓捕长公主，性格玩味。",
+      "appearance": [],
+      "personality": [
+        "调笑",
+        "玩味"
+      ],
+      "abilities": [],
+      "equipment": [
+        "扇子"
+      ],
+      "relationships": [
+        {
+          "target": "重明儿",
+          "type": "俘虏者"
+        },
+        {
+          "target": "横田",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指挥抓捕长公主，与横田对话。"
+        }
+      ],
+      "evidence": [
+        "白泽公子沙哑的声音中带着几分调笑。",
+        "白泽眼神眯成月牙状，扇子挑起对方的下巴",
+        "白泽看了看重明儿，又看了看紫衣人，表情玩味。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "横田",
+      "aliases": [
+        "紫衣人",
+        "大总管",
+        "大内第一人"
+      ],
+      "identity": "大内第一人，钟吾武道第一人",
+      "faction": "龙庭",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "紫衣人，大内第一人，武道巅峰，与重明儿有旧，但出手废其武功。",
+      "appearance": [
+        "紫衣"
+      ],
+      "personality": [
+        "沉默",
+        "冷酷"
+      ],
+      "abilities": [
+        "武神之位",
+        "领域'无'",
+        "身外化身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "重明儿",
+          "type": "旧识，但出手废其武功"
+        },
+        {
+          "target": "明妖皇",
+          "type": "被提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出手废掉重明儿的武功，然后离开。"
+        }
+      ],
+      "evidence": [
+        "一个手掌把扇子拍开，紫衣人缓缓从黑暗中走出，面无表情。",
+        "紫衣人借助龙庭神性，已经彻底恢复当年大内第一人的实力",
+        "紫衣人毫不留情，另一只手掌捏印，穿越虚空，落在武神的额头之上。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "杀佛",
+      "aliases": [],
+      "identity": "佛门高手",
+      "faction": "佛门",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "口念超度梵音的佛门高手，似乎与长公主之死有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "重明儿",
+          "type": "为其超度"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "口念超度梵音，说'小僧随后便至'。"
+        }
+      ],
+      "evidence": [
+        "杀佛口念超度梵音。",
+        "小僧随后便至。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "虞老道",
+      "aliases": [
+        "老道士"
+      ],
+      "identity": "道门大佬，疑似上界人物",
+      "faction": "道门",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "道门高人，戚笼的盟友，似乎有上界背景。",
+      "appearance": [],
+      "personality": [
+        "沉默"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "干戚缺",
+          "type": "亚父与子"
+        },
+        {
+          "target": "戚笼",
+          "type": "盟友"
+        },
+        {
+          "target": "老祖宗",
+          "type": "被认作阿爹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抬头看天际，沉默不语，后与戚笼等人对话。"
+        }
+      ],
+      "evidence": [
+        "虞老道也抬起了头，看着黑暗的天际，沉默不语。",
+        "解释一下吧，老道士，或者说，上界的哪一位道门大佬。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "干戚缺",
+      "aliases": [],
+      "identity": "神王",
+      "faction": "龙庭",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "神王，虞老道的义子，被龙庭传召。",
+      "appearance": [],
+      "personality": [
+        "沉默"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "虞老道",
+          "type": "亚父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被龙庭传召，但虞老道让他不去。"
+        }
+      ],
+      "evidence": [
+        "亚父，龙庭传召，让所有神王赶赴两界关，去破钳龙锁。",
+        "不用去，你有更重要的事要做。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "戚笼",
+      "aliases": [
+        "戚将军",
+        "乖孙"
+      ],
+      "identity": "龙脉之子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "龙脉之子，与道门合作，准备对抗照灯笼和恶道宗。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "洞察"
+      ],
+      "abilities": [
+        "龙脉之力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "司马正道",
+          "type": "合作者"
+        },
+        {
+          "target": "虞老道",
+          "type": "盟友"
+        },
+        {
+          "target": "老祖宗",
+          "type": "被认作乖孙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与司马正道等人会合，讨论关外局势，决定阻止恶道宗。"
+        }
+      ],
+      "evidence": [
+        "戚笼看向司马正道，眼中金光一闪",
+        "戚笼叹了口气，道：'看来夫人得到封神榜中的那道天帝金光便满足了'",
+        "戚笼知道司马正道说这些是什么意思"
+      ],
+      "mention_count": 8
     },
     {
       "name": "司马正道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "司马正道、老祖宗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "司马正道、老祖宗",
-        "”    戚笼看向司马正道，眼中金光一闪，道：“封神事中，司马都督看起来收获不小",
-        "”    司马正道不谦虚的道：“的确有所收获"
+      "aliases": [
+        "司马都督"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "紫衣人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "道门金丹巅峰，都督",
+      "faction": "道门",
       "status": "登场",
       "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "”    一个手掌把扇子拍开，紫衣人缓缓从黑暗中走出，面无表情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    一个手掌把扇子拍开，紫衣人缓缓从黑暗中走出，面无表情",
-        "”    紫衣人张了张嘴，最后选择沉默",
-        "白泽看了看重明儿，又看了看紫衣人，表情玩味"
+      "summary": "道门金丹巅峰高手，曾主持封神事，与戚笼合作。",
+      "appearance": [
+        "腰挂葫芦的大胖道人"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "紫衣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "”    一个手掌把扇子拍开，紫衣人缓缓从黑暗中走出，面无表情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    一个手掌把扇子拍开，紫衣人缓缓从黑暗中走出，面无表情",
-        "”    紫衣人张了张嘴，最后选择沉默",
-        "白泽看了看重明儿，又看了看紫衣人，表情玩味"
+      "personality": [
+        "不谦虚"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "重明儿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "重明儿英姿飒爽的一笑，紫色的眸子纯粹无暇，没有半分被俘虏的颓丧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "abilities": [
+        "金丹巅峰",
+        "神性光环"
+      ],
+      "equipment": [
+        "葫芦"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼会合，讲述关外两年变化。"
+        }
+      ],
       "evidence": [
-        "重明儿英姿飒爽的一笑，紫色的眸子纯粹无暇，没有半分被俘虏的颓丧",
-        "看到对方，重明儿露出了真诚的笑容：“横田，恭喜你了，除了一代妖皇外，你是唯一一位能把所有皇家武学融于一体的，就连我父皇都比不上你",
-        "白泽看了看重明儿，又看了看紫衣人，表情玩味"
+        "司马正道、老祖宗。",
+        "司马正道不谦虚的道：'的确有所收获。'",
+        "司马正道这个金丹巅峰的道门高人，居然流露出一丝恐惧之色来。"
       ],
       "mention_count": 6
     },
     {
-      "name": "本公",
+      "name": "老祖宗",
       "aliases": [],
-      "identity": "",
+      "identity": "貌若天仙的女子，疑似玉池夫人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "“大总管，你可不要顾及旧情，把人给放了，这位长公主不死，明妖皇就无法断掉此界因果，并从大劫之中超脱，还是说，有了新人就忘了旧人——”    “明妖皇、重明儿，这两个女人，本公子很想知道，你到底最爱哪一个",
-      "appearance": [],
-      "personality": [],
+      "summary": "貌若天仙的女子，认虞老道为阿爹，认戚笼为乖孙。",
+      "appearance": [
+        "貌若天仙"
+      ],
+      "personality": [
+        "活泼"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“大总管，你可不要顾及旧情，把人给放了，这位长公主不死，明妖皇就无法断掉此界因果，并从大劫之中超脱，还是说，有了新人就忘了旧人——”    “明妖皇、重明儿，这两个女人，本公子很想知道，你到底最爱哪一个",
-        "白泽咂舌，复又笑道：“是我多心了，没想到总管如此狠心，直接废了老情人的一身本领，除非转世重修，不然怎么也不可能恢复如今的道行，本公子佩服",
-        "本公子可以用其它宝物跟你交换"
+      "relationships": [
+        {
+          "target": "虞老道",
+          "type": "认作阿爹"
+        },
+        {
+          "target": "戚笼",
+          "type": "认作乖孙"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与司马正道一同出现，嗅闻虞老道和戚笼。"
+        }
+      ],
+      "evidence": [
+        "老祖宗见到虞老道，眼中顿时露出了璀璨的光芒。",
+        "老祖宗贴在戚笼身上闻了闻，又眉开眼笑。",
+        "乖孙才是真的。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "或是",
+      "name": "玉池夫人",
       "aliases": [],
-      "identity": "",
+      "identity": "神秘人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "”    “若是大事，自然是有的，譬如东荒开裂出一道前所未有的大沟壑，下不知底，又譬如，炼铁手这厮附身他家小子，又莫名其妙的复活了，或是九幽军团出动，真神已近完全控制七府兵力，不过跟这场劫数相比，已经完全不重要了",
+      "summary": "被戚笼提及，似乎得到了封神榜中的天帝金光。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “若是大事，自然是有的，譬如东荒开裂出一道前所未有的大沟壑，下不知底，又譬如，炼铁手这厮附身他家小子，又莫名其妙的复活了，或是九幽军团出动，真神已近完全控制七府兵力，不过跟这场劫数相比，已经完全不重要了",
-        "黑暗之前，是纯粹的白昼，当时的关外没有一处不被光芒笼罩，不管你是藏在密闭的房中，还是蒙在被单里，又或是躲在海底山下，通通没有用处",
-        "问刀楼、赤炼府、古佛一脉、苍甲军、穹苍暴雨宗、恶道宗、护国神教    这七派有的是庞然大物，有的只有一两传人，但是毫无疑问的，这七派都与这方天地，或是与背后的真神们有着千丝万缕的关系"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼呼唤，但未现身。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "玉池夫人不下来聊一聊吗？",
+        "看来夫人得到封神榜中的那道天帝金光便满足了"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "重明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "重明儿英姿飒爽的一笑，紫色的眸子纯粹无暇，没有半分被俘虏的颓丧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "重明儿英姿飒爽的一笑，紫色的眸子纯粹无暇，没有半分被俘虏的颓丧",
-        "看到对方，重明儿露出了真诚的笑容：“横田，恭喜你了，除了一代妖皇外，你是唯一一位能把所有皇家武学融于一体的，就连我父皇都比不上你",
-        "白泽看了看重明儿，又看了看紫衣人，表情玩味"
+      "name": "照灯笼",
+      "aliases": [
+        "照小侠客",
+        "照老弟"
       ],
-      "mention_count": 5
+      "identity": "人皇剑传人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "人皇剑传人，使用妙到巅峰的剑术刺杀半神，戚笼的对手。",
+      "appearance": [],
+      "personality": [
+        "为达目的不择手段"
+      ],
+      "abilities": [
+        "人皇剑术",
+        "人道剑"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为刺杀半神的幕后黑手。"
+        }
+      ],
+      "evidence": [
+        "照灯笼的剑术，果然已经大成了。",
+        "当年为小民撑腰的照小侠客，如今也成了为达目的，不择手段的凶徒了么。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "龙庭",
+      "name": "玄诚子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "恶道宗掌门",
+      "faction": "恶道宗",
+      "status": "提及",
       "first_appearance": "第二百二十三章 道门大佬",
-      "summary": "“长公主殿下，您可真是让我们好找，这又是何必呢，以您末代皇族的身份，若是投靠我们龙庭，这龙椅也不是不能给您坐一坐",
+      "summary": "恶道宗掌门，计划开三途、五苦之门。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“长公主殿下，您可真是让我们好找，这又是何必呢，以您末代皇族的身份，若是投靠我们龙庭，这龙椅也不是不能给您坐一坐",
-        "”    白泽眼神眯成月牙状，扇子挑起对方的下巴，啧啧道：“好一个美人儿，就是可惜了，龙庭要破钳龙锁，正需一位皇族杀之断龙，而您便是最后一位皇族",
-        "跟‘拼龙图’时期相比，紫衣人借助龙庭神性，已经彻底恢复当年大内第一人的实力，本身就是武神之位，更何况还有神出鬼没的领域‘无’"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及要开三途、五苦之门。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "恶道宗掌门玄诚子要开三途、五苦之门，我们必须阻止他们。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "皇甫天奇",
+      "aliases": [],
+      "identity": "龙脉之子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "龙脉之子，与戚笼一同出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼一同出现，插话。"
+        }
+      ],
+      "evidence": [
+        "除了戚笼、皇甫天奇、血麒麟三人外，还多了两道人影。",
+        "皇甫天奇插口。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "血麒麟",
+      "aliases": [],
+      "identity": "龙脉之子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 道门大佬",
+      "summary": "龙脉之子，与戚笼一同出现。",
+      "appearance": [],
+      "personality": [
+        "冷哼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼一同出现，发言。"
+        }
+      ],
+      "evidence": [
+        "除了戚笼、皇甫天奇、血麒麟三人外，还多了两道人影。",
+        "血麒麟冷哼一声"
+      ],
+      "mention_count": 2
     }
   ]
 }

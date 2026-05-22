@@ -1,251 +1,203 @@
 {
   "chunk_id": "chunk-0241",
-  "title": "第239章还命",
   "characters": [
     {
       "name": "周游",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "哥"
+      ],
+      "identity": "兵九",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "在周游换了一身械体之后便再未开过火的厨房内，此刻终于又有了一些温度",
+      "status": "死亡",
+      "first_appearance": "第239章 还命",
+      "summary": "周生之兄，兵九，因弟弟被黄梁鬼取代而痛苦，最终自爆械心杀死黄梁鬼，自己也死亡。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "悲伤",
+        "愤怒",
+        "自欺欺人",
+        "决绝"
+      ],
+      "abilities": [
+        "兵九"
+      ],
+      "equipment": [
+        "械体",
+        "械心"
+      ],
+      "relationships": [
+        {
+          "target": "周生",
+          "type": "兄弟"
+        },
+        {
+          "target": "黄梁鬼",
+          "type": "仇敌"
+        },
+        {
+          "target": "赫老大",
+          "type": "欠债"
+        },
+        {
+          "target": "钧哥",
+          "type": "背叛"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "煮皮蛋瘦肉粥，与假周生对话，最终自爆械心杀死黄梁鬼。"
+        }
+      ],
       "evidence": [
-        "在周游换了一身械体之后便再未开过火的厨房内，此刻终于又有了一些温度",
-        "周游站在灶前，闻着那淡淡的诱人香味，一时怔怔出神",
-        "”周游猛然回神，转头看向倚在门边的周生笑道：“我记得你原来最喜欢喝这个了"
+        "哥，你现在是兵九，那你以后给我当护法神好不好？",
+        "你要自爆械心？你是不是疯了？！快停下啊！",
+        "钧哥，周游背叛了你，所以这条命我现在还给你。"
       ],
       "mention_count": 30
     },
     {
       "name": "周生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "”周游猛然回神，转头看向倚在门边的周生笑道：“我记得你原来最喜欢喝这个了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”周游猛然回神，转头看向倚在门边的周生笑道：“我记得你原来最喜欢喝这个了",
-        "”　　周生两眼放光，惊喜喊道：“原生的",
-        "他不再假装挣扎，任由喉间的手掌将自己的声音捏的尖细：“周游你可要想清楚了，如果你杀了我，周生可就再也回不来了"
+      "aliases": [
+        "阿生"
       ],
-      "mention_count": 19
+      "identity": "周游之弟，曾在罗汉寺佛国",
+      "faction": "",
+      "status": "已死（被黄梁鬼取代）",
+      "first_appearance": "第239章 还命",
+      "summary": "周游的弟弟，曾在罗汉寺佛国生活，后被黄梁鬼取代，灵魂可能已无法回归。",
+      "appearance": [],
+      "personality": [
+        "天真",
+        "憧憬"
+      ],
+      "abilities": [
+        "慧根（自称天生）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "兄弟"
+        },
+        {
+          "target": "黄梁鬼",
+          "type": "被取代"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在罗汉寺佛国生活，开发慧根。"
+        },
+        {
+          "stage": "当前",
+          "event": "被黄梁鬼取代，与周游对话。"
+        }
+      ],
+      "evidence": [
+        "其实这些年我在罗汉寺的佛国里过得挺好的",
+        "在佛国的这些年，我的慧根已经被开发出来了",
+        "哥，我很想伱。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "为什",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "”　　“为什么你要把仇恨当成恩赐，为什么要说出这么恶心的话，让我无法再强迫自己相信你是周生",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“为什么你要把仇恨当成恩赐，为什么要说出这么恶心的话，让我无法再强迫自己相信你是周生",
-        "“都是命中注定，为什么要恨",
-        "”　　“既然你这么痛苦，为什么要让自己保持清醒"
+      "name": "黄梁鬼",
+      "aliases": [
+        "假周生",
+        "隆图隐藏的佛国主机"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "为什么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "”　　“为什么你要把仇恨当成恩赐，为什么要说出这么恶心的话，让我无法再强迫自己相信你是周生",
+      "identity": "佛国主机，黄梁鬼",
+      "faction": "隆图",
+      "status": "死亡（被周游杀死）",
+      "first_appearance": "第239章 还命",
+      "summary": "伪装成周生的黄梁鬼，实为隆图隐藏的佛国主机，试图度化周游，最终被周游自爆械心杀死。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“为什么你要把仇恨当成恩赐，为什么要说出这么恶心的话，让我无法再强迫自己相信你是周生",
-        "“都是命中注定，为什么要恨",
-        "”　　“既然你这么痛苦，为什么要让自己保持清醒"
+      "personality": [
+        "诡异",
+        "狡猾",
+        "嘲讽"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "你是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "“哥，你是在煮皮蛋瘦肉粥吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "伪装",
+        "度化"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "度化对象"
+        },
+        {
+          "target": "周生",
+          "type": "取代"
+        },
+        {
+          "target": "隆图",
+          "type": "所属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "伪装成周生与周游对话，试图度化，最终被杀死。"
+        }
+      ],
       "evidence": [
-        "“哥，你是在煮皮蛋瘦肉粥吗",
-        "你是不是疯了",
-        "”　　“为什么你要把仇恨当成恩赐，为什么要说出这么恶心的话，让我无法再强迫自己相信你是周生"
+        "不，你是用来度化我的黄梁鬼，是隆图隐藏的佛国主机！",
+        "为什么，为什么我还是没能度化他.",
+        "当听到这句话后，周生脸上的惊恐如潮退般褪去，眼眸之中泛起诡异的笑意。"
       ],
       "mention_count": 5
     },
     {
-      "name": "我记",
+      "name": "赫老大",
       "aliases": [],
-      "identity": "",
+      "identity": "周游的债主",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "”周游猛然回神，转头看向倚在门边的周生笑道：“我记得你原来最喜欢喝这个了",
+      "status": "提及",
+      "first_appearance": "第239章 还命",
+      "summary": "周游欠其钱，被提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "债主"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”周游猛然回神，转头看向倚在门边的周生笑道：“我记得你原来最喜欢喝这个了",
-        "我记得以前在佛国里听大师讲过，苦难之后，剩下的都是福报"
+        "赫老大，我对不起你，以后我不能再帮你看场了，欠你的钱我只能下辈子当牛做马再还给你了。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "他不",
+      "name": "钧哥",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "他不再假装挣扎，任由喉间的手掌将自己的声音捏的尖细：“周游你可要想清楚了，如果你杀了我，周生可就再也回不来了",
+      "status": "提及",
+      "first_appearance": "第239章 还命",
+      "summary": "周游背叛的对象，被提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "被背叛"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "他不再假装挣扎，任由喉间的手掌将自己的声音捏的尖细：“周游你可要想清楚了，如果你杀了我，周生可就再也回不来了",
-        "”　　“他不回来，那我就去找他"
+        "钧哥，周游背叛了你，所以这条命我现在还给你。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "发出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "嗡.　　以骇人频率震颤的械心发出刺耳的尖锐声音，身体内巨大的压力将白色的仿生血液挤出五官，继而又被雨水冲刷干净",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "嗡.　　以骇人频率震颤的械心发出刺耳的尖锐声音，身体内巨大的压力将白色的仿生血液挤出五官，继而又被雨水冲刷干净",
-        "“在佛国的这些年，我的慧根已经被开发出来了，是天生的，不是人造的哦",
-        "”　　周游歇斯底里的吼声回荡在这间破落的小院，就连这场夜雨似乎也在嘲笑他的自欺欺人，奋力的敲打着门窗和屋檐，发出的声响竟和戏谑的笑声如此相像"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "转头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "”周游猛然回神，转头看向倚在门边的周生笑道：“我记得你原来最喜欢喝这个了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”周游猛然回神，转头看向倚在门边的周生笑道：“我记得你原来最喜欢喝这个了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "快停",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "快停下啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "快停下啊"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "我知道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "经历了这场磨难，我知道了自己以后要做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "经历了这场磨难，我知道了自己以后要做什么",
-        "”　　“我知道"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "少年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第239章还命",
-      "summary": "在这座被大雨倾覆的城市，两个眉眼稚嫩的少年静静守着这方灶角，脸上挂着满足的微笑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在这座被大雨倾覆的城市，两个眉眼稚嫩的少年静静守着这方灶角，脸上挂着满足的微笑",
-        "少年挪动着疲惫的脚步，拖着这头黄梁鬼走入雨中",
-        "”　　少年没有说话，只是怔怔看着眼中满怀憧憬的弟弟"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

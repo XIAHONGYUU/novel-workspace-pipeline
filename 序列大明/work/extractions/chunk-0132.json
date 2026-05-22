@@ -1,98 +1,173 @@
 {
   "chunk_id": "chunk-0132",
-  "title": "第130章巷战伏杀",
   "characters": [
     {
-      "name": "齐枫",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "被通缉的要犯，原蜀道物流高管",
       "faction": "",
-      "status": "登场",
+      "status": "被追捕中",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "齐枫冷眼看去，“你想说什么",
+      "summary": "被天府戍卫和顾家追捕的要犯，曾为蜀道物流高管，因投靠天府重工而被追杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被天府戍卫和顾家追杀，藏身于九龙街。"
+        }
+      ],
       "evidence": [
-        "齐枫冷眼看去，“你想说什么",
-        "”　　齐枫摸了把脸上的雨水，回身看向身后垂头丧气的下属",
-        "“我听说顾家这次对李钧下了格杀令，黑市上也开了不小的花红，你说咱们要是发现了他，是报告黄县尉，还是.”　　黄耀宗脸上戾气横生，厉声道：“我告诉你齐枫，我不管你用什么办法，马上给我把这个况青云找出来"
+        "我们是天府戍卫，命令搜查要犯李钧，马上开门！",
+        "我听说顾家这次对李钧下了格杀令",
+        "你说他都当上蜀道物流的高管了，为什么还要吃里扒外，去投靠天府重工？"
       ],
       "mention_count": 6
     },
     {
-      "name": "一名",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "黄耀宗",
+      "aliases": [
+        "黄大人",
+        "黄县尉"
+      ],
+      "identity": "县尉，天府戍卫指挥官",
+      "faction": "天府戍卫",
+      "status": "在场",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "”　　一名戍卫伸手在鼻前扇了扇，忍不住皱眉道：“这种地方也能住人",
+      "summary": "负责追捕李钧的县尉，对搜查进度不满，脾气暴躁。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "暴躁",
+        "严厉"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "指挥车"
+      ],
+      "relationships": [
+        {
+          "target": "齐枫",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在指挥车内听取搜查汇报，下令尽快找到况青云。"
+        }
+      ],
       "evidence": [
-        "”　　一名戍卫伸手在鼻前扇了扇，忍不住皱眉道：“这种地方也能住人",
-        "”　　他突然一阵挤眉弄眼，压低了声音道：　　“呼啊.”　　他思虑片刻，这才伸手按下车窗，对着一名站在大雨之中的戍卫队长问道：“那个叫什么况什么的人，找到了没有",
-        "只见天花板上，一名口中咬刀的汉子正恶狠狠的盯着他，青筋毕现的脖子上，有青色的睚眦张牙舞爪，欲择人而噬"
+        "坐在一辆指挥车内的黄耀宗此刻眉头紧锁。",
+        "黄耀宗脸上戾气横生，厉声道：我告诉你齐枫，我不管你用什么办法，马上给我把这个况青云找出来。"
       ],
       "mention_count": 5
     },
     {
-      "name": "九龙街",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "齐枫",
+      "aliases": [
+        "队长"
+      ],
+      "identity": "天府戍卫队长",
+      "faction": "天府戍卫",
+      "status": "在场",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "在九龙街混了这么多年，这不是他第一次夜战",
+      "summary": "天府戍卫队长，负责九龙街搜查，对下属的伤亡和士气感到无奈。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "无奈",
+        "务实"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "黄耀宗",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向黄耀宗汇报搜查困难，并建议利用袍哥会线索。"
+        }
+      ],
       "evidence": [
-        "在九龙街混了这么多年，这不是他第一次夜战",
-        "同行的队友笑道：“少见多怪了吧，这些九龙街的贱民，生命力可比老鼠还要强，比这更差的环境他们都能呆的下去",
-        "九龙街的搜查进度让他十分恼怒，却又无能为力"
+        "齐枫摸了把脸上的雨水，回身看向身后垂头丧气的下属。",
+        "齐枫一声低喝，突然抬眼看向火光已经渐渐熄灭的南边。"
       ],
       "mention_count": 4
     },
     {
-      "name": "同伴",
+      "name": "况青云",
       "aliases": [],
-      "identity": "",
+      "identity": "被追查的人物，疑似与袍哥会有关",
       "faction": "",
-      "status": "登场",
+      "status": "被追查中",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "”同伴嘿嘿一笑，“这可是好东西，就是价钱太贵了",
+      "summary": "黄耀宗下令必须找到的人物，可能掌握李钧行踪。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被天府戍卫追查，尚未发现踪迹。"
+        }
+      ],
       "evidence": [
-        "”同伴嘿嘿一笑，“这可是好东西，就是价钱太贵了",
-        "同伴将冲锋枪甩到身后，从战术背心上存放弹匣的口袋里掏出一根手指大小的电子设备，塞到嘴边吞云吐雾"
+        "回大人，叫况青云，目前还没有发现踪迹。",
+        "马上给我把这个况青云找出来。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "浑水袍哥",
+      "aliases": [
+        "袍哥"
+      ],
+      "identity": "黑帮成员",
+      "faction": "袍哥会",
+      "status": "在场",
+      "first_appearance": "第130章巷战伏杀",
+      "summary": "九龙街的黑帮成员，与天府戍卫发生冲突，占据地利。",
+      "appearance": [
+        "口中咬刀",
+        "青筋毕现的脖子上有青色的睚眦纹身"
+      ],
+      "personality": [
+        "凶狠",
+        "讲义气"
+      ],
+      "abilities": [],
+      "equipment": [
+        "短刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在民居中与天府戍卫搏杀，杀死一名戍卫。"
+        }
+      ],
+      "evidence": [
+        "持刀袍哥朝着声音传出的方向飞身扑出",
+        "浑水袍哥这个黑帮最是讲义气"
       ],
       "mention_count": 4
     },
     {
-      "name": "就是",
+      "name": "罗镇",
       "aliases": [],
-      "identity": "",
+      "identity": "被提及的人物，曾带队行动",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "”同伴嘿嘿一笑，“这可是好东西，就是价钱太贵了",
+      "summary": "被一名戍卫提及，曾带队剿灭某些人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -100,151 +175,81 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”同伴嘿嘿一笑，“这可是好东西，就是价钱太贵了",
-        "“这有什么想不通的，就是贪心呗",
-        "“听说那个李钧，就是在这种垃圾场里被蜀道物流看上的"
+        "老子当时就该任由罗镇带人剿灭了他们！"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "黄耀宗",
+      "name": "顾家",
       "aliases": [],
-      "identity": "",
+      "identity": "家族势力",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "“我去你妈锤子的幻觉，是浑水袍.”　　坐在一辆指挥车内的黄耀宗此刻眉头紧锁",
+      "summary": "对李钧下了格杀令的家族，提供赏金。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“我去你妈锤子的幻觉，是浑水袍.”　　坐在一辆指挥车内的黄耀宗此刻眉头紧锁",
-        "“我听说顾家这次对李钧下了格杀令，黑市上也开了不小的花红，你说咱们要是发现了他，是报告黄县尉，还是.”　　黄耀宗脸上戾气横生，厉声道：“我告诉你齐枫，我不管你用什么办法，马上给我把这个况青云找出来",
-        "”　　黄耀宗在心头怒骂一声"
+        "我听说顾家这次对李钧下了格杀令"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "马上",
+      "name": "天府重工",
       "aliases": [],
-      "identity": "",
+      "identity": "组织/公司",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "“我们是天府戍卫，命令搜查要犯李钧，马上开门",
+      "summary": "李钧投靠的组织，与蜀道物流对立。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被投靠"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“我们是天府戍卫，命令搜查要犯李钧，马上开门",
-        "“我听说顾家这次对李钧下了格杀令，黑市上也开了不小的花红，你说咱们要是发现了他，是报告黄县尉，还是.”　　黄耀宗脸上戾气横生，厉声道：“我告诉你齐枫，我不管你用什么办法，马上给我把这个况青云找出来"
+        "去投靠天府重工？"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "根本",
+      "name": "蜀道物流",
       "aliases": [],
-      "identity": "",
+      "identity": "组织/公司",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第130章巷战伏杀",
-      "summary": "”　　叫门的人似乎耐心极为不好，呼喊声刚刚停止，紧闭的房门便被人猛然被撞开，根本没给房主任何回应的时间",
+      "summary": "李钧曾任职的公司。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "前雇主"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　叫门的人似乎耐心极为不好，呼喊声刚刚停止，紧闭的房门便被人猛然被撞开，根本没给房主任何回应的时间",
-        "但在这样一座的钢铁迷宫之中，也根本无法发挥出火力的优势",
-        "一名戍卫凑了过来，“队长，九龙街的环境实在太复杂，而且住在这里的贱民个个都是袍哥会的眼线，要挖出况青云，根本不可能"
+        "你说他都当上蜀道物流的高管了"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "最窄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第130章巷战伏杀",
-      "summary": "”　　这片垃圾场里到处都是私搭乱建的违章建筑，无数小巷四通八达，而且到处都是堆积如山的破烂杂物，就连最宽的主道也不过仅仅两三丈，最窄的地方甚至要侧着身子才能通过",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这片垃圾场里到处都是私搭乱建的违章建筑，无数小巷四通八达，而且到处都是堆积如山的破烂杂物，就连最宽的主道也不过仅仅两三丈，最窄的地方甚至要侧着身子才能通过"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "戍卫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第130章巷战伏杀",
-      "summary": "“我们是天府戍卫，命令搜查要犯李钧，马上开门",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我们是天府戍卫，命令搜查要犯李钧，马上开门",
-        "”　　两名全副武装的天府戍卫冲了进来，手中握着如同满弦弓弩的朵颜卫冲锋枪，枪口随着眼眸四处扫视",
-        "”　　一名戍卫伸手在鼻前扇了扇，忍不住皱眉道：“这种地方也能住人"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第130章巷战伏杀",
-      "summary": "”　　他突然一阵挤眉弄眼，压低了声音道：　　“呼啊.”　　他思虑片刻，这才伸手按下车窗，对着一名站在大雨之中的戍卫队长问道：“那个叫什么况什么的人，找到了没有",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他突然一阵挤眉弄眼，压低了声音道：　　“呼啊.”　　他思虑片刻，这才伸手按下车窗，对着一名站在大雨之中的戍卫队长问道：“那个叫什么况什么的人，找到了没有"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "剧烈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第130章巷战伏杀",
-      "summary": "剧烈的心跳让他浑身血液奔涌如潮，胸肺之中一片火辣辣的刺痛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "剧烈的心跳让他浑身血液奔涌如潮，胸肺之中一片火辣辣的刺痛"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

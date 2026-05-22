@@ -1,254 +1,55 @@
 {
   "chunk_id": "chunk-0002",
-  "title": "第1章 完美人生模拟器",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "普通上班族，父母双亡",
       "faction": "",
       "status": "登场",
       "first_appearance": "第1章 完美人生模拟器",
-      "summary": "苏午望着窗外的雨线，默默地叹了口气，他的心情就像外面的天色一样沉郁",
+      "summary": "主角，因爷爷留下的手表获得完美人生模拟器，通过模拟未来人生探索父母死亡真相。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午望着窗外的雨线，默默地叹了口气，他的心情就像外面的天色一样沉郁",
-        "再后来，父母故去，这块手表就到了苏午手中",
-        "”　　苏午皱眉看着停滞地表针，他从父母的遗物里翻出这块表以后，它就一直转动着，三年来这还是第一次停止转动"
+      "personality": [
+        "谨慎",
+        "冷静"
       ],
-      "mention_count": 33
-    },
-    {
-      "name": "选项",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "“你可选择消耗一定的元玉，将现实中的物品带到模拟游戏中，选项如下……”　　巨大表盘上只剩一根指针，一刻不停地飞快转动着",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你可选择消耗一定的元玉，将现实中的物品带到模拟游戏中，选项如下……”　　巨大表盘上只剩一根指针，一刻不停地飞快转动着",
-        "选项0：你的身体（当下消耗10个元玉，可亲身体验模拟人生，身体在模拟人生中受到任何增益或减益效果都不可逆，身体在游戏中死亡，则现实同样死亡）　　选项1：半包纸巾",
-        "选项2：一把西瓜刀"
+      "abilities": [
+        "冷静（绿色天赋）"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "原本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "冷不防手指抹过手表侧面的棱角，原本不会伤人的棱角在他用力过甚下，直接在他指腹上割出一个小小的创口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冷不防手指抹过手表侧面的棱角，原本不会伤人的棱角在他用力过甚下，直接在他指腹上割出一个小小的创口",
-        "‘哒哒，哒哒，哒哒……’　　原本停滞不动的表针，当下再度转动了起来",
-        "”　　这天赋抽取完成的刹那，苏午脑海里骤然一清，原本在思维中沉浮的诸多念头，都纷纷平静了下来，让他能仔细研判当前局势"
+      "equipment": [
+        "完美人生模拟器（手表形态）"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "三年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "三年前的今天一样下着小雨，父母的死讯就在那天送到了自己学校",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "三年前的今天一样下着小雨，父母的死讯就在那天送到了自己学校",
-        "”　　苏午皱眉看着停滞地表针，他从父母的遗物里翻出这块表以后，它就一直转动着，三年来这还是第一次停止转动"
+      "relationships": [
+        {
+          "target": "爷爷",
+          "type": "祖父"
+        },
+        {
+          "target": "父亲",
+          "type": "父亲"
+        },
+        {
+          "target": "母亲",
+          "type": "母亲"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "他心头一跳，终于下定了决心",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他心头一跳，终于下定了决心",
-        "”他心里有些奇怪"
+      "timeline": [
+        {
+          "stage": "现实",
+          "event": "手表停止转动，滴血后激活完美人生模拟器，获得冷静天赋，开始模拟未来人生。"
+        },
+        {
+          "stage": "模拟未来",
+          "event": "进入未来房间，查看台历和记事本，发现墙上霉斑、杀人案等异常，被黑影袭击死亡。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "我要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "“我要开始模拟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“我要开始模拟",
-        "王志友请主管周末去某个会所潇洒潇洒，悄悄话恰好被我听到，我要不要举报他们",
-        "几层楼的租户准备搬家，楼下搬家货车开始排长队，我要不要也换个地方住"
+        "苏午望着窗外的雨线，默默地叹了口气",
+        "他拿起一块手表。手表是老物件了",
+        "苏午脑海里充斥着混乱的念头"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "父母",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "三年前的今天一样下着小雨，父母的死讯就在那天送到了自己学校",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "三年前的今天一样下着小雨，父母的死讯就在那天送到了自己学校",
-        "再后来，父母故去，这块手表就到了苏午手中",
-        "”　　苏午皱眉看着停滞地表针，他从父母的遗物里翻出这块表以后，它就一直转动着，三年来这还是第一次停止转动"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "父母故",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "再后来，父母故去，这块手表就到了苏午手中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "再后来，父母故去，这块手表就到了苏午手中",
-        "父母故去后，苏午开始有记事的习惯"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "整块表盘都变作鲜艳的红色，而后鲜红色染透了表链，牢牢缠绕在苏午的手腕上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "整块表盘都变作鲜艳的红色，而后鲜红色染透了表链，牢牢缠绕在苏午的手腕上",
-        "他尝试站起身，在这个黑暗空间里摸索着，碰到了身前的桌子，而后靠着桌沿挪动脚步，在一面墙壁上摸到一个开关",
-        "他匆匆转头，眼角余光只来得及瞥见脚下一团黑影忽然立了起来，而后一阵剧痛伴着血肉骨骼被撕裂摧折的声音就一齐冲上了脑顶"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "是否",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "”　　“当前仅可模拟你的未来人生，是否开始模拟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“当前仅可模拟你的未来人生，是否开始模拟",
-        "”　　“你初次使用完美人生模拟器，可消耗一元玉，随机获得一项永久天赋，是否消耗",
-        "冷静天赋现在还只是绿色品质，是否说明，其上还有蓝色、紫色、橙色等品质"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "身体",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "选项0：你的身体（当下消耗10个元玉，可亲身体验模拟人生，身体在模拟人生中受到任何增益或减益效果都不可逆，身体在游戏中死亡，则现实同样死亡）　　选项1：半包纸巾",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "选项0：你的身体（当下消耗10个元玉，可亲身体验模拟人生，身体在模拟人生中受到任何增益或减益效果都不可逆，身体在游戏中死亡，则现实同样死亡）　　选项1：半包纸巾",
-        "至于把自己的身体带入游戏中，那就更不可能"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第1章 完美人生模拟器",
-      "summary": "苏午望着窗外的雨线，默默地叹了口气，他的心情就像外面的天色一样沉郁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午望着窗外的雨线，默默地叹了口气，他的心情就像外面的天色一样沉郁",
-        "这个游戏渐渐超出他的预料，让他直觉将要模拟的人生也可能会非比寻常",
-        "他的元玉并不多，要用在刀刃上"
-      ],
-      "mention_count": 3
+      "mention_count": 30
     }
   ]
 }

@@ -1,257 +1,382 @@
 {
   "chunk_id": "chunk-0033",
-  "title": "第三十一章 阴血（上）",
   "characters": [
     {
-      "name": "欧阳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十一章 阴血（上）",
-      "summary": "”　　“欧阳青呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“欧阳青呢",
-        "“欧阳青这次主动加入您的队伍，恐怕是有所怀疑了，或是想要分一杯羹也说不定",
-        "“其他人倒是简单，主要是欧阳青"
-      ],
-      "mention_count": 31
-    },
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十一章 阴血（上）",
-      "summary": "“都是普普通通的外区弟子，石家兄弟，江月儿和程若菲，还有那个林新，都只是临时加入的，应该没什么变数",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“都是普普通通的外区弟子，石家兄弟，江月儿和程若菲，还有那个林新，都只是临时加入的，应该没什么变数",
-        "林新躲在斜坡下方草丛中，整个人缩在一块石碑后面，一动不动",
-        "等到孔昱辉彻底离开了，林新又呆了十多分钟，红雾彻底消散完，直到天空略微出现鱼肚白，才起身下身，警惕的迅速回到宅子"
-      ],
-      "mention_count": 24
-    },
-    {
       "name": "孔昱辉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "孔师弟",
+        "孔昱辉"
+      ],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第三十一章 阴血（上）",
-      "summary": "”孔昱辉淡淡问",
+      "summary": "松林剑派弟子，似乎有所图谋，对欧阳青有所忌惮。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴沉",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”孔昱辉淡淡问",
-        "”孔昱辉嘴角泛起一丝阴沉，“我有点看不透她",
-        "孔昱辉点头"
+      "relationships": [
+        {
+          "target": "欧阳青",
+          "type": "同门"
+        },
+        {
+          "target": "石坤",
+          "type": "同门"
+        }
       ],
-      "mention_count": 22
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与手下密谈，怀疑欧阳青；发现石坤尸体，与金玉宗对峙。"
+        }
+      ],
+      "evidence": [
+        "孔昱辉嘴角泛起一丝阴沉，“我有点看不透她。”",
+        "孔昱辉迅速走到石坤身前，面色说不出的阴沉",
+        "孔昱辉和欧阳青交换了下眼神。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "孔昱",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十一章 阴血（上）",
-      "summary": "”孔昱辉淡淡问",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”孔昱辉淡淡问",
-        "”孔昱辉嘴角泛起一丝阴沉，“我有点看不透她",
-        "孔昱辉点头"
+      "name": "欧阳青",
+      "aliases": [
+        "欧阳师姐",
+        "欧阳青"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "周靖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派女弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第三十一章 阴血（上）",
-      "summary": "”　　“周靖周师兄，我松林弟子无名无故死在这里，还是受的你金玉宗剑伤，你们总得给个说法吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“周靖周师兄，我松林弟子无名无故死在这里，还是受的你金玉宗剑伤，你们总得给个说法吧",
-        "”周靖道士身边另一个中年道长忍不住大声喝起来",
-        "“大家都为阴血鸟而来，贵派的弟子之死，不是我们所为……”周靖平静道，“孔师弟，欧阳师妹，你们觉得呢"
+      "summary": "松林剑派女弟子，戴白色面纱，被孔昱辉怀疑，否认昨晚与林新见面。",
+      "appearance": [
+        "翠绿长衣",
+        "长袖长裤",
+        "白色面纱",
+        "倒提一把淡绿色剑鞘的长剑"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十一章 阴血（上）",
-      "summary": "孔昱辉也起身整理起身上衣物，似乎准备离开",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "淡绿色剑鞘的长剑"
+      ],
+      "relationships": [
+        {
+          "target": "孔昱辉",
+          "type": "同门"
+        },
+        {
+          "target": "林新",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "否认昨晚与林新见面；与孔昱辉一同与金玉宗对峙。"
+        }
+      ],
       "evidence": [
-        "孔昱辉也起身整理起身上衣物，似乎准备离开",
-        "右侧房间吱嘎一声，似乎是门开了，然后传出欧阳青走出的脚步声",
-        "”似乎是程若菲的声音传来"
+        "欧阳青面露疑惑。“昨晚？昨晚我有和你见过面吗？”",
+        "欧阳青也站出来，和孔昱辉并肩盯住对方。"
       ],
       "mention_count": 8
     },
     {
-      "name": "程若菲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "林新",
+      "aliases": [
+        "林师弟",
+        "林新"
+      ],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第三十一章 阴血（上）",
-      "summary": "“都是普普通通的外区弟子，石家兄弟，江月儿和程若菲，还有那个林新，都只是临时加入的，应该没什么变数",
+      "summary": "松林剑派弟子，偷听到孔昱辉密谈，对孔昱辉保持警惕，怀疑被卷入阴谋。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "警惕",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“都是普普通通的外区弟子，石家兄弟，江月儿和程若菲，还有那个林新，都只是临时加入的，应该没什么变数",
-        "”似乎是程若菲的声音传来",
-        "”程若菲无奈问"
+      "relationships": [
+        {
+          "target": "欧阳青",
+          "type": "同门"
+        },
+        {
+          "target": "孔昱辉",
+          "type": "同门"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "偷听孔昱辉密谈；询问欧阳青昨晚之事；发现石坤尸体。"
+        }
+      ],
+      "evidence": [
+        "林新躲在斜坡下方草丛中，整个人缩在一块石碑后面，一动不动。",
+        "林新知道几人都起来，他还有些事情想要问欧阳青",
+        "林新心头刚泛起这个念头，就看到程若菲起身，看向自己这边。"
+      ],
+      "mention_count": 9
     },
     {
       "name": "石磊",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "石家兄长",
+        "石磊"
+      ],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第三十一章 阴血（上）",
-      "summary": "只见里面床上躺着一个人，石家兄长石磊站在边上脸色发青，长剑上半身直接断了一截，他的目光正死死的盯着床上的人",
+      "summary": "石坤的兄长，发现弟弟尸体后情绪激动，与金玉宗动手被击退。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只见里面床上躺着一个人，石家兄长石磊站在边上脸色发青，长剑上半身直接断了一截，他的目光正死死的盯着床上的人",
-        "石磊眼睛里包不住的眼泪，他嘴唇颤抖着",
-        "石磊也紧握剑柄，听到这话，顿时转过头来盯住金玉宗等人"
+      "personality": [
+        "冲动",
+        "悲伤"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "看了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十一章 阴血（上）",
-      "summary": "”欧阳青看了林新一眼，微微蹙眉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”欧阳青看了林新一眼，微微蹙眉",
-        "“欧阳师姐，昨晚……”林新左右看了下，压低声音，“昨晚你给我说，关于阴血鸟的事……”他着重在阴血两个字上家中口音",
-        "周靖双目微合，看了眼孔昱辉和欧阳青，显然他真正忌惮的是这两人"
+      "abilities": [
+        "玉桂剑法"
       ],
-      "mention_count": 7
+      "equipment": [
+        "长剑（断了一截）"
+      ],
+      "relationships": [
+        {
+          "target": "石坤",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现弟弟石坤尸体；攻击周靖被击退。"
+        }
+      ],
+      "evidence": [
+        "石磊眼睛里包不住的眼泪，他嘴唇颤抖着。",
+        "石磊却是在边上再也忍不住了，一声怒吼，长剑嗤的刺向周靖。"
+      ],
+      "mention_count": 5
     },
     {
       "name": "石坤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "石坤"
+      ],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
+      "status": "死亡",
       "first_appearance": "第三十一章 阴血（上）",
-      "summary": "床上那人正是石坤，这个才二十岁的年轻人此时仰躺在床上，他自己的长剑从他额头笔直的刺进去，然后从床板下面穿透出来",
+      "summary": "松林剑派弟子，第二层小归元诀，修行寒星剑法，被发现死于房中，额头被自己的剑刺穿。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "床上那人正是石坤，这个才二十岁的年轻人此时仰躺在床上，他自己的长剑从他额头笔直的刺进去，然后从床板下面穿透出来",
-        "石坤的双眼死不瞑目，一直睁开着",
-        "“石坤……死了"
+      "abilities": [
+        "小归元诀第二层",
+        "寒星剑法"
       ],
-      "mention_count": 6
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "石磊",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被发现死亡，死亡时间约一天前。"
+        }
+      ],
+      "evidence": [
+        "床上那人正是石坤，这个才二十岁的年轻人此时仰躺在床上，他自己的长剑从他额头笔直的刺进去",
+        "死了有一天了！"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "程若菲",
+      "aliases": [
+        "程师妹",
+        "程若菲"
+      ],
+      "identity": "松林剑派女弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第三十一章 阴血（上）",
-      "summary": "”欧阳青也是有些意动，“等会我带你们过去吧",
+      "summary": "松林剑派女弟子，与江月儿是密友，似乎想与林新结盟。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”欧阳青也是有些意动，“等会我带你们过去吧",
-        "“金玉宗的几位道友，我可没说过是你们所为",
-        "莫非你们心虚了"
+      "personality": [
+        "谨慎"
       ],
-      "mention_count": 6
+      "abilities": [],
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "江月儿",
+          "type": "密友"
+        },
+        {
+          "target": "林新",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问洗澡地点；发现石坤尸体；向林新示意谈谈。"
+        }
+      ],
+      "evidence": [
+        "程若菲也是面目发白，看着房门敞开的房间内，手里长剑紧握",
+        "程若菲起身，看向自己这边。眼神里也是有着一丝同样神色。谈谈如何？"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "他身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "江月儿",
+      "aliases": [
+        "江月妹妹",
+        "江月儿"
+      ],
+      "identity": "松林剑派女弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第三十一章 阴血（上）",
-      "summary": "第三十一章 阴血（上）　　他身后站着的那人回答",
-      "appearance": [],
-      "personality": [],
+      "summary": "松林剑派女弟子，因爱慕孔昱辉而加入任务，性格胆小。",
+      "appearance": [
+        "白裙",
+        "长发编了一半的发辫",
+        "手拿玉石发簪"
+      ],
+      "personality": [
+        "胆小"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "玉石发簪"
+      ],
+      "relationships": [
+        {
+          "target": "孔昱辉",
+          "type": "爱慕"
+        },
+        {
+          "target": "程若菲",
+          "type": "密友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现石坤尸体时尖叫。"
+        }
+      ],
       "evidence": [
-        "第三十一章 阴血（上）　　他身后站着的那人回答",
-        "”他身后那人冷笑一声"
+        "江月儿还是脸色苍白，似乎有些害怕。",
+        "江月儿是单纯的因为喜欢爱慕孔昱辉"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "周靖",
+      "aliases": [
+        "周师兄",
+        "周靖"
+      ],
+      "identity": "金玉宗弟子",
+      "faction": "金玉宗",
+      "status": "登场",
+      "first_appearance": "第三十一章 阴血（上）",
+      "summary": "金玉宗弟子，面容平静，实力较强，带队前来，声称接保镖任务带普通人祭奠。",
+      "appearance": [
+        "白色道袍",
+        "胸前金色月牙标志",
+        "白色长剑",
+        "剑柄有金色细纹"
+      ],
+      "personality": [
+        "平静",
+        "老练"
+      ],
+      "abilities": [],
+      "equipment": [
+        "白色长剑"
+      ],
+      "relationships": [
+        {
+          "target": "孔昱辉",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与孔昱辉等人对峙，击退石磊，声称会协助查找凶手。"
+        }
+      ],
+      "evidence": [
+        "为首的道士面容平静，白色胡须微微随风飘动",
+        "周靖双目微合，看了眼孔昱辉和欧阳青，显然他真正忌惮的是这两人。"
       ],
       "mention_count": 5
+    },
+    {
+      "name": "石家兄弟",
+      "aliases": [],
+      "identity": "松林剑派外区弟子",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "第三十一章 阴血（上）",
+      "summary": "被孔昱辉手下提及，指石磊和石坤。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "都是普普通通的外区弟子，石家兄弟"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "阿德",
+      "aliases": [],
+      "identity": "孔昱辉的手下",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "第三十一章 阴血（上）",
+      "summary": "孔昱辉的手下，被命令离开路口。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "孔昱辉",
+          "type": "手下"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "你让阿德他们离开，别守在路口。"
+      ],
+      "mention_count": 1
     }
   ]
 }

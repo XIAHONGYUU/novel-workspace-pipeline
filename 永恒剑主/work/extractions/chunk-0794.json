@@ -1,256 +1,201 @@
 {
   "chunk_id": "chunk-0794",
-  "title": "第七百九十章 潜影（一）",
   "characters": [
     {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "林新缓缓收回视线",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新缓缓收回视线",
-        "”林新皱了皱眉",
-        "”　　林新正色道，“家姐中了影子城剧毒，需要去找寻解药"
-      ],
-      "mention_count": 28
-    },
-    {
       "name": "鸿天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "第七百九十章 潜影（一）　　鸿天笑了笑，转过身望向远处，眼中流露出一丝怅然",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第七百九十章 潜影（一）　　鸿天笑了笑，转过身望向远处，眼中流露出一丝怅然",
-        "“这样啊……”　　猛然间他一个电射，空间时间仿佛同时停顿了一瞬，他身形直接出现在鸿天身前",
-        "巨大的震动力量，伴随着潮汐海浪声，狠狠砸在鸿天背心正中"
+      "aliases": [
+        "鸿天大哥"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "方狱",
-      "aliases": [],
-      "identity": "",
+      "identity": "地仙，鸿天大哥",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "”　　方狱点点头",
+      "summary": "被方狱偷袭杀害的地仙，曾悉心照顾方狱。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "方狱",
+          "type": "被其杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被方狱偷袭，心脏被挖出吞噬，死亡。"
+        }
+      ],
       "evidence": [
-        "”　　方狱点点头",
-        "反过来伸出手，颤颤巍巍的，试图抓住方狱的双臂",
-        "”方狱眼中闪烁着狠毒冷酷之色"
+        "鸿天笑了笑，转过身望向远处，眼中流露出一丝怅然。",
+        "鸿天胸膛瞬息炸开，无数血肉伴随着阴影飞溅开来。",
+        "他伸出手，将胸口一块绿水晶轻轻扯出来，握在掌心。"
       ],
       "mention_count": 10
     },
     {
+      "name": "方狱",
+      "aliases": [
+        "小狱"
+      ],
+      "identity": "大圣",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七百九十章 潜影（一）",
+      "summary": "偷袭并杀害了鸿天的大圣，为追求力量不择手段。",
+      "appearance": [],
+      "personality": [
+        "狠毒",
+        "冷酷",
+        "太上忘情"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绿水晶"
+      ],
+      "relationships": [
+        {
+          "target": "鸿天",
+          "type": "杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "偷袭鸿天，挖出其心脏吞噬，并捏碎绿水晶。"
+        }
+      ],
+      "evidence": [
+        "方狱眼中闪烁着狠毒冷酷之色。",
+        "他抽出右臂，手掌抓握着一块不断跳动的黑影心脏。",
+        "他伸出手，将胸口一块绿水晶轻轻扯出来，握在掌心。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "林新",
+      "aliases": [],
+      "identity": "龙蛇的弟子",
+      "faction": "天盟",
+      "status": "登场",
+      "first_appearance": "第七百九十章 潜影（一）",
+      "summary": "龙蛇的弟子，计划加入战场对抗虚空妖灵，并寻找解药。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "太上神风·星葬"
+      ],
+      "equipment": [
+        "喜悦之剑",
+        "通讯玉符"
+      ],
+      "relationships": [
+        {
+          "target": "龙蛇",
+          "type": "师徒"
+        },
+        {
+          "target": "家姐",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与龙蛇通话后，发现虚空妖灵大军团，准备出手。"
+        }
+      ],
+      "evidence": [
+        "林新缓缓收回视线。",
+        "林新自然清楚，随着压力越来越大，他们终究会有被强制征调上场的一天。",
+        "林新双目一凝。"
+      ],
+      "mention_count": 12
+    },
+    {
       "name": "龙蛇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天尊，林新的师尊",
+      "faction": "天盟",
+      "status": "提及",
       "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "约莫数秒后，龙蛇有些疲惫的嗓音从玉符另一侧传过来",
+      "summary": "林新的师尊，天尊，在通讯中告知林新当前战况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "约莫数秒后，龙蛇有些疲惫的嗓音从玉符另一侧传过来",
-        "”　　龙蛇笑了笑",
-        "”　　龙蛇解释道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "“这样啊……”　　猛然间他一个电射，空间时间仿佛同时停顿了一瞬，他身形直接出现在鸿天身前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这样啊……”　　猛然间他一个电射，空间时间仿佛同时停顿了一瞬，他身形直接出现在鸿天身前",
-        "他嘴角微勾，直接将心脏往口中一塞，直接大嚼起来",
-        "“必须加快速度了……十天，若是还不来，就直接出手，清扫积累周围虚空妖灵"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新通讯，讨论战况并安排其加入学士院队伍。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "放心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "“那我就……放心了……”　　鸿天胸膛瞬息炸开，无数血肉伴随着阴影飞溅开来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“那我就……放心了……”　　鸿天胸膛瞬息炸开，无数血肉伴随着阴影飞溅开来",
-        "“放心的去吧……”他的双目陡然化作一片冷酷"
+        "龙蛇有些疲惫的嗓音从玉符另一侧传过来。",
+        "龙蛇笑了笑。",
+        "龙蛇提醒道。"
       ],
       "mention_count": 5
     },
     {
-      "name": "无数",
+      "name": "金耀尊者",
       "aliases": [],
-      "identity": "",
+      "identity": "尊者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "“那我就……放心了……”　　鸿天胸膛瞬息炸开，无数血肉伴随着阴影飞溅开来",
+      "summary": "正在闭关养伤的尊者。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“那我就……放心了……”　　鸿天胸膛瞬息炸开，无数血肉伴随着阴影飞溅开来",
-        "他不是天尊，有着无数化身",
-        "”　　最后看了眼鸿天，脑海里回闪过一幕幕，曾经鸿天从小照顾他，指导他，关怀他的无数画面"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闭关养伤。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "正好金耀尊者也在闭关养伤"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "仿佛",
+      "name": "元戮仙",
       "aliases": [],
-      "identity": "",
+      "identity": "九曲师伯的大弟子",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "“这样啊……”　　猛然间他一个电射，空间时间仿佛同时停顿了一瞬，他身形直接出现在鸿天身前",
+      "summary": "九曲师伯的大弟子，已加入大战区战场。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这样啊……”　　猛然间他一个电射，空间时间仿佛同时停顿了一瞬，他身形直接出现在鸿天身前",
-        "心脏仿佛完全是由阴影组成，根本没有实体",
-        "细碎绿色粉末，随风飘散下去，一直落在山下的无底深渊中，仿佛作为鸿天的墓葬祭品"
+      "relationships": [
+        {
+          "target": "九曲师伯",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "整个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "周围无数光彩仿佛被无限拉伸变长，他整个人如同进入一个万花筒，四周都是五光十色的各种光线",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "周围无数光彩仿佛被无限拉伸变长，他整个人如同进入一个万花筒，四周都是五光十色的各种光线",
-        "同时间，整个红色妖灵星球内部一下轰然爆炸，仿佛有什么东西在内部核心中引起剧烈爆炸",
-        "整个妖灵球狠狠震动了下，随即缓缓裂开一道道白色缝隙"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "加入大战区战场，带领一军冲击妖灵。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "只是地仙程度，这具身体就是他的本尊，和其他地仙不同，他将自己的祭神之地，炼化进这颗阴影之心中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "只是地仙程度，这具身体就是他的本尊，和其他地仙不同，他将自己的祭神之地，炼化进这颗阴影之心中",
-        "”　　“我这里还好，只是影子城那边的围剿，我想要参加",
-        "”林新自然清楚，随着压力越来越大，他们终究会有被强制征调上场的一天，只是时间早晚问题"
+        "你九曲师伯的大弟子元戮仙前不久，也加入了大战区战场"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "只是地仙程度，这具身体就是他的本尊，和其他地仙不同，他将自己的祭神之地，炼化进这颗阴影之心中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是地仙程度，这具身体就是他的本尊，和其他地仙不同，他将自己的祭神之地，炼化进这颗阴影之心中",
-        "”　　最后看了眼鸿天，脑海里回闪过一幕幕，曾经鸿天从小照顾他，指导他，关怀他的无数画面",
-        "“放心的去吧……”他的双目陡然化作一片冷酷"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百九十章 潜影（一）",
-      "summary": "”　　他心中闪过念头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他心中闪过念头",
-        "”　　他心头猜测"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

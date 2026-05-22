@@ -1,257 +1,343 @@
 {
   "chunk_id": "chunk-0872",
-  "title": "第八百六十八章 防线（一）",
   "characters": [
     {
-      "name": "宋丹浩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "林新",
+      "aliases": [
+        "摄日神君",
+        "主上",
+        "界主"
+      ],
+      "identity": "幽界冥城之主，天尊神君",
+      "faction": "幽界冥城",
       "status": "登场",
       "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "”宋丹浩也是明显有些慌了，但还是努力镇定道",
+      "summary": "幽界冥城之主，实力强大，因许玲辱骂而决定杀死其三代以内亲属。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "威严",
+        "果断",
+        "冷酷"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”宋丹浩也是明显有些慌了，但还是努力镇定道",
-        "宋丹浩抬手想要叫住他们，却为时已晚",
-        "“玲玲……你骂是骂舒服了，可你耀阳姐还在这里……”宋丹浩转过身，无奈低沉的看着许玲"
+      "relationships": [
+        {
+          "target": "许玲",
+          "type": "敌对"
+        },
+        {
+          "target": "宋丹浩",
+          "type": "敌对"
+        },
+        {
+          "target": "宫商白钰",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因许玲辱骂，决定杀死其三代以内亲属，随后离开。"
+        }
+      ],
+      "evidence": [
+        "林新缓缓叹了口气。目光凝视着许玲。",
+        "你死了之后，我只会杀死你三代以内的亲属。",
+        "走吧。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "林新",
+      "name": "林外",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新身边之人",
+      "faction": "幽界冥城",
       "status": "登场",
       "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "林新缓缓叹了口气",
+      "summary": "向许玲等人解释辱骂林新的严重后果。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "理性"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新缓缓叹了口气",
-        "”　　林新接下来的话，却是让三人如坠冰窟",
-        "”许玲手指着林新，忽然说不出话来"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向许玲等人解释辱骂林新的后果。"
+        }
+      ],
+      "evidence": [
+        "边上的林外忍不住叹息。",
+        "当你对着主上开口怒骂的那一刻起。这事就已经不只是你自己的事了，也不只是主上的事。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "许玲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "玲玲"
+      ],
+      "identity": "金卫之一，不到人仙的小姑娘",
+      "faction": "金卫",
       "status": "登场",
       "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "目光凝视着许玲",
+      "summary": "因辱骂林新而招致杀身之祸，后与同伴试图逃离幽界。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冲动",
+        "口无遮拦",
+        "嚣张"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "目光凝视着许玲",
-        "”　　“额……不……不用谢……”　　他突然这么客气，顿时让许玲反倒有些不好意思不知所措起来",
-        "”许玲手指着林新，忽然说不出话来"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        },
+        {
+          "target": "宫商白钰",
+          "type": "同伴"
+        },
+        {
+          "target": "耀阳",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "辱骂林新，随后与同伴试图用魔神像逃离幽界。"
+        }
+      ],
+      "evidence": [
+        "许玲手指着林新，忽然说不出话来。",
+        "玲玲只是一时口误激愤",
+        "怕什么，反正有魔神像在，我们大不了离开这里"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "宋丹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "宋丹浩",
+      "aliases": [
+        "宋大哥"
+      ],
+      "identity": "金卫之一，能使用魔神像",
+      "faction": "金卫",
       "status": "登场",
       "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "”宋丹浩也是明显有些慌了，但还是努力镇定道",
+      "summary": "许玲的同伴，负责使用魔神像带大家逃离。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”宋丹浩也是明显有些慌了，但还是努力镇定道",
-        "宋丹浩抬手想要叫住他们，却为时已晚",
-        "“玲玲……你骂是骂舒服了，可你耀阳姐还在这里……”宋丹浩转过身，无奈低沉的看着许玲"
+      "personality": [
+        "果断",
+        "谨慎"
       ],
-      "mention_count": 8
+      "abilities": [
+        "使用魔神像"
+      ],
+      "equipment": [
+        "魔神像"
+      ],
+      "relationships": [
+        {
+          "target": "许玲",
+          "type": "同伴"
+        },
+        {
+          "target": "宫商白钰",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图用魔神像带许玲和宫商白钰逃离幽界。"
+        }
+      ],
+      "evidence": [
+        "宋丹浩也是明显有些慌了，但还是努力镇定道。",
+        "我们带她一起走吧！去找那个东西……",
+        "他猛地挥袖一甩。"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "就算",
+      "name": "宫商白钰",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "金卫之一",
+      "faction": "金卫",
       "status": "登场",
       "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "就算主上不在意你们的举动，下面的天尊，地仙，也都会为了维护幽界的地位暗自出手干掉你们",
+      "summary": "许玲和宋丹浩的同伴，对居住的宫殿有些留恋。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就算主上不在意你们的举动，下面的天尊，地仙，也都会为了维护幽界的地位暗自出手干掉你们",
-        "“就算他是神君天尊又如何",
-        "”　　“捕猎队已经下达了必杀令，第五道防线也开启了，就算遁术再强又如何"
+      "personality": [
+        "惋惜"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "”　　“怕什么，反正有魔神像在，我们大不了离开这里，去……”许玲迅速又恢复过来冷笑，没说完后面的话",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“怕什么，反正有魔神像在，我们大不了离开这里，去……”许玲迅速又恢复过来冷笑，没说完后面的话",
-        "魔神像乃是初代魔神王定下的底牌，只有我们金卫和宋大哥能自如使用，瞬息跨越无数距离",
-        "“我们带她一起走吧"
+      "relationships": [
+        {
+          "target": "许玲",
+          "type": "同伴"
+        },
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "宫商",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "”宫商白钰忽然出声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”宫商白钰忽然出声",
-        "”宫商白钰颇有些惋惜的看着自己住了这些天的宫殿",
-        "”　　宫商白钰瞬息间算出周围出现的虚影数量，顿时脑袋一蒙"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许玲、宋丹浩一起试图逃离幽界。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "宋丹浩抬手想要叫住他们，却为时已晚",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "宋丹浩抬手想要叫住他们，却为时已晚",
-        "他们插翅也难飞",
-        "”　　他们是负责内务的内务部第五防线军官，而整个幽界冥城，总共有五层防线，三道关卡"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "修为",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "修为也是地仙顶点，随时可能踏入天尊层面的命烛地仙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "修为也是地仙顶点，随时可能踏入天尊层面的命烛地仙",
-        "修为也都是五阶层次"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "你还",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "第八百六十八章 防线（一）　　“你还不明白么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第八百六十八章 防线（一）　　“你还不明白么",
-        "否则以后传出去，整个幽界之主都被你骂了，你还能平安无事",
-        "“你还是想得太简单了……我们马上离开这里"
+        "宫商白钰颇有些惋惜的看着自己住了这些天的宫殿。",
+        "宫商白钰瞬息间算出周围出现的虚影数量，顿时脑袋一蒙。"
       ],
       "mention_count": 4
     },
     {
-      "name": "幽界",
+      "name": "泛竜",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神略天尊大弟子，阵法宗师，命烛地仙",
+      "faction": "幽界冥城",
       "status": "登场",
       "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "“幽界冥城之主的尊严不容亵渎",
+      "summary": "负责看守防务的阵法宗师，地仙顶点。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“幽界冥城之主的尊严不容亵渎",
-        "就算主上不在意你们的举动，下面的天尊，地仙，也都会为了维护幽界的地位暗自出手干掉你们",
-        "否则以后传出去，整个幽界之主都被你骂了，你还能平安无事"
+      "abilities": [
+        "阵法"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "神略天尊",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在防务殿中观察许玲等人的逃离。"
+        }
+      ],
+      "evidence": [
+        "神略天尊大弟子泛竜，端坐在漆黑宝座上",
+        "他是最近才被提拔起来，专门负责看守防务的阵法宗师。修为也是地仙顶点"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "整个",
+      "name": "黑",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新麾下亲传弟子，五道防线负责人之一",
+      "faction": "幽界冥城",
       "status": "登场",
       "first_appearance": "第八百六十八章 防线（一）",
-      "summary": "否则以后传出去，整个幽界之主都被你骂了，你还能平安无事",
+      "summary": "负责防务的弟子之一，因防线被突破而面色难看。",
+      "appearance": [],
+      "personality": [
+        "面色难看"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师徒"
+        },
+        {
+          "target": "青",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在防务殿中讨论防线被突破一事。"
+        }
+      ],
+      "evidence": [
+        "黑面色难看道。",
+        "防务不得力，没人能脱得了干系"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "青",
+      "aliases": [],
+      "identity": "林新麾下亲传弟子，五道防线负责人之一",
+      "faction": "幽界冥城",
+      "status": "登场",
+      "first_appearance": "第八百六十八章 防线（一）",
+      "summary": "负责防务的弟子之一，对黑冷嘲热讽。",
+      "appearance": [],
+      "personality": [
+        "冷笑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师徒"
+        },
+        {
+          "target": "黑",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在防务殿中指责黑失职。"
+        }
+      ],
+      "evidence": [
+        "青冷笑。",
+        "输了就是输了，防务不得力，没人能脱得了干系"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "耀阳",
+      "aliases": [],
+      "identity": "许玲的朋友",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第八百六十八章 防线（一）",
+      "summary": "被许玲提及，但未出场。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "许玲",
+          "type": "朋友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "否则以后传出去，整个幽界之主都被你骂了，你还能平安无事",
-        "这是对整个幽界冥城尊严的严重打击",
-        "宋丹浩这时才发现，宫里的宫女宫娥居然一个都不见了，整个宫殿一片空荡"
+        "很感激你提醒了我，关于耀阳的难处和痛苦。",
+        "可你耀阳姐还在这里……"
       ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

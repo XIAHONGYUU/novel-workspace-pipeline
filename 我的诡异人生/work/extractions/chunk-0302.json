@@ -1,257 +1,431 @@
 {
   "chunk_id": "chunk-0302",
-  "title": "第301章 茅山巫教",
   "characters": [
     {
       "name": "苏午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "大弟子"
+      ],
+      "identity": "灶班子大弟子，疑似穿越者",
+      "faction": "灶王神教",
       "status": "登场",
       "first_appearance": "第301章 茅山巫教",
-      "summary": "想娣起来洗了把脸，和苏午、狗剩招呼过，便在柴房里准备早饭",
+      "summary": "灶班子大弟子，正在研习《插泥发兵剑诀》，对老道身份有诸多猜测。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "想娣起来洗了把脸，和苏午、狗剩招呼过，便在柴房里准备早饭",
-        "饭后，　　老道开始教授灶班子一众人练习功夫，　　拳脚看似平平无奇，　　然而在习练了‘兵击拳’、‘兽形拳’的苏午看来，则确实是一套可以用之搏杀敌人的好功夫，每一招每一击都落在实处",
-        "苏午跟着学了一遍，就能打得有模有样"
+      "personality": [
+        "冷静",
+        "敏锐",
+        "谨慎"
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "插泥",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第301章 茅山巫教",
-      "summary": "——　　《插泥发兵剑诀》",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "——　　《插泥发兵剑诀》",
-        "唯有炼成此剑，　　才能真正开始‘插泥发兵剑诀’的修行",
-        "这套剑诀中的‘插泥’二字，可以引申为‘插泥定风，寻龙点穴’之意，　　即将此剑插入山川龙脉龙穴之位，　　则能聚气藏风，引动山川龙脉之力为己所用，　　一柄剑，就是一座大山，一条大河，押守厉诡自然不在话下"
+      "abilities": [
+        "兵击拳",
+        "兽形拳"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "师父",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第301章 茅山巫教",
-      "summary": "时下人一天都吃两顿饭，不过因为师父早给过了钱，所以想娣一家沾着灶班子的光，跟着吃三顿饭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "时下人一天都吃两顿饭，不过因为师父早给过了钱，所以想娣一家沾着灶班子的光，跟着吃三顿饭",
-        "是以被师父勒令回屋补觉去",
-        "他告诉师父，柴房里有一罐熬好的‘活血药汤’，可以让师弟师妹们练过功夫以后，一人喝上一碗，便回屋休息去也"
+      "equipment": [
+        "《插泥发兵剑诀》"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "老道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第301章 茅山巫教",
-      "summary": "在想娣熬煮着粥汤的时候，　　灶班子众人也陆续起床，　　连老道早上都未有睡懒觉，和众人一起吃了早饭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在想娣熬煮着粥汤的时候，　　灶班子众人也陆续起床，　　连老道早上都未有睡懒觉，和众人一起吃了早饭",
-        "饭后，　　老道开始教授灶班子一众人练习功夫，　　拳脚看似平平无奇，　　然而在习练了‘兵击拳’、‘兽形拳’的苏午看来，则确实是一套可以用之搏杀敌人的好功夫，每一招每一击都落在实处",
-        "“这崽子……　　那药汤原是给马骡活血用的，现下调整了剂量，却也能给人喝了……”李岳山看着大弟子的背影，小声嘀咕了几句，转而跟着弟子们一同练习老道教授的功夫"
+      "relationships": [
+        {
+          "target": "李岳山",
+          "type": "师父"
+        },
+        {
+          "target": "老道",
+          "type": "赠书者"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "插泥发兵",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第301章 茅山巫教",
-      "summary": "——　　《插泥发兵剑诀》",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "——　　《插泥发兵剑诀》",
-        "唯有炼成此剑，　　才能真正开始‘插泥发兵剑诀’的修行",
-        "苏午看过了这本薄册上的全部内容，　　可以确定的是，‘插泥发兵剑诀’在老道所属的茅山巫宗派之中，亦必然是一道核心法门，此法牵连诸多，形成了一整套完备的体系，练成以后的威力极大，　　甚至可以与灶王神教的体系相提并论，更胜一筹"
+      "timeline": [
+        {
+          "stage": "早晨",
+          "event": "学习老道教授的功夫，被师父勒令回屋补觉。"
+        },
+        {
+          "stage": "回屋后",
+          "event": "研读《插泥发兵剑诀》，推测老道意图。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "法坛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第301章 茅山巫教",
-      "summary": "即桃树木芯削成木剑以后，还需要经历‘尸祭’，以桃木剑为‘尸’，供奉于法坛之中，画符召灵，请祖师、神明、前辈临尘，点化此剑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "即桃树木芯削成木剑以后，还需要经历‘尸祭’，以桃木剑为‘尸’，供奉于法坛之中，画符召灵，请祖师、神明、前辈临尘，点化此剑",
-        "经历过‘两祭’之后，这柄剑才算是真正炼成，可以成为一件上等法器，列于‘法坛’之中，至此时，此剑乃可以押守厉诡，运诡力于剑",
-        "此剑列于法坛之中，　　画符召灵，可以押守山川水脉之间的厉诡为己所用，受己驱使"
+        "苏午跟着学了一遍，就能打得有模有样。",
+        "苏午靠坐在炕头，若有所思。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "办席",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第301章 茅山巫教",
-      "summary": "只收丧仪，不办席面是不合礼数的吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只收丧仪，不办席面是不合礼数的吧",
-        "他家，办席面了吗",
-        "办席面了的"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "可以",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第301章 茅山巫教",
-      "summary": "饭后，　　老道开始教授灶班子一众人练习功夫，　　拳脚看似平平无奇，　　然而在习练了‘兵击拳’、‘兽形拳’的苏午看来，则确实是一套可以用之搏杀敌人的好功夫，每一招每一击都落在实处",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "饭后，　　老道开始教授灶班子一众人练习功夫，　　拳脚看似平平无奇，　　然而在习练了‘兵击拳’、‘兽形拳’的苏午看来，则确实是一套可以用之搏杀敌人的好功夫，每一招每一击都落在实处",
-        "他告诉师父，柴房里有一罐熬好的‘活血药汤’，可以让师弟师妹们练过功夫以后，一人喝上一碗，便回屋休息去也",
-        "最上等为金铜之色，弹剑有铮鸣之音，　　中为赤红之色，木剑可以斩切木头，　　下为昏黄之色，效用低劣"
-      ],
-      "mention_count": 5
+      "mention_count": 12
     },
     {
       "name": "李岳山",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "师父"
+      ],
+      "identity": "灶班子师父",
+      "faction": "灶王神教",
+      "status": "登场",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "灶班子的师父，性格火爆，护短，对想娣一家颇为照顾。",
+      "appearance": [],
+      "personality": [
+        "火爆",
+        "护短",
+        "精明"
+      ],
+      "abilities": [],
+      "equipment": [
+        "木棒"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "徒弟"
+        },
+        {
+          "target": "想娣",
+          "type": "雇主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早晨",
+          "event": "与灶班子一起练习功夫。"
+        },
+        {
+          "stage": "上午",
+          "event": "怒打崔家下人，为想娣出头。"
+        }
+      ],
+      "evidence": [
+        "师父拿一根木棒抽在一个高壮男人的背脊上",
+        "李岳山历经世事，他此前甚至都没听想娣说过此事，当下思维一动，却是已经反应过来了。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "老道",
+      "aliases": [
+        "老道士",
+        "道长"
+      ],
+      "identity": "茅山巫高功真人",
+      "faction": "茅山巫教",
+      "status": "登场",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "茅山巫教的高功真人，疑似失忆，赠予苏午《插泥发兵剑诀》，意图引其拜入茅山巫。",
+      "appearance": [],
+      "personality": [
+        "精明",
+        "装疯卖傻"
+      ],
+      "abilities": [],
+      "equipment": [
+        "《插泥发兵剑诀》"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "赠书者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早晨",
+          "event": "教授灶班子功夫。"
+        },
+        {
+          "stage": "上午",
+          "event": "与苏午对话，被其试探。"
+        }
+      ],
+      "evidence": [
+        "老道开始教授灶班子一众人练习功夫",
+        "老道背着手，晃晃悠悠走进屋里",
+        "其似乎想要回头与苏午说些什么，但终究什么都没说，还是迈步走出了屋子！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "想娣",
+      "aliases": [
+        "大嫂子"
+      ],
+      "identity": "寡妇，灶班子雇主的妻子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第301章 茅山巫教",
-      "summary": "“这崽子……　　那药汤原是给马骡活血用的，现下调整了剂量，却也能给人喝了……”李岳山看着大弟子的背影，小声嘀咕了几句，转而跟着弟子们一同练习老道教授的功夫",
+      "summary": "寡妇，带着儿子大彘，为灶班子做饭，曾被崔地主辞退。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "畏怯",
+        "勤劳"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "大彘",
+          "type": "儿子"
+        },
+        {
+          "target": "李岳山",
+          "type": "雇主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早晨",
+          "event": "起来准备早饭。"
+        },
+        {
+          "stage": "上午",
+          "event": "被崔家下人骚扰，李岳山为其出头。"
+        }
+      ],
       "evidence": [
-        "“这崽子……　　那药汤原是给马骡活血用的，现下调整了剂量，却也能给人喝了……”李岳山看着大弟子的背影，小声嘀咕了几句，转而跟着弟子们一同练习老道教授的功夫",
-        "”　　“哦，是这样啊……”　　李岳山历经世事，　　他此前甚至都没听想娣说过此事，当下思维一动，却是已经反应过来了",
-        "”　　李岳山从怀里摸出几个子儿，洒在了高壮男人脸上，　　道：“这便是想娣她家的丧仪了"
+        "想娣起来洗了把脸，和苏午、狗剩招呼过，便在柴房里准备早饭。",
+        "想娣畏怯的声音响起了"
       ],
       "mention_count": 5
     },
     {
-      "name": "就是",
+      "name": "大彘",
       "aliases": [],
-      "identity": "",
+      "identity": "想娣的儿子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第301章 茅山巫教",
-      "summary": "这套剑诀中的‘插泥’二字，可以引申为‘插泥定风，寻龙点穴’之意，　　即将此剑插入山川龙脉龙穴之位，　　则能聚气藏风，引动山川龙脉之力为己所用，　　一柄剑，就是一座大山，一条大河，押守厉诡自然不在话下",
+      "summary": "想娣的儿子，孩童，对崔家情况有所了解。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这套剑诀中的‘插泥’二字，可以引申为‘插泥定风，寻龙点穴’之意，　　即将此剑插入山川龙脉龙穴之位，　　则能聚气藏风，引动山川龙脉之力为己所用，　　一柄剑，就是一座大山，一条大河，押守厉诡自然不在话下",
-        "而‘发兵’二字涵义，　　就是字面上的意思",
-        "也怪不得老道士如此慷慨，能随手将茅山巫派的核心法门送给苏午——其是算准了苏午无有法坛传承，故意将此法抛出来，为的就是引诱苏午上钩，拜入茅山巫教派中"
+      "relationships": [
+        {
+          "target": "想娣",
+          "type": "母亲"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "上午",
+          "event": "指出崔太玉是崔大仁伯伯的小儿子。"
+        }
+      ],
+      "evidence": [
+        "她拉着的大彘满眼放光，连连出声"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "看起",
+      "name": "狗剩",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "灶班子弟子",
+      "faction": "灶王神教",
       "status": "登场",
       "first_appearance": "第301章 茅山巫教",
-      "summary": "这老头，恰如师父所说，看起来失了忆，木木呆呆的，其实贼精贼精的",
+      "summary": "灶班子弟子之一，与苏午、想娣打招呼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这老头，恰如师父所说，看起来失了忆，木木呆呆的，其实贼精贼精的",
-        "人说风水龙脉是天地气数，　　人运命格亦依凭天地气数，这‘插泥发兵剑诀’看起来又像是引动风水龙脉的无上大法——难道是有人——或许是有诡，占据、引动了茅山巫教的祖庭龙脉，　　道长去那诡关里寻鬼匠，　　正是要借它来缝出一个九两九的命格，　　以这份"
+      "timeline": [
+        {
+          "stage": "早晨",
+          "event": "与苏午、想娣招呼。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "想娣起来洗了把脸，和苏午、狗剩招呼过"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "道长",
+      "name": "珠儿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "灶班子弟子",
+      "faction": "灶王神教",
       "status": "登场",
       "first_appearance": "第301章 茅山巫教",
-      "summary": "”　　苏午抬头看着老道的眼睛，　　眼底平静如镜湖，映照出老道的面孔：“道长，究竟是失却记忆了，还是根本就未曾失忆，只是在这里装疯卖傻呢",
+      "summary": "灶班子弟子，与青苗等人持棍棒镇住崔家下人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "棍棒"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "上午",
+          "event": "与青苗等人持棍棒镇住崔家下人。"
+        }
+      ],
+      "evidence": [
+        "珠儿、青苗等人纷纷持棍棒，镇住了其余几个男人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青苗",
+      "aliases": [],
+      "identity": "灶班子弟子",
+      "faction": "灶王神教",
+      "status": "登场",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "灶班子弟子，与珠儿等人持棍棒镇住崔家下人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "棍棒"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "上午",
+          "event": "与珠儿等人持棍棒镇住崔家下人。"
+        }
+      ],
+      "evidence": [
+        "珠儿、青苗等人纷纷持棍棒，镇住了其余几个男人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "崔太玉",
+      "aliases": [
+        "崔老爷",
+        "崔大老爷"
+      ],
+      "identity": "崔地主",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "崔家老爷，母亲去世，派下人敛财，曾辞退想娣。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "崔大仁",
+          "type": "父亲"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "上午",
+          "event": "母亲去世，派下人通知想娣并索要丧仪。"
+        }
+      ],
+      "evidence": [
+        "崔大老爷的娘亲今天没了",
+        "崔太玉家，崔太玉是崔大仁伯伯的小儿子"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "崔大仁",
+      "aliases": [],
+      "identity": "崔太玉的父亲",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "崔太玉的父亲，被提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崔太玉",
+          "type": "儿子"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　苏午抬头看着老道的眼睛，　　眼底平静如镜湖，映照出老道的面孔：“道长，究竟是失却记忆了，还是根本就未曾失忆，只是在这里装疯卖傻呢",
-        "“道长显然是茅山巫的高功真人，在本教内的地位必定举足轻重",
-        "想来茅山巫也是有许多事务，需要道长来经手处理的"
+        "崔太玉是崔大仁伯伯的小儿子"
       ],
-      "mention_count": 5
+      "mention_count": 1
+    },
+    {
+      "name": "高壮男人",
+      "aliases": [],
+      "identity": "崔家下人",
+      "faction": "崔家",
+      "status": "登场",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "崔家派来的下人，试图强抢想娣家的狗，被李岳山教训。",
+      "appearance": [
+        "高壮"
+      ],
+      "personality": [
+        "嚣张",
+        "欺软怕硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崔太玉",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "上午",
+          "event": "到想娣家通知丧事并试图抢狗，被李岳山殴打。"
+        }
+      ],
+      "evidence": [
+        "有个颇为浑厚的男声在院子里响起",
+        "师父拿一根木棒抽在一个高壮男人的背脊上"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "王二",
+      "aliases": [],
+      "identity": "崔家下人",
+      "faction": "崔家",
+      "status": "提及",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "崔家下人，被高壮男人点名去抓狗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崔太玉",
+          "type": "主人"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "王二，李狗，去把那条高一点的狗抓来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李狗",
+      "aliases": [],
+      "identity": "崔家下人",
+      "faction": "崔家",
+      "status": "提及",
+      "first_appearance": "第301章 茅山巫教",
+      "summary": "崔家下人，被高壮男人点名去抓狗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崔太玉",
+          "type": "主人"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "王二，李狗，去把那条高一点的狗抓来"
+      ],
+      "mention_count": 1
     }
   ]
 }

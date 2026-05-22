@@ -1,257 +1,322 @@
 {
   "chunk_id": "chunk-0419",
-  "title": "第四百一十六章 易宝（上）",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "林新却是扫了眼这群刚进来的奴隶，视线微微在其中一个女孩身上停了停，眼底隐隐闪过一丝玩味之意",
+      "summary": "参与翡翠黑市交易会的修士，拥有聚阳丹等宝物，肉身强悍。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新却是扫了眼这群刚进来的奴隶，视线微微在其中一个女孩身上停了停，眼底隐隐闪过一丝玩味之意",
-        "坐在座椅上，林新眼眸随意扫视了一遍进来的所有男奴女奴，随即似乎是无意的，视线落在了那白子身上",
-        "隐隐也认出了林新的身份"
+      "personality": [
+        "敏锐",
+        "玩味",
+        "警惕"
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "顿时黑暗中鱼贯走出来一连串只在胸部和下身有巴掌大布片遮掩的美少女和美少年",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顿时黑暗中鱼贯走出来一连串只在胸部和下身有巴掌大布片遮掩的美少女和美少年",
-        "心头有了答案，林新再去看其他修士，顿时发现有好几个修士视线都有些玩味的落在白子身上",
-        "”银袍人也不多说，嘴唇动了动，顿时白子便主动走到林新身后，稳稳站定"
+      "equipment": [
+        "聚阳丹"
       ],
-      "mention_count": 13
+      "relationships": [
+        {
+          "target": "白子",
+          "type": "认出其伪装"
+        },
+        {
+          "target": "飞天尸王",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "认出白子伪装，指定其为女奴；与飞天尸王对峙；用聚阳丹交易血气宝物。"
+        }
+      ],
+      "evidence": [
+        "林新却是扫了眼这群刚进来的奴隶，视线微微在其中一个女孩身上停了停，眼底隐隐闪过一丝玩味之意。",
+        "林新冷哼一声，不再理会他。",
+        "本尊需要纯净血气，质量要足够好，总量越多越好。交换之物嘛，这些丹药随意拿。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "银袍人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "翡翠黑市主办方代表",
+      "faction": "翡翠黑市",
       "status": "登场",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "”　　银袍人拍拍手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　银袍人拍拍手",
-        "”　　银袍人淡淡道",
-        "而不远处那银袍人也是目光淡然的在白子身上扫过，似乎完全没发觉白子的异常"
+      "summary": "交易会主持人，负责场地、鉴定和安全。",
+      "appearance": [
+        "银袍"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "银袍",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "”　　银袍人拍拍手",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "淡然"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "宣布规则，主持交易。"
+        }
+      ],
       "evidence": [
-        "”　　银袍人拍拍手",
-        "”　　银袍人淡淡道",
-        "而不远处那银袍人也是目光淡然的在白子身上扫过，似乎完全没发觉白子的异常"
+        "银袍人拍拍手。",
+        "银袍人淡淡道。",
+        "银袍人郑重沉声道。"
       ],
       "mention_count": 6
     },
     {
-      "name": "聚阳丹",
+      "name": "白子",
       "aliases": [],
-      "identity": "",
+      "identity": "伪装成女奴的潜入者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "赫然是一瓶瓶翠绿色丹药瓷瓶，上边写着聚阳丹字样，周身笼罩着丝丝绿色生气，仿佛周围随时有可能催生出一株株青绿色翠竹凭空浮现……　　这丹药算是林新现在拿得出手的，又不会暴露自己身份的最珍贵物品",
+      "summary": "伪装成女奴潜入交易会，被林新认出。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赫然是一瓶瓶翠绿色丹药瓷瓶，上边写着聚阳丹字样，周身笼罩着丝丝绿色生气，仿佛周围随时有可能催生出一株株青绿色翠竹凭空浮现……　　这丹药算是林新现在拿得出手的，又不会暴露自己身份的最珍贵物品",
-        "聚阳丹，算得上是对问道境界的顶尖高手都有效的特殊丹药，能够淬炼问道强者体内杂质，提升感悟元景的几率，增加修为",
-        "“好宝贝，嘿嘿嘿，聚阳丹啊，这东西没人会嫌多"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被认出"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "以及",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "这次交易会，我主办方可提供场地，折算需要的灵玉，鉴定真假，以及绝对的安全",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "伪装成女奴进入，被林新指定。"
+        }
+      ],
       "evidence": [
-        "这次交易会，我主办方可提供场地，折算需要的灵玉，鉴定真假，以及绝对的安全",
-        "但以他极度敏锐的感官，依旧能够察觉出，这白子的呼吸，血流，以及心跳频率，和精神本质，这些是没办法改变的",
-        "接下来一个个修士纷纷轮流出言，说出自己持有的交换物，以及想要的东西"
+        "这女孩的气息，居然和先前和他们一起进来的那个白子一模一样。",
+        "这白子这么伪装成女奴进来，看来必定是有所图谋。"
       ],
       "mention_count": 5
     },
     {
-      "name": "两人",
+      "name": "飞天尸王",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "”林新目光扫射过去，与其对上，两人都是身上一阵杀意蒸腾",
+      "summary": "参与交易会的修士，与林新敌对。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冰冷",
+        "诡笑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新目光扫射过去，与其对上，两人都是身上一阵杀意蒸腾",
-        "两人各自收好盒子，不再出声",
-        "两人直接传音，很快便谈妥，直接交易物品，在翡翠黑市的主办方公证下鉴定，完成全过程"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "与林新对峙。"
+        }
+      ],
+      "evidence": [
+        "飞天尸王冷冷道。",
+        "飞天尸王却是诡笑着淡淡道。",
+        "飞天尸王冰冷道。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "接下",
+      "name": "杯雪上人",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "“接下来，是诸位各自提出自己要求交易",
+      "summary": "上次交易残留的客户，需要孔雀大环羽。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“接下来，是诸位各自提出自己要求交易",
-        "接下来一个个修士纷纷轮流出言，说出自己持有的交换物，以及想要的东西"
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "完成上次残留交易。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "杯雪上人和空极难两位，上次需要的孔雀大环羽找到了"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "这些",
+      "name": "空极难",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "“这些女奴男奴，诸位都可自行带回，算是赠送",
+      "summary": "上次交易残留的客户，需要孔雀大环羽。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这些女奴男奴，诸位都可自行带回，算是赠送",
-        "但以他极度敏锐的感官，依旧能够察觉出，这白子的呼吸，血流，以及心跳频率，和精神本质，这些是没办法改变的",
-        "这些女孩受控制后进来，几乎是永远也没法再离开"
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "完成上次残留交易。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "杯雪上人和空极难两位，上次需要的孔雀大环羽找到了"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "视线",
+      "name": "绿影尊主",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "林新却是扫了眼这群刚进来的奴隶，视线微微在其中一个女孩身上停了停，眼底隐隐闪过一丝玩味之意",
-      "appearance": [],
+      "summary": "上次交易残留的客户，需要千山龙印。",
+      "appearance": [
+        "全身红色"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新却是扫了眼这群刚进来的奴隶，视线微微在其中一个女孩身上停了停，眼底隐隐闪过一丝玩味之意",
-        "坐在座椅上，林新眼眸随意扫视了一遍进来的所有男奴女奴，随即似乎是无意的，视线落在了那白子身上",
-        "心头有了答案，林新再去看其他修士，顿时发现有好几个修士视线都有些玩味的落在白子身上"
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "完成上次残留交易。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "之后是绿影尊主，您需要的千山龙印已到手"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "其余",
+      "name": "妖娆黑袍女子",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "虽然修为波动换了，其余身体气味等都换了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然修为波动换了，其余身体气味等都换了",
-        "但他之肉身，已经被属性点淬炼得远超一般元景修士，怕是天底下除了一些顶级大妖巨魔外，其余所有元景都不如他肉身强悍",
-        "“就这三样，其余诸位，抱歉了"
+      "summary": "第一个提出交易的修士，交易百八千岁囊。",
+      "appearance": [
+        "妖娆黑袍"
       ],
-      "mention_count": 4
+      "personality": [
+        "娇滴滴"
+      ],
+      "abilities": [],
+      "equipment": [
+        "百八千岁囊"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "提出交易百八千岁囊。"
+        }
+      ],
+      "evidence": [
+        "第一号的座位上，一个妖娆黑袍女子娇滴滴的第一个开口。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "此时",
+      "name": "缺门牙的老太婆",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四百一十六章 易宝（上）",
-      "summary": "此时女奴还没分配，他主动指出对方也不过是心头一动而已",
+      "summary": "参与交易会的修士，对聚阳丹感兴趣。",
+      "appearance": [
+        "缺门牙"
+      ],
+      "personality": [
+        "阴森森"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "对林新的聚阳丹表示兴趣并交易血气。"
+        }
+      ],
+      "evidence": [
+        "一个缺了门牙的老太婆阴森森笑道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黑袍人",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四百一十六章 易宝（上）",
+      "summary": "参与交易会的修士，交易血气。",
+      "appearance": [
+        "黑袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "交易血气。"
+        }
+      ],
+      "evidence": [
+        "另外一黑袍人也是扬手抛出一颗珠子"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "火神童子",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四百一十六章 易宝（上）",
+      "summary": "参与交易会的修士，交易血气。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时女奴还没分配，他主动指出对方也不过是心头一动而已",
-        "”此时银袍人的传音传过来，钻入林新耳中",
-        "此时那银袍人已经站在正中间，环顾四周客人，总数二十人的一号厅，每一位都是绝对的枭雄霸主"
+      "timeline": [
+        {
+          "stage": "交易会",
+          "event": "交易血气。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "就连火神童子也是出手了一样圆盘状法宝"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,253 +1,239 @@
 {
   "chunk_id": "chunk-0652",
-  "title": "第650章孤种独坟",
   "characters": [
     {
       "name": "姜维",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "年轻守墓人"
+      ],
+      "identity": "天阙成员，门派序四",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第650章孤种独坟",
-      "summary": "生活在附近县城的百姓都知道，就在不久之前，曾经辽东武序门派震虏庭的遗址上突然多了一个名叫姜维的年轻守墓人，终日就徘徊在那座荒芜的山丘上，极少下山",
+      "summary": "天阙的幸存者，在震虏庭遗址为苏策守墓，立志为天阙和沈笠报仇。",
+      "appearance": [
+        "高瘦身影",
+        "头顶发髻散乱，落下几缕灰白的发丝",
+        "脸上的棱角被杂乱丛生的胡须掩盖",
+        "邋里邋遢"
+      ],
+      "personality": [
+        "重情重义",
+        "隐忍",
+        "凶悍"
+      ],
+      "abilities": [
+        "技击",
+        "锻体",
+        "械心"
+      ],
+      "equipment": [
+        "长刀"
+      ],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "师父/弟子"
+        },
+        {
+          "target": "沈笠",
+          "type": "同门"
+        },
+        {
+          "target": "李钧",
+          "type": "同门"
+        },
+        {
+          "target": "靳卫",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在震虏庭遗址守墓，遭遇靳卫等人袭击。"
+        }
+      ],
+      "evidence": [
+        "一道高瘦的身影行走在林立的新旧坟茔之中",
+        "姜维盘腿坐在坟前，将带来的烟酒依次拆封",
+        "姜维眸子中爆开一抹浓烈的凶戾，右手扣紧那柄想要抽离的利刃"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "苏策",
+      "aliases": [
+        "苏老爷子"
+      ],
+      "identity": "已故武者，姜维的师父",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第650章孤种独坟",
+      "summary": "已故的武者，葬于震虏庭遗址，姜维为其守墓。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "生活在附近县城的百姓都知道，就在不久之前，曾经辽东武序门派震虏庭的遗址上突然多了一个名叫姜维的年轻守墓人，终日就徘徊在那座荒芜的山丘上，极少下山",
-        "”　　苏策坟前，姜维从放在脚边的背包中抱出一个泥封酒坛，献宝一般捧在手中",
-        "”　　姜维将酒坛放在地上，又从背包中抽出一个密封严密的白色长条"
+      "relationships": [
+        {
+          "target": "姜维",
+          "type": "师父/弟子"
+        }
       ],
-      "mention_count": 32
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "已故，葬于震虏庭遗址。"
+        }
+      ],
+      "evidence": [
+        "苏策坟前",
+        "老爷子您千万别生气，弟子知道您生前一直瞧不上天阙的行事作风"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "沈笠",
+      "aliases": [],
+      "identity": "天阙成员，后入独行武序",
+      "faction": "天阙/独行武序",
+      "status": "存活（提及）",
+      "first_appearance": "第650章孤种独坟",
+      "summary": "姜维的同门，在新安城被废武学，后说服姜维独自逃出新安，自己留下救李钧。",
+      "appearance": [],
+      "personality": [
+        "飞扬跋扈",
+        "骄傲",
+        "嘴欠"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜维",
+          "type": "同门"
+        },
+        {
+          "target": "李钧",
+          "type": "大哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在新安城被废武学，说服姜维独自逃出。"
+        }
+      ],
+      "evidence": [
+        "那天，我在新安城外见到了沈笠，他还活着",
+        "武学尽废，序列成空",
+        "他不能走，他要留在这里，因为他的大哥李钧为了救他，现在被困在了稷场之中"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "天阙成员",
+      "faction": "天阙",
+      "status": "被困（提及）",
+      "first_appearance": "第650章孤种独坟",
+      "summary": "沈笠的大哥，为救沈笠被困在稷场中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "兄弟/大哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "为救沈笠被困在稷场。"
+        }
+      ],
+      "evidence": [
+        "他的大哥李钧为了救他，现在被困在了稷场之中"
+      ],
+      "mention_count": 2
     },
     {
       "name": "靳卫",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "六韬成员，兵三",
+      "faction": "六韬",
       "status": "登场",
       "first_appearance": "第650章孤种独坟",
-      "summary": "我叫靳卫，六韬，兵三",
+      "summary": "六韬的兵序武者，前来震虏庭遗址找姜维。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "讥讽",
+        "傲慢"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "姜维",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在震虏庭遗址与姜维对峙。"
+        }
+      ],
       "evidence": [
         "我叫靳卫，六韬，兵三",
-        "”　　靳卫五指一松，酒坛落地摔碎，溅起的酒液在苏策的墓碑上染出一片水痕",
-        "”　　靳卫手臂依靠着墓碑，右手指间夹着燃烧的香烟，对着姜维轻点"
+        "靳卫曲指弹掉烟头，抚掌拍手，笑吟吟的开口"
       ],
       "mention_count": 7
     },
     {
-      "name": "最后",
+      "name": "白眉兵序",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "六韬成员，兵序",
+      "faction": "六韬",
+      "status": "死亡",
       "first_appearance": "第650章孤种独坟",
-      "summary": "难分真假的消息如一场暴雪淹没了整个辽东，人们也从最开始的好奇逐渐演变为麻木，最后沦为不安和惶恐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "难分真假的消息如一场暴雪淹没了整个辽东，人们也从最开始的好奇逐渐演变为麻木，最后沦为不安和惶恐",
-        "”　　姜维一脸苦笑：“我他妈的也是真的蠢，在天阙的时候就经常被他骗，他四处闯祸，最后黑锅却都是让我来背，害得我被长老们责罚",
-        "”　　“虽然沈笠最后没死，而且还再入了独行武序，但我真的很后悔那时候听了他的话，把他一个人丢在了新安"
+      "summary": "六韬的兵序武者，与姜维战斗后被击杀。",
+      "appearance": [
+        "眉发皆白",
+        "周身笼罩一股惨白的浓雾"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "眼熟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "“眼熟吧",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“眼熟吧",
-        "眼熟就对了，这可是锦衣卫特供，您以前在倭区的时候最喜欢的那一款，我专门让托人从辽东百户所搞来的"
+      "abilities": [
+        "寒冰能力"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "插在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "淡淡的白烟中，三根烟彼此间隔两指，插在刚刚饱饮了烈酒的泥土中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "淡淡的白烟中，三根烟彼此间隔两指，插在刚刚饱饮了烈酒的泥土中",
-        "嗡.　　械心的躁动带起一片鼓噪的劲风，插在地上的烟头绽出最后一丝明亮火光，残留的余烬随风飘散"
+      "equipment": [
+        "手斧"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "这一次他久久没有抬起，而是静静聆听着那些从旷野中穿过的风，似乎其中就有来自苏策的声音",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一次他久久没有抬起，而是静静聆听着那些从旷野中穿过的风，似乎其中就有来自苏策的声音",
-        "”　　又是一坛子老龙口，只不过这一次姜维并没有将它倒在地上，而是轻轻放在墓碑旁边"
+      "relationships": [
+        {
+          "target": "靳卫",
+          "type": "同伙"
+        },
+        {
+          "target": "姜维",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "不敢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "“您慢慢抽，慢慢喝，也别骂我没出息，只知道躲在这里看坟护墓，不敢去给他们报仇",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“您慢慢抽，慢慢喝，也别骂我没出息，只知道躲在这里看坟护墓，不敢去给他们报仇",
-        "擂鼓般的心跳声戛然而止，变得微不可闻，不敢再放肆跳动"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与姜维战斗，被击杀。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "难道我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "”　　“他不能当孬种，难道我就能当了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　“他不能当孬种，难道我就能当了",
-        "他不能丢下李钧，难道我就能丢下他"
+        "这名和姜维放对的兵序眉发皆白，周身笼罩一股惨白的浓雾，散发着彻骨的寒意",
+        "这名兵序的颈骨应声折断，泛着冷光的械骨从颈侧直接刺出"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "我不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "”　　姜维摇头道：“我不怕死，也不想走",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　姜维摇头道：“我不怕死，也不想走",
-        "“我不是聪明人，但您放心，我不会给门派武序丢人",
-        "”　　对方自报家门，姜维置若罔闻，只是冷声开口：“我不管你是谁，你现在最好把你那双脏手拿开，把东西规规矩矩放下"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "械心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "嗡.　　械心的躁动带起一片鼓噪的劲风，插在地上的烟头绽出最后一丝明亮火光，残留的余烬随风飘散",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "嗡.　　械心的躁动带起一片鼓噪的劲风，插在地上的烟头绽出最后一丝明亮火光，残留的余烬随风飘散",
-        "姜维手腕一转，长刀锋刃点落，从对方扭曲折断的胸骨之中刺入，抵住了那颗正要跨入超频的械心",
-        "刀刃穿透械心，通体破出，深深贯入地面之中"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "右手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "姜维眸子中爆开一抹浓烈的凶戾，右手扣紧那柄想要抽离的利刃，左手单臂撑地，绞身而起，甩腿抽在来人肩头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姜维眸子中爆开一抹浓烈的凶戾，右手扣紧那柄想要抽离的利刃，左手单臂撑地，绞身而起，甩腿抽在来人肩头",
-        "刚刚落地站稳的姜维却已经跟身而上，速度快如一根离弦利箭，直扑到对方面前，沉肩坠肘，含胸拔背，右手反握住那把缴械而来的长刀，用厚重的刀首重重撞在对方的胸口之上",
-        "”　　靳卫手臂依靠着墓碑，右手指间夹着燃烧的香烟，对着姜维轻点"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这些",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第650章孤种独坟",
-      "summary": "这些新坟前面竖着的，是这个年头少见的石制墓碑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这些新坟前面竖着的，是这个年头少见的石制墓碑",
-        "他说天阙不能死光，必须要有人活下去，要有人记住这些仇这些恨，不管付出多大的代价，都要把这个仇报了",
-        "”　　“老爷子，别怪我话多，这些话我真不知道该跟谁说了"
-      ],
-      "mention_count": 3
+      "mention_count": 5
     }
   ]
 }

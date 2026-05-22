@@ -1,249 +1,124 @@
 {
   "chunk_id": "chunk-0067",
-  "title": "第66章 诡来了",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "格斗家，尸陀鬼之手的驾驭者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第66章 诡来了",
-      "summary": "苏午目光一凝，　　终于意识到那些模糊的画面来自于何处",
+      "summary": "主角，拥有尸陀鬼之手，能通过模拟器兑换物品，正在应对影诡的追杀。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午目光一凝，　　终于意识到那些模糊的画面来自于何处",
-        "”　　苏午解下了脖颈上的帝钟，递给江莺莺",
-        "让她把持帝钟，不断摇响来配合自己，也是苏午给她出的一道题目——若两人可以配合得当，他可以考虑在力所能及的范围内，给对方一些资源上的倾斜"
+      "personality": [
+        "冷静",
+        "果断",
+        "谨慎"
       ],
-      "mention_count": 10
+      "abilities": [
+        "尸陀鬼之手",
+        "通感影诡视角"
+      ],
+      "equipment": [
+        "帝钟",
+        "诡烛"
+      ],
+      "relationships": [
+        {
+          "target": "江莺莺",
+          "type": "同伴"
+        },
+        {
+          "target": "影诡",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在庙中应对影诡追杀，使用诡烛增强火光，击退影诡并吸收其阴影碎片。"
+        }
+      ],
+      "evidence": [
+        "苏午解下了脖颈上的帝钟，递给江莺莺。",
+        "模拟器，给我兑换‘诡烛’到现实里！",
+        "尸陀鬼之手在庙内火光的压制下，同样行动不太灵敏。"
+      ],
+      "mention_count": 15
     },
     {
       "name": "江莺莺",
       "aliases": [],
-      "identity": "",
+      "identity": "跟随苏午的女孩",
       "faction": "",
       "status": "登场",
       "first_appearance": "第66章 诡来了",
-      "summary": "”　　苏午解下了脖颈上的帝钟，递给江莺莺",
+      "summary": "苏午的同伴，负责摇响帝钟以对抗影诡。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　苏午解下了脖颈上的帝钟，递给江莺莺",
-        "江莺莺已经跟着他，就应该趁早发挥出一些作用",
-        "其实苏午现在有没有帝钟，面对影诡都能活命，但江莺莺不行，这件东西对她的保护作用，可比对苏午自己大多了"
+      "personality": [
+        "紧张",
+        "勇敢"
       ],
-      "mention_count": 7
+      "abilities": [],
+      "equipment": [
+        "帝钟",
+        "大公鸡"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在庙中摇响帝钟，协助苏午对抗影诡。"
+        }
+      ],
+      "evidence": [
+        "江莺莺眼神严肃起来，握住帝钟，当场就将之摇响！",
+        "她一边摇响帝钟，一边把大公鸡抱在了怀里。",
+        "江莺莺不知何时站在了自己身前，还在摇晃着帝钟。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "眼看",
+      "name": "影诡",
       "aliases": [],
-      "identity": "",
+      "identity": "诡异存在",
       "faction": "",
       "status": "登场",
       "first_appearance": "第66章 诡来了",
-      "summary": "”　　她没有说多余的话，甚至没有催促苏午，只是说了这一句话，就不断摇动着帝钟，眼看着影诡跨过了门槛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　她没有说多余的话，甚至没有催促苏午，只是说了这一句话，就不断摇动着帝钟，眼看着影诡跨过了门槛",
-        "但此时火光雄烈，每当它的手臂伸进火光里，立刻就会被‘烫’得黑液翻沸，眼看着又要‘滴落’下阴影，只能徒劳地撤回手臂"
+      "summary": "追杀苏午的诡异，由粘稠黑液组成的人形，惧怕火光和帝钟声。",
+      "appearance": [
+        "粘稠黑液组成的人形",
+        "人形上生出一条条细长手臂"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "江莺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "”　　苏午解下了脖颈上的帝钟，递给江莺莺",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　苏午解下了脖颈上的帝钟，递给江莺莺",
-        "江莺莺已经跟着他，就应该趁早发挥出一些作用",
-        "其实苏午现在有没有帝钟，面对影诡都能活命，但江莺莺不行，这件东西对她的保护作用，可比对苏午自己大多了"
+      "abilities": [
+        "阴影移动",
+        "压迫火光"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "火光",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "天色被黑暗笼罩，　　仅剩庙外一米半的范围内，被橘色火光映亮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天色被黑暗笼罩，　　仅剩庙外一米半的范围内，被橘色火光映亮",
-        "火光外的暗影中，一道影子里漫溢出滚滚粘稠黑液，组成了一道人立而起的人形",
-        "它朝前迈步，　　庙内灯台上的火光剧烈颤动"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "”　　她没有说多余的话，甚至没有催促苏午，只是说了这一句话，就不断摇动着帝钟，眼看着影诡跨过了门槛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　她没有说多余的话，甚至没有催促苏午，只是说了这一句话，就不断摇动着帝钟，眼看着影诡跨过了门槛",
-        "只是费了一点点气力，就将片片阴影接连打捞起"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从庙外逼近，被火光和帝钟声阻挡，部分阴影被苏午吸收。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "接下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "“你拿着这个，　　接下来的时间，你要一刻不停地摇响它",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“你拿着这个，　　接下来的时间，你要一刻不停地摇响它"
+        "一道影子里漫溢出滚滚粘稠黑液，组成了一道人立而起的人形。",
+        "影诡徘徊在火光映照不及的阴影里，人形上不断生出一条条细长的手臂。",
+        "那些蠕动的阴影贴附在尸陀鬼之手上。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "当场",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "”　　江莺莺眼神严肃起来，握住帝钟，当场就将之摇响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　江莺莺眼神严肃起来，握住帝钟，当场就将之摇响"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "一边",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "她一边摇响帝钟，一边把大公鸡抱在了怀里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她一边摇响帝钟，一边把大公鸡抱在了怀里"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "组成",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "火光外的暗影中，一道影子里漫溢出滚滚粘稠黑液，组成了一道人立而起的人形",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "火光外的暗影中，一道影子里漫溢出滚滚粘稠黑液，组成了一道人立而起的人形",
-        "每一次卡顿，粘稠液体组成的人形上就会抖落大块大块阴影，掉在地上"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "庙内",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "它朝前迈步，　　庙内灯台上的火光剧烈颤动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "它朝前迈步，　　庙内灯台上的火光剧烈颤动",
-        "庙内的火光再度黯淡",
-        "橘红火光扩张到整个小庙内部"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "一米",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第66章 诡来了",
-      "summary": "天色被黑暗笼罩，　　仅剩庙外一米半的范围内，被橘色火光映亮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天色被黑暗笼罩，　　仅剩庙外一米半的范围内，被橘色火光映亮",
-        "庙外能扩散出一米半范围的火光，跟着收缩——　　一米半，　　一米二，　　一米",
-        "它在火光一米外的阴影里来回走动着，仍未就此离开"
-      ],
-      "mention_count": 3
+      "mention_count": 12
     }
   ]
 }

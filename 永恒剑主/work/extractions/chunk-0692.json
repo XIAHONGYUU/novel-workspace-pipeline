@@ -1,57 +1,97 @@
 {
   "chunk_id": "chunk-0692",
-  "title": "第六百八十八章 穿梭（一）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "林摄日",
+        "林道友"
+      ],
+      "identity": "碧湖山核心弟子",
+      "faction": "碧湖山",
       "status": "登场",
       "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "”　　忽然半空中一道青色闪电骤然落下，赫然是一柄青绿色蛟龙一般的法宝符剑，瞄准着林新的天灵盖直刺而下",
+      "summary": "从地府飞升到人间界的修士，现为碧湖山核心弟子，拥有奇拉面具等古神器，正计划穿梭世界提升实力。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　忽然半空中一道青色闪电骤然落下，赫然是一柄青绿色蛟龙一般的法宝符剑，瞄准着林新的天灵盖直刺而下",
-        "”　　林新哑然失笑，他知道这个宗门，似乎和地府的那个有些关联，其宫主前不久还跟着天阴宗的天才参加龙蛇界收徒大会，结果第四轮就被淘汰",
-        "袁秋雀更是认真仔细叮嘱林新看了又看"
+      "personality": [
+        "谨慎",
+        "有计划"
       ],
-      "mention_count": 40
+      "abilities": [
+        "圣体"
+      ],
+      "equipment": [
+        "奇拉面具"
+      ],
+      "relationships": [
+        {
+          "target": "袁秋雀",
+          "type": "故交"
+        },
+        {
+          "target": "黄悦容",
+          "type": "同乡"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往北桑洲朝天宗拜访袁秋雀，得知幽府背后主人为幽时之主，计划通过奇拉面具穿梭世界。"
+        }
+      ],
+      "evidence": [
+        "林新此时身体是转世之身，林摄日的面容和以前林新的面容完全不像",
+        "林新微微将圣体的气息释放出来一丝。",
+        "林新心头已经将影子城列为大敌。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "袁秋雀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "袁大侠",
+        "袁某"
+      ],
+      "identity": "朝天宗修士",
+      "faction": "朝天宗",
       "status": "登场",
       "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "”　　袁秋雀皱眉道",
+      "summary": "从地府飞升到人间界的修士，被朝天宗收留，与林新有旧交。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁秋雀皱眉道",
-        "半空中一道青色身影骤然落在袁秋雀和信栾长老身侧，赫然是个面容秀丽的年轻女修，只是她嘴角溢血，显然刚才受了重创",
-        "袁秋雀更是认真仔细叮嘱林新看了又看"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "故交"
+        },
+        {
+          "target": "黄悦容",
+          "type": "同乡"
+        }
       ],
-      "mention_count": 24
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在朝天宗与林新重逢，告知黄悦容失踪及幽府之事。"
+        }
+      ],
+      "evidence": [
+        "袁秋雀皱眉道。",
+        "袁秋雀感慨道。",
+        "袁秋雀苦笑摇头。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "袁秋",
+      "name": "信栾长老",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "朝天宗长老",
+      "faction": "朝天宗",
       "status": "登场",
       "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "”　　袁秋雀皱眉道",
+      "summary": "朝天宗长老，与袁秋雀一同接待林新。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -59,199 +99,95 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　袁秋雀皱眉道",
-        "半空中一道青色身影骤然落在袁秋雀和信栾长老身侧，赫然是个面容秀丽的年轻女修，只是她嘴角溢血，显然刚才受了重创",
-        "袁秋雀更是认真仔细叮嘱林新看了又看"
+        "信栾长老身侧，赫然是个面容秀丽的年轻女修",
+        "她惊骇之下，小声给信栾长老传言。"
       ],
-      "mention_count": 16
+      "mention_count": 2
     },
     {
-      "name": "只是",
+      "name": "年轻公子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新的护卫首领",
+      "faction": "碧湖山",
       "status": "登场",
       "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "朝天宗内，元景修士至少也是居于长老一职，但在此人身边，居然只是作为护卫守护",
+      "summary": "林新的护卫之一，修为高深，对林新恭敬。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "恭敬"
+      ],
+      "abilities": [
+        "元景修士"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "主从"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "朝天宗内，元景修士至少也是居于长老一职，但在此人身边，居然只是作为护卫守护",
-        "半空中一道青色身影骤然落在袁秋雀和信栾长老身侧，赫然是个面容秀丽的年轻女修，只是她嘴角溢血，显然刚才受了重创",
-        "“其实很久以前便查到袁大侠的踪迹，只是一直以来忙于修行，不便打扰，直到拖到今天，才有空赶来"
+        "两个青衣修士骤然现身半空，挡在来人头顶，同时出手。",
+        "那年轻公子打断属下，淡淡道。"
       ],
-      "mention_count": 9
+      "mention_count": 3
     },
     {
-      "name": "他心",
+      "name": "黄悦容",
       "aliases": [],
-      "identity": "",
+      "identity": "地府飞升修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "这等际遇却是让他心头微微有些乱了",
+      "summary": "与袁秋雀一同飞升的修士，但飞升后失踪，疑似与幽府有关。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这等际遇却是让他心头微微有些乱了",
-        "”　　他心头很清楚，上次那个宦牛的六阶地仙出手刺杀，听师尊说，还有另外三位地仙同时现身，这样的大手笔，就算是对付一位真正的六阶，也是足够了",
-        "“还是太弱了啊……”他心中叹气"
+      "equipment": [
+        "生死魔刀"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "朝天宗内，元景修士至少也是居于长老一职，但在此人身边，居然只是作为护卫守护",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "朝天宗内，元景修士至少也是居于长老一职，但在此人身边，居然只是作为护卫守护",
-        "林新此时身体是转世之身，林摄日的面容和以前林新的面容完全不像，加上气息也不同，他再怎么识别也绝对认不出此时的林摄日，居然就是地府时的林新",
-        "”袁秋雀深吸一口气，压下心头的震惊，幽府时萍水相逢的一位后辈，居然在人间界和自己相会"
+      "relationships": [
+        {
+          "target": "袁秋雀",
+          "type": "同乡"
+        },
+        {
+          "target": "林新",
+          "type": "同乡"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "也是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "朝天宗内，元景修士至少也是居于长老一职，但在此人身边，居然只是作为护卫守护",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "朝天宗内，元景修士至少也是居于长老一职，但在此人身边，居然只是作为护卫守护",
-        "林新也是感慨，和袁秋雀又闲聊了几句，交换了一些来到人间界的情况经历",
-        "得知林新现在居然是最强宗门碧湖山的修士，袁秋雀也是为其高兴"
+      "timeline": [
+        {
+          "stage": "飞升时",
+          "event": "与袁秋雀一同飞升，但之后失踪。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "一人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "一人持伞，一人持枪，狠狠点在青色长剑上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "一人持伞，一人持枪，狠狠点在青色长剑上",
-        "林新和袁秋雀一人站在窗前，一人站在墙边"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "”　　林新哑然失笑，他知道这个宗门，似乎和地府的那个有些关联，其宫主前不久还跟着天阴宗的天才参加龙蛇界收徒大会，结果第四轮就被淘汰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　林新哑然失笑，他知道这个宗门，似乎和地府的那个有些关联，其宫主前不久还跟着天阴宗的天才参加龙蛇界收徒大会，结果第四轮就被淘汰",
-        "我也不知道到了什么地方，似乎是随着黄悦容一起离开了",
-        "唧~~　　一只白身小鸟从林新身边划过，似乎有些好奇，围着他绕了两圈，轻轻落在林新肩上"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "“其实很久以前便查到袁大侠的踪迹，只是一直以来忙于修行，不便打扰，直到拖到今天，才有空赶来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“其实很久以前便查到袁大侠的踪迹，只是一直以来忙于修行，不便打扰，直到拖到今天，才有空赶来",
-        "不过他此行前来，也就是为了见见故人，询问一番飞升情况，其实正式的什么目的反倒是没有",
-        "若是真的能通过奇拉面具穿梭世界，那么，用不用迷离之门，其实都可以"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "虽然不知道她为什么会在关键时刻插上一手，但我怀疑黄悦容的消失，应该就是这个原因引起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然不知道她为什么会在关键时刻插上一手，但我怀疑黄悦容的消失，应该就是这个原因引起",
-        "“影子城已经连续数次对我下手，虽然都没得逞，但绝对会因此提升对我的定位评价，接下来若是再下手，怕就不会再这么简单了",
-        "虽然他的进度已经在诸多修士中，算是不错的了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "同时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十八章 穿梭（一）",
-      "summary": "”　　两个青衣修士骤然现身半空，挡在来人头顶，同时出手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　两个青衣修士骤然现身半空，挡在来人头顶，同时出手",
-        "同时也将自己的地址告诉袁秋雀",
-        "”　　他心头很清楚，上次那个宦牛的六阶地仙出手刺杀，听师尊说，还有另外三位地仙同时现身，这样的大手笔，就算是对付一位真正的六阶，也是足够了"
+        "黄悦容当日与我一同飞升，只是之后便再也不见他踪迹。",
+        "我怀疑黄悦容的消失，应该就是这个原因引起。"
       ],
       "mention_count": 4
+    },
+    {
+      "name": "幽时之主",
+      "aliases": [],
+      "identity": "影子城三大城主之一",
+      "faction": "影子城",
+      "status": "提及",
+      "first_appearance": "第六百八十八章 穿梭（一）",
+      "summary": "影子城三大城主之一，控制幽府，威能滔天。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "幽时之主威能滔天，自上古神战时期，便独霸一方，为影子城三大城主之一",
+        "幽时之主控制幽府在地府，在许许多多小世界都布置了暗道。"
+      ],
+      "mention_count": 3
     }
   ]
 }

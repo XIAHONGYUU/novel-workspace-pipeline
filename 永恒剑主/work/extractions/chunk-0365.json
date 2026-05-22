@@ -1,258 +1,476 @@
 {
   "chunk_id": "chunk-0365",
-  "title": "第三百六十二章 变数（一）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "一瞬间的交手，就连林新也没感觉到有什么过程和变化，两人似乎便已分出胜负",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一瞬间的交手，就连林新也没感觉到有什么过程和变化，两人似乎便已分出胜负",
-        "对于殿灵居然敢用这等语气和第二青女说话，林新隐隐有些感觉怪异",
-        "林新心头一凛，微微点头"
+      "aliases": [
+        "太子殿下"
       ],
-      "mention_count": 27
+      "identity": "元斗魔宗太子",
+      "faction": "元斗魔宗",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元斗魔宗太子，主持道典大比，正在调查天云道和卫家的阴谋。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "腰牌"
+      ],
+      "relationships": [
+        {
+          "target": "关明月",
+          "type": "下属"
+        },
+        {
+          "target": "王鹏",
+          "type": "下属"
+        },
+        {
+          "target": "小玉狐",
+          "type": "主人"
+        },
+        {
+          "target": "楼小飞",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在楼船上听取王鹏汇报，安排调查任务。"
+        }
+      ],
+      "evidence": [
+        "林新正色道，身后有侍女端上来座椅供几人在楼船上坐下。",
+        "林新缓缓开口。‘这样吧。我们还得作为主办方主持布置大比，这事没办法抽身，楼小飞。’",
+        "林新面色渐渐肃然起来。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
+      "name": "第二青女",
+      "aliases": [
+        "青女殿下",
+        "青女大人"
+      ],
+      "identity": "青女殿下",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "“我们也走吧",
+      "first_appearance": "",
+      "summary": "实力强大的女性修士，与天云道宏龟老人交手，其义女余柳青卷入地道事件。",
       "appearance": [],
+      "personality": [
+        "强势"
+      ],
+      "abilities": [
+        "月轮攻击"
+      ],
+      "equipment": [
+        "碧绿色月轮"
+      ],
+      "relationships": [
+        {
+          "target": "余柳青",
+          "type": "义女"
+        },
+        {
+          "target": "宏龟老人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与宏龟老人交手，后被万法殿殿灵阻止。"
+        }
+      ],
+      "evidence": [
+        "第二青女陡然面色一厉，所有在场者同时感觉眼前青影一闪。",
+        "第二青女伸手一抓，一轮碧绿色月轮浮现在她手指前方，缓缓转动起来。",
+        "第二青女看了眼余柳青，冷冷扫了下被击毙了的卫武宣兄弟。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "宏龟老人",
+      "aliases": [
+        "宏龟"
+      ],
+      "identity": "天云道修士",
+      "faction": "天云道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天云道修士，与第二青女交手后受伤离开。",
+      "appearance": [
+        "年轻面孔"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我们也走吧",
-        "“若不是太子殿下及时赶到，怕是我们这次真的是倒霉了",
-        "“殿下有所不知，我们离开驻地后，在周围随便转了转，无意中看到有几个人鬼鬼祟祟，其中有一队道侣偷偷摸摸的，似乎是在找地方亲热……我们……我们……”她说到这里就有些脸红"
+      "relationships": [
+        {
+          "target": "第二青女",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 24
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与第二青女交手，被击退。"
+        }
+      ],
+      "evidence": [
+        "宏龟老人年轻的面孔陡然一变，隐隐有些发白，倒退了一步。",
+        "宏龟老人也是咳嗽了几声，场面话也不说，纵身化为一道白光飞身离开。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "万法殿殿灵",
+      "aliases": [
+        "殿灵"
+      ],
+      "identity": "万法殿殿灵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主持道典的万法殿殿灵，实力深不可测，阻止了第二青女和宏龟老人的争斗。",
+      "appearance": [],
+      "personality": [
+        "冷冰冰"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现阻止第二青女和宏龟老人的争斗。"
+        }
+      ],
+      "evidence": [
+        "忽然一道黑色影子出现在众人中间空处，刚好挡住第二青女放出的月轮。",
+        "殿灵用冷冰冰的声音平视第二青女"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "关明月",
+      "aliases": [
+        "关老",
+        "关明月关老"
+      ],
+      "identity": "元斗魔宗长老",
+      "faction": "元斗魔宗",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元斗魔宗长老，实力强大，跟随林新，提供建议和帮助。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "红芒法术",
+        "灵符"
+      ],
+      "equipment": [
+        "救急道符"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新一起听取王鹏汇报，并布置任务。"
+        }
+      ],
+      "evidence": [
+        "关明月关老的声音从身后传来。",
+        "关老也是给了楼小飞一道灵符，作为救急。",
+        "关老忽然插话打断。"
+      ],
+      "mention_count": 8
     },
     {
       "name": "王鹏",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新下属",
+      "faction": "元斗魔宗",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "”　　关老声音刚落，顿时一片红芒洒下，将王鹏等人全部笼罩起来，连同林新在内一起，纵身飞起，朝着元斗魔宗所在的楼船飞去",
+      "first_appearance": "",
+      "summary": "林新的下属，与妻子秋玲、荣燕一起在地道中遭遇危险，后向林新汇报情况。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "脸皮厚"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　关老声音刚落，顿时一片红芒洒下，将王鹏等人全部笼罩起来，连同林新在内一起，纵身飞起，朝着元斗魔宗所在的楼船飞去",
-        "”王鹏三人赶紧道谢，都是面带感激",
-        "”王鹏苦笑道"
+      "relationships": [
+        {
+          "target": "秋玲",
+          "type": "夫妻"
+        },
+        {
+          "target": "荣燕",
+          "type": "夫妻"
+        },
+        {
+          "target": "林新",
+          "type": "下属"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新汇报在地道中的遭遇。"
+        }
+      ],
+      "evidence": [
+        "王鹏三人赶紧道谢，都是面带感激。",
+        "王鹏吞了吞唾沫。",
+        "王鹏又继续说。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "他们",
+      "name": "秋玲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "王鹏妻子",
+      "faction": "元斗魔宗",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "“没想到那道侣居然是假扮的，他们暗中走到角落，根本不是亲热，而是开启了一个狭窄的地道",
+      "first_appearance": "",
+      "summary": "王鹏的妻子，与王鹏一起进入地道，后向林新汇报。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“没想到那道侣居然是假扮的，他们暗中走到角落，根本不是亲热，而是开启了一个狭窄的地道",
-        "我们躲在一边悄悄偷听他们和一个修士说话",
-        "“我们听到，他们在交谈着如何避开殿灵的耳目，利用一种很复杂的环节办法，可以从冥河里取出一种东西，那东西他们用的果子代称，不知道是什么"
+      "relationships": [
+        {
+          "target": "王鹏",
+          "type": "夫妻"
+        },
+        {
+          "target": "荣燕",
+          "type": "姐妹"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与王鹏一起向林新汇报。"
+        }
+      ],
+      "evidence": [
+        "秋玲现在还有些脸上发白，一脸后怕。",
+        "秋玲握住她的手，示意没事。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "青女",
+      "name": "荣燕",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "王鹏妻子",
+      "faction": "元斗魔宗",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "”第二青女陡然面色一厉，所有在场者同时感觉眼前青影一闪",
+      "first_appearance": "",
+      "summary": "王鹏的妻子，与王鹏一起进入地道。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”第二青女陡然面色一厉，所有在场者同时感觉眼前青影一闪",
-        "“青女殿下是要挑起与我天云道宗门矛盾么",
-        "”第二青女伸手一抓，一轮碧绿色月轮浮现在她手指前方，缓缓转动起来"
+      "relationships": [
+        {
+          "target": "王鹏",
+          "type": "夫妻"
+        },
+        {
+          "target": "秋玲",
+          "type": "姐妹"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与王鹏一起向林新汇报。"
+        }
+      ],
+      "evidence": [
+        "荣燕在边上表情有些无奈。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
+      "name": "余柳青",
+      "aliases": [
+        "青儿",
+        "青儿姑娘",
+        "青儿妹妹"
+      ],
+      "identity": "第二青女义女",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "一瞬间的交手，就连林新也没感觉到有什么过程和变化，两人似乎便已分出胜负",
+      "first_appearance": "",
+      "summary": "第二青女的义女，在地道中与王鹏等人相遇，后被偷袭受伤。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一瞬间的交手，就连林新也没感觉到有什么过程和变化，两人似乎便已分出胜负",
-        "“殿下有所不知，我们离开驻地后，在周围随便转了转，无意中看到有几个人鬼鬼祟祟，其中有一队道侣偷偷摸摸的，似乎是在找地方亲热……我们……我们……”她说到这里就有些脸红",
-        "“这会场确实听说有过地道，不过后来似乎是因为有什么原因，直接被封印掉，没想到现在居然不知不觉被人又打开了"
+      "relationships": [
+        {
+          "target": "第二青女",
+          "type": "义母"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在地道中被偷袭受伤，后被王鹏等人救走。"
+        }
+      ],
+      "evidence": [
+        "青儿便是那个余柳青姑娘，也就是第二青女殿下的义女，对吧？",
+        "突然朝着青儿姑娘偷袭，将其打伤。"
+      ],
+      "mention_count": 5
     },
     {
       "name": "楼小飞",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元斗魔宗驻地负责人",
+      "faction": "元斗魔宗",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "倒是楼小飞提了句",
+      "first_appearance": "",
+      "summary": "元斗魔宗驻地负责人，被林新指派配合王鹏调查。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "倒是楼小飞提了句",
-        "我们还得作为主办方主持布置大比，这事没办法抽身，楼小飞",
-        "”　　负责人楼小飞赶紧起身抱拳"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        },
+        {
+          "target": "楼庆思",
+          "type": "外孙"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受林新任务，负责调查地道事件。"
+        }
+      ],
+      "evidence": [
+        "负责人楼小飞赶紧起身抱拳。",
+        "楼小飞带头允诺。"
+      ],
+      "mention_count": 5
     },
     {
       "name": "小玉狐",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新的宠物/侍女",
+      "faction": "元斗魔宗",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "”小玉狐眼巴巴的盯着林新，显然是在等他安排任务",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "林新的宠物，狐狸精，好奇心强，被林新禁止参与调查。",
+      "appearance": [
+        "狐狸耳朵"
+      ],
+      "personality": [
+        "好奇心强"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”小玉狐眼巴巴的盯着林新，显然是在等他安排任务",
-        "小玉狐顿时两只狐狸耳朵耷拉下来，一下子也没了精神",
-        "”小玉狐无奈道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "主人"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "请求任务被拒，被安排与楼庆思对练。"
+        }
+      ],
+      "evidence": [
+        "小玉狐眼巴巴的盯着林新，显然是在等他安排任务。",
+        "小玉狐顿时两只狐狸耳朵耷拉下来，一下子也没了精神。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "第二",
+      "name": "楼庆思",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "楼小飞外孙",
+      "faction": "元斗魔宗",
       "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "”第二青女陡然面色一厉，所有在场者同时感觉眼前青影一闪",
+      "first_appearance": "",
+      "summary": "楼小飞的外孙，主动提出陪小玉狐练习。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”第二青女陡然面色一厉，所有在场者同时感觉眼前青影一闪",
-        "”第二青女伸手一抓，一轮碧绿色月轮浮现在她手指前方，缓缓转动起来",
-        "”　　忽然一道黑色影子出现在众人中间空处，刚好挡住第二青女放出的月轮"
+      "personality": [
+        "冲动"
       ],
-      "mention_count": 6
+      "abilities": [
+        "心级修为"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楼小飞",
+          "type": "外祖父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主动请求陪小玉狐练习。"
+        }
+      ],
+      "evidence": [
+        "楼小飞身后元斗魔宗驻地的一少年一下站出来回应。",
+        "这是我外孙楼庆思，性格有些冲动，没有教养。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "楼小",
+      "name": "卫武宣",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "倒是楼小飞提了句",
+      "identity": "卫家成员",
+      "faction": "卫家",
+      "status": "已死亡",
+      "first_appearance": "",
+      "summary": "卫家成员，被第二青女击毙。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "倒是楼小飞提了句",
-        "我们还得作为主办方主持布置大比，这事没办法抽身，楼小飞",
-        "”　　负责人楼小飞赶紧起身抱拳"
+      "relationships": [
+        {
+          "target": "卫家",
+          "type": "所属"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "这是我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "这是我的令牌，见令牌如见本人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这是我的令牌，见令牌如见本人",
-        "”　　“这是我的救急道符",
-        "“殿下恕罪，这是我外孙楼庆思，性格有些冲动，没有教养"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被第二青女击毙。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "宏龟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百六十二章 变数（一）",
-      "summary": "第三百六十二章 变数（一）　　“宏龟你找死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第三百六十二章 变数（一）　　“宏龟你找死",
-        "然后便听到一声闷响，宏龟老人年轻的面孔陡然一变，隐隐有些发白，倒退了一步",
-        "宏龟老人也是咳嗽了几声，场面话也不说，纵身化为一道白光飞身离开"
+        "冷冷扫了下被击毙了的卫武宣兄弟。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

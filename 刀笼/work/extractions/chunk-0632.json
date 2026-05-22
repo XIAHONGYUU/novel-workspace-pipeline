@@ -1,245 +1,387 @@
 {
   "chunk_id": "chunk-0632",
-  "title": "第三十六章 御驾亲征",
   "characters": [
     {
-      "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "残海皇",
+      "aliases": [
+        "海皇帝"
+      ],
+      "identity": "海皇岛首领，真神级强者",
+      "faction": "海皇岛",
       "status": "登场",
       "first_appearance": "第三十六章 御驾亲征",
-      "summary": "”    戚笼扫了一眼奏折，便就放在一边，金丹在小千世界是一流高手，在夜昼国也是一流人物，但在他眼中，也就值得‘哦’上一声",
+      "summary": "海皇岛首领，真神级强者，百年前突破真神后被打成重伤，现正式扯旗造反。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼扫了一眼奏折，便就放在一边，金丹在小千世界是一流高手，在夜昼国也是一流人物，但在他眼中，也就值得‘哦’上一声",
-        "事实上，戚笼比谁都清楚局势，因为正在全国各地救济‘两荒灾’的祝应安早已带着薛保侯这支兵马南下，准备去堵住缺口，他在沿海有无数眼线",
-        "”    戚笼话音一落，百官顿时吓的跪倒在地，口称赎罪"
+      "abilities": [
+        "真神级实力"
       ],
-      "mention_count": 16
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "西海水母",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与西海水母讨论兵力布置后告辞离去，正式扯旗造反。"
+        }
+      ],
+      "evidence": [
+        "残海皇顿时松了口气，又与水母讨论了下兵力布置，便就告辞离去。",
+        "海皇岛正式扯旗造反，同一时间，九阴洞、尾椎山宣布追随",
+        "这一位早在百年前，就已经突破成真神了，虽然之后被打成重伤。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "本皇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "西海水母",
+      "aliases": [
+        "水母阴姬"
+      ],
+      "identity": "残海皇之母，上古生灵，龙庭属下",
+      "faction": "龙庭",
       "status": "登场",
       "first_appearance": "第三十六章 御驾亲征",
-      "summary": "“奉天意，靖国难，这不就说本皇是灾星，黄昏天灾是本皇引发的么",
-      "appearance": [],
+      "summary": "残海皇之母，上古生灵，实为龙庭属下，负责监视残海皇。",
+      "appearance": [
+        "雍容华贵"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "残海皇",
+          "type": "母子"
+        },
+        {
+          "target": "军师",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在海底洞天与残海皇交谈，后向军师汇报。"
+        }
+      ],
       "evidence": [
-        "“奉天意，靖国难，这不就说本皇是灾星，黄昏天灾是本皇引发的么",
-        "”    “本皇会给你们一支兵马，不求你们胜过残海皇，但一定要把他的兵锋挡在第十三夜城之前，你们能做到吗",
-        "”    “此事过后，本皇允诺你们在皇城开辟福地"
+        "雍容华贵的水母连忙从贝床上起身，朝着屏风后的一道人影鞠躬。",
+        "属下水母阴姬，见过军师。"
       ],
       "mention_count": 5
     },
     {
+      "name": "军师",
+      "aliases": [],
+      "identity": "龙庭军师，神秘莫测",
+      "faction": "龙庭",
+      "status": "登场",
+      "first_appearance": "第三十六章 御驾亲征",
+      "summary": "龙庭军师，神秘莫测，后装扮成青年文士加入钦天总司。",
+      "appearance": [
+        "儒雅"
+      ],
+      "personality": [
+        "神秘莫测"
+      ],
+      "abilities": [
+        "金丹修为"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "西海水母",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指示水母阴姬任务结束，后加入钦天总司成为大道官。"
+        }
+      ],
+      "evidence": [
+        "屏风后一道儒雅的声音缓缓响起。",
+        "神秘莫测的‘军师’笑了笑",
+        "隔日，那位装扮成青年文士的军师便出现在了衙门门口。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "戚笼",
+      "aliases": [
+        "夜皇",
+        "陛下"
+      ],
+      "identity": "夜昼国皇帝",
+      "faction": "夜昼国",
+      "status": "登场",
+      "first_appearance": "第三十六章 御驾亲征",
+      "summary": "夜昼国皇帝，实力未完全恢复，决定御驾亲征残海皇。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "有魄力"
+      ],
+      "abilities": [
+        "实力未完全恢复"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "祝应安",
+          "type": "臣属"
+        },
+        {
+          "target": "金顶真人",
+          "type": "臣属"
+        },
+        {
+          "target": "天罗老道",
+          "type": "臣属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阅览奏折，决定御驾亲征，派金顶真人和天罗老道阻挡叛军。"
+        }
+      ],
+      "evidence": [
+        "戚笼扫了一眼奏折，便就放在一边",
+        "戚笼笑了笑，道：“谁说只守不攻的，等两位真人挡住残海皇的兵锋，本皇亲率大军西去”",
+        "本皇主意已定，诸位不用再言"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "金顶真人",
+      "aliases": [
+        "金顶道长"
+      ],
+      "identity": "钦天总司副司长，真人级强者",
+      "faction": "夜昼国",
+      "status": "登场",
+      "first_appearance": "第三十六章 御驾亲征",
+      "summary": "钦天总司副司长，真人级强者，被夜皇派去阻挡残海皇兵锋。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "真人级实力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被夜皇任命阻挡残海皇兵锋。"
+        }
+      ],
+      "evidence": [
+        "金顶道长、天罗道长。",
+        "本皇会给你们一支兵马，不求你们胜过残海皇，但一定要把他的兵锋挡在第十三夜城之前"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "天罗老道",
+      "aliases": [
+        "天罗道长"
+      ],
+      "identity": "皇室首席剑师，真人级强者",
+      "faction": "夜昼国",
+      "status": "登场",
+      "first_appearance": "第三十六章 御驾亲征",
+      "summary": "皇室首席剑师，真人级强者，伤势未愈，被夜皇派去阻挡残海皇兵锋。",
+      "appearance": [],
+      "personality": [
+        "不情愿"
+      ],
+      "abilities": [
+        "真人级实力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被夜皇任命阻挡残海皇兵锋。"
+        }
+      ],
+      "evidence": [
+        "天罗老道眼观鼻、鼻观心，不是不愿，哦不，就是不愿意，他的伤势还没好全呢。",
+        "金顶道长、天罗道长。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "祝应安",
+      "aliases": [
+        "前右丞相"
+      ],
+      "identity": "前右丞相，现负责救济两荒灾",
+      "faction": "夜昼国",
+      "status": "提及",
+      "first_appearance": "第三十六章 御驾亲征",
+      "summary": "前右丞相，被夜皇派去救济两荒灾，同时带兵南下堵截叛军。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "正在全国各地救济两荒灾，并带薛保侯兵马南下。"
+        }
+      ],
+      "evidence": [
+        "正在全国各地救济‘两荒灾’的祝应安早已带着薛保侯这支兵马南下"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "薛保侯",
+      "aliases": [],
+      "identity": "将领",
+      "faction": "夜昼国",
+      "status": "提及",
+      "first_appearance": "第三十六章 御驾亲征",
+      "summary": "夜昼国将领，随祝应安南下。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "祝应安",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随祝应安南下堵截叛军。"
+        }
+      ],
+      "evidence": [
+        "祝应安早已带着薛保侯这支兵马南下"
+      ],
+      "mention_count": 1
+    },
+    {
       "name": "不周",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 御驾亲征",
-      "summary": "然而残海皇却没工夫欣赏此处景色，听了此话，浑身一震，道：“不周妖女也是上古仙家转世",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "然而残海皇却没工夫欣赏此处景色，听了此话，浑身一震，道：“不周妖女也是上古仙家转世",
-        "”    “但是母亲您说过，这夜昼国内封印着一股强烈的上古怨气，这类怨气对于我们这类自大千世界出身的生灵没有太大影响，但对于您这种上古生灵，只要一现身，便会疯狂攻击，那不周又怎么可能成为夜王朝国师的",
-        "”    “此事为娘也不清楚，按理来说，不周身上的上古因果会引发夜昼国那股庞大怨气爆走才对，或许她有什么宝物封印了自身气息"
+      "aliases": [
+        "不周妖女"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "便就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上古天柱残灵所化，夜王朝国师",
+      "faction": "夜王朝",
+      "status": "提及",
       "first_appearance": "第三十六章 御驾亲征",
-      "summary": "”    听到这话，残海皇顿时松了口气，又与水母讨论了下兵力布置，便就告辞离去",
+      "summary": "上古最大一根天柱残灵所化，夜王朝国师，因身上上古因果无法亲自出手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    听到这话，残海皇顿时松了口气，又与水母讨论了下兵力布置，便就告辞离去",
-        "”    戚笼扫了一眼奏折，便就放在一边，金丹在小千世界是一流高手，在夜昼国也是一流人物，但在他眼中，也就值得‘哦’上一声"
+      "equipment": [
+        "封印自身气息的宝物"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "事实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 御驾亲征",
-      "summary": "事实上，若不是他实力没有完全恢复，他早就一路平推过去，哪还用跟这些散人之流玩什么远交近攻，拉一派打一派的，直接‘莽’就完了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "事实上，若不是他实力没有完全恢复，他早就一路平推过去，哪还用跟这些散人之流玩什么远交近攻，拉一派打一派的，直接‘莽’就完了",
-        "事实上，戚笼比谁都清楚局势，因为正在全国各地救济‘两荒灾’的祝应安早已带着薛保侯这支兵马南下，准备去堵住缺口，他在沿海有无数眼线"
+      "relationships": [
+        {
+          "target": "夜天宗",
+          "type": "找来的顶缸者"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 御驾亲征",
-      "summary": "”    戚笼点头，只是笑道：“全国精锐好聚，只是不知国内有哪位悍将，能够敌得过那位残海皇",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼点头，只是笑道：“全国精锐好聚，只是不知国内有哪位悍将，能够敌得过那位残海皇"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被西海水母提及，无法亲自出手。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "避开",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 御驾亲征",
-      "summary": "”    “那倒不是，她是上古最大一根天柱残灵所化，在很早以前就被一尊先天大神无意撞毁了本体，倒是因祸得福，避开了上古末年的大破灭，后来生了灵，便到处游历，真实目的与为娘一般，都是为了修复伤势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    “那倒不是，她是上古最大一根天柱残灵所化，在很早以前就被一尊先天大神无意撞毁了本体，倒是因祸得福，避开了上古末年的大破灭，后来生了灵，便到处游历，真实目的与为娘一般，都是为了修复伤势"
+        "不周妖女也是上古仙家转世？",
+        "她是上古最大一根天柱残灵所化",
+        "她若要从上古怨气中脱身，必然不能亲自出手"
       ],
       "mention_count": 3
     },
     {
-      "name": "真实",
+      "name": "夜天宗",
       "aliases": [],
-      "identity": "",
+      "identity": "被不周找来的顶缸者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第三十六章 御驾亲征",
-      "summary": "”    “那倒不是，她是上古最大一根天柱残灵所化，在很早以前就被一尊先天大神无意撞毁了本体，倒是因祸得福，避开了上古末年的大破灭，后来生了灵，便到处游历，真实目的与为娘一般，都是为了修复伤势",
+      "summary": "被不周找来的顶缸者，代替不周出手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “那倒不是，她是上古最大一根天柱残灵所化，在很早以前就被一尊先天大神无意撞毁了本体，倒是因祸得福，避开了上古末年的大破灭，后来生了灵，便到处游历，真实目的与为娘一般，都是为了修复伤势"
+      "relationships": [
+        {
+          "target": "不周",
+          "type": "被利用"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被西海水母提及。"
+        }
+      ],
+      "evidence": [
+        "那位夜天宗便是她找来顶缸的"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "此事",
+      "name": "天同大学士",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "夜昼国大学士",
+      "faction": "夜昼国",
       "status": "登场",
       "first_appearance": "第三十六章 御驾亲征",
-      "summary": "”    “此事为娘也不清楚，按理来说，不周身上的上古因果会引发夜昼国那股庞大怨气爆走才对，或许她有什么宝物封印了自身气息",
+      "summary": "夜昼国大学士，主张聚集精锐击溃叛军。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "凛然"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “此事为娘也不清楚，按理来说，不周身上的上古因果会引发夜昼国那股庞大怨气爆走才对，或许她有什么宝物封印了自身气息",
-        "“你做的不错，此事结束后，便回归龙庭吧",
-        "”    “此事过后，本皇允诺你们在皇城开辟福地"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "君臣"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "按理",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 御驾亲征",
-      "summary": "”    “此事为娘也不清楚，按理来说，不周身上的上古因果会引发夜昼国那股庞大怨气爆走才对，或许她有什么宝物封印了自身气息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “此事为娘也不清楚，按理来说，不周身上的上古因果会引发夜昼国那股庞大怨气爆走才对，或许她有什么宝物封印了自身气息"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在朝堂上建议聚集精锐击溃叛军。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "屏风",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 御驾亲征",
-      "summary": "等残海皇离开之后，雍容华贵的水母连忙从贝床上起身，朝着屏风后的一道人影鞠躬",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "等残海皇离开之后，雍容华贵的水母连忙从贝床上起身，朝着屏风后的一道人影鞠躬",
-        "”    屏风后一道儒雅的声音缓缓响起"
+        "天同大学士凛然道：“为今之际，只有聚集全国精锐，以一悍将为主帅”"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "你做",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 御驾亲征",
-      "summary": "“你做的不错，此事结束后，便回归龙庭吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你做的不错，此事结束后，便回归龙庭吧"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

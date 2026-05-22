@@ -1,250 +1,273 @@
 {
   "chunk_id": "chunk-0369",
-  "title": "第367章祸首",
   "characters": [
-    {
-      "name": "袁明妃",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第367章祸首",
-      "summary": "”　　袁明妃的这个说法，并不能让李钧信服",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃的这个说法，并不能让李钧信服",
-        "袁明妃读懂了李钧脸上的表情，“非要问",
-        "”　　袁明妃嘴角上扬，露出一口洁白牙齿，“当然是，祸首"
-      ],
-      "mention_count": 26
-    },
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "止戈武夫，序列品秩与袁明妃相同",
       "faction": "",
       "status": "登场",
       "first_appearance": "第367章祸首",
-      "summary": "第367章祸首　　李钧看着那双戏谑的眼睛，怔了片刻之后，突然伸手将怀中的指虎勾了出来",
+      "summary": "与袁明妃对话，了解独行武序和西番佛门内幕，决定从杀人开始行动。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第367章祸首　　李钧看着那双戏谑的眼睛，怔了片刻之后，突然伸手将怀中的指虎勾了出来",
-        "李花挂在李钧胸口的衣襟上，在两人中间来回打量一眼，立刻心领神会，大声喊道：“姐，我错了",
-        "”　　李钧尴尬的咳了两声，用眼神回应仰着头朝自己邀功的李花"
+      "personality": [
+        "谨慎",
+        "果断",
+        "有杀意"
       ],
-      "mention_count": 25
+      "abilities": [],
+      "equipment": [
+        "指虎"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "盟友"
+        },
+        {
+          "target": "李花",
+          "type": "姐妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁明妃交谈，得知独行武序和西番佛门内幕，决定行动。"
+        }
+      ],
+      "evidence": [
+        "李钧看着那双戏谑的眼睛，怔了片刻之后，突然伸手将怀中的指虎勾了出来。",
+        "李钧缓缓吐出一口含着杀意的热气，“是捕杀还是圈养？”",
+        "李钧长身而起，大步出门，“那就从杀人起！”"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "袁明",
+      "name": "袁明妃",
       "aliases": [],
-      "identity": "",
+      "identity": "从西番逃出的叛徒，曾被桑烟寺和大昭寺通缉",
       "faction": "",
       "status": "登场",
       "first_appearance": "第367章祸首",
-      "summary": "”　　袁明妃的这个说法，并不能让李钧信服",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃的这个说法，并不能让李钧信服",
-        "袁明妃读懂了李钧脸上的表情，“非要问",
-        "”　　袁明妃嘴角上扬，露出一口洁白牙齿，“当然是，祸首"
+      "summary": "向李钧讲述自己在西番的经历，包括被桑烟寺抓捕、与独行武序相遇、逃出等。",
+      "appearance": [
+        "没有仿生皮肤，身体裸露"
       ],
-      "mention_count": 17
+      "personality": [
+        "胆大",
+        "果断",
+        "漫不经心"
+      ],
+      "abilities": [
+        "佛国主机（埋于体内）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "盟友"
+        },
+        {
+          "target": "李花",
+          "type": "认作妹妹"
+        },
+        {
+          "target": "曹仓",
+          "type": "保护对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在西番被桑烟寺抓捕，与独行武序关在一起，后趁乱逃出。"
+        },
+        {
+          "stage": "过去",
+          "event": "因独行武序事件被桑烟寺和大昭寺通缉。"
+        },
+        {
+          "stage": "当前",
+          "event": "向李钧讲述经历，并告知独行武序的仪轨。"
+        }
+      ],
+      "evidence": [
+        "袁明妃的描述并不仔细，但李钧却能从字里行间，听到鲜血从撕裂的血管中喷溅出来的声音。",
+        "袁明妃系好衣衫，淡淡道:“她们也许准备拿我当交媾的试验品，所以把我和一名丧失了神智，已经成为痴愚傀儡的独行武序六关在了一起。”",
+        "女人指着自己的鼻子，笑容嘲讽，“而我也因此被桑烟寺通缉。大昭寺得知我居然敢重返西番，自然也是火冒三丈，毫不犹豫加入到了追杀之中。”"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "而是",
+      "name": "李花",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧的妹妹",
       "faction": "",
       "status": "登场",
       "first_appearance": "第367章祸首",
-      "summary": "”　　这次，袁明妃并没有着急回答，而是慢慢将手搭上了腰间的细带",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这次，袁明妃并没有着急回答，而是慢慢将手搭上了腰间的细带",
-        "”　　李钧并没有深思这句话，而是直接了当问道：“那你是怎么知道独行武序五的仪轨",
-        "”　　“你说的这两个词，并不是两个不同的选择，而是同一个互相嵌套的流程"
+      "summary": "李钧的妹妹，挂在李钧胸口衣襟上，与袁明妃互动。",
+      "appearance": [
+        "小脑袋，大眼，两腮鼓囊囊，稚嫩的脸上杀气腾腾"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "自然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第367章祸首",
-      "summary": "大昭寺得知我居然敢重返西番，自然也是火冒三丈，毫不犹豫加入到了追杀之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "大昭寺得知我居然敢重返西番，自然也是火冒三丈，毫不犹豫加入到了追杀之中",
-        "一个独行武序发现自己竟然成了别人囚禁的种马，自然只能用敌人的鲜血来洗刷自己的耻辱",
-        "”　　话至此处，原因所在，自然不言自明"
+      "personality": [
+        "心领神会",
+        "有杀气"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "并不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第367章祸首",
-      "summary": "”　　袁明妃的这个说法，并不能让李钧信服",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃的这个说法，并不能让李钧信服",
-        "袁明妃的描述并不仔细，但李钧却能从字里行间，听到鲜血从撕裂的血管中喷溅出来的声音",
-        "你有没有想过，虽然你们比起门派武序来说，更加注重个体，并不在乎什么传承和接替"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "兄妹"
+        },
+        {
+          "target": "袁明妃",
+          "type": "认作姐姐"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "女人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第367章祸首",
-      "summary": "”　　女人微愣，“嗯",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　女人微愣，“嗯",
-        "女人指着自己的鼻子，笑容嘲讽，“而我也因此被桑烟寺通缉",
-        "”　　女人打趣着，一双眼睛却弯如弦月"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在李钧胸口，与袁明妃互动。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "佛序",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第367章祸首",
-      "summary": "”　　李钧学着她的动作，将腿放在桌上，“佛序啊，我最喜欢杀的就是他们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　李钧学着她的动作，将腿放在桌上，“佛序啊，我最喜欢杀的就是他们",
-        "”　　“在那场战斗中，我亲眼看到他在一众护法神的重重包围之中完成了序列晋升，将那处所有的佛序全部屠杀干净，最后直奔桑烟寺驻地而去",
-        "两大佛序重企的联手追杀，听着就让人头皮发麻"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "突然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第367章祸首",
-      "summary": "第367章祸首　　李钧看着那双戏谑的眼睛，怔了片刻之后，突然伸手将怀中的指虎勾了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第367章祸首　　李钧看着那双戏谑的眼睛，怔了片刻之后，突然伸手将怀中的指虎勾了出来"
+        "李花挂在李钧胸口的衣襟上，在两人中间来回打量一眼，立刻心领神会，大声喊道：“姐，我错了。”",
+        "一个小脑袋从他胸口冒了出来，大眼瞪圆，两腮鼓囊囊，稚嫩的脸上杀气腾腾！"
       ],
       "mention_count": 3
     },
     {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "苏策",
+      "aliases": [
+        "苏老头"
+      ],
+      "identity": "倭区锦衣卫千户，门派武序三",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第367章祸首",
-      "summary": "”　　袁明妃嘴角上扬，露出一口洁白牙齿，“当然是，祸首",
+      "summary": "倭区锦衣卫千户，因长期待在倭区且序列原因，对某些事情不知情。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被提及"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　袁明妃嘴角上扬，露出一口洁白牙齿，“当然是，祸首"
+        "他虽然是门派武序三，但这么多年来一直待在倭区，远离帝国本土。",
+        "苏策是什么人？堂堂倭区锦衣卫千户。"
       ],
-      "mention_count": 3
+      "mention_count": 2
     },
     {
-      "name": "你刚",
+      "name": "曹仓",
       "aliases": [],
-      "identity": "",
+      "identity": "被隆图打得只剩械心的人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第367章祸首",
-      "summary": "”　　见李钧坚持，袁明妃也不再犹豫，叹了口气后说道：“你刚才不是问我曹仓去哪儿了吗",
+      "summary": "在重庆府被隆图打得只剩械心，后被袁明妃保护。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　见李钧坚持，袁明妃也不再犹豫，叹了口气后说道：“你刚才不是问我曹仓去哪儿了吗"
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "被保护"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在重庆府被隆图打得只剩械心。"
+        }
+      ],
+      "evidence": [
+        "在重庆府的时候，这小子为了保护我，被隆图打的就剩一颗械心了。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "在杀",
-      "aliases": [],
-      "identity": "",
+      "name": "独行武序",
+      "aliases": [
+        "独行武序五",
+        "独行武序六"
+      ],
+      "identity": "独行武序，曾屠杀桑烟寺佛序",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第367章祸首",
-      "summary": "”　　要知道她本就是从西番逃出的叛徒，在杀了大昭寺的人之后，却又悄然折返，当真是胆大包天",
+      "summary": "一名独行武序，被桑烟寺抓捕后丧失神智，后被袁明妃唤醒，屠杀桑烟寺佛序，最终被杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "心猿（进化后）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "被唤醒"
+        },
+        {
+          "target": "桑烟寺",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被桑烟寺抓捕，丧失神智，后被袁明妃唤醒。"
+        },
+        {
+          "stage": "过去",
+          "event": "屠杀桑烟寺佛序，杀死五名佛序五的怙主，两名佛序四的大黑天。"
+        },
+        {
+          "stage": "过去",
+          "event": "被桑烟寺杀死，剥皮拆骨。"
+        }
+      ],
+      "evidence": [
+        "一个独行武序发现自己竟然成了别人囚禁的种马，自然只能用敌人的鲜血来洗刷自己的耻辱。",
+        "他用一双拳头砸烂了那个名为‘嘎乌盒’的试验场，连杀了三个坐镇此地的佛序六，我也趁乱逃了出来。",
+        "在我离开西番的时候，我得到消息，他已经死在了桑烟寺，剥皮拆骨，所有零部件全部被掏了出来，依次摆在寺门之前。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "隆图",
+      "aliases": [],
+      "identity": "曾将曹仓打得只剩械心",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第367章祸首",
+      "summary": "在重庆府将曹仓打得只剩械心。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　要知道她本就是从西番逃出的叛徒，在杀了大昭寺的人之后，却又悄然折返，当真是胆大包天"
+      "relationships": [
+        {
+          "target": "曹仓",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在重庆府攻击曹仓。"
+        }
+      ],
+      "evidence": [
+        "在重庆府的时候，这小子为了保护我，被隆图打的就剩一颗械心了。"
+      ],
+      "mention_count": 1
     }
   ]
 }

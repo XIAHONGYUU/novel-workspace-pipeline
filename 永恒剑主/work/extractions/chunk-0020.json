@@ -1,99 +1,184 @@
 {
   "chunk_id": "chunk-0020",
-  "title": "第十八章 调查",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "林家人，疑似修炼血丹法",
       "faction": "",
       "status": "登场",
       "first_appearance": "第十八章 调查",
-      "summary": "林新心头压抑不住的狂跳，忽然感觉一道目光落在自己身上，抬眼一看，赫然是那苏婉，似笑非笑的扫了自己一眼，又随意的移开视线",
+      "summary": "林新在拜师梅花宗时被检测出血毒气，后被发现体内有污血虫，疑似与血丹法有关。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "紧张"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新心头压抑不住的狂跳，忽然感觉一道目光落在自己身上，抬眼一看，赫然是那苏婉，似笑非笑的扫了自己一眼，又随意的移开视线",
-        "”　　林新忽然想到安颖也是知道自己归元丹的事，侧眼偷偷朝着安颖看去，这个心思单纯的女孩果然眉目间泛起一丝担心，眼角也不时的朝着自己这边飘来",
-        "安颖偷偷看了眼林新，得到他的肯定眼神后，顿时眉开眼笑起来"
+      "relationships": [
+        {
+          "target": "安颖",
+          "type": "同伴"
+        },
+        {
+          "target": "奴月仙子",
+          "type": "拜师对象"
+        },
+        {
+          "target": "苏婉",
+          "type": "调查者"
+        }
       ],
-      "mention_count": 34
-    },
-    {
-      "name": "奴月",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "”奴月仙子明显感知方面迟钝太多，以为两人只是因为能拜入仙宗而惊喜紧张，也不以为意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”奴月仙子明显感知方面迟钝太多，以为两人只是因为能拜入仙宗而惊喜紧张，也不以为意",
-        "”奴月眉角柔和许多，对这女孩颇有好感起来",
-        "本不需要现在就跪拜的……　　奴月本想说话，但对方已经跪下去砰砰砰的磕了九个响头，她顿时难得的脸上露出一丝笑意"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜师梅花宗时被检测出血毒气和污血虫，被苏婉和奴月仙子调查。"
+        }
       ],
-      "mention_count": 21
+      "evidence": [
+        "林新心头压抑不住的狂跳，忽然感觉一道目光落在自己身上，抬眼一看，赫然是那苏婉，似笑非笑的扫了自己一眼",
+        "奴月仙子左手捏了个法决，手指如同莲花一般快速弹跳变化着，同时另一只手从腰囊中取出一枚金色长针",
+        "林新狠狠倒飞出去。诡异的是，他居然没有感到丝毫疼痛。而束缚他的气流也彻底消失了，他愕然抬头，却看到身侧一团暗红污血溅射在地上。"
+      ],
+      "mention_count": 25
     },
     {
       "name": "苏婉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "苏婉师妹"
+      ],
+      "identity": "御风宗天才",
+      "faction": "御风宗",
       "status": "登场",
       "first_appearance": "第十八章 调查",
-      "summary": "林新心头压抑不住的狂跳，忽然感觉一道目光落在自己身上，抬眼一看，赫然是那苏婉，似笑非笑的扫了自己一眼，又随意的移开视线",
+      "summary": "御风宗天才，前来调查诡异事件，多次打断林新拜师，最终发现林新体内的污血虫。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新心头压抑不住的狂跳，忽然感觉一道目光落在自己身上，抬眼一看，赫然是那苏婉，似笑非笑的扫了自己一眼，又随意的移开视线",
-        "”忽然苏婉的声音又传过来，打断林新的拜师语",
-        "林新心头一沉，他最担心的就是这个苏婉看出些什么"
+      "personality": [
+        "似笑非笑",
+        "谨慎"
       ],
-      "mention_count": 17
+      "abilities": [],
+      "equipment": [
+        "小瓶（装有透明清水）"
+      ],
+      "relationships": [
+        {
+          "target": "奴月仙子",
+          "type": "同门（师妹）"
+        },
+        {
+          "target": "林新",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "调查林新体内的异常，发现污血虫。"
+        }
+      ],
+      "evidence": [
+        "苏婉手里不知道什么时候多了一只白鸽，正随意的逗弄着鸽子，另一只手上拿着一卷小纸条",
+        "苏婉跃到身边，手中不知道什么时候拿出一个小瓶，往下一倒，瓶内流出透明清水，浇在污血上，却发出硫酸遇水一般的剧烈反应嘶嘶声。",
+        "苏婉收起小瓶，面色凝重。‘这就是我来此调查的东西。’"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "而且",
+      "name": "奴月仙子",
+      "aliases": [
+        "奴月"
+      ],
+      "identity": "梅花宗仙子",
+      "faction": "梅花宗",
+      "status": "登场",
+      "first_appearance": "第十八章 调查",
+      "summary": "梅花宗仙子，负责收徒，为林新检测血丹法，发现其体内污血虫。",
+      "appearance": [],
+      "personality": [
+        "柔和",
+        "严谨"
+      ],
+      "abilities": [
+        "血丹测试法"
+      ],
+      "equipment": [
+        "金色长针"
+      ],
+      "relationships": [
+        {
+          "target": "苏婉",
+          "type": "同门（师姐）"
+        },
+        {
+          "target": "林新",
+          "type": "拜师对象"
+        },
+        {
+          "target": "安颖",
+          "type": "收徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为林新检测血丹法，发现污血虫。"
+        }
+      ],
+      "evidence": [
+        "奴月仙子明显感知方面迟钝太多，以为两人只是因为能拜入仙宗而惊喜紧张",
+        "奴月仙子左手捏了个法决，手指如同莲花一般快速弹跳变化着，同时另一只手从腰囊中取出一枚金色长针。",
+        "奴月走到他身边，也是同样眼神凝重。‘这些家伙居然已经侵入到这里来了？’"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "安颖",
       "aliases": [],
-      "identity": "",
+      "identity": "林家人，心思单纯的女孩",
       "faction": "",
       "status": "登场",
       "first_appearance": "第十八章 调查",
-      "summary": "第十八章 调查　　再听到后面对血丹之法的惩处，他心头更是狠狠跳了下，归元丹的炼制方法异常麻烦艰难，而且里面不就是蕴含了蜘蛛卵之类的活虫",
+      "summary": "林新同伴，被奴月仙子收为弟子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "心思单纯",
+        "老实"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同伴"
+        },
+        {
+          "target": "奴月仙子",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被奴月仙子收为梅花宗弟子。"
+        }
+      ],
       "evidence": [
-        "第十八章 调查　　再听到后面对血丹之法的惩处，他心头更是狠狠跳了下，归元丹的炼制方法异常麻烦艰难，而且里面不就是蕴含了蜘蛛卵之类的活虫",
-        "而且自己有着异能在身，就算资质差也或许有补救之法",
-        "”　　“我看不到她的脸，只是看到她一直在哭，而且无论我怎么移动角度，都只能看到她背对着我"
+        "安颖也是知道自己归元丹的事，侧眼偷偷朝着安颖看去，这个心思单纯的女孩果然眉目间泛起一丝担心",
+        "安颖老实的回答，虽然眼里很是渴望，但还是没有隐瞒。",
+        "安颖偷偷看了眼林新，得到他的肯定眼神后，顿时眉开眼笑起来。"
       ],
       "mention_count": 6
     },
     {
-      "name": "只是",
+      "name": "林志文",
       "aliases": [],
-      "identity": "",
+      "identity": "林家人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第十八章 调查",
-      "summary": "”奴月仙子明显感知方面迟钝太多，以为两人只是因为能拜入仙宗而惊喜紧张，也不以为意",
+      "summary": "林家人，似乎察觉到异常。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -101,153 +186,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”奴月仙子明显感知方面迟钝太多，以为两人只是因为能拜入仙宗而惊喜紧张，也不以为意",
-        "“没什么，只是感觉这个小哥，身上好像有些不对……”　　苏婉笑意盎然",
-        "“只是血毒气"
+        "只有林志文似乎有些发觉什么，眉头越发紧蹙起来。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "“可我不是林家人……这是林家老爷用宝物换来的……”安颖老实的回答，虽然眼里很是渴望，但还是没有隐瞒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“可我不是林家人……这是林家老爷用宝物换来的……”安颖老实的回答，虽然眼里很是渴望，但还是没有隐瞒",
-        "”奴月有些不满了，抬头看向苏婉，虽然对方实力高强，是御风宗有名的天才，但在这种入门大事上老是干扰，也有些不像话"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "只能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "不过此时无法，只能硬着头皮等着两人说话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过此时无法，只能硬着头皮等着两人说话",
-        "只能老老实实跪在地上",
-        "他不由自主的眼睛一片刺痛，只能闭上"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "而他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "而他心窝处的内气核心也慢慢开始沸腾起来，仿佛被什么东西激活了一般，开始缓缓朝着头部上移，迎着那金线而去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而他心窝处的内气核心也慢慢开始沸腾起来，仿佛被什么东西激活了一般，开始缓缓朝着头部上移，迎着那金线而去",
-        "而他也看到奴月和苏婉慢慢冷下来的神色，心头终于彻底沉入谷底"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "安颖偷偷看了眼林新，得到他的肯定眼神后，顿时眉开眼笑起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "安颖偷偷看了眼林新，得到他的肯定眼神后，顿时眉开眼笑起来",
-        "本不需要现在就跪拜的……　　奴月本想说话，但对方已经跪下去砰砰砰的磕了九个响头，她顿时难得的脸上露出一丝笑意",
-        "她手指一挑，顿时从林新眉心处挑出一丝红线一样的虫子"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "她手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "她手指一挑，顿时从林新眉心处挑出一丝红线一样的虫子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她手指一挑，顿时从林新眉心处挑出一丝红线一样的虫子",
-        "她手上的法决变换越来越急，越来越快"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "“苏婉师妹，还有什么事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“苏婉师妹，还有什么事",
-        "“还有不对"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "化为",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十八章 调查",
-      "summary": "只见她轻轻一捏，那长针居然自动寸寸断裂，化为一片金色粉末缓缓落下，奇异的是，这些金色粉末居然在她左手法决周围旋转起来，仿佛有股无形的力量牵引着这些金粉不断飞舞",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只见她轻轻一捏，那长针居然自动寸寸断裂，化为一片金色粉末缓缓落下，奇异的是，这些金色粉末居然在她左手法决周围旋转起来，仿佛有股无形的力量牵引着这些金粉不断飞舞",
-        "很快污血便迅速干涸，化为一摊黑灰"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

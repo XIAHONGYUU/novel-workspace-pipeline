@@ -1,258 +1,312 @@
 {
   "chunk_id": "chunk-0154",
-  "title": "第一百五十二章 铸剑（四）",
   "characters": [
     {
-      "name": "富态",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”另一人头戴一顶黑方巾，双眼黑亮犹如明珠，脸颊丰腴，很是富态",
+      "name": "林新",
+      "aliases": [
+        "庄主"
+      ],
+      "identity": "灵心山庄庄主，松林剑派镇压者",
+      "faction": "松林剑派",
+      "status": "在铸剑关键时刻",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "灵心山庄庄主，正在铸剑的关键时刻，受到外界觊觎。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”另一人头戴一顶黑方巾，双眼黑亮犹如明珠，脸颊丰腴，很是富态",
-        "”富态文士轻轻给自己酒杯斟酒，问道",
-        "”富态文士也是笑起来"
+      "relationships": [
+        {
+          "target": "林志文",
+          "type": "父亲"
+        },
+        {
+          "target": "赵玉娘",
+          "type": "母亲"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在灵心山庄铸剑，处于关键时刻，不能受外力干扰。"
+        }
+      ],
+      "evidence": [
+        "敢问羊老，我儿现在如何？",
+        "只要没有外力干扰庄主，应该能够一切顺利。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "富态文",
+      "name": "羊老",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”富态文士轻轻给自己酒杯斟酒，问道",
+      "identity": "灵心山庄的资深人物，可能是管家或长老",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "灵心山庄的资深人物，负责向林新父母解释铸剑情况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”富态文士轻轻给自己酒杯斟酒，问道",
-        "”富态文士也是笑起来",
-        "”富态文士拱手正色道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新父母解释铸剑风险。"
+        }
+      ],
+      "evidence": [
+        "羊老缓缓道",
+        "两位不必担心。只要没有外力干扰庄主，应该能够一切顺利。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林志文",
+      "aliases": [],
+      "identity": "林新的父亲",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "林新的父亲，关心儿子铸剑情况。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "儿子"
+        },
+        {
+          "target": "赵玉娘",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵玉娘一同询问羊老林新的情况。"
+        }
+      ],
+      "evidence": [
+        "敢问羊老，我儿现在如何？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵玉娘",
+      "aliases": [],
+      "identity": "林新的母亲",
+      "faction": "灵心山庄",
+      "status": "在场",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "林新的母亲，关心儿子铸剑情况。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "儿子"
+        },
+        {
+          "target": "林志文",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林志文一同询问羊老林新的情况。"
+        }
+      ],
+      "evidence": [
+        "赵玉娘也是有些担忧。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "岳姓文士",
+      "aliases": [
+        "岳兄"
+      ],
+      "identity": "天光境的高阶修士，与富态文士有千年交情",
+      "faction": "",
+      "status": "在天光境酒楼与富态文士交谈",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "一位高阶修士，拥有宝光神通，曾借来龙仙瓶，负责审查各地镇压者。",
+      "appearance": [
+        "瘦脸"
+      ],
+      "personality": [],
+      "abilities": [
+        "宝光神通"
+      ],
+      "equipment": [
+        "龙仙瓶"
+      ],
+      "relationships": [
+        {
+          "target": "富态文士",
+          "type": "千年好友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与富态文士在天光境酒楼交谈，讨论虫母、玄叶教等事宜。"
+        }
+      ],
+      "evidence": [
+        "岳兄又是心有所感，这次难道有什么新的宝贝出世了？",
+        "为了这次虫母镇压，我特地去了黄龙观为你借来龙仙瓶"
+      ],
+      "mention_count": 8
     },
     {
       "name": "富态文士",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”富态文士轻轻给自己酒杯斟酒，问道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”富态文士轻轻给自己酒杯斟酒，问道",
-        "”富态文士也是笑起来",
-        "”富态文士拱手正色道"
+      "identity": "天光境的高阶修士，四宗地域的掌权者之一",
+      "faction": "四宗",
+      "status": "在天光境酒楼与岳姓文士交谈",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "一位高阶修士，拥有御风鼓，与岳姓文士有千年交情，负责四宗地域事务。",
+      "appearance": [
+        "脸颊丰腴",
+        "富态"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "其中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "其中松林剑派下列中，赫然有乐府境三个大字……　　“我会亲自派人审查这些境内镇压者，若是发现……”　　“若是发现问题，岳兄之人可随意处置，就地击杀",
-      "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其中松林剑派下列中，赫然有乐府境三个大字……　　“我会亲自派人审查这些境内镇压者，若是发现……”　　“若是发现问题，岳兄之人可随意处置，就地击杀",
-        "有人言其中必有异宝降世",
-        "但总有些些心思不定之人，悄然前往，其中不乏有散修真人，妖王"
+      "equipment": [
+        "御风鼓"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "其中松林剑派下列中，赫然有乐府境三个大字……　　“我会亲自派人审查这些境内镇压者，若是发现……”　　“若是发现问题，岳兄之人可随意处置，就地击杀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其中松林剑派下列中，赫然有乐府境三个大字……　　“我会亲自派人审查这些境内镇压者，若是发现……”　　“若是发现问题，岳兄之人可随意处置，就地击杀",
-        "若是没有内应传出那林新在运功关键时刻，怕是你们连聚集起来都不敢吧",
-        "毕竟一件快要成型的三品法器太过珍贵，法器提升品质时和主人的关联最弱，若是能够成功到手，祭练也能省下很大一笔心力"
+      "relationships": [
+        {
+          "target": "岳姓文士",
+          "type": "千年好友"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "大家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "山庄安定则乐府境安定，大家也能安居乐业",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "山庄安定则乐府境安定，大家也能安居乐业",
-        "“嘿嘿，这里来的同道可不少，看来大家都是一个目的",
-        "“不像你等，打着复仇的名义，想做什么，大家都清楚"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与岳姓文士在天光境酒楼交谈，讨论虫母、玄叶教等事宜。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”羊老缓缓道，“所以，这些天外面重兵把守，整个山庄高度禁烟，就是如此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”羊老缓缓道，“所以，这些天外面重兵把守，整个山庄高度禁烟，就是如此",
-        "“没什么意思，就是看不惯你们假惺惺提什么报仇，想干什么以为别人都是瞎子看不见么",
-        "老家伙我就是为了三品异象而来，有此异象，必定会出世一件三品法器，但现在两位高人到场，我是不指望了，顶多打算喝点汤"
+        "上次见到老哥的御风鼓还是两百年前",
+        "这是我四宗共同意愿。"
       ],
       "mention_count": 5
     },
     {
-      "name": "这个",
+      "name": "抱婴真人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "“这个算",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这个算",
-        "”　　“这个也算",
-        "”　　“松林剑派通天松纹剑，可一剑通天，破云气开阴煞，定阴阳，这个可又算不算"
+      "identity": "黑风山的散修，修神道，聚众生信仰",
+      "faction": "散修",
+      "status": "在灵心山庄周围山林中窥视",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "一位修神道的散修，对灵心山庄的红光异象感兴趣，意图夺取三品法器。",
+      "appearance": [
+        "满脸横肉",
+        "黑衣道人",
+        "怀抱黑色襁褓"
       ],
-      "mention_count": 5
+      "personality": [],
+      "abilities": [
+        "聚神之力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白虎妖王",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在灵心山庄周围山林中窥视，与白虎妖王及其他散修相遇。"
+        }
+      ],
+      "evidence": [
+        "我道是谁，原来是黑风山的抱婴真人",
+        "抱婴真人扫视一圈，心下明白情况。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "岳姓",
+      "name": "白虎妖王",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”岳姓文士点头",
-      "appearance": [],
+      "identity": "化形期妖王，相当于筑基期",
+      "faction": "妖族",
+      "status": "在灵心山庄周围山林中窥视",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "一位化形期妖王，对灵心山庄的红光异象感兴趣。",
+      "appearance": [
+        "黄毛花斑白额大虎",
+        "虎头人身",
+        "黄袍道人"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”岳姓文士点头",
-        "”　　岳姓文士微微顿了下",
-        "”岳姓文士笑呵呵道"
+      "relationships": [
+        {
+          "target": "抱婴真人",
+          "type": "相识"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在灵心山庄周围山林中窥视，与抱婴真人及其他散修相遇。"
+        }
+      ],
+      "evidence": [
+        "我道是谁，原来是黑风山的抱婴真人",
+        "白虎妖王大声道"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "岳姓文",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”岳姓文士点头",
-      "appearance": [],
-      "personality": [],
+      "name": "黄词",
+      "aliases": [
+        "黄词老儿"
+      ],
+      "identity": "散修老者",
+      "faction": "散修",
+      "status": "在灵心山庄周围山林中",
+      "first_appearance": "第152章 铸剑（四）",
+      "summary": "一位散修老者，对三品异象感兴趣，但自知实力不足，只打算喝汤。",
+      "appearance": [
+        "白发"
+      ],
+      "personality": [
+        "直率",
+        "毒舌"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”岳姓文士点头",
-        "”　　岳姓文士微微顿了下",
-        "”岳姓文士笑呵呵道"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在灵心山庄周围山林中与其他散修争论。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "岳姓文士",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”岳姓文士点头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”岳姓文士点头",
-        "”　　岳姓文士微微顿了下",
-        "”岳姓文士笑呵呵道"
+        "黄词老儿，你这话是什么意思？！",
+        "老家伙我就是为了三品异象而来"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "散修",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十二章 铸剑（四）",
-      "summary": "”　　“也是，散修势力也是麻烦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“也是，散修势力也是麻烦",
-        "但总有些些心思不定之人，悄然前往，其中不乏有散修真人，妖王",
-        "抱婴真人也是如此，他修的是神道，不走结丹化婴的练气士之路，练的是聚神之力，聚众生烟火信仰化为神躯，也算是远近闻名的散修之一"
-      ],
-      "mention_count": 5
+      "mention_count": 3
     }
   ]
 }

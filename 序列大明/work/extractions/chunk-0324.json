@@ -1,28 +1,6 @@
 {
   "chunk_id": "chunk-0324",
-  "title": "第322章三息",
   "characters": [
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第322章三息",
-      "summary": "”　　他突然开口问向李钧，“我就问你一句，伱信不信我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他突然开口问向李钧，“我就问你一句，伱信不信我",
-        "”　　一头浑身戾气翻涌的夏虎于雪地之中发出震耳的咆哮，须发皆张，神态狂放，迎着撞来的李钧一拳轰出",
-        "敲出的只有一涓一滴的狠辣，不断累积盘踞在李钧的心头"
-      ],
-      "mention_count": 20
-    },
     {
       "name": "陈乞生",
       "aliases": [],
@@ -30,228 +8,183 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第322章三息",
-      "summary": "第322章三息　　“陈乞生，你丫的原来还没死啊",
+      "summary": "与马王爷、李钧等人敌对，似乎与李钧有旧怨，计划在雷至之时分生死。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "狞笑",
+        "肃穆"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第322章三息　　“陈乞生，你丫的原来还没死啊",
-        "不难想象，陈乞生的沉默恐怕在此刻已经是震耳欲聋",
-        "”　　陈乞生狞笑着回了马王爷一声，“行了，要想扯犊子，等咱们一起到了下面有的是时间"
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "在他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第322章三息",
-      "summary": "在他的体内，句芒术内功正在血脉中以极快的速度呼啸流转，从血肉处刨挖出更多生命力，加速伤势的恢复，维持李钧的生命",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在他的体内，句芒术内功正在血脉中以极快的速度呼啸流转，从血肉处刨挖出更多生命力，加速伤势的恢复，维持李钧的生命",
-        "在他看来，一切不过是濒死之人的回光返照罢了",
-        "”　　在他面前，范无咎站在一片残缺不全的尸体中，手中还抓着一颗滴血的头颅"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与马王爷传音通讯，约定三息后雷至时分生死。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "黄天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第322章三息",
-      "summary": "骁狠的黄天拳术直接砸开李钧防御的拳架，荒世夏虎从中门欺身抢进，拉膝迅猛撞向李钧的腹部",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "骁狠的黄天拳术直接砸开李钧防御的拳架，荒世夏虎从中门欺身抢进，拉膝迅猛撞向李钧的腹部",
-        "这一刻，所谓的黄天体魄，脆弱的如同纸糊的一般",
-        "”　　“黄天不灭"
+        "陈乞生狞笑着回了马王爷一声",
+        "陈乞生看着头顶缓缓合拢的云层，冷笑一声。",
+        "陈乞生的话音中透着前所未有的肃穆。"
       ],
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "name": "马王爷",
-      "aliases": [],
+      "aliases": [
+        "马爷"
+      ],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第322章三息",
-      "summary": "”　　马王爷的回应，让传音通讯中陷入了短暂的死寂之中",
+      "summary": "与陈乞生敌对，似乎受伤严重，声音微弱。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　马王爷的回应，让传音通讯中陷入了短暂的死寂之中",
-        "”　　陈乞生狞笑着回了马王爷一声，“行了，要想扯犊子，等咱们一起到了下面有的是时间",
-        "马王爷一声怪叫，快速调动腹部四周的甲片，悄无声息的堆积在对手顶膝的落点处"
+      "equipment": [
+        "墨甲"
       ],
-      "mention_count": 6
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回应陈乞生，调动甲片防御。"
+        }
+      ],
+      "evidence": [
+        "马王爷的回应，让传音通讯中陷入了短暂的死寂之中。",
+        "马王爷一声怪叫，快速调动腹部四周的甲片",
+        "马王爷的声音微弱异常，甚至有些缥缈失真。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "荒世",
-      "aliases": [],
+      "name": "李钧",
+      "aliases": [
+        "老李"
+      ],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第322章三息",
-      "summary": "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-        "”　　李钧和荒世夏虎竟然同时落在自己的武器边",
-        "骁狠的黄天拳术直接砸开李钧防御的拳架，荒世夏虎从中门欺身抢进，拉膝迅猛撞向李钧的腹部"
+      "summary": "与荒世夏虎激战，被陈乞生问话，最终一刀斩杀荒世夏虎。",
+      "appearance": [
+        "面色枯黄",
+        "眸光灰败"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "荒世夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第322章三息",
-      "summary": "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-        "”　　李钧和荒世夏虎竟然同时落在自己的武器边",
-        "骁狠的黄天拳术直接砸开李钧防御的拳架，荒世夏虎从中门欺身抢进，拉膝迅猛撞向李钧的腹部"
+      "personality": [
+        "冷峻"
       ],
-      "mention_count": 6
+      "abilities": [
+        "句芒术内功",
+        "黄天拳术"
+      ],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "被问话"
+        },
+        {
+          "target": "荒世夏虎",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与荒世夏虎激战，最终借助雷光斩杀荒世夏虎。"
+        }
+      ],
+      "evidence": [
+        "李钧又一次被一拳轰退",
+        "李钧神色冷峻，抬脚起步，拖刀狂奔",
+        "浑身电弧跳动的李钧，此刻单手持刀，将荒世夏虎的身躯挑在刀尖"
+      ],
+      "mention_count": 15
     },
     {
       "name": "荒世夏虎",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第322章三息",
-      "summary": "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-        "”　　李钧和荒世夏虎竟然同时落在自己的武器边",
-        "骁狠的黄天拳术直接砸开李钧防御的拳架，荒世夏虎从中门欺身抢进，拉膝迅猛撞向李钧的腹部"
+      "summary": "与李钧激战，最终被李钧一刀斩杀。",
+      "appearance": [
+        "魁伟"
       ],
-      "mention_count": 6
+      "personality": [
+        "狂放",
+        "讥笑"
+      ],
+      "abilities": [
+        "黄天拳术",
+        "黄天体魄"
+      ],
+      "equipment": [
+        "虎头枪"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧激战，被李钧借助雷光斩杀。"
+        }
+      ],
+      "evidence": [
+        "荒世夏虎于雪地之中发出震耳的咆哮",
+        "荒世夏虎脸上笑容越发猖狂",
+        "荒世夏虎看着眼前面色枯黄，眸光灰败的李钧"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "陈乞",
+      "name": "范无咎",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第322章三息",
-      "summary": "第322章三息　　“陈乞生，你丫的原来还没死啊",
+      "summary": "站在一片残缺的尸体中，手中抓着一颗滴血的头颅。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第322章三息　　“陈乞生，你丫的原来还没死啊",
-        "不难想象，陈乞生的沉默恐怕在此刻已经是震耳欲聋",
-        "”　　陈乞生狞笑着回了马王爷一声，“行了，要想扯犊子，等咱们一起到了下面有的是时间"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在尸体中，手持滴血头颅。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "手中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第322章三息",
-      "summary": "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "【剩余精通点324点】　　“手下败将，还敢”　　荒世夏虎浑身气势不弱分毫，手中舞动的长枪如一头狰狞恶龙，呼啸袭出",
-        "绣春刀随着惊雷斩落，以势不可挡之势，将荒世夏虎手中的虎头枪身从中劈断",
-        "”　　在他面前，范无咎站在一片残缺不全的尸体中，手中还抓着一颗滴血的头颅"
+        "在他面前，范无咎站在一片残缺不全的尸体中，手中还抓着一颗滴血的头颅。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "墨甲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第322章三息",
-      "summary": "三息已至，墨甲核心鼓起最后的械音，独眼中红光再次亮起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "三息已至，墨甲核心鼓起最后的械音，独眼中红光再次亮起",
-        "墨甲的大面积破损已经让他的核心也变得不再稳定，随时可能陷入宕机之中"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "马王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第322章三息",
-      "summary": "”　　马王爷的回应，让传音通讯中陷入了短暂的死寂之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　马王爷的回应，让传音通讯中陷入了短暂的死寂之中",
-        "”　　陈乞生狞笑着回了马王爷一声，“行了，要想扯犊子，等咱们一起到了下面有的是时间",
-        "马王爷一声怪叫，快速调动腹部四周的甲片，悄无声息的堆积在对手顶膝的落点处"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

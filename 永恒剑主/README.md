@@ -4,8 +4,8 @@
 
 ## 当前结构
 
-- `source/`
-  原始文本目录
+- `source/YONGHENGJIANZHU.txt`
+  原始文本副本
 - `source/`
   原文与转换稿目录
 - `work/`

@@ -1,253 +1,144 @@
 {
   "chunk_id": "chunk-0061",
-  "title": "第60章 诡异的咒印",
   "characters": [
-    {
-      "name": "医生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "走到床头，穿着白大褂地‘医生’面上流露如释重负之色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "走到床头，穿着白大褂地‘医生’面上流露如释重负之色",
-        "不过二三秒的时间，整管液体都被注射进了苏午体内，‘医生’面露得逞之色，喃喃自语：“破限破限，也不过如此",
-        "”　　‘医生’把用过的针头和试管放进塑料盒收起来，踩下苏午这张床下的四个滚轮，将门打开，推着苏午就走出了房间，在甬道内穿行"
-      ],
-      "mention_count": 23
-    },
-    {
-      "name": "咔哒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "‘咔哒’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘咔哒’",
-        "‘咔哒，咔哒’的声音持续响起",
-        "咔哒"
-      ],
-      "mention_count": 7
-    },
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者，破限者",
       "faction": "",
-      "status": "登场",
+      "status": "被麻翻推走",
       "first_appearance": "第60章 诡异的咒印",
-      "summary": "苏午躺在卧室里，闭着眼睛",
+      "summary": "拥有尸陀鬼之手天赋的驭诡者，被医生麻翻后推至负三层。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午躺在卧室里，闭着眼睛",
-        "这是由‘阴暗之触’此项天赋，为苏午带来的增幅效果",
-        "幸而，床上的苏午似乎并未被这声音惊醒，他的呼吸声没有出现半分波动"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "镇静"
       ],
-      "mention_count": 5
+      "abilities": [
+        "阴暗之触",
+        "尸陀鬼之手（驭诡者）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "被麻翻对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被医生注射麻醉剂后推至负三层"
+        }
+      ],
+      "evidence": [
+        "这是由‘阴暗之触’此项天赋，为苏午带来的增幅效果。",
+        "他如今与尸陀鬼之手的契合度已经达到百分之百，可以完整驱使一只诡异的力量，是真正的‘驭诡者’。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "推着",
+      "name": "医生",
       "aliases": [],
-      "identity": "",
+      "identity": "研究员，老板的追随者",
       "faction": "",
-      "status": "登场",
+      "status": "活跃",
       "first_appearance": "第60章 诡异的咒印",
-      "summary": "”　　‘医生’把用过的针头和试管放进塑料盒收起来，踩下苏午这张床下的四个滚轮，将门打开，推着苏午就走出了房间，在甬道内穿行",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　‘医生’把用过的针头和试管放进塑料盒收起来，踩下苏午这张床下的四个滚轮，将门打开，推着苏午就走出了房间，在甬道内穿行",
-        "在‘医生’推着苏午前脚离开房间，墙上一道影子后脚就裂开缝隙，一股透明色液体从裂隙里汩汩流淌出，洒落地面",
-        "‘医生’推着床发出这么大的声音，不可能惊醒不了她"
+      "summary": "穿着白大褂，头发乱如野草的青年男人，对老板有特殊情感，身上有诡异咒印。",
+      "appearance": [
+        "套着白大褂",
+        "头发乱如野草"
       ],
-      "mention_count": 4
+      "personality": [
+        "精神状态不对劲",
+        "偏执"
+      ],
+      "abilities": [
+        "拥有诡异咒印"
+      ],
+      "equipment": [
+        "麻醉剂",
+        "针头",
+        "试管",
+        "钥匙"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "麻翻对象"
+        },
+        {
+          "target": "老板",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "麻翻苏午并推至负三层"
+        }
+      ],
+      "evidence": [
+        "一个套着白大褂，头发乱如野草的青年男人从房门闪了进来。",
+        "只有我是踏踏实实在做研究的，只有我是真心实意爱老板的。",
+        "大量紫红色的纹络从他皮下浮现出来，遍布其整张面孔，以及裸露在外的脖颈、手掌。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "韵致",
+      "name": "药师",
       "aliases": [],
-      "identity": "",
+      "identity": "团队成员",
       "faction": "",
-      "status": "登场",
+      "status": "可能被麻翻",
       "first_appearance": "第60章 诡异的咒印",
-      "summary": "以及，　　这个‘医生’身上，有若有若无的‘韵致’，那种‘韵致’是诡异独有的东西",
+      "summary": "住在甬道旁的房间，可能已被医生麻翻。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "以及，　　这个‘医生’身上，有若有若无的‘韵致’，那种‘韵致’是诡异独有的东西",
-        "但其却偏偏沾染了诡异的‘韵致’",
-        "苏午感应到医生身上散发而出的，诡异独有的‘韵致’越来越浓厚，他终于确定，眼前这个人，已经被一只诡异施加过‘咒印’"
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "同团队"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "诡异",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "第60章 诡异的咒印　　入夜",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "可能被医生麻翻"
+        }
+      ],
       "evidence": [
-        "第60章 诡异的咒印　　入夜",
-        "他如今与尸陀鬼之手的契合度已经达到百分之百，可以完整驱使一只诡异的力量，是真正的‘驭诡者’",
-        "以及，　　这个‘医生’身上，有若有若无的‘韵致’，那种‘韵致’是诡异独有的东西"
+        "先前自己观察过，确定药师也住在甬道两旁的某一间房内。",
+        "药师已经被‘医生’用同样的手段麻翻了？"
       ],
       "mention_count": 3
     },
     {
-      "name": "场馆",
+      "name": "老板",
       "aliases": [],
-      "identity": "",
+      "identity": "投资方，癌症末期患者",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第60章 诡异的咒印",
-      "summary": "场馆里的大部分灯光都已经关闭，仅剩甬道内的灯盏被调低了亮度，散发出清冷的白光，将这深夜映衬得更加寂静",
+      "summary": "医生为其工作，目的是延长其生命。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "被追随"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "场馆里的大部分灯光都已经关闭，仅剩甬道内的灯盏被调低了亮度，散发出清冷的白光，将这深夜映衬得更加寂静",
-        "那只诡，是否就在场馆地某个地方",
-        "不多时，‘医生’将苏午推到了场馆角落里的电梯口，其输入指纹以后，电梯自动解锁"
+        "我们给老板做事，主要研究方向是为了延长老板的生命，让他在癌症终末期也可以焕发生机，接续寿命……"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "床上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "幸而，床上的苏午似乎并未被这声音惊醒，他的呼吸声没有出现半分波动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "幸而，床上的苏午似乎并未被这声音惊醒，他的呼吸声没有出现半分波动",
-        "床上躺着的苏午一直都是清醒的",
-        "”　　医生松了口气，蓬松如野草的头发下，一双阴沉的眼睛注视着床上的苏午：“像你这种人，哪怕是破限，对于普通体质的人而言又有什么意义呢"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "穿着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "走到床头，穿着白大褂地‘医生’面上流露如释重负之色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "走到床头，穿着白大褂地‘医生’面上流露如释重负之色"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "其从怀里摸出一管不明液体，为那管液体接下针头，随后直接将针头扎进了苏午上臂肌肉中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其从怀里摸出一管不明液体，为那管液体接下针头，随后直接将针头扎进了苏午上臂肌肉中",
-        "其拽住大门的把手，将圆形门拉开，随后返身回来把苏午推入门户中，依次取下钥匙"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "睡醒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "一点警觉心都没有……　　好好睡一觉吧，睡醒后一切都会恢复如往常的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一点警觉心都没有……　　好好睡一觉吧，睡醒后一切都会恢复如往常的"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "推着苏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第60章 诡异的咒印",
-      "summary": "”　　‘医生’把用过的针头和试管放进塑料盒收起来，踩下苏午这张床下的四个滚轮，将门打开，推着苏午就走出了房间，在甬道内穿行",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　‘医生’把用过的针头和试管放进塑料盒收起来，踩下苏午这张床下的四个滚轮，将门打开，推着苏午就走出了房间，在甬道内穿行",
-        "在‘医生’推着苏午前脚离开房间，墙上一道影子后脚就裂开缝隙，一股透明色液体从裂隙里汩汩流淌出，洒落地面",
-        "‘医生’推着苏午来到了负三层"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

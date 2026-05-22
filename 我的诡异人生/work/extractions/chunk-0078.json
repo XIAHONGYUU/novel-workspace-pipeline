@@ -1,258 +1,190 @@
 {
   "chunk_id": "chunk-0078",
-  "title": "第77章 暴食之口",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第77章 暴食之口",
-      "summary": "正是苏午",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "主角，拥有模拟器能力，正在眼诡笼罩区中求生。",
+      "appearance": [
+        "相貌清秀",
+        "神色冷峻"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于盘算"
+      ],
+      "abilities": [
+        "尸陀鬼之手",
+        "通灵体质",
+        "暴食之口",
+        "力士咒印",
+        "说话的艺术"
+      ],
+      "equipment": [
+        "大公鸡（应急罐头）"
+      ],
+      "relationships": [
+        {
+          "target": "心诡",
+          "type": "曾签订契约成为其文书"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "在酒店中尝试生存，最终因厉诡复苏和眼诡侵袭死亡。"
+        },
+        {
+          "stage": "模拟后",
+          "event": "购买天赋，提升通灵体质至蓝色。"
+        }
+      ],
       "evidence": [
-        "正是苏午",
-        "”　　在这次模拟中，　　苏午离开大屿湾商务区后，就找了一家酒店，试试看在带着大公鸡的情况下，自身究竟能在眼诡笼罩区支撑多少时间",
-        "应急罐头死后，苏午以尸陀鬼之手保护自身，钻进了影子里试图躲避眼诡的侵袭"
+        "人头相貌清秀，偏偏神色冷峻。正是苏午。",
+        "苏午离开大屿湾商务区后，就找了一家酒店，试试看在带着大公鸡的情况下，自身究竟能在眼诡笼罩区支撑多少时间。",
+        "苏午内心默默盘算了一阵。"
       ],
       "mention_count": 20
     },
     {
-      "name": "元玉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章 暴食之口",
-      "summary": "奖励：发现安全屋＋10元玉；　　成功躲避眼诡追杀257次＋7710元玉；　　打碎46个伥尸＋46元玉；　　持续抵御‘咒杀诡’的咒杀＋30元玉；　　持续抵御‘心诡魔眼心相’的控制＋20元玉；　　抵御‘瞳中诡’的控制＋6元玉；　　‘说话的艺术’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "奖励：发现安全屋＋10元玉；　　成功躲避眼诡追杀257次＋7710元玉；　　打碎46个伥尸＋46元玉；　　持续抵御‘咒杀诡’的咒杀＋30元玉；　　持续抵御‘心诡魔眼心相’的控制＋20元玉；　　抵御‘瞳中诡’的控制＋6元玉；　　‘说话的艺术’",
-        "你的钱包余额为8164＋10＋7710＋46＋30＋20＋6＋100＋300＝16386元玉",
-        "他再次扫了一眼本次模拟后所得的元玉奖励"
+      "name": "大公鸡",
+      "aliases": [
+        "应急罐头"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "尸陀鬼",
-      "aliases": [],
-      "identity": "",
+      "identity": "动物",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第77章 暴食之口",
-      "summary": "应急罐头死后，苏午以尸陀鬼之手保护自身，钻进了影子里试图躲避眼诡的侵袭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "应急罐头死后，苏午以尸陀鬼之手保护自身，钻进了影子里试图躲避眼诡的侵袭",
-        "尸陀鬼之手与眼诡的力量同时笼罩了苏午",
-        "选项0：尸陀鬼－眼诡形（30000元玉）"
+      "summary": "苏午携带的公鸡，用于抵御眼诡侵袭，最终在第170轮眼诡侵袭下死亡。",
+      "appearance": [
+        "大公鸡",
+        "羽毛失去光泽"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "暴食之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章 暴食之口",
-      "summary": "第77章 暴食之口　　七天快捷酒店323号房间内",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第77章 暴食之口　　七天快捷酒店323号房间内",
-        "选项2：绿色天赋－暴食之口（1000元玉）",
-        "暴食之口则是由‘力士咒印’裂变而来"
+      "abilities": [
+        "抵御眼诡力量"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "眼诡",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章 暴食之口",
-      "summary": "奖励：发现安全屋＋10元玉；　　成功躲避眼诡追杀257次＋7710元玉；　　打碎46个伥尸＋46元玉；　　持续抵御‘咒杀诡’的咒杀＋30元玉；　　持续抵御‘心诡魔眼心相’的控制＋20元玉；　　抵御‘瞳中诡’的控制＋6元玉；　　‘说话的艺术’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "奖励：发现安全屋＋10元玉；　　成功躲避眼诡追杀257次＋7710元玉；　　打碎46个伥尸＋46元玉；　　持续抵御‘咒杀诡’的咒杀＋30元玉；　　持续抵御‘心诡魔眼心相’的控制＋20元玉；　　抵御‘瞳中诡’的控制＋6元玉；　　‘说话的艺术’",
-        "”　　在这次模拟中，　　苏午离开大屿湾商务区后，就找了一家酒店，试试看在带着大公鸡的情况下，自身究竟能在眼诡笼罩区支撑多少时间",
-        "眼诡平均每小时出现7次"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "携带者"
+        }
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "尸陀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章 暴食之口",
-      "summary": "应急罐头死后，苏午以尸陀鬼之手保护自身，钻进了影子里试图躲避眼诡的侵袭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "应急罐头死后，苏午以尸陀鬼之手保护自身，钻进了影子里试图躲避眼诡的侵袭",
-        "尸陀鬼之手与眼诡的力量同时笼罩了苏午",
-        "选项0：尸陀鬼－眼诡形（30000元玉）"
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "抵御眼诡侵袭150次后健康状况恶化，第170次时死亡。"
+        }
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "眼诡形",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章 暴食之口",
-      "summary": "选项0：尸陀鬼－眼诡形（30000元玉）",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "选项0：尸陀鬼－眼诡形（30000元玉）",
-        "正因为尸陀鬼之手吞吃了大量的诡烛，才致使眼诡的韵致与尸陀鬼相融，造就了另一种厉诡复苏形态——眼诡形",
-        "甚至于‘尸陀鬼骨蟒形’、‘尸陀鬼眼诡形’都是可兑换的物品"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "绿色",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章 暴食之口",
-      "summary": "选项1：绿色天赋－通灵体质（500元玉）",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "选项1：绿色天赋－通灵体质（500元玉）",
-        "选项2：绿色天赋－暴食之口（1000元玉）",
-        "二者同是绿色天赋，后者却比前者价值高了一倍"
+        "怀里抱着的一只大公鸡脖子耷拉下去，羽毛失去光泽，业已无声无息死去。",
+        "大公鸡在抵御过眼诡力量150次后，健康状况就急转直下。",
+        "最终在第170轮眼诡侵袭下，一命呜呼。"
       ],
       "mention_count": 6
     },
     {
-      "name": "暴食",
+      "name": "心诡",
       "aliases": [],
-      "identity": "",
+      "identity": "诡异",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第77章 暴食之口",
-      "summary": "第77章 暴食之口　　七天快捷酒店323号房间内",
+      "summary": "一只诡异，苏午曾与其签订契约成为文书。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第77章 暴食之口　　七天快捷酒店323号房间内",
-        "选项2：绿色天赋－暴食之口（1000元玉）",
-        "暴食之口则是由‘力士咒印’裂变而来"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "曾签订契约"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "苏午与心诡签订契约，成为其文书。"
+        }
+      ],
+      "evidence": [
+        "苏午在模拟未来里，与心诡签订了契约，成为了它的文书。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "都是",
+      "name": "咒杀诡",
       "aliases": [],
-      "identity": "",
+      "identity": "诡异",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第77章 暴食之口",
-      "summary": "即便没有基础评分奖励，以及附带的天赋升级符咒奖励，仅凭抗御眼诡所得的元玉奖励，都是十分可观了",
+      "summary": "心诡的伥鬼，导致一整个公交车的乘客全部死绝。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "心诡",
+          "type": "伥鬼"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "即便没有基础评分奖励，以及附带的天赋升级符咒奖励，仅凭抗御眼诡所得的元玉奖励，都是十分可观了",
-        "都是很强力的天赋，苏午不可能放弃任何一个，他现在元玉也比较充足，是以就花费了一千五百个元玉，将两项天赋都买了下来",
-        "甚至于‘尸陀鬼骨蟒形’、‘尸陀鬼眼诡形’都是可兑换的物品"
+        "所谓咒杀诡，就是导致一整个公交车的乘客全部死绝，以及令苏午生出强烈死亡预兆的那只诡异——其是心诡的伥鬼。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "通灵",
+      "name": "医生",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第77章 暴食之口",
-      "summary": "选项1：绿色天赋－通灵体质（500元玉）",
+      "summary": "拥有心相能力的驭诡者，绿鬼眼即其心相。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "心相"
+      ],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "选项1：绿色天赋－通灵体质（500元玉）",
-        "……　　通灵体质由‘说话的艺术’天赋裂变而来",
-        "“你花费了1500元玉，购买‘通灵体质（绿色）’、‘暴食之口（绿色）’"
+        "绿鬼眼即是医生的心相。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "通灵体",
+      "name": "丑人驭诡者",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第77章 暴食之口",
-      "summary": "选项1：绿色天赋－通灵体质（500元玉）",
-      "appearance": [],
+      "summary": "容纳了瞳中诡的驭诡者。",
+      "appearance": [
+        "丑"
+      ],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "瞳中诡"
+      ],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "选项1：绿色天赋－通灵体质（500元玉）",
-        "……　　通灵体质由‘说话的艺术’天赋裂变而来",
-        "“你花费了1500元玉，购买‘通灵体质（绿色）’、‘暴食之口（绿色）’"
+        "瞳中诡是那个丑人驭诡者容纳的诡异。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

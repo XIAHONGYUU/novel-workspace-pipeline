@@ -1,253 +1,161 @@
 {
   "chunk_id": "chunk-0180",
-  "title": "第178章王谢是个实诚人",
   "characters": [
     {
-      "name": "王谢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "第178章王谢是个实诚人　　老魏，魏拒鞍",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第178章王谢是个实诚人　　老魏，魏拒鞍",
-        "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-        "”　　王谢的表情一阵别扭，口中嘀嘀咕咕"
-      ],
-      "mention_count": 31
-    },
-    {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "在听到这个名字的瞬间，李钧脑海中立马跳出那张粗犷豪爽的面容，栩栩如生",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在听到这个名字的瞬间，李钧脑海中立马跳出那张粗犷豪爽的面容，栩栩如生",
-        "无他，只因为魏拒鞍是为数不多向李钧表露过善意，并且提供过帮助的人",
-        "”　　王谢看着霸气侧漏的李钧，一时语塞"
+      "aliases": [
+        "兄弟"
       ],
-      "mention_count": 26
+      "identity": "锦衣卫校尉，武道序列从序者",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，被魏拒鞍帮助过，烧了顾家，被天志会救出成都府，实力不弱，独夫序列。",
+      "appearance": [
+        "霸气侧漏",
+        "冷漠"
+      ],
+      "personality": [
+        "谨慎",
+        "多疑",
+        "有主见"
+      ],
+      "abilities": [
+        "独夫序列"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魏拒鞍",
+          "type": "朋友"
+        },
+        {
+          "target": "王谢",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在重庆府与王谢交谈，拒绝返回锦衣卫。"
+        }
+      ],
+      "evidence": [
+        "如果没有魏拒鞍送给自己的那只七品息蜓郞，自己也没那么容易烧了顾家。",
+        "李钧上下打量眼前这名锦衣卫，心中突然感到一阵莫名的庆幸。",
+        "独夫这个序列会在潜移默化中让你天然排斥非同序列的人。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "老魏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "王谢",
+      "aliases": [
+        "老王",
+        "王总旗"
+      ],
+      "identity": "重庆府锦衣卫总旗",
+      "faction": "锦衣卫",
       "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "第178章王谢是个实诚人　　老魏，魏拒鞍",
+      "first_appearance": "",
+      "summary": "重庆府锦衣卫总旗，自称实诚人，魏拒鞍的朋友，受命召回李钧。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "自来熟",
+        "实诚",
+        "轻佻"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第178章王谢是个实诚人　　老魏，魏拒鞍",
-        "“你是老魏的朋友，那也就是我的朋友，喊我老王就行了",
-        "“兄弟你别听老魏乱说啊，我就是个单纯的老实人"
+      "relationships": [
+        {
+          "target": "魏拒鞍",
+          "type": "朋友"
+        },
+        {
+          "target": "李钧",
+          "type": "同僚"
+        },
+        {
+          "target": "重庆府锦衣卫百户",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "找到李钧，试图说服他返回锦衣卫。"
+        }
+      ],
+      "evidence": [
+        "我就是一个小小的锦衣卫总旗，根本罩不住啊",
+        "我老王是个实诚人，要不然也不会遍地都是朋友。",
+        "老板说了，让我重新把你召回锦衣卫。"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "兄弟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-      "appearance": [],
+      "name": "魏拒鞍",
+      "aliases": [
+        "老魏"
+      ],
+      "identity": "保宁府锦衣卫总旗，曾经的武道序列从序者",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "李钧的朋友，曾帮助李钧，送给李钧七品息蜓郞。",
+      "appearance": [
+        "粗犷豪爽"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "朋友"
+        },
+        {
+          "target": "王谢",
+          "type": "朋友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-        "“兄弟你别听老魏乱说啊，我就是个单纯的老实人",
-        "”　　王谢一副自来熟的模样，摆了摆手苦笑道：“我也不想来打搅兄弟你呀，可是你昨天搞得动静实在太大了"
+        "如果没有魏拒鞍送给自己的那只七品息蜓郞，自己也没那么容易烧了顾家。",
+        "老魏，魏拒鞍。",
+        "你是老魏的朋友，那也就是我的朋友"
       ],
-      "mention_count": 6
+      "mention_count": 8
     },
     {
-      "name": "老板",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "人都要与时俱进嘛，所以我们现在都流行喊老板",
+      "name": "重庆府锦衣卫百户",
+      "aliases": [
+        "老板"
+      ],
+      "identity": "重庆府锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "王谢的上司，序七巅峰或序六，想将李钧收入麾下。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "认死理"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "上司"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "人都要与时俱进嘛，所以我们现在都流行喊老板",
-        "上面老板发了话，让我一定要把你找到",
-        "王谢瞥了一眼沉吟不语的李钧，试探着说道：“老板说了，让我重新把你召回锦衣卫"
+        "我的老板那自然是重庆府锦衣卫百户了。",
+        "老板说了，让我重新把你召回锦衣卫。",
+        "老板只是单纯想将你收入麾下。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "兄弟你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-        "“兄弟你别听老魏乱说啊，我就是个单纯的老实人",
-        "”　　王谢一副自来熟的模样，摆了摆手苦笑道：“我也不想来打搅兄弟你呀，可是你昨天搞得动静实在太大了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "让我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "上面老板发了话，让我一定要把你找到",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "上面老板发了话，让我一定要把你找到",
-        "王谢瞥了一眼沉吟不语的李钧，试探着说道：“老板说了，让我重新把你召回锦衣卫",
-        "没等李钧开口，他便抢先一步说道：　　“其实兄弟伱被天志会的人救出成都府的时候，老魏就打了电话，让我照顾你"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "狂热",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "”　　“你就是魏大哥口中那个，狂热的锦衣卫复兴派",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“你就是魏大哥口中那个，狂热的锦衣卫复兴派",
-        "狂热的复兴派，听着都不像是个好人"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "还是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "还是又想玩借刀杀人的把戏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "还是又想玩借刀杀人的把戏",
-        "狗日的，不止是个色胚，还是个文盲　　李钧上下打量眼前这名锦衣卫，心中突然感到一阵莫名的庆幸",
-        "李钧冷哼一声：“是单人旁的那个，还是竖心旁的那个"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "铭记",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "铭记于心，不敢忘却",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "铭记于心，不敢忘却"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "我就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-        "“兄弟你别听老魏乱说啊，我就是个单纯的老实人"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第178章王谢是个实诚人",
-      "summary": "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　王谢竖起一根小拇指，口中讪笑道：“我就是一个小小的锦衣卫总旗，根本罩不住啊，所以就一直没敢过来露面，兄弟你别介意啊",
-        "也明白自己现在身上惹这些事情，根本不是一个锦衣卫总旗能够扛的起"
-      ],
-      "mention_count": 3
+      "mention_count": 5
     }
   ]
 }

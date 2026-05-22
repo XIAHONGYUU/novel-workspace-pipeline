@@ -1,247 +1,218 @@
 {
   "chunk_id": "chunk-0043",
-  "title": "第42章佛怒金刚",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "武九暴徒"
+      ],
+      "identity": "武道修行者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第42章佛怒金刚",
-      "summary": "升腾的硝烟中，李钧脸上不止没有半点笑意，反而寒意深深，额角青筋直跳",
+      "summary": "被红僧木措的佛国催眠，陷入与护法金刚的战斗中。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "升腾的硝烟中，李钧脸上不止没有半点笑意，反而寒意深深，额角青筋直跳",
-        "只剩半张的恐怖脸庞却直愣愣的对着李钧，双眼如勾，唇红似血",
-        "转瞬之间，侍宝天女们已经全部转化为身形魁梧的佛门力士，抄起地上散落的佛器朝着李钧狂奔而来"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "坚韧"
       ],
-      "mention_count": 26
+      "abilities": [
+        "九品武学单刀法选",
+        "基因锁",
+        "武道基因"
+      ],
+      "equipment": [
+        "魏武卒枪",
+        "长刀"
+      ],
+      "relationships": [
+        {
+          "target": "红僧木措",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在松潘卫的寺庙前与红僧木措及其护法金刚战斗。"
+        }
+      ],
+      "evidence": [
+        "李钧垂落的眼皮猛然一睁，眸光如刀，扣指开枪！",
+        "李钧此刻很确定自己是被催眠了，起点应该就是在黄袍僧人的那颗断首和自己对视的那一瞬间。",
+        "李钧看着立身于庙前的红僧木措，用手腕抹了把脸上的血水，徐徐露出一个狰狞的笑容。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "长刀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "红僧木措",
+      "aliases": [
+        "木措"
+      ],
+      "identity": "佛国主人，红袍僧人",
+      "faction": "木措佛国",
       "status": "登场",
       "first_appearance": "第42章佛怒金刚",
-      "summary": "长刀回掠，如鹰隼扑杀，李钧拖刀旋身，撞出连声铿锵锐鸣",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "长刀回掠，如鹰隼扑杀，李钧拖刀旋身，撞出连声铿锵锐鸣",
-        "在那名护法金刚麻木空洞的眼神中，坠落的长刀几乎将他半颗脑袋切开",
-        "木措眸光冰冷，李钧掌中长刀寒意更深"
+      "summary": "佛国的主人，拥有度化他人的能力，与李钧敌对。",
+      "appearance": [
+        "俊美面孔",
+        "红袍"
       ],
-      "mention_count": 5
+      "personality": [
+        "冰冷",
+        "杀气凛然"
+      ],
+      "abilities": [
+        "佛国催眠",
+        "度化"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "侍宝天女",
+          "type": "属下"
+        },
+        {
+          "target": "护法金刚",
+          "type": "属下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在寺庙前与李钧对峙，操控护法金刚攻击李钧。"
+        }
+      ],
+      "evidence": [
+        "红僧木措此刻眉宇之中再无一丝祥和，神色冰冷，杀气凛然。",
+        "木措眸光冰冷，李钧掌中长刀寒意更深！",
+        "随着红僧合十的双手徐徐摊开，空气之中的梵唱声蓦然变大。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "侍宝天女",
+      "aliases": [
+        "天女"
+      ],
+      "identity": "佛国中的女性侍者，可转化为护法金刚",
+      "faction": "木措佛国",
       "status": "登场",
       "first_appearance": "第42章佛怒金刚",
-      "summary": "松潘卫夜晚的风中除了寒意，还有摄人的杀机",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "松潘卫夜晚的风中除了寒意，还有摄人的杀机",
-        "“还有招没，没有”　　眼前的世界再次开始摇晃，头顶的月光变得明亮刺目，李钧下意识抬头看去，只见那尊巨佛伸手向天，竟如同要将那轮圆月从穹顶上拉到松潘城中",
-        "还有一章比较晚，抱歉"
+      "summary": "红僧木措的侍者，外表为女性，但可转化为男性护法金刚。",
+      "appearance": [
+        "精致妩媚的面皮",
+        "纤瘦的身体"
       ],
-      "mention_count": 4
+      "personality": [],
+      "abilities": [
+        "转化为护法金刚"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "红僧木措",
+          "type": "属下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧枪击，转化为护法金刚并攻击李钧。"
+        }
+      ],
+      "evidence": [
+        "一名侍宝天女飞身而起，用身体替红僧木措挡住了枪击。",
+        "只见那名天女萁坐在梁柱边，断裂的脊骨从脖间刺出体外，扭曲折断的双手正一块块捞着散落的血肉脏器往身体里塞。",
+        "转瞬之间，侍宝天女们已经全部转化为身形魁梧的佛门力士。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "护法金刚",
+      "aliases": [
+        "金刚",
+        "佛门力士"
+      ],
+      "identity": "佛国中的战斗单位",
+      "faction": "木措佛国",
       "status": "登场",
       "first_appearance": "第42章佛怒金刚",
-      "summary": "”　　虽然在成都府的地下黑市中也有非法医生在接这种性别转化的单子，可那种只需要替换几个性向义肢就能搞定",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　虽然在成都府的地下黑市中也有非法医生在接这种性别转化的单子，可那种只需要替换几个性向义肢就能搞定",
-        "”　　虽然知道了自己是什么时候中的招，但李钧还是有一点不明白",
-        "虽然他不知道怎么破开佛国，但他知道只要是催眠那就必然存在一个心灵锚点，或者叫阵眼"
+      "summary": "由侍宝天女转化而来，或原本存在的佛门护法，与李钧战斗。",
+      "appearance": [
+        "身形魁梧",
+        "横眉怒目的虬须面孔"
       ],
-      "mention_count": 4
+      "personality": [
+        "麻木空洞"
+      ],
+      "abilities": [
+        "快速愈合"
+      ],
+      "equipment": [
+        "佛器",
+        "降魔杵",
+        "锡杖",
+        "钵盂",
+        "镀金铁棍"
+      ],
+      "relationships": [
+        {
+          "target": "红僧木措",
+          "type": "属下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧斩杀或击伤，部分在捡拾残肢。"
+        }
+      ],
+      "evidence": [
+        "另一名金刚持刀如同被重锤轰在面门，身体翻滚着飞出数米，落地时上半身已经是一滩烂泥。",
+        "在那名护法金刚麻木空洞的眼神中，坠落的长刀几乎将他半颗脑袋切开。",
+        "残缺的金刚倒在血泊之中，一边怒视着李钧的背影，一边捞着自己的残肢。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "巨大",
+      "name": "黄袍僧人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "僧人，被李钧所杀",
+      "faction": "木措佛国",
+      "status": "已故",
       "first_appearance": "第42章佛怒金刚",
-      "summary": "巨大的冲击力将她撞在寺庙梁柱上，擦出一条刺目的血迹",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "巨大的冲击力将她撞在寺庙梁柱上，擦出一条刺目的血迹",
-        "”　　一只巨大无比的拳头从天坠落"
+      "summary": "被李钧杀死的僧人，其断首与李钧对视导致李钧被催眠。",
+      "appearance": [
+        "黄袍"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "抄起",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第42章佛怒金刚",
-      "summary": "转瞬之间，侍宝天女们已经全部转化为身形魁梧的佛门力士，抄起地上散落的佛器朝着李钧狂奔而来",
-      "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "转瞬之间，侍宝天女们已经全部转化为身形魁梧的佛门力士，抄起地上散落的佛器朝着李钧狂奔而来"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被李钧所杀"
+        },
+        {
+          "target": "红僧木措",
+          "type": "属下"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "看着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第42章佛怒金刚",
-      "summary": "看着眼前美女变猛男的怪诞场景，李钧对于这个木措佛国的厌恶达到了顶点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "看着眼前美女变猛男的怪诞场景，李钧对于这个木措佛国的厌恶达到了顶点",
-        "李钧看着立身于庙前的红僧木措，用手腕抹了把脸上的血水，徐徐露出一个狰狞的笑容"
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被李钧杀死，断首与李钧对视。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "原本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第42章佛怒金刚",
-      "summary": "身体更是如同背负上一座庞大山岳，举手投足间变得沉重无比，原本一个神经信号就能调动的血肉筋骨正在缓缓断开连接",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "身体更是如同背负上一座庞大山岳，举手投足间变得沉重无比，原本一个神经信号就能调动的血肉筋骨正在缓缓断开连接",
-        "原本纤瘦的身体以肉眼可见的速度膨胀，身上的女性特征快速消失，转化为一身贲张强横的肌肉"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "拖着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第42章佛怒金刚",
-      "summary": "在绝境之中抢出生机的李钧挥手将最后一名金刚的四肢砍断，刀尖刺进对方肋骨缝隙，拖着还在挣扎的金刚缓步向前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在绝境之中抢出生机的李钧挥手将最后一名金刚的四肢砍断，刀尖刺进对方肋骨缝隙，拖着还在挣扎的金刚缓步向前"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "紧绷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第42章佛怒金刚",
-      "summary": "李钧脸上的表情变得柔和，紧绷的身体也在放松",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧脸上的表情变得柔和，紧绷的身体也在放松"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第42章佛怒金刚",
-      "summary": "魏武卒枪口再次爆发出震耳巨响，将一名不知何时已经飘荡在李钧身前的天女直接轰飞出去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魏武卒枪口再次爆发出震耳巨响，将一名不知何时已经飘荡在李钧身前的天女直接轰飞出去",
-        "李钧侧步一闪，让开黄袍僧人轰来的重拳，反手一刀直接剖开对方的胸膛，同时箭步冲入人群，直奔红袍木措",
-        "刀锋破空的啸音先声夺人，长刀横砍将两条粗壮的手臂直接斩飞"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "金刚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第42章佛怒金刚",
-      "summary": "第42章佛怒金刚　　亢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第42章佛怒金刚　　亢",
-        "左手魏武卒迸发怒焰，另一名金刚持刀如同被重锤轰在面门，身体翻滚着飞出数米，落地时上半身已经是一滩烂泥",
-        "那眼前这尊和他长的一模一样的护法金刚又是什么玩意儿"
+        "黄袍僧人肯定是被自己杀了，毕竟收获的精通点可是实打实的，不会骗人。",
+        "起点应该就是在黄袍僧人的那颗断首和自己对视的那一瞬间。"
       ],
       "mention_count": 3
     }

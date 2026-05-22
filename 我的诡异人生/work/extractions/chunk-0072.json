@@ -1,254 +1,191 @@
 {
   "chunk_id": "chunk-0072",
-  "title": "第71章 说话的艺术（蓝色）",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "疑似太亚官方人员，拥有说话的艺术天赋",
       "faction": "",
       "status": "登场",
       "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "’　　看着‘说话的艺术’天赋的详细介绍，苏午陷入了深思",
+      "summary": "主角，拥有说话的艺术天赋，计划说服心诡成为其文书以打通伥尸封锁，并逐步提升职位。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "’　　看着‘说话的艺术’天赋的详细介绍，苏午陷入了深思",
-        "对于诡异的效果，则要纯看苏午与诡说了什么，以及当时他有没有走背字",
-        "好在苏午可以在模拟里多次试验"
+      "personality": [
+        "寡言少语",
+        "谨慎",
+        "机智"
       ],
-      "mention_count": 24
-    },
-    {
-      "name": "说话",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "第71章 说话的艺术（蓝色）　　‘说话的艺术（蓝色）：你见人说人话，见鬼说鬼话的本领已经十分娴熟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第71章 说话的艺术（蓝色）　　‘说话的艺术（蓝色）：你见人说人话，见鬼说鬼话的本领已经十分娴熟",
-        "’　　看着‘说话的艺术’天赋的详细介绍，苏午陷入了深思",
-        "说话的艺术天赋对人类的效果更强、更明确一些"
+      "abilities": [
+        "说话的艺术（蓝色）"
       ],
-      "mention_count": 8
+      "equipment": [
+        "画轴",
+        "帝钟",
+        "车钥匙",
+        "手机"
+      ],
+      "relationships": [
+        {
+          "target": "江莺莺",
+          "type": "同伴"
+        },
+        {
+          "target": "心诡",
+          "type": "目标成为其文书"
+        },
+        {
+          "target": "黄至诚",
+          "type": "同事（博宇公司主管）"
+        },
+        {
+          "target": "空格",
+          "type": "疑似官方工作人员，但被怀疑是骗子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "查看说话的艺术天赋，决定说服心诡成为文书；与江莺莺对话后外出"
+        }
+      ],
+      "evidence": [
+        "看着‘说话的艺术’天赋的详细介绍，苏午陷入了深思。",
+        "苏午可以在模拟里多次试验。",
+        "苏午手指一划，点进这个人的个人界面，直接将之拖黑删除。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "江莺莺",
       "aliases": [],
-      "identity": "",
+      "identity": "苏午的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "”　　苏午把画轴收好，脖颈上挂起帝钟，随后对江莺莺说道",
+      "summary": "与苏午一同躲避眼诡，将应急罐头（公鸡）借给苏午。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "紧张",
+        "信任苏午"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "应急罐头（公鸡）"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午对话，将应急罐头借给他"
+        }
+      ],
       "evidence": [
-        "”　　苏午把画轴收好，脖颈上挂起帝钟，随后对江莺莺说道",
-        "江莺莺拿下了蒙在脸上的厚大衣，看着从凳子上起身的苏午，神色有些紧张：“我们要出发了吗",
-        "”苏午摇了摇头，边从角落里的一个小盒子里拿起车钥匙、手机，边向江莺莺回道，“我需要外出一趟"
+        "江莺莺拿下了蒙在脸上的厚大衣，看着从凳子上起身的苏午，神色有些紧张",
+        "江莺莺只犹豫了片刻，就双手捧着壮硕的大公鸡，递向了苏午"
       ],
       "mention_count": 6
     },
     {
-      "name": "说话的艺",
+      "name": "黄至诚",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "博宇公司主管",
+      "faction": "博宇公司",
+      "status": "提及",
       "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "第71章 说话的艺术（蓝色）　　‘说话的艺术（蓝色）：你见人说人话，见鬼说鬼话的本领已经十分娴熟",
+      "summary": "博宇公司主管，向苏午发出邀请加入工作群的消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第71章 说话的艺术（蓝色）　　‘说话的艺术（蓝色）：你见人说人话，见鬼说鬼话的本领已经十分娴熟",
-        "’　　看着‘说话的艺术’天赋的详细介绍，苏午陷入了深思",
-        "说话的艺术天赋对人类的效果更强、更明确一些"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同事"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "连续发来二十余条邀请加群消息"
+        }
+      ],
+      "evidence": [
+        "博宇公司那边只有主管‘黄至诚’一人，向苏午发出了邀请加入工作群的消息"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "见鬼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "空格",
+      "aliases": [
+        "工作人员"
+      ],
+      "identity": "自称太亚官方诡异对策部门工作人员",
+      "faction": "太亚官方",
+      "status": "提及",
       "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "第71章 说话的艺术（蓝色）　　‘说话的艺术（蓝色）：你见人说人话，见鬼说鬼话的本领已经十分娴熟",
+      "summary": "向苏午发送好友请求，要求苏午配合做事，但被苏午怀疑是骗子并拉黑。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "颐指气使",
+        "不专业"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第71章 说话的艺术（蓝色）　　‘说话的艺术（蓝色）：你见人说人话，见鬼说鬼话的本领已经十分娴熟",
-        "他一个向来寡言少语的人，如今都被逼得掌握了‘见人说人话，见鬼说鬼话’这种本领"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "疑似官方与民众关系，但被苏午视为骗子"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "如果你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "如果你与人类交谈，你的攻击性言辞会让敌人产生尴尬、无地自容、恐惧等种种负面情绪；　　你的命令性言辞会极其容易得到他人的顺从",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如果你与人类交谈，你的攻击性言辞会让敌人产生尴尬、无地自容、恐惧等种种负面情绪；　　你的命令性言辞会极其容易得到他人的顺从",
-        "如果你与非人的诡异交谈，那么你的言辞有较大几率产生正面或负面的效果"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向苏午发送好友请求并对话，被苏午拉黑"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "向苏午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "当下，博宇公司那边只有主管‘黄至诚’一人，向苏午发出了邀请加入工作群的消息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "当下，博宇公司那边只有主管‘黄至诚’一人，向苏午发出了邀请加入工作群的消息",
-        "除了‘黄至诚’一人锲而不舍地连续发来二十余条邀请加群消息外，　　还有一个昵称是一串空格的人，向苏午发出了十余请求加为好友的消息"
+        "一个昵称是一串空格的人，向苏午发出了十余请求加为好友的消息",
+        "我是太亚官方诡异对策部门的工作人员",
+        "苏午手指一划，点进这个人的个人界面，直接将之拖黑删除"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "你们不是说要来营救我们吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "你们不是说要来营救我们吗",
-        "”　　“你们不赶紧来救人，还想让我一个普通人，配合你们做事",
-        "看来你们也是知道这些红灯笼会随机杀人的吧"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "你说",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "我在和你说正事，你别跟我在这儿阴阳怪气，嬉皮笑脸的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我在和你说正事，你别跟我在这儿阴阳怪气，嬉皮笑脸的",
-        "”　　“你说的复杂情况，是不是天上那些红灯笼啊",
-        "你说我怎么知道"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "你的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "如果你与人类交谈，你的攻击性言辞会让敌人产生尴尬、无地自容、恐惧等种种负面情绪；　　你的命令性言辞会极其容易得到他人的顺从",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如果你与人类交谈，你的攻击性言辞会让敌人产生尴尬、无地自容、恐惧等种种负面情绪；　　你的命令性言辞会极其容易得到他人的顺从",
-        "你的鼓励性言辞会让友人受到极大的鼓舞，能够因此而重振信心——甚至是ED患者，也有较大概率因为你的言辞得以再振雄风",
-        "如果你与非人的诡异交谈，那么你的言辞有较大几率产生正面或负面的效果"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "看着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "’　　看着‘说话的艺术’天赋的详细介绍，苏午陷入了深思",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "’　　看着‘说话的艺术’天赋的详细介绍，苏午陷入了深思",
-        "江莺莺拿下了蒙在脸上的厚大衣，看着从凳子上起身的苏午，神色有些紧张：“我们要出发了吗"
-      ],
-      "mention_count": 3
+      "mention_count": 5
     },
     {
       "name": "心诡",
       "aliases": [],
-      "identity": "",
+      "identity": "诡异存在",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第71章 说话的艺术（蓝色）",
-      "summary": "直到找到一个合适的时机，说出合适的言辞，以说服那只‘心诡’",
+      "summary": "苏午计划说服并成为其文书，以打通伥尸封锁，并逐步提升职位。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "可以讲通道理"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "直到找到一个合适的时机，说出合适的言辞，以说服那只‘心诡’",
-        "是的，　　在阅览过暗红纸页上的内容后，他就做了个决定——首先说服‘心诡’，成为它的‘文书’",
-        "不过打通伥尸的封锁，只是成为心诡文书之后的一个附加项而已"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "目标成为其文书"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "苏午计划说服心诡成为其文书"
+        }
+      ],
+      "evidence": [
+        "首先说服‘心诡’，成为它的‘文书’",
+        "心诡是可以‘讲通道理’的"
+      ],
+      "mention_count": 4
     }
   ]
 }

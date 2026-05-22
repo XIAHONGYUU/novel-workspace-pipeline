@@ -1,0 +1,229 @@
+{
+  "chunk_id": "chunk-0233",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "气化巫师，乡下贵族次子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，正在处理日常事务，与安德烈进行合作谈判。",
+      "appearance": [
+        "淡金色双眼"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于谈判"
+      ],
+      "abilities": [
+        "银色尖刺攻击",
+        "芯片辅助"
+      ],
+      "equipment": [
+        "四翅夜雀"
+      ],
+      "relationships": [
+        {
+          "target": "安德烈",
+          "type": "合作与互相威胁的关系"
+        },
+        {
+          "target": "南希",
+          "type": "主仆"
+        },
+        {
+          "target": "艾米",
+          "type": "主仆"
+        },
+        {
+          "target": "艾丽",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回信、处理秘法印记、实验黑鱼、接待皮格斯、与安德烈远程对话"
+        }
+      ],
+      "evidence": [
+        "安格列随便吃了几口食物，便开始给两人回信",
+        "安格列站在湖边，缓缓伸出右手，对准湖面。嗤！一道银色尖刺陡然从他手中激射而出。",
+        "安格列面带微笑地说出自己的猜测。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "南希",
+      "aliases": [],
+      "identity": "女仆",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的女仆，负责取笔纸等杂务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为安格列取笔纸和蜡烛"
+        }
+      ],
+      "evidence": [
+        "难写噔噔噔的上了二楼，去书房把笔纸和蜡烛拿了下来。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "艾米",
+      "aliases": [],
+      "identity": "女仆",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的女仆，负责打理花园和传递信件。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列叫去送信，后准备茶水"
+        }
+      ],
+      "evidence": [
+        "很快，在花园里打理花花草草的艾米走了进来。",
+        "接过木筒，艾米直接离开了别墅。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "艾丽",
+      "aliases": [],
+      "identity": "女仆",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的女仆，负责准备茶水。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "准备茶水和水果坚果"
+        }
+      ],
+      "evidence": [
+        "让艾米艾丽准备好茶水和水果坚果"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "皮格斯",
+      "aliases": [],
+      "identity": "黄袍大汉，巫师",
+      "faction": "分部",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安德烈派来送水晶球的巫师。",
+      "appearance": [
+        "身材强壮",
+        "黄袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "透明水晶球"
+      ],
+      "relationships": [
+        {
+          "target": "安德烈",
+          "type": "下属"
+        },
+        {
+          "target": "安格列",
+          "type": "信使"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘坐马车到达安格列别墅，送水晶球"
+        }
+      ],
+      "evidence": [
+        "一个身材强壮的黄袍大汉",
+        "黄袍皮格斯从袖子里摸出一个小小的透明水晶球。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "安德烈",
+      "aliases": [
+        "老头安德烈"
+      ],
+      "identity": "班尼思家族长老，分部负责人",
+      "faction": "班尼思家族",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与安格列有秘密联系的巫师，拥有血脉提取方法。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "不甘"
+      ],
+      "abilities": [
+        "血脉提取方法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "合作与互相威胁的关系"
+        },
+        {
+          "target": "皮格斯",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过水晶球与安格列远程对话，讨论合作"
+        }
+      ],
+      "evidence": [
+        "老头安德烈的声音缓缓传进安格列耳边。",
+        "安德烈老头现在反正都被对方知道了最重要的事"
+      ],
+      "mention_count": 10
+    }
+  ]
+}

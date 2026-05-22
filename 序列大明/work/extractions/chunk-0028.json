@@ -1,255 +1,316 @@
 {
   "chunk_id": "chunk-0028",
-  "title": "第27章顾甲",
   "characters": [
     {
       "name": "顾甲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "顾部长",
+        "部长"
+      ],
+      "identity": "蜀道物流集团安保部长",
+      "faction": "蜀道物流集团",
       "status": "登场",
       "first_appearance": "第27章顾甲",
-      "summary": "第27章顾甲　　九龙街，袍哥会总堂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第27章顾甲　　九龙街，袍哥会总堂",
-        "随着他双手合十拜下，关公神像前突然浮现出一排全息文字：　　“感谢蜀道物流集团安保部长顾甲先生捐赠大明宝钞五万——武圣关公事迹传播委员会",
-        "”　　顾甲又是躬身一拜，这才转过身来笑道：“我也只有来你们袍哥会总堂的时候才有机会拜一拜，自然得表示番心意"
+      "summary": "蜀道物流集团安保部长，顾邕少爷的手下，负责九龙街事务，对赵鼎有拉拢之意。",
+      "appearance": [
+        "粗壮矮小"
       ],
-      "mention_count": 24
+      "personality": [
+        "豪爽",
+        "直白",
+        "杀伐果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "六艺芯片"
+      ],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "朋友/合作"
+        },
+        {
+          "target": "顾邕",
+          "type": "下属"
+        },
+        {
+          "target": "李钧",
+          "type": "想招揽"
+        },
+        {
+          "target": "吴锦丰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在袍哥会总堂与赵鼎会面，讨论李钧和罗镇事宜。"
+        }
+      ],
+      "evidence": [
+        "感谢蜀道物流集团安保部长顾甲先生捐赠大明宝钞五万",
+        "顾甲狞笑道：少爷的意思很明确，鸡鹅区的生意虽然不大，但关乎顾家的脸面，无论是谁，伸手砍手，伸脚砍脚。哪怕是吴家也不例外。",
+        "顾甲自信满满道：这个鼎爷你放心，只要你愿意放人，剩下的就交给我。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "赵鼎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "鼎爷"
+      ],
+      "identity": "袍哥会舵把子",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第27章顾甲",
-      "summary": "”　　赵鼎依旧裹着那身黑色大氅卧在沙发之中，身形比起几天前出现在九龙拳台之时，像是又枯瘦了几分",
-      "appearance": [],
-      "personality": [],
+      "summary": "袍哥会舵把子，基因崩溃，时日无多，已决定让况青云接班。",
+      "appearance": [
+        "枯瘦",
+        "裹着黑色大氅"
+      ],
+      "personality": [
+        "老谋深算",
+        "讲义气"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵鼎依旧裹着那身黑色大氅卧在沙发之中，身形比起几天前出现在九龙拳台之时，像是又枯瘦了几分",
-        "更何况如今赵鼎已经决心让况青云上位，那将李钧送进蜀道物流就是最佳的选择",
-        "”　　顾甲神色惆怅感叹了一句，随后坐直了身子，朝着赵鼎抱拳谢道：　　鸡头凤尾各占其一，才能最大限度的化解矛盾"
+      "relationships": [
+        {
+          "target": "顾甲",
+          "type": "朋友/合作"
+        },
+        {
+          "target": "况青云",
+          "type": "继承人"
+        },
+        {
+          "target": "李钧",
+          "type": "手下/有亏欠"
+        },
+        {
+          "target": "顾邕",
+          "type": "被信赖"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与顾甲会面，讨论李钧和罗镇事宜，透露自己时日无多。"
+        }
+      ],
+      "evidence": [
+        "赵鼎依旧裹着那身黑色大氅卧在沙发之中，身形比起几天前出现在九龙拳台之时，像是又枯瘦了几分。",
+        "赵鼎抬起几近皮包骨头手摆了摆",
+        "没几天了。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "那我",
+      "name": "况青云",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "袍哥会圣贤二哥",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第27章顾甲",
-      "summary": "”顾甲身体坐的更直了几分，神情热切道：　　赵鼎笑道：“既然部长你起了爱才之心，那我就不做小人了",
+      "summary": "袍哥会圣贤二哥，被赵鼎选为接班人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉默"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”顾甲身体坐的更直了几分，神情热切道：　　赵鼎笑道：“既然部长你起了爱才之心，那我就不做小人了",
-        "”　　“行，事办完了，那我就告辞了",
-        "“那我就等着看鼎爷你这场杀青的送客戏了"
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "继承人"
+        },
+        {
+          "target": "李钧",
+          "type": "地位高于李钧"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在袍哥会总堂侍立，后退出。"
+        }
+      ],
+      "evidence": [
+        "如今在浑水袍哥内，况青云位居圣贤二哥",
+        "做完这一切后，况青云便退了出去，从头到尾没说一句话。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "鼎爷",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "袍哥会红旗五哥",
+      "faction": "袍哥会",
+      "status": "提及",
       "first_appearance": "第27章顾甲",
-      "summary": "不过比起鼎爷你常年供奉，我这算不了什么",
+      "summary": "袍哥会红旗五哥，在九龙拳台打赢祭刀会，从天志会手中抢回货物，被顾甲看中想招揽。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "讲义气",
+        "愣种"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过比起鼎爷你常年供奉，我这算不了什么",
-        "”　　见赵鼎笑而不语，顾甲连忙转移话题，“我还有个疑问，想跟鼎爷你请教",
-        "”　　“知我者，唯有鼎爷"
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "手下/有亏欠"
+        },
+        {
+          "target": "顾甲",
+          "type": "被招揽对象"
+        },
+        {
+          "target": "况青云",
+          "type": "地位低于况青云"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被顾甲和赵鼎讨论，尚未出场。"
+        }
+      ],
+      "evidence": [
+        "李钧在九龙拳台打赢了祭刀会，现在又从天志会手里把货抢了回来",
+        "这小子就是个讲义气的愣种",
+        "在赵斗这件事情上我对李钧有亏欠"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "我就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "顾邕",
+      "aliases": [
+        "邕少爷"
+      ],
+      "identity": "顾家少爷",
+      "faction": "顾家/蜀道物流",
+      "status": "提及",
       "first_appearance": "第27章顾甲",
-      "summary": "”顾甲身体坐的更直了几分，神情热切道：　　赵鼎笑道：“既然部长你起了爱才之心，那我就不做小人了",
+      "summary": "顾家少爷，蜀道物流集团背后的人物，信赖赵鼎。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "顾甲",
+          "type": "上司"
+        },
+        {
+          "target": "赵鼎",
+          "type": "信赖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过顾甲传话，查清罗镇背后的人。"
+        }
+      ],
       "evidence": [
-        "”顾甲身体坐的更直了几分，神情热切道：　　赵鼎笑道：“既然部长你起了爱才之心，那我就不做小人了",
-        "武夫可都是吞金的貔貅，能靠上蜀道物流这棵大树，我就不信他不心动",
-        "”　　“行，事办完了，那我就告辞了"
+        "邕少爷让我给你带句话，罗镇背后的人已经查清楚了。",
+        "邕少爷经常都在念叨，要是早点能察觉到这个事，他一定能把你救回来。"
       ],
       "mention_count": 5
     },
     {
-      "name": "鼎爷你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第27章顾甲",
-      "summary": "不过比起鼎爷你常年供奉，我这算不了什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过比起鼎爷你常年供奉，我这算不了什么",
-        "”　　见赵鼎笑而不语，顾甲连忙转移话题，“我还有个疑问，想跟鼎爷你请教",
-        "”　　“这一次要不是鼎爷你手下人帮我抢回这批货，我少不了要被邕少爷一顿臭骂，怪不得邕少爷一直如此信赖鼎爷你"
+      "name": "吴锦丰",
+      "aliases": [
+        "吴家"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天府重工负责人",
+      "faction": "兖州吴家",
+      "status": "提及",
       "first_appearance": "第27章顾甲",
-      "summary": "”　　顾甲神色惆怅感叹了一句，随后坐直了身子，朝着赵鼎抱拳谢道：　　鸡头凤尾各占其一，才能最大限度的化解矛盾",
+      "summary": "天府重工负责人，罗镇背后的人，被顾甲视为敌人。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾甲神色惆怅感叹了一句，随后坐直了身子，朝着赵鼎抱拳谢道：　　鸡头凤尾各占其一，才能最大限度的化解矛盾",
-        "赵鼎朗声一笑，抬手请顾甲坐下，随后朝着侍立在身侧的况青云扬了扬下颚"
+      "personality": [
+        "疯狗"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "怪不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第27章顾甲",
-      "summary": "”　　“这一次要不是鼎爷你手下人帮我抢回这批货，我少不了要被邕少爷一顿臭骂，怪不得邕少爷一直如此信赖鼎爷你",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“这一次要不是鼎爷你手下人帮我抢回这批货，我少不了要被邕少爷一顿臭骂，怪不得邕少爷一直如此信赖鼎爷你",
-        "”　　“自己醒悟的太晚了，怪不得任何人，不说这个了"
+      "relationships": [
+        {
+          "target": "顾甲",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第27章顾甲",
-      "summary": "”　　赵鼎冷冷一笑，“这么说咱们这位巡检大人是靠上兖州吴家了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵鼎冷冷一笑，“这么说咱们这位巡检大人是靠上兖州吴家了",
-        "”　　“这么多年的老朋友了，你给我透个底，还有多长时间",
-        "这么多年的供奉，到底是孝敬了一尊真神，还是喂了一群恬不知耻的刀笔吏"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被查出是罗镇背后的人。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "抬手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第27章顾甲",
-      "summary": "”　　他眯着眼看着门外正在退去的昏黄天光，抬手轻轻按在老人干瘪消瘦的肩膀上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　他眯着眼看着门外正在退去的昏黄天光，抬手轻轻按在老人干瘪消瘦的肩膀上",
-        "赵鼎朗声一笑，抬手请顾甲坐下，随后朝着侍立在身侧的况青云扬了扬下颚"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "如今",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第27章顾甲",
-      "summary": "更何况如今赵鼎已经决心让况青云上位，那将李钧送进蜀道物流就是最佳的选择",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "更何况如今赵鼎已经决心让况青云上位，那将李钧送进蜀道物流就是最佳的选择",
-        "”　　“帮衬是谈不上咯，鼎爷你也看到了，如今的安保部不过是外强中干，区区一个墨九的小子都能搅的天翻地覆，连顾丁都被杀了",
-        "”　　如今在浑水袍哥内，况青云位居圣贤二哥，论地位要高出司职红旗五哥的李钧不少"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "袍哥会",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第27章顾甲",
-      "summary": "第27章顾甲　　九龙街，袍哥会总堂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第27章顾甲　　九龙街，袍哥会总堂",
-        "”　　顾甲又是躬身一拜，这才转过身来笑道：“我也只有来你们袍哥会总堂的时候才有机会拜一拜，自然得表示番心意",
-        "“袍哥会上上下下几千人能穿上衣、吃饱饭，都是仰赖顾邕少爷照顾"
+        "天府重工，吴锦丰！",
+        "把朝廷吏员当牛马使唤，明目张胆插手地方生意的，整个成都府地界也只有吴锦丰这条疯狗了。"
       ],
       "mention_count": 3
+    },
+    {
+      "name": "顾丁",
+      "aliases": [],
+      "identity": "蜀道物流安保部成员（已故）",
+      "faction": "蜀道物流",
+      "status": "已故",
+      "first_appearance": "第27章顾甲",
+      "summary": "蜀道物流安保部成员，被墨九所杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾甲",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被墨九杀死。"
+        }
+      ],
+      "evidence": [
+        "连顾丁都被杀了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "墨九",
+      "aliases": [],
+      "identity": "墨家天志会成员",
+      "faction": "墨家天志会",
+      "status": "提及",
+      "first_appearance": "第27章顾甲",
+      "summary": "墨家天志会成员，杀了顾丁，抢了蜀道物流的货。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾丁",
+          "type": "杀死"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "杀死顾丁，抢货。"
+        }
+      ],
+      "evidence": [
+        "区区一个墨九的小子都能搅的天翻地覆，连顾丁都被杀了。"
+      ],
+      "mention_count": 1
     }
   ]
 }

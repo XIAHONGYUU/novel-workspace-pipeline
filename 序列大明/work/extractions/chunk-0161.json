@@ -1,249 +1,221 @@
 {
   "chunk_id": "chunk-0161",
-  "title": "第159章好世道",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "武道序列七",
       "faction": "",
       "status": "登场",
       "first_appearance": "第159章好世道",
-      "summary": "”　　韦蒙面色肃穆，眼睛牢牢盯着一步步靠近的李钧",
+      "summary": "实力强大的武者，能轻易拆解械体，与赵青侠同行。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　韦蒙面色肃穆，眼睛牢牢盯着一步步靠近的李钧",
-        "李钧对他的话置若罔闻，脚下步伐片刻不停",
-        "李钧和赵青侠对视一眼，从对方的眼神中得到了肯定的答案"
+      "personality": [
+        "冷静",
+        "果断",
+        "淡漠"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "曹仓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "曹仓见面便被卸手，龚青鸿这王八蛋更是早就跑得不见踪影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "曹仓见面便被卸手，龚青鸿这王八蛋更是早就跑得不见踪影",
-        "而且在对方动手的过程中，曹仓很确定自己没有听到任何械心运转的声音",
-        "”　　李钧蹲在曹仓面前，双眼平视这位引颈就戮的年轻男人"
+      "abilities": [
+        "八极崩劲",
+        "推演状态",
+        "拆卸机械手段"
       ],
-      "mention_count": 16
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "同行者"
+        },
+        {
+          "target": "韦蒙",
+          "type": "敌对"
+        },
+        {
+          "target": "曹仓",
+          "type": "敌对"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击败韦蒙，控制曹仓，与赵青侠商议追杀龚青鸿。"
+        }
+      ],
+      "evidence": [
+        "李钧对他的话置若罔闻，脚下步伐片刻不停。",
+        "李钧甩了甩肘尖滴落的血水，神色淡漠的像是完成了一件微不足道的事情。",
+        "武道序列七，但他的长相却跟悬赏令上的不一样"
+      ],
+      "mention_count": 12
     },
     {
       "name": "韦蒙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "川渝赌会成员，牌面‘玖万’，兵八巅峰",
+      "faction": "川渝赌会",
+      "status": "死亡",
       "first_appearance": "第159章好世道",
-      "summary": "”　　韦蒙面色肃穆，眼睛牢牢盯着一步步靠近的李钧",
-      "appearance": [],
+      "summary": "川渝赌会成员，实力兵八巅峰，被李钧击杀。",
+      "appearance": [
+        "魁梧如熊"
+      ],
       "personality": [],
+      "abilities": [
+        "七品械体（后天装植）"
+      ],
+      "equipment": [
+        "义眼"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "曹仓",
+          "type": "同伙"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧击杀。"
+        }
+      ],
+      "evidence": [
+        "韦蒙面色肃穆，眼睛牢牢盯着一步步靠近的李钧。",
+        "韦蒙绝望的看着自己全力挥出的拳头，在敌人手中寸寸崩解。",
+        "一声巨响在林中炸开，韦蒙那双义眼几乎炸出眼眶"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "曹仓",
+      "aliases": [],
+      "identity": "川渝赌会成员，牌面‘玖条’",
+      "faction": "川渝赌会",
+      "status": "被俘",
+      "first_appearance": "第159章好世道",
+      "summary": "川渝赌会成员，被李钧卸掉手臂后投降。",
+      "appearance": [],
+      "personality": [
+        "桀骜不驯",
+        "硬气"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　韦蒙面色肃穆，眼睛牢牢盯着一步步靠近的李钧",
-        "每一步落下，韦蒙胸腔之中的嗡鸣却微弱一分",
-        "有这两位‘榜样’在前，韦蒙再蠢也知道眼前这人恐怕是块硬的不能再硬的铁板"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "韦蒙",
+          "type": "同伙"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "同伙，后叛徒"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧卸手，投降，并答应杀龚青鸿。"
+        }
+      ],
+      "evidence": [
+        "曹仓见面便被卸手",
+        "曹仓眉宇之间一片冷峻，一字一顿，“他不死，我死！”",
+        "曹仓心领神会，“那我必杀龚青鸿！”"
+      ],
+      "mention_count": 8
     },
     {
       "name": "龚青鸿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "川渝赌会成员，反将",
+      "faction": "川渝赌会",
+      "status": "逃亡",
       "first_appearance": "第159章好世道",
-      "summary": "曹仓见面便被卸手，龚青鸿这王八蛋更是早就跑得不见踪影",
+      "summary": "川渝赌会反将，擅长纵横术，见势不妙逃跑。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "曹仓见面便被卸手，龚青鸿这王八蛋更是早就跑得不见踪影",
-        "虽然没有了龚青鸿的纵横术辅助，而且那身七品械体也不是跟随械心一同进化，属于是后天装植",
-        "疯狂逃命的龚青鸿不知道奔跑了多远，终于停下脚步，面带悸色回望身后这片黑暗寂静的森林"
+      "personality": [
+        "桀骜",
+        "狡猾"
       ],
-      "mention_count": 6
+      "abilities": [
+        "纵横术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "韦蒙",
+          "type": "同伙"
+        },
+        {
+          "target": "曹仓",
+          "type": "同伙，后叛徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "逃跑后分析局势，认为好世道到来。"
+        }
+      ],
+      "evidence": [
+        "龚青鸿这王八蛋更是早就跑得不见踪影。",
+        "疯狂逃命的龚青鸿不知道奔跑了多远",
+        "龚青鸿眼中恢复清明，缓缓站起，脸上神情狂热，“好，这可真是个好世道啊！”"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "龚青",
+      "name": "赵青侠",
       "aliases": [],
-      "identity": "",
+      "identity": "被李钧所救之人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第159章好世道",
-      "summary": "曹仓见面便被卸手，龚青鸿这王八蛋更是早就跑得不见踪影",
+      "summary": "被李钧救下，与李钧同行。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "憋屈",
+        "狂热"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被救者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧背着，目睹韦蒙被杀。"
+        }
+      ],
       "evidence": [
-        "曹仓见面便被卸手，龚青鸿这王八蛋更是早就跑得不见踪影",
-        "虽然没有了龚青鸿的纵横术辅助，而且那身七品械体也不是跟随械心一同进化，属于是后天装植",
-        "疯狂逃命的龚青鸿不知道奔跑了多远，终于停下脚步，面带悸色回望身后这片黑暗寂静的森林"
+        "李钧和赵青侠对视一眼",
+        "赵青侠话还没说完",
+        "他转身走到双眼狂热的赵青侠身边"
       ],
       "mention_count": 4
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "而且在对方动手的过程中，曹仓很确定自己没有听到任何械心运转的声音",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且在对方动手的过程中，曹仓很确定自己没有听到任何械心运转的声音",
-        "虽然没有了龚青鸿的纵横术辅助，而且那身七品械体也不是跟随械心一同进化，属于是后天装植"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "就算",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "这种点菜杀鸡的感觉，让赵青侠心中的憋屈终于得到了释放，“他刚才想抓我..”　　就算是一名普通的序七要想打死韦蒙，都得费一番功夫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这种点菜杀鸡的感觉，让赵青侠心中的憋屈终于得到了释放，“他刚才想抓我..”　　就算是一名普通的序七要想打死韦蒙，都得费一番功夫",
-        "”　　“不过，这场戏也不是一无所获，”　　能植入那颗‘心猿’，他的性格本就是桀骜不驯，就算面对自己派系的老大，也从不假言令色"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "要是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "要是杀不了”　　“不过你若是非要插手，我也可以给伱个面子，咱们就此别过",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "要是杀不了”　　“不过你若是非要插手，我也可以给伱个面子，咱们就此别过",
-        "”　　“最喜欢用激将法玩弄别人的反将，要是对上最喜欢嚼舌根的谣将，那根本不需要自己煽风点火，恐怕都会是血流成河.”　　“.”　　不仅如此，对方那诡异至极的拆卸机械的手段，更是让曹仓心生恐惧"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那最",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "“如果不是李钧，那最大的可能只有是‘墨攻’中人，不过那人既然会出卖赵青侠，肯定会拖延救援的时间",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“如果不是李钧，那最大的可能只有是‘墨攻’中人，不过那人既然会出卖赵青侠，肯定会拖延救援的时间"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这种",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "这种点菜杀鸡的感觉，让赵青侠心中的憋屈终于得到了释放，“他刚才想抓我..”　　就算是一名普通的序七要想打死韦蒙，都得费一番功夫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这种点菜杀鸡的感觉，让赵青侠心中的憋屈终于得到了释放，“他刚才想抓我..”　　就算是一名普通的序七要想打死韦蒙，都得费一番功夫",
-        "这种能力，简直就是兵道的天生克星"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "韦蒙那",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "龚青鸿嘴角勾起淡淡笑意，“韦蒙那个蠢货必死无疑，一个巅峰兵八，也能完成一半的仪轨要求",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "龚青鸿嘴角勾起淡淡笑意，“韦蒙那个蠢货必死无疑，一个巅峰兵八，也能完成一半的仪轨要求",
-        "”　　一声巨响在林中炸开，韦蒙那双义眼几乎炸出眼眶，口中喷出的白色液体混杂着些许脏器的碎块，胸口呈现出令人毛骨悚然的塌陷状态"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "是换",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第159章好世道",
-      "summary": "“武道序列七，但他的长相却跟悬赏令上的不一样，是换了脸，还是墨家天志会派来的援手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“武道序列七，但他的长相却跟悬赏令上的不一样，是换了脸，还是墨家天志会派来的援手"
-      ],
-      "mention_count": 3
     }
   ]
 }

@@ -1,0 +1,163 @@
+{
+  "chunk_id": "chunk-0147",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与奥米佳达交易后前往铁匠铺购买金属，并受邀赴宴。",
+      "appearance": [
+        "黑袍"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "芯片分析金属"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "奥米佳达",
+          "type": "交易伙伴"
+        },
+        {
+          "target": "佛朗西斯",
+          "type": "铁匠铺老板"
+        },
+        {
+          "target": "贾斯汀亲王",
+          "type": "邀请者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与奥米佳达交易后前往铁匠铺购买金属，并受邀赴宴。"
+        }
+      ],
+      "evidence": [
+        "安格列倒是脸上露出微笑。",
+        "安格列走上前去，眼中隐隐泛起点点蓝色荧光，极其细微，也没人注意到。",
+        "安格列点点头，他原本就没多少这片大陆的金币，也只能让大贤者代付。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "奥米佳达",
+      "aliases": [
+        "大贤者"
+      ],
+      "identity": "大贤者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与安格列交易后陪同前往铁匠铺，并代为支付金属费用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "专用马车"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "交易伙伴"
+        },
+        {
+          "target": "佛朗西斯",
+          "type": "铁匠铺老板"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列交易后陪同前往铁匠铺，并代为支付金属费用。"
+        }
+      ],
+      "evidence": [
+        "奥米佳达站在一边，双手抱胸，有些期待地看着安格列。",
+        "大贤者拉开车门，跳了下去。",
+        "大贤者点点头，那么我就代为支付了。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "佛朗西斯",
+      "aliases": [
+        "佛朗西斯科",
+        "巨汉"
+      ],
+      "identity": "铁匠铺老板",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "铁匠铺老板，为安格列提供多种金属。",
+      "appearance": [
+        "三米多高的强壮巨人",
+        "光头，没有眉毛胡子，左耳穿了一个大大的黄金耳环"
+      ],
+      "personality": [
+        "粗鲁",
+        "恭敬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "顾客"
+        },
+        {
+          "target": "奥米佳达",
+          "type": "顾客"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向安格列展示并出售金属。"
+        }
+      ],
+      "evidence": [
+        "一个足有三米多高的强壮巨人正拿着一个人头大小的黑锤，一下下，细腻地砸着烧红的帖胚。",
+        "佛朗西斯示意一边快要虚脱的四个男子停下风箱，灯泡大小的双眼落在比他足足矮了一大截的安格列身上。",
+        "巨汉佛朗西斯搓着手，脸上客气的笑了起来。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "贾斯汀亲王",
+      "aliases": [],
+      "identity": "亲王",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "亲自邀请安格列赴宴。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "邀请者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "亲自邀请安格列赴宴。"
+        }
+      ],
+      "evidence": [
+        "安格列紧接着又遇到贾斯汀亲王的亲自过来邀请。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

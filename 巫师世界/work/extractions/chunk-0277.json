@@ -1,0 +1,237 @@
+{
+  "chunk_id": "chunk-0277",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "液化巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "核心人物，拥有芯片辅助，实力暴增后主动返回白雾镇营救同伴。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "主动"
+      ],
+      "abilities": [
+        "芯片扫描",
+        "秘法印记",
+        "金属细丝操控"
+      ],
+      "equipment": [
+        "恶念弯刀",
+        "黑色小木盒子"
+      ],
+      "relationships": [
+        {
+          "target": "西格尼",
+          "type": "同伴"
+        },
+        {
+          "target": "茉伊拉",
+          "type": "同伴"
+        },
+        {
+          "target": "雷林楠",
+          "type": "同伴"
+        },
+        {
+          "target": "希曼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在白雾镇外与西格尼相遇，通过药粉确认身份，后返回镇中救出雷林楠和希曼。"
+        }
+      ],
+      "evidence": [
+        "安格列眼中散发着蓝色荧光，不断扫描着面前的这个西格尼。",
+        "安格列退后一步，双眼紧盯着身边的茉伊拉和西格尼。",
+        "安格列带着三人快步朝着回路走去。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "西格尼",
+      "aliases": [
+        "西格"
+      ],
+      "identity": "液化巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的同伴，满身是血出现在白雾镇外，后被安格列确认身份。",
+      "appearance": [
+        "满身是血"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "黑色匕首",
+        "药粉"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "雷林楠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在白雾镇外，与安格列会合，后一同返回镇中。"
+        }
+      ],
+      "evidence": [
+        "面前这个西格尼，虽然看上去挺真实，但同样也是可能是伪装。",
+        "西格尼却是一边用药粉往身上涂抹，一边跟上安格列的脚步。",
+        "西格居然不知道什么时候昏倒在地。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "茉伊拉",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的同伴，擅长治疗，留在木屋中等待。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "治疗白光"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "西格尼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在木屋中，后与安格列、西格尼一起尝试联系雷林楠，最终留在木屋等待。"
+        }
+      ],
+      "evidence": [
+        "木屋里的茉伊拉也走了出来，第一时间就看到了屋外的西格尼，顿时低声惊呼一声。",
+        "茉伊拉迟疑了一下：“我就在这里等你们出来吧……”",
+        "缩在木屋角落，躲在一层防护层里面的茉伊拉。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "雷林楠",
+      "aliases": [
+        "雷"
+      ],
+      "identity": "晶化巫师",
+      "faction": "",
+      "status": "被救出",
+      "first_appearance": "",
+      "summary": "安格列的同伴，晶化巫师，被发现躺在墓碑前的坑中，被安格列救出。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "西格尼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列在墓碑前的坑中发现，与希曼一同被救出。"
+        }
+      ],
+      "evidence": [
+        "他可是晶化巫师，怎么没见和你一起？",
+        "居然正是一直找寻不到的雷林楠和希曼！",
+        "对准两人伸出左手。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "希曼",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "被救出",
+      "first_appearance": "",
+      "summary": "与雷林楠一同被埋在墓碑前坑中，被安格列救出。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被救者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与雷林楠一同被安格列从坑中救出。"
+        }
+      ],
+      "evidence": [
+        "居然正是一直找寻不到的雷林楠和希曼！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "爱丽莎缦·伽斯汀",
+      "aliases": [],
+      "identity": "命运女巫",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "墓碑主人，命运女巫，墓碑上的肖像画栩栩如生，似乎仍有视线。",
+      "appearance": [
+        "头戴白色尖顶圆盘帽",
+        "绿色双眼",
+        "皮肤雪白",
+        "温婉微笑"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "去世，墓碑上刻有致敬文字。"
+        }
+      ],
+      "evidence": [
+        "爱丽莎缦·伽斯汀——向传说的命运女巫致敬。",
+        "这是一个头戴白色尖顶圆盘帽的漂亮女人。她的双眼是绿色的，皮肤雪白，正温婉的微笑着。",
+        "墓碑上的女人似乎是真的还活着，她正在温柔地注视着站在墓碑前的自己。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

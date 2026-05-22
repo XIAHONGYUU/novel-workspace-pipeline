@@ -1,255 +1,190 @@
 {
   "chunk_id": "chunk-0317",
-  "title": "第315章逼迫",
   "characters": [
     {
       "name": "荒世烈",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "荒世集团首领",
+      "faction": "荒世集团",
       "status": "登场",
       "first_appearance": "第315章逼迫",
-      "summary": "”　　“荒世烈，你这是在挑衅整个丰臣家族的尊严",
-      "appearance": [],
-      "personality": [],
+      "summary": "荒世集团的首领，性格嚣张跋扈，与丰臣远疆和德川康宏密谋抓捕道序天师，掠夺黄粱权限。",
+      "appearance": [
+        "魁伟巨人"
+      ],
+      "personality": [
+        "嚣张",
+        "轻蔑",
+        "狡诈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“荒世烈，你这是在挑衅整个丰臣家族的尊严",
-        "荒世烈坐姿大马金刀，看着身前神色冷峻的丰臣远疆，嘴角勾起一丝轻蔑的冷笑",
-        "”　　丰臣远疆眼眸中的恨意如有实质，死死盯在荒世烈身上"
+      "relationships": [
+        {
+          "target": "丰臣远疆",
+          "type": "盟友/敌对"
+        },
+        {
+          "target": "德川康宏",
+          "type": "盟友"
+        },
+        {
+          "target": "荒世夏虎",
+          "type": "下属"
+        }
       ],
-      "mention_count": 20
-    },
-    {
-      "name": "荒世",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "”　　“荒世烈，你这是在挑衅整个丰臣家族的尊严",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“荒世烈，你这是在挑衅整个丰臣家族的尊严",
-        "荒世烈坐姿大马金刀，看着身前神色冷峻的丰臣远疆，嘴角勾起一丝轻蔑的冷笑",
-        "”　　丰臣远疆眼眸中的恨意如有实质，死死盯在荒世烈身上"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与丰臣远疆、德川康宏商议应对道序天师，并下令刺杀锦衣卫百户阎君。"
+        }
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "丰臣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "”　　霎时，投影突然变幻，只留下丰臣远疆的身影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　霎时，投影突然变幻，只留下丰臣远疆的身影",
-        "“如果伱不立刻道歉，丰臣家族现在就将和你开战",
-        "”　　“噢，我差点忘了，当年在帝国隆武皇帝攻进倭民区的时候，你们丰臣家可是最早的一批带路党，靠着出卖自己人才得到朝廷的信任，从工部手中拿到了倭区的重建权，一步步发展到今天"
+        "荒世烈坐姿大马金刀，看着身前神色冷峻的丰臣远疆，嘴角勾起一丝轻蔑的冷笑。",
+        "荒世烈对那双愤怒至极的眼眸视而不见，甚至惬意的翘起了腿，单手撑着下巴，语气戏谑道",
+        "荒世烈双眼看着对方消失的位置，凝目沉思了片刻，突然扬声喊道：荒世夏虎！"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "投影",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "投影也在这一刻戛然而止，定格在年轻男人略显气急败坏的脸上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "投影也在这一刻戛然而止，定格在年轻男人略显气急败坏的脸上",
-        "”　　霎时，投影突然变幻，只留下丰臣远疆的身影",
-        "”　　投影变幻，焰浪从中分开，丰臣远疆的身影缓缓走出，语气凝重说道：“所以目前的情况是道序已经有所警觉，并且派遣了麾下的天师进入倭民区调查"
-      ],
-      "mention_count": 10
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "“老丰臣，我们现在停下来和掩耳盗铃有什么区别",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“老丰臣，我们现在停下来和掩耳盗铃有什么区别",
-        "难道我们不继续抓人，道序就永远不会发现是我们在幕后动手",
-        "“道序天师潜入三川重工的事情，是一个危险的信号，我们必须要加快行动了"
-      ],
-      "mention_count": 8
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "“虽然目前还不能确定对方到底属于道门的哪一家势力，但对方道序的身份毋庸置疑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“虽然目前还不能确定对方到底属于道门的哪一家势力，但对方道序的身份毋庸置疑",
-        "“虽然目前被袭击的只有我三川重工，但接下来恐怕大家都会被这些天师盯上"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "”　　“噢，我差点忘了，当年在帝国隆武皇帝攻进倭民区的时候，你们丰臣家可是最早的一批带路党，靠着出卖自己人才得到朝廷的信任，从工部手中拿到了倭区的重建权，一步步发展到今天",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“噢，我差点忘了，当年在帝国隆武皇帝攻进倭民区的时候，你们丰臣家可是最早的一批带路党，靠着出卖自己人才得到朝廷的信任，从工部手中拿到了倭区的重建权，一步步发展到今天",
-        "既然兵序是为了替代你们而诞生，那再次成为你们的附庸也是情理之中",
-        "“我听说，你们三川重工的总部‘锻冶堂’下面可就是当年帝国军队活埋俘虏的万人坑，你睡在上面，就没有亡灵顺着脑机灵窍钻进你的梦里"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "德川",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "”　　“德川先生，现在您应该可以放心了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“德川先生，现在您应该可以放心了",
-        "德川康宏语气肃穆：“你应该向丰臣君道歉",
-        "面对德川康宏呵斥，他立马放下了翘着的腿，双手按在膝盖上，朝着丰臣远疆微微垂首"
-      ],
-      "mention_count": 5
+      "mention_count": 18
     },
     {
       "name": "丰臣远疆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "老丰臣",
+        "丰臣君"
+      ],
+      "identity": "丰臣家族首领",
+      "faction": "丰臣家族/三川重工",
       "status": "登场",
       "first_appearance": "第315章逼迫",
-      "summary": "”　　霎时，投影突然变幻，只留下丰臣远疆的身影",
+      "summary": "丰臣家族的首领，掌管三川重工，性格刚烈但被荒世烈嘲讽为带路党，最终决定继续行动。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　霎时，投影突然变幻，只留下丰臣远疆的身影",
-        "荒世烈坐姿大马金刀，看着身前神色冷峻的丰臣远疆，嘴角勾起一丝轻蔑的冷笑",
-        "以丰臣远疆那颗机械脑袋，恐怕就算被道序把锻冶堂扫成废墟，他都不会再后退半步了"
+      "personality": [
+        "愤怒",
+        "刚烈",
+        "隐忍"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "德川康",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第315章逼迫",
-      "summary": "德川康宏语气肃穆：“你应该向丰臣君道歉",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "德川康宏语气肃穆：“你应该向丰臣君道歉",
-        "面对德川康宏呵斥，他立马放下了翘着的腿，双手按在膝盖上，朝着丰臣远疆微微垂首",
-        "”　　荒世烈身躯前倾，和德川康宏坦然对视，“不过我怕的是一口气吃不下整个三川重工"
+      "equipment": [
+        "械心"
       ],
-      "mention_count": 4
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "盟友/敌对"
+        },
+        {
+          "target": "德川康宏",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "投影与荒世烈、德川康宏争论，最终决定继续行动。"
+        }
+      ],
+      "evidence": [
+        "丰臣远疆眼眸中的恨意如有实质，死死盯在荒世烈身上。",
+        "丰臣远疆面露怒色，现在停手，我们还能有一些缓冲的时间",
+        "扔下这句掷地有声的话语后，丰臣远疆根本不理会德川康宏的劝解，投影直接消失在原地。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "德川康宏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "德川先生"
+      ],
+      "identity": "黑龙资本代表",
+      "faction": "黑龙资本",
       "status": "登场",
       "first_appearance": "第315章逼迫",
-      "summary": "德川康宏语气肃穆：“你应该向丰臣君道歉",
+      "summary": "黑龙资本的代表，与荒世烈和丰臣远疆合作，催促荒世烈道歉并推动行动。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "肃穆",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "德川康宏语气肃穆：“你应该向丰臣君道歉",
-        "面对德川康宏呵斥，他立马放下了翘着的腿，双手按在膝盖上，朝着丰臣远疆微微垂首",
-        "”　　荒世烈身躯前倾，和德川康宏坦然对视，“不过我怕的是一口气吃不下整个三川重工"
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "盟友"
+        },
+        {
+          "target": "丰臣远疆",
+          "type": "盟友"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "投影出现，要求荒世烈向丰臣远疆道歉，并商议加快行动。"
+        }
+      ],
+      "evidence": [
+        "德川康宏语气肃穆：你应该向丰臣君道歉！现在，立刻！",
+        "德川康宏看着身前毫不掩饰脸上欲望的魁伟巨人，语气变得肃穆。",
+        "德川康宏十分满意的点了点头，身影随即消散。"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "点在",
+      "name": "荒世夏虎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "荒世烈下属",
+      "faction": "荒世集团",
       "status": "登场",
       "first_appearance": "第315章逼迫",
-      "summary": "只见他左手并指如剑，点在眉心位置，全神贯注催动手中的飞剑",
+      "summary": "荒世烈的下属，被命令去刺杀锦衣卫百户阎君。",
+      "appearance": [
+        "浓眉圆眼，头皮剃的发青的健硕汉子"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被荒世烈召唤，接受刺杀阎君的命令。"
+        }
+      ],
+      "evidence": [
+        "一名浓眉圆眼，头皮剃的发青的健硕汉子大步走了进来，在荒世烈面前单膝跪下。",
+        "荒世夏虎神色一怔，愕然道：您之前的命令，不是要把人抓回来吗？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "阎君",
+      "aliases": [],
+      "identity": "锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第315章逼迫",
+      "summary": "锦衣卫百户，被荒世烈下令刺杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只见他左手并指如剑，点在眉心位置，全神贯注催动手中的飞剑"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被荒世烈下令刺杀。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "那你现在就带人去犬山城吧，把那个叫阎君的锦衣卫百户杀了。"
+      ],
+      "mention_count": 1
     }
   ]
 }

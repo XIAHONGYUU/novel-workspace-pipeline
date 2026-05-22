@@ -1,201 +1,310 @@
 {
   "chunk_id": "chunk-0506",
-  "title": "第504章兼爱所",
   "characters": [
     {
       "name": "邹四九",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "尹英"
+      ],
+      "identity": "潜入兼爱所的墨序调查人员",
+      "faction": "墨序（潜入状态）",
       "status": "登场",
       "first_appearance": "第504章兼爱所",
-      "summary": "嗒、嗒、嗒　　邹四九.不，现在的他应该叫尹英，踏着长长的台阶，昂然走进了兼爱所的大门",
+      "summary": "邹四九使用墨甲守御潜入兼爱所，伪装成调查人员尹英，试图打探消息。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "嗒、嗒、嗒　　邹四九.不，现在的他应该叫尹英，踏着长长的台阶，昂然走进了兼爱所的大门",
-        "”　　只见他扫了眼四周，见没人注意这里，干脆拉过一把椅子坐到了邹四九的身旁",
-        "邹四九站在兼爱所大厅的中线上放眼看去，随处可见和他一样身穿黑色素袍的调查人员，男女都有，但无一例外都是脚步匆匆，根本没有人在意他"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于伪装"
       ],
-      "mention_count": 22
+      "abilities": [
+        "潜入",
+        "精神领域墨甲守御"
+      ],
+      "equipment": [
+        "守御（墨甲）"
+      ],
+      "relationships": [
+        {
+          "target": "尹英",
+          "type": "伪装身份"
+        },
+        {
+          "target": "李钧",
+          "type": "同伙（提及）"
+        },
+        {
+          "target": "梁火",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入兼爱所，与同事交谈，获取情报。"
+        }
+      ],
+      "evidence": [
+        "邹四九.不，现在的他应该叫尹英，踏着长长的台阶，昂然走进了兼爱所的大门。",
+        "自从有了守御这具专攻精神领域的墨甲之后，邹四九干起潜入这种事情越发的得心应手。",
+        "邹四九顺势恢复尹英那副冷冰冰的表情，只在眼角留下一丝哀怨，身体往男人的方向靠近几分，略带委屈说道..."
+      ],
+      "mention_count": 14
     },
     {
-      "name": "邹四",
+      "name": "尹英",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "兼爱所伍室调查人员（已被邹四九取代）",
+      "faction": "墨序中部分院兼爱所",
+      "status": "已故（被李钧击杀）",
       "first_appearance": "第504章兼爱所",
-      "summary": "嗒、嗒、嗒　　邹四九.不，现在的他应该叫尹英，踏着长长的台阶，昂然走进了兼爱所的大门",
+      "summary": "原兼爱所伍室调查人员，被李钧击杀后身份被邹四九冒用。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "嗒、嗒、嗒　　邹四九.不，现在的他应该叫尹英，踏着长长的台阶，昂然走进了兼爱所的大门",
-        "”　　只见他扫了眼四周，见没人注意这里，干脆拉过一把椅子坐到了邹四九的身旁",
-        "邹四九站在兼爱所大厅的中线上放眼看去，随处可见和他一样身穿黑色素袍的调查人员，男女都有，但无一例外都是脚步匆匆，根本没有人在意他"
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "身份被冒用"
+        },
+        {
+          "target": "李钧",
+          "type": "击杀者"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被李钧一拳打碎脑袋。"
+        }
+      ],
+      "evidence": [
+        "都怪这个莽夫一拳把尹英的脑袋打成了粉碎，让自己根本没有地方了解掌握对方在兼爱所内的行为模式和说话习惯。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "男人",
+      "name": "梁火",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "自由墨序，被兼爱所监视的对象",
+      "faction": "自由墨序",
+      "status": "被监视",
       "first_appearance": "第504章兼爱所",
-      "summary": "”　　“一群铁匠出身的人，不好好围着火炉抡锤，居然学着儒序研究起怎么对付自己人，真是有意思.”　　那一张生硬的假脸上浮现如此人性化的表情，让男人不禁一愣",
+      "summary": "梁火是蚩主的朋友，蚩主死后仍被兼爱所监视，认为可能被其他叛逃明鬼联系。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“一群铁匠出身的人，不好好围着火炉抡锤，居然学着儒序研究起怎么对付自己人，真是有意思.”　　那一张生硬的假脸上浮现如此人性化的表情，让男人不禁一愣",
-        "男人讪笑着收回手臂，却似乎不甘心就这样结束和邹四九的对话",
-        "男人十分满意邹四九的反应，拍着胸脯说道"
+      "relationships": [
+        {
+          "target": "蚩主",
+          "type": "朋友"
+        },
+        {
+          "target": "邹四九（尹英）",
+          "type": "被调查对象"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被兼爱所监视，邹四九伪装成尹英调查他。"
+        }
+      ],
+      "evidence": [
+        "梁火这个人可没这么简单，他不止在年轻的时候就跟蚩主认识，而且这些年中蚩主一直都通过假身份在黄粱梦境中和他联络。",
+        "那几个和蚩主关系莫逆的叛徒明鬼很可能都知道梁火这个人。如果他们想要为蚩主报仇，就有很大的概率找上梁火。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "黑色",
+      "name": "男人（伍室同事）",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "兼爱所伍室调查人员",
+      "faction": "墨序中部分院兼爱所",
       "status": "登场",
       "first_appearance": "第504章兼爱所",
-      "summary": "一座通体由黑色砖石构成的五层建筑矗立在坊区的角落，建筑的外表看不到任何砖石堆砌的缝隙，浑然一体",
+      "summary": "尹英在伍室的同事，向邹四九透露了关于梁火和孟席副院长死亡的消息。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "猥琐",
+        "八卦"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一座通体由黑色砖石构成的五层建筑矗立在坊区的角落，建筑的外表看不到任何砖石堆砌的缝隙，浑然一体",
-        "在大明帝国的文化之中，黑色被视为“天玄地黄”中的“天玄”，亦即天的颜色",
-        "而在墨序之中，黑色则是墨家正统思想的代表，也是对‘兼爱’理念最好的体现"
+      "relationships": [
+        {
+          "target": "尹英（邹四九）",
+          "type": "同事"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邹四九交谈，提供情报。"
+        }
+      ],
+      "evidence": [
+        "说话的男人是尹英在‘伍室’内的同事，同样也是一名墨序七的专案人员。",
+        "男人脸上浮现一丝猥琐的笑意，抬起手就要去揽邹四九的肩膀。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "墨序",
+      "name": "孟席",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "墨序中部分院副院长",
+      "faction": "墨序中部分院",
+      "status": "已故",
       "first_appearance": "第504章兼爱所",
-      "summary": "而在墨序之中，黑色则是墨家正统思想的代表，也是对‘兼爱’理念最好的体现",
+      "summary": "中部分院副院长，带领课题小组在倭区抓捕行动中全部死亡，葬身大海。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在墨序之中，黑色则是墨家正统思想的代表，也是对‘兼爱’理念最好的体现",
-        "这里便是墨序中部分院麾下的兼爱所，让所有墨序从序者闻风丧胆的地方",
-        "”　　除了矩子堂五大分院以外，墨序在近几十年中，还衍生出了一些脱离矩子堂管辖的民间组织"
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "在倭区抓捕行动中死亡。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "因为在这一次的抓捕行动中，孟席副院长和他带领的课题小组全部死在了倭区，听说是葬身大海，到现在连尸体都没找到！"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "要不",
+      "name": "刘仙州",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "墨序中部分院副院长",
+      "faction": "墨序中部分院",
+      "status": "在职",
       "first_appearance": "第504章兼爱所",
-      "summary": "“当然是真的了，要不然刘仙州副院长怎么可能有资格分管我们兼爱所和尚贤院，这两大要害部门",
+      "summary": "中部分院副院长，分管兼爱所和尚贤院。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“当然是真的了，要不然刘仙州副院长怎么可能有资格分管我们兼爱所和尚贤院，这两大要害部门",
-        "邹四九顺势恢复尹英那副冷冰冰的表情，只在眼角留下一丝哀怨，身体往男人的方向靠近几分，略带委屈说道：“我也是被梁火给气到了，每次去调查他不止不配合，反而对我冷嘲热讽，要不是上面严令禁止对他用刑，我早就把他带回兼爱所了",
-        "”　　要不然以自己的潜入能力，怎么可能出现这么低级的疏漏"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因孟席死亡而获得分管兼爱所和尚贤院的资格。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "刘仙州副院长怎么可能有资格分管我们兼爱所和尚贤院，这两大要害部门？"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "负责",
+      "name": "蚩主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "序三明鬼，已故",
+      "faction": "叛逃明鬼",
+      "status": "已故",
       "first_appearance": "第504章兼爱所",
-      "summary": "他们正在监视墨序内部的各种黄梁梦境，而负责接班的人员就坐在旁边打着瞌睡，争分夺秒的抓紧时间休息",
+      "summary": "序三明鬼，被中部分院杀死，与梁火有旧。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他们正在监视墨序内部的各种黄梁梦境，而负责接班的人员就坐在旁边打着瞌睡，争分夺秒的抓紧时间休息",
-        "”　　例如负责人才培育和招引的尚贤院、负责内部调查的兼爱所、负责研究武器开发的非公院、负责研究音频对人体和精神影响的非乐院.　　就连没有实体的明鬼境，都一分为五，彼此之间壁垒深重，各自负责自己明鬼的激活和启用",
-        "而在走廊的最深处，则是一间较寻常房门还要宽上两倍有余的巨门，投影在上面的文字表明，这里是兼爱所重案调查室负责人的办公室"
+      "relationships": [
+        {
+          "target": "梁火",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被中部分院杀死。"
+        }
+      ],
+      "evidence": [
+        "蚩主都已经死了",
+        "梁火这个人可没这么简单，他不止在年轻的时候就跟蚩主认识"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "而五",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "邹四九的同伙（推测）",
+      "faction": "未知",
+      "status": "提及",
       "first_appearance": "第504章兼爱所",
-      "summary": "”　　而五大分院依旧沿袭着当初的组织结构，内部都有属于自己的各种职能部门",
+      "summary": "被邹四九埋怨的莽夫，击杀了尹英。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "莽撞"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　而五大分院依旧沿袭着当初的组织结构，内部都有属于自己的各种职能部门",
-        "而五大分院对待这些民间组织的态度也各有不同"
+      "relationships": [
+        {
+          "target": "尹英",
+          "type": "击杀者"
+        },
+        {
+          "target": "邹四九",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "一拳打碎尹英的脑袋。"
+        }
+      ],
+      "evidence": [
+        "都怪这个莽夫一拳把尹英的脑袋打成了粉碎"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "建筑",
+      "name": "守御",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "邹四九的墨甲",
+      "faction": "墨序",
+      "status": "活跃",
       "first_appearance": "第504章兼爱所",
-      "summary": "一座通体由黑色砖石构成的五层建筑矗立在坊区的角落，建筑的外表看不到任何砖石堆砌的缝隙，浑然一体",
+      "summary": "专攻精神领域的墨甲，帮助邹四九潜入。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一座通体由黑色砖石构成的五层建筑矗立在坊区的角落，建筑的外表看不到任何砖石堆砌的缝隙，浑然一体"
+      "personality": [
+        "嫌恶"
       ],
-      "mention_count": 3
+      "abilities": [
+        "精神领域"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邹四九交流，提醒他注意伪装。"
+        }
+      ],
+      "evidence": [
+        "话音刚落，守御嫌恶的骂声就在邹四九的脑海中响起。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "天玄",
+      "name": "赵青侠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "有天志会背景的墨序",
+      "faction": "墨序东部分院（推测）",
+      "status": "提及",
       "first_appearance": "第504章兼爱所",
-      "summary": "在大明帝国的文化之中，黑色被视为“天玄地黄”中的“天玄”，亦即天的颜色",
+      "summary": "曾属于天志会，后加入墨序东部分院。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -203,50 +312,10 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "在大明帝国的文化之中，黑色被视为“天玄地黄”中的“天玄”，亦即天的颜色"
+        "其中颇为有名的就是赵青侠曾经所在的天志会。",
+        "东部分院则是五大分院中包容度最强的一院，从赵青侠这个有天志会背景的墨序都能够加入其中，就足以可见一斑。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "而在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第504章兼爱所",
-      "summary": "而在墨序之中，黑色则是墨家正统思想的代表，也是对‘兼爱’理念最好的体现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在墨序之中，黑色则是墨家正统思想的代表，也是对‘兼爱’理念最好的体现",
-        "而在走廊的最深处，则是一间较寻常房门还要宽上两倍有余的巨门，投影在上面的文字表明，这里是兼爱所重案调查室负责人的办公室"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这些",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第504章兼爱所",
-      "summary": "这些人紧闭的眼皮不断抖动，不难看出其后的眼球正在高速颤动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这些人紧闭的眼皮不断抖动，不难看出其后的眼球正在高速颤动",
-        "”　　就连空气中飘荡着的似有若无的哀嚎声，这些人显然都早已经习以为常，自顾自的忙着自己的事情",
-        "不过好在男人也没有继续深思，权以为尹英是被对方气昏了头，耸了耸肩膀，笑道：“梁火这个人可没这么简单，他不止在年轻的时候就跟蚩主认识，而且这些年中蚩主一直都通过假身份在黄粱梦境中和他联络"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

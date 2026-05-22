@@ -1,251 +1,83 @@
 {
   "chunk_id": "chunk-0020",
-  "title": "第19章 说话的艺术",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "模拟器使用者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第19章 说话的艺术",
-      "summary": "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
+      "summary": "主角，使用完美人生模拟器进行模拟，试图在诡异事件中生存并拯救他人。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "有同情心"
+      ],
+      "abilities": [
+        "老司机（绿色）",
+        "说话的艺术（白色）"
+      ],
+      "equipment": [
+        "帝钟",
+        "蜡烛",
+        "手机",
+        "地图",
+        "背包"
+      ],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "14号白天",
+          "event": "准备蜡烛和地图，决定晚上模拟。"
+        },
+        {
+          "stage": "14号夜间",
+          "event": "进入模拟，驾车寻找女孩，劝说她上车。"
+        }
+      ],
       "evidence": [
-        "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-        "不可名状的阴影在苏午心里盘踞着，他不寒而栗，将种种猜测甩出脑海，制止了自己的胡思乱想",
-        "这一次在模拟未来里可带出的物品选项中，并没有那只已被苏午抓到手的大公鸡"
+        "苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’。",
+        "他再次看向表盘。",
+        "苏午推开车门，手持火苗摇曳的红烛，向那女孩大喊。"
       ],
       "mention_count": 20
     },
     {
-      "name": "模拟器",
-      "aliases": [],
-      "identity": "",
+      "name": "女孩",
+      "aliases": [
+        "那女孩"
+      ],
+      "identity": "抱大公鸡的陌生女孩",
       "faction": "",
       "status": "登场",
       "first_appearance": "第19章 说话的艺术",
-      "summary": "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
+      "summary": "在街上抱着大公鸡行走的女孩，被苏午劝说上车。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-        "模拟器为什么要将满天的红灯笼称为‘眼诡’",
-        "不知是因为大公鸡是活物生灵，还是因为虽然他抓到了大公鸡，但模拟器依然不把这只鸡判定为他的所有物"
+      "equipment": [
+        "大公鸡"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "说话",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-        "”　　在苏午说话的当口，街道周边的霓虹、灯光倏然暗灭，黑暗里只有汽车笔直射出的灯柱，以及他手里的烛火能带给人安全感",
-        "灯光映照下，她看不清车里坐着的苏午，但能听出对方话语里的关切，她眼圈一红，正要开口说话"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被救助者"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "模拟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-        "模拟器为什么要将满天的红灯笼称为‘眼诡’",
-        "这一次在模拟未来里可带出的物品选项中，并没有那只已被苏午抓到手的大公鸡"
+      "timeline": [
+        {
+          "stage": "14号夜间",
+          "event": "在街上被苏午拦住并劝说上车。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "眼诡",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-        "模拟器为什么要将满天的红灯笼称为‘眼诡’",
-        "帝钟对‘眼诡’并没有作用"
+        "苏午看到街道一侧抱着大公鸡低头走路的身影",
+        "女孩被突然窜出来挡在自己前方的汽车吓了一跳",
+        "她眼圈一红，正要开口说话"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "还是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "还是说，这个诡异本身就是由无数灯笼构成",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "还是说，这个诡异本身就是由无数灯笼构成",
-        "不知是因为大公鸡是活物生灵，还是因为虽然他抓到了大公鸡，但模拟器依然不把这只鸡判定为他的所有物",
-        "当下地面上，不论是汽车、装甲车，还是自行车、电动车，更或者是牛马等牲畜，只要它们具备转向能力，且是地面载具，苏午都能完美驾驭"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "就现阶段而言，三百个模拟币的价值远远超出三百块钱，甚至给三万块苏午都不可能换",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就现阶段而言，三百个模拟币的价值远远超出三百块钱，甚至给三万块苏午都不可能换",
-        "如果交谈对象是你的敌人，那么你的言辞会较容易让敌人愤怒，甚至在持续言语刺激下失去理智"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "黑暗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "黑暗刹那倾盖",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑暗刹那倾盖",
-        "”　　在苏午说话的当口，街道周边的霓虹、灯光倏然暗灭，黑暗里只有汽车笔直射出的灯柱，以及他手里的烛火能带给人安全感"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "说话的艺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第19章 说话的艺术　　苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’",
-        "电子音在此时隐约响起：“你领悟了临时天赋：说话的艺术（白色）",
-        "”　　“说话的艺术（白色）：你的言辞较为容易让人信服"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "那一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "那一只只红灯笼，难道是诡异的眼睛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那一只只红灯笼，难道是诡异的眼睛",
-        "随后点燃一根蜡烛拿在手里，背上那一捆十九根备用蜡烛，帝钟挂在脖颈上，在霓虹闪亮之时，奔出了小庙"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "覆盖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "覆盖了大半个乃至整个明州市的漫天红灯笼，若都是一只诡异的眼睛的话，那它的本体该有多大",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "覆盖了大半个乃至整个明州市的漫天红灯笼，若都是一只诡异的眼睛的话，那它的本体该有多大"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "他最",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第19章 说话的艺术",
-      "summary": "苏午在外面买来的一批蜡烛已经用完，他最后一次是强冲到那女孩近前，夺走了她的宠物",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午在外面买来的一批蜡烛已经用完，他最后一次是强冲到那女孩近前，夺走了她的宠物"
-      ],
-      "mention_count": 3
+      "mention_count": 5
     }
   ]
 }

@@ -1,257 +1,312 @@
 {
   "chunk_id": "chunk-0410",
-  "title": "第一百八十三章 问刀坪",
   "characters": [
     {
       "name": "戚笼",
       "aliases": [],
-      "identity": "",
+      "identity": "刀客，龙脉之子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "似是这么点露水滋润了戚笼昏沉的意识，戚笼渐渐从昏睡中醒来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "似是这么点露水滋润了戚笼昏沉的意识，戚笼渐渐从昏睡中醒来",
-        "戚笼伸出双手，发现手上的绷带是身上的三倍，顺着日光，可以清晰的看到手上的大小裂口和洞口，就像是一个在碎裂边缘徘徊的玩具，如果不包裹住，随时都会崩溃",
-        "戚笼敲了敲脑门，肉身上没有痛苦，精神更是一点感应都没有"
+      "summary": "主角，经历劫数后身体重伤，精神被封印，前往问刀楼寻求治疗机缘。",
+      "appearance": [
+        "手上绷带是身上的三倍，可见大小裂口和洞口",
+        "鞋子露出两个脚趾头，头发杂乱，胡子拉碴"
       ],
-      "mention_count": 28
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "刀道演化",
+        "大劫力量"
+      ],
+      "equipment": [
+        "青鸾刀"
+      ],
+      "relationships": [
+        {
+          "target": "吕傲侯",
+          "type": "留下机缘指引"
+        },
+        {
+          "target": "赫天阙",
+          "type": "初次见面"
+        },
+        {
+          "target": "柳芙蓉",
+          "type": "初次见面"
+        },
+        {
+          "target": "戒刀",
+          "type": "初次见面"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从昏睡中醒来，发现吕傲侯留下的字迹，向南前往问刀楼。"
+        },
+        {
+          "stage": "三天后",
+          "event": "到达问刀坪，遇到赫天阙、柳芙蓉、戒刀等人。"
+        }
+      ],
+      "evidence": [
+        "戚笼伸出双手，发现手上的绷带是身上的三倍",
+        "戚笼敲了敲脑门，肉身上没有痛苦，精神更是一点感应都没有",
+        "我叫戚笼，大师你呢？"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "刀光",
+      "name": "吕傲侯",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "问刀楼出身的高手",
+      "faction": "问刀楼",
+      "status": "提及",
       "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "再然后，刀光反转，戚笼意识便就一黑，彻底没了感知",
+      "summary": "在戚笼昏迷时留下字迹，指引其前往问刀楼治疗伤势。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "再然后，刀光反转，戚笼意识便就一黑，彻底没了感知",
-        "烛九幽挨了四杀力量演化的刀光，依照对方的霸道心性，不是伤残到一定程度，是不可能不追杀到底了",
-        "刀光一闪，预想中的四分五裂并没有发生，刀光斩了个空"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "留下机缘指引"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "在戚笼昏迷时留下字迹。"
+        }
+      ],
+      "evidence": [
+        "地面上刻了一行字，出乎意料的丑。‘向南两百里，去问刀楼，那里有治疗你伤势的机缘——吕傲侯’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "赫天阙",
+      "aliases": [
+        "赫疯子"
+      ],
+      "identity": "第一任兽神将，隐居苦修一甲子的刀客",
+      "faction": "武平督护府（前）",
+      "status": "登场",
+      "first_appearance": "第一百八十三章 问刀坪",
+      "summary": "前武平督护府兽神将，因武道无法进步而隐居，在问刀坪上隐居苦修，参加问刀会考核。",
+      "appearance": [
+        "足有六七丈的小巨人",
+        "身穿铠甲"
+      ],
+      "personality": [
+        "暴躁",
+        "直率"
+      ],
+      "abilities": [
+        "刀法"
+      ],
+      "equipment": [
+        "天阙刀"
+      ],
+      "relationships": [
+        {
+          "target": "炼铁手",
+          "type": "旧主"
+        },
+        {
+          "target": "戚笼",
+          "type": "初次见面"
+        },
+        {
+          "target": "独孤老鬼",
+          "type": "相识"
+        },
+        {
+          "target": "戒刀",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在问刀坪上遇到戚笼，得知炼铁手死讯。"
+        }
+      ],
+      "evidence": [
+        "老子叫做赫天阙，第一任兽神将",
+        "赫天阙铜铃眼睁的老大",
+        "赫天阙举重若轻的一斩"
+      ],
+      "mention_count": 10
     },
     {
       "name": "柳芙蓉",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "穹苍暴雨宗弟子",
+      "faction": "穹苍暴雨宗",
       "status": "登场",
       "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    少年有些畏惧的看了戚笼一眼，大概是戚笼看上去比赫天阙和善多了，便道：“穹苍暴雨宗柳芙蓉，见过道兄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    少年有些畏惧的看了戚笼一眼，大概是戚笼看上去比赫天阙和善多了，便道：“穹苍暴雨宗柳芙蓉，见过道兄",
-        "”    柳芙蓉——    戚笼嘴角抽了抽，违心道：“好英气的名字",
-        "”    戚笼此话一出，不仅柳芙蓉，就连赫天阙都用诧异的眼神看向他，惊愕道：“你不知道问刀会是什么，你是怎么来这里的"
+      "summary": "穹苍暴雨宗的少年剑客，因剑法无法入道，被师叔派来问刀坪寻找机缘。",
+      "appearance": [
+        "眉清目秀的少年",
+        "腰间挂着一口小指粗的细剑"
       ],
-      "mention_count": 6
+      "personality": [
+        "惧怕",
+        "和善"
+      ],
+      "abilities": [],
+      "equipment": [
+        "细剑"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "初次见面"
+        },
+        {
+          "target": "赫天阙",
+          "type": "惧怕"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在问刀坪上遇到戚笼，解释问刀会。"
+        }
+      ],
+      "evidence": [
+        "一个眉清目秀的少年正一脸惧怕的看向小巨人",
+        "穹苍暴雨宗柳芙蓉，见过道兄",
+        "师叔说我剑法无法入道，在这里或许有机缘"
+      ],
+      "mention_count": 5
     },
     {
       "name": "戒刀",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "戒刀大师"
+      ],
+      "identity": "叛出佛门的刀僧",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    “赫前辈、还有独孤老前辈、戒刀大师，都是考核中的常客",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "佛门出身，后叛出佛门专攻刀道，在问刀坪上试图获取戚笼的请帖。",
+      "appearance": [
+        "清癯的灰衣和尚"
+      ],
+      "personality": [
+        "坦然",
+        "狡猾"
+      ],
+      "abilities": [
+        "戒佛刀意"
+      ],
+      "equipment": [
+        "戒刀"
+      ],
+      "relationships": [
+        {
+          "target": "大鸠府两位佛尊",
+          "type": "师兄"
+        },
+        {
+          "target": "戚笼",
+          "type": "初次见面"
+        },
+        {
+          "target": "赫天阙",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在问刀坪上现身，与戚笼交谈。"
+        }
+      ],
       "evidence": [
-        "”    “赫前辈、还有独孤老前辈、戒刀大师，都是考核中的常客",
-        "”    刀光一闪，一口戒刀便插入地面，同时方圆百里，所有的刀意烟消云散",
-        "”    “贫僧戒刀，对于这张帖子，不知贫僧要用什么手段，才能从施主手上获得"
+        "一个清癯的灰衣和尚一步步走了上来",
+        "贫僧戒刀",
+        "贫僧在未出佛门前，曾是那两位师兄的小师弟"
       ],
       "mention_count": 6
     },
     {
-      "name": "问刀",
-      "aliases": [],
-      "identity": "",
+      "name": "独孤老鬼",
+      "aliases": [
+        "独孤老鬼"
+      ],
+      "identity": "未参加问刀会考核的老者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "第一百八十三章 问刀坪    最快更新刀笼最新章节",
+      "summary": "一个未参加问刀会考核的老者，与赫天阙相识，以声音出现。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "玩味"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百八十三章 问刀坪    最快更新刀笼最新章节",
-        "‘向南两百里，去问刀楼，那里有治疗你伤势的机缘——吕傲侯’    问刀楼",
-        "“问刀坪"
+      "relationships": [
+        {
+          "target": "赫天阙",
+          "type": "相识"
+        },
+        {
+          "target": "戒刀",
+          "type": "相识"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以声音与赫天阙对话。"
+        }
+      ],
+      "evidence": [
+        "一道苍老的声音玩味道",
+        "独孤老鬼，你这种连问刀坪考核都不敢参加的老东西"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "赫天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "炼铁手",
+      "aliases": [
+        "炼老大"
+      ],
+      "identity": "武平督护府府将",
+      "faction": "武平督护府",
+      "status": "提及",
       "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    那个小巨人冷哼一声，道：“老子叫做赫天阙，第一任兽神将，后来自感武道无法进步，便拜别了炼老大，去了将职，在此地隐居苦修一甲子，你当然不认识我",
+      "summary": "赫天阙的旧主，曾死而复生。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那个小巨人冷哼一声，道：“老子叫做赫天阙，第一任兽神将，后来自感武道无法进步，便拜别了炼老大，去了将职，在此地隐居苦修一甲子，你当然不认识我",
-        "赫天阙铜铃眼睁的老大",
-        "”    戚笼耸了耸肩，目光转过赫天阙，看向那个少年，还有少年人腰上的剑"
+      "abilities": [
+        "武功盖世"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "赫天阙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    那个小巨人冷哼一声，道：“老子叫做赫天阙，第一任兽神将，后来自感武道无法进步，便拜别了炼老大，去了将职，在此地隐居苦修一甲子，你当然不认识我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那个小巨人冷哼一声，道：“老子叫做赫天阙，第一任兽神将，后来自感武道无法进步，便拜别了炼老大，去了将职，在此地隐居苦修一甲子，你当然不认识我",
-        "赫天阙铜铃眼睁的老大",
-        "”    戚笼耸了耸肩，目光转过赫天阙，看向那个少年，还有少年人腰上的剑"
+      "relationships": [
+        {
+          "target": "赫天阙",
+          "type": "旧主"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "贫僧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    “贫僧戒刀，对于这张帖子，不知贫僧要用什么手段，才能从施主手上获得",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “贫僧戒刀，对于这张帖子，不知贫僧要用什么手段，才能从施主手上获得",
-        "”    “贫僧在未出佛门前，曾是那两位师兄的小师弟，只是到底佛不如刀，贫僧舍不下刀，也就只能叛出佛门了",
-        "贫僧可以传授你，做为交易"
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "死亡后又复活。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "向前",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "向前五十步，刀气强度已经达到五大传奇刀境的档次",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "向前五十步，刀气强度已经达到五大传奇刀境的档次",
-        "向前一百步，刀意已经突破了半神档次",
-        "向前两百步，戚笼的额头开始微微刺痛，好似有什么东西要破壳而出"
+        "炼铁手死了",
+        "他前几天又活过来了"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "炼铁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    戚笼‘唔’了一声，原来是炼铁手的手下大将，怪不得看上去这么眼熟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼‘唔’了一声，原来是炼铁手的手下大将，怪不得看上去这么眼熟",
-        "”    “炼铁手死了",
-        "“赫疯子，炼铁手死了就死了，你拿年轻人出什么气，怎么，你还打算去炼刀，不打算为你主子报仇了吗"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "柳芙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    少年有些畏惧的看了戚笼一眼，大概是戚笼看上去比赫天阙和善多了，便道：“穹苍暴雨宗柳芙蓉，见过道兄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    少年有些畏惧的看了戚笼一眼，大概是戚笼看上去比赫天阙和善多了，便道：“穹苍暴雨宗柳芙蓉，见过道兄",
-        "”    柳芙蓉——    戚笼嘴角抽了抽，违心道：“好英气的名字",
-        "”    戚笼此话一出，不仅柳芙蓉，就连赫天阙都用诧异的眼神看向他，惊愕道：“你不知道问刀会是什么，你是怎么来这里的"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十三章 问刀坪",
-      "summary": "”    赫天阙举重若轻的一斩，源于风声的意念就被斩了个通透，同时伸出巨掌，直接就要抢请帖",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    赫天阙举重若轻的一斩，源于风声的意念就被斩了个通透，同时伸出巨掌，直接就要抢请帖",
-        "”    “持这请帖，便能主动避开外门考核，于我们来说，是一件极省精力的宝物，”和尚倒是坦然，直接说出真相"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

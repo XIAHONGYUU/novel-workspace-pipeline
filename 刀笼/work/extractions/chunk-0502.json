@@ -1,254 +1,368 @@
 {
   "chunk_id": "chunk-0502",
-  "title": "第二百七十五章 无错",
   "characters": [
     {
-      "name": "杀佛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "杀佛现在的状态非常不妙，从脚掌开始，渐渐开始石化，等戚笼游过来时，金身已经石化一半",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "杀佛现在的状态非常不妙，从脚掌开始，渐渐开始石化，等戚笼游过来时，金身已经石化一半",
-        "杀佛苦笑一声，道：“没想到这次不仅度魔失败，还连累了师兄",
-        "”    杀佛讶然道：“师兄何意"
-      ],
-      "mention_count": 17
-    },
-    {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "二师兄"
+      ],
+      "identity": "四龙之主，拥有钟吾气运",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "戚笼这具分身的力量随着无心佛那一嘴，直接‘消化’掉了，几十位宗师级气血，半条龙脉，在无穷的佛力海洋之中，疯狂溃散",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼这具分身的力量随着无心佛那一嘴，直接‘消化’掉了，几十位宗师级气血，半条龙脉，在无穷的佛力海洋之中，疯狂溃散",
-        "’    戚笼的蛇身顺着海水游荡，很快就在一座岛礁上看到一张熟悉面孔",
-        "杀佛现在的状态非常不妙，从脚掌开始，渐渐开始石化，等戚笼游过来时，金身已经石化一半"
+      "first_appearance": "",
+      "summary": "本体感应到分身危机，注入大气运，化龙为蛇，进入娑竭罗龙天，与杀佛对话。",
+      "appearance": [
+        "蛇身",
+        "巨大的蛇眼"
       ],
-      "mention_count": 16
+      "personality": [
+        "冷静",
+        "谨慎",
+        "直接"
+      ],
+      "abilities": [
+        "幽冥秽土转龙法",
+        "化龙为蛇",
+        "炼化红莲念"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杀佛",
+          "type": "师弟"
+        },
+        {
+          "target": "无心佛",
+          "type": "敌人"
+        },
+        {
+          "target": "波旬",
+          "type": "目标（想要其脑袋）"
+        },
+        {
+          "target": "木叉公",
+          "type": "杀佛请求其击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "分身被无心佛消化，本体注入气运，化蛇进入娑竭罗龙天，与杀佛交谈。"
+        }
+      ],
+      "evidence": [
+        "戚笼这具分身的力量随着无心佛那一嘴，直接‘消化’掉了",
+        "戚笼的蛇身顺着海水游荡，很快就在一座岛礁上看到一张熟悉面孔。",
+        "戚笼蛇眼微眯，缓缓道：“既然如此，你又为何让我去杀木叉公”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "师兄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "杀佛苦笑一声，道：“没想到这次不仅度魔失败，还连累了师兄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "杀佛苦笑一声，道：“没想到这次不仅度魔失败，还连累了师兄",
-        "”    杀佛讶然道：“师兄何意",
-        "莲开创世，莲合灭世    “当年大师兄为我塑金身之际，这红莲念便留了下来，二师兄慧眼如炬，一眼就看出来了，”杀佛诚恳道：“实不相瞒，师弟有一事相求师兄"
+      "name": "杀佛",
+      "aliases": [
+        "师弟"
       ],
-      "mention_count": 8
+      "identity": "古佛三弟子之一，意图以杀证佛",
+      "faction": "",
+      "status": "登场（后石化）",
+      "first_appearance": "",
+      "summary": "故意中波旬算计被无心佛所吞，实为谋划，请求戚笼击杀木叉公，后石化。",
+      "appearance": [
+        "金身",
+        "从脚掌开始石化"
+      ],
+      "personality": [
+        "诚恳",
+        "有谋划"
+      ],
+      "abilities": [
+        "佛心种魔大法",
+        "红莲念"
+      ],
+      "equipment": [
+        "红莲"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "师兄"
+        },
+        {
+          "target": "无心佛",
+          "type": "被其吞入"
+        },
+        {
+          "target": "波旬",
+          "type": "被其算计"
+        },
+        {
+          "target": "木叉公",
+          "type": "请求戚笼击杀"
+        },
+        {
+          "target": "长公主",
+          "type": "同谋"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在娑竭罗龙天与戚笼对话，交代谋划，后石化。"
+        }
+      ],
+      "evidence": [
+        "杀佛现在的状态非常不妙，从脚掌开始，渐渐开始石化",
+        "杀佛苦笑一声，道：“没想到这次不仅度魔失败，还连累了师兄。”",
+        "杀佛双手合十，全身化作石像，一点气息都无了"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "大自",
+      "name": "无心佛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "”    “佛心种魔大法，不是只有红莲僧一个人会，当初他留给他女儿魔后的《大自在心经》我也看过，红莲念有一种藏匿手段，便是藏于魔性杀意之中，外人怎么也看不出来，你是故意中了波旬的算计，被无心佛所吞，对否",
+      "identity": "佛门净土化身，合无心如来",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "吞噬了戚笼分身和杀佛，意图收众生合一入净土。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “佛心种魔大法，不是只有红莲僧一个人会，当初他留给他女儿魔后的《大自在心经》我也看过，红莲念有一种藏匿手段，便是藏于魔性杀意之中，外人怎么也看不出来，你是故意中了波旬的算计，被无心佛所吞，对否",
-        "’    戚笼念头一闪，红莲念、《大自在心经》，便彻底融为一体"
+      "abilities": [
+        "吞噬",
+        "佛力海洋"
       ],
-      "mention_count": 6
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "吞噬其分身"
+        },
+        {
+          "target": "杀佛",
+          "type": "吞噬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "吞噬戚笼分身和杀佛，但杀佛是故意被吞。"
+        }
+      ],
+      "evidence": [
+        "戚笼这具分身的力量随着无心佛那一嘴，直接‘消化’掉了",
+        "无心佛想要收众生合一入净土，尚缺古佛三念"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "木叉",
+      "name": "波旬",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "”    “想请师兄在某个重要关口，杀了木叉公",
+      "identity": "大雷音寺怨憎化身，被古佛击败",
+      "faction": "魔",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "暗中算计，意图吸收世间佛子佛力，重化如来暗面。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “想请师兄在某个重要关口，杀了木叉公",
-        "”    “木叉公，亡国七灾之一，古佛点化的那根菩提木",
-        "”    “没错，现在木叉公的本体就在此界之中，它意指福堂，福堂众生能进，它不能进，请师兄在它进入之前，将之毁灭"
+      "abilities": [
+        "逆佛化魔",
+        "重修肉身"
       ],
-      "mention_count": 6
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杀佛",
+          "type": "算计"
+        },
+        {
+          "target": "戚笼",
+          "type": "戚笼想要其脑袋"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在暗中算计，导致杀佛被无心佛吞。"
+        }
+      ],
+      "evidence": [
+        "你是故意中了波旬的算计，被无心佛所吞",
+        "波旬想要吸收世间佛子的佛力，重化如来暗面"
+      ],
+      "mention_count": 3
     },
     {
       "name": "木叉公",
       "aliases": [],
-      "identity": "",
+      "identity": "亡国七灾之一，古佛点化的菩提木",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "”    “想请师兄在某个重要关口，杀了木叉公",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "一心想超越古佛，坐上古佛之位，需要进入福堂。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “想请师兄在某个重要关口，杀了木叉公",
-        "”    “木叉公，亡国七灾之一，古佛点化的那根菩提木",
-        "”    “没错，现在木叉公的本体就在此界之中，它意指福堂，福堂众生能进，它不能进，请师兄在它进入之前，将之毁灭"
+      "relationships": [
+        {
+          "target": "杀佛",
+          "type": "杀佛请求戚笼击杀"
+        },
+        {
+          "target": "古佛",
+          "type": "被点化，想超越"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "师弟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "莲开创世，莲合灭世    “当年大师兄为我塑金身之际，这红莲念便留了下来，二师兄慧眼如炬，一眼就看出来了，”杀佛诚恳道：“实不相瞒，师弟有一事相求师兄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "莲开创世，莲合灭世    “当年大师兄为我塑金身之际，这红莲念便留了下来，二师兄慧眼如炬，一眼就看出来了，”杀佛诚恳道：“实不相瞒，师弟有一事相求师兄",
-        "”杀佛双手合十，“师兄想知道，师弟自然会说，只是法不传三人，师弟只能捡能说的说",
-        "”    “大师兄从佛道寻不得解脱，遂入魔道；师弟意图以杀证佛，终究杀不胜杀"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "本体在此界，意指福堂。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "木叉公，亡国七灾之一，古佛点化的那根菩提木",
+        "木叉公想要夺回古佛之位，除了要化尽此界佛性，还要进入福堂"
+      ],
+      "mention_count": 3
     },
     {
       "name": "长公主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "”戚笼心中一动，“还有那位长公主殿下，她的死，怕也是故意的，你们到底在谋划些什么",
+      "identity": "初代妖皇遗志继承者",
+      "faction": "皇族",
+      "status": "提及（已死）",
+      "first_appearance": "",
+      "summary": "她的死是一种谋划，意图从乱局中找救世之道。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”戚笼心中一动，“还有那位长公主殿下，她的死，怕也是故意的，你们到底在谋划些什么",
-        "”    “长公主欲继承初代妖皇遗志，从乱局中找出一条救世之道",
-        "”    “是故在师弟看来，大师兄无错、我无错、大鸠府无措、长公主无错，甚至于波旬无错、木叉公亦无错，若是强分对错，那便落了个下乘"
+      "relationships": [
+        {
+          "target": "杀佛",
+          "type": "同谋"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "大蛇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "大蛇从佛海下沉，佛光越来越暗，‘哗’的一下，大蛇从盐海中探出脑袋，目光所视，是无边的盐海，还有零星的岛礁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "大蛇从佛海下沉，佛光越来越暗，‘哗’的一下，大蛇从盐海中探出脑袋，目光所视，是无边的盐海，还有零星的岛礁"
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "已死，但为谋划。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "大蛇从佛海下沉，佛光越来越暗，‘哗’的一下，大蛇从盐海中探出脑袋，目光所视，是无边的盐海，还有零星的岛礁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "大蛇从佛海下沉，佛光越来越暗，‘哗’的一下，大蛇从盐海中探出脑袋，目光所视，是无边的盐海，还有零星的岛礁",
-        "“你等等，无心佛、波旬、还有你、木叉公，还有八难、福堂，到底是什么联系",
-        "”戚笼心中一动，“还有那位长公主殿下，她的死，怕也是故意的，你们到底在谋划些什么"
+        "长公主欲继承初代妖皇遗志，从乱局中找出一条救世之道。",
+        "长公主的死，是一种谋划"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "杀佛苦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "杀佛苦笑一声，道：“没想到这次不仅度魔失败，还连累了师兄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "杀佛苦笑一声，道：“没想到这次不仅度魔失败，还连累了师兄",
-        "”    杀佛苦笑一声，将嘴一张，一朵红莲吐出，任由莲花在空中缓缓旋转，散发着一种独一无二的佛性"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
       "name": "大师兄",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十五章 无错",
-      "summary": "莲开创世，莲合灭世    “当年大师兄为我塑金身之际，这红莲念便留了下来，二师兄慧眼如炬，一眼就看出来了，”杀佛诚恳道：“实不相瞒，师弟有一事相求师兄",
+      "identity": "古佛大弟子，从佛道入魔道",
+      "faction": "魔",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "从佛道寻不得解脱，遂入魔道。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "杀佛",
+          "type": "师弟"
+        },
+        {
+          "target": "戚笼",
+          "type": "杀佛称戚笼为二师兄，则大师兄为另一人"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "莲开创世，莲合灭世    “当年大师兄为我塑金身之际，这红莲念便留了下来，二师兄慧眼如炬，一眼就看出来了，”杀佛诚恳道：“实不相瞒，师弟有一事相求师兄",
-        "”    “大师兄从佛道寻不得解脱，遂入魔道；师弟意图以杀证佛，终究杀不胜杀",
-        "”    “是故在师弟看来，大师兄无错、我无错、大鸠府无措、长公主无错，甚至于波旬无错、木叉公亦无错，若是强分对错，那便落了个下乘"
+        "大师兄从佛道寻不得解脱，遂入魔道"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "红莲僧",
+      "aliases": [],
+      "identity": "佛心种魔大法使用者，魔后之父",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "留下红莲念藏于魔性杀意中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "佛心种魔大法",
+        "红莲念"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "女儿"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "佛心种魔大法，不是只有红莲僧一个人会，当初他留给他女儿魔后的《大自在心经》我也看过"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "魔后",
+      "aliases": [],
+      "identity": "红莲僧之女",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "红莲僧将《大自在心经》留给她。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "红莲僧",
+          "type": "父女"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "当初他留给他女儿魔后的《大自在心经》我也看过"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "燃灯世尊",
+      "aliases": [
+        "古佛"
+      ],
+      "identity": "佛门古佛，传下两大佛脉",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "传下两大佛脉，三大弟子继承遗志。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杀佛",
+          "type": "弟子"
+        },
+        {
+          "target": "木叉公",
+          "type": "点化"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "当初燃灯世尊传下两大佛脉，三大弟子继承古佛遗志"
+      ],
+      "mention_count": 1
     }
   ]
 }

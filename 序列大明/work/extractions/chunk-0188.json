@@ -1,120 +1,193 @@
 {
   "chunk_id": "chunk-0188",
-  "title": "第186章新日已临",
   "characters": [
     {
-      "name": "周启东",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第186章新日已临",
-      "summary": "”　　其实以周启东这种程度的义体改造水平，在斩首的伤势下几乎没有存活的可能性",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　其实以周启东这种程度的义体改造水平，在斩首的伤势下几乎没有存活的可能性",
-        "铿锵高亢的刀鸣声中，周启东眼底的凶戾在骤然间变成错愕",
-        "周启东悲怆道：“您是猫，我是鼠，如果是因为其他的事情您要抓我，那我绝无怨言"
-      ],
-      "mention_count": 29
-    },
-    {
       "name": "王谢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "王总旗",
+        "王谢"
+      ],
+      "identity": "重庆府锦衣卫总旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第186章新日已临",
-      "summary": "王谢看着眼前这个满脸无辜的男人，眼神毫无半分怜悯，冷声道：　　“我看你是不见棺材不落泪啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "王谢看着眼前这个满脸无辜的男人，眼神毫无半分怜悯，冷声道：　　“我看你是不见棺材不落泪啊",
-        "王谢屈指一弹，套在中指上的无常簿指环投射出一块巴掌大小的全息投影",
-        "这些特殊的纹路收束住迅猛的劲风，让王谢下坠的身形变得缓慢且轻盈"
+      "summary": "锦衣卫总旗，正在追查鸿鹄组织成员龚青鸿的下落，审讯并杀死了周启东。",
+      "appearance": [
+        "黑色袍裙上有银色飞鱼纹",
+        "佩戴无常簿指环",
+        "使用绣春刀"
       ],
-      "mention_count": 28
+      "personality": [
+        "冷酷",
+        "果断",
+        "狡猾",
+        "不耐烦"
+      ],
+      "abilities": [
+        "刀法高超",
+        "使用无常簿指环投射全息投影"
+      ],
+      "equipment": [
+        "绣春刀",
+        "无常簿指环",
+        "黑色雨伞"
+      ],
+      "relationships": [
+        {
+          "target": "周启东",
+          "type": "审讯者与嫌犯"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "追捕目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大厦顶端审讯周启东，最终将其杀死。"
+        }
+      ],
+      "evidence": [
+        "王谢看着眼前这个满脸无辜的男人，眼神毫无半分怜悯",
+        "王谢握住刀柄的手掌轻轻一抖，绣春刀在一阵铿锵声中变化为一把不起眼的黑色雨伞",
+        "王谢摇了摇头，‘别招了，老子不想听了。’"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "周启",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第186章新日已临",
-      "summary": "”　　其实以周启东这种程度的义体改造水平，在斩首的伤势下几乎没有存活的可能性",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　其实以周启东这种程度的义体改造水平，在斩首的伤势下几乎没有存活的可能性",
-        "铿锵高亢的刀鸣声中，周启东眼底的凶戾在骤然间变成错愕",
-        "周启东悲怆道：“您是猫，我是鼠，如果是因为其他的事情您要抓我，那我绝无怨言"
+      "name": "周启东",
+      "aliases": [
+        "铁臂周启东",
+        "周启东"
       ],
-      "mention_count": 19
+      "identity": "乐土青楼东主，前辽东都司金州卫响马头子",
+      "faction": "鸿鹄（疑似）",
+      "status": "死亡",
+      "first_appearance": "第186章新日已临",
+      "summary": "原为响马头子，后成为重庆府乐土青楼东主，因勾结鸿鹄被王谢审讯并杀死。",
+      "appearance": [
+        "半边身体被利刃剖开，裸露械骨包裹半是血肉半是金属的内脏",
+        "下巴如蛇类般张大"
+      ],
+      "personality": [
+        "凶悍",
+        "狡猾",
+        "顽固"
+      ],
+      "abilities": [
+        "义体改造",
+        "舌头改装为暗器"
+      ],
+      "equipment": [
+        "械骨",
+        "械心",
+        "通讯设备"
+      ],
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "嫌犯与审讯者"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "同伙（被怀疑）"
+        },
+        {
+          "target": "顾用",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被王谢审讯，试图反抗失败，最终被杀。"
+        }
+      ],
+      "evidence": [
+        "男人跪在地上，神色惊恐的摇着脑袋",
+        "周启东脸上复杂的表情却突然一敛，变得异常平静",
+        "刀光划过，头颅滚落。"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "这样",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "龚青鸿",
+      "aliases": [
+        "龚青鸿"
+      ],
+      "identity": "鸿鹄组织成员",
+      "faction": "鸿鹄",
+      "status": "提及",
       "first_appearance": "第186章新日已临",
-      "summary": "“骨头挺硬啊，这样你都不招",
+      "summary": "鸿鹄组织成员，王谢追捕的目标，据称藏匿于重庆府。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“骨头挺硬啊，这样你都不招",
-        "这样一来，或许你就可以不用进诏狱了",
-        "“老板，那李钧不就是个武七独夫嘛，咱们至于这样帮他擦屁股吗"
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "被追捕"
+        },
+        {
+          "target": "周启东",
+          "type": "同伙（被怀疑）"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被王谢追查下落。"
+        }
+      ],
+      "evidence": [
+        "只要你好好跟锦衣卫合作，告诉本大人龚青鸿藏在哪里",
+        "龚青鸿就在重庆府的"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "小人",
-      "aliases": [],
-      "identity": "",
+      "name": "顾用",
+      "aliases": [
+        "顾用"
+      ],
+      "identity": "乐土青楼龟公",
       "faction": "",
-      "status": "登场",
+      "status": "死亡（提及）",
       "first_appearance": "第186章新日已临",
-      "summary": "“小人什么都不知道，怎么招啊",
+      "summary": "乐土青楼的龟公，被周启东称为花钱买来的，已死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“小人什么都不知道，怎么招啊",
-        "周启东急声辩解，“是我的店，可这个叫顾用的龟公是小人花钱买来的啊，小人也不知道他是鸿鹄的傀儡暗桩啊",
-        "周启东胸口一挺，竟顶着刀尖挺直了脊梁，仰着脸看向王谢，平静说道：“如果大人您只有这点证据，那小人真是太冤枉了"
+      "relationships": [
+        {
+          "target": "周启东",
+          "type": "手下"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "已死亡。"
+        }
+      ],
+      "evidence": [
+        "这个叫顾用的龟公是小人花钱买来的啊"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "刀光",
-      "aliases": [],
-      "identity": "",
+      "name": "李钧",
+      "aliases": [
+        "李钧"
+      ],
+      "identity": "武七独夫",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第186章新日已临",
-      "summary": "刀光后发先至，将那截充当暗器的舌尖从中剖开",
+      "summary": "被提及的武七独夫，周启东的老板似乎要帮他擦屁股。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -122,131 +195,37 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "刀光后发先至，将那截充当暗器的舌尖从中剖开",
-        "”　　刀光划过，头颅滚落"
+        "老板，那李钧不就是个武七独夫嘛，咱们至于这样帮他擦屁股吗？"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "王谢摇",
-      "aliases": [],
-      "identity": "",
+      "name": "乐重",
+      "aliases": [
+        "乐重"
+      ],
+      "identity": "王谢的侄子（推测）",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第186章新日已临",
-      "summary": "王谢摇头晃脑，口中一阵嘟嘟囔囔",
+      "summary": "王谢的侄子，留了一把法尺给某人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
+      "equipment": [
+        "法尺"
+      ],
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "侄子"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "王谢摇头晃脑，口中一阵嘟嘟囔囔",
-        "”　　王谢摇了摇头，“别招了，老子不想听了"
+        "不就是你侄子乐重留了把法尺给他吗"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "他现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第186章新日已临",
-      "summary": "他现在的模样极为凄惨，半边身体被利刃剖开，裸露的械骨包裹半是血肉半是金属的内脏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他现在的模样极为凄惨，半边身体被利刃剖开，裸露的械骨包裹半是血肉半是金属的内脏"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "手腕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第186章新日已临",
-      "summary": "手腕轻转，刀身拍打男人的侧脸，发出清脆的噼啪声响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "手腕轻转，刀身拍打男人的侧脸，发出清脆的噼啪声响",
-        "”　　王谢挑动手腕，绣春刀尖一下下点在那颗不敢泵动的械心之上"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "就在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第186章新日已临",
-      "summary": "”　　就在此刻，周启东眼底突然有戾色浮现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　就在此刻，周启东眼底突然有戾色浮现",
-        "“龚青鸿就在重庆府的”　　誓在必杀的一击居然被如此轻描淡写的化解，周启东脸上终于忍不住露出惧色",
-        "就在王谢以为成功敲开了对方嘴巴的时候，周启东脸上复杂的表情却突然一敛，变得异常平静"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "老子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第186章新日已临",
-      "summary": "你现在交代，老子刚才说的话就还作数",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "你现在交代，老子刚才说的话就还作数",
-        "”　　王谢摇了摇头，“别招了，老子不想听了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "口中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第186章新日已临",
-      "summary": "他的下巴如同蛇类一般猛然张大，一道血影从口中飞射而出，直奔王谢的咽喉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他的下巴如同蛇类一般猛然张大，一道血影从口中飞射而出，直奔王谢的咽喉",
-        "王谢摇头晃脑，口中一阵嘟嘟囔囔",
-        "周启东垂着头颅，口中支支吾吾说不出话，眼皮却在快速颤动，脑海中念头如电"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

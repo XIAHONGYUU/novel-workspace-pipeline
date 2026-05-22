@@ -1,0 +1,183 @@
+{
+  "chunk_id": "chunk-0171",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "跟随艾尼芬多前往交易点，寻求猎杀巨树药剂材料。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "艾尼芬多",
+          "type": "同行者"
+        },
+        {
+          "target": "亚丝娜",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与艾尼芬多前往交易点，途中看到信塔和秃鹫巡逻，进入石门小镇。"
+        }
+      ],
+      "evidence": [
+        "安格列跟在艾尼芬多身后，一路沿着下坡山路往下。",
+        "安格列皱眉小声说着。",
+        "安格列现在也稍微知道了芯片列出来的这个晋升需要药剂有多么困难了。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "艾尼芬多",
+      "aliases": [
+        "艾尼"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "白色短发，原本是女性，因实验变成男性，带安格列前往交易点。",
+      "appearance": [
+        "白色短发",
+        "英俊面孔",
+        "强健挺拔身材",
+        "粗糙微白皮肤"
+      ],
+      "personality": [
+        "温和",
+        "优雅"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带安格列前往交易点，解释信塔和自身性别变化。"
+        }
+      ],
+      "evidence": [
+        "白色短发，英俊的面孔，强健挺拔的身材，有点粗糙的微白皮肤。",
+        "如果我告诉你，我原本是个女人，只是因为一次实验导致变成了现在这个样子，你会相信么？",
+        "艾尼芬多冲安格列耸耸肩，表示无奈。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "亚丝娜",
+      "aliases": [],
+      "identity": "二等学徒",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的同伴，因资格不足留在原地。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列留下，未进入交易点区域。"
+        }
+      ],
+      "evidence": [
+        "安格列让还只是二等学徒的亚丝娜留下来，以后再联系，反正之前交换过秘法印记。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "奎日曼",
+      "aliases": [],
+      "identity": "六环高塔三大家族代表性人物，猎杀部队成员",
+      "faction": "六环高塔",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "背弯刀的绿袍巫师，冷酷残忍。",
+      "appearance": [
+        "鹰钩鼻",
+        "黑色短发",
+        "脸颊削瘦",
+        "肤色蜡黄",
+        "暗绿色双眼"
+      ],
+      "personality": [
+        "冷酷",
+        "残忍"
+      ],
+      "abilities": [],
+      "equipment": [
+        "银灰色弯刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "巡逻归来，与白袍老巫师交谈后进入石门。"
+        }
+      ],
+      "evidence": [
+        "他叫奎日曼，就是六环高塔三大家族之一的代表性人物，据说还是猎杀部队的一员。",
+        "鹰钩鼻，黑色短发，脸颊削瘦，肤色蜡黄，但是双眼是暗绿色，像刀子一样直挺挺的，有点刺人的感觉。",
+        "一看就给人一种冷酷残忍的感觉。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "白袍老巫师",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与奎日曼交谈的老巫师。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "奎日曼",
+          "type": "交谈对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大门前与奎日曼交谈。"
+        }
+      ],
+      "evidence": [
+        "边上一个白袍老巫师喊了句什么，走上前去。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,99 +1,163 @@
 {
   "chunk_id": "chunk-0208",
-  "title": "第206章道门天师",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "李居士"
+      ],
+      "identity": "阴阳术士，和平饭店老板",
       "faction": "",
       "status": "登场",
       "first_appearance": "第206章道门天师",
-      "summary": "李钧抬手揉着眉心，心中一片无奈",
+      "summary": "和平饭店的老板，阴阳术士，与龙虎山天师陈乞生谈判并切磋。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧抬手揉着眉心，心中一片无奈",
-        "眼前这个扎着马尾辫的非主流道士居然直接破解饭店的机关，这让李钧不禁有些恼怒",
-        "”　　只见他两手相抱举在胸前，身体立而不俯，朝着李钧行了个抱拳礼"
+      "personality": [
+        "恼怒",
+        "谨慎",
+        "霸道"
       ],
-      "mention_count": 31
+      "abilities": [
+        "阴阳术",
+        "拳脚功夫"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "谈判对手"
+        },
+        {
+          "target": "马王爷",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在和平饭店接待陈乞生，与其谈判并切磋。"
+        }
+      ],
+      "evidence": [
+        "李钧抬手揉着眉心，心中一片无奈。",
+        "李钧眼中寒光大作，徐徐起身，一身匪焰如有实质。",
+        "李钧面露嗤笑，“先攘外，再安内？”"
+      ],
+      "mention_count": 20
     },
     {
       "name": "陈乞生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "道士",
+        "道人",
+        "陈乞生"
+      ],
+      "identity": "龙虎山集团斗部天师",
+      "faction": "龙虎山集团（道门）",
       "status": "登场",
       "first_appearance": "第206章道门天师",
-      "summary": "劲风刮过，吹开陈乞生额前垂落的散发，露出那张清秀俊朗的面孔",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "劲风刮过，吹开陈乞生额前垂落的散发，露出那张清秀俊朗的面孔",
-        "陈乞生正色道：“自然也没有仪轨和基因自带的敌意",
-        "道人点头，“龙虎山集团‘斗部’天师，陈乞生"
+      "summary": "龙虎山斗部天师，传统老派道士，主张与李钧合作对付佛门行走。",
+      "appearance": [
+        "扎着马尾辫的非主流道士",
+        "清秀俊朗的面孔"
       ],
-      "mention_count": 13
+      "personality": [
+        "从容",
+        "霸道",
+        "传统守旧"
+      ],
+      "abilities": [
+        "天师五斗拳",
+        "嗑药（丹药）",
+        "破解机关"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "谈判对手"
+        },
+        {
+          "target": "佛门行走",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入和平饭店与李钧谈判，提议联手对付佛门行走。"
+        }
+      ],
+      "evidence": [
+        "龙虎山集团‘斗部’天师，陈乞生。",
+        "道士笑道：“既然是为了杀人，那自然是用实力说话。”",
+        "陈乞生正色道：“自然也没有仪轨和基因自带的敌意。”"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "陈乞",
+      "name": "马王爷",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧的手下",
       "faction": "",
       "status": "登场",
       "first_appearance": "第206章道门天师",
-      "summary": "劲风刮过，吹开陈乞生额前垂落的散发，露出那张清秀俊朗的面孔",
-      "appearance": [],
+      "summary": "李钧的手下，身穿黑袍，手持狙击枪‘荆轲’。",
+      "appearance": [
+        "身躯笼罩在黑袍之下",
+        "盔中红眼"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "劲风刮过，吹开陈乞生额前垂落的散发，露出那张清秀俊朗的面孔",
-        "陈乞生正色道：“自然也没有仪轨和基因自带的敌意",
-        "道人点头，“龙虎山集团‘斗部’天师，陈乞生"
+      "equipment": [
+        "荆轲狙击枪"
       ],
-      "mention_count": 9
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在李钧与陈乞生谈判时持枪警戒。"
+        }
+      ],
+      "evidence": [
+        "在他身后，身躯笼罩在黑袍之下的马王爷双手杵着那柄‘荆轲’狙击枪，盔中红眼虎视眈眈。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "道士",
+      "name": "袁明妃",
       "aliases": [],
-      "identity": "",
+      "identity": "访客",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第206章道门天师",
-      "summary": "眼前这个扎着马尾辫的非主流道士居然直接破解饭店的机关，这让李钧不禁有些恼怒",
+      "summary": "之前拜访李钧的客人，有礼貌地敲门。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "有礼貌"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "眼前这个扎着马尾辫的非主流道士居然直接破解饭店的机关，这让李钧不禁有些恼怒",
-        "李钧看着抽身荡开的道士，并没有着急追击，而是看向对方还在咀嚼的牙关",
-        "”　　道士笑道：“既然是为了杀人，那自然是用实力说话"
+        "袁明妃都还算有礼貌的，起码还知道先敲门。"
       ],
-      "mention_count": 8
+      "mention_count": 1
     },
     {
-      "name": "最后",
+      "name": "神霞道人王文钦",
       "aliases": [],
-      "identity": "",
+      "identity": "神霞道人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第206章道门天师",
-      "summary": "”　　“阴阳术士的家，小道我担心敲门之后，最后得到一个人去楼空的结果",
+      "summary": "被提及的人物，李钧曾怀疑陈乞生是为其出头。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -101,149 +165,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　“阴阳术士的家，小道我担心敲门之后，最后得到一个人去楼空的结果",
-        "无论谁胜谁负，最后都要拿自己给社会一个交代",
-        "而现在的局势很明显是佛门占优，如果自己选择一旁看戏，最后的结果还真有可能是‘二打一’"
+        "来重庆府不是为了神霞道人王文钦出头？"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第206章道门天师",
-      "summary": "”　　李钧脸色疑惑更深，“来重庆府不是为了神霞道人王文钦出头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧脸色疑惑更深，“来重庆府不是为了神霞道人王文钦出头",
-        "道人点头，“龙虎山集团‘斗部’天师，陈乞生",
-        "说是切磋，李钧出手却凶恶如要杀人，不过两个弹步，嶙峋突出的拳峰已经砸在道人面前"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "大家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第206章道门天师",
-      "summary": "大家心知肚明，我为什么要跟你联手，大家身上可是有血仇",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "大家心知肚明，我为什么要跟你联手，大家身上可是有血仇",
-        "”　　陈乞生面容蓦然一紧，勉强维持嘴角的笑容不变，“切磋而已，不要伤了和气，不如大家都收着点"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "一方为",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第206章道门天师",
-      "summary": "”　　一方为了安家，一方为了撵人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一方为了安家，一方为了撵人"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "二打",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第206章道门天师",
-      "summary": "“二打一，这山你我都坐不稳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“二打一，这山你我都坐不稳",
-        "而现在的局势很明显是佛门占优，如果自己选择一旁看戏，最后的结果还真有可能是‘二打一’"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "只见他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第206章道门天师",
-      "summary": "”　　只见他两手相抱举在胸前，身体立而不俯，朝着李钧行了个抱拳礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　只见他两手相抱举在胸前，身体立而不俯，朝着李钧行了个抱拳礼",
-        "”　　陈乞生笑而不语，只见他双腿并拢站立，膝盖微蹲，随着双手由下至上引气按掌，左脚缓缓探出一步，与肩同宽"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "如同",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第206章道门天师",
-      "summary": "瞬息间，密集的血丝盘绕上栗色的瞳仁，如同在眼中绽开一朵妖冶的莲花",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "瞬息间，密集的血丝盘绕上栗色的瞳仁，如同在眼中绽开一朵妖冶的莲花"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第206章道门天师",
-      "summary": "李钧看着抽身荡开的道士，并没有着急追击，而是看向对方还在咀嚼的牙关",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧看着抽身荡开的道士，并没有着急追击，而是看向对方还在咀嚼的牙关"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

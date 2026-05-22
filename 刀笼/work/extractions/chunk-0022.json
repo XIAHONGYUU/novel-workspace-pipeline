@@ -1,257 +1,437 @@
 {
   "chunk_id": "chunk-0022",
-  "title": "第二十一章 民匪一家亲",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "乌笼",
+        "乌匠工"
+      ],
+      "identity": "前麻匪，现白家工匠",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "戚笼终究还是看了这封信，他相信段七娘也是这么做的，因为按信中的口吻，这应该是段大师的‘遗书’，是属于死前才交付的秘密",
+      "summary": "前麻匪，化名乌笼在白家做工，试图救段大师和段七娘。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼终究还是看了这封信，他相信段七娘也是这么做的，因为按信中的口吻，这应该是段大师的‘遗书’，是属于死前才交付的秘密",
-        "不过对于段七娘用‘这口剑’请李伏威救人的法子，戚笼只能说是有些‘可爱’了",
-        "戚笼点头，“有劳了"
+      "personality": [
+        "沉稳",
+        "温和",
+        "善于分析"
       ],
-      "mention_count": 33
+      "abilities": [
+        "打铁",
+        "制作道器"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "段大师",
+          "type": "师徒"
+        },
+        {
+          "target": "段七娘",
+          "type": "同门/朋友"
+        },
+        {
+          "target": "白三娘",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在白家做工，被白三娘召见，后与段七娘见面并给出名册建议。"
+        }
+      ],
+      "evidence": [
+        "戚笼点头，“有劳了。”",
+        "戚笼被带到一座花园中",
+        "戚笼转过身子，挡住婢女视线，摸出那本名册。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "赵黑",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "还有赵黑，老东西藏在婢女身后，极不起眼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "还有赵黑，老东西藏在婢女身后，极不起眼",
-        "”赵黑老脸挤出一丝笑意，奉承道",
-        "等其它人都离开后，赵黑才小声道：“段老头关在兵营里，有些麻烦"
+      "name": "段七娘",
+      "aliases": [
+        "七姑娘"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "读书人",
-      "aliases": [],
-      "identity": "",
+      "identity": "段大师的孙女",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "而段七娘的大爷爷，便是其中一任，姓段，名补楼；读书人出身，是旧钟吾国选拔机制中的一位候补官吏",
+      "summary": "段大师的孙女，被白家收留做工，持有书生留下的名册。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而段七娘的大爷爷，便是其中一任，姓段，名补楼；读书人出身，是旧钟吾国选拔机制中的一位候补官吏",
-        "读书人有两个结拜兄弟，一个拳师、一个铁匠",
-        "读书人撇下妻子，带着拳师赴任，在死法各异的历任城主中，读书人算是有手腕的，一番明争暗斗、尔虞我诈、血水里打牌九后，也打出了副好牌"
+      "personality": [
+        "茫然",
+        "天真"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "读书",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "而段七娘的大爷爷，便是其中一任，姓段，名补楼；读书人出身，是旧钟吾国选拔机制中的一位候补官吏",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而段七娘的大爷爷，便是其中一任，姓段，名补楼；读书人出身，是旧钟吾国选拔机制中的一位候补官吏",
-        "读书人有两个结拜兄弟，一个拳师、一个铁匠",
-        "读书人撇下妻子，带着拳师赴任，在死法各异的历任城主中，读书人算是有手腕的，一番明争暗斗、尔虞我诈、血水里打牌九后，也打出了副好牌"
+      "relationships": [
+        {
+          "target": "段大师",
+          "type": "祖孙"
+        },
+        {
+          "target": "戚笼",
+          "type": "同门/朋友"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "读书人知道，光有想法也不成，要想引外力剿灭这座地头蛇组成的蛇窝，必须一击致命，而且引来的外力要重如泰山，不能给这些脏虫野豸半点死灰复燃的机会",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "读书人知道，光有想法也不成，要想引外力剿灭这座地头蛇组成的蛇窝，必须一击致命，而且引来的外力要重如泰山，不能给这些脏虫野豸半点死灰复燃的机会",
-        "而且信上着重强调的是，当年害死‘书生’的势力，一部分已随着时间烟消云散，一部分早已搬离黑山城，让她忘掉仇恨，重新生活",
-        "“而且胆小的话，怎么给二小姐做事"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在白家做工，与戚笼见面，收下名册。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "白三",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "两个婢女间，一身紫罗裙，斜坐着饮茶的美妇人，大约便是伏龙总管的正妻，宁海白家的二小姐，白三娘",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "两个婢女间，一身紫罗裙，斜坐着饮茶的美妇人，大约便是伏龙总管的正妻，宁海白家的二小姐，白三娘",
-        "白三娘单手握茶碗，另一手靠在石桌上，露出白皙丰润的手腕，显得并不稳重，或者说漫不经心",
-        "”    白三娘妙目斜了赵牙子一眼，赵牙子腰弯的都快折了"
+        "一脸茫然的段七娘就被领了过来",
+        "段七娘吓的赶紧把名册塞入胸口"
       ],
       "mention_count": 7
     },
     {
       "name": "白三娘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "白夫人"
+      ],
+      "identity": "伏龙总管李伏威的正妻，宁海白家的二小姐",
+      "faction": "白家",
       "status": "登场",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "两个婢女间，一身紫罗裙，斜坐着饮茶的美妇人，大约便是伏龙总管的正妻，宁海白家的二小姐，白三娘",
-      "appearance": [],
-      "personality": [],
+      "summary": "李伏威的正妻，白家二小姐，召见戚笼并安排他见段大师。",
+      "appearance": [
+        "一身紫罗裙",
+        "斜坐着饮茶",
+        "白皙丰润的手腕"
+      ],
+      "personality": [
+        "漫不经心",
+        "有手腕"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两个婢女间，一身紫罗裙，斜坐着饮茶的美妇人，大约便是伏龙总管的正妻，宁海白家的二小姐，白三娘",
-        "白三娘单手握茶碗，另一手靠在石桌上，露出白皙丰润的手腕，显得并不稳重，或者说漫不经心",
-        "”    白三娘妙目斜了赵牙子一眼，赵牙子腰弯的都快折了"
+      "relationships": [
+        {
+          "target": "李伏威",
+          "type": "夫妻"
+        },
+        {
+          "target": "赵黑",
+          "type": "主仆"
+        },
+        {
+          "target": "戚笼",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在花园中召见戚笼，询问徐狗贼被杀之事。"
+        }
+      ],
+      "evidence": [
+        "白三娘单手握茶碗，另一手靠在石桌上",
+        "白三娘被逗笑了，胸前一阵晃荡",
+        "白三娘抿了口茶"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "赵黑",
+      "aliases": [
+        "黑爷"
+      ],
+      "identity": "白三娘的下属，疑似高手",
+      "faction": "白家",
+      "status": "登场",
+      "first_appearance": "第二十一章 民匪一家亲",
+      "summary": "白三娘的下属，有三十六颗牙齿，实力深不可测。",
+      "appearance": [
+        "丘壑纵横的老脸",
+        "咧嘴，露出一嘴好牙口"
+      ],
+      "personality": [
+        "良善（表面）"
+      ],
+      "abilities": [
+        "疑似内家拳高手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白三娘",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向白三娘汇报徐狗贼被杀调查情况。"
+        }
+      ],
+      "evidence": [
+        "赵黑老脸挤出一丝笑意",
+        "赵黑低头，丘壑纵横的老脸上，咧嘴，露出一嘴好牙口",
+        "赵黑非常人，亦非佛，他有三十六颗。"
+      ],
+      "mention_count": 5
     },
     {
       "name": "赵牙子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "白家家生子，刀匠行工匠",
+      "faction": "白家",
       "status": "登场",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "戚笼还看到了赵牙子，当年二人几乎前后脚进的刀匠行",
+      "summary": "白家家生子，与戚笼前后脚进刀匠行，被白三娘安排监视戚笼。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼还看到了赵牙子，当年二人几乎前后脚进的刀匠行",
-        "”    白三娘妙目斜了赵牙子一眼，赵牙子腰弯的都快折了",
-        "”    戚笼走后，白三娘摇了摇头，食指戳了戳赵牙子，有些不满道：“你可是家生子，给你的帮衬够多了，技不如人，你让我怎么说你"
+      "personality": [
+        "技不如人",
+        "谄媚"
       ],
-      "mention_count": 7
+      "abilities": [
+        "打铁"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白三娘",
+          "type": "主仆"
+        },
+        {
+          "target": "戚笼",
+          "type": "同僚/竞争对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被白三娘训斥，后受命监视戚笼。"
+        }
+      ],
+      "evidence": [
+        "赵牙子腰弯的都快折了",
+        "赵牙子跪地，头快要戳到地上",
+        "赵牙子大喜过望"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "老爷子",
-      "aliases": [],
-      "identity": "",
+      "name": "段大师",
+      "aliases": [
+        "段大匠",
+        "段老头"
+      ],
+      "identity": "铁匠，段七娘的祖父",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "”    “老爷子教都是一样教的，他不藏私，只是天赋这东西吧，不好说",
+      "summary": "段七娘的祖父，铁匠，被关在兵营中。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "打铁"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "段七娘",
+          "type": "祖孙"
+        },
+        {
+          "target": "戚笼",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "保下段七娘，隐姓埋名。"
+        },
+        {
+          "stage": "当前",
+          "event": "被关在兵营中。"
+        }
+      ],
       "evidence": [
-        "”    “老爷子教都是一样教的，他不藏私，只是天赋这东西吧，不好说",
-        "”    戚笼沉默了下，道：“若是可以，我想见老爷子一面",
-        "”    “师恩难报，而且，老爷子的手艺，总得有人继承下来吧"
+        "段老头关在兵营里",
+        "老爷子教都是一样教的"
       ],
       "mention_count": 6
     },
     {
-      "name": "赵牙",
-      "aliases": [],
-      "identity": "",
+      "name": "书生",
+      "aliases": [
+        "段补楼"
+      ],
+      "identity": "黑山城前任城主，段七娘的大爷爷",
       "faction": "",
-      "status": "登场",
+      "status": "已故",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "戚笼还看到了赵牙子，当年二人几乎前后脚进的刀匠行",
+      "summary": "读书人出身，曾任黑山城城主，试图整顿黑山城，被黑手害死。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "有手腕",
+        "理想主义"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼还看到了赵牙子，当年二人几乎前后脚进的刀匠行",
-        "”    白三娘妙目斜了赵牙子一眼，赵牙子腰弯的都快折了",
-        "”    戚笼走后，白三娘摇了摇头，食指戳了戳赵牙子，有些不满道：“你可是家生子，给你的帮衬够多了，技不如人，你让我怎么说你"
+      "relationships": [
+        {
+          "target": "拳师",
+          "type": "结拜兄弟"
+        },
+        {
+          "target": "铁匠（段大师）",
+          "type": "结拜兄弟"
+        },
+        {
+          "target": "段七娘",
+          "type": "大爷爷"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "赴任黑山城城主，调查水下势力，被发觉后惨死。"
+        }
+      ],
+      "evidence": [
+        "读书人有两个结拜兄弟，一个拳师、一个铁匠。",
+        "读书人撇下妻子，带着拳师赴任",
+        "书生成了历任城主中，唯一一位被明正典刑的官员。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "老爷",
+      "name": "拳师",
       "aliases": [],
-      "identity": "",
+      "identity": "汤城第一拳师，书生的结拜兄弟",
       "faction": "",
-      "status": "登场",
+      "status": "已故",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "”    “老爷子教都是一样教的，他不藏私，只是天赋这东西吧，不好说",
+      "summary": "汤瓶拳大成，号称‘十字战’下无敌手，替书生挡刀，后惨死街头。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “老爷子教都是一样教的，他不藏私，只是天赋这东西吧，不好说",
-        "”    戚笼沉默了下，道：“若是可以，我想见老爷子一面",
-        "”    “师恩难报，而且，老爷子的手艺，总得有人继承下来吧"
+      "abilities": [
+        "汤瓶拳大成"
       ],
-      "mention_count": 5
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "书生",
+          "type": "结拜兄弟"
+        },
+        {
+          "target": "铁匠（段大师）",
+          "type": "结拜兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "替书生挡刀，后内家拳大成，惨死街头。"
+        }
+      ],
+      "evidence": [
+        "一个拳师",
+        "内家拳大成的拳师惨死街头。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "突然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "李伏威",
+      "aliases": [
+        "李总管"
+      ],
+      "identity": "伏龙总管，黑山城地头蛇蛇王",
+      "faction": "伏龙总管",
+      "status": "被提及",
       "first_appearance": "第二十一章 民匪一家亲",
-      "summary": "”    戚笼走到一半，突然对前方婢女开口",
+      "summary": "黑山城地头蛇首领，与薛将军有合作。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白三娘",
+          "type": "夫妻"
+        },
+        {
+          "target": "薛将军",
+          "type": "合作/敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被怀疑与徐狗贼之死有关。"
+        }
+      ],
+      "evidence": [
+        "伏龙总管李伏威",
+        "李伏威今年应该四十出头"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "薛将军",
+      "aliases": [
+        "姓薛的"
+      ],
+      "identity": "边军将军",
+      "faction": "边军",
+      "status": "被提及",
+      "first_appearance": "第二十一章 民匪一家亲",
+      "summary": "边军将军，与李伏威有合作，查抄李家产业。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李伏威",
+          "type": "合作/敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "查抄李家产业，打了李伏威。"
+        }
+      ],
+      "evidence": [
+        "姓薛的打了",
+        "薛将军赚的是快钱"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "徐狗贼",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第二十一章 民匪一家亲",
+      "summary": "被杀的某人，白三娘在调查凶手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼走到一半，突然对前方婢女开口",
-        "我知道他很可能不认账，但他和姓薛的毕竟有仇——”    戚笼摇头，突然笑道：“谁跟你说他们有仇的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被杀，尸体腐烂。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "徐狗贼到底是谁下的手",
+        "人找到的时候，尸体已经腐烂了"
+      ],
+      "mention_count": 2
     }
   ]
 }

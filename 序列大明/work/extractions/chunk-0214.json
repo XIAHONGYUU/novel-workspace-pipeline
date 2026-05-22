@@ -1,253 +1,329 @@
 {
   "chunk_id": "chunk-0214",
-  "title": "第212章无人不精",
   "characters": [
     {
-      "name": "寂武",
-      "aliases": [],
-      "identity": "",
+      "name": "周游",
+      "aliases": [
+        "那小子",
+        "少年"
+      ],
+      "identity": "兵九序列，与三教有仇怨",
       "faction": "",
       "status": "登场",
       "first_appearance": "第212章无人不精",
-      "summary": "寂武笑道：“不言己，先言人，难道这就是龙虎山天师的做派",
+      "summary": "与三教有深仇大恨，被隆图度化未成，后与李钧等人联手。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寂武笑道：“不言己，先言人，难道这就是龙虎山天师的做派",
-        "”　　寂武不禁眉头紧皱，他是武僧，不是法僧，吵架实在不是他的强项",
-        "”　　“我是少林行走寂武，如果没猜错，你应该就是从成都府崛起的那个武道序列李钧，对吧"
+      "personality": [
+        "嘴臭",
+        "冲动",
+        "有仇怨"
       ],
-      "mention_count": 14
+      "abilities": [],
+      "equipment": [
+        "魏武卒（枪）",
+        "短刀"
+      ],
+      "relationships": [
+        {
+          "target": "隆图",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "开枪射击隆图，被李钧阻止后离开。"
+        }
+      ],
+      "evidence": [
+        "周游放声大笑，笑得前俯后仰。",
+        "面容扭曲的周游抛开手中打空子弹的魏武卒，从袖中拔出一柄短刀",
+        "周游抿紧嘴角，一言不发，转身快步从后门离开。"
+      ],
+      "mention_count": 10
     },
     {
       "name": "隆图",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "和尚",
+        "秃驴"
+      ],
+      "identity": "佛门行走，序七护法神",
+      "faction": "佛门",
       "status": "登场",
       "first_appearance": "第212章无人不精",
-      "summary": "隆图脑后那轮先前被周游一枪打成短路的佛轮，突然光芒大盛，以极快的速度兀自飞旋",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "隆图脑后那轮先前被周游一枪打成短路的佛轮，突然光芒大盛，以极快的速度兀自飞旋",
-        "”　　隆图面色阴沉，没有看一眼那道站在周游身旁的身影，双眼从始至终紧紧盯着少年",
-        "”　　可站在他身侧的隆图依旧在怔怔出神，仿佛还沉寂在刚才度化失利之中，根本没有开口的打算"
+      "summary": "佛门行走，试图度化周游失败，与寂武联手。",
+      "appearance": [
+        "脑后佛轮"
       ],
-      "mention_count": 12
+      "personality": [
+        "阴沉",
+        "不甘"
+      ],
+      "abilities": [
+        "佛轮防御",
+        "度化"
+      ],
+      "equipment": [
+        "佛轮"
+      ],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "敌对"
+        },
+        {
+          "target": "寂武",
+          "type": "同伴"
+        },
+        {
+          "target": "慧心",
+          "type": "被周游所杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被周游枪击，佛轮防御，度化失败。"
+        }
+      ],
+      "evidence": [
+        "隆图脑后那轮先前被周游一枪打成短路的佛轮，突然光芒大盛",
+        "隆图面色阴沉",
+        "隆图冷声道：'他迟早都会醒悟。'"
+      ],
+      "mention_count": 8
     },
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "钧哥"
+      ],
+      "identity": "武道序列，从成都府崛起",
       "faction": "",
       "status": "登场",
       "first_appearance": "第212章无人不精",
-      "summary": "”　　李钧突然开口呵斥一声，将马王爷的话语打断",
+      "summary": "武道强者，与周游、陈乞生、马王爷联手对抗佛门。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉默",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧突然开口呵斥一声，将马王爷的话语打断",
-        "”　　陈乞生懒洋洋的声音横插进两名佛门行走的对话中，转头看向李钧",
-        "”　　“我是少林行走寂武，如果没猜错，你应该就是从成都府崛起的那个武道序列李钧，对吧"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "同伴"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        },
+        {
+          "target": "寂武",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阻止周游冲动，与寂武对峙。"
+        }
+      ],
+      "evidence": [
+        "李钧语气中透着一股不容置疑，跨前一步挡在周游身前。",
+        "李钧面无表情，似乎根本没有搭理寂武的想法。",
+        "李钧缓缓松开拳头，轻声问道：'没把握？'"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "马王爷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "陈乞生",
+      "aliases": [
+        "牛鼻子",
+        "道人",
+        "道爷"
+      ],
+      "identity": "老派剑仙，只差半步破入道六",
+      "faction": "三教（道教）",
       "status": "登场",
       "first_appearance": "第212章无人不精",
-      "summary": "”马王爷杵着枪叹道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "牙尖嘴利的道士，与李钧等人联手。",
+      "appearance": [
+        "扎着马尾"
+      ],
+      "personality": [
+        "嘴臭",
+        "机灵"
+      ],
+      "abilities": [
+        "飞剑"
+      ],
+      "equipment": [
+        "黑色飞剑"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "寂武",
+          "type": "敌对"
+        },
+        {
+          "target": "隆图",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寂武斗嘴，寻找佛国主机位置。"
+        }
+      ],
       "evidence": [
-        "”马王爷杵着枪叹道",
-        "”　　李钧突然开口呵斥一声，将马王爷的话语打断",
-        "马王爷闻言暴怒，一把抄起那杆名为‘照胆’的狙击枪"
+        "扎着马尾的道人依靠在墙边，摊开在身前面的手掌中，一柄黑色飞剑上下浮沉。",
+        "陈乞生反唇相讥",
+        "陈乞生摇了摇头，闷声道：'我没找到这两个秃驴的佛国主机的位置'"
       ],
       "mention_count": 6
     },
     {
-      "name": "马王",
-      "aliases": [],
-      "identity": "",
+      "name": "马王爷",
+      "aliases": [
+        "老马",
+        "马爷"
+      ],
+      "identity": "墨甲使用者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第212章无人不精",
-      "summary": "”马王爷杵着枪叹道",
-      "appearance": [],
-      "personality": [],
+      "summary": "操控墨甲，使用狙击枪'照胆'，与李钧等人联手。",
+      "appearance": [
+        "红眼"
+      ],
+      "personality": [
+        "暴躁",
+        "嘴臭"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "照胆（狙击枪）",
+        "墨甲"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "寂武",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寂武对峙，被李钧呵斥。"
+        }
+      ],
       "evidence": [
-        "”马王爷杵着枪叹道",
-        "”　　李钧突然开口呵斥一声，将马王爷的话语打断",
-        "马王爷闻言暴怒，一把抄起那杆名为‘照胆’的狙击枪"
+        "马王爷杵着枪叹道",
+        "马王爷语调揶揄，话语中满是嘲讽。",
+        "马王爷一头雾水，红眼在左右两张脸中来回跳动。"
       ],
       "mention_count": 5
     },
     {
-      "name": "陈乞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "寂武",
+      "aliases": [
+        "少林行走"
+      ],
+      "identity": "少林行走，武僧",
+      "faction": "佛门（少林）",
       "status": "登场",
       "first_appearance": "第212章无人不精",
-      "summary": "”　　陈乞生咧嘴一笑：“你也猜到了",
-      "appearance": [],
-      "personality": [],
+      "summary": "少林行走，与隆图联手，与李钧等人对峙。",
+      "appearance": [
+        "明黄色身影",
+        "头顶戒疤状脑机灵窍"
+      ],
+      "personality": [
+        "金刚脾性",
+        "愤怒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　陈乞生咧嘴一笑：“你也猜到了",
-        "”　　陈乞生懒洋洋的声音横插进两名佛门行走的对话中，转头看向李钧",
-        "要知道陈乞生这个牛鼻子可是货真价实的老派剑仙，只差半步就能破入道六，单对单自己都未必能赢"
+      "relationships": [
+        {
+          "target": "隆图",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "陈乞生",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身与李钧等人对峙，后撤退。"
+        }
+      ],
+      "evidence": [
+        "一袭明黄色的身影出现在门口。",
+        "来者赫然正是少林行走，寂武。",
+        "寂武缓缓又退一步"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "陈乞生",
+      "name": "慧心",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "佛七高僧",
+      "faction": "佛门",
+      "status": "已死亡",
       "first_appearance": "第212章无人不精",
-      "summary": "”　　陈乞生咧嘴一笑：“你也猜到了",
+      "summary": "被周游所杀的佛门高僧。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　陈乞生咧嘴一笑：“你也猜到了",
-        "”　　陈乞生懒洋洋的声音横插进两名佛门行走的对话中，转头看向李钧",
-        "要知道陈乞生这个牛鼻子可是货真价实的老派剑仙，只差半步就能破入道六，单对单自己都未必能赢"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "被周游所杀"
+        },
+        {
+          "target": "隆图",
+          "type": "被隆图交出"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "周游",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第212章无人不精",
-      "summary": "隆图脑后那轮先前被周游一枪打成短路的佛轮，突然光芒大盛，以极快的速度兀自飞旋",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "隆图脑后那轮先前被周游一枪打成短路的佛轮，突然光芒大盛，以极快的速度兀自飞旋",
-        "”　　隆图面色阴沉，没有看一眼那道站在周游身旁的身影，双眼从始至终紧紧盯着少年",
-        "”　　周游放声大笑，笑得前俯后仰"
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被周游杀死。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "转而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第212章无人不精",
-      "summary": "寂武面皮紧绷，不再去和这个牙尖嘴利的道士斗嘴，转而看向沉默不语的李钧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "寂武面皮紧绷，不再去和这个牙尖嘴利的道士斗嘴，转而看向沉默不语的李钧",
-        "”　　隆图的眼神一直跟着周游，直到他的身影彻底消失，这才不甘收回，转而凝视眼前三人"
+        "你帮我杀了慧心",
+        "早知道我就不把慧心交给你了，好歹也是个佛七的高僧"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "将面",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第212章无人不精",
-      "summary": "一股无形的波动激荡扩散，将面前的子弹全部横扫开来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一股无形的波动激荡扩散，将面前的子弹全部横扫开来"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "爹妈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第212章无人不精",
-      "summary": "不像某些无良的光头啊，爹妈给的身体瞧不上，只会觊觎别人的血肉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不像某些无良的光头啊，爹妈给的身体瞧不上，只会觊觎别人的血肉"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "我就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第212章无人不精",
-      "summary": "“我就跟你说吧，这些和尚个个都贼得很",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我就跟你说吧，这些和尚个个都贼得很",
-        "“哈哈哈哈.我就说那小子心中的仇怨太深，隆图你根本度化不了，现在被打脸了吧",
-        "寂武嗤笑一声，“还在嘴硬，早知道我就不把慧心交给你了，好歹也是个佛七的高僧，就这样白白浪费了"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

@@ -1,255 +1,301 @@
 {
   "chunk_id": "chunk-0031",
-  "title": "第30章想打架？冲我来！",
   "characters": [
     {
-      "name": "况青云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "从始至终，罗镇的眼睛都没有看过李钧和况青云一眼，而是始终凝视着赵鼎的棺木",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "从始至终，罗镇的眼睛都没有看过李钧和况青云一眼，而是始终凝视着赵鼎的棺木",
-        "”　　况青云双拳攥紧，胸腔之中械心轰鸣，他强压着怒意，沉声道：“罗镇，今天我不想见血，识相的现在就滚",
-        "”　　“伱有种试.”　　况青云话还没说完，却见罗镇扬手一挥，拔高音量他打断"
-      ],
-      "mention_count": 19
-    },
-    {
       "name": "罗镇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "罗镇堂而皇之走入议事厅，身后跟随着数十名护从，其中就有这段时间一直销声匿迹的虎冢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "罗镇堂而皇之走入议事厅，身后跟随着数十名护从，其中就有这段时间一直销声匿迹的虎冢",
-        "从始至终，罗镇的眼睛都没有看过李钧和况青云一眼，而是始终凝视着赵鼎的棺木",
-        "”　　况青云双拳攥紧，胸腔之中械心轰鸣，他强压着怒意，沉声道：“罗镇，今天我不想见血，识相的现在就滚"
+      "aliases": [
+        "罗大人",
+        "罗巡检"
       ],
-      "mention_count": 18
+      "identity": "巡检",
+      "faction": "天府戍卫",
+      "status": "登场",
+      "first_appearance": "第30章 想打架？冲我来！",
+      "summary": "巡检，带领天府戍卫闯入袍哥会总堂，与况青云对峙，拉拢了浑水袍哥中的老一辈人物。",
+      "appearance": [],
+      "personality": [
+        "嚣张",
+        "阴险",
+        "善于算计"
+      ],
+      "abilities": [],
+      "equipment": [
+        "神机营1410式手枪"
+      ],
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "敌对"
+        },
+        {
+          "target": "赵鼎",
+          "type": "敌对（已死）"
+        },
+        {
+          "target": "虎冢",
+          "type": "下属"
+        },
+        {
+          "target": "汪明广",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领天府戍卫进入袍哥会总堂，与况青云对峙，拉拢宿老。"
+        }
+      ],
+      "evidence": [
+        "罗镇堂而皇之走入议事厅，身后跟随着数十名护从",
+        "罗镇施施然坐进一把红木圈椅，慢条斯理道",
+        "罗镇眯着眼笑道"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "况青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "况青云",
+      "aliases": [
+        "况二爷"
+      ],
+      "identity": "浑水袍哥当前身份最高的人",
+      "faction": "浑水袍哥",
       "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "从始至终，罗镇的眼睛都没有看过李钧和况青云一眼，而是始终凝视着赵鼎的棺木",
+      "first_appearance": "第30章 想打架？冲我来！",
+      "summary": "浑水袍哥中的核心人物，赵鼎死后成为最高身份者，与罗镇及叛变的宿老对峙。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "愤怒",
+        "刚烈",
+        "重情义"
+      ],
+      "abilities": [
+        "械心"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗镇",
+          "type": "敌对"
+        },
+        {
+          "target": "赵鼎",
+          "type": "尊敬（已故）"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "汪明广",
+          "type": "敌对（叛徒）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在议事厅与罗镇及叛变的宿老对峙。"
+        }
+      ],
+      "evidence": [
+        "况青云双拳攥紧，胸腔之中械心轰鸣",
+        "况青云眼神惊怒",
+        "况青云凄声大笑"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "浑水袍哥",
+      "status": "登场",
+      "first_appearance": "第30章 想打架？冲我来！",
+      "summary": "与况青云并肩作战，阻止况青云冲动，主动挑战虎冢。",
+      "appearance": [
+        "双臂缠绕绷带，皮肤碎皮掉落"
+      ],
+      "personality": [
+        "冷静",
+        "好战"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "从始至终，罗镇的眼睛都没有看过李钧和况青云一眼，而是始终凝视着赵鼎的棺木",
-        "”　　况青云双拳攥紧，胸腔之中械心轰鸣，他强压着怒意，沉声道：“罗镇，今天我不想见血，识相的现在就滚",
-        "”　　“伱有种试.”　　况青云话还没说完，却见罗镇扬手一挥，拔高音量他打断"
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "同伴"
+        },
+        {
+          "target": "虎冢",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "按住况青云肩膀，解开绷带准备与虎冢战斗。"
+        }
+      ],
+      "evidence": [
+        "李钧盯着虎冢，抬手刮了刮如刀般锐利的眉毛",
+        "李钧缓缓解开缠绕在双臂上的绷带"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "虎冢",
+      "aliases": [
+        "电耗子"
+      ],
+      "identity": "罗镇的护从",
+      "faction": "天府戍卫",
+      "status": "登场",
+      "first_appearance": "第30章 想打架？冲我来！",
+      "summary": "罗镇的下属，与李钧有旧怨，曾在九龙拳台未打完。",
+      "appearance": [],
+      "personality": [
+        "好斗"
+      ],
+      "abilities": [
+        "雷光"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗镇",
+          "type": "下属"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "挡在汪明广身前，准备与李钧继续战斗。"
+        }
+      ],
+      "evidence": [
+        "站在他身后的虎冢立马跨步挡在汪明广身前，双臂雷光跳动",
+        "九龙拳台没打完，今天我们继续"
+      ],
+      "mention_count": 3
     },
     {
       "name": "汪明广",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "浑水袍哥宿老",
+      "faction": "浑水袍哥（叛变至罗镇）",
       "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "况青云双臂青衫尽碎，义眼中的红光猩红刺目，“汪明广你找死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "况青云双臂青衫尽碎，义眼中的红光猩红刺目，“汪明广你找死",
-        "汪明广像是被这两个字激怒了一般，瞬间勃然大怒，用手指戳着自己的心口，吼道：“我们这班老人用命从南粤黑帮手里抢回条街的时候，你在哪里",
-        "况青云抬手指向其中一名神情阴骘的老人，怒道：“汪明广"
+      "first_appearance": "第30章 想打架？冲我来！",
+      "summary": "浑水袍哥中的老一辈人物，带头叛变投靠罗镇，与况青云激烈争吵。",
+      "appearance": [
+        "神情阴骘"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "”　　况青云眼神鄙夷，从这群宿老脸上一一扫过，冷笑道：“说到底，你们还是为了钱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　况青云眼神鄙夷，从这群宿老脸上一一扫过，冷笑道：“说到底，你们还是为了钱",
-        "你们这么多黑帮成员聚集，本巡检带着人进来巡查有什么问题吗",
-        "你们他妈的居然敢吃里扒外"
+      "personality": [
+        "自私",
+        "狡猾",
+        "忘恩负义"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "汪明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "况青云双臂青衫尽碎，义眼中的红光猩红刺目，“汪明广你找死",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "况青云双臂青衫尽碎，义眼中的红光猩红刺目，“汪明广你找死",
-        "汪明广像是被这两个字激怒了一般，瞬间勃然大怒，用手指戳着自己的心口，吼道：“我们这班老人用命从南粤黑帮手里抢回条街的时候，你在哪里",
-        "况青云抬手指向其中一名神情阴骘的老人，怒道：“汪明广"
+      "relationships": [
+        {
+          "target": "罗镇",
+          "type": "合作"
+        },
+        {
+          "target": "况青云",
+          "type": "敌对"
+        },
+        {
+          "target": "赵鼎",
+          "type": "背叛（已故）"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "也是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "”　　面对况青云怒斥，汪明广根本不为所动，面无表情说道：“况青云你说话别这么难听，我们这些的宿老前辈这么做，也是为了袍哥会的未来着想",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "作为叛变宿老的代表与况青云对峙。"
+        }
+      ],
       "evidence": [
-        "”　　面对况青云怒斥，汪明广根本不为所动，面无表情说道：“况青云你说话别这么难听，我们这些的宿老前辈这么做，也是为了袍哥会的未来着想",
-        "负责地方治安的天府戍卫历来也是只管坐收‘例钱’，从来不会主动插手鸡鹅区内部的帮派争斗",
-        "“我跟你废话这么多，也是看你在兄弟们心中威望够高，给你一个活命的机会"
+        "况青云抬手指向其中一名神情阴骘的老人，怒道：“汪明广！”",
+        "汪明广神色真挚，苦口婆心道",
+        "汪明广冷笑道"
       ],
       "mention_count": 6
     },
     {
-      "name": "冲我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "冲我来",
+      "name": "赵鼎",
+      "aliases": [
+        "鼎爷"
+      ],
+      "identity": "浑水袍哥已故舵把子",
+      "faction": "浑水袍哥",
+      "status": "已故",
+      "first_appearance": "第30章 想打架？冲我来！",
+      "summary": "浑水袍哥的前任舵把子，已去世，棺木在议事厅中。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冲我来",
-        "”　　李钧盯着虎冢，抬手刮了刮如刀般锐利的眉毛，“想打架，冲我来"
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "被尊敬"
+        },
+        {
+          "target": "罗镇",
+          "type": "敌对"
+        },
+        {
+          "target": "汪明广",
+          "type": "被背叛"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已死，棺木在议事厅。"
+        }
+      ],
+      "evidence": [
+        "罗镇的眼睛始终凝视着赵鼎的棺木",
+        "鼎爷才离世"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "本官",
+      "name": "顾邕",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "“本官还没动手你就死了，啧啧啧，赵鼎你这样让我赢的很无趣啊",
+      "identity": "蜀道物流负责人",
+      "faction": "蜀道物流",
+      "status": "提及",
+      "first_appearance": "第30章 想打架？冲我来！",
+      "summary": "蜀道物流的负责人，与浑水袍哥有合作，被罗镇提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "合作"
+        },
+        {
+          "target": "罗镇",
+          "type": "被轻视"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“本官还没动手你就死了，啧啧啧，赵鼎你这样让我赢的很无趣啊",
-        "”　　罗镇嗤笑一声，不屑道：“而且况青云你是不是脑袋坏掉了，本官有说过要做什么吗",
-        "”　　罗镇施施然坐进一把红木圈椅，慢条斯理道：“本官今天只是来维持治安，顺便送老友最后一程"
+        "就算他顾邕念及旧情",
+        "不就是蜀道物流的顾邕嘛"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "不过念在日子过的安稳，我们这些老辈子也没有多说什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过念在日子过的安稳，我们这些老辈子也没有多说什么",
-        "”　　“但现在鼎爷死了，蜀道物流还会不会认我们这些人",
-        "汪明广像是被这两个字激怒了一般，瞬间勃然大怒，用手指戳着自己的心口，吼道：“我们这班老人用命从南粤黑帮手里抢回条街的时候，你在哪里"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "你在哪",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "汪明广像是被这两个字激怒了一般，瞬间勃然大怒，用手指戳着自己的心口，吼道：“我们这班老人用命从南粤黑帮手里抢回条街的时候，你在哪里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "汪明广像是被这两个字激怒了一般，瞬间勃然大怒，用手指戳着自己的心口，吼道：“我们这班老人用命从南粤黑帮手里抢回条街的时候，你在哪里",
-        "”　　“老子们提着脑袋跟那群罪民火拼的时候，你在哪里"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "今天我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第30章想打架？冲我来！",
-      "summary": "”　　况青云双拳攥紧，胸腔之中械心轰鸣，他强压着怒意，沉声道：“罗镇，今天我不想见血，识相的现在就滚",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　况青云双拳攥紧，胸腔之中械心轰鸣，他强压着怒意，沉声道：“罗镇，今天我不想见血，识相的现在就滚",
-        "”　　站在他身后的虎冢立马跨步挡在汪明广身前，双臂雷光跳动，“九龙拳台没打完，今天我们继续"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

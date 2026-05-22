@@ -1,255 +1,292 @@
 {
   "chunk_id": "chunk-0068",
-  "title": "第六十六章 舒若云（下）",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "听剑谷记名弟子",
+      "faction": "听剑谷",
       "status": "登场",
       "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "第六十六章 舒若云（下）　　林新一个人朝着听剑谷方向赶去",
+      "summary": "听剑谷记名弟子，修为较弱，但心思缜密，善于利用信息差和谎言脱险。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十六章 舒若云（下）　　林新一个人朝着听剑谷方向赶去",
-        "在经过一片郁郁葱葱的竹林时，一个身材高大的黄衣男子挡在了林新前进的山道上",
-        "“林新"
+      "personality": [
+        "冷静",
+        "机智",
+        "善于伪装"
       ],
-      "mention_count": 32
+      "abilities": [
+        "无炎剑法",
+        "元阳一气剑"
+      ],
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "舒络衣",
+          "type": "已故同伴"
+        },
+        {
+          "target": "舒若云",
+          "type": "冲突对象"
+        },
+        {
+          "target": "黄松子",
+          "type": "被怀疑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "独自前往听剑谷途中被舒若云拦截，通过谎言将舒络衣之死嫁祸给黄松子，并交出剑气符以获取信任。"
+        }
+      ],
+      "evidence": [
+        "林新一个人朝着听剑谷方向赶去。",
+        "林新没想到他突然动手，心头一惊，身上一把才买的长剑脱鞘而出，无炎剑法施展开来。",
+        "林新心头已然有了退意。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "舒若云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "舒大哥"
+      ],
+      "identity": "舒家成员，先天高手",
+      "faction": "舒家",
       "status": "登场",
       "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "第六十六章 舒若云（下）　　林新一个人朝着听剑谷方向赶去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十六章 舒若云（下）　　林新一个人朝着听剑谷方向赶去",
-        "”　　“舒若云",
-        "”舒若云平静道"
+      "summary": "舒络衣的表哥，修为高强（小归元诀五层），性格冲动但重情义，被林新误导后相信黄松子是凶手。",
+      "appearance": [
+        "身材高大",
+        "黄衣",
+        "国字脸"
       ],
-      "mention_count": 24
+      "personality": [
+        "冲动",
+        "重情义",
+        "易被误导"
+      ],
+      "abilities": [
+        "莲月剑法",
+        "小归元诀五层"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "舒络衣",
+          "type": "表妹"
+        },
+        {
+          "target": "林新",
+          "type": "冲突对象"
+        },
+        {
+          "target": "黄松子",
+          "type": "怀疑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拦截林新质问表妹死因，被林新误导后相信黄松子是凶手，接受林新交出的剑气符。"
+        }
+      ],
+      "evidence": [
+        "一个身材高大的黄衣男子挡在了林新前进的山道上。",
+        "舒若云一张国字脸表情冷然。",
+        "舒若云闻言，听到林新被威胁了还这么为自己家着想，顿时表情也是温和下来。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "舒若",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "第六十六章 舒若云（下）　　林新一个人朝着听剑谷方向赶去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十六章 舒若云（下）　　林新一个人朝着听剑谷方向赶去",
-        "”　　“舒若云",
-        "”舒若云平静道"
+      "name": "舒络衣",
+      "aliases": [
+        "络衣",
+        "舒师妹"
       ],
-      "mention_count": 19
+      "identity": "舒家成员，已故",
+      "faction": "舒家",
+      "status": "已故",
+      "first_appearance": "第六十六章 舒若云（下）",
+      "summary": "舒若云的表妹，已死亡，死因被林新嫁祸给黄松子。",
+      "appearance": [
+        "漂亮"
+      ],
+      "personality": [
+        "偏执",
+        "脾气爆"
+      ],
+      "abilities": [],
+      "equipment": [
+        "剑气符"
+      ],
+      "relationships": [
+        {
+          "target": "舒若云",
+          "type": "表兄"
+        },
+        {
+          "target": "林新",
+          "type": "同伴"
+        },
+        {
+          "target": "余畅",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与余畅、林新一起任务时死亡。"
+        }
+      ],
+      "evidence": [
+        "我来问你，我表妹是怎么死的？",
+        "络衣的死，我也很遗憾",
+        "我妹死了，我心头……心头难过……"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "络衣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "”　　“舒络衣",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“舒络衣",
-        "“络衣的死，我也很遗憾，只是这其中还有很多曲折变故，不是一句两句话能说得清的",
-        "“络衣的事，其实我没有和他们在一起，她和余畅轻功比我好，追得比我快，几下就没影了，我也追丢了……”　　“你是说，络衣的死，是余畅有问题"
+      "name": "黄松子",
+      "aliases": [
+        "黄",
+        "道长"
       ],
-      "mention_count": 9
+      "identity": "练气八层大高手",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第六十六章 舒若云（下）",
+      "summary": "被林新嫁祸为杀害舒络衣的凶手，脾气火爆，是钟铉手下的人。",
+      "appearance": [],
+      "personality": [
+        "嫉恶如仇",
+        "脾气火爆"
+      ],
+      "abilities": [
+        "练气八层"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "舒络衣",
+          "type": "被怀疑杀害"
+        },
+        {
+          "target": "钟铉",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被怀疑在狼群中杀害舒络衣。"
+        }
+      ],
+      "evidence": [
+        "黄松子道长我也见过，是个嫉恶如仇之人，脾气虽然火爆了点",
+        "他可是那位手下的人",
+        "黄松子乃是练气八层的大高手"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "我也",
+      "name": "余畅",
       "aliases": [],
-      "identity": "",
+      "identity": "与舒络衣、林新一起任务的人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "“络衣的死，我也很遗憾，只是这其中还有很多曲折变故，不是一句两句话能说得清的",
+      "summary": "与舒络衣、林新一起任务，轻功较好，被林新提及可能有问题。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“络衣的死，我也很遗憾，只是这其中还有很多曲折变故，不是一句两句话能说得清的",
-        "“络衣的事，其实我没有和他们在一起，她和余畅轻功比我好，追得比我快，几下就没影了，我也追丢了……”　　“你是说，络衣的死，是余畅有问题",
-        "“我没有这么说，只是因为失散，后面的事我也不清楚，我被一个敌人引开到了另外一个地方，结果后面回来就看到他们两人被狼群包围了……我当时也是慌不择路……”　　林新神色诚恳"
+      "abilities": [
+        "轻功好"
       ],
-      "mention_count": 7
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "舒络衣",
+          "type": "同伴"
+        },
+        {
+          "target": "林新",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与舒络衣、林新一起任务，后失散。"
+        }
+      ],
+      "evidence": [
+        "她和余畅轻功比我好，追得比我快",
+        "你是说，络衣的死，是余畅有问题？"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
+      "name": "钟铉",
+      "aliases": [
+        "钟铉师兄",
+        "钟铉师伯"
+      ],
+      "identity": "师伯",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "“络衣的事，其实我没有和他们在一起，她和余畅轻功比我好，追得比我快，几下就没影了，我也追丢了……”　　“你是说，络衣的死，是余畅有问题",
+      "summary": "林新和舒若云提及的师伯，黄松子是其手下。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“络衣的事，其实我没有和他们在一起，她和余畅轻功比我好，追得比我快，几下就没影了，我也追丢了……”　　“你是说，络衣的死，是余畅有问题",
-        "“其实……其实有的事，我只是不敢说",
-        "“舒大哥，其实……我和络衣关系还算不错，对于她的遭遇也很是难过"
+      "relationships": [
+        {
+          "target": "黄松子",
+          "type": "上级"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "黄松子曾当着他的面想杀林新。"
+        }
+      ],
+      "evidence": [
+        "我听钟铉师伯说，黄松子乃是练气八层的大高手",
+        "那人后来挡着师伯的面还想杀我"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "心头",
+      "name": "木骡子",
       "aliases": [],
-      "identity": "",
+      "identity": "受伤的人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "”他心头一阵急转，做出一副遗憾和无奈神色",
+      "summary": "林新捡便宜时遇到的伤重之人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他心头一阵急转，做出一副遗憾和无奈神色",
-        "林新没想到他突然动手，心头一惊，身上一把才买的长剑脱鞘而出，无炎剑法施展开来，数团高热气流从三个方向扑向对方",
-        "林新心头已然有了退意"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "林新遇到伤重的木骡子并捡了便宜。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "你是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "“你是",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“你是",
-        "“络衣的事，其实我没有和他们在一起，她和余畅轻功比我好，追得比我快，几下就没影了，我也追丢了……”　　“你是说，络衣的死，是余畅有问题",
-        "“那你是怎么得到那些东西的"
+        "正好遇到伤重的木骡子，才捡了个便宜"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "“络衣的死，我也很遗憾，只是这其中还有很多曲折变故，不是一句两句话能说得清的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“络衣的死，我也很遗憾，只是这其中还有很多曲折变故，不是一句两句话能说得清的",
-        "“我没有这么说，只是因为失散，后面的事我也不清楚，我被一个敌人引开到了另外一个地方，结果后面回来就看到他们两人被狼群包围了……我当时也是慌不择路……”　　林新神色诚恳",
-        "以他小归元诀五层的修为，就算只是正常发挥，也足够将林新稳稳压死"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "”他心头一阵急转，做出一副遗憾和无奈神色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他心头一阵急转，做出一副遗憾和无奈神色",
-        "”他心念急转"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "你跟我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "“没关系，你跟我走一趟，找个地方把过程详细说给我听，我舒家自己会好好判断",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“没关系，你跟我走一趟，找个地方把过程详细说给我听，我舒家自己会好好判断",
-        "“舒大哥，你跟我来，我有东西要给你"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "我只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十六章 舒若云（下）",
-      "summary": "“其实……其实有的事，我只是不敢说",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“其实……其实有的事，我只是不敢说",
-        "我只是后来，看到那位从狼群中出来，我就不敢靠近，就在附近躲着，没想到，正好遇到伤重的木骡子，才捡了个便宜……”　　“我就说，以你这点三脚猫功夫，怎么可能有这么大的收获"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

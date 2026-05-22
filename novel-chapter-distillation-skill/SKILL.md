@@ -5,393 +5,167 @@ description: Distill a long novel chapter by chapter into a reusable skeleton be
 
 # Novel Chapter Distillation
 
-Use this skill when the task is to build a chapter-by-chapter distilled backbone for a novel before deeper analysis begins.
+## 角色定位
 
-This skill should usually run before:
+章节蒸馏 skill 是**五层能力栈的底座**，不可跳过。
 
-- `novel-opening-analysis`
-- `novel-protagonist-encyclopedia`
-- `novel-outline-analysis`
-- `novel-highlight-scenes-analysis`
+### 核心问题
 
-Its job is to produce a stable source-facing skeleton layer that later skills can check against.
+长篇原文通常 200 万+ 字。后续四层在分析时，AI 会凭记忆引用原文细节——记忆不可靠，就会出现幻觉：
 
-## When To Use
+- "寇立在武盟大会打败了 XXX" → XXX 的名字可能是编的
+- "第三章结尾有强章末钩子" → 不打开原文就无法确认
 
-Use this skill when the user asks to:
+没有任何机制能校验这些引用的真假。
 
-- distill every chapter of a long novel
-- build a novel skeleton before deeper analysis
-- create a chapter-by-chapter essence file for later verification
-- create a correction layer that helps mid-project recalibration
-- reduce drift between later analysis files and the original novel
+### 蒸馏层的解决方案
 
-## Default Output Goal
+**逐章确认事实。** 把 240 万字的原文变成一份每章约 10-15 行的**事实记录**——后续四层引用时不需要翻原文，查蒸馏骨架即可验证。蒸馏骨架中的每一条记录都必须在原文中能定位到出处。
 
-Unless the user narrows the scope, aim to produce a reusable chapter-distillation package that answers:
+### init 脚本与 AI 的分工
 
-- what each chapter fundamentally does
-- what the protagonist or core viewpoint state is in that chapter
-- what new information or structural movement appears
-- what relationship or situation changes
-- what hook or pressure carries into the next chapter
-- where the major stage changes likely occur
-- which chapters should be used later as verification anchors
+| 角色 | 负责 | 产出 |
+|---|---|---|
+| `init_chapter_distillation_workspace.py` | 扫描原文、识别章节标题、标注每章行号范围 | **章节边界清单**（章节号、标题、行号起止） |
+| AI（你） | 对每一章，按行号范围打开原文阅读，输出确认事实 | **事实记录**（每章 6 条，每条都能在原文对应行号附近找到出处） |
 
-The target is not “some summary exists”.
+**init 脚本绝不应该生成包含"核心推进"、"主角状态"等分析内容的骨架文件。** 它的唯一产出是章节边界清单。分析内容全是 AI 的事。
 
-The target is:
+---
 
-- every chapter has a distilled skeleton entry
-- the chapter layer can be used later to verify protagonist, opening, outline, and highlight conclusions
-- the project now has a stable calibration file instead of relying on memory
+## 工作流程
 
-## Important Positioning
+### Step 1：运行 init 脚本，获取章节边界清单
 
-This skill is a pre-analysis layer.
-
-It should not try to replace:
-
-- protagonist lexicon work
-- opening diagnosis
-- whole-book outline diagnosis
-- Top 10 highlight analysis
-
-Instead, it should make those later layers safer and more stable.
-
-## What This Skill Is Not
-
-This skill is not:
-
-- a chapter recap dump
-- a detailed scene-by-scene commentary layer
-- a substitute for whole-book structure analysis
-- a character-card workflow
-
-Its main product is:
-
-- a chapter skeleton and calibration anchor layer
-
-## Working Modes
-
-### `fresh`
-
-Use when no durable workspace exists yet.
-
-Rules:
-
-- initialize a new workspace
-- normalize source text when needed
-- detect chapters
-- scaffold the chapter skeleton package
-- do not stop after only copying the source if the user asked for real distillation
-
-### `extend-existing`
-
-Use when a novel workspace already exists and the chapter skeleton should be added in place.
-
-Rules:
-
-- treat existing files as reusable context, not duplication targets
-- keep this layer source-facing and chapter-facing
-- do not rewrite protagonist, outline, opening, or highlight files unless the user explicitly asks
-
-### `repair-existing`
-
-Use when chapter-distillation files already exist but still contain placeholders or weak calibration anchors.
-
-Rules:
-
-- inspect current files first
-- patch only the weak layers
-- rerun validation before closing
-
-## Invocation Templates
-
-### Template A: Add chapter distillation to an existing workspace
-
-Use this when the novel already has a workspace and the user wants a source-facing skeleton layer added.
-
-Default execution shape:
-
-- read the workspace first
-- detect reusable files
-- initialize chapter-distillation files in place
-- fill the chapter skeleton and calibration files
-- run validator
-- write back the validation report and latest handoff state
-
-### Template B: Start a fresh chapter-distillation workspace
-
-Use this when the user wants a standalone chapter-distillation package for a new novel.
-
-Default execution shape:
-
-- initialize a new workspace with the source file
-- normalize the text
-- detect chapters
-- create the chapter skeleton file set
-- run validator
-- write back the validation report and latest handoff state
-
-### Template C: Repair or validate an existing chapter-distillation package
-
-Use this when chapter-distillation files already exist but are incomplete, placeholder-heavy, or inconsistent.
-
-Default execution shape:
-
-- read existing files first
-- run validator
-- patch only the weak layers
-- rerun validator
-
-## Chinese Prompt Examples
-
-### Example 1: Existing workspace
-
-```text
-请使用 `novel-chapter-distillation` skill，在已有小说工作区基础上先对《<小说名>》原文做章节蒸馏。
-
-要求：
-- 每一个章节都做浓缩精华
-- 形成一份可以给后续所有 skill 用来检查和校准的骨架文件
-- 最后跑 validator，并把校验报告和最新工作状态写回工作区
+```bash
+python3 scripts/init_chapter_distillation_workspace.py --workspace <项目名> --source <原文路径>
 ```
 
-### Example 2: Fresh workspace
+init 脚本的唯一产出是**章节边界清单**。格式示例：
 
-```text
-请使用 `novel-chapter-distillation` skill 为《<小说名>》建立一套章节蒸馏骨架工作区。
-
-原文路径：`<原文绝对路径>`
-目标工作区：`<工作区绝对路径>`
-
-要求：
-- 先识别章节
-- 再把每一章压成精华骨架
-- 再补阶段换挡草图和校准锚点
-- 完成后跑 validator
+```
+1 | 第一章 寇立 | L8-L189
+2 | 第二章 武扣仙门 | L190-L331
+3 | 第三章 秃鹰来袭 | L332-L533
 ```
 
-### Example 3: Repair-only
+此时蒸馏骨架文件尚未创建——只有章节边界清单。AI 基于这个清单开始逐章蒸馏。
 
-```text
-请使用 `novel-chapter-distillation` skill 检查《<小说名>》当前的章节蒸馏骨架文件。
+### Step 2：逐章蒸馏——AI 的核心工作
 
-要求：
-- 先读取现有 chapter distillation 文件
-- 运行 validator
-- 只补缺口，不重写已经成立的内容
-- 最后告诉我是否已经达到 `章节骨架已形成` 与 `校准锚点已可用`
+对边界清单中的每一章，执行：
+
+1. **打开原文，读取该章节对应的行号范围**（如第一章 L8-L189）
+2. **完整阅读该章节原文**
+3. **输出该章的 6 条确认事实**，逐章追加到 `<小说名>-章节蒸馏骨架.md`
+
+输出格式——每条都必须基于原文中可定位的具体内容：
+
+```markdown
+## 第 N 章 <章节标题>
+
+- **源文件行**：Lx-Ly
+- **核心推进**：本章推动的主线剧情是什么（一句话，包含至少 1 个具体人名和 1 个具体事件）
+- **主角状态变化**：本章开始时的状态 → 本章结束时的状态
+- **新增信息**：本章新披露的世界观/人物/冲突——用逗号分隔，每条都是可验证的具体事实
+- **关系/局势变化**：人际或局势层面发生了什么变化
+- **章末钩子**：本章结尾制造了什么追读拉力——必须是具体的悬念内容
+- **阶段判断**：属于阶段 X
 ```
+
+### Step 3：自检
+
+每章蒸馏完成后，执行三个自检：
+
+1. **遮名测试**：把章节标题遮住，能从蒸馏内容推断出这是哪一章吗？不能则重写。
+2. **可定位测试**：蒸馏中的每条事实都能在原文对应行号附近找到出处吗？不能则重写。
+3. **相邻区分测试**：本章和相邻章节目内容有明显区分吗？没有则重写。
+
+### Step 4：全部章节蒸馏完成后，运行 validator
+
+```bash
+python3 scripts/validate_chapter_distillation_outputs.py --workspace <项目名> --novel-name <小说名>
+```
+
+---
+
+## 绝对禁止的输出
+
+以下写法表明 AI **没有读原文**，只是在填模板——**一经发现，该章必须重写**：
+
+| 禁止写法 | 问题 |
+|---|---|
+| "本章围绕'第X章 XXX'对应事件推进当前主线" | 循环定义，零信息量 |
+| "把主角从上一节点推向下一节点" | 万能填充句，任何一章都能用 |
+| "本章至少会补入与 XXX 相关的新线索" | "至少会" = 没有确认任何事实 |
+| "出现细小但明确的变化" | "细小但明确" = 什么都没说 |
+| "为下一轮局势升级做铺垫" | 任何一章都能套用 |
+| "不只是单章事件，而是连续推进链上的一个节点" | 模板废话 |
+
+**如果 AI 发现自己正在写以上任何一句话，说明它没有读原文——立即停止，打开原文读完再写。**
+
+---
+
+## 正确蒸馏示例（基于《寇道》第一章）
+
+```markdown
+## 第一章 寇立
+
+- **源文件行**：L8-L189
+- **核心推进**：寇立（穿越三年求仙无门的书生）在粤州客栈被水龙帮鱼叉骨率众找茬，
+  郑老铁以挑枪术（战场马背枪术演化，骑龙桩+双枪夹棍）碾压八个帮众。
+  寇立拒绝学武——"能练成仙么？"
+- **主角状态变化**：表面平静内心焦躁 → 决定离开粤州继续求仙
+- **新增信息**：粤州是风云地/暴富地（开海后"要么有钱要么死人"）、
+  水龙帮为三大船帮之首、郑老铁是豫行枪客、
+  武道真实存在但非飞天遁地（"姿态丑陋但效果极好"）、
+  寇立持有无字图（半尺卷轴，似帛非玉，三年打不开）、
+  寇立是穿越者（前身跳河自杀附身落魄书生）
+- **关系/局势变化**：与水龙帮建立敌对关系，与郑老铁建立"他执着报恩"的单向关系
+- **章末钩子**：无字图亮相（核心金手指首次登场）；
+  水龙帮找寇立要的"东西"到底指什么？
+- **阶段判断**：阶段一（粤州求道摸索期）
+```
+
+每条事实都可以在原文 L8-L189 范围内定位。把章节标题遮住，也能从蒸馏内容推断这是第一章——因为每一条都是本章独有的。
+
+---
+
+## 批量蒸馏策略
+
+长篇通常有数百章。建议分批处理：
+
+1. 先用 init 脚本获取完整章节边界清单（一次性操作）
+2. 按阶段分批蒸馏：阶段一（如第 1-20 章）→ 阶段二（第 21-50 章）→ ...
+3. 每批内部的每一章仍然逐章处理——**不能合并成"第 1-20 章概述"**
+4. 每批完成后追加到同一个 `<小说名>-章节蒸馏骨架.md` 文件中
+
+蒸馏第 N 章时，可以直接引用已蒸馏的前几章内容作为背景，但对第 N 章本身的 6 条蒸馏记录**仍然必须是读原文后的确认事实**。
+
+---
 
 ## Scripts
 
-Use the bundled scripts when the task is starting a durable chapter-distillation workspace or when you need deterministic completion checks.
+### `init_chapter_distillation_workspace.py`
 
-- `scripts/init_chapter_distillation_workspace.py`
-  Use when a new chapter-distillation workspace needs starter files, or when an existing novel workspace needs chapter-distillation files added in place.
-- `scripts/validate_chapter_distillation_outputs.py`
-  Use before closing the task when you want a repeatable check of file coverage and content coverage. The validator rejects placeholders, checks chapter-count coverage, and writes a persistent markdown report back into the workspace by default.
+**职责**：扫描原文，输出章节边界清单（章节号、标题、源文件行号起止）。
 
-## Common Output Standard
+**不负责**：不生成任何包含分析内容的骨架文件，不填写"核心推进"、"主角状态"等字段。
 
-Every durable chapter distillation should cover these common layers:
+### `validate_chapter_distillation_outputs.py`
 
-1. Project entry and handoff
-2. Chapter manifest
-3. Chapter-by-chapter distilled skeleton
-4. Stage skeleton and gear-shift draft
-5. Calibration and verification anchors
+**职责**：检查蒸馏骨架是否覆盖所有章节、每章是否包含必需字段、是否检测到模板话术。
 
-### Recommended durable file set
+---
 
-- `chapter-distillation-manifest.json`
-- `<小说名>-章节蒸馏骨架.md`
-- `<小说名>-阶段骨架与换挡草图.md`
-- `<小说名>-校准与验证锚点.md`
+## 产物文件清单
 
-Also check whether the project already has, or should now add:
+| 文件 | 生成方式 | 内容 |
+|---|---|---|
+| 章节边界清单 | init 脚本自动 | 章节号、标题、源文件行号范围 |
+| `<小说名>-章节蒸馏骨架.md` | AI 逐章蒸馏 | 每章 6 条确认事实 |
 
-- `README.md`
-- `工作状态-YYYY-MM-DD.md`
-
-## Minimum File Completion Standard
-
-### `chapter-distillation-manifest.json`
-
-Must include:
-
-- chapter count
-- chapter titles
-- line ranges or source anchors
-
-### `<小说名>-章节蒸馏骨架.md`
-
-Must include every detected chapter and, for each chapter:
-
-- chapter range or title
-- core progression
-- protagonist or viewpoint state
-- key new information
-- relationship or situation change
-- structural function
-- chapter-end hook
-
-Must not be:
-
-- only a directory of chapter names
-- only recap prose without structural fields
-
-### `<小说名>-阶段骨架与换挡草图.md`
-
-Must include:
-
-- provisional stage grouping
-- likely gear-shift chapters or ranges
-- what changes at each shift
-- why those shifts matter later for verification
-
-### `<小说名>-校准与验证锚点.md`
-
-Must include:
-
-- opening promise anchor
-- first major shift anchor
-- mid-book correction anchor
-- expansion or scale-jump anchor
-- climax-pressure anchor
-- ending or terminal anchor
-- later skills should verify against what
-
-## 反模板质量约束（Anti-Template Quality Guard）
-
-以下写法视为**不合格**，不得出现在任何章节蒸馏产出中：
-
-### 禁止的模板话术
-
-- ❌ "本章围绕[章节名]对应事件推进当前主线" → 循环定义，不是分析
-- ❌ "把主角从上一节点推向下一节点" → 万能填充句
-- ❌ "本章至少会补入与[章节名]相关的新线索" → 占位话术
-- ❌ "会出现细小但明确的变化" → 模糊到无法验证
-- ❌ "为下一轮局势升级做铺垫" → 可套用在任何一章
-- ❌ "只是单章事件，而是连续推进链上的一个节点" → 模板废话
-
-### 正确的蒸馏写法
-
-- ✅ 必须写出**本章实际发生的具体事件**（人名、地名、具体冲突、具体转折）
-- ✅ "核心推进"必须包含至少 1 个具体人名和 1 个具体事件
-- ✅ "章末钩子"必须写出**具体的悬念内容**，不能只写"留下新的风险"
-- ✅ 如果某章是过渡章，明确标注但**仍需写清过渡了什么具体内容**
-
-### 每章蒸馏自检
-
-完成每章蒸馏后，自问三个问题：
-
-1. **遮名测试**：如果把章节名遮住，能从蒸馏中推断出这是哪一章吗？→ 不能则重写
-2. **互换测试**：本章的"核心推进"和相邻章节交换后，有区别吗？→ 没区别则重写
-3. **独有信息**：这一章蒸馏是否包含至少一条本章**独有**的信息？→ 没有则重写
-
-## 两轮精炼流程
-
-章节蒸馏必须经过两轮：
-
-### 第一轮：生成初稿
-- 逐章生成蒸馏骨架
-- 覆盖所有必需字段
-- 允许速度快，但不允许模板填充
-
-### 第二轮：自检与重写
-- 对每章执行"遮名测试""互换测试""独有信息"三个自检
-- 标记所有不合格章节
-- **重写**所有不合格章节
-- 全部通过后再运行 validator
-
-## Workflow
-
-### 1. Normalize the source before distilling
-
-Before writing anything else:
-
-- ensure the source is copied into the workspace
-- convert `.txt` to Markdown when needed
-- detect chapter headings from the normalized source
-
-Prefer reusing local chapter-aware tools and regex behavior already used elsewhere in the workspace system.
-
-### 2. Distill every chapter into structural fields
-
-Do not write “chapter summaries” in loose prose.
-
-Each chapter should be reduced into a stable structural unit that later skills can check against.
-
-At minimum, every chapter entry should answer:
-
-- what actually moves here
-- what state the protagonist or key viewpoint is in
-- what new information appears
-- what relationship or situation changes
-- what this chapter structurally does
-- what pulls the reader onward
-
-### 3. Keep the chapter layer source-facing
-
-This layer should stay close to the source.
-
-Do not over-interpret too early.
-
-Prefer:
-
-- chapter facts
-- clear structural movement
-- stable anchors
-
-Over:
-
-- large thematic conclusions
-- speculative full-book judgments
-
-### 4. Build a later-use calibration file
-
-This skill should always leave behind a file that later skills can use for checking drift.
-
-That file should answer:
-
-- which chapters must be revisited when later judgments are made
-- where the novel first promises its main direction
-- where the book changes gear
-- where the middle should be checked for looseness
-- where the ending setup begins to compress
-
-### 5. Finish with a standardized closure judgment
-
-Do not stop after chapter sections exist.
-
-At the end, explicitly decide:
-
-- has the project reached `章节骨架已形成`
-- has the project reached `校准锚点已可用`
-
-### 6. Mandatory: Run quality gate
-
-After validator passes, you MUST run the quality gate:
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/quality_gate.py --workspace <工作区路径>
-```
-
-The quality gate assesses four dimensions:
-1. **结构完整度** — 模板填充检测、章节独特性、具体性密度
-2. **跨层一致性** — 阶段边界对立、模板内容蔓延
-3. **分析深度** — 因果推理密度
-4. **可操作性** — 修改建议是否可执行
-
-A layer is not truly closed until:
-- ✅ validator passes (文件存在/字数/关键词)
-- ✅ quality gate ≥ 75 (内容质量达标)
-
-If quality gate score < 75, fix the flagged issues and rerun both validator and quality gate.
-
-## Reference
-
-Use `references/chapter-distillation-checklist.md` before declaring the package complete.
+不再需要 `chapter-distillation-manifest.json`、`阶段骨架与换挡草图.md`、`校准与验证锚点.md`——这三个文件的功能被合并到蒸馏骨架本身：
+- manifest 功能 → 蒸馏骨架每章的"源文件行"字段
+- 阶段划分功能 → 蒸馏骨架每章的"阶段判断"字段
+- 校准锚点功能 → 蒸馏骨架每章的"核心推进"和"章末钩子"字段

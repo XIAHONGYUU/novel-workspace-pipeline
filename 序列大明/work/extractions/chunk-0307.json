@@ -1,258 +1,292 @@
 {
   "chunk_id": "chunk-0307",
-  "title": "第305章未时（二）",
   "characters": [
     {
-      "name": "郑魁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第305章未时（二）",
-      "summary": "”　　郑魁一脸苦涩，连声为自己辩解：“我说谢必安殉职了，他不止没有半点招供的想法，反而想要扑上来杀了我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　郑魁一脸苦涩，连声为自己辩解：“我说谢必安殉职了，他不止没有半点招供的想法，反而想要扑上来杀了我",
-        "”　　陆成江看着一脸讪笑的郑魁，越发气不打一处来",
-        "”　　话说到此处，郑魁已经心领神会，接着笑道：“所以子死父哀，鬼王达要是不想另一条黑鬼再死，就只能向大人您低头，用自己的命去换范无咎的命"
-      ],
-      "mention_count": 45
-    },
-    {
       "name": "陆成江",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "陆副千户"
+      ],
+      "identity": "锦衣卫副千户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第305章未时（二）",
-      "summary": "”　　陆成江不屑道：“你要是殉职了，我带着整个倭区锦衣卫给你请功",
+      "summary": "锦衣卫副千户，设计陷害鬼王达，心机深沉，手段狠辣。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "心机深沉",
+        "狠辣",
+        "善于算计"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　陆成江不屑道：“你要是殉职了，我带着整个倭区锦衣卫给你请功",
-        "”　　陆成江看着一脸讪笑的郑魁，越发气不打一处来",
-        "“不愧是纵横序五犀首，从头到尾把我死死拿捏在手中，陆成江你真是好手段啊"
+      "relationships": [
+        {
+          "target": "鬼王达",
+          "type": "敌对"
+        },
+        {
+          "target": "郑魁",
+          "type": "利用"
+        },
+        {
+          "target": "钱凤庭",
+          "type": "下属"
+        }
       ],
-      "mention_count": 33
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "设计激怒鬼王达，使其杀害郑魁，从而坐实其罪名。"
+        }
+      ],
+      "evidence": [
+        "陆成江缓缓摇了摇头，语气坚决道：“这次是一个千载难逢的良机，我们不能坐等事态发展，必须要把主动权掌握在自己手中。”",
+        "陆成江轻声道：“犬山城那两条黑白小鬼跟着他的时间不短...他们彼此之间是上下级，但更像是父子。”",
+        "陆成江直接打断钱凤庭苍白无力的辩解，斩钉截铁道：“苏大人回帝国本土述职，千户所一切事物由本官裁断！给本官立刻拿下重犯鬼王达，如敢反抗，就地格杀！”"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "陆成",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第305章未时（二）",
-      "summary": "”　　陆成江不屑道：“你要是殉职了，我带着整个倭区锦衣卫给你请功",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　陆成江不屑道：“你要是殉职了，我带着整个倭区锦衣卫给你请功",
-        "”　　陆成江看着一脸讪笑的郑魁，越发气不打一处来",
-        "“不愧是纵横序五犀首，从头到尾把我死死拿捏在手中，陆成江你真是好手段啊"
+      "name": "郑魁",
+      "aliases": [
+        "郑百户"
       ],
-      "mention_count": 22
+      "identity": "锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "死亡",
+      "first_appearance": "第305章未时（二）",
+      "summary": "锦衣卫百户，被陆成江利用，最终被鬼王达杀死。",
+      "appearance": [],
+      "personality": [
+        "怯懦",
+        "贪生怕死",
+        "谄媚"
+      ],
+      "abilities": [],
+      "equipment": [
+        "锦衣卫百户腰牌"
+      ],
+      "relationships": [
+        {
+          "target": "陆成江",
+          "type": "上级/被利用"
+        },
+        {
+          "target": "鬼王达",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陆成江派去激怒鬼王达，反被鬼王达杀死。"
+        }
+      ],
+      "evidence": [
+        "郑魁一脸苦涩，连声为自己辩解：“我说谢必安殉职了，他不止没有半点招供的想法，反而想要扑上来杀了我。”",
+        "郑魁愕然低头看向自己的心口，一只遍布灼烧痕迹械臂没入其中。",
+        "郑魁残缺的尸体被扔在钱凤庭脚下。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "鬼王达",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "鬼王达",
+        "老鬼"
+      ],
+      "identity": "犬山城百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第305章未时（二）",
-      "summary": "您刚才没进刑房，所以没看到，那个鬼王达他根本就是个不折不扣的疯子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "您刚才没进刑房，所以没看到，那个鬼王达他根本就是个不折不扣的疯子",
-        "”　　话说到此处，郑魁已经心领神会，接着笑道：“所以子死父哀，鬼王达要是不想另一条黑鬼再死，就只能向大人您低头，用自己的命去换范无咎的命",
-        "“鬼王达，我陆成江保证，这次谁也救不了你"
+      "summary": "犬山城百户，被陆成江设计陷害，最终失控杀人。",
+      "appearance": [
+        "赤裸械体",
+        "独眼",
+        "械臂"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "鬼王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第305章未时（二）",
-      "summary": "您刚才没进刑房，所以没看到，那个鬼王达他根本就是个不折不扣的疯子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "您刚才没进刑房，所以没看到，那个鬼王达他根本就是个不折不扣的疯子",
-        "”　　话说到此处，郑魁已经心领神会，接着笑道：“所以子死父哀，鬼王达要是不想另一条黑鬼再死，就只能向大人您低头，用自己的命去换范无咎的命",
-        "“鬼王达，我陆成江保证，这次谁也救不了你"
+      "personality": [
+        "鲁莽",
+        "重情义",
+        "暴躁"
       ],
-      "mention_count": 17
+      "abilities": [],
+      "equipment": [
+        "绣春刀",
+        "械体"
+      ],
+      "relationships": [
+        {
+          "target": "陆成江",
+          "type": "敌对"
+        },
+        {
+          "target": "郑魁",
+          "type": "敌对"
+        },
+        {
+          "target": "谢必安",
+          "type": "下属/父子般"
+        },
+        {
+          "target": "范无咎",
+          "type": "下属/父子般"
+        },
+        {
+          "target": "钱凤庭",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陆成江激怒，杀死郑魁，被锦衣卫包围。"
+        }
+      ],
+      "evidence": [
+        "鬼王达残存的独眼中，此刻已经恢复了焦距。",
+        "鬼王达独存的义眼之中，目光平静。",
+        "鬼王达现在被囚禁在刑房之中，所有与外界联系的方法都已经被切断。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "钱凤庭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "钱百户"
+      ],
+      "identity": "锦衣卫百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第305章未时（二）",
-      "summary": "在听到警报声响起的瞬间，钱凤庭心头立马跳出了一个令人心颤的念头",
+      "summary": "锦衣卫百户，试图劝阻鬼王达，但被陆成江压制。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "正直"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在听到警报声响起的瞬间，钱凤庭心头立马跳出了一个令人心颤的念头",
-        "”　　陆成江直接打断钱凤庭苍白无力的辩解，斩钉截铁道：“苏大人回帝国本土述职，千户所一切事物由本官裁断",
-        "”　　钱凤庭再也顾不得陆成江就在身侧，箭步冲到鬼王达面前，压着嗓子道：“等苏千户回来，一切还有转圜的余地，你要是再走错一步，就真的没有挽回的余地了"
+      "relationships": [
+        {
+          "target": "鬼王达",
+          "type": "同僚/朋友"
+        },
+        {
+          "target": "陆成江",
+          "type": "上级"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "劝阻鬼王达不要冲动，但被陆成江命令拿下鬼王达。"
+        }
+      ],
+      "evidence": [
+        "钱凤庭再也顾不得陆成江就在身侧，箭步冲到鬼王达面前，压着嗓子道：“等苏千户回来，一切还有转圜的余地...”",
+        "钱凤庭挡在鬼王达身前，沉声喝道。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "犬山",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第305章未时（二）",
-      "summary": "陆成江轻声道：“犬山城那两条黑白小鬼跟着他的时间不短，从他刚上百户的时候就为他冲锋陷阵",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陆成江轻声道：“犬山城那两条黑白小鬼跟着他的时间不短，从他刚上百户的时候就为他冲锋陷阵",
-        "只有犬山城，不止没有鸿鹄的人，连四大公司都只有一家设立了分部在那里",
-        "你们犬山城的人到底是来洗清罪名的，还是来劫狱抢人的"
+      "name": "谢必安",
+      "aliases": [
+        "黑鬼"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "犬山城",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "犬山城锦衣卫",
+      "faction": "锦衣卫",
+      "status": "疑似殉职",
       "first_appearance": "第305章未时（二）",
-      "summary": "陆成江轻声道：“犬山城那两条黑白小鬼跟着他的时间不短，从他刚上百户的时候就为他冲锋陷阵",
+      "summary": "鬼王达的下属，被陆成江用作激怒鬼王达的棋子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陆成江轻声道：“犬山城那两条黑白小鬼跟着他的时间不短，从他刚上百户的时候就为他冲锋陷阵",
-        "只有犬山城，不止没有鸿鹄的人，连四大公司都只有一家设立了分部在那里",
-        "你们犬山城的人到底是来洗清罪名的，还是来劫狱抢人的"
+      "relationships": [
+        {
+          "target": "鬼王达",
+          "type": "下属/父子般"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "钱凤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第305章未时（二）",
-      "summary": "在听到警报声响起的瞬间，钱凤庭心头立马跳出了一个令人心颤的念头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陆成江伪造殉职证据，实际生死不明。"
+        }
+      ],
       "evidence": [
-        "在听到警报声响起的瞬间，钱凤庭心头立马跳出了一个令人心颤的念头",
-        "”　　陆成江直接打断钱凤庭苍白无力的辩解，斩钉截铁道：“苏大人回帝国本土述职，千户所一切事物由本官裁断",
-        "”　　钱凤庭再也顾不得陆成江就在身侧，箭步冲到鬼王达面前，压着嗓子道：“等苏千户回来，一切还有转圜的余地，你要是再走错一步，就真的没有挽回的余地了"
+        "案牍上播放着一个画面，赫然正是兼六园中谢必安掷刀怒吼，继而被无数炮火吞没的场景。",
+        "陆成江轻声道：“犬山城那两条黑白小鬼跟着他的时间不短...他们彼此之间是上下级，但更像是父子。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "所有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "范无咎",
+      "aliases": [
+        "白鬼"
+      ],
+      "identity": "犬山城锦衣卫",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第305章未时（二）",
-      "summary": "所有的铺垫自己都已经安排到位，逼供鬼王达已经是水到渠成的事情",
+      "summary": "鬼王达的下属，随李钧前来救援鬼王达。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所有的铺垫自己都已经安排到位，逼供鬼王达已经是水到渠成的事情",
-        "鬼王达现在被囚禁在刑房之中，所有与外界联系的方法都已经被切断",
-        "”　　郑魁低头看着自己手中已经被封锁所有权限的锦衣卫百户腰牌，狰狞扭曲的脸上露出骇然和愤怒交织的神情"
+      "equipment": [
+        "绣春刀"
       ],
-      "mention_count": 5
+      "relationships": [
+        {
+          "target": "鬼王达",
+          "type": "下属/父子般"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随李钧从上方破顶而入，救援鬼王达。"
+        }
+      ],
+      "evidence": [
+        "范无咎和谢必安的身影跟着落下，分落在李钧左右。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "大人",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "犬山城锦衣卫",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第305章未时（二）",
-      "summary": "第305章未时（二）　　“大人，这您不能怪我啊",
-      "appearance": [],
+      "summary": "犬山城锦衣卫，破顶而入救援鬼王达。",
+      "appearance": [
+        "魁伟身躯",
+        "绣春刀闪动赤红光芒"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第305章未时（二）　　“大人，这您不能怪我啊",
-        "”　　话说到此处，郑魁已经心领神会，接着笑道：“所以子死父哀，鬼王达要是不想另一条黑鬼再死，就只能向大人您低头，用自己的命去换范无咎的命",
-        "”　　着急戴罪立功的郑魁拍着胸膛，信誓旦旦保证：“该如何行事，大人您尽管吩咐，这次我保证办妥"
+      "equipment": [
+        "绣春刀"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "大人您",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第305章未时（二）",
-      "summary": "”　　话说到此处，郑魁已经心领神会，接着笑道：“所以子死父哀，鬼王达要是不想另一条黑鬼再死，就只能向大人您低头，用自己的命去换范无咎的命",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　话说到此处，郑魁已经心领神会，接着笑道：“所以子死父哀，鬼王达要是不想另一条黑鬼再死，就只能向大人您低头，用自己的命去换范无咎的命",
-        "”　　着急戴罪立功的郑魁拍着胸膛，信誓旦旦保证：“该如何行事，大人您尽管吩咐，这次我保证办妥",
-        "”　　“大人您已经有主意了"
+      "relationships": [
+        {
+          "target": "鬼王达",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从上方破顶而入，与范无咎、谢必安一同救援鬼王达。"
+        }
+      ],
+      "evidence": [
+        "尘灰飞扬之中，一个魁伟的身躯落了下来，手中的绣春刀依旧闪动着赤红的光芒。"
+      ],
+      "mention_count": 2
     }
   ]
 }

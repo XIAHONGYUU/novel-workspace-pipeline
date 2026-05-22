@@ -1,251 +1,120 @@
 {
   "chunk_id": "chunk-0508",
-  "title": "第506章衣锦还乡",
   "characters": [
     {
       "name": "顾玺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "玺少爷"
+      ],
+      "identity": "成都县县令，顾家子弟",
+      "faction": "儒序",
       "status": "登场",
       "first_appearance": "第506章衣锦还乡",
-      "summary": "一身便装的顾玺刚刚步出车外，早就带着仆人候在门边的顾家主管便立马迎了上来",
+      "summary": "顾家庶出子弟，现任成都县县令，面临青城山和新东林党之间的压力，处境艰难。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "隐忍",
+        "挣扎",
+        "清醒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一身便装的顾玺刚刚步出车外，早就带着仆人候在门边的顾家主管便立马迎了上来",
-        "”　　顾玺看着面前神色谄媚的老人，眼底掠过一丝怅然",
-        "正是如今顾家的家主，顾玺的大伯，顾知微"
+      "relationships": [
+        {
+          "target": "顾知微",
+          "type": "大伯"
+        }
       ],
-      "mention_count": 27
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "返回金陵顾家祭祖，与伯父顾知微交谈，倾诉困境。"
+        }
+      ],
+      "evidence": [
+        "顾玺看着面前神色谄媚的老人，眼底掠过一丝怅然。",
+        "顾玺低着头说道：‘大伯，如今朝廷推行的新政已经完成了第一阶段，接下来恐怕会有更大的动作。’",
+        "顾玺一脸挣扎犹豫，却在深吸了一口气之后，用沙哑的声音说道：‘可是大伯，我真的快坚持不下去了。’"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "顾知",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "顾知微",
+      "aliases": [
+        "大伯",
+        "顾家家主"
+      ],
+      "identity": "顾家家主，顾玺的大伯",
+      "faction": "儒序",
       "status": "登场",
       "first_appearance": "第506章衣锦还乡",
-      "summary": "正是如今顾家的家主，顾玺的大伯，顾知微",
-      "appearance": [],
-      "personality": [],
+      "summary": "顾家现任家主，致仕后顾家失去新东林党成员名额，面临门阀跌落危机。",
+      "appearance": [
+        "高冠博带，衣着隆重",
+        "一头花白的头发"
+      ],
+      "personality": [
+        "和蔼",
+        "老练",
+        "有远见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正是如今顾家的家主，顾玺的大伯，顾知微",
-        "顾知微轻声道：“出仕只是我们儒序的第一步，你接下来要学的还有很多，寄人篱下、忍辱负重就是其中一堂必修课",
-        "站在一旁的顾知微看到这一幕，脸上露出淡淡笑意，和蔼道：“看来祖宗们对你的表现都很满意，起来吧"
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "大伯"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在祠堂与顾玺交谈，鼓励其坚持。"
+        }
+      ],
+      "evidence": [
+        "正是如今顾家的家主，顾玺的大伯，顾知微。",
+        "顾知微摘下头顶的沉重礼冠，露出一头花白的头发。",
+        "顾知微叹了口气：‘其实不单单是你，现在整个顾家的处境又何尝不难？’"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "顾家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "一身便装的顾玺刚刚步出车外，早就带着仆人候在门边的顾家主管便立马迎了上来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一身便装的顾玺刚刚步出车外，早就带着仆人候在门边的顾家主管便立马迎了上来",
-        "曾几何时，这位顾家总管在他的眼中也是得罪不起的重要人物，逢年过节大大小小的礼物从未断过",
-        "正是如今顾家的家主，顾玺的大伯，顾知微"
+      "name": "顾家主管",
+      "aliases": [
+        "老管家"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
+      "identity": "顾家总管",
       "faction": "",
       "status": "登场",
       "first_appearance": "第506章衣锦还乡",
-      "summary": "”　　在儒序门阀内部甚至还流传着一种说法，一个门阀的底蕴深厚与否，就取决于家族祠堂之中供奉的先人之脑有多少",
-      "appearance": [],
-      "personality": [],
+      "summary": "顾家主管，对顾玺态度谄媚，因顾玺成为县令而加倍还礼。",
+      "appearance": [
+        "满脸都是一层层堆积的褶子"
+      ],
+      "personality": [
+        "谄媚",
+        "感激"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在门口迎接顾玺，汇报家中安排。"
+        }
+      ],
       "evidence": [
-        "”　　在儒序门阀内部甚至还流传着一种说法，一个门阀的底蕴深厚与否，就取决于家族祠堂之中供奉的先人之脑有多少",
-        "这里鱼龙混杂的程度远甚于你所在的成都府，甚至连裴行俭坐镇的重庆府也难以望其项背",
-        "甚至他可以很确定，新东林党和道序青城山一定会把成都县当成交锋之地，试探对方的底线和实力"
+        "早就带着仆人候在门边的顾家主管便立马迎了上来。",
+        "老管家满脸都是一层层堆积的褶子，缝隙之中全是感激涕零的笑意。"
       ],
       "mention_count": 4
-    },
-    {
-      "name": "一边",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "顾知微摘下头顶的沉重礼冠，露出一头花白的头发，一边朝着祠堂外走去，一边向身边的顾玺轻声问道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾知微摘下头顶的沉重礼冠，露出一头花白的头发，一边朝着祠堂外走去，一边向身边的顾玺轻声问道"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "而且还会将顾家内部的各种动向和消息，事无巨细，悄悄传递给自己",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且还会将顾家内部的各种动向和消息，事无巨细，悄悄传递给自己",
-        "老管家笑道：“而且老爷也说了，等老奴哪天五脏六腑不顶事的时候，顾家会出钱帮我替换，会赏给老奴一个舒舒服服的晚年"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "修缮",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "修缮一新的顾氏宅楼正门前，一辆车驾缓缓停下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "修缮一新的顾氏宅楼正门前，一辆车驾缓缓停下"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "但自从自己当上成都县的县令之后，对方不只将这些年收的礼全部折成现金当成贺礼加倍奉还了回来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但自从自己当上成都县的县令之后，对方不只将这些年收的礼全部折成现金当成贺礼加倍奉还了回来",
-        "甚至他可以很确定，新东林党和道序青城山一定会把成都县当成交锋之地，试探对方的底线和实力",
-        "”　　在他还没有成为成都县县令之前，就曾经派人去绵州县的杨家争夺过对方先祖遗留的脑组织切片"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "只能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "自己却连半句狠话都不敢说，只能强撑着赔笑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "自己却连半句狠话都不敢说，只能强撑着赔笑",
-        "丢不开也抓不稳，只能自己咬着牙忍着痛，苦苦坚持",
-        "但不管再难，你也只能继续咬牙挺住啊"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "祠堂",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "在祠堂的深处，是一座足有丈高的祭台",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在祠堂的深处，是一座足有丈高的祭台",
-        "没有去见自己的亲人家眷，顾玺直接上了宅楼的顶层，来到了那座不少顾家子弟终其一生恐怕都没有资格进入的家族祠堂",
-        "祠堂的大门开着，足有三进的院子随处可见高挂的牌匾和楹联"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "像‘诗书传世、耕读传家’这一类的言辞数不胜数，看得人眼花缭乱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "像‘诗书传世、耕读传家’这一类的言辞数不胜数，看得人眼花缭乱",
-        "站在一旁的顾知微看到这一幕，脸上露出淡淡笑意，和蔼道：“看来祖宗们对你的表现都很满意，起来吧",
-        "这一点，顾玺你能明白吗"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "你接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第506章衣锦还乡",
-      "summary": "顾知微轻声道：“出仕只是我们儒序的第一步，你接下来要学的还有很多，寄人篱下、忍辱负重就是其中一堂必修课",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾知微轻声道：“出仕只是我们儒序的第一步，你接下来要学的还有很多，寄人篱下、忍辱负重就是其中一堂必修课"
-      ],
-      "mention_count": 3
     }
   ]
 }

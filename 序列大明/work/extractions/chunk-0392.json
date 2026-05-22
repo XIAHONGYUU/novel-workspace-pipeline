@@ -1,246 +1,485 @@
 {
   "chunk_id": "chunk-0392",
-  "title": "第390章明王的选择",
   "characters": [
     {
-      "name": "燃灯",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明王",
+      "aliases": [
+        "百户明王"
+      ],
+      "identity": "江户城锦衣卫百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第390章明王的选择",
-      "summary": "燃灯咬着嘴唇，沉默良久之后才艰难点头",
+      "summary": "江户城锦衣卫百户，佛序僧人，在江户城锦衣卫百户所报告中身受重伤，实则安然无恙。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "神色沉静",
+        "表情安然",
+        "淡然",
+        "霸道"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "燃灯咬着嘴唇，沉默良久之后才艰难点头",
-        "”　　燃灯不满道：“但是阎君这次摆明了就是借着清缴镰仓的借口去找角木蛟的麻烦，千户大人居然还是放纵不管，他难道真不担心阎君的行为闹得咱们锦衣卫内部人心离散",
-        "燃灯不甘问道：“那我什么时候能回来"
+      "relationships": [
+        {
+          "target": "燃灯",
+          "type": "师弟"
+        },
+        {
+          "target": "苏策",
+          "type": "千户"
+        },
+        {
+          "target": "阎君",
+          "type": "同僚"
+        },
+        {
+          "target": "角木蛟",
+          "type": "同僚"
+        },
+        {
+          "target": "孔雀",
+          "type": "下属"
+        }
       ],
-      "mention_count": 22
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在经堂与燃灯对话，安排燃灯返回帝国本土。"
+        }
+      ],
+      "evidence": [
+        "在江户城锦衣卫百户所报告中，因为急于擒活鸿鹄贼首而身受重伤的百户明王，此刻正盘腿坐在佛陀身前，神色沉静，表情安然，浑身上下看不出半点重伤的痕迹。",
+        "明王神色淡然平静，语气中不见半点波澜。",
+        "明王抬手拍了拍燃灯的肩头，语气随意。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "燃灯",
+      "aliases": [
+        "少年僧人",
+        "师弟"
+      ],
+      "identity": "明王的师弟，汉传僧人",
+      "faction": "佛序",
+      "status": "登场",
+      "first_appearance": "第390章明王的选择",
+      "summary": "明王的师弟，性格直率，对苏策和阎君不满，被明王安排返回帝国本土。",
+      "appearance": [
+        "唇红齿白"
+      ],
+      "personality": [
+        "大大咧咧",
+        "不满",
+        "粗鄙"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "师兄"
+        },
+        {
+          "target": "苏策",
+          "type": "千户"
+        },
+        {
+          "target": "阎君",
+          "type": "不满"
+        },
+        {
+          "target": "角木蛟",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与明王对话，表达对苏策和阎君的不满，被明王安排返回帝国本土。"
+        }
+      ],
+      "evidence": [
+        "唇红齿白的少年僧人大大咧咧的嚷嚷着，一把推开面前虚掩的房门。",
+        "燃灯瞪大了眼睛，口中言语粗鄙，毫无一名汉传僧人该有的审慎庄重。",
+        "燃灯一屁股坐到明王身边，咂摸着嘴巴。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "孔雀",
+      "aliases": [
+        "第一总旗"
+      ],
+      "identity": "倭区第一总旗",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第390章明王的选择",
+      "summary": "明王的下属，黑色劲装，齐耳短发，气质凶悍，与袁明妃敌对。",
+      "appearance": [
+        "黑色劲装",
+        "齐耳短发",
+        "眉眼锐利",
+        "气质凶悍"
+      ],
+      "personality": [
+        "莽撞",
+        "凶悍"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "上司"
+        },
+        {
+          "target": "袁明妃",
+          "type": "敌对"
+        },
+        {
+          "target": "范无咎",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁明妃对峙，被范无咎打断。"
+        }
+      ],
+      "evidence": [
+        "赫然正是号称整个倭区第一总旗的孔雀！",
+        "黑色劲装，齐耳短发，眉眼锐利，气质凶悍。",
+        "孔雀眼眸发冷，一身戾气翻涌。"
+      ],
+      "mention_count": 8
     },
     {
       "name": "袁明妃",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第390章明王的选择",
-      "summary": "袁明妃眼神摇晃，媚意无边：“真的不进来吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "袁明妃眼神摇晃，媚意无边：“真的不进来吗",
-        "”　　袁明妃一手捏着大红色的裙角，一手抓着烟杆将散乱的鬓发撩到耳后，抬头看向那道站在乌骓残骸上的身影",
-        "”　　袁明妃脸色肃穆：“道六山水郎，在现在的倭区可占不到便宜了"
+      "aliases": [
+        "袁姐"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "陈乞生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "佛序，佛妓",
+      "faction": "佛序",
       "status": "登场",
       "first_appearance": "第390章明王的选择",
-      "summary": "陈乞生脸上笑容一僵，“其实.贫道我的性格比较保守，追求现世的真理，不喜欢虚幻的情欲",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈乞生脸上笑容一僵，“其实.贫道我的性格比较保守，追求现世的真理，不喜欢虚幻的情欲",
-        "”　　陈乞生一副神棍模样，打着机锋",
-        "”　　车窗降下，露出陈乞生那张不修边幅，却依旧难掩俊朗的面容"
+      "summary": "佛序女子，与陈乞生有交集，与孔雀敌对。",
+      "appearance": [
+        "大红色裙摆",
+        "满头乌黑的青丝",
+        "修长烟杆"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "明王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第390章明王的选择",
-      "summary": "第390章明王的选择　　“师兄，我听说冈山城的角木蛟给你发了十几次黄粱梦境的链接邀请，都被你给拒了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第390章明王的选择　　“师兄，我听说冈山城的角木蛟给你发了十几次黄粱梦境的链接邀请，都被你给拒了",
-        "在江户城锦衣卫百户所报告中，因为急于擒活鸿鹄贼首而身受重伤的百户明王，此刻正盘腿坐在佛陀身前，神色沉静，表情安然，浑身上下看不出半点重伤的痕迹",
-        "明王神色淡然平静，语气中不见半点波澜，“连宣慰使李不逢这些年都夹着尾巴做人，锦衣卫内部就算有什么不满，谁又能闹出什么风波"
+      "personality": [
+        "慵懒妩媚",
+        "风情"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "袁明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第390章明王的选择",
-      "summary": "袁明妃眼神摇晃，媚意无边：“真的不进来吗",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "袁明妃眼神摇晃，媚意无边：“真的不进来吗",
-        "”　　袁明妃一手捏着大红色的裙角，一手抓着烟杆将散乱的鬓发撩到耳后，抬头看向那道站在乌骓残骸上的身影",
-        "”　　袁明妃脸色肃穆：“道六山水郎，在现在的倭区可占不到便宜了"
+      "equipment": [
+        "烟杆"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "陈乞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第390章明王的选择",
-      "summary": "陈乞生脸上笑容一僵，“其实.贫道我的性格比较保守，追求现世的真理，不喜欢虚幻的情欲",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "相识"
+        },
+        {
+          "target": "孔雀",
+          "type": "敌对"
+        },
+        {
+          "target": "范无咎",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与陈乞生告别，与孔雀对峙。"
+        }
+      ],
       "evidence": [
-        "陈乞生脸上笑容一僵，“其实.贫道我的性格比较保守，追求现世的真理，不喜欢虚幻的情欲",
-        "”　　陈乞生一副神棍模样，打着机锋",
-        "”　　车窗降下，露出陈乞生那张不修边幅，却依旧难掩俊朗的面容"
+        "袁明妃一手捏着大红色的裙角，一手抓着烟杆将散乱的鬓发撩到耳后。",
+        "一点红唇微启，传出慵懒妩媚的声线。",
+        "袁明妃眯着眼，上下打量着孔雀。"
       ],
       "mention_count": 10
     },
     {
-      "name": "孔雀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "陈乞生",
+      "aliases": [
+        "道六山水郎"
+      ],
+      "identity": "龙虎山天师，锦衣卫特聘客卿",
+      "faction": "道序",
       "status": "登场",
       "first_appearance": "第390章明王的选择",
-      "summary": "脑后劲风呼啸，孔雀回身一拳将袭来的刀光砸开",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "脑后劲风呼啸，孔雀回身一拳将袭来的刀光砸开",
-        "”　　对于范无咎的出现，孔雀显然早已经预料到",
-        "明王眸光晦暗难明，“孔雀她啊，应该也要走了"
+      "summary": "龙虎山天师，性格不修边幅，追求长生，与袁明妃告别。",
+      "appearance": [
+        "不修边幅",
+        "俊朗面容",
+        "脑后的马尾"
       ],
-      "mention_count": 9
+      "personality": [
+        "神棍",
+        "不修边幅",
+        "幽默"
+      ],
+      "abilities": [],
+      "equipment": [
+        "乌骓车"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "相识"
+        },
+        {
+          "target": "范无咎",
+          "type": "同僚"
+        },
+        {
+          "target": "李钧",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁明妃告别，离开犬山城。"
+        }
+      ],
+      "evidence": [
+        "陈乞生毫无半点龙虎山天师的风范，把脑袋伸出窗外。",
+        "陈乞生一副神棍模样，打着机锋。",
+        "陈乞生叹气道：'我好不容易混到一个锦衣卫特聘客卿的身份'"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "那我",
+      "name": "范无咎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第390章明王的选择",
-      "summary": "燃灯不甘问道：“那我什么时候能回来",
+      "summary": "锦衣卫成员，与袁明妃敌对，听从陈乞生指挥。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "粗犷"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "敌对"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同僚"
+        },
+        {
+          "target": "孔雀",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁明妃对峙，被陈乞生催促动手。"
+        }
+      ],
+      "evidence": [
+        "范无咎抓着绣春刀，在袁明妃身旁站定。",
+        "范无咎的出现，孔雀显然早已经预料到。",
+        "陈乞生朝着范无咎怒声吼道：'赶紧宰了'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "角木蛟",
+      "aliases": [],
+      "identity": "冈山城锦衣卫",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第390章明王的选择",
+      "summary": "冈山城锦衣卫，曾反水，被阎君差点打死。",
+      "appearance": [],
+      "personality": [
+        "脑后生有反骨",
+        "利欲熏心",
+        "怕死"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "同僚"
+        },
+        {
+          "target": "阎君",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "燃灯不甘问道：“那我什么时候能回来",
-        "”　　他单手压着窗边，笑容灿烂：“不过袁姐你如果真想跟贫道我一起纵横倭区，那我也不介意",
-        "既然他苏策要独断专行，那我们也不能坐以待毙"
+        "角木蛟为了自己的利益，竟然敢在评议会议上反水摆我们一道。",
+        "角木蛟这个人虽然脑后生有反骨，但同时也是个利欲熏心的怕死货色。",
+        "这次阎君差点把他打死，足以让角木蛟看清局面。"
       ],
       "mention_count": 5
     },
     {
-      "name": "还是",
+      "name": "阎君",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "犬山城锦衣卫",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第390章明王的选择",
-      "summary": "”　　燃灯不满道：“但是阎君这次摆明了就是借着清缴镰仓的借口去找角木蛟的麻烦，千户大人居然还是放纵不管，他难道真不担心阎君的行为闹得咱们锦衣卫内部人心离散",
+      "summary": "犬山城锦衣卫，被苏策保着上位，行事凶残。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "凶残"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "被保"
+        },
+        {
+          "target": "角木蛟",
+          "type": "敌对"
+        },
+        {
+          "target": "燃灯",
+          "type": "不满"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　燃灯不满道：“但是阎君这次摆明了就是借着清缴镰仓的借口去找角木蛟的麻烦，千户大人居然还是放纵不管，他难道真不担心阎君的行为闹得咱们锦衣卫内部人心离散",
-        "还是说就这样丢了锦衣卫的身份",
-        "”　　范无咎抓着绣春刀，在袁明妃身旁站定，“你这个臭娘们，老子早就看你不顺眼了，今天就来试试看，到底是你的嘴硬，还是老子的刀硬"
+        "苏策如今手腕变得这般强硬激进，明显是要保着阎君顺利上位！",
+        "他在大阪城强杀了新上任的百户真君，这事情做的可比鸿鹄还要凶残。",
+        "阎君这次摆明了就是借着清缴镰仓的借口去找角木蛟的麻烦。"
       ],
       "mention_count": 5
     },
     {
-      "name": "师兄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "苏策",
+      "aliases": [
+        "苏千户"
+      ],
+      "identity": "倭区锦衣卫千户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第390章明王的选择",
-      "summary": "第390章明王的选择　　“师兄，我听说冈山城的角木蛟给你发了十几次黄粱梦境的链接邀请，都被你给拒了",
+      "summary": "倭区锦衣卫千户，手腕强硬激进，保着阎君上位。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "强硬激进"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "阎君",
+          "type": "保举"
+        },
+        {
+          "target": "明王",
+          "type": "下属"
+        },
+        {
+          "target": "燃灯",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "第390章明王的选择　　“师兄，我听说冈山城的角木蛟给你发了十几次黄粱梦境的链接邀请，都被你给拒了",
-        "”　　“师兄你放心，我已经听说了，角木蛟为了自己的利益，竟然敢在评议会议上反水摆我们一道",
-        "”　　他抬头看向明王，神情真挚：“师兄，我知道你刚才那些话是在宽慰我，说白了我这次是被倭区锦衣卫给驱逐了，要想回来恐怕只有等那个人死了才有机会"
+        "苏策如今手腕变得这般强硬激进，明显是要保着阎君顺利上位！",
+        "他是锦衣卫的千户，更是倭区一手遮天的王侯。",
+        "黑龙资本的事情，苏策已经对我们有所不满了。"
       ],
-      "mention_count": 4
+      "mention_count": 5
     },
     {
-      "name": "我知道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "真君",
+      "aliases": [
+        "余沧海"
+      ],
+      "identity": "原青城集团股东后代，新上任百户",
+      "faction": "道序",
+      "status": "提及",
       "first_appearance": "第390章明王的选择",
-      "summary": "”　　“我知道了，我这就去把事情安排妥当",
+      "summary": "原青城集团股东后代，因勾结鸿鹄被清退，后任百户，被阎君强杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "阎君",
+          "type": "被杀害"
+        },
+        {
+          "target": "平安王",
+          "type": "勾结"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“我知道了，我这就去把事情安排妥当",
-        "”　　他抬头看向明王，神情真挚：“师兄，我知道你刚才那些话是在宽慰我，说白了我这次是被倭区锦衣卫给驱逐了，要想回来恐怕只有等那个人死了才有机会",
-        "“我知道，但总归要拼一次吧"
+        "真君，本名余沧海，原本是道序青城集团的一名股东后代。",
+        "在帝国本土就有勾结鸿鹄的前科，所以才被青城集团抓住把柄清退了出来。",
+        "他在大阪城强杀了新上任的百户真君。"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "语气",
+      "name": "李钧",
+      "aliases": [],
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第390章明王的选择",
+      "summary": "锦衣卫成员，与陈乞生相识。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "相识"
+        },
+        {
+          "target": "袁明妃",
+          "type": "相识"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "等我真被人打得抱头鼠窜的时候，李钧也能麻溜点来救我。",
+        "你可以等着李钧办完手里的事情。",
+        "我会把你离开的消息转达给李钧。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "明智长野",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第390章明王的选择",
-      "summary": "明王神色淡然平静，语气中不见半点波澜，“连宣慰使李不逢这些年都夹着尾巴做人，锦衣卫内部就算有什么不满，谁又能闹出什么风波",
+      "summary": "被谢必安锁定藏身位置的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -248,11 +487,90 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "明王神色淡然平静，语气中不见半点波澜，“连宣慰使李不逢这些年都夹着尾巴做人，锦衣卫内部就算有什么不满，谁又能闹出什么风波",
-        "”　　明王语气淡漠：“用不着理他",
-        "”　　“你可以等着李钧办完手里的事情.”　　明王抬手拍了拍燃灯的肩头，语气随意"
+        "这次谢必安好不容易帮我锁定明智长野的藏身位置。"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "谢必安",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第390章明王的选择",
+      "summary": "帮助锁定明智长野藏身位置的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "这次谢必安好不容易帮我锁定明智长野的藏身位置。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "明智晴秀",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第390章明王的选择",
+      "summary": "被悬赏的人物，拿到其脑袋可获递补地仙名额。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "这次是上面发话了，谁能把明智晴秀的脑袋拿回去，谁就能拿到那个递补地仙的名额。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "平安王",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第390章明王的选择",
+      "summary": "与真君暗通款曲的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "真君",
+          "type": "勾结"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "没想到他到了倭区之后居然还是贼心不死，和平安王暗通款曲。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李不逢",
+      "aliases": [],
+      "identity": "宣慰使",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第390章明王的选择",
+      "summary": "宣慰使，夹着尾巴做人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "连宣慰使李不逢这些年都夹着尾巴做人。"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,253 +1,272 @@
 {
   "chunk_id": "chunk-0238",
-  "title": "第十一章 程天凶",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "薛保侯"
+      ],
+      "identity": "关外武人，半神级高手",
       "faction": "",
       "status": "登场",
       "first_appearance": "第十一章 程天凶",
-      "summary": "若只是如此，戚笼是不会跟他计较的，哪怕她张牙舞爪，找一大堆帮手围堵他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "若只是如此，戚笼是不会跟他计较的，哪怕她张牙舞爪，找一大堆帮手围堵他",
-        "但问题是，她触及了戚笼的底线，这底线就是武道对于武人的恩赐",
-        "这世上若无武道，别说报仇了，以戚笼宁折不弯的性子，八代贫农的家底，早就被人活活打死了"
+      "summary": "主角，拥有龙脉之力，修炼佛心种魔大法，性格桀骜霸气，对武道怀有感激之心。",
+      "appearance": [
+        "近一丈高的身形，肌肉雄起如山，龙鳞覆盖"
       ],
-      "mention_count": 27
+      "personality": [
+        "桀骜霸气",
+        "宁折不弯",
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "龙脉之力",
+        "佛心种魔大法",
+        "补空道",
+        "丹劲"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "程离",
+          "type": "敌对"
+        },
+        {
+          "target": "程天凶",
+          "type": "结拜兄弟（表面）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在承天堡外与程天凶交手，后受邀入堡，暗中探查并发现百媚夫人与程肆然的私情。"
+        }
+      ],
+      "evidence": [
+        "戚笼任由他这么做，十息过后，屈指一弹，指头对着对方肩头轻轻一按。",
+        "戚笼猛然抬头，只见天空之上，忽然浮现了一道巨大的黑影",
+        "戚笼表面上是在闭目养神，其实佛心种魔大法无时无刻不在运转"
+      ],
+      "mention_count": 20
     },
     {
       "name": "程离",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "程家二小姐"
+      ],
+      "identity": "程家二小姐",
+      "faction": "承天堡程家",
       "status": "登场",
       "first_appearance": "第十一章 程天凶",
-      "summary": "眼前这个模样俏丽，短发齐耳的少女，便是程家二小姐程离",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "眼前这个模样俏丽，短发齐耳的少女，便是程家二小姐程离",
-        "程离眼眶都红了，她在承天堡是公主，所有人宠着她爱着她，谁敢于这么折辱她",
-        "”    程离从怀中拔出短刀，疯狂刺向戚笼"
+      "summary": "程家二小姐，骄蛮任性，因折辱武人而触怒戚笼，被当众羞辱。",
+      "appearance": [
+        "模样俏丽，短发齐耳"
       ],
-      "mention_count": 11
+      "personality": [
+        "骄蛮",
+        "任性"
+      ],
+      "abilities": [],
+      "equipment": [
+        "精品道器短刀"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "程天凶",
+          "type": "父女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼当众按跪羞辱，精神崩溃。"
+        }
+      ],
+      "evidence": [
+        "眼前这个模样俏丽，短发齐耳的少女，便是程家二小姐程离。",
+        "程离眼眶都红了，她在承天堡是公主，所有人宠着她爱着她",
+        "程离在一瞬间又被按跪。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "便是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "程天凶",
+      "aliases": [
+        "程堡主",
+        "老哥"
+      ],
+      "identity": "承天堡堡主，前半神",
+      "faction": "承天堡程家",
       "status": "登场",
       "first_appearance": "第十一章 程天凶",
-      "summary": "眼前这个模样俏丽，短发齐耳的少女，便是程家二小姐程离",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "承天堡堡主，宗师级前半神，拥有鬼庭之力，与戚笼表面结拜。",
+      "appearance": [
+        "坐在轮椅上，极为衰老的老人"
+      ],
+      "personality": [
+        "豪迈",
+        "小人得志"
+      ],
+      "abilities": [
+        "鬼庭之力",
+        "宗师级实力"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "结拜兄弟（表面）"
+        },
+        {
+          "target": "程离",
+          "type": "父女"
+        },
+        {
+          "target": "百媚夫人",
+          "type": "夫妻"
+        },
+        {
+          "target": "程肆然",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼交手后，邀请其入堡设宴。"
+        }
+      ],
       "evidence": [
-        "眼前这个模样俏丽，短发齐耳的少女，便是程家二小姐程离",
-        "如果说生气对应的是死气，那么承天堡给他的感受，便是在无止尽的奢华豪富之中，那种一点一滴的腐烂、堕落",
-        "而土系拳术若想大成，便是不断积累这些被人体排泄、消耗、更新换代的力量，演化出浊气"
+        "戚笼猛然抬头，只见天空之上，忽然浮现了一道巨大的黑影，黑气滚滚间，构成了一张沟壑纵横的老脸。",
+        "而在堡中，老人面色一白，猛然折断了扶手，咬牙切齿，“小人得志！”",
+        "戚笼见到了第一次见到了程天凶，是一个坐在轮椅上，看上去极为衰老的老人。"
       ],
       "mention_count": 6
     },
     {
-      "name": "应该",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "百媚夫人",
+      "aliases": [
+        "二夫人"
+      ],
+      "identity": "程天凶的二夫人",
+      "faction": "承天堡程家",
       "status": "登场",
       "first_appearance": "第十一章 程天凶",
-      "summary": "”    ‘龙脉之力直接消耗了五成，鬼庭果然能克制龙脉，但是程天凶本人却是宗师，不，应该说是前半神，我能感受到他精神上的伤势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    ‘龙脉之力直接消耗了五成，鬼庭果然能克制龙脉，但是程天凶本人却是宗师，不，应该说是前半神，我能感受到他精神上的伤势",
-        "’    ‘程天凶至少是宗师，以他的地位，应该不缺神道兵，传说中的天子神兵或许都有，而且堡内守卫力量严密，四大铁神卫也是宗师，刺杀他，普通半神都是有去无回",
-        "’    ‘当年的亡国七灾，应该都被封印，或是离开了吧"
+      "summary": "程天凶的二夫人，与六公子程肆然有私情，疑似与亡国七灾中的刑五官有关。",
+      "appearance": [
+        "国色天香，粉红脸颊，流转眼眸"
       ],
-      "mention_count": 6
+      "personality": [],
+      "abilities": [
+        "灾厄地狱（疑似）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "程天凶",
+          "type": "夫妻"
+        },
+        {
+          "target": "程肆然",
+          "type": "情人（后母与继子）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与程肆然私通时察觉戚笼窥视，施展灾厄地狱反窥未果。"
+        }
+      ],
+      "evidence": [
+        "女人张开嘴，粉红的脸颊、流转的眼眸、鼻尖的汗珠、桃绽似的唇，无一不彰显着国色天香。",
+        "然而在下一刻，那沉醉于男女之欢的百媚夫人突然柳眉一皱，眼中黑光一闪，直直望向戚笼方向。",
+        "那黑光之中，好似藏有一重又一重的地狱。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "薛保侯",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "程肆然",
+      "aliases": [
+        "六公子"
+      ],
+      "identity": "程天凶的六公子",
+      "faction": "承天堡程家",
       "status": "登场",
       "first_appearance": "第十一章 程天凶",
-      "summary": "而和薛保侯的恩怨也很简单，薛保侯看上她，她没看上薛保侯，结果双方差点打起来",
-      "appearance": [],
+      "summary": "程天凶的六公子，与后母百媚夫人有私情。",
+      "appearance": [
+        "细皮嫩肉的脸上，正陷入某种狂热"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而和薛保侯的恩怨也很简单，薛保侯看上她，她没看上薛保侯，结果双方差点打起来",
-        "这很让戚笼厌恶，而好就好在，薛保侯本身就是桀骜霸气的性格",
-        "”    “关外薛保侯，他不是宗师吗"
+      "relationships": [
+        {
+          "target": "百媚夫人",
+          "type": "情人"
+        },
+        {
+          "target": "程天凶",
+          "type": "父子"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与百媚夫人私通时被戚笼窥见。"
+        }
+      ],
+      "evidence": [
+        "至于男人，或者称之为少年，细皮嫩肉的脸上，正陷入某种狂热",
+        "英俊的少年、貌美的后母"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "二人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "五脏冥王",
+      "aliases": [
+        "铁神卫"
+      ],
+      "identity": "铁神卫之一，土系拳术大宗师",
+      "faction": "承天堡程家",
       "status": "登场",
       "first_appearance": "第十一章 程天凶",
-      "summary": "二人近在咫尺，有龙脉的精神气场镇压，狗武人也不敢冒进，只是龇牙咧嘴，在四周逡巡不前，生怕戚笼撕票",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "二人近在咫尺，有龙脉的精神气场镇压，狗武人也不敢冒进，只是龇牙咧嘴，在四周逡巡不前，生怕戚笼撕票",
-        "二人对视一眼，表情都微微一僵"
+      "summary": "程天凶的铁神卫，土系拳术大成宗师，负责监视戚笼。",
+      "appearance": [
+        "高大的身影，盔甲样式像天神兵，甲缝中溢出灰气"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "龙脉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十一章 程天凶",
-      "summary": "二人近在咫尺，有龙脉的精神气场镇压，狗武人也不敢冒进，只是龇牙咧嘴，在四周逡巡不前，生怕戚笼撕票",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "二人近在咫尺，有龙脉的精神气场镇压，狗武人也不敢冒进，只是龇牙咧嘴，在四周逡巡不前，生怕戚笼撕票",
-        "’    戚笼心中一动，表面却是哈哈大笑，龙脉之力全数展开，顿时，近一丈高的身形再度高长，血水流淌的声音像是激流，而肌肉则像是雄起的大山",
-        "”    单论程度，或许比不上半神火烧身之后的纯粹，但论起气势和范围，龙脉不做第二想"
+      "personality": [
+        "麻木，像机器"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十一章 程天凶",
-      "summary": "程离看在眼里，彻底吓呆了，这是什么怪物",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "程离看在眼里，彻底吓呆了，这是什么怪物",
-        "“好恐怖的气势，这是谁人",
-        "这是‘薛保侯’极限状态，补空道与龙脉合一，施展十二分的大杀招"
+      "abilities": [
+        "土系拳术大成，浊气"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "要么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十一章 程天凶",
-      "summary": "’    ‘所以要先杀他，要么把他引到承天堡外，不让他借用这股力量，要么就近身刺杀，让他在使用这股力量前，就被杀害",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "’    ‘所以要先杀他，要么把他引到承天堡外，不让他借用这股力量，要么就近身刺杀，让他在使用这股力量前，就被杀害"
+      "equipment": [
+        "天神兵样式盔甲"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "程天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十一章 程天凶",
-      "summary": "第十一章 程天凶    最快更新刀笼最新章节",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第十一章 程天凶    最快更新刀笼最新章节",
-        "”    ‘龙脉之力直接消耗了五成，鬼庭果然能克制龙脉，但是程天凶本人却是宗师，不，应该说是前半神，我能感受到他精神上的伤势",
-        "’    ‘程天凶至少是宗师，以他的地位，应该不缺神道兵，传说中的天子神兵或许都有，而且堡内守卫力量严密，四大铁神卫也是宗师，刺杀他，普通半神都是有去无回"
+      "relationships": [
+        {
+          "target": "程天凶",
+          "type": "属下"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "薛保",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十一章 程天凶",
-      "summary": "而和薛保侯的恩怨也很简单，薛保侯看上她，她没看上薛保侯，结果双方差点打起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而和薛保侯的恩怨也很简单，薛保侯看上她，她没看上薛保侯，结果双方差点打起来",
-        "这很让戚笼厌恶，而好就好在，薛保侯本身就是桀骜霸气的性格",
-        "”    “关外薛保侯，他不是宗师吗"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领戚笼前往宴席。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "我要杀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十一章 程天凶",
-      "summary": "“我要杀了你，我要杀了你",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“我要杀了你，我要杀了你"
+        "忽然一座高大的身影挡在了门口，“侯爷，宴席开始了。”",
+        "铁神卫，五脏冥王。",
+        "从厚甲面具中，传来麻木的声音，像是机器。"
       ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

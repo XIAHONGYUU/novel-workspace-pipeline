@@ -1,78 +1,168 @@
 {
   "chunk_id": "chunk-0462",
-  "title": "第四百五十九章 回归山庄（下）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "林新缓缓在高位上坐下，看着下面两侧纷纷赶到的一众老人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新缓缓在高位上坐下，看着下面两侧纷纷赶到的一众老人",
-        "”　　林新媛大步冲进来，神色激动的看着他",
-        "”　　她一个踏步上前紧紧抱住林新"
+      "aliases": [
+        "庄主"
       ],
-      "mention_count": 39
-    },
-    {
-      "name": "独孤霖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "灵心山庄庄主",
+      "faction": "松林剑派",
       "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "赫然是许久不见的独孤霖",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "灵心山庄庄主，离开四年后回归，修为已至元景层面。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赫然是许久不见的独孤霖",
-        "“独孤霖师姐",
-        "独孤霖冷笑一声"
+      "personality": [
+        "怜惜",
+        "冷静"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "独孤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "赫然是许久不见的独孤霖",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赫然是许久不见的独孤霖",
-        "“独孤霖师姐",
-        "独孤霖冷笑一声"
+      "abilities": [
+        "隐匿阵盘"
       ],
-      "mention_count": 14
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新媛",
+          "type": "表妹"
+        },
+        {
+          "target": "林志文",
+          "type": "父亲"
+        },
+        {
+          "target": "独孤霖",
+          "type": "师姐"
+        },
+        {
+          "target": "林阵",
+          "type": "儿子"
+        },
+        {
+          "target": "林罗",
+          "type": "弟子"
+        },
+        {
+          "target": "林缎",
+          "type": "弟子"
+        },
+        {
+          "target": "南顺青",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回归山庄，得知南顺青失踪。"
+        }
+      ],
+      "evidence": [
+        "林新缓缓在高位上坐下",
+        "林新起身上前，轻轻抱了抱林志文",
+        "林新苦笑了下"
+      ],
+      "mention_count": 30
     },
     {
       "name": "林新媛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "表妹"
+      ],
+      "identity": "林新表妹，山庄管理者",
+      "faction": "灵心山庄",
       "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "”　　林新媛大步冲进来，神色激动的看着他",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新表妹，四年间独自支撑山庄，面容已显老态。",
+      "appearance": [
+        "眼角爬上了鱼尾纹",
+        "皮肤失去了健康光泽"
+      ],
+      "personality": [
+        "激动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "表哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "冲进大厅拥抱林新。"
+        }
+      ],
+      "evidence": [
+        "林新媛大步冲进来，神色激动的看着他",
+        "她老了……眼角已经爬上了鱼尾纹"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "公孙离",
+      "aliases": [
+        "离老"
+      ],
+      "identity": "山庄老人供奉",
+      "faction": "灵心山庄",
+      "status": "已故",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "去年十月份寿终正寝，坐化于竹林小亭。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙雪",
+          "type": "孙女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "去年十月",
+          "event": "寿终正寝。"
+        }
+      ],
+      "evidence": [
+        "公孙离死了。就在去年的十月份，寿终正寝"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "公孙雪",
+      "aliases": [],
+      "identity": "公孙离孙女",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "公孙离的孙女，送离老最后一程。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙离",
+          "type": "孙女"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "送她的人只有她孙女公孙雪"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陆索道人",
+      "aliases": [],
+      "identity": "山庄老人供奉",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "山庄老人供奉之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -80,178 +170,404 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　林新媛大步冲进来，神色激动的看着他",
-        "可想而知这几年他离开后，林新媛一个人支撑山庄的压力有多大",
-        "”林新轻轻拍着林新媛的背，脸上流露出怜惜之色"
+        "陆索道人，三元禅师，欧映红，还有几个老人供奉"
       ],
-      "mention_count": 8
+      "mention_count": 1
+    },
+    {
+      "name": "三元禅师",
+      "aliases": [],
+      "identity": "山庄老人供奉",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "山庄老人供奉之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "陆索道人，三元禅师，欧映红，还有几个老人供奉"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "欧映红",
+      "aliases": [],
+      "identity": "山庄老人供奉",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "山庄老人供奉之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "陆索道人，三元禅师，欧映红，还有几个老人供奉"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "林志文",
+      "aliases": [
+        "老爹"
+      ],
+      "identity": "林新父亲",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新的父亲，见到儿子归来激动落泪。",
+      "appearance": [],
+      "personality": [
+        "激动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "儿子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "林志文也是不断点着头，狠狠用力抱着林新，眼眶湿润"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "林志武",
+      "aliases": [
+        "二伯"
+      ],
+      "identity": "林新二伯",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新的二伯。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "侄子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "二伯林志武等等一行人全部赶到"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵玉娘",
+      "aliases": [],
+      "identity": "林新母亲",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新的母亲，女眷之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "儿子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "母亲赵玉娘等女眷也纷纷赶来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "独孤霖",
+      "aliases": [
+        "独孤霖师姐"
+      ],
+      "identity": "松林剑派弟子，林新师姐",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新的师姐，修为接近金丹期，曾请师姐帮忙守护山庄。",
+      "appearance": [
+        "身材修长",
+        "黑发如瀑",
+        "眉间有银色竖痕"
+      ],
+      "personality": [
+        "冷笑",
+        "闷气"
+      ],
+      "abilities": [
+        "修为接近金丹期"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师姐弟"
+        },
+        {
+          "target": "铭心真君",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知林新局势恶劣，南顺青失踪。"
+        }
+      ],
+      "evidence": [
+        "一道虚影骤然射入大厅，缓缓落在林新身侧",
+        "独孤霖冷笑一声",
+        "她气息缥缈，比起四年前更加出众"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "林阵",
+      "aliases": [
+        "阵儿"
+      ],
+      "identity": "林新儿子",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新的儿子，已有沉稳之风。",
+      "appearance": [
+        "面容俊美",
+        "一身红袍",
+        "手里握着白纸扇"
+      ],
+      "personality": [
+        "沉着"
+      ],
+      "abilities": [],
+      "equipment": [
+        "白纸扇"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "父亲"
+        },
+        {
+          "target": "南顺青",
+          "type": "被救者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新行礼，承认大师兄为救自己而失踪。"
+        }
+      ],
+      "evidence": [
+        "一个面容俊美的年轻男子现出身形",
+        "林阵沉着点点头",
+        "大师兄，是为了救我"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "林罗",
+      "aliases": [],
+      "identity": "林新弟子",
+      "faction": "灵心山庄",
+      "status": "登场",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新的弟子，一身黑衣，面容阴鸷。",
+      "appearance": [
+        "一身黑衣",
+        "面容阴鸷"
+      ],
+      "personality": [
+        "面色冷酷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "老师"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "林罗林缎也到了。这家伙还是一身黑衣，面容阴鸷",
+        "老师，您终于回来了！"
+      ],
+      "mention_count": 3
     },
     {
       "name": "林缎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新弟子，医毒双修",
+      "faction": "灵心山庄",
       "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "然后很快，林罗林缎也到了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "然后很快，林罗林缎也到了",
-        "林缎一身素白，容貌秀美宁静，她因为身中奇毒而无法修炼，倒是继承了公孙离离老的一身医术，甚至还自己钻研出一身毒术，在山庄里是最为特殊的存在",
-        "林缎则是面带微笑，望向林新面容"
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新的弟子，因中毒无法修炼，继承公孙离医术并钻研毒术。",
+      "appearance": [
+        "一身素白",
+        "容貌秀美宁静"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "已经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "她老了……　　仅仅只是离开四年多时间，眼角已经爬上了鱼尾纹，原本青春俏丽的皮肤也有些失去了健康的光泽",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她老了……　　仅仅只是离开四年多时间，眼角已经爬上了鱼尾纹，原本青春俏丽的皮肤也有些失去了健康的光泽",
-        "其他人发现他时，已经没气了",
-        "看其气息，已经无限接近金丹期"
+      "personality": [
+        "冷静镇定",
+        "淡然"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "来人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "”　　一道虚影骤然射入大厅，缓缓落在林新身侧，浮现出来人影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一道虚影骤然射入大厅，缓缓落在林新身侧，浮现出来人影",
-        "来人身材修长，黑发如瀑，眉间有着一道银色竖痕，犹如第三只眼",
-        "”来人上前数步，朝着林新一拜而下"
+      "abilities": [
+        "医术",
+        "毒术"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "她老了……　　仅仅只是离开四年多时间，眼角已经爬上了鱼尾纹，原本青春俏丽的皮肤也有些失去了健康的光泽",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她老了……　　仅仅只是离开四年多时间，眼角已经爬上了鱼尾纹，原本青春俏丽的皮肤也有些失去了健康的光泽",
-        "只是隐匿阵盘倒是更精深了，连我都看不出你修为",
-        "只是知道他实战能力达到筑基期层面，境界还未到"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "老师"
+        },
+        {
+          "target": "公孙离",
+          "type": "传承者"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "但林",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "”　　林罗神色低沉道，虽然他本身就是面色冷酷之人，看不出什么喜怒哀乐，但林新还是从其眼神中看出一丝压抑不住的喜意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　林罗神色低沉道，虽然他本身就是面色冷酷之人，看不出什么喜怒哀乐，但林新还是从其眼神中看出一丝压抑不住的喜意",
-        "但林新却是一直没见到自己最为重视的那位"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "你现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "“看起来你现在离魂症是治好了吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“看起来你现在离魂症是治好了吧",
-        "“所以说我说你现在回来得不是时候",
-        "所以我才说，你现在回来得真不是时候"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "山庄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "第四百五十九章 回归山庄（下）　　山庄内",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四百五十九章 回归山庄（下）　　山庄内",
-        "可想而知这几年他离开后，林新媛一个人支撑山庄的压力有多大",
-        "很快，大厅里陆陆续续急匆匆赶来山庄的一番老人"
+        "林缎一身素白，容貌秀美宁静",
+        "她因为身中奇毒而无法修炼，倒是继承了公孙离离老的一身医术",
+        "这是弟子炼制出来的七莘万月丹"
       ],
       "mention_count": 4
     },
     {
-      "name": "怕是",
+      "name": "南顺青",
+      "aliases": [
+        "青儿",
+        "大师兄"
+      ],
+      "identity": "林新弟子，天赋极高",
+      "faction": "灵心山庄",
+      "status": "失踪",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新最重视的弟子，天赋极高，两年前为救林阵落入圈套，下落不明。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "天赋极高"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "老师"
+        },
+        {
+          "target": "林阵",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两年前",
+          "event": "为救林阵落入花家与金玉宗圈套，失踪。"
+        }
+      ],
+      "evidence": [
+        "南顺青，两年前出手应付花家与金玉宗元景老祖压迫，落进圈套，现在下落不明",
+        "大师兄，是为了救我"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "花神曦",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百五十九章 回归山庄（下）",
-      "summary": "”林新站起身，还好他先把属下那群人遣开调走，否则让他们见到自己老大叫一个不到金丹期的小修士师姐，怕是一个个眼珠子都要惊得掉出来",
+      "identity": "花家强者",
+      "faction": "花家",
+      "status": "提及",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "花家实力强者，与金玉宗联手，曾与南顺青交手并受重创。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
+      "timeline": [
+        {
+          "stage": "两年前",
+          "event": "与元景老祖设计伏杀南顺青，自身受重创。"
+        }
+      ],
+      "evidence": [
+        "花家花神曦实力势力强横，还拉上了金玉宗",
+        "花家花神曦和那元景老祖也身受重创"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "铭心真君",
+      "aliases": [],
+      "identity": "松林剑派真君，独孤霖老师",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "松林剑派真君，围剿虫母身受重创。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "真君境界"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "独孤霖",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "近期",
+          "event": "围剿虫母身受重创。"
+        }
+      ],
+      "evidence": [
+        "我老师围剿虫母身受重创"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "季路师伯",
+      "aliases": [],
+      "identity": "松林剑派师伯",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "第459章 回归山庄（下）",
+      "summary": "林新询问的师伯，未在片段中详细说明。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师侄"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”林新站起身，还好他先把属下那群人遣开调走，否则让他们见到自己老大叫一个不到金丹期的小修士师姐，怕是一个个眼珠子都要惊得掉出来",
-        "“现如今是我松林剑派生死存亡之际，朱雀圣庭咄咄逼人，不展示出实力力量，怕是很快便要撕破脸动手，对于现在的松林剑派来说，损失太大，太昆寿宴实际上是为的联盟诸多正道势力，对抗朱雀圣庭",
-        "“要不是还有镇压山门的通天松纹剑在……这一趟怕是灭门之祸都有可能"
+        "季路师伯呢？"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

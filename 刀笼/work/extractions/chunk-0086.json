@@ -1,253 +1,445 @@
 {
   "chunk_id": "chunk-0086",
-  "title": "第八十六章 小江湖 老江湖（上）",
   "characters": [
     {
       "name": "戚笼",
       "aliases": [],
-      "identity": "",
+      "identity": "主角，拥有迦楼罗血脉和龙脉传承",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "有道是人马过万，无边无际，如今除了戚笼和赵黑交锋的城南，三个城门所在，都是无边无际的难民",
+      "summary": "主角，在城南与赵黑交锋，最终击杀赵黑。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "阴冷",
+        "高傲"
+      ],
+      "abilities": [
+        "食龙爪（爆裂掌）",
+        "迦楼罗血脉",
+        "龙脉传承"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵黑",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在城南与赵黑战斗，利用龙脉和迦楼罗血脉击杀赵黑。"
+        }
+      ],
       "evidence": [
-        "有道是人马过万，无边无际，如今除了戚笼和赵黑交锋的城南，三个城门所在，都是无边无际的难民",
-        "”    ……    时间往前推上一时半刻，就在虞老道大展神威，一举捏死青浮山三仙之时，戚笼敏锐的察觉到了一丝胜机",
-        "戚笼眼一闭，而在下一瞬间，赵黑的蛇瞳眼中，无边无际的黑暗下，淅淅沥沥的雨水落了下来，是血雨"
+        "戚笼敏锐的察觉到了一丝胜机。",
+        "戚笼的食龙爪往赵黑的右眼上一掠，除了抓碎了眼珠外，这老货的半张脸都炸了开来。",
+        "一只金爪从其背后插入，夺走了这短打天王的性命。"
       ],
       "mention_count": 8
     },
     {
+      "name": "赵黑",
+      "aliases": [
+        "短打天王"
+      ],
+      "identity": "短打天王，戚笼的敌人",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第八十六章 小江湖 老江湖（上）",
+      "summary": "短打天王，与戚笼在城南交锋，最终被戚笼击杀。",
+      "appearance": [
+        "蛇瞳"
+      ],
+      "personality": [],
+      "abilities": [
+        "蛇身变化",
+        "黑暗凝结"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼战斗，被戚笼用食龙爪击杀。"
+        }
+      ],
+      "evidence": [
+        "赵黑的蛇瞳眼中，无边无际的黑暗下，淅淅沥沥的雨水落了下来，是血雨。",
+        "赵黑歇斯底里的大叫，浑身爆裂声大作",
+        "一只金爪从其背后插入，夺走了这短打天王的性命。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "朱元聪",
+      "aliases": [],
+      "identity": "黑山精甲主将",
+      "faction": "黑山精甲",
+      "status": "登场",
+      "first_appearance": "第八十六章 小江湖 老江湖（上）",
+      "summary": "黑山精甲主将，煽动难民暴动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "煽动难民暴动，打开城门。"
+        }
+      ],
+      "evidence": [
+        "除了戚笼和赵黑交锋的城南，三个城门所在，都是无边无际的难民。",
+        "似乎是有人将这些难民聚集起来，然后再放开城门，而能有这般能耐的，除了黑山精甲的主将朱元聪还能有谁。",
+        "朱元聪瞪大双眼吼道。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白三娘",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第八十六章 小江湖 老江湖（上）",
+      "summary": "在城主府放烟花，似乎是戚笼的姑姑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "姑姑（自称）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在城主府放烟花。"
+        }
+      ],
+      "evidence": [
+        "白三娘瞪大了美目，满脸惊叹，“乖侄儿，姑姑给你放的烟花怎么样？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "胖城主",
+      "aliases": [],
+      "identity": "黑山城城主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第八十六章 小江湖 老江湖（上）",
+      "summary": "黑山城城主，趴在地上装死尸。",
+      "appearance": [
+        "胖",
+        "圆眼"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在城主府装死尸。"
+        }
+      ],
+      "evidence": [
+        "城主府一处角落中，正趴在地上装死尸的胖城主抬头，圆圆的眼中满是璀璨光芒。"
+      ],
+      "mention_count": 1
+    },
+    {
       "name": "虞老道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "同一时间，虞老道解除了‘遁地状态’，口中长吸一口气，这口气是民怨、民愤，同样也是藏在人心中的煞气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同一时间，虞老道解除了‘遁地状态’，口中长吸一口气，这口气是民怨、民愤，同样也是藏在人心中的煞气",
-        "虞老道双眼猛的漆黑，同时身子节节高涨，一身道袍撕裂，从中露出粗大的肉角和透明甲衣，嘴里更是锯齿外翻，单论气血程度，一下子超过了二炼拳师",
-        "“咳咳，”虞老道露出一丝高深莫测的笑容，“没错，我就是"
+      "aliases": [
+        "转生道长（自称）"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "而在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "恶宗道四大道长之一转生道长的看门老童子",
+      "faction": "恶宗道",
       "status": "登场",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "’    而在城主府中，另一场战斗也接近了尾声，赵勇除了胯部外，浑身上下被插满了暗器，半躺在地上，血流如注",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "’    而在城主府中，另一场战斗也接近了尾声，赵勇除了胯部外，浑身上下被插满了暗器，半躺在地上，血流如注",
-        "”    而在白江之上，白家四驹中，最强的白一阳以近乎碾压的优势取胜",
-        "戚笼眼一闭，而在下一瞬间，赵黑的蛇瞳眼中，无边无际的黑暗下，淅淅沥沥的雨水落了下来，是血雨"
+      "summary": "恶宗道的老道，能变身怪物，击杀青浮山三仙。",
+      "appearance": [
+        "老道",
+        "光溜溜"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "一条",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "他的一条腿挨了对方一记铁拳，小腿骨直接被砸断了",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "遁地",
+        "变身怪物（神身）",
+        "吸收民怨煞气"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "萧道人",
+          "type": "同伴"
+        },
+        {
+          "target": "青浮山三仙",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "解除遁地状态，变身怪物击杀青浮山三仙。"
+        }
+      ],
       "evidence": [
-        "他的一条腿挨了对方一记铁拳，小腿骨直接被砸断了",
-        "一条条红色海带从四面八方缠绕过来，白六四勉强闪过两条，无奈精力耗尽，被越来越多的海带缠住身子",
-        "”    一声震裂黑暗的巨吼声，一条无首之龙撕碎黑暗，布满血色鳞片的巨爪抓来"
+        "虞老道解除了‘遁地状态’，口中长吸一口气",
+        "虞老道双眼猛的漆黑，同时身子节节高涨，一身道袍撕裂，从中露出粗大的肉角和透明甲衣",
+        "‘怪物’又故技重施，没过三息，青浮山三仙就变成三堆肉泥。"
       ],
       "mention_count": 5
     },
     {
-      "name": "无边",
+      "name": "萧道人",
       "aliases": [],
-      "identity": "",
+      "identity": "道人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "有道是人马过万，无边无际，如今除了戚笼和赵黑交锋的城南，三个城门所在，都是无边无际的难民",
+      "summary": "与虞老道一起的道人，对虞老道的变身感到震惊。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "有道是人马过万，无边无际，如今除了戚笼和赵黑交锋的城南，三个城门所在，都是无边无际的难民",
-        "戚笼眼一闭，而在下一瞬间，赵黑的蛇瞳眼中，无边无际的黑暗下，淅淅沥沥的雨水落了下来，是血雨"
+      "relationships": [
+        {
+          "target": "虞老道",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹虞老道变身击杀青浮山三仙。"
+        }
+      ],
+      "evidence": [
+        "就连认为老道有杀手锏的萧道人都张大了嘴巴。",
+        "“你该不会是真的吧，”萧道人惊的识神都差点稳不住：“转生道长？”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "除了",
+      "name": "青浮山三仙",
       "aliases": [],
-      "identity": "",
+      "identity": "三位老道",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "有道是人马过万，无边无际，如今除了戚笼和赵黑交锋的城南，三个城门所在，都是无边无际的难民",
+      "summary": "三位老道，被虞老道变身的怪物击杀。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "有道是人马过万，无边无际，如今除了戚笼和赵黑交锋的城南，三个城门所在，都是无边无际的难民",
-        "似乎是有人将这些难民聚集起来，然后再放开城门，而能有这般能耐的，除了黑山精甲的主将朱元聪还能有谁",
-        "同一时间，虞老道解除了‘遁地状态’，口中长吸一口气，这口气是民怨、民愤，同样也是藏在人心中的煞气"
+      "abilities": [
+        "掐诀",
+        "召唤金浆玉酿"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "虞老道",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被虞老道变身的怪物捏死。"
+        }
+      ],
+      "evidence": [
+        "青浮山三仙老眼猛然瞪大",
+        "一位老道面色一变，手指掐诀，吞咽不绝，顿时灼热的白云从空中降落",
+        "没过三息，青浮山三仙就变成三堆肉泥。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "虞老",
+      "name": "赵勇",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "同一时间，虞老道解除了‘遁地状态’，口中长吸一口气，这口气是民怨、民愤，同样也是藏在人心中的煞气",
-      "appearance": [],
+      "summary": "与白六四战斗，被挖出左眼，但最终反杀。",
+      "appearance": [
+        "独眼"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同一时间，虞老道解除了‘遁地状态’，口中长吸一口气，这口气是民怨、民愤，同样也是藏在人心中的煞气",
-        "虞老道双眼猛的漆黑，同时身子节节高涨，一身道袍撕裂，从中露出粗大的肉角和透明甲衣，嘴里更是锯齿外翻，单论气血程度，一下子超过了二炼拳师",
-        "“咳咳，”虞老道露出一丝高深莫测的笑容，“没错，我就是"
+      "relationships": [
+        {
+          "target": "白六四",
+          "type": "敌人"
+        },
+        {
+          "target": "娴娘",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与白六四战斗，被挖出左眼，后由娴娘击杀白六四。"
+        }
+      ],
+      "evidence": [
+        "赵勇除了胯部外，浑身上下被插满了暗器，半躺在地上，血流如注。",
+        "最严重的是左眼，被对手用手指活活的挖了出来。",
+        "赵勇痛的龇牙咧嘴，“你这臭婆娘咋不早点出来，老子以后就只能做独眼龙了。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "同样",
+      "name": "白六四",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "同一时间，虞老道解除了‘遁地状态’，口中长吸一口气，这口气是民怨、民愤，同样也是藏在人心中的煞气",
+      "summary": "与赵勇战斗，挖出赵勇左眼，但被娴娘偷袭杀死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同一时间，虞老道解除了‘遁地状态’，口中长吸一口气，这口气是民怨、民愤，同样也是藏在人心中的煞气",
-        "”    “早点出来你还能赢么，这小子滑溜的跟条泥鳅似的，”同样是独眼的女海盗没好气回了一声，语气少见了多了一丝羞涩",
-        "赵黑蛇瞳之中，一条手臂粗的蛇身猛然钻出，同样没有蛇头，只有一颗漆黑的眼珠"
+      "relationships": [
+        {
+          "target": "赵勇",
+          "type": "敌人"
+        },
+        {
+          "target": "娴娘",
+          "type": "敌人"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵勇战斗，胜券在握时被娴娘偷袭杀死。"
+        }
+      ],
+      "evidence": [
+        "白六四晃晃悠悠的站了起来，满脸冷汗，歪歪扭扭的向对方摸过去。",
+        "他的一条腿挨了对方一记铁拳，小腿骨直接被砸断了。",
+        "海盗的骨质弯刀毫不犹豫的捅穿了他的心脏。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "而且",
+      "name": "娴娘",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "虾夷岛海盗",
+      "faction": "虾夷岛海盗",
       "status": "登场",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "而且对方从皮肉中挤压出的道道诡异符文，就像是神坛上的怪异符号一般，而且多了一分煞气腾腾",
-      "appearance": [],
+      "summary": "虾夷岛女海盗，独眼，偷袭杀死白六四。",
+      "appearance": [
+        "独眼"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且对方从皮肉中挤压出的道道诡异符文，就像是神坛上的怪异符号一般，而且多了一分煞气腾腾",
-        "而现在，这老道不知用了什么法门，居然变的比两侧房屋都高，而且是现实中的变化"
+      "equipment": [
+        "骨质弯刀"
       ],
-      "mention_count": 4
+      "relationships": [
+        {
+          "target": "赵勇",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从房梁翻下，用骨质弯刀杀死白六四。"
+        }
+      ],
+      "evidence": [
+        "虾夷岛海盗娴娘利落的从房梁上翻了下来。",
+        "海盗的骨质弯刀毫不犹豫的捅穿了他的心脏。",
+        "同样是独眼的女海盗没好气回了一声"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "怪物",
+      "name": "白一阳",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "白家四驹中最强者",
+      "faction": "白家",
       "status": "登场",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "‘怪物’无声大吼一声，三步做两步扑向敌人，一位老道面色一变，手指掐诀，吞咽不绝，顿时灼热的白云从空中降落，覆盖‘怪物’全身",
+      "summary": "白家四驹中最强者，在白江上击败宫元朗，但被洪水淹没。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘怪物’无声大吼一声，三步做两步扑向敌人，一位老道面色一变，手指掐诀，吞咽不绝，顿时灼热的白云从空中降落，覆盖‘怪物’全身",
-        "‘怪物’又故技重施，没过三息，青浮山三仙就变成三堆肉泥",
-        "‘怪物’这才长长吐了一口气，将那胸腔中的愤怨煞气吐了出来，身子渐渐恢复人形，身子一虚，脚步一晃，低头一看，老脸一红"
+      "abilities": [
+        "炼化三条筋"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "宫元朗",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在白江上击败宫元朗，但被宫元朗引来的洪水淹没。"
+        }
+      ],
+      "evidence": [
+        "白家四驹中，最强的白一阳以近乎碾压的优势取胜。",
+        "炼化三条筋，号称兴元府第一骑将的宫元朗被打的奄奄一息",
+        "白一阳面色一变，猛然回头，只见滚滚洪流从葫芦口倾泻而下"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "可惜",
+      "name": "宫元朗",
       "aliases": [],
-      "identity": "",
+      "identity": "兴元府第一骑将",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "可惜这些‘金浆玉酿’完全烧不开对方肉甲，一只巨掌猛然从云中探出，裹住了老道的脑袋，老道因为剧痛而脸色通红",
+      "summary": "兴元府第一骑将，被白一阳击败，但用计引洪水反杀。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可惜这些‘金浆玉酿’完全烧不开对方肉甲，一只巨掌猛然从云中探出，裹住了老道的脑袋，老道因为剧痛而脸色通红",
-        "可惜这时已晚了，落下的一滴血水中，一只金色鸟喙突然探出，朝着那颗漆黑的、阴沉无比的眼珠猛的一啄",
-        "可惜这些乱劲并没有打中戚笼"
+      "abilities": [
+        "水陆全精"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "浑身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十六章 小江湖 老江湖（上）",
-      "summary": "’    而在城主府中，另一场战斗也接近了尾声，赵勇除了胯部外，浑身上下被插满了暗器，半躺在地上，血流如注",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "宝枪‘攻虎’",
+        "短刀"
+      ],
+      "relationships": [
+        {
+          "target": "白一阳",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被白一阳击败，但用兵法引洪水淹没敌我双方，最终爬上岸。"
+        }
+      ],
       "evidence": [
-        "’    而在城主府中，另一场战斗也接近了尾声，赵勇除了胯部外，浑身上下被插满了暗器，半躺在地上，血流如注",
-        "”    赵黑歇斯底里的大叫，浑身爆裂声大作，身上黑袍绷紧如铁皮，然后无数道不同类型的劲力从中打出，像是刺猬张开了身子"
+        "炼化三条筋，号称兴元府第一骑将的宫元朗被打的奄奄一息，最爱的宝枪‘攻虎’被人用拳头打断。",
+        "宫元朗弃了宝枪，抽出一口短刀，恶狠狠的一笑：“投之亡地然后存，陷之死地然后生！”",
+        "手中刀子上，还挂着一节肠子。"
       ],
       "mention_count": 4
     }

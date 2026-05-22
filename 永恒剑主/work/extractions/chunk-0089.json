@@ -1,256 +1,294 @@
 {
   "chunk_id": "chunk-0089",
-  "title": "第八十七章 妖符种之谜（二）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "林大哥"
+      ],
+      "identity": "剑派弟子，先天四层",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "林新回过神，看到萧玲玲有些愕然担心的看着自己，火光在她的面庞上摇晃不已，显得越发白皙",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "被红楼魔女所伤，身中红楼阴转毒，与萧玲玲相互扶持完成试炼。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "有情有义",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新回过神，看到萧玲玲有些愕然担心的看着自己，火光在她的面庞上摇晃不已，显得越发白皙",
-        "”　　“哦……”萧玲玲还想再问，但看到林新不愿意说，也就忍住",
-        "”她用一个干净的红瓷碗盛了一碗肉汤饼，端给林新"
+      "relationships": [
+        {
+          "target": "萧玲玲",
+          "type": "同伴"
+        },
+        {
+          "target": "黄衫",
+          "type": "师兄"
+        }
       ],
-      "mention_count": 33
+      "timeline": [
+        {
+          "stage": "试炼结束",
+          "event": "被陆蓉接应，服下丹药，送往宗门救治。"
+        }
+      ],
+      "evidence": [
+        "林新接过，感觉入手碗壁微烫，一股淡淡的肉香从微白色的汤里弥漫出来",
+        "林新只感觉眼前女子气息晦涩高深，根本感应不到其深浅",
+        "我是被红楼魔女所伤，现在身上还有剧毒。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "萧玲玲",
       "aliases": [],
-      "identity": "",
+      "identity": "剑派弟子",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "”萧玲玲的声音在边上传过来",
-      "appearance": [],
-      "personality": [],
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "身体灯枯油尽，仍坚持照顾林新，与林新共同完成试炼。",
+      "appearance": [
+        "脸颊有一道血口"
+      ],
+      "personality": [
+        "有情有义",
+        "坚韧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”萧玲玲的声音在边上传过来",
-        "林新回过神，看到萧玲玲有些愕然担心的看着自己，火光在她的面庞上摇晃不已，显得越发白皙",
-        "”　　“哦……”萧玲玲还想再问，但看到林新不愿意说，也就忍住"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "试炼结束",
+          "event": "被陆蓉接应，服下丹药，被林新打晕休息。"
+        }
+      ],
+      "evidence": [
+        "萧玲玲灭了篝火，继续想要背起林新。",
+        "身体几乎灯枯油尽，居然还能安稳的站在这里？你伤得比他重多了！",
+        "萧玲玲在边上急了。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "陆蓉",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "红衣女子",
+        "陆师姐"
+      ],
+      "identity": "接应弟子",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "“又来一个，陆蓉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“又来一个，陆蓉",
-        "”陆蓉松开两人，轻声道",
-        "陆蓉一拱手，算是行礼，同样带着林新萧玲玲跨步进入白雾洞口"
+      "first_appearance": "",
+      "summary": "接应林新和萧玲玲的红衣女子，修为高深，能一眼看出伤势。",
+      "appearance": [
+        "红衣"
       ],
-      "mention_count": 11
+      "personality": [
+        "冷色",
+        "不多话"
+      ],
+      "abilities": [
+        "能通过指尖一点明了伤势"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白衣男子",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "试炼结束",
+          "event": "接应林新和萧玲玲，带他们出洞。"
+        }
+      ],
+      "evidence": [
+        "我姓陆。",
+        "她双手各自在林新和萧玲玲身上一点。",
+        "陆蓉一拱手，算是行礼，同样带着林新萧玲玲跨步进入白雾洞口。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
+      "name": "白衣男子",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "接应负责人",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "顿时她指尖两点白光一闪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顿时她指尖两点白光一闪",
-        "林新只感觉眼前一阵天旋地转，翻滚过后，十数息功夫，眼前便顿时停了下来",
-        "三人快速冲出洞口，顿时眼前一片豁然"
+      "first_appearance": "",
+      "summary": "守在出口的白衣男子，声音尖细如太监，面白无须。",
+      "appearance": [
+        "白衣如雪",
+        "背后背负一把雪白长剑",
+        "剑穗白色"
       ],
-      "mention_count": 10
+      "personality": [],
+      "abilities": [
+        "口鼻吞吐白色云气"
+      ],
+      "equipment": [
+        "雪白长剑"
+      ],
+      "relationships": [
+        {
+          "target": "陆蓉",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "试炼结束",
+          "event": "命令陆蓉接应林新和萧玲玲。"
+        }
+      ],
+      "evidence": [
+        "其中一人盘膝坐在地上，一身白衣如雪，背后背负一把雪白长剑，甚至连剑穗都是白色。",
+        "声音尖细，听起来像是太监一般",
+        "口鼻处，一丝丝白色云气吞吐进出"
+      ],
+      "mention_count": 3
     },
     {
       "name": "元凶",
       "aliases": [],
-      "identity": "",
+      "identity": "带队人员",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "带队的元凶也走了上来",
+      "first_appearance": "",
+      "summary": "负责清点骨片并安排救治的带队者。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "不耐烦"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "带队的元凶也走了上来",
-        "”元凶却是已经不耐烦了",
-        "”元凶直接骂了句，“给我好好养伤就行，废话这么多，这么想死"
+      "timeline": [
+        {
+          "stage": "试炼结束",
+          "event": "清点骨片，安排林新和萧玲玲回宗。"
+        }
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "萧玲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "”萧玲玲的声音在边上传过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”萧玲玲的声音在边上传过来",
-        "林新回过神，看到萧玲玲有些愕然担心的看着自己，火光在她的面庞上摇晃不已，显得越发白皙",
-        "”　　“哦……”萧玲玲还想再问，但看到林新不愿意说，也就忍住"
+        "带队的元凶也走了上来。",
+        "行了行了，你们两个有情有义，就别在这里现了",
+        "元凶点头。"
       ],
-      "mention_count": 9
+      "mention_count": 4
     },
     {
       "name": "黄衫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "”原来是黄衫，这家伙被包扎得浑身都是白色纱布，直挺挺的躺在大厅病床上，一动不能动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”原来是黄衫，这家伙被包扎得浑身都是白色纱布，直挺挺的躺在大厅病床上，一动不能动",
-        "”林新一奇，黄衫可是阵堂先天中最强的一人，修为可是八层先天",
-        "黄衫也是长叹一声"
+      "aliases": [
+        "黄师兄"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
+      "identity": "阵堂先天弟子，八层先天",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "“没事，只是想到一点事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“没事，只是想到一点事",
-        "约莫走了一个多时辰，上面那个翻滚着白雾的出口隐隐可见，只是出口处站着几人，似乎是专门守在门口接应的人",
-        "”　　这人声音尖细，听起来像是太监一般，但面容却是最标准的美男子，只是面白无须，双眼狭长，隐隐如同女子般秀美"
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "林新的师兄，修为八层先天，同样受伤躺在船上。",
+      "appearance": [
+        "浑身白色纱布"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "慢慢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "林新感觉着她一步步的努力托着自己，慢慢往前移动，心头却是有种莫名的踏实，在这种残酷的世界里，有一个人能够真正的让你可以在最艰难的时候相互扶持",
-      "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新感觉着她一步步的努力托着自己，慢慢往前移动，心头却是有种莫名的踏实，在这种残酷的世界里，有一个人能够真正的让你可以在最艰难的时候相互扶持",
-        "两人踉跄着在山道上前进着，慢慢一点点的朝着上方出口挪去"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "她一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "林新感觉着她一步步的努力托着自己，慢慢往前移动，心头却是有种莫名的踏实，在这种残酷的世界里，有一个人能够真正的让你可以在最艰难的时候相互扶持",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "试炼结束",
+          "event": "在船上与林新交谈。"
+        }
+      ],
       "evidence": [
-        "林新感觉着她一步步的努力托着自己，慢慢往前移动，心头却是有种莫名的踏实，在这种残酷的世界里，有一个人能够真正的让你可以在最艰难的时候相互扶持",
-        "”　　她一手抓住一个，提着两人手臂，身形一纵",
-        "她一手捏着一人的手臂，却能够有一股力气源源不断的传到两人身上，看起来就像是她提着两个轻若无物的纸人，毫无重量一样"
+        "黄衫，这家伙被包扎得浑身都是白色纱布",
+        "黄衫可是阵堂先天中最强的一人，修为可是八层先天。",
+        "黄衫也是长叹一声。"
       ],
       "mention_count": 5
     },
     {
-      "name": "看起",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "她一手捏着一人的手臂，却能够有一股力气源源不断的传到两人身上，看起来就像是她提着两个轻若无物的纸人，毫无重量一样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她一手捏着一人的手臂，却能够有一股力气源源不断的传到两人身上，看起来就像是她提着两个轻若无物的纸人，毫无重量一样",
-        "看起来山雨欲来风满楼啊……”黄衫身体不能动，连脸也不能歪，只能侧着眼说话"
+      "name": "红楼魔女",
+      "aliases": [
+        "红衣魔女"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "林大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 妖符种之谜（二）",
-      "summary": "第八十七章 妖符种之谜（二）　　“林大哥",
-      "appearance": [],
+      "identity": "魔宗人物",
+      "faction": "魔宗",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "导致林新重伤的魔女，林新记下了她的面孔。",
+      "appearance": [
+        "红衣"
+      ],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "红楼阴转毒"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "试炼中",
+          "event": "林新被她所伤。"
+        }
+      ],
       "evidence": [
-        "第八十七章 妖符种之谜（二）　　“林大哥",
-        "林大哥",
-        "“给，林大哥，吃点热的吧"
+        "红楼魔女……这笔账早晚要和你算！",
+        "红楼阴转毒？你一个小小先天四层，居然能和红楼魔女照面而不死！？",
+        "我是被红楼魔女所伤"
       ],
       "mention_count": 4
+    },
+    {
+      "name": "瞎眼白衣女子",
+      "aliases": [],
+      "identity": "守护者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "白鸽背上的守护者，喝酒葫芦。",
+      "appearance": [
+        "瞎眼",
+        "白衣"
+      ],
+      "personality": [
+        "不在乎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "酒葫芦"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "试炼结束",
+          "event": "坐在白鸽背上喝酒。"
+        }
+      ],
+      "evidence": [
+        "背上那个瞎眼白衣女子正有一口没一口的喝着酒葫芦。"
+      ],
+      "mention_count": 1
     }
   ]
 }

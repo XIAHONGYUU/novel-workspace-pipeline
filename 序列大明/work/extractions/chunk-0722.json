@@ -1,258 +1,269 @@
 {
   "chunk_id": "chunk-0722",
-  "title": "第719章番外三：蛮地序列",
   "characters": [
     {
-      "name": "马王爷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "“欢迎来到马王爷的接风宴，今天这里没有刀光剑影，没有血雨腥风，只有声色犬马，纵情享乐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“欢迎来到马王爷的接风宴，今天这里没有刀光剑影，没有血雨腥风，只有声色犬马，纵情享乐",
-        "最关键的一点，今晚全场的消费，由马王爷买单",
-        "”　　欢呼声山呼海啸，成为全场焦点的马王爷只是淡淡挥手，轻轻吐出两个字"
-      ],
-      "mention_count": 20
-    },
-    {
       "name": "林锦江",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "”　　“记录人：杂序林锦江",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“记录人：杂序林锦江",
-        "”　　林锦江对着具现出的案牍，一本正经的说完了上述这番话，然后垂头耷脑的站起身来，不情不愿的朝前走去",
-        "林锦江一步步站上搭建在宴场中间的舞台"
+      "aliases": [
+        "杂序林锦江"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "马王",
-      "aliases": [],
-      "identity": "",
+      "identity": "杂序，黄粱大红人，曾从事记录工作",
       "faction": "",
       "status": "登场",
       "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "“欢迎来到马王爷的接风宴，今天这里没有刀光剑影，没有血雨腥风，只有声色犬马，纵情享乐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“欢迎来到马王爷的接风宴，今天这里没有刀光剑影，没有血雨腥风，只有声色犬马，纵情享乐",
-        "最关键的一点，今晚全场的消费，由马王爷买单",
-        "”　　欢呼声山呼海啸，成为全场焦点的马王爷只是淡淡挥手，轻轻吐出两个字"
+      "summary": "杂序从序者，曾是记录人，后成为黄粱大红人，擅长调动气氛，自称金盆洗手。",
+      "appearance": [
+        "浓眉大眼"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "林锦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "”　　“记录人：杂序林锦江",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "能说会道",
+        "善于调动气氛"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "接风宴主持人"
+        },
+        {
+          "target": "赫藏甲",
+          "type": "被赫藏甲赏识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新历三年二月初四子时",
+          "event": "在重庆府金楼主持马王爷的接风宴。"
+        }
+      ],
       "evidence": [
-        "”　　“记录人：杂序林锦江",
-        "”　　林锦江对着具现出的案牍，一本正经的说完了上述这番话，然后垂头耷脑的站起身来，不情不愿的朝前走去",
-        "林锦江一步步站上搭建在宴场中间的舞台"
+        "林锦江对着具现出的案牍，一本正经的说完了上述这番话",
+        "林锦江一步步站上搭建在宴场中间的舞台。",
+        "林锦江朗声喊道"
       ],
       "mention_count": 12
     },
     {
+      "name": "马王爷",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "接风宴主人，情海浮沉几十年的搏浪好手",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第719章番外三：蛮地序列",
+      "summary": "接风宴的主人，性格豪爽，好色，知晓明土与蛮地隐秘。",
+      "appearance": [
+        "五官硬朗",
+        "眉眼深邃",
+        "花白寸头",
+        "肩披火红大氅",
+        "脖挂拇指粗金链",
+        "赤膊肌肉贲张"
+      ],
+      "personality": [
+        "豪爽",
+        "好色",
+        "直率"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林锦江",
+          "type": "接风宴主持人"
+        },
+        {
+          "target": "张嗣源",
+          "type": "被张嗣源打扰"
+        },
+        {
+          "target": "李钧",
+          "type": "收到李钧消息"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新历三年二月初四子时",
+          "event": "在重庆府金楼举办接风宴。"
+        }
+      ],
+      "evidence": [
+        "马王爷只是淡淡挥手，轻轻吐出两个字。‘开耍！’",
+        "马王爷戳着牙花子",
+        "马王爷嘿嘿一笑"
+      ],
+      "mention_count": 15
+    },
+    {
       "name": "赫藏甲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "东主，农序四阡陌主，金楼老板",
+      "faction": "辽东天阙",
       "status": "登场",
       "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "”　　台下一角，作为东主的赫藏甲对周遭的莺莺燕燕视若无睹，一双眼睛就盯着充当起了老鸨角色的林锦江",
+      "summary": "金楼老板，背靠辽东天阙，农序从序者，赏识林锦江，劝王谢加入。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　台下一角，作为东主的赫藏甲对周遭的莺莺燕燕视若无睹，一双眼睛就盯着充当起了老鸨角色的林锦江",
-        "”　　赫藏甲扼腕叹息，愁肠满腹，只能无奈举杯痛饮，以酒消愁",
-        "”　　一声笑骂在赫藏甲的身旁响起"
+      "personality": [
+        "善于交际",
+        "有商业头脑"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "张嗣源",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "可偏偏在这种关键时刻，自己的右边却多了一个碍事儿的张嗣源，这让马王爷感觉浑身不自在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可偏偏在这种关键时刻，自己的右边却多了一个碍事儿的张嗣源，这让马王爷感觉浑身不自在",
-        "”　　张嗣源愣愣问道：“当然没带了",
-        "”　　马王爷说着就要起身，被张嗣源一把拉住"
+      "abilities": [
+        "农序四阡陌主"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "相反他们的序列比我们还要丰富，高序位的人数也不少",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林锦江",
+          "type": "赏识"
+        },
+        {
+          "target": "王谢",
+          "type": "好友，劝其加入"
+        },
+        {
+          "target": "杨白泽",
+          "type": "已谈好王谢离开事宜"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新历三年二月初四子时",
+          "event": "在重庆府金楼参加马王爷的接风宴。"
+        }
+      ],
       "evidence": [
-        "相反他们的序列比我们还要丰富，高序位的人数也不少",
-        "”林锦江疑惑问道：“那为什么除了一些普通的游商之外，他们的从序者几乎没有在咱们明土出现过",
-        "这明显就不太正常，毕竟在那些罪民区被大明帝国征服以前，他们同样也属于蛮地的范畴"
+        "作为东主的赫藏甲对周遭的莺莺燕燕视若无睹",
+        "赫藏甲扼腕叹息",
+        "赫藏甲哈哈一笑"
       ],
       "mention_count": 8
-    },
-    {
-      "name": "咱们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "“各位姐妹，咱们按照老、中、青三个年龄段分别站好，千万别担心站错了队今晚就回落空",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“各位姐妹，咱们按照老、中、青三个年龄段分别站好，千万别担心站错了队今晚就回落空",
-        "”赫藏甲抬手指向头顶：“咱们上面还有人，乱不起来的",
-        "”林锦江疑惑问道：“那为什么除了一些普通的游商之外，他们的从序者几乎没有在咱们明土出现过"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "赫藏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "”　　台下一角，作为东主的赫藏甲对周遭的莺莺燕燕视若无睹，一双眼睛就盯着充当起了老鸨角色的林锦江",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　台下一角，作为东主的赫藏甲对周遭的莺莺燕燕视若无睹，一双眼睛就盯着充当起了老鸨角色的林锦江",
-        "”　　赫藏甲扼腕叹息，愁肠满腹，只能无奈举杯痛饮，以酒消愁",
-        "”　　一声笑骂在赫藏甲的身旁响起"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "张嗣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "可偏偏在这种关键时刻，自己的右边却多了一个碍事儿的张嗣源，这让马王爷感觉浑身不自在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可偏偏在这种关键时刻，自己的右边却多了一个碍事儿的张嗣源，这让马王爷感觉浑身不自在",
-        "”　　张嗣源愣愣问道：“当然没带了",
-        "”　　马王爷说着就要起身，被张嗣源一把拉住"
-      ],
-      "mention_count": 7
     },
     {
       "name": "王谢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "王谢王大人"
+      ],
+      "identity": "纵横序四的决断行官，曾跟随裴老爷子",
+      "faction": "赤社",
       "status": "登场",
       "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "”　　赫藏甲转头看来，眯着眼笑问道：“就是不知道您王谢王大人，现在是序几了",
+      "summary": "纵横序从序者，金陵一战重伤未愈，序位困于决断行官，考虑加入赫藏甲的金楼。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赫藏甲转头看来，眯着眼笑问道：“就是不知道您王谢王大人，现在是序几了",
-        "”　　王谢一声冷哼",
-        "”　　赫藏甲哈哈一笑，别看他王谢是纵横序，但走的是王道不是霸道，论耍嘴皮子，两个王谢绑起来也不是他的对手"
+      "personality": [
+        "谨慎",
+        "犹豫"
       ],
-      "mention_count": 6
+      "abilities": [
+        "纵横序四决断行官"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赫藏甲",
+          "type": "好友"
+        },
+        {
+          "target": "裴老爷子",
+          "type": "曾跟随"
+        },
+        {
+          "target": "杨白泽",
+          "type": "可能离开其麾下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新历三年二月初四子时",
+          "event": "在重庆府金楼参加接风宴，与赫藏甲交谈。"
+        }
+      ],
+      "evidence": [
+        "王谢一声冷哼。在金陵一战中，他重伤濒死",
+        "王谢自然明白好友的意思",
+        "王谢闻言，不由沉吟良久"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "明土",
-      "aliases": [],
-      "identity": "",
+      "name": "张嗣源",
+      "aliases": [
+        "张小子"
+      ],
+      "identity": "新东林书院山长，儒序",
       "faction": "",
       "status": "登场",
       "first_appearance": "第719章番外三：蛮地序列",
-      "summary": "甚至若不是因为如今的明土形势十分适合纵横序的生存，他可能还会因伤跌序",
+      "summary": "儒序从序者，新东林书院山长，对蛮地隐秘好奇，计划卸任后投奔李钧。",
+      "appearance": [],
+      "personality": [
+        "好奇",
+        "执着"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "被马王爷嫌弃碍事"
+        },
+        {
+          "target": "李钧",
+          "type": "计划投奔"
+        },
+        {
+          "target": "张峰岳",
+          "type": "父亲"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新历三年二月初四子时",
+          "event": "在重庆府金楼参加接风宴，向马王爷询问李钧消息。"
+        }
+      ],
+      "evidence": [
+        "张嗣源愣愣问道",
+        "张嗣源赔笑道",
+        "张嗣源在一旁跟着点头"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "钧哥"
+      ],
+      "identity": "明土从序者，前往蛮地",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第719章番外三：蛮地序列",
+      "summary": "前往蛮地的从序者，曾传回关于蛮地序列和明土历史隐秘的消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "甚至若不是因为如今的明土形势十分适合纵横序的生存，他可能还会因伤跌序",
-        "”　　王谢自然明白好友的意思，只要那位不死，明土就不可能再陷入乱战之中",
-        "或许他选择离开明土，其中就有这一部分的原因"
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "传消息给马王爷"
+        },
+        {
+          "target": "张嗣源",
+          "type": "张嗣源计划投奔"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "约一年前",
+          "event": "让人带消息回明土。"
+        }
+      ],
+      "evidence": [
+        "他说外面还挺有意思的",
+        "不过这些都是李钧传来的消息"
+      ],
+      "mention_count": 4
     }
   ]
 }

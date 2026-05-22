@@ -1,256 +1,402 @@
 {
   "chunk_id": "chunk-0447",
-  "title": "第445章祸乱聚首",
   "characters": [
     {
       "name": "刘典",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "刘大人"
+      ],
+      "identity": "江户城宣慰使，儒序中人，刘氏门阀成员",
+      "faction": "刘氏门阀，新东林党",
       "status": "登场",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "”　　刘典一脸微笑，将箱子推到丰臣远疆的面前",
+      "summary": "江户城宣慰使，儒序中人，与丰臣远疆进行交易，意图吞并三川重工并收丰臣家族为私奴。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴鸷",
+        "贪婪",
+        "虚伪",
+        "精于算计"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　刘典一脸微笑，将箱子推到丰臣远疆的面前",
-        "刘典缓缓道：“当然，这并不能证明他们二人就和江户之乱有关，但他们对鸿鹄的行动了如指掌，这是不争的事实",
-        "而这点时间差，足够刘典从中吃个盆满钵满"
+      "relationships": [
+        {
+          "target": "丰臣远疆",
+          "type": "交易对象，主家与门客"
+        },
+        {
+          "target": "王长亭",
+          "type": "同为新东林党，但关系紧张"
+        },
+        {
+          "target": "苏策",
+          "type": "敌对，锦衣卫在倭区的头目"
+        },
+        {
+          "target": "德川宏志",
+          "type": "认为其被冤枉"
+        },
+        {
+          "target": "明智晴秀",
+          "type": "追查的逃犯"
+        }
       ],
-      "mention_count": 53
-    },
-    {
-      "name": "丰臣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第445章祸乱聚首",
-      "summary": "“丰臣先生，这是我答应你的东西，验验吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“丰臣先生，这是我答应你的东西，验验吧",
-        "”　　刘典一脸微笑，将箱子推到丰臣远疆的面前",
-        "丰臣远疆抬手抚摸着箱体上细密精致的金丝纹路，指尖反复摩挲着角落上篆刻的‘六韬’两个小字，脸上的表情颇为复杂"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与丰臣远疆交易，收其家族为私奴，并告知德川宏志被冤枉及明智晴秀藏身大阪城。"
+        }
       ],
-      "mention_count": 51
+      "evidence": [
+        "刘典一脸微笑，将箱子推到丰臣远疆的面前。",
+        "刘典眼神阴鸷，生冷的字眼一个个从紧咬的牙关中蹦出来。",
+        "刘典站到丰臣远疆身后，听着对方身躯内传出的械心嗡鸣，嘴角缓缓勾起满意的笑意。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "丰臣远疆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "丰臣先生",
+        "老先生"
+      ],
+      "identity": "丰臣家族家主，三川重工原主人",
+      "faction": "丰臣家族，后成为刘氏门客",
       "status": "登场",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "”　　刘典一脸微笑，将箱子推到丰臣远疆的面前",
-      "appearance": [],
-      "personality": [],
+      "summary": "丰臣家族家主，为复仇将三川重工献给刘氏，并请求刘典庇护家族，最终成为刘典私奴。",
+      "appearance": [
+        "苍老枯朽"
+      ],
+      "personality": [
+        "重义",
+        "隐忍",
+        "无奈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　刘典一脸微笑，将箱子推到丰臣远疆的面前",
-        "丰臣远疆抬手抚摸着箱体上细密精致的金丝纹路，指尖反复摩挲着角落上篆刻的‘六韬’两个小字，脸上的表情颇为复杂",
-        "”　　至于刘典为什么要这么做，丰臣远疆也猜了个八九不离十"
+      "relationships": [
+        {
+          "target": "刘典",
+          "type": "交易对象，后为主仆"
+        },
+        {
+          "target": "明智晴秀",
+          "type": "视为师，为其复仇"
+        },
+        {
+          "target": "丰臣秀峦",
+          "type": "家族子弟，被刘氏看重"
+        }
       ],
-      "mention_count": 19
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将三川重工献给刘氏，并请求刘典庇护家族，成为其私奴。"
+        }
+      ],
+      "evidence": [
+        "丰臣远疆抬手抚摸着箱体上细密精致的金丝纹路，指尖反复摩挲着角落上篆刻的‘六韬’两个小字，脸上的表情颇为复杂。",
+        "丰臣远疆猛然回身，双手紧紧贴着腿边，对着刘典一躬到底。",
+        "丰臣远疆神色肃然，起身拱手道：“我代替丰臣秀峦，多谢大人了。”"
+      ],
+      "mention_count": 20
     },
     {
       "name": "王长亭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "玄衣青年"
+      ],
+      "identity": "琅琊王氏成员，即将赴任犬山城宣慰使",
+      "faction": "琅琊王氏，新东林党",
       "status": "登场",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "王长亭态度强硬：“这桩生意，你做还是不做",
-      "appearance": [],
-      "personality": [],
+      "summary": "琅琊王氏成员，与刘典同为东林党，但关系紧张，欲与刘典合作对付阎君。",
+      "appearance": [
+        "头戴白玉儒冠，身着玄色长衫"
+      ],
+      "personality": [
+        "强硬",
+        "精明",
+        "不卑不亢"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "王长亭态度强硬：“这桩生意，你做还是不做",
-        "玄衣青年王长亭被刘典这句话呛的一愣，随即哑然失笑，拱手道：“见过刘大人",
-        "”　　王长亭冷笑道：“如果我没了解错的话，你现在还没有和明王搭上线吧"
+      "relationships": [
+        {
+          "target": "刘典",
+          "type": "同党但竞争"
+        },
+        {
+          "target": "阎君",
+          "type": "敌对，将与之交手"
+        },
+        {
+          "target": "明王",
+          "type": "潜在合作对象"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与刘典谈判合作，欲联手对付阎君。"
+        }
+      ],
+      "evidence": [
+        "一名头戴白玉儒冠，身着玄色长衫的读书人徐徐现身于场中。",
+        "王长亭态度强硬：“这桩生意，你做还是不做？”",
+        "王长亭冷笑道：“如果我没了解错的话，你现在还没有和明王搭上线吧？”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "丰臣家",
+      "name": "明智晴秀",
       "aliases": [],
-      "identity": "",
+      "identity": "锦衣卫通缉犯，丰臣远疆之师",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "“丰臣家族能够将三川重工壮大到如今的地步，内部的子弟必定个个都是杰出俊才",
+      "summary": "锦衣卫通缉犯，被丰臣远疆视为师，藏身于大阪城。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“丰臣家族能够将三川重工壮大到如今的地步，内部的子弟必定个个都是杰出俊才",
-        "毕竟三川重工目前的核心骨干，几乎都是出自丰臣家族的人",
-        "”　　刘典轻声问道：“难道先生你愿意就这样看着丰臣家族从此没落，一蹶不振"
+      "relationships": [
+        {
+          "target": "丰臣远疆",
+          "type": "师徒"
+        },
+        {
+          "target": "荒世烈",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "江户之乱时",
+          "event": "与荒世烈一同出现在江户城外，似乎预知鸿鹄袭击。"
+        }
+      ],
+      "evidence": [
+        "当时的明知晴秀已经是锦衣卫的通缉犯，却和荒世烈一同出现在了江户城外",
+        "明智晴秀如今就藏在大阪城！"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "丰臣家族",
+      "name": "德川宏志",
       "aliases": [],
-      "identity": "",
+      "identity": "被锦衣卫诬陷为镰仓王的人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "“丰臣家族能够将三川重工壮大到如今的地步，内部的子弟必定个个都是杰出俊才",
+      "summary": "被锦衣卫诬陷为鸿鹄镰仓王，实为清白。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“丰臣家族能够将三川重工壮大到如今的地步，内部的子弟必定个个都是杰出俊才",
-        "毕竟三川重工目前的核心骨干，几乎都是出自丰臣家族的人",
-        "”　　刘典轻声问道：“难道先生你愿意就这样看着丰臣家族从此没落，一蹶不振"
+      "timeline": [
+        {
+          "stage": "江户之乱后",
+          "event": "被锦衣卫宣称是镰仓王，后刘典认为其被冤枉。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "德川宏志确实是被冤枉的！",
+        "德川宏志是清白的。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "王长",
+      "name": "荒世烈",
       "aliases": [],
-      "identity": "",
+      "identity": "倭区人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "王长亭态度强硬：“这桩生意，你做还是不做",
+      "summary": "与明智晴秀一同出现在江户城外的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "王长亭态度强硬：“这桩生意，你做还是不做",
-        "玄衣青年王长亭被刘典这句话呛的一愣，随即哑然失笑，拱手道：“见过刘大人",
-        "”　　王长亭冷笑道：“如果我没了解错的话，你现在还没有和明王搭上线吧"
+      "relationships": [
+        {
+          "target": "明智晴秀",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "江户之乱时",
+          "event": "与明智晴秀一同出现在江户城外。"
+        }
+      ],
+      "evidence": [
+        "却和荒世烈一同出现在了江户城外"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "先生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "苏策",
+      "aliases": [
+        "恶狗"
+      ],
+      "identity": "锦衣卫在倭区的头目",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "“丰臣先生，这是我答应你的东西，验验吧",
+      "summary": "锦衣卫在倭区的头目，被刘典称为恶狗。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "刘典",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“丰臣先生，这是我答应你的东西，验验吧",
-        "”　　刘典黯淡道：“不过先生你也清楚，锦衣卫在倭区一手遮天",
-        "”　　刘典轻声问道：“难道先生你愿意就这样看着丰臣家族从此没落，一蹶不振"
+        "有苏策这条恶狗在"
       ],
-      "mention_count": 7
+      "mention_count": 2
     },
     {
-      "name": "多谢",
+      "name": "丰臣秀峦",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "丰臣家族子弟",
+      "faction": "丰臣家族",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "”　　“丰臣远疆，多谢大人",
+      "summary": "丰臣家族子弟，被刘氏老祖宗赏识，将留在金陵为刘氏效力。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "丰臣远疆",
+          "type": "家族长辈"
+        },
+        {
+          "target": "刘氏老祖宗",
+          "type": "赏识"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“丰臣远疆，多谢大人",
-        "丰臣远疆神色肃然，起身拱手道：“我代替丰臣秀峦，多谢大人了"
+        "贵族子弟丰臣秀峦是个不错的人才，老祖宗十分赏识他"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "你现",
+      "name": "杨白泽",
       "aliases": [],
-      "identity": "",
+      "identity": "犬山城同知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "”　　王长亭冷笑道：“如果我没了解错的话，你现在还没有和明王搭上线吧",
+      "summary": "犬山城同知，是裴行俭的学生，与阎君关系匪浅。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "师生"
+        },
+        {
+          "target": "阎君",
+          "type": "关系匪浅"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　王长亭冷笑道：“如果我没了解错的话，你现在还没有和明王搭上线吧",
-        "”　　刘典冷声打断：“王长亭，你现在还未就职，还不是官身"
+        "现在犬山城的同知叫杨白泽，是现任重庆府知府裴行俭的学生。",
+        "杨白泽和犬山城锦衣卫百户阎君关系匪浅"
       ],
-      "mention_count": 6
+      "mention_count": 2
     },
     {
-      "name": "只要",
+      "name": "阎君",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "犬山城锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "”　　只要经营权在手，那盈利还是亏损，岂不就是他刘典的一句话",
+      "summary": "犬山城锦衣卫百户，与杨白泽关系匪浅，将和王长亭交手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "关系匪浅"
+        },
+        {
+          "target": "王长亭",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　只要经营权在手，那盈利还是亏损，岂不就是他刘典的一句话",
-        "”　　“只要大人您能帮我复仇.”　　无外乎是剥皮拆骨，将整个丰臣家族一口吃个干干净净",
-        "只要他敢说一个‘不’字，如今已经板上钉钉将要升任江户城宣慰使的刘典，有一万种办法整死丰臣家族的子弟"
+        "杨白泽和犬山城锦衣卫百户阎君关系匪浅",
+        "现在我和阎君交手已经板上钉钉的事情"
       ],
-      "mention_count": 5
+      "mention_count": 3
     },
     {
-      "name": "虽然",
+      "name": "裴行俭",
       "aliases": [],
-      "identity": "",
+      "identity": "重庆府知府",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第445章祸乱聚首",
-      "summary": "虽然这场交易是刘典在居中牵线搭桥，但以儒教门阀的规矩，大部分好处还是不会落在他的手中",
+      "summary": "重庆府知府，杨白泽的老师。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "师生"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "虽然这场交易是刘典在居中牵线搭桥，但以儒教门阀的规矩，大部分好处还是不会落在他的手中",
-        "不瞒先生您说，虽然老祖宗言明了只是代管丰臣家族的产业，等到苏策那个狂徒伏法之后便尽数归还，但这些不过是为了不落人话柄的说辞罢了，先生你也应该清楚",
-        "刘典长吟一声，“虽然我没能阻止锦衣卫倒行逆施，但身为儒序中人，我心中一直秉持着‘公义’二字"
+        "是现任重庆府知府裴行俭的学生。"
       ],
-      "mention_count": 5
+      "mention_count": 1
+    },
+    {
+      "name": "明王",
+      "aliases": [],
+      "identity": "与阎君对立的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第445章祸乱聚首",
+      "summary": "与阎君有矛盾，王长亭建议刘典与其联手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阎君",
+          "type": "对立"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "如果你愿意和他联手解决阎君，难道他还会对你拒之千里？"
+      ],
+      "mention_count": 1
     }
   ]
 }

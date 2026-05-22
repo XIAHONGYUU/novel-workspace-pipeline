@@ -1,258 +1,358 @@
 {
   "chunk_id": "chunk-0754",
-  "title": "第七百五十章 封印（一）",
   "characters": [
     {
-      "name": "林新",
+      "name": "林意",
       "aliases": [],
-      "identity": "",
+      "identity": "幽界守护者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第七百五十章 封印（一）",
-      "summary": "林新带人正站在洞口，往里观望",
+      "summary": "幽界中与林外一同应对天尊攻击的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "林外",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林外对话，发现天尊攻击幽界阵法。"
+        }
+      ],
+      "evidence": [
+        "林意笑道。",
+        "林意两人顿时抬头望去。",
+        "林意大吼。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林外",
+      "aliases": [],
+      "identity": "幽界守护者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七百五十章 封印（一）",
+      "summary": "幽界中与林意一同应对天尊攻击的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "星力操纵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林意",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "全力发动星力操纵帮助阵法抵抗天尊大手。"
+        }
+      ],
+      "evidence": [
+        "林外还想说什么。",
+        "林外扬手一抓。全力发动星力操纵。",
+        "林外顿时直奔中央道宫。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林新",
+      "aliases": [
+        "陈叔"
+      ],
+      "identity": "湖山宗宗主",
+      "faction": "湖山宗",
+      "status": "登场",
+      "first_appearance": "第七百五十章 封印（一）",
+      "summary": "湖山宗宗主，被尊为道门圣君，在小世界孔灵山处理尸王封印事宜。",
+      "appearance": [],
+      "personality": [
+        "温和"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "袁晓京",
+          "type": "熟人（被称作陈叔）"
+        },
+        {
+          "target": "元庆",
+          "type": "弟子"
+        },
+        {
+          "target": "赵无眠",
+          "type": "随行"
+        },
+        {
+          "target": "姚媛慧",
+          "type": "随行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带人进入孔灵山山洞，与袁家殷家会面。"
+        }
+      ],
+      "evidence": [
+        "林新带人正站在洞口，往里观望。",
+        "林新微微摆出一宗之主的威严。",
+        "原来是小京侄女，想不到你居然便是降魔世家袁家的人。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陆离",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七百五十章 封印（一）",
+      "summary": "林新身边的人物，但当前不在场。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "随行（通常）"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "林新带人正站在洞口，往里观望",
-        "”林新边上陆离问道",
-        "”　　林新打断道"
+        "陆离不在，他身边此时便是赵无眠和姚媛慧两人随行"
       ],
-      "mention_count": 11
+      "mention_count": 1
+    },
+    {
+      "name": "赵无眠",
+      "aliases": [],
+      "identity": "湖山宗弟子",
+      "faction": "湖山宗",
+      "status": "登场",
+      "first_appearance": "第七百五十章 封印（一）",
+      "summary": "林新随行人员之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "随行"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他身边此时便是赵无眠和姚媛慧两人随行"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "姚媛慧",
+      "aliases": [],
+      "identity": "湖山宗弟子",
+      "faction": "湖山宗",
+      "status": "登场",
+      "first_appearance": "第七百五十章 封印（一）",
+      "summary": "林新随行人员之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "随行"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他身边此时便是赵无眠和姚媛慧两人随行"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "袁晓京",
+      "aliases": [
+        "小京侄女"
+      ],
+      "identity": "降魔世家袁家成员",
+      "faction": "袁家",
+      "status": "登场",
+      "first_appearance": "第七百五十章 封印（一）",
+      "summary": "袁家天才精英，与殷明志一同负责封印尸王计都。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "殷明志",
+          "type": "同伴"
+        },
+        {
+          "target": "袁绍军",
+          "type": "叔伯"
+        },
+        {
+          "target": "林新",
+          "type": "熟人（被称作陈叔）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与殷明志检查封印，后与林新会面。"
+        }
+      ],
+      "evidence": [
+        "袁晓京仔细检查了封印",
+        "原来是小京侄女，想不到你居然便是降魔世家袁家的人。",
+        "袁晓京张大嘴，此时还没反应过来"
+      ],
+      "mention_count": 4
     },
     {
       "name": "殷明志",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "降魔世家殷家成员",
+      "faction": "殷家",
       "status": "登场",
       "first_appearance": "第七百五十章 封印（一）",
-      "summary": "”袁晓京仔细检查了封印，扭头朝殷明志点点头",
+      "summary": "殷家天才精英，与袁晓京一同负责封印尸王计都。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”袁晓京仔细检查了封印，扭头朝殷明志点点头",
-        "但真正修为最高的，还是殷明志和袁晓京两人",
-        "”殷明志解释道"
+      "relationships": [
+        {
+          "target": "袁晓京",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁晓京检查封印，后与林新会面。"
+        }
+      ],
+      "evidence": [
+        "殷明志和袁晓京两人。",
+        "殷明志第一个朝着封印密室出口走去。",
+        "殷明志和袁晓京是最先感觉这群人不对劲的。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "居然",
+      "name": "袁绍军",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "降魔世家袁家叔伯",
+      "faction": "袁家",
       "status": "登场",
       "first_appearance": "第七百五十章 封印（一）",
-      "summary": "这等绝对机密的地方，居然有外人知道，并且还赶过来了带这么多人",
+      "summary": "袁家叔伯辈人物，在场参与封印事务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这等绝对机密的地方，居然有外人知道，并且还赶过来了带这么多人",
-        "而且就算是这般打扮，居然还反而给人一种更加端庄中正的感觉",
-        "现在居然湖山宗的人跑来说，让所有事务转交给他们"
+      "relationships": [
+        {
+          "target": "袁晓京",
+          "type": "叔侄"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁晓京等人一同在封印处。"
+        }
+      ],
+      "evidence": [
+        "袁绍军等袁家的叔伯一辈在场。",
+        "袁绍军叹气道。",
+        "袁绍军皱眉道。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "我们",
+      "name": "元庆",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "湖山宗弟子，林新第七十九位人仙弟子",
+      "faction": "湖山宗",
       "status": "登场",
       "first_appearance": "第七百五十章 封印（一）",
-      "summary": "就算是地仙位业加持，我们的阵法嵌套，也远超一般圣地，支撑个数日时间也没问题",
-      "appearance": [],
-      "personality": [],
+      "summary": "林新的女弟子，人仙修为，华云派创派真人。",
+      "appearance": [
+        "女道人打扮"
+      ],
+      "personality": [
+        "不快"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就算是地仙位业加持，我们的阵法嵌套，也远超一般圣地，支撑个数日时间也没问题",
-        "“我们也是后来发现那几人行踪，才跟着找到这里",
-        "”　　“叔叔放心，这封印绝对足够牢固，只要无有外力，应该是能维持百年，等百年后，我们后人再来加固，也算恰好"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "弟子"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "代表湖山宗与降魔世家交涉，后随林新进入封印密室。"
+        }
+      ],
+      "evidence": [
+        "最前面的一女道人淡淡吩咐道。",
+        "作为林新第七十九位人仙弟子",
+        "女道人微微一蹙，还想再说。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "已经",
+      "name": "袁家年轻女子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "降魔世家袁家成员",
+      "faction": "袁家",
       "status": "登场",
       "first_appearance": "第七百五十章 封印（一）",
-      "summary": "只见一只巨大无比的人手，已经不知道什么时候，扎进了层层阵法力场中",
+      "summary": "袁绍军身边感知到有人来的女子。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只见一只巨大无比的人手，已经不知道什么时候，扎进了层层阵法力场中",
-        "“已经有人先进去了",
-        "“就算没问题，也要加派人手尽心防备，已经有一股尸王气逃脱，若是再被脱离第二股，那天下又要生灵涂炭了"
+      "abilities": [
+        "感知"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百五十章 封印（一）",
-      "summary": "他们两人是家族中最天才的精英人物，所以当初才被派出和宏德道人一同封印尸王计都",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他们两人是家族中最天才的精英人物，所以当初才被派出和宏德道人一同封印尸王计都",
-        "“去会会他们",
-        "他们站到最前面去，扫视这群人的神色"
+      "relationships": [
+        {
+          "target": "袁绍军",
+          "type": "随从"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "殷明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百五十章 封印（一）",
-      "summary": "”袁晓京仔细检查了封印，扭头朝殷明志点点头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”袁晓京仔细检查了封印，扭头朝殷明志点点头",
-        "但真正修为最高的，还是殷明志和袁晓京两人",
-        "”殷明志解释道"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提醒有人到来。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百五十章 封印（一）",
-      "summary": "我和你爹都会全力支持你们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "我和你爹都会全力支持你们",
-        "“这里很危险，你们这群人是从哪来",
-        "你们便是守在这里的降魔世家袁家和殷家吧"
+        "忽然袁绍军身边一年轻女子神色微动。",
+        "女子摇头。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百五十章 封印（一）",
-      "summary": "”林意两人顿时抬头望去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林意两人顿时抬头望去",
-        "”　　两人顿时面色大变",
-        "林外顿时直奔中央道宫"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "林意",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百五十章 封印（一）",
-      "summary": "”林意笑道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林意笑道",
-        "”林意两人顿时抬头望去",
-        "”　　林意大吼"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "此时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百五十章 封印（一）",
-      "summary": "黄金女神像此时开始荡漾起一圈圈的金色灵光，仿佛释放出一丝丝威压，抵消天尊压迫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黄金女神像此时开始荡漾起一圈圈的金色灵光，仿佛释放出一丝丝威压，抵消天尊压迫",
-        "此时山脚某处山洞前",
-        "陆离不在，他身边此时便是赵无眠和姚媛慧两人随行，其余弟子都在四处负责搜刮天材地宝，以及搜集资质好的弟子为徒"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "其余",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百五十章 封印（一）",
-      "summary": "陆离不在，他身边此时便是赵无眠和姚媛慧两人随行，其余弟子都在四处负责搜刮天材地宝，以及搜集资质好的弟子为徒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陆离不在，他身边此时便是赵无眠和姚媛慧两人随行，其余弟子都在四处负责搜刮天材地宝，以及搜集资质好的弟子为徒",
-        "一行人留下两个看守封印，其余人跟上去",
-        "“既然是小京侄女，那么你们可以允许留下三人，其余的都得退出去"
-      ],
-      "mention_count": 5
+      "mention_count": 2
     }
   ]
 }

@@ -1,255 +1,202 @@
 {
   "chunk_id": "chunk-0222",
-  "title": "第220章锦衣洗地",
   "characters": [
     {
       "name": "王谢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第220章锦衣洗地",
-      "summary": "”　　王谢跳下窗户，腰间绣春刀鞘打着飞鱼服的下摆，发出一声清脆声响",
+      "summary": "锦衣卫成员，受燕八荒指派处理金生火之事。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　王谢跳下窗户，腰间绣春刀鞘打着飞鱼服的下摆，发出一声清脆声响",
-        "”　　王谢叹了口气，“杀了吧，看着怪可怜的",
-        "”　　李钧深深看了王谢一眼，随后五指微微用力"
+      "personality": [
+        "油滑",
+        "谨慎"
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "张汝贞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第220章锦衣洗地",
-      "summary": "【获得精通点90点】　　张汝贞双眉倒竖，却猛然收住了口中声音",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "绣春刀",
+        "无常簿指环"
+      ],
+      "relationships": [
+        {
+          "target": "燕八荒",
+          "type": "上司"
+        },
+        {
+          "target": "李钧",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧一同处理金生火尸体，并汇报给燕八荒。"
+        }
+      ],
       "evidence": [
-        "【获得精通点90点】　　张汝贞双眉倒竖，却猛然收住了口中声音",
-        "张汝贞怒道：“欲加之罪，何患无辞",
-        "一副油盐不进，水泼不入的模样，让张汝贞不禁恨的牙痒"
+        "王谢跳下窗户，腰间绣春刀鞘打着飞鱼服的下摆",
+        "王谢摘下嘴角烧了一半的纸烟",
+        "王谢翻了个白眼，酸溜溜道"
       ],
       "mention_count": 10
     },
     {
-      "name": "燕八荒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第220章锦衣洗地",
-      "summary": "”　　燕八荒的投影一阵晃动，在消失之前，抛下掷地有声的一句话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　燕八荒的投影一阵晃动，在消失之前，抛下掷地有声的一句话",
-        "“燕八荒，你到底是什么意思",
-        "”　　能被王谢称为老板的人，自然只有重庆府锦衣卫百户，燕八荒"
-      ],
-      "mention_count": 9
-    },
-    {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第220章锦衣洗地",
-      "summary": "他凑近李钧身边，看着眼被他提在手中的头颅",
+      "summary": "锦衣卫成员，与王谢一同行动，性格沉默。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉默",
+        "警觉"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他凑近李钧身边，看着眼被他提在手中的头颅",
-        "”　　李钧深深看了王谢一眼，随后五指微微用力",
-        "”　　李钧眯着眼说道：“别以为你是个实诚人，我就不打你"
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "同僚"
+        },
+        {
+          "target": "燕八荒",
+          "type": "上司"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与王谢一起处理金生火，并汇报给燕八荒。"
+        }
+      ],
+      "evidence": [
+        "李钧深深看了王谢一眼，随后五指微微用力",
+        "李钧眯着眼说道",
+        "李钧默然点了点头"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "燕八",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "燕八荒",
+      "aliases": [
+        "燕百户",
+        "老板"
+      ],
+      "identity": "重庆府锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "登场（投影）",
       "first_appearance": "第220章锦衣洗地",
-      "summary": "”　　燕八荒的投影一阵晃动，在消失之前，抛下掷地有声的一句话",
+      "summary": "锦衣卫百户，王谢和李钧的上司，通过投影与二人交流。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "威严",
+        "老练"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　燕八荒的投影一阵晃动，在消失之前，抛下掷地有声的一句话",
-        "“燕八荒，你到底是什么意思",
-        "”　　能被王谢称为老板的人，自然只有重庆府锦衣卫百户，燕八荒"
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "下属"
+        },
+        {
+          "target": "李钧",
+          "type": "下属"
+        },
+        {
+          "target": "张汝贞",
+          "type": "对立"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "张汝",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第220章锦衣洗地",
-      "summary": "【获得精通点90点】　　张汝贞双眉倒竖，却猛然收住了口中声音",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【获得精通点90点】　　张汝贞双眉倒竖，却猛然收住了口中声音",
-        "张汝贞怒道：“欲加之罪，何患无辞",
-        "一副油盐不进，水泼不入的模样，让张汝贞不禁恨的牙痒"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过投影与王谢、李钧对话，并敲打张汝贞。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "你好",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第220章锦衣洗地",
-      "summary": "第220章锦衣洗地　　“你好歹也算锦衣卫出身，这刑讯逼供可是吃饭的本事，怎么到你手里啥都不剩了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第220章锦衣洗地　　“你好歹也算锦衣卫出身，这刑讯逼供可是吃饭的本事，怎么到你手里啥都不剩了",
-        "”　　“燕百户，你好大的官威啊"
+        "燕八荒的投影一阵晃动",
+        "燕八荒平静道",
+        "燕八荒摆开官威，拿出官腔"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "金生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第220章锦衣洗地",
-      "summary": "”　　“金生火勾结鸿鹄反贼，图谋谋逆叛乱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“金生火勾结鸿鹄反贼，图谋谋逆叛乱",
-        "不过随着细线抽出，‘死而复生’的金生火很快便再次没了动静",
-        "你明明知道金生火不是鸿鹄中人.”　　“张公公还是个知情人"
-      ],
-      "mention_count": 4
+      "mention_count": 8
     },
     {
       "name": "金生火",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "疑似鸿鹄反贼",
+      "faction": "鸿鹄（疑似）",
+      "status": "死亡",
       "first_appearance": "第220章锦衣洗地",
-      "summary": "”　　“金生火勾结鸿鹄反贼，图谋谋逆叛乱",
+      "summary": "被锦衣卫击杀的人物，死前被王谢提取意识。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“金生火勾结鸿鹄反贼，图谋谋逆叛乱",
-        "不过随着细线抽出，‘死而复生’的金生火很快便再次没了动静",
-        "你明明知道金生火不是鸿鹄中人.”　　“张公公还是个知情人"
+      "equipment": [
+        "械心"
       ],
-      "mention_count": 4
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "审讯对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被锦衣卫击杀，意识被传入诏狱。"
+        }
+      ],
+      "evidence": [
+        "金生火勾结鸿鹄反贼",
+        "金生火你也是个人物",
+        "本该死亡的金生火，五官猛然抽动"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "看着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张汝贞",
+      "aliases": [
+        "张公公"
+      ],
+      "identity": "王府管家",
+      "faction": "秦王王府",
       "status": "登场",
       "first_appearance": "第220章锦衣洗地",
-      "summary": "他凑近李钧身边，看着眼被他提在手中的头颅",
+      "summary": "秦王王府管家，与锦衣卫燕八荒发生冲突。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "愤怒",
+        "阴冷"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他凑近李钧身边，看着眼被他提在手中的头颅",
-        "”　　王谢叹了口气，“杀了吧，看着怪可怜的",
-        "”　　他看着从门口蜂拥而入的守楼山卫，将手中的绣春刀平举向前"
+      "relationships": [
+        {
+          "target": "燕八荒",
+          "type": "对立"
+        },
+        {
+          "target": "金生火",
+          "type": "疑似庇护"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "你现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第220章锦衣洗地",
-      "summary": "“问话是不行了，上传意识进诏狱也不行，你现在的身份也没资格进诏狱审问",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“问话是不行了，上传意识进诏狱也不行，你现在的身份也没资格进诏狱审问"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与燕八荒争执金生火之死，被燕八荒敲打。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "锦衣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第220章锦衣洗地",
-      "summary": "第220章锦衣洗地　　“你好歹也算锦衣卫出身，这刑讯逼供可是吃饭的本事，怎么到你手里啥都不剩了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第220章锦衣洗地　　“你好歹也算锦衣卫出身，这刑讯逼供可是吃饭的本事，怎么到你手里啥都不剩了",
-        "锦衣卫要将他缉拿归案，却遭到了强烈反抗，无奈之下只能就地格杀",
-        "”　　能被王谢称为老板的人，自然只有重庆府锦衣卫百户，燕八荒"
+        "张汝贞双眉倒竖",
+        "张汝贞怒道",
+        "张汝贞挤眉弄眼，身上阴气纵横"
       ],
-      "mention_count": 3
+      "mention_count": 7
     }
   ]
 }

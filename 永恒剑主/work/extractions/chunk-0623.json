@@ -1,258 +1,337 @@
 {
   "chunk_id": "chunk-0623",
-  "title": "第六百一十九章 勇气（六）",
   "characters": [
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "”他回头看向跟在后面的林新",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他回头看向跟在后面的林新",
-        "”　　林新点头，宋丹浩等人离开了，周边又开始隐隐听到雪人怒吼声",
-        "前面黑暗拐角处，一头头身高两米以上的雪人纷纷走出来，悍不畏死朝林新扑来"
-      ],
-      "mention_count": 32
-    },
     {
       "name": "风槐",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "碧湖山修士",
+      "faction": "碧湖山",
       "status": "登场",
       "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "”　　风槐伸手在宋丹浩等人做过的雪地摸了下",
+      "summary": "碧湖山修士，带领队伍寻找雪人王的勇气，拥有七色彩珠手链，能开启通往虚无宫的光门。",
+      "appearance": [],
+      "personality": [
+        "冷笑",
+        "果断"
+      ],
+      "abilities": [
+        "使用七色彩珠开启光门",
+        "刻画阵符纹路"
+      ],
+      "equipment": [
+        "七色彩珠手链"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同伴"
+        },
+        {
+          "target": "郑融",
+          "type": "副手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现宋丹浩等人消失，启动七色彩珠进入虚无宫"
+        }
+      ],
+      "evidence": [
+        "风槐伸手在宋丹浩等人做过的雪地摸了下。",
+        "风槐冷笑，从怀里摸出七色彩珠穿成的一串小手链。",
+        "风槐正忙碌着摆放一颗颗彩色珠子，在地面刻画出稀奇古怪的阵符纹路。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "林新",
+      "aliases": [
+        "林兄"
+      ],
+      "identity": "碧湖山修士",
+      "faction": "碧湖山",
+      "status": "登场",
+      "first_appearance": "第六百一十九章 勇气（六）",
+      "summary": "碧湖山修士，实力强大，能轻松击杀雪人，拥有红花剑，被风槐任命为领队大师兄。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "剑术高超",
+        "能查看自身属性"
+      ],
+      "equipment": [
+        "红花剑"
+      ],
+      "relationships": [
+        {
+          "target": "风槐",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "清理雪人，进入虚无宫，被任命为领队"
+        }
+      ],
+      "evidence": [
+        "林新点头，脚下轻轻一跃，朝着侧面远处雪地掠去。",
+        "林新看也不看，剑柄微微模糊了下，便看到他四周的雪人瞬间崩散，化为雪粉散落在地。",
+        "林新沉默了下。‘那好。之后的事，你处理。’锵！他拔出红花剑。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "郑融",
+      "aliases": [
+        "副手"
+      ],
+      "identity": "碧湖山修士，风槐的副手",
+      "faction": "碧湖山",
+      "status": "登场",
+      "first_appearance": "第六百一十九章 勇气（六）",
+      "summary": "风槐的副手，参与寻找雪人王的勇气行动。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　风槐伸手在宋丹浩等人做过的雪地摸了下",
-        "”风槐冷笑，从怀里摸出七色彩珠穿成的一串小手链",
-        "只是稍微用力，风槐等人便被甩在身后"
+      "relationships": [
+        {
+          "target": "风槐",
+          "type": "副手"
+        }
       ],
-      "mention_count": 22
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风槐一起核对光门，进入虚无宫"
+        }
+      ],
+      "evidence": [
+        "副手郑融皱眉道",
+        "风槐和副手郑融仔细核对了数遍"
+      ],
+      "mention_count": 3
     },
     {
       "name": "宋丹浩",
       "aliases": [],
-      "identity": "",
+      "identity": "未知势力修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "”　　风槐伸手在宋丹浩等人做过的雪地摸了下",
+      "summary": "带领三人进入黑色宫殿，通过滴血在嘴唇上获得淡黄色三角形令牌，被四耳杜启君追杀。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "使用令牌释放黄沙"
+      ],
+      "equipment": [
+        "淡黄色三角形令牌"
+      ],
+      "relationships": [
+        {
+          "target": "许玲",
+          "type": "同伴"
+        },
+        {
+          "target": "林耀阳",
+          "type": "同伴"
+        },
+        {
+          "target": "宫商白钰",
+          "type": "同伴"
+        },
+        {
+          "target": "四耳杜启君",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑色宫殿中取得令牌，被四耳杜启君追杀，使用令牌逃脱"
+        }
+      ],
       "evidence": [
-        "”　　风槐伸手在宋丹浩等人做过的雪地摸了下",
-        "”　　林新点头，宋丹浩等人离开了，周边又开始隐隐听到雪人怒吼声",
-        "宋丹浩四人浑身裹着带来的所有衣服，但还是忍不住浑身发冷发颤"
+        "宋丹浩扬起手，示意其余几人不要靠近。",
+        "宋丹浩接住令牌看了看，不顾上边恶心的粘液，心头却是一种莫名的冲动催促他动作快些。",
+        "宋丹浩猛地大吼一声。手中令牌轰然涌出无数黄沙，将四人包住。"
       ],
       "mention_count": 10
     },
     {
-      "name": "顿时",
+      "name": "许玲",
       "aliases": [],
-      "identity": "",
+      "identity": "未知势力修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "顿时将众人吹得微微歪斜",
+      "summary": "跟随宋丹浩进入黑色宫殿，被四耳杜启君袭击。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顿时将众人吹得微微歪斜",
-        "那有些腐烂发黑的嘴唇一碰到鲜血，顿时缓缓蠕动起来",
-        "”　　宋丹浩面色微变，听出这是外来修士的声音，顿时加快脚步，走到林耀阳三人中间，伸出手无声的在嘴边竖了竖"
+      "abilities": [
+        "有测毒能力"
       ],
-      "mention_count": 9
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        },
+        {
+          "target": "林耀阳",
+          "type": "同伴"
+        },
+        {
+          "target": "宫商白钰",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑色宫殿中，被宋丹浩推开躲过飞刀"
+        }
+      ],
+      "evidence": [
+        "许玲抬头往前望去",
+        "许玲第一个反应过来。‘小心！’宋丹浩猛然推开许玲。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "宋丹",
+      "name": "林耀阳",
       "aliases": [],
-      "identity": "",
+      "identity": "未知势力修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "”　　风槐伸手在宋丹浩等人做过的雪地摸了下",
+      "summary": "跟随宋丹浩进入黑色宫殿，被西亚逼来卷入漩涡。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　风槐伸手在宋丹浩等人做过的雪地摸了下",
-        "”　　林新点头，宋丹浩等人离开了，周边又开始隐隐听到雪人怒吼声",
-        "宋丹浩四人浑身裹着带来的所有衣服，但还是忍不住浑身发冷发颤"
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        },
+        {
+          "target": "西亚",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与宋丹浩等人一起被四耳杜启君追杀"
+        }
+      ],
+      "evidence": [
+        "林耀阳也只能赶紧跟上。",
+        "西亚把林耀阳弄过来，逼他赶过来被卷入这个漩涡"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "风槐冷",
+      "name": "宫商白钰",
       "aliases": [],
-      "identity": "",
+      "identity": "未知势力修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "”风槐冷笑，从怀里摸出七色彩珠穿成的一串小手链",
+      "summary": "跟随宋丹浩进入黑色宫殿。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”风槐冷笑，从怀里摸出七色彩珠穿成的一串小手链",
-        "”风槐冷笑道，“我们最好速度快些，我怕晚了四海仙山幻海极地的人捷足先登",
-        "”风槐冷笑，“既然已经撕破脸了，也别管那么多，天塌下来我扛"
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与宋丹浩等人一起被四耳杜启君追杀"
+        }
+      ],
+      "evidence": [
+        "宋丹浩拉着宫商白钰和许玲，便飞速朝宫殿深处跑去。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "黑暗",
-      "aliases": [],
-      "identity": "",
+      "name": "四耳杜启君",
+      "aliases": [
+        "四耳仙杜启君"
+      ],
+      "identity": "未知势力修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "前面黑暗拐角处，一头头身高两米以上的雪人纷纷走出来，悍不畏死朝林新扑来",
+      "summary": "追杀宋丹浩等人的修士，带着三个白金袍子修士。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "前面黑暗拐角处，一头头身高两米以上的雪人纷纷走出来，悍不畏死朝林新扑来",
-        "黑暗中，一双巨大无比的白色眼睛，正仰着头从下方望着他们",
-        "“太冷了……”许玲抬头往前望去，黑暗里的宫殿深处，一眼看不到边，仿佛根本没什么尽头"
+      "personality": [
+        "平静温和",
+        "神秘微笑"
       ],
-      "mention_count": 6
+      "abilities": [
+        "使用红色飞刀"
+      ],
+      "equipment": [
+        "红色飞刀"
+      ],
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑色宫殿中追上宋丹浩四人，发动攻击"
+        }
+      ],
+      "evidence": [
+        "四耳杜启君的嗓音从后侧方轻轻传过来。",
+        "四耳仙杜启君却是丝毫不急，脸上再度泛起一丝神秘微笑。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他带",
+      "name": "西亚",
       "aliases": [],
-      "identity": "",
+      "identity": "未知势力修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "”　　他带着令牌往回走",
+      "summary": "将林耀阳逼来卷入漩涡的人物，仅被提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "林耀阳",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　他带着令牌往回走",
-        "黑暗宫殿里，他带着三个白金袍子修士一起，不知道什么时候追上来的，正平静温和的看着四人",
-        "”　　他带头朝着宫殿深处走去"
+        "西亚把林耀阳弄过来，逼他赶过来被卷入这个漩涡"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "其余",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "其余队员在一旁警戒和帮忙刻画符纹",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其余队员在一旁警戒和帮忙刻画符纹",
-        "“我真正实际上，才杀了不过十几头雪人，其余都因为没用净化之力而没能杀死",
-        "其余人这才纷纷鱼贯而入"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "像是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "像是在呼唤什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "像是在呼唤什么",
-        "四人一起绕过大树，分别在树边上的几个位置来来回回走了数次，像是在踩踏什么阵法一般",
-        "轰隆一下，大量金灿灿的黄沙一下凝聚起来，像是被巨人抓在手心紧紧握住，形成一颗圆球"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "只是稍微用力，风槐等人便被甩在身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是稍微用力，风槐等人便被甩在身后",
-        "“只是不知道五阶到六阶，到底有多少属性的差距",
-        "这张嘴在密密麻麻的无数嘴巴中毫不起眼，但宋丹浩却是不知道为什么，只是单单滴血在它上边"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "前面",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百一十九章 勇气（六）",
-      "summary": "前面黑暗拐角处，一头头身高两米以上的雪人纷纷走出来，悍不畏死朝林新扑来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "前面黑暗拐角处，一头头身高两米以上的雪人纷纷走出来，悍不畏死朝林新扑来",
-        "“在前面",
-        "前面黑乎乎的地上是一把把倒插着的各式各样的兵刃"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

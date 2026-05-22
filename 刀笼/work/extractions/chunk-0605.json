@@ -1,252 +1,311 @@
 {
   "chunk_id": "chunk-0605",
-  "title": "第二十二章 思索",
   "characters": [
     {
-      "name": "朱太",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十二章 思索",
-      "summary": "”进门之后，朱太后第一句便是如此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”进门之后，朱太后第一句便是如此",
-        "”    朱太后虽然语气平淡，但鱼总管已然浑身大汗，‘啪嗒’一声，跪了下来",
-        "”    “天宗今日去见十大福地的散人是吧，本宫和你同去，”朱太后看向戚笼，露出一个微笑"
-      ],
-      "mention_count": 15
-    },
-    {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "天宗",
+        "夜天宗"
+      ],
+      "identity": "夜昼国新皇",
+      "faction": "夜昼国皇室",
       "status": "登场",
       "first_appearance": "第二十二章 思索",
-      "summary": "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
+      "summary": "夜昼国新皇，龙脉融入夜昼国，正在研究人道力量与上古世界投影。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
-        "’    ‘……’    戚笼合上古籍，夜昼国拥有大量上古人族血脉，不论民间也好，还是官方也好，自然有关于这方面的大量记载",
-        "正如昨夜，戚笼在侍女嘴中看到的一样"
+      "personality": [
+        "冷静",
+        "善于思考",
+        "谨慎"
       ],
-      "mention_count": 8
+      "abilities": [
+        "龙脉",
+        "人道刀术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "不周",
+          "type": "敌对"
+        },
+        {
+          "target": "朱太后",
+          "type": "太后与皇帝"
+        },
+        {
+          "target": "金观真人",
+          "type": "臣属"
+        },
+        {
+          "target": "鱼总管",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "被刺杀，但未成功，开始研究夜昼国上古血脉和人道力量。"
+        }
+      ],
+      "evidence": [
+        "戚笼合上古籍，夜昼国拥有大量上古人族血脉",
+        "戚笼不仅没有担忧，反而有一种深深的惊喜",
+        "天宗，听说你昨夜被刺杀了？"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "夜昼国",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "朱太后",
+      "aliases": [
+        "夜皇太后"
+      ],
+      "identity": "夜昼国皇太后",
+      "faction": "夜昼国皇室",
       "status": "登场",
       "first_appearance": "第二十二章 思索",
-      "summary": "在夜昼国，白天是明亮的‘黑暗’，而夜晚则是昏沉的‘白天’，明明是白天，却一点光线都无，反之亦然；所以这就导致了初入夜昼国的普通人，会生出一种名为‘颠倒病’的特殊病症，往往会伴随着头晕、呕吐、心跳加快、难以入睡等症状",
+      "summary": "夜昼国皇太后，对戚笼态度微妙，似乎有拉拢之意。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "威严",
+        "精明"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在夜昼国，白天是明亮的‘黑暗’，而夜晚则是昏沉的‘白天’，明明是白天，却一点光线都无，反之亦然；所以这就导致了初入夜昼国的普通人，会生出一种名为‘颠倒病’的特殊病症，往往会伴随着头晕、呕吐、心跳加快、难以入睡等症状",
-        "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
-        "’    ‘……’    戚笼合上古籍，夜昼国拥有大量上古人族血脉，不论民间也好，还是官方也好，自然有关于这方面的大量记载"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "太后与皇帝"
+        },
+        {
+          "target": "金观真人",
+          "type": "随从"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "与金观真人一同见戚笼，询问刺杀事件，并决定同去会见散人。"
+        }
+      ],
+      "evidence": [
+        "殿下，夜皇太后和金观真人就在门口",
+        "天宗，听说你昨夜被刺杀了？",
+        "本宫和你同去"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "或者",
+      "name": "金观真人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "夜昼国真人",
+      "faction": "夜昼国",
       "status": "登场",
       "first_appearance": "第二十二章 思索",
-      "summary": "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
+      "summary": "夜昼国真人，与朱太后一同见戚笼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
-        "而且不同于‘斩天刀寇’的暴虐，又或者是‘照家魔剑’的愤戾，那股力量给自己的感觉，是一股极深沉的怨气",
-        "‘自己，或者说自己的前身，一定是和人道力量有某种瓜葛的，不然也不会孕育人道的刀术，只不过有‘戒刀誓’，加上自己斩出戚大寇继承这种力量，已经完全断绝了这层因果"
+      "relationships": [
+        {
+          "target": "朱太后",
+          "type": "随从"
+        },
+        {
+          "target": "戚笼",
+          "type": "臣属"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "与朱太后一同见戚笼。"
+        }
+      ],
+      "evidence": [
+        "殿下，夜皇太后和金观真人就在门口"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "有人",
+      "name": "鱼总管",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "夜昼国总管",
+      "faction": "夜昼国皇室",
       "status": "登场",
       "first_appearance": "第二十二章 思索",
-      "summary": "不是有人说过么，世上只有两个地方消息传的最快，一个是皇宫，一个是妓院",
+      "summary": "夜昼国总管，因戚笼被刺杀而受到朱太后责难。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不是有人说过么，世上只有两个地方消息传的最快，一个是皇宫，一个是妓院",
-        "有人担忧、有人畏惧、有人暗喜、有人愤怒"
+      "personality": [
+        "谨慎",
+        "惶恐"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十二章 思索",
-      "summary": "而且不同于‘斩天刀寇’的暴虐，又或者是‘照家魔剑’的愤戾，那股力量给自己的感觉，是一股极深沉的怨气",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且不同于‘斩天刀寇’的暴虐，又或者是‘照家魔剑’的愤戾，那股力量给自己的感觉，是一股极深沉的怨气",
-        "”    “恩，天磁洞主是准备前来，而且是第一个同意的，不过因为修炼功法的原因，此人忽善忽恶，有时性如暖玉，有时性如烈火，很可能是过程之中，忽然性格大变，改变主意不来了",
-        "而且三人的态度也很有意思，看见自己，只是用好奇的眼光上下打量，见了金观真人，表情微微肃然，除了碧玉道人还大大咧咧的坐着，另外二人都站起来见礼，而等朱太后走进来后，就连碧玉真人也站了起来，态度居然也恭谨了一二分"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主仆"
+        },
+        {
+          "target": "朱太后",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这种",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十二章 思索",
-      "summary": "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "向戚笼报告四位散人已到，被朱太后责问刺杀事件。"
+        }
+      ],
       "evidence": [
-        "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
-        "不过他依旧感到头晕、恶心，这种病症既不是‘颠倒病’，也不是‘狼毒药’，而是一种人道的伤势，一如当年照灯笼的剑伤、戚大寇的刀伤",
-        "‘自己，或者说自己的前身，一定是和人道力量有某种瓜葛的，不然也不会孕育人道的刀术，只不过有‘戒刀誓’，加上自己斩出戚大寇继承这种力量，已经完全断绝了这层因果"
+        "陛下，四位散人已经到了偏殿",
+        "鱼总管小心翼翼道",
+        "死之前，希望你给本宫一个交代"
       ],
       "mention_count": 3
     },
     {
-      "name": "反舌国",
+      "name": "小媚仙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "媚仙坊主",
+      "faction": "散人",
       "status": "登场",
       "first_appearance": "第二十二章 思索",
-      "summary": "‘反舌国在其东，其国人反舌",
+      "summary": "十大福地之一的媚仙坊主，散人级别修行者。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "散人级修为"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "与碧玉道人、水产君一同在偏殿等候戚笼。"
+        }
+      ],
       "evidence": [
-        "‘反舌国在其东，其国人反舌",
-        "’    ‘一说南方有反舌国，舌本在前，末倒向喉，故曰反舌",
-        "而在各种典籍中，都有一个上古人国‘反舌国’，而其国民特征便是舌头反转，舌根在前，舌头在后"
+        "媚仙坊主小媚仙、青华山碧玉道人、水蛊谷水产君"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "碧玉道人",
+      "aliases": [],
+      "identity": "青华山福地主人",
+      "faction": "散人",
+      "status": "登场",
+      "first_appearance": "第二十二章 思索",
+      "summary": "青华山福地主人，散人级别修行者，态度较为随意。",
+      "appearance": [],
+      "personality": [
+        "大大咧咧"
+      ],
+      "abilities": [
+        "散人级修为"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "与媚仙坊主、水产君一同在偏殿等候戚笼。"
+        }
+      ],
+      "evidence": [
+        "除了碧玉道人还大大咧咧的坐着"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "水产君",
+      "aliases": [],
+      "identity": "水蛊谷福地主人",
+      "faction": "散人",
+      "status": "登场",
+      "first_appearance": "第二十二章 思索",
+      "summary": "水蛊谷福地主人，散人级别修行者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "散人级修为"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "与媚仙坊主、碧玉道人一同在偏殿等候戚笼。"
+        }
+      ],
+      "evidence": [
+        "水蛊谷水产君"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "不周",
+      "aliases": [],
+      "identity": "刺客",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第二十二章 思索",
+      "summary": "刺杀戚笼的刺客，被认为有能力和胆量行刺国君。",
+      "appearance": [],
+      "personality": [
+        "有风范"
+      ],
+      "abilities": [
+        "刺杀"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "刺杀戚笼，但未成功。"
+        }
+      ],
+      "evidence": [
+        "刺客一定是‘不周’派来的",
+        "这很有‘不周’的风范"
       ],
       "mention_count": 3
     },
     {
-      "name": "舌本",
+      "name": "天磁洞主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "十大福地之一的主人",
+      "faction": "散人",
+      "status": "提及",
       "first_appearance": "第二十二章 思索",
-      "summary": "’    ‘一说南方有反舌国，舌本在前，末倒向喉，故曰反舌",
+      "summary": "十大福地之一的天磁洞主，性格忽善忽恶，未到场。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "忽善忽恶",
+        "性如暖玉",
+        "性如烈火"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "’    ‘一说南方有反舌国，舌本在前，末倒向喉，故曰反舌"
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "原本同意前来，但因性格变化改变主意。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "夜昼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十二章 思索",
-      "summary": "在夜昼国，白天是明亮的‘黑暗’，而夜晚则是昏沉的‘白天’，明明是白天，却一点光线都无，反之亦然；所以这就导致了初入夜昼国的普通人，会生出一种名为‘颠倒病’的特殊病症，往往会伴随着头晕、呕吐、心跳加快、难以入睡等症状",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "在夜昼国，白天是明亮的‘黑暗’，而夜晚则是昏沉的‘白天’，明明是白天，却一点光线都无，反之亦然；所以这就导致了初入夜昼国的普通人，会生出一种名为‘颠倒病’的特殊病症，往往会伴随着头晕、呕吐、心跳加快、难以入睡等症状",
-        "好在戚笼没有，或者说，当戚笼这条龙脉融入夜昼国时，便自动适应了这种情况",
-        "’    ‘……’    戚笼合上古籍，夜昼国拥有大量上古人族血脉，不论民间也好，还是官方也好，自然有关于这方面的大量记载"
+        "天磁洞主是准备前来，而且是第一个同意的，不过因为修炼功法的原因，此人忽善忽恶"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "舌根",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十二章 思索",
-      "summary": "而在各种典籍中，都有一个上古人国‘反舌国’，而其国民特征便是舌头反转，舌根在前，舌头在后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在各种典籍中，都有一个上古人国‘反舌国’，而其国民特征便是舌头反转，舌根在前，舌头在后"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "舌头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十二章 思索",
-      "summary": "而在各种典籍中，都有一个上古人国‘反舌国’，而其国民特征便是舌头反转，舌根在前，舌头在后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在各种典籍中，都有一个上古人国‘反舌国’，而其国民特征便是舌头反转，舌根在前，舌头在后",
-        "他可以肯定，那股黑暗力量就是从对方嘴中，确切的说，是舌头中发起的"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

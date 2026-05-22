@@ -1,250 +1,258 @@
 {
   "chunk_id": "chunk-0069",
-  "title": "第68章冲突",
   "characters": [
     {
       "name": "杨虎畴",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "杨县丞"
+      ],
+      "identity": "杨氏二房家主，前绵州县丞",
+      "faction": "杨氏二房",
       "status": "登场",
       "first_appearance": "第68章冲突",
-      "summary": "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎",
-      "appearance": [],
-      "personality": [],
+      "summary": "杨氏二房家主，前绵州县丞，为保护家族和先祖遗物与两大门阀对抗。",
+      "appearance": [
+        "阖眼坐在太师椅中，似一头入眠倦虎"
+      ],
+      "personality": [
+        "宠辱不惊",
+        "有骨气",
+        "老谋深算"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎",
-        "“摆什么龙门阵呢，说你杨虎畴宠辱不惊我还相信，他顾邕也配",
-        "”　　杨虎畴似笑非笑道：“吴老狗，我要是把东西给你，你能拿得稳"
+      "relationships": [
+        {
+          "target": "顾邕",
+          "type": "敌对"
+        },
+        {
+          "target": "吴锦丰",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在正房前与顾邕、吴锦丰对峙，提出以祖宗遗馈换取家族周全。"
+        }
+      ],
+      "evidence": [
+        "杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎。",
+        "杨虎畴似笑非笑道：“吴老狗，我要是把东西给你，你能拿得稳？周围这么多狼，我怕你一条狗挡不住啊。”",
+        "杨虎畴拍了拍身旁儒衫少年郎的肩头，朝着四周躬身作揖。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "顾邕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "顾家少爷"
+      ],
+      "identity": "蜀道物流掌舵人，益州顾家子弟",
+      "faction": "蜀道物流/益州顾家",
       "status": "登场",
       "first_appearance": "第68章冲突",
-      "summary": "穿着蜀道物流安保部黑色制服的人潮突然朝左右散开，顾邕面带微笑从中缓步走出",
-      "appearance": [],
-      "personality": [],
+      "summary": "蜀道物流掌舵人，代表益州顾家争夺杨氏先祖遗物。",
+      "appearance": [
+        "面带微笑"
+      ],
+      "personality": [
+        "云淡风轻",
+        "城府深"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "穿着蜀道物流安保部黑色制服的人潮突然朝左右散开，顾邕面带微笑从中缓步走出",
-        "顾甲向后飞退，重新落在顾邕身旁，右手背在身后，微微发颤",
-        "“摆什么龙门阵呢，说你杨虎畴宠辱不惊我还相信，他顾邕也配"
+      "relationships": [
+        {
+          "target": "杨虎畴",
+          "type": "敌对"
+        },
+        {
+          "target": "吴锦丰",
+          "type": "敌对"
+        },
+        {
+          "target": "顾甲",
+          "type": "主从"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "杨虎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第68章冲突",
-      "summary": "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎",
-        "“摆什么龙门阵呢，说你杨虎畴宠辱不惊我还相信，他顾邕也配",
-        "”　　杨虎畴似笑非笑道：“吴老狗，我要是把东西给你，你能拿得稳"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领蜀道物流人马与杨虎畴对峙，下令动手。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "顾邕面带微笑从中缓步走出。",
+        "顾邕神色真挚，拱手作揖，朝着老人行了个儒家弟子礼。",
+        "顾邕负手而立，目光扫视周围，出声警告：“各位不要自误！”"
+      ],
+      "mention_count": 10
     },
     {
       "name": "吴锦丰",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "吴老狗"
+      ],
+      "identity": "天府重工行动处负责人",
+      "faction": "天府重工/兖州吴家",
       "status": "登场",
       "first_appearance": "第68章冲突",
-      "summary": "敢这么驳斥自己脸面的人，只有那条肆意妄为的老狗，吴锦丰",
-      "appearance": [],
-      "personality": [],
+      "summary": "天府重工行动处负责人，性格疯狂，代表兖州吴家争夺杨氏先祖遗物。",
+      "appearance": [
+        "消瘦脸颊",
+        "锦缎长袍"
+      ],
+      "personality": [
+        "疯狂",
+        "凶悍",
+        "肆无忌惮"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "杨虎畴",
+          "type": "敌对"
+        },
+        {
+          "target": "顾邕",
+          "type": "敌对"
+        },
+        {
+          "target": "吴拱",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与杨虎畴对峙，下令开枪格杀勿论。"
+        }
+      ],
       "evidence": [
-        "敢这么驳斥自己脸面的人，只有那条肆意妄为的老狗，吴锦丰",
-        "一个面容寻常的男人出现在吴锦丰身侧，深陷的眼窝中有如刀眸光",
-        "吴锦丰毫无读书人的气度，侧头啐了一口痰，突然厉声喝道：“开枪，格杀勿论"
+        "吴锦丰毫无读书人的气度，侧头啐了一口痰，突然厉声喝道：“开枪，格杀勿论！”",
+        "吴锦丰眯着眼沉声道：“这就用不着你操心了。”",
+        "吴锦丰脊背微弯，脸上凶相毕露。"
       ],
       "mention_count": 8
-    },
-    {
-      "name": "吴锦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第68章冲突",
-      "summary": "敢这么驳斥自己脸面的人，只有那条肆意妄为的老狗，吴锦丰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "敢这么驳斥自己脸面的人，只有那条肆意妄为的老狗，吴锦丰",
-        "一个面容寻常的男人出现在吴锦丰身侧，深陷的眼窝中有如刀眸光",
-        "吴锦丰毫无读书人的气度，侧头啐了一口痰，突然厉声喝道：“开枪，格杀勿论"
-      ],
-      "mention_count": 7
     },
     {
       "name": "顾甲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "顾邕的护卫",
+      "faction": "蜀道物流/益州顾家",
       "status": "登场",
       "first_appearance": "第68章冲突",
-      "summary": "顾甲向后飞退，重新落在顾邕身旁，右手背在身后，微微发颤",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾甲向后飞退，重新落在顾邕身旁，右手背在身后，微微发颤",
-        "见杨虎畴居然敢用这种长辈点评后生的语气跟自家少爷说话，顾甲当即脸色一沉，正要开口呵斥，却被顾邕抬手拦住",
-        "这张脸顾甲刻骨铭心，正是和自己争斗多年的死敌"
+      "summary": "顾邕的护卫，与吴锦丰手下石成峰有旧怨。",
+      "appearance": [
+        "武服"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第68章冲突",
-      "summary": "仅有一两个没有遮挡的，露出的那张脸也是神色僵硬，俊美异常，一看就知道是临时换的脸",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "仅有一两个没有遮挡的，露出的那张脸也是神色僵硬，俊美异常，一看就知道是临时换的脸",
-        "”　　杨虎畴眼皮微抬，露出一条缝隙，毫无顾忌的上下打量顾邕"
+      "abilities": [
+        "武艺高强"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "各位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第68章冲突",
-      "summary": "“今日我杨虎畴说话算话，各位只要信守承诺，便不是抢，是赠",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“今日我杨虎畴说话算话，各位只要信守承诺，便不是抢，是赠",
-        "”　　顾邕负手而立，目光扫视周围，出声警告：“各位不要自误",
-        "接下来，就只能请各位自己照顾自己了"
+      "relationships": [
+        {
+          "target": "顾邕",
+          "type": "主从"
+        },
+        {
+          "target": "石成峰",
+          "type": "死敌"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "聚集",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第68章冲突",
-      "summary": "此刻杨氏二房所有还能喘气的子弟，都已经聚集到了这里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与石成峰对拳，右手受伤。"
+        }
+      ],
       "evidence": [
-        "此刻杨氏二房所有还能喘气的子弟，都已经聚集到了这里",
-        "聚集在一张端端正正摆在正房门口的太师椅后"
+        "顾甲向后飞退，重新落在顾邕身旁，右手背在身后，微微发颤。",
+        "这张脸顾甲刻骨铭心，正是和自己争斗多年的死敌。"
       ],
       "mention_count": 3
     },
     {
-      "name": "面对",
+      "name": "石成峰",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天府重工行动处一处处长",
+      "faction": "天府重工/兖州吴家",
       "status": "登场",
       "first_appearance": "第68章冲突",
-      "summary": "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎"
+      "summary": "天府重工行动处一处处长，与顾甲有旧怨。",
+      "appearance": [
+        "面容寻常",
+        "深陷的眼窝中有如刀眸光"
       ],
-      "mention_count": 3
+      "personality": [],
+      "abilities": [
+        "武艺高强"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴锦丰",
+          "type": "下属"
+        },
+        {
+          "target": "顾甲",
+          "type": "死敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与顾甲对拳，随后出现在吴锦丰身侧。"
+        }
+      ],
+      "evidence": [
+        "一个面容寻常的男人出现在吴锦丰身侧，深陷的眼窝中有如刀眸光。",
+        "天府重工行动处负责人，一处处长，石成峰。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "阖眼",
+      "name": "儒衫少年郎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "杨氏子弟，捧着卷轴",
+      "faction": "杨氏二房",
       "status": "登场",
       "first_appearance": "第68章冲突",
-      "summary": "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "面对身前密密麻麻的枪口，杨虎畴岿然不动，阖眼坐在椅中，似一头入眠倦虎"
+      "summary": "杨氏二房的一名少年子弟，负责捧着先祖遗物卷轴。",
+      "appearance": [
+        "面容清秀",
+        "身姿挺拔",
+        "儒衫",
+        "稚气未褪"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "右手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第68章冲突",
-      "summary": "顾甲向后飞退，重新落在顾邕身旁，右手背在身后，微微发颤",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾甲向后飞退，重新落在顾邕身旁，右手背在身后，微微发颤"
+      "personality": [
+        "无惧意"
       ],
-      "mention_count": 3
+      "abilities": [],
+      "equipment": [
+        "卷轴"
+      ],
+      "relationships": [
+        {
+          "target": "杨虎畴",
+          "type": "家族长辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "站在杨虎畴身侧，捧着卷轴。"
+        }
+      ],
+      "evidence": [
+        "少年面容清秀，身姿挺拔，双手恭恭敬敬捧着一副卷轴。",
+        "那名儒衫少年郎捧着卷轴站在他身侧，稚气未褪的脸上没有半点惧意。"
+      ],
+      "mention_count": 2
     }
   ]
 }

@@ -1,253 +1,238 @@
 {
   "chunk_id": "chunk-0356",
-  "title": "第355章 神秘文字",
   "characters": [
     {
       "name": "苏午",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "尊者"
+      ],
+      "identity": "模拟器使用者，灶君庙开辟者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第355章 神秘文字",
-      "summary": "苏午重回于模拟器倾盖四下的黑暗里，默然呆坐，良久后，才慢慢将那件毛毯折叠起来，放入阴影世界的保险箱里",
+      "summary": "主角，拥有模拟器能力，能进入阴影世界，掌握鬼匠丝线、五内罐等能力，收服崔勋。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午重回于模拟器倾盖四下的黑暗里，默然呆坐，良久后，才慢慢将那件毛毯折叠起来，放入阴影世界的保险箱里",
-        "苏午摇头笑了笑",
-        "凭借着自己在模拟人生里记下的几个地名，　　以及一些大概的地理知识，　　苏午很快检索出了自己要找的信息"
+      "personality": [
+        "冷静",
+        "果断",
+        "谨慎"
       ],
-      "mention_count": 38
+      "abilities": [
+        "阴影世界穿梭",
+        "鬼匠丝线缝合",
+        "五内罐摄拿命格",
+        "心猿图卷绞杀罪恶人形"
+      ],
+      "equipment": [
+        "毛毯",
+        "保险箱",
+        "钢针",
+        "五内罐",
+        "心猿图卷",
+        "枯黄人皮纸"
+      ],
+      "relationships": [
+        {
+          "target": "丹加",
+          "type": "模拟中相识"
+        },
+        {
+          "target": "云霓裳",
+          "type": "现实朋友"
+        },
+        {
+          "target": "崔勋",
+          "type": "收服对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟结束后",
+          "event": "退出模拟，搜索灶君庙信息，记录交通方式。"
+        },
+        {
+          "stage": "现实",
+          "event": "云霓裳等人来访，离开后苏午进入阴影世界。"
+        },
+        {
+          "stage": "阴影世界",
+          "event": "用鬼匠丝线和五内罐改造崔勋，命令其返回诡狱做内应。"
+        },
+        {
+          "stage": "现实书房",
+          "event": "进入心猿图卷绞杀罪恶人形，获得千余神秘文字。"
+        }
+      ],
+      "evidence": [
+        "苏午重回于模拟器倾盖四下的黑暗里，默然呆坐",
+        "他打开浏览器，输入‘灶君庙’这个关键词",
+        "苏午手中出现一根寒光闪闪的钢针"
+      ],
+      "mention_count": 35
     },
     {
       "name": "崔勋",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诡狱五大巡察中张游的心腹",
+      "faction": "诡狱",
       "status": "登场",
       "first_appearance": "第355章 神秘文字",
-      "summary": "这个酷爱穿各色西服的中年男人，便是先前被苏午抓住以后，丢进阴影世界里鲜少理会的崔勋",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个酷爱穿各色西服的中年男人，便是先前被苏午抓住以后，丢进阴影世界里鲜少理会的崔勋",
-        "崔勋听到了黑暗中传来的、愈来愈近的脚步声，他勉力抬起头，看到走到近前来的苏午，黯淡的眼神里登时迸射出亮光：“你也快支撑不住了吧",
-        "哈哈……”　　算算时间，其实现实里的崔勋被关在阴影世界中不足一周，　　这一周内，他靠着自身容纳的厉诡诡韵支撑，不吃不喝，　　疯狂运用自身厉诡的能力，　　试图脱离阴影世界"
+      "summary": "被苏午抓住关押在阴影世界，后被苏午用鬼匠丝线和五内罐改造，成为苏午安插在诡狱的内应。",
+      "appearance": [
+        "一身破烂的酒红西服",
+        "形容枯槁，颧骨高耸"
       ],
-      "mention_count": 17
+      "personality": [
+        "恐惧",
+        "神经质"
+      ],
+      "abilities": [
+        "容纳厉诡"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被收服"
+        },
+        {
+          "target": "张游",
+          "type": "心腹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "被关押期间",
+          "event": "在阴影世界中挣扎，试图脱离。"
+        },
+        {
+          "stage": "被改造后",
+          "event": "被苏午释放，离开阴影世界，前往诡狱总部。"
+        }
+      ],
+      "evidence": [
+        "崔勋听到了黑暗中传来的、愈来愈近的脚步声",
+        "其是诡狱五大巡察之中，张游巡察的心腹",
+        "崔勋胸膛上被黑线缝合出莫名的纹路"
+      ],
+      "mention_count": 12
     },
     {
       "name": "丹加",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第355章 神秘文字",
-      "summary": "第355章 神秘文字　　丹加的面孔，　　丹加的眼泪，　　都在涟漪里破碎去",
+      "summary": "在模拟中与苏午相识的人物，声音在苏午耳边响起。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第355章 神秘文字　　丹加的面孔，　　丹加的眼泪，　　都在涟漪里破碎去",
-        "把毛毯置入保险箱的当口，　　他耳边又响起一些似是虚幻，似是真实的呼唤：“尊者，尊者……”　　此刻丹加的声音，听起来竟有几分欣喜"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "模拟中相识"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "模拟结束后",
+          "event": "声音在苏午耳边响起，听起来有几分欣喜。"
+        }
+      ],
+      "evidence": [
+        "他耳边又响起一些似是虚幻，似是真实的呼唤：“尊者，尊者……”",
+        "此刻丹加的声音，听起来竟有几分欣喜。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "四下",
+      "name": "云霓裳",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第355章 神秘文字",
-      "summary": "苏午重回于模拟器倾盖四下的黑暗里，默然呆坐，良久后，才慢慢将那件毛毯折叠起来，放入阴影世界的保险箱里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午重回于模拟器倾盖四下的黑暗里，默然呆坐，良久后，才慢慢将那件毛毯折叠起来，放入阴影世界的保险箱里",
-        "四下里俱是黑漆漆的一片，　　在此般黑暗之中，苏午视线丝毫不受影响，在此中迈步徐徐而行",
-        "随着他说完这番话，　　四下的黑暗中，好似生出一双双眼睛，　　默默看了他刹那，又消失在黑暗里"
+      "summary": "苏午的现实朋友，曾到苏午家中拜访。",
+      "appearance": [
+        "换了一身衣裳"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "当下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第355章 神秘文字",
-      "summary": "他未知苏午经历，　　当下看到苏午走进阴影世界，主动来见自己，便以为是自己这一周以来的挣扎起了作用，对方也快‘承受不住’自身释放的厉诡诡韵冲击，　　决定把自己放走",
-      "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他未知苏午经历，　　当下看到苏午走进阴影世界，主动来见自己，便以为是自己这一周以来的挣扎起了作用，对方也快‘承受不住’自身释放的厉诡诡韵冲击，　　决定把自己放走",
-        "崔勋被自身容纳的厉诡、被阴影世界折磨得不轻，当下看到苏午，内心多是一种大难不死的狂喜，并不敢过多去挑衅刺激苏午"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "自身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第355章 神秘文字",
-      "summary": "我体内的厉诡已经快要复苏，　　你再不放我离开这里，你自身容纳的厉诡也一定会承受不住吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我体内的厉诡已经快要复苏，　　你再不放我离开这里，你自身容纳的厉诡也一定会承受不住吧",
-        "哈哈……”　　算算时间，其实现实里的崔勋被关在阴影世界中不足一周，　　这一周内，他靠着自身容纳的厉诡诡韵支撑，不吃不喝，　　疯狂运用自身厉诡的能力，　　试图脱离阴影世界",
-        "他未知苏午经历，　　当下看到苏午走进阴影世界，主动来见自己，便以为是自己这一周以来的挣扎起了作用，对方也快‘承受不住’自身释放的厉诡诡韵冲击，　　决定把自己放走"
+      "timeline": [
+        {
+          "stage": "现实",
+          "event": "与方元及东五区小队到苏午家中呆了三四小时。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "记住",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第355章 神秘文字",
-      "summary": "“我交代你的事情，你都记住了么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“我交代你的事情，你都记住了么",
-        "崔勋眼神躲闪，声音微弱：“记住了……”　　“真的记住了吗",
-        "“真的记住了吗"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "随着他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第355章 神秘文字",
-      "summary": "随着他说完这番话，　　四下的黑暗中，好似生出一双双眼睛，　　默默看了他刹那，又消失在黑暗里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着他说完这番话，　　四下的黑暗中，好似生出一双双眼睛，　　默默看了他刹那，又消失在黑暗里",
-        "先前在心猿图卷里凝聚出的‘灋’字等神秘文字，倏忽盘转成长龙，随着他的意覆盖底下所有扭曲人形，那一个个神秘文字都顷刻被复制出来，化作万千条长龙，　　成片成片地绞杀此间的罪恶人形"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "先前",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第355章 神秘文字",
-      "summary": "这个酷爱穿各色西服的中年男人，便是先前被苏午抓住以后，丢进阴影世界里鲜少理会的崔勋",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个酷爱穿各色西服的中年男人，便是先前被苏午抓住以后，丢进阴影世界里鲜少理会的崔勋",
-        "先前在心猿图卷里凝聚出的‘灋’字等神秘文字，倏忽盘转成长龙，随着他的意覆盖底下所有扭曲人形，那一个个神秘文字都顷刻被复制出来，化作万千条长龙，　　成片成片地绞杀此间的罪恶人形",
-        "苏午的意尽情释放，　　先前极难见到会有空缺、被无数扭曲的罪恶人形填满的混沌虚空中，随着万千条长龙绞杀，仅仅数个呼吸过后，便出现了一片‘白地’"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "灶君",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第355章 神秘文字",
-      "summary": "桌上的电脑这时才刚刚开机，　　他打开浏览器，输入‘灶君庙’这个关键词，浏览由此引出的诸多信息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "桌上的电脑这时才刚刚开机，　　他打开浏览器，输入‘灶君庙’这个关键词，浏览由此引出的诸多信息",
-        "新闻指出某地‘灶君庙’将在现实世界的一周以后，开始‘传火大典’，庙观将为众生消灾祈福",
-        "看过图片以后，苏午确定这座庙观正是他在织锦山开辟的‘灶君庙’"
+        "客厅外响起了敲门声。",
+        "看到了换了一身衣裳的云霓裳。",
+        "云霓裳、方元再加上东五区小队几人，在苏午家中呆了三四个小时才离开。"
       ],
       "mention_count": 3
     },
     {
-      "name": "灶君庙",
+      "name": "方元",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第355章 神秘文字",
-      "summary": "桌上的电脑这时才刚刚开机，　　他打开浏览器，输入‘灶君庙’这个关键词，浏览由此引出的诸多信息",
+      "summary": "与云霓裳一同到苏午家中拜访的人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "桌上的电脑这时才刚刚开机，　　他打开浏览器，输入‘灶君庙’这个关键词，浏览由此引出的诸多信息",
-        "新闻指出某地‘灶君庙’将在现实世界的一周以后，开始‘传火大典’，庙观将为众生消灾祈福",
-        "看过图片以后，苏午确定这座庙观正是他在织锦山开辟的‘灶君庙’"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "现实",
+          "event": "与云霓裳及东五区小队到苏午家中呆了三四小时。"
+        }
+      ],
+      "evidence": [
+        "云霓裳、方元再加上东五区小队几人，在苏午家中呆了三四个小时才离开。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "洗了",
+      "name": "张游",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "诡狱五大巡察之一",
+      "faction": "诡狱",
+      "status": "提及",
       "first_appearance": "第355章 神秘文字",
-      "summary": "他走进洗手间内，　　洗了一把脸",
+      "summary": "诡狱巡察，崔勋的心腹上司。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "崔勋",
+          "type": "心腹"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "他走进洗手间内，　　洗了一把脸"
+        "其是诡狱五大巡察之中，张游巡察的心腹",
+        "你离开许清以后，便去向诡狱的张巡察汇报工作吧"
       ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

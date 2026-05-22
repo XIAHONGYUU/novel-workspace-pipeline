@@ -1,258 +1,578 @@
 {
   "chunk_id": "chunk-0385",
-  "title": "第383章江户之乱",
   "characters": [
     {
       "name": "苏策",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第383章江户之乱",
-      "summary": "”　　苏策语气笃定，“这和胆子大小没有关系，而是他们根本拒绝不了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　苏策语气笃定，“这和胆子大小没有关系，而是他们根本拒绝不了",
-        "”　　钱凤庭一时语塞，还没来得及回答，就听苏策继续问道：“就算他知道黑龙资本是软柿子，比较好下手，那渡关又为什么要如此费尽心机，不惜代价的进攻黑龙资本",
-        "”　　从接到苏策的通知那一刻起，李钧就片刻不停往千户所赶"
+      "aliases": [
+        "千户大人",
+        "苏大人"
       ],
-      "mention_count": 20
-    },
-    {
-      "name": "钱凤庭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "倭区锦衣卫千户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第383章江户之乱",
-      "summary": "话音刚落，钱凤庭自己便不解说道：“也不对啊，渡关是纵横序的人，这是我们早就确认的事情，那他拿这些东西干什么",
+      "summary": "倭区锦衣卫千户，主导江户之乱后的调查与决策。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "话音刚落，钱凤庭自己便不解说道：“也不对啊，渡关是纵横序的人，这是我们早就确认的事情，那他拿这些东西干什么",
-        "”　　束手站在一旁的钱凤庭走了上来，沉声道：“黑龙资本总部地下的空间已经调查清楚了，应该是用于分割从序者黄粱权限的剥离场",
-        "”　　钱凤庭淡淡一笑，“更何况他这次出城斩首镰仓王渡关，虽然没有成功，不过确实是抱了必死的决心，这一点值得敬佩"
+      "personality": [
+        "冷静",
+        "果断",
+        "深思熟虑"
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "鬼王达",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第383章江户之乱",
-      "summary": "紧急之下，副千户鬼王达亲自率兵迎敌，双方陷入焦灼的巷战搏杀",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        },
+        {
+          "target": "鬼王达",
+          "type": "下属"
+        },
+        {
+          "target": "明王",
+          "type": "下属"
+        },
+        {
+          "target": "钱凤庭",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱后",
+          "event": "听取鬼王达和钱凤庭汇报，分析局势，决定让李钧负责追剿镰仓王叛军。"
+        }
+      ],
       "evidence": [
-        "紧急之下，副千户鬼王达亲自率兵迎敌，双方陷入焦灼的巷战搏杀",
-        "”　　鬼王达问道：“余沧海勾结鸿鹄平安王的事情，你应该也知道了吧",
-        "”　　鬼王达叹了口气，放缓语气说道：“不过这也不能全怪伱，从这次鸿鹄准备的人手火力，以及调动的暗桩人数来看，显然已经谋划了很长时间"
+        "苏策摘下嘴角烟头，给自己续上一根，“这件事，就交给李钧那个臭小子来办吧。”",
+        "苏策缓缓道：“既然你说这四家联手抓的道序的人，那为什么渡关只盯着黑龙资本一家？”"
       ],
       "mention_count": 15
     },
     {
-      "name": "钱凤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "鬼王达",
+      "aliases": [
+        "副千户"
+      ],
+      "identity": "倭区锦衣卫副千户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第383章江户之乱",
-      "summary": "话音刚落，钱凤庭自己便不解说道：“也不对啊，渡关是纵横序的人，这是我们早就确认的事情，那他拿这些东西干什么",
+      "summary": "倭区锦衣卫副千户，江户之乱中率兵迎敌，战后参与调查。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "急躁",
+        "关心下属"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "话音刚落，钱凤庭自己便不解说道：“也不对啊，渡关是纵横序的人，这是我们早就确认的事情，那他拿这些东西干什么",
-        "”　　束手站在一旁的钱凤庭走了上来，沉声道：“黑龙资本总部地下的空间已经调查清楚了，应该是用于分割从序者黄粱权限的剥离场",
-        "”　　钱凤庭淡淡一笑，“更何况他这次出城斩首镰仓王渡关，虽然没有成功，不过确实是抱了必死的决心，这一点值得敬佩"
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "上级"
+        },
+        {
+          "target": "李钧",
+          "type": "同僚"
+        },
+        {
+          "target": "明王",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "鬼王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第383章江户之乱",
-      "summary": "紧急之下，副千户鬼王达亲自率兵迎敌，双方陷入焦灼的巷战搏杀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "紧急之下，副千户鬼王达亲自率兵迎敌，双方陷入焦灼的巷战搏杀",
-        "”　　鬼王达问道：“余沧海勾结鸿鹄平安王的事情，你应该也知道了吧",
-        "”　　鬼王达叹了口气，放缓语气说道：“不过这也不能全怪伱，从这次鸿鹄准备的人手火力，以及调动的暗桩人数来看，显然已经谋划了很长时间"
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "亲自率兵迎敌，与鸿鹄巷战。"
+        },
+        {
+          "stage": "江户之乱后",
+          "event": "向苏策汇报情况，并告知李钧其新任务。"
+        }
       ],
-      "mention_count": 11
+      "evidence": [
+        "副千户鬼王达亲自率兵迎敌，双方陷入焦灼的巷战搏杀。",
+        "鬼王达话锋一转，“说一千道一万，这次江户之乱还是跟你有脱不了的干系。”"
+      ],
+      "mention_count": 10
     },
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "臭小子"
+      ],
+      "identity": "犬山城百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第383章江户之乱",
-      "summary": "”　　就像是鸿鹄中有人故意为之，专门给李钧提供了一个绝佳的借口，让他后续准备的开脱手段都没了用武之地",
+      "summary": "犬山城锦衣卫百户，因序列仪轨诛杀余沧海，被委任追剿镰仓王叛军。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　就像是鸿鹄中有人故意为之，专门给李钧提供了一个绝佳的借口，让他后续准备的开脱手段都没了用武之地",
-        "”　　鬼王达看着点头的李钧，嘴里嘟囔了一句类似人比人气死人的家乡俚语，说道：“如果是这样的话，那咱们锦衣卫这次还不算亏的太惨",
-        "”　　从接到苏策的通知那一刻起，李钧就片刻不停往千户所赶"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "自嘲"
       ],
-      "mention_count": 11
+      "abilities": [
+        "基因锁开启",
+        "晋升序五"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "上级"
+        },
+        {
+          "target": "鬼王达",
+          "type": "同僚"
+        },
+        {
+          "target": "余沧海",
+          "type": "诛杀对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱前",
+          "event": "前往大阪城诛杀叛徒余沧海，并完成晋升。"
+        },
+        {
+          "stage": "江户之乱后",
+          "event": "被苏策指派负责追剿镰仓王叛军。"
+        }
+      ],
+      "evidence": [
+        "李钧没有隐瞒，将自己祸首仪轨的内容全部告诉了鬼王达。",
+        "李钧嘿嘿一笑，接着说道：“结果余沧海刚死，我就发现自己的基因锁已经开了，顺利完成了晋升。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "鸿鹄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "钱凤庭",
+      "aliases": [
+        "老钱"
+      ],
+      "identity": "锦衣卫成员，儒序读书人",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第383章江户之乱",
-      "summary": "第383章江户之乱　　嘉启十二年二月十八日，鸿鹄镰仓王率领精锐高手百人，于夜半子时袭击十城之首江户",
+      "summary": "锦衣卫成员，儒序读书人，参与江户之乱后的调查分析。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "善于分析",
+        "有良心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第383章江户之乱　　嘉启十二年二月十八日，鸿鹄镰仓王率领精锐高手百人，于夜半子时袭击十城之首江户",
-        "鸿鹄凶狠，再加上事发突然，江户城锦衣卫猝不及防之下，节节败退，被鸿鹄攻入千户所所在街区",
-        "与此同时，另一员鸿鹄大将楚客带人袭击倭区宣慰使司，在衙门内奸细的配合之下，叛军一路畅通无阻，几乎没有遇见什么像样的抵抗，直奔倭区宣慰使李不逢住宅"
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "上级"
+        },
+        {
+          "target": "明王",
+          "type": "同僚（关系不佳）"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "江户之乱后",
+          "event": "向苏策汇报黑龙资本地下空间调查结果，并参与讨论。"
+        }
+      ],
+      "evidence": [
+        "钱凤庭走了上来，沉声道：“黑龙资本总部地下的空间已经调查清楚了，应该是用于分割从序者黄粱权限的剥离场。”",
+        "钱凤庭不屑道：“以前这四家互相捏着把柄，大家自然是共同进退，一个鼻孔里出气。”"
+      ],
+      "mention_count": 8
     },
     {
       "name": "明王",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "登场（重伤）",
       "first_appearance": "第383章江户之乱",
-      "summary": "子时二刻，锦衣卫百户明王率一处总旗孔雀等人出城追踪敌首镰仓王，意图实施斩首，一举扭转局势",
+      "summary": "锦衣卫百户，江户之乱中出城斩首镰仓王未果，遭伏击重伤。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "勇敢",
+        "有必死决心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "上级"
+        },
+        {
+          "target": "钱凤庭",
+          "type": "同僚（关系不佳）"
+        },
+        {
+          "target": "孔雀",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "率总旗孔雀出城追踪镰仓王，遭伏击重伤。"
+        }
+      ],
       "evidence": [
-        "子时二刻，锦衣卫百户明王率一处总旗孔雀等人出城追踪敌首镰仓王，意图实施斩首，一举扭转局势",
-        "追踪途中遭遇伏击，明王被镰仓王手下最强大将水村五斗偷袭导致重伤，总旗孔雀冒死营救，成功退回江户城中",
-        "和明王一样，都是挂的寒山寺的佛籍"
+        "明王被镰仓王手下最强大将水村五斗偷袭导致重伤，总旗孔雀冒死营救，成功退回江户城中。",
+        "钱凤庭说道：“不过这件事应该和佛道两家的争斗没什么关系，明王他们应该还没有这么大的胆子。”"
       ],
       "mention_count": 6
     },
     {
-      "name": "千户",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "渡关",
+      "aliases": [
+        "镰仓王"
+      ],
+      "identity": "鸿鹄镰仓王",
+      "faction": "鸿鹄",
+      "status": "登场（提及）",
       "first_appearance": "第383章江户之乱",
-      "summary": "激战不过刚刚爆发，负责调度江户城戍卫的武官便临阵倒戈，近三百名戍卫在镰仓王麾下大将槐国的带领下调转枪口，直奔倭区锦衣卫千户所",
+      "summary": "鸿鹄镰仓王，策划并发动江户之乱，主要目标是黑龙资本。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "无利不起早",
+        "费尽心机"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "激战不过刚刚爆发，负责调度江户城戍卫的武官便临阵倒戈，近三百名戍卫在镰仓王麾下大将槐国的带领下调转枪口，直奔倭区锦衣卫千户所",
-        "鸿鹄凶狠，再加上事发突然，江户城锦衣卫猝不及防之下，节节败退，被鸿鹄攻入千户所所在街区",
-        "紧急之下，副千户鬼王达亲自率兵迎敌，双方陷入焦灼的巷战搏杀"
+      "relationships": [
+        {
+          "target": "水村五斗",
+          "type": "手下大将"
+        },
+        {
+          "target": "槐国",
+          "type": "麾下大将"
+        },
+        {
+          "target": "楚客",
+          "type": "麾下大将"
+        },
+        {
+          "target": "菅原平真",
+          "type": "合作者"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "率领精锐百人袭击江户城，主要目标为黑龙资本。"
+        }
+      ],
+      "evidence": [
+        "鸿鹄镰仓王率领精锐高手百人，于夜半子时袭击十城之首江户。",
+        "渡关这个人，你和我都清楚，是个无利不起早的货色。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "黑龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "余沧海",
+      "aliases": [
+        "平安王"
+      ],
+      "identity": "鸿鹄平安王（叛变）",
+      "faction": "鸿鹄（原）",
+      "status": "已死",
       "first_appearance": "第383章江户之乱",
-      "summary": "“千户大人，请您务必要相信我们，黑龙资本的事情我们另外三家从头到尾都不知情，更没有参与其中",
+      "summary": "原鸿鹄平安王，叛变后被李钧诛杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“千户大人，请您务必要相信我们，黑龙资本的事情我们另外三家从头到尾都不知情，更没有参与其中",
-        "”　　束手站在一旁的钱凤庭走了上来，沉声道：“黑龙资本总部地下的空间已经调查清楚了，应该是用于分割从序者黄粱权限的剥离场",
-        "”　　钱凤庭一时语塞，还没来得及回答，就听苏策继续问道：“就算他知道黑龙资本是软柿子，比较好下手，那渡关又为什么要如此费尽心机，不惜代价的进攻黑龙资本"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被诛杀"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "江户之乱前",
+          "event": "叛变鸿鹄，被李钧诛杀。"
+        }
+      ],
+      "evidence": [
+        "余沧海叛变鸿鹄，预谋不轨，所以千户苏大人派你前往大阪城诛杀叛徒。",
+        "我杀余沧海，一方面是为了报仇泄恨，另一方面更重要原因则是想以他为‘祸因’"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "黑龙资",
+      "name": "槐国",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "鸿鹄大将",
+      "faction": "鸿鹄",
       "status": "登场",
       "first_appearance": "第383章江户之乱",
-      "summary": "“千户大人，请您务必要相信我们，黑龙资本的事情我们另外三家从头到尾都不知情，更没有参与其中",
+      "summary": "鸿鹄镰仓王麾下大将，带领戍卫倒戈袭击锦衣卫千户所。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“千户大人，请您务必要相信我们，黑龙资本的事情我们另外三家从头到尾都不知情，更没有参与其中",
-        "”　　束手站在一旁的钱凤庭走了上来，沉声道：“黑龙资本总部地下的空间已经调查清楚了，应该是用于分割从序者黄粱权限的剥离场",
-        "”　　钱凤庭一时语塞，还没来得及回答，就听苏策继续问道：“就算他知道黑龙资本是软柿子，比较好下手，那渡关又为什么要如此费尽心机，不惜代价的进攻黑龙资本"
+      "relationships": [
+        {
+          "target": "渡关",
+          "type": "麾下"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "带领近三百名戍卫调转枪口，直奔倭区锦衣卫千户所。"
+        }
+      ],
+      "evidence": [
+        "近三百名戍卫在镰仓王麾下大将槐国的带领下调转枪口，直奔倭区锦衣卫千户所！"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "黑龙资本",
+      "name": "楚客",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "鸿鹄大将",
+      "faction": "鸿鹄",
       "status": "登场",
       "first_appearance": "第383章江户之乱",
-      "summary": "“千户大人，请您务必要相信我们，黑龙资本的事情我们另外三家从头到尾都不知情，更没有参与其中",
+      "summary": "鸿鹄大将，袭击倭区宣慰使司，被蚩主阻挡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "渡关",
+          "type": "麾下"
+        },
+        {
+          "target": "蚩主",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "带人袭击倭区宣慰使司，被蚩主阻挡。"
+        }
+      ],
+      "evidence": [
+        "另一员鸿鹄大将楚客带人袭击倭区宣慰使司",
+        "一名为蚩主的墨序明鬼现身，单甲迎战鸿鹄楚客及其麾下数十名精锐"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "蚩主",
+      "aliases": [],
+      "identity": "墨序明鬼",
+      "faction": "锦衣卫（苏策的墨甲）",
+      "status": "登场",
+      "first_appearance": "第383章江户之乱",
+      "summary": "苏策的墨甲，单甲迎战楚客，保护宣慰使司。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "墨甲"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "现身宣慰使司，阻挡楚客袭击。"
+        }
+      ],
+      "evidence": [
+        "一名为蚩主的墨序明鬼现身，单甲迎战鸿鹄楚客及其麾下数十名精锐"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "孔雀",
+      "aliases": [],
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第383章江户之乱",
+      "summary": "锦衣卫总旗，随明王出城追踪，冒死营救明王。",
+      "appearance": [],
+      "personality": [
+        "勇敢"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "随明王出城追踪，明王重伤后冒死营救退回城中。"
+        }
+      ],
+      "evidence": [
+        "总旗孔雀冒死营救，成功退回江户城中。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "水村五斗",
+      "aliases": [],
+      "identity": "鸿鹄大将",
+      "faction": "鸿鹄",
+      "status": "登场",
+      "first_appearance": "第383章江户之乱",
+      "summary": "镰仓王手下最强大将，偷袭明王致其重伤。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "渡关",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "偷袭明王导致其重伤。"
+        }
+      ],
+      "evidence": [
+        "明王被镰仓王手下最强大将水村五斗偷袭导致重伤"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "燃灯",
+      "aliases": [],
+      "identity": "锦衣卫总旗，挂寒山寺佛籍",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第383章江户之乱",
+      "summary": "锦衣卫总旗，负责监视四大公司，发现黑龙资本遭袭。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "下属（可能）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "子时三刻急报千户所黑龙资本遭袭。"
+        }
+      ],
+      "evidence": [
+        "负责监视四大公司总部动向的总旗燃灯急报千户所，称黑龙资本总部驻地遭到鸿鹄袭击",
+        "名字叫燃灯。和明王一样，都是挂的寒山寺的佛籍。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "金兽",
+      "aliases": [],
+      "identity": "松本城锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "殉职",
+      "first_appearance": "第383章江户之乱",
+      "summary": "松本城锦衣卫百户，在鸿鹄撤退途中与援军遭遇战中殉职。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“千户大人，请您务必要相信我们，黑龙资本的事情我们另外三家从头到尾都不知情，更没有参与其中",
-        "”　　束手站在一旁的钱凤庭走了上来，沉声道：“黑龙资本总部地下的空间已经调查清楚了，应该是用于分割从序者黄粱权限的剥离场",
-        "”　　钱凤庭一时语塞，还没来得及回答，就听苏策继续问道：“就算他知道黑龙资本是软柿子，比较好下手，那渡关又为什么要如此费尽心机，不惜代价的进攻黑龙资本"
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "丑时，与鸿鹄撤退部队遭遇战中殉职。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "松本城锦衣卫百户金兽殉职。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李不逢",
+      "aliases": [],
+      "identity": "倭区宣慰使",
+      "faction": "朝廷",
+      "status": "登场（提及）",
+      "first_appearance": "第383章江户之乱",
+      "summary": "倭区宣慰使，鸿鹄袭击目标之一，因蚩主保护幸免。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "鸿鹄袭击其住宅，被蚩主保护。"
+        }
+      ],
+      "evidence": [
+        "直奔倭区宣慰使李不逢住宅。",
+        "如果宣慰使李不逢要是真死在了鸿鹄的手上，那这件事才是真的闹大了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "菅原平真",
+      "aliases": [],
+      "identity": "倭贼（鸿鹄合作者）",
+      "faction": "鸿鹄（合作）",
+      "status": "登场（提及）",
+      "first_appearance": "第383章江户之乱",
+      "summary": "与渡关合作，将苏策引出江户城。",
+      "appearance": [],
+      "personality": [
+        "杀自己人毫不手软"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "渡关",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "江户之乱",
+          "event": "与渡关合作将苏策引出江户。"
+        }
+      ],
+      "evidence": [
+        "甚至拉着菅原平真将我引出江户",
+        "菅原平真这个倭贼杀起自己人来可真是毫不手软。"
+      ],
+      "mention_count": 2
     }
   ]
 }

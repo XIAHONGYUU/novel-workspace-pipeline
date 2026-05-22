@@ -1,0 +1,150 @@
+{
+  "chunk_id": "chunk-0286",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "安格列·里奥"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "晶化中",
+      "first_appearance": "",
+      "summary": "正在进行晶化仪式的巫师，拥有特殊血脉和强大的消化能力。",
+      "appearance": [
+        "异常消瘦，脸颊深陷，双眼无神"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "晶化",
+        "精神力纯化",
+        "特殊消化能力"
+      ],
+      "equipment": [
+        "灰白色石柱",
+        "白蛋",
+        "救赎之书"
+      ],
+      "relationships": [
+        {
+          "target": "海茵",
+          "type": "灵魂绑定"
+        },
+        {
+          "target": "西格尼",
+          "type": "同辈巫师"
+        },
+        {
+          "target": "爱丽莎缦",
+          "type": "命运女巫"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "晶化准备",
+          "event": "使用二次晶化仪式柱纯化精神力，耗时一个多月。"
+        },
+        {
+          "stage": "晶化第二步",
+          "event": "服用白蛋和救赎之书中的小人，完成材料吸收。"
+        }
+      ],
+      "evidence": [
+        "不知道西格尼那家伙现在怎么样了？",
+        "他整个人显得异常消瘦，脸颊深陷，双眼无神。",
+        "看来这个世界上没有什么不能吃。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "海茵",
+      "aliases": [],
+      "identity": "灵魂绑定者",
+      "faction": "",
+      "status": "存在",
+      "first_appearance": "",
+      "summary": "与安格列灵魂和气息相连的存在，提供指导和建议。",
+      "appearance": [],
+      "personality": [
+        "坏笑",
+        "毫不在意"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "灵魂绑定"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "晶化准备",
+          "event": "提醒安格列纯化精神力，并观察其虚弱状态。"
+        },
+        {
+          "stage": "晶化第二步",
+          "event": "催促安格列吃掉小人，并解释其消化能力。"
+        }
+      ],
+      "evidence": [
+        "海茵坏笑起来。",
+        "海茵嘿嘿笑道。",
+        "海茵催促起来。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "西格尼",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被安格列提及的巫师，可能也在准备晶化。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "爱丽莎缦",
+          "type": "受其辅助"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "不知道西格尼那家伙现在怎么样了？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "爱丽莎缦",
+      "aliases": [],
+      "identity": "命运女巫",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "命运女巫，全力辅助西格尼。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "西格尼",
+          "type": "辅助"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "命运女巫爱丽莎缦大人的全力辅助下"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

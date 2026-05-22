@@ -1,256 +1,363 @@
 {
   "chunk_id": "chunk-0149",
-  "title": "第147章旧怨",
   "characters": [
     {
-      "name": "幺鸡",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第147章旧怨",
-      "summary": "”　　幺鸡空洞失神的双眼蓦然凝聚精光，横躺在沙发中的身体蹭的一声弹了起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　幺鸡空洞失神的双眼蓦然凝聚精光，横躺在沙发中的身体蹭的一声弹了起来",
-        "”　　幺鸡信誓旦旦，“是真的",
-        "”　　贰条到底还是没拦住嘴巴比脑子要快的幺鸡，这边刚刚抬起手，那边的话就已经出口"
-      ],
-      "mention_count": 21
-    },
-    {
-      "name": "贰条",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第147章旧怨",
-      "summary": "”　　长着一张刀疤脸贰条不屑地哼一声，“那上面的东西也能相信",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　长着一张刀疤脸贰条不屑地哼一声，“那上面的东西也能相信",
-        "”　　贰条到底还是没拦住嘴巴比脑子要快的幺鸡，这边刚刚抬起手，那边的话就已经出口",
-        "”贰条冷冷吐出两个字，“但不至于杀人，牌系的人太嚣张了"
-      ],
-      "mention_count": 13
-    },
-    {
       "name": "龚青鸿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "老大"
+      ],
+      "identity": "川渝赌会某系老大",
+      "faction": "川渝赌会",
       "status": "登场",
       "first_appearance": "第147章旧怨",
-      "summary": "”　　龚青鸿沉声道：“我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府",
+      "summary": "川渝赌会某系老大，因手下叁条被杀而一心报仇，目标锁定李钧。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷峻",
+        "执着",
+        "重情义"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "叁条",
+          "type": "手下"
+        },
+        {
+          "target": "幺鸡",
+          "type": "手下"
+        },
+        {
+          "target": "贰条",
+          "type": "手下"
+        },
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在重庆府谋划追杀李钧，利用赵青侠引出李钧。"
+        }
+      ],
       "evidence": [
-        "”　　龚青鸿沉声道：“我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府",
-        "”龚青鸿语气十分笃定",
-        "”　　龚青鸿冷笑声，“侠义又能值多少钱一斤"
+        "龚青鸿沉声道：我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府。",
+        "龚青鸿一字一顿道：所以，李钧只能死在我们手上。",
+        "龚青鸿这是将叁条的死全部归咎到了自己身上，无时无刻不在想着如何报仇。"
       ],
       "mention_count": 10
     },
     {
-      "name": "龚青",
+      "name": "幺鸡",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龚青鸿手下",
+      "faction": "川渝赌会",
       "status": "登场",
       "first_appearance": "第147章旧怨",
-      "summary": "”　　龚青鸿沉声道：“我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府",
+      "summary": "龚青鸿手下，性格轻浮，消息灵通，负责打探情报。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "轻浮",
+        "话多",
+        "消息灵通"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "老大"
+        },
+        {
+          "target": "贰条",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向龚青鸿汇报戴徙徒被杀的消息，并讨论牌系与骰系的冲突。"
+        }
+      ],
       "evidence": [
-        "”　　龚青鸿沉声道：“我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府",
-        "”龚青鸿语气十分笃定",
-        "”　　龚青鸿冷笑声，“侠义又能值多少钱一斤"
+        "幺鸡空洞失神的双眼蓦然凝聚精光，横躺在沙发中的身体蹭的一声弹了起来。",
+        "幺鸡信誓旦旦：是真的！连动手的浮光掠影都被人传上去了！",
+        "幺鸡嬉笑道：不过我打听到一些内幕消息，据说是戴徙徒先派人到赫藏甲的地盘开赌局"
       ],
       "mention_count": 8
     },
     {
-      "name": "老大",
+      "name": "贰条",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龚青鸿手下",
+      "faction": "川渝赌会",
       "status": "登场",
       "first_appearance": "第147章旧怨",
-      "summary": "”　　自从他们从成都府回来之后，自家老大的脸上就几乎看不到一点笑容",
-      "appearance": [],
-      "personality": [],
+      "summary": "龚青鸿手下，性格稳重，刀疤脸，对情报持怀疑态度。",
+      "appearance": [
+        "刀疤脸"
+      ],
+      "personality": [
+        "稳重",
+        "谨慎",
+        "木讷"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　自从他们从成都府回来之后，自家老大的脸上就几乎看不到一点笑容",
-        "以他们的实力，伤势恐怕极重，带着李钧绝对不可能跑太远，恐怕能逃到重庆府就是极限了”　　“老大，那孙子被道七金丹客一剑穿胸，恐怕当场就死了",
-        "”　　幺鸡嘿嘿一笑，对着站在窗边的魁梧身影喊道：“老大，你说牌系和骰系这次会不会因为这件事打起来"
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "老大"
+        },
+        {
+          "target": "幺鸡",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与幺鸡讨论戴徙徒被杀事件，并参与追杀李钧的谋划。"
+        }
+      ],
+      "evidence": [
+        "长着一张刀疤脸贰条不屑地哼一声：那上面的东西也能相信？",
+        "贰条皱着眉头：只是这重庆府说大不大，说小也不小，光靠人力的话恐怕是大海捞针啊。",
+        "贰条脸色蓦然阴沉了下去：一个独夫，可不太好杀啊。"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "咱们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "戴徙徒",
+      "aliases": [
+        "一点"
+      ],
+      "identity": "骰系成员",
+      "faction": "川渝赌会骰系",
+      "status": "已死",
       "first_appearance": "第147章旧怨",
-      "summary": "”　　“就在咱们赌会的黄粱网络中啊",
+      "summary": "骰系成员，在铁楼老巢被赫藏甲杀死，引发牌系与骰系冲突。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“就在咱们赌会的黄粱网络中啊",
-        "”　　“他妈的，这些武道序列的人但凡身体里有半块芯片，咱们都用不着这么麻烦，找阴阳家的人卜一卦就知道人在哪儿了",
-        "只要重庆府群雄割据的大环境不变，咱们头上的千门八将就不会真的撕破脸"
+      "relationships": [
+        {
+          "target": "赫藏甲",
+          "type": "仇敌"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被赫藏甲杀死。"
+        }
+      ],
+      "evidence": [
+        "骰子的‘一点’戴徙徒居然在铁楼的老巢里被人宰了！",
+        "现在他们抛出来的证据全是指向戴徙徒的不是，是他自己踩过界在先"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "赫藏甲",
+      "aliases": [
+        "虎头"
+      ],
+      "identity": "牌九文牌虎头",
+      "faction": "川渝赌会牌系",
+      "status": "登场",
+      "first_appearance": "第147章旧怨",
+      "summary": "牌系成员，因戴徙徒踩过界而将其杀死，做事滴水不漏。",
+      "appearance": [],
+      "personality": [
+        "嚣张",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戴徙徒",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "杀死戴徙徒，引发牌系与骰系冲突。"
+        }
+      ],
+      "evidence": [
+        "是牌九的文牌虎头，赫藏甲！",
+        "据说是戴徙徒先派人到赫藏甲的地盘开赌局，结果吃相太难看，把别人的金主惹火了，所以赫藏甲才去找他的麻烦。",
+        "不过这个赫藏甲嚣张归嚣张，做事可是滴水不漏。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "叁条",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "龚青鸿手下（已故）",
+      "faction": "川渝赌会",
+      "status": "已死",
       "first_appearance": "第147章旧怨",
-      "summary": "“叁条的仇还没报",
+      "summary": "龚青鸿手下，在成都府被杀，龚青鸿为其报仇。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "老大"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在成都府被杀。"
+        }
+      ],
       "evidence": [
-        "“叁条的仇还没报",
-        "”　　“叁条还有一家子人等着要养，那贰仟伍佰万的花红，是属于叁条的抚恤，别人谁都不能动",
-        "而且叁条的死也不能怪老大你啊，是吴家提供的情报有问题"
+        "叁条的仇还没报。",
+        "叁条还有一家子人等着要养，那贰仟伍佰万的花红，是属于叁条的抚恤"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "被救者",
+      "faction": "",
+      "status": "受伤逃亡",
+      "first_appearance": "第147章旧怨",
+      "summary": "被墨家从序者所救，被余沧海斩了一剑，逃往重庆府，是龚青鸿的追杀目标。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "救命恩人"
+        },
+        {
+          "target": "余沧海",
+          "type": "仇敌"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被余沧海所伤，逃往重庆府，被龚青鸿追杀。"
+        }
+      ],
+      "evidence": [
+        "当时救李钧的墨家从序者可是被余沧海斩了一剑。",
+        "以他们的实力，伤势恐怕极重，带着李钧绝对不可能跑太远，恐怕能逃到重庆府就是极限了",
+        "所以，李钧只能死在我们手上。"
       ],
       "mention_count": 4
     },
     {
-      "name": "这次",
+      "name": "赵青侠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "墨家天志会成员",
+      "faction": "墨家天志会",
+      "status": "躲藏中",
       "first_appearance": "第147章旧怨",
-      "summary": "”　　幺鸡故作轻松道：“就算他没死，这次成都府那边开出的悬赏可不低，赌会里已经有人在搜寻他的行踪了，一个血肉污染的残废怎么也活不下去的",
+      "summary": "墨家天志会成员，救了李钧，躲在重庆府，被龚青鸿盯上。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "讲义气"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　幺鸡故作轻松道：“就算他没死，这次成都府那边开出的悬赏可不低，赌会里已经有人在搜寻他的行踪了，一个血肉污染的残废怎么也活不下去的",
-        "”　　幺鸡嘿嘿一笑，对着站在窗边的魁梧身影喊道：“老大，你说牌系和骰系这次会不会因为这件事打起来",
-        "”　　“打不起来，这次只不过是牌系对骰系的一次警告罢了"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "救命恩人"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "躲在重庆府，被龚青鸿利用来引出李钧。"
+        }
+      ],
+      "evidence": [
+        "我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府。",
+        "他不是很讲义气吗？那就看看他愿不愿意拿自己的命，来换救命恩人的命了！"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "赌会",
+      "name": "余沧海",
       "aliases": [],
-      "identity": "",
+      "identity": "武道序列强者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第147章旧怨",
-      "summary": "”　　“就在咱们赌会的黄粱网络中啊",
+      "summary": "武道序列强者，曾斩伤墨家从序者，使用赤龙剑。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“就在咱们赌会的黄粱网络中啊",
-        "”　　幺鸡故作轻松道：“就算他没死，这次成都府那边开出的悬赏可不低，赌会里已经有人在搜寻他的行踪了，一个血肉污染的残废怎么也活不下去的",
-        "”　　也不怪他们二人如此惊讶，要知道川渝赌会虽然是一个类似工会的组织，对内的管理十分松散，‘雀、牌、骰’三系各有各的地盘和生意"
+      "abilities": [
+        "剑术"
       ],
-      "mention_count": 4
+      "equipment": [
+        "赤龙"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在成都府斩伤墨家从序者，重伤李钧。"
+        }
+      ],
+      "evidence": [
+        "当时救李钧的墨家从序者可是被余沧海斩了一剑。",
+        "别着急，余沧海那把‘赤龙’可是吃人的，他的伤势可没那么容易好。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "对着",
+      "name": "道七金丹客",
       "aliases": [],
-      "identity": "",
+      "identity": "武道序列强者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第147章旧怨",
-      "summary": "”　　幺鸡嘿嘿一笑，对着站在窗边的魁梧身影喊道：“老大，你说牌系和骰系这次会不会因为这件事打起来",
+      "summary": "武道序列强者，曾一剑穿胸杀死某人。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "剑术"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　幺鸡嘿嘿一笑，对着站在窗边的魁梧身影喊道：“老大，你说牌系和骰系这次会不会因为这件事打起来",
-        "贰条翻了个白眼，对着幺鸡低声骂了一句"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "一剑穿胸杀死某人。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "您还",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第147章旧怨",
-      "summary": "”　　贰条接过话茬，“一个必死之人，您还在乎他干什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　贰条接过话茬，“一个必死之人，您还在乎他干什么",
-        "幺鸡小心翼翼问道：“老大，您还在想成都府的事情"
+        "老大，那孙子被道七金丹客一剑穿胸，恐怕当场就死了。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第147章旧怨",
-      "summary": "而且叁条的死也不能怪老大你啊，是吴家提供的情报有问题",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且叁条的死也不能怪老大你啊，是吴家提供的情报有问题",
-        "“而且青城集团和重庆府的各家势力关系大多不好，自然不敢越界追杀，躲在这里很安全",
-        "”　　“而且我们的动作要快，不然等李钧恢复了伤势”　　又是片刻的沉默之后，一个浑厚的声线缓缓响起"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

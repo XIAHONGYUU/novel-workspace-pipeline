@@ -1,0 +1,505 @@
+{
+  "workspace_path": "/home/zuoky/project/永恒剑主",
+  "novel_name": "永恒剑主",
+  "protagonist_name": "林新",
+  "source_files": [
+    "/home/zuoky/project/永恒剑主/source/YONGHENGJIANZHU.md",
+    "/home/zuoky/project/永恒剑主/source/永恒剑主.md",
+    "/home/zuoky/project/永恒剑主/source/YONGHENGJIANZHU.txt"
+  ],
+  "source_total_bytes": 26586327,
+  "source_estimated_chars": 7853237,
+  "is_long_novel": true,
+  "available_layers": [
+    "chapter-distillation",
+    "opening",
+    "protagonist",
+    "outline",
+    "highlight"
+  ],
+  "completed_layers": [
+    "chapter-distillation",
+    "opening",
+    "protagonist",
+    "outline",
+    "highlight"
+  ],
+  "incomplete_layers": [],
+  "last_run_layer": "highlight",
+  "last_validator_result": {
+    "chapter-distillation": "章节骨架已形成",
+    "opening": "开篇抓力已明确",
+    "protagonist": "体系闭环完成（主干闭环版）",
+    "outline": "共性标准已覆盖",
+    "highlight": "高光桥段已明确"
+  },
+  "recommended_next_layer": null,
+  "recommended_skill": null,
+  "recommended_mode": "validate-only",
+  "recommended_next_step": "五层当前都已达成可用状态；建议只做验收、交接或继续深拆项目内容。",
+  "optional_backfill_layers": [],
+  "updated_at": "2026-05-13T22:07:40",
+  "layer_status": {
+    "chapter-distillation": {
+      "layer": "chapter-distillation",
+      "label": "章节蒸馏层",
+      "exists": true,
+      "validated": true,
+      "has_placeholders": false,
+      "completion_label": "章节骨架已形成",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/永恒剑主/README.md",
+        "handoff": "/home/zuoky/project/永恒剑主/工作状态-2026-05-12.md",
+        "manifest": "/home/zuoky/project/永恒剑主/chapter-distillation-manifest.json",
+        "chapter_skeleton": "/home/zuoky/project/永恒剑主/永恒剑主-章节蒸馏骨架.md",
+        "stage_skeleton": "/home/zuoky/project/永恒剑主/永恒剑主-阶段骨架与换挡草图.md",
+        "calibration_anchors": "/home/zuoky/project/永恒剑主/永恒剑主-校准与验证锚点.md",
+        "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-章节蒸馏校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "manifest": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok",
+          "chapter_count": 1004
+        },
+        "chapter_skeleton": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok",
+          "chapter_sections": 1004
+        },
+        "stage_skeleton": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "calibration_anchors": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        }
+      },
+      "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-章节蒸馏校验报告.md",
+      "validator_summary": {
+        "novel_name": "永恒剑主",
+        "skeleton_status": "章节骨架已形成",
+        "calibration_status": "校准锚点已可用",
+        "existing_count": 6,
+        "content_ok_count": 6,
+        "required_core_ok_count": 6
+      },
+      "failed_checks": [],
+      "repair_targets": [],
+      "quality": {
+        "score": 40,
+        "ok": false,
+        "issues": [
+          "模板话术密度过高 (60.0%)，疑似大面积模板填充",
+          "章节独特性不足，唯一描述比 0.0%",
+          "分析深度不足，因果推理密度 0.0%"
+        ]
+      }
+    },
+    "opening": {
+      "layer": "opening",
+      "label": "黄金前三章层",
+      "exists": true,
+      "validated": true,
+      "has_placeholders": false,
+      "completion_label": "开篇抓力已明确",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/永恒剑主/README.md",
+        "handoff": "/home/zuoky/project/永恒剑主/工作状态-2026-05-12.md",
+        "total_judgment": "/home/zuoky/project/永恒剑主/永恒剑主-黄金前三章总判断.md",
+        "chapter_1": "/home/zuoky/project/永恒剑主/永恒剑主-第一章拆解.md",
+        "chapter_2": "/home/zuoky/project/永恒剑主/永恒剑主-第二章拆解.md",
+        "chapter_3": "/home/zuoky/project/永恒剑主/永恒剑主-第三章拆解.md",
+        "hook_promise": "/home/zuoky/project/永恒剑主/永恒剑主-开篇钩子与读者承诺.md",
+        "issues_revision": "/home/zuoky/project/永恒剑主/永恒剑主-开篇问题与修改建议.md",
+        "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-黄金前三章校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "total_judgment": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "chapter_1": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "chapter_2": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "chapter_3": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "hook_promise": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "issues_revision": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        }
+      },
+      "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-黄金前三章校验报告.md",
+      "validator_summary": {
+        "novel_name": "永恒剑主",
+        "opening_status": "开篇抓力已明确",
+        "structure_status": "前三章结构已拆清",
+        "existing_count": 8,
+        "content_ok_count": 8,
+        "required_core_ok_count": 8
+      },
+      "failed_checks": [],
+      "repair_targets": [],
+      "quality": {
+        "score": 61,
+        "ok": false,
+        "issues": [
+          "第1章拆解分析深度不足",
+          "第2章拆解分析深度不足",
+          "第3章拆解分析深度不足",
+          "开篇修改建议可操作性不足（缺少具体章节目标和可执行方案）"
+        ]
+      }
+    },
+    "protagonist": {
+      "layer": "protagonist",
+      "label": "主角百科层",
+      "exists": true,
+      "validated": true,
+      "has_placeholders": false,
+      "completion_label": "体系闭环完成（主干闭环版）",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/永恒剑主/README.md",
+        "handoff": "/home/zuoky/project/永恒剑主/工作状态-2026-05-12.md",
+        "startup_checklist": "/home/zuoky/project/永恒剑主/永恒剑主-项目启动清单.md",
+        "anchor": "/home/zuoky/project/永恒剑主/永恒剑主-主角锚点与骨架.md",
+        "stage_outline": "/home/zuoky/project/永恒剑主/永恒剑主-整书粗阶段划分.md",
+        "final_card": "/home/zuoky/project/永恒剑主/林新-最终人物卡.md",
+        "index": "/home/zuoky/project/永恒剑主/林新-词条总索引.md",
+        "core_overview": "/home/zuoky/project/永恒剑主/林新-核心体系总览.md",
+        "essence_summary": "/home/zuoky/project/永恒剑主/永恒剑主-全书精华总结.md",
+        "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-主角百科校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "startup_checklist": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "anchor": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "stage_outline": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "final_card": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "index": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "core_overview": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "essence_summary": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        }
+      },
+      "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-主角百科校验报告.md",
+      "validator_summary": {
+        "novel_name": "永恒剑主",
+        "protagonist_name": "林新",
+        "skeleton_status": "骨架完成",
+        "system_status": "体系闭环完成（主干闭环版）",
+        "existing_count": 9,
+        "content_ok_count": 9,
+        "required_skeleton_ok_count": 5,
+        "required_system_ok_count": 2,
+        "files": {
+          "project_entry": "/home/zuoky/project/永恒剑主/README.md",
+          "handoff": "/home/zuoky/project/永恒剑主/工作状态-2026-05-12.md",
+          "startup_checklist": "/home/zuoky/project/永恒剑主/永恒剑主-项目启动清单.md",
+          "anchor": "/home/zuoky/project/永恒剑主/永恒剑主-主角锚点与骨架.md",
+          "stage_outline": "/home/zuoky/project/永恒剑主/永恒剑主-整书粗阶段划分.md",
+          "final_card": "/home/zuoky/project/永恒剑主/林新-最终人物卡.md",
+          "index": "/home/zuoky/project/永恒剑主/林新-词条总索引.md",
+          "core_overview": "/home/zuoky/project/永恒剑主/林新-核心体系总览.md",
+          "essence_summary": "/home/zuoky/project/永恒剑主/永恒剑主-全书精华总结.md"
+        }
+      },
+      "failed_checks": [],
+      "repair_targets": [],
+      "quality": {
+        "score": 65,
+        "ok": false,
+        "issues": [
+          "主角锚点文件结构不完整",
+          "全书精华总结因果推理密度不足"
+        ]
+      }
+    },
+    "outline": {
+      "layer": "outline",
+      "label": "整书大纲层",
+      "exists": true,
+      "validated": true,
+      "has_placeholders": false,
+      "completion_label": "共性标准已覆盖",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/永恒剑主/README.md",
+        "handoff": "/home/zuoky/project/永恒剑主/工作状态-2026-05-12.md",
+        "protagonist_layer": "/home/zuoky/project/永恒剑主/永恒剑主-主角锚点与骨架.md",
+        "core_supporting_relations": "/home/zuoky/project/永恒剑主/永恒剑主-核心配角与主角关系.md",
+        "overview": "/home/zuoky/project/永恒剑主/永恒剑主-大纲总览.md",
+        "stages": "/home/zuoky/project/永恒剑主/永恒剑主-阶段与篇章拆分.md",
+        "lines": "/home/zuoky/project/永恒剑主/永恒剑主-主线支线与冲突地图.md",
+        "conflicts": "/home/zuoky/project/永恒剑主/永恒剑主-核心冲突点与爆发点.md",
+        "time_place": "/home/zuoky/project/永恒剑主/永恒剑主-时间与地点转折.md",
+        "climax_pacing": "/home/zuoky/project/永恒剑主/永恒剑主-高潮节奏与收束诊断.md",
+        "issues_revision": "/home/zuoky/project/永恒剑主/永恒剑主-结构问题与修改建议.md",
+        "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-大纲分析校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "protagonist_layer": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "core_supporting_relations": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "overview": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "stages": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "lines": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "conflicts": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "time_place": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "climax_pacing": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "issues_revision": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        }
+      },
+      "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-大纲分析校验报告.md",
+      "validator_summary": {
+        "novel_name": "永恒剑主",
+        "common_status": "共性标准已覆盖",
+        "feature_status": "单书特性已明确",
+        "existing_count": 11,
+        "content_ok_count": 11,
+        "required_core_ok_count": 7,
+        "feature_file": "/home/zuoky/project/永恒剑主/永恒剑主-大纲总览.md",
+        "feature_items": [
+          "弱势壳层开局",
+          "外挂与修行双主梁",
+          "终局高位回收"
+        ],
+        "files": {
+          "project_entry": "/home/zuoky/project/永恒剑主/README.md",
+          "handoff": "/home/zuoky/project/永恒剑主/工作状态-2026-05-12.md",
+          "protagonist_layer": "/home/zuoky/project/永恒剑主/永恒剑主-主角锚点与骨架.md",
+          "core_supporting_relations": "/home/zuoky/project/永恒剑主/永恒剑主-核心配角与主角关系.md",
+          "overview": "/home/zuoky/project/永恒剑主/永恒剑主-大纲总览.md",
+          "stages": "/home/zuoky/project/永恒剑主/永恒剑主-阶段与篇章拆分.md",
+          "lines": "/home/zuoky/project/永恒剑主/永恒剑主-主线支线与冲突地图.md",
+          "conflicts": "/home/zuoky/project/永恒剑主/永恒剑主-核心冲突点与爆发点.md",
+          "time_place": "/home/zuoky/project/永恒剑主/永恒剑主-时间与地点转折.md",
+          "climax_pacing": "/home/zuoky/project/永恒剑主/永恒剑主-高潮节奏与收束诊断.md",
+          "issues_revision": "/home/zuoky/project/永恒剑主/永恒剑主-结构问题与修改建议.md"
+        }
+      },
+      "failed_checks": [],
+      "repair_targets": [],
+      "quality": {
+        "score": 65,
+        "ok": false,
+        "issues": [
+          "大纲总览分析深度不足",
+          "结构修改建议可操作性不足"
+        ]
+      }
+    },
+    "highlight": {
+      "layer": "highlight",
+      "label": "剧情高光层",
+      "exists": true,
+      "validated": true,
+      "has_placeholders": false,
+      "completion_label": "高光桥段已明确",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/永恒剑主/README.md",
+        "handoff": "/home/zuoky/project/永恒剑主/工作状态-2026-05-12.md",
+        "top10_table": "/home/zuoky/project/永恒剑主/永恒剑主-最吸引人的十个剧情细节总表.md",
+        "mechanism": "/home/zuoky/project/永恒剑主/永恒剑主-剧情吸引力机制分析.md",
+        "top10_breakdown": "/home/zuoky/project/永恒剑主/永恒剑主-Top10细节逐条拆解.md",
+        "distribution": "/home/zuoky/project/永恒剑主/永恒剑主-高光桥段分布与节奏判断.md",
+        "pleasure_summary": "/home/zuoky/project/永恒剑主/永恒剑主-最强爽点痛点悬念点总结.md",
+        "revision": "/home/zuoky/project/永恒剑主/永恒剑主-剧情高光改造建议.md",
+        "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-剧情高光校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "top10_table": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "mechanism": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "top10_breakdown": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "distribution": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "pleasure_summary": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "revision": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        }
+      },
+      "validator_report": "/home/zuoky/project/永恒剑主/永恒剑主-剧情高光校验报告.md",
+      "validator_summary": {
+        "novel_name": "永恒剑主",
+        "highlight_status": "高光桥段已明确",
+        "mechanism_status": "剧情吸引力机制已拆清",
+        "existing_count": 8,
+        "content_ok_count": 8,
+        "required_core_ok_count": 8
+      },
+      "failed_checks": [],
+      "repair_targets": [],
+      "quality": {
+        "score": 65,
+        "ok": false,
+        "issues": [
+          "Top10 总表具体锚定密度不足 (7.3/千字)",
+          "吸引力机制分析因果推理密度不足"
+        ]
+      }
+    }
+  },
+  "repair_plan": null,
+  "quality_gate": {
+    "overall_score": 59.2,
+    "is_quality_pass": false,
+    "issue_count": 14,
+    "cross_layer_conflicts": 1
+  }
+}

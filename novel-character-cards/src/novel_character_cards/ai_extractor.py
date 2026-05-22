@@ -150,7 +150,7 @@ def extract_with_openai(
         },
         method="POST",
     )
-    with request.urlopen(req) as response:
+    with request.urlopen(req, timeout=120) as response:
         payload = json.loads(response.read().decode("utf-8"))
 
     parsed = json.loads(_extract_response_text(payload))
@@ -305,7 +305,7 @@ def extract_with_deepseek(
     )
 
     try:
-        with request.urlopen(req) as response:
+        with request.urlopen(req, timeout=120) as response:
             payload = json.loads(response.read().decode("utf-8"))
     except urllib_error.HTTPError as exc:
         error_body = exc.read().decode("utf-8", errors="ignore") if exc.fp else ""
@@ -314,6 +314,8 @@ def extract_with_deepseek(
         ) from exc
     except urllib_error.URLError as exc:
         raise RuntimeError(f"DeepSeek API connection failed: {exc}") from exc
+    except Exception as exc:
+        raise RuntimeError(f"DeepSeek API request failed (timeout or unexpected): {exc}") from exc
 
     choices = payload.get("choices", [])
     if not choices:

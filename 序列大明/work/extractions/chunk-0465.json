@@ -1,258 +1,202 @@
 {
   "chunk_id": "chunk-0465",
-  "title": "第463章都是机缘",
   "characters": [
     {
-      "name": "良人仙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "哗啦啦.　　良人仙身后的符篆掉落一地，此刻那辆速度极快的黑舆也已经冲到了他的身前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "哗啦啦.　　良人仙身后的符篆掉落一地，此刻那辆速度极快的黑舆也已经冲到了他的身前",
-        "阳龙这番言辞绵中带刺，良人仙不禁蹙紧眉头，压着火气道：“青城山的实力自然是毋庸置疑，但我们也不会把精力放在一些无足轻重的小事上面",
-        "良人仙抬手轻抚着鹤首，口中自说自话"
-      ],
-      "mention_count": 43
-    },
-    {
       "name": "阳龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "阳龙道兄",
+        "阳龙师兄"
+      ],
+      "identity": "龙虎山外姓道人",
+      "faction": "龙虎山",
       "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "”　　阳龙抬手去抓溢散的雾气，仔细感觉着指间掠过的淡淡凉意和湿气，心头不禁感叹",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "第463章 都是机缘",
+      "summary": "龙虎山外姓道人，与青城山良人仙暗中交易，透露龙虎山情报，后被良人仙记录谈话，最终洞天被袭，处境堪忧。",
+      "appearance": [
+        "面容粗犷",
+        "壮硕身影"
+      ],
+      "personality": [
+        "沉稳",
+        "愤懑",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　阳龙抬手去抓溢散的雾气，仔细感觉着指间掠过的淡淡凉意和湿气，心头不禁感叹",
-        "阳龙坐在石墩上的身影变得模糊，随着一阵山风吹拂，如一团雾气消散原地",
-        "阳龙这番言辞绵中带刺，良人仙不禁蹙紧眉头，压着火气道：“青城山的实力自然是毋庸置疑，但我们也不会把精力放在一些无足轻重的小事上面"
+      "relationships": [
+        {
+          "target": "良人仙",
+          "type": "交易对象"
+        },
+        {
+          "target": "阳玄",
+          "type": "同门师弟"
+        },
+        {
+          "target": "陈乞生",
+          "type": "提及人物"
+        }
       ],
-      "mention_count": 37
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黄梁洞天与良人仙会面，透露龙虎山情报，后洞天被袭，谈话被记录。"
+        }
+      ],
+      "evidence": [
+        "面容粗犷的道人抬头看向天空",
+        "阳龙抬手去抓溢散的雾气",
+        "阳龙阴沉着脸色说道"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "良人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "哗啦啦.　　良人仙身后的符篆掉落一地，此刻那辆速度极快的黑舆也已经冲到了他的身前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "哗啦啦.　　良人仙身后的符篆掉落一地，此刻那辆速度极快的黑舆也已经冲到了他的身前",
-        "阳龙这番言辞绵中带刺，良人仙不禁蹙紧眉头，压着火气道：“青城山的实力自然是毋庸置疑，但我们也不会把精力放在一些无足轻重的小事上面",
-        "良人仙抬手轻抚着鹤首，口中自说自话"
+      "name": "良人仙",
+      "aliases": [
+        "良师弟",
+        "师弟"
       ],
-      "mention_count": 29
+      "identity": "青城山道人",
+      "faction": "青城山",
+      "status": "登场",
+      "first_appearance": "第463章 都是机缘",
+      "summary": "青城山道人，与阳龙交易，暗中记录谈话，后遭陈乞生袭击，被拖入黑舆。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "算计",
+        "从容"
+      ],
+      "abilities": [
+        "青城符录",
+        "阴阳盗梦"
+      ],
+      "equipment": [
+        "白鹤",
+        "符篆"
+      ],
+      "relationships": [
+        {
+          "target": "阳龙",
+          "type": "交易对象"
+        },
+        {
+          "target": "陈乞生",
+          "type": "袭击者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与阳龙在黄梁洞天会面，记录谈话，后遭陈乞生袭击并被拖入黑舆。"
+        }
+      ],
+      "evidence": [
+        "良人仙面带笑意，朝着阳龙抬手相邀",
+        "良人仙掐诀敕令",
+        "良人仙骇然转头"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "”　　良人仙冷笑道：“而且他居然还敢跟武序牵扯上关系，这可就是自己在找死了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　良人仙冷笑道：“而且他居然还敢跟武序牵扯上关系，这可就是自己在找死了",
-        "而且现在还滞留在倭区，并没有跟随你们一同撤离",
-        "现在宗门内有不少声音，把他看作龙虎山在这次试炼中唯一的希望，而且很有可能能够夺得机缘"
+      "name": "陈乞生",
+      "aliases": [
+        "阳玄",
+        "斗部阳玄"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龙虎九部斗部成员，犬山城锦衣卫特聘客卿",
+      "faction": "龙虎山",
       "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "”　　良人仙眉头紧皱：“就这么轻易被人杀了，看来我之前低估了这名独行武序啊",
+      "first_appearance": "第463章 都是机缘",
+      "summary": "龙虎九部斗部成员，俗名陈乞生，现为犬山城锦衣卫特聘客卿，袭击良人仙并将其拖入黑舆。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　良人仙眉头紧皱：“就这么轻易被人杀了，看来我之前低估了这名独行武序啊",
-        "”　　阳龙于亭中石墩上施施然坐下，面露苦笑道：“我之前的处境道友你也应该知道，天师府那边一直有人在暗中盯着我们这群人，实在是不敢贸然抽身啊",
-        "“我之前向道兄你发出了那么多次链接洞天的邀请，都被你一一回绝，我差点就以为道兄伱要跟我划清界限，再也不往来了呢"
+      "equipment": [
+        "黑舆",
+        "飞剑"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "此刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "哗啦啦.　　良人仙身后的符篆掉落一地，此刻那辆速度极快的黑舆也已经冲到了他的身前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "哗啦啦.　　良人仙身后的符篆掉落一地，此刻那辆速度极快的黑舆也已经冲到了他的身前",
-        "好处到手，阳龙此刻的态度比起之前，简直是天差地别，连声应和道",
-        "”　　良人仙此刻视线中只有人影寥寥的清冷街头和鳞次栉比的破败房屋"
+      "relationships": [
+        {
+          "target": "良人仙",
+          "type": "袭击"
+        },
+        {
+          "target": "阎君",
+          "type": "有旧"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "”　　良人仙眉头紧皱：“就这么轻易被人杀了，看来我之前低估了这名独行武序啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　良人仙眉头紧皱：“就这么轻易被人杀了，看来我之前低估了这名独行武序啊",
-        "“你们到底在大阪城发生了什么事，为什么会这么突然的撤走",
-        "”　　“这么说他算是我的竞争对手了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "驾驶黑舆袭击良人仙，将其拖入车内。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "阳龙阴沉着脸色说道：“我冒着身死道消的风险将龙虎山的计划透露给你，帮助你赢得这场试炼，可到现在我却连半点好处都没见到，这是不是有些太说不过去了吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "阳龙阴沉着脸色说道：“我冒着身死道消的风险将龙虎山的计划透露给你，帮助你赢得这场试炼，可到现在我却连半点好处都没见到，这是不是有些太说不过去了吧",
-        "”　　“这是自然，那如果没有其他的事情，我就先断开了",
-        "”　　阳龙的担忧根本没有被良人仙听进耳中，独行武序是否会威胁到道门的地位，这是白玉京中那些道老爷们考虑的事情，根本用不着他来担心"
+        "车门猛然洞开，陈乞生从中探出身来",
+        "一枚灰色的灵篆盖上良人仙的面门"
       ],
       "mention_count": 5
     },
     {
-      "name": "道兄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "”　　“要不然道兄你干脆改换门庭，加入我们青城山算了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“要不然道兄你干脆改换门庭，加入我们青城山算了",
-        "”　　“我还以为是什么了不得的大事，能让道兄你如此生气",
-        "放心，我良人仙答应你的好处一定会兑现，道兄你用不着着急"
+      "name": "张清律",
+      "aliases": [
+        "龙虎天师张清律"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "青城山",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "阳龙这番言辞绵中带刺，良人仙不禁蹙紧眉头，压着火气道：“青城山的实力自然是毋庸置疑，但我们也不会把精力放在一些无足轻重的小事上面",
+      "identity": "龙虎山天师，地仙之下第一人",
+      "faction": "龙虎山",
+      "status": "已故",
+      "first_appearance": "第463章 都是机缘",
+      "summary": "龙虎山天师，地仙之下第一人，死于地上佛国，死因与阎君有关。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "阎君",
+          "type": "死因相关"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "死于地上佛国。"
+        }
+      ],
       "evidence": [
-        "阳龙这番言辞绵中带刺，良人仙不禁蹙紧眉头，压着火气道：“青城山的实力自然是毋庸置疑，但我们也不会把精力放在一些无足轻重的小事上面",
-        "”　　“要不然道兄你干脆改换门庭，加入我们青城山算了",
-        "这要是放在我们青城山，哪里还会进行什么审查，直接就出手缉拿，进行搜魂了"
+        "龙虎天师张清律，地仙之下第一人",
+        "张清律死在犬山城锦衣卫的手中"
       ],
       "mention_count": 4
     },
     {
-      "name": "看来",
+      "name": "阎君",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "”　　“看来这颗棋子还是有点用处，或许可以向宗门申请，花点力气将他推上‘阵部’的主官位置",
+      "identity": "犬山城锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第463章 都是机缘",
+      "summary": "犬山城锦衣卫百户，与陈乞生有旧，被指为张清律之死的相关人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "有旧"
+        },
+        {
+          "target": "张清律",
+          "type": "死因相关"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“看来这颗棋子还是有点用处，或许可以向宗门申请，花点力气将他推上‘阵部’的主官位置",
-        "”　　良人仙眉头紧皱：“就这么轻易被人杀了，看来我之前低估了这名独行武序啊",
-        "”　　“看来是我心胸狭隘了"
+        "犬山城锦衣卫百户阎君有旧"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "天师府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第463章都是机缘",
-      "summary": "”　　“其实据我所知，天师府已经派人在调查他的师尊了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“其实据我所知，天师府已经派人在调查他的师尊了",
-        "放心，这笔钱是以一名不隶属于‘四山一宫’任何一家的散修的名义转入的，就算是天师府的人来审查，也不会发现有任何不妥",
-        "阳龙一脸苦涩：“现在试炼还没结束，天师府就开始出手，摆明了就是想要抓他们师徒二人的小辫子，为张清律的死找一个说法，维护他们张家人的脸面"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

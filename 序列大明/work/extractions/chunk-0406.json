@@ -1,254 +1,340 @@
 {
   "chunk_id": "chunk-0406",
-  "title": "第404章死路不可留",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "老李",
+        "锦衣卫"
+      ],
+      "identity": "锦衣卫百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第404章死路不可留",
-      "summary": "身负墨甲的李钧在火海之中闲庭信步，如同猫抓老鼠一般，逼迫着罗天四处奔逃，拳影所到之处，雷光崩碎，火势骤灭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "身负墨甲的李钧在火海之中闲庭信步，如同猫抓老鼠一般，逼迫着罗天四处奔逃，拳影所到之处，雷光崩碎，火势骤灭",
-        "李钧接过话茬，冷冷一笑：“用不着你们放过，你头上那些神仙要是有什么不满，尽管来找我，老子等着他们",
-        "随着一声稚嫩的童音响起，李钧身影自那片残存的火海之中一掠而过，将要熄灭的火焰之中冲起一条数丈高的骇人焰浪，无比蛮横的撞向那片符篆"
+      "summary": "锦衣卫百户，武序强者，身负墨甲，实力强悍，与罗天激战并最终击杀罗天。",
+      "appearance": [
+        "身负墨甲",
+        "套在右手中指上的无常簿指环"
       ],
-      "mention_count": 34
+      "personality": [
+        "冷静",
+        "果断",
+        "狠辣"
+      ],
+      "abilities": [
+        "武序能力",
+        "拳法",
+        "无常簿指环能力"
+      ],
+      "equipment": [
+        "墨甲",
+        "无常簿指环"
+      ],
+      "relationships": [
+        {
+          "target": "罗天",
+          "type": "敌对"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同僚"
+        },
+        {
+          "target": "李花",
+          "type": "同伴"
+        },
+        {
+          "target": "虬龙",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与罗天在姬路城锦衣卫户所上空激战，最终击杀罗天。"
+        }
+      ],
+      "evidence": [
+        "身负墨甲的李钧在火海之中闲庭信步",
+        "李钧虎口掐着罗天的咽喉，单臂将他擒了起来",
+        "李钧垂眸看向地面上那个浑身浴血，却依旧挺身直立的身影"
+      ],
+      "mention_count": 30
     },
     {
       "name": "罗天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第404章死路不可留",
-      "summary": "火海边缘，罗天踏着风篆不断快速变换方位，三枚微缩錾金符篆悬浮在双肩和头顶的三花之位，体积不过指头大小，却如同当日鸿鹄进攻犬山城使用的列缺系武器一样，不断迸发出炽热的光线",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "火海边缘，罗天踏着风篆不断快速变换方位，三枚微缩錾金符篆悬浮在双肩和头顶的三花之位，体积不过指头大小，却如同当日鸿鹄进攻犬山城使用的列缺系武器一样，不断迸发出炽热的光线",
-        "身负墨甲的李钧在火海之中闲庭信步，如同猫抓老鼠一般，逼迫着罗天四处奔逃，拳影所到之处，雷光崩碎，火势骤灭",
-        "“罗天师兄"
+      "aliases": [
+        "罗天师兄",
+        "牛鼻子",
+        "道长"
       ],
-      "mention_count": 26
+      "identity": "阁皂山道五星宿灵官",
+      "faction": "阁皂山",
+      "status": "死亡",
+      "first_appearance": "第404章死路不可留",
+      "summary": "阁皂山道五星宿灵官，擅长符篆道法，与李钧激战，最终被李钧击杀。",
+      "appearance": [
+        "玄黑如夜幕的道袍",
+        "满头黑发",
+        "眼眸金光"
+      ],
+      "personality": [
+        "自负",
+        "求生欲强"
+      ],
+      "abilities": [
+        "符篆道法",
+        "阁皂符录",
+        "金篆·蜉蝣",
+        "土篆·息壤",
+        "风篆",
+        "星宿灵官能力"
+      ],
+      "equipment": [
+        "雕版符篆",
+        "微缩錾金符篆",
+        "燕尾盾",
+        "玉清芙蓉冠"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "陈乞生",
+          "type": "敌对"
+        },
+        {
+          "target": "阁皂山众人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与李钧激战，使用多种符篆，最终被李钧击杀。"
+        }
+      ],
+      "evidence": [
+        "罗天踏着风篆不断快速变换方位",
+        "罗天双手掐诀，浑身汗出如浆",
+        "罗天嘴唇翕张，眼中黯淡的光芒竟诡异的重新亮了起来"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "满头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "陈乞生",
+      "aliases": [
+        "龙虎山天师"
+      ],
+      "identity": "龙虎山天师，道六山水郎",
+      "faction": "龙虎山",
+      "status": "昏死",
       "first_appearance": "第404章死路不可留",
-      "summary": "满头大汗的罗天一声低喝，数十块雕版符篆全部从激活状态重新归于沉寂，静静悬停在他面前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "龙虎山天师，道六山水郎，与李钧一同对抗罗天，最终昏死。",
+      "appearance": [
+        "浑身浴血"
+      ],
+      "personality": [
+        "狠辣"
+      ],
+      "abilities": [
+        "道序能力",
+        "符篆"
+      ],
+      "equipment": [
+        "符篆"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同僚"
+        },
+        {
+          "target": "罗天",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与李钧一同对抗罗天，使用符篆攻击罗天，后昏死。"
+        }
+      ],
       "evidence": [
-        "满头大汗的罗天一声低喝，数十块雕版符篆全部从激活状态重新归于沉寂，静静悬停在他面前",
-        "或许是想起了某些不堪重提的旧日往事，罗天脸上神色一片冷峻，两道锋利如刀的眉毛倒竖起来，满头黑发迎风乱舞，身上玄黑如夜幕的道袍不见往日璀璨的星光，却更显肃杀",
-        "崩碎的铁片划过罗天头顶，如刀一般切碎束发的玉清芙蓉冠，满头黑发乱舞，一时狼狈不堪"
+        "陈乞生抹了把脸上的雨水，表情一片惨淡",
+        "冲上半空的陈乞生，左手拽住罗天的后领，右手抓着一块符篆狠狠拍在他的脸上",
+        "说完这句话后，满脸倦色的陈乞生五指一松，两眼紧闭，任由自己朝着地面坠落"
       ],
       "mention_count": 8
     },
     {
-      "name": "随着",
+      "name": "李花",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
       "status": "登场",
       "first_appearance": "第404章死路不可留",
-      "summary": "随着一声稚嫩的童音响起，李钧身影自那片残存的火海之中一掠而过，将要熄灭的火焰之中冲起一条数丈高的骇人焰浪，无比蛮横的撞向那片符篆",
-      "appearance": [],
+      "summary": "扎着羊角辫的女孩，与李钧关系密切，参与战斗。",
+      "appearance": [
+        "扎着两个羊角辫"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着一声稚嫩的童音响起，李钧身影自那片残存的火海之中一掠而过，将要熄灭的火焰之中冲起一条数丈高的骇人焰浪，无比蛮横的撞向那片符篆",
-        "随着符身表面的宛如龙蛇的道纹亮起，篆体‘咔嚓’一声裂开，大片土黄色的泡沫如同洪流一般从裂开的符篆中狂涌而出，迎面裹上李钧拳头",
-        "随着罗天法印成型，来势汹汹的符篆群如同撞上一面无形的墙壁，飞射的速度骤然减慢，符身不断颤抖，其上扭动的龙蛇道文缓缓归于平静"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "跳上李钧肩头，对罗天做出开枪动作。"
+        }
+      ],
+      "evidence": [
+        "扎着两个羊角辫的李花跳上李钧肩头",
+        "小脸神色肃穆，翘起拇指食指，对着罗天比划出一个开枪的动作"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "还有",
+      "name": "虬龙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫成员",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第404章死路不可留",
-      "summary": "“还有.还有姬路城百户所，我也能补偿",
-      "appearance": [],
+      "summary": "锦衣卫成员，参与战斗，被烈焰灼伤。",
+      "appearance": [
+        "浑身血泡"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“还有.还有姬路城百户所，我也能补偿",
-        "“还有心思放你奶奶的什么狠话，锦衣卫的手段不行，那就试试道爷我龙虎山的手段",
-        "”　　“你不是第一个独行武序，阁皂山洞天里有很多关于你们的信息，甚至还有活体，留我一条命，我可以告诉你我知道的所有消息"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "被烈焰灼烧，后抛动重甲接住陈乞生。"
+        }
+      ],
+      "evidence": [
+        "被烈焰灼烧的满身血泡的虬龙朝着重甲撇了撇头",
+        "地面上，虬龙因为全力抛动的惯性，整个人狠狠摔在地上"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "阁皂",
+      "name": "马王爷",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
       "status": "登场",
       "first_appearance": "第404章死路不可留",
-      "summary": "阁皂符录，金篆·蜉蝣",
+      "summary": "与李钧对话的神秘人物，似乎与李钧关系密切。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "阁皂符录，金篆·蜉蝣",
-        "阁皂符录，土篆·息壤",
-        "”　　地面上，一众阁皂山道序早已经化成黑影，四散奔逃"
+      "personality": [
+        "懒洋洋"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "就连",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第404章死路不可留",
-      "summary": "”　　地面上响起此起彼伏的呼喊声，一声比一声急切，就连那雷动的枪声都压不住",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　地面上响起此起彼伏的呼喊声，一声比一声急切，就连那雷动的枪声都压不住",
-        "做完这一切的罗天，脸色却不见半点轻松，反倒是越发苍白，就连眼眸之中的金光也变的十分黯淡",
-        "就连号称黄梁硕鼠的阴阳序，也无法完全破解其中所有的组合"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这牛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第404章死路不可留",
-      "summary": "“这牛鼻子身上居然有这么高的权限",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这牛鼻子身上居然有这么高的权限",
-        "“这牛鼻子还真有两把刷子，感觉比陈乞生要强上不少啊"
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与李钧对话，提醒李钧小心罗天的底牌。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "双手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第404章死路不可留",
-      "summary": "充斥嘲弄的话音之中，倒飞的罗天铁色铁青，双手十指轻弹，缀挂在道袍后背的星点再次冲出两块风篆，抵消冲力的同时帮助他在半空中强行拧转身形",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "充斥嘲弄的话音之中，倒飞的罗天铁色铁青，双手十指轻弹，缀挂在道袍后背的星点再次冲出两块风篆，抵消冲力的同时帮助他在半空中强行拧转身形",
-        "”　　李钧闻言抬眼看向前方，只见罗天双手掐诀，浑身汗出如浆，苍白的脸色上泛起一片异样的红光",
-        "面对如大雨般侵袭而来的符篆群，罗天双眼之中蕴含的金光蓦然大作，双手于胸前掐出一个复杂手印，往前狠狠一压"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第404章死路不可留",
-      "summary": "而是在那高天之上，寰宇之外",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而是在那高天之上，寰宇之外",
-        "在成为星宿灵官之后，已经抛弃了常规符篆的罗天，此刻没有继续动用微缩符篆，而是郑重其事的从袖中拿出一块巴掌大小的雕版符篆，扬手祭在头顶",
-        "进入近明时期之后，随着黄粱梦境和脑机灵窍的发展，道序使用的各种手印、法诀和咒语已经不再是故弄玄虚，愚弄信徒的迷信手段，而是实打实激活和控制各种法器的秘钥"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "姬路城",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第404章死路不可留",
-      "summary": "第404章死路不可留　　姬路城锦衣卫户所上空，一亩方圆的火海沸腾如汤，拳头大小的火点不断往下飞坠，幸好此处也是城市边缘，否则光就这些流火恐怕就要波及不少百姓",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第404章死路不可留　　姬路城锦衣卫户所上空，一亩方圆的火海沸腾如汤，拳头大小的火点不断往下飞坠，幸好此处也是城市边缘，否则光就这些流火恐怕就要波及不少百姓",
-        "”　　整个姬路城都能听到这惊天动地的爆炸声响",
-        "“还有.还有姬路城百户所，我也能补偿"
+        "马王爷语气感慨",
+        "马王爷懒洋洋道：“别聊了，这个罗天看样子要出底牌了”"
       ],
       "mention_count": 3
     },
     {
-      "name": "拳头",
+      "name": "重甲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫成员",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第404章死路不可留",
-      "summary": "第404章死路不可留　　姬路城锦衣卫户所上空，一亩方圆的火海沸腾如汤，拳头大小的火点不断往下飞坠，幸好此处也是城市边缘，否则光就这些流火恐怕就要波及不少百姓",
+      "summary": "锦衣卫成员，参与战斗，接住昏死的陈乞生。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "虬龙",
+          "type": "同僚"
+        },
+        {
+          "target": "陈乞生",
+          "type": "救助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "撞开双臂接住昏死过去的陈乞生。"
+        }
+      ],
       "evidence": [
-        "第404章死路不可留　　姬路城锦衣卫户所上空，一亩方圆的火海沸腾如汤，拳头大小的火点不断往下飞坠，幸好此处也是城市边缘，否则光就这些流火恐怕就要波及不少百姓",
-        "随着符身表面的宛如龙蛇的道纹亮起，篆体‘咔嚓’一声裂开，大片土黄色的泡沫如同洪流一般从裂开的符篆中狂涌而出，迎面裹上李钧拳头"
+        "重甲快步跑到陈乞生的落点下，撞开双臂借助了昏死过去的龙虎山天师"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "阁皂山众人",
+      "aliases": [
+        "阁皂山道序"
+      ],
+      "identity": "阁皂山道序成员",
+      "faction": "阁皂山",
+      "status": "登场",
+      "first_appearance": "第404章死路不可留",
+      "summary": "罗天的同门，参与战斗，使用符篆攻击李钧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "符篆道法"
+      ],
+      "equipment": [
+        "雕版符篆"
+      ],
+      "relationships": [
+        {
+          "target": "罗天",
+          "type": "同门"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "甩出密密麻麻的雕版符篆攻击李钧。"
+        }
+      ],
+      "evidence": [
+        "地面上，一众阁皂山道序早已经化成黑影，四散奔逃",
+        "只见阁皂山众人完全置罗云的安危于不顾，一边和锦衣卫周旋，一边甩出密密麻麻的雕版符篆"
       ],
       "mention_count": 3
     }

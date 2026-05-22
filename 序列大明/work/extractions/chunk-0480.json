@@ -1,258 +1,321 @@
 {
   "chunk_id": "chunk-0480",
-  "title": "第478章大错特错",
   "characters": [
     {
       "name": "重甲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第478章大错特错",
-      "summary": "”　　重甲回头看了眼跟在身后的小旗，沉声问道：“红眼，你想说什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　重甲回头看了眼跟在身后的小旗，沉声问道：“红眼，你想说什么",
-        "”　　红眼虽然是重甲麾下负责对外作战的小旗，但却长了一张人畜无害的娃娃脸",
-        "他这种行事作风，若不是有重甲护着，恐怕他早就被摘了小旗的位置"
+      "aliases": [
+        "重甲总旗"
       ],
-      "mention_count": 25
-    },
-    {
-      "name": "虬龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "姬路城锦衣卫一处总旗",
+      "faction": "姬路城锦衣卫",
+      "status": "死亡",
       "first_appearance": "第478章大错特错",
-      "summary": "经他之手的任务经常不会留下任何活口，对其他锦衣卫惯用的诏狱更是嗤之以鼻，所以时常让负责提供情报和追踪线索的二处怨声载道，屡次在百户虬龙的面前告状",
+      "summary": "姬路城锦衣卫一处总旗，对虬龙忠心耿耿，在任务中遭遇埋伏，最终战死。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "经他之手的任务经常不会留下任何活口，对其他锦衣卫惯用的诏狱更是嗤之以鼻，所以时常让负责提供情报和追踪线索的二处怨声载道，屡次在百户虬龙的面前告状",
-        "虬龙眉宇之中冷意渐盛，双手撑着书案缓缓起身道：“但有一件事你做错了，你不该拿自己的兄弟们的性命，去做你享受荣华富贵的投名状",
-        "”　　许诺在新政结束之后，虬龙可以带着麾下的锦衣卫加入汝南周家，但前提是必须要接受他周鹤羽的儒序印信"
+      "personality": [
+        "稳重",
+        "忠诚"
       ],
-      "mention_count": 21
+      "abilities": [],
+      "equipment": [
+        "绣春刀",
+        "武穆盾牌"
+      ],
+      "relationships": [
+        {
+          "target": "虬龙",
+          "type": "上级"
+        },
+        {
+          "target": "红眼",
+          "type": "下属"
+        },
+        {
+          "target": "云从",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "任务中",
+          "event": "带队前往废弃工厂抓捕鸿鹄，遭遇埋伏，身受重伤。"
+        },
+        {
+          "stage": "结局",
+          "event": "被伍笔山杀死。"
+        }
+      ],
+      "evidence": [
+        "重甲此刻浑身伤痕累累，破碎的血肉下露出布满裂痕的械骨。",
+        "重甲泛红的双眼死死盯着伍笔山，口中低声道：“我掩护你先走”",
+        "重甲双眼赤红，已经濒临崩断的绣春刀裹挟着最后的厉啸，悍然冲向站在人群之中的伍笔山。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "红眼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "红眼"
+      ],
+      "identity": "姬路城锦衣卫小旗",
+      "faction": "姬路城锦衣卫",
+      "status": "死亡",
       "first_appearance": "第478章大错特错",
-      "summary": "”　　重甲回头看了眼跟在身后的小旗，沉声问道：“红眼，你想说什么",
+      "summary": "重甲麾下小旗，长着娃娃脸，作战狠辣，最终在任务中重伤身亡。",
+      "appearance": [
+        "娃娃脸"
+      ],
+      "personality": [
+        "笑眯眯",
+        "狠辣"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绣春刀",
+        "武穆盾牌"
+      ],
+      "relationships": [
+        {
+          "target": "重甲",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "任务中",
+          "event": "随重甲执行任务，腹部被剖开，最终失明身亡。"
+        }
+      ],
+      "evidence": [
+        "红眼此刻腹部那条几乎将整个肚子全部剖开的恐怖伤口。",
+        "红眼扬手扇了自己一个耳光，却依旧无法驱散视线前的黑暗",
+        "红眼放声怒吼，从侧面冲出，持盾挡在重甲身前。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "虬龙",
+      "aliases": [
+        "虬龙",
+        "虬龙百户"
+      ],
+      "identity": "姬路城锦衣卫百户",
+      "faction": "姬路城锦衣卫",
+      "status": "死亡",
+      "first_appearance": "第478章大错特错",
+      "summary": "姬路城锦衣卫百户，对下属重情重义，拒绝周鹤羽的招揽，最终被云从背叛，畏罪自杀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "重情义",
+        "刚直"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "重甲",
+          "type": "下属"
+        },
+        {
+          "target": "云从",
+          "type": "下属（后被背叛）"
+        },
+        {
+          "target": "周鹤羽",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "事件前",
+          "event": "在百户所内与云从交谈，对任务感到不安。"
+        },
+        {
+          "stage": "结局",
+          "event": "拒绝裁撤命令，在户所内畏罪自杀。"
+        }
+      ],
       "evidence": [
-        "”　　重甲回头看了眼跟在身后的小旗，沉声问道：“红眼，你想说什么",
-        "”　　红眼虽然是重甲麾下负责对外作战的小旗，但却长了一张人畜无害的娃娃脸",
-        "”　　这样的伤势，对于只有农序六的红眼来说，足以致命"
+        "虬龙抬手揉了揉紧蹙的眉头，他心头隐隐有些不安",
+        "虬龙眼中突然暴出的精光，让云从浑身不禁一颤",
+        "原姬路城百户虬龙拒绝接受裁撤命令及离任审查，于户所内畏罪自杀。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "云从",
+      "aliases": [
+        "云从总旗",
+        "云从百户"
+      ],
+      "identity": "姬路城锦衣卫二处总旗，后升任百户",
+      "faction": "姬路城锦衣卫（后投靠周鹤羽）",
+      "status": "存活",
+      "first_appearance": "第478章大错特错",
+      "summary": "姬路城锦衣卫二处总旗，表面忠诚，实则早已投靠周鹤羽，最终背叛虬龙。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "善于伪装"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "虬龙",
+          "type": "上级（后被背叛）"
+        },
+        {
+          "target": "周鹤羽",
+          "type": "投靠对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "事件前",
+          "event": "向虬龙汇报情报，并转达周鹤羽的招揽。"
+        },
+        {
+          "stage": "结局",
+          "event": "背叛虬龙，投靠周鹤羽，被建议擢升为百户。"
+        }
+      ],
+      "evidence": [
+        "云从低着头一声不发，只有垂在腿侧的双拳青筋毕现",
+        "云从连忙道：“周鹤羽说之前是他考虑不周”",
+        "二处总旗云从深明大义，积极配合姬路城宣慰使周鹤羽开展工作，特上报兵部，建议擢升云从为姬路城锦衣卫百户。"
       ],
       "mention_count": 18
     },
     {
-      "name": "云从",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第478章大错特错",
-      "summary": "你说对吗，云从总旗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "你说对吗，云从总旗",
-        "“看来整个姬路城百户所，只有云从你一个聪明人啊",
-        "”　　本来虬龙只打算随意派遣两名锦衣卫敷衍了事，但二处总旗云从却提出了不同的意见"
-      ],
-      "mention_count": 17
-    },
-    {
       "name": "周鹤羽",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "周鹤羽",
+        "周大人"
+      ],
+      "identity": "姬路城宣慰使，汝南周氏门阀",
+      "faction": "汝南周氏",
+      "status": "存活",
       "first_appearance": "第478章大错特错",
-      "summary": "”　　“伍笔山勾结鸿鹄的可能性很小，但周鹤羽的可能性却很大",
+      "summary": "来自汝南周氏的门阀子弟，新任姬路城宣慰使，强势推行新政，意图收编锦衣卫。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "强势",
+        "霸道",
+        "精明"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“伍笔山勾结鸿鹄的可能性很小，但周鹤羽的可能性却很大",
-        "”　　许诺在新政结束之后，虬龙可以带着麾下的锦衣卫加入汝南周家，但前提是必须要接受他周鹤羽的儒序印信",
-        "“周鹤羽让你转达什么"
+      "relationships": [
+        {
+          "target": "虬龙",
+          "type": "敌对"
+        },
+        {
+          "target": "云从",
+          "type": "收买对象"
+        },
+        {
+          "target": "伍笔山",
+          "type": "政敌"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "此刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第478章大错特错",
-      "summary": "此刻就算全副武装，浑身上下却依旧没有半点彪悍摄人的气势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此刻就算全副武装，浑身上下却依旧没有半点彪悍摄人的气势",
-        "重甲此刻浑身伤痕累累，破碎的血肉下露出布满裂痕的械骨",
-        "时至此刻，虬龙终于明白的自己心头的那股始终萦绕不散的不安是从何而来"
+      "timeline": [
+        {
+          "stage": "事件前",
+          "event": "架空伍笔山，要求虬龙归顺。"
+        },
+        {
+          "stage": "事件中",
+          "event": "设局陷害伍笔山，并收买云从。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "头儿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第478章大错特错",
-      "summary": "第478章大错特错　　“头儿，这次二处的消息准确吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第478章大错特错　　“头儿，这次二处的消息准确吗",
-        "”　　“头儿，有鬼",
-        "“头儿，别固执，活着活着最重要”　　云从连忙道：“周鹤羽说之前是他考虑不周，一时冲动才会说出那些话，希望大人您能够不计前嫌，大家都是为了帝国做事，不要因为一些言语冲突而影响了新政的推行"
+        "周鹤羽面带微笑，“云从百户，你觉得本官这份报告写的如何”",
+        "周鹤羽嫌恶的看了眼地上支离破碎的尸体",
+        "周鹤羽在雷厉风行取得姬路城宣慰司衙门的大权之后"
       ],
-      "mention_count": 6
+      "mention_count": 12
     },
     {
       "name": "伍笔山",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "伍笔山",
+        "伍同知"
+      ],
+      "identity": "原姬路城宣慰司同知",
+      "faction": "儒序门阀",
+      "status": "存活",
       "first_appearance": "第478章大错特错",
-      "summary": "”　　“伍笔山勾结鸿鹄的可能性很小，但周鹤羽的可能性却很大",
+      "summary": "原姬路城宣慰司同知，被周鹤羽架空后怀恨在心，与鸿鹄勾结，但实为周鹤羽的棋子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "无脑",
+        "冲动"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“伍笔山勾结鸿鹄的可能性很小，但周鹤羽的可能性却很大",
-        "”　　伍笔山淡然开口，根本不屑再看对方一眼，径直转身离开",
-        "这种不按规矩的出招，不止让同知伍笔山所有的准备全部打了水漂，也知道了周鹤羽没有分润他半点功绩的想法，摆明了要将他推行新政做出的成绩直接吃干抹净"
+      "relationships": [
+        {
+          "target": "周鹤羽",
+          "type": "政敌"
+        },
+        {
+          "target": "重甲",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "事件前",
+          "event": "被周鹤羽架空，功绩被夺。"
+        },
+        {
+          "stage": "事件中",
+          "event": "出现在废弃工厂，指挥手下攻击重甲。"
+        }
+      ],
+      "evidence": [
+        "伍笔山淡然开口，根本不屑再看对方一眼",
+        "伍笔山勾结鸿鹄的可能性很小",
+        "伍笔山抬手指向红眼。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "周鹤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "陈老",
+      "aliases": [
+        "陈老"
+      ],
+      "identity": "周鹤羽的仆从",
+      "faction": "汝南周氏",
+      "status": "存活",
       "first_appearance": "第478章大错特错",
-      "summary": "”　　“伍笔山勾结鸿鹄的可能性很小，但周鹤羽的可能性却很大",
-      "appearance": [],
-      "personality": [],
+      "summary": "周鹤羽的老年仆从，气质阴冷，实力高强。",
+      "appearance": [
+        "一身黑袍已成暗红"
+      ],
+      "personality": [
+        "阴冷"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“伍笔山勾结鸿鹄的可能性很小，但周鹤羽的可能性却很大",
-        "”　　许诺在新政结束之后，虬龙可以带着麾下的锦衣卫加入汝南周家，但前提是必须要接受他周鹤羽的儒序印信",
-        "“周鹤羽让你转达什么"
+      "relationships": [
+        {
+          "target": "周鹤羽",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第478章大错特错",
-      "summary": "而且，重甲总旗，你是在找本官吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且，重甲总旗，你是在找本官吗",
-        "如果你直接跟我开口，我会放你走，而且会让你带走足够你在周鹤羽面前立足的人手",
-        "而且他了解的信息远比红眼更多"
+      "timeline": [
+        {
+          "stage": "事件中",
+          "event": "跟随周鹤羽进入工厂，并出手杀死红眼。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "已经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第478章大错特错",
-      "summary": "”　　“也没什么，只是鸿鹄的人已经在倭区销声匿迹很长一段时间，现在莫名其妙的突然冒出来，我总觉得有些奇怪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　“也没什么，只是鸿鹄的人已经在倭区销声匿迹很长一段时间，现在莫名其妙的突然冒出来，我总觉得有些奇怪",
-        "最为致命是心口处的一道狭长刀伤，骇人的伤口下能够看到正在疯狂跳动，已经进入超频状态的械心",
-        "“他希望你能够重新考虑一下姬路城锦衣卫的退路问题，他知道您对苏千户忠心耿耿，可现在千户大人自己都已经接受了裁撤的决定，您又何必再继续坚持"
+        "周鹤羽嫌恶的看了眼地上支离破碎的尸体，转头对着身旁一身黑袍已成暗红的年老仆从，笑道：“辛苦了，陈老。”"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "就算",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第478章大错特错",
-      "summary": "此刻就算全副武装，浑身上下却依旧没有半点彪悍摄人的气势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此刻就算全副武装，浑身上下却依旧没有半点彪悍摄人的气势",
-        "就算您不为自己的前途考虑，也应该为户所里的弟兄们想一想.”　　眼前诡异的情景让重甲心头怒火陡然翻涌，上前将已经放弃抵抗的鸿鹄踹倒在地，左手快速拂过对方的面部骨骼",
-        "”　　“就算根据二处提供的情报来看，整个事情的起因是因为宣慰司同知伍笔山的功绩被夺，所以一怒之下选择狗急跳墙，和菅原平真勾结在了一起，准备闹出点动静让周鹤羽下不来台"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

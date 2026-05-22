@@ -1,257 +1,423 @@
 {
   "chunk_id": "chunk-0359",
-  "title": "第358章 会面",
   "characters": [
     {
-      "name": "苏午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "白何龙",
+      "aliases": [
+        "诡狱巡察"
+      ],
+      "identity": "诡狱巡察",
+      "faction": "诡狱",
       "status": "登场",
       "first_appearance": "第358章 会面",
-      "summary": "肖志仁侧目瞥了眼闭目养神的白何龙，　　忽然出声道：“苏午现在的动向你都掌握了么",
-      "appearance": [],
-      "personality": [],
+      "summary": "诡狱巡察，头发雪白，面相沧桑深邃，在诡狱中举足轻重。",
+      "appearance": [
+        "头发雪白",
+        "面相不显老",
+        "沧桑深邃"
+      ],
+      "personality": [
+        "冷静",
+        "有城府"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "肖志仁侧目瞥了眼闭目养神的白何龙，　　忽然出声道：“苏午现在的动向你都掌握了么",
-        "这时，肖志仁身后有个满脸阴沉之色的青年人开口说话，嗓音沙哑：“据说这个苏午把崔勋、容纳了‘灵车司机’的小六、吉星、赖宝几个人组成的调查小队全灭了，　　只有一个崔勋被他放回来，　　其余人都死了",
-        "他们都不是苏午的对手，可见这个苏午确实是个狠角色，也无怪乎上面会突然重视起这个人来，想给予他一定程度的资源倾斜"
+      "relationships": [
+        {
+          "target": "肖志仁",
+          "type": "同僚"
+        },
+        {
+          "target": "副典狱",
+          "type": "下属"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘飞机前往许清市，准备对付苏午。"
+        }
+      ],
+      "evidence": [
+        "头发雪白，但面相看起来并不显老、反而被满头白发映衬出一种沧桑、深邃感觉的中年男人掀起衣袖，看了眼手表的指针。",
+        "在这位于诡异对策部中举足轻重的诡狱巡察－白何龙身后，还有两个稍年轻些的男人正襟危坐，像是白何龙的下属。"
+      ],
+      "mention_count": 8
     },
     {
       "name": "肖志仁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "与白何龙隔着一条过道坐着的肖志仁巡察，脸色阴沉，却没有白何龙那样好的心态，当下还有心思躺下来闭目养神",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "与白何龙隔着一条过道坐着的肖志仁巡察，脸色阴沉，却没有白何龙那样好的心态，当下还有心思躺下来闭目养神",
-        "肖志仁侧目瞥了眼闭目养神的白何龙，　　忽然出声道：“苏午现在的动向你都掌握了么",
-        "”　　肖志仁笑了笑，　　眼神阴森：“这次我只要他一条命，他所拥有的什么培育厉诡的方法，我都放弃分润的权利"
+      "aliases": [
+        "巡察"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "白何龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诡狱巡察",
+      "faction": "诡狱",
       "status": "登场",
       "first_appearance": "第358章 会面",
-      "summary": "在这位于诡异对策部中举足轻重的诡狱巡察－白何龙身后，还有两个稍年轻些的男人正襟危坐，像是白何龙的下属",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在这位于诡异对策部中举足轻重的诡狱巡察－白何龙身后，还有两个稍年轻些的男人正襟危坐，像是白何龙的下属",
-        "与白何龙隔着一条过道坐着的肖志仁巡察，脸色阴沉，却没有白何龙那样好的心态，当下还有心思躺下来闭目养神",
-        "肖志仁侧目瞥了眼闭目养神的白何龙，　　忽然出声道：“苏午现在的动向你都掌握了么"
+      "summary": "诡狱巡察，脸色阴沉，儿子肖锦荣疑似被苏午杀死，因此对苏午怀有杀意。",
+      "appearance": [
+        "脸色阴沉"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "肖志",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "与白何龙隔着一条过道坐着的肖志仁巡察，脸色阴沉，却没有白何龙那样好的心态，当下还有心思躺下来闭目养神",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴森",
+        "悲伤",
+        "复仇心切"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "白何龙",
+          "type": "同僚"
+        },
+        {
+          "target": "肖锦荣",
+          "type": "儿子"
+        },
+        {
+          "target": "苏午",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘飞机前往许清市，意图杀死苏午为儿子报仇。"
+        }
+      ],
       "evidence": [
-        "与白何龙隔着一条过道坐着的肖志仁巡察，脸色阴沉，却没有白何龙那样好的心态，当下还有心思躺下来闭目养神",
-        "肖志仁侧目瞥了眼闭目养神的白何龙，　　忽然出声道：“苏午现在的动向你都掌握了么",
-        "”　　肖志仁笑了笑，　　眼神阴森：“这次我只要他一条命，他所拥有的什么培育厉诡的方法，我都放弃分润的权利"
+        "与白何龙隔着一条过道坐着的肖志仁巡察，脸色阴沉",
+        "肖志仁面上浮现出几分悲伤。",
+        "我只要他给我死去的儿子偿命！"
       ],
       "mention_count": 8
+    },
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第358章 会面",
+      "summary": "被诡狱追杀的驭诡者，拥有培育厉诡的方法，实力强大，曾灭掉崔勋等人的调查小队。",
+      "appearance": [
+        "不修边幅"
+      ],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "培育厉诡的方法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "云霓裳",
+          "type": "同伴"
+        },
+        {
+          "target": "柳洲",
+          "type": "巡察，可能提供帮助"
+        },
+        {
+          "target": "白何龙",
+          "type": "敌对"
+        },
+        {
+          "target": "肖志仁",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在张河村准备，下午两点与柳洲会面，三点准备对付白何龙和肖志仁。"
+        }
+      ],
+      "evidence": [
+        "苏午闻声起身去开门",
+        "据说这个苏午把崔勋、容纳了‘灵车司机’的小六、吉星、赖宝几个人组成的调查小队全灭了",
+        "苏午就要沿着自己标出的红线，‘游览’过这几个地方的庙观。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "云霓裳",
       "aliases": [],
-      "identity": "",
+      "identity": "苏午的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第358章 会面",
-      "summary": "打开门，苏午就看到门外背带裤、白衬衫的云霓裳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "打开门，苏午就看到门外背带裤、白衬衫的云霓裳",
-        "云霓裳卸却身上的压力，真正在张河村安定下来以后，越发地从里到外透出一种阳光明媚、清爽干练的感觉，她看到起床后还未来得及洗漱，显得不修边幅的苏午，不由得抿嘴笑了笑",
-        "”云霓裳有条不紊地汇报着各项事物，俨然已将苏午当作团队的核心"
+      "summary": "背带裤、白衬衫的女性，协助苏午处理事务，负责与外界沟通。",
+      "appearance": [
+        "背带裤",
+        "白衬衫",
+        "阳光明媚",
+        "清爽干练"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "副典狱",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "副典狱也是这个意思",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "副典狱也是这个意思",
-        "——副典狱真是一位天才人物，想必正是副典狱，设法祛除了诡狱犯罪记忆，使之不至于继续对诡狱驭诡者的精神状态造成影响",
-        "——这种可以无视诡狱刑期，直接将人杀死的手段，对诡狱而言，就是重大的颠覆，　　就是在挖掘诡狱的根基，　　会严重影响诡狱驭诡者的自信，　　副典狱以及巡察们，自然要封锁这个消息，不使之外泄出去"
+      "personality": [
+        "细心",
+        "负责"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "云霓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "打开门，苏午就看到门外背带裤、白衬衫的云霓裳",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "打开门，苏午就看到门外背带裤、白衬衫的云霓裳",
-        "云霓裳卸却身上的压力，真正在张河村安定下来以后，越发地从里到外透出一种阳光明媚、清爽干练的感觉，她看到起床后还未来得及洗漱，显得不修边幅的苏午，不由得抿嘴笑了笑",
-        "”云霓裳有条不紊地汇报着各项事物，俨然已将苏午当作团队的核心"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "白何",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "在这位于诡异对策部中举足轻重的诡狱巡察－白何龙身后，还有两个稍年轻些的男人正襟危坐，像是白何龙的下属",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "陪同苏午前往清茗茶社与柳洲会面。"
+        }
+      ],
       "evidence": [
-        "在这位于诡异对策部中举足轻重的诡狱巡察－白何龙身后，还有两个稍年轻些的男人正襟危坐，像是白何龙的下属",
-        "与白何龙隔着一条过道坐着的肖志仁巡察，脸色阴沉，却没有白何龙那样好的心态，当下还有心思躺下来闭目养神",
-        "肖志仁侧目瞥了眼闭目养神的白何龙，　　忽然出声道：“苏午现在的动向你都掌握了么"
+        "云霓裳卸却身上的压力，真正在张河村安定下来以后，越发地从里到外透出一种阳光明媚、清爽干练的感觉",
+        "云霓裳有条不紊地汇报着各项事物"
       ],
       "mention_count": 6
     },
     {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "”白何龙闭着眼睛回道，“更何况，我之所以不派人刻意盯住他，　　就是不想因此引起他的警觉，　　导致他提前做好准备跑路",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”白何龙闭着眼睛回道，“更何况，我之所以不派人刻意盯住他，　　就是不想因此引起他的警觉，　　导致他提前做好准备跑路",
-        "——这种可以无视诡狱刑期，直接将人杀死的手段，对诡狱而言，就是重大的颠覆，　　就是在挖掘诡狱的根基，　　会严重影响诡狱驭诡者的自信，　　副典狱以及巡察们，自然要封锁这个消息，不使之外泄出去"
+      "name": "柳洲",
+      "aliases": [
+        "巡察"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "巡察",
+      "faction": "官方",
+      "status": "提及",
       "first_appearance": "第358章 会面",
-      "summary": "白何龙看到他面露悲伤之色，眉头皱了皱，没有就此多说什么，而是道：“再放任他存活，我们诡狱的地位都会受到影响",
+      "summary": "巡察，乘专机来许清市给苏午带来正式身份，可能意在调停。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "白何龙看到他面露悲伤之色，眉头皱了皱，没有就此多说什么，而是道：“再放任他存活，我们诡狱的地位都会受到影响",
-        "如此一来，　　我们这些能同时运用诡狱力量，以及自身为诡狱所关押的驭诡者，　　就相当于是不死的，　　是永生的",
-        "多重力量叠加，再加上可以无限从诡狱复活这一点——哪个普通驭诡者可以和我们媲美"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "可能提供帮助"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "副典",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "副典狱也是这个意思",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "副典狱也是这个意思",
-        "——副典狱真是一位天才人物，想必正是副典狱，设法祛除了诡狱犯罪记忆，使之不至于继续对诡狱驭诡者的精神状态造成影响",
-        "——这种可以无视诡狱刑期，直接将人杀死的手段，对诡狱而言，就是重大的颠覆，　　就是在挖掘诡狱的根基，　　会严重影响诡狱驭诡者的自信，　　副典狱以及巡察们，自然要封锁这个消息，不使之外泄出去"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "下午两点在清茗茶社与苏午会面。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第358章 会面",
-      "summary": "他们都不是苏午的对手，可见这个苏午确实是个狠角色，也无怪乎上面会突然重视起这个人来，想给予他一定程度的资源倾斜",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他们都不是苏午的对手，可见这个苏午确实是个狠角色，也无怪乎上面会突然重视起这个人来，想给予他一定程度的资源倾斜",
-        "“我按照你昨天嘱咐的，　　已经给密藏域那边的文物保护单位发去了消息，　　他们今天回复说会将‘那幕嘉措法寺’的发掘再度延期",
-        "不过，这个柳洲巡察早不来晚不来，偏偏要在白、肖两个巡察过来寻自己麻烦的时候赶来，还恰巧比他们早到一个小时——　　这是试图为自己调停解围的意思"
+        "柳洲巡察已经乘专机往许清而来，带来上面给你的正式身份。",
+        "这是试图为自己调停解围的意思？"
       ],
       "mention_count": 4
+    },
+    {
+      "name": "崔勋",
+      "aliases": [],
+      "identity": "调查小队成员",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第358章 会面",
+      "summary": "调查小队成员，被苏午放回，实力很强，拥有鬼蜮。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "自身容纳的厉诡更拥有了鬼蜮"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "只有一个崔勋被他放回来",
+        "崔勋实力虽然不错，自身容纳的厉诡更拥有了鬼蜮"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "小六",
+      "aliases": [],
+      "identity": "调查小队成员",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第358章 会面",
+      "summary": "容纳了‘灵车司机’的驭诡者，被苏午杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "容纳了‘灵车司机’"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "容纳了‘灵车司机’的小六"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "吉星",
+      "aliases": [],
+      "identity": "调查小队成员",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第358章 会面",
+      "summary": "调查小队成员，被苏午杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "吉星"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赖宝",
+      "aliases": [],
+      "identity": "调查小队成员",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第358章 会面",
+      "summary": "调查小队成员，被苏午杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "赖宝"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "肖锦荣",
+      "aliases": [],
+      "identity": "肖志仁的儿子",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第358章 会面",
+      "summary": "肖志仁的儿子，容纳了被诡狱关押的厉诡，拥有诡狱刑期，疑似被苏午杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "容纳了被诡狱关押的厉诡",
+        "具有诡狱的‘刑期’"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "肖志仁",
+          "type": "父亲"
+        },
+        {
+          "target": "苏午",
+          "type": "疑似凶手"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "肖志仁的儿子肖锦荣，同样容纳了被诡狱关押的厉诡，自身更具有诡狱的‘刑期’，但他还是死了，而且，死在苏午手上的嫌疑极大。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "副典狱",
+      "aliases": [],
+      "identity": "诡狱副典狱",
+      "faction": "诡狱",
+      "status": "提及",
+      "first_appearance": "第358章 会面",
+      "summary": "诡狱副典狱，天才人物，设法祛除了诡狱犯罪记忆，对诡狱研究有重大突破。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "祛除诡狱犯罪记忆",
+        "对诡狱研究有重大突破"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白何龙",
+          "type": "上级"
+        },
+        {
+          "target": "肖志仁",
+          "type": "上级"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "副典狱也是这个意思。",
+        "副典狱真是一位天才人物，想必正是副典狱，设法祛除了诡狱犯罪记忆",
+        "副典狱最近似乎对诡狱的研究又有了重大突破。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "马脸白面男人",
+      "aliases": [],
+      "identity": "诡狱驭诡者，白何龙的下属",
+      "faction": "诡狱",
+      "status": "登场",
+      "first_appearance": "第358章 会面",
+      "summary": "白何龙的下属，马脸白面，对诡狱力量非常自信，认为未被诡狱吸纳的驭诡者都是垃圾。",
+      "appearance": [
+        "马脸白面"
+      ],
+      "personality": [
+        "傲慢",
+        "自信"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白何龙",
+          "type": "上级"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "坐在阴沉青年对面的马脸白面男人嗤笑不已",
+        "未被诡狱吸纳的驭诡者，都是垃圾！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "阴沉青年",
+      "aliases": [],
+      "identity": "诡狱驭诡者，肖志仁的下属",
+      "faction": "诡狱",
+      "status": "登场",
+      "first_appearance": "第358章 会面",
+      "summary": "肖志仁的下属，满脸阴沉之色，嗓音沙哑，认为苏午是狠角色。",
+      "appearance": [
+        "满脸阴沉之色"
+      ],
+      "personality": [
+        "阴沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "肖志仁",
+          "type": "上级"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "肖志仁身后有个满脸阴沉之色的青年人开口说话，嗓音沙哑"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,140 +1,187 @@
 {
   "chunk_id": "chunk-0179",
-  "title": "第177章没有贱命，只有贱心",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "李哥",
+        "钧哥"
+      ],
+      "identity": "武七独夫",
       "faction": "",
       "status": "登场",
       "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "看着那张热情真挚的脸，李钧眼中跳动的凶意不禁一窒",
+      "summary": "一个实力强大、言辞锋利的人物，曾打烂罗汉寺黄粱佛国主机，指导周游报仇。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "看着那张热情真挚的脸，李钧眼中跳动的凶意不禁一窒",
-        "忽然，少年喉咙一紧，竟被李钧单手提了起来",
-        "”　　李钧闻言一愣，脸上的冷意却渐渐融化"
+      "personality": [
+        "冷酷",
+        "直接",
+        "暴躁"
       ],
-      "mention_count": 17
+      "abilities": [
+        "武七独夫"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "指导者"
+        },
+        {
+          "target": "赫藏甲",
+          "type": "被攀附对象"
+        },
+        {
+          "target": "王谢",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在贫民窟与周游对话，激励他报仇。"
+        }
+      ],
+      "evidence": [
+        "李钧喝道：你要是裤子里还有卵蛋，那就放下你那些不值钱的骄傲和自尊",
+        "李钧的言辞像一柄锋利至极的快刀",
+        "武七独夫，打我两个都绰绰有余了"
+      ],
+      "mention_count": 20
     },
     {
       "name": "周游",
       "aliases": [],
-      "identity": "",
+      "identity": "工奴，序列未入的贱民",
       "faction": "",
       "status": "登场",
       "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "周游声线颤抖，视线蓦然变得迷蒙",
-      "appearance": [],
-      "personality": [],
+      "summary": "一个失去弟弟的少年，在罗汉寺黄粱佛国中醒来后陷入绝望，被李钧激励。",
+      "appearance": [
+        "无神的眼睛",
+        "少年"
+      ],
+      "personality": [
+        "绝望",
+        "自哀自怨"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被指导者"
+        },
+        {
+          "target": "周生",
+          "type": "弟弟"
+        },
+        {
+          "target": "赫藏甲",
+          "type": "机遇"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在贫民窟被李钧训斥后振作。"
+        }
+      ],
       "evidence": [
-        "周游声线颤抖，视线蓦然变得迷蒙",
-        "”　　“周游，我可以明确告诉你，罗汉寺虽然垮了，但是害死你弟弟的人没有死",
-        "”　　周游仰面躺在床上，身上倒是没有明显的伤势，只是两只无神的眼睛直勾勾看着天花板"
+        "周游仰面躺在床上，身上倒是没有明显的伤势，只是两只无神的眼睛直勾勾看着天花板",
+        "周游嘴唇翕动，说不出一句完整的话",
+        "周游，我可以明确告诉你，罗汉寺虽然垮了，但是害死你弟弟的人没有死！"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "王谢",
+      "aliases": [],
+      "identity": "重庆府锦衣卫二处总旗",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第177章没有贱命，只有贱心",
+      "summary": "一个轻佻的锦衣卫总旗，自称是老魏的朋友，与李钧相识。",
+      "appearance": [
+        "一身黑色袍裙，内衬白色贴里，右肩有银色丝线编织而成的飞鱼流纹，左肩趴着一只机械结构的虫鸟",
+        "男人眉眼不算俊朗，头上没有梳着帝国流行的发髻，而是在脑后扎着一个古怪的马尾"
+      ],
+      "personality": [
+        "轻佻",
+        "不要脸",
+        "真诚"
+      ],
+      "abilities": [],
+      "equipment": [
+        "飞鱼服",
+        "绣春刀",
+        "息蜓郞"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "相识"
+        },
+        {
+          "target": "老魏",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在李钧院中，自我介绍。"
+        }
+      ],
+      "evidence": [
+        "一个轻佻的声音突然响起",
+        "正式介绍一下，重庆府锦衣卫二处总旗，王谢",
+        "飞鱼服，绣春刀，息蜓郞"
       ],
       "mention_count": 6
     },
     {
-      "name": "那就",
+      "name": "赫藏甲",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "”　　“我”　　“既然知道不如，那就去学，去讨好，去攀附",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“我”　　“既然知道不如，那就去学，去讨好，去攀附",
-        "“连您都回答不了，那就是没有答案了啊",
-        "”　　李钧喝道：“你要是裤子里还有卵蛋，那就放下你那些不值钱的骄傲和自尊，去不择手段攀权附贵，用所有心思去逆天改命，去晋升序列，去报仇雪恨"
+      "summary": "被提及的人物，李钧认为周游应攀附的机遇。",
+      "appearance": [
+        "整个人气质惫懒，倒和赫藏甲有几分相似"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "少年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "改造械体时没有被剥离的泪腺催生出一滴泪水，沿着少年的眼角悄然滑落",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "改造械体时没有被剥离的泪腺催生出一滴泪水，沿着少年的眼角悄然滑落",
-        "如火的眼眸蒸干少年眼中积聚的水汽，窒息的痛苦驱赶走盘绕在他心头的哀切",
-        "忽然，少年喉咙一紧，竟被李钧单手提了起来"
+      "personality": [
+        "惫懒"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "男人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "男人眉眼不算俊朗，头上没有梳着帝国流行的发髻，而是在脑后扎着一个古怪的马尾",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "男人眉眼不算俊朗，头上没有梳着帝国流行的发髻，而是在脑后扎着一个古怪的马尾",
-        "李钧懒得理会男人的插科打诨，开门见山道：“来替余寇报仇",
-        "”　　男人两手一摊，坦然道：“而且我可打不赢你"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "机遇"
+        },
+        {
+          "target": "李钧",
+          "type": "被攀附对象"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "那你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "”　　“如果连报仇的机会都抓不住，那你不如现在就去死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　“如果连报仇的机会都抓不住，那你不如现在就去死",
-        "”　　少年头颅低垂，沉默良久之后，突然轻声说道：“那你呢"
+        "赫藏甲是你手中最能抓住的机遇",
+        "你比起赫藏甲如何？",
+        "整个人气质惫懒，倒和赫藏甲有几分相似"
       ],
       "mention_count": 4
     },
     {
-      "name": "如火",
+      "name": "余寇",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "如火的眼眸蒸干少年眼中积聚的水汽，窒息的痛苦驱赶走盘绕在他心头的哀切",
+      "summary": "被提及的人物，王谢曾问李钧是否来替余寇报仇。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -142,105 +189,58 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "如火的眼眸蒸干少年眼中积聚的水汽，窒息的痛苦驱赶走盘绕在他心头的哀切"
+        "来替余寇报仇？"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "那现",
+      "name": "周生",
       "aliases": [],
-      "identity": "",
+      "identity": "周游的弟弟",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "如果你想死，那现在就可以自杀",
+      "summary": "周游的弟弟，已死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "兄弟"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "如果你想死，那现在就可以自杀"
+        "害死你弟弟的人没有死",
+        "可是我弟弟还有可能醒来吗？"
       ],
-      "mention_count": 3
+      "mention_count": 2
     },
     {
-      "name": "就算",
+      "name": "老魏",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "”　　就算山峦之上有寺庙镇压，就算天穹之中有佛陀盘踞",
+      "summary": "被提及的人物，王谢自称是其朋友。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "王谢",
+          "type": "朋友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　就算山峦之上有寺庙镇压，就算天穹之中有佛陀盘踞",
-        "就算是黄粱梦境，也有时间线重置的一天"
+        "老魏的朋友"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "贱的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "贱的从来不是命，只是人心",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "贱的从来不是命，只是人心"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "他脚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "他脚下一动，歪斜的身体站正，拱手抱拳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他脚下一动，歪斜的身体站正，拱手抱拳"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "歪斜",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第177章没有贱命，只有贱心",
-      "summary": "他脚下一动，歪斜的身体站正，拱手抱拳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他脚下一动，歪斜的身体站正，拱手抱拳"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

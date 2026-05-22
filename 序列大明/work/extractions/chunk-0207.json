@@ -1,254 +1,225 @@
 {
   "chunk_id": "chunk-0207",
-  "title": "第205章止戈为武",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "武道序列，帮人看店",
       "faction": "",
       "status": "登场",
       "first_appearance": "第205章止戈为武",
-      "summary": "这是李钧看到女人的第一印象",
+      "summary": "与袁明妃谈判，要求投名状，最终达成交易。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这是李钧看到女人的第一印象",
-        "”　　李钧一手撑着门框，低头俯视身前的女人",
-        "李钧反问：“我怎么知道你是不是想要真心合作"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 34
+      "abilities": [
+        "武道序列"
+      ],
+      "equipment": [
+        "风水罗盘（当手表戴）"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "谈判对手"
+        },
+        {
+          "target": "曹仓",
+          "type": "提及"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在店中与袁明妃谈判，接受武六仪轨作为交易条件。"
+        }
+      ],
+      "evidence": [
+        "李钧一手撑着门框，低头俯视身前的女人。",
+        "李钧神色凝重，沉声说道：“武六仪轨？”",
+        "李钧语气果断，斩钉截铁。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "袁明妃",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "谣将"
+      ],
+      "identity": "叛出佛门，脱离大昭寺黄粱佛国",
       "faction": "",
       "status": "登场",
       "first_appearance": "第205章止戈为武",
-      "summary": "”　　袁明妃双眉倒竖，口不择言，“难道我这张脸就不能是假的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃双眉倒竖，口不择言，“难道我这张脸就不能是假的",
-        "”袁明妃怒道",
-        "袁明妃凤眼弯如弦月，展颜媚笑，“那奴家便给你晋升武六的仪轨"
+      "summary": "与李钧谈判，提供武六仪轨和龚青鸿的断臂作为交易筹码。",
+      "appearance": [
+        "眉似柳叶，凤眼靓",
+        "长腿红唇",
+        "左臂是械手"
       ],
-      "mention_count": 24
+      "personality": [
+        "狡猾",
+        "暴躁",
+        "善于谈判"
+      ],
+      "abilities": [],
+      "equipment": [
+        "械手"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "谈判对手"
+        },
+        {
+          "target": "金生火",
+          "type": "提及"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "雨夜敲门，与李钧谈判，最终达成交易。"
+        }
+      ],
+      "evidence": [
+        "袁明妃双眉倒竖，口不择言，“难道我这张脸就不能是假的？”",
+        "袁明妃将放在桌上的冷藏手提箱打开，露出躺在其中的一条断臂。",
+        "袁明妃低声询问：“不请自来？”"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "女人",
+      "name": "龚青鸿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "鸿鹄的人",
+      "faction": "鸿鹄",
+      "status": "提及",
       "first_appearance": "第205章止戈为武",
-      "summary": "这是李钧看到女人的第一印象",
+      "summary": "被提及已逃，成为鸿鹄的人，其右臂被曹仓砸断。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这是李钧看到女人的第一印象",
-        "”　　李钧一手撑着门框，低头俯视身前的女人",
-        "“女人也算佛"
+      "relationships": [
+        {
+          "target": "曹仓",
+          "type": "被曹仓砸断右臂"
+        },
+        {
+          "target": "袁明妃",
+          "type": "提及"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "右臂被曹仓砸断，后逃入鸿鹄。"
+        }
+      ],
+      "evidence": [
+        "龚青鸿已经逃了，而且他现在是鸿鹄的人。",
+        "龚青鸿的右臂，曹仓砸断的。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "袁明",
+      "name": "曹仓",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第205章止戈为武",
-      "summary": "”　　袁明妃双眉倒竖，口不择言，“难道我这张脸就不能是假的",
+      "summary": "被提及砸断了龚青鸿的右臂。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃双眉倒竖，口不择言，“难道我这张脸就不能是假的",
-        "”袁明妃怒道",
-        "袁明妃凤眼弯如弦月，展颜媚笑，“那奴家便给你晋升武六的仪轨"
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "砸断其右臂"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "砸断龚青鸿右臂。"
+        }
+      ],
+      "evidence": [
+        "龚青鸿的右臂，曹仓砸断的。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "只是",
-      "aliases": [],
+      "name": "金生火",
+      "aliases": [
+        "死胖子"
+      ],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第205章止戈为武",
-      "summary": "“呼”　　只是一眼，眸光便被深不见底的沟壑尽数吞没",
+      "summary": "被提及故意放出谣言恶心袁明妃。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“呼”　　只是一眼，眸光便被深不见底的沟壑尽数吞没",
-        "”　　犹豫片刻后，还是没有选择切换卦象方位，只是抬手对着门楣打了个响指"
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "放出谣言针对"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "故意放出谣言恶心袁明妃。"
+        }
+      ],
+      "evidence": [
+        "这句话是金生火那个死胖子故意放出去恶心我的，你也信？"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "那是",
+      "name": "道人",
       "aliases": [],
-      "identity": "",
+      "identity": "不似主流的道人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第205章止戈为武",
-      "summary": "”　　“那是他的选择",
-      "appearance": [],
+      "summary": "推门进入，被李钧和袁明妃注视。",
+      "appearance": [
+        "眉眼清秀，头扎马尾",
+        "一身打扮不似主流"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“那是他的选择",
-        "咔哒咔哒　　李钧耳边再次响起久违的清脆声响，那是下一个桎梏自己基因的铜锁在震动摇晃"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "推门进入饭店，打断李钧和袁明妃的对话。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "既然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第205章止戈为武",
-      "summary": "“既然如此，那我只能送客了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“既然如此，那我只能送客了",
-        "”　　“你”　　“既然来了，那就择日不如撞日，就现在"
+        "一个眉眼清秀，头扎马尾的男人推门走了进来。",
+        "一身打扮不似主流的道人咧嘴而笑。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "男人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第205章止戈为武",
-      "summary": "”　　女人脸似桃花，男人眉如快刀，同是眼中带笑，实则剑拔弩张",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　女人脸似桃花，男人眉如快刀，同是眼中带笑，实则剑拔弩张",
-        "”　　坐在长桌两端的俩人同时转头看去，只见一个眉眼清秀，头扎马尾的男人推门走了进来",
-        "没等李钧开口，就听见女人蹭的一下站了起来，双手抓着裙角，脸上甜甜笑道：“不用，男人的事情女人不参与，我这就走"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "身体",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第205章止戈为武",
-      "summary": "”　　袁明妃将翘着的长腿放下，身体重新坐正，这才正色开口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃将翘着的长腿放下，身体重新坐正，这才正色开口",
-        "袁明妃蓦然一笑，身体坐回椅中，向后一靠，大喇喇翘起了二郎腿"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "双手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第205章止戈为武",
-      "summary": "”　　女人或许是觉得浸染了酒水的衣裳穿着难受，双手竟朝着自己的衣领伸去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　女人或许是觉得浸染了酒水的衣裳穿着难受，双手竟朝着自己的衣领伸去",
-        "袁明妃双手撑在桌上，半身前倾，如同一头暴怒的雌豹，“当真没得谈",
-        "没等李钧开口，就听见女人蹭的一下站了起来，双手抓着裙角，脸上甜甜笑道：“不用，男人的事情女人不参与，我这就走"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "止戈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第205章止戈为武",
-      "summary": "第205章止戈为武　　眉似柳叶，凤眼靓",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第205章止戈为武　　眉似柳叶，凤眼靓",
-        "”　　袁明妃接过话音，一字一顿，“止戈",
-        "”　　“止戈"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第205章止戈为武",
-      "summary": "”　　“你”　　“既然来了，那就择日不如撞日，就现在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“你”　　“既然来了，那就择日不如撞日，就现在",
-        "”　　“那就把伪装卸下来，大家坦诚对话",
-        "“止戈为武，遇人不服，那就打到服为止"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

@@ -1,251 +1,281 @@
 {
   "chunk_id": "chunk-0340",
-  "title": "第338章通天坦途",
   "characters": [
     {
       "name": "荒世烈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "烈儿",
+        "黄烈"
+      ],
+      "identity": "荒世集团成员，黄擒龙的弟子",
+      "faction": "荒世集团",
       "status": "登场",
       "first_appearance": "第338章通天坦途",
-      "summary": "“荒世烈，夏虎失手被杀的消息你知不知道",
+      "summary": "黄擒龙的弟子，表面忠诚，实则心怀异志，试图联合仁德资本杀死苏策。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“荒世烈，夏虎失手被杀的消息你知不知道",
-        "荒世烈轻笑自语，“我的好师门，我的好师傅”　　干瘪的声线从黄擒龙的口中传出，“这几天你去哪儿了",
-        "荒世烈平静说道：“我已经派人调查过了，意外来自于一名潜入倭区的龙虎山天师"
+      "personality": [
+        "冷静",
+        "隐忍",
+        "有野心"
       ],
-      "mention_count": 23
-    },
-    {
-      "name": "荒世",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第338章通天坦途",
-      "summary": "第338章通天坦途　　江户城，荒世集团",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第338章通天坦途　　江户城，荒世集团",
-        "“荒世烈，夏虎失手被杀的消息你知不知道",
-        "荒世烈轻笑自语，“我的好师门，我的好师傅”　　干瘪的声线从黄擒龙的口中传出，“这几天你去哪儿了"
+      "equipment": [
+        "通讯传音设备"
       ],
-      "mention_count": 17
+      "relationships": [
+        {
+          "target": "黄擒龙",
+          "type": "师徒"
+        },
+        {
+          "target": "苏策",
+          "type": "敌对"
+        },
+        {
+          "target": "夏虎",
+          "type": "兄弟"
+        },
+        {
+          "target": "德川宏志",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "返回荒世集团，向黄擒龙汇报情况，并计划对付苏策。"
+        }
+      ],
+      "evidence": [
+        "荒世烈单膝点地，沉声道：“他们害怕了。”",
+        "荒世烈直言不讳，抬头看向坐在正中的黄擒龙。",
+        "荒世烈平静说道：“我已经派人调查过了，意外来自于一名潜入倭区的龙虎山天师。”"
+      ],
+      "mention_count": 20
     },
     {
       "name": "黄擒龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "师傅",
+        "摩云师叔"
+      ],
+      "identity": "荒世集团高层，荒世烈的师傅",
+      "faction": "荒世集团",
       "status": "登场",
       "first_appearance": "第338章通天坦途",
-      "summary": "”　　黄擒龙双眸发光，脸上贪欲横生",
+      "summary": "荒世集团的高层，伤势未愈，试图利用阎君李钧的路续上自己的路。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "贪婪",
+        "多疑",
+        "老谋深算"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　黄擒龙双眸发光，脸上贪欲横生",
-        "荒世烈轻笑自语，“我的好师门，我的好师傅”　　干瘪的声线从黄擒龙的口中传出，“这几天你去哪儿了",
-        "黄擒龙不屑的撇了撇嘴，继续问道：“烈儿你做的不错，那你接下来准备怎么办，一个月的时间可不长啊"
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "师徒"
+        },
+        {
+          "target": "苏策",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "目标"
+        }
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "黄擒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第338章通天坦途",
-      "summary": "”　　黄擒龙双眸发光，脸上贪欲横生",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　黄擒龙双眸发光，脸上贪欲横生",
-        "荒世烈轻笑自语，“我的好师门，我的好师傅”　　干瘪的声线从黄擒龙的口中传出，“这几天你去哪儿了",
-        "黄擒龙不屑的撇了撇嘴，继续问道：“烈儿你做的不错，那你接下来准备怎么办，一个月的时间可不长啊"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒世集团总部与荒世烈对话，指示继续对阎君下手。"
+        }
       ],
-      "mention_count": 10
+      "evidence": [
+        "黄擒龙双眸发光，脸上贪欲横生。",
+        "黄擒龙笑道：“不过你也不用担忧，只要我的伤势能够恢复，苏策自然不敢再动你。”",
+        "黄擒龙点头道：“这个阎君本名叫李钧，一年前还是成都府街头一个名不见经传的黑帮份子。”"
+      ],
+      "mention_count": 15
     },
     {
       "name": "苏策",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "倭区锦衣卫千户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第338章通天坦途",
-      "summary": "时间一到如果你拿不出苏策想要的东西，那他下手可不会留情",
+      "summary": "倭区锦衣卫千户，年老但霸道，给荒世烈一个月期限杀死黄擒龙等人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "霸道",
+        "老辣"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "时间一到如果你拿不出苏策想要的东西，那他下手可不会留情",
-        "“所以这一次我在仁德资本呆了很长时间，就是在劝说他们和我联手杀了苏策",
-        "”　　“苏策找你干什么"
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "敌对"
+        },
+        {
+          "target": "黄擒龙",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "只要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第338章通天坦途",
-      "summary": "”　　“只要把他抓回来，用他的路续上我们的路，必然可以走出一条通天坦途",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“只要把他抓回来，用他的路续上我们的路，必然可以走出一条通天坦途",
-        "”　　黄擒龙语调温和：“其实伱用不着跟他们做这些事，只要为师我还在，荒世集团就垮不了",
-        "“晴秀，只要你能解决我身体内的隐患，我就答应帮你"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给荒世烈一个月时间杀死黄擒龙等人，否则将荒世集团连根拔起。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "可即",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第338章通天坦途",
-      "summary": "可即便在这样恶劣的天气之中，点卯上工依旧是普通人摆脱不了的命运",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "可即便在这样恶劣的天气之中，点卯上工依旧是普通人摆脱不了的命运"
+        "“他给了我一个月的时间，杀了您和各位师叔，否则就将荒世集团连根拔起。”",
+        "“苏策还是一如既往的霸道啊。”"
       ],
-      "mention_count": 3
+      "mention_count": 8
     },
     {
       "name": "夏虎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "荒世烈的兄弟",
+      "faction": "荒世集团",
+      "status": "提及（已死）",
       "first_appearance": "第338章通天坦途",
-      "summary": "“荒世烈，夏虎失手被杀的消息你知不知道",
+      "summary": "荒世烈最信赖的兄弟，在抓捕阎君时被龙虎山天师意外杀死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在抓捕阎君时被龙虎山天师杀死。"
+        }
+      ],
       "evidence": [
-        "“荒世烈，夏虎失手被杀的消息你知不知道",
-        "如果不是他，夏虎现在已经把人抓回来了",
-        "如果我想愚弄各位长辈，就不会让夏虎去办这件事了"
+        "“夏虎是我最信赖的兄弟，他死了，我比任何人都要心痛。”"
       ],
       "mention_count": 3
     },
     {
-      "name": "也是",
+      "name": "德川宏志",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "仁德资本成员",
+      "faction": "仁德资本",
+      "status": "提及",
       "first_appearance": "第338章通天坦途",
-      "summary": "”　　这是荒世集团建立的宗旨，也是他们能够在战败之后的倭区迅速崛起的关键所在",
+      "summary": "仁德资本的人，召集其他三家公司商量应对帝国新政，并切断对外联系。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这是荒世集团建立的宗旨，也是他们能够在战败之后的倭区迅速崛起的关键所在",
-        "“谋杀一区锦衣卫长官，这种事情风险太高，他们犹豫不决也是正常",
-        "“如此夸张的进步速度，相较于其他的独行武序，也是一骑绝尘的存在，足可见武序基因对他的厚爱有多深"
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "合作"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "召集其他三家公司商量应对帝国新政，并切断对外联系。"
+        }
+      ],
+      "evidence": [
+        "“是仁德资本的德川宏志召集我们其他三家公司，商量应对帝国新政的办法。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "继续",
+      "name": "丰臣远疆",
       "aliases": [],
-      "identity": "",
+      "identity": "某公司成员",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第338章通天坦途",
-      "summary": "黄擒龙不屑的撇了撇嘴，继续问道：“烈儿你做的不错，那你接下来准备怎么办，一个月的时间可不长啊",
+      "summary": "被荒世烈称为废物，胆子小，未下定决心对付苏策。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "胆小"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "黄擒龙不屑的撇了撇嘴，继续问道：“烈儿你做的不错，那你接下来准备怎么办，一个月的时间可不长啊",
-        "荒世烈心领神会，“所以师傅您的意思是，继续对那个阎君下手"
+        "“不过他们还没有下定决心，特别是丰臣远疆那个废物，他的胆子太小。”"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "那他",
-      "aliases": [],
-      "identity": "",
+      "name": "李钧",
+      "aliases": [
+        "阎君"
+      ],
+      "identity": "原成都府黑帮份子，现武六",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第338章通天坦途",
-      "summary": "时间一到如果你拿不出苏策想要的东西，那他下手可不会留情",
+      "summary": "一年前还是成都府街头黑帮份子，短时间内晋升武六，被黄擒龙视为目标。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "武六"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "时间一到如果你拿不出苏策想要的东西，那他下手可不会留情"
+      "timeline": [
+        {
+          "stage": "过去一年",
+          "event": "从黑帮份子晋升为武六。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "“这个阎君本名叫李钧，一年前还是成都府街头一个名不见经传的黑帮份子，如此短的时间内就晋升成为武六。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "你终",
+      "name": "黄摩云",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "荒世集团高层，女性",
+      "faction": "荒世集团",
       "status": "登场",
       "first_appearance": "第338章通天坦途",
-      "summary": "”　　“烈儿，你终于回来了",
-      "appearance": [],
-      "personality": [],
+      "summary": "荒世集团高层，女性，质问荒世烈。",
+      "appearance": [
+        "几乎看不见女性特征的身体"
+      ],
+      "personality": [
+        "尖细"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“烈儿，你终于回来了"
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "师叔侄"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在高台上质问荒世烈。"
+        }
+      ],
+      "evidence": [
+        "高台上，一个尖细的女声响起，毫不客气的质问荒世烈。",
+        "黄摩云几乎看不见女性特征的身体猛然前倾"
+      ],
+      "mention_count": 2
     }
   ]
 }

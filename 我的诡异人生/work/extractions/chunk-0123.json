@@ -1,255 +1,197 @@
 {
   "chunk_id": "chunk-0123",
-  "title": "第122章 批命",
   "characters": [
     {
       "name": "苏午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "天海",
+        "卓杰"
+      ],
+      "identity": "伪装成卓杰的模拟者，容纳了诡在身",
+      "faction": "无想尊能寺",
       "status": "登场",
       "first_appearance": "第122章 批命",
-      "summary": "”　　法号为天海，由苏午伪装的卓杰应了一声，在广法目光的注视下，低头跟了上去",
+      "summary": "苏午伪装成卓杰进入无想尊能寺，准备批命受戒，实为模拟人生中的角色。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于观察"
+      ],
+      "abilities": [
+        "容纳诡在身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "广法",
+          "type": "师徒"
+        },
+        {
+          "target": "卓杰",
+          "type": "伪装身份"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入无想尊能寺，跟随广法前往戒律院，准备批命受戒。"
+        }
+      ],
+      "evidence": [
+        "法号为天海，由苏午伪装的卓杰应了一声",
+        "苏午跟在卓杰身后，并没有应声。他乍入模拟人生，自身还未代入‘卓杰’的角色",
+        "苏午迈步走进了佛堂之中。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "广法",
+      "aliases": [
+        "戒律师叔"
+      ],
+      "identity": "无想尊能寺戒律院僧人，苏午的师傅",
+      "faction": "无想尊能寺",
+      "status": "登场",
+      "first_appearance": "第122章 批命",
+      "summary": "瘦得皮包骨头的僧人，负责戒律，感知敏锐，带苏午进入戒律院。",
+      "appearance": [
+        "瘦得皮包骨头"
+      ],
+      "personality": [
+        "严厉",
+        "敏锐"
+      ],
+      "abilities": [
+        "感知敏锐，能洞见幽微"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒"
+        },
+        {
+          "target": "东院长老",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带苏午进入戒律院，后与东院长老交谈，求见尊者。"
+        }
+      ],
+      "evidence": [
+        "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’",
+        "广法能瞬间就发觉自身与先前不同，好似‘换了个人一般’，可见其感知敏锐",
+        "广法冷着脸，转头对苏午说道：‘天海，你自去前面的佛堂请僧侣为你录下法名，批命受戒。’"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "东院长老",
+      "aliases": [
+        "东院长老师兄"
+      ],
+      "identity": "无想尊能寺东院长老，掌握戒律院",
+      "faction": "无想尊能寺",
+      "status": "登场",
+      "first_appearance": "第122章 批命",
+      "summary": "大肚圆脸的僧人，地位高于广法，负责与广法交涉尊者事宜。",
+      "appearance": [
+        "大肚圆脸",
+        "全红袍",
+        "头顶未戴鸡冠帽，显出寸发"
+      ],
+      "personality": [
+        "面无表情"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　法号为天海，由苏午伪装的卓杰应了一声，在广法目光的注视下，低头跟了上去",
-        "”广法皱眉看着低头走来的苏午",
-        "苏午闻言，故意作出一副慌张表情：“啊"
+      "relationships": [
+        {
+          "target": "广法",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 38
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在佛堂前与广法交谈，告知尊者弥留，并警告广法不要挑惹争端。"
+        }
+      ],
+      "evidence": [
+        "佛堂偏门里走出个全红袍的大肚僧人，他长着一张圆脸，头顶未戴鸡冠帽，显出头顶一层细密的寸发。",
+        "这僧人走下佛堂台阶，苏午身前的广法师傅就双手合十，躬身行礼：‘东院长老师兄。’",
+        "大肚圆脸的东院长老走到广法身前，面无表情地说出几句话"
+      ],
+      "mention_count": 4
     },
     {
       "name": "老僧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "无想尊能寺负责批命的红袍老僧",
+      "faction": "无想尊能寺",
       "status": "登场",
       "first_appearance": "第122章 批命",
-      "summary": "看到黄袍僧领苏午进来，　　老僧眼皮都不抬一下，慢吞吞地开口问道：“法名是何啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "看到黄袍僧领苏午进来，　　老僧眼皮都不抬一下，慢吞吞地开口问道：“法名是何啊",
-        "”　　老僧点点头，在身前桌案的书册上，写下朱红的‘天海’二字",
-        "只见老僧打开箱子，显出了内里的几件物什"
+      "summary": "极其老迈的红袍僧人，为苏午进行批命，得出‘灵藏命格’。",
+      "appearance": [
+        "脸上皱纹纵横，皮肤松弛如鸡皮",
+        "极其老迈"
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "广法",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’，见其还愣在原地，喝声道：“天海，还在那里发什么愣",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’，见其还愣在原地，喝声道：“天海，还在那里发什么愣",
-        "”　　法号为天海，由苏午伪装的卓杰应了一声，在广法目光的注视下，低头跟了上去",
-        "”广法皱眉看着低头走来的苏午"
+      "personality": [
+        "慢吞吞"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "卓杰",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "身后的两个看守僧合力把两扇巨门关锁，巨门碰撞发出的声响，‘惊醒’了‘卓杰’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
+      "abilities": [
+        "掌握批命之法"
+      ],
+      "equipment": [
+        "鎏银镶宝石的人头骨碗",
+        "转经筒",
+        "铺着香灰的圆形铁盒"
+      ],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为苏午录法名、批命，得出‘灵藏命格’。"
+        }
+      ],
       "evidence": [
-        "身后的两个看守僧合力把两扇巨门关锁，巨门碰撞发出的声响，‘惊醒’了‘卓杰’",
-        "‘卓杰’看向山门内各式经院禅房的目光渐渐变得清澈起来",
-        "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’，见其还愣在原地，喝声道：“天海，还在那里发什么愣"
+        "有个红袍僧人盘腿坐在禅床上，他脸上皱纹纵横，皮肤松弛如鸡皮，已经极其老迈。",
+        "老僧把整个铁盒内的香灰，都倒进了人头骨碗内。",
+        "‘灵藏命格啊。’老僧放下骨碗，看着香灰上的图案，如是说道。"
       ],
       "mention_count": 8
     },
     {
-      "name": "东院长",
+      "name": "黄袍僧人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "无想尊能寺的普通僧人，负责引导苏午",
+      "faction": "无想尊能寺",
       "status": "登场",
       "first_appearance": "第122章 批命",
-      "summary": "这僧人走下佛堂台阶，　　苏午身前的广法师傅就双手合十，躬身行礼：“东院长老师兄",
-      "appearance": [],
+      "summary": "模样清秀的黄袍僧人，引领苏午录法名并进入批命房间。",
+      "appearance": [
+        "模样清秀",
+        "黄袍"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这僧人走下佛堂台阶，　　苏午身前的广法师傅就双手合十，躬身行礼：“东院长老师兄",
-        "这僧人的职务是东院长老，　　东院，莫非就是戒律院",
-        "那这位东院长老，莫非就是将广法‘请’出无想尊能寺的两大长老之一"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "引领苏午录法名，并带其进入批命房间。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "批命",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "第122章 批命　　湛蓝的远天接连着群山的雪顶，缠绵伏延而下，铺陈成寥廓的高原",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第122章 批命　　湛蓝的远天接连着群山的雪顶，缠绵伏延而下，铺陈成寥廓的高原",
-        "“我先带你去戒律院录下法号，　　随后会有人领你去批命受戒，届时，你就按着指引僧的吩咐做事就是",
-        "他冷着脸，转头对苏午说道：“天海，你自去前面的佛堂请僧侣为你录下法名，批命受戒"
+        "擦拭香案的一个黄袍僧人走了过来，向苏午躬身行礼道：‘戒律师叔的入门弟子，请随我来录下法名。’",
+        "在黄袍僧的引领下，苏午绕过鸟首神像，走入神像背后的小门中。"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "途中能看到许多戴着鸡冠帽、多穿着暗黄僧袍的僧人，他们见到广法大步走来，都纷纷停在路边行礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "途中能看到许多戴着鸡冠帽、多穿着暗黄僧袍的僧人，他们见到广法大步走来，都纷纷停在路边行礼",
-        "他们面对广法时，神色仍旧恭敬，但已经不像那些黄袍僧人那般紧张",
-        "广法从这些僧人身边经过，他们都得驻足行礼"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "或是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "它周身笼罩在黑暗里，直到苏午迈进佛堂内，才看清这尊神像的真容：神像鸟首人身，背后一双金翅张开，四条手臂或是托着血淋淋的牛头；　　或是抓着似人头骨做成的骨碗；　　或是将一副骷髅骨架提举；　　或是举着一朵血红放光的莲花",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "它周身笼罩在黑暗里，直到苏午迈进佛堂内，才看清这尊神像的真容：神像鸟首人身，背后一双金翅张开，四条手臂或是托着血淋淋的牛头；　　或是抓着似人头骨做成的骨碗；　　或是将一副骷髅骨架提举；　　或是举着一朵血红放光的莲花"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "走在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’，见其还愣在原地，喝声道：“天海，还在那里发什么愣",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’，见其还愣在原地，喝声道：“天海，还在那里发什么愣",
-        "这时，　　走在前面的广法停下了脚步"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "天海",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’，见其还愣在原地，喝声道：“天海，还在那里发什么愣",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "走在前面，瘦得皮包骨头的广法转头来看‘卓杰’，见其还愣在原地，喝声道：“天海，还在那里发什么愣",
-        "”　　法号为天海，由苏午伪装的卓杰应了一声，在广法目光的注视下，低头跟了上去",
-        "他冷着脸，转头对苏午说道：“天海，你自去前面的佛堂请僧侣为你录下法名，批命受戒"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "转经筒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "一鎏银镶宝石的人头骨碗，　　一转经筒，　　一铺着厚厚一层香灰的圆形铁盒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一鎏银镶宝石的人头骨碗，　　一转经筒，　　一铺着厚厚一层香灰的圆形铁盒",
-        "老僧把转经筒立了起来，转经筒上包裹的图文，并非惯常的‘六字大明咒’，而是花冠、牛头、人形、骷髅等六幅图案",
-        "“天海，　　诵六字大明咒，推转经筒"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "点点",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第122章 批命",
-      "summary": "点点头，转身朝前走去：“是我看错了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "点点头，转身朝前走去：“是我看错了",
-        "”　　老僧点点头，在身前桌案的书册上，写下朱红的‘天海’二字",
-        "”老僧也看了一眼图案，点点头，把铺着厚厚一层香灰的圆形铁盒推到苏午跟前，“在这上面按下左手掌印"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

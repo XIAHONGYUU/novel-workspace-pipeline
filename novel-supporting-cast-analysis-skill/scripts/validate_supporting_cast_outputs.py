@@ -11,16 +11,11 @@ PLACEHOLDER_TOKENS = (
     "待确认",
     "待定",
     "待完善",
+    "待AI复核",
+    "待AI补判",
+    "card 初评扩展版",
     "TODO",
     "TBD",
-)
-
-REQUIRED_KEYS = (
-    "top10_table",
-    "relation_map",
-    "stage_distribution",
-    "index",
-    "profiles",
 )
 
 
@@ -44,7 +39,11 @@ def placeholder_hits(text: str) -> list[str]:
     hits = [token for token in PLACEHOLDER_TOKENS if token in text]
     hits.extend(
         line.strip()
-        for line in re.findall(r"^\s*[-*]\s*(?:待补充|待确认|待定|待完善).*$", text, flags=re.MULTILINE)
+        for line in re.findall(
+            r"^\s*[-*]\s*(?:待补充|待确认|待定|待完善|待AI复核|待AI补判).*$",
+            text,
+            flags=re.MULTILINE,
+        )
     )
     return list(dict.fromkeys(hits))
 
@@ -54,7 +53,11 @@ def placeholder_score(text: str) -> int:
     for token in PLACEHOLDER_TOKENS:
         score += text.count(token)
     score += len(
-        re.findall(r"^\s*[-*]\s*(?:待补充|待确认|待定|待完善).*$", text, flags=re.MULTILINE)
+        re.findall(
+            r"^\s*[-*]\s*(?:待补充|待确认|待定|待完善|待AI复核|待AI补判).*$",
+            text,
+            flags=re.MULTILINE,
+        )
     )
     return score
 
@@ -66,12 +69,12 @@ def content_check(path: Path | None, keywords: list[str], minimum: int = 1, min_
     if len(text.strip()) < min_chars:
         return {"exists": True, "content_ok": False, "reason": "too_short"}
     placeholders = placeholder_hits(text)
-    if len(placeholders) >= 2 or placeholder_score(text) >= 4:
+    if len(placeholders) >= 1 or placeholder_score(text) >= 2:
         return {
             "exists": True,
             "content_ok": False,
             "reason": "placeholder_detected",
-            "placeholder_hits": placeholders[:5],
+            "placeholder_hits": placeholders[:6],
         }
     if not has_keywords(text, keywords, minimum):
         return {"exists": True, "content_ok": False, "reason": "keywords_missing"}
@@ -82,12 +85,54 @@ def detect_profile_files(workspace: Path) -> list[Path]:
     return sorted((workspace / "supporting-cast").glob("*-配角分析.md"))
 
 
+def validate_profiles(profile_files: list[Path]) -> tuple[dict, list[str]]:
+    if len(profile_files) < 10:
+        return (
+            {
+                "exists": bool(profile_files),
+                "content_ok": False,
+                "reason": "missing_profiles",
+            },
+            [],
+        )
+
+    failures: list[str] = []
+    for path in profile_files[:10]:
+        result = content_check(
+            path,
+            [
+                "基本信息",
+                "身份概述",
+                "与主角关系",
+                "关键事件",
+                "阶段总结",
+                "人物特征总结",
+                "Top10入选理由",
+                "最终结论",
+            ],
+            minimum=7,
+            min_chars=1000,
+        )
+        if not result["content_ok"]:
+            failures.append(f"{path.name}:{result['reason']}")
+
+    return (
+        {
+            "exists": True,
+            "content_ok": not failures,
+            "reason": "ok" if not failures else "profile_quality_insufficient",
+        },
+        failures,
+    )
+
+
 def markdown_report(novel_name: str, workspace: Path, result: dict) -> str:
     lines = [
         f"# 《{novel_name}》重要配角层校验报告",
         "",
         f"- 工作区：`{workspace}`",
         f"- Top10 判断：`{result['top10_status']}`",
+        f"- AI复核层判断：`{result['ai_review_status']}`",
         f"- 关系层判断：`{result['relation_status']}`",
         f"- 阶段层判断：`{result['stage_status']}`",
         f"- 分析文件数：`{result['profile_count']}`",
@@ -101,6 +146,16 @@ def markdown_report(novel_name: str, workspace: Path, result: dict) -> str:
         if value.get("placeholder_hits"):
             detail += f"; 占位痕迹: {', '.join(value['placeholder_hits'])}"
         lines.append(f"- `{name}`：{status}（{detail}）")
+    if result["profile_failures"]:
+        lines.extend(
+            [
+                "",
+                "## 配角卡未达标项",
+                "",
+            ]
+        )
+        for item in result["profile_failures"]:
+            lines.append(f"- `{item}`")
     return "\n".join(lines) + "\n"
 
 
@@ -123,6 +178,8 @@ def main() -> int:
     files = {
         "project_entry": workspace / "README.md",
         "handoff": status_path,
+        "candidate_pool": workspace / "supporting-cast" / "Top10候选池初评.md",
+        "ai_review": workspace / f"{args.novel_name}-重要配角AI复核结论.md",
         "top10_table": workspace / f"{args.novel_name}-重要配角Top10总表.md",
         "relation_map": workspace / f"{args.novel_name}-重要配角与主角关系图.md",
         "stage_distribution": workspace / f"{args.novel_name}-重要配角阶段作用分布.md",
@@ -130,35 +187,38 @@ def main() -> int:
     }
 
     checks = {
-        "project_entry": content_check(files["project_entry"], ["重要配角", "Top10", "supporting-cast"], minimum=2, min_chars=120),
-        "handoff": content_check(files["handoff"], ["当前结论", "Top3 配角候选", "一句话交接"], minimum=2, min_chars=160),
-        "top10_table": content_check(files["top10_table"], ["Top 10", "综合分", "结构角色", "入选理由"], minimum=3, min_chars=500),
-        "relation_map": content_check(files["relation_map"], ["关系线总判断", "与主角关系", "结构角色"], minimum=3, min_chars=500),
-        "stage_distribution": content_check(files["stage_distribution"], ["阶段层总判断", "阶段分布", "阶段作用判断"], minimum=3, min_chars=400),
-        "index": content_check(files["index"], ["Top10 文件", "Top 1"], minimum=2, min_chars=120),
+        "project_entry": content_check(files["project_entry"], ["重要配角", "AI复核", "cards 初评"], minimum=2, min_chars=180),
+        "handoff": content_check(files["handoff"], ["当前结论", "Top3 初评候选", "AI 复核"], minimum=2, min_chars=180),
+        "candidate_pool": content_check(files["candidate_pool"], ["候选池总表", "card 初评分", "初步结构定位", "初评理由"], minimum=4, min_chars=900),
+        "ai_review": content_check(files["ai_review"], ["最终入选 Top10", "落选但接近 Top10", "调榜说明", "最终理由"], minimum=4, min_chars=900),
+        "top10_table": content_check(files["top10_table"], ["Top 10 总表", "AI复核结论", "最终去留", "入选理由"], minimum=4, min_chars=700),
+        "relation_map": content_check(files["relation_map"], ["关系线总判断", "与主角关系", "关系定位", "如何改写主角路径"], minimum=4, min_chars=700),
+        "stage_distribution": content_check(files["stage_distribution"], ["阶段层总判断", "关键阶段", "阶段作用判断", "阶段分布"], minimum=4, min_chars=650),
+        "index": content_check(files["index"], ["Top10 文件", "候选池初评", "AI复核结论", "推荐阅读顺序"], minimum=4, min_chars=220),
     }
 
-    profiles_ok = len(profile_files) >= 10
-    profiles_text = "\n".join(read_text(path) for path in profile_files[:10])
-    checks["profiles"] = {
-        "exists": bool(profile_files),
-        "content_ok": profiles_ok and has_keywords(profiles_text, ["结构角色", "与主角关系", "关键阶段与事件"], minimum=3),
-        "reason": "ok" if profiles_ok else "missing_profiles",
-    }
-    if profile_files and not checks["profiles"]["content_ok"]:
-        checks["profiles"]["reason"] = "keywords_missing"
+    checks["profiles"], profile_failures = validate_profiles(profile_files)
 
-    top10_ready = checks["top10_table"]["content_ok"] and checks["index"]["content_ok"] and checks["profiles"]["content_ok"]
+    top10_ready = (
+        checks["candidate_pool"]["content_ok"]
+        and checks["ai_review"]["content_ok"]
+        and checks["top10_table"]["content_ok"]
+        and checks["index"]["content_ok"]
+        and checks["profiles"]["content_ok"]
+    )
+    ai_review_ready = checks["ai_review"]["content_ok"]
     relation_ready = checks["relation_map"]["content_ok"]
     stage_ready = checks["stage_distribution"]["content_ok"]
 
     result = {
         "workspace": str(workspace),
         "novel_name": args.novel_name,
-        "top10_status": "重要配角 Top10 已明确" if top10_ready else "重要配角 Top10 仍不足",
+        "top10_status": "重要配角 Top10 已完成 AI 定榜" if top10_ready else "重要配角 Top10 仍不足",
+        "ai_review_status": "AI 复核结论已可用" if ai_review_ready else "AI 复核结论仍不足",
         "relation_status": "配角与主角关系已可用" if relation_ready else "配角与主角关系仍不足",
         "stage_status": "配角阶段作用层已可用" if stage_ready else "配角阶段作用层仍不足",
         "profile_count": len(profile_files),
+        "profile_failures": profile_failures,
         "checks": checks,
         "status_file": str(status_path) if status_path else None,
         "files": {

@@ -1,243 +1,335 @@
 {
   "chunk_id": "chunk-0078",
-  "title": "第77章各方",
   "characters": [
-    {
-      "name": "吴拱",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章各方",
-      "summary": "吴拱随手抛开手中墨笔，将桌上全是墨色的宣纸揉成一团，如同喂食一般摊在手心中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "吴拱随手抛开手中墨笔，将桌上全是墨色的宣纸揉成一团，如同喂食一般摊在手心中",
-        "”　　吴拱走到跪地的管家身前，突然没来由说了句话，“你知道儒家六艺里我最喜欢哪一艺吗",
-        "吴拱运笔的手腕一顿，立时有大团墨色在宣纸上晕染开来"
-      ],
-      "mention_count": 8
-    },
     {
       "name": "杨朔",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "杨家人",
+      "faction": "天志会",
       "status": "登场",
       "first_appearance": "第77章各方",
-      "summary": "”　　杨朔在一具被剑光卷碎的尸体前停下脚步，解下身上衣袍子摊在地上，缓缓跪了下去",
+      "summary": "杨家人，为二爷收尸，表达对家族内部争斗的感慨。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "重情义",
+        "感慨"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　杨朔在一具被剑光卷碎的尸体前停下脚步，解下身上衣袍子摊在地上，缓缓跪了下去",
-        "”　　杨朔轻轻捧起散落的尸块，神色郑重的放在衣袍之中",
-        "”　　杨朔嘴唇龛动，似乎还有很多话想说，可最终只是喃喃说道：“二爷，人死恩怨泯"
+      "relationships": [
+        {
+          "target": "二爷",
+          "type": "同族叔侄"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在绵州街道为二爷收尸，感慨家族纷争。"
+        }
+      ],
+      "evidence": [
+        "杨朔在一具被剑光卷碎的尸体前停下脚步，解下身上衣袍子摊在地上，缓缓跪了下去。",
+        "其实无论大房还是二房，咱们都是杨家人，只不过求活的方式不同罢了。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "赵青侠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章各方",
-      "summary": "”　　赵青侠颓然向后一倒，“这些丢人丢大了，说好的帮忙，反而被别人给救了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵青侠颓然向后一倒，“这些丢人丢大了，说好的帮忙，反而被别人给救了",
-        "”　　装甲猛然转头看向赵青侠，马王爷没好气道：“今天要不是李钧，咱两都要撂在那里",
-        "赵青侠怒道：“他妈的，打人不打脸，这老王八蛋怎么这么歹毒，他现在人呢"
+      "name": "马王爷",
+      "aliases": [
+        "老马"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "赵青",
-      "aliases": [],
-      "identity": "",
+      "identity": "外骨骼装甲使用者，赵青侠的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第77章各方",
-      "summary": "”　　赵青侠颓然向后一倒，“这些丢人丢大了，说好的帮忙，反而被别人给救了",
+      "summary": "与赵青侠一起行动，拥有武道珍藏，欠李钧人情。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵青侠颓然向后一倒，“这些丢人丢大了，说好的帮忙，反而被别人给救了",
-        "”　　装甲猛然转头看向赵青侠，马王爷没好气道：“今天要不是李钧，咱两都要撂在那里",
-        "赵青侠怒道：“他妈的，打人不打脸，这老王八蛋怎么这么歹毒，他现在人呢"
+      "personality": [
+        "暴躁",
+        "重情义"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "猛的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章各方",
-      "summary": "他两腿一软，猛的跪了下去",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "外骨骼装甲"
+      ],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "欠人情"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵青侠讨论欠李钧人情的事，并提及七品内功。"
+        }
+      ],
       "evidence": [
-        "他两腿一软，猛的跪了下去",
-        "赵青侠下意识回道，接着像是反应过来马王爷的意思，猛的从地上弹了起来，神色凶恶看着红眼"
+        "马王爷怒道：“我就问你，欠李钧的这份情你还不还？”",
+        "对了，我记得你的珍藏里好像有一份七品内功，对吧？"
       ],
       "mention_count": 4
     },
     {
-      "name": "解下",
+      "name": "赵青侠",
       "aliases": [],
-      "identity": "",
+      "identity": "武道序列，马王爷的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第77章各方",
-      "summary": "”　　杨朔在一具被剑光卷碎的尸体前停下脚步，解下身上衣袍子摊在地上，缓缓跪了下去",
+      "summary": "被吴锦丰打伤，欠李钧人情，对七品内功感兴趣。",
+      "appearance": [
+        "脸肿得像猪头"
+      ],
+      "personality": [
+        "好面子",
+        "急躁"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "被救"
+        },
+        {
+          "target": "吴锦丰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被吴锦丰打伤，与马王爷讨论欠李钧人情。"
+        }
+      ],
+      "evidence": [
+        "赵青侠捧着一张脸肿的像猪头的脸坐在外骨骼装甲旁",
+        "赵青侠怒道：“他妈的，打人不打脸，这老王八蛋怎么这么歹毒，他现在人呢？”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "吴拱",
+      "aliases": [
+        "拱少爷"
+      ],
+      "identity": "吴家少爷",
+      "faction": "吴家",
+      "status": "登场",
+      "first_appearance": "第77章各方",
+      "summary": "吴家少爷，在丹景山宅院中观看蟒虎相斗，得知吴锦丰死讯后决定让乐重去讲规矩。",
+      "appearance": [
+        "俊美青年"
+      ],
+      "personality": [
+        "冷静",
+        "有谋略"
+      ],
+      "abilities": [],
+      "equipment": [
+        "毛笔",
+        "宣纸"
+      ],
+      "relationships": [
+        {
+          "target": "吴锦丰",
+          "type": "同族"
+        },
+        {
+          "target": "顾玺",
+          "type": "竞争对手"
+        },
+        {
+          "target": "乐重",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在丹景山宅院中观看蟒虎相斗，得知吴锦丰死讯，决定让乐重去讲规矩。"
+        }
+      ],
+      "evidence": [
+        "吴拱随手抛开手中墨笔，将桌上全是墨色的宣纸揉成一团，如同喂食一般摊在手心中。",
+        "吴拱看着终于忍不住扑杀在一起的饿虎和龙蛇，兴致勃勃的抓起书案上的毛笔开始挥毫。",
+        "吴拱走到跪地的管家身前，突然没来由说了句话，“你知道儒家六艺里我最喜欢哪一艺吗?”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "吴锦丰",
+      "aliases": [],
+      "identity": "吴家人",
+      "faction": "吴家",
+      "status": "已死",
+      "first_appearance": "第77章各方",
+      "summary": "被李钧杀死，曾与赵青侠和马王爷冲突。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被杀死"
+        },
+        {
+          "target": "赵青侠",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧杀死。"
+        }
+      ],
       "evidence": [
-        "”　　杨朔在一具被剑光卷碎的尸体前停下脚步，解下身上衣袍子摊在地上，缓缓跪了下去"
+        "吴锦丰死了。杀他的是蜀道物流招揽的那名武道序列，李钧。"
       ],
       "mention_count": 3
     },
     {
-      "name": "一名",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "蜀道物流招揽的武道序列",
+      "faction": "蜀道物流",
+      "status": "提及",
       "first_appearance": "第77章各方",
-      "summary": "”　　一名的管家打扮的老人快步走进庭院，在书案十步之外便站住，头埋得很低，双眼死死盯着脚面，不敢挪动半分",
+      "summary": "武道序列，杀死了吴锦丰，被马王爷和赵青侠欠人情。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一名的管家打扮的老人快步走进庭院，在书案十步之外便站住，头埋得很低，双眼死死盯着脚面，不敢挪动半分",
-        "”　　不远处，一名俊美青年站在一张书案之后静静欣赏着眼前血腥的一幕"
+      "abilities": [
+        "武道序列"
       ],
-      "mention_count": 3
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴锦丰",
+          "type": "杀死"
+        },
+        {
+          "target": "马王爷",
+          "type": "被欠人情"
+        },
+        {
+          "target": "赵青侠",
+          "type": "被欠人情"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "杀死吴锦丰。"
+        }
+      ],
+      "evidence": [
+        "吴锦丰死了。杀他的是蜀道物流招揽的那名武道序列，李钧。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "头埋",
+      "name": "顾玺",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "顾家人",
+      "faction": "顾家",
+      "status": "提及",
       "first_appearance": "第77章各方",
-      "summary": "”　　一名的管家打扮的老人快步走进庭院，在书案十步之外便站住，头埋得很低，双眼死死盯着脚面，不敢挪动半分",
+      "summary": "顾家人物，与吴拱竞争，顾家抢到了四分之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一名的管家打扮的老人快步走进庭院，在书案十步之外便站住，头埋得很低，双眼死死盯着脚面，不敢挪动半分"
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "竞争对手"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "顾家抢到了四分之一。"
+        }
+      ],
+      "evidence": [
+        "看来这次我是输给顾玺一筹了。",
+        "顾顾家抢到了四分之一。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "按理",
+      "name": "乐重",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "法家人物，被关在私狱",
+      "faction": "法家",
+      "status": "提及",
       "first_appearance": "第77章各方",
-      "summary": "按理来说，这种修建在荒郊野外的庄园是枪械盗匪和义肢响马最喜欢光顾的地方",
+      "summary": "法家人物，被吴拱命令去讲规矩。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "按理来说，这种修建在荒郊野外的庄园是枪械盗匪和义肢响马最喜欢光顾的地方"
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "被命令"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被吴拱命令去讲规矩。"
+        }
+      ],
+      "evidence": [
+        "你去私狱里把乐重捞出来，他们法家不是最喜欢讲规矩吗？让他去把规矩讲回来。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "炙烤",
+      "name": "管家",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "吴拱的管家",
+      "faction": "吴家",
       "status": "登场",
       "first_appearance": "第77章各方",
-      "summary": "”　　一把龙头枪械被插在地上，龙口朝着喷出一簇火焰，炙烤着一头剥了皮的新鲜野兔",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一把龙头枪械被插在地上，龙口朝着喷出一簇火焰，炙烤着一头剥了皮的新鲜野兔"
+      "summary": "吴拱的管家，报告吴锦丰死讯。",
+      "appearance": [
+        "老人"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "来而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章各方",
-      "summary": "“不过，现在是顾家先不讲的规矩，那我们自然也不能墨守成规嘛，来而不往非礼也",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“不过，现在是顾家先不讲的规矩，那我们自然也不能墨守成规嘛，来而不往非礼也"
+      "personality": [
+        "恭敬",
+        "恐惧"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "让他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第77章各方",
-      "summary": "让他去把规矩讲回来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向吴拱报告吴锦丰死讯。"
+        }
+      ],
       "evidence": [
-        "让他去把规矩讲回来",
-        "”　　“告诉他，如果这次的规矩没有讲好，我亲自为他引路让他改法信儒"
+        "一名的管家打扮的老人快步走进庭院，在书案十步之外便站住，头埋得很低，双眼死死盯着脚面，不敢挪动半分。",
+        "拱少爷，绵州县那边出事了。"
       ],
       "mention_count": 3
     }

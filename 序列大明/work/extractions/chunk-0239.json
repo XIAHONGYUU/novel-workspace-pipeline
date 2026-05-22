@@ -1,249 +1,271 @@
 {
   "chunk_id": "chunk-0239",
-  "title": "第237章意识搬运",
   "characters": [
-    {
-      "name": "曹仓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "而曹仓自己本就是袁明妃的护法神，自然对护法神极为了解",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而曹仓自己本就是袁明妃的护法神，自然对护法神极为了解",
-        "”　　曹仓语气冰冷：“这点小场面，不过够我预热完械体",
-        "曹仓的身影向后倒飞，凌空旋身数次，落地之后却依旧不受控制的向后暴退数步，这才卸掉那沛然巨力，止住退势"
-      ],
-      "mention_count": 11
-    },
     {
       "name": "袁明妃",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "佛道序列，叛逃者，隆图的母教亵渎者",
+      "faction": "佛道序列",
       "status": "登场",
       "first_appearance": "第237章意识搬运",
-      "summary": "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地",
+      "summary": "佛道序列的叛逃者，为隆图选定送葬之地，拥有地上佛国能力，意识陷入幻境。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地",
-        "“如此亵渎自己的母教，袁明妃，你下辈子只配转生堕入畜生道",
-        "而曹仓自己本就是袁明妃的护法神，自然对护法神极为了解"
+      "personality": [
+        "轻佻",
+        "戏谑",
+        "癫狂",
+        "仇恨"
       ],
-      "mention_count": 7
+      "abilities": [
+        "地上佛国",
+        "意识搬运"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "隆图",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "展开佛国，将隆图、李钧和自己的意识拉入幻境，试图诛杀李钧。"
+        }
+      ],
+      "evidence": [
+        "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地。",
+        "圆月之中传出袁明妃轻佻戏谑的声音",
+        "袁明妃的笑声中带着刺骨的仇恨和无法遏制的癫狂。"
+      ],
+      "mention_count": 10
     },
     {
       "name": "隆图",
+      "aliases": [
+        "秃驴"
+      ],
+      "identity": "大昭寺年轻僧人中的佼佼者，护法神宿主",
+      "faction": "大昭寺",
+      "status": "登场",
+      "first_appearance": "第237章意识搬运",
+      "summary": "大昭寺僧人，信仰和基因出色，被袁明妃拖入佛国，其护法神拥有佛念。",
+      "appearance": [
+        "锋利的犬齿",
+        "粗糙的金色鬃毛",
+        "大红色僧袍",
+        "两把银色手斧"
+      ],
+      "personality": [
+        "阴森",
+        "义正言辞"
+      ],
+      "abilities": [
+        "护法神变身",
+        "使用手斧"
+      ],
+      "equipment": [
+        "银色手斧",
+        "镔铁棍"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "敌对"
+        },
+        {
+          "target": "护法神",
+          "type": "宿主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在佛国中与李钧战斗，被李钧击败。"
+        }
+      ],
+      "evidence": [
+        "隆图抬头凝望挂在头顶的圆月，言语之中带着说不出的阴森。",
+        "隆图义正言辞的话音刚刚出口",
+        "隆图便已经险象环生，手中的银斧屡次险些被绣春刀冲开防守"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "武道序列，持刀武夫",
       "faction": "",
       "status": "登场",
       "first_appearance": "第237章意识搬运",
-      "summary": "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地",
-      "appearance": [],
-      "personality": [],
+      "summary": "武道序列的武夫，被袁明妃拉入佛国，与隆图战斗。",
+      "appearance": [
+        "眼眸亮如星辰",
+        "绣春刀"
+      ],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "武道序列近战",
+        "械心超频"
+      ],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "合作"
+        },
+        {
+          "target": "隆图",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入佛国，与隆图交战，将其击败。"
+        }
+      ],
+      "evidence": [
+        "李钧终于进入了这方佛国！",
+        "李钧没有选择拖回刀身，抬脚冲出，撞在隆图胸口。",
+        "李钧充耳不闻，前冲的势头甚至没有半分迟疑"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "曹仓",
+      "aliases": [
+        "小曹"
+      ],
+      "identity": "袁明妃的护法神",
+      "faction": "袁明妃",
+      "status": "登场",
+      "first_appearance": "第237章意识搬运",
+      "summary": "袁明妃的护法神，拥有械体改造，与隆图的护法神战斗。",
+      "appearance": [
+        "械体",
+        "械臂"
+      ],
+      "personality": [
+        "桀骜不驯",
+        "冰冷"
+      ],
+      "abilities": [
+        "械心超频",
+        "护法神能力"
+      ],
+      "equipment": [
+        "铁棍",
+        "手斧"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "护法神"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与隆图的护法神战斗，发现对方拥有佛念。"
+        }
+      ],
+      "evidence": [
+        "曹仓自己本就是袁明妃的护法神",
+        "曹仓嘴角勾起一丝桀骜不驯的笑意",
+        "曹仓语气冰冷：“这点小场面，不过够我预热完械体。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "马王爷",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "护法神，曹仓的同伴",
+      "faction": "袁明妃",
+      "status": "登场",
+      "first_appearance": "第237章意识搬运",
+      "summary": "护法神，调侃曹仓，对械心超频原理感到困惑。",
+      "appearance": [
+        "头盔"
+      ],
+      "personality": [
+        "调侃",
+        "困惑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "曹仓",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "旁观战斗，调侃曹仓。"
+        }
+      ],
       "evidence": [
-        "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地",
-        "”　　隆图抬头凝望挂在头顶的圆月，言语之中带着说不出的阴森",
-        "”　　隆图感觉自己就像是置身在狂暴风浪之中的孤舟，视线所及都是不断席卷而来的刀势，拍打的他双手发麻"
+        "身后传来马王爷的调侃声：“要不要马爷我帮帮你啊？”",
+        "马王爷挠着自己的头盔，口中嘟囔：“没道理啊，这他妈的一点都不墨学呀”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "隆图的护法神",
+      "aliases": [],
+      "identity": "隆图的护法神，拥有佛念",
+      "faction": "大昭寺",
+      "status": "登场",
+      "first_appearance": "第237章意识搬运",
+      "summary": "隆图的护法神，拥有佛念，使用意识搬运和双身法，与曹仓战斗。",
+      "appearance": [
+        "身形佝偻",
+        "铁棍搭肩",
+        "金色鬃毛"
+      ],
+      "personality": [],
+      "abilities": [
+        "意识搬运",
+        "双身法",
+        "佛念"
+      ],
+      "equipment": [
+        "铁棍"
+      ],
+      "relationships": [
+        {
+          "target": "隆图",
+          "type": "宿主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与曹仓战斗，被识破拥有佛念。"
+        }
+      ],
+      "evidence": [
+        "意识搬运，双身法.这不是隆图，是他的护法神！",
+        "护法神拥有佛念，那就有了堕落背叛的可能。"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "这是一间破败了不知道多少岁月的寺庙，肆意生长的藤蔓爬满青黑色的石墙，扭曲怪异的人形树木朝天伸出光秃秃的枝节，遮天蔽日",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这是一间破败了不知道多少岁月的寺庙，肆意生长的藤蔓爬满青黑色的石墙，扭曲怪异的人形树木朝天伸出光秃秃的枝节，遮天蔽日",
-        "你这是要把我的意识转接到牲口身上呀",
-        "”　　这是械心的声音"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "袁明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地",
-        "“如此亵渎自己的母教，袁明妃，你下辈子只配转生堕入畜生道",
-        "而曹仓自己本就是袁明妃的护法神，自然对护法神极为了解"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "圆月之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "圆月之中传出袁明妃轻佻戏谑的声音，“那我现在还有机会吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "圆月之中传出袁明妃轻佻戏谑的声音，“那我现在还有机会吗",
-        "圆月之中，传出女人疑惑的呢喃"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "护法神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "而曹仓自己本就是袁明妃的护法神，自然对护法神极为了解",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而曹仓自己本就是袁明妃的护法神，自然对护法神极为了解",
-        "”　　唯一共同的一点，就是护法神只擅长近战，绝对不会拥有如此强横的佛念，也就是精神力",
-        "“哈哈哈哈哈哈.”　　此时他们的身体就是一具无意识的躯壳，面对危险根本没有自保的能力，只能依靠护法神的保护"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "撕裂",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "撕裂的佛躯中露出腐朽生锈的机械构造，眼眸猩红的无毛老鼠在其中来回爬动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "撕裂的佛躯中露出腐朽生锈的机械构造，眼眸猩红的无毛老鼠在其中来回爬动",
-        "被斩成褴褛的僧袍、撕裂翻卷的血肉、闪动着寒光的械体.　　此刻隆图的身体中，正传出噪耳的嗡鸣声"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "覆灭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "覆灭的大昭寺，这就是袁明妃为隆图选定的送葬之地"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "紧接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "震耳欲聋的巨大爆鸣回荡在这片寺庙遗址之中，紧接着一道红色的身影突然向上冲出烟尘，暴露在血色的月光之下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "震耳欲聋的巨大爆鸣回荡在这片寺庙遗址之中，紧接着一道红色的身影突然向上冲出烟尘，暴露在血色的月光之下"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "曹仓的身影向后倒飞，凌空旋身数次，落地之后却依旧不受控制的向后暴退数步，这才卸掉那沛然巨力，止住退势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "曹仓的身影向后倒飞，凌空旋身数次，落地之后却依旧不受控制的向后暴退数步，这才卸掉那沛然巨力，止住退势",
-        "在此之前，尽管他关闭了无常簿的抗催眠功能，主动放开了自己的心灵防守，但潜意识和血肉之中自带的抗性还是让袁明妃费尽全力，这才将他的意识拉进了自己的佛国"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "以她",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第237章意识搬运",
-      "summary": "以她对大昭寺的了解，这些佛道序列的狂信徒虽然精神世界极度扭曲，但绝对不可能是蠢货",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "以她对大昭寺的了解，这些佛道序列的狂信徒虽然精神世界极度扭曲，但绝对不可能是蠢货"
-      ],
-      "mention_count": 3
     }
   ]
 }

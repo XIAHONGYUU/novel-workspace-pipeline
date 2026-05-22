@@ -1,252 +1,284 @@
 {
   "chunk_id": "chunk-0124",
-  "title": "第123章 大明神系缚之器",
   "characters": [
     {
       "name": "苏午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "天海",
+        "卓杰"
+      ],
+      "identity": "穿越者，伪装成戒律僧侣广法的弟子",
+      "faction": "无想尊能寺戒律院",
       "status": "登场",
       "first_appearance": "第123章 大明神系缚之器",
-      "summary": "”　　老僧神色平静地向苏午说了两句话，就把骨碗、圆形铁盒、转经筒都收进箱子里，推到身后",
+      "summary": "穿越者，伪装成戒律僧侣广法的弟子，在无想尊能寺中探索，对批命和系缚诡类有浓厚兴趣。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　老僧神色平静地向苏午说了两句话，就把骨碗、圆形铁盒、转经筒都收进箱子里，推到身后",
-        "苏午站在老僧的旁边，目光不时看向老僧手里的书册，隐约能看到书册上有一些勾勾画画的纹络",
-        "”　　老僧对照着皮革书册上的图案，完成了对苏午的‘批命’"
+      "personality": [
+        "谨慎",
+        "好奇",
+        "有现代道德观"
       ],
-      "mention_count": 23
+      "abilities": [],
+      "equipment": [
+        "罡洞骨笛"
+      ],
+      "relationships": [
+        {
+          "target": "广法",
+          "type": "师徒（伪装）"
+        },
+        {
+          "target": "老僧",
+          "type": "请教对象"
+        },
+        {
+          "target": "天奇",
+          "type": "同门师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在戒律院接受老僧批命，随后由天奇带领参观经纶院，了解密藏域局势。"
+        }
+      ],
+      "evidence": [
+        "苏午站在老僧的旁边，目光不时看向老僧手里的书册",
+        "苏午向老僧躬身行了一礼",
+        "苏午未被安排进一般僧侣居住的僧舍中"
+      ],
+      "mention_count": 12
     },
     {
       "name": "老僧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "批命僧侣"
+      ],
+      "identity": "戒律院的批命僧侣",
+      "faction": "无想尊能寺戒律院",
       "status": "登场",
       "first_appearance": "第123章 大明神系缚之器",
-      "summary": "”　　老僧神色平静地向苏午说了两句话，就把骨碗、圆形铁盒、转经筒都收进箱子里，推到身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　老僧神色平静地向苏午说了两句话，就把骨碗、圆形铁盒、转经筒都收进箱子里，推到身后",
-        "苏午站在老僧的旁边，目光不时看向老僧手里的书册，隐约能看到书册上有一些勾勾画画的纹络",
-        "”　　老僧对照着皮革书册上的图案，完成了对苏午的‘批命’"
+      "summary": "戒律院的老僧，负责为僧侣批命，掌握命册，对批命流程和诡类系缚有丰富知识。",
+      "appearance": [
+        "老态",
+        "浑浊双眼"
       ],
-      "mention_count": 14
+      "personality": [
+        "平和",
+        "健谈",
+        "对消耗人命习以为常"
+      ],
+      "abilities": [
+        "批命"
+      ],
+      "equipment": [
+        "骨碗",
+        "圆形铁盒",
+        "转经筒",
+        "命册（皮革书册）"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "批命对象"
+        },
+        {
+          "target": "天奇",
+          "type": "同院僧侣"
+        },
+        {
+          "target": "广法",
+          "type": "同寺僧侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为苏午批命，并回答其关于批命和诡类系缚的问题。"
+        }
+      ],
+      "evidence": [
+        "老僧神色平静地向苏午说了两句话",
+        "老僧对照着皮革书册上的图案，完成了对苏午的‘批命’",
+        "老僧笑呵呵的"
+      ],
+      "mention_count": 10
     },
     {
       "name": "天奇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章 大明神系缚之器",
-      "summary": "至于本寺还有什么职司……　　天奇，你待会儿领他去经纶院，给他选两部相关书籍来看吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "至于本寺还有什么职司……　　天奇，你待会儿领他去经纶院，给他选两部相关书籍来看吧",
-        "”　　苏午不再多言，跟着黄袍僧‘天奇’出了小间",
-        "绕过那尊提着四样诡异物件的鸟首神像，他轻声向‘天奇’问道：“天奇师弟，敢问佛堂内供奉的这尊佛陀尊号"
+      "aliases": [
+        "黄袍僧"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "大明神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "戒律院的黄袍僧侣",
+      "faction": "无想尊能寺戒律院",
       "status": "登场",
       "first_appearance": "第123章 大明神系缚之器",
-      "summary": "第123章 大明神系缚之器　　“怪不得会示现出‘天人相’来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第123章 大明神系缚之器　　“怪不得会示现出‘天人相’来",
-        "“佛堂内供奉的，乃是‘大明神’",
-        "至于祂手里拿的东西，便是大明神的‘系缚之器’"
+      "summary": "戒律院的黄袍僧侣，负责引导苏午，安排僧舍，并带其参观经纶院。",
+      "appearance": [
+        "黄袍"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "无想",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章 大明神系缚之器",
-      "summary": "天奇的言语，让苏午瞬间就联想起广法曾说过的，唯有无想尊能寺住持尊者才可以修持的‘无想大明神系缚’之法",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天奇的言语，让苏午瞬间就联想起广法曾说过的，唯有无想尊能寺住持尊者才可以修持的‘无想大明神系缚’之法",
-        "这是否意味着，在无想尊能寺围绕下一代继承者展开的斗争中，戒律院占得了先机",
-        "当代住持尊者圆寂在即，修炼无想大明神系缚之法所需的八件系缚之器，就被其分别交托给了东西二院"
+      "personality": [
+        "不耐烦",
+        "尽职"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "大明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章 大明神系缚之器",
-      "summary": "第123章 大明神系缚之器　　“怪不得会示现出‘天人相’来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "引导者"
+        },
+        {
+          "target": "老僧",
+          "type": "同院僧侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受老僧指示，带领苏午去经纶院并安排僧舍。"
+        }
+      ],
       "evidence": [
-        "第123章 大明神系缚之器　　“怪不得会示现出‘天人相’来",
-        "“佛堂内供奉的，乃是‘大明神’",
-        "至于祂手里拿的东西，便是大明神的‘系缚之器’"
+        "黄袍僧躬身应了声‘是’",
+        "天奇诧异地看了苏午一眼",
+        "天奇领着苏午一路走出戒律院"
       ],
       "mention_count": 5
     },
     {
-      "name": "一边",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "广法",
+      "aliases": [
+        "戒律僧侣",
+        "苏午的师父"
+      ],
+      "identity": "戒律院的大僧侣，东院长老圆寂后第一顺位继承戒律院长老之位",
+      "faction": "无想尊能寺戒律院",
+      "status": "提及",
       "first_appearance": "第123章 大明神系缚之器",
-      "summary": "浑浊的双眼翻动着，一边回忆过往，一边说道：“给诡批命的僧侣，必须要完成了系缚，容纳了厉诡在身才行",
+      "summary": "苏午的师父，地位崇高，是住持尊者一派，目前在与住持尊者商议事情。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒"
+        },
+        {
+          "target": "住持尊者",
+          "type": "同一派系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在住持尊者那边商议事情。"
+        }
+      ],
       "evidence": [
-        "浑浊的双眼翻动着，一边回忆过往，一边说道：“给诡批命的僧侣，必须要完成了系缚，容纳了厉诡在身才行"
+        "你师父是戒律僧侣，地位崇高",
+        "半途有黄袍僧传来广法的指令",
+        "苏午的师傅‘广法’，明显是站在住持尊者这一派"
       ],
       "mention_count": 4
     },
     {
-      "name": "便是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章 大明神系缚之器",
-      "summary": "此种时候，什么都想研究的结果，便是什么都不能研究透彻，最终落个浪费光阴，蹉跎一生的结局",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此种时候，什么都想研究的结果，便是什么都不能研究透彻，最终落个浪费光阴，蹉跎一生的结局",
-        "便是密藏域的一个普通农奴，在如今法寺遍地，佛法弘扬的情况下，也没道理不了解这种常识",
-        "至于祂手里拿的东西，便是大明神的‘系缚之器’"
+      "name": "住持尊者",
+      "aliases": [
+        "无想尊能寺住持"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "推到",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "无想尊能寺的住持",
+      "faction": "无想尊能寺",
+      "status": "提及",
       "first_appearance": "第123章 大明神系缚之器",
-      "summary": "”　　老僧神色平静地向苏午说了两句话，就把骨碗、圆形铁盒、转经筒都收进箱子里，推到身后",
+      "summary": "无想尊能寺的住持，圆寂在即，试图在昌云宗本的后嗣中选定继承者，与东西二院长老有斗争。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　老僧神色平静地向苏午说了两句话，就把骨碗、圆形铁盒、转经筒都收进箱子里，推到身后"
+      "equipment": [
+        "大明神系缚之器（八件）"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "他低",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第123章 大明神系缚之器",
-      "summary": "他低头看着黑色毡布上香灰生成的图案",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "广法",
+          "type": "同一派系"
+        },
+        {
+          "target": "东西二院长老",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与广法商议事情，并已与东西二院长老达成初步妥协。"
+        }
+      ],
       "evidence": [
-        "他低头看着黑色毡布上香灰生成的图案"
+        "当代住持尊者圆寂在即",
+        "无想尊能寺当代的住持尊者，试图在昌云宗本的后嗣中选定",
+        "住持尊者那边商议事情"
       ],
       "mention_count": 3
     },
     {
-      "name": "对照",
+      "name": "东西二院长老",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "无想尊能寺东西二院的负责人",
+      "faction": "无想尊能寺东西二院",
+      "status": "提及",
       "first_appearance": "第123章 大明神系缚之器",
-      "summary": "又从怀里掏出一本似皮革制成的厚册，　　手指沾了沾唾沫，对照着毡布上的图案，翻看着皮革书册",
+      "summary": "与住持尊者对立，更属意从呼图克图家族中寻找继承者。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "又从怀里掏出一本似皮革制成的厚册，　　手指沾了沾唾沫，对照着毡布上的图案，翻看着皮革书册",
-        "”　　老僧对照着皮革书册上的图案，完成了对苏午的‘批命’",
-        "只要有命册在手，对照命纹，　　不论人，诡，皆能算定命格"
+      "relationships": [
+        {
+          "target": "住持尊者",
+          "type": "对立"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与住持尊者进行较量，双方各退一步，选定在雄湖区域寻找少年。"
+        }
+      ],
+      "evidence": [
+        "东西二院长老用两个体内厉诡即将复苏的僧侣，将他支开",
+        "东西二院长老更属意从呼图克图家族中寻找"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "可以",
+      "name": "广弘法师",
       "aliases": [],
-      "identity": "",
+      "identity": "过去的批命僧侣，擅长以少女为引勾召诡异",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第123章 大明神系缚之器",
-      "summary": "如此满五年之期后，　　可以系缚诡类，为己所用",
+      "summary": "老僧提及的过去的一位法师，擅长以十五岁以下女子为引勾召诡异，挖眼珠看诡相。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "勾召诡异",
+        "批命"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如此满五年之期后，　　可以系缚诡类，为己所用",
-        "从此后，苏午扮演的卓杰须以其这些言语为戒，精进修行，满五年之期后，就可以真正开始系缚诡类",
-        "而后挖下那被诡侵袭的女子眼珠，　　可以通过少女眼珠，看到诡相"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "以少女为引勾召诡异，挖眼珠看诡相。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "我记得以前有位广弘法师，擅长以十五岁以下的女子为引，勾召诡异侵袭"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,160 +1,189 @@
 {
   "chunk_id": "chunk-0254",
-  "title": "第252章打了小的来老的",
   "characters": [
-    {
-      "name": "恶角",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第252章打了小的来老的",
-      "summary": "”　　恶角冷哼一声，“岂止是严重，简直是凄惨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　恶角冷哼一声，“岂止是严重，简直是凄惨",
-        "恶角训斥众人一顿之后，这才朗声为他们解惑",
-        "怒吼声将正在幻想自己晋升墨序成为公司东主的恶角吓了一跳"
-      ],
-      "mention_count": 14
-    },
     {
       "name": "赵青侠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "前墨攻部队成员，现天志会成员",
+      "faction": "墨家天志会",
       "status": "登场",
       "first_appearance": "第252章打了小的来老的",
-      "summary": "赵青侠脸上的怒意越发明显，忍不住怒斥道：“乌鸦朵朵，你别忘了你现在也是天志会的人",
+      "summary": "赵青侠与乌鸦朵朵合作，袭击墨舟海运公司驻地，抓捕恶角并获取情报。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵青侠脸上的怒意越发明显，忍不住怒斥道：“乌鸦朵朵，你别忘了你现在也是天志会的人",
-        "”　　听到对方幽怨的话语，赵青侠脸上不由浮现尴尬的神色，他挠了挠头讪笑道：“这次绝对不会了",
-        "“可以啊赵青侠，这次终于不啰里啰嗦讲那些没用的大道理了"
+      "personality": [
+        "果断",
+        "手软"
       ],
-      "mention_count": 12
+      "abilities": [
+        "使用微缩长剑快速刺杀"
+      ],
+      "equipment": [
+        "微缩长剑",
+        "胶囊形机械装置"
+      ],
+      "relationships": [
+        {
+          "target": "乌鸦朵朵",
+          "type": "同伴"
+        },
+        {
+          "target": "恶角",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与乌鸦朵朵通讯后，突袭墨舟海运驻地，杀死多名打手，抓捕恶角并扫描其记忆。"
+        }
+      ],
+      "evidence": [
+        "赵青侠面无表情，实则心中已经怒火滔天，下手更是丝毫不留情",
+        "赵青侠抓住恶角的头发，将他不断抽动的身体提了起来，将一个形如胶囊的机械装置塞入他的鼻腔。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "赵青",
+      "name": "乌鸦朵朵",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "前非攻研发所成员，现天志会成员",
+      "faction": "墨家天志会",
       "status": "登场",
       "first_appearance": "第252章打了小的来老的",
-      "summary": "赵青侠脸上的怒意越发明显，忍不住怒斥道：“乌鸦朵朵，你别忘了你现在也是天志会的人",
+      "summary": "乌鸦朵朵与赵青侠合作，通过通讯指导行动，并负责扫描恶角的记忆。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵青侠脸上的怒意越发明显，忍不住怒斥道：“乌鸦朵朵，你别忘了你现在也是天志会的人",
-        "”　　听到对方幽怨的话语，赵青侠脸上不由浮现尴尬的神色，他挠了挠头讪笑道：“这次绝对不会了",
-        "“可以啊赵青侠，这次终于不啰里啰嗦讲那些没用的大道理了"
+      "personality": [
+        "冷静",
+        "幽怨"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "一众",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第252章打了小的来老的",
-      "summary": "”一众手下瞠目结舌，忍不住惊呼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "远程通讯",
+        "记忆扫描"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵青侠通讯，指责其上次手软导致暴露，并完成对恶角的记忆扫描。"
+        }
+      ],
       "evidence": [
-        "”一众手下瞠目结舌，忍不住惊呼",
-        "一众手下争先恐后的捧场，让恶角顿时有些飘飘然"
+        "耳廓里响起的清冷女声还在继续。",
+        "通讯另一端的乌鸦朵朵显然也是火气上涌",
+        "乌鸦朵朵冷笑一声，“扫描完了。这家墨舟海运果然和威海卫、安东卫的那两家公司有联系。”"
       ],
       "mention_count": 6
     },
     {
-      "name": "通讯",
+      "name": "恶角",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "墨舟海运公司打手头目",
+      "faction": "墨舟海运公司",
+      "status": "死亡",
       "first_appearance": "第252章打了小的来老的",
-      "summary": "”　　通讯另一端的乌鸦朵朵显然也是火气上涌，冷声道：“既然你觉得看不过眼，那一会动手的时候最好不要再手软了",
+      "summary": "恶角是墨舟海运公司的打手头目，带领手下祭拜墨家神龛，后被赵青侠杀死并扫描记忆。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　通讯另一端的乌鸦朵朵显然也是火气上涌，冷声道：“既然你觉得看不过眼，那一会动手的时候最好不要再手软了",
-        "”　　通讯内，乌鸦朵朵冷笑一声，“扫描完了",
-        "乌鸦朵朵的声音戛然而止，通讯中只剩下滋滋的电流杂音"
+      "personality": [
+        "嚣张",
+        "粗鲁"
       ],
-      "mention_count": 5
+      "abilities": [],
+      "equipment": [
+        "手枪"
+      ],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在驻地内训斥手下，祭拜神龛，被赵青侠突袭杀死。"
+        }
+      ],
+      "evidence": [
+        "恶角一边骂骂咧咧，一边踱步走向一尊香火缭绕的神龛。",
+        "恶角猛然回身，一脚将发问者踹出老远。",
+        "恶角话未说完，一柄微缩长剑已经从他的胸口捅了进去"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "要不",
+      "name": "马王爷",
       "aliases": [],
-      "identity": "",
+      "identity": "黑袍人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第252章打了小的来老的",
-      "summary": "”　　“上一次在莱州府的时候，要不是因为伱手下留情，我们的身份也不至于会被暴露",
-      "appearance": [],
+      "summary": "马王爷与李钧一同出现在驻地大门，似乎是来支援或找麻烦的。",
+      "appearance": [
+        "浑身裹在黑袍之中"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“上一次在莱州府的时候，要不是因为伱手下留情，我们的身份也不至于会被暴露",
-        "”　　“墨翟祖宗在上，保佑我早日成为墨序的从序者，要不然弟子就只能转投兵道了",
-        "“赵青侠，你现在停止反抗，束手就擒还来得及，要不然.”　　“这都不知道，你们的脑子里到底有没有安脑机灵窍啊"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧一同出现在墨舟海运驻地大门外。"
+        }
+      ],
+      "evidence": [
+        "浑身裹在黑袍之中的马王爷拍了拍李钧的肩头。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "耳廓",
+      "name": "李钧",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第252章打了小的来老的",
-      "summary": "”　　耳廓里响起的清冷女声还在继续",
+      "summary": "李钧与马王爷一同出现在驻地大门，被马王爷称为大侄子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　耳廓里响起的清冷女声还在继续",
-        "”　　最后一声冷哼后，耳廓中再无声音响起"
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "叔侄关系"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与马王爷一同出现在墨舟海运驻地大门外。"
+        }
+      ],
+      "evidence": [
+        "浑身裹在黑袍之中的马王爷拍了拍李钧的肩头。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "要不然",
+      "name": "墨恪",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "墨舟海运公司东主（推测）",
+      "faction": "墨舟海运公司",
+      "status": "提及",
       "first_appearance": "第252章打了小的来老的",
-      "summary": "”　　“墨翟祖宗在上，保佑我早日成为墨序的从序者，要不然弟子就只能转投兵道了",
+      "summary": "墨恪被赵青侠提及，似乎是墨舟海运公司的幕后主使，与威海卫、安东卫的公司有联系。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -162,20 +191,19 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　“墨翟祖宗在上，保佑我早日成为墨序的从序者，要不然弟子就只能转投兵道了",
-        "“赵青侠，你现在停止反抗，束手就擒还来得及，要不然.”　　“这都不知道，你们的脑子里到底有没有安脑机灵窍啊",
-        "”　　“你最好不会，要不然别说什么报仇了，咱们都只能摘除脑机灵窍，做两条离网的流浪狗，四处逃命了"
+        "墨恪这个王八蛋到底想干什么？",
+        "一个满编的墨攻小队，外加一个墨七的副主官。墨恪你还真是看得起我啊！"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "咱们",
+      "name": "三井",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第252章打了小的来老的",
-      "summary": "您要是当了东主，咱们兄弟可不是吃香喝辣了",
+      "summary": "被恶角手下提及，赵青侠曾捅过三井一刀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -183,69 +211,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "您要是当了东主，咱们兄弟可不是吃香喝辣了",
-        "“大哥，为啥咱们要祭拜一把剑",
-        "”　　“你最好不会，要不然别说什么报仇了，咱们都只能摘除脑机灵窍，做两条离网的流浪狗，四处逃命了"
+        "怪不得您刚才捅三井的一刀能那么潇洒"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "安东卫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第252章打了小的来老的",
-      "summary": "“威海卫的军火仓库，安东卫的制作工坊，再到灵山卫的海运公司，墨恪这个王八蛋到底想干什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“威海卫的军火仓库，安东卫的制作工坊，再到灵山卫的海运公司，墨恪这个王八蛋到底想干什么",
-        "这家墨舟海运果然和威海卫、安东卫的那两家公司有联系"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "章打",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第252章打了小的来老的",
-      "summary": "第252章打了小的来老的　　“这有什么好寒碜的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第252章打了小的来老的　　“这有什么好寒碜的"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "兼爱",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第252章打了小的来老的",
-      "summary": "兼爱又不包括这些罪民，杀得再多也不会影响仪轨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "兼爱又不包括这些罪民，杀得再多也不会影响仪轨"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

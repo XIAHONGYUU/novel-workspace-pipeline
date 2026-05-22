@@ -1,138 +1,223 @@
 {
   "chunk_id": "chunk-0210",
-  "title": "第208章扬名工具",
   "characters": [
     {
-      "name": "陈乞生",
-      "aliases": [],
-      "identity": "",
+      "name": "李钧",
+      "aliases": [
+        "武七独夫"
+      ],
+      "identity": "武道序列",
       "faction": "",
       "status": "登场",
       "first_appearance": "第208章扬名工具",
-      "summary": "亦或者从一开始，李钧和陈乞生心中都暗藏着一丝杀意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "武道序列强者，与陈乞生切磋，表现出强大的战斗力和冷酷性格。",
+      "appearance": [
+        "赤膊的上身，密密麻麻全是血口"
+      ],
+      "personality": [
+        "冷静",
+        "冷酷",
+        "暴戾"
+      ],
+      "abilities": [
+        "楚乌弹身",
+        "顶心肘",
+        "砸拳"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "切磋对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与陈乞生激烈切磋，最终占据上风。"
+        }
+      ],
       "evidence": [
-        "亦或者从一开始，李钧和陈乞生心中都暗藏着一丝杀意",
-        "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀，在方寸间展开楚乌弹身，几乎在瞬间抢入对手怀中，曲臂成肘，直奔心口",
-        "就在陈乞生百思不得其解的时候，却听见李钧突然开口说道：“先杀西番大昭集团的行走"
+        "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀",
+        "李钧单臂起势，暴戾无比的砸拳，以千钧之势轰然落下！",
+        "李钧陷入沉默，身上杀气蔓延。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "道人",
+        "剑仙"
+      ],
+      "identity": "道七金丹客巅峰",
+      "faction": "青城集团",
+      "status": "登场",
+      "first_appearance": "第208章扬名工具",
+      "summary": "青城集团的道士，金丹客巅峰，与李钧切磋后落败，性格洒脱。",
+      "appearance": [],
+      "personality": [
+        "洒脱",
+        "急躁"
+      ],
+      "abilities": [
+        "五斗拳架",
+        "剑指",
+        "幻术",
+        "飞剑"
+      ],
+      "equipment": [
+        "三寸青锋",
+        "三块雕版玉篆",
+        "飞剑",
+        "四转基因丹药"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "切磋对手"
+        },
+        {
+          "target": "余沧海",
+          "type": "同集团"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧切磋，服用丹药后体力不支落败。"
+        }
+      ],
+      "evidence": [
+        "陈乞生心中明白，自己虽然是道七金丹客巅峰，但强行嗑下那颗全方位刺激肉体能力的四转基因丹药",
+        "陈乞生咧嘴一笑：“不打算动手？”",
+        "我叫陈乞生。这辈子啊，只想求长生。"
       ],
       "mention_count": 25
     },
     {
-      "name": "李钧",
+      "name": "马王爷",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第208章扬名工具",
-      "summary": "亦或者从一开始，李钧和陈乞生心中都暗藏着一丝杀意",
-      "appearance": [],
+      "summary": "兜帽下发出沙哑声音的人物，似乎与李钧敌对。",
+      "appearance": [
+        "兜帽"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "亦或者从一开始，李钧和陈乞生心中都暗藏着一丝杀意",
-        "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀，在方寸间展开楚乌弹身，几乎在瞬间抢入对手怀中，曲臂成肘，直奔心口",
-        "道人却如同早就算到了李钧的进攻，左手以五斗拳架向下抡砸，硬碰李钧的顶心肘"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在门外发声，声称二打一。"
+        }
       ],
-      "mention_count": 17
+      "evidence": [
+        "兜帽下，传出马王爷沙哑的声音。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "陈乞",
+      "name": "余沧海",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "青城集团成员",
+      "faction": "青城集团",
+      "status": "提及",
       "first_appearance": "第208章扬名工具",
-      "summary": "亦或者从一开始，李钧和陈乞生心中都暗藏着一丝杀意",
+      "summary": "李钧提及的青城集团人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "同集团"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "亦或者从一开始，李钧和陈乞生心中都暗藏着一丝杀意",
-        "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀，在方寸间展开楚乌弹身，几乎在瞬间抢入对手怀中，曲臂成肘，直奔心口",
-        "就在陈乞生百思不得其解的时候，却听见李钧突然开口说道：“先杀西番大昭集团的行走"
+        "李钧缓缓合上眼眸，喃喃自语：“青城集团.余沧海.”"
       ],
-      "mention_count": 16
+      "mention_count": 1
     },
     {
-      "name": "道人",
+      "name": "赵鼎",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第208章扬名工具",
-      "summary": "道人却如同早就算到了李钧的进攻，左手以五斗拳架向下抡砸，硬碰李钧的顶心肘",
-      "appearance": [],
+      "summary": "出现在陈乞生幻象中的人物，衰老如朽木。",
+      "appearance": [
+        "衰老如朽木"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "道人却如同早就算到了李钧的进攻，左手以五斗拳架向下抡砸，硬碰李钧的顶心肘",
-        "道人心中悲鸣，不过吐槽归吐槽，他的念头倒还是通达",
-        "道人扣紧飞剑，丹药咬在齿间"
+        "衰老如朽木的赵鼎."
       ],
-      "mention_count": 14
+      "mention_count": 1
     },
     {
-      "name": "李钧侧",
+      "name": "况青云",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第208章扬名工具",
-      "summary": "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀，在方寸间展开楚乌弹身，几乎在瞬间抢入对手怀中，曲臂成肘，直奔心口",
-      "appearance": [],
+      "summary": "出现在陈乞生幻象中的人物，身首异处。",
+      "appearance": [
+        "身首异处"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀，在方寸间展开楚乌弹身，几乎在瞬间抢入对手怀中，曲臂成肘，直奔心口",
-        "”　　李钧侧脸和下颌分别被剑指划出一条狰狞血口，半边脖颈立马被鲜血染红"
+        "身首异处的况青云"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "直奔",
+      "name": "李花",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第208章扬名工具",
-      "summary": "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀，在方寸间展开楚乌弹身，几乎在瞬间抢入对手怀中，曲臂成肘，直奔心口",
-      "appearance": [],
+      "summary": "出现在陈乞生幻象中的人物，墨甲粉碎。",
+      "appearance": [
+        "墨甲粉碎"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
+      "equipment": [
+        "墨甲"
+      ],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "李钧侧头一偏，躲开陈乞生手中三寸青锋的迎面戳杀，在方寸间展开楚乌弹身，几乎在瞬间抢入对手怀中，曲臂成肘，直奔心口"
+        "墨甲粉碎的李花."
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "一击",
+      "name": "赵青侠",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第208章扬名工具",
-      "summary": "一击得手，陈乞生却还是感到阵阵心悸",
+      "summary": "出现在陈乞生幻象中的人物，仓皇逃命。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -140,109 +225,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "一击得手，陈乞生却还是感到阵阵心悸"
+        "仓皇逃命的赵青侠"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "用得",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第208章扬名工具",
-      "summary": "”　　“切磋嘛，用得着下手这么狠吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“切磋嘛，用得着下手这么狠吗"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "口中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第208章扬名工具",
-      "summary": "但真正令道人感到心悸的，却是血口中有不少赫然已经有了愈合的趋势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但真正令道人感到心悸的，却是血口中有不少赫然已经有了愈合的趋势",
-        "陈乞生眼眸紧缩，口中的鲜血随着话语喷出，“服了，这次听你的",
-        "”　　陈乞生口中语调幽幽，“武道序列，有意思啊"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "大门",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第208章扬名工具",
-      "summary": "”　　无声无息间，大门缓缓合拢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　无声无息间，大门缓缓合拢",
-        "紧锁的大门突然打开，从崖外吹拂而来的夜风，刺得他浑身蓦然一颤",
-        "”　　道人走出饭店大门，转身嬉笑回道：“我叫陈乞生"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这些年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第208章扬名工具",
-      "summary": "“不止是你，这些年帝国各省偶尔崛起的武道序列新人，都是如今这个和平年代，佛道两家后起之秀扬名的工具",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“不止是你，这些年帝国各省偶尔崛起的武道序列新人，都是如今这个和平年代，佛道两家后起之秀扬名的工具",
-        "毕竟术业有专攻，武道序列要是没这点抗揍的本钱，这些年也不会时不时跳出来几个余孽"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "紧锁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第208章扬名工具",
-      "summary": "紧锁的大门突然打开，从崖外吹拂而来的夜风，刺得他浑身蓦然一颤",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "紧锁的大门突然打开，从崖外吹拂而来的夜风，刺得他浑身蓦然一颤"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

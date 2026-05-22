@@ -1,204 +1,417 @@
 {
   "chunk_id": "chunk-0714",
-  "title": "第711章谁敢冒充宿命，谁还敢再来纠缠",
   "characters": [
     {
       "name": "朱彝焰",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "”　　朱彝焰死死盯着那道与枯树近乎融为一体的身影，面容中刻满彻骨的恨意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　朱彝焰死死盯着那道与枯树近乎融为一体的身影，面容中刻满彻骨的恨意",
-        "”　　朱彝焰毫不犹豫道：“从一开始，你就很清楚断绝序列根本不可能实现",
-        "”　　朱彝焰讥讽道：“可是你又十分需要朕，你需要春秋会、鸿鹄、六韬来帮你完成你的目标"
+      "aliases": [
+        "小皇帝",
+        "嘉启皇帝",
+        "朕"
       ],
-      "mention_count": 11
+      "identity": "大明皇帝",
+      "faction": "皇室",
+      "status": "登场",
+      "first_appearance": "第711章",
+      "summary": "大明嘉启皇帝，与张峰岳对峙，试图打破其制衡布局。",
+      "appearance": [],
+      "personality": [
+        "自信",
+        "恨意",
+        "兴奋"
+      ],
+      "abilities": [
+        "纵横序",
+        "位业"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "师徒/君臣"
+        },
+        {
+          "target": "詹舜",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金陵围城",
+          "event": "与张峰岳对峙，揭露其阴谋，重塑皇室位业晋升二万疆君主。"
+        }
+      ],
+      "evidence": [
+        "朱彝焰死死盯着那道与枯树近乎融为一体的身影，面容中刻满彻骨的恨意。",
+        "朱彝焰昂首望向夜空，冷风吹送而来的血腥味依旧浓重，但并不妨碍他感觉此刻格外神清气爽。",
+        "朱彝焰微笑道：如此一来黄梁的神权，李钧的人权，再加上朕的皇权，便能形成三足鼎立之势。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "邹四九",
-      "aliases": [],
-      "identity": "",
+      "name": "张峰岳",
+      "aliases": [
+        "恩师",
+        "张峰岳"
+      ],
+      "identity": "朱彝焰的恩师，春秋会、鸿鹄、六韬的幕后策划者",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "第711章",
+      "summary": "朱彝焰的恩师，策划制衡局势，牺牲自己让朱彝焰晋升。",
+      "appearance": [
+        "与枯树近乎融为一体的身影",
+        "椅中枯槁的老人"
+      ],
+      "personality": [
+        "平淡",
+        "冷漠",
+        "算计"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "朱彝焰",
+          "type": "师徒/君臣"
+        },
+        {
+          "target": "詹舜",
+          "type": "布局对象"
+        },
+        {
+          "target": "李钧",
+          "type": "布局对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金陵围城",
+          "event": "被朱彝焰质问，沉默以对。"
+        }
+      ],
       "evidence": [
-        "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
-        "“解开四成束缚之后黄梁到底有多强大，邹四九，现在你应该明白了",
-        "”　　詹舜脚踏虚空，居高临下俯瞰着从地面深坑之中缓缓站起的邹四九"
+        "张峰岳的声音方才缓缓响起。",
+        "树下之人没有任何回应，似被洞悉了内心所有的秘密，再无力反驳，只能沉默以对。",
+        "张峰岳目光平静：既然你自认为已经洞悉了所有一切，那为何还要来这里？"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "道人",
+        "道爷"
+      ],
+      "identity": "龙虎山调制道童出身，道序主角",
+      "faction": "道门",
+      "status": "登场",
+      "first_appearance": "第711章",
+      "summary": "龙虎山出身，与张希极战斗，反抗宿命。",
+      "appearance": [
+        "银白甲胄上遍布伤痕"
+      ],
+      "personality": [
+        "坚定",
+        "反抗"
+      ],
+      "abilities": [
+        "道序",
+        "法相"
+      ],
+      "equipment": [
+        "湛蓝巨剑"
+      ],
+      "relationships": [
+        {
+          "target": "张希极",
+          "type": "敌对"
+        },
+        {
+          "target": "施卿",
+          "type": "对话对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "暴雪天地",
+          "event": "与张希极战斗，被施卿蛊惑，反击。"
+        }
+      ],
+      "evidence": [
+        "陈乞生抖肩震碎满身的篆法雷火，银白的甲胄上赫然已经遍布累累伤痕。",
+        "道人终于开口，话音平淡没有半分起伏。",
+        "屠光你们的人，再杀光你们的魂，道爷我倒要看看，谁还敢冒充宿命，谁还敢再来纠缠！"
       ],
       "mention_count": 10
     },
     {
-      "name": "朱彝",
+      "name": "张希极",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龙虎山人物，从地府重回人间",
+      "faction": "龙虎山",
       "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "”　　朱彝焰死死盯着那道与枯树近乎融为一体的身影，面容中刻满彻骨的恨意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　朱彝焰死死盯着那道与枯树近乎融为一体的身影，面容中刻满彻骨的恨意",
-        "”　　朱彝焰毫不犹豫道：“从一开始，你就很清楚断绝序列根本不可能实现",
-        "”　　朱彝焰讥讽道：“可是你又十分需要朕，你需要春秋会、鸿鹄、六韬来帮你完成你的目标"
+      "first_appearance": "第711章",
+      "summary": "从地府归来，与陈乞生战斗，状若疯魔。",
+      "appearance": [
+        "脑后白发舞动",
+        "黑色占据了整双眼睛"
       ],
-      "mention_count": 9
+      "personality": [
+        "疯魔",
+        "戾气"
+      ],
+      "abilities": [
+        "神念",
+        "星光",
+        "雷法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "暴雪天地",
+          "event": "与陈乞生战斗，召唤雷光。"
+        }
+      ],
+      "evidence": [
+        "从地府重回人间的张希极口中自言自语，瘆人的黑色占据了整双眼睛，五官中的戾气越发炽烈。",
+        "高天之上，张希极状若疯魔，身后星光闪烁不停，雷落如雨。",
+        "陈乞生，你戮我龙虎，今时今日，要你血债血偿！"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "张峰岳",
+      "name": "施卿",
       "aliases": [],
-      "identity": "",
+      "identity": "蛊惑陈乞生的人",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "张峰岳你告诉朕，朕可有一个字说错，又还有什么不懂",
+      "first_appearance": "第711章",
+      "summary": "在陈乞生耳边喋喋不休，试图蛊惑他放下执念。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "蛊惑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张峰岳你告诉朕，朕可有一个字说错，又还有什么不懂",
-        "”　　wWWoTTKΛNo￠o　　良久之后，张峰岳的声音方才缓缓响起",
-        "为了那群蝼蚁，张峰岳你真是苦心孤诣啊"
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "对话对象"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "暴雪天地",
+          "event": "蛊惑陈乞生放下执念。"
+        }
+      ],
+      "evidence": [
+        "施卿的话音在耳边喋喋不休，蛊惑着陈乞生。",
+        "施卿话音带笑：你心里都懂，何必明知故问？"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "陈乞生",
-      "aliases": [],
-      "identity": "",
+      "name": "邹四九",
+      "aliases": [
+        "老子"
+      ],
+      "identity": "阴阳序三梦主",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
-        "半空之中，陈乞生抖肩震碎满身的篆法雷火，银白的甲胄上赫然已经遍布累累伤痕",
-        "刹那间，剧烈的痛楚充斥脑海，陈乞生眼前顿时有一片幻象横生而出"
+      "first_appearance": "第711章",
+      "summary": "与詹舜战斗，拒绝投降，宁死不屈。",
+      "appearance": [
+        "赤红身影",
+        "黑发背头，解袖揉肩"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "邹四",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
-        "“解开四成束缚之后黄梁到底有多强大，邹四九，现在你应该明白了",
-        "”　　詹舜脚踏虚空，居高临下俯瞰着从地面深坑之中缓缓站起的邹四九"
+      "personality": [
+        "凶悍",
+        "不屈"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "你想",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "可是你在之后做的每一件事，却都在告诉朕，你想走的分明是一条截然相反的道路，你说所的一切都不过只是随口编织的谎言",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是你在之后做的每一件事，却都在告诉朕，你想走的分明是一条截然相反的道路，你说所的一切都不过只是随口编织的谎言",
-        "唯有如此，你想要的这场人人入序的伟业，才有可能继续进行下去",
-        "”　　“张峰岳，你想要的制衡，不过痴心妄想，朕根本就不会让它出现"
+      "abilities": [
+        "阴阳序",
+        "梦境能力"
       ],
-      "mention_count": 6
+      "equipment": [
+        "甲胄"
+      ],
+      "relationships": [
+        {
+          "target": "詹舜",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "成都府",
+          "event": "与詹舜战斗，被击倒后拒绝投降。"
+        }
+      ],
+      "evidence": [
+        "邹四九口中苦笑一声，低头看了眼胸口处的甲胄，那里被詹舜一拳打的粉碎。",
+        "邹四九双手抹过鬓角，一头赤红如火披肩长发徐徐蜕成黑色。",
+        "老子生平最讨厌的事情就是锦衣夜行，今天老子如果不能宰了你个王八蛋扬名立万，那干脆就死在这里，一拍两散！"
+      ],
+      "mention_count": 10
     },
     {
       "name": "詹舜",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "黄梁意志的化身",
+      "faction": "黄梁",
       "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "“你不相信朕，也不相信李钧，更不可能相信詹舜，你愿意相信的，只有两个字，制衡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你不相信朕，也不相信李钧，更不可能相信詹舜，你愿意相信的，只有两个字，制衡",
-        "”　　朱彝焰神色自信，话音笃定道：“詹舜是黄梁意志的化身，无数梦境滋生的恶欲让它变得偏执、疯狂、贪婪，你知道它迟早会不满足于只存在于虚假之中，终有一天会将手伸向朕统治的现世",
-        "所以詹舜与朕之间，有不可避免的位业之争，迟早会是不死不休的仇敌"
+      "first_appearance": "第711章",
+      "summary": "黄梁意志的化身，与邹四九战斗，试图收服他。",
+      "appearance": [
+        "脚踏虚空"
       ],
-      "mention_count": 6
+      "personality": [
+        "威严",
+        "不容置疑"
+      ],
+      "abilities": [
+        "黄梁梦境",
+        "四成束缚"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "敌对"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "成都府",
+          "event": "与邹四九战斗，劝降。"
+        }
+      ],
+      "evidence": [
+        "詹舜脚踏虚空，居高临下俯瞰着从地面深坑之中缓缓站起的邹四九。",
+        "詹舜语气中带着不容置疑的威严。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "你想要",
+      "name": "范无咎",
+      "aliases": [],
+      "identity": "锦衣卫或类似身份",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第711章",
+      "summary": "在成都府与黄梁鬼战斗，浑身浴血。",
+      "appearance": [
+        "浑身浴血",
+        "卷刃的绣春刀",
+        "械骨"
+      ],
+      "personality": [
+        "麻木"
+      ],
+      "abilities": [
+        "械心"
+      ],
+      "equipment": [
+        "绣春刀",
+        "枪"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "成都府",
+          "event": "与黄梁鬼战斗，心神麻木。"
+        }
+      ],
+      "evidence": [
+        "范无咎浑身浴血，卷刃的绣春刀钉在一具尸体的胸口，滚烫的枪口盯在一头黄梁鬼的面门前，毫不犹豫轰出最后一颗子弹。",
+        "永无休止的杀戮已经让他的心神变得麻木，脑海中一片空白，依靠本能不断出拳。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "袁明妃",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "唯有如此，你想要的这场人人入序的伟业，才有可能继续进行下去",
+      "status": "提及",
+      "first_appearance": "第711章",
+      "summary": "被黄梁幽海限制，无法帮助邹四九。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "唯有如此，你想要的这场人人入序的伟业，才有可能继续进行下去",
-        "”　　“张峰岳，你想要的制衡，不过痴心妄想，朕根本就不会让它出现",
-        "“梦境无边无际，你想要的一切都能在梦境之中实现，甚至当黄梁彻底吞噬现世之后，言出法随也不过唾手可得"
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "成都府",
+          "event": "被黄梁幽海限制。"
+        }
+      ],
+      "evidence": [
+        "袁明妃此时也被黄梁幽海死死限制，虽然没有性命之忧，但也无法出手帮助邹四九。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "陈乞",
+      "name": "李钧",
+      "aliases": [],
+      "identity": "亿万蝼蚁的代表",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第711章",
+      "summary": "被朱彝焰提及，作为制衡的一极。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        },
+        {
+          "target": "张峰岳",
+          "type": "布局对象"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "李钧是亿万蝼蚁的代表，就算他自己不愿，但这世间有太多他舍弃不了的人和事，已经形成枷锁将他困死。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张嗣源",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
+      "status": "提及",
+      "first_appearance": "第711章",
+      "summary": "被朱彝焰提及，作为可能的后手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -206,52 +419,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　朱彝焰理所当然道：“不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬，无人能够幸免",
-        "半空之中，陈乞生抖肩震碎满身的篆法雷火，银白的甲胄上赫然已经遍布累累伤痕",
-        "刹那间，剧烈的痛楚充斥脑海，陈乞生眼前顿时有一片幻象横生而出"
+        "不止是詹舜和李钧，还有张嗣源、陈乞生、邹四九，天阙、赤社、墨院，所有与你有关，可能成为你后手的人或者势力，在今天之后都将是我朱家的忠犬。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "你心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "”　　施卿话音带笑：“你心里都懂，何必明知故问",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　施卿话音带笑：“你心里都懂，何必明知故问",
-        "你心里都懂，又何必明知故问"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "张峰",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第711章谁敢冒充宿命，谁还敢再来纠缠",
-      "summary": "张峰岳你告诉朕，朕可有一个字说错，又还有什么不懂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张峰岳你告诉朕，朕可有一个字说错，又还有什么不懂",
-        "”　　wWWoTTKΛNo￠o　　良久之后，张峰岳的声音方才缓缓响起",
-        "为了那群蝼蚁，张峰岳你真是苦心孤诣啊"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

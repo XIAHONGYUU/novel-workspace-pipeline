@@ -1,258 +1,570 @@
 {
   "chunk_id": "chunk-0025",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "除了已经离开的胥民李教习外，三个教习，赵、王、黄都是精神一振，连忙安排人去寻了去，寇立又让他们把其他的学徒聚集起来，便往后院走去，出乎意料的是，向来胆小木讷的虾头也跟了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "除了已经离开的胥民李教习外，三个教习，赵、王、黄都是精神一振，连忙安排人去寻了去，寇立又让他们把其他的学徒聚集起来，便往后院走去，出乎意料的是，向来胆小木讷的虾头也跟了过来",
-        "”寇立皱眉",
-        "”正文 第九十章 两条路    寇立推开了房门，却见郑小宝正坐在床上，正面色平静的看着自己，片刻过后，眼中才露出一丝亲近之色，轻声道：“寇哥哥，你来了"
+      "aliases": [
+        "八师兄",
+        "寇师兄"
       ],
-      "mention_count": 75
+      "identity": "烧身武馆弟子，林显师徒弟",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "烧身武馆的核心弟子，拳术高强，冷静果断，带领武馆剩余人员突围。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "贯气法",
+        "龙形虎化",
+        "爆炸劲",
+        "拔刀斩",
+        "竹节劲",
+        "棉掌"
+      ],
+      "equipment": [
+        "倭奴国宝刀（童子切鱼纲）"
+      ],
+      "relationships": [
+        {
+          "target": "郑小宝",
+          "type": "师兄师弟"
+        },
+        {
+          "target": "江伢子",
+          "type": "同门"
+        },
+        {
+          "target": "林显师",
+          "type": "师徒"
+        },
+        {
+          "target": "翟关",
+          "type": "同门（后敌对）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "决定带领武馆剩余人员突围，并独自去毁掉铁炮。"
+        }
+      ],
+      "evidence": [
+        "寇立摇了摇头，突然明白这种熟悉感从哪里来的了，那串琥珀念珠的气息，跟对方的气息一模一样。",
+        "寇立冷哼一声，也不见动作，两人便以更快的速度弹了回去，重重砸在地面上。",
+        "寇立能完成刀斩炮这种夸张到难以想象的事，一来是因为斩炮不同于拳师间的生死搏杀，可以让他有足够时间酝酿和爆发极限刀势。"
+      ],
+      "mention_count": 45
+    },
+    {
+      "name": "郑小宝",
+      "aliases": [
+        "郑宝儿",
+        "小师兄",
+        "小师弟"
+      ],
+      "identity": "烧身武馆弟子，林显师徒弟",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "烧身武馆的小弟子，被心空和尚选中，有宿缘未了。",
+      "appearance": [
+        "瘦的有些病态的蜡黄"
+      ],
+      "personality": [
+        "少年老成",
+        "通透"
+      ],
+      "abilities": [],
+      "equipment": [
+        "琥珀念珠"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄师弟"
+        },
+        {
+          "target": "心空",
+          "type": "师徒（梦中）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "告知寇立自己师父心空要来接他，并将琥珀念珠赠予寇立。"
+        }
+      ],
+      "evidence": [
+        "小师兄不仅不练拳，这些天连饭都不怎么吃了。",
+        "寇哥哥，我师父要来接我了。",
+        "师父说，那串琥珀念珠已经赠与宝儿，便是宝儿的了，现在宝儿把它给寇哥哥你。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "江伢子",
+      "aliases": [
+        "野猴子"
+      ],
+      "identity": "烧身武馆弟子，猴拳传人",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "烧身武馆唯一的猴拳传人，身法灵活，好斗。",
+      "appearance": [],
+      "personality": [
+        "好斗",
+        "兴奋",
+        "无所畏惧"
+      ],
+      "abilities": [
+        "猴形大成",
+        "猴拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "负责带领武馆学徒突围，并击退官兵。"
+        }
+      ],
+      "evidence": [
+        "江伢子就像是个山中野猴子似的，手脚齐用，连蹦带跳的扑了过去。",
+        "烧身武馆唯一的猴拳传人，野猴子，江伢子！"
+      ],
+      "mention_count": 8
     },
     {
       "name": "翟关",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “回曹将军的话，反贼叛逆，人人得而诛之，”翟关嘴角抽了抽，满脸阴沉的道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “回曹将军的话，反贼叛逆，人人得而诛之，”翟关嘴角抽了抽，满脸阴沉的道",
-        "”    翟关二话不说，提起背后的关刀，向着不远处逃窜的几个武馆学徒跑去，其中一个面色惊恐，刚刚回头，便见一尊铁甲大汉冲过来，目光一惊一喜，失声道：“翟师兄",
-        "”    “五师兄快救救我们——”    可惜人留情，刀不留情，所过之处，残肢断臂一片，翟关变成了一个无声的杀戮者"
+      "aliases": [
+        "五师兄",
+        "翟都头",
+        "翟师兄"
       ],
-      "mention_count": 16
+      "identity": "原烧身武馆弟子，现为朝廷都头",
+      "faction": "朝廷",
+      "status": "登场",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "原烧身武馆老五，后投靠朝廷，带路围剿武馆。",
+      "appearance": [
+        "铁甲红脸大汉"
+      ],
+      "personality": [
+        "阴沉",
+        "无情"
+      ],
+      "abilities": [
+        "大挂刀术",
+        "点星枪",
+        "百战诀",
+        "关刀抖劲"
+      ],
+      "equipment": [
+        "大关刀"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门（后敌对）"
+        },
+        {
+          "target": "林显师",
+          "type": "师徒（背叛）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "带领官兵围剿武馆，与寇立交手。"
+        }
+      ],
+      "evidence": [
+        "原来是翟师兄，看来还是官袍适合你。",
+        "翟关二话不说，提起背后的关刀，向着不远处逃窜的几个武馆学徒跑去。",
+        "翟关震脚弓步下扎刀，连退了三步。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "除了已经离开的胥民李教习外，三个教习，赵、王、黄都是精神一振，连忙安排人去寻了去，寇立又让他们把其他的学徒聚集起来，便往后院走去，出乎意料的是，向来胆小木讷的虾头也跟了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "除了已经离开的胥民李教习外，三个教习，赵、王、黄都是精神一振，连忙安排人去寻了去，寇立又让他们把其他的学徒聚集起来，便往后院走去，出乎意料的是，向来胆小木讷的虾头也跟了过来",
-        "寇立刚回到武场，两个武馆学徒就慌张的奔了过来，道：“不好了，不好，寇师兄，他们——”    话语未落，眼中狠意一闪，两口短刀便从对方手中拔出，分别刺向寇立与郑小宝",
-        "“让他们自己解释吧，也省的我浪费口舌"
+      "name": "曹英",
+      "aliases": [
+        "曹将军",
+        "曹副将",
+        "姓曹的"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "兵部侍郎之子，参将",
+      "faction": "朝廷",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “已经不重要了，寇哥哥，我还有宿缘未了，迟早是要做过这一场的",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "兵部侍郎之子，领兵围剿烧身武馆，后被寇立俘虏。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “已经不重要了，寇哥哥，我还有宿缘未了，迟早是要做过这一场的",
-        "”寇立大喝道，冷眼扫了一圈，“你们还不懂吗，现在的情况是，整个粤地的拳家、拳馆都是在针对我们，他们背后的金主、势力联合在一起，这是一间普通武馆能抵抗的吗，林师傅为什么到现在没回来，还有三位师兄也是，动动脑子就知道，已经有人开始对付他们了，你",
-        "”    “还有一个选择，跟着我杀出去，我带你们趟出一条活路，但你们要清楚，我、郑小宝、江伢子都是林师傅对外承认的弟子，树大招风，敌人必定对我们追杀不休，这条路必然九死一生，而且这一走，要么客死他乡，要么富贵还乡，但无论如何，这一走，就回不"
+      "personality": [
+        "草包",
+        "胆小",
+        "嚣张"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "好似",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "一声爆响忽然从耳边炸开，而将听力开到最大的寇立第一时间捂住了耳朵，顿时头晕眼花，好似有几十口响锣在耳边敲打一般",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一声爆响忽然从耳边炸开，而将听力开到最大的寇立第一时间捂住了耳朵，顿时头晕眼花，好似有几十口响锣在耳边敲打一般",
-        "同一时间，一行人十丈开外，地面烂泥忽然如浪头般掀起，脚下震动好似地震一般，一颗脑袋大的铁球从地面上弹起，接连撞断了三颗树，才止住了冲势",
-        "”    两个官兵还没反应过来，身上就好似爬上了什么东西，头皮一痛，两眼一黑，好似有两跟爪子扣在了眼珠子上，‘扑哧’一下，一对招子直接被抠了下来"
+      "relationships": [
+        {
+          "target": "翟关",
+          "type": "上下级"
+        },
+        {
+          "target": "寇立",
+          "type": "敌对（被俘）"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "胡运",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”胡运苦笑道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”胡运苦笑道",
-        "”    胡运摇头，这个洪继官是洪大帅的侍卫营出身，平素最是嫉恶如仇，而且洪家军也是出了名的爱民如子，当然看不惯这背后的龌龊事",
-        "炮声不断的响起，震的地面‘沙沙’作响，胡运忍不住叹道：“不愧是兵部出身，到底有门路，围剿一群平民，居然调来三口铁炮，也不知此战过后，到底要死上多少人"
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "被寇立活捉，后遭药师奴攻击。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“你们想要干什么，刺杀谁啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“你们想要干什么，刺杀谁啊",
-        "”    “对啊，这里可是观潮，我们发动乡亲们，有多少来多少，就堵着——”    “官府派人来，你们也堵着",
-        "”寇立大喝道，冷眼扫了一圈，“你们还不懂吗，现在的情况是，整个粤地的拳家、拳馆都是在针对我们，他们背后的金主、势力联合在一起，这是一间普通武馆能抵抗的吗，林师傅为什么到现在没回来，还有三位师兄也是，动动脑子就知道，已经有人开始对付他们了，你"
+        "曹英惊恐的尖叫道，他是他老子派来镀金的，不是来送死的。",
+        "这姓曹的果然是个草包，寇立稍一威胁便就现出原形。"
       ],
       "mention_count": 8
     },
     {
-      "name": "就算",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“就算敌人背景再强，没有真正的名头，也不可能公器私用，调动官兵去围剿一家武馆，而什么名头才能调动这么多官兵",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“就算敌人背景再强，没有真正的名头，也不可能公器私用，调动官兵去围剿一家武馆，而什么名头才能调动这么多官兵",
-        "就算有少数几个拳脚好的，在这铁甲刀枪的围攻下，也撑不了几个回合",
-        "“林师傅说过，他的心要是定下来，就是下一个莫师兄，”赵教习顿了顿，“就算不定下来，他也是猴形大成的打家"
+      "name": "药师奴",
+      "aliases": [
+        "卷毛男"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "身子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "朝廷副将，原阿达耳古少族长",
+      "faction": "朝廷",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "其他官兵大惊，手上长刀连忙围上去，谁知对方缩头弓腰，一下子藏到了背部，身子全被挡住，刀枪打不了自己人，那身上的官兵惨叫乱窜，一下子冲入人群中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其他官兵大惊，手上长刀连忙围上去，谁知对方缩头弓腰，一下子藏到了背部，身子全被挡住，刀枪打不了自己人，那身上的官兵惨叫乱窜，一下子冲入人群中",
-        "往往一息之间，两步一踏，身子便能弹出五六丈，人家讲名家打拳是‘蓄劲如开弓，发劲如发箭，’但他感觉自己身法也达到了这个地步，眼睛余光甚至能隐约捕捉箭的速度",
-        "可是由于他之前的迟疑，已经晚了，对方那么凶恶的气势，居然深谙狡诈之道，四肢一缩，金蝉脱壳，身子仿佛一下钻入曹英身子中，同时手臂从腋下弹出，双掌一合，五指与五指对抠，掌心铁青一片，按压下去，硬是闪过刀锋，像铁毡子般挤压刀身"
+      "first_appearance": "正文 第九十二章 山头",
+      "summary": "朝廷副将，有西域或夷人血统，心狠手辣。",
+      "appearance": [
+        "碧眼钩鼻、满头卷毛"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "的一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立一步踏出，脚面整个踏入泥地中，方圆五丈，地面‘轰’的一震，好似巨人之脚，重踏行下来，打炮的三个官兵直接被震翻在地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立一步踏出，脚面整个踏入泥地中，方圆五丈，地面‘轰’的一震，好似巨人之脚，重踏行下来，打炮的三个官兵直接被震翻在地",
-        "‘咚’的一声大响，这一锤，是真真实实的砸在这曹英的胸口，‘哇’的一口血喷出，拳劲之大，就连寇立都是身形一震",
-        "背后之人无奈之下，只得逆转气血，脚掌猛扣地面，硬抗住对方的身子，以及那身上的那股凶猛至极的重刀抖劲，‘哇’的一声，吐出了口鲜血"
+      "personality": [
+        "狠辣",
+        "狡诈"
       ],
-      "mention_count": 8
+      "abilities": [
+        "兵道杀拳",
+        "塞外摔打功夫"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹英",
+          "type": "同僚（敌对）"
+        },
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "攻击曹英和寇立，与寇立交手。"
+        }
+      ],
+      "evidence": [
+        "药师奴狞笑一声，紧肩提胸，就像是人形的怪兽。",
+        "药师奴的塞外摔打功夫扑上。"
+      ],
+      "mention_count": 5
     },
     {
       "name": "洪继官",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“曹英这么积极，又跑到前线去了，不愧是兵部侍郎的儿子，就是比我们这些泥腿子有觉悟，”洪继官毫不掩饰的讽刺，他是洪家军出身，背靠的是当今太子少保洪大帅，一个兵部侍郎还欺负不到他头上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“曹英这么积极，又跑到前线去了，不愧是兵部侍郎的儿子，就是比我们这些泥腿子有觉悟，”洪继官毫不掩饰的讽刺，他是洪家军出身，背靠的是当今太子少保洪大帅，一个兵部侍郎还欺负不到他头上",
-        "“嘿嘿，”洪继官冷笑数声：“如今看到南边富的流油，倒是谁都想来插上一脚，一直听说北边的兔崽子喜欢杀良冒功，这次我算是见识到了，第一把火就烧出了个反贼来，烧身武馆的好名声在粤地谁不知道，反贼反了十几年都没反，他们一来就反了",
-        "”    胡运摇头，这个洪继官是洪大帅的侍卫营出身，平素最是嫉恶如仇，而且洪家军也是出了名的爱民如子，当然看不惯这背后的龌龊事"
+      "aliases": [
+        "洪将军"
       ],
-      "mention_count": 8
+      "identity": "洪家军出身，文登营副将",
+      "faction": "朝廷",
+      "status": "登场",
+      "first_appearance": "正文 第九十二章 山头",
+      "summary": "洪家军副将，同情烧身武馆但执行军令。",
+      "appearance": [],
+      "personality": [
+        "嫉恶如仇",
+        "直率"
+      ],
+      "abilities": [
+        "洪家拳",
+        "家传刀术",
+        "跳步转身望月式平斩刀"
+      ],
+      "equipment": [
+        "大刀"
+      ],
+      "relationships": [
+        {
+          "target": "胡运",
+          "type": "好友"
+        },
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "骑马冲来与寇立交手，被寇立掀翻。"
+        }
+      ],
+      "evidence": [
+        "洪继官人马合一，人借马势，抡劈下来的凶狠一刀。",
+        "洪继官被砸的肋骨鼻骨断裂。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "同时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "胡运",
+      "aliases": [
+        "胡将军"
+      ],
+      "identity": "水师参将",
+      "faction": "朝廷",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "惨叫声、喊冤声，几乎同时响起，但杀戮仍在在继续，青年武官转过头，戏谑的道：“翟都头，看见昔日同门被杀，还是自己带的路，不知是什么感受",
+      "first_appearance": "正文 第九十二章 山头",
+      "summary": "水师参将，本地人，与洪继官交好。",
+      "appearance": [],
+      "personality": [
+        "老成持重"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "洪继官",
+          "type": "好友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "与洪继官讨论战况。"
+        }
+      ],
+      "evidence": [
+        "胡运老成持重，刚想问些什么。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "阴鸠武官",
+      "aliases": [],
+      "identity": "朝廷武官",
+      "faction": "朝廷",
+      "status": "登场",
+      "first_appearance": "正文 第九十三章 血战八方",
+      "summary": "练成火药劲的朝廷武官，与寇立交手。",
+      "appearance": [
+        "面色阴鸠"
+      ],
+      "personality": [],
+      "abilities": [
+        "火药劲",
+        "炼肉大成拳术",
+        "炼皮掌法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "与寇立交手，被炮管逼退。"
+        }
+      ],
+      "evidence": [
+        "对方居然练成了独门拳劲火药劲。",
+        "那之前偷袭的武官率先扑来，拧步砸拳。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "姜水源",
+      "aliases": [],
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "烧身武馆学徒，油嘴滑舌但留了下来。",
+      "appearance": [],
+      "personality": [
+        "顺风使舵",
+        "油嘴滑舌",
+        "有小聪明"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "选择留下跟随寇立。"
+        }
+      ],
+      "evidence": [
+        "姜水源磨蹭了半天，居然留了下来。",
+        "寇师兄，你跟我说实话，走的那些人，有几个是能活下来的？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "虾头",
+      "aliases": [],
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "烧身武馆学徒，胆小木讷。",
+      "appearance": [],
+      "personality": [
+        "胆小",
+        "木讷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄弟"
+        },
+        {
+          "target": "郑小宝",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "向寇立报告郑小宝的情况。"
+        }
+      ],
+      "evidence": [
+        "向来胆小木讷的虾头也跟了过来。",
+        "小师兄不仅不练拳，这些天连饭都不怎么吃了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "赵教习",
+      "aliases": [],
+      "identity": "烧身武馆教习",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "烧身武馆教习之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "惨叫声、喊冤声，几乎同时响起，但杀戮仍在在继续，青年武官转过头，戏谑的道：“翟都头，看见昔日同门被杀，还是自己带的路，不知是什么感受",
-        "”    猴子的身法最是灵活，因为它的行径之间，是手、肩、臂、臀、大腿、膝盖同时用力，腰步一弓一闪，官兵们眼一花，就冲到了跟前",
-        "”    踏到第三步，寇立小臂的两条大筋直接鼓了出来，体内同时响起五声怪响"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "询问寇立对策，并带领学徒突围。"
+        }
+      ],
+      "evidence": [
+        "赵教习连忙问。",
+        "赵教习顿了顿。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林显师",
+      "aliases": [
+        "林师傅"
+      ],
+      "identity": "烧身武馆馆主",
+      "faction": "烧身武馆",
+      "status": "提及",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "烧身武馆馆主，被指为罗汉寺余孽，下落不明。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师徒"
+        },
+        {
+          "target": "郑小宝",
+          "type": "师徒"
+        },
+        {
+          "target": "翟关",
+          "type": "师徒（背叛）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "未归，武馆被围剿。"
+        }
+      ],
+      "evidence": [
+        "林师傅到现在没回来。",
+        "烧身馆馆主林显师，罗汉寺余孽。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "心空",
+      "aliases": [],
+      "identity": "和尚，郑小宝的梦中师父",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "正文 第九十章 两条路",
+      "summary": "郑小宝在梦中见到的和尚，法号心空。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "郑小宝",
+          "type": "师徒（梦中）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "武馆危机",
+          "event": "在梦中告知郑小宝要来接他。"
+        }
+      ],
+      "evidence": [
+        "师父的法号唤作心空，我在梦中已经见了他好几次了。"
+      ],
+      "mention_count": 2
     }
   ]
 }

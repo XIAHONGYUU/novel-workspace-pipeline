@@ -1,258 +1,436 @@
 {
   "chunk_id": "chunk-0548",
-  "title": "第546章游击广信府",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "李兄"
+      ],
+      "identity": "武序薪主，独行武序",
+      "faction": "武序",
       "status": "登场",
       "first_appearance": "第546章游击广信府",
-      "summary": "李钧如今展现出的强横实力，让阳龙心惊之余，不敢不矮身示好",
+      "summary": "武序薪主，实力强横，为陈乞生出头，与龙虎山对抗。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧如今展现出的强横实力，让阳龙心惊之余，不敢不矮身示好",
-        "可等他在说到龙虎九部主官的时候，突然李钧打断",
-        "”　　听到这个回答，李钧不由皱了皱眉头"
+      "personality": [
+        "强势",
+        "果断",
+        "重情义"
       ],
-      "mention_count": 50
+      "abilities": [
+        "武四薪主",
+        "墨甲"
+      ],
+      "equipment": [
+        "墨甲",
+        "械手"
+      ],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "朋友/同门"
+        },
+        {
+          "target": "阳龙",
+          "type": "对话对象"
+        },
+        {
+          "target": "张崇源",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在广信府与阳龙对话，与张崇源投影对峙，决定攻打龙虎山。"
+        }
+      ],
+      "evidence": [
+        "李钧如今展现出的强横实力，让阳龙心惊之余，不敢不矮身示好。",
+        "李钧冷笑道：“他们不是骂我们是匪吗？今天我们就让这些高高在上的道爷们也尝尝辽东卢宁吃过的苦头。”",
+        "李钧指间夹着一根纸烟，右手一震，翻涌的火焰缠上剑身，以剑点烟。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "阳龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "赵道长",
+        "阳龙"
+      ],
+      "identity": "龙虎山外姓弟子，新派道序",
+      "faction": "龙虎山",
       "status": "登场",
       "first_appearance": "第546章游击广信府",
-      "summary": "”　　从阎君到李大人，再到此刻的李兄，接连的称谓变换足以看出阳龙内心深处远不像明面上那样平静",
+      "summary": "龙虎山外姓弟子，受篆新派道序，对龙虎山内部情况了解，最终被天雷击杀。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　从阎君到李大人，再到此刻的李兄，接连的称谓变换足以看出阳龙内心深处远不像明面上那样平静",
-        "李钧如今展现出的强横实力，让阳龙心惊之余，不敢不矮身示好",
-        "”　　阳龙咽了口唾沫，按捺住心头的焦躁，从龙虎山天师府娓娓道来，依次说出了如今三名大天师的名讳"
+      "personality": [
+        "谨慎",
+        "圆滑",
+        "不甘"
       ],
-      "mention_count": 28
+      "abilities": [
+        "新派道序"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对话对象"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同门"
+        },
+        {
+          "target": "张崇源",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧对话，透露龙虎山内幕，被天雷击杀。"
+        }
+      ],
+      "evidence": [
+        "阳龙叹了口气，“是天师府，他犯的是众怒。”",
+        "阳龙眼中神光快速黯淡，苍白的死寂从四面涌向漆黑的瞳仁。",
+        "轰隆！一道雷光伴随震耳欲聋的轰鸣直贯而下，正正轰在府衙的殿顶之上。"
+      ],
+      "mention_count": 15
     },
     {
       "name": "张崇源",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第546章游击广信府",
-      "summary": "剩下两名大天师张崇源和张崇诚彼此敌视，明争暗斗不断",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "剩下两名大天师张崇源和张崇诚彼此敌视，明争暗斗不断",
-        "“龙虎山，张崇源",
-        "李钧咧嘴一笑，朝着张崇源挑了挑下巴，“怎么真身不来"
+      "aliases": [
+        "张崇源",
+        "大天师"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "张崇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "龙虎山大天师",
+      "faction": "龙虎山",
+      "status": "登场（投影）",
       "first_appearance": "第546章游击广信府",
-      "summary": "”　　阳龙直接忽略了李钧的质问，自顾自语速极快说道：“现在当代‘张天师’张崇炼正在尝试合道，根本无暇分心他顾",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "龙虎山大天师，与张崇诚明争暗斗，投影与李钧对峙。",
+      "appearance": [
+        "貌容清隽，鹤氅紫冠"
+      ],
+      "personality": [
+        "高傲",
+        "冷酷",
+        "轻蔑"
+      ],
+      "abilities": [
+        "大天师",
+        "道祖法器"
+      ],
+      "equipment": [
+        "道祖法器（诛魔天雷）"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "张清溪",
+          "type": "同族"
+        },
+        {
+          "target": "陈乞生",
+          "type": "敌对/清理门户对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "投影现身，与李钧对峙，最终投影消散。"
+        }
+      ],
       "evidence": [
-        "”　　阳龙直接忽略了李钧的质问，自顾自语速极快说道：“现在当代‘张天师’张崇炼正在尝试合道，根本无暇分心他顾",
-        "剩下两名大天师张崇源和张崇诚彼此敌视，明争暗斗不断",
-        "“龙虎山，张崇源"
+        "道人淡淡说道：“很多年没在广信府见过武序的人了，你就是最近那个名声鹊起的独行武序吧？是叫李钧对吧？”",
+        "张崇源拂袖一挥：“放了清溪，自断一臂，我可以不追究你擅杀龙虎山道官一事，准你滚出广信府。”",
+        "投影消散，夜色褪去，明亮的阳光洞穿堆积的云层，再次照亮整座上饶县城。"
       ],
       "mention_count": 10
     },
     {
-      "name": "龙虎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第546章游击广信府",
-      "summary": "“在龙虎山脚下，当然是聊龙虎山了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“在龙虎山脚下，当然是聊龙虎山了",
-        "”　　“龙虎山不小，李兄想从哪里听起",
-        "”　　阳龙咽了口唾沫，按捺住心头的焦躁，从龙虎山天师府娓娓道来，依次说出了如今三名大天师的名讳"
-      ],
-      "mention_count": 9
-    },
-    {
       "name": "陈乞生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第546章游击广信府",
-      "summary": "“陈乞生的师傅玄斗，是得罪了谁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“陈乞生的师傅玄斗，是得罪了谁",
-        "”　　李钧冷笑出声，“陈乞生也是龙虎山的人，难道他赢了也算丢脸",
-        "”　　李钧语气讥讽，“所以他们就要用龌蹉的手段栽赃陈乞生的师傅，逼迫他就范"
+      "aliases": [
+        "陈师弟",
+        "陈乞生"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龙虎山前弟子，老派道四人仙主",
+      "faction": "龙虎山（前）",
       "status": "登场",
       "first_appearance": "第546章游击广信府",
-      "summary": "”　　“区区一个‘递补地仙’的名额，天师府其实根本不在意，他们要的只是威严，是名望",
+      "summary": "龙虎山前弟子，因师门恩怨与龙虎山决裂，拆灵窍消道籍，晋升人仙主。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“区区一个‘递补地仙’的名额，天师府其实根本不在意，他们要的只是威严，是名望",
-        "”　　面对李钧的嘲讽，阳龙根本无力反驳，只能无奈叹气道：“儒序的门阀是家族，道序的山门又何尝不是家族",
-        "”　　阳龙怎么可能不懂，可就像他说的那样，他根本反抗不了"
+      "personality": [
+        "执拗",
+        "重情"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "李钧冷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第546章游击广信府",
-      "summary": "”　　李钧冷笑出声，“陈乞生也是龙虎山的人，难道他赢了也算丢脸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "老派道四",
+        "人仙主"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "朋友"
+        },
+        {
+          "target": "阳龙",
+          "type": "同门"
+        },
+        {
+          "target": "张崇源",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧阻止，准备攻打龙虎山。"
+        }
+      ],
       "evidence": [
-        "”　　李钧冷笑出声，“陈乞生也是龙虎山的人，难道他赢了也算丢脸",
-        "”李钧冷笑反问",
-        "”　　李钧冷笑道：“阳龙我问你，在你眼里龙虎山有多高"
+        "陈乞生拆了脑后灵窍，消了龙虎道籍，为的就是要出了这口恶气，报了这份血仇。",
+        "“陈乞生现在是道几？”阳龙突然急促开口。",
+        "表情狰狞的陈乞生"
       ],
       "mention_count": 8
     },
     {
-      "name": "龙虎山",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "张清溪",
+      "aliases": [
+        "张清溪"
+      ],
+      "identity": "龙虎山道官",
+      "faction": "龙虎山",
+      "status": "死亡",
       "first_appearance": "第546章游击广信府",
-      "summary": "“在龙虎山脚下，当然是聊龙虎山了",
+      "summary": "龙虎山道官，被李钧所杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“在龙虎山脚下，当然是聊龙虎山了",
-        "”　　“龙虎山不小，李兄想从哪里听起",
-        "”　　阳龙咽了口唾沫，按捺住心头的焦躁，从龙虎山天师府娓娓道来，依次说出了如今三名大天师的名讳"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对/被杀"
+        },
+        {
+          "target": "张崇源",
+          "type": "同族"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧杀死。"
+        }
+      ],
+      "evidence": [
+        "噗呲！一蓬白色血水洒落地面，被举在半空中的张清溪身体不断抽搐，腹部豁然洞开一个巨大的窟窿。",
+        "砰！械手五指猛然合拢，指缝间血泥迸溅，一具无首尸体噗通一声掉落在地。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "陈乞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "邹四九",
+      "aliases": [
+        "神棍",
+        "邹爷"
+      ],
+      "identity": "李钧的同伴",
+      "faction": "李钧阵营",
       "status": "登场",
       "first_appearance": "第546章游击广信府",
-      "summary": "“陈乞生的师傅玄斗，是得罪了谁",
+      "summary": "李钧的同伴，擅长催眠或梦境相关能力。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“陈乞生的师傅玄斗，是得罪了谁",
-        "”　　李钧冷笑出声，“陈乞生也是龙虎山的人，难道他赢了也算丢脸",
-        "”　　李钧语气讥讽，“所以他们就要用龌蹉的手段栽赃陈乞生的师傅，逼迫他就范"
+      "personality": [
+        "吊儿郎当"
       ],
-      "mention_count": 6
+      "abilities": [
+        "催眠/梦境能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "协助李钧，催眠信徒。"
+        }
+      ],
+      "evidence": [
+        "吊儿郎当的声音从远处飘来，邹四九跨坐在一块招牌之上，对着下方密密麻麻的人群挥了挥手。",
+        "满街信徒晃动倒地，酣然入梦。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "沈笠",
+      "aliases": [
+        "沈笠"
+      ],
+      "identity": "武夫，李钧的同伴",
+      "faction": "李钧阵营",
       "status": "登场",
       "first_appearance": "第546章游击广信府",
-      "summary": "”　　李钧语气讥讽，“所以他们就要用龌蹉的手段栽赃陈乞生的师傅，逼迫他就范",
-      "appearance": [],
-      "personality": [],
+      "summary": "黑袍箭袖的武夫，李钧的同伴。",
+      "appearance": [
+        "黑袍箭袖"
+      ],
+      "personality": [
+        "跋扈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧语气讥讽，“所以他们就要用龌蹉的手段栽赃陈乞生的师傅，逼迫他就范",
-        "”　　“区区一个‘递补地仙’的名额，天师府其实根本不在意，他们要的只是威严，是名望",
-        "就像他们把张清律塑造成‘地仙之下第一人’一样，他们想告诉整座龙虎山上下，甚至是整个帝国道序，龙虎山底蕴尚在，随时都能重新夺回道门第一祖庭的位置"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "协助李钧，准备通知天阙。"
+        }
+      ],
+      "evidence": [
+        "黑袍箭袖的武夫沈笠斜靠着一处门扉，双手抱胸，神情跋扈。",
+        "沈笠咧嘴一笑，接着低头看着面前的空气自语道：“要做事儿了，鳌虎你他娘的还不赶快过来？”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "你现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "陈乞生的师傅",
+      "aliases": [
+        "玄斗"
+      ],
+      "identity": "龙虎山道士，陈乞生的师傅",
+      "faction": "龙虎山",
+      "status": "提及",
       "first_appearance": "第546章游击广信府",
-      "summary": "你现在不早为自己做打算，等到地动山摇的时候，可就没人能救你了",
+      "summary": "陈乞生的师傅，因得罪天师府被栽赃。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "陈乞生的师傅玄斗，是得罪了谁？",
+        "所以他们就要用龌蹉的手段栽赃陈乞生的师傅，逼迫他就范？"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张崇炼",
+      "aliases": [
+        "张天师"
+      ],
+      "identity": "当代张天师",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "第546章游击广信府",
+      "summary": "当代张天师，正在尝试合道。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "合道中"
+      ],
+      "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "你现在不早为自己做打算，等到地动山摇的时候，可就没人能救你了",
-        "”　　“所以你现在还有机会活命",
-        "“你现在就是让我走，我都不会走了"
+        "现在当代‘张天师’张崇炼正在尝试合道，根本无暇分心他顾。"
       ],
-      "mention_count": 6
+      "mention_count": 1
+    },
+    {
+      "name": "张崇诚",
+      "aliases": [],
+      "identity": "龙虎山大天师",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "第546章游击广信府",
+      "summary": "龙虎山大天师，与张崇源明争暗斗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张崇源",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "剩下两名大天师张崇源和张崇诚彼此敌视，明争暗斗不断。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "明妃",
+      "aliases": [],
+      "identity": "李钧的同伴",
+      "faction": "李钧阵营",
+      "status": "提及",
+      "first_appearance": "第546章游击广信府",
+      "summary": "李钧的同伴，被通知暂缓寒山寺事务，来广信府。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "通知明妃，让她暂缓寒山寺的事情，立刻动身来广信府。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "鳌虎",
+      "aliases": [],
+      "identity": "沈笠的同伴",
+      "faction": "李钧阵营",
+      "status": "提及",
+      "first_appearance": "第546章游击广信府",
+      "summary": "沈笠的同伴，被沈笠呼唤。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "沈笠咧嘴一笑，接着低头看着面前的空气自语道：“要做事儿了，鳌虎你他娘的还不赶快过来？”"
+      ],
+      "mention_count": 1
     }
   ]
 }

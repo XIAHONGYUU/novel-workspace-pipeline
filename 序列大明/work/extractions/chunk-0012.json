@@ -1,251 +1,306 @@
 {
   "chunk_id": "chunk-0012",
-  "title": "第11章赌斗",
   "characters": [
     {
       "name": "赵鼎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "鼎爷",
+        "老头",
+        "枯狮"
+      ],
+      "identity": "浑水袍哥舵把子",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第11章赌斗",
-      "summary": "满头白发的赵鼎裹着一件黑色大氅，大马金刀坐在其上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "满头白发的赵鼎裹着一件黑色大氅，大马金刀坐在其上",
-        "“赵鼎你到底是什么意思",
-        "在进九龙街之前，这位浑水袍哥的太子爷信誓旦旦的向他保证赵鼎已经只剩一口气，连站都站不起来"
+      "summary": "浑水袍哥会的首领，年老病重，但仍有威严和霸气。",
+      "appearance": [
+        "满头白发",
+        "消瘦干枯",
+        "裹着黑色大氅"
       ],
-      "mention_count": 14
+      "personality": [
+        "霸气",
+        "老谋深算",
+        "重情义"
+      ],
+      "abilities": [],
+      "equipment": [
+        "抬撵",
+        "维生设备"
+      ],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "疑似父子或亲属"
+        },
+        {
+          "target": "李钧",
+          "type": "庇护对象"
+        },
+        {
+          "target": "罗镇",
+          "type": "对立"
+        },
+        {
+          "target": "虎冢",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在拳场中与祭刀会和罗镇对峙，提出赌斗。"
+        }
+      ],
+      "evidence": [
+        "满头白发的赵鼎裹着一件黑色大氅，大马金刀坐在其上。",
+        "赵鼎消瘦干枯的脸上浮现浓浓的悲哀",
+        "形如枯狮赵鼎微微一笑，浑身散发出彪炳的霸气"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "罗镇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李钧",
+      "aliases": [
+        "阿钧"
+      ],
+      "identity": "袍哥会成员，疑似穿越者",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第11章赌斗",
-      "summary": "”罗镇怒道",
+      "summary": "袍哥会成员，被赵鼎庇护，被迫接受赌斗。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "坚毅",
+        "冷静"
+      ],
+      "abilities": [
+        "刀法"
+      ],
+      "equipment": [
+        "戚家刀"
+      ],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "被庇护者"
+        },
+        {
+          "target": "况青云",
+          "type": "同袍"
+        },
+        {
+          "target": "浪刃",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被赵鼎要求与祭刀会浪刃赌斗。"
+        }
+      ],
       "evidence": [
-        "”罗镇怒道",
-        "”　　罗镇脸色惊疑不定，颇为恼怒的看了一眼赵斗",
-        "赵鼎对罗镇的怒火置若罔闻，依旧对着李钧笑道：“别担心，今天谁也威胁不了你"
+        "李钧抬头环视周围的浑水袍哥",
+        "李钧拔刀出鞘，一抹冷冽寒光从鞘中流出",
+        "李钧的回答同样斩钉截铁。"
       ],
       "mention_count": 10
     },
     {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第11章赌斗",
-      "summary": "摩肩接踵的人潮之中，四名手臂被换成机械义肢的魁梧袍哥格外显眼，他们扛着一架巨大的抬撵，停步在李钧和况青云身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "摩肩接踵的人潮之中，四名手臂被换成机械义肢的魁梧袍哥格外显眼，他们扛着一架巨大的抬撵，停步在李钧和况青云身后",
-        "”　　况青云操着一口蜀地腔调骂骂咧咧，在李钧惊异的眼神中，如同变魔术般从宽大的衣袖中抽出一柄带鞘长刀扔给了过来",
-        "人是李钧杀的，那就在小辈之间解决"
+      "name": "罗镇",
+      "aliases": [
+        "罗巡检"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "虎冢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "巡检",
+      "faction": "官方",
       "status": "登场",
       "first_appearance": "第11章赌斗",
-      "summary": "虎冢你选个人上拳台，如果能打的赢李钧，那他这条命就交给祭刀会",
+      "summary": "巡检，试图带走李钧，与赵鼎对峙。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "强硬",
+        "急躁"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "对立"
+        },
+        {
+          "target": "赵斗",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "要求赵鼎交出李钧，与赵鼎发生冲突。"
+        }
+      ],
       "evidence": [
-        "虎冢你选个人上拳台，如果能打的赢李钧，那他这条命就交给祭刀会",
-        "”　　虎冢脸色冷硬如铁，两颊虎纹抽搐，神情如临大敌",
-        "”虎冢答应的十分干脆"
+        "罗镇怒道",
+        "罗镇眉头紧皱，沉声道",
+        "罗镇已经没有耐心再跟赵鼎打太极"
       ],
       "mention_count": 7
     },
     {
       "name": "况青云",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "袍哥会成员",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第11章赌斗",
-      "summary": "摩肩接踵的人潮之中，四名手臂被换成机械义肢的魁梧袍哥格外显眼，他们扛着一架巨大的抬撵，停步在李钧和况青云身后",
-      "appearance": [],
-      "personality": [],
+      "summary": "袍哥会成员，对赵斗愤怒，支持李钧。",
+      "appearance": [
+        "清秀面容"
+      ],
+      "personality": [
+        "暴躁",
+        "忠诚"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "同袍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵鼎一同出现，怒骂赵斗。"
+        }
+      ],
       "evidence": [
-        "摩肩接踵的人潮之中，四名手臂被换成机械义肢的魁梧袍哥格外显眼，他们扛着一架巨大的抬撵，停步在李钧和况青云身后",
-        "”　　况青云操着一口蜀地腔调骂骂咧咧，在李钧惊异的眼神中，如同变魔术般从宽大的衣袖中抽出一柄带鞘长刀扔给了过来",
-        "”　　赵斗疯狗一般吼道：“况青云你他妈给我闭嘴，这里轮不到你说话"
+        "况青云操着一口蜀地腔调骂骂咧咧",
+        "况青云怒不可遏，大骂道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "赵斗",
+      "aliases": [],
+      "identity": "疑似赵鼎之子或亲属",
+      "faction": "袍哥会",
+      "status": "登场",
+      "first_appearance": "第11章赌斗",
+      "summary": "背叛赵鼎，与罗镇勾结，试图夺取舵把子位置。",
+      "appearance": [],
+      "personality": [
+        "癫狂",
+        "怯懦",
+        "心有不甘"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "背叛者"
+        },
+        {
+          "target": "罗镇",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "突然提出加注，要赌舵把子位置。"
+        }
+      ],
+      "evidence": [
+        "赵斗则是垂着脑袋根本不敢与赵鼎对视",
+        "赵斗疯狗一般吼道",
+        "赵斗突然仰起头，满脸狰狞的盯着抬撵上的老人"
       ],
       "mention_count": 6
     },
     {
-      "name": "那就",
+      "name": "虎冢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "祭刀会首领",
+      "faction": "祭刀会",
       "status": "登场",
       "first_appearance": "第11章赌斗",
-      "summary": "人是李钧杀的，那就在小辈之间解决",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "人是李钧杀的，那就在小辈之间解决",
-        "“既然罗巡检话都说到这个份上了，我赵鼎要是再不给面子，那就太不识抬举了，不过”　　“搞啥子，要玩刀是吧",
-        "形如枯狮赵鼎微微一笑，浑身散发出彪炳的霸气，“我的意思，祭刀会如果想要回场子，那就要按照我袍哥会的方式来"
+      "summary": "祭刀会的首领，与赵鼎敌对，但保持沉默。",
+      "appearance": [
+        "两颊虎纹",
+        "耳垂上虎纹耳饰"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "况青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第11章赌斗",
-      "summary": "摩肩接踵的人潮之中，四名手臂被换成机械义肢的魁梧袍哥格外显眼，他们扛着一架巨大的抬撵，停步在李钧和况青云身后",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷硬",
+        "隐忍"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "敌对"
+        },
+        {
+          "target": "浪刃",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受赵鼎的赌斗提议，派出浪刃。"
+        }
+      ],
       "evidence": [
-        "摩肩接踵的人潮之中，四名手臂被换成机械义肢的魁梧袍哥格外显眼，他们扛着一架巨大的抬撵，停步在李钧和况青云身后",
-        "”　　况青云操着一口蜀地腔调骂骂咧咧，在李钧惊异的眼神中，如同变魔术般从宽大的衣袖中抽出一柄带鞘长刀扔给了过来",
-        "”　　赵斗疯狗一般吼道：“况青云你他妈给我闭嘴，这里轮不到你说话"
+        "虎冢脸色冷硬如铁，两颊虎纹抽搐",
+        "虎冢微微侧头，身后一名穿着宽大和服的倭寇迈步上前"
       ],
       "mention_count": 5
     },
     {
-      "name": "祭刀会",
+      "name": "浪刃",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "祭刀会‘十贵’头名",
+      "faction": "祭刀会",
       "status": "登场",
       "first_appearance": "第11章赌斗",
-      "summary": "”　　“我看你们祭刀会的‘十贵’今天也都到了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“我看你们祭刀会的‘十贵’今天也都到了",
-        "虎冢你选个人上拳台，如果能打的赢李钧，那他这条命就交给祭刀会",
-        "“浪刃，祭刀会的荣誉就交给你了"
+      "summary": "祭刀会的顶尖高手，被派出与李钧赌斗。",
+      "appearance": [
+        "穿着宽大和服"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "大家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第11章赌斗",
-      "summary": "今天我必须把杀人凶手带走，否则这件事传到总巡检大人耳中，大家都吃不了兜着走",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "今天我必须把杀人凶手带走，否则这件事传到总巡检大人耳中，大家都吃不了兜着走",
-        "赵鼎冷声道：“大家都是贫民窟混饭吃的穷苦人，那自然是谁的拳头大谁说了算"
+      "abilities": [
+        "刀法"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "满头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第11章赌斗",
-      "summary": "满头白发的赵鼎裹着一件黑色大氅，大马金刀坐在其上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "满头白发的赵鼎裹着一件黑色大氅，大马金刀坐在其上"
+      "relationships": [
+        {
+          "target": "虎冢",
+          "type": "下属"
+        },
+        {
+          "target": "李钧",
+          "type": "对手"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "在他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第11章赌斗",
-      "summary": "在他身后还站着两名身穿青色旗袍的妙龄少女，领处绣有精致的‘涪翁’两个小字",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在他身后还站着两名身穿青色旗袍的妙龄少女，领处绣有精致的‘涪翁’两个小字"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被虎冢派出与李钧赌斗。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "连站",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第11章赌斗",
-      "summary": "在进九龙街之前，这位浑水袍哥的太子爷信誓旦旦的向他保证赵鼎已经只剩一口气，连站都站不起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "在进九龙街之前，这位浑水袍哥的太子爷信誓旦旦的向他保证赵鼎已经只剩一口气，连站都站不起来"
+        "正是祭刀会‘十贵’之中的头名浪刃"
       ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

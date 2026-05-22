@@ -1,250 +1,201 @@
 {
   "chunk_id": "chunk-0021",
-  "title": "第20章儒教门阀",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "李爷"
+      ],
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第20章儒教门阀",
-      "summary": "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死",
+      "summary": "锦衣卫总旗，被余寇发展为线人，接近顾邕以对付顾氏门阀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "敏锐",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死",
-        "”　　李钧敏锐察觉到对方话语中对自己称呼的改变，嘴角不由露出一丝苦笑",
-        "和李钧比起来，自己的处境确实要好上不少，起码不用时时刻刻提着脑袋去搏命"
+      "relationships": [
+        {
+          "target": "余寇",
+          "type": "上线"
+        },
+        {
+          "target": "乌鸦华",
+          "type": "医患关系"
+        },
+        {
+          "target": "顾邕",
+          "type": "目标"
+        }
       ],
-      "mention_count": 25
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与乌鸦华交谈，得知余寇的真实意图和顾氏门阀的信息。"
+        }
+      ],
+      "evidence": [
+        "李钧敏锐察觉到对方话语中对自己称呼的改变",
+        "余寇是锦衣卫总旗，而且还有道教的身份。他派你去接近顾邕",
+        "李钧此刻的心绪略显沉重"
+      ],
+      "mention_count": 12
     },
     {
       "name": "乌鸦华",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "乌鸦华",
+        "老头"
+      ],
+      "identity": "鬼街医生",
       "faction": "",
       "status": "登场",
       "first_appearance": "第20章儒教门阀",
-      "summary": "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死",
-        "”　　乌鸦华叹了口气，到了他这个岁数，已经经历了两朝帝王，见过不少世道风雨和人情冷暖",
-        "乌鸦华心中感叹不已，可脸上却不敢流露出丝毫的异样"
+      "summary": "鬼街医生，孙女乌鸦朵朵，经历两朝帝王，明哲保身。",
+      "appearance": [
+        "嘴唇上凌乱的白须"
       ],
-      "mention_count": 22
-    },
-    {
-      "name": "乌鸦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死",
-        "”　　乌鸦华叹了口气，到了他这个岁数，已经经历了两朝帝王，见过不少世道风雨和人情冷暖",
-        "乌鸦华心中感叹不已，可脸上却不敢流露出丝毫的异样"
+      "personality": [
+        "谨慎",
+        "果决"
       ],
-      "mention_count": 15
+      "abilities": [
+        "改造身体",
+        "尝试过多种序列"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌鸦朵朵",
+          "type": "孙女"
+        },
+        {
+          "target": "李钧",
+          "type": "医患关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧透露余寇的身份和顾氏门阀的信息。"
+        }
+      ],
+      "evidence": [
+        "乌鸦华将还在昏迷的乌鸦朵朵妥善安置好",
+        "乌鸦华字字铿锵，振聋发聩",
+        "乌鸦华脸上露出伱果然发现了的神情"
+      ],
+      "mention_count": 10
     },
     {
       "name": "余寇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "”　　余寇是道教中人，和儒教门阀有利益冲突，他想要找顾家的麻烦自己能够理解",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　余寇是道教中人，和儒教门阀有利益冲突，他想要找顾家的麻烦自己能够理解",
-        "李钧已经预料到了明天会是一场恶战，劫匪肯定不会像余寇口中所谓的刁民那么简单",
-        "余寇的计划已经清晰，可有一点李钧还是不明白，那就是余寇的动机"
+      "aliases": [
+        "余寇"
       ],
-      "mention_count": 7
+      "identity": "锦衣卫总旗、道教从序者",
+      "faction": "锦衣卫、道教",
+      "status": "提及",
+      "first_appearance": "第20章儒教门阀",
+      "summary": "锦衣卫总旗，同时也是道教从序者，派李钧接近顾邕以对付顾氏门阀。",
+      "appearance": [
+        "一身肥肉"
+      ],
+      "personality": [],
+      "abilities": [
+        "使用雕版符篆",
+        "驱魂咒"
+      ],
+      "equipment": [
+        "雕版符咒"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "上线"
+        },
+        {
+          "target": "顾邕",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被乌鸦华揭露身份和计划。"
+        }
+      ],
+      "evidence": [
+        "余寇是锦衣卫总旗，而且还有道教的身份",
+        "余寇可是货真价实的从序者",
+        "余寇的计划已经清晰"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "而且",
+      "name": "乌鸦朵朵",
       "aliases": [],
-      "identity": "",
+      "identity": "乌鸦华的孙女",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第20章儒教门阀",
-      "summary": "而且对方的身份恐怕很敏感，不然余寇不会拿如此蹩脚的解释搪塞自己",
+      "summary": "乌鸦华的孙女，昏迷中。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且对方的身份恐怕很敏感，不然余寇不会拿如此蹩脚的解释搪塞自己",
-        "而且还能在余寇的眼皮子底下装死那么久还不被发现",
-        "“余寇是锦衣卫总旗，而且还有道教的身份"
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "孙女"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "昏迷，被乌鸦华安置。"
+        }
+      ],
+      "evidence": [
+        "乌鸦华将还在昏迷的乌鸦朵朵妥善安置好",
+        "再看了一眼还在昏睡的乌鸦朵朵"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "眼神",
+      "name": "顾邕",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "益州顾氏支房子嗣、成都府十大杰出青年、蜀道物流集团老板",
+      "faction": "儒教门阀（益州顾氏）",
+      "status": "提及",
       "first_appearance": "第20章儒教门阀",
-      "summary": "”　　在他身后，乌鸦华嘴唇上凌乱的白须不断抽动，眼神在自己和李钧的背影中来回飘荡",
+      "summary": "益州顾氏支房子嗣，成都府十大杰出青年，蜀道物流集团老板，是余寇和李钧的目标。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　在他身后，乌鸦华嘴唇上凌乱的白须不断抽动，眼神在自己和李钧的背影中来回飘荡",
-        "内容并不多，李钧逐字逐句看完之后长吐了一口气，眼神发直，自言自语道：　　“怪不得锦衣卫要跟儒教死磕，这他妈的仇深似海啊"
+      "relationships": [
+        {
+          "target": "余寇",
+          "type": "目标"
+        },
+        {
+          "target": "李钧",
+          "type": "目标"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "“既然你都听到了，那就别喊什么大人了，我听着刺耳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“既然你都听到了，那就别喊什么大人了，我听着刺耳",
-        "余寇的计划已经清晰，可有一点李钧还是不明白，那就是余寇的动机",
-        "“如果接近一个人不为了他的权势，那就只剩下一种可能，要他的命"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为余寇的目标。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "看来",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "看来余寇还真他妈的是个道士",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "看来余寇还真他妈的是个道士",
-        "自己刚到手的这个铁饭碗，看来也不稳当了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "自然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "”　　乌鸦华有乌鸦朵朵这个命门在，自然不可能像自己一样无所顾忌",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华有乌鸦朵朵这个命门在，自然不可能像自己一样无所顾忌",
-        "他派你去接近顾邕，自然不可能是为了攀附对方"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "虽然没成，但也锤炼过一段时间的神识，所以还能扛得住",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然没成，但也锤炼过一段时间的神识，所以还能扛得住",
-        "乌鸦华脸上露出伱果然发现了的神情，苦笑道：“老头我虽然没入序列，但为了能在鬼街站稳脚跟，身上能够改造的东西都改造了，还尝试过不少序列",
-        "”　　余寇竟然是三教之一道教的从序者，虽然在看到符篆的时候已经有所猜测，但现在从乌鸦华口中确认之后依旧感到颇为震惊"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第20章儒教门阀　　乌鸦华将还在昏迷的乌鸦朵朵妥善安置好后，这才对着惊讶的李钧谄媚笑道：“小老儿我就是一个小小的贱民，惹不起只能装死"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "劫匪",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第20章儒教门阀",
-      "summary": "”　　在九龙街抢清水袍哥的货还能有把握，劫匪的至少也是序列中人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　在九龙街抢清水袍哥的货还能有把握，劫匪的至少也是序列中人",
-        "李钧已经预料到了明天会是一场恶战，劫匪肯定不会像余寇口中所谓的刁民那么简单"
+        "余寇让你接近的那个人，不止是清水袍哥，他还是成都府十大杰出青年，蜀道物流集团的老板",
+        "他还是益州顾氏的支房子嗣"
       ],
       "mention_count": 3
     }

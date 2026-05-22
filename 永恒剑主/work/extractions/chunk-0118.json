@@ -1,249 +1,207 @@
 {
   "chunk_id": "chunk-0118",
-  "title": "第一百一十六章 动手（下）",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "先天武者，即将突破练气",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "冰凉的剑刃随着林新的手指摸过，所过之处，全都缓缓泛起更加浓郁的红光",
+      "summary": "主角，正在祭炼红花剑并准备突破小归元，前往月间峡与星劫堂对峙。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冰凉的剑刃随着林新的手指摸过，所过之处，全都缓缓泛起更加浓郁的红光",
-        "但林新隐隐有些觉得，这红光之中，仿佛带着一丝血色",
-        "林新气血激荡下，面色一红，感觉倒灌而回的先天之气中，隐隐有着一丝丝以前完全没有过的晶莹感"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 38
+      "abilities": [
+        "先天之气",
+        "血元决心血祭炼法",
+        "阵法精通",
+        "妖符种"
+      ],
+      "equipment": [
+        "红花剑",
+        "炎阳符剑",
+        "通明符剑",
+        "通明符石",
+        "妖符种",
+        "马车"
+      ],
+      "relationships": [
+        {
+          "target": "萧玲玲",
+          "type": "伴侣"
+        },
+        {
+          "target": "林志文",
+          "type": "父亲"
+        },
+        {
+          "target": "星劫堂",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "祭炼红花剑，突破小归元诀第九层，前往月间峡与星劫堂对峙。"
+        }
+      ],
+      "evidence": [
+        "他提起红花剑，眼下最合适的就是它了。",
+        "林新没有迟疑，妖符种捏在手中，内气注入。",
+        "林新面无表情的将身上东西一一丢出。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "仿佛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "星劫堂男子",
+      "aliases": [
+        "面条人"
+      ],
+      "identity": "星劫堂成员，练气士",
+      "faction": "星劫堂",
       "status": "登场",
       "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "但林新隐隐有些觉得，这红光之中，仿佛带着一丝血色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但林新隐隐有些觉得，这红光之中，仿佛带着一丝血色",
-        "仿佛多了些什么在里面",
-        "缓缓调息内气，林新感觉自己和红花剑之间隐隐多出了一丝联系，仿佛红花剑就是自己身体的一部分，随时可以如臂指挥一般"
+      "summary": "星劫堂成员，曾重创林新，此次绑架林志文威胁林新。",
+      "appearance": [
+        "强壮面条人"
       ],
-      "mention_count": 10
+      "personality": [
+        "凶狠",
+        "谨慎"
+      ],
+      "abilities": [
+        "灵气",
+        "刀法"
+      ],
+      "equipment": [
+        "长刀"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "星劫堂女子",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在月间峡与林新对峙，被林新下毒。"
+        }
+      ],
+      "evidence": [
+        "一道白光急速朝着他射来，光晕内是一个身负长刀的强壮面条人。正是上次重创他的那家伙。",
+        "男子一惊，赶紧一剑刺向林志文",
+        "男子还想催运灵气，却愕然发现身体一阵无力"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "女子",
+      "name": "星劫堂女子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "星劫堂成员，练气士",
+      "faction": "星劫堂",
       "status": "登场",
       "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "”那女子冷笑道",
+      "summary": "星劫堂成员，与男子一同绑架林志文，性格谨慎。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "谨慎",
+        "贪婪"
+      ],
+      "abilities": [
+        "灵气"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "星劫堂男子",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在月间峡与林新对峙，收走林新丢出的物品。"
+        }
+      ],
       "evidence": [
-        "”那女子冷笑道",
-        "”那女子却是更加谨慎",
-        "”　　女子大声道"
+        "那女子却是更加谨慎。",
+        "女子大声道。",
+        "女子收好东西，“这家伙不像束手就擒的人，我怀疑有诈！”"
       ],
       "mention_count": 6
     },
     {
-      "name": "男子",
+      "name": "林志文",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的父亲",
       "faction": "",
-      "status": "登场",
+      "status": "被绑架",
       "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "那提着布袋的男子微微一笑",
+      "summary": "林新的父亲，被星劫堂绑架作为人质。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那提着布袋的男子微微一笑",
-        "”　　那男子解开布袋，里面顿时露出林志文昏迷的身体",
-        "”那男子嘿嘿威胁道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "父子"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "林新朝他一笑，身子隐入车厢，车门关闭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新朝他一笑，身子隐入车厢，车门关闭",
-        "”　　林新心头隐隐有些澎湃，这么多年了，他一直以来的梦想终于要实现了",
-        "他一把将林志文丢在地上，拔出腰刀，唰的一下指向林志文头部"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被星劫堂绑架，在月间峡被林新救下。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "缓缓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "然后伸出食指中指，并在一起，缓缓从剑刃根部往上抹去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "然后伸出食指中指，并在一起，缓缓从剑刃根部往上抹去",
-        "冰凉的剑刃随着林新的手指摸过，所过之处，全都缓缓泛起更加浓郁的红光",
-        "缓缓调息内气，林新感觉自己和红花剑之间隐隐多出了一丝联系，仿佛红花剑就是自己身体的一部分，随时可以如臂指挥一般"
+        "那男子解开布袋，里面顿时露出林志文昏迷的身体。",
+        "还有树根将林志文一下拉进土里。"
       ],
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "name": "萧玲玲",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的伴侣",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "幽静而阴森的内院里，林新抱着剑走到萧玲玲生死与共的大树下，坐到白天萧玲玲所坐的那个位置",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "幽静而阴森的内院里，林新抱着剑走到萧玲玲生死与共的大树下，坐到白天萧玲玲所坐的那个位置",
-        "萧玲玲还在身边侧躺着，依偎着他睡觉",
-        "他侧过脸，看着萧玲玲一如既往的狐媚面容"
+      "summary": "林新的伴侣，在回忆中出现。",
+      "appearance": [
+        "狐媚面容"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "需要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "第一百一十六章 动手（下）　　“需要选择心血祭炼法器了……”他提起红花剑，眼下最合适的就是它了",
-      "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十六章 动手（下）　　“需要选择心血祭炼法器了……”他提起红花剑，眼下最合适的就是它了",
-        "但这股先天之气似乎不怎么听指挥，还需要时间磨合温养",
-        "核心法器需要长时间的心神交汇，先天之气交换循环温养，才能逐步达到心剑合一，如臂所指的境界"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "伴侣"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "并在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "然后伸出食指中指，并在一起，缓缓从剑刃根部往上抹去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "然后伸出食指中指，并在一起，缓缓从剑刃根部往上抹去",
-        "同时血元决的心血祭炼法决，也开始引导着先天之气混合着红花剑上的精血进行融合，并在剑内打下完全属于自己的精神印记"
+      "timeline": [
+        {
+          "stage": "回忆",
+          "event": "与林新在试炼洞中相互依靠，十年后仍在一起。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "全都",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "冰凉的剑刃随着林新的手指摸过，所过之处，全都缓缓泛起更加浓郁的红光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "冰凉的剑刃随着林新的手指摸过，所过之处，全都缓缓泛起更加浓郁的红光"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "布置",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "意识精神不断在红花剑内引导着先天之气，布置下一个个祭练阵法",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "意识精神不断在红花剑内引导着先天之气，布置下一个个祭练阵法"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "轰然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十六章 动手（下）",
-      "summary": "轰然一下，剑身内的所有先天之气陡然倒灌而回",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "轰然一下，剑身内的所有先天之气陡然倒灌而回"
+        "萧玲玲还在身边侧躺着，依偎着他睡觉。",
+        "他伸出手，轻轻抚摸萧玲玲光滑的脸颊。"
       ],
       "mention_count": 3
     }

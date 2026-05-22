@@ -1,27 +1,38 @@
 {
   "chunk_id": "chunk-0510",
-  "title": "第508章王旗",
   "characters": [
     {
       "name": "王旗",
       "aliases": [],
-      "identity": "",
+      "identity": "孤儿、穷鬼、底层工人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第508章王旗",
-      "summary": "第508章王旗　　根据这半年来的经历推测，王旗觉得自己可能是一个穿越者",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第508章王旗　　根据这半年来的经历推测，王旗觉得自己可能是一个穿越者",
-        "王旗之所以这么笃定，是因为他用这半年来辛苦做工攒下的钱去了一次医馆",
-        "”　　工头坚定不移的语气让王旗放下了心头的担忧，决定用所有的积蓄去搏一次希望"
+      "summary": "疑似穿越者，失忆，体内有光团，在金陵城底层挣扎求生。",
+      "appearance": [
+        "油腻头发"
       ],
-      "mention_count": 19
+      "personality": [
+        "自命不凡",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "背包"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘坐地龙前往善和坊找工作"
+        }
+      ],
+      "evidence": [
+        "王旗觉得自己可能是一个穿越者。",
+        "王旗将装着自己仅存家当的背包换了个方向，紧紧抱在怀中。",
+        "王旗眼疾脚快，一步便抢到了座位。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "李钧",
@@ -30,224 +41,122 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第508章王旗",
-      "summary": "李钧一脸坏笑，看得邹四九心头一阵火气",
+      "summary": "与邹四九对话，观察王旗。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "坏笑",
+        "打趣"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧一脸坏笑，看得邹四九心头一阵火气",
-        "见邹四九处于暴走的边缘，李钧也不再继续跟他开玩笑，坐正身体的同时，顺道扫了一眼对面的王旗",
-        "”　　“所以昨晚你”李钧拉长了语调"
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在地龙上与邹四九交谈，观察王旗"
+        }
+      ],
+      "evidence": [
+        "李钧一脸坏笑，看得邹四九心头一阵火气。",
+        "李钧从头到脚扫了邹四九一眼，打趣问道。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "月台",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "邹四九",
+      "aliases": [
+        "秦戈"
+      ],
+      "identity": "中部分院兼爱所重案十室室长",
+      "faction": "兼爱所",
       "status": "登场",
       "first_appearance": "第508章王旗",
-      "summary": "月台前突然刮起缕缕冷风，吹动王旗垂在眼前的油腻头发",
-      "appearance": [],
-      "personality": [],
+      "summary": "顶替秦戈身份执行监视任务。",
+      "appearance": [
+        "面如古铜",
+        "唇留短须",
+        "气质沉稳"
+      ],
+      "personality": [
+        "火气大",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "月台前突然刮起缕缕冷风，吹动王旗垂在眼前的油腻头发",
-        "月台上的人群像是归巢的蚂蚁，不多时便全部挤进了这座逼仄的蚁巢",
-        "不大的候车月台像一座嘈杂的市场，随处可见表情猥琐的游贩，鬼鬼祟祟的靠近旅客，挤眉弄眼，轻声耳语"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "王旗",
+          "type": "监视对象"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "要么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第508章王旗",
-      "summary": "“以邹爷我多年顶人身份，帮人干活的经验来看，出现这种情况，要么是秦戈的权限不够，没资格知晓其中的隐秘",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“以邹爷我多年顶人身份，帮人干活的经验来看，出现这种情况，要么是秦戈的权限不够，没资格知晓其中的隐秘",
-        "要么就是这个人本来就没什么特别的地方，只不过是跟某些重要人物有过接触，所以才会被兼爱所盯上",
-        "敞开的衣衫中露出的货物，要么是让人血脉贲张，要么让人不寒而栗"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧在地龙上监视王旗"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "秦戈，或者说是邹四九皱了皱眉",
+        "邹四九哼了一声，没好气道"
+      ],
+      "mention_count": 7
     },
     {
       "name": "秦戈",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "中部分院兼爱所重案十室室长",
+      "faction": "兼爱所",
+      "status": "提及",
       "first_appearance": "第508章王旗",
-      "summary": "“以邹爷我多年顶人身份，帮人干活的经验来看，出现这种情况，要么是秦戈的权限不够，没资格知晓其中的隐秘",
+      "summary": "邹四九顶替的身份，其记忆中有关于监视任务的信息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“以邹爷我多年顶人身份，帮人干活的经验来看，出现这种情况，要么是秦戈的权限不够，没资格知晓其中的隐秘",
-        "秦戈叹了口气：“秦戈的记忆里也没有太多关于对方的情报，只知道监视的任务来自他的顶头上司，兼爱所重案部门的负责人，荣麓",
-        "秦戈，或者说是邹四九皱了皱眉，缓缓道：“不过后一种的可能性比较低，但也不排除那些打铁心肠歹毒，喜欢玩‘宁杀错不放过’那一套"
+      "relationships": [
+        {
+          "target": "荣麓",
+          "type": "下属"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第508章王旗",
-      "summary": "那座医馆虽然开在一个不起眼的犄角旮旯里，但用自己的工头的话来说，这里的农序医师是整个金陵城黑医馆中技术最为精湛的，虽然收费不低，但绝对是物超所值",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
       "timeline": [],
       "evidence": [
-        "那座医馆虽然开在一个不起眼的犄角旮旯里，但用自己的工头的话来说，这里的农序医师是整个金陵城黑医馆中技术最为精湛的，虽然收费不低，但绝对是物超所值",
-        "虽然这个光团始终没有任何动静，但王旗却很相信眼前的苦难都只是暂时的",
-        "王旗虽然目前连第三条腿都算不上出类拔萃的长，但他还是决定相信自己的对金属那种莫名的亲近感"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第508章王旗",
-      "summary": "他总感觉，对方也在看着自己",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他总感觉，对方也在看着自己",
-        "秦戈叹了口气：“秦戈的记忆里也没有太多关于对方的情报，只知道监视的任务来自他的顶头上司，兼爱所重案部门的负责人，荣麓",
-        "可对方却像是受惊的兔子一样，仓惶挪开眼神，阖起眼睛假寐"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "以他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第508章王旗",
-      "summary": "”　　以他这半年来积攒下的丰富‘阅历’来看，这个不知名的光团明显就是在黄粱梦境背景设定之中屡见不鲜的金手指，同时也是他认为自己是穿越者的强有力证据",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　以他这半年来积攒下的丰富‘阅历’来看，这个不知名的光团明显就是在黄粱梦境背景设定之中屡见不鲜的金手指，同时也是他认为自己是穿越者的强有力证据",
-        "以他的眼力自然不难看出，看似已经入睡的王旗，实则浑身肌肉绷紧，一只手伸进了背包之中"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "或许",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第508章王旗",
-      "summary": "万一自己真能想起以前的过往，就算不是前世只是今生，或许也能有机会摆脱如今孤儿加穷鬼的窘迫处境，从此一飞冲天，开启属于自己的精彩人生",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "万一自己真能想起以前的过往，就算不是前世只是今生，或许也能有机会摆脱如今孤儿加穷鬼的窘迫处境，从此一飞冲天，开启属于自己的精彩人生",
-        "或许自己可能就是制造行业万中无一的天才，一块稍加雕琢就能成为大材的璞玉"
+        "秦戈叹了口气：“秦戈的记忆里也没有太多关于对方的情报”"
       ],
       "mention_count": 3
     },
     {
-      "name": "顺道",
+      "name": "荣麓",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "兼爱所重案部门负责人",
+      "faction": "兼爱所",
+      "status": "提及",
       "first_appearance": "第508章王旗",
-      "summary": "见邹四九处于暴走的边缘，李钧也不再继续跟他开玩笑，坐正身体的同时，顺道扫了一眼对面的王旗",
+      "summary": "监视任务的来源。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "秦戈",
+          "type": "上司"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "见邹四九处于暴走的边缘，李钧也不再继续跟他开玩笑，坐正身体的同时，顺道扫了一眼对面的王旗"
+        "监视的任务来自他的顶头上司，兼爱所重案部门的负责人，荣麓。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第508章王旗",
-      "summary": "这是李钧一贯的做事方法，连邹四九暂时都摸到头绪，他就更没有必要在这种事情上浪费心思了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这是李钧一贯的做事方法，连邹四九暂时都摸到头绪，他就更没有必要在这种事情上浪费心思了",
-        "这是地龙即将进站的标志",
-        "”　　据说这是金陵城内儒序势力和墨序势力之间的默契"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "他也",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第508章王旗",
-      "summary": "每当他浏览腻的梦境世界之后，开始和各种女性角色翻云覆雨的时候，他也会这么抽",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "每当他浏览腻的梦境世界之后，开始和各种女性角色翻云覆雨的时候，他也会这么抽",
-        "”　　至于说为什么失忆，他也不知道原因所在"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

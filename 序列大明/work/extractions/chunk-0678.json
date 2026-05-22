@@ -1,258 +1,543 @@
 {
   "chunk_id": "chunk-0678",
-  "title": "第676章衍尊詹舜",
   "characters": [
     {
       "name": "邹四九",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第676章衍尊詹舜",
-      "summary": "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
-        "”　　沈笠在心头不住惊叹，直到这时候，他才算是切实体会到了邹四九的真正实力",
-        "邹四九双手插兜站在坑边，轰鸣不止的大雨在他周身一寸前就自行左右绕开，似根本不敢沾染他的身体"
+      "aliases": [
+        "邹爷"
       ],
-      "mention_count": 28
-    },
-    {
-      "name": "邹四",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "阴阳序成员，拥有多条梦主规则",
+      "faction": "阴阳序",
       "status": "登场",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
+      "summary": "阴阳序成员，拥有多条梦主规则，与东皇宫为敌，被詹舜视为研究物。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "恩怨分明",
+        "冷静",
+        "不敬权威"
+      ],
+      "abilities": [
+        "掌控梦主规则",
+        "跨序战斗能力"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "盟友"
+        },
+        {
+          "target": "袁明妃",
+          "type": "盟友"
+        },
+        {
+          "target": "詹舜",
+          "type": "敌对"
+        },
+        {
+          "target": "神荼",
+          "type": "敌对"
+        },
+        {
+          "target": "赵寅",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在永乐洞天与东皇宫众人对峙，被詹舜剥夺梦主规则，后得袁明妃相助。"
+        }
+      ],
       "evidence": [
-        "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
-        "”　　沈笠在心头不住惊叹，直到这时候，他才算是切实体会到了邹四九的真正实力",
-        "邹四九双手插兜站在坑边，轰鸣不止的大雨在他周身一寸前就自行左右绕开，似根本不敢沾染他的身体"
+        "邹四九双手插兜站在坑边，轰鸣不止的大雨在他周身一寸前就自行左右绕开",
+        "邹四九面无表情的看着他们",
+        "邹四九抬手揉了揉眉心，似乎并没有被梦主规则的静默影响太多"
       ],
       "mention_count": 20
     },
     {
-      "name": "詹舜",
+      "name": "沈笠",
       "aliases": [],
-      "identity": "",
+      "identity": "武夫，受邹四九规则加持",
       "faction": "",
       "status": "登场",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "第676章衍尊詹舜　　云遮白月，雾锁深山",
+      "summary": "在邹四九规则加持下屠杀黄粱鬼，体内出现李钧的劲力。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "武学劲力",
+        "独行武序理解提升"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在邹四九规则加持下屠杀黄粱鬼，体内出现李钧的崩势和锋劲。"
+        }
+      ],
       "evidence": [
-        "第676章衍尊詹舜　　云遮白月，雾锁深山",
+        "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山",
+        "沈笠举手投足之间，仿佛无穷无尽的劲力肆意宣泄",
+        "体内破锁的动静噼里啪啦的响个不停"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "神荼",
+      "aliases": [
+        "烛龙"
+      ],
+      "identity": "东皇宫九君之一，君号烛龙",
+      "faction": "东皇宫",
+      "status": "死亡后复活",
+      "first_appearance": "第676章衍尊詹舜",
+      "summary": "东皇宫九君之一，被邹四九击杀后因詹舜能力复活。",
+      "appearance": [],
+      "personality": [
+        "平静",
+        "深沉"
+      ],
+      "abilities": [
+        "梦主规则【桃都破障】",
+        "操纵黄粱鬼"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "敌对"
+        },
+        {
+          "target": "詹舜",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被邹四九击杀，后因詹舜能力复活。"
+        }
+      ],
+      "evidence": [
+        "神荼颓然跪地，头颅低垂，点点殷红顺着雨珠不断滴落",
+        "一条凌厉的腿影直接抽碎神荼的头颅",
+        "神荼残缺的尸体摔倒在横流的污浊中，却十分诡异的破碎成一片光点"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "詹舜",
+      "aliases": [
+        "神君"
+      ],
+      "identity": "阴阳序二衍尊，东皇宫真正主人",
+      "faction": "东皇宫",
+      "status": "登场",
+      "first_appearance": "第676章衍尊詹舜",
+      "summary": "阴阳序二衍尊，东皇宫神君，拥有变幻面容的能力，能剥夺梦主规则。",
+      "appearance": [
+        "长发披肩",
+        "五官在不同面貌间不停切换"
+      ],
+      "personality": [
+        "怪诞",
+        "冷静",
+        "研究型"
+      ],
+      "abilities": [
+        "剥夺梦主规则",
+        "复活下属"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "敌对"
+        },
+        {
+          "target": "神荼",
+          "type": "下属"
+        },
+        {
+          "target": "赵寅",
+          "type": "下属"
+        },
+        {
+          "target": "翟崇",
+          "type": "下属"
+        },
+        {
+          "target": "殷温",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身永乐洞天，与邹四九对峙，剥夺其梦主规则。"
+        }
+      ],
+      "evidence": [
         "君号‘神君’，阴阳序二衍尊，詹舜",
-        "”　　詹舜闻言点头，他脸上的五官颇为诡异，在不同的面貌间不停切换，男女老少，青壮妇孺，不一而足，让人根本看不出到底哪一张脸才是属于他的本来面貌"
+        "他脸上的五官颇为诡异，在不同的面貌间不停切换",
+        "詹舜从黑袍下伸出两只手掌"
       ],
       "mention_count": 10
     },
     {
-      "name": "沈笠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "袁明妃",
+      "aliases": [
+        "袁姐"
+      ],
+      "identity": "佛序二十方菩萨",
+      "faction": "佛序",
       "status": "登场",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
-        "肆虐屠戮之余，沈笠甚至还发现体内多出了不少自己以往从未淬炼过的武学劲力",
-        "沈笠举手投足之间，仿佛无穷无尽的劲力肆意宣泄，靠近的黄粱鬼潮顷刻间便被扫荡一空，冲刷成满地白骨和碎肉"
+      "summary": "佛序二十方菩萨，与邹四九有交情，出手相助。",
+      "appearance": [
+        "冷艳面容",
+        "洁白纤细手掌"
       ],
-      "mention_count": 6
+      "personality": [],
+      "abilities": [
+        "佛序二修为"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "盟友"
+        },
+        {
+          "target": "詹舜",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身永乐洞天，与詹舜对峙。"
+        }
+      ],
+      "evidence": [
+        "一张冷艳的面容涟漪之中浮现出来",
+        "袁明妃站在邹四九身前，与空中的詹舜漠然对视"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "写下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "赵寅",
+      "aliases": [
+        "司命"
+      ],
+      "identity": "东皇宫九君之一，君号司命",
+      "faction": "东皇宫",
+      "status": "死亡后复活",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
+      "summary": "东皇宫九君之一，被天光烧成飞灰后因詹舜能力复活。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
-        "君号‘魇君’的天粤，写下梦主规则【日月如梭】",
-        "君号‘司命’的赵寅，写下梦主规则【牵丝戏场】"
+      "abilities": [
+        "梦主规则【牵丝戏场】"
       ],
-      "mention_count": 6
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "敌对"
+        },
+        {
+          "target": "詹舜",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与神荼一同攻击邹四九，被天光烧成飞灰后复活。"
+        }
+      ],
+      "evidence": [
+        "君号‘司命’的赵寅，写下梦主规则【牵丝戏场】",
+        "奔袭半途的神荼和赵寅同样没有逃过天光的照射，并烧成一片飞灰，接着又在詹舜的身后再次出现"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "写下梦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "翟崇",
+      "aliases": [
+        "殇官"
+      ],
+      "identity": "东皇宫九君之一，君号殇官",
+      "faction": "东皇宫",
       "status": "登场",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
+      "summary": "东皇宫九君之一，站在詹舜身后。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
-        "君号‘魇君’的天粤，写下梦主规则【日月如梭】",
-        "君号‘司命’的赵寅，写下梦主规则【牵丝戏场】"
+      "abilities": [
+        "梦主规则【派衍天方】"
       ],
-      "mention_count": 6
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹舜",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身永乐洞天，站在詹舜身后。"
+        }
+      ],
+      "evidence": [
+        "君号‘殇官’的翟崇，写下梦主规则【派衍天方】",
+        "散在名为翟崇和殷温的两人身后"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "写下梦主",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "殷温",
+      "aliases": [
+        "山鬼"
+      ],
+      "identity": "东皇宫九君之一，君号山鬼",
+      "faction": "东皇宫",
       "status": "登场",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
+      "summary": "东皇宫九君之一，站在詹舜身后。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
-        "君号‘魇君’的天粤，写下梦主规则【日月如梭】",
-        "君号‘司命’的赵寅，写下梦主规则【牵丝戏场】"
+      "abilities": [
+        "梦主规则【亿梦听风】"
       ],
-      "mention_count": 6
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹舜",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身永乐洞天，站在詹舜身后。"
+        }
+      ],
+      "evidence": [
+        "君号‘山鬼’的殷温，写下梦主规则【亿梦听风】",
+        "散在名为翟崇和殷温的两人身后"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "君号",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "陆弧",
+      "aliases": [
+        "觋君"
+      ],
+      "identity": "东皇宫九君之一，君号觋君",
+      "faction": "东皇宫",
+      "status": "提及",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
+      "summary": "东皇宫九君之一，写下梦主规则【禁血樊笼】。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】",
-        "君号‘魇君’的天粤，写下梦主规则【日月如梭】",
-        "君号‘司命’的赵寅，写下梦主规则【牵丝戏场】"
+      "abilities": [
+        "梦主规则【禁血樊笼】"
       ],
-      "mention_count": 6
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹舜",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为东皇宫九君之一。"
+        }
+      ],
+      "evidence": [
+        "在东皇宫中君号‘觋君’的陆弧，写下梦主规则【禁血樊笼】"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "邹爷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "天粤",
+      "aliases": [
+        "魇君"
+      ],
+      "identity": "东皇宫九君之一，君号魇君",
+      "faction": "东皇宫",
+      "status": "提及",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "“没想到啊，邹爷在黄粱梦境之中居然这么猛",
+      "summary": "东皇宫九君之一，写下梦主规则【日月如梭】。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“没想到啊，邹爷在黄粱梦境之中居然这么猛",
-        "“等你们东皇宫给机会，邹爷我早就不知道死多少次了",
-        "“所以，你们这次真正的目的，应该就是邹爷我手中的那两成权限吧"
+      "abilities": [
+        "梦主规则【日月如梭】"
       ],
-      "mention_count": 5
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹舜",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为东皇宫九君之一。"
+        }
+      ],
+      "evidence": [
+        "君号‘魇君’的天粤，写下梦主规则【日月如梭】"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "神荼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "呼恶",
+      "aliases": [
+        "东君"
+      ],
+      "identity": "前东皇宫九君之一，君号东君",
+      "faction": "东皇宫",
+      "status": "已故",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
+      "summary": "被邹四九抢走梦主规则，已死亡。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在邹四九的规则和权限加持之下，沈笠此刻宛如猛虎下山，在神荼所控制的黄粱鬼中横冲直撞，无人是他一合之敌",
-        "如今在神荼的‘造梦’之下，他们都认为自己是历经劫难之后成功冲破了小世界的束缚，飞升‘仙界’的得道之人",
-        "一处雨水积聚的泥坑之中，神荼颓然跪地，头颅低垂，点点殷红顺着雨珠不断滴落"
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被邹四九抢走梦主规则，死亡。"
+        }
+      ],
+      "evidence": [
+        "被邹四九抢走梦主规则的‘东君’呼恶和‘羲主’牟安并没有出现"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "你是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "牟安",
+      "aliases": [
+        "羲主"
+      ],
+      "identity": "前东皇宫九君之一，君号羲主",
+      "faction": "东皇宫",
+      "status": "已故",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "“你是东皇宫没有预料到的是一个异数，但不代表你就有能力跳出天意",
+      "summary": "被邹四九抢走梦主规则，已死亡。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你是东皇宫没有预料到的是一个异数，但不代表你就有能力跳出天意",
-        "”　　“这么说是，你是心甘情愿要为张峰岳当一次诱饵了",
-        "“邹四九，你是一个十分不错的研究物"
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被邹四九抢走梦主规则，死亡。"
+        }
+      ],
+      "evidence": [
+        "被邹四九抢走梦主规则的‘东君’呼恶和‘羲主’牟安并没有出现"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "邹爷我",
-      "aliases": [],
+      "name": "李钧",
+      "aliases": [
+        "老李"
+      ],
+      "identity": "独行武序",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第676章衍尊詹舜",
+      "summary": "独行武序，其劲力出现在沈笠体内，被邹四九提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "崩势",
+        "锋劲"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "盟友"
+        },
+        {
+          "target": "沈笠",
+          "type": "劲力传承"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其劲力被沈笠在梦境中获得。"
+        }
+      ],
+      "evidence": [
+        "正是属于李钧的淬武劲力，崩势和锋劲",
+        "果然不是人人都是老李那个妖孽"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "张老头"
+      ],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第676章衍尊詹舜",
-      "summary": "“等你们东皇宫给机会，邹爷我早就不知道死多少次了",
+      "summary": "被邹四九提及，似乎与邹四九有合作。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“等你们东皇宫给机会，邹爷我早就不知道死多少次了",
-        "“所以，你们这次真正的目的，应该就是邹爷我手中的那两成权限吧",
-        "”　　“吃人嘴短，拿人手软，邹爷我向来的原则都是滴水之恩当涌泉相报，别人给我笑脸，我可不会还个白眼"
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "合作"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被邹四九提及，称其为人实诚。"
+        }
+      ],
+      "evidence": [
+        "张老头做人比你们要实诚太多了",
+        "你是心甘情愿要为张峰岳当一次诱饵了"
+      ],
+      "mention_count": 2
     }
   ]
 }

@@ -1,241 +1,290 @@
 {
   "chunk_id": "chunk-0010",
-  "title": "第9章擦屁股，掀桌子",
   "characters": [
     {
-      "name": "赵斗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "况青云",
+      "aliases": [
+        "况先生"
+      ],
+      "identity": "浑水袍哥成员，鼎爷手下",
+      "faction": "浑水袍哥",
       "status": "登场",
       "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "”赵斗张开五指放在面前，缓缓捏成拳头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”赵斗张开五指放在面前，缓缓捏成拳头",
-        "赵斗一声暴喝，额角青筋根根抽动，脸上戾气如有实质",
-        "赵斗想都不想答道：“不服就杀"
+      "summary": "鼎爷派来与李钧交涉的袍哥成员，试图维护袍哥会内部团结，但被赵斗的背叛激怒。",
+      "appearance": [
+        "红光明灭的眸底"
       ],
-      "mention_count": 18
+      "personality": [
+        "生硬",
+        "怒形于色",
+        "痞气"
+      ],
+      "abilities": [],
+      "equipment": [
+        "折扇"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同袍"
+        },
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        },
+        {
+          "target": "赵鼎",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "命令李钧回堂口见鼎爷，与赵斗对峙。"
+        }
+      ],
+      "evidence": [
+        "况青云有红光明灭的眸底倒映着李钧的身影",
+        "况青云怒道：浑水袍哥内从来没有子承父位的规矩",
+        "况青云痛心疾首：你明不明白什么叫非我族类其心必异"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "况青云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李钧",
+      "aliases": [
+        "红旗五哥"
+      ],
+      "identity": "有望晋升序列的红旗五哥",
+      "faction": "浑水袍哥",
       "status": "登场",
       "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "”　　况青云有红光明灭的眸底倒映着李钧的身影，说话声音虽然不大，但语气却格外生硬",
+      "summary": "浑水袍哥的红旗五哥，被赵斗视为眼中钉，渴望力量以改变命运。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "无力感",
+        "渴望力量"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "两支药剂"
+      ],
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "同袍"
+        },
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        },
+        {
+          "target": "孙九",
+          "type": "从孙九身上拔芯片"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "捏碎芯片，与况青云一同面对赵斗和祭刀会。"
+        }
+      ],
       "evidence": [
-        "”　　况青云有红光明灭的眸底倒映着李钧的身影，说话声音虽然不大，但语气却格外生硬",
-        "李钧在况青云身上感觉到了和余寇相似的压迫感，那种宛如来自天敌的凝视",
-        "这是况青云给李钧最后的耐心，如果李钧再不识抬举，那他不介意亲手处理了这位有望晋升序列的红旗五哥"
+        "李钧在况青云身上感觉到了和余寇相似的压迫感",
+        "李钧左手攥紧掌心之中的两支药剂",
+        "李钧听到这个声音的瞬间，浑身汗毛根根竖起"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "赵斗",
+      "aliases": [
+        "疯狗"
+      ],
+      "identity": "赵鼎的侄子，浑水袍哥成员",
+      "faction": "浑水袍哥（与祭刀会合作）",
+      "status": "登场",
+      "first_appearance": "第9章擦屁股，掀桌子",
+      "summary": "赵鼎的侄子，因无法继承舵把子位置而勾结祭刀会，性格偏执癫狂。",
+      "appearance": [
+        "脖子以下全是刺目的金属寒光",
+        "西夷刺绣衬衣"
+      ],
+      "personality": [
+        "偏执",
+        "癫狂",
+        "跋扈"
+      ],
+      "abilities": [
+        "基因锁无法打开"
+      ],
+      "equipment": [
+        "金属改造身体"
+      ],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "叔侄"
+        },
+        {
+          "target": "况青云",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "虎冢",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带祭刀会进入九龙街，与况青云、李钧对峙。"
+        }
+      ],
+      "evidence": [
+        "赵斗一声暴喝，额角青筋根根抽动",
+        "赵斗面容猛然变得狰狞",
+        "赵斗懒洋洋的掏了掏耳朵，一步三摇晃向前走来"
       ],
       "mention_count": 14
     },
     {
-      "name": "李钧",
+      "name": "虎冢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "祭刀会高层",
+      "faction": "祭刀会",
       "status": "登场",
       "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "”　　况青云有红光明灭的眸底倒映着李钧的身影，说话声音虽然不大，但语气却格外生硬",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　况青云有红光明灭的眸底倒映着李钧的身影，说话声音虽然不大，但语气却格外生硬",
-        "李钧在况青云身上感觉到了和余寇相似的压迫感，那种宛如来自天敌的凝视",
-        "这是况青云给李钧最后的耐心，如果李钧再不识抬举，那他不介意亲手处理了这位有望晋升序列的红旗五哥"
+      "summary": "祭刀会高层，与赵斗合作，插手袍哥会事务。",
+      "appearance": [
+        "身形修长，留武士头，喉咙处刺黑虎头颅，侧脸有虎纹导线"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "况青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "”　　况青云有红光明灭的眸底倒映着李钧的身影，说话声音虽然不大，但语气却格外生硬",
-      "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　况青云有红光明灭的眸底倒映着李钧的身影，说话声音虽然不大，但语气却格外生硬",
-        "李钧在况青云身上感觉到了和余寇相似的压迫感，那种宛如来自天敌的凝视",
-        "这是况青云给李钧最后的耐心，如果李钧再不识抬举，那他不介意亲手处理了这位有望晋升序列的红旗五哥"
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "合作"
+        },
+        {
+          "target": "况青云",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "反而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "反而直愣愣站在原地，似乎在等待着什么人出现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "反而直愣愣站在原地，似乎在等待着什么人出现",
-        "你费尽心思帮别人擦屁股，结果别人根本不领情，反而直接掀了你的桌子"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵斗一同出现，与况青云对峙。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "第9章擦屁股，掀桌子　　“既然事情已经了结了，那就把那块芯片毁了吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第9章擦屁股，掀桌子　　“既然事情已经了结了，那就把那块芯片毁了吧",
-        "”　　况青云怒道：“浑水袍哥内从来没有子承父位的规矩，谁有本事那就谁上位",
-        "况青云痛心疾首：“你明不明白什么叫非我族类其心必异，和祭刀会合作，那就是与虎谋皮"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "他不是在劝说，而是命令",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他不是在劝说，而是命令",
-        "”　　这不是雷声，而是不计其数的脚步声"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "点了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "”　　况青云脸上再次露出和煦的笑意，点了点头道：“走吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　况青云脸上再次露出和煦的笑意，点了点头道：“走吧"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "反而直愣愣站在原地，似乎在等待着什么人出现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "反而直愣愣站在原地，似乎在等待着什么人出现",
-        "似乎根本没有把九龙街三千浑水袍哥放在眼里"
+        "一个浑厚沙哑的嗓音插了进来",
+        "虎冢连同他身后的祭刀会高层悄无声息的朝着左右挪开"
       ],
       "mention_count": 3
     },
     {
       "name": "赵鼎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "鼎爷"
+      ],
+      "identity": "浑水袍哥舵把子",
+      "faction": "浑水袍哥",
+      "status": "提及",
       "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "“既然赵鼎不给，那我就自己来拿",
+      "summary": "浑水袍哥的舵把子，赵斗的叔叔，被赵斗视为不公的根源。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "叔侄"
+        },
+        {
+          "target": "况青云",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“既然赵鼎不给，那我就自己来拿",
-        "赵斗话中的他，毫无疑问就是自己的亲叔叔，赵鼎",
-        "赵鼎一世心血毁于一旦，况青云谋求袍哥会内团结安稳的想法也成了笑话"
+        "鼎爷有些话想当面跟你说",
+        "赵斗话中的他，毫无疑问就是自己的亲叔叔，赵鼎"
       ],
-      "mention_count": 3
+      "mention_count": 5
     },
     {
-      "name": "祭刀会",
+      "name": "罗镇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "成都府天府戍卫司新上任的巡检，鸡鹅区防务官",
+      "faction": "天府戍卫司",
       "status": "登场",
       "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "果不其然，虎冢连同他身后的祭刀会高层悄无声息的朝着左右挪开，恭恭敬敬露出一条通道",
+      "summary": "压轴出场的大人物，天府戍卫司巡检，鸡鹅区防务官。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "果不其然，虎冢连同他身后的祭刀会高层悄无声息的朝着左右挪开，恭恭敬敬露出一条通道",
-        "从赵斗带着祭刀会的人堂而皇之的进了九龙街的一刻开始，无论今天他是生是死，赵家在浑水袍哥中都将名誉扫地",
-        "”　　“李钧你的命还真是大啊，祭刀会和天府戍卫两队人马居然都整不死你"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在赵斗与况青云对峙时出场。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "有人负手身后，龙行虎步走出",
+        "成都府天府戍卫司新上任的巡检，鸡鹅区防务官，罗镇"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "拼命",
+      "name": "孙九",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "赵斗的心腹",
+      "faction": "浑水袍哥（赵斗派）",
+      "status": "提及（已死）",
       "first_appearance": "第9章擦屁股，掀桌子",
-      "summary": "拼命的前提是有翻盘的机会，不然就是送死",
+      "summary": "赵斗的心腹，被李钧从身上拔出了芯片。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "心腹"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被李钧杀死，芯片被拔。"
+        }
+      ],
+      "evidence": [
+        "从孙九身上拔出的芯片被捏成齑粉"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "余寇",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第9章擦屁股，掀桌子",
+      "summary": "被李钧用来与况青云的压迫感作比较的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -243,9 +292,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "拼命的前提是有翻盘的机会，不然就是送死"
+        "李钧在况青云身上感觉到了和余寇相似的压迫感"
       ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

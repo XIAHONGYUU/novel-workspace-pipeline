@@ -1,247 +1,129 @@
 {
   "chunk_id": "chunk-0024",
-  "title": "第23章 一只羊",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "公司职员，获得力士咒印的穿越者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第23章 一只羊",
-      "summary": "获得‘力士’咒印，苏午就相当于获得了一个永久的体魄增强buff",
+      "summary": "故事主角，获得力士咒印后通过大量进食强化体魄，正在复盘模拟未来中的经历，思考如何突破伥尸包围。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "获得‘力士’咒印，苏午就相当于获得了一个永久的体魄增强buff",
-        "仅这两项能力，就让苏午觉得值回票价了",
-        "苏午心头发热，有些迫不及待想试一试咒印的能力"
+      "personality": [
+        "冷静",
+        "善于思考",
+        "谨慎"
       ],
-      "mention_count": 19
+      "abilities": [
+        "力士咒印：通过大量进食增长力气、强化体魄；受伤害越多气力越增长；较易习得格斗搏杀等攻击性暴力"
+      ],
+      "equipment": [
+        "雪佛兰-科鲁兹车钥匙"
+      ],
+      "relationships": [
+        {
+          "target": "江莺莺",
+          "type": "模拟未来中的同伴"
+        },
+        {
+          "target": "辛巧鸽",
+          "type": "前同事，厌恶"
+        },
+        {
+          "target": "王志友",
+          "type": "前同事，厌恶"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在餐馆吃烤全羊，测试力士咒印效果"
+        }
+      ],
+      "evidence": [
+        "获得‘力士’咒印，苏午就相当于获得了一个永久的体魄增强buff。",
+        "苏午心头发热，有些迫不及待想试一试咒印的能力。",
+        "苏午用刀割下一条羊腿，很有条例地将羊腿肉分割好，一块一块吃了起来。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "它们",
+      "name": "江莺莺",
       "aliases": [],
-      "identity": "",
+      "identity": "模拟未来中的同伴",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第23章 一只羊",
-      "summary": "更何况，那些融合进‘力士咒印’的天赋并未就此消失，它们的能力一样在咒印里得到体现",
+      "summary": "在模拟未来中与苏午同行，临死前将应急罐头交给苏午。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "更何况，那些融合进‘力士咒印’的天赋并未就此消失，它们的能力一样在咒印里得到体现",
-        "‘伥尸’自身比较脆弱，很容易就能把它们打得四分五裂",
-        "它们聚合碎肉的速度很快"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "模拟未来",
+          "event": "临死前将应急罐头交给苏午"
+        }
+      ],
+      "evidence": [
+        "这次模拟里，江莺莺临死前亲手把‘应急罐头’交给了苏午"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "伥尸",
+      "name": "辛巧鸽",
       "aliases": [],
-      "identity": "",
+      "identity": "苏午的前同事",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第23章 一只羊",
-      "summary": "或许闯过那一群‘伥尸’的包围，就能到一个相对安全的区域",
+      "summary": "苏午的前同事，曾给苏午使绊子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "前同事，被厌恶"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "或许闯过那一群‘伥尸’的包围，就能到一个相对安全的区域",
-        "但是，如何闯过那些‘伥尸’的包围",
-        "‘伥尸’自身比较脆弱，很容易就能把它们打得四分五裂"
+        "他脑海里闪过辛巧鸽、王志友两个前同事的脸庞，心里顿时涌起浓浓的厌恶感。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "力士",
+      "name": "王志友",
       "aliases": [],
-      "identity": "",
+      "identity": "苏午的前同事",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第23章 一只羊",
-      "summary": "第23章 一只羊　　力士（丁之咒印）：受此咒印加持，在自身大量消耗食物的情况下，可使自身力气不断增长，体魄得到强化；　　在抽烟、观看少儿不宜的影片时，可在不打麻药的情况下，转移截肢一般的疼痛；　　与其他人搏斗时，受到伤害越多，气力越会增长；",
+      "summary": "苏午的前同事，曾给苏午使绊子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "前同事，被厌恶"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "第23章 一只羊　　力士（丁之咒印）：受此咒印加持，在自身大量消耗食物的情况下，可使自身力气不断增长，体魄得到强化；　　在抽烟、观看少儿不宜的影片时，可在不打麻药的情况下，转移截肢一般的疼痛；　　与其他人搏斗时，受到伤害越多，气力越会增长；",
-        "获得‘力士’咒印，苏午就相当于获得了一个永久的体魄增强buff",
-        "更何况，那些融合进‘力士咒印’的天赋并未就此消失，它们的能力一样在咒印里得到体现"
+        "他脑海里闪过辛巧鸽、王志友两个前同事的脸庞，心里顿时涌起浓浓的厌恶感。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "咒印",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "第23章 一只羊　　力士（丁之咒印）：受此咒印加持，在自身大量消耗食物的情况下，可使自身力气不断增长，体魄得到强化；　　在抽烟、观看少儿不宜的影片时，可在不打麻药的情况下，转移截肢一般的疼痛；　　与其他人搏斗时，受到伤害越多，气力越会增长；",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第23章 一只羊　　力士（丁之咒印）：受此咒印加持，在自身大量消耗食物的情况下，可使自身力气不断增长，体魄得到强化；　　在抽烟、观看少儿不宜的影片时，可在不打麻药的情况下，转移截肢一般的疼痛；　　与其他人搏斗时，受到伤害越多，气力越会增长；",
-        "此咒印可通过融合同类天赋、咒印进行提升",
-        "……　　如果说天赋是单一指向的某种能力，咒印就是对个人某一方面的综合提升"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "在自",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "第23章 一只羊　　力士（丁之咒印）：受此咒印加持，在自身大量消耗食物的情况下，可使自身力气不断增长，体魄得到强化；　　在抽烟、观看少儿不宜的影片时，可在不打麻药的情况下，转移截肢一般的疼痛；　　与其他人搏斗时，受到伤害越多，气力越会增长；",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第23章 一只羊　　力士（丁之咒印）：受此咒印加持，在自身大量消耗食物的情况下，可使自身力气不断增长，体魄得到强化；　　在抽烟、观看少儿不宜的影片时，可在不打麻药的情况下，转移截肢一般的疼痛；　　与其他人搏斗时，受到伤害越多，气力越会增长；"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "线与",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "线与面的差距",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "线与面的差距"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "先把",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "但他按捺住了这种冲动，先把新得的‘雪佛兰－科鲁兹’车钥匙放进桌上的背包里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但他按捺住了这种冲动，先把新得的‘雪佛兰－科鲁兹’车钥匙放进桌上的背包里"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "即使",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "即使后面道路被汽车废墟阻住，他和江莺莺弃车走路，也没有丢掉这把钥匙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "即使后面道路被汽车废墟阻住，他和江莺莺弃车走路，也没有丢掉这把钥匙"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "……　　如果说天赋是单一指向的某种能力，咒印就是对个人某一方面的综合提升",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　如果说天赋是单一指向的某种能力，咒印就是对个人某一方面的综合提升",
-        "拦在道路前的汽车废墟本身就是这只诡异的一部分，它既然阻在道路前，就摆明了不会准允任何车辆通行",
-        "此种情况下，不要说是一辆大卡车，就是来一辆坦克，该过不去还是过不去"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "该过",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "此种情况下，不要说是一辆大卡车，就是来一辆坦克，该过不去还是过不去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此种情况下，不要说是一辆大卡车，就是来一辆坦克，该过不去还是过不去"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第23章 一只羊",
-      "summary": "但苏午随后就打消了这种想法",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但苏午随后就打消了这种想法",
-        "服务员提着一壶茶水走了进来，看到独自坐在主位的苏午，她愣了愣，随后笑着道：“您点的烤全羊已经烤好了，您的朋友还没来吗"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

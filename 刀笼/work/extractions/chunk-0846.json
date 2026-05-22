@@ -1,256 +1,368 @@
 {
   "chunk_id": "chunk-0846",
-  "title": "第四章 龙脉",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "副教主",
+        "夜皇"
+      ],
+      "identity": "真神修士，疑似东华山副教主",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四章 龙脉",
-      "summary": "大千世界是没有龙脉的，不过在这张图上，戚笼分明感受到了强大的龙气",
+      "summary": "主角，修为深厚，拥有圆道人遗藏，正被多方势力觊觎。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "大千世界是没有龙脉的，不过在这张图上，戚笼分明感受到了强大的龙气",
-        "”    戚笼细看之，发现关中的山理脉络描绘的十分清晰，而其他地方便是用简笔虚描，而且明显以关中为核心",
-        "不知为何，戚笼总感觉有一种莫名的熟悉感"
+      "personality": [
+        "谨慎",
+        "果断",
+        "有城府"
       ],
-      "mention_count": 36
-    },
-    {
-      "name": "教主",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四章 龙脉",
-      "summary": "副教主是我们东华山的副教主，要开辟福地，当然是在我们东华山",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "副教主是我们东华山的副教主，要开辟福地，当然是在我们东华山",
-        "“副教主，想死我们啦",
-        "“教主大人，小灵可想你了"
+      "abilities": [
+        "肉身力量强大",
+        "修为深不可测"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "副教主",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四章 龙脉",
-      "summary": "副教主是我们东华山的副教主，要开辟福地，当然是在我们东华山",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "副教主是我们东华山的副教主，要开辟福地，当然是在我们东华山",
-        "“副教主，想死我们啦",
-        "齐大姑和纪小灵对视一眼，心道乖乖，这个副教主好大的力量"
+      "equipment": [
+        "七煌剑",
+        "千年仙石等宝物"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四章 龙脉",
-      "summary": "”    戚笼细看之，发现关中的山理脉络描绘的十分清晰，而其他地方便是用简笔虚描，而且明显以关中为核心",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼细看之，发现关中的山理脉络描绘的十分清晰，而其他地方便是用简笔虚描，而且明显以关中为核心",
-        "绕过关中图，李月儿带戚笼来到了一座宝库，打开一看，琳琅满目，而且都是开辟大洞天的宝物",
-        "”    戚笼点头，知道李淳罡是在笼络自己，而且大洞天相近，也是关系深的标志，守望相助嘛"
+      "relationships": [
+        {
+          "target": "李月儿",
+          "type": "同行者"
+        },
+        {
+          "target": "齐大姑",
+          "type": "旧识"
+        },
+        {
+          "target": "纪小灵",
+          "type": "被称作副教主"
+        },
+        {
+          "target": "徐凰凰",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在长安城观看关中图，收取宝库，拒绝东华山邀请，击败徐凰凰，公开宣战。"
+        }
+      ],
+      "evidence": [
+        "戚笼细看之，发现关中的山理脉络描绘的十分清晰",
+        "戚笼点头，不再多问",
+        "戚笼双指随着用力，渐渐青黑一片，像是老树皮裹着树筋，随着上下一合，就在下一瞬间，猛然断裂。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "李月儿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "李家后人，皇叔李淳罡的侄女",
+      "faction": "李家",
       "status": "登场",
       "first_appearance": "第四章 龙脉",
-      "summary": "绕过关中图，李月儿带戚笼来到了一座宝库，打开一看，琳琅满目，而且都是开辟大洞天的宝物",
+      "summary": "带戚笼参观关中图和宝库的李家女子。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "abilities": [
+        "使用玉珠类法宝"
+      ],
+      "equipment": [
+        "玉珠类法宝"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "向导"
+        },
+        {
+          "target": "李淳罡",
+          "type": "皇叔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带戚笼参观关中图和宝库，并邀请其到关中开辟洞天。"
+        }
+      ],
       "evidence": [
-        "绕过关中图，李月儿带戚笼来到了一座宝库，打开一看，琳琅满目，而且都是开辟大洞天的宝物",
-        "李月儿不知戚笼的心思，还道：“皇叔说了，大人若是没选择好开辟大洞天的地点，不如来关中看一看，合适的灵脉仙山有不少，而我李家一定倒屣相迎",
-        "”    戚笼按住了李月儿，同时嘴角抽搐，只见化身菩提僧曾打过交道的齐大姑一把扑了上来，抱住自家大腿就开始嚎"
+        "绕过关中图，李月儿带戚笼来到了一座宝库",
+        "李月儿不知戚笼的心思，还道：“皇叔说了，大人若是没选择好开辟大洞天的地点，不如来关中看一看”"
       ],
       "mention_count": 6
     },
     {
-      "name": "打开",
+      "name": "齐大姑",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "东华山弟子，肉身变化高手",
+      "faction": "东华山",
       "status": "登场",
       "first_appearance": "第四章 龙脉",
-      "summary": "绕过关中图，李月儿带戚笼来到了一座宝库，打开一看，琳琅满目，而且都是开辟大洞天的宝物",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "东华山弟子，曾与戚笼在夜昼国打过交道。",
+      "appearance": [
+        "肥肉炮弹"
+      ],
+      "personality": [
+        "圆滑",
+        "讨好"
+      ],
+      "abilities": [
+        "肉身变化强"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "旧识，试图拉拢"
+        },
+        {
+          "target": "纪小灵",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与纪小灵闯入宝库，邀请戚笼回东华山。"
+        }
+      ],
       "evidence": [
-        "绕过关中图，李月儿带戚笼来到了一座宝库，打开一看，琳琅满目，而且都是开辟大洞天的宝物",
-        "”    纪小灵喜滋滋的接过，打开一看，是一块吃了一半的肉饼，顿时垮了脸"
+        "只见化身菩提僧曾打过交道的齐大姑一把扑了上来",
+        "齐大姑和纪小灵对视一眼，心道乖乖，这个副教主好大的力量。"
       ],
       "mention_count": 6
     },
     {
-      "name": "像是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "纪小灵",
+      "aliases": [
+        "小灵"
+      ],
+      "identity": "东华山女弟子，百灵子徒弟",
+      "faction": "东华山",
       "status": "登场",
       "first_appearance": "第四章 龙脉",
-      "summary": "不像是《笼中图》的魔性疯狂，反倒是有一种返璞归真的感觉",
-      "appearance": [],
-      "personality": [],
+      "summary": "东华山女弟子，活泼贪财。",
+      "appearance": [
+        "娇小",
+        "大眼睛"
+      ],
+      "personality": [
+        "活泼",
+        "贪财"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不像是《笼中图》的魔性疯狂，反倒是有一种返璞归真的感觉",
-        "”    道场就像是一个巨大的吸金窟，不管挣来多少，经手一转，立刻就没了，她也问过师傅百灵子，是不是别家开辟道场也像自家这么苦逼，百灵子回答过，有些道场的开辟，在上古末期就开始准备了，像是大峨山，而有些道场则是在上古大破灭的大机缘，像是宁乞",
-        "”    戚笼双指随着用力，渐渐青黑一片，像是老树皮裹着树筋，随着上下一合，就在下一瞬间，猛然断裂"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "称其为教主"
+        },
+        {
+          "target": "齐大姑",
+          "type": "同门"
+        },
+        {
+          "target": "百灵子",
+          "type": "师傅"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与齐大姑一起邀请戚笼回东华山。"
+        }
+      ],
+      "evidence": [
+        "另一道娇小的身影也扑了过来，抱住了另一只大腿。",
+        "纪小灵眨巴着大眼睛，突然看到宝库中的一众宝物，眼神再次闪烁金光。"
+      ],
+      "mention_count": 6
     },
     {
       "name": "徐凰凰",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "大峨派剑仙，有妖族血统",
+      "faction": "大峨派",
       "status": "登场",
       "first_appearance": "第四章 龙脉",
-      "summary": "又是一道剑光闪电般射来，露出徐凰凰焦急的面孔，激动道：“我徐家老祖的七煌剑是不是在你手上",
+      "summary": "前来索要七煌剑的剑仙，被戚笼击败。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "意志坚定"
+      ],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [
+        "青色宝剑"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向戚笼索要七煌剑，出手攻击被击败。"
+        }
+      ],
       "evidence": [
-        "又是一道剑光闪电般射来，露出徐凰凰焦急的面孔，激动道：“我徐家老祖的七煌剑是不是在你手上",
-        "”    徐凰凰深吸了几口气，道：“这是我家的东西，请前辈还我",
-        "”    徐凰凰面色一白，在几人有些诧异的眼神，涩声道：“是，晚辈的确有妖族血统"
+        "徐凰凰深吸了几口气，道：“这是我家的东西，请前辈还我。”",
+        "徐凰凰一时无言，但是意志渐渐坚定，二话不说，突然出手"
       ],
       "mention_count": 5
     },
     {
-      "name": "随着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "李淳罡",
+      "aliases": [
+        "皇叔"
+      ],
+      "identity": "李家皇叔，三劫真神",
+      "faction": "李家",
+      "status": "提及",
       "first_appearance": "第四章 龙脉",
-      "summary": "”    戚笼双指随着用力，渐渐青黑一片，像是老树皮裹着树筋，随着上下一合，就在下一瞬间，猛然断裂",
+      "summary": "李月儿的皇叔，曾观看关中图突破境界。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼双指随着用力，渐渐青黑一片，像是老树皮裹着树筋，随着上下一合，就在下一瞬间，猛然断裂",
-        "戚笼抬头望天，随着一丝气机牵引，天空顷刻间乌云密布，雷声大作"
+      "abilities": [
+        "三劫真神"
       ],
-      "mention_count": 5
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李月儿",
+          "type": "皇叔"
+        },
+        {
+          "target": "戚笼",
+          "type": "笼络对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "观看关中图突破三劫真神。"
+        }
+      ],
+      "evidence": [
+        "大人，当初皇叔便是在这张关中图上有所领悟，这才心境突破，修成三劫真神的。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "当初",
+      "name": "百灵子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "东华山掌门",
+      "faction": "东华山",
+      "status": "提及",
       "first_appearance": "第四章 龙脉",
-      "summary": "’    “大人，当初皇叔便是在这张关中图上有所领悟，这才心境突破，修成三劫真神的",
+      "summary": "东华山掌门，纪小灵的师傅。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "纪小灵",
+          "type": "师傅"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "’    “大人，当初皇叔便是在这张关中图上有所领悟，这才心境突破，修成三劫真神的",
-        "尤其是齐大姑，他是见过戚笼的，当初在夜昼国，新皇登基之时，这位便是新任夜皇",
-        "”    “哦~”戚笼意味深长，道：“但你还是大峨派剑仙，当初圆老祖亲口说过，遗藏宝物，有缘者得之，如今宝剑落在我手上，那么到底是你有缘还是我缘"
+        "她也问过师傅百灵子"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "李月",
+      "name": "青帝",
       "aliases": [],
-      "identity": "",
+      "identity": "上古神物，东华山祖师爷的祖师爷",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四章 龙脉",
-      "summary": "绕过关中图，李月儿带戚笼来到了一座宝库，打开一看，琳琅满目，而且都是开辟大洞天的宝物",
+      "summary": "被东华山封印的上古神物，戚笼打算对付的目标。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "东华山",
+          "type": "被封印"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "绕过关中图，李月儿带戚笼来到了一座宝库，打开一看，琳琅满目，而且都是开辟大洞天的宝物",
-        "李月儿不知戚笼的心思，还道：“皇叔说了，大人若是没选择好开辟大洞天的地点，不如来关中看一看，合适的灵脉仙山有不少，而我李家一定倒屣相迎",
-        "”    戚笼按住了李月儿，同时嘴角抽搐，只见化身菩提僧曾打过交道的齐大姑一把扑了上来，抱住自家大腿就开始嚎"
+        "东华山不惦记他，他也要惦记对方，要先证就胎仙，需要上古神物的肉身，还有什么比起青帝之子更合适。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "虽然",
+      "name": "血衣青年",
       "aliases": [],
-      "identity": "",
+      "identity": "未知，疑似魔道人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四章 龙脉",
-      "summary": "虽然借助洞天之力，同等阶位下自己能够以一敌十，但是自己得了遗藏的消息一旦泄露，来围攻自己的真神说不定能达到百倍，自己打不过可以溜，但是大洞天怕是保不住了",
-      "appearance": [],
+      "summary": "在西海血窟中感知到戚笼，消失不见。",
+      "appearance": [
+        "眉毛宛如钩",
+        "血衣"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然借助洞天之力，同等阶位下自己能够以一敌十，但是自己得了遗藏的消息一旦泄露，来围攻自己的真神说不定能达到百倍，自己打不过可以溜，但是大洞天怕是保不住了",
-        "”    “啊，忘了，”戚笼一拍脑袋，“虽然我不是你们教主，但这个给你",
-        "”齐大姑出了门，有些不解的问：“虽然我们把你当肥羊，但是有更多人把您当烤乳猪呢，我们只吃肉，那些人可是骨头都要嚼碎咽下去"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "认识"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "感知到戚笼后消失。"
+        }
+      ],
+      "evidence": [
+        "在西海的一处血窟之中，眉毛宛如钩的血衣青年睁开了眼。",
+        "“是他？！”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "长眉人影",
+      "aliases": [],
+      "identity": "未知，神秘人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第四章 龙脉",
+      "summary": "出现在血池上，血神子无法感知。",
+      "appearance": [
+        "长眉"
+      ],
+      "personality": [],
+      "abilities": [
+        "隐匿"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在血池上。"
+        }
+      ],
+      "evidence": [
+        "而不知何时，另一道人影出现在血池之上，看不清面目，只有一道长长的眉毛垂下"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,249 +1,129 @@
 {
   "chunk_id": "chunk-0237",
-  "title": "第235章鸿鹄隐王",
   "characters": [
     {
       "name": "丁桓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "隐王大人",
+        "隐王"
+      ],
+      "identity": "鸿鹄西南地区负责人",
+      "faction": "鸿鹄",
       "status": "登场",
       "first_appearance": "第235章鸿鹄隐王",
-      "summary": "戚槐自诩一身逢场作戏的本领就算没有达到炉火纯青的地步，但也不至于因为丁桓的一句话，就失态成这样",
-      "appearance": [],
-      "personality": [],
+      "summary": "鸿鹄组织西南地区的负责人，被称为隐王，心思缜密，早已识破戚槐的苦肉计。",
+      "appearance": [
+        "面如冠玉的俊美男人"
+      ],
+      "personality": [
+        "冷静",
+        "洞察力强",
+        "善于布局"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚槐自诩一身逢场作戏的本领就算没有达到炉火纯青的地步，但也不至于因为丁桓的一句话，就失态成这样",
-        "”　　丁桓拍了拍对方的肩头，“重任在肩，大局为重，为罪民区百姓争取自由的事情只能委屈你暂时先放一放了",
-        "”　　丁桓笑道：“这也没什么眼界的浅与不浅，毕竟戚槐你是出身帝国本土的纯正明人，又常年生活在重庆府这种好地方，自然对儒家序列的同化渗透感触不深"
+      "relationships": [
+        {
+          "target": "戚槐",
+          "type": "上下级"
+        },
+        {
+          "target": "朱祐泓",
+          "type": "合作对象"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在洪崖山瓦楼放映厅与戚槐摊牌，识破其苦肉计。"
+        }
+      ],
+      "evidence": [
+        "能让昔日堂堂的赌会‘正将’如此谨小慎微的伺候，说话之人的身份自然也不言而喻。",
+        "丁桓拍了拍对方的肩头，“重任在肩，大局为重，为罪民区百姓争取自由的事情只能委屈你暂时先放一放了。”",
+        "丁桓淡漠道：“在帝国眼里鸿鹄可是反贼，是叛逆，是人人喊打的过街老鼠”"
+      ],
+      "mention_count": 12
     },
     {
       "name": "戚槐",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "正将"
+      ],
+      "identity": "川渝赌会正将，鸿鹄成员",
+      "faction": "鸿鹄",
       "status": "登场",
       "first_appearance": "第235章鸿鹄隐王",
-      "summary": "戚槐自诩一身逢场作戏的本领就算没有达到炉火纯青的地步，但也不至于因为丁桓的一句话，就失态成这样",
+      "summary": "原川渝赌会正将，序七高手，曾执掌大半个川渝赌会，后加入鸿鹄，但被丁桓识破其苦肉计。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚槐自诩一身逢场作戏的本领就算没有达到炉火纯青的地步，但也不至于因为丁桓的一句话，就失态成这样",
-        "戚槐闷声道：“秦王殿下虽然是藩王，但同时也是一头笼中雀",
-        "”　　丁桓笑道：“这也没什么眼界的浅与不浅，毕竟戚槐你是出身帝国本土的纯正明人，又常年生活在重庆府这种好地方，自然对儒家序列的同化渗透感触不深"
+      "personality": [
+        "逢场作戏",
+        "谨慎",
+        "惊骇"
       ],
-      "mention_count": 11
+      "abilities": [
+        "序七高手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丁桓",
+          "type": "上级"
+        },
+        {
+          "target": "朱祐泓",
+          "type": "合作对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在洪崖山瓦楼放映厅与丁桓会面，被识破苦肉计。"
+        }
+      ],
+      "evidence": [
+        "戚槐自诩一身逢场作戏的本领就算没有达到炉火纯青的地步，但也不至于因为丁桓的一句话，就失态成这样。",
+        "作为一名货真价实的序七高手，还是曾经执掌大半个川渝赌会的正将。",
+        "戚槐无奈苦笑一声，“您是怎么看出来的，我应该没有露出什么马脚吧？”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "毕竟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "朱祐泓",
+      "aliases": [
+        "秦王",
+        "秦王殿下"
+      ],
+      "identity": "帝国藩王",
+      "faction": "帝国",
+      "status": "提及",
       "first_appearance": "第235章鸿鹄隐王",
-      "summary": "毕竟坐着看别人演神仙，怎么可能有自己当神仙来的快活",
+      "summary": "帝国藩王，与鸿鹄有勾结，但被丁桓认为不可能真心合作。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "毕竟坐着看别人演神仙，怎么可能有自己当神仙来的快活",
-        "”　　丁桓笑道：“这也没什么眼界的浅与不浅，毕竟戚槐你是出身帝国本土的纯正明人，又常年生活在重庆府这种好地方，自然对儒家序列的同化渗透感触不深",
-        "”　　戚槐心中不以为然，面上却是义愤填膺道：“办完眼下这件事，小人就立马就奔赴罪民区，毕竟那里才是咱们鸿鹄的基本盘，怎么可能任由儒家将那里当成基因田"
+      "relationships": [
+        {
+          "target": "丁桓",
+          "type": "合作对象"
+        },
+        {
+          "target": "戚槐",
+          "type": "合作对象"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "恐怕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "如果他不是脑子有问题，恐怕都不会愿意和我们这种人勾结在一起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如果他不是脑子有问题，恐怕都不会愿意和我们这种人勾结在一起",
-        "”　　此刻若是有川渝赌会的人瞧见他的长相，恐怕立刻会惊呼出声",
-        "要不然秦王那只等着摔杯的手，恐怕都要举酸了吧"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及作为鸿鹄的合作对象，但丁桓怀疑其动机。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "舞台",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "漆黑一片的放映厅中，一根幽蓝色的光柱贯穿而过，在前端的舞台上投影出一个光怪陆离微缩全息仙侠世界",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "漆黑一片的放映厅中，一根幽蓝色的光柱贯穿而过，在前端的舞台上投影出一个光怪陆离微缩全息仙侠世界",
-        "”　　此刻，舞台上激战正酣",
-        "”　　恰在这时，方才还意气风发的剑侠才刚刚登上舞台，就被一名姿态潇洒的儒生单手从空中抓下，连人带剑被一同打成了碎片"
+        "戚槐闷声道：“秦王殿下虽然是藩王，但同时也是一头笼中雀！”",
+        "丁桓笑着反问：“他总不可能天真到寄希望于鸿鹄推翻大明帝国之后，再给他一个藩王的位置吧？”"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "男孩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "”　　男孩顿时语塞，感觉颜面大失，就连悄悄往下伸出的魔爪都悻悻然收回",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　男孩顿时语塞，感觉颜面大失，就连悄悄往下伸出的魔爪都悻悻然收回",
-        "看到这一幕，男孩眼中霎时有精光冒出，话锋一转表明剑侠也不过如此，自己要好好研习儒家六艺，以后当一个不靠芯片就能破锁晋序的文武全才，治国齐家双管齐下",
-        "”　　舞台下，不过刚到束发年纪的男孩搂着同样及笄的女孩缩在角落中，指着刚刚从头顶踏剑飞行的剑侠，语气豪迈说着等自己攒够钱买得起人造道基之后，也要和他一样斩妖除魔，快意恩仇"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "重任",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "”　　丁桓拍了拍对方的肩头，“重任在肩，大局为重，为罪民区百姓争取自由的事情只能委屈你暂时先放一放了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　丁桓拍了拍对方的肩头，“重任在肩，大局为重，为罪民区百姓争取自由的事情只能委屈你暂时先放一放了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "全凭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "”　　“全凭大人您安排",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“全凭大人您安排"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "侧头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "”　　一股刺骨寒意萦绕全身，他一寸寸挪动脑袋，侧头看向面带微笑的丁桓，“隐王大人，咱们是不是有什么误会",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一股刺骨寒意萦绕全身，他一寸寸挪动脑袋，侧头看向面带微笑的丁桓，“隐王大人，咱们是不是有什么误会"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "隐王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "第235章鸿鹄隐王　　洪崖山，瓦楼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第235章鸿鹄隐王　　洪崖山，瓦楼",
-        "”　　一股刺骨寒意萦绕全身，他一寸寸挪动脑袋，侧头看向面带微笑的丁桓，“隐王大人，咱们是不是有什么误会"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "办完",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "”　　戚槐心中不以为然，面上却是义愤填膺道：“办完眼下这件事，小人就立马就奔赴罪民区，毕竟那里才是咱们鸿鹄的基本盘，怎么可能任由儒家将那里当成基因田",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　戚槐心中不以为然，面上却是义愤填膺道：“办完眼下这件事，小人就立马就奔赴罪民区，毕竟那里才是咱们鸿鹄的基本盘，怎么可能任由儒家将那里当成基因田"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "是我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第235章鸿鹄隐王",
-      "summary": "是我赔上一家老小的命不够惨，还是秦王开出的条件不够高",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "是我赔上一家老小的命不够惨，还是秦王开出的条件不够高",
-        "戚槐听对方这样说，连忙收起嘴角的不屑，赔笑道：“大人您说的是，是我眼界浅了",
-        "”　　“剧情是无脑了点，不过确实看的人热血澎湃，要不是我怕脱了这身西夷的皮，忘了自己罪民的出身，不然都想去买身青衫学书生了"
-      ],
-      "mention_count": 3
+      "mention_count": 5
     }
   ]
 }

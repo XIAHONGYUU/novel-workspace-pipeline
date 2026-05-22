@@ -1,162 +1,232 @@
 {
   "chunk_id": "chunk-0009",
-  "title": "第8章圣贤二哥",
   "characters": [
     {
       "name": "况青云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "圣贤二哥",
+        "二爷",
+        "二哥"
+      ],
+      "identity": "袍哥会圣贤二哥，浑水袍哥龙头大爷赵鼎的左膀右臂",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第8章圣贤二哥",
-      "summary": "况青云就像是从一些背景设定在前明时期的黄粱梦境之中走出的翩翩公子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "况青云就像是从一些背景设定在前明时期的黄粱梦境之中走出的翩翩公子",
-        "不过李钧更在意的，是况青云的实力",
-        "袍哥会内曾经流传过一个小道消息：圣贤二哥况青云是一名序列强者"
+      "summary": "袍哥会二号人物，疑似序列强者，为维护袍哥会稳定而处理叛徒孙九，并赠予李钧内功和药剂。",
+      "appearance": [
+        "素色复古长衫",
+        "手持铁骨折扇",
+        "剑眉星目",
+        "长发披肩"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "孙九",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第8章圣贤二哥",
-      "summary": "孙九的生命力也是足够顽强，心口被李钧一肘砸的塌陷，人居然还没有死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "孙九的生命力也是足够顽强，心口被李钧一肘砸的塌陷，人居然还没有死",
-        "听到况青云冰冷的声音，孙九浑身一颤，赶紧闭上嘴巴，老老实实跪好，这才敢抬头疑惑的看着况青云",
-        "孙九心头一紧，连忙低头隐藏脸上的惊恐，急声道：“二哥，您是不是弄错了，叛徒是李钧，不是我啊"
+      "personality": [
+        "温润",
+        "冷静",
+        "果断",
+        "狠辣"
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "况青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第8章圣贤二哥",
-      "summary": "况青云就像是从一些背景设定在前明时期的黄粱梦境之中走出的翩翩公子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "况青云就像是从一些背景设定在前明时期的黄粱梦境之中走出的翩翩公子",
-        "不过李钧更在意的，是况青云的实力",
-        "袍哥会内曾经流传过一个小道消息：圣贤二哥况青云是一名序列强者"
+      "abilities": [
+        "疑似序列强者"
       ],
-      "mention_count": 14
+      "equipment": [
+        "铁骨折扇",
+        "青帝诀药剂",
+        "辅助药剂"
+      ],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "龙头大爷，上级"
+        },
+        {
+          "target": "李钧",
+          "type": "同袍，给予帮助"
+        },
+        {
+          "target": "孙九",
+          "type": "下属，被其处决"
+        },
+        {
+          "target": "赵斗",
+          "type": "同袍，为其掩盖罪行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "处理孙九叛徒事件，赠予李钧药剂"
+        }
+      ],
+      "evidence": [
+        "况青云就像是从一些背景设定在前明时期的黄粱梦境之中走出的翩翩公子。",
+        "浑水袍哥龙头大爷赵鼎的左膀右臂，黑帮二号人物。",
+        "袍哥会内曾经流传过一个小道消息：圣贤二哥况青云是一名序列强者。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "袍哥会成员",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第8章圣贤二哥",
-      "summary": "不过李钧更在意的，是况青云的实力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过李钧更在意的，是况青云的实力",
-        "孙九的生命力也是足够顽强，心口被李钧一肘砸的塌陷，人居然还没有死",
-        "孙九心头一紧，连忙低头隐藏脸上的惊恐，急声道：“二哥，您是不是弄错了，叛徒是李钧，不是我啊"
+      "summary": "被出卖的袍哥会成员，获得况青云赠予的药剂，决心日后报复赵斗。",
+      "appearance": [
+        "脸上有血"
       ],
-      "mention_count": 13
+      "personality": [
+        "谨慎",
+        "有仇必报"
+      ],
+      "abilities": [],
+      "equipment": [
+        "青帝诀药剂",
+        "辅助药剂"
+      ],
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "同袍，受其帮助"
+        },
+        {
+          "target": "孙九",
+          "type": "被其出卖"
+        },
+        {
+          "target": "赵斗",
+          "type": "仇敌，日后将报复"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被出卖后得到况青云赠予的药剂"
+        }
+      ],
+      "evidence": [
+        "李钧任由脸上血水蜿蜒，捏着那两只指头长短的药剂",
+        "李钧沉声道：“手上染了血怕惊着舵把子，所以准备自己先把血洗干净了再回去。”",
+        "李钧默了片刻，突然说道：“鼎爷死后，我不会放过赵斗。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "虽然",
+      "name": "孙九",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "袍哥会成员，叛徒",
+      "faction": "袍哥会",
+      "status": "死亡",
       "first_appearance": "第8章圣贤二哥",
-      "summary": "”　　“孙九，我记得你的家人可都在九龙街啊，虽然袍哥会有规矩祸不及家人，但如果你还是这样冥顽不灵，那我只能从他们的芯片里找线索了",
-      "appearance": [],
-      "personality": [],
+      "summary": "被况青云认定为出卖李钧的叛徒，最终被况青云踩爆头颅处决。",
+      "appearance": [
+        "半死不活",
+        "脸上有血"
+      ],
+      "personality": [
+        "恐惧",
+        "倔强"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“孙九，我记得你的家人可都在九龙街啊，虽然袍哥会有规矩祸不及家人，但如果你还是这样冥顽不灵，那我只能从他们的芯片里找线索了",
-        "虽然还没见过序列高手动手，但穿越的一个月时间内，李钧听这句话已经听得耳朵起茧子了",
-        "”　　虽然都是反水，但孙九反水的影响比起赵斗来说，根本不值一提"
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "上级，被其处决"
+        },
+        {
+          "target": "李钧",
+          "type": "被其出卖"
+        },
+        {
+          "target": "赵斗",
+          "type": "老大，为其顶罪"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被况青云处决"
+        }
+      ],
+      "evidence": [
+        "孙九的生命力也是足够顽强，心口被李钧一肘砸的塌陷，人居然还没有死。",
+        "孙九侧脸死死贴着地面，依旧倔强争辩道：“二爷...真的不是我啊”",
+        "况青云碾着孙九的脑袋，面无表情说道...孙九的脑袋突然炸开。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "赵鼎",
+      "aliases": [
+        "鼎爷",
+        "舵把子"
+      ],
+      "identity": "浑水袍哥龙头大爷",
+      "faction": "袍哥会",
+      "status": "提及",
       "first_appearance": "第8章圣贤二哥",
-      "summary": "皮囊完美简直可以作为鬼街诊所的整形模板，温润的气质更是和刀口舔血的浑水袍哥根本扯不上半毛钱关系",
+      "summary": "袍哥会龙头老大，身体不行，但仍是名义上的最高领袖。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "左膀右臂"
+        },
+        {
+          "target": "李钧",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "皮囊完美简直可以作为鬼街诊所的整形模板，温润的气质更是和刀口舔血的浑水袍哥根本扯不上半毛钱关系",
-        "不过他的力量比起况青云，根本就是云泥之别",
-        "”　　虽然都是反水，但孙九反水的影响比起赵斗来说，根本不值一提"
+        "浑水袍哥龙头大爷赵鼎的左膀右臂",
+        "鼎爷的身体已经不行了"
       ],
       "mention_count": 4
     },
     {
-      "name": "鼎爷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "赵斗",
+      "aliases": [
+        "斗哥"
+      ],
+      "identity": "袍哥会成员，孙九的老大",
+      "faction": "袍哥会",
+      "status": "提及",
       "first_appearance": "第8章圣贤二哥",
-      "summary": "”　　况青云摇头道：“鼎爷的身体已经不行了，这个时候咱们浑水袍哥不能内乱",
+      "summary": "孙九的老大，被况青云怀疑是真正叛徒，但被孙九顶罪。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "孙九",
+          "type": "老大"
+        },
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　况青云摇头道：“鼎爷的身体已经不行了，这个时候咱们浑水袍哥不能内乱",
-        "”　　“我不是在帮赵斗，”况青云盯着李钧的眼睛，一字一顿：“我是为了鼎爷，为了袍哥会的兄弟",
-        "”　　“这事情鼎爷不知道，是我的主意"
+        "况青云眯眼说道：“不是你还能是谁，难道是你的老大赵斗？”",
+        "李钧默了片刻，突然说道：“鼎爷死后，我不会放过赵斗。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "连忙",
+      "name": "余寇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第8章圣贤二哥",
-      "summary": "孙九心头一紧，连忙低头隐藏脸上的惊恐，急声道：“二哥，您是不是弄错了，叛徒是李钧，不是我啊",
+      "summary": "锦衣卫总旗，与况青云实力相当。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -164,88 +234,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "孙九心头一紧，连忙低头隐藏脸上的惊恐，急声道：“二哥，您是不是弄错了，叛徒是李钧，不是我啊"
+        "开玩笑，这可是和锦衣卫总旗余寇一个层次的高手。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "继而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第8章圣贤二哥",
-      "summary": "”　　说罢况青云抬手一抛，将两支药剂直接扔给沉默不语的李钧，继而低下头看向眼神空洞的孙九",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　说罢况青云抬手一抛，将两支药剂直接扔给沉默不语的李钧，继而低下头看向眼神空洞的孙九"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第8章圣贤二哥",
-      "summary": "“这就对了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这就对了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第8章圣贤二哥",
-      "summary": "“出卖兄弟，这是死罪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“出卖兄弟，这是死罪",
-        "”　　只是脸上神色略显呆滞，看起来有些呆呆傻傻，这是颅内生物芯片被拔出导致的后遗症",
-        "”　　李钧脸色铁青一片，沉声问道：“这是舵把子的意思"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "那我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第8章圣贤二哥",
-      "summary": "”　　“孙九，我记得你的家人可都在九龙街啊，虽然袍哥会有规矩祸不及家人，但如果你还是这样冥顽不灵，那我只能从他们的芯片里找线索了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“孙九，我记得你的家人可都在九龙街啊，虽然袍哥会有规矩祸不及家人，但如果你还是这样冥顽不灵，那我只能从他们的芯片里找线索了",
-        "”　　况青云碾着孙九的脑袋，面无表情说道：“那我怎么收到风声，是你向祭刀会的焰鬼泄露了李钧这次办事的位置"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "chunk_id": "chunk-0005",
-  "title": "第4章鬼街",
   "characters": [
     {
       "name": "李钧",
@@ -9,242 +8,205 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第4章鬼街",
-      "summary": "半个时辰前逃出生天的李钧，此刻混迹在拥挤的人群中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "半个时辰前逃出生天的李钧，此刻混迹在拥挤的人群中",
-        "李钧将夹克的衣领高高竖起，挡住自己的半张脸，隔开一些觊觎的眼神",
-        "对于这条街，李钧并不陌生"
+      "summary": "逃出生天，进入鬼街，身手不凡，似乎与袍哥会有关。",
+      "appearance": [
+        "身形魁梧",
+        "穿着顺手牵羊的夹克外套"
       ],
-      "mention_count": 13
+      "personality": [
+        "冷静",
+        "果断",
+        "警惕"
+      ],
+      "abilities": [
+        "身手敏捷",
+        "力量大",
+        "战斗技巧娴熟"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "求医者与医生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "逃入鬼街，击倒强买强卖的贩子，前往乌鸦华的诊所。"
+        }
+      ],
+      "evidence": [
+        "半个时辰前逃出生天的李钧，此刻混迹在拥挤的人群中。",
+        "李钧随手将尸体丢开，神色淡定至极，仿佛是随手拍死了两只苍蝇。",
+        "能知道我乌鸦华这个名字，那你应该是袍哥会的人喽？"
+      ],
+      "mention_count": 14
     },
     {
-      "name": "鬼街",
+      "name": "乌鸦华",
       "aliases": [],
-      "identity": "",
+      "identity": "鬼街黑诊所医生",
       "faction": "",
       "status": "登场",
       "first_appearance": "第4章鬼街",
-      "summary": "第4章鬼街　　位于大明帝国西南的成都府共有十三个行政区，鸡鹅区虽然也名列其中，不过却是滥竽充数的存在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第4章鬼街　　位于大明帝国西南的成都府共有十三个行政区，鸡鹅区虽然也名列其中，不过却是滥竽充数的存在",
-        "而在这三条主街中，聚集了成都府绝大部分黑市交易的鬼街，要比龙蛇混杂罪民街和袍哥会占据的九龙街热闹上不少",
-        "毕竟顶着枪伤进鬼街的人，不是为了治伤，就是为了逃难"
+      "summary": "鬼街的黑诊所医生，认识袍哥会，正在处理一副血管。",
+      "appearance": [
+        "穿着花衬衣的老人"
       ],
-      "mention_count": 7
+      "personality": [
+        "乐呵呵",
+        "玩味"
+      ],
+      "abilities": [
+        "医术"
+      ],
+      "equipment": [
+        "手术床",
+        "看不懂的设备"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "医生与求医者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在诊所内处理血管，接待李钧。"
+        }
+      ],
+      "evidence": [
+        "一名穿着花衬衣的老人正站在床边不知道捣鼓着什么。",
+        "老人捧着一副形如渔网的血管，乐呵呵的笑着。",
+        "能知道我乌鸦华这个名字，那你应该是袍哥会的人喽？"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "露出",
+      "name": "矮个贩子",
       "aliases": [],
-      "identity": "",
+      "identity": "鬼街摊贩",
       "faction": "",
       "status": "登场",
       "first_appearance": "第4章鬼街",
-      "summary": "脸上笑容越发灿烂，露出一口暗黄的烂牙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "脸上笑容越发灿烂，露出一口暗黄的烂牙",
-        "片刻之后，铁门上拉开一道缝隙，露出一双冷漠的眼睛，纯正深邃的黑色眼眸代表着对方明人的身份"
+      "summary": "鬼街的摊贩，试图强买强卖，被李钧制服。",
+      "appearance": [
+        "身材矮小",
+        "佝偻着身形",
+        "豆大的眼眸"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "对于",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第4章鬼街",
-      "summary": "对于这条街，李钧并不陌生",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "看似卑微",
+        "实则冷意",
+        "狡诈"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "封装粗糙的生物芯片"
+      ],
+      "relationships": [
+        {
+          "target": "壮汉",
+          "type": "同伙"
+        },
+        {
+          "target": "李钧",
+          "type": "冲突对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧推销黄粱梦境，被拒绝后试图强买强卖，被李钧击倒。"
+        }
+      ],
       "evidence": [
-        "对于这条街，李钧并不陌生",
-        "对于身后隐约传来吵闹，李钧自然知道发生了什么，不过这些事在鸡鹅区已经是稀松平常",
-        "对于这些一看就是盗版的东西，李钧根本提不起一点兴趣"
+        "一名身材矮小的贩子凑到李钧面前，湿漉漉的手掌中躺着一枚封装粗糙的生物芯片。",
+        "矮个贩子反应极快，在壮汉倒地的瞬间，便躬着身子往人群中钻去，可他还没奔出两步，就感觉后颈一痛，浑身力气瞬间被抽干。"
       ],
       "mention_count": 5
     },
     {
-      "name": "一名",
+      "name": "壮汉",
       "aliases": [],
-      "identity": "",
+      "identity": "鬼街摊贩同伙",
       "faction": "",
       "status": "登场",
       "first_appearance": "第4章鬼街",
-      "summary": "房间的正中间摆放着一张宽敞的手术床，一名穿着花衬衣的老人正站在床边不知道捣鼓着什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "房间的正中间摆放着一张宽敞的手术床，一名穿着花衬衣的老人正站在床边不知道捣鼓着什么",
-        "与此同时，一名身形魁梧的汉子从旁边挤了过来，站在贩子身边，炫耀武力一般摆弄着替换成机械义肢的右手前臂",
-        "那双冷漠眼睛的主人竟然是一名身形娇小的少女，面容姣好，一身气质却极为冷淡，根本没有跟李钧交谈的意思"
+      "summary": "矮个贩子的同伙，拥有机械义肢，被李钧折断手臂并击杀。",
+      "appearance": [
+        "身形魁梧",
+        "机械义肢右手前臂"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "片刻之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第4章鬼街",
-      "summary": "他步伐坚定，在人群中快速穿行，片刻之后转入一条不起眼的幽暗巷道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他步伐坚定，在人群中快速穿行，片刻之后转入一条不起眼的幽暗巷道",
-        "片刻之后，铁门上拉开一道缝隙，露出一双冷漠的眼睛，纯正深邃的黑色眼眸代表着对方明人的身份"
+      "personality": [
+        "炫耀武力"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "还没",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第4章鬼街",
-      "summary": "李钧看了眼书的封面，依稀觉得这本书的名字十分熟悉，还没等他回忆起来，那名花衬衣的老人已经停下了手上的动作，转过了身来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "机械义肢"
+      ],
+      "relationships": [
+        {
+          "target": "矮个贩子",
+          "type": "同伙"
+        },
+        {
+          "target": "李钧",
+          "type": "冲突对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图威胁李钧，被李钧折断机械义肢并击杀。"
+        }
+      ],
       "evidence": [
-        "李钧看了眼书的封面，依稀觉得这本书的名字十分熟悉，还没等他回忆起来，那名花衬衣的老人已经停下了手上的动作，转过了身来",
-        "矮个贩子反应极快，在壮汉倒地的瞬间，便躬着身子往人群中钻去，可他还没奔出两步，就感觉后颈一痛，浑身力气瞬间被抽干",
-        "”　　这种梦境不知道已经被多少人进出过，里面的人物就算还没被玩疯，恐怕也到了失控的边缘"
+        "一名身形魁梧的汉子从旁边挤了过来，站在贩子身边，炫耀武力一般摆弄着替换成机械义肢的右手前臂。",
+        "只听咔嚓几声脆响，大量锈蚀的螺帽和齿轮蹦飞，机械义肢从链接处被折断，顺带扯下壮汉一大块血肉。",
+        "一张大嘴刚刚张开，还没来得及发出惨叫，就被紧随而至的一记手刀将咽喉砍的粉碎。"
       ],
       "mention_count": 4
     },
     {
-      "name": "铁门",
+      "name": "少女",
       "aliases": [],
-      "identity": "",
+      "identity": "乌鸦华诊所的助手或相关人员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第4章鬼街",
-      "summary": "铁门悄无声息的滑开，从门侧面的闪动的寒光可以看出，这扇外表锈迹斑斑的铁门内芯竟然是一整块复合钢材",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "铁门悄无声息的滑开，从门侧面的闪动的寒光可以看出，这扇外表锈迹斑斑的铁门内芯竟然是一整块复合钢材",
-        "他内心没有半点波动，抬手敲响了面前的铁门",
-        "片刻之后，铁门上拉开一道缝隙，露出一双冷漠的眼睛，纯正深邃的黑色眼眸代表着对方明人的身份"
+      "summary": "在乌鸦华诊所内，面容姣好，气质冷淡，正在看书。",
+      "appearance": [
+        "身形娇小",
+        "面容姣好",
+        "气质极为冷淡"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "远比",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第4章鬼街",
-      "summary": "整个区的组成不过三条破烂肮脏的主街，远比不上其他区的富庶繁华",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "整个区的组成不过三条破烂肮脏的主街，远比不上其他区的富庶繁华"
+      "personality": [
+        "冷淡"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "这种",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第4章鬼街",
-      "summary": "他身上换了一件顺手牵羊而来的夹克外套，这种从西夷流传过来的服饰在大明的贫民中极为常见，比起昂贵繁复的明服要更加适合劳作",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他身上换了一件顺手牵羊而来的夹克外套，这种从西夷流传过来的服饰在大明的贫民中极为常见，比起昂贵繁复的明服要更加适合劳作",
-        "”　　先别说他根本没有植入脑机灵窍，就算植入了，也不会去尝试这种黑作坊出产的黄粱梦境",
-        "对付这种已经算是金属垃圾的义肢，李钧连脚步都懒得挪动，只见他左手一抬一圈，直接将这条机械手臂夹在腋下，然后发力一扯"
+      "equipment": [
+        "泛黄的纸质书"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "壮硕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第4章鬼街",
-      "summary": "壮硕的身体向后倾倒，狠狠砸在街面上，溅起的雨水引起周围看客阵阵惊叫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "壮硕的身体向后倾倒，狠狠砸在街面上，溅起的雨水引起周围看客阵阵惊叫"
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "可能是助手或晚辈"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "和街",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第4章鬼街",
-      "summary": "”　　和街面上鳞次栉比的光亮招牌比起来，这里的所谓‘摊位’大多都是铺在地上的一张破布，可上面堆积着货物却足够骇人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　和街面上鳞次栉比的光亮招牌比起来，这里的所谓‘摊位’大多都是铺在地上的一张破布，可上面堆积着货物却足够骇人"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在诊所内看书，回应李钧的敲门。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "那双冷漠眼睛的主人竟然是一名身形娇小的少女，面容姣好，一身气质却极为冷淡，根本没有跟李钧交谈的意思。",
+        "少女喊了一声，随后坐到一边的杂物上，从怀中拿出一本泛黄的纸质书看了起来。"
+      ],
+      "mention_count": 2
     }
   ]
 }

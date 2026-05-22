@@ -1,257 +1,221 @@
 {
   "chunk_id": "chunk-0126",
-  "title": "第一百二十四章 出事（下）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "林叔",
+        "叔叔"
+      ],
+      "identity": "修行者，拥有通明符剑的能力",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "于小斗和于小路是于婆婆的孙子，最是聪明伶俐，资质也好，深得她宠爱，林新也是来于府时认得两个小家伙的，两人也还蛮亲他",
+      "summary": "修行者，救助于小斗兄妹和花摇珠，收花摇珠为徒。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "于小斗和于小路是于婆婆的孙子，最是聪明伶俐，资质也好，深得她宠爱，林新也是来于府时认得两个小家伙的，两人也还蛮亲他",
-        "”　　林新沉声道",
-        "于小斗赶紧带着林新往城外跑去，走了一段路程，快要看不见城墙的地方，两人进了一处破庙"
+      "personality": [
+        "谨慎",
+        "有情有义"
       ],
-      "mention_count": 55
+      "abilities": [
+        "使用驱毒符",
+        "使用甘霖符",
+        "轻功"
+      ],
+      "equipment": [
+        "高级驱毒符",
+        "甘霖符"
+      ],
+      "relationships": [
+        {
+          "target": "于小斗",
+          "type": "被求助者，后收为徒"
+        },
+        {
+          "target": "于小路",
+          "type": "救治对象"
+        },
+        {
+          "target": "花摇珠",
+          "type": "收为徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在破庙救治于小路，带三人离开万松城，收花摇珠为徒。"
+        }
+      ],
+      "evidence": [
+        "林新取出一张高级驱毒符，内气注入。",
+        "林新知道这等毒素区区驱毒符是没办法的了，他只能拿出一张甘霖符，点燃一张。",
+        "好吧，我收下你，不过，猪腰花这个名字是不能再用了，太难听。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "于小斗",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "小斗"
+      ],
+      "identity": "于婆婆的孙子，聪明伶俐",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "于小斗和于小路是于婆婆的孙子，最是聪明伶俐，资质也好，深得她宠爱，林新也是来于府时认得两个小家伙的，两人也还蛮亲他",
+      "summary": "于婆婆的孙子，妹妹于小路中毒，向林新求助，后拜林新为师。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "聪明伶俐",
+        "重情重义"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "于小斗和于小路是于婆婆的孙子，最是聪明伶俐，资质也好，深得她宠爱，林新也是来于府时认得两个小家伙的，两人也还蛮亲他",
-        "于小斗赶紧带着林新往城外跑去，走了一段路程，快要看不见城墙的地方，两人进了一处破庙",
-        "一见到于小斗回来，那小乞丐便赶紧起身过来"
+      "relationships": [
+        {
+          "target": "于小路",
+          "type": "兄妹"
+        },
+        {
+          "target": "林新",
+          "type": "求助对象，后为师徒"
+        },
+        {
+          "target": "花摇珠",
+          "type": "被救助者，朋友"
+        },
+        {
+          "target": "韩啸龙",
+          "type": "仇人"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带林新去破庙救妹妹，后随林新离开，拜师。"
+        }
+      ],
+      "evidence": [
+        "我就是小斗啊……！小乞丐眼泪止不住的往下流。",
+        "于小斗赶紧解释，他兄妹二人悄悄被父母用法术伪装，躲过一劫，之后扮成乞丐在外乞讨，要不是这个小乞丐帮助，他们早就活活饿死了。",
+        "叔叔，我想求你收我为徒！我要修行！我要报仇！！"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "于小",
-      "aliases": [],
-      "identity": "",
+      "name": "于小路",
+      "aliases": [
+        "小路"
+      ],
+      "identity": "于小斗的妹妹",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "于小斗和于小路是于婆婆的孙子，最是聪明伶俐，资质也好，深得她宠爱，林新也是来于府时认得两个小家伙的，两人也还蛮亲他",
-      "appearance": [],
+      "summary": "于小斗的妹妹，中毒昏迷，被林新救治。",
+      "appearance": [
+        "面黄肌瘦",
+        "瘦得全是皮包骨",
+        "双眼眼圈透着一股青气"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "于小斗",
+          "type": "兄妹"
+        },
+        {
+          "target": "林新",
+          "type": "被救治对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "中毒昏迷，被林新用驱毒符和甘霖符救治。"
+        }
+      ],
       "evidence": [
-        "于小斗和于小路是于婆婆的孙子，最是聪明伶俐，资质也好，深得她宠爱，林新也是来于府时认得两个小家伙的，两人也还蛮亲他",
-        "于小斗赶紧带着林新往城外跑去，走了一段路程，快要看不见城墙的地方，两人进了一处破庙",
-        "一见到于小斗回来，那小乞丐便赶紧起身过来"
+        "女孩约莫八九岁的样子，意识昏迷着，身上瘦得全是皮包骨，双眼眼圈还透着一股青气。",
+        "林新翻了翻她的眼皮，只见眼角还有一点淡淡的青绿色，如同画了眼妆一般。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "花摇珠",
+      "aliases": [
+        "猪腰花",
+        "小花"
+      ],
+      "identity": "小乞丐，后被林新收为徒",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百二十四章 出事（下）",
+      "summary": "小乞丐，曾救助于小斗兄妹，后随林新离开，被收为徒并赐名花摇珠。",
+      "appearance": [
+        "面黄肌瘦",
+        "披头散发"
+      ],
+      "personality": [
+        "机灵",
+        "有情有义",
+        "坚韧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "于小斗",
+          "type": "救助者，朋友"
+        },
+        {
+          "target": "林新",
+          "type": "被收为徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在破庙照顾于小路，后随林新离开，磕头拜师，被赐名花摇珠。"
+        }
+      ],
+      "evidence": [
+        "小乞丐赶紧回道。",
+        "小花也想修行！求林叔叔乞怜！",
+        "你的名字是猪腰花，那我索性给你倒过来，就叫花摇珠。"
       ],
       "mention_count": 12
     },
     {
-      "name": "猪腰花",
+      "name": "韩啸龙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "剑堂执事",
+      "faction": "剑堂",
+      "status": "提及",
       "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "”　　“回大人，小的没什么名字，打小是个乞丐找到养大的，他一直叫我猪腰花",
+      "summary": "剑堂执事，于小斗的仇人。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“回大人，小的没什么名字，打小是个乞丐找到养大的，他一直叫我猪腰花",
-        "“猪腰花",
-        "那个猪腰花的小姑娘也换了身干净衣服，看起来正常许多，披头散发也被捆住了，露出面黄肌瘦的小脸"
+      "abilities": [
+        "筑基期修为"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "边上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "破庙里一个面黄肌瘦的小乞丐正在小心给一个病怏怏的小女孩喂着稀粥，边上还烧着一堆炭火",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "破庙里一个面黄肌瘦的小乞丐正在小心给一个病怏怏的小女孩喂着稀粥，边上还烧着一堆炭火",
-        "“这种毒物都敢拿出来用，真是……”　　边上两个小孩子已经是大气也不敢出，生怕打扰他动手治疗",
-        "”　　他看了眼边上的小乞丐，眼中闪过一丝厉色"
+      "relationships": [
+        {
+          "target": "于小斗",
+          "type": "仇人"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "猪腰",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "”　　“回大人，小的没什么名字，打小是个乞丐找到养大的，他一直叫我猪腰花",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“回大人，小的没什么名字，打小是个乞丐找到养大的，他一直叫我猪腰花",
-        "“猪腰花",
-        "那个猪腰花的小姑娘也换了身干净衣服，看起来正常许多，披头散发也被捆住了，露出面黄肌瘦的小脸"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被于小斗指认为仇人。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "小花",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "“小花也想修行",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“小花也想修行",
-        "“小花不怕苦",
-        "“小花不怕的"
+        "知道。就是剑堂执事韩啸龙！"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "”于小斗一听，顿时急了，赶紧冲过去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”于小斗一听，顿时急了，赶紧冲过去",
-        "黄底红字的符纸顿时无火自燃，飘出很多白色轻烟，这些烟雾纷纷有生命一般钻入女孩的鼻孔",
-        "顿时大量烟气钻入小女孩鼻孔"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "仔细",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "”　　他走上前去，仔细看向躺在干草堆里的小女孩",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他走上前去，仔细看向躺在干草堆里的小女孩",
-        "仔细一看，这家伙居然用力过猛，脑袋磕晕了……"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "女孩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "破庙里一个面黄肌瘦的小乞丐正在小心给一个病怏怏的小女孩喂着稀粥，边上还烧着一堆炭火",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "破庙里一个面黄肌瘦的小乞丐正在小心给一个病怏怏的小女孩喂着稀粥，边上还烧着一堆炭火",
-        "”　　他一开口，林新这才发现他是个女孩",
-        "”　　他走上前去，仔细看向躺在干草堆里的小女孩"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "小斗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "第一百二十四章 出事（下）　　“我就是小斗啊……",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百二十四章 出事（下）　　“我就是小斗啊……",
-        "于小斗和于小路是于婆婆的孙子，最是聪明伶俐，资质也好，深得她宠爱，林新也是来于府时认得两个小家伙的，两人也还蛮亲他",
-        "于小斗赶紧带着林新往城外跑去，走了一段路程，快要看不见城墙的地方，两人进了一处破庙"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "赶紧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十四章 出事（下）",
-      "summary": "于小斗赶紧带着林新往城外跑去，走了一段路程，快要看不见城墙的地方，两人进了一处破庙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "于小斗赶紧带着林新往城外跑去，走了一段路程，快要看不见城墙的地方，两人进了一处破庙",
-        "一见到于小斗回来，那小乞丐便赶紧起身过来",
-        "”于小斗一听，顿时急了，赶紧冲过去"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

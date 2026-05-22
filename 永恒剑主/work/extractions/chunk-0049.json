@@ -1,256 +1,269 @@
 {
   "chunk_id": "chunk-0049",
-  "title": "第四十七章 新任务（上）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "林兄"
+      ],
+      "identity": "宗门弟子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十七章 新任务（上）",
-      "summary": "萧玲玲的手不时的荡来荡去，碰一下林新的手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "萧玲玲的手不时的荡来荡去，碰一下林新的手",
-        "但林新则是考虑到和孔昱辉四人的小团体，似乎孔昱辉和程若菲都地位不凡，或许可以咨询一下他们的意见再作打算",
-        "萧玲玲一听，心头略有些失望，不过就算拉不进对方入帮，看这林新的进度如此之快，才半年时间就晋升二层，能够拉拢个未来高手的关系人际保护自己，也算不错"
+      "summary": "宗门弟子，实力二层，半年内晋升，接取孔雀城接应任务。",
+      "appearance": [
+        "二十左右青年，眉目冷淡，背上背了四把长条状物体"
       ],
-      "mention_count": 21
+      "personality": [
+        "警觉",
+        "冷淡"
+      ],
+      "abilities": [],
+      "equipment": [
+        "怨气符"
+      ],
+      "relationships": [
+        {
+          "target": "东月",
+          "type": "同伴"
+        },
+        {
+          "target": "萧玲玲",
+          "type": "朋友"
+        },
+        {
+          "target": "余畅",
+          "type": "队友"
+        },
+        {
+          "target": "舒络衣",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与余畅、舒络衣前往孔雀城执行接应任务，途中在茶水铺子歇脚。"
+        }
+      ],
+      "evidence": [
+        "林新骑在马背上，虽然有着马鞍，但依旧感觉屁股被颠得生疼",
+        "林新则是随手拍了拍凳子上的灰，对着双层小楼坐下",
+        "他轻轻取出一张怨气符，捏在手上"
+      ],
+      "mention_count": 15
     },
     {
       "name": "萧玲玲",
       "aliases": [],
-      "identity": "",
+      "identity": "灵珠帮成员",
+      "faction": "灵珠帮",
+      "status": "登场",
+      "first_appearance": "第四十七章 新任务（上）",
+      "summary": "灵珠帮成员，感应能力有用，试图拉拢林新入帮。",
+      "appearance": [],
+      "personality": [
+        "坦率",
+        "有心计"
+      ],
+      "abilities": [
+        "感应能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "朋友"
+        },
+        {
+          "target": "王冲",
+          "type": "同帮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新介绍灵珠帮，试图拉他入帮。"
+        }
+      ],
+      "evidence": [
+        "萧玲玲则是因为感应能力还算有用，也跟着进了灵珠帮",
+        "萧玲玲简洁明了的解释介绍",
+        "她低头看了眼自己的打扮，她就不信以她的姿色，还能有勾不上手的男人"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "王冲",
+      "aliases": [],
+      "identity": "灵珠帮成员",
+      "faction": "灵珠帮",
+      "status": "提及",
+      "first_appearance": "第四十七章 新任务（上）",
+      "summary": "敢打敢冲有点愣，被灵珠帮招揽。",
+      "appearance": [],
+      "personality": [
+        "敢打敢冲",
+        "愣"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "萧玲玲",
+          "type": "同帮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被灵珠帮招揽。"
+        }
+      ],
+      "evidence": [
+        "王冲因为敢打敢冲有点愣，被灵珠帮招揽"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "东月",
+      "aliases": [],
+      "identity": "林新的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十七章 新任务（上）",
-      "summary": "而萧玲玲则是因为感应能力还算有用，也跟着进了灵珠帮",
+      "summary": "林新的同伴，知晓林新的战绩。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而萧玲玲则是因为感应能力还算有用，也跟着进了灵珠帮",
-        "”　　萧玲玲简洁明了的解释介绍",
-        "”萧玲玲坦然道，“不过如果你答应由我介绍入帮，我这里也记得你的好……以后……以后……有机会定有所报"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新一起在镇中石碑前，后离开。"
+        }
+      ],
+      "evidence": [
+        "东月在边上冷眼看着",
+        "便和东月独自离开了"
+      ],
+      "mention_count": 3
     },
     {
       "name": "余畅",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "余师兄"
+      ],
+      "identity": "宗门弟子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十七章 新任务（上）",
-      "summary": "“舒师妹，余畅兄，天色不好，我们还是尽快找个地方避雨比较好",
-      "appearance": [],
-      "personality": [],
+      "summary": "林新的队友，家就在孔雀城，对路线熟悉。",
+      "appearance": [
+        "短发男子"
+      ],
+      "personality": [
+        "热情",
+        "爱套近乎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“舒师妹，余畅兄，天色不好，我们还是尽快找个地方避雨比较好",
-        "林新提醒了句，既然余畅说了没事，想必是快到了茶水铺子，可以稍微避避雨",
-        "这两人一个叫余畅，一个叫舒络衣，就是这次找人任务的队友"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "队友"
+        },
+        {
+          "target": "舒络衣",
+          "type": "队友"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新、舒络衣一同前往孔雀城执行任务。"
+        }
+      ],
+      "evidence": [
+        "骑白马的短发男子正脸上堆笑的变了法和身边漂亮女子说话",
+        "余畅他家就在孔雀城",
+        "余畅无奈的赔罪"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "萧玲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 新任务（上）",
-      "summary": "而萧玲玲则是因为感应能力还算有用，也跟着进了灵珠帮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而萧玲玲则是因为感应能力还算有用，也跟着进了灵珠帮",
-        "”　　萧玲玲简洁明了的解释介绍",
-        "”萧玲玲坦然道，“不过如果你答应由我介绍入帮，我这里也记得你的好……以后……以后……有机会定有所报"
+      "name": "舒络衣",
+      "aliases": [
+        "舒师妹"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "抬头",
-      "aliases": [],
-      "identity": "",
+      "identity": "宗门弟子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十七章 新任务（上）",
-      "summary": "抬头看了眼前面两人，又仰头看了看天色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "抬头看了眼前面两人，又仰头看了看天色",
-        "抬头一看，却看到余畅和舒络衣都双目直瞪瞪的盯着他，眼睛一眨也不眨"
+      "summary": "林新的队友，对余畅爱理不理。",
+      "appearance": [
+        "漂亮女子"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "风越",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 新任务（上）",
-      "summary": "风越来越大了……呜呜的就像有什么东西在耳朵边叫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "风越来越大了……呜呜的就像有什么东西在耳朵边叫",
-        "风越来越大了，不时夹杂着几颗雨点",
-        "风越来越大了，雨点有的已经吹打到了铺子里面点的凳子，好在三人选的是紧贴着双层小楼位置的铺子内侧，倒也不虞被雨点打到"
+      "personality": [
+        "冷淡"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "云层",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 新任务（上）",
-      "summary": "……　　一周后……　　阴郁的天空堆满了黑沉沉的乌云，云层中不时闪过一条条细线般的蓝色电弧",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "余畅",
+          "type": "队友"
+        },
+        {
+          "target": "林新",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新、余畅一同前往孔雀城执行任务。"
+        }
+      ],
       "evidence": [
-        "……　　一周后……　　阴郁的天空堆满了黑沉沉的乌云，云层中不时闪过一条条细线般的蓝色电弧",
-        "厚实的云层如同巨大无比的黑色棉絮，压在整个大地上空，压抑而沉闷",
-        "云层下方的地面如同一块巨大黄布，上边散乱的丢上一些碎黄土"
+        "而女子却爱理不理，不时的随口应一句",
+        "那个舒师妹随意询问情况道",
+        "舒络衣不满道"
       ],
       "mention_count": 5
     },
     {
-      "name": "两人",
+      "name": "段琪",
       "aliases": [],
-      "identity": "",
+      "identity": "外门弟子",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四十七章 新任务（上）",
-      "summary": "抬头看了眼前面两人，又仰头看了看天色",
-      "appearance": [],
+      "summary": "任务目标，需要接应回宗门的外门弟子。",
+      "appearance": [
+        "三十岁普通女子，额头有黑痣"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "抬头看了眼前面两人，又仰头看了看天色",
-        "”　　两人又在前面不慌不忙的闲谈起来",
-        "这两人一个叫余畅，一个叫舒络衣，就是这次找人任务的队友"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "任务目标，在孔雀城西街道等待接应。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 新任务（上）",
-      "summary": "萧玲玲和他毕竟只是很浅的交情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "萧玲玲和他毕竟只是很浅的交情",
-        "是个年纪约莫三十岁的普通女子，相貌和身段都没有什么出色的地方，只是额头上有个很明显的黑痣，足有指甲盖大小，异常惹眼",
-        "余畅依旧面色不变，表情如同凝固一般，只是眼神直瞪瞪的看着他"
+        "于孔雀城西街道接应一个叫段琪的外门弟子，并带她回宗门",
+        "是个年纪约莫三十岁的普通女子，相貌和身段都没有什么出色的地方，只是额头上有个很明显的黑痣"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "房子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 新任务（上）",
-      "summary": "天色也逐渐暗下来，前面黄色马道上渐渐出现一个不大的双层木头房子，房子里面一片黑乎乎的，窗户口往里看去也没有半点光亮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天色也逐渐暗下来，前面黄色马道上渐渐出现一个不大的双层木头房子，房子里面一片黑乎乎的，窗户口往里看去也没有半点光亮",
-        "房子外，则是有着一个宽敞的茶水铺子、里面黑乎乎的什么也看不见",
-        "“既然这里没人，不如我们进去看看，就在这房子里面住一晚再走如何"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 新任务（上）",
-      "summary": "也正好是遇到灵珠帮大肆扩张吸收新人的时候，不然他们两个还不一定能进得了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "也正好是遇到灵珠帮大肆扩张吸收新人的时候，不然他们两个还不一定能进得了",
-        "“刚才那两个带队的高手，就是我们灵珠帮的执行者，实力都是三层，在我们灵珠帮里，有专门的执行者带着大家完成任务，他们能够更容易的获取一些危险性更小的任务",
-        "但林新则是考虑到和孔昱辉四人的小团体，似乎孔昱辉和程若菲都地位不凡，或许可以咨询一下他们的意见再作打算"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "我这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 新任务（上）",
-      "summary": "”萧玲玲坦然道，“不过如果你答应由我介绍入帮，我这里也记得你的好……以后……以后……有机会定有所报",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”萧玲玲坦然道，“不过如果你答应由我介绍入帮，我这里也记得你的好……以后……以后……有机会定有所报",
-        "“暂时不急，我这次出去任务回来后再说吧"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

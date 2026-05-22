@@ -1,257 +1,251 @@
 {
   "chunk_id": "chunk-0071",
-  "title": "第六十九章 道路（上）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 道路（上）",
-      "summary": "”林新听到是丹堂来人，还是季路师伯派来的，顿时赶紧低头尊称",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新听到是丹堂来人，还是季路师伯派来的，顿时赶紧低头尊称",
-        "林新不敢怠慢，人家在外面好脾气的等着自己，也不知道是等了多久，这面子给得足够大的了",
-        "都是有师兄师姐带领着，这让林新不自觉的想起了自己当初来这里时的情况"
+      "aliases": [
+        "林新"
       ],
-      "mention_count": 32
-    },
-    {
-      "name": "孙织妏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派听剑谷弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第六十九章 道路（上）",
-      "summary": "”孙织妏笑了笑",
+      "summary": "松林剑派听剑谷弟子，已入先天，对阵法有天赋，被季路师伯看重。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”孙织妏笑了笑",
-        "”孙织妏走上第一步台阶，回头看了眼林新",
-        "他紧跟着孙织妏上了石阶，一步步往上，两人速度都极快，犹如一般人奔跑一般"
+      "personality": [
+        "谨慎",
+        "感恩"
       ],
-      "mention_count": 23
-    },
-    {
-      "name": "季路",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 道路（上）",
-      "summary": "第六十九章 道路（上）　　“季路师伯么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "先天修为",
+        "阵法天赋"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "季路",
+          "type": "师伯"
+        },
+        {
+          "target": "孙织妏",
+          "type": "师姐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被孙织妏带领前往丹堂见季路师伯，途中遇到长耳国修士，最终与季路师伯饮茶交谈。"
+        }
+      ],
       "evidence": [
-        "第六十九章 道路（上）　　“季路师伯么",
-        "”林新听到是丹堂来人，还是季路师伯派来的，顿时赶紧低头尊称",
-        "亭子内，季路正端坐在矮桌前，面前烧了一个小炭炉，上边放着朱色茶壶，正小心翼翼的转动着茶壶"
+        "林新赶紧应下，身上修为用隐匿阵法隐藏起来",
+        "看得出你已经先天了。原本我还不看好你，现在却是没想到你居然一年就到了这个程度。",
+        "另外阵堂那边也传来你还对阵法有些天赋的传言。"
       ],
       "mention_count": 20
     },
     {
-      "name": "孙织",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "孙织妏",
+      "aliases": [
+        "孙师姐",
+        "孙仙子"
+      ],
+      "identity": "丹堂弟子，季路师妹",
+      "faction": "松林剑派丹堂",
       "status": "登场",
       "first_appearance": "第六十九章 道路（上）",
-      "summary": "”孙织妏笑了笑",
+      "summary": "丹堂弟子，季路师伯的师妹，负责带领林新上山见季路。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”孙织妏笑了笑",
-        "”孙织妏走上第一步台阶，回头看了眼林新",
-        "他紧跟着孙织妏上了石阶，一步步往上，两人速度都极快，犹如一般人奔跑一般"
+      "personality": [
+        "和气",
+        "干练"
       ],
-      "mention_count": 14
+      "abilities": [],
+      "equipment": [
+        "入阵令牌"
+      ],
+      "relationships": [
+        {
+          "target": "季路",
+          "type": "师兄"
+        },
+        {
+          "target": "林新",
+          "type": "师姐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领林新上山见季路，途中提醒林新紧跟自己，之后将林新交给季路后离开。"
+        }
+      ],
+      "evidence": [
+        "季路师伯么？孙师姐好。",
+        "孙织妏笑了笑。",
+        "我持有入阵令牌，没有这东西，你会彻底迷失在这片云雾中"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "季路",
+      "aliases": [
+        "季路师伯",
+        "师兄"
+      ],
+      "identity": "丹堂师伯，练气士",
+      "faction": "松林剑派丹堂",
       "status": "登场",
       "first_appearance": "第六十九章 道路（上）",
-      "summary": "两人一前一后赶紧跟上，顺着河边一直往前，很快便到了那处云雾弥漫的石阶前",
+      "summary": "丹堂师伯，练气士，对林新颇为照顾，花大价钱购买蝴蝶茶欲助林新稳固内气。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两人一前一后赶紧跟上，顺着河边一直往前，很快便到了那处云雾弥漫的石阶前",
-        "他紧跟着孙织妏上了石阶，一步步往上，两人速度都极快，犹如一般人奔跑一般",
-        "两人之后都不再开口，加速往上赶"
+      "personality": [
+        "实在",
+        "平和"
       ],
-      "mention_count": 9
+      "abilities": [
+        "练气士"
+      ],
+      "equipment": [
+        "蝴蝶茶"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师伯"
+        },
+        {
+          "target": "孙织妏",
+          "type": "师妹"
+        },
+        {
+          "target": "钟铉",
+          "type": "师兄"
+        },
+        {
+          "target": "伯云子",
+          "type": "师叔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在丹房会客后，与林新饮茶交谈，称赞林新已入先天，并提及小四秀等事。"
+        }
+      ],
+      "evidence": [
+        "季路正端坐在矮桌前，面前烧了一个小炭炉",
+        "人面果的事，你做得很好。",
+        "我花大价钱弄到了这可以稳固内气的好东西"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "回头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "长耳国修士",
+      "aliases": [
+        "那人"
+      ],
+      "identity": "外域长耳国修士",
+      "faction": "长耳国",
       "status": "登场",
       "first_appearance": "第六十九章 道路（上）",
-      "summary": "”孙织妏走上第一步台阶，回头看了眼林新",
-      "appearance": [],
-      "personality": [],
+      "summary": "一位来自长耳国的修士，耳朵巨大如肉袋，与林新等人擦身而过。",
+      "appearance": [
+        "两只耳朵异常巨大，耳垂如足球，垂至腰部"
+      ],
+      "personality": [
+        "友善"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”孙织妏走上第一步台阶，回头看了眼林新",
-        "林新感觉到四周白色云雾越来越浓，回头望了下，身后只能看到十多米外的台阶，再往下就是被白雾笼罩，什么也看不见",
-        "回头朝林新道，“师兄正在会客，我们先在外面等候"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在走廊与林新等人相遇，友善一笑后离开。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "这人的两只耳朵，却是异常巨大。两个耳垂就和足球那么大",
+        "那人转过眼神，朝他友善一笑。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "前面",
+      "name": "小云",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "丹房童子",
+      "faction": "松林剑派丹堂",
       "status": "登场",
       "first_appearance": "第六十九章 道路（上）",
-      "summary": "”孙织妏在前面提醒道",
-      "appearance": [],
+      "summary": "丹房童子，与小雨一同出现，向孙织妏行礼并告知季路正在会客。",
+      "appearance": [
+        "梳包子头，白衣洁净，唇红齿白"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”孙织妏在前面提醒道",
-        "时间一点一滴流逝，直到林新都有些感觉气喘了，逐渐跟不上孙织妏的脚步，前面才终于出现一片模模糊糊的庭院楼阁",
-        "”前面的孙织妏声音再一次传过来，“这里是练气士活动的区域了，紧跟上我，否则出了什么意外我也救不了你"
+      "equipment": [
+        "黑石瓦罐"
       ],
-      "mention_count": 6
+      "relationships": [
+        {
+          "target": "小雨",
+          "type": "同伴"
+        },
+        {
+          "target": "孙织妏",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在院中遇到孙织妏和林新，行礼并回答季路正在会客。"
+        }
+      ],
+      "evidence": [
+        "正巧迎面走来两个梳包子头的童子，白衣洁净，唇红齿白，煞是可爱。",
+        "见过孙仙子。",
+        "还在，不过，刚刚进去一位仙长，看起来似乎有事。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "师兄",
+      "name": "小雨",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "丹房童子",
+      "faction": "松林剑派丹堂",
       "status": "登场",
       "first_appearance": "第六十九章 道路（上）",
-      "summary": "都是有师兄师姐带领着，这让林新不自觉的想起了自己当初来这里时的情况",
-      "appearance": [],
+      "summary": "丹房童子，与小云一同出现，捧着黄色小木盒。",
+      "appearance": [
+        "梳包子头，白衣洁净，唇红齿白"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "都是有师兄师姐带领着，这让林新不自觉的想起了自己当初来这里时的情况",
-        "“小云小雨，师兄还在丹房么",
-        "回头朝林新道，“师兄正在会客，我们先在外面等候"
+      "equipment": [
+        "精致黄色小木盒"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "紧跟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 道路（上）",
-      "summary": "两人一前一后赶紧跟上，顺着河边一直往前，很快便到了那处云雾弥漫的石阶前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两人一前一后赶紧跟上，顺着河边一直往前，很快便到了那处云雾弥漫的石阶前",
-        "他紧跟着孙织妏上了石阶，一步步往上，两人速度都极快，犹如一般人奔跑一般",
-        "“紧跟着我，别慢，我持有入阵令牌，没有这东西，你会彻底迷失在这片云雾中，然后被其中的护山灵兽吞噬"
+      "relationships": [
+        {
+          "target": "小云",
+          "type": "同伴"
+        },
+        {
+          "target": "孙织妏",
+          "type": "主人"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "小心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 道路（上）",
-      "summary": "“小心了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“小心了",
-        "亭子内，季路正端坐在矮桌前，面前烧了一个小炭炉，上边放着朱色茶壶，正小心翼翼的转动着茶壶",
-        "季路也不答话，小心的分出两个朱砂茶杯，轻轻提起茶壶，给两人分别倒了一杯茶水"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与小云一同在院中遇到孙织妏和林新。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "穿过",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 道路（上）",
-      "summary": "林新来不及细看，便继续跟着孙织妏下了桥，东拐西拐，穿过一道道亭子走廊过道，很快便来到一处小院，院子中竖立着一座黑石雕像，是个佩剑男子，做出乘云欲飞的姿态，脚下是白石雕刻而成的云气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "林新来不及细看，便继续跟着孙织妏下了桥，东拐西拐，穿过一道道亭子走廊过道，很快便来到一处小院，院子中竖立着一座黑石雕像，是个佩剑男子，做出乘云欲飞的姿态，脚下是白石雕刻而成的云气",
-        "”　　林新点头，压下心里的一系列疑问，继续跟着孙织妏继续往前，穿过一处温泉一样热气腾腾的小池塘，很快便到了几颗粉色花树边上的小亭子前"
+        "一个抱着黑石瓦罐，另一个捧着精致黄色小木盒。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "童子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 道路（上）",
-      "summary": "正巧迎面走来两个梳包子头的童子，白衣洁净，唇红齿白，煞是可爱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正巧迎面走来两个梳包子头的童子，白衣洁净，唇红齿白，煞是可爱",
-        "”童子声音清脆，加上四周依旧云雾萦绕，墙上地上不时能看到八卦卦象和阴阳鱼图案，给人一种仙气盎然，如梦似幻的感觉",
-        "”右侧的童子恭敬回答"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

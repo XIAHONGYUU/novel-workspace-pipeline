@@ -1,250 +1,123 @@
 {
   "chunk_id": "chunk-0019",
-  "title": "第18章 应急罐头",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "模拟者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第18章 应急罐头",
-      "summary": "”　　苏午一声大喝，喝住了低着头往街对面走的女孩",
-      "appearance": [],
-      "personality": [],
+      "summary": "在模拟中不断尝试破解灯笼诡的规则，试图救下抱鸡女孩但失败，最终死于灯笼诡。",
+      "appearance": [
+        "身材较高",
+        "体型匀称"
+      ],
+      "personality": [
+        "紧张",
+        "兴奋",
+        "歉疚",
+        "冷静"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　苏午一声大喝，喝住了低着头往街对面走的女孩",
-        "趁着这会儿时间，苏午已经箭步冲到了跟前，一伸手抓向了女孩",
-        "”　　听到苏午语气里压抑不住的紧张与兴奋，女孩隔着一层黑暗，仿佛看到了对面男人脸上放肆而淫丨猥的笑容"
+      "relationships": [
+        {
+          "target": "抱鸡女孩",
+          "type": "间接导致其死亡"
+        }
       ],
-      "mention_count": 21
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "抢走女孩的大公鸡，导致女孩被灯笼诡杀死，自己随后也死亡。"
+        }
+      ],
+      "evidence": [
+        "苏午一声大喝，喝住了低着头往街对面走的女孩。",
+        "苏午歉疚地向天上的美人头承诺着。",
+        "他摇了摇头，丢下了这只渐渐失温的死公鸡。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "女孩",
+      "name": "抱鸡女孩",
       "aliases": [],
-      "identity": "",
+      "identity": "宠物主人",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第18章 应急罐头",
-      "summary": "”　　苏午一声大喝，喝住了低着头往街对面走的女孩",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　苏午一声大喝，喝住了低着头往街对面走的女孩",
-        "女孩半是惊讶半是紧张地转头来看，就见一道黑影从一辆轿车旁‘嗖’地一下冲出，虎扑向了自己",
-        "女孩呆了呆"
+      "summary": "夜晚抱着大公鸡出现在十字路口的女孩，被苏午抢走公鸡后，被灯笼诡杀死。",
+      "appearance": [
+        "姣好的面容",
+        "长发"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "应急罐",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "第18章 应急罐头　　“你好",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "紧张",
+        "瑟缩"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "应急罐头",
+          "type": "宠物"
+        },
+        {
+          "target": "苏午",
+          "type": "被其抢走宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "被苏午抢走大公鸡，随后被灯笼诡杀死。"
+        }
+      ],
       "evidence": [
-        "第18章 应急罐头　　“你好",
-        "她小声地喊着大公鸡的名字：“应急罐头，应急罐头……”　　不敢来争夺，也不想就这样放弃",
-        "只是既然那么用心来养，怎么取了‘应急罐头’这么个名字"
+        "女孩半是惊讶半是紧张地转头来看",
+        "她小声地喊着大公鸡的名字：'应急罐头，应急罐头……'",
+        "她死了。"
       ],
       "mention_count": 10
     },
     {
-      "name": "应急",
+      "name": "应急罐头",
       "aliases": [],
-      "identity": "",
+      "identity": "宠物公鸡",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第18章 应急罐头",
-      "summary": "第18章 应急罐头　　“你好",
-      "appearance": [],
+      "summary": "女孩怀中的大公鸡，被苏午抢走后不久死亡。",
+      "appearance": [
+        "羽色鲜艳",
+        "有七八斤重"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第18章 应急罐头　　“你好",
-        "她小声地喊着大公鸡的名字：“应急罐头，应急罐头……”　　不敢来争夺，也不想就这样放弃",
-        "只是既然那么用心来养，怎么取了‘应急罐头’这么个名字"
+      "relationships": [
+        {
+          "target": "抱鸡女孩",
+          "type": "主人"
+        },
+        {
+          "target": "苏午",
+          "type": "被其抢夺"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "元玉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "他现在走得越远，到结算时评分就会越高，也就能多得一点元玉奖励",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他现在走得越远，到结算时评分就会越高，也就能多得一点元玉奖励",
-        "奖励：丙中评分基础奖励30元玉；　　发现安全屋＋10元玉；　　成功躲避一次‘眼诡’的追杀＋30元玉",
-        "钱包余额：746＋70＝816元玉"
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "被苏午抢走，随后死亡。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "怀里",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "”　　那只抓向她胸口的手掌没有停留，跟着猝然向前，一把抓住了她——怀里那只羽色鲜艳的公鸡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　那只抓向她胸口的手掌没有停留，跟着猝然向前，一把抓住了她——怀里那只羽色鲜艳的公鸡",
-        "握住鸡脖子就将有七八斤重的大公鸡从女孩怀里薅了出来",
-        "”　　怀里的大公鸡凄厉地鸣叫着"
+        "怀里那只羽色鲜艳的公鸡",
+        "它没有挣扎，只是叫了几声，就脑袋一歪，脖颈软软地耷拉了下去。",
+        "他摇了摇头，丢下了这只渐渐失温的死公鸡。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "只是既然那么用心来养，怎么取了‘应急罐头’这么个名字",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是既然那么用心来养，怎么取了‘应急罐头’这么个名字",
-        "即便方才他提了这只鸡的脖子一会儿，让它喘不过气，但后来它也缓过来了，怎么就这么死了",
-        "这么看来，这只公鸡也是类似状况吗"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "脖颈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "下一刻，女孩的影子忽然一分为二，脖颈及以下部分的影子静静立在原地，头颅映照出的影子则飘飘悠悠",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "下一刻，女孩的影子忽然一分为二，脖颈及以下部分的影子静静立在原地，头颅映照出的影子则飘飘悠悠",
-        "它没有挣扎，只是叫了几声，就脑袋一歪，脖颈软软地耷拉了下去",
-        "汽车的主人趴在车前，钥匙拿在手上，脖颈上没了脑袋"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "喝住",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "”　　苏午一声大喝，喝住了低着头往街对面走的女孩",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　苏午一声大喝，喝住了低着头往街对面走的女孩"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "地一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "女孩半是惊讶半是紧张地转头来看，就见一道黑影从一辆轿车旁‘嗖’地一下冲出，虎扑向了自己",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "女孩半是惊讶半是紧张地转头来看，就见一道黑影从一辆轿车旁‘嗖’地一下冲出，虎扑向了自己"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "虎扑",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "女孩半是惊讶半是紧张地转头来看，就见一道黑影从一辆轿车旁‘嗖’地一下冲出，虎扑向了自己",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "女孩半是惊讶半是紧张地转头来看，就见一道黑影从一辆轿车旁‘嗖’地一下冲出，虎扑向了自己"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "到处",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第18章 应急罐头",
-      "summary": "此时霓虹黯灭，到处都黑漆漆的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时霓虹黯灭，到处都黑漆漆的"
-      ],
-      "mention_count": 3
+      "mention_count": 8
     }
   ]
 }

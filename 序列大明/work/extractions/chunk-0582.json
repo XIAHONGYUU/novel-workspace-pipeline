@@ -1,183 +1,546 @@
 {
   "chunk_id": "chunk-0582",
-  "title": "第580章龙虎恶影",
   "characters": [
     {
-      "name": "张崇诚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "”　　张崇诚凌空御虚，道袍鼓动，配上一副仙风道骨的皮囊，尽显神仙风采",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　张崇诚凌空御虚，道袍鼓动，配上一副仙风道骨的皮囊，尽显神仙风采",
-        "虚影面容与张崇诚一般无二，一条形如金色锁链的道祖法器腾跃如龙，环绕法相飞动，恐怖的威压随着淡漠的目光落向陈乞生",
-        "“用假死就想了结真仇，张崇诚，龙虎山在你们这群人手中，当真是丢人啊"
+      "name": "陈乞生",
+      "aliases": [
+        "老陈"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "张崇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "武当山天门殿道序",
+      "faction": "武当",
       "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "”　　张崇诚凌空御虚，道袍鼓动，配上一副仙风道骨的皮囊，尽显神仙风采",
+      "first_appearance": "",
+      "summary": "武当山天门殿道序，曾为龙虎山弟子，后叛出，与龙虎山有深仇。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "骁勇",
+        "冷静",
+        "重情义"
+      ],
+      "abilities": [
+        "剑术高超",
+        "神念强度达到昔日武当山道三牧君层次"
+      ],
+      "equipment": [
+        "飞剑"
+      ],
+      "relationships": [
+        {
+          "target": "张崇诚",
+          "type": "敌对"
+        },
+        {
+          "target": "张崇源",
+          "type": "仇敌（已杀）"
+        },
+        {
+          "target": "邹四九",
+          "type": "好友"
+        },
+        {
+          "target": "袁明妃",
+          "type": "好友"
+        },
+        {
+          "target": "沈笠",
+          "type": "好友"
+        },
+        {
+          "target": "李钧",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "上龙虎山复仇，斩杀张崇源，毁万法总坛，劈祖师堂飞檐一角后下山。"
+        }
+      ],
       "evidence": [
-        "”　　张崇诚凌空御虚，道袍鼓动，配上一副仙风道骨的皮囊，尽显神仙风采",
-        "虚影面容与张崇诚一般无二，一条形如金色锁链的道祖法器腾跃如龙，环绕法相飞动，恐怖的威压随着淡漠的目光落向陈乞生",
-        "“用假死就想了结真仇，张崇诚，龙虎山在你们这群人手中，当真是丢人啊"
+        "陈乞生横剑四顾，眼中没有丝毫惧色，嘴角露出轻蔑冷笑。",
+        "陈乞生长啸一声，充满爆发张力的身躯如同弓弦抽射，缠绕周身的真气撕开几乎凝成实质的挡路神念，剑锋已到张崇诚面前！",
+        "这一剑，是武当山天门殿道序陈乞生代殿主赵衍龙问候你。"
       ],
       "mention_count": 20
     },
     {
-      "name": "陈乞生",
+      "name": "张崇诚",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龙虎山天师",
+      "faction": "龙虎山",
       "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "第580章龙虎恶影　　“陈乞生，本君念在你曾经也是龙虎弟子，所以给你一个求取公道的机会，了断这场恩怨，你莫要以为龙虎山软弱可欺，得寸进尺",
+      "first_appearance": "",
+      "summary": "龙虎山天师，张崇源师兄，对师尊张希极（张崇炼）忠心但畏惧。",
+      "appearance": [
+        "道袍鼓动",
+        "仙风道骨"
+      ],
+      "personality": [
+        "谨慎",
+        "畏惧师尊",
+        "有心机"
+      ],
+      "abilities": [
+        "凌空御虚",
+        "神念强大",
+        "拥有道祖法器锁链"
+      ],
+      "equipment": [
+        "金色锁链状道祖法器"
+      ],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "敌对"
+        },
+        {
+          "target": "张崇源",
+          "type": "师弟"
+        },
+        {
+          "target": "张希极（张崇炼）",
+          "type": "师尊"
+        },
+        {
+          "target": "张清礼",
+          "type": "血脉后辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "type": "与陈乞生对峙，后放其下山，向师尊汇报。"
+        }
+      ],
+      "evidence": [
+        "张崇诚凌空御虚，道袍鼓动，配上一副仙风道骨的皮囊，尽显神仙风采。",
+        "张崇诚双膝跪地，埋头不敢去看那道背影，口中解释道：",
+        "张崇诚一副感恩戴德的激动语气：'弟子谨遵天师法旨。'"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "张崇源",
+      "aliases": [],
+      "identity": "龙虎山斗部主官",
+      "faction": "龙虎山",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "龙虎山斗部主官，被陈乞生斩杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第580章龙虎恶影　　“陈乞生，本君念在你曾经也是龙虎弟子，所以给你一个求取公道的机会，了断这场恩怨，你莫要以为龙虎山软弱可欺，得寸进尺",
-        "威势浩荡的神念从他体内散开，一道陈乞生曾经在真武梦境中见过的庞然法相浮现而出",
-        "虚影面容与张崇诚一般无二，一条形如金色锁链的道祖法器腾跃如龙，环绕法相飞动，恐怖的威压随着淡漠的目光落向陈乞生"
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "仇敌（被其杀）"
+        },
+        {
+          "target": "张崇诚",
+          "type": "师兄"
+        },
+        {
+          "target": "张希极（张崇炼）",
+          "type": "师尊"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈乞生斩杀于万法总坛崩塌中。"
+        }
+      ],
+      "evidence": [
+        "这一剑，是龙虎山斗部主官孙鹿游斩杀祸乱宗门的道序张崇源",
+        "陈乞生果断丢剑握拳，拳锋重重砸在剑柄末端。激荡的真气，长剑如一线雷光，直入万法宗坛。",
+        "崩塌的道殿之中传出一声惊怒的尖叫"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "张清礼",
+      "aliases": [],
+      "identity": "龙虎山道序",
+      "faction": "龙虎山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "龙虎山道序，张崇诚的血脉后辈，被指定接替张崇源的位置。",
+      "appearance": [],
+      "personality": [
+        "兴奋"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张崇诚",
+          "type": "血脉后辈"
+        },
+        {
+          "target": "张希极（张崇炼）",
+          "type": "师祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在龙虎山道序中，眼神兴奋。"
+        }
+      ],
+      "evidence": [
+        "张清礼的身影也在其中，此刻的他眼神不再如往日那般空洞，瞳孔中跳动着难以抑制的兴奋。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "邹爷",
+        "神棍"
+      ],
+      "identity": "陈乞生的好友",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "陈乞生的好友，擅长卜卦，曾杀邹子排位五十九的巅峰阴阳序四庄周蝶，与东皇宫结仇。",
+      "appearance": [],
+      "personality": [
+        "豪爽",
+        "爱装"
+      ],
+      "abilities": [
+        "卜卦"
+      ],
+      "equipment": [
+        "龟甲"
+      ],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "好友"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        },
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在山下接应陈乞生，为其卜卦得逢凶化吉。"
+        }
+      ],
+      "evidence": [
+        "邹四九大笑着迎了上来，抬手揽过陈乞生的肩膀。",
+        "邹四九伸手抛起一副龟甲，其中的铜钱来回碰撞，叮当作响。",
+        "也就是杀了个邹子排位五十九的巅峰阴阳序四庄周蝶，顺带和阴阳序最大的势力东皇宫结了死仇而已"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [
+        "袁姐"
+      ],
+      "identity": "陈乞生的好友",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "陈乞生的好友，撑黑伞的女子。",
+      "appearance": [
+        "撑着一把黑伞"
+      ],
+      "personality": [
+        "细心",
+        "沉稳"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑伞"
+      ],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "好友"
+        },
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        },
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在山下接应陈乞生，告知范无咎和谢必安的去向。"
+        }
+      ],
+      "evidence": [
+        "袁明妃撑着一把黑伞，眺望的目光带着笑意，看着那道从雨中山道走出来的身影。",
+        "袁明妃轻声说道，手中的黑伞在悄然中斜向另一旁。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "沈笠",
+      "aliases": [
+        "小沈"
+      ],
+      "identity": "陈乞生的好友",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "陈乞生的好友，想回天阙。",
+      "appearance": [],
+      "personality": [
+        "腼腆",
+        "羡慕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "好友"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        },
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在山下接应陈乞生，表示想回天阙。"
+        }
+      ],
+      "evidence": [
+        "沈笠抱着肩膀坐在一块碎石上，神情苦闷，满眼都是藏不住的艳羡。",
+        "沈笠不愿意当面跟你说，让我转告你，他想回一趟天阙。"
+      ],
+      "mention_count": 5
     },
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "陈乞生的盟友",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "”　　水浸火灼的破烂甲胄，刀劈斧砍的累累伤痕　　李钧带着一身疲惫和风尘，大步行来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　水浸火灼的破烂甲胄，刀劈斧砍的累累伤痕　　李钧带着一身疲惫和风尘，大步行来",
-        "”　　李钧吐出一口悠长的浊气，身上的甲胄终于脱离",
-        "”李钧问道"
+      "first_appearance": "",
+      "summary": "陈乞生的盟友，曾杀龙虎山道序，计划去番地。",
+      "appearance": [
+        "水浸火灼的破烂甲胄",
+        "刀劈斧砍的累累伤痕"
       ],
-      "mention_count": 11
+      "personality": [
+        "豪爽",
+        "重义气"
+      ],
+      "abilities": [],
+      "equipment": [
+        "甲胄"
+      ],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "盟友"
+        },
+        {
+          "target": "范无咎",
+          "type": "同伴"
+        },
+        {
+          "target": "谢必安",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接应陈乞生下山，计划去番地。"
+        }
+      ],
+      "evidence": [
+        "李钧带着一身疲惫和风尘，大步行来。",
+        "李钧咧嘴笑道：'穷山恶水，不是正适合我这个小人得志的刁民？'"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "陈乞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "第580章龙虎恶影　　“陈乞生，本君念在你曾经也是龙虎弟子，所以给你一个求取公道的机会，了断这场恩怨，你莫要以为龙虎山软弱可欺，得寸进尺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第580章龙虎恶影　　“陈乞生，本君念在你曾经也是龙虎弟子，所以给你一个求取公道的机会，了断这场恩怨，你莫要以为龙虎山软弱可欺，得寸进尺",
-        "威势浩荡的神念从他体内散开，一道陈乞生曾经在真武梦境中见过的庞然法相浮现而出",
-        "虚影面容与张崇诚一般无二，一条形如金色锁链的道祖法器腾跃如龙，环绕法相飞动，恐怖的威压随着淡漠的目光落向陈乞生"
+      "name": "张希极",
+      "aliases": [
+        "张崇炼",
+        "张天师"
       ],
-      "mention_count": 10
+      "identity": "龙虎山祖师堂中的神秘人物",
+      "faction": "龙虎山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "龙虎山幕后掌控者，张崇诚和张崇源的师尊，自称张崇炼也是张希极，谋划大局。",
+      "appearance": [
+        "面容上光暗交错",
+        "锋利如刀的薄唇"
+      ],
+      "personality": [
+        "深沉",
+        "算计"
+      ],
+      "abilities": [
+        "拥有甲字天仙权限"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张崇诚",
+          "type": "弟子"
+        },
+        {
+          "target": "张崇源",
+          "type": "弟子"
+        },
+        {
+          "target": "朱平炎",
+          "type": "囚禁对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在祖师堂接见张崇诚，并囚禁岷王朱平炎。"
+        }
+      ],
+      "evidence": [
+        "张崇炼是我，张希极同样也是我。本就是血脉同源的父子，何须计较彼此？",
+        "蒲团上的人影缓缓抬头，面容上光暗交错。",
+        "张峰岳算人心，贫道也算人心。王爷，你说这一次，是贫道赢了吗？"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "邹四九",
-      "aliases": [],
-      "identity": "",
+      "name": "朱平炎",
+      "aliases": [
+        "岷王"
+      ],
+      "identity": "岷王",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "”　　邹四九大笑着迎了上来，抬手揽过陈乞生的肩膀",
+      "first_appearance": "",
+      "summary": "岷王，被张希极囚禁在龙虎山祖师堂。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "愤怒",
+        "无奈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　邹四九大笑着迎了上来，抬手揽过陈乞生的肩膀",
-        "”　　看着陈乞生脸上终于露出了开怀的笑容，邹四九抿着嘴，重重拍了拍对方肩头",
-        "”　　出乎意料，暗中戒备的邹四九并没有等来陈乞生的拳打脚踢，而是见对方从肩上摘下自己的手，快走两步，面对众人拱手抱拳"
+      "relationships": [
+        {
+          "target": "张希极",
+          "type": "囚禁者"
+        },
+        {
+          "target": "李钧",
+          "type": "怨恨（因李钧导致他被抓）"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张希极囚禁，被迫合作。"
+        }
+      ],
+      "evidence": [
+        "李钧这个王八蛋，如果不是他，自己怎么会被抓住？",
+        "朱平炎心头暗骂，面上冷笑道：'道长好客，颇有古风。'"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "弟子",
+      "name": "范无咎",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧的同伴",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "第580章龙虎恶影　　“陈乞生，本君念在你曾经也是龙虎弟子，所以给你一个求取公道的机会，了断这场恩怨，你莫要以为龙虎山软弱可欺，得寸进尺",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "李钧的同伴，与谢必安去了松江府。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第580章龙虎恶影　　“陈乞生，本君念在你曾经也是龙虎弟子，所以给你一个求取公道的机会，了断这场恩怨，你莫要以为龙虎山软弱可欺，得寸进尺",
-        "”　　张崇诚双膝跪地，埋头不敢去看那道背影，口中解释道：“叛徒陈乞生在武当余孽的洞天中有奇遇，神念强度已经达到了昔日武当山道三牧君的层次，弟子一时大意，所以没能挡住他",
-        "“而且陈乞生还有帮手在山下接应，弟子担心如果和他们再次爆发冲突，会坏了天师您的大事"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "谢必安",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与谢必安前往松江府找杨白泽。"
+        }
+      ],
+      "evidence": [
+        "范无咎和谢必安去了杨白泽所在的松江府。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "袁明妃",
+      "name": "谢必安",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧的同伴",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "袁明妃撑着一把黑伞，眺望的目光带着笑意，看着那道从雨中山道走出来的身影",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "李钧的同伴，与范无咎去了松江府。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "袁明妃撑着一把黑伞，眺望的目光带着笑意，看着那道从雨中山道走出来的身影",
-        "”　　邹四九看了眼袁明妃，抬着下巴，双手贴着鬓角慢慢抹过",
-        "“介是干嘛，我啥都没干呐”　　沈笠侧身就要躲开，却被袁明妃伸手按住了肩头"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "范无咎",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与范无咎前往松江府找杨白泽。"
+        }
+      ],
+      "evidence": [
+        "范无咎和谢必安去了杨白泽所在的松江府。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "一道",
+      "name": "杨白泽",
       "aliases": [],
-      "identity": "",
+      "identity": "松江府人物",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "威势浩荡的神念从他体内散开，一道陈乞生曾经在真武梦境中见过的庞然法相浮现而出",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "范无咎和谢必安前往松江府寻找的对象。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -185,41 +548,42 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "威势浩荡的神念从他体内散开，一道陈乞生曾经在真武梦境中见过的庞然法相浮现而出",
-        "坐落周遭群山的道宫之中，一道道流光接连飞上高空，龙虎山仅存的道序几乎全部出动",
-        "可就在此时，一道道炽烈的杀机突然从龙虎山四周升腾而起"
+        "范无咎和谢必安去了杨白泽所在的松江府。"
       ],
-      "mention_count": 7
+      "mention_count": 1
     },
     {
-      "name": "他们",
+      "name": "赵衍龙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "他们曾经引以为傲的宗门，似乎真的已经彻底衰败了",
+      "identity": "武当山天门殿殿主",
+      "faction": "武当",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "武当山天门殿殿主，陈乞生代其问候张天师。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "殿主与道序"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "他们曾经引以为傲的宗门，似乎真的已经彻底衰败了",
-        "他们说先去打个前站，说一定不能把徐家给遗漏了",
-        "与其让他们跟着自己赴险，眼下的处理或许更好"
+        "这一剑，是武当山天门殿道序陈乞生代殿主赵衍龙问候你。"
       ],
-      "mention_count": 7
+      "mention_count": 1
     },
     {
-      "name": "邹四",
+      "name": "孙鹿游",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "”　　邹四九大笑着迎了上来，抬手揽过陈乞生的肩膀",
+      "identity": "龙虎山斗部主官（陈乞生自称）",
+      "faction": "龙虎山（已叛）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "陈乞生自称孙鹿游，斩杀张崇源后宣布不再是龙虎山道序。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -227,32 +591,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　邹四九大笑着迎了上来，抬手揽过陈乞生的肩膀",
-        "”　　看着陈乞生脸上终于露出了开怀的笑容，邹四九抿着嘴，重重拍了拍对方肩头",
-        "”　　出乎意料，暗中戒备的邹四九并没有等来陈乞生的拳打脚踢，而是见对方从肩上摘下自己的手，快走两步，面对众人拱手抱拳"
+        "这一剑，是龙虎山斗部主官孙鹿游斩杀祸乱宗门的道序张崇源"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "袁明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第580章龙虎恶影",
-      "summary": "袁明妃撑着一把黑伞，眺望的目光带着笑意，看着那道从雨中山道走出来的身影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "袁明妃撑着一把黑伞，眺望的目光带着笑意，看着那道从雨中山道走出来的身影",
-        "”　　邹四九看了眼袁明妃，抬着下巴，双手贴着鬓角慢慢抹过",
-        "“介是干嘛，我啥都没干呐”　　沈笠侧身就要躲开，却被袁明妃伸手按住了肩头"
-      ],
-      "mention_count": 6
+      "mention_count": 1
     }
   ]
 }

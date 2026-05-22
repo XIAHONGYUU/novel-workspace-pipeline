@@ -1,256 +1,290 @@
 {
   "chunk_id": "chunk-0102",
-  "title": "第一百章 召唤（下）",
   "characters": [
     {
-      "name": "安颖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百章 召唤（下）",
-      "summary": "只是不知道怎么的，他忽然又想起了安颖",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是不知道怎么的，他忽然又想起了安颖",
-        "“安颖，这是你的那份",
-        "他一把拿出一块白色腰牌，上边刻着安颖两个大字"
-      ],
-      "mention_count": 25
-    },
-    {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "大师兄",
+        "庄主"
+      ],
+      "identity": "林家庄庄主，梅花宗正式弟子",
+      "faction": "梅花宗",
       "status": "登场",
       "first_appearance": "第一百章 召唤（下）",
-      "summary": "”林新心头微微有些失望，食人花只是很普通的物种，以吞噬血尸为生的活性藤蔓，主要攻击方式是从地下偷袭，用满是倒刺的庞大根须刺穿猎物，吸食其血肉",
+      "summary": "林家庄庄主，梅花宗正式弟子，即将大婚。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新心头微微有些失望，食人花只是很普通的物种，以吞噬血尸为生的活性藤蔓，主要攻击方式是从地下偷袭，用满是倒刺的庞大根须刺穿猎物，吸食其血肉",
-        "”确定了红花剑的使用方式，林新缓缓将其送回剑鞘",
-        "对于林新它传递出很满意的情绪，同时它的感知很敏锐，似乎察觉到了林新身上有着对它力量很有帮助的东西，所以根本一点也没有反抗之心"
+      "personality": [
+        "冷静",
+        "谨慎"
       ],
-      "mention_count": 17
+      "abilities": [
+        "祭火符剑红花剑召唤食人花"
+      ],
+      "equipment": [
+        "红花剑",
+        "甘霖符"
+      ],
+      "relationships": [
+        {
+          "target": "安颖",
+          "type": "师妹，暗恋对象"
+        },
+        {
+          "target": "萧玲玲",
+          "type": "未婚妻"
+        },
+        {
+          "target": "陆索道人",
+          "type": "属下"
+        },
+        {
+          "target": "黄师兄",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "召唤食人花茵曼托，分配属性点，接到城主府警讯，半月后将大婚。"
+        }
+      ],
+      "evidence": [
+        "林新心头微微有些失望",
+        "林新缓缓将其送回剑鞘",
+        "林新调息片刻，闭目开始选择自己属性点的分配"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "食人花",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "安颖",
+      "aliases": [
+        "雪影剑安颖"
+      ],
+      "identity": "梅花宗先天弟子",
+      "faction": "梅花宗",
       "status": "登场",
       "first_appearance": "第一百章 召唤（下）",
-      "summary": "第一百章 召唤（下）　　“食人花",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百章 召唤（下）　　“食人花",
-        "”林新心头微微有些失望，食人花只是很普通的物种，以吞噬血尸为生的活性藤蔓，主要攻击方式是从地下偷袭，用满是倒刺的庞大根须刺穿猎物，吸食其血肉",
-        "作为为修士们纪录最详细的百种外域生物之一，食人花的资料很多，它的优势是偷袭和力量不错，但缺陷也很明显，它只有纯粹的物理性攻击，而且对火焰抗性很弱，只能在固定范围活动，无法移动"
+      "summary": "梅花宗先天弟子，外号雪影剑，对林新情深意重。",
+      "appearance": [
+        "满脸伤痕",
+        "手上胳膊上到处是深可见骨的血口",
+        "一身白衣有一半都被染成红色"
       ],
-      "mention_count": 8
+      "personality": [
+        "疯狂",
+        "残忍",
+        "对林新温柔"
+      ],
+      "abilities": [
+        "剑术高超",
+        "斩杀空剑洞白银第十三剑"
+      ],
+      "equipment": [
+        "白色长剑",
+        "白玉丹"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师妹，暗恋对象"
+        },
+        {
+          "target": "矮胖男子",
+          "type": "敌对"
+        },
+        {
+          "target": "林师哥",
+          "type": "追求者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "完成任务领取奖励，得到白玉丹，打算下山找林新。"
+        }
+      ],
+      "evidence": [
+        "安颖笑眯眯道，却是打开了下盒子",
+        "安颖却理也不理",
+        "安颖接住纸张，扫眼一看"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "陆索道人",
+      "aliases": [
+        "陆索"
+      ],
+      "identity": "林新属下",
+      "faction": "林家庄",
       "status": "登场",
       "first_appearance": "第一百章 召唤（下）",
-      "summary": "”林新心头微微有些失望，食人花只是很普通的物种，以吞噬血尸为生的活性藤蔓，主要攻击方式是从地下偷袭，用满是倒刺的庞大根须刺穿猎物，吸食其血肉",
+      "summary": "林新的属下，负责收拾案台等事务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新心头微微有些失望，食人花只是很普通的物种，以吞噬血尸为生的活性藤蔓，主要攻击方式是从地下偷袭，用满是倒刺的庞大根须刺穿猎物，吸食其血肉",
-        "所以只是先天级较弱的外域生物，只要小心些，一个普通先天也能轻松灭掉它",
-        "“只是属下担心，再过一段时日就是庄主大婚之日"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "主从"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新提议去查看巡逻队失踪情况。"
+        }
+      ],
+      "evidence": [
+        "叫了陆索等人来收拾案台等痕迹",
+        "陆索道人开口道"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "食人",
+      "name": "矮胖男子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "梅花宗弟子，其兄被安颖所杀",
+      "faction": "梅花宗",
       "status": "登场",
       "first_appearance": "第一百章 召唤（下）",
-      "summary": "第一百章 召唤（下）　　“食人花",
-      "appearance": [],
-      "personality": [],
+      "summary": "梅花宗弟子，因兄长被安颖所杀而敌视安颖，但被迫提供情报。",
+      "appearance": [
+        "矮胖"
+      ],
+      "personality": [
+        "畏惧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百章 召唤（下）　　“食人花",
-        "”林新心头微微有些失望，食人花只是很普通的物种，以吞噬血尸为生的活性藤蔓，主要攻击方式是从地下偷袭，用满是倒刺的庞大根须刺穿猎物，吸食其血肉",
-        "作为为修士们纪录最详细的百种外域生物之一，食人花的资料很多，它的优势是偷袭和力量不错，但缺陷也很明显，它只有纯粹的物理性攻击，而且对火焰抗性很弱，只能在固定范围活动，无法移动"
+      "relationships": [
+        {
+          "target": "安颖",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给安颖送来正式弟子内部通报。"
+        }
+      ],
+      "evidence": [
+        "一个矮胖人影忽然挡住她去路",
+        "矮胖男子脸上闪过一丝怒色",
+        "矮胖男子微微一缩，眼中露出一丝惧色"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "林师哥",
+      "aliases": [],
+      "identity": "梅花宗弟子",
+      "faction": "梅花宗",
+      "status": "登场",
+      "first_appearance": "第一百章 召唤（下）",
+      "summary": "梅花宗弟子，追求安颖。",
+      "appearance": [
+        "面容沉静",
+        "年纪三十左右"
+      ],
+      "personality": [
+        "从容不迫"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安颖",
+          "type": "追求者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在山道上遇到安颖，表示关心。"
+        }
+      ],
+      "evidence": [
+        "其中一人面容沉静，年纪三十左右，有种从容不迫之色",
+        "林姓男子温和安慰道"
+      ],
+      "mention_count": 2
     },
     {
       "name": "老妪",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "婆婆"
+      ],
+      "identity": "梅花宗任务发放者",
+      "faction": "梅花宗",
       "status": "登场",
       "first_appearance": "第一百章 召唤（下）",
-      "summary": "”满脸皱纹的老妪面色木然的将一个玉盒放在面前女孩手中",
-      "appearance": [],
-      "personality": [],
+      "summary": "梅花宗负责发放任务奖励的老妪。",
+      "appearance": [
+        "满脸皱纹"
+      ],
+      "personality": [
+        "木然"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "安颖",
+          "type": "任务发放者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将白玉丹交给安颖。"
+        }
+      ],
       "evidence": [
-        "”满脸皱纹的老妪面色木然的将一个玉盒放在面前女孩手中",
-        "将腰牌给老妪看了一遍，她才喜滋滋的伸手接过任务奖励，那个小巧的白玉盒",
+        "满脸皱纹的老妪面色木然的将一个玉盒放在面前女孩手中",
         "老妪淡淡道"
       ],
-      "mention_count": 5
+      "mention_count": 3
     },
     {
-      "name": "她心",
-      "aliases": [],
-      "identity": "",
+      "name": "茵曼托",
+      "aliases": [
+        "食人花"
+      ],
+      "identity": "外域生物食人花",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百章 召唤（下）",
-      "summary": "”　　一时间她心如鹿撞，索性捧着脸不好意思起来，每次想到大师兄以前偷偷看自己身体时的色迷迷目光，明明想看还装作一副镇定自若的样子，她心头就一阵悸动",
+      "summary": "林新用红花剑召唤的食人花，智力不高，对林新满意。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "满意"
+      ],
+      "abilities": [
+        "从地下偷袭",
+        "用根须刺穿猎物"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "召唤者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新召唤出来。"
+        }
+      ],
       "evidence": [
-        "”　　一时间她心如鹿撞，索性捧着脸不好意思起来，每次想到大师兄以前偷偷看自己身体时的色迷迷目光，明明想看还装作一副镇定自若的样子，她心头就一阵悸动",
-        "她心头已经打定主意，马上下山去找林新了"
+        "食人花的名字叫茵曼托",
+        "它智力不高，只能表现出简单的情绪",
+        "对于林新它传递出很满意的情绪"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "只能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百章 召唤（下）",
-      "summary": "作为为修士们纪录最详细的百种外域生物之一，食人花的资料很多，它的优势是偷袭和力量不错，但缺陷也很明显，它只有纯粹的物理性攻击，而且对火焰抗性很弱，只能在固定范围活动，无法移动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "作为为修士们纪录最详细的百种外域生物之一，食人花的资料很多，它的优势是偷袭和力量不错，但缺陷也很明显，它只有纯粹的物理性攻击，而且对火焰抗性很弱，只能在固定范围活动，无法移动",
-        "”　　“祭火符剑红花剑一旦召唤出来生物，就只能因为食人花的本质而固定在一定范围内",
-        "食人花的名字叫茵曼托，它智力不高，只能表现出简单的情绪"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "只要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百章 召唤（下）",
-      "summary": "所以只是先天级较弱的外域生物，只要小心些，一个普通先天也能轻松灭掉它",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所以只是先天级较弱的外域生物，只要小心些，一个普通先天也能轻松灭掉它",
-        "正常人，就算包括修士在内，身体的平均数据应该在一点到五点之间，五点左右是最强的，宗门中纪录里天生神力，徒手断铁，也就是这个层次，是外功练到顶尖的记载……”　　“那么只要我的属性突破五点，应该身体会有一个质变",
-        "”林新随意道，“最近魔宗妖人猖獗，这样的事时有发生，只要我们做好自己防备就是"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "就算",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百章 召唤（下）",
-      "summary": "“罢了，我以法器召唤，就算固定范围，也能以红花剑转移，问题不大……既然能够和其他两个相抗衡，这食人花或许有它强悍的地方",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“罢了，我以法器召唤，就算固定范围，也能以红花剑转移，问题不大……既然能够和其他两个相抗衡，这食人花或许有它强悍的地方",
-        "正常人，就算包括修士在内，身体的平均数据应该在一点到五点之间，五点左右是最强的，宗门中纪录里天生神力，徒手断铁，也就是这个层次，是外功练到顶尖的记载……”　　“那么只要我的属性突破五点，应该身体会有一个质变",
-        "就算是宗门资料室内，也没有超出肉身天生神力这个地步的"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百章 召唤（下）",
-      "summary": "这是让林新唯一欣慰的一点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这是让林新唯一欣慰的一点",
-        "“安颖，这是你的那份",
-        "“这是出了名的雪影剑安颖"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "但这并",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百章 召唤（下）",
-      "summary": "就需要我将属性加在体质上……但这并不划算",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就需要我将属性加在体质上……但这并不划算",
-        "”她礼貌而尊敬的回答，但这并不像她平日里的语气，而是隐隐有种淡淡的疏离感"
-      ],
-      "mention_count": 4
     }
   ]
 }

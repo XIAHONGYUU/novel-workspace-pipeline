@@ -1,244 +1,474 @@
 {
   "chunk_id": "chunk-0391",
-  "title": "第一百六十四章 风云",
   "characters": [
-    {
-      "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十四章 风云",
-      "summary": "”    戚笼道：“你觉的此人心性如何",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼道：“你觉的此人心性如何",
-        "”    “唔，”戚笼抱胸，不再言语",
-        "“他打算用关外龙脉分布所在，交易这玩意，”戚笼抬了抬头，指着已经融化成神棍材料的天元柱"
-      ],
-      "mention_count": 33
-    },
-    {
-      "name": "叶落",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十四章 风云",
-      "summary": "叶落秋做为曾经的地军大公，又是春官冢宰的继承人，对于那位假王爷，自然有所了解",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "叶落秋做为曾经的地军大公，又是春官冢宰的继承人，对于那位假王爷，自然有所了解",
-        "”    叶落秋表情有些古怪：“而根据我老爹的说法，当初戾妖皇之所以晚年疯癫，也是拜他所赐，而当初弃妖皇年幼，这位皇叔甚至在一段时间内把持朝政，后来为了逼迫这位皇叔让权，古国政坛还发生过不小的地震",
-        "”叶落秋好奇道"
-      ],
-      "mention_count": 10
-    },
     {
       "name": "叶落秋",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "曾经的地军大公，春官冢宰的继承人",
+      "faction": "地军",
       "status": "登场",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "叶落秋做为曾经的地军大公，又是春官冢宰的继承人，对于那位假王爷，自然有所了解",
+      "summary": "曾经的地军大公，春官冢宰的继承人，与戚笼交谈，获得一口尸解剑。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "叶落秋做为曾经的地军大公，又是春官冢宰的继承人，对于那位假王爷，自然有所了解",
-        "”    叶落秋表情有些古怪：“而根据我老爹的说法，当初戾妖皇之所以晚年疯癫，也是拜他所赐，而当初弃妖皇年幼，这位皇叔甚至在一段时间内把持朝政，后来为了逼迫这位皇叔让权，古国政坛还发生过不小的地震",
-        "”叶落秋好奇道"
+      "equipment": [
+        "春官剑器（尸解剑之一）"
       ],
-      "mention_count": 10
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "交谈对象，受剑恩情"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼讨论假王爷、血麒麟等秘辛，并获赐一口尸解剑。"
+        }
+      ],
+      "evidence": [
+        "叶落秋做为曾经的地军大公，又是春官冢宰的继承人",
+        "谢侯爷赐剑！",
+        "春夏秋冬四冢宰，每一尊神职都有一口本名神剑"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "当初",
-      "aliases": [],
-      "identity": "",
+      "name": "戚笼",
+      "aliases": [
+        "侯爷"
+      ],
+      "identity": "侯爷，剑狱之主",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "”    “因为妖皇只有一个，所以这个过程注定是血淋淋的，除了最后的胜利者外，其他人的下场都不怎么好，唯一例外的，便要属这位假王爷了，当初他和戾妖皇情同手足，也是其最坚定的支持者，所以在戾妖皇登基后，并没有遭到清洗，反而被封为亲王，据传一直",
+      "summary": "侯爷，与叶落秋交谈，拒绝假王爷的交易，赐剑叶落秋，并考虑前往天巢。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恩怨分明"
+      ],
+      "abilities": [],
+      "equipment": [
+        "人皮口袋",
+        "剑匣",
+        "四口尸解剑",
+        "天子神兵（铸造中）"
+      ],
+      "relationships": [
+        {
+          "target": "叶落秋",
+          "type": "交谈对象，赐剑"
+        },
+        {
+          "target": "假王爷",
+          "type": "拒绝交易"
+        },
+        {
+          "target": "小天器佬",
+          "type": "合作铸造神兵"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与叶落秋交谈，拒绝假王爷的交易，赐剑叶落秋，考虑前往天巢。"
+        }
+      ],
+      "evidence": [
+        "戚笼道：“你觉的此人心性如何？”",
+        "戚笼摇头，道：“你也不要拿话框我，本侯恩怨分明”",
+        "戚笼眼中佛光深沉如渊海"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "假王爷",
+      "aliases": [
+        "皇叔"
+      ],
+      "identity": "古国亲王，戾妖皇的兄弟，曾把持朝政",
+      "faction": "古国皇族",
+      "status": "提及",
+      "first_appearance": "第一百六十四章 风云",
+      "summary": "古国亲王，曾辅佐戾妖皇，后不知所踪，现找上戚笼交易龙脉分布。",
+      "appearance": [],
+      "personality": [
+        "手腕高深",
+        "实力高强",
+        "心思阴沉",
+        "事不可为而不为之"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戾妖皇",
+          "type": "情同手足，辅佐对象"
+        },
+        {
+          "target": "弃妖皇",
+          "type": "皇叔，曾把持朝政"
+        },
+        {
+          "target": "戚笼",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "辅佐戾妖皇登基，后把持朝政，最终不知所踪。"
+        },
+        {
+          "stage": "当前",
+          "event": "找上戚笼，用关外龙脉分布交易天元柱，被拒后留下警告。"
+        }
+      ],
       "evidence": [
-        "”    “因为妖皇只有一个，所以这个过程注定是血淋淋的，除了最后的胜利者外，其他人的下场都不怎么好，唯一例外的，便要属这位假王爷了，当初他和戾妖皇情同手足，也是其最坚定的支持者，所以在戾妖皇登基后，并没有遭到清洗，反而被封为亲王，据传一直",
-        "”    叶落秋表情有些古怪：“而根据我老爹的说法，当初戾妖皇之所以晚年疯癫，也是拜他所赐，而当初弃妖皇年幼，这位皇叔甚至在一段时间内把持朝政，后来为了逼迫这位皇叔让权，古国政坛还发生过不小的地震",
-        "”    “按照我父亲的说法，当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟，然而在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中"
+        "当初他和戾妖皇情同手足，也是其最坚定的支持者",
+        "后来这位皇叔不知所踪，所有人都以为他死了，原来他没死，还找上了侯爷？",
+        "他走之前，留了一句话——小心血麒麟。"
       ],
       "mention_count": 8
     },
     {
       "name": "血麒麟",
       "aliases": [],
-      "identity": "",
+      "identity": "凶瑞，一半为凶兆，一半为祥瑞",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "”    “我也是这么想的，能成为亡国七灾，必然危险，不过预料中的争斗并没有发生，他走之前，留了一句话——”    戚笼咂了咂嘴，“小心血麒麟",
+      "summary": "血麒麟一脉，其血脉会让其对强者有好感并辅助，但目的是让强者互相厮杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "神侯",
+          "type": "曾辅助，后分道扬镳"
+        },
+        {
+          "target": "皇甫天奇",
+          "type": "曾辅助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "上一代血麒麟在八王之乱中倒戈加入祝融王；这一代血麒麟因皇甫天奇之死与神侯闹翻。"
+        }
+      ],
       "evidence": [
-        "”    “我也是这么想的，能成为亡国七灾，必然危险，不过预料中的争斗并没有发生，他走之前，留了一句话——”    戚笼咂了咂嘴，“小心血麒麟",
-        "”    “按照我父亲的说法，当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟，然而在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中",
-        "”    这事就连戚笼都没听说过，不由讶然道：“八王之乱中的八位王族，不是没有血麒麟一脉么"
+        "小心血麒麟。",
+        "当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟",
+        "血麒麟便是因此和神侯分道扬镳的。"
       ],
       "mention_count": 6
     },
     {
-      "name": "还有",
+      "name": "戾妖皇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "古国妖皇",
+      "faction": "古国皇族",
+      "status": "提及",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "”    “按照我父亲的说法，当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟，然而在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中",
+      "summary": "古国妖皇，晚年疯癫，据传是假王爷所致。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “按照我父亲的说法，当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟，然而在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中",
-        "“表面上，自然是神侯要集结整个地军之力，一举震散天下龙脉，这自然是根本原因，不过还有一个原因，便是皇甫天奇被神侯所杀",
-        "”    “怎么，你还有事"
+      "relationships": [
+        {
+          "target": "假王爷",
+          "type": "情同手足，被其辅佐"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "登基为妖皇，晚年疯癫。"
+        }
+      ],
+      "evidence": [
+        "当初戾妖皇之所以晚年疯癫，也是拜他所赐"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "便是",
+      "name": "弃妖皇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "古国妖皇，年幼继位",
+      "faction": "古国皇族",
+      "status": "提及",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "”    “手腕高深、实力高强、心思阴沉，这都是枭雄的必备品质了，非要加一条的话，那便是事不可为而不为之，辅佐戾妖皇也好，包括在弃妖皇长成之后，翩然离去，这都说明对方喜欢顺势而为，能进亦能退，这种人更危险",
+      "summary": "年幼继位，假王爷曾把持朝政，后逼迫其让权。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “手腕高深、实力高强、心思阴沉，这都是枭雄的必备品质了，非要加一条的话，那便是事不可为而不为之，辅佐戾妖皇也好，包括在弃妖皇长成之后，翩然离去，这都说明对方喜欢顺势而为，能进亦能退，这种人更危险",
-        "”    “这只是明面上的说法，事实上，当初的八王之乱，所有王族都参与了，区别只在于参与多少而已，而在其中串联的，便是上一代的血麒麟，没想这一代的血麒麟依旧如此作风，”叶落秋有些幸灾乐祸，“所以他才会和神侯闹翻",
-        "“表面上，自然是神侯要集结整个地军之力，一举震散天下龙脉，这自然是根本原因，不过还有一个原因，便是皇甫天奇被神侯所杀"
+      "relationships": [
+        {
+          "target": "假王爷",
+          "type": "皇叔，曾把持朝政"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "年幼继位，后逼迫假王爷让权。"
+        }
+      ],
+      "evidence": [
+        "当初弃妖皇年幼，这位皇叔甚至在一段时间内把持朝政"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "戚笼抬",
+      "name": "皇甫天奇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天兵司之主",
+      "faction": "天兵司",
+      "status": "提及",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "“他打算用关外龙脉分布所在，交易这玩意，”戚笼抬了抬头，指着已经融化成神棍材料的天元柱",
+      "summary": "天兵司之主，曾与神侯争锋，被神侯所杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“他打算用关外龙脉分布所在，交易这玩意，”戚笼抬了抬头，指着已经融化成神棍材料的天元柱",
-        "戚笼抬头，只见那根势若万钧、好似撑天之柱一般的天子神兵正缓缓显露真容，棍身表面，是九龙逐日的精美绘图；从另一个角度上，这副图案又像是一颗怪异炽热的眼珠，还有它的九道金色血丝"
+      "relationships": [
+        {
+          "target": "神侯",
+          "type": "对手，被其所杀"
+        },
+        {
+          "target": "血麒麟",
+          "type": "曾受其辅助"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与神侯大战，战败身死。"
+        }
+      ],
+      "evidence": [
+        "当年的天兵司之主，曾经一度和神侯在关内争锋的强者",
+        "最终在与神侯的大战中战败身死"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "然而",
+      "name": "神侯",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "地军领袖",
+      "faction": "地军",
+      "status": "提及",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "”    “按照我父亲的说法，当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟，然而在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中",
+      "summary": "地军领袖，曾杀皇甫天奇，与血麒麟分道扬镳。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “按照我父亲的说法，当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟，然而在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中",
-        "然而此行也不是没有好处的，若能得到足够的神兽血脉，戚笼身上这条龙脉便能彻底蜕变，与金翅大鹏鸟相合，真正化身龙脉之子",
-        "倘如只是一个炼铜旗，戚笼自然不会那么紧张，然而根据‘未来佛’的推演，当初在色界感应到的劫数，也必然会在此行中降临，避无可避"
+      "relationships": [
+        {
+          "target": "皇甫天奇",
+          "type": "对手，杀之"
+        },
+        {
+          "target": "血麒麟",
+          "type": "曾合作，后分道扬镳"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "杀皇甫天奇，与血麒麟分道扬镳。"
+        }
+      ],
+      "evidence": [
+        "神侯要集结整个地军之力，一举震散天下龙脉",
+        "血麒麟便是因此和神侯分道扬镳的。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "血麒",
-      "aliases": [],
-      "identity": "",
+      "name": "小天器佬",
+      "aliases": [
+        "器老爷"
+      ],
+      "identity": "铸造师",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "”    “我也是这么想的，能成为亡国七灾，必然危险，不过预料中的争斗并没有发生，他走之前，留了一句话——”    戚笼咂了咂嘴，“小心血麒麟",
+      "summary": "铸造天子神兵的工匠，与戚笼合作。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “我也是这么想的，能成为亡国七灾，必然危险，不过预料中的争斗并没有发生，他走之前，留了一句话——”    戚笼咂了咂嘴，“小心血麒麟",
-        "”    “按照我父亲的说法，当初替戾妖皇做一些黑暗事的，除了假王爷外，还有上一代的血麒麟，然而在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中",
-        "”    这事就连戚笼都没听说过，不由讶然道：“八王之乱中的八位王族，不是没有血麒麟一脉么"
+      "abilities": [
+        "铸造天子神兵"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作铸造神兵"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在剑狱中铸造天子神兵。"
+        }
+      ],
+      "evidence": [
+        "小天器佬头也不抬道：“开山治水太平时，流落东洋镇龙阙。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "本侯",
+      "name": "厉天仞",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "戚笼摇头，道：“你也不要拿话框我，本侯恩怨分明，当初我去东荒救人，是你们几人冒着风险，助我一臂之力，这恩情我早就想还了，所以我暗中授意小天器佬收周轨为徒，并在封神榜上，给蜃香寒选了个好位置，你的人情，别说一口剑，就算是四口剑，本侯也会还",
+      "summary": "带来鹖后夫人的口信。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼摇头，道：“你也不要拿话框我，本侯恩怨分明，当初我去东荒救人，是你们几人冒着风险，助我一臂之力，这恩情我早就想还了，所以我暗中授意小天器佬收周轨为徒，并在封神榜上，给蜃香寒选了个好位置，你的人情，别说一口剑，就算是四口剑，本侯也会还",
-        "“那你可要保护好它，再丢了，本侯可就不负责了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带来鹖后夫人的口信。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "厉天仞此行，带来了鹖后夫人的口信"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "老爷",
+      "name": "鹖后夫人",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百六十四章 风云",
-      "summary": "“器老爷，你说过，每一口天子神兵出世，都与这方世界的气运息息相关，都要继承这方世界的因果，那么这口神兵的因果又是什么",
+      "summary": "通过厉天仞带来口信。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过厉天仞带来口信。"
+        }
+      ],
+      "evidence": [
+        "厉天仞此行，带来了鹖后夫人的口信"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "侯孝天",
+      "aliases": [],
+      "identity": "",
+      "faction": "侯府",
+      "status": "提及",
+      "first_appearance": "第一百六十四章 风云",
+      "summary": "盯上古神族秘藏天巢，意图完成十万天兵计划。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "盯上天巢，意图完成十万天兵计划。"
+        }
+      ],
+      "evidence": [
+        "侯孝天盯上了古神族的秘藏天巢"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "司马正道",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百六十四章 风云",
+      "summary": "带来消息，眼里只有封神大计。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带来侯家与炼家合流的消息。"
+        }
+      ],
+      "evidence": [
+        "根据司马正道带来的消息，侯家与炼家已经彻底合流"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "小炼都督",
+      "aliases": [
+        "炼铜旗"
+      ],
+      "identity": "炼都督",
+      "faction": "炼家",
+      "status": "提及",
+      "first_appearance": "第一百六十四章 风云",
+      "summary": "炼家都督，可能前往天巢，拥有‘血炼赤旗’。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "血炼赤旗"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "可能前往天巢。"
+        }
+      ],
+      "evidence": [
+        "去天巢的，很可能就是那位小炼都督",
+        "能挡住小炼都督‘血炼赤旗’的，貌似也只有自己了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "公孙裕德",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百六十四章 风云",
+      "summary": "四口尸解剑的原主。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -246,11 +476,57 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "“器老爷，你说过，每一口天子神兵出世，都与这方世界的气运息息相关，都要继承这方世界的因果，那么这口神兵的因果又是什么",
-        "老爷也就算出这么多了",
-        "”    “来不及了，”戚笼顿了顿，又道：“器老爷，这口神兵既然已经成形，能换个地方铸造吗"
+        "公孙裕德这四口尸解剑跟你有何关系？"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "长公主重明儿",
+      "aliases": [],
+      "identity": "长公主",
+      "faction": "古国皇族",
+      "status": "提及",
+      "first_appearance": "第一百六十四章 风云",
+      "summary": "知道皇族秘密最多的人之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "这一位应该是除了长公主重明儿之外，知道皇族秘密最多的人了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "祝融王",
+      "aliases": [],
+      "identity": "八王之一",
+      "faction": "八王",
+      "status": "提及",
+      "first_appearance": "第一百六十四章 风云",
+      "summary": "八王之乱中的一位王族，上一代血麒麟倒戈加入其阵营。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "血麒麟",
+          "type": "曾接纳其倒戈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "八王之乱中，血麒麟倒戈加入其阵营。"
+        }
+      ],
+      "evidence": [
+        "在八王之乱中，血麒麟却倒戈，加入祝融王那一伙人中"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,0 +1,193 @@
+{
+  "chunk_id": "chunk-0292",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "黑巫塔巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，正在准备启程，尝试新融合的天赋力场，并执行猎杀任务。",
+      "appearance": [
+        "身披灰色雨衣的高大男子",
+        "带着灰色兜帽"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "金属天赋",
+        "精神力探查",
+        "镌刻巫术模型"
+      ],
+      "equipment": [
+        "恶念弯刀",
+        "银白色宽刃剑",
+        "黑色行李箱（内含药剂）"
+      ],
+      "relationships": [
+        {
+          "target": "海茵",
+          "type": "导师/寄宿者"
+        },
+        {
+          "target": "名古拉洛特",
+          "type": "约定同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "十多天后，在空港附近郊外执行猎杀任务，测试新融合的天赋力场。"
+        }
+      ],
+      "evidence": [
+        "安格列双眼一眯，从床上起身，开门朝着书房方向走去。",
+        "安格列右手一握，断开连接。",
+        "安格列满意地点点头，弯腰从老头腰身取下一个黑色皮革腰囊。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "海茵",
+      "aliases": [
+        "海茵大人"
+      ],
+      "identity": "安格列的导师，寄宿在安格列体内的存在",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的导师，传授巫术模型，因能量消耗过大而陷入沉寂。",
+      "personality": [
+        "嘲讽",
+        "直接"
+      ],
+      "abilities": [
+        "传输巫术模型"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "导师/寄宿者"
+        },
+        {
+          "target": "爱丽莎缦",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传输二级巫术后因能量消耗过大而休息。"
+        }
+      ],
+      "evidence": [
+        "海茵语气嘲讽起来，'就凭你那点附魔水准，不学习符阵学。就算附魔成功也不过是浪费原材料。'",
+        "海茵这次是彻底陷入沉寂了，看起来似乎真的消耗不小。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "光头男子",
+      "aliases": [],
+      "identity": "被猎杀对象（外地来空港进货的家族巫师）",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被安格列猎杀的巫师，受伤后试图用金钱收买安格列未果。",
+      "appearance": [
+        "绿色皮装",
+        "光头"
+      ],
+      "personality": [],
+      "abilities": [
+        "天赋力场"
+      ],
+      "equipment": [
+        "附魔臂环"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列截杀，最终被宽刃剑斩杀。"
+        }
+      ],
+      "evidence": [
+        "车厢内一个身穿绿色皮装的光头男子，嘴里吐着血，被卡在车厢的一处夹缝里。",
+        "老头低沉着嗓子回答。'年轻人，他们给了你多少报酬让你来截杀我？'",
+        "巨大的宽刃剑轻松切掉老头半边脑袋。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "侏儒老头",
+      "aliases": [],
+      "identity": "光头男子的护卫",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "光头男子的护卫，被安格列击飞后死亡。",
+      "appearance": [
+        "浑身黑衣",
+        "侏儒"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "光头男子",
+          "type": "护卫"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列击飞，滚出老远，七窍流血。"
+        }
+      ],
+      "evidence": [
+        "那团黑影则直接被砸飞，滚出老远，却是一个浑身黑衣的侏儒老头。",
+        "老头脸上，双眼鼻孔都不断往外流着血，看上去异常骇人。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "两个披着黑色斗篷的人",
+      "aliases": [],
+      "identity": "未知势力，可能是后续追兵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在安格列完成任务后出现，气息诡异，安格列选择避开。",
+      "appearance": [
+        "披着黑色斗篷",
+        "骑棕马",
+        "马眼闪耀猩红微光"
+      ],
+      "personality": [],
+      "abilities": [
+        "前边一人周围雨水空气扭曲，气息庞大"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在安格列完成任务后赶到现场。"
+        }
+      ],
+      "evidence": [
+        "此时远处的车马道上，隐隐传来阵阵马蹄的疾驰声。两个披着黑色斗篷的人骑在棕马上，飞快朝着这边跑来。",
+        "其中前边一人身上，周围的雨水空气都似乎在自动扭曲，一股诡异庞大的气息不断朝着周围扩散。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

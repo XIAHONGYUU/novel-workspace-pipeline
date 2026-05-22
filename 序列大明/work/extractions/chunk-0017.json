@@ -1,255 +1,221 @@
 {
   "chunk_id": "chunk-0017",
-  "title": "第16章交易",
   "characters": [
     {
       "name": "赵鼎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "鼎爷"
+      ],
+      "identity": "袍哥会舵把子",
+      "faction": "浑水袍哥",
       "status": "登场",
       "first_appearance": "第16章交易",
-      "summary": "”　　赵鼎话音一顿，神情肃穆道：“但这场风波还没过",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵鼎话音一顿，神情肃穆道：“但这场风波还没过",
-        "”　　李钧闻言不由皱了皱眉头，立马明白赵鼎的意思，“鼎爷你是说罗镇还会卷土重来",
-        "”　　赵鼎扬了扬手，四名精壮汉子立马轻轻放下抬撵，拳场内的浑水袍哥也随即往外退"
+      "summary": "袍哥会舵把子，基因崩解将死之人，与李钧做交易。",
+      "appearance": [
+        "枯枝一般的身体",
+        "松弛的皮肤像口袋挂在身上",
+        "丹田位置漆黑空洞"
       ],
-      "mention_count": 23
+      "personality": [
+        "豪迈",
+        "精明",
+        "有担当"
+      ],
+      "abilities": [
+        "曾经是武道序列九，纯粹的血肉信徒"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "交易对象"
+        },
+        {
+          "target": "况青云",
+          "type": "手下"
+        },
+        {
+          "target": "罗镇",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在九龙拳场与李钧交谈，提出交易"
+        }
+      ],
+      "evidence": [
+        "赵鼎虽然是个混蛋，但对的起‘袍哥’这两个字。",
+        "赵鼎说道：“我出钱，你杀人，公平公正。”",
+        "赵鼎脸上露出灿烂笑容，豪迈大笑。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "武道序列九，袍哥会成员",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第16章交易",
-      "summary": "”　　李钧闻言不由皱了皱眉头，立马明白赵鼎的意思，“鼎爷你是说罗镇还会卷土重来",
+      "summary": "刚刚晋升武道序列的袍哥会成员，与赵鼎进行交易。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧闻言不由皱了皱眉头，立马明白赵鼎的意思，“鼎爷你是说罗镇还会卷土重来",
-        "片刻后，偌大的九龙拳场只剩下李钧、赵鼎和况青云三人",
-        "李钧沉思片刻，略带迟疑回答道：“为了稳定"
+      "personality": [
+        "谨慎",
+        "犹豫"
       ],
-      "mention_count": 15
+      "abilities": [
+        "武道序列九"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "交易对象"
+        },
+        {
+          "target": "况青云",
+          "type": "同袍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵鼎在九龙拳场对话，考虑交易"
+        }
+      ],
+      "evidence": [
+        "李钧闻言不由皱了皱眉头",
+        "李钧满脸震惊，呆愣的摇了摇头",
+        "李钧沉声道：“什么交易？”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "而是",
+      "name": "况青云",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "袍哥会成员",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第16章交易",
-      "summary": "”　　“所以我现在不以舵把子的身份跟你对话，而是想跟你平等的做笔交易",
+      "summary": "袍哥会成员，赵鼎的手下，曾拿出八品内功。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "担忧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“所以我现在不以舵把子的身份跟你对话，而是想跟你平等的做笔交易",
-        "”　　见李钧依旧犹豫不决，赵鼎也不着急催促，而是笑道：“不着急，还有时间给你考虑，想好了再联系我",
-        "”　　李钧并没有立刻答应，而是问道：“罗镇是天府戍卫局的巡检，官方的人"
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "手下"
+        },
+        {
+          "target": "李钧",
+          "type": "同袍"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "袍哥",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第16章交易",
-      "summary": "”　　赵鼎扬了扬手，四名精壮汉子立马轻轻放下抬撵，拳场内的浑水袍哥也随即往外退",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵鼎扬了扬手，四名精壮汉子立马轻轻放下抬撵，拳场内的浑水袍哥也随即往外退",
-        "“袍哥会同样不止我们浑水一支",
-        "赵鼎虽然是个混蛋，但对的起‘袍哥’这两个字"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "陪同赵鼎与李钧会面"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这样",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第16章交易",
-      "summary": "”　　这样的管理模式形成一个囚笼，将整个成都府所有的罪民和贱民集中在一起，防止流溢到其他区域犯罪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　这样的管理模式形成一个囚笼，将整个成都府所有的罪民和贱民集中在一起，防止流溢到其他区域犯罪",
-        "“这样一个地方，在外人眼中是垃圾场，在懂行人眼中却是黄金遍地",
-        "“李钧，你知道为什么成都府会容忍鸡鹅区这样一颗毒瘤的存在吗"
+        "况青云都能拿出一份八品内功",
+        "朝身旁担忧的况青云递去一个放心的眼神"
       ],
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "name": "罗镇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天府戍卫局巡检",
+      "faction": "天府戍卫局",
+      "status": "提及",
       "first_appearance": "第16章交易",
-      "summary": "”　　李钧闻言不由皱了皱眉头，立马明白赵鼎的意思，“鼎爷你是说罗镇还会卷土重来",
+      "summary": "鸡鹅区巡检，与袍哥会敌对，可能卷土重来。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "睚眦必报"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧闻言不由皱了皱眉头，立马明白赵鼎的意思，“鼎爷你是说罗镇还会卷土重来",
-        "”　　对于赵鼎断定罗镇会反扑，李钧并不意外",
-        "如果罗镇真的敢动用戍卫局的力量，那自然有人会出面收拾他"
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "敌对"
+        },
+        {
+          "target": "祭刀会",
+          "type": "利用"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被赵鼎预测将反扑袍哥会"
+        }
+      ],
+      "evidence": [
+        "罗镇要是丢了这么大的面子还能忍得下去，他就不是鸡鹅区的巡检了。",
+        "他肯定会再对袍哥会下手"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "但对",
+      "name": "虎冢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "祭刀会成员",
+      "faction": "祭刀会",
+      "status": "提及",
       "first_appearance": "第16章交易",
-      "summary": "或许伱会觉得这些黑作坊出产的机械植入物是劣质品，但对于陷入绝望的人来说，这些是救命的稻草",
+      "summary": "祭刀会成员，尚未死亡但祭刀会已毁。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "或许伱会觉得这些黑作坊出产的机械植入物是劣质品，但对于陷入绝望的人来说，这些是救命的稻草",
-        "赵鼎虽然是个混蛋，但对的起‘袍哥’这两个字"
+      "relationships": [
+        {
+          "target": "祭刀会",
+          "type": "所属"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及未死"
+        }
+      ],
+      "evidence": [
+        "虎冢虽然还没死，但祭刀会已经算毁了"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "但这",
+      "name": "赵斗",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "未知",
+      "faction": "未知",
+      "status": "提及",
       "first_appearance": "第16章交易",
-      "summary": "”　　赵鼎话音一顿，神情肃穆道：“但这场风波还没过",
+      "summary": "落得生不如死的下场。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵鼎话音一顿，神情肃穆道：“但这场风波还没过",
-        "但这里同时也是这座城市不可缺少的下水道，所有见不得光的东西都会从这里流通过"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及下场凄惨"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第16章交易",
-      "summary": "还有满地的尸体和横流的血色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "还有满地的尸体和横流的血色",
-        "”　　见李钧依旧犹豫不决，赵鼎也不着急催促，而是笑道：“不着急，还有时间给你考虑，想好了再联系我",
-        "一个将死之人，还有什么放不下"
+        "赵斗也落得个在他人眼里生不如死的下场"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "鸡鹅",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第16章交易",
-      "summary": "鸡鹅区位于成都府的最南端，和青阳、神牛两个生活区相毗邻",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "鸡鹅区位于成都府的最南端，和青阳、神牛两个生活区相毗邻",
-        "赵鼎语调感慨，“这才是鸡鹅区能够一直存在的真正的原因，利益",
-        "”　　“罗镇要是丢了这么大的面子还能忍得下去，他就不是鸡鹅区的巡检了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "鸡鹅区",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第16章交易",
-      "summary": "鸡鹅区位于成都府的最南端，和青阳、神牛两个生活区相毗邻",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "鸡鹅区位于成都府的最南端，和青阳、神牛两个生活区相毗邻",
-        "赵鼎语调感慨，“这才是鸡鹅区能够一直存在的真正的原因，利益",
-        "”　　“罗镇要是丢了这么大的面子还能忍得下去，他就不是鸡鹅区的巡检了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "李钧并",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第16章交易",
-      "summary": "”　　对于赵鼎断定罗镇会反扑，李钧并不意外",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　对于赵鼎断定罗镇会反扑，李钧并不意外",
-        "”　　李钧并没有立刻答应，而是问道：“罗镇是天府戍卫局的巡检，官方的人"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

@@ -1,254 +1,268 @@
 {
   "chunk_id": "chunk-0417",
-  "title": "第四百一十四章 插曲（上）",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "阵符道大师、魔修",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "这一下阁主亲自朝这边飞来，全力遁法，前往清点需要的各类材料物品，显出对林新的绝对重视",
+      "first_appearance": "第414章 插曲（上）",
+      "summary": "一位阵符道大师，实力惊人，前往荒玉阁交易荒流石，后参加翡翠市场黑市拍卖。",
+      "appearance": [],
+      "personality": [
+        "淡然",
+        "谨慎"
+      ],
+      "abilities": [
+        "阵符道",
+        "血气符文"
+      ],
+      "equipment": [
+        "红花剑",
+        "荒流石"
+      ],
+      "relationships": [
+        {
+          "target": "沈宁",
+          "type": "合作对象"
+        },
+        {
+          "target": "万安负责人",
+          "type": "冲突对象"
+        },
+        {
+          "target": "白子",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒玉阁交易后离开，拒绝万安负责人的拉拢，随后在市场转悠，最后前往翡翠市场黑市拍卖。"
+        }
+      ],
+      "evidence": [
+        "林新却是不管这些，直接交代清楚后，带着荒流石离开荒玉阁。",
+        "但既然已经答应了沈宁，林新却只是笑了笑。",
+        "林新听了一下，忽然怀里有什么东西发烫起来。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "万安负责人",
+      "aliases": [],
+      "identity": "万安鉴定处负责人",
+      "faction": "万安鉴定",
+      "status": "登场",
+      "first_appearance": "第414章 插曲（上）",
+      "summary": "万安鉴定处的负责人，因先前鉴定师得罪林新而试图道歉并拉拢林新，甚至将两名女鉴定师送给林新处置。",
+      "appearance": [],
+      "personality": [
+        "心狠手辣",
+        "低声下气"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "试图拉拢"
+        },
+        {
+          "target": "秀秀",
+          "type": "下属"
+        },
+        {
+          "target": "娜娜",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒玉阁外拦住林新，提出条件并送出两名女鉴定师，被林新拒绝。"
+        }
+      ],
+      "evidence": [
+        "他面色淡然，准备从边上绕过去，却是一下被那万安负责人挡住。",
+        "负责人一口气将自己能够给出的条件全部说出。",
+        "他说着一把将秀秀和娜娜拉过来。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "秀秀",
+      "aliases": [],
+      "identity": "万安鉴定处鉴定师",
+      "faction": "万安鉴定",
+      "status": "登场",
+      "first_appearance": "第414章 插曲（上）",
+      "summary": "万安鉴定处的女鉴定师，长发垂肩，樱桃小嘴，被负责人送给林新处置。",
+      "appearance": [
+        "长发垂肩",
+        "樱桃小嘴",
+        "惹人怜爱"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万安负责人",
+          "type": "下属"
+        },
+        {
+          "target": "娜娜",
+          "type": "同事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被万安负责人制住并送给林新，后因林新拒绝而抽泣。"
+        }
+      ],
+      "evidence": [
+        "而秀秀则是长发垂肩，樱桃小嘴，给人一种惹人怜爱的感觉。",
+        "两个女孩任由他处置，这话里的潜意思也很明显了。",
+        "身后隐隐有秀秀娜娜两女孩的抽泣。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "娜娜",
+      "aliases": [],
+      "identity": "万安鉴定处鉴定师",
+      "faction": "万安鉴定",
+      "status": "登场",
+      "first_appearance": "第414章 插曲（上）",
+      "summary": "万安鉴定处的女鉴定师，前凸后翘，红色长发绑小辫子，被负责人送给林新处置。",
+      "appearance": [
+        "前凸后翘",
+        "丰腴",
+        "腰肢纤细",
+        "红色长发绑了很多小辫子",
+        "有点野性"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万安负责人",
+          "type": "下属"
+        },
+        {
+          "target": "秀秀",
+          "type": "同事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被万安负责人制住并送给林新，后因林新拒绝而抽泣。"
+        }
+      ],
+      "evidence": [
+        "娜娜前凸后翘，丰腴而腰肢纤细，一头红色长发绑了很多小辫子，看起来有点野性。",
+        "两个女孩任由他处置，这话里的潜意思也很明显了。",
+        "身后隐隐有秀秀娜娜两女孩的抽泣。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "沈宁",
+      "aliases": [],
+      "identity": "荒玉阁人员",
+      "faction": "荒玉阁",
+      "status": "登场",
+      "first_appearance": "第414章 插曲（上）",
+      "summary": "荒玉阁的人员，林新已答应与其合作，对万安负责人冷嘲热讽。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一下阁主亲自朝这边飞来，全力遁法，前往清点需要的各类材料物品，显出对林新的绝对重视",
-        "林新却是不管这些，直接交代清楚后，带着荒流石离开荒玉阁",
-        "”负责人挤出一个难看的笑容，有些低声下气的朝林新道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "合作对象"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒玉阁外关注林新与万安负责人的交涉，后对万安负责人冷嘲热讽。"
+        }
+      ],
+      "evidence": [
+        "荒玉阁的沈宁也有些的担心起来，紧紧盯着林新看他如何选择。",
+        "还有沈宁对万安负责人的冷嘲热讽。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白子",
+      "aliases": [],
+      "identity": "神秘修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第414章 插曲（上）",
+      "summary": "一位气质冰冷的神秘修士，与林新同路前往翡翠市场，对林新有敌意。",
+      "appearance": [],
+      "personality": [
+        "冰冷",
+        "生人勿近"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新一前一后前往会场侧面，警告林新不要跟着，后见林新走开也加速跟上。"
+        }
+      ],
+      "evidence": [
+        "那个神秘白子却是一个人站在一边，冰冰冷冷，浑身散发着一股生人勿近的气质。",
+        "一阵冰冷透着杀意的声音钻进林新耳中。",
+        "白子眼神闪烁，却是这时才明白，对方根本就不是跟着自己。"
+      ],
+      "mention_count": 5
     },
     {
       "name": "老杜",
       "aliases": [],
-      "identity": "",
+      "identity": "黑市接待人",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "他索性回到和那老杜约定的地方，市场中心领取石板的点",
+      "first_appearance": "第414章 插曲（上）",
+      "summary": "黑市接待人，带领林新等人前往翡翠市场，并叮嘱注意事项。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他索性回到和那老杜约定的地方，市场中心领取石板的点",
-        "不一会儿，老杜又带了几个人过来，似乎是接待的第二批客人，一起到了雕像下",
-        "那个老杜正走在最前面"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "接待对象"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "”　　他话音刚落，手法便闪电般点中娜娜和秀秀的定穴，一丝灵气直接制住两人动作",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他话音刚落，手法便闪电般点中娜娜和秀秀的定穴，一丝灵气直接制住两人动作",
-        "两个女孩也是完全没料到他会出这一招，顿时没反应过来便被制住，两人脸色都是一下子变得煞白煞白",
-        "显然两人都是精挑细选出来的美人鉴定师"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领第二批客人到雕像下，然后带众人前往翡翠市场，最后离开。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "有黑袍人更是眼露厌恶之色，还有人啧啧赞叹声传出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "有黑袍人更是眼露厌恶之色，还有人啧啧赞叹声传出",
-        "还有沈宁对万安负责人的冷嘲热讽",
-        "在这里，所有人都是隐藏身份，不光是自己的隐藏手段，还有大阵帮助隐匿气息"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "显然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "显然两人都是精挑细选出来的美人鉴定师",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "显然两人都是精挑细选出来的美人鉴定师",
-        "密密麻麻到处都是修士，而且进出不断，显然是远近都有不知道多少人前来交易",
-        "不过从其表现来看，这白子在不断东张西望，似乎在核对自己位置，显然不大像是有东西牵引过来的"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "在这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "在这里，所有人都是隐藏身份，不光是自己的隐藏手段，还有大阵帮助隐匿气息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在这里，所有人都是隐藏身份，不光是自己的隐藏手段，还有大阵帮助隐匿气息",
-        "已经有不少人在这里等候了，其中很多都是不认识的其他人，站的地方也和他不同",
-        "“好了，在这里后，各位就自行活动吧，黑市拍卖一会就开始，诸位可以在座位上选择自己想要的物品"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "这自称白子的家伙，似乎气息有些特殊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这自称白子的家伙，似乎气息有些特殊",
-        "不一会儿，老杜又带了几个人过来，似乎是接待的第二批客人，一起到了雕像下",
-        "整个石头似乎散发出一股涉及空间挪移般的牵引力"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "每人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "所有坐着的修士，每人身前都有着一块小巧的晶石面板，每人中间都隔有阻挡板，将不同座椅彻底分割开来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所有坐着的修士，每人身前都有着一块小巧的晶石面板，每人中间都隔有阻挡板，将不同座椅彻底分割开来"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "第四百一十四章 插曲（上）　　本来或许只是一个很大的大客户引发小震动，此时则直接变成了一位大师级的阵符道加上大客户两重分量",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四百一十四章 插曲（上）　　本来或许只是一个很大的大客户引发小震动，此时则直接变成了一位大师级的阵符道加上大客户两重分量",
-        "林新却是不管这些，直接交代清楚后，带着荒流石离开荒玉阁",
-        "”　　他话音刚落，手法便闪电般点中娜娜和秀秀的定穴，一丝灵气直接制住两人动作"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "却是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "林新却是不管这些，直接交代清楚后，带着荒流石离开荒玉阁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新却是不管这些，直接交代清楚后，带着荒流石离开荒玉阁",
-        "他面色淡然，准备从边上绕过去，却是一下被那万安负责人挡住",
-        "那个神秘白子却是一个人站在一边，冰冰冷冷，浑身散发着一股生人勿近的气质"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "“不知您有没有意向将东西放到我万安鉴定来鉴定，我可以向您保证，一天之内全部鉴定完毕，另外鉴定费全免，而且另外寄卖若是也在我们这里，我们还能帮助您减免一定的黑市交易抽成比例",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“不知您有没有意向将东西放到我万安鉴定来鉴定，我可以向您保证，一天之内全部鉴定完毕，另外鉴定费全免，而且另外寄卖若是也在我们这里，我们还能帮助您减免一定的黑市交易抽成比例",
-        "“这两位便是我们鉴定行的鉴定师，若是您不解气，这两个都交由您任意处置",
-        "“好了，既然大家都到齐了，我们就先走吧，诸位跟好我"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这家伙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百一十四章 插曲（上）",
-      "summary": "这家伙也是心狠手辣，明知道林新是个魔修，还把这么两个娇滴滴的美女鉴定师送给他处置",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这家伙也是心狠手辣，明知道林新是个魔修，还把这么两个娇滴滴的美女鉴定师送给他处置",
-        "这家伙走在林新前面，不过似乎也感觉到了身后有人，他回头扫了眼林新",
-        "”林新原本就是走这个方向，现在看来，难道这家伙也有类似荒流石的高级资格牵引"
+        "不一会儿，老杜又带了几个人过来，似乎是接待的第二批客人，一起到了雕像下。",
+        "那个老杜正走在最前面。",
+        "老杜又叮嘱了几句，便自己离开了。"
       ],
       "mention_count": 4
     }

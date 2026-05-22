@@ -1,254 +1,311 @@
 {
   "chunk_id": "chunk-0047",
-  "title": "第四十七章 臣以杀君 子以杀父（下）",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "……    而在此时，已被‘处死’的戚笼正在一间牢房中跟洪小四饮酒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……    而在此时，已被‘处死’的戚笼正在一间牢房中跟洪小四饮酒",
-        "”    戚笼‘阴沉沉’的饮酒不语，似乎还没从弑师的‘痛苦’中解脱出来",
-        "”    顿时，戚笼眼中一道光芒闪过"
+      "aliases": [
+        "乌兄弟",
+        "戚小师傅"
       ],
-      "mention_count": 37
+      "identity": "刀匠，弑师者",
+      "faction": "边军",
+      "status": "假死，潜伏",
+      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
+      "summary": "精通四种道器铸法的年轻刀匠，假意弑师后加入边军，暗中谋划。",
+      "appearance": [],
+      "personality": [
+        "阴沉",
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "铸造道器",
+        "龙煞控制"
+      ],
+      "equipment": [
+        "火蚕棉手套",
+        "异种核桃",
+        "大环刀"
+      ],
+      "relationships": [
+        {
+          "target": "段大师",
+          "type": "师徒（假意弑师）"
+        },
+        {
+          "target": "洪小四",
+          "type": "同僚"
+        },
+        {
+          "target": "白三娘",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牢房中与洪小四饮酒，研究《玄匠神兵谱》，获得火蚕棉手套和异种核桃。"
+        },
+        {
+          "stage": "次日",
+          "event": "拜见薛保侯，被任命为后勤旅帅，随军出征。"
+        },
+        {
+          "stage": "入夜",
+          "event": "重炼大环刀，引发龙脉异象。"
+        }
+      ],
+      "evidence": [
+        "段大师人死了，被自己徒儿捅死了！",
+        "戚笼‘阴沉沉’的饮酒不语，似乎还没从弑师的‘痛苦’中解脱出来。",
+        "戚笼一锤又一锤，刀身渐渐发出不甘的刀吟声，刀身之上，仿佛有一颗怨龙首级在龇牙咧嘴。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "白三娘",
+      "aliases": [
+        "夫人"
+      ],
+      "identity": "白府家主，寡妇",
+      "faction": "白府",
       "status": "登场",
       "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "洪小四也不在意，只是又掏出两物，最后吩咐了句，“明日见侯爷，兄弟你可要态度好一点",
-      "appearance": [],
-      "personality": [],
+      "summary": "白府的女主人，试图为段大师之死讨回公道，但被边军敷衍。",
+      "appearance": [
+        "风姿绰约"
+      ],
+      "personality": [
+        "愤怒",
+        "强势"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "洪小四也不在意，只是又掏出两物，最后吩咐了句，“明日见侯爷，兄弟你可要态度好一点",
-        "”    等人走后，戚笼‘狂热’的态度不变，只是迅速用龙煞扫了一遍，确认无人暗中监视后，这才吐了口气，心中暗想",
-        "”    戚笼面色不变，只是头也不回，枪身猛的一甩，那说话之人反手接住，几乎就在握枪的瞬间，无数枪影雪花般的周身绽放，越绽越多，最后真的好似大雪裹身一般，通体凉意，风雪夜，枪影倏忽而出，枪锋距离戚笼喉咙不哈过半尺"
+      "relationships": [
+        {
+          "target": "段大师",
+          "type": "家奴"
+        },
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在兵营中得知段大师被杀，要求边军交人，被拒绝后愤然离去。"
+        }
+      ],
+      "evidence": [
+        "白三娘听到这个消息，‘大惊失色’、继而‘咬牙切齿’，素手一拍桌面。",
+        "你们这群人欺负我一个寡妇，会遭报应的！",
+        "白三娘带着家仆，气冲冲的走了，连犒军物资也拖走了，顺便还有段大师的尸体。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "夫人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "段大师",
+      "aliases": [
+        "段大师"
+      ],
+      "identity": "刀匠，边军之人",
+      "faction": "边军",
+      "status": "已死（假死）",
       "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "”    另一校尉干笑道：“夫人莫要说笑，段大师已然花甲，不过因为精通四种道器铸法，还不是被边军强征了过去，这位戚小师傅不过三十，同样精通四种铸法，你说，这等人物，边军岂能放过",
+      "summary": "戚笼的师父，精通四种道器铸法，被戚笼假意刺杀。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "精通四种道器铸法"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "师徒"
+        },
+        {
+          "target": "白三娘",
+          "type": "家奴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼刺杀，人头被蝇四道人献上。"
+        }
+      ],
       "evidence": [
-        "”    另一校尉干笑道：“夫人莫要说笑，段大师已然花甲，不过因为精通四种道器铸法，还不是被边军强征了过去，这位戚小师傅不过三十，同样精通四种铸法，你说，这等人物，边军岂能放过",
-        "“夫人说的有理，”一道低沉沙哑的声音响起，然后道：“人我们已经杀了，人头奉上",
-        "“夫人可以拿回去交差了"
+        "段大师人死了，被自己徒儿捅死了！",
+        "人我们已经杀了，人头奉上。",
+        "老爷子遗书都写好了，想必被捅的时候，心里一定稳得一笔。"
       ],
       "mention_count": 5
     },
     {
       "name": "洪小四",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "边军人员",
+      "faction": "边军",
       "status": "登场",
       "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "……    而在此时，已被‘处死’的戚笼正在一间牢房中跟洪小四饮酒",
+      "summary": "与戚笼在牢中饮酒，拉拢戚笼加入边军。",
+      "appearance": [],
+      "personality": [
+        "豪爽",
+        "亲热"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牢房中与戚笼饮酒，赠送《玄匠神兵谱》、火蚕棉手套和异种核桃。"
+        }
+      ],
+      "evidence": [
+        "洪小四伸出了个大拇指，一手揽着肩膀，极其亲热",
+        "他又掏出一本书，'而且有这功夫，兄弟可以研究研究这玩意。'",
+        "他把目光放在了洪小四拉下的两物中。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "蝇四道人",
+      "aliases": [],
+      "identity": "边军道人",
+      "faction": "边军",
+      "status": "登场",
+      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
+      "summary": "将段大师的人头交给白三娘。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……    而在此时，已被‘处死’的戚笼正在一间牢房中跟洪小四饮酒",
-        "“哈哈哈哈，乌兄弟你够狠，这一剑换我可刺不出来，”洪小四伸出了个大拇指，一手揽着肩膀，极其亲热：“你到了关外，大有可为啊",
-        "洪小四暗自点头，边地的神匠多半都是这副死人脸，技尽于道且穷于道，对外事极冷漠，笑呵呵道：“以后兄弟你还是姓戚吧，黑山城人多眼杂，再被人看到可不好"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将段大师的人头丢给白三娘。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "蝇四道人大踏步走了进来，直接丢来一颗血淋淋的人头"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "薛保侯",
+      "aliases": [
+        "薛侯爷"
+      ],
+      "identity": "边军侯爷",
+      "faction": "边军",
+      "status": "登场",
+      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
+      "summary": "傲慢霸道的边军首领，接见戚笼并任命其为后勤旅帅。",
+      "appearance": [],
+      "personality": [
+        "傲慢",
+        "霸道"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "次日",
+          "event": "接见戚笼，勉励其好好干。"
+        }
+      ],
+      "evidence": [
+        "戚笼果然被领去拜见薛保侯，这位以傲慢和霸道著称的薛侯爷居高临下的勉励了戚笼几句"
+      ],
+      "mention_count": 2
     },
     {
       "name": "神枪楚",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "边军将领",
+      "faction": "边军",
       "status": "登场",
       "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "“枪是忠胆，”神枪楚咧嘴一笑，“这口枪我要了",
+      "summary": "边军中的枪术高手，与戚笼有交集。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“枪是忠胆，”神枪楚咧嘴一笑，“这口枪我要了",
-        "”    神枪楚又上前几步，小声道：“黑山城一个月前突然地气泄露，流露出好些神异物，侯爷的意思，让你摸摸底",
-        "神枪楚又眨了眨眼，哈哈一笑，举起两壶酒，道：“我不知道你喜欢什么，就带了两壶边郡的烧酒，也不知道你喜不喜欢"
+      "personality": [
+        "豪爽"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "让你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "“上面发话了，明日出征，让你随军，给你挂个后勤旅帅的闲职，不管军，让你专门负责修理的活儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“上面发话了，明日出征，让你随军，给你挂个后勤旅帅的闲职，不管军，让你专门负责修理的活儿",
-        "”    神枪楚又上前几步，小声道：“黑山城一个月前突然地气泄露，流露出好些神异物，侯爷的意思，让你摸摸底"
+      "abilities": [
+        "枪术"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "我看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "”    配客的校尉们你看看我、我看看你，各自露出奇异的表情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    配客的校尉们你看看我、我看看你，各自露出奇异的表情",
-        "其中一人忍不住开口道：“段大师是边军之人，这刑罚之事，我看还是交予边军处理吧"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "哈哈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "“哈哈哈哈，乌兄弟你够狠，这一剑换我可刺不出来，”洪小四伸出了个大拇指，一手揽着肩膀，极其亲热：“你到了关外，大有可为啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“哈哈哈哈，乌兄弟你够狠，这一剑换我可刺不出来，”洪小四伸出了个大拇指，一手揽着肩膀，极其亲热：“你到了关外，大有可为啊",
-        "神枪楚又眨了眨眼，哈哈一笑，举起两壶酒，道：“我不知道你喜欢什么，就带了两壶边郡的烧酒，也不知道你喜不喜欢"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "取走戚笼锻造的鸦九枪，并告知明日出征及黑山城神异物之事。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "明日",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "洪小四也不在意，只是又掏出两物，最后吩咐了句，“明日见侯爷，兄弟你可要态度好一点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "洪小四也不在意，只是又掏出两物，最后吩咐了句，“明日见侯爷，兄弟你可要态度好一点",
-        "“上面发话了，明日出征，让你随军，给你挂个后勤旅帅的闲职，不管军，让你专门负责修理的活儿",
-        "戚笼面无表情的点了点头，他对于军中苟且不感兴趣，反倒是注意到一个日子，明日就开拔么"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "或许",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "戚笼吐了口气，决定不多想，这类问题，或许只有等到他站到武道顶峰，才有资格知道真相，前提是自己没有中途夭折",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼吐了口气，决定不多想，这类问题，或许只有等到他站到武道顶峰，才有资格知道真相，前提是自己没有中途夭折",
-        "呵呵，有些人，或许在自己走之前，可以算一算总账"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "刀身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "不过这一次，他放在砧板上的武器有些特殊，刀长四尺五寸、刀柄长七寸，刀身靛蓝色、刀口发黑，正是当初被龙脉重炼的大环刀，在城门口被收，充入军资，历经周折，又回到了他的手上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过这一次，他放在砧板上的武器有些特殊，刀长四尺五寸、刀柄长七寸，刀身靛蓝色、刀口发黑，正是当初被龙脉重炼的大环刀，在城门口被收，充入军资，历经周折，又回到了他的手上",
-        "戚笼一锤又一锤，刀身渐渐发出不甘的刀吟声，刀身之上，仿佛有一颗怨龙首级在龇牙咧嘴",
-        "龙首更加疯狂，几欲脱出刀身，可是刀握在人手，人不使刀，刀便无用，毁刀之时更是如此"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "段大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
-      "summary": "“这么说，段大师人死了，被自己徒儿捅死了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这么说，段大师人死了，被自己徒儿捅死了",
-        "其中一人忍不住开口道：“段大师是边军之人，这刑罚之事，我看还是交予边军处理吧",
-        "”    另一校尉干笑道：“夫人莫要说笑，段大师已然花甲，不过因为精通四种道器铸法，还不是被边军强征了过去，这位戚小师傅不过三十，同样精通四种铸法，你说，这等人物，边军岂能放过"
+        "神枪楚咧嘴一笑，'这口枪我要了。'",
+        "神枪楚又上前几步，小声道：'黑山城一个月前突然地气泄露，流露出好些神异物'"
       ],
       "mention_count": 3
+    },
+    {
+      "name": "李慑",
+      "aliases": [],
+      "identity": "边军人物",
+      "faction": "边军",
+      "status": "提及",
+      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
+      "summary": "被提及的人物，与白三娘有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "李慑眼角一挑。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "蝇五道人",
+      "aliases": [],
+      "identity": "边军道人",
+      "faction": "边军",
+      "status": "提及",
+      "first_appearance": "第四十七章 臣以杀君 子以杀父（下）",
+      "summary": "边军中的道人，发表意见。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "蝇五道人沙哑道。"
+      ],
+      "mention_count": 1
     }
   ]
 }

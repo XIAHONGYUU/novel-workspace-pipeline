@@ -1,257 +1,265 @@
 {
   "chunk_id": "chunk-0179",
-  "title": "第一百七十七章 卧底（下）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "老师",
+        "庄主",
+        "爹爹"
+      ],
+      "identity": "山庄庄主",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "看她们面色，甚至连自杀也做不到，只能狠毒的紧盯着林新一行人",
+      "first_appearance": "",
+      "summary": "山庄庄主，南顺青的师父，林阵的父亲。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "看她们面色，甚至连自杀也做不到，只能狠毒的紧盯着林新一行人",
-        "林新看着他，一时间也不知道该说什么好，那个大魔女就算是他也必须得打过一场才能知道高下，但现在这家伙居然只是这么一抓，就把对方直接抓死了，连反抗都反抗不了",
-        "这中间的差距，确实是……　　“没想到，你成长得这么快……”林新有些感慨道"
+      "personality": [
+        "冷静",
+        "果断"
       ],
-      "mention_count": 25
+      "abilities": [
+        "心眼剑道",
+        "红花交鸣"
+      ],
+      "equipment": [
+        "红花剑"
+      ],
+      "relationships": [
+        {
+          "target": "南顺青",
+          "type": "师徒"
+        },
+        {
+          "target": "林阵",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与南顺青会面，处理花摇珠事件，杀死花摇珠。"
+        }
+      ],
+      "evidence": [
+        "林新看着他，一时间也不知道该说什么好",
+        "林新眼中泛起一丝欣慰",
+        "林新将剑刃竖起，靠在耳边。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "南顺",
-      "aliases": [],
-      "identity": "",
+      "name": "南顺青",
+      "aliases": [
+        "青儿"
+      ],
+      "identity": "林新的弟子，散修",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "第一百七十七章 卧底（下）　　南顺青也是老脸一红，他这第三只手威力非凡，但就是有点不好意思，每次使用都会从裤子或者肚皮上破开一个大洞",
+      "status": "登场（替身）",
+      "first_appearance": "",
+      "summary": "林新的弟子，修为高深，以替身术出现，击杀大魔女后离去。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "豪放",
+        "孝顺"
+      ],
+      "abilities": [
+        "第三只手",
+        "替身术",
+        "剑气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以替身术出现，击杀大魔女，交给林新一个盒子后离去。"
+        }
+      ],
+      "evidence": [
+        "南顺青也是老脸一红",
+        "南顺青冷笑一声",
+        "南顺青这边第三只手一收回"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "花摇珠",
+      "aliases": [
+        "珠儿"
+      ],
+      "identity": "红楼魔女（被附体）",
+      "faction": "红楼",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被红楼附体的魔女，与林阵有感情，最终被林新杀死。",
+      "appearance": [],
+      "personality": [
+        "狠毒",
+        "狡猾"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百七十七章 卧底（下）　　南顺青也是老脸一红，他这第三只手威力非凡，但就是有点不好意思，每次使用都会从裤子或者肚皮上破开一个大洞",
-        "南顺青冷笑一声，双手再度一抓，轻松带出十道白光剑气，犹如月牙一般飞射而出，朝着四周飚射",
-        "南顺青这边第三只手一收回，顿时将那大魔女直接拉扯回来"
+      "relationships": [
+        {
+          "target": "林阵",
+          "type": "情侣"
+        }
       ],
-      "mention_count": 22
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被南顺青击败，后被林阵庇护，最终被林新杀死。"
+        }
+      ],
+      "evidence": [
+        "花摇珠脸上满是惊慌和不甘",
+        "花摇珠双眼眼圈血红",
+        "花摇珠桀桀笑了两声"
+      ],
+      "mention_count": 8
     },
     {
       "name": "林阵",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "阵儿",
+        "少庄主"
+      ],
+      "identity": "山庄少庄主",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "”　　来人居然是林阵",
+      "first_appearance": "",
+      "summary": "林新的儿子，与花摇珠相恋，目睹花摇珠被杀后悲痛。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "重情",
+        "冲动"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　来人居然是林阵",
-        "”姚姓修士和山庄内的林阵少庄主也是感情不错，此时看到他出现挡在花摇珠面前，顿时有些愕然，他闭关很久，自然没有细心的注意到花摇珠和林阵整天腻歪在一起",
-        "此时看到林阵挡在前面，也是有些手足无措"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "父子"
+        },
+        {
+          "target": "花摇珠",
+          "type": "情侣"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现为花摇珠求情，后被花摇珠挟持，最终目睹花摇珠被杀。"
+        }
+      ],
+      "evidence": [
+        "林阵眼中焦急，望向林新哀求道",
+        "林阵也是黯然，忍不住低下头",
+        "林阵一下跪地，双手掩面哭泣"
+      ],
+      "mention_count": 8
     },
     {
       "name": "雪竹",
       "aliases": [],
-      "identity": "",
+      "identity": "山庄暗卫",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "雪竹等人此时也跟着动手，纷纷冲出去，通明符剑一下下的爆开，将周围没人守卫了的木桩直接斩断",
+      "first_appearance": "",
+      "summary": "山庄暗卫，对林新忠心，对林阵不满。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷酷",
+        "忠诚"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "雪竹等人此时也跟着动手，纷纷冲出去，通明符剑一下下的爆开，将周围没人守卫了的木桩直接斩断",
-        "”顿时雪竹等人也都惊住了，原来在众人面前大展神威，屠灭了红楼大魔女的南顺青，居然只是一个替身术弄出来的纸人",
-        "”　　雪竹低声问"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与战斗，质问林阵。"
+        }
+      ],
+      "evidence": [
+        "雪竹等人此时也跟着动手",
+        "雪竹在边上冷冷道",
+        "雪竹说话毫不客气"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
+      "name": "姚姓修士",
+      "aliases": [
+        "姚叔",
+        "姚供奉"
+      ],
+      "identity": "山庄供奉",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "南顺青这边第三只手一收回，顿时将那大魔女直接拉扯回来",
+      "first_appearance": "",
+      "summary": "山庄供奉，被花摇珠阴谋所伤，请求处决花摇珠。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "记仇"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "南顺青这边第三只手一收回，顿时将那大魔女直接拉扯回来",
-        "”顿时雪竹等人也都惊住了，原来在众人面前大展神威，屠灭了红楼大魔女的南顺青，居然只是一个替身术弄出来的纸人",
-        "”　　一众人顿时纷纷警备起来"
+      "relationships": [
+        {
+          "target": "林阵",
+          "type": "叔侄"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被花摇珠阴谋所伤，请求处决花摇珠，被林阵阻止。"
+        }
+      ],
+      "evidence": [
+        "姚姓修士捂住胸膛伤口",
+        "姚姓修士一脸恨意道",
+        "姚姓修士一脸狠色"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "花摇珠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "“花摇珠呢",
+      "name": "大魔女头目",
+      "aliases": [
+        "大魔女"
+      ],
+      "identity": "红楼大魔女",
+      "faction": "红楼",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "红楼大魔女头目，被南顺青击杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“花摇珠呢",
-        "林新看着躺在一众魔女之间的花摇珠，她脸上满是惊慌和不甘",
-        "不是花摇珠"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被南顺青第三只手抓住并一剑斩杀。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "老师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "“老师，受惊了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“老师，受惊了",
-        "“对了，老师，这次我可是专程赶回来，我以散修身份，参加了围剿大会，所以……”　　他手一翻，取出一样东西",
-        "”　　“这是我希望老师替我保管的东西，里面有一张纸条，希望您能仔细看看"
+        "那大魔女就如同西瓜一般被一剑化成两片"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "林新看着他，一时间也不知道该说什么好，那个大魔女就算是他也必须得打过一场才能知道高下，但现在这家伙居然只是这么一抓，就把对方直接抓死了，连反抗都反抗不了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新看着他，一时间也不知道该说什么好，那个大魔女就算是他也必须得打过一场才能知道高下，但现在这家伙居然只是这么一抓，就把对方直接抓死了，连反抗都反抗不了",
-        "”顿时雪竹等人也都惊住了，原来在众人面前大展神威，屠灭了红楼大魔女的南顺青，居然只是一个替身术弄出来的纸人",
-        "只是他一边说话，视线却还停留在南顺青离开的位置，隐隐有着羡慕和渴望之色"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "动弹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "渐渐的树林中的红雾也散下来，只剩下红楼那些被刺伤的杀手们，纷纷躺在地上动弹不得",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "渐渐的树林中的红雾也散下来，只剩下红楼那些被刺伤的杀手们，纷纷躺在地上动弹不得",
-        "”　　她连连大叫着，只是身体腹部被南顺青的剑气一下洞穿，狠狠钉在地上，动弹不得",
-        "却被一股大力狠狠压住，动弹不得"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "静静",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "林新站在远处，静静看着两人交叠在一起的身影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新站在远处，静静看着两人交叠在一起的身影",
-        "“珠儿……”他全身一僵，缓缓转过身，却是看到的花摇珠睁大双眼，静静望着自己"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "青儿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "”　　“时间不等人，我若是停留久了，或许赶不上队伍了，辞不言多，老师恩重，青儿告辞",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“时间不等人，我若是停留久了，或许赶不上队伍了，辞不言多，老师恩重，青儿告辞",
-        "青儿……已经超越我了",
-        "青儿在外面，危险了……”　　林新目光闪动"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "花摇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十七章 卧底（下）",
-      "summary": "“花摇珠呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“花摇珠呢",
-        "林新看着躺在一众魔女之间的花摇珠，她脸上满是惊慌和不甘",
-        "不是花摇珠"
-      ],
-      "mention_count": 5
+      "mention_count": 3
     }
   ]
 }

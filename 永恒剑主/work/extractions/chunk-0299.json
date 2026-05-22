@@ -1,254 +1,293 @@
 {
   "chunk_id": "chunk-0299",
-  "title": "第二百九十六章 变故（上）",
   "characters": [
     {
-      "name": "黄衫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "霍三郎",
+      "aliases": [
+        "从不杀人霍三郎"
+      ],
+      "identity": "邪道三魔之一，猎人",
+      "faction": "赤脊门",
       "status": "登场",
       "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "“黄衫呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“黄衫呢",
-        "金冠老者黄衫扫了两人一眼",
-        "虽然同为三魔，但实力最强的便是霍三郎，而最狡猾的便是血手夫子黄衫"
+      "summary": "邪道三魔之一，实力最强，以魔功吸食猎物精华，自称不杀人只吃。",
+      "appearance": [
+        "皮肤黝黑",
+        "虎皮裙",
+        "满面油彩"
       ],
-      "mention_count": 13
+      "personality": [
+        "暴躁",
+        "凶悍"
+      ],
+      "abilities": [
+        "魔功吸食",
+        "箭术高超"
+      ],
+      "equipment": [
+        "弯曲长弓",
+        "猎刀",
+        "箭囊"
+      ],
+      "relationships": [
+        {
+          "target": "夜里花洪秀儿",
+          "type": "同伙"
+        },
+        {
+          "target": "黄衫",
+          "type": "同伙"
+        },
+        {
+          "target": "袁秋雀",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与夜里花、黄衫围杀袁秋雀"
+        }
+      ],
+      "evidence": [
+        "一个皮肤黝黑的汉子提着大雁抖了抖，他另一只手上提着一把弯曲长弓",
+        "从不杀人霍三郎。我以前一直不知道你这身魔功是从哪练成的",
+        "我是不杀人，我只吃。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "袁秋雀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "夜里花洪秀儿",
+      "aliases": [
+        "夜里花",
+        "洪秀儿"
+      ],
+      "identity": "邪道三魔之一",
+      "faction": "赤脊门",
       "status": "登场",
       "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "以我三人之力，对付一个区区袁秋雀，还需什么算计，一并出手，不用三息便能让其化为一摊脓水",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "邪道三魔之一，喜欢男扮女装，擅长使用黑玉簪，实力在三魔中最弱。",
+      "appearance": [
+        "黑紫色长裙",
+        "双眉斜飞入鬓"
+      ],
+      "personality": [
+        "妖艳",
+        "变态"
+      ],
+      "abilities": [
+        "黑雾能力"
+      ],
+      "equipment": [
+        "黑玉簪"
+      ],
+      "relationships": [
+        {
+          "target": "霍三郎",
+          "type": "同伙"
+        },
+        {
+          "target": "黄衫",
+          "type": "同伙"
+        },
+        {
+          "target": "袁秋雀",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与霍三郎、黄衫围杀袁秋雀"
+        }
+      ],
       "evidence": [
-        "以我三人之力，对付一个区区袁秋雀，还需什么算计，一并出手，不用三息便能让其化为一摊脓水",
-        "”袁秋雀笑道",
-        "”袁秋雀身后崎岖山道上，步出霍三郎身影"
+        "另一道黑紫色长裙妖艳女子，缓缓从边上树干中走出来",
+        "夜里花洪秀儿。谁不知道你最喜欢用人皮绣花",
+        "我就喜欢男扮女装！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "黄衫",
+      "aliases": [
+        "黄老魔",
+        "血手夫子"
+      ],
+      "identity": "邪道三魔之一",
+      "faction": "赤脊门",
+      "status": "登场",
+      "first_appearance": "第二百九十六章 变故（上）",
+      "summary": "邪道三魔之一，经验丰富，擅长云盖魔功，曾活祭外域部落。",
+      "appearance": [
+        "金冠",
+        "大红长裙",
+        "头发上插红花"
+      ],
+      "personality": [
+        "狡猾"
+      ],
+      "abilities": [
+        "云盖魔功",
+        "火焰能力"
+      ],
+      "equipment": [
+        "白色小药箱",
+        "尺子兵器"
+      ],
+      "relationships": [
+        {
+          "target": "霍三郎",
+          "type": "同伙"
+        },
+        {
+          "target": "夜里花洪秀儿",
+          "type": "同伙"
+        },
+        {
+          "target": "袁秋雀",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与霍三郎、夜里花围杀袁秋雀"
+        }
+      ],
+      "evidence": [
+        "一头戴金冠的老者缓步走出，背上背着一个白色小药箱",
+        "黄老魔云盖魔功魔焰滔天，前不久才活祭了一个外域部落",
+        "黄衫也不再多话，手中红光一闪，顿时多了一把尺子一样的奇异兵器"
       ],
       "mention_count": 9
     },
     {
-      "name": "夜里",
-      "aliases": [],
-      "identity": "",
+      "name": "袁秋雀",
+      "aliases": [
+        "袁大侠",
+        "袁兄"
+      ],
+      "identity": "一代大侠，持有生死刀",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "“夜里花洪秀儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“夜里花洪秀儿",
-        "谁不知道你最喜欢用人皮绣花，夜里花，嘿嘿，名号倒是挺雅致",
-        "像我等这般没见过世面的女儿家，自然是……”　　长裙女子夜里花妖声妖气道"
+      "summary": "原为邪道高手，后成为正道大侠，与赤脊门有仇，持有生死刀。",
+      "appearance": [
+        "打扮如私塾教书先生",
+        "灰布袍",
+        "提鸟笼"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "霍三郎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "“从不杀人霍三郎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“从不杀人霍三郎",
-        "”从不杀人霍三郎随口回道",
-        "”霍三郎淡淡道"
+      "personality": [
+        "温和",
+        "随性"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "夜里花",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "“夜里花洪秀儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“夜里花洪秀儿",
-        "谁不知道你最喜欢用人皮绣花，夜里花，嘿嘿，名号倒是挺雅致",
-        "像我等这般没见过世面的女儿家，自然是……”　　长裙女子夜里花妖声妖气道"
+      "abilities": [
+        "生死刀法"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "黑身白嘴大雁顿时哀鸣一声，笔直朝着下方坠落下去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑身白嘴大雁顿时哀鸣一声，笔直朝着下方坠落下去",
-        "”　　两人话音未落，地面顿时升腾起一股白烟，烟雾弥漫中，一头戴金冠的老者缓步走出，背上背着一个白色小药箱",
-        "”　　夜里花顿时身体一颤，脸色变得极其难看"
+      "equipment": [
+        "生死刀",
+        "画眉鸟笼"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "袁秋",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "以我三人之力，对付一个区区袁秋雀，还需什么算计，一并出手，不用三息便能让其化为一摊脓水",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "以我三人之力，对付一个区区袁秋雀，还需什么算计，一并出手，不用三息便能让其化为一摊脓水",
-        "”袁秋雀笑道",
-        "”袁秋雀身后崎岖山道上，步出霍三郎身影"
+      "relationships": [
+        {
+          "target": "黄衫",
+          "type": "故人"
+        },
+        {
+          "target": "霍三郎",
+          "type": "敌对"
+        },
+        {
+          "target": "夜里花洪秀儿",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被邪道三魔围杀"
+        }
+      ],
+      "evidence": [
+        "这是个打扮得和私塾里教书先生一样的中年人",
+        "袁某到了这卿秋山，还能遇到当年故人",
+        "生死刀，刀出非生即死"
+      ],
+      "mention_count": 10
     },
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "先生"
+      ],
+      "identity": "中年儒生",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "”中年儒生便是随小男孩一起过来的林新",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”中年儒生便是随小男孩一起过来的林新",
-        "”林新看向小男孩",
-        "”黑狐少年对林新点点头"
+      "summary": "与黑狐少年一同前往星璇洞的中年儒生。",
+      "appearance": [
+        "中年儒生打扮"
       ],
-      "mention_count": 6
+      "personality": [],
+      "abilities": [
+        "飞行"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黑狐少年",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与黑狐少年进入星璇洞"
+        }
+      ],
+      "evidence": [
+        "高的个是个中年儒生打扮的男子",
+        "中年儒生便是随小男孩一起过来的林新"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "背上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "汉子完全一副猎人模样，身上围着虎皮裙，背上还有猎刀和箭囊，满面涂着油彩",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "汉子完全一副猎人模样，身上围着虎皮裙，背上还有猎刀和箭囊，满面涂着油彩",
-        "”　　两人话音未落，地面顿时升腾起一股白烟，烟雾弥漫中，一头戴金冠的老者缓步走出，背上背着一个白色小药箱"
+      "name": "黑狐少年",
+      "aliases": [
+        "小男孩",
+        "黑脸汉子"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
+      "identity": "黑狐化形",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "”　　两人话音未落，地面顿时升腾起一股白烟，烟雾弥漫中，一头戴金冠的老者缓步走出，背上背着一个白色小药箱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　两人话音未落，地面顿时升腾起一股白烟，烟雾弥漫中，一头戴金冠的老者缓步走出，背上背着一个白色小药箱",
-        "金冠老者黄衫扫了两人一眼",
-        "夜里花则是取出一根黑玉簪，玉簪表面闪过一点黑光，顿时她周围弥漫升腾起阵阵黑雾，黑雾掩盖吞噬了周围一切，仿佛方圆数十米范围内，她独自一人站在无尽的黑暗洪流里，和其余两人形成区域独立分明"
+      "summary": "黑狐化成的少年，带林新前往父亲洞府星璇洞。",
+      "appearance": [
+        "黑发少年",
+        "皮肤白皙",
+        "俊俏可爱"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "霍三",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "“从不杀人霍三郎",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“从不杀人霍三郎",
-        "”从不杀人霍三郎随口回道",
-        "”霍三郎淡淡道"
+      "abilities": [
+        "黑狐尾巴释放黑气"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "远远",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十六章 变故（上）",
-      "summary": "”　　远远一个慵懒随意的男子嗓音飘来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带林新进入星璇洞"
+        }
+      ],
       "evidence": [
-        "”　　远远一个慵懒随意的男子嗓音飘来",
-        "远远望去，能看到大半的山体直接玻璃一般裂开无数深深裂痕"
+        "矮的个是个黑发少年，看上去皮肤白皙，俊俏可爱",
+        "黑狐少年身子一扭，顿时屁股一甩，后面的黑狐尾巴甩出一道黑气"
       ],
       "mention_count": 5
     }
