@@ -1,245 +1,451 @@
 {
   "chunk_id": "chunk-0482",
-  "title": "第480章伸冤讨债",
   "characters": [
     {
-      "name": "周鹤羽",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第480章伸冤讨债",
-      "summary": "”　　周鹤羽脸上笑意从容，一张俊美儒雅的脸上并没有因为云从的死亡而显露出丝毫的气急败坏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　周鹤羽脸上笑意从容，一张俊美儒雅的脸上并没有因为云从的死亡而显露出丝毫的气急败坏",
-        "”　　周鹤羽叹了口气，一身门阀子弟的洒脱气度，对着李钧笑道：“现在云从这个锦衣卫叛徒已经死了，你也算替虬龙报了仇",
-        "”　　这句话说罢，周鹤羽扬臂甩袖：“提醒你一句，王长亭可不是什么善男信女"
-      ],
-      "mention_count": 26
-    },
-    {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "阎君百户"
+      ],
+      "identity": "锦衣卫百户",
+      "faction": "犬山城锦衣卫",
       "status": "登场",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "被李钧一拳逼退的黑衣仆从束手站在他身边，眼神阴冷的盯着李钧",
+      "summary": "武序，犬山城锦衣卫百户，为虬龙报仇，与周鹤羽对峙并斩杀陈宗。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "被李钧一拳逼退的黑衣仆从束手站在他身边，眼神阴冷的盯着李钧",
-        "”　　周鹤羽叹了口气，一身门阀子弟的洒脱气度，对着李钧笑道：“现在云从这个锦衣卫叛徒已经死了，你也算替虬龙报了仇",
-        "李钧笑道：“他保不住我，难道你一个小小的序五可以"
+      "personality": [
+        "冷静",
+        "果断",
+        "强势"
       ],
-      "mention_count": 22
+      "abilities": [
+        "武序",
+        "五品拳术见龙卸甲"
+      ],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "虬龙",
+          "type": "袍泽"
+        },
+        {
+          "target": "云从",
+          "type": "仇敌"
+        },
+        {
+          "target": "周鹤羽",
+          "type": "敌对"
+        },
+        {
+          "target": "陈宗",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在姬路城百户所与周鹤羽对峙，斩杀陈宗，逼迫周鹤羽下跪磕头。"
+        }
+      ],
+      "evidence": [
+        "你就是苏策手下那个名叫李钧的武序吧？",
+        "李钧举臂抬刀，锋刃直指前方！",
+        "李钧曲肘夹刀，抹尽血色。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "周鹤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "周鹤羽",
+      "aliases": [
+        "姬路城宣慰使"
+      ],
+      "identity": "姬路城宣慰使，汝南周阀子弟",
+      "faction": "汝南周阀",
       "status": "登场",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "”　　周鹤羽脸上笑意从容，一张俊美儒雅的脸上并没有因为云从的死亡而显露出丝毫的气急败坏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　周鹤羽脸上笑意从容，一张俊美儒雅的脸上并没有因为云从的死亡而显露出丝毫的气急败坏",
-        "”　　周鹤羽叹了口气，一身门阀子弟的洒脱气度，对着李钧笑道：“现在云从这个锦衣卫叛徒已经死了，你也算替虬龙报了仇",
-        "”　　这句话说罢，周鹤羽扬臂甩袖：“提醒你一句，王长亭可不是什么善男信女"
+      "summary": "姬路城宣慰使，儒序五，出身汝南周阀，设计钓出鬼王达或钱凤庭，与李钧对峙后被逼下跪。",
+      "appearance": [
+        "俊美儒雅"
       ],
-      "mention_count": 19
+      "personality": [
+        "从容",
+        "阴狠",
+        "善于算计"
+      ],
+      "abilities": [
+        "儒序五"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "云从",
+          "type": "利用"
+        },
+        {
+          "target": "陈宗",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在姬路城百户所与李钧对峙，被斩断左臂，被迫下跪磕头。"
+        }
+      ],
+      "evidence": [
+        "周鹤羽脸上笑意从容，一张俊美儒雅的脸上并没有因为云从的死亡而显露出丝毫的气急败坏。",
+        "周鹤羽两手背在身后，淡淡道",
+        "周鹤羽顾不得眼前的奇耻大辱"
+      ],
+      "mention_count": 25
     },
     {
       "name": "陈宗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第480章伸冤讨债",
-      "summary": "”　　陈宗一双森冷的眸子落在李钧身上，沉声道：“老夫在跟随公子进入倭区之前，曾听闻黄天门的余孽逃窜到了这里，背弃祖宗规矩，将一个叫荒世烈的倭寇收入了门，败坏了武序的名声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　陈宗一双森冷的眸子落在李钧身上，沉声道：“老夫在跟随公子进入倭区之前，曾听闻黄天门的余孽逃窜到了这里，背弃祖宗规矩，将一个叫荒世烈的倭寇收入了门，败坏了武序的名声",
-        "”　　自称武四大成的陈宗在李钧面前如此不堪一击，不单单是因为独行对门派的压制，更因为他根本就算不上什么武四，不过是空有其表",
-        "”　　户所之内，周鹤羽眼睁睁看着陈宗被李钧轻而易举的杀死，却没有选择逃跑，依旧镇定的站在原地，一身渊渟岳峙的气度竟不逊先前分毫"
+      "aliases": [
+        "老奴"
       ],
-      "mention_count": 9
+      "identity": "弋阳门武序，周鹤羽的奴仆",
+      "faction": "弋阳门",
+      "status": "死亡",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "自称武四大成，实为空有其表，被李钧斩杀。",
+      "appearance": [
+        "枯瘦干瘪"
+      ],
+      "personality": [
+        "桀骜",
+        "嚣张"
+      ],
+      "abilities": [
+        "武四"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周鹤羽",
+          "type": "主仆"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧交手，被斩杀。"
+        }
+      ],
+      "evidence": [
+        "自称武四大成的陈宗",
+        "陈宗傲然开口：'大成武四！'",
+        "陈宗被李钧轻而易举的杀死"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "燃灯",
+      "name": "云从",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
+      "status": "死亡",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "环绕在明王身周的投影同时停下了舞动，静静悬浮在半空之中，一双双虚幻的眼睛直勾勾看着燃灯",
+      "summary": "锦衣卫叛徒，被周鹤羽利用，已死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "环绕在明王身周的投影同时停下了舞动，静静悬浮在半空之中，一双双虚幻的眼睛直勾勾看着燃灯",
-        "一股没来由的寒意弥漫心头，燃灯脸色紧张，下意识向后退了一步",
-        "”　　“就赌.”　　“阎君，我.”　　燃灯推门而入，声音急切道：“冈山城角木蛟和滋贺城野老等人都遭到了儒序门阀的袭击，他们恐怕撑不了太久，需要派人救援吗"
+      "relationships": [
+        {
+          "target": "周鹤羽",
+          "type": "利用"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被周鹤羽利用，已死。"
+        }
+      ],
+      "evidence": [
+        "云从这个锦衣卫叛徒已经死了"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "邹四",
+      "name": "虬龙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "死亡",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "邹四九扔出这句话后，便不再理会这名神情错愕的锦衣卫，装模做抬手擦了擦额头并不存在的冷汗",
+      "summary": "已故锦衣卫百户，李钧为其报仇。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "邹四九扔出这句话后，便不再理会这名神情错愕的锦衣卫，装模做抬手擦了擦额头并不存在的冷汗",
-        "邹四九话未说完，头顶便炸开一声宛如闷雷的震响",
-        "”　　席卷的气浪将一众勉强站起的锦衣卫再次掀倒在地，连邹四九的不禁把头一低"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "袍泽"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "已死。"
+        }
+      ],
+      "evidence": [
+        "你也算替虬龙报了仇"
+      ],
+      "mention_count": 2
     },
     {
       "name": "邹四九",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "邹四九扔出这句话后，便不再理会这名神情错愕的锦衣卫，装模做抬手擦了擦额头并不存在的冷汗",
+      "summary": "姬路城锦衣卫之一，与马王爷对话。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "邹四九扔出这句话后，便不再理会这名神情错愕的锦衣卫，装模做抬手擦了擦额头并不存在的冷汗",
-        "邹四九话未说完，头顶便炸开一声宛如闷雷的震响",
-        "”　　席卷的气浪将一众勉强站起的锦衣卫再次掀倒在地，连邹四九的不禁把头一低"
+      "personality": [
+        "幽默"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我可以",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第480章伸冤讨债",
-      "summary": "”　　见李钧开口接话，霎时如同溺水之人抓到了救命稻草，急声道：“我可以送你返回本土，只要你进入河南行省，那大明帝国内就没人能够动你，就算是佛道两家也不行",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在姬路城百户所，与马王爷对话，评论李钧与陈宗的战斗。"
+        }
+      ],
       "evidence": [
-        "”　　见李钧开口接话，霎时如同溺水之人抓到了救命稻草，急声道：“我可以送你返回本土，只要你进入河南行省，那大明帝国内就没人能够动你，就算是佛道两家也不行",
-        "周鹤羽双目与李钧对视，朗声道：“我可以和你一起对付王长亭，用他死，换我活",
-        "”　　“如果你觉得陈宗刚才的话冒犯了你，我可以将他全家的印信都交给你，供你泄愤"
+        "邹四九摇头苦笑，满脸无奈。",
+        "邹四九嘴里轻声嘀咕了，低头看向自己的胸口处"
       ],
       "mention_count": 5
     },
     {
-      "name": "被李钧",
-      "aliases": [],
-      "identity": "",
+      "name": "马王爷",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "未知",
       "faction": "",
       "status": "登场",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "被李钧一拳逼退的黑衣仆从束手站在他身边，眼神阴冷的盯着李钧",
+      "summary": "与邹四九对话的神秘存在，可能为某种系统或灵体。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邹四九对话。"
+        }
+      ],
       "evidence": [
-        "被李钧一拳逼退的黑衣仆从束手站在他身边，眼神阴冷的盯着李钧",
-        "”　　户所之内，周鹤羽眼睁睁看着陈宗被李钧轻而易举的杀死，却没有选择逃跑，依旧镇定的站在原地，一身渊渟岳峙的气度竟不逊先前分毫",
-        "”　　周鹤羽炽热殷切的目光，被李钧口中说出的两个冰冷字眼彻底浇灭"
+        "马王爷瓮声瓮气的回答在耳边响起"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "箕山",
+      "aliases": [],
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "姬路城锦衣卫，断臂，用血红的眼睛盯着周鹤羽。",
+      "appearance": [],
+      "personality": [
+        "悲愤"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "苏醒后盯着周鹤羽，发出嘶鸣。"
+        }
+      ],
+      "evidence": [
+        "苏醒过来的箕山，也拼尽最后一丝力气连一条断臂，依着插入地面的绣春刀，用血红的眼睛盯着跪地的周鹤羽"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "燃灯",
+      "aliases": [],
+      "identity": "信徒",
+      "faction": "明王",
+      "status": "登场",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "明王的信徒，向明王报告情况。",
+      "appearance": [],
+      "personality": [
+        "紧张"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "信徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向明王报告冈山城和滋贺城遭到袭击。"
+        }
+      ],
+      "evidence": [
+        "燃灯推门而入，声音急切道",
+        "燃灯双手合十，跪在地上"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "明王",
+      "aliases": [],
+      "identity": "佛教人物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "盘腿坐于蒲团之上，身后有佛像，与燃灯对话。",
+      "appearance": [
+        "非人金黄瞳孔"
+      ],
+      "personality": [
+        "威严"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "燃灯",
+          "type": "信徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与燃灯对话，询问其宿命。"
+        }
+      ],
+      "evidence": [
+        "闭目冥想的明王缓缓睁开眼帘，瞳孔之中赫然是一片非人的金黄。",
+        "明王盘腿坐于蒲团之上"
       ],
       "mention_count": 4
     },
     {
-      "name": "一道",
+      "name": "徐海潮",
       "aliases": [],
-      "identity": "",
+      "identity": "倭区宣慰使",
       "faction": "",
       "status": "登场",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "一道身影从天砸落，在姬路城百户所门前的空地中撞出一个丈宽深坑",
-      "appearance": [],
+      "summary": "倭区宣慰使，以朱红投影出现。",
+      "appearance": [
+        "身穿朱红官袍"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一道身影从天砸落，在姬路城百户所门前的空地中撞出一个丈宽深坑",
-        "”　　“不可能”　　尽失血色的死寂五官上，周鹤羽瞪大了眼睛，一道道寒光从黯淡的瞳孔中闪过",
-        "”　　李钧回头看去，一道朱红投影缓缓出现在眼前"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以投影出现在李钧面前。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "身穿朱红官袍的男人微微一笑：'倭区宣慰使，徐海潮。'"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "接下",
+      "name": "苏策",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "这里是姬路城，你能前来救援已经足够还清和虬龙的情分，要是再继续斗下去，接下来死的可就是你犬山城的人了",
+      "summary": "李钧的上司或同僚，被提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "上司或同僚"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "这里是姬路城，你能前来救援已经足够还清和虬龙的情分，要是再继续斗下去，接下来死的可就是你犬山城的人了",
-        "哈哈哈哈”　　“何至于此.”　　当决定放弃尊严，接下来所有的屈辱都不再难以接受"
+        "你就是苏策手下那个名叫李钧的武序吧？"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "你说",
+      "name": "王长亭",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "未知",
+      "faction": "王氏",
+      "status": "提及",
       "first_appearance": "第480章伸冤讨债",
-      "summary": "“赌一局，你说这个装模做样的老东西能在李钧的手里撑多久",
+      "summary": "被提及为李钧的潜在敌人，王氏出身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "潜在敌对"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "王长亭可不是什么善男信女",
+        "他背后的王氏是出了名的睚眦必报"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "裴行俭",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "被提及为有能力保住陈乞生，但保不住李钧。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -247,10 +453,124 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "“赌一局，你说这个装模做样的老东西能在李钧的手里撑多久",
-        "周鹤羽眼眸微阖，冷笑道：“想要求一个冤有头债有主，那也要看自己有没有那个替人伸冤的本领和讨债的能力，你说对吗"
+        "以裴行俭的能力最多只能保住陈乞生，保不住你！"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "被提及为裴行俭能保住的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "以裴行俭的能力最多只能保住陈乞生"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "杨白泽",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "被提及为李钧要撑的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "你要撑杨白泽"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "鬼王达",
+      "aliases": [],
+      "identity": "锦衣卫副千户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "被提及为周鹤羽计划钓出的目标之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "钓出鬼王达或者钱凤庭其中一名副千户"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钱凤庭",
+      "aliases": [],
+      "identity": "锦衣卫副千户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "被提及为周鹤羽计划钓出的目标之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "钓出鬼王达或者钱凤庭其中一名副千户"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "荒世烈",
+      "aliases": [],
+      "identity": "倭寇",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "被提及为被黄天门收入门的倭寇，已被斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "将一个叫荒世烈的倭寇收入了门",
+        "能斩杀荒世烈"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "赵继官",
+      "aliases": [],
+      "identity": "真定门主",
+      "faction": "常山真定门",
+      "status": "提及",
+      "first_appearance": "第480章伸冤讨债",
+      "summary": "被提及为真定门主，拳术见龙卸甲的传承者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "有几分当年真定门主赵继官的影子"
+      ],
+      "mention_count": 1
     }
   ]
 }

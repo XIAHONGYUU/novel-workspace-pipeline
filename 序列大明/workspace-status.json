@@ -1,0 +1,661 @@
+{
+  "workspace_path": "/home/zuoky/project/序列大明",
+  "novel_name": "序列大明",
+  "protagonist_name": "李钧",
+  "source_files": [
+    "/home/zuoky/project/序列大明/source/序列大明.md",
+    "/home/zuoky/project/序列大明/source/XULIEDAMING.txt"
+  ],
+  "source_total_bytes": 12338524,
+  "source_estimated_chars": 3310505,
+  "is_long_novel": true,
+  "available_layers": [
+    "protagonist",
+    "outline"
+  ],
+  "completed_layers": [
+    "protagonist"
+  ],
+  "incomplete_layers": [
+    "outline"
+  ],
+  "last_run_layer": "protagonist",
+  "last_validator_result": {
+    "protagonist": "体系闭环完成（主干闭环版）",
+    "outline": "共性标准仍不足"
+  },
+  "recommended_next_layer": "outline",
+  "recommended_skill": "novel-outline-analysis",
+  "recommended_mode": "repair-existing",
+  "recommended_next_step": "优先修复 整书大纲层，因为该层已存在但尚未达标。",
+  "optional_backfill_layers": [],
+  "updated_at": "2026-05-12T23:58:43",
+  "layer_status": {
+    "chapter-distillation": {
+      "layer": "chapter-distillation",
+      "label": "章节蒸馏层",
+      "exists": false,
+      "validated": false,
+      "has_placeholders": false,
+      "completion_label": "章节骨架仍不足",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/序列大明/README.md",
+        "handoff": "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+        "validator_report": "/home/zuoky/project/序列大明/序列大明-章节蒸馏校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "manifest": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "chapter_skeleton": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "stage_skeleton": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "calibration_anchors": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        }
+      },
+      "validator_report": "/home/zuoky/project/序列大明/序列大明-章节蒸馏校验报告.md",
+      "validator_summary": {
+        "novel_name": "序列大明",
+        "skeleton_status": "章节骨架仍不足",
+        "calibration_status": "校准锚点仍不足",
+        "existing_count": 2,
+        "content_ok_count": 2,
+        "required_core_ok_count": 2
+      },
+      "failed_checks": [
+        {
+          "check": "manifest",
+          "label": "章节蒸馏 manifest",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "chapter_skeleton",
+          "label": "章节蒸馏骨架",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "stage_skeleton",
+          "label": "阶段骨架与换挡草图",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "calibration_anchors",
+          "label": "校准与验证锚点",
+          "reason": "missing",
+          "file": null
+        }
+      ],
+      "repair_targets": [
+        "补齐 `章节蒸馏 manifest`，至少先从缺失补到可校验骨架。",
+        "补齐 `章节蒸馏骨架`，至少先从缺失补到可校验骨架。",
+        "补齐 `阶段骨架与换挡草图`，至少先从缺失补到可校验骨架。",
+        "补齐 `校准与验证锚点`，至少先从缺失补到可校验骨架。"
+      ]
+    },
+    "opening": {
+      "layer": "opening",
+      "label": "黄金前三章层",
+      "exists": false,
+      "validated": false,
+      "has_placeholders": false,
+      "completion_label": "开篇抓力仍不足",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/序列大明/README.md",
+        "handoff": "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+        "validator_report": "/home/zuoky/project/序列大明/序列大明-黄金前三章校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "total_judgment": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "chapter_1": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "chapter_2": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "chapter_3": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "hook_promise": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "issues_revision": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        }
+      },
+      "validator_report": "/home/zuoky/project/序列大明/序列大明-黄金前三章校验报告.md",
+      "validator_summary": {
+        "novel_name": "序列大明",
+        "opening_status": "开篇抓力仍不足",
+        "structure_status": "前三章结构仍不足",
+        "existing_count": 2,
+        "content_ok_count": 2,
+        "required_core_ok_count": 2
+      },
+      "failed_checks": [
+        {
+          "check": "total_judgment",
+          "label": "黄金前三章总判断",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "chapter_1",
+          "label": "第一章拆解",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "chapter_2",
+          "label": "第二章拆解",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "chapter_3",
+          "label": "第三章拆解",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "hook_promise",
+          "label": "开篇钩子与读者承诺",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "issues_revision",
+          "label": "开篇问题与修改建议",
+          "reason": "missing",
+          "file": null
+        }
+      ],
+      "repair_targets": [
+        "补齐 `黄金前三章总判断`，至少先从缺失补到可校验骨架。",
+        "补齐 `第一章拆解`，至少先从缺失补到可校验骨架。",
+        "补齐 `第二章拆解`，至少先从缺失补到可校验骨架。",
+        "补齐 `第三章拆解`，至少先从缺失补到可校验骨架。",
+        "补齐 `开篇钩子与读者承诺`，至少先从缺失补到可校验骨架。",
+        "补齐 `开篇问题与修改建议`，至少先从缺失补到可校验骨架。"
+      ]
+    },
+    "protagonist": {
+      "layer": "protagonist",
+      "label": "主角百科层",
+      "exists": true,
+      "validated": true,
+      "has_placeholders": false,
+      "completion_label": "体系闭环完成（主干闭环版）",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/序列大明/README.md",
+        "handoff": "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+        "startup_checklist": "/home/zuoky/project/序列大明/序列大明-项目启动清单.md",
+        "anchor": "/home/zuoky/project/序列大明/序列大明-主角锚点与骨架.md",
+        "stage_outline": "/home/zuoky/project/序列大明/序列大明-整书粗阶段划分.md",
+        "final_card": "/home/zuoky/project/序列大明/李钧-最终人物卡.md",
+        "index": "/home/zuoky/project/序列大明/李钧-词条总索引.md",
+        "core_overview": "/home/zuoky/project/序列大明/李钧-核心体系总览.md",
+        "essence_summary": "/home/zuoky/project/序列大明/序列大明-全书精华总结.md",
+        "validator_report": "/home/zuoky/project/序列大明/序列大明-主角百科校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "startup_checklist": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "anchor": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "stage_outline": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "final_card": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "index": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "core_overview": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "essence_summary": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        }
+      },
+      "validator_report": "/home/zuoky/project/序列大明/序列大明-主角百科校验报告.md",
+      "validator_summary": {
+        "novel_name": "序列大明",
+        "protagonist_name": "李钧",
+        "skeleton_status": "骨架完成",
+        "system_status": "体系闭环完成（主干闭环版）",
+        "existing_count": 9,
+        "content_ok_count": 9,
+        "required_skeleton_ok_count": 5,
+        "required_system_ok_count": 2,
+        "files": {
+          "project_entry": "/home/zuoky/project/序列大明/README.md",
+          "handoff": "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+          "startup_checklist": "/home/zuoky/project/序列大明/序列大明-项目启动清单.md",
+          "anchor": "/home/zuoky/project/序列大明/序列大明-主角锚点与骨架.md",
+          "stage_outline": "/home/zuoky/project/序列大明/序列大明-整书粗阶段划分.md",
+          "final_card": "/home/zuoky/project/序列大明/李钧-最终人物卡.md",
+          "index": "/home/zuoky/project/序列大明/李钧-词条总索引.md",
+          "core_overview": "/home/zuoky/project/序列大明/李钧-核心体系总览.md",
+          "essence_summary": "/home/zuoky/project/序列大明/序列大明-全书精华总结.md"
+        }
+      },
+      "failed_checks": [],
+      "repair_targets": []
+    },
+    "outline": {
+      "layer": "outline",
+      "label": "整书大纲层",
+      "exists": true,
+      "validated": false,
+      "has_placeholders": false,
+      "completion_label": "共性标准仍不足",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/序列大明/README.md",
+        "handoff": "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+        "protagonist_layer": "/home/zuoky/project/序列大明/序列大明-主角锚点与骨架.md",
+        "validator_report": "/home/zuoky/project/序列大明/序列大明-大纲分析校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "protagonist_layer": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "core_supporting_relations": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "overview": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "stages": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "lines": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "conflicts": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "time_place": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "climax_pacing": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "issues_revision": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        }
+      },
+      "validator_report": "/home/zuoky/project/序列大明/序列大明-大纲分析校验报告.md",
+      "validator_summary": {
+        "novel_name": "序列大明",
+        "common_status": "共性标准仍不足",
+        "feature_status": "单书特性仍不足",
+        "existing_count": 3,
+        "content_ok_count": 3,
+        "required_core_ok_count": 1,
+        "feature_file": null,
+        "feature_items": [],
+        "files": {
+          "project_entry": "/home/zuoky/project/序列大明/README.md",
+          "handoff": "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+          "protagonist_layer": "/home/zuoky/project/序列大明/序列大明-主角锚点与骨架.md"
+        }
+      },
+      "failed_checks": [
+        {
+          "check": "core_supporting_relations",
+          "label": "核心配角与主角关系",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "overview",
+          "label": "大纲总览",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "stages",
+          "label": "阶段与篇章拆分",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "lines",
+          "label": "主线支线与冲突地图",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "conflicts",
+          "label": "核心冲突点与爆发点",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "time_place",
+          "label": "时间与地点转折",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "climax_pacing",
+          "label": "高潮节奏与收束诊断",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "issues_revision",
+          "label": "结构问题与修改建议",
+          "reason": "missing",
+          "file": null
+        }
+      ],
+      "repair_targets": [
+        "补齐 `核心配角与主角关系`，至少先从缺失补到可校验骨架。",
+        "补齐 `大纲总览`，至少先从缺失补到可校验骨架。",
+        "补齐 `阶段与篇章拆分`，至少先从缺失补到可校验骨架。",
+        "补齐 `主线支线与冲突地图`，至少先从缺失补到可校验骨架。",
+        "补齐 `核心冲突点与爆发点`，至少先从缺失补到可校验骨架。",
+        "补齐 `时间与地点转折`，至少先从缺失补到可校验骨架。",
+        "补齐 `高潮节奏与收束诊断`，至少先从缺失补到可校验骨架。",
+        "补齐 `结构问题与修改建议`，至少先从缺失补到可校验骨架。"
+      ]
+    },
+    "highlight": {
+      "layer": "highlight",
+      "label": "剧情高光层",
+      "exists": false,
+      "validated": false,
+      "has_placeholders": false,
+      "completion_label": "高光桥段仍不足",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/序列大明/README.md",
+        "handoff": "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+        "validator_report": "/home/zuoky/project/序列大明/序列大明-剧情高光校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
+        },
+        "top10_table": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "mechanism": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "top10_breakdown": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "distribution": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "pleasure_summary": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "revision": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        }
+      },
+      "validator_report": "/home/zuoky/project/序列大明/序列大明-剧情高光校验报告.md",
+      "validator_summary": {
+        "novel_name": "序列大明",
+        "highlight_status": "高光桥段仍不足",
+        "mechanism_status": "剧情吸引力机制仍不足",
+        "existing_count": 2,
+        "content_ok_count": 2,
+        "required_core_ok_count": 2
+      },
+      "failed_checks": [
+        {
+          "check": "top10_table",
+          "label": "最吸引人的十个剧情细节总表",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "mechanism",
+          "label": "剧情吸引力机制分析",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "top10_breakdown",
+          "label": "Top10 细节逐条拆解",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "distribution",
+          "label": "高光桥段分布与节奏判断",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "pleasure_summary",
+          "label": "最强爽点痛点悬念点总结",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "revision",
+          "label": "剧情高光改造建议",
+          "reason": "missing",
+          "file": null
+        }
+      ],
+      "repair_targets": [
+        "补齐 `最吸引人的十个剧情细节总表`，至少先从缺失补到可校验骨架。",
+        "补齐 `剧情吸引力机制分析`，至少先从缺失补到可校验骨架。",
+        "补齐 `Top10 细节逐条拆解`，至少先从缺失补到可校验骨架。",
+        "补齐 `高光桥段分布与节奏判断`，至少先从缺失补到可校验骨架。",
+        "补齐 `最强爽点痛点悬念点总结`，至少先从缺失补到可校验骨架。",
+        "补齐 `剧情高光改造建议`，至少先从缺失补到可校验骨架。"
+      ]
+    }
+  },
+  "repair_plan": {
+    "required": true,
+    "target_layer": "outline",
+    "target_label": "整书大纲层",
+    "mode": "repair-existing",
+    "reason": "核心配角与主角关系 -> missing；大纲总览 -> missing；阶段与篇章拆分 -> missing；主线支线与冲突地图 -> missing",
+    "failed_checks": [
+      {
+        "check": "core_supporting_relations",
+        "label": "核心配角与主角关系",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "overview",
+        "label": "大纲总览",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "stages",
+        "label": "阶段与篇章拆分",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "lines",
+        "label": "主线支线与冲突地图",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "conflicts",
+        "label": "核心冲突点与爆发点",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "time_place",
+        "label": "时间与地点转折",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "climax_pacing",
+        "label": "高潮节奏与收束诊断",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "issues_revision",
+        "label": "结构问题与修改建议",
+        "reason": "missing",
+        "file": null
+      }
+    ],
+    "repair_targets": [
+      "补齐 `核心配角与主角关系`，至少先从缺失补到可校验骨架。",
+      "补齐 `大纲总览`，至少先从缺失补到可校验骨架。",
+      "补齐 `阶段与篇章拆分`，至少先从缺失补到可校验骨架。",
+      "补齐 `主线支线与冲突地图`，至少先从缺失补到可校验骨架。",
+      "补齐 `核心冲突点与爆发点`，至少先从缺失补到可校验骨架。",
+      "补齐 `时间与地点转折`，至少先从缺失补到可校验骨架。",
+      "补齐 `高潮节奏与收束诊断`，至少先从缺失补到可校验骨架。",
+      "补齐 `结构问题与修改建议`，至少先从缺失补到可校验骨架。"
+    ],
+    "context_files": [
+      "/home/zuoky/project/序列大明/README.md",
+      "/home/zuoky/project/序列大明/工作状态-2026-04-21.md",
+      "/home/zuoky/project/序列大明/李钧-词条总索引.md",
+      "/home/zuoky/project/序列大明/李钧-最终人物卡.md",
+      "/home/zuoky/project/序列大明/李钧-核心体系总览.md",
+      "/home/zuoky/project/序列大明/序列大明-全书精华总结.md"
+    ],
+    "suggested_context_file": "/home/zuoky/project/序列大明/workspace-context-outline.md",
+    "suggested_repair_note": "/home/zuoky/project/序列大明/workspace-repair-plan.md"
+  }
+}

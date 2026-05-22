@@ -1,258 +1,545 @@
 {
   "chunk_id": "chunk-0043",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立终于可以肯定，凤府谋划了那么久，经历了那么多的艰难险阻，将性命当作武器，甘为粤地武人先，如今终于取得了回报，大义归己，大势已成了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立终于可以肯定，凤府谋划了那么久，经历了那么多的艰难险阻，将性命当作武器，甘为粤地武人先，如今终于取得了回报，大义归己，大势已成了",
-        "寇立每踏一步，便有一道身影挡在自己身前，不是因为权势和银子，而是隐藏在粤地武人心中的最深处，那只属于武人的尊严与傲骨",
-        "寇立绕过一块大石，唯一一个没有遮挡面孔的人挡在了面前"
+      "aliases": [
+        "大总管"
       ],
-      "mention_count": 32
+      "identity": "粤拳大宗师，凤府大总管",
+      "faction": "凤府",
+      "status": "重伤",
+      "first_appearance": "",
+      "summary": "粤地武人领袖，经历伏杀后重伤，但成功反杀两位大拳师。",
+      "appearance": [],
+      "personality": [
+        "果决",
+        "勇猛",
+        "狡诈"
+      ],
+      "abilities": [
+        "至诚而神",
+        "龙形拳术",
+        "九节劲与水银劲配合"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "凤公主",
+          "type": "盟友"
+        },
+        {
+          "target": "周谪仙",
+          "type": "盟友"
+        },
+        {
+          "target": "车九牛",
+          "type": "对手后转为盟友"
+        },
+        {
+          "target": "白鹤",
+          "type": "敌对"
+        },
+        {
+          "target": "周燕",
+          "type": "击杀"
+        },
+        {
+          "target": "鬼神丸",
+          "type": "击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀中",
+          "event": "被四位大拳师围攻，先后击杀鬼神丸和周燕。"
+        }
+      ],
+      "evidence": [
+        "寇立每踏一步，便有一道身影挡在自己身前",
+        "寇立狂笑一声，仿佛不是四人伏杀一人，而是他以一敌四般",
+        "寇立眼观鼻、鼻观心，脸上是病态的血红色，嘴巴缓缓裂开，一字一句的道：'我说过，再过来，打死你。'"
+      ],
+      "mention_count": 45
     },
     {
       "name": "白鹤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "车家沟的车九牛、烧身馆的罗严宗、五象馆的白鹤，便是粤地这一代，最有呼声晋升入大宗师的三位天才",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "车家沟的车九牛、烧身馆的罗严宗、五象馆的白鹤，便是粤地这一代，最有呼声晋升入大宗师的三位天才",
-        "“两个象形拳的大拳师，似乎很容易就猜出身份，对吧，白鹤师兄，”寇立平静的道",
-        "“我记得你说过，一年之后，会来五象馆找我的，”黑衣人，不，白鹤冷冰冰的道：“但我现在已经等不及了，你的成长速度超出我的所有认知，我怕一年之后，五象馆真的没人能制住你"
+      "aliases": [
+        "白鹤师兄"
       ],
-      "mention_count": 29
+      "identity": "五象馆大拳师",
+      "faction": "五象馆",
+      "status": "被俘",
+      "first_appearance": "",
+      "summary": "五象馆的大拳师，参与伏杀寇立，最终被周谪仙控制。",
+      "appearance": [],
+      "personality": [
+        "狭隘",
+        "谨慎",
+        "易怒"
+      ],
+      "abilities": [
+        "象形拳（熊形）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "周燕",
+          "type": "同伙"
+        },
+        {
+          "target": "车九牛",
+          "type": "同伙后背叛"
+        },
+        {
+          "target": "路王神",
+          "type": "师从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀中",
+          "event": "与周燕、车九牛、鬼神丸围攻寇立。"
+        }
+      ],
+      "evidence": [
+        "白鹤赶上来前，就看到寇立将手臂从对方胸膛拔出",
+        "白鹤尤不死心的检查了周燕的尸体",
+        "白鹤以一敌二，又是猝不及防，自然是手脚狼狈，被逼的连连倒退"
+      ],
+      "mention_count": 18
     },
     {
       "name": "周燕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“你——”    白鹤也没时间去跟对方计较，二者一追一逃间，数息便出现在两百丈外，而且以周燕师叔的身法，居然有点控不住对方的趋势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你——”    白鹤也没时间去跟对方计较，二者一追一逃间，数息便出现在两百丈外，而且以周燕师叔的身法，居然有点控不住对方的趋势",
-        "黑衣人，不，应该是象形拳中鹞形和蛇形的当代传人周燕，已经将速度施展到极限，但居然仍旧有种随时被对方给跑掉的感觉",
-        "”    周燕大怒，他在浙行是何等的身份，被一个后辈三番两次的羞辱，眼中怒火几近喷射而出，怒骂道：“好个奸猾的小鬼，有种你——”    “有种什么"
+      "aliases": [
+        "百步飞蛇"
       ],
-      "mention_count": 16
+      "identity": "浙行象形拳大拳师",
+      "faction": "浙行",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "浙行大拳师，蛇鹞合一，参与伏杀寇立，被寇立反杀。",
+      "appearance": [
+        "瘦长马脸，面色古板"
+      ],
+      "personality": [
+        "易怒",
+        "自负"
+      ],
+      "abilities": [
+        "蛇形拳",
+        "鹞形拳",
+        "羽蛇绞"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "被击杀"
+        },
+        {
+          "target": "白鹤",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀中",
+          "event": "追杀寇立，被寇立以龙形拳击杀。"
+        }
+      ],
+      "evidence": [
+        "周燕面色一变，顿时认为对方见逃脱无望，便准备拉自己做一个垫背",
+        "周燕怒发冲冠，不假思索的追杀过去",
+        "周燕不可置信的看着插入自己胸膛的一只手臂"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立每踏一步，便有一道身影挡在自己身前，不是因为权势和银子，而是隐藏在粤地武人心中的最深处，那只属于武人的尊严与傲骨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立每踏一步，便有一道身影挡在自己身前，不是因为权势和银子，而是隐藏在粤地武人心中的最深处，那只属于武人的尊严与傲骨",
-        "手指上满是茧子，不是一块一块，而是前后左右，几乎都有",
-        "四大炼级别的拳术，已经不仅是拳术了，而是一种炼法，一种人体潜能的挖掘"
+      "name": "车九牛",
+      "aliases": [
+        "九牛儿"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "几乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "车家沟大拳师",
+      "faction": "车家沟",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "手指上满是茧子，不是一块一块，而是前后左右，几乎都有",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "手指上满是茧子，不是一块一块，而是前后左右，几乎都有",
-        "”    寇立话音一落，平地起风雷，内雷外风，好似打桩机般的声响瞬间从体内播出，风浪水雾之盛，几乎让人有种龙卷风暴般的既视感",
-        "风云雾芒遮眼，黑衣人的那几乎那能撕裂空间的一啄，居然只啄到了幻影中"
+      "first_appearance": "",
+      "summary": "车家沟的招牌打家，看似憨厚，实则精明，最终倒向凤府。",
+      "appearance": [
+        "一身夹皮袄、一条麻绦，一双棉裤，约莫三十出头，体型精壮，面色焦黑蜡黄，憨厚"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    围观的拳师，心中不知是受到了什么感触，一个接着一个，直冲上来，抡起人数来，比这些刺客居然只多不少",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    围观的拳师，心中不知是受到了什么感触，一个接着一个，直冲上来，抡起人数来，比这些刺客居然只多不少",
-        "“好啊，那我们来比比力气，”寇立脚步一踏，地面一晃，身影如鹰抓劲擒拿，左手一翻一掷，左边齐人高的石墙‘轰’的下，居然被齐根拔起，九牛儿的眼前一下子就黑了下来",
-        "“嘿，又是两个大拳师，倭奴人气焰正盛时你们如缩头的乌龟，如今倒是一个个都伸出头来了，我倒是不知道，粤地居然还有这么多大拳师"
+      "personality": [
+        "憨厚",
+        "精明",
+        "忠诚"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "一手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “你才是厉害，”寇立意味声长的道，他是在劈出第九记劈拳时，精气神高度合一，才真正掌握住了这种拳无拳，意无意，无意之中是真意，踏入了至诚而神的初步阶段，但对方露出这一手来，很明显也是达到了这个层次",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “你才是厉害，”寇立意味声长的道，他是在劈出第九记劈拳时，精气神高度合一，才真正掌握住了这种拳无拳，意无意，无意之中是真意，踏入了至诚而神的初步阶段，但对方露出这一手来，很明显也是达到了这个层次",
-        "正文 第四十六章 一手大义 一手大炮（中）    四位大拳师围绕寇立，让寇立就感觉像是被四只怪物包裹，内家大成的感应中，四人化作四个火炉小太阳，无时不刻不在散发着滚滚热气，前三者是太阳，后方的鬼神丸则是黑月",
-        "正文 第四十七章 一手大义 一手大炮（下）    “居然是他"
+      "abilities": [
+        "牛角拳",
+        "至诚而神"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "很显然，对方等的就是这个关口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "对手后转为盟友"
+        },
+        {
+          "target": "白鹤",
+          "type": "同伙后背叛"
+        },
+        {
+          "target": "乡长",
+          "type": "听从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀中",
+          "event": "先与寇立比试力气，后保护寇立，对抗白鹤。"
+        }
+      ],
       "evidence": [
-        "很显然，对方等的就是这个关口",
-        "一道苍老的身影忽然挡住了其中一道，白胡子拳师练了二十多年的蛇形叼手，‘嘶啦’一声，闪电般点向对方胸口，逼迫的那人不得不收刀防御",
-        "这种人物，在整个中原都随处可见，再寻常不过的庄稼汉子，但是寇立却是双眼一眯，如果说对方像是一头牛，那也是独角夔牛，身有日月，出入风雨，能发雷鸣"
+        "车九牛，您叫我九牛儿就行了",
+        "乡长说了，只要拦住您就好",
+        "车九牛依旧憨厚道，只是小眼中闪过一丝老实人特有的奸猾"
       ],
       "mention_count": 10
     },
     {
-      "name": "浑身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "左边一个，浑身上下的毛孔就像是插了无数的鹤形的管子，体内筋肉血管在疯狂的蠕动，仿佛随时能爆炸开来，一呼一吸间，仿佛随时能传来风声鹤唳的尖叫声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "左边一个，浑身上下的毛孔就像是插了无数的鹤形的管子，体内筋肉血管在疯狂的蠕动，仿佛随时能爆炸开来，一呼一吸间，仿佛随时能传来风声鹤唳的尖叫声",
-        "鬼神丸刚提起黑钢锡杖，鬼神之力刚刚发动，黑气缠绕在手和锡杖上，鬼吼声还未发出，浑身一颤",
-        "气流风暴一下子平铺开来，方圆十丈同时响起密密麻麻的翅膀扑打声，好似数百鹞鸟一起翻旋沸腾，然后猛的往其中一聚，却又化作蠕动在巨蟒身上的白色鳞片，浑身扭拧摩擦，一只无形大蟒腾空而起，蛇鹞合杀——羽蛇绞"
+      "name": "鬼神丸",
+      "aliases": [
+        "鬼武士"
       ],
-      "mention_count": 10
+      "identity": "倭奴国大拳师",
+      "faction": "倭奴",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "倭奴国大拳师，半妖魔化，被寇立一爪抓爆脑袋。",
+      "appearance": [
+        "巨大人影，黑钢锡杖"
+      ],
+      "personality": [],
+      "abilities": [
+        "鬼神之力"
+      ],
+      "equipment": [
+        "黑钢锡杖"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "被击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀中",
+          "event": "被寇立以金翅大鹏鸟爪劲击杀。"
+        }
+      ],
+      "evidence": [
+        "后方的巨大人影一步又一步，手上的黑钢锡杖一下又一下",
+        "鬼神丸的脑袋就像是开了瓤的西瓜，红的白的一下子裂了个六七八块",
+        "鬼神丸的鬼神意识在那恐怖的一爪下直接被抓碎了"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "以及",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "天没了，地没了，只有那一双蕴含着无尽凶狠桀骜的鹰眼，以及那蒲扇着火焰翅膀的金翅大鹏鸟，远古凶兽的威压，压的他体内的鬼神居然产生了畏惧之情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天没了，地没了，只有那一双蕴含着无尽凶狠桀骜的鹰眼，以及那蒲扇着火焰翅膀的金翅大鹏鸟，远古凶兽的威压，压的他体内的鬼神居然产生了畏惧之情",
-        "但是，做为从最早演化出的古拳种古八式，以及身为八式八象之首，只有神髓而无招式的龙形，至诚而神，而龙，天生就是神物",
-        "”正文 第四十八章 一手大义 一手大炮（完）    文字虽长，但是寇立与周燕，两位大拳师的一追一逃，以及短短两次，却蕴含着深厚武道精华的生死搏杀，只过了不到十息时间"
+      "name": "黄公子",
+      "aliases": [
+        "凤公主"
       ],
-      "mention_count": 10
+      "identity": "凤府公主",
+      "faction": "凤府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "凤府的实际掌控者，与官军合作，平定叛乱。",
+      "appearance": [
+        "英姿飒爽的女将军"
+      ],
+      "personality": [
+        "果断",
+        "威严"
+      ],
+      "abilities": [],
+      "equipment": [
+        "月白色马驹"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "盟友"
+        },
+        {
+          "target": "徐小小",
+          "type": "部下"
+        },
+        {
+          "target": "老太监",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀后",
+          "event": "率大军包围乱石坪，宣布通敌者家眷被收押。"
+        }
+      ],
+      "evidence": [
+        "黄公子扬了扬眉，老太监顿时躬身领命",
+        "黄公子看也不看他们，铁皮小靴子一步一步的踏在地面上",
+        "黄公子搀住了白胡子老拳师，温和的道"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "就像",
+      "name": "周谪仙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "大拳师",
+      "faction": "凤府",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    那人轻快的叫上一声，也不见动作，熟练的并起一个牛角拳，腹部一涨一缩，呼吸之中，忽然响起一声粗烈的牛嗷叫声，拧步、翻扣、回拉，就像是按牛头饮水一样，不仅要有钢劲，还要有柔劲，跟重要的是跟牛要极为亲近，不然肯定会被尥蹶子",
+      "first_appearance": "",
+      "summary": "凤府一方的顶尖高手，协助寇立对抗白鹤。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那人轻快的叫上一声，也不见动作，熟练的并起一个牛角拳，腹部一涨一缩，呼吸之中，忽然响起一声粗烈的牛嗷叫声，拧步、翻扣、回拉，就像是按牛头饮水一样，不仅要有钢劲，还要有柔劲，跟重要的是跟牛要极为亲近，不然肯定会被尥蹶子",
-        "而这面墙就像是被按牛一样，顺势掳了下来，在空中‘呼呼’转了几圈，然后轻轻的放在了地面上，回头还比划了个拇指，咧出白牙，“大总管的力气果然大",
-        "左边一个，浑身上下的毛孔就像是插了无数的鹤形的管子，体内筋肉血管在疯狂的蠕动，仿佛随时能爆炸开来，一呼一吸间，仿佛随时能传来风声鹤唳的尖叫声"
+      "personality": [
+        "毒舌",
+        "飘渺"
       ],
-      "mention_count": 9
+      "abilities": [
+        "拳术飘渺若仙"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "盟友"
+        },
+        {
+          "target": "白鹤",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀后",
+          "event": "出现并攻击白鹤，告知五象馆被捣毁。"
+        }
+      ],
+      "evidence": [
+        "周谪仙一身官兵打扮，不知何时人群中窜了出来",
+        "周谪仙轻轻一笑：'听说你在找我'",
+        "周谪仙虽然拳术飘渺若仙，但嘴里却毒蛇的很"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "就像是",
+      "name": "徐小小",
       "aliases": [],
-      "identity": "",
+      "identity": "将军",
+      "faction": "凤府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "凤府将军，操作铁炮击杀了鬼神丸的尸体。",
+      "appearance": [],
+      "personality": [
+        "自得"
+      ],
+      "abilities": [
+        "炮术精准"
+      ],
+      "equipment": [
+        "铁炮"
+      ],
+      "relationships": [
+        {
+          "target": "黄公子",
+          "type": "部下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀后",
+          "event": "用铁炮轰碎鬼神丸的尸体。"
+        }
+      ],
+      "evidence": [
+        "徐小小站在一口冒着青烟的铁炮前",
+        "这都三年没摸这宝贝了，本将军打的炮还是这么准"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白胡子拳师",
+      "aliases": [
+        "何老师傅"
+      ],
+      "identity": "老拳师",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    那人轻快的叫上一声，也不见动作，熟练的并起一个牛角拳，腹部一涨一缩，呼吸之中，忽然响起一声粗烈的牛嗷叫声，拧步、翻扣、回拉，就像是按牛头饮水一样，不仅要有钢劲，还要有柔劲，跟重要的是跟牛要极为亲近，不然肯定会被尥蹶子",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "一位老拳师，曾阻止黑衣人，后认出周燕。",
+      "appearance": [
+        "白胡子"
+      ],
+      "personality": [
+        "正义"
+      ],
+      "abilities": [
+        "蛇形叼手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "支持"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀中",
+          "event": "挡住一名黑衣人，后认出周燕。"
+        }
+      ],
+      "evidence": [
+        "一道苍老的身影忽然挡住了其中一道",
+        "白胡子拳师练了二十多年的蛇形叼手",
+        "白胡子拳师目光一缩，正好看到了周燕的面孔"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "孔笙",
+      "aliases": [],
+      "identity": "刺客首领",
+      "faction": "",
+      "status": "撤退",
+      "first_appearance": "",
+      "summary": "伏杀寇立的幕后策划者之一，见大势已去后撤退。",
+      "appearance": [
+        "琥珀眼珠"
+      ],
+      "personality": [
+        "谨慎",
+        "理智"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那人轻快的叫上一声，也不见动作，熟练的并起一个牛角拳，腹部一涨一缩，呼吸之中，忽然响起一声粗烈的牛嗷叫声，拧步、翻扣、回拉，就像是按牛头饮水一样，不仅要有钢劲，还要有柔劲，跟重要的是跟牛要极为亲近，不然肯定会被尥蹶子",
-        "而这面墙就像是被按牛一样，顺势掳了下来，在空中‘呼呼’转了几圈，然后轻轻的放在了地面上，回头还比划了个拇指，咧出白牙，“大总管的力气果然大",
-        "左边一个，浑身上下的毛孔就像是插了无数的鹤形的管子，体内筋肉血管在疯狂的蠕动，仿佛随时能爆炸开来，一呼一吸间，仿佛随时能传来风声鹤唳的尖叫声"
+      "relationships": [
+        {
+          "target": "郭师傅",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "伏杀后",
+          "event": "判断大势已去，决定撤退。"
+        }
+      ],
+      "evidence": [
+        "孔笙无力回天：'再不走，大军阵势一旦彻底完成，就连我们都走不了了。'",
+        "孔笙摇了摇头，琥珀眼珠扫了一圈"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "郭师傅",
+      "aliases": [],
+      "identity": "刺客",
+      "faction": "",
+      "status": "撤退",
+      "first_appearance": "",
+      "summary": "参与伏杀寇立的刺客，心有不甘。",
+      "appearance": [],
+      "personality": [
+        "不甘",
+        "恐惧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "孔笙",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀后",
+          "event": "与孔笙一同撤退。"
+        }
+      ],
+      "evidence": [
+        "郭师傅看着数百丈外的寇立，满心不甘"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "老太监",
+      "aliases": [],
+      "identity": "太监",
+      "faction": "凤府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "凤府的老太监，负责宣读通缉名单。",
+      "appearance": [],
+      "personality": [
+        "阴沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黄公子",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀后",
+          "event": "宣读通敌拳师名单，宣布家眷被收押。"
+        }
+      ],
+      "evidence": [
+        "老太监顿时躬身领命，挺胸叠肚的走了上前",
+        "老太监阴沉沉的一笑"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "香僧丸",
+      "aliases": [],
+      "identity": "香神道控制者",
+      "faction": "",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "控制鬼神丸的香神道人物，因鬼神丸被毁而受伤。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "香神道控制之法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鬼神丸",
+          "type": "控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏杀后",
+          "event": "因鬼神丸被毁而吐血。"
+        }
+      ],
+      "evidence": [
+        "官驿中的香僧丸也猛的吐了口黑血，满脸狰狞，浑身抽搐"
+      ],
+      "mention_count": 1
     }
   ]
 }

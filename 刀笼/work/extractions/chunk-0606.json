@@ -1,258 +1,484 @@
 {
   "chunk_id": "chunk-0606",
-  "title": "第二十三章 天极昼夜",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "陛下",
+        "夜皇",
+        "新夜皇"
+      ],
+      "identity": "新任夜皇",
+      "faction": "夜昼国皇室",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "戚笼眼角微微一眯，这几位散人对朱太后的态度，让他多多少少有点意外，毕竟朱太后只是个不会法力的普通人，若说是给不周面子，却也不像，似乎更接近于对于朱太后本身的尊敬",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼眼角微微一眯，这几位散人对朱太后的态度，让他多多少少有点意外，毕竟朱太后只是个不会法力的普通人，若说是给不周面子，却也不像，似乎更接近于对于朱太后本身的尊敬",
-        "’    戚笼心中默想，然后直接走到殿中的主位前，直接坐了下来，也不开口，只是眼神淡淡的看着几人",
-        "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧"
+      "summary": "新任夜皇，表面好大喜功、心无城府，实则暗中谋划，与上古世界投影对抗，试图融合夜族血统。",
+      "appearance": [
+        "面色苍白、憔悴，披头散发"
       ],
-      "mention_count": 38
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于伪装"
+      ],
+      "abilities": [
+        "人形龙脉",
+        "能修复活人伤势"
+      ],
+      "equipment": [
+        "夜王冠"
+      ],
+      "relationships": [
+        {
+          "target": "不周",
+          "type": "国师，疑似敌对"
+        },
+        {
+          "target": "朱太后",
+          "type": "太后，给予支持"
+        },
+        {
+          "target": "太狱寺主",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基首日",
+          "event": "得罪不周国师"
+        },
+        {
+          "stage": "第二日",
+          "event": "遭到刺杀"
+        },
+        {
+          "stage": "第三日",
+          "event": "与十大福地高人见面，被落面子"
+        },
+        {
+          "stage": "第四至六日",
+          "event": "不上朝，陷入自闭，实则夜间与上古世界投影对抗"
+        }
+      ],
+      "evidence": [
+        "戚笼眼角微微一眯，这几位散人对朱太后的态度，让他多多少少有点意外",
+        "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧。”",
+        "戚笼笑了笑，直接将夜王冠再度摘下，顿时间，一阵又一阵让人毛骨悚然的尖叫声响起。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "陛下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 天极昼夜",
-      "summary": "“螺蛳崖送陛下云雾仙石百块，天外仙虹一道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“螺蛳崖送陛下云雾仙石百块，天外仙虹一道",
-        "”    “金顶观送陛下玉座金佛一尊，天金千两",
-        "”    “小桃源送陛下仙桃五十颗，桃花百朵"
+      "name": "朱太后",
+      "aliases": [
+        "太后"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "不周",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "夜昼国太后",
+      "faction": "夜昼国皇室",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "戚笼眼角微微一眯，这几位散人对朱太后的态度，让他多多少少有点意外，毕竟朱太后只是个不会法力的普通人，若说是给不周面子，却也不像，似乎更接近于对于朱太后本身的尊敬",
+      "summary": "夜昼国太后，掌握夜族核心禁卫，受十大福地尊敬。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼眼角微微一眯，这几位散人对朱太后的态度，让他多多少少有点意外，毕竟朱太后只是个不会法力的普通人，若说是给不周面子，却也不像，似乎更接近于对于朱太后本身的尊敬",
-        "“这，回禀陛下，九阴洞、尾椎山主人与不周国师有旧仇，而海皇岛主人自称海皇，乃近海霸主，前十几年经常入侵本土，也只是不周国师出手，将之重创，这十几年才渐渐销声匿迹起来",
-        "“总得争取些时间嘛，”戚笼不以为意的笑道，“多谢你把我刺杀的消息放出去，甚至还留了些手脚，让人以为是不周做的，不周现在怎样"
+      "personality": [
+        "沉稳",
+        "有城府"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 天极昼夜",
-      "summary": "’    戚笼心中默想，然后直接走到殿中的主位前，直接坐了下来，也不开口，只是眼神淡淡的看着几人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "掌握夜族禁卫"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "太后与皇帝"
+        },
+        {
+          "target": "不周",
+          "type": "国师，令其忌惮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基后",
+          "event": "派侍女送皇家功法《天极昼夜》给戚笼"
+        }
+      ],
       "evidence": [
-        "’    戚笼心中默想，然后直接走到殿中的主位前，直接坐了下来，也不开口，只是眼神淡淡的看着几人",
-        "一个小桃源的小姑娘直接翻了个白眼，讥讽道：“小皇帝，你别想的太美，我们来拜你，是给国师面子，给太后面子，没了他们，你算老几啊",
-        "”    等所有人都退下后，戚笼笑了笑，直接将夜王冠再度摘下，顿时间，一阵又一阵让人毛骨悚然的尖叫声响起"
+        "朱太后眼观鼻鼻观心",
+        "因为夜族真正的核心，当初跟残海皇争霸天下的那支夜族禁卫就掌握在她的手上",
+        "太后说了，皇族也有修仙功法，陛下先练着"
       ],
       "mention_count": 8
     },
     {
-      "name": "这么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "碧玉真人",
+      "aliases": [
+        "碧玉真人",
+        "肥仔",
+        "胖子"
+      ],
+      "identity": "青华山福地主人",
+      "faction": "青华山",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "”    除了朱太后眼观鼻鼻观心，其它人多多少少诧异的看了这胖子一眼，这肥仔这一次这么舍得",
-      "appearance": [],
-      "personality": [],
+      "summary": "青华山福地主人，肥胖，贪财，善于钻营，试图从戚笼处获取灵脉。",
+      "appearance": [
+        "肥嘟嘟的脸",
+        "一对肥手"
+      ],
+      "personality": [
+        "贪财",
+        "狡猾",
+        "善于奉承"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "表面奉承，实则轻视"
+        },
+        {
+          "target": "小媚仙",
+          "type": "同僚，交换眼神"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基后第三日",
+          "event": "向戚笼献礼，并请求灵脉"
+        }
+      ],
       "evidence": [
-        "”    除了朱太后眼观鼻鼻观心，其它人多多少少诧异的看了这胖子一眼，这肥仔这一次这么舍得",
-        "”    此话一出，其它人顿时微微色变，这个新夜皇似乎特别好说话啊，这么大方",
-        "碧玉真人更是嘴都笑裂了，心道这个新上任的夜皇就是个大傻子嘛，这么好忽悠"
+        "碧玉真人搓了搓一对肥手，正气凛然道",
+        "碧玉真人更是嘴都笑裂了，心道这个新上任的夜皇就是个大傻子嘛",
+        "碧玉真人不加掩饰发出幸灾乐祸的笑容"
       ],
       "mention_count": 8
     },
     {
       "name": "陈情",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "陈仙长"
+      ],
+      "identity": "螺蛳崖大弟子",
+      "faction": "螺蛳崖",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "螺蛳崖大弟子陈情看到戚笼手上的伤口，突然道：“陛下手受伤了",
+      "summary": "螺蛳崖大弟子，奉师命试探戚笼，但未能治愈戚笼的伤口。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "螺蛳崖大弟子陈情看到戚笼手上的伤口，突然道：“陛下手受伤了",
-        "”陈情突然道",
-        "在得到戚笼允许后，陈情上前，抓住戚笼的一只手，表面上捏印，施展小雨露术，暗地里将一道真气输入戚笼体内"
+      "personality": [
+        "好面子"
       ],
-      "mention_count": 8
+      "abilities": [
+        "小雨露术",
+        "金光法术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "天罗老怪",
+          "type": "师傅"
+        },
+        {
+          "target": "戚笼",
+          "type": "试探与被拒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基后第三日",
+          "event": "主动为戚笼治疗伤口，失败后告退"
+        }
+      ],
+      "evidence": [
+        "螺蛳崖大弟子陈情看到戚笼手上的伤口，突然道：“陛下手受伤了？”",
+        "陈情上前，抓住戚笼的一只手，表面上捏印，施展小雨露术",
+        "陈情面子挂不住，掉头便走。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "碧玉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "不周",
+      "aliases": [
+        "不周国师",
+        "不周大人"
+      ],
+      "identity": "夜昼国国师",
+      "faction": "夜昼国朝廷",
+      "status": "提及",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧",
+      "summary": "夜昼国国师，权倾朝野，已闭生死关。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧",
-        "”    “哪里哪里，为了陛下，那还用说，”碧玉真人搓了搓一对肥手，正气凛然道：“陛下还有什么吩咐，只要陛下一声令下，青华山上下，随时可为陛下效劳",
-        "碧玉真人嘿嘿笑道：“陛下说的极是，只是家中人多，嘴也多，这个，若是陛下能将国内无主的灵脉匀给本人几条，贫道承担一切人力物力，所产灵石，陛下占大头"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "疑似敌对"
+        },
+        {
+          "target": "朱太后",
+          "type": "忌惮"
+        },
+        {
+          "target": "太狱寺主",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "戚笼登基前",
+          "event": "与九阴洞、尾椎山、海皇岛有旧仇"
+        },
+        {
+          "stage": "戚笼登基后",
+          "event": "闭生死关"
+        }
+      ],
+      "evidence": [
+        "不周国师有旧仇",
+        "不周大人已经闭生死关了，短时间内不会出关。",
+        "不周大人花了很多功夫，也没找到那支兵马藏身何处"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "碧玉真",
+      "name": "太狱寺主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "太狱寺主",
+      "faction": "夜昼国朝廷",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧",
-      "appearance": [],
+      "summary": "戚笼的下属，负责传递消息，受不周国师指派。",
+      "appearance": [
+        "阴森森"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧",
-        "”    “哪里哪里，为了陛下，那还用说，”碧玉真人搓了搓一对肥手，正气凛然道：“陛下还有什么吩咐，只要陛下一声令下，青华山上下，随时可为陛下效劳",
-        "碧玉真人嘿嘿笑道：“陛下说的极是，只是家中人多，嘴也多，这个，若是陛下能将国内无主的灵脉匀给本人几条，贫道承担一切人力物力，所产灵石，陛下占大头"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "下属"
+        },
+        {
+          "target": "不周",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "向戚笼汇报消息"
+        }
+      ],
+      "evidence": [
+        "火光之中，太狱寺主阴森森的道。",
+        "太狱寺主的身影渐渐退入黑暗之中"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "碧玉真人",
+      "name": "小媚仙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "媚仙坊福地主人",
+      "faction": "媚仙坊",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧",
+      "summary": "媚仙坊福地主人，笑容妩媚，与碧玉真人交换眼神。",
+      "appearance": [
+        "笑容更妩媚"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "碧玉真人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基后第三日",
+          "event": "参与献礼"
+        }
+      ],
+      "evidence": [
+        "小媚仙笑容更妩媚"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "金冠真人",
+      "aliases": [],
+      "identity": "金顶观福地主人",
+      "faction": "金顶观",
+      "status": "登场",
+      "first_appearance": "第二十三章 天极昼夜",
+      "summary": "金顶观福地主人，曾想上前说话被朱太后瞪回。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼也点了点头，赞道：“碧玉真人真是有心了，这次怕是花费不浅吧",
-        "”    “哪里哪里，为了陛下，那还用说，”碧玉真人搓了搓一对肥手，正气凛然道：“陛下还有什么吩咐，只要陛下一声令下，青华山上下，随时可为陛下效劳",
-        "碧玉真人嘿嘿笑道：“陛下说的极是，只是家中人多，嘴也多，这个，若是陛下能将国内无主的灵脉匀给本人几条，贫道承担一切人力物力，所产灵石，陛下占大头"
+      "relationships": [
+        {
+          "target": "朱太后",
+          "type": "被其约束"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "登基后第三日",
+          "event": "参与献礼，欲言又止"
+        }
+      ],
+      "evidence": [
+        "金冠真人眉头一皱，刚要上前说些什么，就被朱太后一眼瞪了回去。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "小侍女",
+      "aliases": [],
+      "identity": "朱太后侍女",
+      "faction": "夜昼国皇室",
+      "status": "登场",
+      "first_appearance": "第二十三章 天极昼夜",
+      "summary": "朱太后的小侍女，性格直率，对戚笼不满。",
+      "appearance": [],
+      "personality": [
+        "直率",
+        "冲动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱太后",
+          "type": "侍女"
+        },
+        {
+          "target": "戚笼",
+          "type": "轻视"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "登基后第四至六日",
+          "event": "奉太后命送功法给戚笼"
+        }
+      ],
+      "evidence": [
+        "朱太后的小侍女像个小牛犊子一样横冲直撞",
+        "小侍女怒了，将手上的东西往床上一丢",
+        "哼，无能昏君！"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "残海皇",
+      "aliases": [
+        "海皇岛主人",
+        "近海霸主"
+      ],
+      "identity": "海皇岛福地主人",
+      "faction": "海皇岛",
+      "status": "提及",
+      "first_appearance": "第二十三章 天极昼夜",
+      "summary": "海皇岛主人，自称海皇，曾与一代真宗争霸，后转移海岛，实力在十大福地中排名第一，疑似已炼出元神。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "疑似已炼出元神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "不周",
+          "type": "有旧仇"
+        },
+        {
+          "target": "夜族",
+          "type": "曾与夜族争霸"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "前十几年",
+          "event": "入侵本土，被不周重创"
+        }
+      ],
+      "evidence": [
+        "海皇岛主人自称海皇，乃近海霸主",
+        "残海皇此人实力在我们十大福地之中排名第一",
+        "我们怀疑十几年前，这一位便已经炼出了元神"
+      ],
+      "mention_count": 3
     },
     {
       "name": "鱼总管",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "皇宫总管",
+      "faction": "夜昼国皇室",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "鱼总管不知何时出现，干咳一声，向外面招手，很快，报礼的声音响了起来",
+      "summary": "皇宫总管，负责报礼和回答戚笼问题。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "鱼总管不知何时出现，干咳一声，向外面招手，很快，报礼的声音响了起来",
-        "“是九阴洞、尾椎山、海皇岛三家，”鱼总管小声道",
-        "”    鱼总管下了一大跳，就连水产君也忍不住开口，“陛下，残海皇曾经是与一代真宗争霸天下的豪杰，后来不敌，才转移海岛，成为修行中人，元宗、厚宗两代都已安抚为主，而且残海皇此人实力在我们十大福地之中排名第一，我们怀疑十几年前，这一位便已经炼"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "登基后第三日",
+          "event": "报礼并回答关于十大福地的问题"
+        }
+      ],
+      "evidence": [
+        "鱼总管不知何时出现，干咳一声，向外面招手",
+        "鱼总管小声道。",
+        "鱼总管下了一大跳"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "本皇",
+      "name": "小桃源小姑娘",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "小桃源福地弟子",
+      "faction": "小桃源",
       "status": "登场",
       "first_appearance": "第二十三章 天极昼夜",
-      "summary": "”    “是这样么，真人家中也有些困难啊，”戚笼点了点头，不疑有它，道：“没问题，等会儿本皇让人把地图拿来，真人可以自己选",
+      "summary": "小桃源福地弟子，性格直率，当面讥讽戚笼。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "无礼"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “是这样么，真人家中也有些困难啊，”戚笼点了点头，不疑有它，道：“没问题，等会儿本皇让人把地图拿来，真人可以自己选",
-        "“他们怎么没来，本皇刚刚登基，这几位就这么不给我这个新任夜皇的面子吗",
-        "本皇看不会吧，真人可愿意本皇出手，降伏这位残海皇"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "轻视"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "最后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 天极昼夜",
-      "summary": "最后一类则是九阴洞、尾椎山、海皇岛这类敌对势力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "最后一类则是九阴洞、尾椎山、海皇岛这类敌对势力",
-        "这四类中，第一类可以暂时不管，后两类可以利用，最后一种则必须打压",
-        "”    太狱寺主的身影渐渐退入黑暗之中，最后一道声音传出"
+      "timeline": [
+        {
+          "stage": "登基后第三日",
+          "event": "当面讥讽戚笼"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "一个小桃源的小姑娘直接翻了个白眼，讥讽道：“小皇帝，你别想的太美”"
+      ],
+      "mention_count": 1
     }
   ]
 }

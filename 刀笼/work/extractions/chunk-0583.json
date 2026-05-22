@@ -1,247 +1,394 @@
 {
   "chunk_id": "chunk-0583",
-  "title": "第九章 调查（中）",
   "characters": [
     {
       "name": "戚笼",
       "aliases": [],
-      "identity": "",
+      "identity": "剑仙一派修行者，疑似有龙脉之力",
       "faction": "",
       "status": "登场",
       "first_appearance": "第九章 调查（中）",
-      "summary": "按照戚笼这几日的见解，真神在大洞天称圣做祖，剑仙混迹于世俗之中，两种修行体系，也是两种生存方式；夹在中间的，便是类似诛魔会一类的组织，像是加强版的拳门棒会，小一辈不分门派，一同修行、游历、相互交流经验",
+      "summary": "戚笼是本章核心人物，受阳真人邀请调查皇宫魔门事件，拥有龙脉之力，能窥探天子之气，并意外接触五帝之一黄泓。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "按照戚笼这几日的见解，真神在大洞天称圣做祖，剑仙混迹于世俗之中，两种修行体系，也是两种生存方式；夹在中间的，便是类似诛魔会一类的组织，像是加强版的拳门棒会，小一辈不分门派，一同修行、游历、相互交流经验",
-        "谁知戚笼不按常理出牌，只是笑了笑，不做回答，让钟小瞳大失所望",
-        "或许诛魔会背后有着更大的图谋，但在戚笼看来，哪怕正魔之争都是无聊事，又怎会跟小儿辈玩过家家"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "不按常理出牌",
+        "对正魔之争不感兴趣"
       ],
-      "mention_count": 24
+      "abilities": [
+        "龙脉之力",
+        "风水之术",
+        "意念穿越空间"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阳真人",
+          "type": "受其邀请调查"
+        },
+        {
+          "target": "钟小瞳",
+          "type": "同行者"
+        },
+        {
+          "target": "钟天孝",
+          "type": "同行者"
+        },
+        {
+          "target": "雪韵寒",
+          "type": "同行者"
+        },
+        {
+          "target": "离红灵",
+          "type": "同行者"
+        },
+        {
+          "target": "黄泓",
+          "type": "意念接触"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入甘露殿，调查皇子失踪案，通过龙气窥探天子之气，意念接触五帝之一黄泓。"
+        }
+      ],
+      "evidence": [
+        "戚笼对于女人间的勾心斗角不感兴趣，也对于接下来的调查破案不在意",
+        "戚笼手指一点，一道龙影如鱼归大海，深入风水之中",
+        "戚笼的龙气在历史中穿梭，然后终于裹住了那道太极宫的天子之气"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "只是",
+      "name": "钟小瞳",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛魔会成员",
+      "faction": "诛魔会",
       "status": "登场",
       "first_appearance": "第九章 调查（中）",
-      "summary": "谁知戚笼不按常理出牌，只是笑了笑，不做回答，让钟小瞳大失所望",
+      "summary": "钟小瞳是诛魔会成员，试图试探戚笼的底细，但未能成功。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "谁知戚笼不按常理出牌，只是笑了笑，不做回答，让钟小瞳大失所望",
-        "这位淑妃不愧是老皇帝的宠妃，不足三十，面相像是玉观音，皮肤晶莹剔透，只是面色苍白，两眼红肿，穿着睡衣就迎了出来，见了五人就跪了下来",
-        "再然后，意念仿佛穿越天门，来到了一座古老的宫殿中，殿中有一道无比庞大的帝王身影，意念只是瞬间接触，便就融化了起来"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同行者"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼等人一同进入甘露殿调查。"
+        }
+      ],
+      "evidence": [
+        "钟小瞳可不傻，对方要想加入，必然要露底，便可以知道对方的深浅了",
+        "很快，戚笼、钟小瞳、钟天孝、雪韵寒、离红灵五人就被领入甘露殿"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "在他",
+      "name": "钟天孝",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛魔会成员",
+      "faction": "诛魔会",
       "status": "登场",
       "first_appearance": "第九章 调查（中）",
-      "summary": "“是是是，几位仙长里面请，快来人……”    戚笼对于女人间的勾心斗角不感兴趣，也对于接下来的调查破案不在意，在他看来，既然阳真人都解决不了的事，一定不是简单的魔头入侵",
+      "summary": "钟天孝是同行者之一，与戚笼等人一同进入甘露殿。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“是是是，几位仙长里面请，快来人……”    戚笼对于女人间的勾心斗角不感兴趣，也对于接下来的调查破案不在意，在他看来，既然阳真人都解决不了的事，一定不是简单的魔头入侵",
-        "戚笼干脆站在门口，四处张望起来，在他的眼中，雄浑强大的风水之气充斥整座皇宫，有的演化出将星、有的化作臣子之气，从青色到朱紫之色，看的出来，唐国自上一次安禄山作乱之后，国运已然有所恢复，不出意外的话，还享有两百年国祚"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同行者"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼等人一同进入甘露殿。"
+        }
+      ],
+      "evidence": [
+        "很快，戚笼、钟小瞳、钟天孝、雪韵寒、离红灵五人就被领入甘露殿"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "这其",
+      "name": "雪韵寒",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛魔会成员",
+      "faction": "诛魔会",
       "status": "登场",
       "first_appearance": "第九章 调查（中）",
-      "summary": "天帝四百年降世，这其中又有什么关联吗",
+      "summary": "雪韵寒是同行者之一，与戚笼等人一同进入甘露殿。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天帝四百年降世，这其中又有什么关联吗",
-        "这其中都是这类案件的资料，毕竟皇室无小事，尤其是涉及到皇子皇孙"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同行者"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼等人一同进入甘露殿。"
+        }
+      ],
+      "evidence": [
+        "很快，戚笼、钟小瞳、钟天孝、雪韵寒、离红灵五人就被领入甘露殿"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "失踪",
+      "name": "离红灵",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛魔会成员",
+      "faction": "诛魔会",
       "status": "登场",
       "first_appearance": "第九章 调查（中）",
-      "summary": "戚笼略略扫了一遍，轻咦了一声，失踪的皇子都是刚出生的婴儿，唯独这一位，却是个七岁的皇女",
+      "summary": "离红灵是同行者之一，性格冷淡，对淑妃的举动表示不满。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷淡"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼略略扫了一遍，轻咦了一声，失踪的皇子都是刚出生的婴儿，唯独这一位，却是个七岁的皇女",
-        "资料中有着看守将士的名单，失踪的时间、换岗的路线，阵法的范围，以及之前调查的手段",
-        "值得注意的是，失踪的皇子衣物都留在襁褓中，唯独这一位，连衣带人，一并消失"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同行者"
+        },
+        {
+          "target": "淑妃",
+          "type": "调查对象"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼等人一同进入甘露殿，并警告淑妃注意保密。"
+        }
+      ],
+      "evidence": [
+        "离红灵却冷冷道：“娘娘，宫内很可能有魔门奸细，你想让我们暴露吗？”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "意念",
+      "name": "淑妃",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "唐国老皇帝的宠妃",
+      "faction": "唐国皇室",
       "status": "登场",
       "first_appearance": "第九章 调查（中）",
-      "summary": "龙气顺着天子之气向上，意念穿越层层空间，甚至穿越了大千世界，这不是戚笼的力量，而是天子之气的引导，薛白也有天子之气，但戚笼还真不知道天子之气居然这么特殊，能跨越时间空间",
-      "appearance": [],
-      "personality": [],
+      "summary": "淑妃是老皇帝的宠妃，因一对儿女失踪而求助剑仙调查。",
+      "appearance": [
+        "面相像玉观音",
+        "皮肤晶莹剔透",
+        "面色苍白",
+        "两眼红肿"
+      ],
+      "personality": [
+        "可怜"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "老皇帝李天民",
+          "type": "宠妃"
+        },
+        {
+          "target": "离红灵",
+          "type": "被调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在甘露殿迎接戚笼等人，跪求救助其子女。"
+        }
+      ],
       "evidence": [
-        "龙气顺着天子之气向上，意念穿越层层空间，甚至穿越了大千世界，这不是戚笼的力量，而是天子之气的引导，薛白也有天子之气，但戚笼还真不知道天子之气居然这么特殊，能跨越时间空间",
-        "再然后，意念仿佛穿越天门，来到了一座古老的宫殿中，殿中有一道无比庞大的帝王身影，意念只是瞬间接触，便就融化了起来",
-        "”    ……    戚笼浑身一震，脑袋居然有一种眩晕感，那种感觉就像是之前黑帝降临，意志直接融化，好在这一次不是帝王降临，而是自己的一缕意念上去，所以并没有造成多么大的伤势"
+        "这位淑妃不愧是老皇帝的宠妃，不足三十，面相像是玉观音，皮肤晶莹剔透，只是面色苍白，两眼红肿",
+        "见了五人就跪了下来",
+        "“请五位仙长救我一对儿女。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "唯独这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "安太监",
+      "aliases": [
+        "安老太监"
+      ],
+      "identity": "太监",
+      "faction": "唐国皇宫",
       "status": "登场",
       "first_appearance": "第九章 调查（中）",
-      "summary": "戚笼略略扫了一遍，轻咦了一声，失踪的皇子都是刚出生的婴儿，唯独这一位，却是个七岁的皇女",
+      "summary": "安太监是皇宫中的太监，负责接待戚笼等人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼略略扫了一遍，轻咦了一声，失踪的皇子都是刚出生的婴儿，唯独这一位，却是个七岁的皇女",
-        "值得注意的是，失踪的皇子衣物都留在襁褓中，唯独这一位，连衣带人，一并消失"
+      "relationships": [
+        {
+          "target": "淑妃",
+          "type": "服侍"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为淑妃打圆场，并引导戚笼等人进入甘露殿。"
+        }
+      ],
+      "evidence": [
+        "“这、娘娘，要不我们进去再说吧。”安太监连忙做个台阶下。",
+        "安老太监如是道"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "真神",
+      "name": "阳真人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "剑仙",
+      "faction": "剑仙一派",
+      "status": "提及",
       "first_appearance": "第九章 调查（中）",
-      "summary": "按照戚笼这几日的见解，真神在大洞天称圣做祖，剑仙混迹于世俗之中，两种修行体系，也是两种生存方式；夹在中间的，便是类似诛魔会一类的组织，像是加强版的拳门棒会，小一辈不分门派，一同修行、游历、相互交流经验",
+      "summary": "阳真人是剑仙，邀请戚笼调查皇宫魔门事件。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "剑仙之力"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "邀请者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "委托戚笼调查皇宫事件。"
+        }
+      ],
       "evidence": [
-        "按照戚笼这几日的见解，真神在大洞天称圣做祖，剑仙混迹于世俗之中，两种修行体系，也是两种生存方式；夹在中间的，便是类似诛魔会一类的组织，像是加强版的拳门棒会，小一辈不分门派，一同修行、游历、相互交流经验"
+        "阳真人是请自己来帮忙，不是来搞事的",
+        "按照阳真人的说法，上一次唐国大乱，其实背后是有魔门中人引导"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "老皇帝李天民",
+      "aliases": [
+        "李老皇帝"
+      ],
+      "identity": "唐国皇帝",
+      "faction": "唐国皇室",
+      "status": "提及",
+      "first_appearance": "第九章 调查（中）",
+      "summary": "老皇帝李天民是唐国现任皇帝，背后有五帝之一撑腰。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "天子之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "淑妃",
+          "type": "皇帝与宠妃"
+        },
+        {
+          "target": "黄泓",
+          "type": "背后支持者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在太极殿批奏折，被戚笼窥探天子之气。"
+        }
+      ],
+      "evidence": [
+        "老天子李天民便在那殿中批奏折",
+        "李老皇帝的背后，站着的居然是五帝之一"
       ],
       "mention_count": 3
     },
     {
-      "name": "可以",
+      "name": "黄泓",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "五帝之一",
+      "faction": "天界",
+      "status": "提及",
       "first_appearance": "第九章 调查（中）",
-      "summary": "钟小瞳可不傻，对方要想加入，必然要露底，便可以知道对方的深浅了，就算不加入，也可以稍微打探一下对方的来历",
-      "appearance": [],
+      "summary": "黄泓是五帝之一，与戚笼意念接触，似乎支持老皇帝李天民。",
+      "appearance": [
+        "无比庞大的帝王身影"
+      ],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "帝王之力"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "意念接触"
+        },
+        {
+          "target": "老皇帝李天民",
+          "type": "背后支持者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在古老宫殿中与戚笼意念接触，并与另外三尊帝影对话。"
+        }
+      ],
       "evidence": [
-        "钟小瞳可不傻，对方要想加入，必然要露底，便可以知道对方的深浅了，就算不加入，也可以稍微打探一下对方的来历",
-        "”    白色内衬下，可以清晰的看到对方的肤色，一对小腿暴露在冷风中瑟瑟发抖，长发落地，一个可怜女人，而且是唐国最尊贵的几位女人之一屈尊降贵，多少让人动容",
-        "’    戚笼手指一点，一道龙影如鱼归大海，深入风水之中，龙脉的力量不同于任何其它力量，可以说本身就是演化的一种，只不过这种演化不是天道演化，而是人道的运作"
+        "殿中有一道无比庞大的帝王身影",
+        "黄泓笑道：“我争了，未来只会更不好收场。”"
       ],
       "mention_count": 3
     },
     {
-      "name": "雄浑",
+      "name": "杨玉环",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "魔母宗魔女",
+      "faction": "魔门",
+      "status": "提及",
       "first_appearance": "第九章 调查（中）",
-      "summary": "戚笼干脆站在门口，四处张望起来，在他的眼中，雄浑强大的风水之气充斥整座皇宫，有的演化出将星、有的化作臣子之气，从青色到朱紫之色，看的出来，唐国自上一次安禄山作乱之后，国运已然有所恢复，不出意外的话，还享有两百年国祚",
+      "summary": "杨玉环是魔母宗的魔女，曾通过选拔入宫，引发唐国大乱。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼干脆站在门口，四处张望起来，在他的眼中，雄浑强大的风水之气充斥整座皇宫，有的演化出将星、有的化作臣子之气，从青色到朱紫之色，看的出来，唐国自上一次安禄山作乱之后，国运已然有所恢复，不出意外的话，还享有两百年国祚"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "通过选拔入宫，引发唐国大乱。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 调查（中）",
-      "summary": "不过按照阳真人的说法，上一次唐国大乱，其实背后是有魔门中人引导，那杨玉环便是魔母宗的魔女，通过选拔入了宫，然后便是一系列斗法",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "不过按照阳真人的说法，上一次唐国大乱，其实背后是有魔门中人引导，那杨玉环便是魔母宗的魔女，通过选拔入了宫，然后便是一系列斗法"
+        "那杨玉环便是魔母宗的魔女，通过选拔入了宫，然后便是一系列斗法"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "又哪",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 调查（中）",
-      "summary": "‘果然没有龙脉，可是既然没有龙脉，又哪里来的天子之气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘果然没有龙脉，可是既然没有龙脉，又哪里来的天子之气"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

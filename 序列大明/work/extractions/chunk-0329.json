@@ -1,218 +1,264 @@
 {
   "chunk_id": "chunk-0329",
-  "title": "第327章霸气外露",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "阎君"
+      ],
+      "identity": "犬山城百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第327章霸气外露",
-      "summary": "”　　明王藏在袖中的双拳蓦然握紧，李钧刚才落在他身上的眼神，让他感觉到一股前所未有的侮辱和挑衅",
+      "summary": "犬山城百户，性格强硬，与明王有冲突，杀了荒世夏虎并提头参会。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　明王藏在袖中的双拳蓦然握紧，李钧刚才落在他身上的眼神，让他感觉到一股前所未有的侮辱和挑衅",
-        "”　　钱凤庭手上悠然的动作突然不受控制，将下颌的胡须扯了几根捏在手中，瞪大了眼睛看着李钧",
-        "”李钧正色道"
+      "personality": [
+        "强硬",
+        "大胆",
+        "疲倦"
       ],
-      "mention_count": 24
-    },
-    {
-      "name": "钱凤庭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第327章霸气外露",
-      "summary": "”　　钱凤庭手上悠然的动作突然不受控制，将下颌的胡须扯了几根捏在手中，瞪大了眼睛看着李钧",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　钱凤庭手上悠然的动作突然不受控制，将下颌的胡须扯了几根捏在手中，瞪大了眼睛看着李钧",
-        "钱凤庭看李钧的表情不像说笑，骇然道：“李钧我告诉你啊，老子还有几年就光荣致仕了，你可别在这个时候给我找事啊",
-        "”　　李钧话锋一转，用外挂在耳蜗内通讯设备传音给钱凤庭"
+      "equipment": [
+        "外挂在耳蜗内通讯设备"
       ],
-      "mention_count": 23
-    },
-    {
-      "name": "钱凤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第327章霸气外露",
-      "summary": "”　　钱凤庭手上悠然的动作突然不受控制，将下颌的胡须扯了几根捏在手中，瞪大了眼睛看着李钧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　钱凤庭手上悠然的动作突然不受控制，将下颌的胡须扯了几根捏在手中，瞪大了眼睛看着李钧",
-        "钱凤庭看李钧的表情不像说笑，骇然道：“李钧我告诉你啊，老子还有几年就光荣致仕了，你可别在这个时候给我找事啊",
-        "”　　李钧话锋一转，用外挂在耳蜗内通讯设备传音给钱凤庭"
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "敌对"
+        },
+        {
+          "target": "钱凤庭",
+          "type": "同僚/受关照"
+        },
+        {
+          "target": "范无咎",
+          "type": "下属"
+        },
+        {
+          "target": "荒世夏虎",
+          "type": "击杀对象"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在评议会议上展示荒世夏虎的人头，与明王冲突。"
+        }
+      ],
+      "evidence": [
+        "一把大刀插在堂中，一颗人头摆在桌上。",
+        "李钧狞笑道：“有没有办法让我宰了他，还不用受处罚？”",
+        "李钧现在只感觉疲倦如潮水般袭来，浑身懒洋洋的提不起力气"
+      ],
+      "mention_count": 30
     },
     {
       "name": "明王",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "江户城锦衣卫百户",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第327章霸气外露",
-      "summary": "”　　明王藏在袖中的双拳蓦然握紧，李钧刚才落在他身上的眼神，让他感觉到一股前所未有的侮辱和挑衅",
+      "summary": "江户城百户，坐镇倭区十城之首，感觉受到李钧的侮辱和挑衅。",
+      "appearance": [],
+      "personality": [
+        "城府深",
+        "易怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在评议会议上被李钧挑衅，感到愤怒。"
+        }
+      ],
+      "evidence": [
+        "明王藏在袖中的双拳蓦然握紧，李钧刚才落在他身上的眼神，让他感觉到一股前所未有的侮辱和挑衅。",
+        "明王的脸色更是难看至极，呈现一片铁青之色"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "钱凤庭",
+      "aliases": [
+        "钱老"
+      ],
+      "identity": "千户所百户",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第327章霸气外露",
+      "summary": "千户所百户，受命主持评议会议，对李钧颇为关照。",
+      "appearance": [
+        "枯瘦的体格",
+        "下颌胡须"
+      ],
+      "personality": [
+        "关切",
+        "谨慎",
+        "易怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同僚/关照"
+        },
+        {
+          "target": "苏千户",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主持评议会议，警告李钧不要乱来。"
+        }
+      ],
+      "evidence": [
+        "钱凤庭看李钧的表情不像说笑，骇然道：“李钧我告诉你啊，老子还有几年就光荣致仕了”",
+        "钱凤庭嘴上胡子一翘，不满道：“你小子什么态度？!”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "范无咎",
+      "aliases": [],
+      "identity": "李钧的下属",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第327章霸气外露",
+      "summary": "李钧的下属，满身杀气腾腾，与往日不同。",
+      "appearance": [
+        "满身杀气腾腾"
+      ],
+      "personality": [
+        "冷若冰霜"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随李钧参会，神情冷峻。"
+        }
+      ],
+      "evidence": [
+        "后者此刻正襟危坐，脸上神情冷若冰霜，和往日吊儿郎当的模样截然不同。",
+        "李钧看着满身杀气腾腾的范无咎"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "荒世夏虎",
+      "aliases": [],
+      "identity": "荒世集团成员，荒世烈的左右手",
+      "faction": "荒世集团",
+      "status": "已死",
+      "first_appearance": "第327章霸气外露",
+      "summary": "荒世集团的重要人物，被李钧击杀，头颅被带到评议会议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "左右手"
+        },
+        {
+          "target": "李钧",
+          "type": "被击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧击杀，头颅被展示。"
+        }
+      ],
       "evidence": [
-        "”　　明王藏在袖中的双拳蓦然握紧，李钧刚才落在他身上的眼神，让他感觉到一股前所未有的侮辱和挑衅",
-        "作为坐镇倭区十城之首江户城的锦衣卫百户，明王在倭区锦衣卫中的地位完全可以用一人之下来形容",
-        "甚至在陆成江没死之时，也对明王颇为客气，吃拿卡要从来都不敢打他的主意"
+        "这是荒世夏虎？",
+        "这个荒世夏虎在荒世集团内的地位可不一般，是荒世烈的左右手！"
       ],
       "mention_count": 6
     },
     {
-      "name": "钱老",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第327章霸气外露",
-      "summary": "”　　“钱老，这脑袋都摆在面前了，您老这不是废话吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“钱老，这脑袋都摆在面前了，您老这不是废话吗",
-        "“钱老，跟你打听一个人",
-        "”　　“多谢钱老您费心了"
+      "name": "苏千户",
+      "aliases": [
+        "苏策"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "不可谓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "千户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第327章霸气外露",
-      "summary": "犬山城百户所的压轴出场，不可谓不霸道，不可谓不跋扈",
+      "summary": "千户，因兵部会议未能出席评议会议，委托钱凤庭主持。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "犬山城百户所的压轴出场，不可谓不霸道，不可谓不跋扈"
+      "relationships": [
+        {
+          "target": "钱凤庭",
+          "type": "上级"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第327章霸气外露",
-      "summary": "甚至在陆成江没死之时，也对明王颇为客气，吃拿卡要从来都不敢打他的主意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "甚至在陆成江没死之时，也对明王颇为客气，吃拿卡要从来都不敢打他的主意",
-        "”　　一阵紧赶慢赶，甚至在抵达千户所后只来得及将马王爷和陈乞生送去急救，连自己身上的伤势都来不及处理，这才终于在会议时辰截至之前赶到"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因兵部会议缺席评议会议。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "此刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第327章霸气外露",
-      "summary": "坐在那里的余沧海此刻眼观鼻鼻观心，恍如入定一般",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "坐在那里的余沧海此刻眼观鼻鼻观心，恍如入定一般",
-        "”　　明王的脸色更是难看至极，呈现一片铁青之色，从他抽搐的眼角能够看出，此刻心底已经是充斥满滔天的怒火和不满",
-        "这口气憋在咽喉，饶是明王在宦海修炼出的一身城府极为深厚，此刻也感觉如鲠在喉，难以下咽"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "可现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第327章霸气外露",
-      "summary": "可现在一个从帝国本土捡回一条命的新百户，居然敢当着所有同僚面打他的脸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可现在一个从帝国本土捡回一条命的新百户，居然敢当着所有同僚面打他的脸"
+        "兵部突然召集紧急黄粱会议，本官现在暂时无法抽身，本次评议会议由千户所百户钱凤庭先行主持召开！"
       ],
       "mention_count": 3
     },
     {
-      "name": "瞪大",
+      "name": "真君",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "大阪城百户",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第327章霸气外露",
-      "summary": "”　　钱凤庭手上悠然的动作突然不受控制，将下颌的胡须扯了几根捏在手中，瞪大了眼睛看着李钧",
+      "summary": "大阪城百户，被李钧提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被提及"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　钱凤庭手上悠然的动作突然不受控制，将下颌的胡须扯了几根捏在手中，瞪大了眼睛看着李钧"
+        "你是说大阪城的百户真君？"
       ],
-      "mention_count": 3
+      "mention_count": 2
     },
     {
-      "name": "这个",
+      "name": "陆成江",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "前锦衣卫成员（已死）",
+      "faction": "锦衣卫",
+      "status": "已死",
       "first_appearance": "第327章霸气外露",
-      "summary": "钱凤庭看李钧的表情不像说笑，骇然道：“李钧我告诉你啊，老子还有几年就光荣致仕了，你可别在这个时候给我找事啊",
+      "summary": "已故的锦衣卫成员，被用作警告李钧的例子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -220,30 +266,195 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "钱凤庭看李钧的表情不像说笑，骇然道：“李钧我告诉你啊，老子还有几年就光荣致仕了，你可别在这个时候给我找事啊",
-        "“虽然在锦衣卫内部大家心知肚明，这个荒世夏虎是几桩无头公案的幕后主使，但你们没把握钉死别人，就敢擅自杀人，还提着脑袋到千户所来开会",
-        "”　　“怎么弄成这个鬼样子，路上遇见袭击了"
+        "对自己人下手是什么结果，你想想陆成江就知道了。"
       ],
-      "mention_count": 3
+      "mention_count": 1
+    },
+    {
+      "name": "荒世秋鹤",
+      "aliases": [],
+      "identity": "荒世集团成员",
+      "faction": "荒世集团",
+      "status": "提及",
+      "first_appearance": "第327章霸气外露",
+      "summary": "荒世集团成员，被提及可能与荒世夏虎有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "荒世夏虎",
+          "type": "同集团"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "难道是替荒世秋鹤报仇？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "谢必安",
+      "aliases": [],
+      "identity": "锦衣卫成员",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第327章霸气外露",
+      "summary": "被提及可能用于安插眼线。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "让谢必安安插眼线到他手下"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "角木蛟",
+      "aliases": [],
+      "identity": "与会者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第327章霸气外露",
+      "summary": "评议会议与会者，被明王扫视。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "他抬眼在角木蛟和野老身上重重一扫"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "野老",
+      "aliases": [],
+      "identity": "与会者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第327章霸气外露",
+      "summary": "评议会议与会者，被明王扫视。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "他抬眼在角木蛟和野老身上重重一扫"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "余沧海",
+      "aliases": [],
+      "identity": "与会者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第327章霸气外露",
+      "summary": "评议会议与会者，眼观鼻鼻观心。",
+      "appearance": [],
+      "personality": [
+        "沉稳"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "坐在那里的余沧海此刻眼观鼻鼻观心，恍如入定一般。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "马王爷",
+      "aliases": [],
+      "identity": "李钧的同伴",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第327章霸气外露",
+      "summary": "李钧的同伴，受伤被送去急救。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受伤被送去急救。"
+        }
+      ],
+      "evidence": [
+        "只来得及将马王爷和陈乞生送去急救"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "李钧的同伴",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第327章霸气外露",
+      "summary": "李钧的同伴，受伤被送去急救。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受伤被送去急救。"
+        }
+      ],
+      "evidence": [
+        "只来得及将马王爷和陈乞生送去急救"
+      ],
+      "mention_count": 1
     },
     {
       "name": "小黑",
       "aliases": [],
-      "identity": "",
+      "identity": "李钧的宠物或设备",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第327章霸气外露",
-      "summary": "小黑的眼睛把全程都录了下来，你要不要看看",
+      "summary": "李钧的宠物或设备，能录像。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "录像"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "主人"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "小黑的眼睛把全程都录了下来，你要不要看看"
+        "小黑的眼睛把全程都录了下来"
       ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

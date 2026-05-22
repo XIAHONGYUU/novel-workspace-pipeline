@@ -1,6 +1,5 @@
 {
   "chunk_id": "chunk-0070",
-  "title": "第69章混战",
   "characters": [
     {
       "name": "李钧",
@@ -9,17 +8,151 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第69章混战",
-      "summary": "第69章混战　　等到枪声响起，一直躲在暗处的李钧终于姗姗来迟，他翻身跃上一处墙顶，举目眺望",
+      "summary": "与顾甲、石成峰等人混战，并得到马王爷和赵青侠的帮助。",
       "appearance": [],
+      "personality": [],
+      "abilities": [
+        "破虏刀",
+        "冲阵枪"
+      ],
+      "equipment": [
+        "墨刀"
+      ],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "朋友"
+        },
+        {
+          "target": "赵青侠",
+          "type": "朋友"
+        },
+        {
+          "target": "费白驹",
+          "type": "击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与顾甲、石成峰混战，马王爷和赵青侠协助切断通讯和清理斥候。"
+        }
+      ],
+      "evidence": [
+        "李钧身法闪动如猛虎跃步，在顾甲震惊的眼神中，转瞬间已经冲到石成峰身前。",
+        "李钧右臂肌肉贲张，正要发力推刀，却惊骇发现根本无法寸进。",
+        "李钧抬头看向天空，金雕突然引颈暴唳，一阵无形的音波涟漪在空气中扩散。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "顾甲",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第69章混战",
+      "summary": "与石成峰激战，被李钧突袭，样子狼狈。",
+      "appearance": [
+        "脸上五官被人撕掉一半，露出下面狰狞恐怖械骨"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "石成峰",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在屋顶与石成峰激战，后与李钧交手。"
+        }
+      ],
       "evidence": [
-        "第69章混战　　等到枪声响起，一直躲在暗处的李钧终于姗姗来迟，他翻身跃上一处墙顶，举目眺望",
-        "”　　在看到李钧的瞬间，石成峰心头蓦然一沉，对方能杀掉费白驹，而且还有余力再战，一身实力恐怕不逊色顾甲多少",
-        "”　　李钧挺腰拔背，在夜风中站直了身子"
+        "顾甲此刻的样子颇为狼狈，脸上五官此刻被人撕掉一半，露出下面狰狞恐怖械骨。",
+        "顾甲怒声暴喝，矮壮的身体一跃而起，重拳轰向石成峰头颅！",
+        "顾甲嘴角裂开一个狰狞的笑容，“来的好！”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "石成峰",
+      "aliases": [],
+      "identity": "",
+      "faction": "蜀道物流安保部",
+      "status": "登场",
+      "first_appearance": "第69章混战",
+      "summary": "与顾甲激战，后被李钧突袭。",
+      "appearance": [
+        "眉眼深重，半条手臂的仿生皮肤也被剐了个干净"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾甲",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在屋顶与顾甲激战，后被李钧突袭。"
+        }
+      ],
+      "evidence": [
+        "和他捉对厮杀的男人眉眼深重，半条手臂的仿生皮肤也被剐了个干净。",
+        "脱胎自战场杀伐的招式带着一股凶悍杀意瞬间刺破石成峰身上武服，掌中传来的坚硬触感表明刀尖已经刺到了对方心口械骨。",
+        "“确实来的好，刚好一起宰了你们，一次性拔了蜀道物流安保部！”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "马王爷",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第69章混战",
+      "summary": "与赵青侠一起帮助李钧，清理斥候并切断通讯。",
+      "appearance": [
+        "盔中竖眼"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "朋友"
+        },
+        {
+          "target": "赵青侠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵青侠商议帮助李钧，清理斥候并切断通讯。"
+        }
+      ],
+      "evidence": [
+        "盔中竖眼闪烁，传出马王爷淡定的声音，“李钧可是咱们的朋友，当然要帮。”",
+        "马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易。”",
+        "随着盔中竖眼红芒一闪，下一刻马王爷的声音便在李钧耳边响起。"
       ],
       "mention_count": 9
     },
@@ -30,70 +163,101 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第69章混战",
-      "summary": "赵青侠盘腿坐在金雕背上，对着呼啸的夜风自言自语：“老马，咱们为啥要帮他",
+      "summary": "与马王爷一起帮助李钧，骑乘金雕。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "赤子之心",
+        "重义气"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "金雕"
+      ],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与马王爷商议帮助李钧，清理斥候。"
+        }
+      ],
       "evidence": [
-        "赵青侠盘腿坐在金雕背上，对着呼啸的夜风自言自语：“老马，咱们为啥要帮他",
-        "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
-        "”　　赵青侠愣了片刻，突然怒道：“你是不是又跟别人谈什么合作了"
+        "赵青侠盘腿坐在金雕背上，对着呼啸的夜风自言自语：“老马，咱们为啥要帮他？”",
+        "赵青侠眼中猛然射出如有实质的精光，“那当然该帮！”",
+        "赵青侠脸色涨红，说罢便要操纵金雕向下俯冲。"
       ],
       "mention_count": 7
     },
     {
-      "name": "马王爷",
+      "name": "费白驹",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "已故",
       "first_appearance": "第69章混战",
-      "summary": "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
+      "summary": "被李钧杀死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
-        "”　　马王爷的语气透着一股大义凛然，“如果你还想抢，我们现在立马掉头去追",
-        "”　　盔中竖眼闪烁，传出马王爷淡定的声音，“李钧可是咱们的朋友，当然要帮"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被击杀"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被李钧杀死。"
+        }
+      ],
+      "evidence": [
+        "对方能杀掉费白驹，而且还有余力再战",
+        "费白驹居然死在了这个人的手上？"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "赵青",
+      "name": "吴老狗",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "已故",
       "first_appearance": "第69章混战",
-      "summary": "赵青侠盘腿坐在金雕背上，对着呼啸的夜风自言自语：“老马，咱们为啥要帮他",
+      "summary": "被提及，石成峰说要提李钧的头给他上坟。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "石成峰",
+          "type": "被提及"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "赵青侠盘腿坐在金雕背上，对着呼啸的夜风自言自语：“老马，咱们为啥要帮他",
-        "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
-        "”　　赵青侠愣了片刻，突然怒道：“你是不是又跟别人谈什么合作了"
+        "老子今天就提着你的头去给吴老狗上坟！"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "马王",
+      "name": "杨展",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第69章混战",
-      "summary": "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
+      "summary": "脑组织切片被提及为重要物品。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -101,151 +265,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
-        "”　　马王爷的语气透着一股大义凛然，“如果你还想抢，我们现在立马掉头去追",
-        "”　　盔中竖眼闪烁，传出马王爷淡定的声音，“李钧可是咱们的朋友，当然要帮"
+        "可杨展的脑组织切片不抢了？你不是说那东西对咱们很重要吗？"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "顾甲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第69章混战",
-      "summary": "”　　在看到李钧的瞬间，石成峰心头蓦然一沉，对方能杀掉费白驹，而且还有余力再战，一身实力恐怕不逊色顾甲多少",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　在看到李钧的瞬间，石成峰心头蓦然一沉，对方能杀掉费白驹，而且还有余力再战，一身实力恐怕不逊色顾甲多少",
-        "”　　顾甲此刻的样子颇为狼狈，脸上五官此刻被人撕掉一半，露出下面狰狞恐怖械骨",
-        "”　　顾甲怒声暴喝，矮壮的身体一跃而起，重拳轰向石成峰头颅"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第69章混战",
-      "summary": "”　　顾甲此刻的样子颇为狼狈，脸上五官此刻被人撕掉一半，露出下面狰狞恐怖械骨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾甲此刻的样子颇为狼狈，脸上五官此刻被人撕掉一半，露出下面狰狞恐怖械骨"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "在他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第69章混战",
-      "summary": "“天上的斥候我已经帮你清干净了，现在他们都是瞎子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“天上的斥候我已经帮你清干净了，现在他们都是瞎子",
-        "在他身后的正房中，杨氏二房的族人已经不见了踪影"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第69章混战",
-      "summary": "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　马王爷突然出声嘱咐：”记得别说漏嘴，这是你送给赵青侠的礼物，我们没有什么交易",
-        "”　　马王爷的语气透着一股大义凛然，“如果你还想抢，我们现在立马掉头去追",
-        "”　　面对神情激动的赵青侠，马王爷的语气中充满了无奈，“你别着急，我们先帮完李钧再去杀人"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "一手交",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第69章混战",
-      "summary": "”　　“一手交头，一手交货",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“一手交头，一手交货"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "械心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第69章混战",
-      "summary": "拳风和械心同时炸响，交叠的声音竟如仿佛猛虎咆哮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "拳风和械心同时炸响，交叠的声音竟如仿佛猛虎咆哮",
-        "”　　械心的嗡鸣声如涌动的潮汐，就算隔着这么远的距离，依旧让李钧浑身汗毛直立",
-        "暴喝同时响起，械心体魄爆发出的恐怖力量直接将整个房顶压塌"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "矮壮",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第69章混战",
-      "summary": "”　　顾甲怒声暴喝，矮壮的身体一跃而起，重拳轰向石成峰头颅",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾甲怒声暴喝，矮壮的身体一跃而起，重拳轰向石成峰头颅"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

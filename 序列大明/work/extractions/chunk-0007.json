@@ -1,245 +1,168 @@
 {
   "chunk_id": "chunk-0007",
-  "title": "第6章砸场子",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "钧哥",
+        "红旗五哥"
+      ],
+      "identity": "袍哥会红旗五哥",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第6章砸场子",
-      "summary": "李钧离开乌鸦诊所后，沿着毛细血管般的昏暗小道一路狂奔，没多久便回到了九龙街范围",
+      "summary": "袍哥会红旗五哥，前来砸孙九的场子，意图获取赵斗吃里扒外的证据。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "嚣张",
+        "有谋略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧离开乌鸦诊所后，沿着毛细血管般的昏暗小道一路狂奔，没多久便回到了九龙街范围",
-        "去告诉孙九，说我李钧来砸他的场子了",
-        "拦路的袍哥看清李钧的面容后，瞳孔明显骤缩了一下，随后眼神立马躲闪开，低头恭敬道：“钧哥，您.您怎么来了"
+      "relationships": [
+        {
+          "target": "孙九",
+          "type": "敌对"
+        },
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        },
+        {
+          "target": "赵鼎",
+          "type": "上级"
+        }
       ],
-      "mention_count": 20
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往九龙拳台砸孙九的场子，要求拔除孙九脑中芯片以获取证据。"
+        }
+      ],
+      "evidence": [
+        "李钧眼神冰冷如刀，缓缓站了起来。",
+        "我李钧的命大不大，你孙九还没资格评价。",
+        "去告诉孙九，说我李钧来砸他的场子了。"
+      ],
+      "mention_count": 14
     },
     {
       "name": "孙九",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "赵斗的心腹，看守九龙拳台",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第6章砸场子",
-      "summary": "去告诉孙九，说我李钧来砸他的场子了",
-      "appearance": [],
-      "personality": [],
+      "summary": "赵斗的心腹，负责看守九龙拳台，与李钧敌对。",
+      "appearance": [
+        "粗壮的脖颈上覆着一层金属，如同脑袋插在一个钢铁墩子上一样"
+      ],
+      "personality": [
+        "嚣张",
+        "暴躁"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "芯片（脑中）"
+      ],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "心腹"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧砸场子，拒绝承认赵斗吃里扒外，下令砍死李钧。"
+        }
+      ],
       "evidence": [
-        "去告诉孙九，说我李钧来砸他的场子了",
-        "”　　孙九面对司职红旗五哥的李钧也不行礼，就这样大喇喇站在原地",
-        "面对如此嚣张跋扈的孙九，李钧并没有动怒，嘴角反而露出一丝笑意"
+        "此人正是赵斗的心腹，孙九。",
+        "孙九双拳捏的咔咔作响，嘴角露出狞笑",
+        "孙九拍了拍自己的脑子，吐出一口浓痰，戾声喝道：“给我砍死他！”"
       ],
       "mention_count": 8
     },
     {
-      "name": "九龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "赵斗",
+      "aliases": [
+        "斗哥"
+      ],
+      "identity": "袍哥会未来的舵把子",
+      "faction": "袍哥会",
+      "status": "提及",
       "first_appearance": "第6章砸场子",
-      "summary": "第6章砸场子　　鸡鹅区三条主街呈现‘两横一纵’的格局，鬼街为纵，罪民、九龙两街为横",
+      "summary": "袍哥会未来的舵把子，被李钧指控吃里扒外、谋害同袍。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "孙九",
+          "type": "心腹"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "赵鼎",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧指控吃里扒外，孙九为其辩护。"
+        }
+      ],
       "evidence": [
-        "第6章砸场子　　鸡鹅区三条主街呈现‘两横一纵’的格局，鬼街为纵，罪民、九龙两街为横",
-        "李钧离开乌鸦诊所后，沿着毛细血管般的昏暗小道一路狂奔，没多久便回到了九龙街范围",
-        "九龙街这个名字，源自隆武帝朱平渊时期一次规模不小的‘粤人北上’风潮"
+        "跟着赵斗吃里扒外",
+        "斗哥可是咱们未来的舵把子"
       ],
       "mention_count": 4
     },
     {
-      "name": "门后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "赵鼎",
+      "aliases": [
+        "鼎爷"
+      ],
+      "identity": "浑水袍哥的舵把子",
+      "faction": "袍哥会",
+      "status": "提及",
       "first_appearance": "第6章砸场子",
-      "summary": "门后是一个宽阔的区域，足足三四亩地大小的空间内，高低错落着数百个看台，环绕着中间高出地面一米的拳台",
+      "summary": "浑水袍哥的舵把子，曾下令袍哥会和倭寇势不两立。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "门后是一个宽阔的区域，足足三四亩地大小的空间内，高低错落着数百个看台，环绕着中间高出地面一米的拳台",
-        "那里有一道暗门，门后才是有‘血金台’称呼的九龙拳台"
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "下属"
+        },
+        {
+          "target": "李钧",
+          "type": "上级"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "环绕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "门后是一个宽阔的区域，足足三四亩地大小的空间内，高低错落着数百个看台，环绕着中间高出地面一米的拳台",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "门后是一个宽阔的区域，足足三四亩地大小的空间内，高低错落着数百个看台，环绕着中间高出地面一米的拳台"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "下令袍哥会和倭寇势不两立。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "真正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "九龙街真正赚钱，都是藏在这些招牌下的赌场、勾栏、地下拳场，以及非法黄粱梦境馆",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "九龙街真正赚钱，都是藏在这些招牌下的赌场、勾栏、地下拳场，以及非法黄粱梦境馆",
-        "当然，这里赚钱靠的不止的贩卖伪劣酒水和娼妓，真正的大头是赌拳"
+        "鼎爷曾经有命，袍哥会和倭寇势不两立"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "缓缓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "李钧眼神冰冷如刀，缓缓站了起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧眼神冰冷如刀，缓缓站了起来"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "袍哥会",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "”　　粤地黑帮的地盘被袍哥会一举侵占，全部被赶回了海边，只有九龙街这个名字保留了下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　粤地黑帮的地盘被袍哥会一举侵占，全部被赶回了海边，只有九龙街这个名字保留了下来",
-        "”　　在‘义字当头’的袍哥会，‘三刀六洞’是惩处叛徒的手段",
-        "或许是因为整条街都是袍哥会的地盘，看场的守卫根本不相信有人敢来袍哥会太子爷的场子闹事"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "跳舞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "“喂，跳舞在前面，后面闲人免进",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“喂，跳舞在前面，后面闲人免进"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "对着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "”　　李钧环视一圈周围如临大敌的袍哥，对着面前的汉子说道：“怎么，赵斗的场子我不能来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧环视一圈周围如临大敌的袍哥，对着面前的汉子说道：“怎么，赵斗的场子我不能来"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "命够",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "”　　“没想到你还能回九龙街，命够大啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“没想到你还能回九龙街，命够大啊"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "抬起",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第6章砸场子",
-      "summary": "李钧抬起头，笑道：“我也算闲人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧抬起头，笑道：“我也算闲人",
-        "这名袍哥还以为是李钧是醉酒走错路的客人，正准备把他驱赶开，却猛然看见李钧衣领间露出的青色爪牙，抬起的手顿时愣在空中"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

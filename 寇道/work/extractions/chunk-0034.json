@@ -1,258 +1,413 @@
 {
   "chunk_id": "chunk-0034",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立长呼一口气，示意蛤蟆脸通风通窗，这才缓缓坐在窗风口上，冷风一吹，身子表面顿时传来一阵舒爽的感觉，疲惫的双眼微微阖上，内家炼劲，细细的调节着身体的变化",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立长呼一口气，示意蛤蟆脸通风通窗，这才缓缓坐在窗风口上，冷风一吹，身子表面顿时传来一阵舒爽的感觉，疲惫的双眼微微阖上，内家炼劲，细细的调节着身体的变化",
-        "”    寇立将食盒盖好、提起，转头道:“你应该能打听道我在地址，给你三天时间",
-        "”    走到门口，寇立又顿了顿，对热的要晕过去的蛤蟆脸道：“象形拳我也会，有兴趣的话，交流一下"
+      "aliases": [
+        "寇总管",
+        "粤拳第七大宗师"
       ],
-      "mention_count": 75
-    },
-    {
-      "name": "胭脂",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "凤府大总管，粤拳第七大宗师",
+      "faction": "凤府",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "正文 第十三章 胭脂（下）    不知过了多久，大概就在寇立微醉的关头，大门忽然被打开，两侧小娘微微弯腰，从中走出一位少妇",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正文 第十三章 胭脂（下）    不知过了多久，大概就在寇立微醉的关头，大门忽然被打开，两侧小娘微微弯腰，从中走出一位少妇",
-        "“妾身胭脂，见过公子，”声音长而媚，很配她的妆容",
-        "寇立双眼眯了眯，缓缓道：“娇香淡梁胭脂雪，愁眉细画弯弯月，人好，音更好"
+      "first_appearance": "正文 第十三章 胭脂（上）",
+      "summary": "凤府大总管，粤拳第七大宗师，正在修炼鹰手，为黄公子谋划水龙帮事宜。",
+      "appearance": [
+        "身材修长",
+        "容貌白皙俊逸"
       ],
-      "mention_count": 31
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有野心"
+      ],
+      "abilities": [
+        "内劲大成",
+        "四梢圆满",
+        "竹手",
+        "象形拳",
+        "阳忍之术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黄公子",
+          "type": "上下级/合作"
+        },
+        {
+          "target": "胭脂虎",
+          "type": "招揽对象"
+        },
+        {
+          "target": "肺痨鬼",
+          "type": "医治对象/手下"
+        },
+        {
+          "target": "蛤蟆脸",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在妓院与胭脂虎周旋，后返回马车，开始修炼鹰手。"
+        }
+      ],
+      "evidence": [
+        "寇立长呼一口气，示意蛤蟆脸通风通窗",
+        "寇立将食盒盖好、提起，转头道",
+        "寇立半坐在食桌之前"
+      ],
+      "mention_count": 45
     },
     {
       "name": "黄公子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "凤公主",
+        "黄公子"
+      ],
+      "identity": "公主，凤府主人",
+      "faction": "凤府",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立却露出恍然的神色，将短刀一丢，道：“黄公子之前还跟我说过，要对付水龙帮，必须先分化瓦解，想必，你就是她选的人吧",
+      "first_appearance": "正文 第十三章 胭脂（上）",
+      "summary": "公主，凤府主人，与寇立合作，试图收服水龙帮。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "高傲",
+        "易怒",
+        "有城府"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立却露出恍然的神色，将短刀一丢，道：“黄公子之前还跟我说过，要对付水龙帮，必须先分化瓦解，想必，你就是她选的人吧",
-        "”    “不过你还是同意了，”寇立平静的道，如若不然，对方也不会这么说了，应该也是吃了黄公子的亏",
-        "”    寇立一针见血，他相信对方也知道，黄公子也知道，共同的利益，才是双方合作的基础"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "上下级/合作"
+        },
+        {
+          "target": "胭脂虎",
+          "type": "敌对/招揽"
+        }
       ],
-      "mention_count": 27
-    },
-    {
-      "name": "黄公",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立却露出恍然的神色，将短刀一丢，道：“黄公子之前还跟我说过，要对付水龙帮，必须先分化瓦解，想必，你就是她选的人吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立却露出恍然的神色，将短刀一丢，道：“黄公子之前还跟我说过，要对付水龙帮，必须先分化瓦解，想必，你就是她选的人吧",
-        "”    “不过你还是同意了，”寇立平静的道，如若不然，对方也不会这么说了，应该也是吃了黄公子的亏",
-        "”    寇立一针见血，他相信对方也知道，黄公子也知道，共同的利益，才是双方合作的基础"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带人闯入妓院寻找寇立，与胭脂虎对峙。"
+        }
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "蛤蟆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立长呼一口气，示意蛤蟆脸通风通窗，这才缓缓坐在窗风口上，冷风一吹，身子表面顿时传来一阵舒爽的感觉，疲惫的双眼微微阖上，内家炼劲，细细的调节着身体的变化",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "寇立长呼一口气，示意蛤蟆脸通风通窗，这才缓缓坐在窗风口上，冷风一吹，身子表面顿时传来一阵舒爽的感觉，疲惫的双眼微微阖上，内家炼劲，细细的调节着身体的变化",
-        "”    走到门口，寇立又顿了顿，对热的要晕过去的蛤蟆脸道：“象形拳我也会，有兴趣的话，交流一下",
-        "”    一直到寇立的身影消失不见，蛤蟆脸才从呆滞中反应过来，道：“他这是什么意思，这就走了"
+        "黄公子面色冷若寒冰",
+        "黄公子冷笑一声",
+        "黄公子勃然大怒"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "肺痨鬼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "倘若连自己都不行，那这肺痨鬼就真的是没有半点恢复拳术的指望",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "倘若连自己都不行，那这肺痨鬼就真的是没有半点恢复拳术的指望",
-        "好在片刻过后，一声痛苦的嘶哑声音传出，肺痨鬼缓缓直起了身，不可思议的低头望去，只见右臂还有右半身，蒙上一层厚厚的污垢，污血脓液从中流出，用毛巾粗粗擦干后，惊讶的发现，这只手就好似新生了般，就像是当年，结实、有力、血流滚滚毫无止境",
-        "”肺痨鬼一不留神，指尖擦到了火炭上，连忙一个甩手，将这块火炭甩了出去"
-      ],
-      "mention_count": 13
-    },
-    {
-      "name": "公子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    那几个烟花女子见了寇立的长相，面色一亮，欣喜道：“没想大人居然是这么俊俏的公子，人家今晚少不得好好招待你",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那几个烟花女子见了寇立的长相，面色一亮，欣喜道：“没想大人居然是这么俊俏的公子，人家今晚少不得好好招待你",
-        "”    “姐姐，公子是我先看到的",
-        "”    “不急不急，你们怎么就认为，本公子今夜只宠幸你们一人呢，”寇立一手抱着一个美人，大摇摆摆的走进街上最豪奢的一处妓院，顿时，更多的花红柳绿围了上来"
-      ],
-      "mention_count": 13
+      "mention_count": 18
     },
     {
       "name": "胭脂虎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "胭脂将小嘴贴紧寇立耳朵，一字一句的道：“妾身叫胭脂，不过在外面还有个外号，唤作胭脂虎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "胭脂将小嘴贴紧寇立耳朵，一字一句的道：“妾身叫胭脂，不过在外面还有个外号，唤作胭脂虎",
-        "”    四虎八狼——胭脂虎",
-        "”    “哼，”胭脂虎轻哼一声，从寇立身上跳下，语气有些嫉妒的道：“一个黄毛丫头，就是投胎好了些，倒是颐指气使的很，也不看看这是谁的地盘"
+      "aliases": [
+        "胭脂",
+        "胭脂姑娘"
       ],
-      "mention_count": 13
+      "identity": "水龙帮四虎之一，妓院老板",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "正文 第十三章 胭脂（下）",
+      "summary": "水龙帮四虎之一的胭脂虎，掌控妓院情报网络，被寇立招揽。",
+      "appearance": [
+        "风姿妖冶",
+        "鬓发如云",
+        "面如朝霞映雪"
+      ],
+      "personality": [
+        "妩媚",
+        "精明",
+        "有心计"
+      ],
+      "abilities": [
+        "蛇势",
+        "琵琶暗器",
+        "暗杀术"
+      ],
+      "equipment": [
+        "软剑",
+        "琵琶",
+        "透骨针"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "招揽对象"
+        },
+        {
+          "target": "黄公子",
+          "type": "敌对/合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立周旋，答应合作，后与黄公子对峙。"
+        }
+      ],
+      "evidence": [
+        "妾身胭脂，见过公子",
+        "胭脂虎轻哼一声，从寇立身上跳下",
+        "胭脂虎痴痴的笑着"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立长呼一口气，示意蛤蟆脸通风通窗，这才缓缓坐在窗风口上，冷风一吹，身子表面顿时传来一阵舒爽的感觉，疲惫的双眼微微阖上，内家炼劲，细细的调节着身体的变化",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立长呼一口气，示意蛤蟆脸通风通窗，这才缓缓坐在窗风口上，冷风一吹，身子表面顿时传来一阵舒爽的感觉，疲惫的双眼微微阖上，内家炼劲，细细的调节着身体的变化",
-        "”    凤卫顿时露出了古怪的表情，但是上命不可违，只得低头道：“是，大人",
-        "”    “不急不急，你们怎么就认为，本公子今夜只宠幸你们一人呢，”寇立一手抱着一个美人，大摇摆摆的走进街上最豪奢的一处妓院，顿时，更多的花红柳绿围了上来"
+      "name": "肺痨鬼",
+      "aliases": [
+        "肺痨鬼"
       ],
-      "mention_count": 12
+      "identity": "南枝拳宗宗主（前）",
+      "faction": "凤府",
+      "status": "登场",
+      "first_appearance": "正文 第十三章 胭脂（上）",
+      "summary": "被寇立医治的肺痨鬼，原南枝拳宗宗主，恢复实力后投靠凤府。",
+      "appearance": [
+        "原本的死人脸渐渐有了生机",
+        "俊逸潇洒"
+      ],
+      "personality": [
+        "坚韧",
+        "有野心"
+      ],
+      "abilities": [
+        "南枝拳",
+        "千丝百结"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "被医治/手下"
+        },
+        {
+          "target": "蛤蟆脸",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被寇立医治，恢复八成实力，决定投靠。"
+        }
+      ],
+      "evidence": [
+        "肺痨鬼缓缓直起了身",
+        "肺痨鬼苦笑一声",
+        "肺痨鬼没理对方"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "人去",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "轻唱小曲再度响起，舞影再现——    “人去也，人去向风西",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "轻唱小曲再度响起，舞影再现——    “人去也，人去向风西",
-        "人去也，人去百花洲",
-        "人去也，人去向风西"
+      "name": "蛤蟆脸",
+      "aliases": [
+        "蛤蟆脸"
       ],
-      "mention_count": 11
+      "identity": "拳师",
+      "faction": "凤府",
+      "status": "登场",
+      "first_appearance": "正文 第十三章 胭脂（上）",
+      "summary": "与肺痨鬼一同的拳师，后投靠凤府。",
+      "appearance": [
+        "丑脸"
+      ],
+      "personality": [
+        "贪财好色",
+        "不坚定"
+      ],
+      "abilities": [
+        "象形拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "肺痨鬼",
+          "type": "同伴"
+        },
+        {
+          "target": "寇立",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与肺痨鬼一同投靠凤府。"
+        }
+      ],
+      "evidence": [
+        "蛤蟆脸悲愤的叫了一声",
+        "蛤蟆脸摸着丑脸",
+        "蛤蟆脸嘴巴下意识的鼓起"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "肺痨",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "倘若连自己都不行，那这肺痨鬼就真的是没有半点恢复拳术的指望",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "倘若连自己都不行，那这肺痨鬼就真的是没有半点恢复拳术的指望",
-        "好在片刻过后，一声痛苦的嘶哑声音传出，肺痨鬼缓缓直起了身，不可思议的低头望去，只见右臂还有右半身，蒙上一层厚厚的污垢，污血脓液从中流出，用毛巾粗粗擦干后，惊讶的发现，这只手就好似新生了般，就像是当年，结实、有力、血流滚滚毫无止境",
-        "”肺痨鬼一不留神，指尖擦到了火炭上，连忙一个甩手，将这块火炭甩了出去"
+      "name": "凤卫",
+      "aliases": [
+        "凤卫"
       ],
-      "mention_count": 10
+      "identity": "凤府护卫",
+      "faction": "凤府",
+      "status": "登场",
+      "first_appearance": "正文 第十三章 胭脂（上）",
+      "summary": "凤府的护卫，训练有素。",
+      "appearance": [],
+      "personality": [
+        "冷酷",
+        "服从"
+      ],
+      "abilities": [
+        "刀法"
+      ],
+      "equipment": [
+        "刀"
+      ],
+      "relationships": [
+        {
+          "target": "黄公子",
+          "type": "属下"
+        },
+        {
+          "target": "寇立",
+          "type": "护送对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "护送寇立，后随黄公子闯入妓院。"
+        }
+      ],
+      "evidence": [
+        "凤卫面色阴沉",
+        "凤卫古怪的道",
+        "凤卫摇了摇头"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "妾身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "松鼠姑娘",
+      "aliases": [
+        "松鼠姑娘"
+      ],
+      "identity": "妓院女子，刺客",
+      "faction": "胭脂虎手下",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“妾身胭脂，见过公子，”声音长而媚，很配她的妆容",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "正文 第十三章 胭脂（下）",
+      "summary": "胭脂虎手下的刺客，被寇立灌醉。",
+      "appearance": [
+        "粉眉嘟脸",
+        "秀发垂腰"
+      ],
+      "personality": [
+        "活泼",
+        "忠诚"
+      ],
+      "abilities": [
+        "短刀"
+      ],
+      "equipment": [
+        "短刀"
+      ],
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与刺杀寇立，被灌醉。"
+        }
+      ],
+      "evidence": [
+        "松鼠姑娘提着一口短刀",
+        "松鼠姑娘‘哎呀’一声",
+        "松鼠姑娘则是一脸头晕目眩"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "高挑美人",
+      "aliases": [],
+      "identity": "妓院女子，刺客",
+      "faction": "胭脂虎手下",
+      "status": "登场",
+      "first_appearance": "正文 第十三章 胭脂（下）",
+      "summary": "胭脂虎手下的刺客，使用软剑。",
+      "appearance": [
+        "身材高挑",
+        "娇绿段裙",
+        "雪白粉嫩的大长腿"
+      ],
+      "personality": [
+        "妩媚",
+        "狡猾"
+      ],
+      "abilities": [
+        "软剑"
+      ],
+      "equipment": [
+        "软剑"
+      ],
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与刺杀寇立，被识破。"
+        }
+      ],
+      "evidence": [
+        "高挑美人扬起柳眉",
+        "高挑美人似媚似怨的看了寇立一眼",
+        "高挑美人面色一僵"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "恶鬼",
+      "aliases": [],
+      "identity": "凤卫拳师",
+      "faction": "凤府",
+      "status": "登场",
+      "first_appearance": "正文 第十五章 鹰手（中）",
+      "summary": "凤卫中的拳师，代号恶鬼，负责为寇立搜集鹰。",
+      "appearance": [
+        "头戴恶鬼面罩"
+      ],
+      "personality": [
+        "听话"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“妾身胭脂，见过公子，”声音长而媚，很配她的妆容",
-        "”    胭脂捂嘴轻笑，“公子真是个有趣人呢，妾身替公子斟酒",
-        "胭脂配配了几杯酒后，看着醉醺醺的寇立，美眸一转，道：“妾身给公子弹一首琵琶"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "手下"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为寇立搜集凶鹰。"
+        }
+      ],
+      "evidence": [
+        "恶鬼也许不是投效拳师中，拳术最高的，但绝对是最听话的",
+        "恶鬼带来的这只黑鹰"
+      ],
+      "mention_count": 2
     }
   ]
 }

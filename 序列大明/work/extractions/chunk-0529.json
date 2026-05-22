@@ -1,255 +1,263 @@
 {
   "chunk_id": "chunk-0529",
-  "title": "第527章虎与鬼",
   "characters": [
     {
-      "name": "刘途",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第527章虎与鬼",
-      "summary": "”　　刘途眼神犀利，冷声反问",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　刘途眼神犀利，冷声反问",
-        "”　　刘途展现出来的强硬态度，让在墨序中部分院内位高权重的刘仙州感觉有些不适，心头怒气陡生",
-        "”　　刘途故作恍然，问道：“不过，刘长老你的手里有证据吗"
-      ],
-      "mention_count": 26
-    },
-    {
       "name": "刘仙州",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "刘长老",
+        "长老"
+      ],
+      "identity": "墨序中部分院副院长",
+      "faction": "中院",
       "status": "登场",
       "first_appearance": "第527章虎与鬼",
-      "summary": "刘仙州却感觉浑身微微发凉，眉头紧蹙，沉声道：“刘大少爷，这不过是一次拙劣的栽脏陷害，难道你看不出来",
+      "summary": "墨序中部分院副院长，与刘途谈判，试图联手对付李钧。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "老谋深算",
+        "强硬",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "刘仙州却感觉浑身微微发凉，眉头紧蹙，沉声道：“刘大少爷，这不过是一次拙劣的栽脏陷害，难道你看不出来",
-        "”　　刘途展现出来的强硬态度，让在墨序中部分院内位高权重的刘仙州感觉有些不适，心头怒气陡生",
-        "”刘仙州的脸色同样冷了下去"
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "谈判对手"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 22
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与刘途在黄粱梦境中谈判，讨论郑继之死亡事件及联手对付李钧。"
+        }
+      ],
+      "evidence": [
+        "刘仙州却感觉浑身微微发凉，眉头紧蹙，沉声道",
+        "刘仙州掷地有声道：“中院不吃素，也不吃荤，我们只吃鬼！”",
+        "刘仙州笑道：“刘少爷你是读书人，足智多谋，不知道能不能教教老夫该怎么诛杀这些伥鬼？”"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "刘仙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "刘途",
+      "aliases": [
+        "刘大少爷",
+        "刘少爷"
+      ],
+      "identity": "刘阀大少爷",
+      "faction": "刘阀",
       "status": "登场",
       "first_appearance": "第527章虎与鬼",
-      "summary": "刘仙州却感觉浑身微微发凉，眉头紧蹙，沉声道：“刘大少爷，这不过是一次拙劣的栽脏陷害，难道你看不出来",
+      "summary": "刘阀大少爷，与刘仙州谈判，试图联手对付李钧。",
+      "appearance": [],
+      "personality": [
+        "强硬",
+        "足智多谋",
+        "喜怒不形于色"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘仙州",
+          "type": "谈判对手"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与刘仙州在黄粱梦境中谈判，讨论郑继之死亡事件及联手对付李钧。"
+        }
+      ],
+      "evidence": [
+        "刘途眼神犀利，冷声反问",
+        "刘途一改往日喜怒不形于色的作派，开门见山道",
+        "刘途站起身来，推开紧闭的房门。"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "武夫",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第527章虎与鬼",
+      "summary": "被刘仙州和刘途提及的敌对人物，设计陷害中院。",
+      "appearance": [],
+      "personality": [
+        "阴狠狡诈"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘仙州",
+          "type": "敌对"
+        },
+        {
+          "target": "刘途",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及设计陷害中院，并杀了郑继之。"
+        }
+      ],
+      "evidence": [
+        "这就李钧故意设的陷阱，目的就是想让我们两方心生芥蒂",
+        "我的人也被李钧杀了。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "郑继之",
+      "aliases": [],
+      "identity": "刘阀相关人物",
+      "faction": "刘阀",
+      "status": "提及（已故）",
+      "first_appearance": "第527章虎与鬼",
+      "summary": "被提及已死亡，其死亡事件引发刘途与刘仙州的谈判。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "刘仙州却感觉浑身微微发凉，眉头紧蹙，沉声道：“刘大少爷，这不过是一次拙劣的栽脏陷害，难道你看不出来",
-        "”　　刘途展现出来的强硬态度，让在墨序中部分院内位高权重的刘仙州感觉有些不适，心头怒气陡生",
-        "”刘仙州的脸色同样冷了下去"
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "刘阀成员"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "死亡，被李钧所杀。"
+        }
+      ],
+      "evidence": [
+        "郑继之跟我们刘阀是什么关系，就不用我再说了吧？",
+        "看来郑继之的死亡，跟中院无关！"
+      ],
+      "mention_count": 3
     },
     {
       "name": "沈笠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "沈哥"
+      ],
+      "identity": "天阙成员",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第527章虎与鬼",
-      "summary": "”　　金陵城中某处天阙的隐秘据点，沈笠隔着一扇门都能听到王旗夹杂着哀嚎的叫骂声，扯着嗓子隔门骂道",
+      "summary": "天阙成员，正在给王旗注射注入器，并计划送礼给大哥。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "粗鲁",
+        "直率",
+        "重情义"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "王旗",
+          "type": "下属/朋友"
+        },
+        {
+          "target": "大哥",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在据点内监督王旗注射注入器，并计划送礼给大哥。"
+        }
+      ],
       "evidence": [
-        "”　　金陵城中某处天阙的隐秘据点，沈笠隔着一扇门都能听到王旗夹杂着哀嚎的叫骂声，扯着嗓子隔门骂道",
-        "而且居然会产生这么强烈的痛觉，这种情况实在是有些反常”　　一名天阙成员对着沈笠苦笑道：“要不还是算了吧，我担心这么下去还没等他成为武序，就要先被痛成疯子了",
-        "”　　沈笠故意大声说道：“而且你听见没，这小子骂人骂的这么中气十足，怎么可能会疯"
+        "沈笠隔着一扇门都能听到王旗夹杂着哀嚎的叫骂声",
+        "沈笠怒道：“天高皇帝远，你在怕个卵，说！”",
+        "沈笠理所当然道：“这次咱们白白拿了那么多好东西，别人虽然没开口，但我不能不懂事儿。”"
       ],
       "mention_count": 12
     },
     {
-      "name": "中院",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "王旗",
+      "aliases": [
+        "这小子"
+      ],
+      "identity": "武序新人",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第527章虎与鬼",
-      "summary": "中院确实跟儒序走的近，这一点毋庸置疑",
+      "summary": "正在接受注入器注射的武序新人，因痛觉强烈而叫骂。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "暴躁"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "中院确实跟儒序走的近，这一点毋庸置疑",
-        "不过中院背靠的是京城中的那棵参天大树，并不是刘家这样的地方门阀",
-        "而且自从在抱上了张峰岳这条大腿后，中院一直把自己的位置摆的很正，几乎不与其他儒序门阀有过多来往"
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "上级/朋友"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在据点内接受注入器注射，因痛觉强烈而叫骂。"
+        }
+      ],
+      "evidence": [
+        "王旗再次爆发出一声撕心裂肺的惨叫",
+        "沈笠，我去你大爷.啊！"
+      ],
+      "mention_count": 4
     },
     {
       "name": "胡森",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第527章虎与鬼",
-      "summary": "”胡森无奈抬头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”胡森无奈抬头",
-        "”　　胡森叹了口气道：“不管门派还是独行，说到底都是咱们武序的自己人，现在应该团结起来，一致对外",
-        "”　　沈笠骂骂咧咧，背着走在胡森面前来回踱步"
+      "aliases": [
+        "老胡"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "刘少爷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天阙成员",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第527章虎与鬼",
-      "summary": "“刘少爷你这句话是什么意思，老夫怎么有些听不懂",
+      "summary": "沈笠的下属，负责汇报事务。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“刘少爷你这句话是什么意思，老夫怎么有些听不懂",
-        "”　　“刘少爷何必明知故问",
-        "”　　“刘少爷言重了，我们中院一直以来跟新东林党关系紧密，怎么可能做这种越界的事情"
+      "personality": [
+        "谨慎",
+        "无奈"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第527章虎与鬼",
-      "summary": "见刘途如此咄咄逼人，刘仙州一时间有些竟有些看不透他到底想干什么，只能压着心头火气再解释了一遍：“这就李钧故意设的陷阱，目的就是想让我们两方心生芥蒂，他好从中混水摸鱼",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "见刘途如此咄咄逼人，刘仙州一时间有些竟有些看不透他到底想干什么，只能压着心头火气再解释了一遍：“这就李钧故意设的陷阱，目的就是想让我们两方心生芥蒂，他好从中混水摸鱼",
-        "”　　“照你这么说，我们都被一个武夫给耍了",
-        "刘途一改往日喜怒不形于色的作派，开门见山道：“郑继之跟我们刘阀是什么关系，就不用我再说了吧"
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "刘少",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第527章虎与鬼",
-      "summary": "“刘少爷你这句话是什么意思，老夫怎么有些听不懂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“刘少爷你这句话是什么意思，老夫怎么有些听不懂",
-        "”　　“刘少爷何必明知故问",
-        "”　　“刘少爷言重了，我们中院一直以来跟新东林党关系紧密，怎么可能做这种越界的事情"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向沈笠汇报叛徒处理情况，并接受送礼任务。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "那我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第527章虎与鬼",
-      "summary": "”　　“长老你说有人栽赃，那我倒想问问，是谁在栽赃谁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　“长老你说有人栽赃，那我倒想问问，是谁在栽赃谁",
-        "“既然长老你听不懂，那我就把话说的明白一点",
-        "刘途放眼凝视门外的冰天雪地，一身衣袍猎猎作响，双目熠熠生光，朗声道：“这头下山虎想吃人，那我们就让它如愿以偿，不只要让他吃饱，还要让他吃撑"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "我还",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第527章虎与鬼",
-      "summary": "而且这是开始，等那些道械出手之后，我还得想办法再弄几支注入器过来，必须把这礼尚往来给做到位了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且这是开始，等那些道械出手之后，我还得想办法再弄几支注入器过来，必须把这礼尚往来给做到位了",
-        "我还就不相信了，我抓的人我连处置的权利都没有了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "长老",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第527章虎与鬼",
-      "summary": "”　　“长老你说有人栽赃，那我倒想问问，是谁在栽赃谁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“长老你说有人栽赃，那我倒想问问，是谁在栽赃谁",
-        "”　　刘途故作恍然，问道：“不过，刘长老你的手里有证据吗",
-        "“长老这是在说我无理取闹"
+        "胡森无奈抬头",
+        "胡森苦着脸说道：“那要是山里有意见怎么办？”"
       ],
       "mention_count": 4
     }

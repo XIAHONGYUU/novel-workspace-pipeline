@@ -1,258 +1,532 @@
 {
   "chunk_id": "chunk-0019",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立的反应固然快到极点，但对方的变化更加出色，他不得不舍小保大，喉咙好似吞了个鹅蛋，脑袋一下子弹了上去，丹田气力往四肢一压，背部猛的拱起，铁黑一片，硬生生吃了对方这一肘",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立的反应固然快到极点，但对方的变化更加出色，他不得不舍小保大，喉咙好似吞了个鹅蛋，脑袋一下子弹了上去，丹田气力往四肢一压，背部猛的拱起，铁黑一片，硬生生吃了对方这一肘",
-        "一声闷响，寇立只感到浑身气血都是一僵，好似体内要被捣进一根烙铁，对方的漩涡劲若是全数爆发，自己必死无疑",
-        "对方的肩打被这出乎意料的一拨，顿时露出一丝空门来，寇立身上猛的迸射出强烈的煞气，竹节寸寸生长，骨节寸寸压缩，骨如大弓筋如弦，虎形豹爪，虎掌双穿喉"
+      "aliases": [
+        "老八"
       ],
-      "mention_count": 48
+      "identity": "烧身馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "烧身馆学徒，猛虎拳拳师，在生死擂中击杀刁奉圣，感悟龙形。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "坚韧",
+        "勇敢"
+      ],
+      "abilities": [
+        "猛虎拳",
+        "竹节劲",
+        "龙形虎爪",
+        "童子桩大成"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗严宗",
+          "type": "师兄"
+        },
+        {
+          "target": "岳武霍",
+          "type": "师兄"
+        },
+        {
+          "target": "莫一",
+          "type": "师兄"
+        },
+        {
+          "target": "林素娥",
+          "type": "救命恩人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "生死擂",
+          "event": "击杀刁奉圣，感悟龙形。"
+        },
+        {
+          "stage": "海战",
+          "event": "遭遇甲忍刺客团，救下林素娥。"
+        }
+      ],
+      "evidence": [
+        "寇立以几近大成的猛虎拳拳术，配上四重劲的竹节劲，已经相当于‘伪大成’的拳术打家。",
+        "寇立虎扑紧随其后，虎架一翻，将对方按倒在木桩上，撕住对方头发，往刀桩上抹去。",
+        "寇立眉头一皱，他听到了匆忙慌乱的脚步声。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立的反应固然快到极点，但对方的变化更加出色，他不得不舍小保大，喉咙好似吞了个鹅蛋，脑袋一下子弹了上去，丹田气力往四肢一压，背部猛的拱起，铁黑一片，硬生生吃了对方这一肘",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立的反应固然快到极点，但对方的变化更加出色，他不得不舍小保大，喉咙好似吞了个鹅蛋，脑袋一下子弹了上去，丹田气力往四肢一压，背部猛的拱起，铁黑一片，硬生生吃了对方这一肘",
-        "一声闷响，寇立只感到浑身气血都是一僵，好似体内要被捣进一根烙铁，对方的漩涡劲若是全数爆发，自己必死无疑",
-        "丹田外穴，同样属于伤穴之一，轻压之，能倒逼气血，丹田劲带着气血逆流一圈，带动背部肌肉筋络裹出一个大浪，浪头此起彼伏，好似过了许久，又好像只在一息内，终于把对方的‘漩涡’吞入皮肉中"
+      "name": "刁奉圣",
+      "aliases": [
+        "刁教主"
       ],
-      "mention_count": 19
+      "identity": "刁家教教主",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "南方第一散手，隐退多年重出山，被寇立打死。",
+      "appearance": [],
+      "personality": [
+        "诡异",
+        "兴奋"
+      ],
+      "abilities": [
+        "刁家散手",
+        "八面肩头",
+        "漩涡劲",
+        "神拳——百蛇祭神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "对手"
+        },
+        {
+          "target": "狼公子",
+          "type": "被邀请"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "生死擂",
+          "event": "与寇立搏杀，最终被击杀。"
+        }
+      ],
+      "evidence": [
+        "南方第一散手，隐退多年重又出山的刁奉圣，被名不见经传的烧身馆学徒当场打死。",
+        "刁奉圣这刁家教教主的本事，似乎能直接沟通鬼神。",
+        "脑袋顺着刀桩一滑而过，一道血线顺着刀尖流了下来。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "而且",
+      "name": "罗严宗",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身馆拳师",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "拼杀几十下，刁奉圣第一次陷入了险境，而且一上来就是死境",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "寇立的师兄，大拳师。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "温和"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "拼杀几十下，刁奉圣第一次陷入了险境，而且一上来就是死境",
-        "当初与那红眼使者较量时，那种精神上的压迫再度出现，而且更加真实，也更加危险，就像是有一条滑溜溜的粗蟒大蛇，顺着自己身子缠绕着",
-        "但是这种将漩涡劲的特性开发到极致的拳术，不仅没有成功困杀掉对方，而且还在最后关头中，让对方反占了一丝上风"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "岳武霍",
+          "type": "师兄弟"
+        },
+        {
+          "target": "莫一",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "生死擂后",
+          "event": "与狼公子交涉。"
+        },
+        {
+          "stage": "海战",
+          "event": "意识到寇立失踪。"
+        }
+      ],
+      "evidence": [
+        "罗严宗温和的看着自己，眼神之中，透着一种奇异的光彩。",
+        "坏了，老八！罗严宗突然意识到。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "就像是",
+      "name": "岳武霍",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身馆拳师",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "当初与那红眼使者较量时，那种精神上的压迫再度出现，而且更加真实，也更加危险，就像是有一条滑溜溜的粗蟒大蛇，顺着自己身子缠绕着",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "寇立的师兄，豪爽。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "豪爽"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当初与那红眼使者较量时，那种精神上的压迫再度出现，而且更加真实，也更加危险，就像是有一条滑溜溜的粗蟒大蛇，顺着自己身子缠绕着",
-        "这种拳路特性，某种程度上，就像是大成拳术才有的特性",
-        "而且透过雾气，对方的精神，就像是无形的触手，散播着诡异、威压、凶恶，无时不刻不在锤炼着自己的精神"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "罗严宗",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "生死擂后",
+          "event": "大笑称赞寇立。"
+        }
+      ],
+      "evidence": [
+        "岳武霍的豪爽大笑声打断了尴尬。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "在这",
+      "name": "莫一",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身馆拳师",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "所以这种状态一定是有代价的，尤其是在这种精力体力迅速消耗的环境中，诱发的可能性更大，而既然对方小瞧了自己，没有一开始就施展全力，那就该轮到他付出代价了",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "寇立的师兄，沉默如冰。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉默"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所以这种状态一定是有代价的，尤其是在这种精力体力迅速消耗的环境中，诱发的可能性更大，而既然对方小瞧了自己，没有一开始就施展全力，那就该轮到他付出代价了",
-        "而在外人眼中，那蒸腾的水汽雾气，开始不断向内翻滚，隐约间构成了巨大的身影，哪怕在场之中，多是拳术高深的拳师，在这一刻，也不由的生出了几分某种疯狂的念头",
-        "而在这鬼神力场的核心，寇立所承受的精神威压可想而知，比起虎性杀意入脑来说，它还要恐怖十倍"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "罗严宗",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "就像",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "当初与那红眼使者较量时，那种精神上的压迫再度出现，而且更加真实，也更加危险，就像是有一条滑溜溜的粗蟒大蛇，顺着自己身子缠绕着",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当初与那红眼使者较量时，那种精神上的压迫再度出现，而且更加真实，也更加危险，就像是有一条滑溜溜的粗蟒大蛇，顺着自己身子缠绕着",
-        "这种拳路特性，某种程度上，就像是大成拳术才有的特性",
-        "而且透过雾气，对方的精神，就像是无形的触手，散播着诡异、威压、凶恶，无时不刻不在锤炼着自己的精神"
+      "timeline": [
+        {
+          "stage": "生死擂后",
+          "event": "眼神看向霍峻东。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "罗翼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“不可能，‘一盆珠’居然破了，”罗翼又惊又讶，‘一盆珠’是刁家散手中最著名的打法，讲究的是一盆洒去，每招都似珍珠，全是精髓，能充分表现出散手的千变万化",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“不可能，‘一盆珠’居然破了，”罗翼又惊又讶，‘一盆珠’是刁家散手中最著名的打法，讲究的是一盆洒去，每招都似珍珠，全是精髓，能充分表现出散手的千变万化",
-        "”插翅狼罗翼怒不可遏，脚步一滚，身法居然比倭奴刺客还要快上几分，追着一道黑影就跟了上去",
-        "’    罗翼暗骂一声，脚趾一张，无需借力，脚心踩了根铁棍似的向后滑去，这是将劲力炼到脚底板，行竞攻退之间，速度暴增一倍，如同脚底抹油，视陡坡曲径，为坦途大路"
+        "一直沉默如冰的莫一，眼神却若有若无的看向霍峻东。"
       ],
-      "mention_count": 9
+      "mention_count": 2
     },
     {
       "name": "狼公子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "水龙帮吕龙头之子",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立头一抬，正好看见了面色阴沉如水的狼公子，微微一笑，鹰的眼孔中，透着从未有过的蓬勃精神",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "水龙帮少主，邀请刁奉圣，与烧身馆对立。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴沉"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立头一抬，正好看见了面色阴沉如水的狼公子，微微一笑，鹰的眼孔中，透着从未有过的蓬勃精神",
-        "狼公子之前那么有信心，既让人上船，又放掉人质，最主要的原因，便是对这刁奉圣的信心，但是现实却给他响亮的一巴掌",
-        "“狼公子，看样子是我师弟技高一筹啊，”罗严宗转过身来，笑吟吟的道"
+      "relationships": [
+        {
+          "target": "刁奉圣",
+          "type": "邀请"
+        },
+        {
+          "target": "黄公子",
+          "type": "想娶"
+        },
+        {
+          "target": "罗严宗",
+          "type": "对峙"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "生死擂后",
+          "event": "面色阴沉，考虑是否动手。"
+        },
+        {
+          "stage": "海战",
+          "event": "被铁皮狼所救，怒骂朱宝仔。"
+        }
+      ],
+      "evidence": [
+        "狼公子面色阴沉如水。",
+        "狼公子之前那么有信心，既让人上船，又放掉人质。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "刁奉圣",
+      "name": "黄公子",
       "aliases": [],
-      "identity": "",
+      "identity": "身份神秘的女子",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "拼杀几十下，刁奉圣第一次陷入了险境，而且一上来就是死境",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "背景不凡，见识广博，对寇立感兴趣。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "野性"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "拼杀几十下，刁奉圣第一次陷入了险境，而且一上来就是死境",
-        "就在刁奉圣万分欣喜之际——    虎爪如锥，直凿脸面",
-        "而刁奉圣的手掌上，多了一道撕开的血口子，那高高在上的神意中，终于产生了一丝恼怒与戒备"
+      "relationships": [
+        {
+          "target": "狼公子",
+          "type": "被追求"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "生死擂后",
+          "event": "眼中异彩连连。"
+        },
+        {
+          "stage": "海战",
+          "event": "认出甲忍刺客团的草履。"
+        }
+      ],
+      "evidence": [
+        "黄公子眼中异彩连连，就像是看到一件本就好玩的玩具。",
+        "黄公子目光一闪，她见识广博，自然认得此物。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "而在",
-      "aliases": [],
-      "identity": "",
+      "name": "钟权",
+      "aliases": [
+        "铁胆子"
+      ],
+      "identity": "拳师",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "头顶上的怪异巨眼微微一抽，周身劲气开始暴走，而在寇立的眼中，对方的人头撕开人皮，眼珠子凸起，变成了蛇头，灰鳞黑甲，蛇芯乱吐，两眼如同红宝石，散着一股难以言喻的吸引力",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "为烧身馆压阵的老拳师。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "头顶上的怪异巨眼微微一抽，周身劲气开始暴走，而在寇立的眼中，对方的人头撕开人皮，眼珠子凸起，变成了蛇头，灰鳞黑甲，蛇芯乱吐，两眼如同红宝石，散着一股难以言喻的吸引力",
-        "而在擂台中，滚汤已经在四周积蓄了浓厚的水蒸气，就好像一个大大蒸炉，温度高到常人难以忍受的地步",
-        "而在外人眼中，那蒸腾的水汽雾气，开始不断向内翻滚，隐约间构成了巨大的身影，哪怕在场之中，多是拳术高深的拳师，在这一刻，也不由的生出了几分某种疯狂的念头"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "压阵"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "生死擂后",
+          "event": "表情古怪。"
+        },
+        {
+          "stage": "海战",
+          "event": "认出甲忍刺客团。"
+        }
+      ],
+      "evidence": [
+        "铁胆子钟权却注意到，刁奉圣的嘴巴微微开合着。",
+        "钟权几人互视一眼，表情很是古怪。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“不可能，‘一盆珠’居然破了，”罗翼又惊又讶，‘一盆珠’是刁家散手中最著名的打法，讲究的是一盆洒去，每招都似珍珠，全是精髓，能充分表现出散手的千变万化",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“不可能，‘一盆珠’居然破了，”罗翼又惊又讶，‘一盆珠’是刁家散手中最著名的打法，讲究的是一盆洒去，每招都似珍珠，全是精髓，能充分表现出散手的千变万化",
-        "正文 第六十七章 超神（完）    雾气开始生出了诡异的变化，就像是用筛子筛出的沙子，落在身上时，居然有一种酥麻刺痛感，还有水蒸气本身带有的粘稠，不断缠绕在自己的身上",
-        "而那些人头，居然是自己的人头，有的鼻子嘴里爬出了蛆虫，有的眼珠子一左一右，滴溜溜的乱转，寇立眼睛一痒，下意识的摸了摸，粘稠的脓液中，居然扯出了一颗活生生的眼球，长出了小脚，直勾勾的盯着自己"
+      "name": "罗翼",
+      "aliases": [
+        "插翅狼"
       ],
-      "mention_count": 8
+      "identity": "水龙帮四狼八虎之一",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "水龙帮高手，脚法入神。",
+      "appearance": [],
+      "personality": [
+        "玩世不恭"
+      ],
+      "abilities": [
+        "脚法入神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "狼公子",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "追杀倭奴刺客，被火焰烧伤头发。"
+        }
+      ],
+      "evidence": [
+        "插翅狼罗翼怒不可遏，脚步一滚，身法居然比倭奴刺客还要快上几分。",
+        "罗翼看着头顶上被烤焦了大半的头发，欲哭无泪。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "还有",
+      "name": "霍峻东",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "水龙帮拳师",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "正文 第六十七章 超神（完）    雾气开始生出了诡异的变化，就像是用筛子筛出的沙子，落在身上时，居然有一种酥麻刺痛感，还有水蒸气本身带有的粘稠，不断缠绕在自己的身上",
+      "first_appearance": "正文 第六十七章 超神（完）",
+      "summary": "水龙帮高手，趁乱逃走。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正文 第六十七章 超神（完）    雾气开始生出了诡异的变化，就像是用筛子筛出的沙子，落在身上时，居然有一种酥麻刺痛感，还有水蒸气本身带有的粘稠，不断缠绕在自己的身上",
-        "”    低低的吟唱声不断从寇立耳边响起，就像是有一条粘稠的舌头，不断的从脸上滑到脚下，脚下木桩子也蠕动了起来，一张张痛苦、狰狞的脸孔，从桩面、桩壁上浮出，其中有前世的父母、还有今生认识的人物，郑小宝、郑老铁、燕飞娘、林素娥……    脚底",
-        "”    怪蛇越聚越多，很快，雾气中，滚汤里，还有木桩子上，都盘曲了无数的蛇影，每一条蛇嘴里，都有七八条蛇信子，目闪红光，头顶独目"
+      "relationships": [
+        {
+          "target": "莫一",
+          "type": "被监视"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "趁乱窜出炸开的洞口。"
+        }
+      ],
+      "evidence": [
+        "霍峻东猛的暴起，双眼一睁，双手如摆炮，身形若麒麟。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "吕钢",
+      "aliases": [
+        "铁皮狼"
+      ],
+      "identity": "水龙帮四狼八虎中的第一杀将",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "正文 第六十八章 海盗船",
+      "summary": "狼公子的护卫，帮狼公子挡住攻击。",
+      "appearance": [],
+      "personality": [
+        "面无表情"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "狼公子",
+          "type": "护卫"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "救出狼公子。"
+        }
+      ],
+      "evidence": [
+        "吕钢面无表情的道。",
+        "那一直呆在狼公子身边，打扮简陋，做奴仆状的帮众，其实是四狼八虎中的第一杀将，铁皮狼！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "林素娥",
+      "aliases": [],
+      "identity": "被寇立所救的女子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "正文 第七十章 甲忍刺客团（二）",
+      "summary": "被横纲力士袭击，被寇立所救。",
+      "appearance": [],
+      "personality": [
+        "羞涩",
+        "勇敢"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "救命恩人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "被横纲力士袭击，被寇立救下。"
+        }
+      ],
+      "evidence": [
+        "林素娥花容惨淡，背后那只‘怪兽’口露涎水。",
+        "林素娥脑袋里晕晕乎乎的转了一圈，眼前忽然多了一道熟悉的身影。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "朱四海",
+      "aliases": [],
+      "identity": "朱宝仔第四义子，智囊",
+      "faction": "宝龙王爷",
+      "status": "登场",
+      "first_appearance": "正文 第六十九章 甲忍刺客团（一）",
+      "summary": "朱宝仔的义子，负责指挥海战。",
+      "appearance": [],
+      "personality": [
+        "文雅"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱宝仔",
+          "type": "义父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "下令让骨鲨、血鲨接弦。"
+        }
+      ],
+      "evidence": [
+        "朱四海观察了番场面局势，下令道。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "江巨恶",
+      "aliases": [],
+      "identity": "恶鲨舰头领",
+      "faction": "宝龙王爷",
+      "status": "登场",
+      "first_appearance": "正文 第六十九章 甲忍刺客团（一）",
+      "summary": "恶鲨舰头领，原山匪。",
+      "appearance": [],
+      "personality": [
+        "怪笑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱宝仔",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "建议造反。"
+        }
+      ],
+      "evidence": [
+        "恶鲨舰头领江巨恶怪笑一声。"
+      ],
+      "mention_count": 1
     }
   ]
 }

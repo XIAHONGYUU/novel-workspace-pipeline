@@ -1,251 +1,186 @@
 {
   "chunk_id": "chunk-0169",
-  "title": "第167章真假",
   "characters": [
     {
       "name": "周游",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "周施主",
+        "阿游"
+      ],
+      "identity": "械体改造者，复仇者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第167章真假",
-      "summary": "寂静的环境中，周游每一步落下踩出的声响都显得无比清晰，像是一声声鼓点敲击在心头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寂静的环境中，周游每一步落下踩出的声响都显得无比清晰，像是一声声鼓点敲击在心头",
-        "周游环视周围威严肃穆的佛门建筑，一股浓烈恐惧和罪孽感萦绕在他的脑海中，手中的枪柄似乎也如同烙铁一般炽热滚烫",
-        "”　　到了此刻，慧银和尚也不敢再去奢望从周游身上压榨出自己进入黄粱佛国的门票，只想着如何劝解周游放下屠刀"
+      "summary": "周游为救弟弟周生，潜入罗汉寺寻找存放抵押物的房间，与慧银和尚对峙，并遭遇壮汉的暴力回忆。",
+      "appearance": [
+        "猩红的眼眸",
+        "械体双手炸出湛蓝色电弧"
       ],
-      "mention_count": 26
+      "personality": [
+        "冷静",
+        "疯狂",
+        "执着"
+      ],
+      "abilities": [
+        "使用机械造物开门",
+        "械体战斗"
+      ],
+      "equipment": [
+        "手枪",
+        "形如螃蟹的机械造物（开门工具）",
+        "息蜻郎（掩护设备）"
+      ],
+      "relationships": [
+        {
+          "target": "周生",
+          "type": "兄弟"
+        },
+        {
+          "target": "慧银",
+          "type": "敌对"
+        },
+        {
+          "target": "壮汉（慧通？）",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "潜入罗汉寺，胁迫慧银找到存放抵押物的房间，并回忆起弟弟被摘除器官的惨剧。"
+        }
+      ],
+      "evidence": [
+        "周游环视周围威严肃穆的佛门建筑，一股浓烈恐惧和罪孽感萦绕在他的脑海中",
+        "周游目眦欲裂，他永远忘不了眼前这一幕，但更让他无法接受的是，被摘除器官的人竟成了自己的弟弟周生！",
+        "周游在心头再次回忆一遍从地下黑市买来的情报，手上动作不停，将一件形如螃蟹的机械造物贴在门锁位置。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "慧银",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "慧银和尚",
+        "慧银"
+      ],
+      "identity": "罗汉寺最低级的知客僧",
+      "faction": "罗汉寺",
+      "status": "死亡",
       "first_appearance": "第167章真假",
-      "summary": "”　　到了此刻，慧银和尚也不敢再去奢望从周游身上压榨出自己进入黄粱佛国的门票，只想着如何劝解周游放下屠刀",
+      "summary": "慧银和尚被周游胁迫，试图劝解周游放下屠刀，最终被周游扭断脖子杀死。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "胆小",
+        "贪生怕死"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　到了此刻，慧银和尚也不敢再去奢望从周游身上压榨出自己进入黄粱佛国的门票，只想着如何劝解周游放下屠刀",
-        "“哥哥.”　　慧银和尚指尖横移，指向藏经殿旁边一间不起眼的寮房",
-        "颈骨的断裂声在夜色之中显得格外清脆，周游拖住慧银骤然瘫软的身体，将尸体拖放到寺墙的死角之中"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被周游胁迫，告知存放抵押物的房间位置，随后被周游杀死。"
+        }
+      ],
+      "evidence": [
+        "慧银和尚指尖横移，指向藏经殿旁边一间不起眼的寮房。",
+        "慧银颤颤巍巍抬手指向前面的房间。",
+        "颈骨的断裂声在夜色之中显得格外清脆，周游拖住慧银骤然瘫软的身体，将尸体拖放到寺墙的死角之中。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
+      "name": "周生",
+      "aliases": [
+        "弟弟",
+        "阿游的弟弟"
+      ],
+      "identity": "周游的弟弟，被摘除器官的受害者",
       "faction": "",
-      "status": "登场",
+      "status": "回忆中登场",
       "first_appearance": "第167章真假",
-      "summary": "周游环视周围威严肃穆的佛门建筑，一股浓烈恐惧和罪孽感萦绕在他的脑海中，手中的枪柄似乎也如同烙铁一般炽热滚烫",
-      "appearance": [],
+      "summary": "周生是周游的弟弟，在回忆中被壮汉摘除器官，最终被佛祖所救。",
+      "appearance": [
+        "身形单薄",
+        "胸膛被剖开",
+        "暗淡的眼睛中满是痛苦和绝望"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "周游环视周围威严肃穆的佛门建筑，一股浓烈恐惧和罪孽感萦绕在他的脑海中，手中的枪柄似乎也如同烙铁一般炽热滚烫",
-        "“他的房间就在藏经殿的旁边",
-        "随着壮汉不断地抬脚踩下，他的手臂断裂，胸骨塌陷，意识已经陷入了恍惚之中"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "兄弟"
+        },
+        {
+          "target": "壮汉",
+          "type": "仇敌"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "回忆",
+          "event": "被壮汉摘除器官，后被佛祖所救。"
+        }
+      ],
+      "evidence": [
+        "被摘除器官的人竟成了自己的弟弟周生！",
+        "台上的少年转过头来，一双暗淡的眼睛中满是痛苦和绝望。",
+        "周生满脸笑意，抬手指着远方。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "少年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "一名满脸狞笑的壮汉站在血色横流的手术台前，一个身形单薄的少年躺在台上，胸膛已经被剖开，露出其中兀自冒着热气的跳动的脏器",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一名满脸狞笑的壮汉站在血色横流的手术台前，一个身形单薄的少年躺在台上，胸膛已经被剖开，露出其中兀自冒着热气的跳动的脏器",
-        "少年无声无息推开房门，侧门跨过门槛",
-        "”　　木然的脸上有泪水混着血水直淌，双眼定定看着手术台上的少年"
+      "name": "壮汉",
+      "aliases": [
+        "慧通？"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "露出其",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "罗汉寺客头师傅，持有人造慧根，佛九初期",
+      "faction": "罗汉寺",
+      "status": "回忆中登场",
       "first_appearance": "第167章真假",
-      "summary": "一名满脸狞笑的壮汉站在血色横流的手术台前，一个身形单薄的少年躺在台上，胸膛已经被剖开，露出其中兀自冒着热气的跳动的脏器",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一名满脸狞笑的壮汉站在血色横流的手术台前，一个身形单薄的少年躺在台上，胸膛已经被剖开，露出其中兀自冒着热气的跳动的脏器",
-        "”　　“施主，这个我是真的不知道啊，”慧银和尚哭丧着脸，“我只是个最低级的知客僧，平时.”　　有暖风吹过，四周绿浪翻滚，露出其中正在吃草的成群牛羊"
+      "summary": "壮汉是罗汉寺的客头师傅，在回忆中残忍摘除周生的器官，并殴打周游，最终被佛光融化。",
+      "appearance": [
+        "满脸狞笑",
+        "宛如从序者的实力"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只见",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "周游顺着他手指的方向看去，只见那间房前跳动着暗红色的灯光，如呼吸一般，忽明忽暗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "周游顺着他手指的方向看去，只见那间房前跳动着暗红色的灯光，如呼吸一般，忽明忽暗",
-        "周游探眼看去，只见寮房内一片黑暗，最深处似有一道盘膝而坐的身影，正在参禅入定",
-        "周游抬眼望去，只见在这方天地的尽头，一座恢宏无比的寺庙矗立在山峦之巅"
+      "personality": [
+        "残忍",
+        "狞笑"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "慧银和尚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "”　　到了此刻，慧银和尚也不敢再去奢望从周游身上压榨出自己进入黄粱佛国的门票，只想着如何劝解周游放下屠刀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　到了此刻，慧银和尚也不敢再去奢望从周游身上压榨出自己进入黄粱佛国的门票，只想着如何劝解周游放下屠刀",
-        "“哥哥.”　　慧银和尚指尖横移，指向藏经殿旁边一间不起眼的寮房",
-        "”　　“施主，这个我是真的不知道啊，”慧银和尚哭丧着脸，“我只是个最低级的知客僧，平时.”　　有暖风吹过，四周绿浪翻滚，露出其中正在吃草的成群牛羊"
+      "abilities": [
+        "佛九初期实力",
+        "身体坚硬能弹开子弹"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "扳机",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "周游喉间如同野兽般的低吼，右臂举起，扳机一口到底",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "周游喉间如同野兽般的低吼，右臂举起，扳机一口到底"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "仇敌"
+        },
+        {
+          "target": "周生",
+          "type": "仇敌"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "尘封",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "尘封在心底的一些记忆突然开始翻滚，那永远无法忘记，宛如凌迟的痛苦再次侵袭周游的脑海",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "尘封在心底的一些记忆突然开始翻滚，那永远无法忘记，宛如凌迟的痛苦再次侵袭周游的脑海"
+      "timeline": [
+        {
+          "stage": "回忆",
+          "event": "摘除周生的器官，殴打周游，后被佛光融化。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "那永",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "尘封在心底的一些记忆突然开始翻滚，那永远无法忘记，宛如凌迟的痛苦再次侵袭周游的脑海",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "尘封在心底的一些记忆突然开始翻滚，那永远无法忘记，宛如凌迟的痛苦再次侵袭周游的脑海"
+        "一名满脸狞笑的壮汉站在血色横流的手术台前",
+        "罗汉寺客头师傅，法名慧通，持有人造慧根，属于佛九初期",
+        "置身亮光之中的壮汉发出撕心裂肺的惨叫，身体如同烈焰中的蜡烛一般，眨眼间融化的无影无踪。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "此刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "”　　到了此刻，慧银和尚也不敢再去奢望从周游身上压榨出自己进入黄粱佛国的门票，只想着如何劝解周游放下屠刀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　到了此刻，慧银和尚也不敢再去奢望从周游身上压榨出自己进入黄粱佛国的门票，只想着如何劝解周游放下屠刀",
-        "明明在记忆之中只是一个普通人的壮汉，此刻却展现是宛如从序者的实力",
-        "“对不起”　　此刻的少年再无往昔一分的冷静，狂奔翻越过那些断壁"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "随着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第167章真假",
-      "summary": "随着壮汉不断地抬脚踩下，他的手臂断裂，胸骨塌陷，意识已经陷入了恍惚之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着壮汉不断地抬脚踩下，他的手臂断裂，胸骨塌陷，意识已经陷入了恍惚之中",
-        "片刻之后，随着提示灯光由红转绿，紧闭的房门裂开一条缝隙",
-        "随着‘螃蟹背壳’上的提示灯红光亮起，八只械脚悄然刺入门缝之中"
-      ],
-      "mention_count": 3
+      "mention_count": 8
     }
   ]
 }

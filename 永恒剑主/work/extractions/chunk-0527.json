@@ -1,257 +1,315 @@
 {
   "chunk_id": "chunk-0527",
-  "title": "第五百二十四章 魔宗（七）",
   "characters": [
+    {
+      "name": "林新",
+      "aliases": [
+        "红花剑魔",
+        "元斗真君",
+        "元斗魔宗宗主"
+      ],
+      "identity": "元斗魔宗宗主，魔道巨枭",
+      "faction": "元斗魔宗",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "元斗魔宗宗主，实力极强，在伏牛峰一役中斩杀多位真君，凶名威震天下。",
+      "appearance": [
+        "背负五把法剑"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "太渊圣心玉仙弓",
+        "领主之力"
+      ],
+      "equipment": [
+        "社云鼎",
+        "太渊圣心玉仙弓",
+        "义魂珠"
+      ],
+      "relationships": [
+        {
+          "target": "关明月",
+          "type": "下属"
+        },
+        {
+          "target": "林珊",
+          "type": "同门或盟友"
+        },
+        {
+          "target": "周怀舍",
+          "type": "魔道同僚，有拉拢之意"
+        },
+        {
+          "target": "孟昕若",
+          "type": "敌对，曾交手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏牛峰一役",
+          "event": "斩杀天云道、玉清道、化形窟多位真君，夺取社云鼎。"
+        },
+        {
+          "stage": "九十年后",
+          "event": "在原始魔宫闭关，承受领主之力和记忆碎片的反噬。"
+        }
+      ],
+      "evidence": [
+        "林新挥手将众人残骸回收起来，存入储物晶，然后对着那社云鼎一招。",
+        "将林新的排名直接提升到了孟昕若之前排名第八",
+        "林新端坐在宫殿上方，背负五把法剑，面色阴沉，双目紧闭。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "关明月",
+      "aliases": [
+        "关老"
+      ],
+      "identity": "林新的下属",
+      "faction": "元斗魔宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "林新的下属，在伏牛峰一役后负责照顾林珊。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        },
+        {
+          "target": "林珊",
+          "type": "照顾"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏牛峰一役后",
+          "event": "扶着林珊跟随林新离开。"
+        }
+      ],
+      "evidence": [
+        "关明月正焦急的给林珊做着抢救",
+        "关老，带她跟上我。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林珊",
+      "aliases": [
+        "天云道子"
+      ],
+      "identity": "天云道道子",
+      "faction": "天云道",
+      "status": "受伤",
+      "first_appearance": "本章",
+      "summary": "天云道道子，在伏牛峰一役中被林新重伤但未死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对，被其重伤"
+        },
+        {
+          "target": "关明月",
+          "type": "被其照顾"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏牛峰一役",
+          "event": "被林新重伤，后被关明月抢救。"
+        }
+      ],
+      "evidence": [
+        "关明月正焦急的给林珊做着抢救",
+        "天云道子林珊"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "玉函宫主",
+      "aliases": [
+        "白衣人"
+      ],
+      "identity": "玉函宫主",
+      "faction": "玉函宫",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "玉函宫主，在伏牛峰一役中幸存，跟随林新离开。",
+      "appearance": [
+        "白衣"
+      ],
+      "personality": [
+        "畏惧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被其威慑，跟随"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏牛峰一役后",
+          "event": "被林新要求跟上，一同离开。"
+        }
+      ],
+      "evidence": [
+        "你也跟上。林新看了眼躲得远远的玉函宫主",
+        "白衣人面皮抽搐了下，点点头不敢回绝。"
+      ],
+      "mention_count": 2
+    },
     {
       "name": "周怀舍",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "魔道人物，与孟昕若对话",
+      "faction": "未知魔道势力",
       "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "”周怀舍畅快大笑起来",
+      "first_appearance": "本章",
+      "summary": "魔道人物，在宫殿中与孟昕若讨论林新，主张拉拢林新。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "老谋深算"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”周怀舍畅快大笑起来",
-        "”　　周怀舍赞叹惊讶着，他是没想到，当初那个境界修为差距自己这么多的家伙，居然现在成长到了这等境界",
-        "”周怀舍慢慢平静下来，皱眉道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "想拉拢"
+        },
+        {
+          "target": "孟昕若",
+          "type": "同僚"
+        },
+        {
+          "target": "门主",
+          "type": "下属"
+        }
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "此时的林新和之前战力，差距简直天渊之别",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时的林新和之前战力，差距简直天渊之别",
-        "林新心中也是感慨",
-        "林新挥手将众人残骸回收起来，存入储物晶，然后对着那社云鼎一招"
+      "timeline": [
+        {
+          "stage": "伏牛峰一役后",
+          "event": "与孟昕若商议，决定拉拢林新。"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "周怀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "”周怀舍畅快大笑起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”周怀舍畅快大笑起来",
-        "”　　周怀舍赞叹惊讶着，他是没想到，当初那个境界修为差距自己这么多的家伙，居然现在成长到了这等境界",
-        "”周怀舍慢慢平静下来，皱眉道"
+        "周怀舍畅快大笑起来。",
+        "周怀舍笑了笑，那林新出身松林剑派"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "孟昕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "赫然便是启辰妖女孟昕若",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赫然便是启辰妖女孟昕若",
-        "”孟昕若想起这个顿时面色难看，“当初我便是被那小弓逼退的",
-        "”孟昕若随口道"
-      ],
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "name": "孟昕若",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "赫然便是启辰妖女孟昕若",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赫然便是启辰妖女孟昕若",
-        "”孟昕若想起这个顿时面色难看，“当初我便是被那小弓逼退的",
-        "”孟昕若随口道"
+      "aliases": [
+        "启辰妖女"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "启辰妖女，魔道高手",
+      "faction": "启辰",
       "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "只是就算他属性提升后，自身达到了一个质变，但面对阴极真君，天榜前五，他终究还是心中有着一丝忌惮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是就算他属性提升后，自身达到了一个质变，但面对阴极真君，天榜前五，他终究还是心中有着一丝忌惮",
-        "真君固然强横，但当所有手段都没法施展，甚至连目标都无法锁定，那么再强也只是个靶子",
-        "他只是比之前的自己属性多了不到三千点，带来的效果，却是实战不知道强出多少倍"
+      "first_appearance": "本章",
+      "summary": "启辰妖女，曾与林新交手，对林新有敌意，但被周怀舍说服。",
+      "appearance": [
+        "鹅黄衣裙",
+        "双耳戴黄宝石耳坠",
+        "胸前红宝石项链"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "“天云道子林珊，化形窟千云子，玉清道天荣天晴，还有宏龟三人，嘿嘿嘿，居然全被那红花剑魔一口气杀掉，还失了一座社云鼎",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "暴躁",
+        "习惯用暴力"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "黄宝石耳坠",
+        "红宝石项链"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对，曾交手"
+        },
+        {
+          "target": "周怀舍",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "伏牛峰一役后",
+          "event": "与周怀舍商议，被说服暂时不对付林新。"
+        }
+      ],
       "evidence": [
-        "“天云道子林珊，化形窟千云子，玉清道天荣天晴，还有宏龟三人，嘿嘿嘿，居然全被那红花剑魔一口气杀掉，还失了一座社云鼎",
-        "”　　周怀舍赞叹惊讶着，他是没想到，当初那个境界修为差距自己这么多的家伙，居然现在成长到了这等境界",
-        "”　　“那你的意思是……”孟昕若有些不甘心，称王做霸多少年了，居然在一个小毛头身上吃了暗亏，她自然是一直憋着一口子气"
+        "赫然便是启辰妖女孟昕若。",
+        "孟昕若有些不甘心，称王做霸多少年了，居然在一个小毛头身上吃了暗亏"
       ],
       "mention_count": 5
     },
     {
-      "name": "天榜",
+      "name": "黄悦容",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "只是就算他属性提升后，自身达到了一个质变，但面对阴极真君，天榜前五，他终究还是心中有着一丝忌惮",
+      "identity": "赤脊门门主",
+      "faction": "赤脊门",
+      "status": "提及",
+      "first_appearance": "本章",
+      "summary": "赤脊门门主，传闻远去外域，消失多年。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是就算他属性提升后，自身达到了一个质变，但面对阴极真君，天榜前五，他终究还是心中有着一丝忌惮",
-        "冥冥中他感觉，天榜前五的阴极层次，和以下的天榜，相差距离极大",
-        "荒玉阁及时更新了对天榜排名的调整"
+      "timeline": [
+        {
+          "stage": "九十年间",
+          "event": "与袁秋雀远去外域，消失。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "赤脊门也是突然因为门主黄悦容远去外域，而偃旗息鼓。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "化形窟",
+      "name": "袁秋雀",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "是玉清道和化形窟的两边来人转身逃遁了",
+      "identity": "未知",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "本章",
+      "summary": "与黄悦容一同远去外域的高手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "是玉清道和化形窟的两边来人转身逃遁了",
-        "化形窟一群黄衣人也是同样，还没飞出半里便全数自燃起来，死得毫无反抗之力",
-        "“天云道子林珊，化形窟千云子，玉清道天荣天晴，还有宏龟三人，嘿嘿嘿，居然全被那红花剑魔一口气杀掉，还失了一座社云鼎"
+      "relationships": [
+        {
+          "target": "黄悦容",
+          "type": "同行"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "一切",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "很多时候，当速度快到突破敌人反应神经时，一切便顺理成章的发生质变",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "很多时候，当速度快到突破敌人反应神经时，一切便顺理成章的发生质变",
-        "做完一切，他才看向关明月",
-        "而这一切，其实都只是因为，林新实在太年轻了"
+      "timeline": [
+        {
+          "stage": "九十年间",
+          "event": "与黄悦容远去外域，消失。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "元斗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "“不急……”周怀舍笑了笑，“那林新出身松林剑派，却是在元斗魔宗发扬光大，修行魔功一日千里，短短几十年就到了这般恐怖地步，堪称惊才绝艳天纵奇才，元斗魔宗本就是我魔道大宗，被那仙盟拉去做什么正道大派",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“不急……”周怀舍笑了笑，“那林新出身松林剑派，却是在元斗魔宗发扬光大，修行魔功一日千里，短短几十年就到了这般恐怖地步，堪称惊才绝艳天纵奇才，元斗魔宗本就是我魔道大宗，被那仙盟拉去做什么正道大派",
-        "”　　“你是说，拉元斗魔宗入瓮",
-        "取而代之的是元斗魔宗的新一任宗主，红花剑魔渐渐叫的人少了"
+        "看到黄悦容和袁秋雀两大高手远去外域"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "其中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十四章 魔宗（七）",
-      "summary": "第五百二十四章 魔宗（七）　　要知道枯穹魔神并不是只有一位，其中也是有强有弱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百二十四章 魔宗（七）　　要知道枯穹魔神并不是只有一位，其中也是有强有弱",
-        "两颗魂珠在他身边缓缓浮动飞舞，其中义魂珠已经不再是纯白色，而是内部浮现出大量血丝，硕大的义字也隐隐泛红，带着几分邪异"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

@@ -1,256 +1,124 @@
 {
   "chunk_id": "chunk-0015",
-  "title": "第14章 遇午而退",
   "characters": [
     {
       "name": "老道士",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "云龙观的道士",
+      "faction": "云龙观",
       "status": "登场",
       "first_appearance": "第14章 遇午而退",
-      "summary": "”老道士有些讪讪笑道，“再不行，给山下的村民也送几条去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”老道士有些讪讪笑道，“再不行，给山下的村民也送几条去",
-        "我……”　　老道士擦了擦额头上并不存在的汗水，忽然耸动鼻头，突地说道：“饭糊了",
-        "见他走了，老道士才长出一口气，背着手回自己卧室里换了身衣裳"
+      "summary": "云龙观的老道士，钓鱼爱好者，因徒弟将帝钟借给苏午而意识到谶言应验，决定下山暂避。",
+      "appearance": [
+        "盘着发髻",
+        "穿藏青色道袍",
+        "七八十岁"
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "老道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "”老道士有些讪讪笑道，“再不行，给山下的村民也送几条去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”老道士有些讪讪笑道，“再不行，给山下的村民也送几条去",
-        "我……”　　老道士擦了擦额头上并不存在的汗水，忽然耸动鼻头，突地说道：“饭糊了",
-        "见他走了，老道士才长出一口气，背着手回自己卧室里换了身衣裳"
+      "personality": [
+        "和蔼",
+        "谨慎"
       ],
-      "mention_count": 12
+      "abilities": [],
+      "equipment": [
+        "电动车",
+        "塑料桶",
+        "长条形包裹",
+        "道经",
+        "字条"
+      ],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "傍晚",
+          "event": "钓鱼归来，与徒弟吃晚饭，得知帝钟被借给苏午。"
+        },
+        {
+          "stage": "晚饭后",
+          "event": "回房翻出道经中的谶言，决定下山暂避。"
+        }
+      ],
+      "evidence": [
+        "盘着发髻的老者穿一身藏青色道袍，将电动车骑到道观门口扎下",
+        "老道士擦了擦额头上并不存在的汗水",
+        "老道士匆匆奔入房中，径自爬上床，打开床脚靠墙放着的一个大木箱"
+      ],
+      "mention_count": 20
     },
     {
       "name": "谢云清",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "云清"
+      ],
+      "identity": "云龙观的年轻道士",
+      "faction": "云龙观",
       "status": "登场",
       "first_appearance": "第14章 遇午而退",
-      "summary": "”名为‘谢云清’的道士不假思索地应声，“有人说自己晚上老做噩梦，觉得自家有脏东西",
-      "appearance": [],
-      "personality": [],
+      "summary": "老道士的徒弟，性格直率，将师父的帝钟借给了苏午。",
+      "appearance": [
+        "年轻",
+        "两手锅灰"
+      ],
+      "personality": [
+        "直率",
+        "热心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”名为‘谢云清’的道士不假思索地应声，“有人说自己晚上老做噩梦，觉得自家有脏东西",
-        "”谢云清不明所以，扒饭扒得飞快，含糊道，“有什么问题吗",
-        "”谢云清笑呵呵道，“他和师父你在一个群里呢，都是钓鱼爱好者"
+      "relationships": [
+        {
+          "target": "老道士",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "那人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "别人既然有需要，借给人用一用也没什么……”　　“放心啦，那人看着不像借了不还的人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "别人既然有需要，借给人用一用也没什么……”　　“放心啦，那人看着不像借了不还的人",
-        "又听徒弟继续道：“那人挺幽默的，和我一个道士说咱们这道观风水不好，阴森森的，让我们下山住一段时间",
-        "”　　“那确实挺幽默的，哈哈哈……”老道士笑出了声，强咽下嗓子眼里的汤，涨红着脸向徒弟问道，“那人叫什么，你有印象吗"
+      "timeline": [
+        {
+          "stage": "傍晚",
+          "event": "在灶屋做饭，与师父吃晚饭，告知师父将帝钟借给苏午。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "遇午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "第14章 遇午而退　　夕阳西下，残照将龙山山壁映得通红",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第14章 遇午而退　　夕阳西下，残照将龙山山壁映得通红",
-        "上面写着十六个红字谶言：逢山而起，遇龙而兴，遇午而退，得金而寂",
-        "“遇午而退，遇午而退……”　　“原来是应在这里，时候到了啊……”　　老道士喃喃自语，内心油然生出一种预感"
+        "两手锅灰的年轻道士从灶屋里迎出来",
+        "名为‘谢云清’的道士不假思索地应声",
+        "谢云清不明所以，扒饭扒得飞快"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "遇午而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "第14章 遇午而退　　夕阳西下，残照将龙山山壁映得通红",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第14章 遇午而退　　夕阳西下，残照将龙山山壁映得通红",
-        "上面写着十六个红字谶言：逢山而起，遇龙而兴，遇午而退，得金而寂",
-        "“遇午而退，遇午而退……”　　“原来是应在这里，时候到了啊……”　　老道士喃喃自语，内心油然生出一种预感"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "遇午而退",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "第14章 遇午而退　　夕阳西下，残照将龙山山壁映得通红",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第14章 遇午而退　　夕阳西下，残照将龙山山壁映得通红",
-        "上面写着十六个红字谶言：逢山而起，遇龙而兴，遇午而退，得金而寂",
-        "“遇午而退，遇午而退……”　　“原来是应在这里，时候到了啊……”　　老道士喃喃自语，内心油然生出一种预感"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "云清",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "给徒弟舀了半碗汤，老道士问道：“云清啊，今天有人来观里上香吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "给徒弟舀了半碗汤，老道士问道：“云清啊，今天有人来观里上香吗",
-        "”名为‘谢云清’的道士不假思索地应声，“有人说自己晚上老做噩梦，觉得自家有脏东西",
-        "”谢云清不明所以，扒饭扒得飞快，含糊道，“有什么问题吗"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "谢云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "”名为‘谢云清’的道士不假思索地应声，“有人说自己晚上老做噩梦，觉得自家有脏东西",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”名为‘谢云清’的道士不假思索地应声，“有人说自己晚上老做噩梦，觉得自家有脏东西",
-        "”谢云清不明所以，扒饭扒得飞快，含糊道，“有什么问题吗",
-        "”谢云清笑呵呵道，“他和师父你在一个群里呢，都是钓鱼爱好者"
-      ],
-      "mention_count": 4
+      "mention_count": 10
     },
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "钓鱼爱好者，向谢云清借帝钟的人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第14章 遇午而退",
-      "summary": "”　　“名字挺好记，叫苏午，午时已到的那个午",
+      "summary": "钓鱼爱好者，向谢云清借了帝钟，名字中的‘午’应了老道士的谶言。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "幽默"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "借物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当天",
+          "event": "向谢云清借了帝钟，并建议他们下山住一段时间。"
+        }
+      ],
       "evidence": [
-        "”　　“名字挺好记，叫苏午，午时已到的那个午",
-        "”　　“苏午……是午时的那个午，没记错吗",
-        "”　　苏午从摊子上拿起一件兵马俑，在手里掂量了一下"
+        "名字挺好记，叫苏午，午时已到的那个午！",
+        "那人挺幽默的，和我一个道士说咱们这道观风水不好，阴森森的，让我们下山住一段时间。"
       ],
       "mention_count": 4
-    },
-    {
-      "name": "老人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "看起来已经七八十岁的老人，提着个沉甸甸的塑料桶，依旧能健步如飞",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "看起来已经七八十岁的老人，提着个沉甸甸的塑料桶，依旧能健步如飞",
-        "穿过过道，绕过三清正殿，老人就看到后院的灶屋烟囱里正冒出青烟",
-        "两手锅灰的年轻道士从灶屋里迎出来，也是满面笑容，接下老人手里的塑料桶，边伸头看边道：“我饭都要蒸好了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "边伸",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章 遇午而退",
-      "summary": "两手锅灰的年轻道士从灶屋里迎出来，也是满面笑容，接下老人手里的塑料桶，边伸头看边道：“我饭都要蒸好了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两手锅灰的年轻道士从灶屋里迎出来，也是满面笑容，接下老人手里的塑料桶，边伸头看边道：“我饭都要蒸好了"
-      ],
-      "mention_count": 3
     }
   ]
 }

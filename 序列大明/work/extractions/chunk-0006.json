@@ -1,252 +1,207 @@
 {
   "chunk_id": "chunk-0006",
-  "title": "第5章亡命徒",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "红旗五哥"
+      ],
+      "identity": "袍哥会浑水袍哥一脉，司职红旗五哥",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第5章亡命徒",
-      "summary": "第5章亡命徒　　“袍哥会浑水袍哥一脉，司职红旗五哥，李钧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第5章亡命徒　　“袍哥会浑水袍哥一脉，司职红旗五哥，李钧",
-        "”　　李钧将竖起的衣领折下，露出脖子上的睚眦纹身",
-        "”　　李钧闻言脱下外套，露出一副肌肉线条匀称的精悍身体"
+      "summary": "袍哥会红旗五哥，赵鼎麾下最能打的人物，被出卖后找乌鸦华买消息和治伤。",
+      "appearance": [
+        "肌肉线条匀称的精悍身体",
+        "刀砍斧凿般的面容"
       ],
-      "mention_count": 34
+      "personality": [
+        "冷静",
+        "强硬",
+        "坚毅"
+      ],
+      "abilities": [],
+      "equipment": [
+        "魏武卒肆型手枪"
+      ],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "上级"
+        },
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        },
+        {
+          "target": "乌鸦华",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往乌鸦诊所治伤并购买消息"
+        }
+      ],
+      "evidence": [
+        "袍哥会浑水袍哥一脉，司职红旗五哥，李钧。",
+        "赵鼎麾下最能打的红旗五哥嘛。",
+        "李钧伸手抓住，毫不犹豫朝自己腹部扎进去，随后对着乌鸦华抱拳躬身，转身朝着诊所外大步走去。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "乌鸦华",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "乌鸦华"
+      ],
+      "identity": "鬼街黑诊所医生",
       "faction": "",
       "status": "登场",
       "first_appearance": "第5章亡命徒",
-      "summary": "”　　乌鸦华将那副血管随手放进一个冷冻箱中，捡起旁边一块破布擦拭着手上的血迹，随口问道：“得了什么病",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华将那副血管随手放进一个冷冻箱中，捡起旁边一块破布擦拭着手上的血迹，随口问道：“得了什么病",
-        "”　　李钧话还没说完，乌鸦华的脸色立马突变",
-        "乌鸦华扯着嗓子吼了一声，见铁壁外的撞击声停了下来，这才皱着眉头说道：“你刚才说的什么我没听到，你今天也没来过乌鸦诊所，你走吧"
+      "summary": "鬼街的黑诊所医生，擅长医术和买卖消息，性格谨慎但被李钧威胁。",
+      "appearance": [
+        "嘴唇上两条白色胡须"
       ],
-      "mention_count": 34
+      "personality": [
+        "谨慎",
+        "暴躁",
+        "精明"
+      ],
+      "abilities": [
+        "医术高超",
+        "易容技术"
+      ],
+      "equipment": [
+        "愈伤药剂",
+        "自动枪械装置"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "交易对象"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "孙女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为李钧治伤并出售消息"
+        }
+      ],
+      "evidence": [
+        "乌鸦华操着一口蜀腔将赵鼎的祖宗十八代问候了一遍",
+        "乌鸦华不动声色的看了眼旁边的少女",
+        "乌鸦华长叹一声后扔给对方一支他研制的愈伤药剂。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "乌鸦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "”　　乌鸦华将那副血管随手放进一个冷冻箱中，捡起旁边一块破布擦拭着手上的血迹，随口问道：“得了什么病",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华将那副血管随手放进一个冷冻箱中，捡起旁边一块破布擦拭着手上的血迹，随口问道：“得了什么病",
-        "只有我安全了，你的乌鸦诊所才能安全",
-        "”　　李钧话还没说完，乌鸦华的脸色立马突变"
+      "name": "乌鸦朵朵",
+      "aliases": [
+        "朵朵"
       ],
-      "mention_count": 26
-    },
-    {
-      "name": "鬼街",
-      "aliases": [],
-      "identity": "",
+      "identity": "乌鸦华的孙女",
       "faction": "",
       "status": "登场",
       "first_appearance": "第5章亡命徒",
-      "summary": "在鬼街的黑诊所，除了看病做手术之外，还有一个生意就是买卖消息",
+      "summary": "乌鸦华的孙女，性格暴烈，对李钧有敌意。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在鬼街的黑诊所，除了看病做手术之外，还有一个生意就是买卖消息",
-        "乌鸦华冷冷一笑：“鬼街的规矩是问药不卖生人，后生你懂不懂",
-        "整条鬼街多的是能问药的诊所啊"
+      "personality": [
+        "暴烈",
+        "冲动"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "赵斗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "”　　乌鸦华操着一口蜀腔将赵鼎的祖宗十八代问候了一遍，这才喘着粗气说道：“谁卖了你，你应该早就猜到了，就是赵斗",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华操着一口蜀腔将赵鼎的祖宗十八代问候了一遍，这才喘着粗气说道：“谁卖了你，你应该早就猜到了，就是赵斗",
-        "”　　不过站在赵斗的角度来看，自己是内忧，流川坦是外患",
-        "”　　“赵鼎知不知道赵斗吃里扒外"
+      "equipment": [
+        "造型狭长的单刀"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "乌鸦华扯着嗓子吼了一声，见铁壁外的撞击声停了下来，这才皱着眉头说道：“你刚才说的什么我没听到，你今天也没来过乌鸦诊所，你走吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "祖孙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被铁壁隔开，欲提刀冲上"
+        }
+      ],
       "evidence": [
-        "乌鸦华扯着嗓子吼了一声，见铁壁外的撞击声停了下来，这才皱着眉头说道：“你刚才说的什么我没听到，你今天也没来过乌鸦诊所，你走吧",
-        "”　　乌鸦华操着一口蜀腔将赵鼎的祖宗十八代问候了一遍，这才喘着粗气说道：“谁卖了你，你应该早就猜到了，就是赵斗",
-        "”　　乌鸦华不动声色的看了眼旁边的少女，见对方依旧在全神贯注的看书，这才没好气的对着李钧翻了个白眼"
+        "少女的脾气异常暴烈，说话间就要提刀冲上。",
+        "埋头看书的少女不知道何时站了起来，手中提着一柄造型狭长的单刀"
       ],
       "mention_count": 5
     },
     {
       "name": "赵鼎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "赵鼎"
+      ],
+      "identity": "袍哥会舵把子",
+      "faction": "袍哥会",
+      "status": "提及",
       "first_appearance": "第5章亡命徒",
-      "summary": "“我听过你的名字，赵鼎麾下最能打的红旗五哥嘛",
+      "summary": "袍哥会的舵把子，李钧的上级，被提及但未出场。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属"
+        },
+        {
+          "target": "赵斗",
+          "type": "父子"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“我听过你的名字，赵鼎麾下最能打的红旗五哥嘛",
-        "”　　“连你们的舵把子赵鼎都不敢这么跟我说话，你算个什么东西",
-        "”　　乌鸦华操着一口蜀腔将赵鼎的祖宗十八代问候了一遍，这才喘着粗气说道：“谁卖了你，你应该早就猜到了，就是赵斗"
+        "连你们的舵把子赵鼎都不敢这么跟我说话",
+        "赵鼎应该不知道，他虽然阴了我，但不得不说赵鼎配得起袍哥这两个字。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "赵斗",
+      "aliases": [
+        "赵斗"
+      ],
+      "identity": "袍哥会太子爷",
+      "faction": "袍哥会",
+      "status": "提及",
+      "first_appearance": "第5章亡命徒",
+      "summary": "赵鼎的儿子，勾结外人出卖李钧。",
+      "appearance": [],
+      "personality": [
+        "没脑子",
+        "纨绔",
+        "狠辣"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "父子"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "就是赵斗！你们浑水袍哥的太子爷！",
+        "赵斗看自己不顺眼的事情，李钧早就知道了"
       ],
       "mention_count": 4
-    },
-    {
-      "name": "我跟你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "我跟你无冤无仇啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我跟你无冤无仇啊",
-        "”乌鸦华雪白的眉毛向上一挑，似笑非笑道：“我跟你很熟"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "”　　李钧将竖起的衣领折下，露出脖子上的睚眦纹身",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧将竖起的衣领折下，露出脖子上的睚眦纹身",
-        "”　　李钧闻言脱下外套，露出一副肌肉线条匀称的精悍身体",
-        "”　　等李钧的身影消失后，乌鸦华才抬眼环视四周积攒的家底，脸上露出悲戚的神情"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "连你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "连你们袍哥会的医生解决不了，需要来找我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "连你们袍哥会的医生解决不了，需要来找我",
-        "”　　“连你们的舵把子赵鼎都不敢这么跟我说话，你算个什么东西"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "就这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "“就这点小伤",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“就这点小伤"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "你刚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第5章亡命徒",
-      "summary": "乌鸦华扯着嗓子吼了一声，见铁壁外的撞击声停了下来，这才皱着眉头说道：“你刚才说的什么我没听到，你今天也没来过乌鸦诊所，你走吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦华扯着嗓子吼了一声，见铁壁外的撞击声停了下来，这才皱着眉头说道：“你刚才说的什么我没听到，你今天也没来过乌鸦诊所，你走吧"
-      ],
-      "mention_count": 3
     }
   ]
 }

@@ -1,255 +1,225 @@
 {
   "chunk_id": "chunk-0035",
-  "title": "第三十三章 暂合（上）",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "修道者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十三章 暂合（上）",
-      "summary": "床上的林新猛然睁开眼睛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "床上的林新猛然睁开眼睛",
-        "因为是和衣而睡，林新提起剑，只是整理了下衣服，从带来的包袱中换了一套道袍，不过是反着穿上去",
-        "”　　林新暗自有些庆幸准备充分，提着剑，将自己的床铺被子裹起来，远望过去看上去很像有人睡觉的姿势"
+      "summary": "主角，修道者，拥有炎阳符剑，夜晚外出探查孔昱辉的行动。",
+      "appearance": [
+        "身穿反穿的道袍（内侧面灰黑色，可作夜行衣）",
+        "蒙面"
       ],
-      "mention_count": 32
+      "personality": [
+        "谨慎",
+        "果断",
+        "有冒险精神"
+      ],
+      "abilities": [
+        "内气循环",
+        "使用炎阳符剑"
+      ],
+      "equipment": [
+        "炎阳符剑",
+        "怨气符",
+        "肉干"
+      ],
+      "relationships": [
+        {
+          "target": "程若菲",
+          "type": "同伴"
+        },
+        {
+          "target": "江月儿",
+          "type": "同伴"
+        },
+        {
+          "target": "孔昱辉",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "从床上醒来，换上夜行衣，外出探查孔昱辉。"
+        },
+        {
+          "stage": "夜晚",
+          "event": "在坟地监视孔昱辉吸收红雾，并参与争夺阴血酒杯。"
+        }
+      ],
+      "evidence": [
+        "床上的林新猛然睁开眼睛。",
+        "林新小心翼翼的缓步向前。",
+        "林新找了个斜坡，躲藏在墓碑后静静看着孔昱辉。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "孔昱辉",
       "aliases": [],
-      "identity": "",
+      "identity": "修道者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十三章 暂合（上）",
-      "summary": "“我倒要看看孔昱辉打算干什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我倒要看看孔昱辉打算干什么",
-        "“这一次，不止是要吸收红雾，还要查探一下孔昱辉真正的目的",
-        "很快他便再一次看到了那片红雾笼罩下的红树林，孔昱辉果然还在那里盘膝坐地，身边一个人也没有，只有他一人"
+      "summary": "修道者，修炼孔雀剑法，拥有阴血酒杯，在坟地吸收红雾。",
+      "appearance": [
+        "盘膝坐地"
       ],
-      "mention_count": 19
+      "personality": [
+        "狡猾",
+        "有野心"
+      ],
+      "abilities": [
+        "孔雀剑法",
+        "孔雀秘技",
+        "腕部秘术",
+        "内气三层"
+      ],
+      "equipment": [
+        "白玉酒杯",
+        "小瓷瓶（装血水）",
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "黑影",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "在坟地吸收红雾，用酒杯凝聚阴血。"
+        },
+        {
+          "stage": "夜晚",
+          "event": "与林新和黑影争夺酒杯，施展孔雀剑法和孔雀秘技。"
+        }
+      ],
+      "evidence": [
+        "孔昱辉果然还在那里盘膝坐地",
+        "孔昱辉脸上露出一丝笑意",
+        "孔昱辉冷笑一声"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "孔昱",
+      "name": "黑影",
       "aliases": [],
-      "identity": "",
+      "identity": "修道者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十三章 暂合（上）",
-      "summary": "“我倒要看看孔昱辉打算干什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我倒要看看孔昱辉打算干什么",
-        "“这一次，不止是要吸收红雾，还要查探一下孔昱辉真正的目的",
-        "很快他便再一次看到了那片红雾笼罩下的红树林，孔昱辉果然还在那里盘膝坐地，身边一个人也没有，只有他一人"
+      "summary": "神秘修道者，使用青毒指，参与争夺阴血酒杯。",
+      "appearance": [
+        "黑影",
+        "面罩"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "伸手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 暂合（上）",
-      "summary": "他睁开双眼，伸手拿起酒杯，轻轻晃了晃，然后从袖口里取出一个小瓷瓶，去掉瓷瓶塞子，轻轻对准酒杯，往里一倒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他睁开双眼，伸手拿起酒杯，轻轻晃了晃，然后从袖口里取出一个小瓷瓶，去掉瓷瓶塞子，轻轻对准酒杯，往里一倒",
-        "黑影冷笑几声，伸手抓向酒杯",
-        "一个黑衣人带着面罩直接出现在他左侧，伸手就往酒杯抓去"
+      "personality": [
+        "阴险"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "往前",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 暂合（上）",
-      "summary": "往前走了几步，快要到院子石拱门时，他忽然感觉有些不对劲",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "往前走了几步，快要到院子石拱门时，他忽然感觉有些不对劲",
-        "他再往前走了几步",
-        "努力平复了下心情，林新缓缓抽出炎阳符剑，往前又走了几步"
+      "abilities": [
+        "青毒指"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 暂合（上）",
-      "summary": "炎阳符剑在手，他心中丝毫没有一丝畏惧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "孔昱辉",
+          "type": "敌对"
+        },
+        {
+          "target": "林新",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "在坟地出现，与林新、孔昱辉争夺酒杯。"
+        }
+      ],
       "evidence": [
-        "炎阳符剑在手，他心中丝毫没有一丝畏惧",
-        "”他心头打定主意，尽可能的躲藏着一路前行",
-        "”他心中猜测"
+        "呼的一下，一道黑影从右侧掠去",
+        "黑影冷笑几声",
+        "阁下的青毒指不也是一样？"
       ],
       "mention_count": 6
     },
     {
-      "name": "轻轻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 暂合（上）",
-      "summary": "他直起身，轻轻听了听隔壁的动静，程若菲和江月儿轻微的呼吸声还在，是正在睡觉的频率",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他直起身，轻轻听了听隔壁的动静，程若菲和江月儿轻微的呼吸声还在，是正在睡觉的频率",
-        "上半截的符纸化为黑灰，被晚风轻轻一吹，便散得无影无踪",
-        "他睁开双眼，伸手拿起酒杯，轻轻晃了晃，然后从袖口里取出一个小瓷瓶，去掉瓷瓶塞子，轻轻对准酒杯，往里一倒"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "外面",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 暂合（上）",
-      "summary": "”　　外面的小院子黑乎乎，连月光都很淡，被厚厚的云层遮住，整个周围一片漆黑，只能勉强看到半米左右的范围",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　外面的小院子黑乎乎，连月光都很淡，被厚厚的云层遮住，整个周围一片漆黑，只能勉强看到半米左右的范围",
-        "外面一片灰白的街道上呜呜的吹着冷风"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "赶紧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 暂合（上）",
-      "summary": "他赶紧从衣兜里取出程若菲给的那张怨气符，只见上边无声无息间已经燃烧了一半",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他赶紧从衣兜里取出程若菲给的那张怨气符，只见上边无声无息间已经燃烧了一半",
-        "”孔昱辉脸色发白，赶紧后掠，避开粉末",
-        "忽然他动作一僵，赶紧往右侧一让"
-      ],
-      "mention_count": 5
-    },
-    {
       "name": "程若菲",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的同伴",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第三十三章 暂合（上）",
-      "summary": "他直起身，轻轻听了听隔壁的动静，程若菲和江月儿轻微的呼吸声还在，是正在睡觉的频率",
+      "summary": "林新的同伴，提供怨气符，计划躲过今晚。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他直起身，轻轻听了听隔壁的动静，程若菲和江月儿轻微的呼吸声还在，是正在睡觉的频率",
-        "程若菲的计划是躲过今晚才行，但他可不愿意就这么白白浪费时间",
-        "他赶紧从衣兜里取出程若菲给的那张怨气符，只见上边无声无息间已经燃烧了一半"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同伴"
+        },
+        {
+          "target": "江月儿",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "与江月儿在隔壁房间睡觉。"
+        }
+      ],
+      "evidence": [
+        "程若菲和江月儿轻微的呼吸声还在",
+        "程若菲的计划是躲过今晚才行",
+        "从衣兜里取出程若菲给的那张怨气符"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "江月儿",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的同伴",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第三十三章 暂合（上）",
-      "summary": "因为是和衣而睡，林新提起剑，只是整理了下衣服，从带来的包袱中换了一套道袍，不过是反着穿上去",
+      "summary": "林新的同伴，与程若菲一起在隔壁房间睡觉。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为是和衣而睡，林新提起剑，只是整理了下衣服，从带来的包袱中换了一套道袍，不过是反着穿上去",
-        "只是后面个黑衣人速度慢了些，就快被剑屏擦中，他的一只袖子也撕拉一下被切开，手臂皮肤就要被剑屏削中"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同伴"
+        },
+        {
+          "target": "程若菲",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "很快他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 暂合（上）",
-      "summary": "约莫半个小时左右，很快他便穿出了镇子，来到白天来过的那片坟地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "约莫半个小时左右，很快他便穿出了镇子，来到白天来过的那片坟地",
-        "很快他便再一次看到了那片红雾笼罩下的红树林，孔昱辉果然还在那里盘膝坐地，身边一个人也没有，只有他一人"
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "与程若菲在隔壁房间睡觉。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "程若菲和江月儿轻微的呼吸声还在"
+      ],
+      "mention_count": 1
     }
   ]
 }

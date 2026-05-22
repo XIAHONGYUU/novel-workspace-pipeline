@@ -1,255 +1,241 @@
 {
   "chunk_id": "chunk-0708",
-  "title": "第七百零四章 动手（一）",
   "characters": [
     {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "孙小君",
+      "aliases": [
+        "枪王宗师"
+      ],
+      "identity": "九华殿供奉，枪王宗师",
+      "faction": "九华殿",
       "status": "登场",
       "first_appearance": "第七百零四章 动手（一）",
-      "summary": "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
+      "summary": "九华殿供奉，年过七旬但气血旺盛，以枪法闻名，是此行首领。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "谨慎"
+      ],
+      "abilities": [
+        "枪法宗师"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "作为首领与供奉们商议周王府抓魏雨一事，表态不主动冲突但不怕事。"
+        }
+      ],
+      "evidence": [
+        "此行以枪王宗师孙小君为首",
+        "孙小君早已年过七旬，气血旺盛却与青年人无异"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陈述",
+      "aliases": [],
+      "identity": "九华殿供奉",
+      "faction": "九华殿",
+      "status": "登场",
+      "first_appearance": "第七百零四章 动手（一）",
+      "summary": "九华殿供奉，向孙小君补充信息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
-        "”　　林新淡淡微笑道",
-        "”　　林新一见他这幅模样，便知道其担心什么，随口安慰了几句"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "补充说明是千手神君亲自出手抓了魏雨。"
+        }
       ],
-      "mention_count": 29
+      "evidence": [
+        "“就是那千手神君亲自出手。”陈述补充道。"
+      ],
+      "mention_count": 1
     },
     {
       "name": "清净王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "王爷"
+      ],
+      "identity": "王爷，与林新合作",
+      "faction": "周王府",
       "status": "登场",
       "first_appearance": "第七百零四章 动手（一）",
-      "summary": "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
+      "summary": "周王府的王爷，与千手神君合作，对林新抓魏雨一事感到震惊和焦虑。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "焦虑",
+        "方寸大乱"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
-        "哗啦一下，清净王一下从椅子上站起身",
-        "您怎么就……”清净王感觉自己现在就像是一下捅了个马蜂窝，心头既有对千手神君的实力惊叹，又是担心万一凤清堂出手全力针对自己该怎么办"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "合作"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "正在吃饭时得知林新抓了魏雨，大惊失色，担心凤清堂报复。"
+        }
+      ],
+      "evidence": [
+        "清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……",
+        "清净王感觉自己现在就像是一下捅了个马蜂窝"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "林新",
+      "aliases": [
+        "千手神君",
+        "红花道人",
+        "红花道长",
+        "神君",
+        "道长"
+      ],
+      "identity": "千手神君，红花道人，湖山派创始人",
+      "faction": "湖山派",
+      "status": "登场",
+      "first_appearance": "第七百零四章 动手（一）",
+      "summary": "神秘高手，自称两三百岁，抓魏雨欲收为关门弟子，建立宗门湖山派。",
+      "appearance": [],
+      "personality": [
+        "神秘",
+        "自信",
+        "果断"
+      ],
+      "abilities": [
+        "硬气功外门功夫",
+        "卸人关节"
+      ],
+      "equipment": [
+        "皮纸契约"
+      ],
+      "relationships": [
+        {
+          "target": "清净王",
+          "type": "合作"
+        },
+        {
+          "target": "魏雨",
+          "type": "欲收为弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抓魏雨回府，强迫其按手印，后出门应对凤清堂高手，秒杀驼背独眼。"
+        }
+      ],
+      "evidence": [
+        "千手神君红花道人",
+        "贫道现如今也有两三百岁",
+        "林新眼神一冷，落在此人身上。"
+      ],
+      "mention_count": 15
     },
     {
       "name": "魏雨",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "金枪将"
+      ],
+      "identity": "凤清堂高手，金枪将",
+      "faction": "凤清堂",
       "status": "登场",
       "first_appearance": "第七百零四章 动手（一）",
-      "summary": "第七百零四章 动手（一）　　此行以枪王宗师孙小君为首，按道理说，魏雨属于凤清堂一边，他被周王府的人抓了，自己等人应该高兴才是",
+      "summary": "凤清堂高手，使四十八连环金枪，被林新抓回欲收为弟子。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第七百零四章 动手（一）　　此行以枪王宗师孙小君为首，按道理说，魏雨属于凤清堂一边，他被周王府的人抓了，自己等人应该高兴才是",
-        "结果等千手神君提着人进门后，他才一眼认出，被提着的那人，居然是以前曾经让他头疼无比，麾下一众高手死伤惨重的凤清堂高手，金枪将魏雨",
-        "至于这魏雨，之后我便会放他离去，只不过现在先带回来认认路"
+      "personality": [
+        "不服",
+        "冷笑"
       ],
-      "mention_count": 8
+      "abilities": [
+        "四十八连环金枪"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被擒，被迫拜师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新抓回，被迫按手印，被卸关节关押。"
+        }
+      ],
+      "evidence": [
+        "金枪将魏雨",
+        "魏雨此时也是心头不爽，眼神不善的盯着林新"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "清净",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "赵无眠",
+      "aliases": [
+        "袖里乾坤"
+      ],
+      "identity": "凤清堂高手，江湖五大宗师之一",
+      "faction": "凤清堂",
       "status": "登场",
       "first_appearance": "第七百零四章 动手（一）",
-      "summary": "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
-      "appearance": [],
+      "summary": "凤清堂宗师，以铁袖功闻名，八十有三，带人堵截林新。",
+      "appearance": [
+        "白发白须老人，身穿青色道袍，两只袖子奇大"
+      ],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "铁袖功"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
-        "哗啦一下，清净王一下从椅子上站起身",
-        "您怎么就……”清净王感觉自己现在就像是一下捅了个马蜂窝，心头既有对千手神君的实力惊叹，又是担心万一凤清堂出手全力针对自己该怎么办"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带人堵截林新，但未直接出手。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "袖里乾坤赵无眠",
+        "赵无眠本身已经八十有三"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "众人",
+      "name": "驼背独眼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "凤清堂高手",
+      "faction": "凤清堂",
+      "status": "死亡",
       "first_appearance": "第七百零四章 动手（一）",
-      "summary": "众人心头便更是沉甸甸的，反而更加压抑了",
-      "appearance": [],
+      "summary": "凤清堂高手，因抢话被林新用铜板秒杀。",
+      "appearance": [
+        "驼背弯腰，一只眼睛戴着眼罩，满面皱纹"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "众人心头便更是沉甸甸的，反而更加压抑了",
-        "驼背还没说完话，众人便看到他整个身体如同被炮弹砸中一般，狠狠往后一下抛飞起来",
-        "此时众人才看清驼背到底是被什么所杀"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抢话后被林新用铜板击杀。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "孙小君",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百零四章 动手（一）",
-      "summary": "第七百零四章 动手（一）　　此行以枪王宗师孙小君为首，按道理说，魏雨属于凤清堂一边，他被周王府的人抓了，自己等人应该高兴才是",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第七百零四章 动手（一）　　此行以枪王宗师孙小君为首，按道理说，魏雨属于凤清堂一边，他被周王府的人抓了，自己等人应该高兴才是",
-        "孙小君眉头皱得更深了",
-        "孙小君早已年过七旬，气血旺盛却与青年人无异，坐在主位一言不发，还隐隐散发出一股压抑凝重气息"
+        "另一人驼背弯腰，一只眼睛戴着眼罩，满面皱纹。",
+        "他胸膛处正中间居然镶嵌了一枚黄铜色的铜板！"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "自然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百零四章 动手（一）",
-      "summary": "他不说话，其余人均是以他为首，自然也不会说话，都在等他表态",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他不说话，其余人均是以他为首，自然也不会说话，都在等他表态",
-        "他打定的主意，这些凡人自然不会明白",
-        "赵无眠带人亲自堵截，凤清堂自然不会是孤身前来，周围铁定有埋伏"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "实际",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百零四章 动手（一）",
-      "summary": "孙小君也是明白这点，九华殿有着极强的势力，实际上比凤清堂强出不少，但从始到终，两边却都只是打了个平手，一方面是凤清堂首脑谋划的原因，另一方面，这边供奉们都不愿意出死力，也是一个缘故",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "孙小君也是明白这点，九华殿有着极强的势力，实际上比凤清堂强出不少，但从始到终，两边却都只是打了个平手，一方面是凤清堂首脑谋划的原因，另一方面，这边供奉们都不愿意出死力，也是一个缘故",
-        "实际上对方虽然厉害，却也没厉害到太高的层次"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百零四章 动手（一）",
-      "summary": "结果等千手神君提着人进门后，他才一眼认出，被提着的那人，居然是以前曾经让他头疼无比，麾下一众高手死伤惨重的凤清堂高手，金枪将魏雨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "结果等千手神君提着人进门后，他才一眼认出，被提着的那人，居然是以前曾经让他头疼无比，麾下一众高手死伤惨重的凤清堂高手，金枪将魏雨",
-        "他才不会信什么两三百岁的谬言，心道这倒是神神道道的，不知道又要玩什么花样"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百零四章 动手（一）",
-      "summary": "他们心头都是明白人，加入九华殿，若不是为了朝中有人好办事，或者是那份极其优厚的俸禄，谁愿意巴巴的跑来为朝廷效力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他们心头都是明白人，加入九华殿，若不是为了朝中有人好办事，或者是那份极其优厚的俸禄，谁愿意巴巴的跑来为朝廷效力",
-        "“他们处理不了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "神君",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百零四章 动手（一）",
-      "summary": "但一想到周王府前不久传出来的消息，千手神君红花道人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但一想到周王府前不久传出来的消息，千手神君红花道人",
-        "“就是那千手神君亲自出手",
-        "他正在吃饭，然后就有人进来通报，说是神君抓了个人回来说是要收进湖山派，当关门弟子"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "却是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七百零四章 动手（一）",
-      "summary": "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　清净王正在吃菜，坐在桌子边，筷子夹着一夹酸豆角炒肉，正悬在半空中……　　眼睛却是盯着林新手上提着那个年轻人，嘴巴微张，一脸懵逼",
-        "童子是有了，但像此子这般天赋异禀之人，却是遇到一个就要抓一个",
-        "”　　他手指着林新，却是头一歪，居然断了气"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

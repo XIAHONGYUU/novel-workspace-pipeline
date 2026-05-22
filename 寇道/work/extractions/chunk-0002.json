@@ -1,258 +1,502 @@
 {
   "chunk_id": "chunk-0002",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "事实上，这正是寇立从一个老渔民手中购买的船只，据说最远的一次，跑过琉球",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "事实上，这正是寇立从一个老渔民手中购买的船只，据说最远的一次，跑过琉球",
-        "那日夜里，斗笠男见人就杀，鲜血染红了一切，而当寇立和郑小宝好不容易逃出来时，外围又被封锁",
-        "好在天无绝人之路，寇立之前做万一之想，实在不行，便就去海外寻仙踪，所以才购了此船，没想最后关头，成了保命的工具"
+      "aliases": [
+        "寇兄",
+        "守财奴",
+        "八师兄"
       ],
-      "mention_count": 74
+      "identity": "穿越者，烧身武馆新收弟子",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "穿越到异世界的现代人，获得无字图融入体内，拥有超常视力和听力，正在烧身武馆学习武功。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "现实",
+        "意志坚定"
+      ],
+      "abilities": [
+        "超常视力",
+        "超常听力",
+        "疑似内气感应"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "郑宝儿",
+          "type": "同伴"
+        },
+        {
+          "target": "燕飞娘",
+          "type": "欠债关系"
+        },
+        {
+          "target": "周新薪",
+          "type": "欠债关系"
+        },
+        {
+          "target": "罗严宗",
+          "type": "大师兄"
+        },
+        {
+          "target": "岳武霍",
+          "type": "二师兄"
+        },
+        {
+          "target": "林显师",
+          "type": "师傅"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在海上救起燕飞娘和周新薪，索要一千两报酬。"
+        },
+        {
+          "stage": "早期",
+          "event": "进入烧身武馆，开始站童子桩。"
+        }
+      ],
+      "evidence": [
+        "寇立摇了摇头，轻轻道：'不清楚，但愿吧。'",
+        "寇立淡淡的道，他可不是烂好人，连好人都未必算的上",
+        "寇立早已知道这桩法的练法，不用乌头再次讲解，自顾自的站了个架势。"
+      ],
+      "mention_count": 45
     },
     {
-      "name": "乌头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“对了，时候也不早了，我先让人收拾房间给你们休息，我晚上还要出去向同行打个招呼，就不和你们一起吃饭了，乌头，带两位师兄下去休息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“对了，时候也不早了，我先让人收拾房间给你们休息，我晚上还要出去向同行打个招呼，就不和你们一起吃饭了，乌头，带两位师兄下去休息",
-        "悄悄的打开了门，却发现昨天领路的乌头早已在门口等候，见了寇立，连忙道：“寇师兄，我带你去吃早食",
-        "”    这乌头跟普通的渔家仔一样，十七八岁，浑身黑溜溜的，双眼有些肿泡，但眼神十分机灵，不然也不会大清早就来候着了"
+      "name": "郑宝儿",
+      "aliases": [
+        "宝儿",
+        "郑小宝"
       ],
-      "mention_count": 28
-    },
-    {
-      "name": "燕飞娘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "郑老汉的孙子，烧身武馆新收弟子",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    燕飞娘虽然水性很好，但游了那么久，早已伤了肺部，一口气没喘上来，一屁股跌在船上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    燕飞娘虽然水性很好，但游了那么久，早已伤了肺部，一口气没喘上来，一屁股跌在船上",
-        "”    燕飞娘再也忍不住，眼一白，气的晕了过去",
-        "”燕飞娘注意到了这一点，在她的印象中，这个冷漠的‘渔夫’，不像是会自我介绍的"
+      "first_appearance": "第001章 穿越",
+      "summary": "年幼的男孩，与寇立一同逃难，进入烧身武馆学艺。",
+      "appearance": [
+        "白嫩嫩",
+        "肥嘟嘟",
+        "宛如观音童子"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    声音清越，如同新笋发芽，却是那个甲板上的女人，而且水性还不错",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    声音清越，如同新笋发芽，却是那个甲板上的女人，而且水性还不错",
-        "而且对方看似粗犷，皮肤却极其细腻，就像是玉石般，通体看不到一丝青筋，这、这难道是炼了筋了",
-        "“老六那边——”    “去武馆，教的也是一样的功夫，非得一定要拜师，而且，你不也在武馆里嘛"
+      "personality": [
+        "善良",
+        "关心爷爷"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "燕飞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    燕飞娘虽然水性很好，但游了那么久，早已伤了肺部，一口气没喘上来，一屁股跌在船上",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    燕飞娘虽然水性很好，但游了那么久，早已伤了肺部，一口气没喘上来，一屁股跌在船上",
-        "”    燕飞娘再也忍不住，眼一白，气的晕了过去",
-        "”燕飞娘注意到了这一点，在她的印象中，这个冷漠的‘渔夫’，不像是会自我介绍的"
+      "equipment": [
+        "墨签信物"
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "周新薪",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “……”    经过介绍，那蓬头垢面的女人，唤作燕飞娘，这年轻的书生，名叫周新薪，二人打小就定了亲，只不过这燕飞娘似乎不是很待见这个周书生，私自跑出了家门，而这周书生，便千里迢迢的寻了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “……”    经过介绍，那蓬头垢面的女人，唤作燕飞娘，这年轻的书生，名叫周新薪，二人打小就定了亲，只不过这燕飞娘似乎不是很待见这个周书生，私自跑出了家门，而这周书生，便千里迢迢的寻了过来",
-        "在粤州城内最大的海鲜坊中，周新薪特意洗漱打扮了番，才再度出现，本就生的眉清目秀，猿臂蜂腰，再加上订制的绸缎衣衫，活脱脱的一个美男子",
-        "”    周新薪热情的招待着，宴席不是不丰富，水晶虾、双头鲍、深海鱼骨汤，都是些上等食材，但是几人都吃的没滋没味"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同伴"
+        },
+        {
+          "target": "郑老汉",
+          "type": "爷爷"
+        }
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "好似",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“哥哥，好似有人在叫，”郑小宝左摇右看，有些不确定",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“哥哥，好似有人在叫，”郑小宝左摇右看，有些不确定",
-        "郑宝儿担忧爷爷，而寇立则是心不在焉，那燕飞娘倒是饿了，吃的很欢，只是不时的怒瞪寇立，好似有什么深仇大恨",
-        "只见这位，雄躯凛凛，至少九尺，宽口阔目，虬发散乱，好似一头雄狮，让人望而生畏，双手赤黑，好似一双铁锥"
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "与寇立一起逃到海上，后进入烧身武馆。"
+        }
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "周新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “……”    经过介绍，那蓬头垢面的女人，唤作燕飞娘，这年轻的书生，名叫周新薪，二人打小就定了亲，只不过这燕飞娘似乎不是很待见这个周书生，私自跑出了家门，而这周书生，便千里迢迢的寻了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    “……”    经过介绍，那蓬头垢面的女人，唤作燕飞娘，这年轻的书生，名叫周新薪，二人打小就定了亲，只不过这燕飞娘似乎不是很待见这个周书生，私自跑出了家门，而这周书生，便千里迢迢的寻了过来",
-        "在粤州城内最大的海鲜坊中，周新薪特意洗漱打扮了番，才再度出现，本就生的眉清目秀，猿臂蜂腰，再加上订制的绸缎衣衫，活脱脱的一个美男子",
-        "”    周新薪热情的招待着，宴席不是不丰富，水晶虾、双头鲍、深海鱼骨汤，都是些上等食材，但是几人都吃的没滋没味"
+        "'寇哥哥，爷爷不会有事吧，'从昨夜就一直很沉默的郑宝儿，第一次开了口。",
+        "'爷爷说了，他这次来，是带我拜师的，只要见了这个，那人一定会收下我'"
       ],
       "mention_count": 12
     },
     {
-      "name": "宝儿",
-      "aliases": [],
-      "identity": "",
+      "name": "燕飞娘",
+      "aliases": [
+        "飞娘"
+      ],
+      "identity": "江湖女子，周新薪的未婚妻",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“寇哥哥，爷爷不会有事吧，”从昨夜就一直很沉默的郑宝儿，第一次开了口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“寇哥哥，爷爷不会有事吧，”从昨夜就一直很沉默的郑宝儿，第一次开了口",
-        "寇立刚想开口，忽然一愣，十里开外的景象，宝儿看不清楚情有可原，自己的视力什么时候变这么好了",
-        "“哥哥，你就帮帮这个姐姐吧，”郑宝儿扯了扯寇立衣袖，小声道"
+      "first_appearance": "第001章 穿越",
+      "summary": "性格泼辣、有主见的江湖女子，武功不弱，对寇立索要报酬不满。",
+      "appearance": [
+        "黑油般的头发，用绿丝绳扎紧",
+        "容貌精致",
+        "眉宇间有股英气",
+        "腰佩宝剑"
       ],
-      "mention_count": 11
+      "personality": [
+        "泼辣",
+        "英气",
+        "记仇"
+      ],
+      "abilities": [
+        "水性好",
+        "武功"
+      ],
+      "equipment": [
+        "宝剑"
+      ],
+      "relationships": [
+        {
+          "target": "周新薪",
+          "type": "未婚妻"
+        },
+        {
+          "target": "寇立",
+          "type": "欠债关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在海上被寇立救起，后一同到粤州城。"
+        }
+      ],
+      "evidence": [
+        "燕飞娘再也忍不住，眼一白，气的晕了过去。",
+        "燕飞娘柳眉一竖，筷子往桌面上一拍，吓的这未婚夫腿都软了。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "岳武霍",
-      "aliases": [],
-      "identity": "",
+      "name": "周新薪",
+      "aliases": [
+        "周书生",
+        "呆书生"
+      ],
+      "identity": "富家书生，燕飞娘的未婚夫",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“呵呵，那就好，这是你们二师兄岳武霍，除了我们之外，林师还收了五个弟子，之前也已经给你介绍过，不过除了老四罗墩子外，现都不在武馆中",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "第001章 穿越",
+      "summary": "家境富裕的书生，性格懦弱，对燕飞娘痴情。",
+      "appearance": [
+        "眉清目秀",
+        "猿臂蜂腰",
+        "绸缎衣衫"
+      ],
+      "personality": [
+        "懦弱",
+        "热情",
+        "缺心眼"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "洒金扇"
+      ],
+      "relationships": [
+        {
+          "target": "燕飞娘",
+          "type": "未婚夫"
+        },
+        {
+          "target": "寇立",
+          "type": "欠债关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在海上被寇立救起，后一同到粤州城。"
+        }
+      ],
       "evidence": [
-        "“呵呵，那就好，这是你们二师兄岳武霍，除了我们之外，林师还收了五个弟子，之前也已经给你介绍过，不过除了老四罗墩子外，现都不在武馆中",
-        "”    寇立注意到，对面的大黑熊岳武霍欲言又止，似是想要说些什么",
-        "”    待二人走后，岳武霍才忍不住道：“师兄，你真的打算收他们"
+        "说话的这位，正是之前搞不清楚状况的呆书生",
+        "周新薪纠结了一下，还是开了口：'这玩也玩的差不多了，是不是可以回家，成亲——'"
       ],
       "mention_count": 10
     },
     {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“这是我的船，”寇立斜了对方一眼，平静的道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这是我的船，”寇立斜了对方一眼，平静的道",
-        "“这是个女人么，宝儿你是不是认错了",
-        "“当然认识，这是寇立寇兄弟，我在客栈认识的朋友，没想在那场惨剧中，寇兄也逃了出来，真是幸甚"
+      "name": "岳武霍",
+      "aliases": [
+        "大黑熊",
+        "二师兄"
       ],
-      "mention_count": 9
+      "identity": "烧身武馆二师兄，总教头",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "身材魁梧，武功高强，已达四炼之境，负责武馆日常训练。",
+      "appearance": [
+        "雄躯凛凛，至少九尺",
+        "宽口阔目，虬发散乱",
+        "双手赤黑，好似一双铁锥",
+        "皮肤细腻，如玉石般"
+      ],
+      "personality": [
+        "粗犷",
+        "敬重大师兄",
+        "对寇立不满"
+      ],
+      "abilities": [
+        "四炼之境",
+        "松肩垂肘、实腹开胸，行进间如猫儿灵巧"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗严宗",
+          "type": "大师兄"
+        },
+        {
+          "target": "林显师",
+          "type": "师傅"
+        },
+        {
+          "target": "寇立",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在武馆门口接待燕飞娘和周新薪，后负责训练学徒。"
+        }
+      ],
+      "evidence": [
+        "只见这位，雄躯凛凛，至少九尺，宽口阔目，虬发散乱，好似一头雄狮",
+        "岳武霍平素最是敬重他的大师兄"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "武馆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "罗严宗",
+      "aliases": [
+        "大师兄"
+      ],
+      "identity": "烧身武馆大师兄",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “粤东乃是南方拳种的发源地之一，拳家、武馆之多，不下数百，但其中最著名的，便是三所武馆，烧身武馆、五象馆、车家拳",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "第001章 穿越",
+      "summary": "气质沉稳，有威信，代师收徒，收下寇立和郑宝儿。",
+      "appearance": [
+        "面貌普通"
+      ],
+      "personality": [
+        "沉稳",
+        "诚实有信",
+        "守规矩"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “粤东乃是南方拳种的发源地之一，拳家、武馆之多，不下数百，但其中最著名的，便是三所武馆，烧身武馆、五象馆、车家拳",
-        "”    “而在这粤东，只有一个人能称的上南拳大师，便是烧身武馆的馆主，江湖人称百手师的林显师",
-        "正文 第五章 童子桩    武馆大多开在城中，待在乡下的，一般都是被地主豪绅供奉起来的拳师，毕竟穷文富武，可不仅仅说说而已"
+      "relationships": [
+        {
+          "target": "岳武霍",
+          "type": "师弟"
+        },
+        {
+          "target": "林显师",
+          "type": "师傅"
+        },
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "郑宝儿",
+          "type": "师弟"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "代师收徒，安排寇立和郑宝儿入住武馆。"
+        }
+      ],
+      "evidence": [
+        "罗严宗虽然面貌普通，但气质沉稳、诚实有信，说起话来，能让人信服。",
+        "'不用再说，'罗严宗制止了对方开口"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "乌头",
+      "aliases": [],
+      "identity": "烧身武馆学徒，负责站桩训练",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "渔家少年，在武馆学艺，负责教导新学徒站桩。",
+      "appearance": [
+        "浑身黑溜溜的",
+        "双眼有些肿泡",
+        "眼神机灵"
+      ],
+      "personality": [
+        "机灵",
+        "上进"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "教习"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "带寇立吃早饭，并教他站桩。"
+        }
+      ],
+      "evidence": [
+        "这乌头跟普通的渔家仔一样，十七八岁，浑身黑溜溜的，双眼有些肿泡，但眼神十分机灵",
+        "乌头哭丧着脸道"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "林显师",
+      "aliases": [
+        "百手师",
+        "林师"
+      ],
+      "identity": "烧身武馆馆主，南拳大师",
+      "faction": "烧身武馆",
+      "status": "提及",
+      "first_appearance": "第001章 穿越",
+      "summary": "粤东唯一能称南拳大师的人物，武功高强，不收徒多年。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "南拳大师"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗严宗",
+          "type": "徒弟"
+        },
+        {
+          "target": "岳武霍",
+          "type": "徒弟"
+        },
+        {
+          "target": "寇立",
+          "type": "徒弟"
+        },
+        {
+          "target": "郑宝儿",
+          "type": "徒弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "访友未归。"
+        }
+      ],
+      "evidence": [
+        "烧身武馆的馆主，江湖人称百手师的林显师",
+        "这位大师可是已经不收徒好多年了"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "姜水源",
+      "aliases": [],
+      "identity": "烧身武馆少年组学徒，城中富商子弟",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "富商子弟，对寇立成为内门弟子心怀嫉妒，暗中挑拨。",
+      "appearance": [],
+      "personality": [
+        "嫉恨",
+        "有心眼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌视"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在饭堂嘲讽寇立。"
+        }
+      ],
+      "evidence": [
+        "姜水源顿时一噎，眼中闪过一丝嫉恨之色",
+        "他心里，已经想出好几个阴毒手段了"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "马源",
+      "aliases": [],
+      "identity": "烧身武馆少年组学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "少年组中桩功第二好，性格傲，被姜水源挑拨挑战寇立。",
+      "appearance": [],
+      "personality": [
+        "傲气"
+      ],
+      "abilities": [
+        "桩功好"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "挑战"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在饭堂向寇立挑战。"
+        }
+      ],
+      "evidence": [
+        "五人之中，年龄最小，但桩功练的第二好的马源，忍不住跨前一步，冷哼道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "谭鱼",
+      "aliases": [],
+      "identity": "烧身武馆少年组学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "少年组中年纪稍长的学徒，对寇立较为礼貌。",
+      "appearance": [
+        "光头"
+      ],
+      "personality": [
+        "礼貌"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "问候"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在饭堂向寇立问候。"
+        }
+      ],
+      "evidence": [
+        "谭鱼、马源、虾头、王神奴四人中，只有谭鱼这个年纪稍长的，向自己问候了一句"
+      ],
+      "mention_count": 2
     }
   ]
 }

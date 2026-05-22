@@ -1,244 +1,123 @@
 {
   "chunk_id": "chunk-0289",
-  "title": "第287章新旦（二）",
   "characters": [
     {
-      "name": "老人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张峰岳",
+      "aliases": [
+        "阁老",
+        "老人",
+        "老者",
+        "内阁首辅"
+      ],
+      "identity": "大明帝国内阁首辅",
+      "faction": "新东林党",
       "status": "登场",
       "first_appearance": "第287章新旦（二）",
-      "summary": "老人俯身将戴着眼镜的花眼凑近，逐字逐句细细斟酌",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "老人俯身将戴着眼镜的花眼凑近，逐字逐句细细斟酌",
-        "老人微微一笑，朝着众人摆了摆手，“只要新政能够顺利推行，能给帝国留下一个安稳的罪民区，我也就满足了",
-        "”　　老人提腕落笔，重重一勾"
+      "summary": "大明帝国内阁首辅，新东林党的领袖，年迈但威望极高，正在处理致仕前的最后事务。",
+      "appearance": [
+        "头白似雪",
+        "皱积成山",
+        "威严的官服覆着佝偻的身体",
+        "弯曲的手指"
       ],
-      "mention_count": 11
+      "personality": [
+        "谦逊",
+        "睿智",
+        "有担当"
+      ],
+      "abilities": [],
+      "equipment": [
+        "眼镜",
+        "朱红官袍",
+        "枢笔"
+      ],
+      "relationships": [
+        {
+          "target": "皇帝",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新旦",
+          "event": "在文渊阁批阅新政公文，向皇帝致贺，并宣布致仕。"
+        }
+      ],
+      "evidence": [
+        "内阁首辅张峰岳，恭贺吾皇万岁万岁，万万岁！",
+        "老人微微一笑，撩起朱红官袍，跪地叩首。",
+        "我老了，要是再霸着这个位置就不合适了。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "”　　他们在变革之中独善其身，拒绝接受义肢改造，刻板的认为凭借自己苦读一生锤炼的人生智慧和积攒的文治功勋，也足以支撑着序列的晋升",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他们在变革之中独善其身，拒绝接受义肢改造，刻板的认为凭借自己苦读一生锤炼的人生智慧和积攒的文治功勋，也足以支撑着序列的晋升",
-        "”　　对于这些守旧的老人而言，他们的前半生虽然经历甚至引领了‘第二次技术革命’，但‘身体发肤受之父母’的道理却早已经深入他们的基因",
-        "与平日间不同，他们的站位并不是按照官职大小，也不是依据序列高低"
+      "name": "皇帝",
+      "aliases": [
+        "朕",
+        "吾皇"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "帝国",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "大明帝国皇帝",
+      "faction": "皇室",
       "status": "登场",
       "first_appearance": "第287章新旦（二）",
-      "summary": "第287章新旦（二）　　大明帝国，京都",
+      "summary": "大明帝国皇帝，年轻，通过投影和声音出现，颁布新年诏书。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第287章新旦（二）　　大明帝国，京都",
-        "这些都是产自神机重工，由吏部统一配发给帝国高级官吏使用的‘朱舆’",
-        "”　　书案左右，站成两排缄默的帝国官吏"
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "君臣"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "老者",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "站在门槛之前，老者缓缓挺直了脊背，在身后众人眼中却如平地起峰峦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "新旦",
+          "event": "通过投影发布新年诏书，并与张峰岳对话。"
+        }
+      ],
       "evidence": [
-        "站在门槛之前，老者缓缓挺直了脊背，在身后众人眼中却如平地起峰峦",
-        "老者推开搀扶的手臂，佝偻着身形缓缓走向门，身上略显宽大的官服拖曳在地"
+        "略显稚嫩的声音从浮空的飞艇中发出",
+        "一道明黄色的投影自云层中迈步而出。",
+        "老师，朕说的对吗？"
       ],
       "mention_count": 5
     },
     {
-      "name": "我也",
+      "name": "年老官员",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "新东林党官员",
+      "faction": "新东林党",
       "status": "登场",
       "first_appearance": "第287章新旦（二）",
-      "summary": "老人微微一笑，朝着众人摆了摆手，“只要新政能够顺利推行，能给帝国留下一个安稳的罪民区，我也就满足了",
-      "appearance": [],
-      "personality": [],
+      "summary": "一位支持张峰岳的年老官员，反对张峰岳致仕。",
+      "appearance": [
+        "眉眼间同样沟壑深重"
+      ],
+      "personality": [
+        "忠诚",
+        "激进"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "老人微微一笑，朝着众人摆了摆手，“只要新政能够顺利推行，能给帝国留下一个安稳的罪民区，我也就满足了",
-        "“十年前，面对权倾朝野的司礼监，我也不过只是一个籍籍无名的儒五黄门郎罢了"
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "对于",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "对于很多自小生活在这里的人来说，皇城禁院从来不在地面，而是在云端",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "对于很多自小生活在这里的人来说，皇城禁院从来不在地面，而是在云端",
-        "”　　对于这些守旧的老人而言，他们的前半生虽然经历甚至引领了‘第二次技术革命’，但‘身体发肤受之父母’的道理却早已经深入他们的基因"
+      "timeline": [
+        {
+          "stage": "新旦",
+          "event": "在文渊阁中搀扶张峰岳，并劝阻其致仕。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "队列",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "队列朝着文渊阁的大门方向继续延伸，束手而立之人的年纪也在越变越轻，从颌下生髯，到面上无须，身上义肢改造的痕迹也越来越明显",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "队列朝着文渊阁的大门方向继续延伸，束手而立之人的年纪也在越变越轻，从颌下生髯，到面上无须，身上义肢改造的痕迹也越来越明显",
-        "队列站位长幼有序，让这场内阁会议，看起来更像是一次家族聚议"
+        "一名眉眼间同样沟壑深重的年老官员搀着他的手臂，轻声道：“您可不能休息啊，新东林党可离不开您。”",
+        "年老官员怒道：“我看谁敢？！三法司那些人谁敢跳出来，我第一个扒了他的皮！”"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "到面",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "队列朝着文渊阁的大门方向继续延伸，束手而立之人的年纪也在越变越轻，从颌下生髯，到面上无须，身上义肢改造的痕迹也越来越明显",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "队列朝着文渊阁的大门方向继续延伸，束手而立之人的年纪也在越变越轻，从颌下生髯，到面上无须，身上义肢改造的痕迹也越来越明显"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "以后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "“这是我能做的最后一件事了，以后也不用辛苦了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这是我能做的最后一件事了，以后也不用辛苦了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "弯曲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "头白似雪，皱积成山，威严的官服覆着佝偻的身体，弯曲的手指握着挺直的笔杆",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "头白似雪，皱积成山，威严的官服覆着佝偻的身体，弯曲的手指握着挺直的笔杆"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "朕说",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "“老师，朕说的对吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“老师，朕说的对吗"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "便再",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第287章新旦（二）",
-      "summary": "黄的纸，黑的字，朱砂勾准，便再无还转的余地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黄的纸，黑的字，朱砂勾准，便再无还转的余地"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

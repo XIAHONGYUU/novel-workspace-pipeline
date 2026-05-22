@@ -1,253 +1,423 @@
 {
   "chunk_id": "chunk-0704",
-  "title": "第701章人如灯灭",
   "characters": [
     {
       "name": "商戮",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第701章人如灯灭",
-      "summary": "“商戮，负隅顽抗已经没有任何意义",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“商戮，负隅顽抗已经没有任何意义",
-        "”　　商戮冷漠决绝的态度顿时激怒了这群法序，厉声的斥责纷至沓来",
-        "”　　商戮看着这群大义凛然之辈，冷笑开口：“他为何而死，难道你们心里不清楚"
+      "aliases": [
+        "商戮"
       ],
-      "mention_count": 34
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "法序从序者，商家子弟",
+      "faction": "法序",
+      "status": "死亡",
       "first_appearance": "第701章人如灯灭",
-      "summary": "“难道你们商家这些年把我们法序害的还不够惨",
+      "summary": "商家子弟，法序从序者，为保护杨白泽和百姓，最终献祭自身，自戕谢罪。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“难道你们商家这些年把我们法序害的还不够惨",
-        "”　　有人怒喝道：“法序遭受的这些屈辱全都是他商司古一手造成，现在他虽然已经死了，但依旧无法洗清他这些年来犯下的错误，所以你们商家已经不配再继续持有黄梁律境的权限",
-        "”　　商戮看着这群大义凛然之辈，冷笑开口：“他为何而死，难道你们心里不清楚"
+      "personality": [
+        "决绝",
+        "重情义",
+        "坚守律法"
       ],
-      "mention_count": 16
+      "abilities": [
+        "律法审判",
+        "献祭入黄梁律境"
+      ],
+      "equipment": [
+        "法尺"
+      ],
+      "relationships": [
+        {
+          "target": "商司古",
+          "type": "叔侄"
+        },
+        {
+          "target": "杨白泽",
+          "type": "同伴"
+        },
+        {
+          "target": "薛无屈",
+          "type": "敌对"
+        },
+        {
+          "target": "温司寇",
+          "type": "敌对"
+        },
+        {
+          "target": "白简",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与法序众人对峙，最终自戕谢罪，献祭入黄梁律境。"
+        }
+      ],
+      "evidence": [
+        "法序从序者商戮，今自愿放弃七情六欲与人身肉体，献祭意识入黄梁律境，甘为守律之人！",
+        "其罪三，不能护卫律法威严。今当以自戕谢罪，刻不容缓。",
+        "商戮抽动嘴角，挤出一丝笑容，说道：‘本来就活不了了，原本是打算坚持到送你出城再死，现在看来是做不到了，对不住了啊。’"
+      ],
+      "mention_count": 30
     },
     {
       "name": "杨白泽",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "杨白泽"
+      ],
+      "identity": "不明",
       "faction": "",
-      "status": "登场",
+      "status": "存活",
       "first_appearance": "第701章人如灯灭",
-      "summary": "”　　直到此刻，杨白泽终于认出了这群法序的身份，赫然正是在大明朝三法司的现任主官",
+      "summary": "被商戮保护的人，与商戮关系密切，目睹商戮死亡。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "重情义",
+        "有胆识"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　直到此刻，杨白泽终于认出了这群法序的身份，赫然正是在大明朝三法司的现任主官",
-        "”　　三人中，有人开口回道：“杨白泽，你也算是有头脑的人，应该知道我们这些年付出的代价不比他商家少半分，何来忘恩负义一说",
-        "”　　“杨白泽，你不用着急找死，等商戮死后，下一个就是你"
+      "relationships": [
+        {
+          "target": "商戮",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被商戮保护，目睹商戮自戕，后与薛无屈（邹四九）对峙。"
+        }
+      ],
+      "evidence": [
+        "杨白泽抢身抱住了商戮，却像是抱住了一块冰块，入手刺骨冰寒。",
+        "杨白泽眼皮一翻，故作没好气问道：‘你到底还死不死？不是就赶紧起来，躺在地上要死不活的算个什么事儿？’",
+        "杨白泽口中喃喃自语，神情一片麻木。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "杨白",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第701章人如灯灭",
-      "summary": "”　　直到此刻，杨白泽终于认出了这群法序的身份，赫然正是在大明朝三法司的现任主官",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　直到此刻，杨白泽终于认出了这群法序的身份，赫然正是在大明朝三法司的现任主官",
-        "”　　三人中，有人开口回道：“杨白泽，你也算是有头脑的人，应该知道我们这些年付出的代价不比他商家少半分，何来忘恩负义一说",
-        "”　　“杨白泽，你不用着急找死，等商戮死后，下一个就是你"
+      "name": "薛无屈",
+      "aliases": [
+        "薛无曲"
       ],
-      "mention_count": 11
+      "identity": "法序，三法司主官之一",
+      "faction": "法序",
+      "status": "死亡（后被邹四九取代）",
+      "first_appearance": "第701章人如灯灭",
+      "summary": "法序高层，与温司寇、白简一同逼迫商戮，后被商戮的守律人斩杀，但实际被邹四九夺舍。",
+      "appearance": [],
+      "personality": [
+        "忘恩负义",
+        "冷酷"
+      ],
+      "abilities": [],
+      "equipment": [
+        "法尺"
+      ],
+      "relationships": [
+        {
+          "target": "商戮",
+          "type": "敌对"
+        },
+        {
+          "target": "温司寇",
+          "type": "同伙"
+        },
+        {
+          "target": "白简",
+          "type": "同伙"
+        },
+        {
+          "target": "邹四九",
+          "type": "被夺舍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与温司寇、白简一同逼迫商戮，被商戮的守律人斩杀，但实际被邹四九夺舍。"
+        }
+      ],
+      "evidence": [
+        "温司寇、白简、薛无屈，原来是你们这三条忘恩负义的老狗！",
+        "薛无屈三人眼眸中一片枯败死寂，身体摔倒在灰尘中，再无任何生机。",
+        "本该死去的薛无屈竟又站了起来。他脸上五官赫然在自行挤动，片刻间竟然变成了一张杨白泽十分熟悉的面孔。邹四九！"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "温司寇",
+      "aliases": [
+        "温司寇"
+      ],
+      "identity": "法序，三法司主官之一",
+      "faction": "法序",
+      "status": "死亡",
       "first_appearance": "第701章人如灯灭",
-      "summary": "第701章人如灯灭　　“哥，是那些鬼.他们又来了",
+      "summary": "法序高层，与薛无屈、白简一同逼迫商戮，后被商戮的守律人斩杀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "忘恩负义",
+        "冷酷"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第701章人如灯灭　　“哥，是那些鬼.他们又来了",
-        "可在女孩的眼中，他们却分明就是一群从地狱之中爬出来的恶鬼",
-        "窃居在他们身体的黄梁鬼被律法之力尽数驱逐湮灭"
+      "relationships": [
+        {
+          "target": "商戮",
+          "type": "敌对"
+        },
+        {
+          "target": "薛无屈",
+          "type": "同伙"
+        },
+        {
+          "target": "白简",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛无屈、白简一同逼迫商戮，被商戮的守律人斩杀。"
+        }
+      ],
+      "evidence": [
+        "温司寇、白简、薛无屈，原来是你们这三条忘恩负义的老狗！",
+        "薛无屈三人眼眸中一片枯败死寂，身体摔倒在灰尘中，再无任何生机。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "法序",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "白简",
+      "aliases": [
+        "白简"
+      ],
+      "identity": "法序，三法司主官之一",
+      "faction": "法序",
+      "status": "死亡",
       "first_appearance": "第701章人如灯灭",
-      "summary": "”　　商戮冷漠决绝的态度顿时激怒了这群法序，厉声的斥责纷至沓来",
+      "summary": "法序高层，与薛无屈、温司寇一同逼迫商戮，后被商戮的守律人斩杀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "忘恩负义",
+        "冷酷"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "商戮",
+          "type": "敌对"
+        },
+        {
+          "target": "薛无屈",
+          "type": "同伙"
+        },
+        {
+          "target": "温司寇",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛无屈、温司寇一同逼迫商戮，被商戮的守律人斩杀。"
+        }
+      ],
       "evidence": [
-        "”　　商戮冷漠决绝的态度顿时激怒了这群法序，厉声的斥责纷至沓来",
-        "“难道你们商家这些年把我们法序害的还不够惨",
-        "他为了从张峰岳手中得到黄梁律境，让自己能够晋升法序三，甘愿卑躬屈膝，让法序被皇权彻底遗弃，从诸序的监督者，沦落为给他张峰岳看家护院的打手走狗，更让天下百姓忘却了律法的威严"
+        "温司寇、白简、薛无屈，原来是你们这三条忘恩负义的老狗！",
+        "薛无屈三人眼眸中一片枯败死寂，身体摔倒在灰尘中，再无任何生机。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "邹四九"
+      ],
+      "identity": "不明，疑似黄梁鬼或东皇宫人物",
+      "faction": "东皇宫",
+      "status": "存活",
+      "first_appearance": "第701章人如灯灭",
+      "summary": "夺舍薛无屈的神秘人物，在商戮死后现身，与杨白泽对峙。",
+      "appearance": [],
+      "personality": [
+        "神秘",
+        "强大"
+      ],
+      "abilities": [
+        "夺舍"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛无屈",
+          "type": "夺舍"
+        },
+        {
+          "target": "杨白泽",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "夺舍薛无屈，在商戮死后现身，与杨白泽对峙。"
+        }
+      ],
+      "evidence": [
+        "本该死去的薛无屈竟又站了起来。他脸上五官赫然在自行挤动，片刻间竟然变成了一张杨白泽十分熟悉的面孔。邹四九！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "少年",
+      "aliases": [],
+      "identity": "普通百姓",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "第701章人如灯灭",
+      "summary": "被商戮和杨白泽救下的少年，带着妹妹逃离。",
+      "appearance": [],
+      "personality": [
+        "恐惧",
+        "警惕"
+      ],
+      "abilities": [],
+      "equipment": [
+        "匕首"
+      ],
+      "relationships": [
+        {
+          "target": "女孩",
+          "type": "兄妹"
+        },
+        {
+          "target": "商戮",
+          "type": "被救"
+        },
+        {
+          "target": "杨白泽",
+          "type": "被救"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被商戮和杨白泽救下，后持刀警惕杨白泽，最终离开。"
+        }
+      ],
+      "evidence": [
+        "少年悄然捡起了自己方才因为怯懦而丢弃的匕首",
+        "惊觉自己被发现，少年猛然举刀对准了杨白泽，撕心裂肺喊道：‘放过我们.’"
       ],
       "mention_count": 5
     },
     {
-      "name": "如此",
+      "name": "女孩",
       "aliases": [],
-      "identity": "",
+      "identity": "普通百姓",
       "faction": "",
-      "status": "登场",
+      "status": "存活",
       "first_appearance": "第701章人如灯灭",
-      "summary": "“唔哈.”　　商戮猛然喷出一口鲜血，如此大范围的律法审判，对于此刻的他而言无疑是巨大的负担",
+      "summary": "被少年保护的女孩，目睹了事件。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恐惧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“唔哈.”　　商戮猛然喷出一口鲜血，如此大范围的律法审判，对于此刻的他而言无疑是巨大的负担",
-        "“如此心慈手软，优柔寡断，可见你们商家之人根本就没有持律为法的资格",
-        "如此法序，何其可悲"
+      "relationships": [
+        {
+          "target": "少年",
+          "type": "兄妹"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被少年保护，后随少年离开。"
+        }
+      ],
+      "evidence": [
+        "少年却还是将女孩紧紧搂在怀中",
+        "就看见那少年正拉着女孩一步步退远"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "那我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "商司古",
+      "aliases": [
+        "商司古"
+      ],
+      "identity": "法序源头之人，商戮的叔叔",
+      "faction": "法序",
+      "status": "已故",
       "first_appearance": "第701章人如灯灭",
-      "summary": "”　　“如果站在台前受点委屈和嘲讽也能算作是付出，那我只能说是商家这些年把你们保护的太好了",
+      "summary": "商戮的叔叔，已故，曾为法序做出牺牲，但被法序众人指责。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉默木讷",
+        "牺牲精神"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“如果站在台前受点委屈和嘲讽也能算作是付出，那我只能说是商家这些年把你们保护的太好了",
-        "“你还给了他，那我又拿什么还给你"
+      "relationships": [
+        {
+          "target": "商戮",
+          "type": "叔侄"
+        },
+        {
+          "target": "张峰岳",
+          "type": "曾合作"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "孤身刺杀张峰岳失败身亡。"
+        }
+      ],
+      "evidence": [
+        "商司古孤身刺杀张峰岳那个乱臣贼子的举动，从头到尾不过就是个笑话。",
+        "他舍弃自身性命，用刺杀送命的方式去求张峰岳给法序众人一次选择的机会"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "你还",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第701章人如灯灭",
-      "summary": "把权限交出来，你还可能有一线生机",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "把权限交出来，你还可能有一线生机",
-        "“你还给了他，那我又拿什么还给你"
+      "name": "张峰岳",
+      "aliases": [
+        "张首辅"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "他为",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "首辅",
+      "faction": "朝廷",
+      "status": "存活（推测）",
       "first_appearance": "第701章人如灯灭",
-      "summary": "他为了从张峰岳手中得到黄梁律境，让自己能够晋升法序三，甘愿卑躬屈膝，让法序被皇权彻底遗弃，从诸序的监督者，沦落为给他张峰岳看家护院的打手走狗，更让天下百姓忘却了律法的威严",
+      "summary": "首辅，被法序众人指责，但商戮和杨白泽对其有敬意。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他为了从张峰岳手中得到黄梁律境，让自己能够晋升法序三，甘愿卑躬屈膝，让法序被皇权彻底遗弃，从诸序的监督者，沦落为给他张峰岳看家护院的打手走狗，更让天下百姓忘却了律法的威严",
-        "”　　商戮看着这群大义凛然之辈，冷笑开口：“他为何而死，难道你们心里不清楚"
+      "relationships": [
+        {
+          "target": "商司古",
+          "type": "曾合作"
+        },
+        {
+          "target": "商戮",
+          "type": "被托付"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "有人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第701章人如灯灭",
-      "summary": "”　　有人怒喝道：“法序遭受的这些屈辱全都是他商司古一手造成，现在他虽然已经死了，但依旧无法洗清他这些年来犯下的错误，所以你们商家已经不配再继续持有黄梁律境的权限",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　有人怒喝道：“法序遭受的这些屈辱全都是他商司古一手造成，现在他虽然已经死了，但依旧无法洗清他这些年来犯下的错误，所以你们商家已经不配再继续持有黄梁律境的权限",
-        "”　　有人接口道：“在这样一场足以改天换地的动荡中，我们法序只能孤注一掷去证明自己的价值，才能真正换来一个崛起的机会",
-        "”　　有人拂袖冷笑：“值此乱世，就当用重典"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "绝天地通，被法序指责。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第701章人如灯灭",
-      "summary": "“难道你们商家这些年把我们法序害的还不够惨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“难道你们商家这些年把我们法序害的还不够惨",
-        "”　　有人接口道：“在这样一场足以改天换地的动荡中，我们法序只能孤注一掷去证明自己的价值，才能真正换来一个崛起的机会",
-        "“我们忘谁的恩，负谁的义"
+        "张峰岳为了他们绝天地通",
+        "黄梁律境，帮我还给首辅他老人家"
       ],
       "mention_count": 4
     }

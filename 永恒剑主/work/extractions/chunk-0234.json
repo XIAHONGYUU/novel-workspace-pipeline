@@ -1,258 +1,206 @@
 {
   "chunk_id": "chunk-0234",
-  "title": "第二百三十一章 青鱼灯（下）",
   "characters": [
     {
       "name": "马原",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "马领队"
+      ],
+      "identity": "车队领队",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "马原和几个领队指挥着众人一一分部帐篷位置，大家形成一个更大的复杂阵型，似乎有着什么特殊作用",
+      "summary": "车队领队，谨慎务实，为保护车队和包罗飞决定冒险。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "务实"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "马原和几个领队指挥着众人一一分部帐篷位置，大家形成一个更大的复杂阵型，似乎有着什么特殊作用",
-        "正布置中的马原此时听了跑过来的一个下属回报，顿时眉头紧蹙",
-        "”马原沉吟了下，吩咐道"
+      "relationships": [
+        {
+          "target": "马秋秋",
+          "type": "父女"
+        },
+        {
+          "target": "包罗飞",
+          "type": "被保护者"
+        }
       ],
-      "mention_count": 26
-    },
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "……　　林新小心将面前的宣纸上墨汁吹干，拿起来抖了抖，放到边上墙壁贴上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　林新小心将面前的宣纸上墨汁吹干，拿起来抖了抖，放到边上墙壁贴上",
-        "”林新笑着问她",
-        "”　　林新指着自己才写的贴子"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指挥扎营，得知天晴帮威胁后决定庇护包罗飞。"
+        }
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "马秋秋",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "”马秋秋在一边坐得端端正正，“比我爹爹强多了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”马秋秋在一边坐得端端正正，“比我爹爹强多了",
-        "”马秋秋一脸无所谓道，“我从小便一直跟着我爹爹到处跑，他这些习惯早就熟悉了",
-        "”马秋秋随口道，“先生才是，怎么会懂这么多东西，却还是要跟着队伍去中府呢"
+        "马原和几个领队指挥着众人一一分部帐篷位置",
+        "马原一听，顿时心头狂跳",
+        "一咬牙，便点头道"
       ],
-      "mention_count": 12
+      "mention_count": 10
     },
     {
       "name": "包罗飞",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "包小姐"
+      ],
+      "identity": "被天晴帮追杀的江湖女子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "“原来是包罗飞包小姐",
+      "summary": "被天晴帮追杀的江湖女子，曾救下马秋秋，得到马原庇护。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "感恩",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "马原",
+          "type": "被庇护"
+        },
+        {
+          "target": "天晴帮",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知马原天晴帮追杀之事，打算离开但被马原挽留。"
+        }
+      ],
       "evidence": [
-        "“原来是包罗飞包小姐",
-        "“我那秋秋最是善良天真……”　　“领队倒是不用担心那位红花先生，此人博闻强记，学识很厉害，为人也忠厚和善……”女子包罗飞淡淡道",
-        "”包罗飞淡淡摇头，似乎回想起了以前什么往事，眼神似有波动"
+        "包罗飞正色道",
+        "我得到消息，天晴帮主亲自出手，对我下手",
+        "包罗飞深深看了马原一眼，露出些许感动之色"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "马秋秋",
+      "aliases": [
+        "秋秋"
+      ],
+      "identity": "马原的女儿",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二百三十一章 青鱼灯（下）",
+      "summary": "马原的女儿，天真善良，对林新有好感。",
+      "appearance": [
+        "长腿肤白貌美",
+        "露肩白衣裙"
+      ],
+      "personality": [
+        "天真",
+        "善良",
+        "活泼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马原",
+          "type": "父女"
+        },
+        {
+          "target": "林新",
+          "type": "爱慕"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在林新房间听故事，并含蓄表白被拒。"
+        }
+      ],
+      "evidence": [
+        "小姐又去那位先生那里听故事了",
+        "秋秋可不小，秋秋……秋秋大着呢",
+        "先生不用多说，秋秋知道自己唐突了"
       ],
       "mention_count": 8
     },
     {
-      "name": "先生",
-      "aliases": [],
-      "identity": "",
+      "name": "林新",
+      "aliases": [
+        "红花先生"
+      ],
+      "identity": "博学的书生，跟随车队前往中府",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "“老爷，小姐又去那位先生那里听故事了",
+      "summary": "博学多识，因麻烦不得不随车队前往中府，被马秋秋爱慕。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "博学",
+        "忠厚",
+        "和善"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "马秋秋",
+          "type": "被爱慕"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在房间写字，与马秋秋交谈并委婉拒绝其表白。"
+        }
+      ],
       "evidence": [
-        "“老爷，小姐又去那位先生那里听故事了",
-        "“我那秋秋最是善良天真……”　　“领队倒是不用担心那位红花先生，此人博闻强记，学识很厉害，为人也忠厚和善……”女子包罗飞淡淡道",
-        "“先生的字写得真好"
+        "林新小心将面前的宣纸上墨汁吹干",
+        "先生博闻强记，学识很厉害",
+        "先生不用多说，秋秋知道自己唐突了"
       ],
       "mention_count": 8
     },
     {
-      "name": "秋秋",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "“秋秋",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“秋秋",
-        "”　　“马领队可是担心秋秋小姐",
-        "”先前救下秋秋的那个女子正从车厢过道经过，此时看到，便也停下问了句"
+      "name": "天晴法王",
+      "aliases": [
+        "冬夜子",
+        "付世然"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "马秋",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天晴帮帮主",
+      "faction": "天晴帮",
+      "status": "提及",
       "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "”马秋秋在一边坐得端端正正，“比我爹爹强多了",
+      "summary": "天晴帮帮主，自号冬夜子，行事残暴，正在追杀包罗飞。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”马秋秋在一边坐得端端正正，“比我爹爹强多了",
-        "”马秋秋一脸无所谓道，“我从小便一直跟着我爹爹到处跑，他这些习惯早就熟悉了",
-        "”马秋秋随口道，“先生才是，怎么会懂这么多东西，却还是要跟着队伍去中府呢"
+      "personality": [
+        "多疑",
+        "残暴"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "车队",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "第二百三十一章 青鱼灯（下）　　那日过后，车队缓缓前行，很快便到了一处黑风萦绕的宽大峡谷前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二百三十一章 青鱼灯（下）　　那日过后，车队缓缓前行，很快便到了一处黑风萦绕的宽大峡谷前",
-        "车队缓缓停在峡谷边上，避开风口，在光秃秃的山壁上找了个凹陷躲进去",
-        "但此时车队已经和包罗飞相处这么久，若是被怀疑牵连进去……想到这里他脸都快绿了"
+      "abilities": [
+        "惊天魔功"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "正布置中的马原此时听了跑过来的一个下属回报，顿时眉头紧蹙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正布置中的马原此时听了跑过来的一个下属回报，顿时眉头紧蹙",
-        "”这下马原顿时了解了，“您可是说的那位天晴法王冬夜子",
-        "”　　马原一听，顿时心头狂跳，天晴帮是什么帮派，他不清楚，但天晴法王的行事在这边缘之地那是如雷贯耳，能够让小儿止啼"
+      "relationships": [
+        {
+          "target": "包罗飞",
+          "type": "追杀"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "包罗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "“原来是包罗飞包小姐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“原来是包罗飞包小姐",
-        "“我那秋秋最是善良天真……”　　“领队倒是不用担心那位红花先生，此人博闻强记，学识很厉害，为人也忠厚和善……”女子包罗飞淡淡道",
-        "”包罗飞淡淡摇头，似乎回想起了以前什么往事，眼神似有波动"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出关并亲自出手追杀包罗飞。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "此时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "正布置中的马原此时听了跑过来的一个下属回报，顿时眉头紧蹙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "正布置中的马原此时听了跑过来的一个下属回报，顿时眉头紧蹙",
-        "”先前救下秋秋的那个女子正从车厢过道经过，此时看到，便也停下问了句",
-        "但此时车队已经和包罗飞相处这么久，若是被怀疑牵连进去……想到这里他脸都快绿了"
+        "天晴法王冬夜子",
+        "天晴法王的行事在这边缘之地那是如雷贯耳",
+        "这几年天晴法王越发韬光养晦，深居不出，听说是在修炼什么惊天魔功"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百三十一章 青鱼灯（下）",
-      "summary": "马原和几个领队指挥着众人一一分部帐篷位置，大家形成一个更大的复杂阵型，似乎有着什么特殊作用",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "马原和几个领队指挥着众人一一分部帐篷位置，大家形成一个更大的复杂阵型，似乎有着什么特殊作用",
-        "”包罗飞淡淡摇头，似乎回想起了以前什么往事，眼神似有波动",
-        "”　　她一边这么想着，一边怔怔的看着林新，似乎有些痴了"
-      ],
-      "mention_count": 4
     }
   ]
 }

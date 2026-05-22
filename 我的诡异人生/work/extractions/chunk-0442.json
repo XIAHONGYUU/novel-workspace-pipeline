@@ -1,255 +1,299 @@
 {
   "chunk_id": "chunk-0442",
-  "title": "第441章 五雷召来",
   "characters": [
     {
-      "name": "晴子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "井上晴子",
+      "aliases": [
+        "晴子",
+        "晴子小姐",
+        "井上家主"
+      ],
+      "identity": "井上家家主",
+      "faction": "井上家",
       "status": "登场",
       "first_appearance": "第441章 五雷召来",
-      "summary": "第441章 五雷召来　　“局势还没有如晴子小姐说的那样糟糕，　　但也为时不远了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第441章 五雷召来　　“局势还没有如晴子小姐说的那样糟糕，　　但也为时不远了",
-        "”三上太郎听到晴子的话语，首先阴沉着脸开口言语",
-        "晴子扫视四周，　　确是己方武士死伤者多，在短时间的短兵相接之中，往往己方死伤三个人，对方才会死伤一个"
+      "summary": "井上家家主，女性，在战场上斩杀三上太郎以稳定军心，并运用咒术‘五雷召来’击退敌军。",
+      "appearance": [
+        "全副大铠",
+        "白龙面具",
+        "赤红大铠"
       ],
-      "mention_count": 28
+      "personality": [
+        "冷静",
+        "果断",
+        "勇敢"
+      ],
+      "abilities": [
+        "五雷召来咒术"
+      ],
+      "equipment": [
+        "上品打刀",
+        "白龙面具",
+        "赤红大铠"
+      ],
+      "relationships": [
+        {
+          "target": "三上太郎",
+          "type": "下属（已斩杀）"
+        },
+        {
+          "target": "武田信雄",
+          "type": "下属"
+        },
+        {
+          "target": "弥生女",
+          "type": "下属"
+        },
+        {
+          "target": "苏午",
+          "type": "传授咒术者（阿布君）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在战场上斩杀三上太郎，使用五雷召来咒术击退敌军。"
+        }
+      ],
+      "evidence": [
+        "晴子扫视四周，确是己方武士死伤者多",
+        "晴子跳下战马，脑海里‘阵前斩将乃是大忌’、‘战法亦需因地制宜’两种相反的念头不断盘旋着",
+        "晴子翻身上马，纵马前冲，同时附身以打刀挑起三上太郎滚落在地的人头"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "三上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "三上太郎",
+      "aliases": [
+        "三上君"
+      ],
+      "identity": "井上家武臣",
+      "faction": "井上家（原石田氏家臣）",
+      "status": "死亡",
       "first_appearance": "第441章 五雷召来",
-      "summary": "”三上太郎听到晴子的话语，首先阴沉着脸开口言语",
+      "summary": "井上家武臣，曾效忠于石田氏，在桓山之战中建议石田彦逃跑导致石田家覆灭。当前因建议突围被晴子斩杀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "固执",
+        "自尊心强"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "盔甲",
+        "刀剑"
+      ],
+      "relationships": [
+        {
+          "target": "井上晴子",
+          "type": "家主（被斩杀）"
+        },
+        {
+          "target": "石田彦",
+          "type": "前主君"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "建议突围被晴子拒绝，后被晴子斩杀。"
+        }
+      ],
       "evidence": [
-        "”三上太郎听到晴子的话语，首先阴沉着脸开口言语",
-        "但是，三上太郎说的就是对的吗",
-        "而且……　　晴子看着三上太郎的眼睛，开口道：“我听闻三上君曾效忠于石田氏，石田氏的灭族之战——桓山之战中，三上君亦是一力请求当时作为石田家家主的‘石田彦’先行逃跑，　　认定攻占不如敌手，　　最终石田彦并非成功突围逃脱"
+        "三上太郎听到晴子的话语，首先阴沉着脸开口言语",
+        "三上太郎闻声勃然色变，怒声道",
+        "鲜血喷涌，人头滚落"
       ],
       "mention_count": 12
     },
     {
-      "name": "井上家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "井上家的武士纵然此时沦入劣势，一时间难以组织起有效的抵抗，　　但他们尤在奋力反抗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "井上家的武士纵然此时沦入劣势，一时间难以组织起有效的抵抗，　　但他们尤在奋力反抗",
-        "”　　三上太郎闻声勃然色变，怒声道：“桓山之战情形比眼下更加凶险，当时唯有突围逃离，才是最佳之选，我未做错什么，家主怎能以我的过往来否定我如今对井上家的忠心",
-        "如若晴子小姐不认可我的军策，请允我自解井上家武臣之职"
+      "name": "武田信雄",
+      "aliases": [
+        "武田君"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "平灵子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "井上家武士",
+      "faction": "井上家",
       "status": "登场",
       "first_appearance": "第441章 五雷召来",
-      "summary": "一身大铠的长船光驱策着枣红色战马，与一身黑衣未有着甲的平灵子座下战马并驾齐驱",
+      "summary": "井上家武士，执行晴子命令解除三上太郎武装。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一身大铠的长船光驱策着枣红色战马，与一身黑衣未有着甲的平灵子座下战马并驾齐驱",
-        "平灵子微微蹙眉，看着两支即将撞击到一处的军队，　　她的目光集聚在井上家军队最首位的赤红大铠身影上，眉头微蹙：“还是阁下擅长这种下作手段，三言两语就撩拨起了这些劣武士的战意",
-        "”　　“我就当这是平灵子小姐对我的夸赞吧"
+      "relationships": [
+        {
+          "target": "井上晴子",
+          "type": "家主"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "三上太",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "”三上太郎听到晴子的话语，首先阴沉着脸开口言语",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”三上太郎听到晴子的话语，首先阴沉着脸开口言语",
-        "但是，三上太郎说的就是对的吗",
-        "而且……　　晴子看着三上太郎的眼睛，开口道：“我听闻三上君曾效忠于石田氏，石田氏的灭族之战——桓山之战中，三上君亦是一力请求当时作为石田家家主的‘石田彦’先行逃跑，　　认定攻占不如敌手，　　最终石田彦并非成功突围逃脱"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与弥生女一同解除三上太郎盔甲。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "三上太郎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "”三上太郎听到晴子的话语，首先阴沉着脸开口言语",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”三上太郎听到晴子的话语，首先阴沉着脸开口言语",
-        "但是，三上太郎说的就是对的吗",
-        "而且……　　晴子看着三上太郎的眼睛，开口道：“我听闻三上君曾效忠于石田氏，石田氏的灭族之战——桓山之战中，三上君亦是一力请求当时作为石田家家主的‘石田彦’先行逃跑，　　认定攻占不如敌手，　　最终石田彦并非成功突围逃脱"
-      ],
-      "mention_count": 9
-    },
-    {
-      "name": "井上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "井上家的武士纵然此时沦入劣势，一时间难以组织起有效的抵抗，　　但他们尤在奋力反抗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "井上家的武士纵然此时沦入劣势，一时间难以组织起有效的抵抗，　　但他们尤在奋力反抗",
-        "”　　三上太郎闻声勃然色变，怒声道：“桓山之战情形比眼下更加凶险，当时唯有突围逃离，才是最佳之选，我未做错什么，家主怎能以我的过往来否定我如今对井上家的忠心",
-        "如若晴子小姐不认可我的军策，请允我自解井上家武臣之职"
-      ],
-      "mention_count": 8
-    },
-    {
-      "name": "弥生女",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "弥生女、武田信雄二人听得三上太郎的反驳之语，却是眼神微变",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "弥生女、武田信雄二人听得三上太郎的反驳之语，却是眼神微变",
-        "他手里端着的刀剑被武田信雄一刀振落，　　下一刻，弥生女的太刀已经搁在他的脖颈上",
-        "晴子翻身上马，纵马前冲，同时附身以打刀挑起三上太郎滚落在地的人头，武田信雄、弥生女对视一眼，簇拥在她身后，　　诸多武士驱马扈从在晴子左右，　　晴子将头颅高高挑起，振声开口：“三上太郎临阵脱逃，已被我斩杀，人头在此"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "平灵",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "一身大铠的长船光驱策着枣红色战马，与一身黑衣未有着甲的平灵子座下战马并驾齐驱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一身大铠的长船光驱策着枣红色战马，与一身黑衣未有着甲的平灵子座下战马并驾齐驱",
-        "平灵子微微蹙眉，看着两支即将撞击到一处的军队，　　她的目光集聚在井上家军队最首位的赤红大铠身影上，眉头微蹙：“还是阁下擅长这种下作手段，三言两语就撩拨起了这些劣武士的战意",
-        "”　　“我就当这是平灵子小姐对我的夸赞吧"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "长船",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "”　　“活捉井上家主，赐长船国侍大将之位",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“活捉井上家主，赐长船国侍大将之位",
-        "”　　包围井上家数百武士的长船国、备前国武士之中，忽然传出一阵阵污言秽语",
-        "一身大铠的长船光驱策着枣红色战马，与一身黑衣未有着甲的平灵子座下战马并驾齐驱"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "五雷召",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第441章 五雷召来",
-      "summary": "第441章 五雷召来　　“局势还没有如晴子小姐说的那样糟糕，　　但也为时不远了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第441章 五雷召来　　“局势还没有如晴子小姐说的那样糟糕，　　但也为时不远了",
-        "‘五雷召来’"
+        "武田信雄、弥生女二人听得三上太郎的反驳之语，却是眼神微变",
+        "他手里端着的刀剑被武田信雄一刀振落"
       ],
       "mention_count": 4
     },
     {
-      "name": "但他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "弥生女",
+      "aliases": [
+        "弥生君"
+      ],
+      "identity": "井上家武士",
+      "faction": "井上家",
       "status": "登场",
       "first_appearance": "第441章 五雷召来",
-      "summary": "但他们人数众多，队伍里可能隐匿着阴阳师，在猝然之间我方被包围，军心浮动，又兼种种劣势，此战胜机极少，　　应当伺机突围，图谋东山再起",
+      "summary": "井上家武士，执行晴子命令解除三上太郎武装。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "太刀"
+      ],
+      "relationships": [
+        {
+          "target": "井上晴子",
+          "type": "家主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与武田信雄一同解除三上太郎盔甲。"
+        }
+      ],
       "evidence": [
-        "但他们人数众多，队伍里可能隐匿着阴阳师，在猝然之间我方被包围，军心浮动，又兼种种劣势，此战胜机极少，　　应当伺机突围，图谋东山再起",
-        "井上家的武士纵然此时沦入劣势，一时间难以组织起有效的抵抗，　　但他们尤在奋力反抗",
-        "”　　他们都不曾看到那暴虐盘卷的泪光，那是只存在于亲历者的心神中的雷光，但他们看到了在晴子小姐一刀之下，敌武士毫无招架之力，被一刀枭首"
+        "下一刻，弥生女的太刀已经搁在他的脖颈上"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "长船光",
+      "aliases": [
+        "长船氏长子"
+      ],
+      "identity": "长船国武士，正七位阴阳师",
+      "faction": "长船国（敌对）",
+      "status": "登场",
+      "first_appearance": "第441章 五雷召来",
+      "summary": "长船国武士，正七位阴阳师，与平灵子一同观察战局。",
+      "appearance": [
+        "一身大铠",
+        "恶诡面具"
+      ],
+      "personality": [
+        "阴险",
+        "冷静"
+      ],
+      "abilities": [
+        "阴阳师"
+      ],
+      "equipment": [
+        "枣红色战马",
+        "恶诡面具"
+      ],
+      "relationships": [
+        {
+          "target": "平灵子",
+          "type": "同僚"
+        },
+        {
+          "target": "平维盛",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与平灵子一同在树林深处观察战局。"
+        }
+      ],
+      "evidence": [
+        "一身大铠的长船光驱策着枣红色战马，与一身黑衣未有着甲的平灵子座下战马并驾齐驱",
+        "长船光冷冷一笑，脸上的恶诡面具遮住了他的冷笑"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "平灵子",
+      "aliases": [
+        "平灵子小姐"
+      ],
+      "identity": "平家武士",
+      "faction": "平家",
+      "status": "登场",
+      "first_appearance": "第441章 五雷召来",
+      "summary": "平家武士，与长船光一同观察战局，对长船光的手段不以为然。",
+      "appearance": [
+        "一身黑衣未有着甲"
+      ],
+      "personality": [
+        "冷静",
+        "正直"
+      ],
+      "abilities": [],
+      "equipment": [
+        "战马"
+      ],
+      "relationships": [
+        {
+          "target": "长船光",
+          "type": "同僚"
+        },
+        {
+          "target": "平维盛",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与长船光一同在树林深处观察战局。"
+        }
+      ],
+      "evidence": [
+        "平灵子微微蹙眉，看着两支即将撞击到一处的军队",
+        "平灵子没有说话。衣袖下的拳头微微握紧"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "苏午",
+      "aliases": [
+        "阿布君"
+      ],
+      "identity": "晴子的朋友或导师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第441章 五雷召来",
+      "summary": "晴子内心默念的对象，传授了‘五雷召来’咒术，其形象在晴子脑海中显现。",
+      "appearance": [
+        "俊朗面孔"
+      ],
+      "personality": [],
+      "abilities": [
+        "五雷召来咒术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "井上晴子",
+          "type": "传授咒术者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "晴子使用其传授的咒术。"
+        }
+      ],
+      "evidence": [
+        "拜托了，阿布君",
+        "她在心中默念着苏午教给她的那道咒语",
+        "那是她从未见过的一张俊朗面孔。但她认得那面孔的眼神——‘阿布君！’"
       ],
       "mention_count": 4
     }

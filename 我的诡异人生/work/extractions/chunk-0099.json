@@ -1,258 +1,160 @@
 {
   "chunk_id": "chunk-0099",
-  "title": "第98章 ‘三清之肠’",
   "characters": [
     {
       "name": "苏午",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "苏小友",
+        "苏先生"
+      ],
+      "identity": "模拟者，龙山集村民的领导者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "一个个泥胎神像从前方显现出来，每一个神像脸上都带着憨态可掬的笑容，油采斑驳的面孔笑眯眯地望向苏午这方",
+      "summary": "模拟者，在龙山集诡异事件中带领村民寻找生路，通过向功德箱投钱暂时阻止泥胎神像的逼近。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一个个泥胎神像从前方显现出来，每一个神像脸上都带着憨态可掬的笑容，油采斑驳的面孔笑眯眯地望向苏午这方",
-        "苏午身后，村民们惊恐的低语声不时响起",
-        "苏午听着身后的议论声，他没有转头回看，也知道这些村民会时不时把目光聚集在自己身上，寄望于自己能给出破题的方法"
+      "personality": [
+        "冷静",
+        "果断",
+        "谨慎"
       ],
-      "mention_count": 57
-    },
-    {
-      "name": "视觉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "可那些泥胎神像爬进了他们的视觉里，即便转过头，泥胎依旧存在，甚至更接近了些许",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可那些泥胎神像爬进了他们的视觉里，即便转过头，泥胎依旧存在，甚至更接近了些许",
-        "随着泥胎在视觉里不断接近自身，苏午亦感觉到，当下自己只要中断与泥胎的对视超过十五秒，就会被它带走",
-        "‘视觉距离的拉近，会导致中断对视时间的减少"
+      "abilities": [
+        "模拟能力",
+        "尸陀鬼之手（未使用）",
+        "临时天赋：狂飙"
       ],
-      "mention_count": 17
+      "equipment": [
+        "钱包",
+        "硬币",
+        "钞票"
+      ],
+      "relationships": [
+        {
+          "target": "黄道士",
+          "type": "同伴"
+        },
+        {
+          "target": "云霓裳",
+          "type": "同伴"
+        },
+        {
+          "target": "谢云清",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "在黑暗中探索，找到功德箱，发现投钱可阻止泥胎逼近。"
+        },
+        {
+          "stage": "现实",
+          "event": "回归现实，指挥村民聚集并准备现金。"
+        }
+      ],
+      "evidence": [
+        "苏午听着身后的议论声，他没有转头回看，也知道这些村民会时不时把目光聚集在自己身上，寄望于自己能给出破题的方法。",
+        "苏午心头泛起些微喜意，却在此时，一种毛骨悚然地感觉笼罩了他！",
+        "苏午转身奔入了黑暗中。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "黄道士",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "道长"
+      ],
+      "identity": "道士，村民的安抚者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "他转而看向身旁的黄道士，神色一丝不苟：“道长，接下来我要去黑暗深处看一看",
+      "summary": "道士，在诡异事件中安抚村民情绪，协助苏午。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "稳重",
+        "关心他人"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他转而看向身旁的黄道士，神色一丝不苟：“道长，接下来我要去黑暗深处看一看",
-        "”　　泥胎同样爬进了黄道士的视线里，他听到苏午的话，微微一愣，随即向苏午问道：“你需不需要我们帮你准备些什么",
-        "黄道士明白苏午这一去，必然要面临九死一生的局面，所以脸色也变得郑重起来"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "与苏午对话，安抚村民。"
+        },
+        {
+          "stage": "现实",
+          "event": "继续安抚村民，并接到苏午的指示。"
+        }
+      ],
+      "evidence": [
+        "黄道士在旁安抚着一众村民：“不用担心，苏小友正在考虑对策，大家还是要稳住各自的情绪。”",
+        "黄道士张了张嘴。想要说些什么，然而却不知该说些什么。其最终只是点了点头，挥手相送。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "泥胎",
+      "name": "云霓裳",
       "aliases": [],
-      "identity": "",
+      "identity": "村民领导者之一",
       "faction": "",
       "status": "登场",
       "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "一个个泥胎神像从前方显现出来，每一个神像脸上都带着憨态可掬的笑容，油采斑驳的面孔笑眯眯地望向苏午这方",
+      "summary": "苏午的同伴，负责带领村民。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一个个泥胎神像从前方显现出来，每一个神像脸上都带着憨态可掬的笑容，油采斑驳的面孔笑眯眯地望向苏午这方",
-        "可那些泥胎神像爬进了他们的视觉里，即便转过头，泥胎依旧存在，甚至更接近了些许",
-        "”　　泥胎同样爬进了黄道士的视线里，他听到苏午的话，微微一愣，随即向苏午问道：“你需不需要我们帮你准备些什么"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "现实",
+          "event": "接到苏午电话，带领村民聚集。"
+        }
+      ],
+      "evidence": [
+        "他不再理会这些人，拿出手机，给云霓裳拨了个电话，让她把她那边的人也带到这里来。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "黑暗",
+      "name": "谢云清",
       "aliases": [],
-      "identity": "",
+      "identity": "村民领导者之一",
       "faction": "",
       "status": "登场",
       "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "笼罩视野的黑暗，稍稍被篝火照亮了些许",
+      "summary": "苏午的同伴，负责带领村民。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "笼罩视野的黑暗，稍稍被篝火照亮了些许",
-        "他转而看向身旁的黄道士，神色一丝不苟：“道长，接下来我要去黑暗深处看一看",
-        "眼看着苏午脱离此间，从容步入黑暗中，连背影也被黑暗吞没了"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "视野",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "笼罩视野的黑暗，稍稍被篝火照亮了些许",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "笼罩视野的黑暗，稍稍被篝火照亮了些许",
-        "他的视野里，原本立在自己三步外的泥胎，在这个瞬间骤然前进，下一瞬与他相距只有一步距离",
-        "视野里泥胎不断颤动着，浓郁的诡韵自其上散发"
+      "timeline": [
+        {
+          "stage": "现实",
+          "event": "接到苏午指示，带领村民聚集。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "模拟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "”　　模拟器的提示音倏忽散去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　模拟器的提示音倏忽散去",
-        "被泥胎笑盈盈地注视着，　　即使身在模拟里，苏午心底亦不由得升起一股寒意",
-        "此次进入模拟，苏午首要目标是找到可让泥胎不再追踪村民的办法"
+        "苏午向云霓裳与谢云清嘱咐了几句。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "村民",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "苏午身后，村民们惊恐的低语声不时响起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午身后，村民们惊恐的低语声不时响起",
-        "苏午听着身后的议论声，他没有转头回看，也知道这些村民会时不时把目光聚集在自己身上，寄望于自己能给出破题的方法",
-        "”黄道士叹了口气，向身后的众村民说了几句话"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "如此",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "如此，那些想逃跑的人都打消了自己的念头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如此，那些想逃跑的人都打消了自己的念头",
-        "如此转动了约莫半分钟，同样消失不见；　　最后那个泥胎，面部朝向与绝大多数泥胎相反的方向——它立在众泥胎里，油采勾画的眼睛带着笑意，定定地注视着苏午",
-        "既然如此——　　苏午忽然大步走向了那个‘看着’自己的泥胎，一把将之抱在怀里，低声道：“既然如此，那我就带着你，我们两个脸对脸，眼对眼地看个够好了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "黄道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "他转而看向身旁的黄道士，神色一丝不苟：“道长，接下来我要去黑暗深处看一看",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他转而看向身旁的黄道士，神色一丝不苟：“道长，接下来我要去黑暗深处看一看",
-        "”　　泥胎同样爬进了黄道士的视线里，他听到苏午的话，微微一愣，随即向苏午问道：“你需不需要我们帮你准备些什么",
-        "黄道士明白苏午这一去，必然要面临九死一生的局面，所以脸色也变得郑重起来"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "现在，这个转向苏午的泥胎，亦对应了苏午本身",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现在，这个转向苏午的泥胎，亦对应了苏午本身",
-        "如果他不盯住这个泥胎，那么半分钟后，自己也将消失无踪",
-        "这个地方根本没有功德箱"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "让他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章 ‘三清之肠’",
-      "summary": "离开这里，并不能让他们面临的局面好一些",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "离开这里，并不能让他们面临的局面好一些",
-        "正因为这泥胎转过头来，持续注视着苏午，亦让他明白过来：刚才消失的那两个泥胎，对应了两个消失的村民",
-        "他全力跑动之下，加上狂飙天赋带来的加成，让他在三分钟的时间内，围绕着广场转了四圈，每一圈的距离都比上一圈更长"
-      ],
-      "mention_count": 6
+      "mention_count": 2
     }
   ]
 }

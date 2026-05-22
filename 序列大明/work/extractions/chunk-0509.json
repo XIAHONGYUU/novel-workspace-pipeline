@@ -1,248 +1,121 @@
 {
   "chunk_id": "chunk-0509",
-  "title": "第507章官和匪",
   "characters": [
     {
       "name": "顾玺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "顾少爷"
+      ],
+      "identity": "成都县县令，顾家旁系子弟",
+      "faction": "顾家",
       "status": "登场",
       "first_appearance": "第507章官和匪",
-      "summary": "第507章官和匪　　“顾玺资质驽钝，爬不上这架登天梯，也乘不上这股扶摇风",
+      "summary": "顾家旁系子弟，现任成都县县令，因畏惧危险而想辞官，后被李钧说服合作。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "能言善道",
+        "能屈能伸",
+        "谨慎",
+        "怨恨"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第507章官和匪　　“顾玺资质驽钝，爬不上这架登天梯，也乘不上这股扶摇风",
-        "”　　顾玺双膝跪地，埋头恳求道：“我这次回乡省亲，就是想当面告诉大伯您，我无法胜任成都县县令一职，请您在家族内另谋子弟，接替我的位置",
-        "”顾知微脚步一顿，愕然回身，一脸不可思议的盯着顾玺，“把你刚才说的话再说一遍"
+      "relationships": [
+        {
+          "target": "顾知微",
+          "type": "大伯"
+        },
+        {
+          "target": "李钧",
+          "type": "旧识/合作"
+        }
       ],
-      "mention_count": 27
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向顾知微请辞县令之位，被拒绝；后与李钧相遇，接受探查刘家的任务。"
+        }
+      ],
+      "evidence": [
+        "顾玺双膝跪地，埋头恳求道：'我这次回乡省亲，就是想当面告诉大伯您，我无法胜任成都县县令一职'",
+        "李钧笑道：'所以我想让你帮我去探探口风，看看对方的家门朝哪里开'",
+        "顾玺突然重重一拳擂在前排的椅背上，眼神中的茫然潮水般褪去，取而代之是如有实质般的怨恨。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "顾知微",
+      "aliases": [
+        "大伯"
+      ],
+      "identity": "顾家现任家主",
+      "faction": "顾家",
+      "status": "登场",
+      "first_appearance": "第507章官和匪",
+      "summary": "顾家家主，为顾玺谋得县令之位，但自身已致仕，逼迫顾玺坚守职位。",
+      "appearance": [
+        "须发皆张"
+      ],
+      "personality": [
+        "愤怒",
+        "固执",
+        "惜命"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "大伯/家主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "怒斥顾玺辞官，逼迫其继续任职。"
+        }
+      ],
+      "evidence": [
+        "顾知微须发皆张，怒不可遏，竟抬脚踹在顾玺的肩头，将他踹翻在地。",
+        "顾知微以脚踏地，怒声道：'正是有了这些先人的不惜荣辱、前赴后继，这才有了你从小生长的这栋宅楼'"
+      ],
+      "mention_count": 8
     },
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "钧哥"
+      ],
+      "identity": "匪帮头目",
       "faction": "",
       "status": "登场",
       "first_appearance": "第507章官和匪",
-      "summary": "”　　李钧语调轻松道：“新东林党一等门阀，金陵刘家",
+      "summary": "与顾玺在成都县有旧，现为匪帮头目，欲探查金陵刘家情况。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直接",
+        "有杀气",
+        "善于谈判"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧语调轻松道：“新东林党一等门阀，金陵刘家",
-        "李钧淡淡道：“如果你用一座三等门阀都不能给自己换到一条生路，那.”　　虽然他只能接触到儒序内部一些保密级别较低的邸报，但这并不妨碍他能从零碎的只言片语中看出，自己和对方已经是虎羊异位",
-        "”　　李钧见他这副模样，无奈的挑了挑眉头，竭力收敛起自己不经意间流露出的杀气"
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "旧识/合作"
+        }
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "顾知",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "”顾知微脚步一顿，愕然回身，一脸不可思议的盯着顾玺，“把你刚才说的话再说一遍",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”顾知微脚步一顿，愕然回身，一脸不可思议的盯着顾玺，“把你刚才说的话再说一遍",
-        "”　　顾知微须发皆张，怒不可遏，竟抬脚踹在顾玺的肩头，将他踹翻在地",
-        "顾知微以脚踏地，怒声道：“正是有了这些先人的不惜荣辱、前赴后继，这才有了你从小生长的这栋宅楼，这才有了如今名列门阀的顾氏家族"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在金陵城与顾玺相遇，委托其探查刘家。"
+        }
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "有人为",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "“在他们之中，有人为了培育出更好的基因，屈尊降贵去和基本盘里的那些贱民结亲",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“在他们之中，有人为了培育出更好的基因，屈尊降贵去和基本盘里的那些贱民结亲",
-        "有人为了替族人求得一个官位，躬身服侍豪门贵族，为奴为婢、供人驱使",
-        "有人为了能让顾家在金陵站住脚，甘愿在庙堂上替人以死谏言，活生生撞死在那座高不见顶的皇宫禁楼之中"
+        "李钧语调轻松道：'新东林党一等门阀，金陵刘家。'",
+        "李钧微微一笑，却让顾玺浑身汗如雨下，背心瞬间湿透。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "”　　顾玺咬牙抿嘴，一言不发，只是以头抢地，额头砸的砰砰直响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾玺咬牙抿嘴，一言不发，只是以头抢地，额头砸的砰砰直响",
-        "”　　顾玺小心翼翼道：“顾家在金陵城内只是末流的三等门阀，和刘家相比一个天一个地，我更是早就被家族外派出去，和对方攀不上半点关系，这件事办起来恐怕很难",
-        "“钧哥，不是我找借口，只是.”　　“我当然不愿意"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "我这次",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "”　　顾玺双膝跪地，埋头恳求道：“我这次回乡省亲，就是想当面告诉大伯您，我无法胜任成都县县令一职，请您在家族内另谋子弟，接替我的位置",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾玺双膝跪地，埋头恳求道：“我这次回乡省亲，就是想当面告诉大伯您，我无法胜任成都县县令一职，请您在家族内另谋子弟，接替我的位置",
-        "”　　“我这次来金陵城，是想找几位老朋友叙叙旧，但是别人门高院深，恐怕不太欢迎我这种不速之客"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "等到",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "等到再回家之日，顾阀能为自己开中门，让自己进祠堂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "等到再回家之日，顾阀能为自己开中门，让自己进祠堂",
-        "等到下一个前来祭拜的子弟跪地叩头之时，自己再以投影的方式出现，递给对方一个满意的笑容和欣慰的眼神"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这才有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "顾知微以脚踏地，怒声道：“正是有了这些先人的不惜荣辱、前赴后继，这才有了你从小生长的这栋宅楼，这才有了如今名列门阀的顾氏家族",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾知微以脚踏地，怒声道：“正是有了这些先人的不惜荣辱、前赴后继，这才有了你从小生长的这栋宅楼，这才有了如今名列门阀的顾氏家族"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "直到",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "直到对方的身影彻底消失往来的人群之中，顾玺才终于慢慢吐出了那口一直憋在肺中的浊气，整个人彻底瘫软在座位上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "直到对方的身影彻底消失往来的人群之中，顾玺才终于慢慢吐出了那口一直憋在肺中的浊气，整个人彻底瘫软在座位上",
-        "直到坐进自己的座驾，顾玺依旧是满脸失魂落魄，完全想不起自己是何时从地上爬起来，又是如何离开的顾家宅楼"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "看看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "李钧笑道：“所以我想让你帮我去探探口风，看看对方的家门朝哪里开，家中又有几口人，谁是他的挚爱亲朋，谁又是他的手足兄弟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧笑道：“所以我想让你帮我去探探口风，看看对方的家门朝哪里开，家中又有几口人，谁是他的挚爱亲朋，谁又是他的手足兄弟",
-        "“你睁大眼睛好好看看，看看这座祠堂里的每一块牌匾，每一个副楹联，看看那些祖宗的牌位"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "也乘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "第507章官和匪　　“顾玺资质驽钝，爬不上这架登天梯，也乘不上这股扶摇风",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第507章官和匪　　“顾玺资质驽钝，爬不上这架登天梯，也乘不上这股扶摇风"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "愕然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第507章官和匪",
-      "summary": "”顾知微脚步一顿，愕然回身，一脸不可思议的盯着顾玺，“把你刚才说的话再说一遍",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”顾知微脚步一顿，愕然回身，一脸不可思议的盯着顾玺，“把你刚才说的话再说一遍"
-      ],
-      "mention_count": 3
+      "mention_count": 12
     }
   ]
 }

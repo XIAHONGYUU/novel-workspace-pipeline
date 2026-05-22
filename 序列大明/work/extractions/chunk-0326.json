@@ -1,251 +1,258 @@
 {
   "chunk_id": "chunk-0326",
-  "title": "第324章有人挑头",
   "characters": [
     {
-      "name": "明王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第324章有人挑头",
-      "summary": "“明王说得对，我们当下最重要的事情就是保住今年的‘三甲’位置",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“明王说得对，我们当下最重要的事情就是保住今年的‘三甲’位置",
-        "”　　明王闻言，忍不住是揉了揉额角，神色看似十分无奈",
-        "明王抬眼眺望着空荡荡的长街尽头，只有风雪在那里停留"
-      ],
-      "mention_count": 16
-    },
-    {
       "name": "野老",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "野老童"
+      ],
+      "identity": "滋贺城百户",
+      "faction": "滋贺城",
       "status": "登场",
       "first_appearance": "第324章有人挑头",
-      "summary": "第324章有人挑头　　千户所门前，跟随滋贺城百户野老和冈山城百户角木蛟前来参会的总旗们停下了交谈的动作，站位错落，彼此围成一圈，用身体挡住可能存在的觊觎目光",
-      "appearance": [],
-      "personality": [],
+      "summary": "滋贺城百户，与明王、角木蛟结盟，试图阻止犬山城进入评议前三。",
+      "appearance": [
+        "外貌长相平平无奇，年纪约莫中年上下"
+      ],
+      "personality": [
+        "谨慎",
+        "有谋略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第324章有人挑头　　千户所门前，跟随滋贺城百户野老和冈山城百户角木蛟前来参会的总旗们停下了交谈的动作，站位错落，彼此围成一圈，用身体挡住可能存在的觊觎目光",
-        "人墙之内，外貌长相平平无奇，年纪约莫中年上下的野老，赞同的点了点头",
-        "野老童同样面露无奈，忍不住问道：“老蛇，你有没有想过这几年你们冈山城为什么一直抢不过我们两家"
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "盟友"
+        },
+        {
+          "target": "角木蛟",
+          "type": "盟友"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与明王、角木蛟商议阻止犬山城进入评议前三。"
+        }
+      ],
+      "evidence": [
+        "跟随滋贺城百户野老和冈山城百户角木蛟前来参会的总旗们停下了交谈的动作",
+        "野老童同样面露无奈",
+        "野老长舒一口气，沉思了片刻，突然皱眉道"
+      ],
+      "mention_count": 12
     },
     {
       "name": "角木蛟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "老蛇"
+      ],
+      "identity": "冈山城百户",
+      "faction": "冈山城",
       "status": "登场",
       "first_appearance": "第324章有人挑头",
-      "summary": "第324章有人挑头　　千户所门前，跟随滋贺城百户野老和冈山城百户角木蛟前来参会的总旗们停下了交谈的动作，站位错落，彼此围成一圈，用身体挡住可能存在的觊觎目光",
+      "summary": "冈山城百户，自恃武力，主动担任打手角色，与明王、野老结盟。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第324章有人挑头　　千户所门前，跟随滋贺城百户野老和冈山城百户角木蛟前来参会的总旗们停下了交谈的动作，站位错落，彼此围成一圈，用身体挡住可能存在的觊觎目光",
-        "”　　角木蛟满不在乎道：“这有什么好担心的，哪一家户所能够挤的进来",
-        "”　　在一旁听了许久的角木蛟哼了一声，说道：“而且你们江户和滋贺常年包揽前两名，让你们来挑这个头难免显得吃相有些难看"
+      "personality": [
+        "莽撞",
+        "嚣张",
+        "重利"
       ],
-      "mention_count": 11
+      "abilities": [
+        "武力高强"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "盟友"
+        },
+        {
+          "target": "野老",
+          "type": "盟友"
+        },
+        {
+          "target": "谢必安",
+          "type": "招揽未果"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "同意挑头对抗犬山城，索要五千万工部配额。"
+        }
+      ],
+      "evidence": [
+        "角木蛟满不在乎道",
+        "角木蛟咧嘴笑道",
+        "角木蛟面色狰狞，冷笑道"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "角木",
+      "name": "明王",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "江户城百户（化名）",
+      "faction": "江户城",
       "status": "登场",
       "first_appearance": "第324章有人挑头",
-      "summary": "第324章有人挑头　　千户所门前，跟随滋贺城百户野老和冈山城百户角木蛟前来参会的总旗们停下了交谈的动作，站位错落，彼此围成一圈，用身体挡住可能存在的觊觎目光",
+      "summary": "江户城百户，化名明王，性子谨慎，与野老、角木蛟结盟。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "胸有成竹"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "野老",
+          "type": "盟友"
+        },
+        {
+          "target": "角木蛟",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议三家统一意见，阻止犬山城进入评议前三。"
+        }
+      ],
       "evidence": [
-        "第324章有人挑头　　千户所门前，跟随滋贺城百户野老和冈山城百户角木蛟前来参会的总旗们停下了交谈的动作，站位错落，彼此围成一圈，用身体挡住可能存在的觊觎目光",
-        "”　　角木蛟满不在乎道：“这有什么好担心的，哪一家户所能够挤的进来",
-        "”　　在一旁听了许久的角木蛟哼了一声，说道：“而且你们江户和滋贺常年包揽前两名，让你们来挑这个头难免显得吃相有些难看"
+        "明王闻言，忍不住是揉了揉额角",
+        "明王抬眼眺望着空荡荡的长街尽头",
+        "明王微微一笑"
       ],
       "mention_count": 8
     },
     {
-      "name": "而且",
+      "name": "苏千户",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "千户所千户",
+      "faction": "千户所",
+      "status": "提及",
       "first_appearance": "第324章有人挑头",
-      "summary": "”　　在一旁听了许久的角木蛟哼了一声，说道：“而且你们江户和滋贺常年包揽前两名，让你们来挑这个头难免显得吃相有些难看",
+      "summary": "千户所最高长官，因陆成江事件顶住压力，许诺鬼王达副千户。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　在一旁听了许久的角木蛟哼了一声，说道：“而且你们江户和滋贺常年包揽前两名，让你们来挑这个头难免显得吃相有些难看",
-        "堂堂副千户，为了宣泄私愤，排除异己，居然敢对自己人滥用私刑，而且还在暗中和鸿鹄眉来眼去",
-        "”　　“而且也不是我不在乎二处的建设，实在是人才难得啊"
+      "relationships": [
+        {
+          "target": "鬼王达",
+          "type": "许诺副千户"
+        },
+        {
+          "target": "陆成江",
+          "type": "下令处决"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "只要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第324章有人挑头",
-      "summary": "”　　只要能够做好他守门人的职责，也就行了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　只要能够做好他守门人的职责，也就行了",
-        "”　　“这可太好了，只要千户大人不开口，这件事就好办了",
-        "只要大家意见能够统一，想必大人也会从善如流"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及态度不明，可能不干预评议。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第324章有人挑头",
-      "summary": "“明王说得对，我们当下最重要的事情就是保住今年的‘三甲’位置",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“明王说得对，我们当下最重要的事情就是保住今年的‘三甲’位置",
-        "野老童同样面露无奈，忍不住问道：“老蛇，你有没有想过这几年你们冈山城为什么一直抢不过我们两家",
-        "不管最后的结果如何，以后我们两城的关系恐怕都不会太好"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第324章有人挑头",
-      "summary": "甚至连第三的位置都变的有些不稳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "甚至连第三的位置都变的有些不稳",
-        "”　　野老和明王对视了一眼，缓缓说道：“我手下的人测算了一下，如果将那两件案子的功绩都算上的话，这一次评议犬山城很可能会异军突起，名列前茅不成问题，甚至一举夺魁都有可能",
-        "”　　“为了平息这件事的影响，苏千户顶住帝国本土的压力，让犬山城百户所杀了陆成江泄愤，甚至许诺了鬼王达一个副千户的位置，这已经很够意思了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这可",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第324章有人挑头",
-      "summary": "”　　“这可太好了，只要千户大人不开口，这件事就好办了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“这可太好了，只要千户大人不开口，这件事就好办了",
+        "苏千户顶住帝国本土的压力，让犬山城百户所杀了陆成江泄愤",
         "如果苏千户再大张旗鼓的继续偏袒他们，这可就说不过去了"
       ],
       "mention_count": 4
     },
     {
-      "name": "赞同",
+      "name": "鬼王达",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "犬山城百户所（原百户，将升副千户）",
+      "faction": "犬山城",
+      "status": "提及",
       "first_appearance": "第324章有人挑头",
-      "summary": "人墙之内，外貌长相平平无奇，年纪约莫中年上下的野老，赞同的点了点头",
+      "summary": "犬山城百户，因陆成江事件被许诺副千户，可能使犬山城评议排名上升。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "人墙之内，外貌长相平平无奇，年纪约莫中年上下的野老，赞同的点了点头"
+      "relationships": [
+        {
+          "target": "苏千户",
+          "type": "被许诺副千户"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及可能成为副千户，犬山城评议排名可能上升。"
+        }
+      ],
+      "evidence": [
+        "甚至许诺了鬼王达一个副千户的位置"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "关键",
+      "name": "陆成江",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "原副千户",
+      "faction": "千户所",
+      "status": "已故（提及）",
       "first_appearance": "第324章有人挑头",
-      "summary": "”　　情况并不复杂，关键点也是十分明确",
+      "summary": "原副千户，因滥用私刑、勾结鸿鹄被处决。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　情况并不复杂，关键点也是十分明确"
+      "relationships": [
+        {
+          "target": "苏千户",
+          "type": "被下令处决"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被处决，引发千户所动荡。"
+        }
+      ],
+      "evidence": [
+        "陆成江的事情，已经让千户所的威严受到了极大的损害",
+        "让犬山城百户所杀了陆成江泄愤"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "让我",
+      "name": "谢必安",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "鬼王达麾下总旗",
+      "faction": "犬山城",
+      "status": "提及",
       "first_appearance": "第324章有人挑头",
-      "summary": "让我来的话，其他人也就没什么好说的了，倒也合适",
+      "summary": "鬼王达麾下总旗，曾拒绝角木蛟的招揽。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "让我来的话，其他人也就没什么好说的了，倒也合适"
+      "relationships": [
+        {
+          "target": "角木蛟",
+          "type": "被招揽未果"
+        },
+        {
+          "target": "鬼王达",
+          "type": "下属"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "拒绝角木蛟招揽。"
+        }
+      ],
+      "evidence": [
+        "我招揽过鬼王达麾下那个叫谢必安的总旗，可惜那个东西居然敢不给我面子"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,254 +1,164 @@
 {
   "chunk_id": "chunk-0102",
-  "title": "第101章 “你睡了吗，我睡不着”",
   "characters": [
-    {
-      "name": "周洋",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "他走到偏僻角落，直接给周洋拨过去电话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他走到偏僻角落，直接给周洋拨过去电话",
-        "……　　一具具沾满粉灰的躯体簇拥在周洋周围，　　有浓郁的香火气息萦绕周洋鼻间",
-        "周洋神思忽恍，　　直觉心神如一缕香烟般飘飘荡荡，飘去了未知的地域，许许多多繁杂的、混乱无序的线条、画面漫灌进了脑海里"
-      ],
-      "mention_count": 27
-    },
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "疑似有特殊能力的人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "苏午想起了自己在云龙观正殿里的那次模拟",
+      "summary": "与周洋有共同经历，能帮助周洋对抗诡异。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "言语具有奇异力量，能帮助他人清醒"
+      ],
+      "equipment": [
+        "手机"
+      ],
+      "relationships": [
+        {
+          "target": "周洋",
+          "type": "曾共同经历诡异事件，现为救助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过电话指导周洋对抗诡异，并计划前往救援。"
+        }
+      ],
       "evidence": [
-        "苏午想起了自己在云龙观正殿里的那次模拟",
-        "苏午脑海里瞬间有了一个值得尝试的计划",
-        "退出直播间，　　苏午拿着手机，先向魏村长等人问了个问题：“从这边往绕山公路上走，那条绕山公路周边，是不是有一座公墓"
+        "苏午想起了自己在云龙观正殿里的那次模拟。",
+        "苏午听着周洋的言语，内心生出毛骨悚然的感觉。",
+        "苏午摇了摇头，并没有言语。他走到偏僻角落，直接给周洋拨过去电话。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "周洋",
+      "aliases": [],
+      "identity": "直播主播，曾遭遇诡异事件",
+      "faction": "",
+      "status": "被诡异侵蚀中",
+      "first_appearance": "第101章 “你睡了吗，我睡不着”",
+      "summary": "在废弃公墓纪念堂直播时被诡异侵蚀，向苏午求救。",
+      "appearance": [
+        "皮肤色泽变得越发浅淡，犹如画中走出的人",
+        "一根根血色的、猪肠般粗细的条索缠绕在身上"
+      ],
+      "personality": [
+        "挣扎求生"
+      ],
+      "abilities": [],
+      "equipment": [
+        "手机"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被救助者"
+        },
+        {
+          "target": "项哥",
+          "type": "直播工会主管"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在废弃公墓纪念堂被诡异侵蚀，与苏午通话后努力保持清醒。"
+        }
+      ],
+      "evidence": [
+        "周洋神思忽恍，直觉心神如一缕香烟般飘飘荡荡。",
+        "周洋神色挣扎，眼神瞬息间清醒回来。",
+        "周洋不断低声言语着，他觉得胸膛里好像燃起了一团火。"
       ],
       "mention_count": 20
     },
     {
-      "name": "脑海",
-      "aliases": [],
-      "identity": "",
+      "name": "魏和",
+      "aliases": [
+        "魏村长"
+      ],
+      "identity": "村长",
       "faction": "",
       "status": "登场",
       "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "苏午脑海里瞬间有了一个值得尝试的计划",
+      "summary": "龙山集村长，与苏午对话。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午脑海里瞬间有了一个值得尝试的计划",
-        "”　　魏和微微皱眉，脑海里稍微回忆了刹那，正待回答他的问题，　　黄道士在旁已然开口道：“是，土葬刚改火葬那会儿，龙山上修起了一座公墓，还装修了配套的纪念堂、丧仪堂",
-        "周洋神思忽恍，　　直觉心神如一缕香烟般飘飘荡荡，飘去了未知的地域，许许多多繁杂的、混乱无序的线条、画面漫灌进了脑海里"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回答苏午关于公墓的问题。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "魏和微微皱眉，脑海里稍微回忆了刹那，正待回答他的问题。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "手机",
+      "name": "黄道士",
       "aliases": [],
-      "identity": "",
+      "identity": "道士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "退出直播间，　　苏午拿着手机，先向魏村长等人问了个问题：“从这边往绕山公路上走，那条绕山公路周边，是不是有一座公墓",
+      "summary": "云龙观道士，了解公墓历史。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "退出直播间，　　苏午拿着手机，先向魏村长等人问了个问题：“从这边往绕山公路上走，那条绕山公路周边，是不是有一座公墓",
-        "周洋面前支架上的手机已经黑屏，　　不知何时，他的直播已被关闭",
-        "忽然，沉寂了几分钟的手机屏幕骤地亮了起来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向苏午解释原始天尊神像的来历。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "黄道士在旁已然开口道：“是，土葬刚改火葬那会儿……”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "你睡",
+      "name": "项哥",
       "aliases": [],
-      "identity": "",
+      "identity": "直播工会主管",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "第101章 “你睡了吗，我睡不着”　　眼诡的红灯笼，散发出的红光，牵制住了那座神像，使之无法让所有人视觉里的泥胎颤动，让大家都原地消失，　　去它那边，帮它弥补身躯的缺憾",
+      "summary": "周洋的直播工会主管，周洋在最后拨通其电话。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第101章 “你睡了吗，我睡不着”　　眼诡的红灯笼，散发出的红光，牵制住了那座神像，使之无法让所有人视觉里的泥胎颤动，让大家都原地消失，　　去它那边，帮它弥补身躯的缺憾",
-        "周洋听到项哥熟悉的声音，脸上露出一抹笑容，他嘴里传出干涩的声音：“项哥，你睡了吗"
+      "relationships": [
+        {
+          "target": "周洋",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "他看了眼直播间内的画面",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看了眼直播间内的画面",
-        "他看着手机上，与苏午通话的界面倏忽消失，失去了苏午语言的鼓舞，脑海里又开始出现一些混乱无序的画面……　　“记住你自己是谁"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接到周洋的电话。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "”　　魏和微微皱眉，脑海里稍微回忆了刹那，正待回答他的问题，　　黄道士在旁已然开口道：“是，土葬刚改火葬那会儿，龙山上修起了一座公墓，还装修了配套的纪念堂、丧仪堂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　魏和微微皱眉，脑海里稍微回忆了刹那，正待回答他的问题，　　黄道士在旁已然开口道：“是，土葬刚改火葬那会儿，龙山上修起了一座公墓，还装修了配套的纪念堂、丧仪堂",
-        "他的皮肤色泽变得越发浅淡，　　犹如画中走出的人",
-        "周洋胸膛微微起伏，轻轻呼吸，　　于是包围他的所有躯体都跟着胸膛微微起伏，轻轻呼吸"
+        "他拨通了自己直播签约的某工会主管——‘项哥’的电话。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "三清",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "在灯笼隐去之前，必须要找到一个方法，重新让‘三清之肠’陷入沉睡中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在灯笼隐去之前，必须要找到一个方法，重新让‘三清之肠’陷入沉睡中",
-        "什么样地方法，可以暂时阻止‘三清之肠’的苏醒",
-        "是否能阻止‘三清之肠’的苏醒"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "三清之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "在灯笼隐去之前，必须要找到一个方法，重新让‘三清之肠’陷入沉睡中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在灯笼隐去之前，必须要找到一个方法，重新让‘三清之肠’陷入沉睡中",
-        "什么样地方法，可以暂时阻止‘三清之肠’的苏醒",
-        "是否能阻止‘三清之肠’的苏醒"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "三清之肠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "在灯笼隐去之前，必须要找到一个方法，重新让‘三清之肠’陷入沉睡中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在灯笼隐去之前，必须要找到一个方法，重新让‘三清之肠’陷入沉睡中",
-        "什么样地方法，可以暂时阻止‘三清之肠’的苏醒",
-        "是否能阻止‘三清之肠’的苏醒"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "你现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "”　　他一开口说话，首先帮助周洋稳定心态：“你现在最需要做的，就是不要放弃",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他一开口说话，首先帮助周洋稳定心态：“你现在最需要做的，就是不要放弃",
-        "苏午心念电转，连连向周洋说道：“你现在不能闲着，不能胡思乱想，你要努力回忆你自己，　　记住你自己是谁，　　你来自哪里，　　你有什么家人"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "我听",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第101章 “你睡了吗，我睡不着”",
-      "summary": "“我听着，我听着",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我听着，我听着",
-        "“我听你的，　　我都听你的"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

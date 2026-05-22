@@ -1,257 +1,290 @@
 {
   "chunk_id": "chunk-0425",
-  "title": "第一百九十八章 道魔演化",
   "characters": [
-    {
-      "name": "刀魔",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "他刚刚突然想明白了，道者能够借用一部分小千意志，所以说，只要在魔劫域中，就没有什么瞒得住刀魔，唯独在这里，有四大道者的力量庇护，刀魔的感应延伸不进来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他刚刚突然想明白了，道者能够借用一部分小千意志，所以说，只要在魔劫域中，就没有什么瞒得住刀魔，唯独在这里，有四大道者的力量庇护，刀魔的感应延伸不进来",
-        "“主人的计划成功了，刀魔为了杀死吞噬之母，再开逆道眼，请问主人，刀魔一身实力，如今还剩几成",
-        "”    “刀魔当年只身抵挡大劫，被天地戾气倒灌全身，虽然身败，倒也被他参悟出了一点天地寂灭的本事，刀魔不是当年的魔刀，就算他只剩一成本事，对付你还是不成问题的"
-      ],
-      "mention_count": 34
-    },
     {
       "name": "戚笼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "问刀楼弟子，刀道修行者",
+      "faction": "问刀楼",
       "status": "登场",
       "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "戚笼借助道门符文变化，在问道楼中到处乱转，这问道楼并没有什么宝物，但却记载了历代道者的心得体会——当然是在重重封印中",
+      "summary": "主角，掌握开源图，在问道楼中参悟道者心得，跟踪独孤老人被发现，后被刀魔带走谈话。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼借助道门符文变化，在问道楼中到处乱转，这问道楼并没有什么宝物，但却记载了历代道者的心得体会——当然是在重重封印中",
-        "不过对于掌握开源图的戚笼来说，这种封印形同虚设",
-        "’    戚笼或是皱眉、或是沉思、或是恍然大悟，或是欣喜若狂，完全沉醉于道者的知识中不可自拔"
+      "personality": [
+        "好奇",
+        "谨慎"
       ],
-      "mention_count": 29
+      "abilities": [
+        "掌握开源图",
+        "参悟道者知识"
+      ],
+      "equipment": [
+        "开源图",
+        "人皮口袋"
+      ],
+      "relationships": [
+        {
+          "target": "刀魔",
+          "type": "师伯与师侄"
+        },
+        {
+          "target": "吕傲侯",
+          "type": "师姐与师弟"
+        },
+        {
+          "target": "独孤老人",
+          "type": "跟踪与被发现"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在问道楼中参悟道者心得，跟踪独孤老人，被刀魔发现并带走谈话。"
+        }
+      ],
+      "evidence": [
+        "戚笼借助道门符文变化，在问道楼中到处乱转",
+        "戚笼心中一惊，从感悟中醒来。",
+        "戚笼干笑一声，直接从虚空中走出"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "独孤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "刀魔",
+      "aliases": [
+        "大师伯"
+      ],
+      "identity": "问刀楼五大道者之一，曾经的魔刀",
+      "faction": "问刀楼",
       "status": "登场",
       "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "独孤老人步步上楼，每一步都像是丈量好的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "独孤老人步步上楼，每一步都像是丈量好的",
-        "独孤老人手指在虚空中勾画着，一道道蕴含大道之力的符文化出，融入镜中",
-        "”    独孤老人半跪于地，一脸虔诚尊重"
+      "summary": "问刀楼道者，重伤后参悟道魔演化，实力深不可测，对戚笼有指点之意。",
+      "appearance": [
+        "满脸沟壑"
       ],
-      "mention_count": 16
+      "personality": [
+        "洒脱",
+        "深不可测"
+      ],
+      "abilities": [
+        "道魔演化",
+        "刀术斩出大道寂灭"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "师伯与师侄"
+        },
+        {
+          "target": "吕傲侯",
+          "type": "师徒"
+        },
+        {
+          "target": "独孤老人",
+          "type": "敌对"
+        },
+        {
+          "target": "镜中人",
+          "type": "未知对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现戚笼跟踪独孤老人，带走戚笼谈话，透露十日后将有人挑战。"
+        }
+      ],
+      "evidence": [
+        "刀魔面无表情，一步踏出",
+        "刀魔看着戚笼，眼神奇异。",
+        "刀魔笑了笑，透着一股洒脱"
+      ],
+      "mention_count": 10
     },
     {
       "name": "独孤老人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "独孤凶"
+      ],
+      "identity": "问刀楼成员，刀道第四层‘伪真神’境，预备道者",
+      "faction": "问刀楼",
       "status": "登场",
       "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "独孤老人步步上楼，每一步都像是丈量好的",
+      "summary": "曾经的预备道者，实力强大，暗中与镜中人勾结，计划挑战刀魔成为新任魔刀。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "怨恨",
+        "忌惮",
+        "不服"
+      ],
+      "abilities": [
+        "刀道第四层‘伪真神’境",
+        "大道符文"
+      ],
+      "equipment": [
+        "铜镜"
+      ],
+      "relationships": [
+        {
+          "target": "刀魔",
+          "type": "敌对，挑战者"
+        },
+        {
+          "target": "镜中人",
+          "type": "主仆"
+        },
+        {
+          "target": "戚笼",
+          "type": "被跟踪"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在问道楼静室中与镜中人联络，被戚笼跟踪，后被刀魔发现，约定十日后挑战。"
+        }
+      ],
       "evidence": [
-        "独孤老人步步上楼，每一步都像是丈量好的",
-        "独孤老人手指在虚空中勾画着，一道道蕴含大道之力的符文化出，融入镜中",
-        "”    独孤老人半跪于地，一脸虔诚尊重"
+        "独孤老人步步上楼，每一步都像是丈量好的。",
+        "独孤老人半跪于地，一脸虔诚尊重。",
+        "独孤老人脸皮狠狠一抽，当即甩袖离开。"
       ],
       "mention_count": 8
     },
     {
-      "name": "十日",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "“放心吧，十日后，我会助你的，”镜中人笑道：“刀魔道魔，终究还不是道在魔前么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“放心吧，十日后，我会助你的，”镜中人笑道：“刀魔道魔，终究还不是道在魔前么",
-        "“十日后，你不就知道了，又或者，你可以现在就把独孤凶杀死，这样不就没人挑战你了",
-        "“十日后，我会让你知道，什么才是真正的魔刀"
+      "name": "镜中人",
+      "aliases": [
+        "主人"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "未知强者，疑似道者第五层大圆满",
+      "faction": "未知",
+      "status": "提及",
       "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "《开源图》至少是这个层次的宝物，甚至单以适用范围，比二者还要大",
+      "summary": "通过铜镜与独孤老人联络的神秘强者，计划助独孤老人挑战刀魔，削其道者之位。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "《开源图》至少是这个层次的宝物，甚至单以适用范围，比二者还要大",
-        "“那是一种连老夫都感到恐惧的境界，三千大道尽皆破灭，天地崩解，甚至将本我与敌人尽皆斩杀",
-        "”    “老夫也并没有完全掌握这一层境界，所以吕丫头能走到哪一步，我也不清楚，不过有朝一日，她突然告诉我——”    刀魔指头一点，一个十七八岁模样的吕傲侯便显化而出，表情激动、甚至还有一丝恐惧"
+      "personality": [
+        "慵懒",
+        "算计"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "老夫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "等人走后，这个老人才干咳了两声，道：“怎么，还要老夫请你出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "等人走后，这个老人才干咳了两声，道：“怎么，还要老夫请你出来",
-        "”    刀魔摇头：“不，事实上，老夫是不建议她走这一步的，参与大劫的演化，不该是我们做的事",
-        "”    “老夫知道你有很多疑惑，一一道来，老夫虽然时日不多，但回答你问题的时间还是有的"
+      "abilities": [
+        "道者第五层大圆满",
+        "人为分离大道"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "戚笼面色微变，这每一道符文，似乎都是一种大道的演化，八卦、五行、太极、两仪，玄奥无比",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "独孤老人",
+          "type": "主人与仆从"
+        },
+        {
+          "target": "刀魔",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过铜镜与独孤老人对话，透露十日后将助其挑战刀魔。"
+        }
+      ],
       "evidence": [
-        "戚笼面色微变，这每一道符文，似乎都是一种大道的演化，八卦、五行、太极、两仪，玄奥无比",
-        "”    “他们怀疑她看了我的魔刀，入了魔，似乎也的确如此，她叛门之前，甚至尝试着毁掉问道楼核心，坏掉所有道者的根基"
+        "镜中光芒猛然大亮",
+        "一道慵懒的声音响起",
+        "镜中人笑道"
       ],
       "mention_count": 5
     },
     {
-      "name": "吕丫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "“吕丫头说，你或许是一个变数，现在看来，你的确是一个变数，在大道的参悟上，除了他，你是问道楼史上最快的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“吕丫头说，你或许是一个变数，现在看来，你的确是一个变数，在大道的参悟上，除了他，你是问道楼史上最快的",
-        "”    “吕丫头当年的天分跟你差不多，刀术更强，是唯一贯通我们五位道者手艺的，嘿，所以我一时兴起，传了她我的道魔演化",
-        "”    “老夫也并没有完全掌握这一层境界，所以吕丫头能走到哪一步，我也不清楚，不过有朝一日，她突然告诉我——”    刀魔指头一点，一个十七八岁模样的吕傲侯便显化而出，表情激动、甚至还有一丝恐惧"
+      "name": "吕傲侯",
+      "aliases": [
+        "吕丫头",
+        "吕师姐"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "开源图",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "问刀楼弟子，刀魔的徒弟，已叛门",
+      "faction": "问刀楼（叛门）",
+      "status": "提及",
       "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "《开源图》至少是这个层次的宝物，甚至单以适用范围，比二者还要大",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "《开源图》至少是这个层次的宝物，甚至单以适用范围，比二者还要大",
-        "不过对于掌握开源图的戚笼来说，这种封印形同虚设",
-        "正思索间，脚步声忽然响起，戚笼面色微变，‘开源图’一卷，无数道家符文就把自己掩盖"
+      "summary": "刀魔的徒弟，天分极高，因发现监察者天刀要毁灭世界而叛门，杀死多名同门，被怀疑入魔。",
+      "appearance": [
+        "十七八岁模样"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "做为曾经的预备道者之一，虽然才加入问刀楼，但一身实力，恐怕仅在几位道者之下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "激动",
+        "恐惧"
+      ],
+      "abilities": [
+        "贯通五位道者手艺",
+        "道魔演化"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "刀魔",
+          "type": "师徒"
+        },
+        {
+          "target": "戚笼",
+          "type": "师姐与师弟"
+        },
+        {
+          "target": "天刀",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "叛门，杀死刀匠、刀母等多名同门，逃亡。"
+        }
+      ],
       "evidence": [
-        "做为曾经的预备道者之一，虽然才加入问刀楼，但一身实力，恐怕仅在几位道者之下",
-        "”    “刀魔当年只身抵挡大劫，被天地戾气倒灌全身，虽然身败，倒也被他参悟出了一点天地寂灭的本事，刀魔不是当年的魔刀，就算他只剩一成本事，对付你还是不成问题的",
-        "”    “老夫知道你有很多疑惑，一一道来，老夫虽然时日不多，但回答你问题的时间还是有的"
+        "吕丫头当年的天分跟你差不多",
+        "他下来了，那口刀杀入了问刀楼",
+        "他想要毁灭这方世界！"
       ],
       "mention_count": 4
     },
     {
-      "name": "主人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十八章 道魔演化",
-      "summary": "“主人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“主人",
-        "“主人的计划成功了，刀魔为了杀死吞噬之母，再开逆道眼，请问主人，刀魔一身实力，如今还剩几成",
-        "”    “主人命令，不敢怠慢"
+      "name": "天刀",
+      "aliases": [
+        "监察者"
       ],
-      "mention_count": 4
+      "identity": "监察者，刀道至高者",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第一百九十八章 道魔演化",
+      "summary": "刀道超脱于道外的存在，被吕傲侯指认为要毁灭世界的疯子。",
+      "appearance": [],
+      "personality": [
+        "超然",
+        "疯狂（据吕傲侯所言）"
+      ],
+      "abilities": [
+        "刀超离于道外"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吕傲侯",
+          "type": "敌对"
+        },
+        {
+          "target": "刀魔",
+          "type": "被尊敬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "杀入问刀楼，杀死刀匠、刀母等人。"
+        }
+      ],
+      "evidence": [
+        "他下来了，那口刀杀入了问刀楼",
+        "他的刀，已经超离于道外"
+      ],
+      "mention_count": 2
     }
   ]
 }

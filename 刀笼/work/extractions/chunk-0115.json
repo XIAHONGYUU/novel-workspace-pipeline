@@ -1,224 +1,312 @@
 {
   "chunk_id": "chunk-0115",
-  "title": "第一百一十五章 武家宴、五家宴（完）",
   "characters": [
     {
-      "name": "薛文海",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "“就是他，爹，他就是薛文海，惦记我娘的那个坏蛋，回头我们父子找个机会揍死他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“就是他，爹，他就是薛文海，惦记我娘的那个坏蛋，回头我们父子找个机会揍死他",
-        "薛文海扫了薛白一眼，温和的笑了笑，又道：“只是，五家聚会，为的是商讨应对尸潮的诛魔令一事，就算穷凶极恶如阁下，不也是武行的一员么”    “还是说，阁下正是因为这诛魔令，才打算大闹这一场的",
-        "”    薛文海的话阴狠恶毒，句句把戚笼往山北道武行的对立面，甚至是武人的对立面上引去"
-      ],
-      "mention_count": 22
-    },
-    {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "戚笼一进来，立刻，无数道敌意的眼神便射了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼一进来，立刻，无数道敌意的眼神便射了过来",
-        "戚笼面色不变，在薛白殷勤伺候下，坐在了主座之上，环顾四周，突然笑了起来",
-        "无它，一来，戚笼的江湖资历实在是老，六岁摸刀，然后就开始江湖生涯，石庵堂一脉又向来是绿林的正统"
+      "aliases": [
+        "刀魔"
       ],
-      "mention_count": 17
+      "identity": "赤身贼匪首，刀术入不可知之境的武者",
+      "faction": "赤身党",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戚笼是赤身贼匪首，刀术极高，曾与五阀高手交手，此次参加武家宴，带着儿子薛白。",
+      "appearance": [],
+      "personality": [
+        "狂悖",
+        "老练",
+        "咄咄逼人"
+      ],
+      "abilities": [
+        "刀术入不可知之境"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛白",
+          "type": "父子"
+        },
+        {
+          "target": "薛文海",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参加武家宴，坐在主座，与梁家、阎禅寺等人对峙，并让薛白与薛文海交手。"
+        }
+      ],
+      "evidence": [
+        "戚笼一进来，立刻，无数道敌意的眼神便射了过来。",
+        "戚笼面色不变，在薛白殷勤伺候下，坐在了主座之上",
+        "戚笼慢条斯理的倒了一杯茶"
+      ],
+      "mention_count": 20
     },
     {
       "name": "薛白",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "戚笼的儿子，薛家子弟",
+      "faction": "薛家",
       "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "戚笼面色不变，在薛白殷勤伺候下，坐在了主座之上，环顾四周，突然笑了起来",
+      "first_appearance": "",
+      "summary": "薛白是戚笼的儿子，性格冲动，武道天赋极高，炼皮大成加童子功，能打出罡气。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼面色不变，在薛白殷勤伺候下，坐在了主座之上，环顾四周，突然笑了起来",
-        "戚笼还没开口，薛白先就跳了出来，大怒道：“谁是外人，那可是我亲爹",
-        "”    薛白说打死人，那就真打死人，几乎刹那间，无数鬼影在万般灯火中游窜着，‘窥鬼神’的意境一旦发作，众人均感觉到，无数道诡异眼神不怀好意的望了过来"
+      "personality": [
+        "冲动",
+        "傻气",
+        "孝顺"
       ],
-      "mention_count": 15
+      "abilities": [
+        "炼皮大成",
+        "童子功",
+        "罡气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "父子"
+        },
+        {
+          "target": "薛文海",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛文海交手，击中其气海穴。"
+        }
+      ],
+      "evidence": [
+        "薛白殷勤伺候下，坐在了主座之上",
+        "薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出",
+        "薛白表面傻，本质上也的确是傻，但在武道上的天赋绝对是顶级天才的那一档"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "薛文",
+      "name": "薛文海",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "薛家分支主事，老族长的义子",
+      "faction": "薛家",
       "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "“就是他，爹，他就是薛文海，惦记我娘的那个坏蛋，回头我们父子找个机会揍死他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“就是他，爹，他就是薛文海，惦记我娘的那个坏蛋，回头我们父子找个机会揍死他",
-        "薛文海扫了薛白一眼，温和的笑了笑，又道：“只是，五家聚会，为的是商讨应对尸潮的诛魔令一事，就算穷凶极恶如阁下，不也是武行的一员么”    “还是说，阁下正是因为这诛魔令，才打算大闹这一场的",
-        "”    薛文海的话阴狠恶毒，句句把戚笼往山北道武行的对立面，甚至是武人的对立面上引去"
+      "first_appearance": "",
+      "summary": "薛文海是薛家分支主事，气质儒雅，擅长三皇炮捶，与戚笼父子敌对。",
+      "appearance": [
+        "气质儒雅",
+        "与老族长相似"
       ],
-      "mention_count": 11
+      "personality": [
+        "阴狠",
+        "恶毒"
+      ],
+      "abilities": [
+        "三皇炮捶"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "薛白",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛白交手，被击中气海穴受伤。"
+        }
+      ],
+      "evidence": [
+        "一位中年男子站了出来，这人四十来岁，气质儒雅",
+        "薛文海的话阴狠恶毒",
+        "薛文海面色一变，在一瞬间感受到了极度的危险"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "这一",
+      "name": "梁龙友",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "薛文海扫了薛白一眼，温和的笑了笑，又道：“只是，五家聚会，为的是商讨应对尸潮的诛魔令一事，就算穷凶极恶如阁下，不也是武行的一员么”    “还是说，阁下正是因为这诛魔令，才打算大闹这一场的",
+      "identity": "梁家‘龙云’总教头",
+      "faction": "梁家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "梁龙友是梁家总教头，十年前被戚笼砍掉三根手指。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "薛文海扫了薛白一眼，温和的笑了笑，又道：“只是，五家聚会，为的是商讨应对尸潮的诛魔令一事，就算穷凶极恶如阁下，不也是武行的一员么”    “还是说，阁下正是因为这诛魔令，才打算大闹这一场的",
-        "”    “而且阁下三年不出，这一出世，就赶上了尸潮，这么巧合",
-        "薛文海眉头一皱，这一叼一抽，最终只撕裂了对方的一片衣角"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "十年前",
+          "event": "被戚笼砍掉三根手指。"
+        }
+      ],
+      "evidence": [
+        "梁龙友今天怎么没来，他当年被我砍掉三根手指后，养了快十年了吧。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "像是",
+      "name": "阎佛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
+      "identity": "阎禅寺大主持",
+      "faction": "阎禅寺",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "阎佛是阎禅寺大主持，修行菩提魔念，曾与戚笼交手但未分胜负。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
-        "而那拳头压缩的气压，层层叠叠，就真的像是有空气弹迎面炸开",
-        "薛文海脚步‘擦拉’一步，脱肩团胛，像是给人鞠躬一样，右手捏指并拳，顺着额头按了下来"
+      "abilities": [
+        "菩提魔念"
       ],
-      "mention_count": 7
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "交手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与戚笼大战一场，后因推演胜算不大而放弃。"
+        }
+      ],
+      "evidence": [
+        "阎禅寺的大主持阎佛出手，跟戚笼大战一场。",
+        "那阎佛其实并没有与他决斗，略一试探便就退了下去。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "就像是",
+      "name": "薛世仪",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "薛家现任家主",
+      "faction": "薛家",
       "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
+      "first_appearance": "",
+      "summary": "薛世仪是薛家现任家主，在宴会上出现并宣布开宴。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "面无表情"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
-        "薛文海一叼、一抽，就像是怒其不争的师长，在训斥自己的学生，是从拳理上直接压过对方，一成的拳术，能增长五成的威压",
-        "这一手起势无任何征兆，因为一手是用额头发劲，薛文海额面变的紫红，太阳穴暴起，精气神暴增，这一手就像是如来佛捏住孙猴子，四周空气都反压在薛白身上，层层叠叠堵住毛孔，让他叫天天不应，叫地地不灵"
+      "relationships": [
+        {
+          "target": "薛白",
+          "type": "同族"
+        },
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与陈长在、梁乃周一起进入宴会，宣布开宴。"
+        }
+      ],
+      "evidence": [
+        "薛世仪面无表情的扫了薛白一眼",
+        "薛世仪目光扫了一圈，喝道：“人都到了，开宴！”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "阎禅寺",
+      "name": "陈长在",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "陈家现任家祖",
+      "faction": "陈家",
       "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "”    众人色变，那梁家人、百战盟的战将、阎禅寺的恶和尚，全都被激怒，但却无人敢怒叱对方",
+      "first_appearance": "",
+      "summary": "陈家现任家祖，与薛世仪、梁乃周一同进入宴会。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    众人色变，那梁家人、百战盟的战将、阎禅寺的恶和尚，全都被激怒，但却无人敢怒叱对方",
-        "”    众人哗然，要知道这事在阎禅寺中可一直是保密的，毕竟实在不光彩，但赤身贼强大，阎禅寺派遣高手，刺杀那几个匪首也没成功，反而折了好几个护寺武僧",
-        "当时赤身党放出话来，要么交银子，要么断粮，武僧炼的外门功夫，一顿饭有十人饭量，真要被截粮不是要饿死，最后阎禅寺的大主持阎佛出手，跟戚笼大战一场"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入宴会。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "三个气势恢宏的中年人走了进来。陈家现任家祖陈长在。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "身子",
+      "name": "梁乃周",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "梁家现任家主",
+      "faction": "梁家",
       "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
+      "first_appearance": "",
+      "summary": "梁家现任家主，与薛世仪、陈长在一同进入宴会。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
-        "收身，瞬间收拳，身子一抖，像是野猴子抖毛，一下子抖出了重重叠叠的幻象，像猴形、非猴形，怕是就连薛白自己，都说不出自己什么拳路",
-        "薛白瞬间察觉到这难得的机会，脚尖一点，拧腰顺肩、蹬脚磨胫，身子在半空中一转，点到了薛文海的气海穴上"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入宴会。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "三个气势恢宏的中年人走了进来。梁家现任家主梁乃周。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "在外人",
+      "name": "高勇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "在外人眼中，阎佛与刀魔一战，虽然阎佛无伤，但十有八九是败了，但做为当事人的自己，戚笼明白，那阎佛其实并没有与他决斗，略一试探便就退了下去",
+      "identity": "薛家高手",
+      "faction": "薛家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "薛家高手，被戚笼怀疑是薛文海派来的。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "薛文海",
+          "type": "可能的下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "在外人眼中，阎佛与刀魔一战，虽然阎佛无伤，但十有八九是败了，但做为当事人的自己，戚笼明白，那阎佛其实并没有与他决斗，略一试探便就退了下去",
-        "在外人眼中，五大武阀中，最凶最横的一向是阎禅寺，号称‘欺佛祖，喝观音，戒刀禅杖冷森森"
+        "高勇是你派来的？"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "不少",
+      "name": "薛小沐",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "不少小一辈也在偷摸打量着这位‘刀魔’，不提这位爷的传奇经历，就凭他一上来，就把梁家、阎佛寺怼的说不出话来，便就足以惊掉众人眼神",
+      "identity": "五阀小辈中的高手",
+      "faction": "薛家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "五阀小辈中的高手，被戚笼视若无物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -226,31 +314,37 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "不少小一辈也在偷摸打量着这位‘刀魔’，不提这位爷的传奇经历，就凭他一上来，就把梁家、阎佛寺怼的说不出话来，便就足以惊掉众人眼神",
-        "不少薛家人注目，倒不是说对方在主家中地位如何，而是这副样貌，与当年的老族长太像了"
+        "这些五阀小辈中，不乏类似薛小沐一流的高手"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "就像",
+      "name": "戚小骨",
       "aliases": [],
-      "identity": "",
+      "identity": "戚笼的家人",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十五章 武家宴、五家宴（完）",
-      "summary": "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戚笼的家人，被薛白叫上一起揍薛文海。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "家人"
+        },
+        {
+          "target": "薛白",
+          "type": "家人"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    就像是得了圣旨，薛白眼中兴奋之色一闪而过，展指舒掌，手掌一拧一缩，一拳捣出，身子猛的一震，就像是火炮发生时，炮身泻下的后座力一般",
-        "薛文海一叼、一抽，就像是怒其不争的师长，在训斥自己的学生，是从拳理上直接压过对方，一成的拳术，能增长五成的威压",
-        "这一手起势无任何征兆，因为一手是用额头发劲，薛文海额面变的紫红，太阳穴暴起，精气神暴增，这一手就像是如来佛捏住孙猴子，四周空气都反压在薛白身上，层层叠叠堵住毛孔，让他叫天天不应，叫地地不灵"
+        "甚至叫上戚小骨，准备一家老小齐上阵了。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

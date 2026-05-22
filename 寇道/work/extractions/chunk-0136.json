@@ -1,258 +1,709 @@
 {
   "chunk_id": "chunk-0136",
-  "title": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "寇立弹了弹这口先天剑胎，发出一声空灵之响，四周无空气，也无声，这是剑灵的传音",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立弹了弹这口先天剑胎，发出一声空灵之响，四周无空气，也无声，这是剑灵的传音",
-        "”    寇立睁眼，左右浮出两座大山虚影，剑身一并，宛如日出之光，射在这星辰的亮光中，刹那间，本来璀璨银白的星河，变成了虹河",
-        "然而寇立第二道剑光中，‘嘘呖呖’的声音响起，一道马形光影化出，驾星云而去，紧追不舍，不一会儿功夫，前方就传来剧烈的撕咬动静"
+      "aliases": [
+        "寇立",
+        "师叔",
+        "师姐"
       ],
-      "mention_count": 57
+      "identity": "金宵宗弟子，前世为女性",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "金宵宗弟子，剑术高强，参悟出生灭剑意，拥有剑灵，前世为女性，今世为男性。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "坚韧"
+      ],
+      "abilities": [
+        "生灭剑术",
+        "剑气化形",
+        "先天罡气",
+        "剑灵"
+      ],
+      "equipment": [
+        "先天剑胎",
+        "东山经卷"
+      ],
+      "relationships": [
+        {
+          "target": "东方谨",
+          "type": "传法者"
+        },
+        {
+          "target": "玄化上仙",
+          "type": "敌对"
+        },
+        {
+          "target": "魏老魔",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与魏老魔战斗，斩杀天马；前往祭拜东方谨；接受纯阳宴请帖；返回星宿海途中遭遇妖军入侵。"
+        }
+      ],
+      "evidence": [
+        "寇立弹了弹这口先天剑胎，发出一声空灵之响",
+        "寇立也参悟出剑光的另一重妙用，那就是化身生灵",
+        "寇立一拍脑袋，取出东山经卷"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "便是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "在这里，便是这天马的主战场",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在这里，便是这天马的主战场",
-        "连续九次后，便是以这老魔头的坚定意志，也完全吃不消，怪吼一声，无穷魔影盖来",
-        "“师叔，你的剑术，”诸大勇目瞪口呆，在他看来，便是剑术中的高深境界剑气化形，也只是模其形神，而不是彻底化作生灵"
+      "name": "魏老魔",
+      "aliases": [
+        "魏老魔",
+        "老魔",
+        "老魔头"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "寇立弹了弹这口先天剑胎，发出一声空灵之响，四周无空气，也无声，这是剑灵的传音",
+      "identity": "魔教长老",
+      "faction": "魔教",
+      "status": "死亡",
+      "first_appearance": "本章",
+      "summary": "魔教长老，能化身天马，在星河中与寇立战斗，最终被寇立斩杀。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立弹了弹这口先天剑胎，发出一声空灵之响，四周无空气，也无声，这是剑灵的传音",
-        "“别动手了，去收集天河星沙，这不是你们能对付的，这是——天马",
-        "这是仙职，东方谨褪下来，交予自己的仙职"
+      "personality": [
+        "凶残",
+        "狞笑"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "古小钗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "”古小钗道：“死亡并不可怕，可怕的是，给与人希望，再让人绝望",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”古小钗道：“死亡并不可怕，可怕的是，给与人希望，再让人绝望",
-        "“或许吧，”出乎意料，古小钗没有纠缠，叹了口气",
-        "死去的真相，古小钗没说，寇立也没说"
+      "abilities": [
+        "化身天马",
+        "操控星光",
+        "魔兵幻影"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "“我都忘记了，还有这件宝物",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立战斗，被斩杀。"
+        }
+      ],
       "evidence": [
-        "“我都忘记了，还有这件宝物",
-        "有人在搬动宇宙之力，以法遮天，记忆之中，只有记忆中的盘古大圣，还有上古的几位圣贤做到过",
-        "后来，他有了一个朋友，那真是很古怪的人啊，朋友告诉他，巅峰，只是登上山顶而已，往下看，无人，但往上看，还有天"
+        "魏老魔的眼珠子已经长出来了",
+        "老魔狞笑数声，马脸化作人脸",
+        "无头天马马蹄一转，借助星河的遮掩，顺河而下"
       ],
       "mention_count": 10
+    },
+    {
+      "name": "秦华",
+      "aliases": [
+        "秦华"
+      ],
+      "identity": "金宵宗弟子",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗弟子，与诸大勇一同跟随寇立。",
+      "appearance": [],
+      "personality": [
+        "冷静"
+      ],
+      "abilities": [
+        "金宵真气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师叔侄"
+        },
+        {
+          "target": "诸大勇",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立一同战斗，收集天河星沙。"
+        }
+      ],
+      "evidence": [
+        "秦华和诸大勇从两侧插入，化作刀锋般的金宵真气"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "诸大勇",
+      "aliases": [
+        "诸大勇",
+        "褚大勇"
+      ],
+      "identity": "金宵宗弟子",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗弟子，与秦华一同跟随寇立。",
+      "appearance": [],
+      "personality": [
+        "惊讶",
+        "结巴"
+      ],
+      "abilities": [
+        "金宵真气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师叔侄"
+        },
+        {
+          "target": "秦华",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立一同战斗，收集天河星沙。"
+        }
+      ],
+      "evidence": [
+        "诸大勇目瞪口呆",
+        "褚大勇结结巴巴问"
+      ],
+      "mention_count": 5
     },
     {
       "name": "东方谨",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "东方谨摸着膝上的这口剑，剑很普通，人间凡铁，却是他的好朋友给他的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "东方谨摸着膝上的这口剑，剑很普通，人间凡铁，却是他的好朋友给他的",
-        "倘若四十九重世界演化完毕，败者就是东方谨",
-        "这是仙职，东方谨褪下来，交予自己的仙职"
+      "aliases": [
+        "东方谨",
+        "东方城主",
+        "谪仙人"
       ],
-      "mention_count": 10
+      "identity": "白玉京城主，谪仙人",
+      "faction": "白玉京",
+      "status": "死亡",
+      "first_appearance": "本章",
+      "summary": "白玉京城主，剑术通神，与神尊大战后陨落，留下衣冠冢。",
+      "appearance": [
+        "肩若削成，腰如约素，延颈秀项，皓质呈露，丹唇外朗，皓齿内鲜，一身白衣"
+      ],
+      "personality": [
+        "孤傲",
+        "寂寞"
+      ],
+      "abilities": [
+        "天外飞仙",
+        "开天剑术"
+      ],
+      "equipment": [
+        "凡铁剑"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "传法者"
+        },
+        {
+          "target": "神尊",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与神尊大战，最终陨落。"
+        }
+      ],
+      "evidence": [
+        "东方谨摸着膝上的这口剑，剑很普通，人间凡铁",
+        "一剑光寒十九州，小东方，你也就这点出息",
+        "东方谨的天外飞仙，在最后关口，不知为何，出现了一丝丝破绽"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "古小",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "”古小钗道：“死亡并不可怕，可怕的是，给与人希望，再让人绝望",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”古小钗道：“死亡并不可怕，可怕的是，给与人希望，再让人绝望",
-        "“或许吧，”出乎意料，古小钗没有纠缠，叹了口气",
-        "死去的真相，古小钗没说，寇立也没说"
+      "name": "神尊",
+      "aliases": [
+        "神尊",
+        "巨人",
+        "人身蛇尾的巨神"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "而且他摇身一动，四肢化四蹄，身形节节高涨，一匹小山的肌肉怪马从星河中跳出，鬃毛飞起，每一步，便踏出一圈星漩，逆流而上，便有星流璀璨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且他摇身一动，四肢化四蹄，身形节节高涨，一匹小山的肌肉怪马从星河中跳出，鬃毛飞起，每一步，便踏出一圈星漩，逆流而上，便有星流璀璨",
-        "这两剑都动用了先天罡气，而且全力以赴，毕竟对方再怎么说，也都是魔教长老一级，临敌时的精神交锋、斗智斗勇，绝非等闲",
-        "越往上走，星河便越发宽阔，宛如大江江面，星光闪耀，而且仙气越浓厚"
+      "identity": "魔道祖师级存在",
+      "faction": "魔道",
+      "status": "未知",
+      "first_appearance": "本章",
+      "summary": "与东方谨大战的魔道强者，试图演化四十九重世界。",
+      "appearance": [
+        "人身蛇尾"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "在这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "”    寇立睁眼，左右浮出两座大山虚影，剑身一并，宛如日出之光，射在这星辰的亮光中，刹那间，本来璀璨银白的星河，变成了虹河",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    寇立睁眼，左右浮出两座大山虚影，剑身一并，宛如日出之光，射在这星辰的亮光中，刹那间，本来璀璨银白的星河，变成了虹河",
-        "在这里，便是这天马的主战场",
-        "生与灭，完美的融合在这一剑中"
+      "abilities": [
+        "演化世界",
+        "开天魔神"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "重明鸟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "重明鸟，其形若鸡，其羽若凤，双眼重瞳，能识圣贤",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "重明鸟，其形若鸡，其羽若凤，双眼重瞳，能识圣贤",
-        "传说中，重明鸟便是从天而降，以双眼测圣皇，附羽其后",
-        "寇立所化的重明鸟逆星河向上，他想看一看，这最后一战，到底是谁胜谁负"
+      "relationships": [
+        {
+          "target": "东方谨",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "东方谨摸着膝上的这口剑，剑很普通，人间凡铁，却是他的好朋友给他的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与东方谨大战，演化四十九重世界。"
+        }
+      ],
       "evidence": [
-        "东方谨摸着膝上的这口剑，剑很普通，人间凡铁，却是他的好朋友给他的",
-        "他的眼中满是寂寞，很多年前，他的眼中只有剑，神仙、正邪、妖魔、是非，天地，都不在他的心中，所以他的剑是纯粹的，是巅峰的",
-        "天不是道，修士修的才是道，他的道，不在这天下"
+        "鸿蒙之中，一座人身蛇尾的巨神正艰难的撑着天地",
+        "四十九重天合一，他便是第二位魔道祖师"
       ],
       "mention_count": 8
     },
     {
-      "name": "只剩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "玄化上仙",
+      "aliases": [
+        "玄化上仙",
+        "玄华",
+        "上界神仙"
+      ],
+      "identity": "上界神仙",
+      "faction": "仙界",
       "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "只剩下剑",
+      "first_appearance": "本章",
+      "summary": "上界神仙，试图阻止东方谨上界，与寇立意识交战，被寇立复制了记忆。",
+      "appearance": [],
+      "personality": [
+        "居高临下"
+      ],
+      "abilities": [
+        "仙术",
+        "意志压迫"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "东方谨",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在寇立意识中与寇立交战，被复制记忆。"
+        }
+      ],
+      "evidence": [
+        "吾乃玄化上仙",
+        "玄化面色不变，只是体型在意识海洋中膨胀开来",
+        "玄华看着重新凝结的小指"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "古小钗",
+      "aliases": [
+        "古小钗"
+      ],
+      "identity": "金宵宗长老",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗长老，性格不怀好意，与寇立关系密切。",
+      "appearance": [],
+      "personality": [
+        "不怀好意",
+        "皮"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立交谈，提及东方谨之战。"
+        }
+      ],
+      "evidence": [
+        "古小钗道：死亡并不可怕，可怕的是，给与人希望，再让人绝望。",
+        "古小钗落井下石"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "菩提道人",
+      "aliases": [
+        "菩提道人"
+      ],
+      "identity": "金宵宗长老",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗长老，剑术高强，拥有浮尘剑。",
+      "appearance": [],
+      "personality": [
+        "面无表情"
+      ],
+      "abilities": [
+        "一浮三千剑"
+      ],
+      "equipment": [
+        "浮尘"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主持金宵宗会议，讨论纯阳宴。"
+        }
+      ],
+      "evidence": [
+        "菩提道人不知何时出现",
+        "菩提道人摸了摸浮尘"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "云阳解",
+      "aliases": [
+        "云阳解"
+      ],
+      "identity": "白玉京剑客",
+      "faction": "白玉京",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "白玉京剑客，以寿元为代价提升剑术，感应到东方谨剑招破绽。",
+      "appearance": [
+        "老人",
+        "昏黄的眼珠"
+      ],
+      "personality": [
+        "执着"
+      ],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "东方谨",
+          "type": "下属"
+        },
+        {
+          "target": "寇立",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在东方谨墓前与寇立对话。"
+        }
+      ],
+      "evidence": [
+        "老人干咳数声，昏黄的眼珠紧盯着寇立",
+        "云阳解鸡爪般的老手，抓在了寇立的肩膀上"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "上官玉琼",
+      "aliases": [
+        "上官玉琼"
+      ],
+      "identity": "白玉京女子",
+      "faction": "白玉京",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "白玉京女子，受东方谨之托将断剑交给寇立。",
+      "appearance": [
+        "绝美女子",
+        "双眼泛红"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "东方谨",
+          "type": "下属"
+        },
+        {
+          "target": "寇立",
+          "type": "交付物品"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将东方谨的遗物断剑交给寇立。"
+        }
+      ],
+      "evidence": [
+        "一绝美女子双眼泛红的站在门前，见得他来，掏出一物"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "周道史",
+      "aliases": [
+        "周道史"
+      ],
+      "identity": "金宵宗长老",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗长老，前世为书生，话痨。",
+      "appearance": [],
+      "personality": [
+        "话痨"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参加金宵宗会议，讨论纯阳宴。"
+        }
+      ],
+      "evidence": [
+        "周道史笑道",
+        "周道史迟疑的看了寇立一眼"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "谢玄韵",
+      "aliases": [
+        "谢玄韵"
+      ],
+      "identity": "金宵宗长老",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗长老，与周道史一同出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参加金宵宗会议。"
+        }
+      ],
+      "evidence": [
+        "一男一女，道服道冠，气质飘渺",
+        "周道史、谢玄韵"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "天忌",
+      "aliases": [
+        "天忌"
+      ],
+      "identity": "金宵宗长老",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗长老，大汉形象。",
+      "appearance": [
+        "大汉"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参加金宵宗会议。"
+        }
+      ],
+      "evidence": [
+        "天忌这大汉眼珠子就要凸出来了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "金光",
+      "aliases": [
+        "金光"
+      ],
+      "identity": "金宵宗长老",
+      "faction": "金宵宗",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "金宵宗长老，参加会议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只剩下剑",
-        "剑器舞、剑华开，天地之间，只剩下破碎的美，凋零的美，毁灭的美，还有一种纯粹的美",
-        "崖顶空空荡荡，没有花草，没有装饰，只剩下这座空冢，正应了墓主人，生来孤独，死去也孤独"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参加金宵宗会议。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "古小钗、天忌、金光"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "虞师",
+      "aliases": [
+        "虞师"
+      ],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "背着双手，面无表情，踏入虚空中。",
+      "appearance": [],
+      "personality": [
+        "面无表情"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察东方谨与神尊之战，后踏入幽泉。"
+        }
+      ],
+      "evidence": [
+        "虞师背着双手，面无表情的看着这一幕",
+        "他幽幽一叹，踏入虚空中，落入幽泉里"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白云娘",
+      "aliases": [
+        "白云娘"
+      ],
+      "identity": "青凤岛修士",
+      "faction": "青凤岛",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "青凤岛修士，凝成金丹，在血岩岛参与防御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "金丹"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在血岩岛参与抵御妖军。"
+        }
+      ],
+      "evidence": [
+        "白云娘在其中并不显眼，虽然她凭着血脉与全族的供奉，凝成金丹"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "长风",
+      "aliases": [
+        "长风小儿"
+      ],
+      "identity": "元神高人",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "元神高人，在血岩岛凝炼法界，被妖军逼出，后遭神秘人物袭击。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "遁术",
+        "巽风罡元"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在血岩岛被妖军逼出，后遭神秘人物袭击。"
+        }
+      ],
+      "evidence": [
+        "元神高人巽风罡元炸开",
+        "嘻嘻嘻，长风小儿，千年不见，你居然也走到这一步了"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "九圣",
+      "aliases": [
+        "九圣",
+        "老怪物"
+      ],
+      "identity": "妖族第一人",
+      "faction": "龙宫",
+      "status": "提及",
+      "first_appearance": "本章",
+      "summary": "龙宫之主，九首蛟龙，发动四海妖军进攻星宿海。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发动妖军进攻星宿海。"
+        }
+      ],
+      "evidence": [
+        "那条九首蛟龙怎敢，它凭什么？",
+        "九圣这老怪物是泼出家底了吗"
+      ],
+      "mention_count": 2
     }
   ]
 }

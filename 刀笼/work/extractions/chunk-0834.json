@@ -1,6 +1,5 @@
 {
   "chunk_id": "chunk-0834",
-  "title": "第一百四十一章 剑一",
   "characters": [
     {
       "name": "戚笼",
@@ -8,29 +7,89 @@
       "identity": "",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "戚笼心中一动，手掌摩梭着补天石，哪怕在先天火气的燃烧下，这块石头依旧保留着温润的感觉",
+      "first_appearance": "",
+      "summary": "与魔女对峙，利用斩仙葫芦破开鼎底逃出，并导致魔女被仙火烧死。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼心中一动，手掌摩梭着补天石，哪怕在先天火气的燃烧下，这块石头依旧保留着温润的感觉",
-        "戚笼知道对方在说谎，因为圆道人的墓穴在第十层，而不是所谓的第三十一层",
-        "戚笼咧嘴一笑，露出一嘴白牙，道：“不，我拒绝"
+      "personality": [
+        "坚定",
+        "果断"
       ],
-      "mention_count": 15
+      "abilities": [
+        "先天五行无量遁法",
+        "斩仙葫芦"
+      ],
+      "equipment": [
+        "补天石",
+        "五遁神桩",
+        "斩仙葫芦"
+      ],
+      "relationships": [
+        {
+          "target": "五行魔女",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在鼎中与魔女对峙，利用仙火和斩仙葫芦破鼎而出，魔女被烧死。"
+        }
+      ],
+      "evidence": [
+        "戚笼心中一动，手掌摩梭着补天石",
+        "戚笼咧嘴一笑，露出一嘴白牙，道：'不，我拒绝。'",
+        "戚笼自然不是在找死，事实上，他之前观察过这鼎的结构"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "魔女",
+      "name": "五行魔女",
+      "aliases": [
+        "魔女"
+      ],
+      "identity": "魔母宗残党，道果级强者",
+      "faction": "魔母宗",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "魔母宗残党，道果级强者，试图与戚笼合作进入第三十一层遗藏，后被仙火烧死，但被魔影复活。",
+      "appearance": [],
+      "personality": [
+        "诱惑",
+        "怨恨"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "血神君",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼在鼎中谈判破裂，被仙火烧死，后被魔影复活。"
+        }
+      ],
+      "evidence": [
+        "魔女诱惑道",
+        "魔女色变：'你疯了！你想和我同归于尽！'",
+        "这位魔母宗的残党，道果级强者，就以一种不算憋屈，但却绝对寂寂无名的方式烧成灰烬。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "血神君",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "”魔女诱惑道",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被魔女提及，可能在第三十层争夺帝剑。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -38,165 +97,154 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”魔女诱惑道",
-        "”魔女一脸期待",
-        "”    魔女脸色一沉，道：“那你是打算跟我在这里分个死活了"
+        "我拿给血神君",
+        "血神君现在在哪里？'恐怕在第三十层，跟他那些晚辈在争那套帝剑呢。'"
       ],
-      "mention_count": 15
+      "mention_count": 2
     },
     {
       "name": "诸葛侯",
-      "aliases": [],
+      "aliases": [
+        "老四"
+      ],
       "identity": "",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "诸葛侯微笑道：“大姐虽然化身亿万，但却是缘悭一面，很少能见到呢",
+      "first_appearance": "",
+      "summary": "在魔女复活后出现，与魔女对话，提及大姐、老三、老六、老九等。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "微笑",
+        "恭敬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "诸葛侯微笑道：“大姐虽然化身亿万，但却是缘悭一面，很少能见到呢",
-        "”    诸葛侯躬身道：“长者为尊，这点规矩我还是懂的，只是以大欺小还是不好的",
-        "”    诸葛侯笑着摇头：“我知道，但我不能告诉你，还不到时候"
+      "relationships": [
+        {
+          "target": "五行魔女",
+          "type": "对话"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在魔女复活后出现，抓住她的手，与之交谈。"
+        }
+      ],
+      "evidence": [
+        "诸葛侯微笑道：'大姐虽然化身亿万，但却是缘悭一面，很少能见到呢。'",
+        "诸葛侯躬身道：'长者为尊，这点规矩我还是懂的'"
+      ],
+      "mention_count": 4
     },
     {
       "name": "大姐",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "诸葛侯微笑道：“大姐虽然化身亿万，但却是缘悭一面，很少能见到呢",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "诸葛侯和魔女对话中提及的人物，似乎是魔女或更高存在。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "诸葛侯",
+          "type": "姐弟"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "诸葛侯微笑道：“大姐虽然化身亿万，但却是缘悭一面，很少能见到呢",
-        "”    他顿了顿，又笑道：“再说了，大姐又不贪二哥那些东西，大姐要的，我恰好知道在哪里",
-        "”    “转生的早，还是有好处的，大姐，五太演化并不在人间，我和老六把它放在下面了，我可以告知它的地点"
+        "大姐虽然化身亿万",
+        "大姐又不贪二哥那些东西"
       ],
-      "mention_count": 6
+      "mention_count": 3
     },
     {
-      "name": "化作",
+      "name": "老三",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "”    戚笼没有回答，五遁神桩绕身而转，先天五行无量遁法展开，化作一道五色光柱，沉于仙火之中",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，曾弃刀用剑，与老九有冲突。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼没有回答，五遁神桩绕身而转，先天五行无量遁法展开，化作一道五色光柱，沉于仙火之中",
-        "仙火果然厉害，哪怕有五行神光护身，身体表面皮肤也是一层又一层开裂、融化，然后新的肉芽从内层长出，化作新的皮肤，然后随着仙火强度越大，就连肉芽的生长速度也跟不上消耗，渐渐在皮肤表面融成一层层血膜"
+      "personality": [
+        "绝情绝性"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "然而",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "然而这一记葫芦只裂出一丝丝痕迹",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "然而这一记葫芦只裂出一丝丝痕迹",
-        "然而下一刻，一道魔光忽然从魔母精气中亮起，这道魔光层次极高，就连仙光也被排斥开来，然后一道魔影缓缓从精气中生出，长出皮肉，变成了另一个五行魔女",
-        "然而她的手却被另一只手给抓住"
+      "relationships": [
+        {
+          "target": "老九",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "第三十",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "第三十一层遗藏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
       "timeline": [],
       "evidence": [
-        "第三十一层遗藏",
-        "”    “嘻嘻，很简单，你将这块石头给我，我拿给血神君，到时你我同去这第三十一层",
-        "”    “第三十一层有什么"
+        "老三弃刀用剑",
+        "老三的脾气我不清楚，说是桀骜不驯已经是轻的了"
       ],
       "mention_count": 4
     },
     {
-      "name": "哪怕",
+      "name": "老九",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "戚笼心中一动，手掌摩梭着补天石，哪怕在先天火气的燃烧下，这块石头依旧保留着温润的感觉",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，曾被打的重伤转世，差点殒落。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "老三",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "戚笼心中一动，手掌摩梭着补天石，哪怕在先天火气的燃烧下，这块石头依旧保留着温润的感觉",
-        "仙火果然厉害，哪怕有五行神光护身，身体表面皮肤也是一层又一层开裂、融化，然后新的肉芽从内层长出，化作新的皮肤，然后随着仙火强度越大，就连肉芽的生长速度也跟不上消耗，渐渐在皮肤表面融成一层层血膜",
-        "也就是说，哪怕人间巅峰的强者，若是不闪不避，也挨不了这一下"
+        "当年老九被打的重伤转世，差点殒落"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "露出",
+      "name": "老六",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "戚笼咧嘴一笑，露出一嘴白牙，道：“不，我拒绝",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，与诸葛侯一起将五太演化放在下面。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "诸葛侯",
+          "type": "兄弟"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "戚笼咧嘴一笑，露出一嘴白牙，道：“不，我拒绝",
-        "好半晌，他走到了火源中心，五指虚抓，‘嘶拉’一声，用三只‘斩仙葫芦’才开辟出空隙，被其一把撕开，露出了第三十一层的景象"
+        "我和老六把它放在下面了"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "先天",
+      "name": "老五",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "戚笼心中一动，手掌摩梭着补天石，哪怕在先天火气的燃烧下，这块石头依旧保留着温润的感觉",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，已出世，但身份未知。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -204,53 +252,33 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "戚笼心中一动，手掌摩梭着补天石，哪怕在先天火气的燃烧下，这块石头依旧保留着温润的感觉",
-        "”    戚笼说话的同时，双手猛的一撮，一刹那间，先天青光喷涌而出，猛然落在这鼎底的先天火焰之中",
-        "而在混元之气的注入下，先天火焰渐渐变白——那是仙光"
+        "老五都来了么，他是谁，现在在哪里？"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "渐渐",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "而在混元之气的注入下，先天火焰渐渐变白——那是仙光",
+      "name": "圆道人",
+      "aliases": [
+        "圆老鬼"
+      ],
+      "identity": "大峨派前辈",
+      "faction": "大峨派",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "大峨派前辈，遗蜕在第三十一层，拥有剑术。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "剑术"
+      ],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "而在混元之气的注入下，先天火焰渐渐变白——那是仙光",
-        "仙火果然厉害，哪怕有五行神光护身，身体表面皮肤也是一层又一层开裂、融化，然后新的肉芽从内层长出，化作新的皮肤，然后随着仙火强度越大，就连肉芽的生长速度也跟不上消耗，渐渐在皮肤表面融成一层层血膜",
-        "渐渐的，戚笼仿佛感应到了火焰的源头"
+        "相传那是圆道人遗蜕所在",
+        "圆老鬼的剑术"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "一道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 剑一",
-      "summary": "”    戚笼没有回答，五遁神桩绕身而转，先天五行无量遁法展开，化作一道五色光柱，沉于仙火之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼没有回答，五遁神桩绕身而转，先天五行无量遁法展开，化作一道五色光柱，沉于仙火之中",
-        "”    一颗上白下黑的葫芦突然从虚空之中显出，葫芦口上白光一闪，一道裂缝自火焰之中裂开",
-        "戚笼眉头一皱，身前再次出现两个葫芦，两道毫光再度闪现，终于，一道齐人大的裂口出现"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

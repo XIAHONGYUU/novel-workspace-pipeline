@@ -1,256 +1,182 @@
 {
   "chunk_id": "chunk-0637",
-  "title": "第635章纷争乱世",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "李阙主"
+      ],
+      "identity": "武序阙主",
+      "faction": "武序",
       "status": "登场",
       "first_appearance": "第635章纷争乱世",
-      "summary": "李钧百思不得其解，只能无奈的笑了笑，问道：“韩师傅你将他们故意支开，应该是有什么话想单独跟我说吧",
+      "summary": "武序阙主，与韩杨对话，了解墨序历史及帝国局势。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "敏锐",
+        "自信"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧百思不得其解，只能无奈的笑了笑，问道：“韩师傅你将他们故意支开，应该是有什么话想单独跟我说吧",
-        "”　　李钧如实说道：“其实韩师傅有话不妨直说",
-        "”　　见李钧没有反对，韩杨抬手轻轻一摆，投落的光影交织出一副宛如皮影戏的奇特场景"
+      "relationships": [
+        {
+          "target": "韩杨",
+          "type": "对话者"
+        },
+        {
+          "target": "马王爷",
+          "type": "认识"
+        }
       ],
-      "mention_count": 32
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与韩杨交谈，得知帝国局势动荡。"
+        }
+      ],
+      "evidence": [
+        "李钧百思不得其解，只能无奈的笑了笑",
+        "李钧若有所思，沉吟片刻后问道",
+        "李钧安坐椅中，身影岿然不动，稳稳接了韩杨的道歉"
+      ],
+      "mention_count": 20
     },
     {
       "name": "韩杨",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "韩师傅"
+      ],
+      "identity": "墨序东部分院代表",
+      "faction": "墨序",
       "status": "登场",
       "first_appearance": "第635章纷争乱世",
-      "summary": "”　　韩杨其貌不扬的脸上露出一抹笑意，直言不讳：“我是想问问你对墨序了解多少",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　韩杨其貌不扬的脸上露出一抹笑意，直言不讳：“我是想问问你对墨序了解多少",
-        "”　　见李钧没有反对，韩杨抬手轻轻一摆，投落的光影交织出一副宛如皮影戏的奇特场景",
-        "”　　投影的画面随着韩杨的话语演化推进，从田耕农活变化到作坊手工，其中的皮影古人通过模仿自然现象，创造出一项项便利生存发展的工具"
+      "summary": "墨序东部分院代表，向李钧讲述墨序历史并寻求庇护。",
+      "appearance": [
+        "其貌不扬"
       ],
-      "mention_count": 32
+      "personality": [
+        "坦诚",
+        "深思熟虑",
+        "谦卑"
+      ],
+      "abilities": [
+        "使用投影展示历史场景"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧讲述墨序历史，并请求庇护。"
+        }
+      ],
+      "evidence": [
+        "韩杨其貌不扬的脸上露出一抹笑意",
+        "韩杨直言不讳",
+        "韩杨再次拱手抱拳，言辞恳切道"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "投影",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "张峰岳",
+      "aliases": [
+        "老张头",
+        "帝国首辅"
+      ],
+      "identity": "帝国首辅",
+      "faction": "新东林党",
+      "status": "提及",
       "first_appearance": "第635章纷争乱世",
-      "summary": "”　　投影的画面随着韩杨的话语演化推进，从田耕农活变化到作坊手工，其中的皮影古人通过模仿自然现象，创造出一项项便利生存发展的工具",
+      "summary": "帝国首辅，在朝会上公布道序龙虎山十二条罪状。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　投影的画面随着韩杨的话语演化推进，从田耕农活变化到作坊手工，其中的皮影古人通过模仿自然现象，创造出一项项便利生存发展的工具",
-        "”　　投影中，皮影古人夸张演绎着墨家先辈经历着各种意外，包括突遭疾病、实验意外、恩怨仇杀、自然灾害等等天灾人祸",
-        "”　　韩杨话音刚落，投影中便突然乍现一道白光"
+      "relationships": [
+        {
+          "target": "张希极",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "公布龙虎山罪状，要求张天师进京请罪。"
+        }
+      ],
+      "evidence": [
+        "帝国首辅张峰岳毫无半点征兆，在朝会上当众公布了道序龙虎山的十二条罪状"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "墨序",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "张希极",
+      "aliases": [
+        "张天师"
+      ],
+      "identity": "龙虎山当代张天师",
+      "faction": "道序龙虎山",
+      "status": "提及",
       "first_appearance": "第635章纷争乱世",
-      "summary": "”　　韩杨其貌不扬的脸上露出一抹笑意，直言不讳：“我是想问问你对墨序了解多少",
+      "summary": "龙虎山天师，不认罪状并发布诏令清君侧。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "野心勃勃"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　韩杨其貌不扬的脸上露出一抹笑意，直言不讳：“我是想问问你对墨序了解多少",
-        "“而到了大明时期，在毅宗皇帝宣布定下序列之后，墨序进入了一个飞速发展的时期",
-        "”　　韩杨眼中流露出缅怀的目光，感慨道：“那时候大明帝国，几乎在每一个角落都能看到墨序的身影"
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发布诏令，声称先帝密旨，清君侧。"
+        }
+      ],
+      "evidence": [
+        "张天师向天下道徒发出诏令",
+        "这位张天师倒真是野心勃勃啊"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他们",
+      "name": "马王爷",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "明鬼",
+      "faction": "墨序",
+      "status": "提及",
       "first_appearance": "第635章纷争乱世",
-      "summary": "难不成是担心我会顺杆往上爬，占他们便宜",
-      "appearance": [],
-      "personality": [],
+      "summary": "李钧认识的明鬼，出现在投影中。",
+      "appearance": [
+        "玩世不恭，孤高冷傲的眼神"
+      ],
+      "personality": [
+        "玩世不恭",
+        "孤高冷傲"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "认识"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "难不成是担心我会顺杆往上爬，占他们便宜",
-        "李钧百思不得其解，只能无奈的笑了笑，问道：“韩师傅你将他们故意支开，应该是有什么话想单独跟我说吧",
-        "在犹豫片刻后，他们果断扔下了自己手中武器，转而捡起了自己曾经丢弃的铁锤，投入了火炉旁的敲打之中"
+        "那看似玩世不恭，实则孤高冷傲的眼神，无论怎么看都像是自己认识的马王爷"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "大量",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第635章纷争乱世",
-      "summary": "”　　“也正是在这个时期，大量的技术法门呈井喷式涌现，墨序中匠人的地位也因此越来越高",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“也正是在这个时期，大量的技术法门呈井喷式涌现，墨序中匠人的地位也因此越来越高",
-        "”　　韩杨话音不停：“还有，在汉传佛序的几块基本盘内，大量的高序位僧人不知为何突然人间蒸发，消失的无影无踪，人心惶惶"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "一名名",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第635章纷争乱世",
-      "summary": "”　　投影中，一名名手持利剑的墨侠在尸山血海中驻步不前，纷纷转头回望另一侧的繁华鼎盛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　投影中，一名名手持利剑的墨侠在尸山血海中驻步不前，纷纷转头回望另一侧的繁华鼎盛",
-        "一名名体型肥胖如猪的墨者满脸惊恐，瑟缩着挤成一团，似乎只要挤进人群之中，自己就是安全的",
-        "”画面再变，昔日繁华的都市变得残破不堪，一名名身形已经消瘦下来的墨者在熔炉面前排成了一列长队，朝着涌动的岩浆扔下自己身上最后的珠宝"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "如今",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第635章纷争乱世",
-      "summary": "画面中呈现出的是一个十分简陋原始的村落，建筑风格和人物衣着都跟如今的大明帝国相去甚远，看得出演绎的应该是很久之前的一段历史",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "画面中呈现出的是一个十分简陋原始的村落，建筑风格和人物衣着都跟如今的大明帝国相去甚远，看得出演绎的应该是很久之前的一段历史",
-        "”　　“当然有，如今的明鬼境就是在那个时候被开发出来的，原本他们的打算只是制造出一批不惧生死的器灵，用来代替墨序下场搏杀",
-        "”　　李钧想起了曾经在墨序中部分院的事情，了然道：“所以当年墨序中的匠和侠，也就是如今的墨者和明鬼"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "韩师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第635章纷争乱世",
-      "summary": "李钧百思不得其解，只能无奈的笑了笑，问道：“韩师傅你将他们故意支开，应该是有什么话想单独跟我说吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧百思不得其解，只能无奈的笑了笑，问道：“韩师傅你将他们故意支开，应该是有什么话想单独跟我说吧",
-        "”　　李钧如实说道：“其实韩师傅有话不妨直说",
-        "“韩师傅，起来吧"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "韩师傅",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第635章纷争乱世",
-      "summary": "李钧百思不得其解，只能无奈的笑了笑，问道：“韩师傅你将他们故意支开，应该是有什么话想单独跟我说吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧百思不得其解，只能无奈的笑了笑，问道：“韩师傅你将他们故意支开，应该是有什么话想单独跟我说吧",
-        "”　　李钧如实说道：“其实韩师傅有话不妨直说",
-        "“韩师傅，起来吧"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "最开始",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第635章纷争乱世",
-      "summary": "“墨家集团的诞生，最开始只是由一群从奴隶主手中得到解放的手工业者和新生的个体农户所组成",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“墨家集团的诞生，最开始只是由一群从奴隶主手中得到解放的手工业者和新生的个体农户所组成",
-        "“不过受制于当时的历史背景，最开始的墨家多是以师徒相传的方式秘密传承掌握的技术法门，但这种‘祖传秘方’式的传承十分脆弱且低效，一旦当师傅的遭遇变故身死，很多东西就会因此失传"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "很多",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第635章纷争乱世",
-      "summary": "“不过受制于当时的历史背景，最开始的墨家多是以师徒相传的方式秘密传承掌握的技术法门，但这种‘祖传秘方’式的传承十分脆弱且低效，一旦当师傅的遭遇变故身死，很多东西就会因此失传",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“不过受制于当时的历史背景，最开始的墨家多是以师徒相传的方式秘密传承掌握的技术法门，但这种‘祖传秘方’式的传承十分脆弱且低效，一旦当师傅的遭遇变故身死，很多东西就会因此失传",
-        "”　　“因此在墨家的历史中，很多的技术法门都经历了发明再失传，失传再发明的惨痛过程",
-        "“可也仅仅是能自保而已，很多时候墨序依旧还是身不由己"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

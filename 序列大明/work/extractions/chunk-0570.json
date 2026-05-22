@@ -1,257 +1,326 @@
 {
   "chunk_id": "chunk-0570",
-  "title": "第568章武当往事（二）",
   "characters": [
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第568章武当往事（二）",
-      "summary": "“要是能顺利诛杀李钧，那这件事就此作罢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“要是能顺利诛杀李钧，那这件事就此作罢",
-        "如果这次被包围的仅仅是李钧一个人，那这场诛魔还有成功的希望",
-        "但现在却多了那具序三的明鬼墨甲，眼下的李钧和当年占据倭区，和整个佛道两家隔海对峙的苏策有何区别"
-      ],
-      "mention_count": 21
-    },
     {
       "name": "张清羽",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龙虎山天师府领衔道序",
+      "faction": "龙虎山",
       "status": "登场",
       "first_appearance": "第568章武当往事（二）",
-      "summary": "一双双眼睛落在人群中央，就等着站在此处的张清羽一声令下",
+      "summary": "龙虎山天师府此次领衔降魔的道序，辈分低于张希莲，但被张崇源钦点指挥。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴冷",
+        "谨慎",
+        "心思重"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一双双眼睛落在人群中央，就等着站在此处的张清羽一声令下",
-        "可不知为何，张清羽却迟迟没有任何动作，定定望着远处那两道气焰跋扈的身影",
-        "“张清羽，为何还不下令动手"
+      "relationships": [
+        {
+          "target": "张希莲",
+          "type": "同门，辈分低于对方"
+        },
+        {
+          "target": "张崇源",
+          "type": "大天师，上级"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对，追杀目标"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在南昌城区西北率龙虎山精锐包围李钧，但犹豫不决，与张希莲发生争执。"
+        }
+      ],
+      "evidence": [
+        "张清羽却迟迟没有任何动作，定定望着远处那两道气焰跋扈的身影。",
+        "张清羽闻言侧头看来，阴冷的目光中含着怒意",
+        "张清羽冥思苦想，却还是不知道眼下的困局该如何破解。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "张清",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第568章武当往事（二）",
-      "summary": "一双双眼睛落在人群中央，就等着站在此处的张清羽一声令下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一双双眼睛落在人群中央，就等着站在此处的张清羽一声令下",
-        "可不知为何，张清羽却迟迟没有任何动作，定定望着远处那两道气焰跋扈的身影",
-        "“张清羽，为何还不下令动手"
+      "name": "张希莲",
+      "aliases": [
+        "莲祖"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "汉子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "龙虎山封存道序",
+      "faction": "龙虎山",
       "status": "登场",
       "first_appearance": "第568章武当往事（二）",
-      "summary": "娼馆门前，一名头皮刮得青黑的汉子满脸欢愉的走了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "娼馆门前，一名头皮刮得青黑的汉子满脸欢愉的走了出来",
-        "汉子一边扎着腰带，一边不忘回头向着门内调笑两句",
-        "娼馆对面的夜宵摊位上，头上戴着一顶圆沿帽的赵衍龙死死盯着对方，一双眼珠子跟着汉子的身影横移，面前热气腾腾吃食半点引不起他的兴趣"
+      "summary": "龙虎山封存道序，辈分和序位高于张清羽，性情强势古怪。",
+      "appearance": [
+        "须发花白"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "赵衍龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第568章武当往事（二）",
-      "summary": "娼馆对面的夜宵摊位上，头上戴着一顶圆沿帽的赵衍龙死死盯着对方，一双眼珠子跟着汉子的身影横移，面前热气腾腾吃食半点引不起他的兴趣",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "强势",
+        "古怪",
+        "暴躁"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张清羽",
+          "type": "同门，辈分高于对方"
+        },
+        {
+          "target": "张崇源",
+          "type": "大天师，上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "催促张清羽下令动手，与其发生争执。"
+        }
+      ],
       "evidence": [
-        "娼馆对面的夜宵摊位上，头上戴着一顶圆沿帽的赵衍龙死死盯着对方，一双眼珠子跟着汉子的身影横移，面前热气腾腾吃食半点引不起他的兴趣",
-        "”　　赵衍龙放在桌下的手翻动着一块电子案牍，压着嗓音道：“已经确定过了，他胸口那幅刺青，就是抓走咱们武当分支道观中坤道的帮派的标志",
-        "”　　赵衍龙着急道：“咱们在这儿蹲了三天了，天天对着这个晦气的地方，你师兄我都快忍不住破戒了"
+        "一名须发花白的封存道序再也按捺不住，高声喝问",
+        "张希莲冷哼一声：“如果阁皂山当真有什么问题，在我们进入南昌府境内就该动手了”",
+        "张希莲眼眸一瞪：“你要是没这个胆量，那就本君来负责！”"
       ],
       "mention_count": 10
     },
     {
-      "name": "一双",
-      "aliases": [],
-      "identity": "",
+      "name": "李钧",
+      "aliases": [
+        "李薪主"
+      ],
+      "identity": "武序，薪主",
       "faction": "",
       "status": "登场",
       "first_appearance": "第568章武当往事（二）",
-      "summary": "一双双眼睛落在人群中央，就等着站在此处的张清羽一声令下",
+      "summary": "被龙虎山和阁皂山围剿的武序，拥有序三明鬼墨甲，与神秘声音对话。",
+      "appearance": [],
+      "personality": [
+        "心狠手辣",
+        "贪得无厌",
+        "冷静",
+        "狡猾"
+      ],
+      "abilities": [
+        "序三明鬼墨甲"
+      ],
+      "equipment": [
+        "明鬼墨甲"
+      ],
+      "relationships": [
+        {
+          "target": "张清羽",
+          "type": "敌对"
+        },
+        {
+          "target": "神秘声音",
+          "type": "交易对象"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被龙虎山和阁皂山包围在南昌道宫屋顶，与神秘声音谈判。"
+        }
+      ],
+      "evidence": [
+        "原本蹲在南昌道宫屋顶的李钧，也听到了一个熟悉的声音。",
+        "李钧坐在屋脊上，对着面前的空气笑道",
+        "李钧站起身来，拍了拍裤腿上的灰尘。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "马王爷",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "李钧的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第568章武当往事（二）",
+      "summary": "李钧的同伴，能感知到神秘声音但无法锁定来源。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧一同在南昌道宫屋顶，摇头表示无法锁定声音来源。"
+        }
+      ],
       "evidence": [
-        "一双双眼睛落在人群中央，就等着站在此处的张清羽一声令下",
-        "”　　似有一双眼睛在暗中觊觎，将张清羽细微的动作尽收眼底",
-        "“哈哈哈哈.”　　壮汉得意大笑，昂头挺胸，迈开方步，一双鼻孔代替眼睛，睥睨周围路人"
+        "李钧不动声色的看向身旁的马王爷，却见后者摇了摇头，示意无法锁定声音的来源。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "神秘声音",
+      "aliases": [
+        "老辈子"
+      ],
+      "identity": "未知，曾与李钧在分宜城交手",
+      "faction": "",
+      "status": "登场（仅声音）",
+      "first_appearance": "第568章武当往事（二）",
+      "summary": "一个神秘人物，曾与李钧在分宜城交手，现在提出与李钧交易。",
+      "appearance": [],
+      "personality": [
+        "老谋深算"
+      ],
+      "abilities": [
+        "能暗中传音，无法被锁定"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "交易对象，曾敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "暗中传音给张清羽和李钧，提出交易。"
+        }
+      ],
+      "evidence": [
+        "突如其来的声音在耳边响起。",
+        "似有一双眼睛在暗中觊觎，将张清羽细微的动作尽收眼底。",
+        "耳边的声音沉寂片刻，缓缓问道：“你想要什么？”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "赵衍龙",
+      "aliases": [],
+      "identity": "武当山正式弟子，降魔殿行走，序九炼气士",
+      "faction": "武当山",
+      "status": "登场",
+      "first_appearance": "第568章武当往事（二）",
+      "summary": "武当山弟子，与师弟陈乞生一起执行任务，追踪血河帮。",
+      "appearance": [
+        "神采飞扬"
+      ],
+      "personality": [
+        "急躁",
+        "冲动"
+      ],
+      "abilities": [
+        "序九炼气士"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "师兄弟"
+        },
+        {
+          "target": "林熊",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在南海县蹲守血河帮成员林熊，并出手将其打倒。"
+        }
+      ],
+      "evidence": [
+        "头上戴着一顶圆沿帽的赵衍龙死死盯着对方",
+        "赵衍龙看着被自己一拳撂倒，蜷缩在地上大口呕吐的男人",
+        "道爷我是武当山正式弟子，降魔殿行走，序九赵衍龙"
       ],
       "mention_count": 8
     },
     {
-      "name": "莲祖",
+      "name": "陈乞生",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "武当山弟子",
+      "faction": "武当山",
       "status": "登场",
       "first_appearance": "第568章武当往事（二）",
-      "summary": "“莲祖，现在阁皂山还在隔岸观火，我们率先动手恐怕会掉入陷阱，还是再等等为好",
+      "summary": "武当山弟子，赵衍龙的师弟，性格沉稳。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“莲祖，现在阁皂山还在隔岸观火，我们率先动手恐怕会掉入陷阱，还是再等等为好",
-        "“莲祖教训的是，但眼下局势实在诡谲，阁皂山那边死了一个身份显贵的葛敬，这一路却是只追不杀，这其中必然有猫腻啊",
-        "”　　“就怕这个责任，莲祖你负不了"
+      "personality": [
+        "沉稳",
+        "冷静"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "赵衍",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第568章武当往事（二）",
-      "summary": "娼馆对面的夜宵摊位上，头上戴着一顶圆沿帽的赵衍龙死死盯着对方，一双眼珠子跟着汉子的身影横移，面前热气腾腾吃食半点引不起他的兴趣",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "娼馆对面的夜宵摊位上，头上戴着一顶圆沿帽的赵衍龙死死盯着对方，一双眼珠子跟着汉子的身影横移，面前热气腾腾吃食半点引不起他的兴趣",
-        "”　　赵衍龙放在桌下的手翻动着一块电子案牍，压着嗓音道：“已经确定过了，他胸口那幅刺青，就是抓走咱们武当分支道观中坤道的帮派的标志",
-        "”　　赵衍龙着急道：“咱们在这儿蹲了三天了，天天对着这个晦气的地方，你师兄我都快忍不住破戒了"
+      "abilities": [
+        "使用符篆法刀"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "张希莲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第568章武当往事（二）",
-      "summary": "”　　张希莲冷哼一声：“如果阁皂山当真有什么问题，在我们进入南昌府境内就该动手了，怎么还会等到现在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "雕版符篆，可变为三尺法刀"
+      ],
+      "relationships": [
+        {
+          "target": "赵衍龙",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在夜宵摊吃面，后出手帮助赵衍龙。"
+        }
+      ],
       "evidence": [
-        "”　　张希莲冷哼一声：“如果阁皂山当真有什么问题，在我们进入南昌府境内就该动手了，怎么还会等到现在",
-        "”　　此次领命下山降魔，张清羽才是张崇源钦点的领衔之人，可此时张希莲话里话外却半点给他面子的意思，甚至当众抬出了辈分，指摘张清羽的不是",
-        "可眼下被数落了一番的张清羽，却拿张希莲没有任何办法"
+        "陈乞生一张脸埋在海碗之中，含糊不清的应了一声",
+        "陈乞生抹着嘴角站起身来，慢条斯理从怀中掏出一块雕版符篆",
+        "陈乞生一拳将这名帮卒砸入人群"
       ],
       "mention_count": 5
     },
     {
-      "name": "谁都",
+      "name": "林熊",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "血河帮成员",
+      "faction": "血河帮",
       "status": "登场",
       "first_appearance": "第568章武当往事（二）",
-      "summary": "因此龙虎山众人如果不是被逼无奈，谁都不愿意动用他们",
-      "appearance": [],
-      "personality": [],
+      "summary": "血河帮成员，胸口有盘龙刺青，被赵衍龙打倒。",
+      "appearance": [
+        "头皮刮得青黑",
+        "壮硕",
+        "胸膛刺着盘龙"
+      ],
+      "personality": [
+        "嚣张"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因此龙虎山众人如果不是被逼无奈，谁都不愿意动用他们",
-        "谁都也不想执行任务的时候，头上还坐着几尊听调不听宣的活祖宗"
+      "relationships": [
+        {
+          "target": "赵衍龙",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "你这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第568章武当往事（二）",
-      "summary": "”　　“你这般瞻前顾后，只会痛失良机",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“你这般瞻前顾后，只会痛失良机",
-        "”　　“你这句老辈子，老夫可当不起",
-        "就算你这具墨甲承了蚩主的遗馈晋升序三，你这次要想囫囵离开南昌府，难如登天"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从娼馆出来，被赵衍龙拦截并打倒。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "老夫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第568章武当往事（二）",
-      "summary": "“想活命的话，老夫可以帮你",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“想活命的话，老夫可以帮你",
-        "”　　“你这句老辈子，老夫可当不起",
-        "”　　“你小子也不用在这里阴阳怪气的，老夫知道你有把握突围"
+        "一名头皮刮得青黑的汉子满脸欢愉的走了出来",
+        "汉子脸上横肉一抖，嘴角翘起一抹狞笑",
+        "腹部就传来一阵钻心剧痛，瞬间抽空他浑身力气"
       ],
-      "mention_count": 5
+      "mention_count": 4
     }
   ]
 }

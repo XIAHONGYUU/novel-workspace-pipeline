@@ -1,257 +1,318 @@
 {
   "chunk_id": "chunk-0604",
-  "title": "第602章天竞四害",
   "characters": [
-    {
-      "name": "姜维",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第602章天竞四害",
-      "summary": "”　　男人英朗的面容上露出和善的笑意：“我叫姜维，也是天阙的人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　男人英朗的面容上露出和善的笑意：“我叫姜维，也是天阙的人",
-        "姜维嘴角带着自嘲的笑意，缓步向前",
-        "”　　“姜维，淬武两门，天阙年轻一辈中最有希望晋升雄主的人.”　　一个嬉笑的女人声音从兽海深处传来：“像你这样的人，怎么会说出这么幼稚的话"
-      ],
-      "mention_count": 27
-    },
     {
       "name": "王旗",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "乌骓车驾驶员，天阙成员",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第602章天竞四害",
-      "summary": "”　　满是裂纹的挡风玻璃上挂满了各种破碎的脏器，王旗凶戾的眼中缠结着密密麻麻的血丝，握着方向盘的双手青筋暴起",
+      "summary": "驾驶乌骓车冲入农兽群，后着甲准备战斗，被姜维阻止。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　满是裂纹的挡风玻璃上挂满了各种破碎的脏器，王旗凶戾的眼中缠结着密密麻麻的血丝，握着方向盘的双手青筋暴起",
-        "王旗感觉自己正在被一片由黑色血液所组成的海洋所淹没",
-        "狂奔的车速肉眼可见的慢了下来，车轮在地面摩擦出浓烈的白色烟气，刺鼻的焦糊臭味混杂着恶心的血肉腐臭，不断刺激着王旗紧绷的心神"
+      "personality": [
+        "凶戾",
+        "战意昂扬",
+        "自认主角"
       ],
-      "mention_count": 9
+      "abilities": [],
+      "equipment": [
+        "乌骓车",
+        "朵颜卫（枪械）",
+        "甲胄"
+      ],
+      "relationships": [
+        {
+          "target": "鳌虎",
+          "type": "同伴"
+        },
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        },
+        {
+          "target": "姜维",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "驾驶乌骓车冲撞农兽，后着甲准备战斗，被姜维阻止。"
+        }
+      ],
+      "evidence": [
+        "王旗凶戾的眼中缠结着密密麻麻的血丝",
+        "王旗横肘砸开本就摇摇欲碎的车窗，单臂抓起那把朵颜卫顶出窗外",
+        "头一回着甲的王旗并没有感到半点慌张"
+      ],
+      "mention_count": 10
     },
     {
       "name": "鳌虎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天阙成员，甲胄使用者",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第602章天竞四害",
-      "summary": "“鳌虎，现在怎么办",
+      "summary": "在车内与王旗对话，将甲胄给予王旗。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“鳌虎，现在怎么办",
-        "”　　鳌虎看了眼后座方向，方才惊醒之后的沈笠又再次陷入迷离之中",
-        "看来沈笠还是没能彻底摆脱那座幻境的影响啊　　鳌虎心头暗叹一声，转头看向王旗"
+      "equipment": [
+        "甲胄"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "女人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第602章天竞四害",
-      "summary": "”　　“姜维，淬武两门，天阙年轻一辈中最有希望晋升雄主的人.”　　一个嬉笑的女人声音从兽海深处传来：“像你这样的人，怎么会说出这么幼稚的话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“姜维，淬武两门，天阙年轻一辈中最有希望晋升雄主的人.”　　一个嬉笑的女人声音从兽海深处传来：“像你这样的人，怎么会说出这么幼稚的话",
-        "”　　女人说话间，晦暗的长街悄然中发生变化，一层薄薄的血肉田亩在地面上蔓延开来",
-        "一个身穿紫裙的美貌女人"
+      "relationships": [
+        {
+          "target": "王旗",
+          "type": "同伴"
+        },
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        },
+        {
+          "target": "姜维",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "有的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第602章天竞四害",
-      "summary": "所有的艰难险阻和生死危机，无外乎都是提升自己实力的契机",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所有的艰难险阻和生死危机，无外乎都是提升自己实力的契机",
-        "它们的身体已然是纯粹的兽形，有的背生双翅，展开之时有腐蚀性的脓液滴落",
-        "有的身如巨鼠，一条鞭尾甩动抽打，发出刺耳爆音"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将甲胄给予王旗，并与其对话。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "它们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第602章天竞四害",
-      "summary": "站在其上的农兽如同被注入了一股力量，帮助它们压过了本能的恐惧，同时体型也似吹气般快速膨胀，皮肤下的肌肉和骨骼发出噼啪声响，以肉眼可见的速度生长",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "站在其上的农兽如同被注入了一股力量，帮助它们压过了本能的恐惧，同时体型也似吹气般快速膨胀，皮肤下的肌肉和骨骼发出噼啪声响，以肉眼可见的速度生长",
-        "可即便如此，它们依旧无法靠近姜维五丈之内",
-        "它们的身体已然是纯粹的兽形，有的背生双翅，展开之时有腐蚀性的脓液滴落"
+        "鳌虎看了眼后座方向",
+        "一片金属风暴在车厢之内卷起。四散的甲片挂覆王旗的身躯"
       ],
       "mention_count": 5
     },
     {
-      "name": "根本",
+      "name": "沈笠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天阙成员",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第602章天竞四害",
-      "summary": "挡在前方的农兽根本来不及哀嚎，就被直接撞飞出去，浓腥的血液在车身两侧拉出数丈长的黑色飘带，又立刻被暴雨冲刷洗去",
+      "summary": "在车后座昏迷，无法着甲。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "挡在前方的农兽根本来不及哀嚎，就被直接撞飞出去，浓腥的血液在车身两侧拉出数丈长的黑色飘带，又立刻被暴雨冲刷洗去",
-        "这些变异的血肉怪物根本不知道什么是死亡和恐惧，不断从四面飞身扑来，攀挂在车身左右，试图用手脚插进转动的车轮之中",
-        "乌骓奋力摆动着的车身，却根本甩不开周围簇拥的农兽，只能垂死挣扎"
+      "relationships": [
+        {
+          "target": "鳌虎",
+          "type": "同伴"
+        },
+        {
+          "target": "王旗",
+          "type": "同伴"
+        },
+        {
+          "target": "姜维",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在车后座昏迷，无法着甲。"
+        }
+      ],
+      "evidence": [
+        "沈笠又再次陷入迷离之中",
+        "以对方现在的状态，根本无法完成着甲"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "在这",
+      "name": "姜维",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天阙成员，淬武两门，有望晋升雄主",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第602章天竞四害",
-      "summary": "我就知道，在这座黄粱梦境之中，我可是堂堂的主角，怎么可能刚起步就陷入死局",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我就知道，在这座黄粱梦境之中，我可是堂堂的主角，怎么可能刚起步就陷入死局",
-        "”　　“嘴倒是挺硬，不知道一会我把你的骨头抽出来的时候，还有没有现在这么硬",
-        "在这座时间流动缓慢的方寸世界之中，只有姜维自己没有受到任何影响，踏落的脚步溅起寸高的水花，撩动的枪影划开密集的雨幕"
+      "summary": "从天而降，以气势压服农兽，与天竞四害战斗，受伤后仍坚持。",
+      "appearance": [
+        "英朗面容",
+        "银甲",
+        "墨甲"
       ],
-      "mention_count": 4
+      "personality": [
+        "和善",
+        "讲恩情道义",
+        "狂傲莽撞"
+      ],
+      "abilities": [
+        "淬武内功·山界",
+        "淬武技击·鸿影"
+      ],
+      "equipment": [
+        "绿沉枪",
+        "汉水（墨甲）"
+      ],
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        },
+        {
+          "target": "王旗",
+          "type": "同伴"
+        },
+        {
+          "target": "鳌虎",
+          "type": "同伴"
+        },
+        {
+          "target": "田畴",
+          "type": "曾庇护"
+        },
+        {
+          "target": "天竞四害",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从天而降，与天竞四害战斗，受伤后仍坚持。"
+        }
+      ],
+      "evidence": [
+        "我叫姜维，也是天阙的人",
+        "姜维，淬武两门，天阙年轻一辈中最有希望晋升雄主的人",
+        "姜维眼中惊骇未平"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "站在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "天竞四害",
+      "aliases": [
+        "蚊兽",
+        "蝇兽",
+        "鼠兽",
+        "蟑兽"
+      ],
+      "identity": "农序社稷，天竞四害",
+      "faction": "农序社稷",
       "status": "登场",
       "first_appearance": "第602章天竞四害",
-      "summary": "坐在驾驶位上的王旗怔怔的看着眼前这骇人的一幕，浑然不觉一道身影从高处飘落而下，站在车窗边",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "坐在驾驶位上的王旗怔怔的看着眼前这骇人的一幕，浑然不觉一道身影从高处飘落而下，站在车窗边",
-        "站在其上的农兽如同被注入了一股力量，帮助它们压过了本能的恐惧，同时体型也似吹气般快速膨胀，皮肤下的肌肉和骨骼发出噼啪声响，以肉眼可见的速度生长",
-        "站在远处的王旗凝望着那道人枪皆如龙，临渊亦不退的身影，情不自禁握紧了双拳"
+      "summary": "四只人面兽身的怪物，由女人操控，能利用血肉田亩复活。",
+      "appearance": [
+        "人面兽身",
+        "蚊、蝇、鼠、蟑形态"
       ],
-      "mention_count": 4
+      "personality": [],
+      "abilities": [
+        "高速",
+        "再生",
+        "操控农兽"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜维",
+          "type": "敌人"
+        },
+        {
+          "target": "李钧",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与姜维战斗，后被李钧击杀一只。"
+        }
+      ],
+      "evidence": [
+        "蚊、蝇、鼠、蟑。田间四害，人面兽身",
+        "农序社稷，天竞四害！"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "似有",
+      "name": "女人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "农序社稷成员，操控天竞四害",
+      "faction": "农序社稷",
       "status": "登场",
       "first_appearance": "第602章天竞四害",
-      "summary": "如有实质的山峦重压向前激荡，似有一双无形之手在为他当先开路",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如有实质的山峦重压向前激荡，似有一双无形之手在为他当先开路",
-        "看着眼前这诡异的一幕，姜维眉头紧皱，似有所感，抬眼环顾四周",
-        "”　　“你”　　“别废话了，告诉你，我可是天命所钟的主.”　　王旗话音未落，突然似有所感，猛然抬头看着天空"
+      "summary": "紫裙美貌女人，惨白瞳孔，能操控农兽和血肉田亩，被姜维击杀后仍能说话。",
+      "appearance": [
+        "紫裙",
+        "美貌",
+        "惨白瞳孔"
       ],
-      "mention_count": 4
+      "personality": [
+        "嬉笑",
+        "恶意"
+      ],
+      "abilities": [
+        "操控农兽",
+        "血肉田亩"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜维",
+          "type": "敌人"
+        },
+        {
+          "target": "天竞四害",
+          "type": "操控"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与姜维对话，被姜维击杀，但声音继续出现。"
+        }
+      ],
+      "evidence": [
+        "一个身穿紫裙的美貌女人",
+        "一双惨白不见瞳孔的眼眸格外瘆人",
+        "只剩半颗的头颅血涌如泉，一张猩红的嘴唇却还在开合"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "难道",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "未知，但实力强大",
       "faction": "",
       "status": "登场",
       "first_appearance": "第602章天竞四害",
-      "summary": "“但这种下作的手段伱们用了一遍又一遍，难道就不会觉得厌烦",
+      "summary": "从天而降，一击击杀鼠兽，震慑血肉田亩。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“但这种下作的手段伱们用了一遍又一遍，难道就不会觉得厌烦",
-        "”　　“仅仅是一招算不上高明的苦肉计，就换来你们的深信不疑，难道这还不够幼稚"
+      "personality": [
+        "冰冷",
+        "轻蔑"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "枪身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第602章天竞四害",
-      "summary": "枪身于面前横扫，挥出一道形如满月的寒光，所过之处，兽海顿时掀起丈高的猩红血浪，　　“是谁给你的胆子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "枪身于面前横扫，挥出一道形如满月的寒光，所过之处，兽海顿时掀起丈高的猩红血浪，　　“是谁给你的胆子",
-        "姜维眼眸冰冷，手腕下压，劈落的枪身将女人的身躯从中撕开",
-        "枪身腐蚀冒起的青烟遮住视线，姜维在隐约中看到，那头本该被自己打死的鼠兽，竟又撑着半截残躯从地上爬了起来"
+      "abilities": [
+        "黑焰",
+        "锋锐劲力"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "天竞四害",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从天而降，击杀鼠兽，质问天竞四害。"
+        }
+      ],
+      "evidence": [
+        "一道黑影如同流星般天坠落",
+        "李钧迈步走出深坑，手中拖着一条粗黑的鼠尾"
+      ],
+      "mention_count": 2
     }
   ]
 }

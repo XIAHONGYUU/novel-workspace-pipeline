@@ -1,244 +1,661 @@
 {
   "chunk_id": "chunk-0485",
-  "title": "第483章大幕将起",
   "characters": [
     {
       "name": "裴行俭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "裴公",
+        "守御",
+        "儒三",
+        "天官冢宰"
+      ],
+      "identity": "儒序高人，杨白泽的老师",
+      "faction": "儒序",
       "status": "登场",
       "first_appearance": "第483章大幕将起",
-      "summary": "第483章大幕将起　　裴行俭的突然现身，让一场即将爆发的大战戛然而止",
+      "summary": "儒序高人，杨白泽的老师，实力强大，行事霸道，为保学生而现身倭区。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第483章大幕将起　　裴行俭的突然现身，让一场即将爆发的大战戛然而止",
-        "”　　杨白泽在震惊于自己老师的实力之余，更对裴行俭的现身感到不解",
-        "裴行俭话音变得冷硬，带着不容置疑的味道：“我今天出现在这里，已经帮你还了犬山城的情，李钧他不会怪你"
+      "personality": [
+        "霸道",
+        "冷硬",
+        "颓然"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "裴行",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第483章大幕将起",
-      "summary": "第483章大幕将起　　裴行俭的突然现身，让一场即将爆发的大战戛然而止",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第483章大幕将起　　裴行俭的突然现身，让一场即将爆发的大战戛然而止",
-        "”　　杨白泽在震惊于自己老师的实力之余，更对裴行俭的现身感到不解",
-        "裴行俭话音变得冷硬，带着不容置疑的味道：“我今天出现在这里，已经帮你还了犬山城的情，李钧他不会怪你"
+      "abilities": [
+        "儒序六艺之御（印信）",
+        "射艺"
       ],
-      "mention_count": 16
+      "equipment": [
+        "虎贲（长枪）"
+      ],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "师生"
+        },
+        {
+          "target": "王长亭",
+          "type": "敌对"
+        },
+        {
+          "target": "谢必安",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身阻止大战，击杀王长亭及王氏仆从，告知新东林党阴谋。"
+        }
+      ],
+      "evidence": [
+        "裴行俭的突然现身，让一场即将爆发的大战戛然而止。",
+        "裴行俭冷哼了一声，不再去看自己蓦然失神的弟子，转头朝着户所招了招手。",
+        "裴行俭站在杨白泽身后，声音冰冷道：“现在有很多双眼睛正看着你。这一枪，现在必须开，而且必须要由你来开。”"
+      ],
+      "mention_count": 30
     },
     {
       "name": "杨白泽",
+      "aliases": [
+        "白泽"
+      ],
+      "identity": "裴行俭的学生，锦衣卫成员",
+      "faction": "儒序",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "裴行俭的学生，在犬山城面临危机，被老师所救。",
+      "appearance": [],
+      "personality": [
+        "犹豫",
+        "热血"
+      ],
+      "abilities": [],
+      "equipment": [
+        "虎贲（长枪）"
+      ],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "师生"
+        },
+        {
+          "target": "王长亭",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被裴行俭要求开枪击杀王长亭，最终开枪。"
+        }
+      ],
+      "evidence": [
+        "杨白泽在震惊于自己老师的实力之余，更对裴行俭的现身感到不解。",
+        "之前决意死战的杨白泽，此刻看着脚边毫无抵抗能力的王长亭，脸上却露出了犹豫的神情。",
+        "杨白泽若有所思，手指渐渐扣上扳机。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "王长亭",
       "aliases": [],
-      "identity": "",
+      "identity": "琅琊王氏成员",
+      "faction": "琅琊王氏",
+      "status": "死亡",
+      "first_appearance": "第483章大幕将起",
+      "summary": "琅琊王氏成员，被裴行俭逼迫杨白泽开枪击杀。",
+      "appearance": [],
+      "personality": [
+        "不甘",
+        "恨意"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "敌对"
+        },
+        {
+          "target": "杨白泽",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被裴行俭制服，后被杨白泽开枪击杀。"
+        }
+      ],
+      "evidence": [
+        "裴行俭低头和王长亭对视，幽暗的双眸吞噬着对方瞳孔中的不甘和恨意。",
+        "王长亭口中传出一声凄厉的嘶吼。",
+        "一簇突然炸起的枪火占据了王长亭的视线，一枚子弹撞焰而出，在眼中不断的放大。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "谢必安",
+      "aliases": [],
+      "identity": "锦衣卫成员",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "锦衣卫成员，向裴行俭询问新东林党阴谋。",
+      "appearance": [],
+      "personality": [
+        "聪明"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向裴行俭询问新东林党阴谋。"
+        }
+      ],
+      "evidence": [
+        "谢必安快步冲到裴行俭面前，拱手抱拳，急声问道：“什么叫新东林党想把事情闹大？”",
+        "“你就是谢必安吧？是个聪明人。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "许准",
+      "aliases": [],
+      "identity": "裴行俭的随从或下属",
       "faction": "",
       "status": "登场",
       "first_appearance": "第483章大幕将起",
-      "summary": "”　　杨白泽在震惊于自己老师的实力之余，更对裴行俭的现身感到不解",
+      "summary": "裴行俭的随从，负责传递物品。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　杨白泽在震惊于自己老师的实力之余，更对裴行俭的现身感到不解",
-        "你今天杀了我，明天琅琊王氏也会同样的方式杀了杨白泽",
-        "之前决意死战的杨白泽，此刻看着脚边毫无抵抗能力的王长亭，脸上却露出了犹豫的神情：“老师，如果暂时留着他，岂不是能有更多的用处”　　王长亭口中传出一声凄厉的嘶吼"
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "下属"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从裴行俭手中接过虎贲，后又递还。"
+        }
+      ],
+      "evidence": [
+        "从许准手中接过那杆虎贲，递还给对方。",
+        "许准抱着昏迷的杨白泽，默然而立，一言不发。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [],
+      "identity": "犬山城锦衣卫总旗",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "犬山城锦衣卫总旗，代表百户李钧感谢裴行俭。",
+      "appearance": [
+        "艳丽女人"
+      ],
+      "personality": [
+        "正色"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "感谢"
+        },
+        {
+          "target": "李钧",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "代表李钧感谢裴行俭援手。"
+        }
+      ],
+      "evidence": [
+        "袁明妃如男儿般对着老人躬身一礼，正色道：“犬山城锦衣卫总旗袁明妃，代表百户李钧，多谢先生您的援手。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "犬山城百户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第483章大幕将起",
+      "summary": "犬山城百户，被提及已前往江户。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "下属"
+        },
+        {
+          "target": "裴行俭",
+          "type": "被帮助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已前往江户。"
+        }
+      ],
+      "evidence": [
+        "但我们的百户，他现在应该已经去江户的路上了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "赵青侠",
+      "aliases": [],
+      "identity": "矩子堂东部分院成员",
+      "faction": "矩子堂",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "矩子堂东部分院成员，与长军、墨骑鲸同行，脸色难看。",
+      "appearance": [],
+      "personality": [
+        "脸色难看"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "长军",
+          "type": "同行"
+        },
+        {
+          "target": "墨骑鲸",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与长军、墨骑鲸一同前往倭区。"
+        }
+      ],
+      "evidence": [
+        "长军一屁股坐在赵青侠身旁，一副自来熟的模样，毫不忌讳的搂着他的肩头",
+        "和这边的欢声笑语不同，盘腿坐在甲片缝隙之中的赵青侠脸色异常难看。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "长军",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "特殊墨甲，来自矩子堂中部分院",
+      "faction": "矩子堂",
       "status": "登场",
       "first_appearance": "第483章大幕将起",
-      "summary": "”　　长军一屁股坐在赵青侠身旁，一副自来熟的模样，毫不忌讳的搂着他的肩头，看向一名身材高挑的红发美女，打趣道：“大哥他也是一番好心嘛",
-      "appearance": [],
-      "personality": [],
+      "summary": "特殊墨甲，赵青侠师兄的好朋友，与赵青侠、墨骑鲸同行。",
+      "appearance": [
+        "长相贼眉鼠眼的邋遢汉子"
+      ],
+      "personality": [
+        "自来熟",
+        "爱开玩笑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　长军一屁股坐在赵青侠身旁，一副自来熟的模样，毫不忌讳的搂着他的肩头，看向一名身材高挑的红发美女，打趣道：“大哥他也是一番好心嘛",
-        "长军浑身蓦然一颤，讪笑道",
-        "长军和墨骑鲸两人闷着头，一言不发"
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "同行"
+        },
+        {
+          "target": "墨骑鲸",
+          "type": "同行"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵青侠、墨骑鲸一同前往倭区。"
+        }
+      ],
+      "evidence": [
+        "对方名叫长军，也是一具特殊墨甲，来自矩子堂中部分院，是自己师兄的好朋友。",
+        "长军捻着自己嘴唇上的胡子，嘿嘿一笑：“恐怕咱们的东淫大哥这次要遇见麻烦了。”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第483章大幕将起",
-      "summary": "一辆乌骓停在身后，袁明妃步入车内，转头笑道：“但我们的百户，他现在应该已经去江户的路上了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一辆乌骓停在身后，袁明妃步入车内，转头笑道：“但我们的百户，他现在应该已经去江户的路上了",
-        "我们的弱点就在脑袋，只要脑袋被轰碎了，不管是序几，都得一命呜呼",
-        "“不可能吧.”　　“老先生，麻烦把我们户所的枪还给我们"
+      "name": "墨骑鲸",
+      "aliases": [
+        "鲸叔",
+        "老鲸"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "杨白",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "墨甲，可切换鲸形和鹏形",
+      "faction": "矩子堂",
       "status": "登场",
       "first_appearance": "第483章大幕将起",
-      "summary": "”　　杨白泽在震惊于自己老师的实力之余，更对裴行俭的现身感到不解",
+      "summary": "墨甲，可切换鲸形和鹏形，载着赵青侠等人前往倭区。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　杨白泽在震惊于自己老师的实力之余，更对裴行俭的现身感到不解",
-        "你今天杀了我，明天琅琊王氏也会同样的方式杀了杨白泽",
-        "之前决意死战的杨白泽，此刻看着脚边毫无抵抗能力的王长亭，脸上却露出了犹豫的神情：“老师，如果暂时留着他，岂不是能有更多的用处”　　王长亭口中传出一声凄厉的嘶吼"
+      "personality": [
+        "吃味",
+        "懒洋洋"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "女人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第483章大幕将起",
-      "summary": "裴行俭抬眼看向站在自己面前的艳丽女人，从许准手中接过那杆虎贲，递还给对方",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "裴行俭抬眼看向站在自己面前的艳丽女人，从许准手中接过那杆虎贲，递还给对方",
-        "”女人双手抱肩，冷冷哼了一声",
-        "“能者多劳嘛，谁让你这么招女人喜欢呢"
+      "abilities": [
+        "鲸形/鹏形切换"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "一言",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第483章大幕将起",
-      "summary": "长军和墨骑鲸两人闷着头，一言不发",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "长军和墨骑鲸两人闷着头，一言不发",
-        "”　　许准抱着昏迷的杨白泽，默然而立，一言不发"
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "同行"
+        },
+        {
+          "target": "长军",
+          "type": "同行"
+        },
+        {
+          "target": "李花",
+          "type": "载乘"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "儒序",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第483章大幕将起",
-      "summary": "更是只用了三两句话，便让在场所有的儒序门阀中人全部跪倒在地，再无任何反抗能力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "载着众人飞往倭区。"
+        }
+      ],
       "evidence": [
-        "更是只用了三两句话，便让在场所有的儒序门阀中人全部跪倒在地，再无任何反抗能力",
-        "以他对自己这位老师脾性的了解，除非是有老一辈的儒序先不讲规矩亲自下场，不然他不会自降身份亲自进入倭区参与到小辈的争斗之中",
-        "”　　裴行俭用下巴指着跪地的王长亭，语气淡漠道：“儒序没有其他序列那么多奇奇怪怪的保命能力，一世命就是万世命"
+        "从‘鲸形’切换到‘鹏形’的墨骑鲸，只用了不到一个时辰，便已经飞抵了倭区之外不足百里。",
+        "墨骑鲸吃味的冷哼一声，双翼摆动的速度却在悄然中又加快了几分。"
       ],
       "mention_count": 5
     },
     {
-      "name": "此刻",
-      "aliases": [],
-      "identity": "",
+      "name": "李花",
+      "aliases": [
+        "花丫头"
+      ],
+      "identity": "乘坐墨骑鲸的少女",
       "faction": "",
       "status": "登场",
       "first_appearance": "第483章大幕将起",
-      "summary": "之前决意死战的杨白泽，此刻看着脚边毫无抵抗能力的王长亭，脸上却露出了犹豫的神情：“老师，如果暂时留着他，岂不是能有更多的用处”　　王长亭口中传出一声凄厉的嘶吼",
+      "summary": "乘坐墨骑鲸的少女，想家了。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "兴奋",
+        "想家"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "之前决意死战的杨白泽，此刻看着脚边毫无抵抗能力的王长亭，脸上却露出了犹豫的神情：“老师，如果暂时留着他，岂不是能有更多的用处”　　王长亭口中传出一声凄厉的嘶吼",
-        "”　　此刻犬山城百户所内脚步声雷动，一辆辆乌骓发出低沉的咆哮",
-        "空洞的灯火再无人声相伴，只剩下一片寂静的犬山城百户所前，这位敢在庙堂上正面驳斥帝国首辅祸国祸民，毅然退出新东林党，哪怕经历数不清的打压针对也不曾有过低头的老人，此刻竟露出了一丝颓然的苦笑"
+      "relationships": [
+        {
+          "target": "墨骑鲸",
+          "type": "载乘"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘坐墨骑鲸前往倭区，表示想家了。"
+        }
+      ],
+      "evidence": [
+        "李花趴在鹏鸟的头颅上，免得让扑面的劲风吹散自己的身影，口中兴奋喊道。",
+        "李花用侧脸贴向一片冰冷的甲片，轻声道：“我只是想家了。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只剩",
+      "name": "燃灯",
       "aliases": [],
-      "identity": "",
+      "identity": "进入千户所见苏策的人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第483章大幕将起",
-      "summary": "唯一还保持着跪姿的，只剩下那名隶属于刘家的兵四军侯",
+      "summary": "进入千户所见苏策，不敢抬头。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "不敢抬头"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "唯一还保持着跪姿的，只剩下那名隶属于刘家的兵四军侯",
-        "空洞的灯火再无人声相伴，只剩下一片寂静的犬山城百户所前，这位敢在庙堂上正面驳斥帝国首辅祸国祸民，毅然退出新东林党，哪怕经历数不清的打压针对也不曾有过低头的老人，此刻竟露出了一丝颓然的苦笑"
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "参见"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入千户所见苏策。"
+        }
+      ],
+      "evidence": [
+        "靠着这五个字，燃灯顺利进入了千户所，见到了苏策。",
+        "燃灯跪在那张书案前，根本不敢抬头看那道站在倭区全图前的背影。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "他们",
+      "name": "苏策",
       "aliases": [],
-      "identity": "",
+      "identity": "千户，门派武序旗帜的持有者",
+      "faction": "门派武序",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "千户，被裴行俭敬佩，站在倭区全图前。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "被敬佩"
+        },
+        {
+          "target": "燃灯",
+          "type": "接见"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在千户所接见燃灯。"
+        }
+      ],
+      "evidence": [
+        "燃灯跪在那张书案前，根本不敢抬头看那道站在倭区全图前的背影。",
+        "虽然不同序，但我裴行俭敬佩他苏策。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "范无咎",
+      "aliases": [],
+      "identity": "锦衣卫成员",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "锦衣卫成员，将虎贲军扔给裴行俭。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "提供武器"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将虎贲军扔给裴行俭。"
+        }
+      ],
+      "evidence": [
+        "范无咎大喊回应，扬臂发力，将自己手中那杆‘虎贲军’扔了过去。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "在场旁观者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第483章大幕将起",
-      "summary": "这件事你要怪就怪新东林党内的那些老东西，如果不是他们半路改了主意，想把事情闹大，我最多只会在最后关头保下杨白泽的命，但不会杀你",
+      "summary": "在场旁观裴行俭的霸道。",
+      "appearance": [],
+      "personality": [
+        "神情肃穆"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "旁观裴行俭震慑儒序门阀。"
+        }
+      ],
+      "evidence": [
+        "陈乞生更是神情肃穆，咬着牙低声自语：“好霸道的儒三，天官冢宰！”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [],
+      "identity": "帝国首辅",
+      "faction": "新东林党",
+      "status": "提及",
+      "first_appearance": "第483章大幕将起",
+      "summary": "帝国首辅，推行新政，包括整合罪民区和拔旗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "被提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被裴行俭提及推行新政。"
+        }
+      ],
+      "evidence": [
+        "张峰岳的新政，原本第一步是想要帝国本土外零零碎碎的罪民区整合起来，改区为省，开疆拓土。但现在，他还想多做一件事，拔旗！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "明王",
+      "aliases": [],
+      "identity": "倭区明王",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第483章大幕将起",
+      "summary": "倭区明王，配合外人切断江户城对外联系，意图叛乱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及切断江户城对外联系，意图叛乱。"
+        }
+      ],
+      "evidence": [
+        "千户，明王他配合外人，切断了整个江户城的对外联系。",
+        "明王要叛乱。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "东淫",
+      "aliases": [
+        "东淫大哥"
+      ],
+      "identity": "在倭区有根基和实力的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第483章大幕将起",
+      "summary": "在倭区有根基和实力，被提及可能遇到麻烦。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及可能遇到麻烦。"
+        }
+      ],
+      "evidence": [
+        "长军捻着自己嘴唇上的胡子，嘿嘿一笑：“恐怕咱们的东淫大哥这次要遇见麻烦了。”",
+        "守御顿了顿，说道：“不过这些技术对于东淫来说应该构不成什么威胁，以他在倭区的根基和实力，要收拾这一个课题小组简直轻而易举。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "守御",
+      "aliases": [],
+      "identity": "说话者，可能是裴行俭的别称或另一人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "说话者，提及墨甲技术对东淫构不成威胁。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提及墨甲技术对东淫构不成威胁。"
+        }
+      ],
+      "evidence": [
+        "守御顿了顿，说道：“不过这些技术对于东淫来说应该构不成什么威胁，以他在倭区的根基和实力，要收拾这一个课题小组简直轻而易举。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "南荡妹妹",
+      "aliases": [],
+      "identity": "被长军调侃的女性",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第483章大幕将起",
+      "summary": "被长军调侃的女性，可能为墨甲或人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -246,11 +663,187 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "这件事你要怪就怪新东林党内的那些老东西，如果不是他们半路改了主意，想把事情闹大，我最多只会在最后关头保下杨白泽的命，但不会杀你",
-        "”　　裴行俭此刻犹如在给杨白泽上课，耐心讲解道：“这门技术的弊端也十分明显，一個奴隶和印信主人同死不同生，王长亭死，他们自然也活不了",
-        "比我裴行俭弱小的人，怕我裴行俭报复的人，就要按照规矩办事，因为这是他们保命的办法"
+        "长军一阵挤眉弄眼，笑道：“对吧，我们的南荡妹妹。”"
       ],
-      "mention_count": 5
+      "mention_count": 1
+    },
+    {
+      "name": "红发美女",
+      "aliases": [],
+      "identity": "被长军打趣的女性",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "被长军打趣的红发美女，可能为墨甲或人物。",
+      "appearance": [
+        "身材高挑的红发美女"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "长军一屁股坐在赵青侠身旁，一副自来熟的模样，毫不忌讳的搂着他的肩头，看向一名身材高挑的红发美女，打趣道：“大哥他也是一番好心嘛。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女人（红发）",
+      "aliases": [],
+      "identity": "与裴行俭对话的艳丽女人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第483章大幕将起",
+      "summary": "与裴行俭对话的艳丽女人，对长军表示不满。",
+      "appearance": [
+        "艳丽女人"
+      ],
+      "personality": [
+        "冷冷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "对话"
+        },
+        {
+          "target": "长军",
+          "type": "不满"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与裴行俭对话，抱怨长军。"
+        }
+      ],
+      "evidence": [
+        "裴行俭抬眼看向站在自己面前的艳丽女人，从许准手中接过那杆虎贲，递还给对方。",
+        "女人双手抱肩，冷冷哼了一声。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "刘家兵四军侯",
+      "aliases": [],
+      "identity": "刘家所属兵序军侯",
+      "faction": "刘家",
+      "status": "死亡",
+      "first_appearance": "第483章大幕将起",
+      "summary": "刘家兵序军侯，被裴行俭击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "被击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被裴行俭击杀。"
+        }
+      ],
+      "evidence": [
+        "唯一还保持着跪姿的，只剩下那名隶属于刘家的兵四军侯。",
+        "裴行俭蹲下身子，拍了拍那名兵序的肩膀，轻声道：“放弃抵抗，我送你痛快的走。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "农序四精瘦汉子",
+      "aliases": [],
+      "identity": "被烙印王氏儒序印信的人",
+      "faction": "琅琊王氏",
+      "status": "死亡",
+      "first_appearance": "第483章大幕将起",
+      "summary": "被烙印王氏儒序印信的人，因王长亭死亡而死亡。",
+      "appearance": [
+        "精瘦"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王长亭",
+          "type": "印信主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因王长亭死亡而死亡。"
+        }
+      ],
+      "evidence": [
+        "包括那名农序四的精瘦汉子。一股令人作呕的糊臭味道从他们抽搐的身体上蔓延开来。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "王阀仆从",
+      "aliases": [],
+      "identity": "琅琊王氏的仆从",
+      "faction": "琅琊王氏",
+      "status": "死亡",
+      "first_appearance": "第483章大幕将起",
+      "summary": "琅琊王氏的仆从，被裴行俭击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王长亭",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被裴行俭击杀。"
+        }
+      ],
+      "evidence": [
+        "跪在地上的王阀仆从头颅纷纷炸开。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "马王爷",
+      "aliases": [],
+      "identity": "赵青侠试图联系的人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第483章大幕将起",
+      "summary": "赵青侠试图联系但通讯被屏蔽的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "被联系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通讯被屏蔽。"
+        }
+      ],
+      "evidence": [
+        "从偷偷离开矩子堂东部分院开始，他就一直试图联系马王爷，可对方的通讯传音始终处于被屏蔽的状态。"
+      ],
+      "mention_count": 1
     }
   ]
 }

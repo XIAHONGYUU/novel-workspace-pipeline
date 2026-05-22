@@ -1,0 +1,162 @@
+{
+  "chunk_id": "chunk-0071",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第070章 定居 1",
+      "summary": "安格列在愤怒中击杀多名混混，审问小头目，获得沙林之蛇的隐藏气息秘法，并发现龙鳞花是假的。",
+      "appearance": [
+        "眼中蓝光隐现",
+        "太阳穴周围有青筋"
+      ],
+      "personality": [
+        "愤怒",
+        "谨慎",
+        "贪婪"
+      ],
+      "abilities": [
+        "芯片辅助战斗",
+        "投掷匕首精准"
+      ],
+      "equipment": [
+        "长剑",
+        "匕首",
+        "皮卷纸"
+      ],
+      "relationships": [
+        {
+          "target": "小头目",
+          "type": "审问"
+        },
+        {
+          "target": "沙林之蛇",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击杀袭击者，审问小头目，获得秘法，离开现场。"
+        }
+      ],
+      "evidence": [
+        "安格列拔出长剑狠狠往前一劈。",
+        "安格列眼中蓝光隐现，一股股青筋在太阳穴周围浮现，看上去异常狰狞。",
+        "安格列小心的将皮卷纸收进腰囊。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "小头目",
+      "aliases": [],
+      "identity": "沙林之蛇底层人员",
+      "faction": "沙林之蛇",
+      "status": "死亡",
+      "first_appearance": "第070章 定居 1",
+      "summary": "沙林之蛇的小头目，用假龙鳞花引诱安格列，被安格列审问后交出隐藏气息秘法，最终死亡。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "恐惧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被审问"
+        },
+        {
+          "target": "沙林之蛇",
+          "type": "所属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列审问，交出秘法，死亡。"
+        }
+      ],
+      "evidence": [
+        "小头目脸上汗水和鼻涕混成一片，根本分不清。",
+        "小头目临死前交出了隐藏气息秘法。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "坎帝林",
+      "aliases": [],
+      "identity": "沙林之蛇刺客",
+      "faction": "沙林之蛇",
+      "status": "死亡",
+      "first_appearance": "第070章 定居 1",
+      "summary": "沙林之蛇的黑衣刺客，袭击安格列被反杀。",
+      "appearance": [
+        "光头",
+        "蒙黑巾",
+        "双眼凹陷",
+        "皮肤青灰色"
+      ],
+      "personality": [],
+      "abilities": [
+        "隐藏气息"
+      ],
+      "equipment": [
+        "短匕",
+        "小皮囊"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "袭击安格列，被杀死。"
+        }
+      ],
+      "evidence": [
+        "冲进来的人影手持短匕狠狠撞在剑刃上",
+        "一个身穿黑衣的削瘦男人，光头，蒙着黑巾，双眼凹陷，皮肤呈现出一种诡异的青灰色。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "银甲头领",
+      "aliases": [],
+      "identity": "卫兵头领",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第070章 定居 1",
+      "summary": "卫兵头领，在安格列离开后到达现场，认出沙林之蛇的黑巾刺客。",
+      "appearance": [
+        "身穿银色全身铠甲",
+        "腰间挂短柄战锤或十字剑"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "短柄战锤",
+        "十字剑"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到达现场，检查尸体。"
+        }
+      ],
+      "evidence": [
+        "只有带头的两个男人身上带着一丝凌厉。两人都身穿银色全身铠甲，腰间分别挂着短柄战锤和十字剑。",
+        "是沙林之蛇的人，而且是黑巾刺客，看起来他们惹到了很难缠的人。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

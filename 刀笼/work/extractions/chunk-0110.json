@@ -1,254 +1,175 @@
 {
   "chunk_id": "chunk-0110",
-  "title": "第一百一十章 笼中图",
   "characters": [
     {
       "name": "戚笼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "赤身党成员，利益组织创始人之一",
+      "faction": "赤身党",
       "status": "登场",
       "first_appearance": "第一百一十章 笼中图",
-      "summary": "戚笼跟薛蔓蔓真的不熟，而且两人脾气不对头，每次见面，多半以吵架而告终",
+      "summary": "赤身党成员，利益组织创始人之一，与薛蔓蔓有合作关系，拥有龙脉力量和昼眼。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "龙脉力量",
+        "昼眼",
+        "奉龙甲"
+      ],
+      "equipment": [
+        "食龙爪",
+        "紫章玉册《龙甲秘书》",
+        "宝藏图"
+      ],
+      "relationships": [
+        {
+          "target": "薛蔓蔓",
+          "type": "利益合作者"
+        },
+        {
+          "target": "洪小四",
+          "type": "同伴"
+        },
+        {
+          "target": "九侗红姑",
+          "type": "利益组织核心"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "研究宝藏图，触发转神道，房间物品消失。"
+        }
+      ],
+      "evidence": [
+        "戚笼算是这个利益组织的创始人，但不是核心",
+        "戚笼之所以相信薛蔓蔓会出手相助，也并不是因为二人关系真就那么好，而是十几年来，双方配合的默契。",
+        "戚笼看着‘宝藏图’上各种怪异扭曲的图案，自言自语"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "薛蔓蔓",
+      "aliases": [],
+      "identity": "薛家财权掌管者",
+      "faction": "薛家",
+      "status": "提及",
+      "first_appearance": "第一百一十章 笼中图",
+      "summary": "薛家财权掌管者，与戚笼有利益合作关系，未婚生子，在世家名门中地位特殊。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "利益合作者"
+        },
+        {
+          "target": "九侗红姑",
+          "type": "利益组织成员"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "戚笼跟薛蔓蔓真的不熟，而且两人脾气不对头，每次见面，多半以吵架而告终",
-        "戚笼算是这个利益组织的创始人，但不是核心，他没有那种堪称恐怖的交际手腕",
-        "戚笼之所以相信薛蔓蔓会出手相助，也并不是因为二人关系真就那么好，而是十几年来，双方配合的默契"
+        "薛蔓蔓这个未婚生子，在世家名门之中，相当于耻辱的女人，为何能掌管薛家最重要的财权。",
+        "戚笼之所以相信薛蔓蔓会出手相助，也并不是因为二人关系真就那么好，而是十几年来，双方配合的默契。"
       ],
-      "mention_count": 29
+      "mention_count": 6
     },
     {
       "name": "洪小四",
       "aliases": [],
-      "identity": "",
+      "identity": "戚笼的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百一十章 笼中图",
-      "summary": "等从某种情绪走出来时，天色已然半黑，洪小四打着哈切推开房门，一脸疲惫",
+      "summary": "戚笼的同伴，在鹅公坡后失魂落魄，有一个死去的未婚妻。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "颓丧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        },
+        {
+          "target": "亡妻",
+          "type": "未婚夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼喝酒，提及亡妻。"
+        }
+      ],
       "evidence": [
-        "等从某种情绪走出来时，天色已然半黑，洪小四打着哈切推开房门，一脸疲惫",
-        "”洪小四建议道",
-        "”    洪小四不知从哪里翻出了两瓶酒，二人翻到了楼顶，一屁股坐在屋脊上"
+        "洪小四打着哈切推开房门，一脸疲惫。",
+        "洪小四苦笑一声，也猛灌了一口酒，道：'我有一个哥哥，就是被你一刀劈闭气的那个，他有一个未婚妻，我暗恋了她好多年。'"
       ],
       "mention_count": 8
     },
     {
-      "name": "宝藏图",
+      "name": "九侗红姑",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "山北道女首富",
+      "faction": "九侗",
+      "status": "提及",
       "first_appearance": "第一百一十章 笼中图",
-      "summary": "他的手上多了两物，紫章玉册的《龙甲秘书》，还有照灯笼留给他的‘宝藏图’",
+      "summary": "山北道女首富，利益组织的核心人物，拥有恐怖的交际手腕。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "交际手腕高超"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "利益组织核心与创始人"
+        },
+        {
+          "target": "薛蔓蔓",
+          "type": "利益组织成员"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "他的手上多了两物，紫章玉册的《龙甲秘书》，还有照灯笼留给他的‘宝藏图’",
-        "当初在鹅公坡，他帮小不化骨吸收死气，除了《龙甲秘书》主动演化出龙脉秘术‘奉龙甲’外，他敏锐感觉到，‘宝藏图’产生了一丝异动",
-        "”    戚笼看着‘宝藏图’上各种怪异扭曲的图案，自言自语，“这到底什么意思"
+        "真正的核心是一个女人，也就是如今的山北道女首富，九侗红姑。"
       ],
-      "mention_count": 8
+      "mention_count": 2
     },
     {
-      "name": "洪小",
+      "name": "照灯笼",
       "aliases": [],
-      "identity": "",
+      "identity": "宝藏图原主人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十章 笼中图",
-      "summary": "等从某种情绪走出来时，天色已然半黑，洪小四打着哈切推开房门，一脸疲惫",
+      "summary": "宝藏图的原主人，曾帮助过戚笼数次。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "帮助者"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "等从某种情绪走出来时，天色已然半黑，洪小四打着哈切推开房门，一脸疲惫",
-        "”洪小四建议道",
-        "”    洪小四不知从哪里翻出了两瓶酒，二人翻到了楼顶，一屁股坐在屋脊上"
+        "照灯笼留给他的‘宝藏图’",
+        "就算不提照灯笼帮过自己数次，单是这张‘宝藏图’，就值得戚笼花精力研究。"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "宝藏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "他的手上多了两物，紫章玉册的《龙甲秘书》，还有照灯笼留给他的‘宝藏图’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他的手上多了两物，紫章玉册的《龙甲秘书》，还有照灯笼留给他的‘宝藏图’",
-        "当初在鹅公坡，他帮小不化骨吸收死气，除了《龙甲秘书》主动演化出龙脉秘术‘奉龙甲’外，他敏锐感觉到，‘宝藏图’产生了一丝异动",
-        "”    戚笼看着‘宝藏图’上各种怪异扭曲的图案，自言自语，“这到底什么意思"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "九侗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "赤身党的刀、九侗里的财，都是这利益集团的一部分",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赤身党的刀、九侗里的财，都是这利益集团的一部分",
-        "真正的核心是一个女人，也就是如今的山北道女首富，九侗红姑"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "除此之外，这一利益集团中，还有大量隐秘的、潜伏的、不为人知的关系",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "除此之外，这一利益集团中，还有大量隐秘的、潜伏的、不为人知的关系",
-        "月色不来撩人，风也不大，还有些热",
-        "”    洪小四愕然，转过头，却哪里还有戚笼的影子"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "各种",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "各种级别的隐秘成员，相互利用，相互依靠，解决问题",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "各种级别的隐秘成员，相互利用，相互依靠，解决问题",
-        "当然，赤身党需要的一些打熬气力的特殊药材、各种兵械、武家的疗伤膏药，也有不少是薛蔓蔓提供的",
-        "”    戚笼看着‘宝藏图’上各种怪异扭曲的图案，自言自语，“这到底什么意思"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他帮",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "在薛蔓蔓争权夺利的过程中，他帮忙踢飞过不少绊脚石",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在薛蔓蔓争权夺利的过程中，他帮忙踢飞过不少绊脚石",
-        "当初在鹅公坡，他帮小不化骨吸收死气，除了《龙甲秘书》主动演化出龙脉秘术‘奉龙甲’外，他敏锐感觉到，‘宝藏图’产生了一丝异动"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "然后我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "”    洪小四苦笑一声：“然后我在鹅公坡又见到她了，虽然她带着面具，但我还是一眼认了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    洪小四苦笑一声：“然后我在鹅公坡又见到她了，虽然她带着面具，但我还是一眼认了出来",
-        "“有一个女人，我很喜欢她，她也非常喜欢我，她说要嫁给我，然后我就跑路了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "房间",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "房间之中，接着油灯的光亮，借着火光，戚笼眯着眼，眼中哪还有半分酒意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "房间之中，接着油灯的光亮，借着火光，戚笼眯着眼，眼中哪还有半分酒意",
-        "“吼——”    戚笼房间的灯光一灭",
-        "戚笼房间的灯光才再度亮起"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "微微",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十章 笼中图",
-      "summary": "戚笼伸出食指，微微一动，大量细密的金色鳞片从皮层下钻出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼伸出食指，微微一动，大量细密的金色鳞片从皮层下钻出来",
-        "龙指扫过宝藏图，微微一热，图案走马观花的一阵乱转"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

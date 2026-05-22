@@ -1,256 +1,504 @@
 {
   "chunk_id": "chunk-0315",
-  "title": "第八十八章 中山武皇",
   "characters": [
     {
       "name": "许衡",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "中山国皇子",
+      "faction": "中山国",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "许衡站了起来，拾阶而上，流淌在他表面的血水主动凝成一件血袍，他赤着双脚，半跪于地，恭敬的道：“父皇",
-      "appearance": [],
-      "personality": [],
+      "summary": "中山国皇子，中山武皇之子，与父皇讨论五弟许御元之死及大劫局势。",
+      "appearance": [
+        "赤着双脚，半跪于地，恭敬的道"
+      ],
+      "personality": [
+        "恭敬",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "中山武皇",
+          "type": "父子"
+        },
+        {
+          "target": "许御元",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在龙宫深处与中山武皇对话，得知五弟许御元之死。"
+        }
+      ],
       "evidence": [
-        "许衡站了起来，拾阶而上，流淌在他表面的血水主动凝成一件血袍，他赤着双脚，半跪于地，恭敬的道：“父皇",
-        "”许衡愕然，下意识的扫了一眼水池，空空荡荡",
-        "”    迟疑了片刻，许衡才开了口，中山国十三皇子，基本上可以说都是父皇的分身，无论受到什么样的伤势，哪怕是当场身死，只要尸首被血龙所吞，便能在龙血池中重新孕育复活，龙九子神像也会修复他们的三魂七魄"
+        "许衡站了起来，拾阶而上，流淌在他表面的血水主动凝成一件血袍，他赤着双脚，半跪于地，恭敬的道：“父皇。”",
+        "“你弟弟也死了。”",
+        "许衡睁大了双眼，他这位父皇，可是连当初神侯潜入皇宫之内，主动邀战都没有出手"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "中山武皇",
+      "aliases": [
+        "许天功"
+      ],
+      "identity": "中山国皇帝，半神巅峰",
+      "faction": "中山国",
+      "status": "登场",
+      "first_appearance": "第八十八章 中山武皇",
+      "summary": "中山国皇帝，隐忍多年，故意压制在半神巅峰不去突破真神，谋划龙脉之王路线。",
+      "appearance": [
+        "坐在龙宫深处的高大皇座上，三条龙脉的龙尾化作三缕黑发"
+      ],
+      "personality": [
+        "隐忍",
+        "深谋远虑",
+        "威严"
+      ],
+      "abilities": [
+        "龙脉之王路线",
+        "血龙八次蜕变"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "许衡",
+          "type": "父子"
+        },
+        {
+          "target": "许御元",
+          "type": "父子"
+        },
+        {
+          "target": "神侯",
+          "type": "敌对"
+        },
+        {
+          "target": "照敦煌",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许衡对话，透露大劫隐秘，决定出动。"
+        }
+      ],
+      "evidence": [
+        "坐在龙宫深处的中山武皇淡淡道。",
+        "“本皇这些年间，故意压制在半神巅峰的境界，不去突破真神是为了什么”",
+        "“时来天地皆同力，运去英雄不自由。神侯这小崽子已经不值一提了”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "许御元",
+      "aliases": [
+        "五弟",
+        "龙五子"
+      ],
+      "identity": "中山国五皇子，半神",
+      "faction": "中山国",
+      "status": "已死",
+      "first_appearance": "第八十八章 中山武皇",
+      "summary": "中山国五皇子，在佛域中被多人围攻致死，仅剩一截小指。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "驭龙"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "中山武皇",
+          "type": "父子"
+        },
+        {
+          "target": "许衡",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "在佛域中被围攻致死。"
+        }
+      ],
+      "evidence": [
+        "“你弟弟也死了。”",
+        "龙嘴中涎水都流了大半，才艰难的吐出一小节手指，手指表面还是焦黑色的。",
+        "“五弟他，怎么会伤成这样？”"
       ],
       "mention_count": 8
     },
     {
-      "name": "所有",
+      "name": "戚笼",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "龙宫最深处，中山武皇缓缓起身，所有龙庭的建筑都在颤动，各种龙形雕像上，一道道神光爆射而出",
+      "summary": "站在破落佛塔顶端，盯着万象寂灭大阵，未来佛念疯狂运转，欲找出阵势破绽。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "未来佛念"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "龙宫最深处，中山武皇缓缓起身，所有龙庭的建筑都在颤动，各种龙形雕像上，一道道神光爆射而出",
-        "所有域外真神都会惦记你这具肉身，所有此方世界的势力都会对你欲除之而后快，而且必然会上监察者的诛杀名单，当初弃妖皇、戾妖皇是怎么死的，真当我们这些老臣子不知道吗",
-        "“父皇，龙脉之王加上这八种力量，便是这场大劫的所有演化了吗"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在佛塔顶端观察万象寂灭大阵。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "司马",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十八章 中山武皇",
-      "summary": "……    而在恶道宗所在的天缺山下，无数股强大的气息此起彼伏，整个武平督护府的高层战力，司马正道带来了三分之一",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "……    而在恶道宗所在的天缺山下，无数股强大的气息此起彼伏，整个武平督护府的高层战力，司马正道带来了三分之一",
-        "”    司马正道今日一身道人打扮，身穿靛青道袍，头插木钗，手执拂尘，言笑晏晏，看上去就像是要去赴仙家之宴，而不是带着上万兵马，来跟恶道宗‘讲理’的大军阀",
-        "见黄真人还要说些什么，司马正道摆了摆手，笑道：“道兄，你需明白，无论山里山外，道门始终还是道门，道人也终是同道中人，我说是吗"
+        "一座破落佛塔的顶端，戚笼盯着这座万象寂灭大阵，未来佛念疯狂运转，想要查出这阵势的破绽。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "司马正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十八章 中山武皇",
-      "summary": "……    而在恶道宗所在的天缺山下，无数股强大的气息此起彼伏，整个武平督护府的高层战力，司马正道带来了三分之一",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……    而在恶道宗所在的天缺山下，无数股强大的气息此起彼伏，整个武平督护府的高层战力，司马正道带来了三分之一",
-        "”    司马正道今日一身道人打扮，身穿靛青道袍，头插木钗，手执拂尘，言笑晏晏，看上去就像是要去赴仙家之宴，而不是带着上万兵马，来跟恶道宗‘讲理’的大军阀",
-        "见黄真人还要说些什么，司马正道摆了摆手，笑道：“道兄，你需明白，无论山里山外，道门始终还是道门，道人也终是同道中人，我说是吗"
-      ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
       "name": "司马正道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "正道兄"
+      ],
+      "identity": "武平督护府高层，军阀",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "……    而在恶道宗所在的天缺山下，无数股强大的气息此起彼伏，整个武平督护府的高层战力，司马正道带来了三分之一",
-      "appearance": [],
-      "personality": [],
+      "summary": "武平督护府高层，带领三分之一战力围困恶道宗，欲共商封神大计。",
+      "appearance": [
+        "身穿靛青道袍，头插木钗，手执拂尘，言笑晏晏"
+      ],
+      "personality": [
+        "能说会道",
+        "笑里藏刀"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "歧天神枪"
+      ],
+      "relationships": [
+        {
+          "target": "黄道长",
+          "type": "同僚"
+        },
+        {
+          "target": "玄诚子",
+          "type": "敌对/谈判"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天缺山下与恶道宗掌门玄诚子对话，准备上山。"
+        }
+      ],
       "evidence": [
-        "……    而在恶道宗所在的天缺山下，无数股强大的气息此起彼伏，整个武平督护府的高层战力，司马正道带来了三分之一",
-        "”    司马正道今日一身道人打扮，身穿靛青道袍，头插木钗，手执拂尘，言笑晏晏，看上去就像是要去赴仙家之宴，而不是带着上万兵马，来跟恶道宗‘讲理’的大军阀",
-        "见黄真人还要说些什么，司马正道摆了摆手，笑道：“道兄，你需明白，无论山里山外，道门始终还是道门，道人也终是同道中人，我说是吗"
+        "司马正道今日一身道人打扮，身穿靛青道袍，头插木钗，手执拂尘，言笑晏晏",
+        "司马正道环顾四周，忽然提声道：“恶道宗和武平督护府休戚与共、互为表里”",
+        "司马正道摸着肥肚皮，满嘴堆笑，脚下跨着瘦鸭子"
       ],
       "mention_count": 6
     },
     {
-      "name": "马上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "黄道长",
+      "aliases": [
+        "黄真人"
+      ],
+      "identity": "武平督护府高层",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "“马上就来，马上就来，最后一句",
+      "summary": "武平督护府高层，与司马正道一同围困恶道宗，心情激动。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "激动"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“马上就来，马上就来，最后一句"
+      "relationships": [
+        {
+          "target": "司马正道",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天缺山下准备进攻恶道宗。"
+        }
+      ],
+      "evidence": [
+        "以黄道长的心境，都压抑不住此时的激动",
+        "黄真人还要说些什么"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "父皇",
+      "name": "厉天仞",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "半神",
+      "faction": "武平督护府",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "许衡站了起来，拾阶而上，流淌在他表面的血水主动凝成一件血袍，他赤着双脚，半跪于地，恭敬的道：“父皇",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "许衡站了起来，拾阶而上，流淌在他表面的血水主动凝成一件血袍，他赤着双脚，半跪于地，恭敬的道：“父皇",
-        "”    迟疑了片刻，许衡才开了口，中山国十三皇子，基本上可以说都是父皇的分身，无论受到什么样的伤势，哪怕是当场身死，只要尸首被血龙所吞，便能在龙血池中重新孕育复活，龙九子神像也会修复他们的三魂七魄",
-        "”    “父皇，这不可能，就算是两佛尊之下，最强的五大禅师一起出手，也不可能把五弟打成这样，而且正如父皇所说，这个关头，五大禅师也不大可能一起出动了吧"
+      "summary": "手持歧天神枪，战意盎然的半神。",
+      "appearance": [
+        "神焰覆于体表，好似战神降世"
       ],
-      "mention_count": 5
+      "personality": [
+        "战意盎然"
+      ],
+      "abilities": [
+        "半神"
+      ],
+      "equipment": [
+        "歧天神枪"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天缺山下准备战斗。"
+        }
+      ],
+      "evidence": [
+        "他扫了一眼手持歧天神枪、战意盎然的厉天仞，这一位已经不是宗师，而是标准的半神了"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "就算是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "玄诚子",
+      "aliases": [
+        "玄诚道兄"
+      ],
+      "identity": "恶道宗掌门，金丹巅峰",
+      "faction": "恶道宗",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "“……”    龙五子、狻猊神像上神光一闪，只是莫说魂魄了，就算是肉身，这种程度的伤势也无法进行复原",
+      "summary": "恶道宗掌门，与司马正道对话，邀请其上山。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“……”    龙五子、狻猊神像上神光一闪，只是莫说魂魄了，就算是肉身，这种程度的伤势也无法进行复原",
-        "”    “父皇，这不可能，就算是两佛尊之下，最强的五大禅师一起出手，也不可能把五弟打成这样，而且正如父皇所说，这个关头，五大禅师也不大可能一起出动了吧",
-        "”    “就算是真神意识，也无法在这个关口，冲破佛域结界强行降临"
+      "personality": [
+        "豪爽"
       ],
-      "mention_count": 5
+      "abilities": [
+        "金丹巅峰"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "司马正道",
+          "type": "敌对/谈判"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天缺山上与司马正道对话。"
+        }
+      ],
+      "evidence": [
+        "玄诚子，当代恶道宗掌门，金丹巅峰。",
+        "“哈哈哈哈，正道兄说的自然及是，有朋自远方来，自然是不亦乐乎”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "九幽",
+      "name": "法令老",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天变会三老之一",
+      "faction": "天变会",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "神侯这小崽子已经不值一提了，现在唯一可虑的，便是九幽军团的那些小龙崽子们",
-      "appearance": [],
-      "personality": [],
+      "summary": "天变会三老之一，鹰钩鼻老婆子，在远处观察恶道宗局势。",
+      "appearance": [
+        "鹰钩鼻的老婆子"
+      ],
+      "personality": [
+        "饶有兴致"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "神侯这小崽子已经不值一提了，现在唯一可虑的，便是九幽军团的那些小龙崽子们",
-        "”    “可是父皇，那些九幽成员受限于真神，龙脉之子便已是到顶了，不可能再让他们并龙脉，以父皇之力——”    “真神们的后手没那么简单，三刑、四杀、七伤、八难、九幽、地狱、三途、五苦，这八种从大劫中演化出的力量，才是最后真正决定性的因素",
-        "”    “本皇的确是见过，那是一种本皇到现在都感到惊惧的力量，那种力量是三刑四杀、七伤八难、九幽地狱、三途五苦这八种大劫力量的克星，曾经，正是这股力量，毁灭了古国——千年以来，抵抗过无数次真神降临的古国"
+      "relationships": [
+        {
+          "target": "糜灵",
+          "type": "上级"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在远处观察恶道宗局势。"
+        }
+      ],
+      "evidence": [
+        "远处，一个鹰钩鼻的老婆子正饶有兴致的看着这一幕",
+        "天变会三老——法令老。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "而是",
+      "name": "糜灵",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "皇城司检查使",
+      "faction": "皇城司",
       "status": "登场",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "以黄道长的心境，都压抑不住此时的激动，他扫了一眼手持歧天神枪、战意盎然的厉天仞，这一位已经不是宗师，而是标准的半神了，神焰覆于体表，好似战神降世，像他这类半神，附近还有好几尊",
-      "appearance": [],
-      "personality": [],
+      "summary": "皇城司检查使，在法令老面前低眉顺眼。",
+      "appearance": [
+        "低眉顺眼"
+      ],
+      "personality": [
+        "顺从"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "以黄道长的心境，都压抑不住此时的激动，他扫了一眼手持歧天神枪、战意盎然的厉天仞，这一位已经不是宗师，而是标准的半神了，神焰覆于体表，好似战神降世，像他这类半神，附近还有好几尊",
-        "恶道宗本来不叫恶道宗，而是叫邪道宗，不过后来因为邪道宗不大符合道门宗旨，显的不大似正道，所有才改名叫恶道宗",
-        "”    司马正道环顾四周，忽然提声道：“恶道宗和武平督护府休戚与共、互为表里，今日请各位来，不是为了破人道场、杀人弟子，而是请各位做一个见证"
+      "relationships": [
+        {
+          "target": "法令老",
+          "type": "下属"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随法令老观察恶道宗。"
+        }
+      ],
+      "evidence": [
+        "在她身后，曾经扯高气扬的皇城司检查使糜灵，像一个小丫头一样低眉顺眼。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "正道兄",
+      "name": "照敦煌",
       "aliases": [],
-      "identity": "",
+      "identity": "亡国七灾之首",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "“正道兄，现在就动手吗",
+      "summary": "亡国七灾之首，曾拥有毁灭古国的力量，是八种大劫力量的克星。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "拥有克制八种大劫力量的力量"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“正道兄，现在就动手吗",
-        "“哈哈哈哈，正道兄说的自然及是，有朋自远方来，自然是不亦乐乎，正道兄是现在就上山，还是在山下再坐一会儿",
-        "”    “正道兄快来，过时不候"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "毁灭了古国。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "而这股力量的拥有者，便是当年的亡国七灾之首——照敦煌！"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "中山",
+      "name": "月中玉池夫人",
       "aliases": [],
-      "identity": "",
+      "identity": "真神",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十八章 中山武皇",
-      "summary": "第八十八章 中山武皇    最快更新刀笼最新章节",
+      "summary": "真神，必然意识降临争夺先天元胎。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "真神"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "未来",
+          "event": "将意识降临争夺先天元胎。"
+        }
+      ],
+      "evidence": [
+        "还有最后一位，也是最恐怖的一位，必然会出现，而且必然会意识降临的真神——月中玉池夫人！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "神侯",
+      "aliases": [
+        "神侯小儿"
+      ],
+      "identity": "神侯",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第八十八章 中山武皇",
+      "summary": "被中山武皇提及，气运旺盛但刚则易折。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "中山武皇",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "“神侯小儿，气运旺盛，但刚则易折”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "弃妖皇",
+      "aliases": [],
+      "identity": "前真神",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第八十八章 中山武皇",
+      "summary": "前真神，已死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第八十八章 中山武皇    最快更新刀笼最新章节",
-        "”    坐在龙宫深处的中山武皇淡淡道",
-        "要知道，往往一次十万人级别的大战，都未必能殒落两尊半神，而且是他们这种能驭龙的中山皇族"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被监察者诛杀。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "当初弃妖皇、戾妖皇是怎么死的"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戾妖皇",
+      "aliases": [],
+      "identity": "前真神",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第八十八章 中山武皇",
+      "summary": "前真神，已死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被监察者诛杀。"
+        }
+      ],
+      "evidence": [
+        "当初弃妖皇、戾妖皇是怎么死的"
+      ],
+      "mention_count": 1
     }
   ]
 }

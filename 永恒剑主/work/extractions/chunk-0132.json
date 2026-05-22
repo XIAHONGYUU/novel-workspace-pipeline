@@ -1,244 +1,512 @@
 {
   "chunk_id": "chunk-0132",
-  "title": "第一百三十章 杀意（下）",
   "characters": [
     {
       "name": "林新",
+      "aliases": [
+        "庄主",
+        "大哥"
+      ],
+      "identity": "山庄庄主，炼气期修士",
+      "faction": "艳阳宗（宗主）",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "山庄庄主，炼气期修士，收服艳阳宗，正面临幻觉困扰。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "炼气期修为",
+        "剑术"
+      ],
+      "equipment": [
+        "剑",
+        "怨气符"
+      ],
+      "relationships": [
+        {
+          "target": "柳杨",
+          "type": "下属"
+        },
+        {
+          "target": "黄衫",
+          "type": "师兄"
+        },
+        {
+          "target": "林新媛",
+          "type": "妹妹"
+        },
+        {
+          "target": "萧玲玲",
+          "type": "妻子"
+        },
+        {
+          "target": "林罗",
+          "type": "徒弟"
+        },
+        {
+          "target": "林缎",
+          "type": "徒弟"
+        },
+        {
+          "target": "花摇珠",
+          "type": "徒弟"
+        },
+        {
+          "target": "欧映红",
+          "type": "下属"
+        },
+        {
+          "target": "司徒浩",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收服艳阳宗，处理司徒浩，指导徒弟，出现幻觉误杀下人"
+        }
+      ],
+      "evidence": [
+        "林新看向柳杨。",
+        "林新回到山庄后，居然发现那个司徒浩还在。",
+        "林新走到林缎面前，牵起小女孩的手，一丝灵气骤然进入对方体内经络。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "柳杨",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "艳阳宗宗主，先天九层",
+      "faction": "艳阳宗",
       "status": "登场",
       "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "”林新看向柳杨",
+      "summary": "艳阳宗宗主，先天九层实力，被林新收服。",
+      "appearance": [],
+      "personality": [
+        "羞愧"
+      ],
+      "abilities": [
+        "先天九层"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "宗主"
+        },
+        {
+          "target": "柳宗",
+          "type": "弟子"
+        },
+        {
+          "target": "柳元",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新介绍杀生剑道和宗门情况"
+        }
+      ],
+      "evidence": [
+        "林新看向柳杨。",
+        "先天九层实力有一人，柳杨。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "柳宗",
+      "aliases": [],
+      "identity": "艳阳宗先天八层",
+      "faction": "艳阳宗",
+      "status": "提及",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "艳阳宗先天八层实力，柳杨的弟子。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "先天八层"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "柳杨",
+          "type": "师父"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”林新看向柳杨",
-        "”　　“生机阳火……”林新若有所思",
-        "收下艳阳宗，林新手下多了一股绝对忠心的实力，他强行将艳阳门拖上船，双方都是不成功便成仁的意思"
+        "先天八层实力两人，柳宗柳元。"
       ],
-      "mention_count": 53
+      "mention_count": 1
+    },
+    {
+      "name": "柳元",
+      "aliases": [],
+      "identity": "艳阳宗先天八层",
+      "faction": "艳阳宗",
+      "status": "提及",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "艳阳宗先天八层实力，柳杨的弟子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "先天八层"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "柳杨",
+          "type": "师父"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "先天八层实力两人，柳宗柳元。"
+      ],
+      "mention_count": 1
     },
     {
       "name": "黄衫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "林新的师兄，阵堂弟子",
+      "faction": "剑派阵堂",
       "status": "登场",
       "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "离开艳阳宗地宫后，他回到山庄，前去看望黄衫",
+      "summary": "林新的师兄，因于婆婆之事被林新安置在地下居所。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "压抑",
+        "冷静"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "离开艳阳宗地宫后，他回到山庄，前去看望黄衫",
-        "那对父女也被接了回来，和黄衫一起生活",
-        "黄衫正提着笔在书桌前缓缓书写，凝神贯注"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师弟"
+        },
+        {
+          "target": "于婆婆",
+          "type": "阵堂前辈"
+        }
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "林新回到山庄后，居然发现那个司徒浩还在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新回到山庄后，居然发现那个司徒浩还在",
-        "“大哥你走后，他更肆无忌惮了，前阵子居然想进内院调戏玲玲姐，被我和禅师拦住，小红要不是我拦住，非得冲进去杀了他",
-        "“这等宗门，若是没有阳泉支撑，居然还能存在到现在，也算是个奇迹"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新谈论于婆婆之死和宗门局势"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "林罗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "林罗和花摇珠在边上也是有些情绪低落",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "林罗和花摇珠在边上也是有些情绪低落",
-        "“那师父，我妹妹她……还能修行吗……”林罗有些急的问",
-        "林罗咬牙，眼圈有些红"
+        "黄衫正提着笔在书桌前缓缓书写",
+        "黄衫直视了他片刻"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "以后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "“以后送给他的食物和水，都加点金阳粉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“以后送给他的食物和水，都加点金阳粉",
-        "“至于之后，一个没了筑基期的筑基期家族，还占据那么多资源，自然不可能，所以后面的事也是顺理成章",
-        "“以后有什么打算"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "欧映",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "欧映红正纠正着两个孩子的基础剑式，不过于小路，也就是现在的林缎，则是虚弱的坐在一边休息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "欧映红正纠正着两个孩子的基础剑式，不过于小路，也就是现在的林缎，则是虚弱的坐在一边休息",
-        "欧映红缓缓点头"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "离开",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "离开艳阳宗地宫后，他回到山庄，前去看望黄衫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "离开艳阳宗地宫后，他回到山庄，前去看望黄衫",
-        "离开地下居所，林新直接回到内院，和萧玲玲独处了一阵，之后便去看了下三小的进展",
-        "”　　他抛下一句话，转身离开"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "只是不能外出，什么东西都由外人送进去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是不能外出，什么东西都由外人送进去",
-        "只是因为太高，略显空旷",
-        "一时间两人谁都不想再开口，只是沉默"
-      ],
-      "mention_count": 4
+      "mention_count": 10
     },
     {
       "name": "林新媛",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的妹妹",
+      "faction": "山庄",
+      "status": "登场",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "林新的妹妹，负责处理山庄事务。",
+      "appearance": [],
+      "personality": [
+        "不甘",
+        "愤怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "大哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新报告司徒浩的恶行"
+        }
+      ],
+      "evidence": [
+        "林新媛站在他身后。",
+        "林新媛有些不甘。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "司徒浩",
+      "aliases": [],
+      "identity": "外来者，林新的敌人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "”　　林新媛站在他身后",
+      "summary": "在林新山庄中肆意妄为，被林新暗中下药。",
+      "appearance": [],
+      "personality": [
+        "肆无忌惮"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在山庄中享乐，被林新下金阳粉"
+        }
+      ],
+      "evidence": [
+        "阵阵丝竹声和女子的娇笑从厢房内传出，夹杂着男子的畅快大笑。",
+        "他更肆无忌惮了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "萧玲玲",
+      "aliases": [
+        "玲玲姐"
+      ],
+      "identity": "林新的妻子",
+      "faction": "山庄",
+      "status": "提及",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "林新的妻子，曾被司徒浩调戏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "丈夫"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "林新与她独处"
+        }
+      ],
       "evidence": [
-        "”　　林新媛站在他身后",
-        "”林新媛有些不甘",
-        "”　　林新媛顿时无言以对"
+        "和萧玲玲独处了一阵"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "欧映红",
+      "aliases": [
+        "小红"
+      ],
+      "identity": "林新的下属",
+      "faction": "山庄",
+      "status": "登场",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "林新的下属，负责教导孩子剑式。",
+      "appearance": [],
+      "personality": [
+        "冲动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "纠正孩子基础剑式"
+        }
+      ],
+      "evidence": [
+        "欧映红正纠正着两个孩子的基础剑式"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "林罗",
+      "aliases": [],
+      "identity": "林新的徒弟",
+      "faction": "山庄",
+      "status": "登场",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "林新的徒弟，林缎的哥哥。",
+      "appearance": [],
+      "personality": [
+        "急切",
+        "坚强"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师父"
+        },
+        {
+          "target": "林缎",
+          "type": "妹妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "担心妹妹不能修行"
+        }
+      ],
+      "evidence": [
+        "林罗有些急的问",
+        "林罗狠狠点头"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林缎",
+      "aliases": [
+        "于小路"
+      ],
+      "identity": "林新的徒弟",
+      "faction": "山庄",
+      "status": "登场",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "林新的徒弟，原名于小路，因中毒无法修行。",
+      "appearance": [],
+      "personality": [
+        "坚强",
+        "乐观"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师父"
+        },
+        {
+          "target": "林罗",
+          "type": "哥哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被诊断无法修行"
+        }
+      ],
+      "evidence": [
+        "林缎怯生生的站起来",
+        "林缎擦干鼻血，却反而没有什么很伤心的样子"
       ],
       "mention_count": 4
     },
     {
-      "name": "仿佛",
+      "name": "花摇珠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新的徒弟",
+      "faction": "山庄",
       "status": "登场",
       "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "”　　他的声音没有一丝起伏，仿佛是在说着局外人的事",
+      "summary": "林新的徒弟，与林罗一起练习剑式。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "失望"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　他的声音没有一丝起伏，仿佛是在说着局外人的事",
-        "“不是怨气怨灵……”就算再强大的怨灵，符纸也会有反应，而此时……　　“又是幻觉么……”他睁大眼，却看到眼前的一切仿佛在缓缓扭曲，模糊",
-        "仿佛眼前放了一块哈哈镜，一切的景物都开始扭动歪曲起来"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师父"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "练习剑式"
+        }
+      ],
+      "evidence": [
+        "花摇珠在边上也是有些情绪低落"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "他这",
+      "name": "于婆婆",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "阵堂前辈，已故",
+      "faction": "剑派阵堂",
+      "status": "提及",
       "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "他这明显是在故意压抑情绪",
+      "summary": "阵堂前辈，被朱雀圣庭偷袭灭门。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他这明显是在故意压抑情绪",
-        "黄衫直视了他片刻，直到林新一直和他对视，没有丝毫的惭愧之意，他这才缓和下来"
+      "relationships": [
+        {
+          "target": "黄衫",
+          "type": "阵堂前辈"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被朱雀圣庭偷袭灭门"
+        }
+      ],
+      "evidence": [
+        "她确实是被朱雀圣庭偷袭"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "之后",
+      "name": "长琴道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "阵堂前辈",
+      "faction": "剑派阵堂",
+      "status": "提及",
       "first_appearance": "第一百三十章 杀意（下）",
-      "summary": "用过之后次数多了，会损伤修为根基，亏空身子",
+      "summary": "阵堂前辈，被剑堂长老联手镇压。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被剑堂长老联手镇压"
+        }
+      ],
+      "evidence": [
+        "仅有的一个长琴道人也被剑堂长老联手镇压"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "公孙离离",
+      "aliases": [],
+      "identity": "山庄的药师",
+      "faction": "山庄",
+      "status": "提及",
+      "first_appearance": "第一百三十章 杀意（下）",
+      "summary": "山庄的药师，独家配方金阳粉。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -246,11 +514,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "用过之后次数多了，会损伤修为根基，亏空身子",
-        "“至于之后，一个没了筑基期的筑基期家族，还占据那么多资源，自然不可能，所以后面的事也是顺理成章",
-        "“那个渔村的人……之后到底如何了"
+        "金阳粉是最霸道的烈性春药……是庄子里公孙离离老的独家配方之一"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

@@ -1,258 +1,770 @@
 {
   "chunk_id": "chunk-0030",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立的声音隐隐约约在其中传出——    “你在杀死宝儿前，是不是听他说过，汹汹的烈火，群狼在火焰中哀嚎，你的死相最惨，不仅被火烧，手脚还被砍断，眼珠也被挖去……”    “他讲的遗言，我会帮他实现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立的声音隐隐约约在其中传出——    “你在杀死宝儿前，是不是听他说过，汹汹的烈火，群狼在火焰中哀嚎，你的死相最惨，不仅被火烧，手脚还被砍断，眼珠也被挖去……”    “他讲的遗言，我会帮他实现",
-        "寇立在重生以来，一直在坚持着这种心境",
-        "斩杀三人之后，寇立的身影也不出意外的陷入了狼阵的中心，刀势如轮，煞气滚滚，狼群的嘶吼声第一时间淹没了他的身影"
+      "aliases": [
+        "寇师兄"
       ],
-      "mention_count": 51
+      "identity": "武馆学徒，大拳师",
+      "faction": "武馆残党",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "武馆残党的核心人物，四炼大拳师，擅长刀术和虎拳，在落魂谷中与水龙帮及多方势力周旋，最终逃脱。",
+      "appearance": [
+        "满身泥血",
+        "浑身是伤"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "阴阳幻化",
+        "六式刀术",
+        "拔刀术",
+        "虎拳"
+      ],
+      "equipment": [
+        "童子切鱼纲"
+      ],
+      "relationships": [
+        {
+          "target": "独眼狼",
+          "type": "敌对"
+        },
+        {
+          "target": "鬼影子吴影",
+          "type": "盟友"
+        },
+        {
+          "target": "岳武霍",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "用孤城计拖延水龙帮，使其中毒，后与各方势力混战，最终逃脱。"
+        }
+      ],
+      "evidence": [
+        "寇立的声音隐隐约约在其中传出——",
+        "寇立满身泥血的从地面上爬了起来",
+        "寇立咬了咬牙，‘没办法了，只好看看用字印，看看能不能把它吞入自己的精神中。’"
+      ],
+      "mention_count": 25
     },
     {
       "name": "独眼狼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    独眼狼看着两侧青苔密布、杂岩堆积的山壁，以及眼前一片白茫茫，低沉着嗓音道：“这是打算玩空城计吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    独眼狼看着两侧青苔密布、杂岩堆积的山壁，以及眼前一片白茫茫，低沉着嗓音道：“这是打算玩空城计吗",
-        "独眼狼身经百战，自然是不会犯同样的错误，司马懿大军压境，他也同样可说是大军压境，优势在己，无需事事心惊",
-        "“派几个狼兵进去打探，分散开来，遇事以哨示警，”独眼狼顿了顿，“再派人爬上两侧山壁，我倒是要看看，你到底是假空城还是真空城"
+      "aliases": [
+        "魏哥"
       ],
-      "mention_count": 26
-    },
-    {
-      "name": "独眼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    独眼狼看着两侧青苔密布、杂岩堆积的山壁，以及眼前一片白茫茫，低沉着嗓音道：“这是打算玩空城计吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    独眼狼看着两侧青苔密布、杂岩堆积的山壁，以及眼前一片白茫茫，低沉着嗓音道：“这是打算玩空城计吗",
-        "独眼狼身经百战，自然是不会犯同样的错误，司马懿大军压境，他也同样可说是大军压境，优势在己，无需事事心惊",
-        "“派几个狼兵进去打探，分散开来，遇事以哨示警，”独眼狼顿了顿，“再派人爬上两侧山壁，我倒是要看看，你到底是假空城还是真空城"
+      "identity": "水龙帮头狼",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "水龙帮四狼之一，心思缜密谨慎，但被寇立的空城计所骗，最终被鬼影子杀死。",
+      "appearance": [
+        "独眼"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "其中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "…………    几个一身黑袍的神秘人物出现在观潮，其中一个蹲身捏了捏手中泥土，语气淡淡的道：“这个方向是哪里",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "心思慎密",
+        "谨慎",
+        "易怒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "鬼影子吴影",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "被寇立的孤城计拖延，后与罗墩子战斗，被鬼影子偷袭杀死。"
+        }
+      ],
       "evidence": [
-        "…………    几个一身黑袍的神秘人物出现在观潮，其中一个蹲身捏了捏手中泥土，语气淡淡的道：“这个方向是哪里",
-        "”    “落魂谷，是观潮有名的回声谷，由于哪里特殊的地势，海风吹在其中只入不散，积年累月，所以观潮里的穷人一旦死去，没钱买陵墓，就把死尸丢到那里，再加上一些鱼虾杂物的残骸，渐渐渗出一股奇怪的尸雾，已经很久没有人进入过了",
-        "”    其中一个黑袍人抬起了头，居然露出岳武霍这个武馆总教头的面孔，眼中复杂之色一闪而过，然后沉声道：“的确也做最后的了解了"
+        "独眼狼皱眉，正待进去的狼兵回来传讯",
+        "独眼狼唯一的眼珠瞬间缩起！",
+        "机关算尽独眼狼，亡！"
       ],
       "mention_count": 15
     },
     {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "独眼狼不为所动，他比任何人都要想的多，对方不可能真的想玩空城计，自己是绝对不会退兵的，所以对方到底想要干什么",
+      "name": "鬼影子吴影",
+      "aliases": [
+        "鬼影子"
+      ],
+      "identity": "江南大盗",
+      "faction": "武馆残党",
+      "status": "死亡",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "曾经的江南大盗，无影之鬼，与寇立合作对抗水龙帮，最终在落魂谷中重伤身亡。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "独眼狼不为所动，他比任何人都要想的多，对方不可能真的想玩空城计，自己是绝对不会退兵的，所以对方到底想要干什么",
-        "“怎么，还想着再去送人命，对方可不是诸葛亮，”独眼狼皱眉，诸葛亮可没有对方这么能打，再派狼兵进去，无异于是堆人头",
-        "而若是自己几个进去，是不是就又给对方分而击破的机会了"
+      "abilities": [
+        "鬼影子身法",
+        "盗术"
       ],
-      "mention_count": 12
+      "equipment": [
+        "漆黑匕首"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "盟友"
+        },
+        {
+          "target": "独眼狼",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "与独眼狼战斗，被爆炸波及重伤，后杀死独眼狼，将身法和盗术托付给寇立后死亡。"
+        }
+      ],
+      "evidence": [
+        "鬼影子身影一闪，当脚下影子转到只剩下一根线的时候，人影瞬间消失不见",
+        "鬼影子惨笑道，不断吐出乌黑血块",
+        "十年前的江南大盗，无影之鬼，亡！"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "朱师傅",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“喋喋，朱师傅，你把人带来了，你的拳术可以教了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“喋喋，朱师傅，你把人带来了，你的拳术可以教了",
-        "”朱师傅沉声道",
-        "”    少年气的浑身发抖，却被朱师傅止住"
+      "name": "狂刀客楚三",
+      "aliases": [
+        "楚三"
       ],
-      "mention_count": 10
+      "identity": "武馆残党",
+      "faction": "武馆残党",
+      "status": "死亡",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "武馆残党成员，性格粗犷，与大力狼战斗时被神火罐炸死。",
+      "appearance": [
+        "粗犷的脸上满脸兴奋"
+      ],
+      "personality": [
+        "粗犷",
+        "兴奋"
+      ],
+      "abilities": [],
+      "equipment": [
+        "大刀"
+      ],
+      "relationships": [
+        {
+          "target": "大力狼",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "与大力狼战斗，被神火罐炸死。"
+        }
+      ],
+      "evidence": [
+        "狂刀客楚三的身影一闪而过",
+        "狂刀客脸面和胸膛直接被炸的凹陷开来",
+        "狂刀客楚三"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "居然",
+      "name": "罗墩子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "而那个人的面孔，居然是在船上出现过的八门拳郭师傅",
+      "identity": "武馆残党",
+      "faction": "武馆残党",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "武馆残党成员，擅长开闸劲和凌空劲，与独眼狼战斗。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而那个人的面孔，居然是在船上出现过的八门拳郭师傅",
-        "”    其中一个黑袍人抬起了头，居然露出岳武霍这个武馆总教头的面孔，眼中复杂之色一闪而过，然后沉声道：“的确也做最后的了解了",
-        "密集的脚步声就像是擂鼓助威，寇立这一次面对的，不再是一人一狼，而是千人千狼般，绿油油的眼神，联合在一起，居然制造了一层诡异的精神立场，比那赵皮儿施展的、刁奉圣打出的，还要更强"
+      "abilities": [
+        "开闸劲",
+        "凌空劲"
       ],
-      "mention_count": 9
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "独眼狼",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "与独眼狼战斗，后身份疑似为朝廷官员。"
+        }
+      ],
+      "evidence": [
+        "罗墩子斗上了已经疯狂的独眼狼",
+        "罗墩子转过头来，居然露出罗墩子的面孔，与之前的憨厚老实相比，居然满脸阴沉"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "另一",
+      "name": "铁皮狼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    另一方向，几个血杆子杀手聚在一起，其中一位，正是那有过一面之缘的断臂中年人，面无表情",
-      "appearance": [],
-      "personality": [],
+      "identity": "水龙帮四狼之一",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "水龙帮四狼之一，被黑袍人捏爆头颅而死。",
+      "appearance": [
+        "面无表情"
+      ],
+      "personality": [
+        "面无表情"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    另一方向，几个血杆子杀手聚在一起，其中一位，正是那有过一面之缘的断臂中年人，面无表情",
-        "只见他双手双脚被绑在一根木柱上，下半身被汹汹烈火包裹，已经烤糊烧焦，一截手臂齐根而断，另一只手臂断了一半，两颗眼珠子上，血水浓液止不住的向下流",
-        "寇立提着他外，另一只手，则抓着一个叫黄元的学徒，这人会一手精妙的枪术，这两个人，大概就是武馆仅存的独苗了"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "被黑袍人抓住，捏爆头颅而死。"
+        }
+      ],
+      "evidence": [
+        "铁皮狼面无表情",
+        "铁皮狼被炸断了一条腿",
+        "几个黑袍人重重的捏住了铁皮狼的脖子"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "狼兵",
+      "name": "大力狼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”正文 第一百一十章 孤城计    狼影起伏，皮毛滚滚，狼兵的身影渐渐包围在落魂谷外",
-      "appearance": [],
-      "personality": [],
+      "identity": "水龙帮四狼之一",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "水龙帮四狼之一，体格强大，被毒箭射死。",
+      "appearance": [
+        "体格强大"
+      ],
+      "personality": [
+        "愚笨痴呆"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”正文 第一百一十章 孤城计    狼影起伏，皮毛滚滚，狼兵的身影渐渐包围在落魂谷外",
-        "“少狼主的气息就是消失在这里，”一个老狼兵皱眉闻了闻，肯定的道",
-        "“派几个狼兵进去打探，分散开来，遇事以哨示警，”独眼狼顿了顿，“再派人爬上两侧山壁，我倒是要看看，你到底是假空城还是真空城"
+      "relationships": [
+        {
+          "target": "狂刀客楚三",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "与狂刀客战斗，被神火罐炸伤，后被毒箭射死。"
+        }
+      ],
+      "evidence": [
+        "大力狼被炸断了一条腿",
+        "大力狼，一圈的断箭盯在了他的背部"
+      ],
+      "mention_count": 4
     },
     {
       "name": "罗翼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“魏哥，到底怎么算，总不能就这么干看着啊，”罗翼开始有些急躁起来",
+      "aliases": [
+        "插翅狼"
+      ],
+      "identity": "水龙帮四狼之一",
+      "faction": "水龙帮",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "水龙帮四狼之一，在落魂谷之战中失去半只胳膊，后目睹黑袍人对话。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "急躁"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“魏哥，到底怎么算，总不能就这么干看着啊，”罗翼开始有些急躁起来",
-        "“还要等到什么时候，总不能真的眼睁睁的看着赵皮儿被烧死，别忘了，他爹可是狼族大长老，看着他被烧死，就算有公子保你都没用，”罗翼急声道",
-        "”    “这么说来，他是真打算用自己来拖延我们的时间，好让其他人逃命，”罗翼语气中透着一丝疑惑，他总觉的对方不是这样的人"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "被神火罐炸掉半只胳膊，后躲藏并目睹黑袍人对话。"
+        }
+      ],
+      "evidence": [
+        "罗翼半只胳膊没了",
+        "插齿狼罗翼面色苍白的爬了出来"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "是不是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "也不知是不是这个原因，一股淡淡的白烟飘荡在谷中，看上去极淡薄，但视线却难以透雾入里，看到其中的真容",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "也不知是不是这个原因，一股淡淡的白烟飘荡在谷中，看上去极淡薄，但视线却难以透雾入里，看到其中的真容",
-        "而若是自己几个进去，是不是就又给对方分而击破的机会了",
-        "寇立的声音隐隐约约在其中传出——    “你在杀死宝儿前，是不是听他说过，汹汹的烈火，群狼在火焰中哀嚎，你的死相最惨，不仅被火烧，手脚还被砍断，眼珠也被挖去……”    “他讲的遗言，我会帮他实现"
+      "name": "岳武霍",
+      "aliases": [
+        "岳师兄"
       ],
-      "mention_count": 9
+      "identity": "武馆总教头",
+      "faction": "未知",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "武馆总教头，四大炼大拳师，似乎与黑袍人有关，拦截寇立。",
+      "appearance": [],
+      "personality": [
+        "满脸煞气"
+      ],
+      "abilities": [
+        "虎拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "拦截寇立，与断臂中年人交手。"
+        }
+      ],
+      "evidence": [
+        "岳武霍满脸煞气，手上还提着两颗人头",
+        "岳武霍这个武馆总教头的面孔"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "水龙帮",
+      "name": "姜水源",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "武馆学徒",
+      "faction": "武馆残党",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "武馆学徒，拳术最烂，但在落魂谷中幸存，被寇立所救。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "鬼头刀"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "被寇立救出，跟随寇立逃离。"
+        }
+      ],
+      "evidence": [
+        "活下来的三个学徒中，其中一个居然是拳术最烂的姜水源",
+        "寇师兄！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "黄元",
+      "aliases": [],
+      "identity": "武馆学徒",
+      "faction": "武馆残党",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "武馆学徒，会一手精妙的枪术，被寇立救出。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "枪术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "被寇立救出，跟随寇立逃离。"
+        }
+      ],
+      "evidence": [
+        "另一个，则抓着一个叫黄元的学徒，这人会一手精妙的枪术"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "断臂中年人",
+      "aliases": [],
+      "identity": "血杆子杀手",
+      "faction": "血杆子",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "血杆子杀手，断臂，曾与寇立有一面之缘，在落魂谷中与岳武霍交手，掩护寇立撤退。",
+      "appearance": [
+        "断臂"
+      ],
+      "personality": [],
+      "abilities": [
+        "暗剑流"
+      ],
+      "equipment": [
+        "断剑"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "盟友"
+        },
+        {
+          "target": "岳武霍",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "与岳武霍交手，掩护寇立撤退。"
+        }
+      ],
+      "evidence": [
+        "断臂中年人的身影居然窜了出来",
+        "暗剑流——白虹贯日！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "孔笙",
+      "aliases": [],
+      "identity": "神秘人物",
+      "faction": "未知",
+      "status": "存活",
       "first_appearance": "前言",
-      "summary": "“好好好，只要这一次能成功，一定能砍断水龙帮的一根胳膊，”楚三粗犷的脸上满脸兴奋，“要不是老子来找你喝酒，怎么能碰上这种好事",
+      "summary": "神秘人物，与八门拳郭师傅密谋，计划制造海祸和东南动荡。",
+      "appearance": [
+        "琥珀色的目光"
+      ],
+      "personality": [
+        "神秘"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "八门拳郭师傅",
+          "type": "同谋"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "前言",
+          "event": "与郭师傅密谋，计划制造海祸和东南动荡。"
+        }
+      ],
+      "evidence": [
+        "孔笙神秘的笑了笑",
+        "孔笙琥珀色的目光闪了闪"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "八门拳郭师傅",
+      "aliases": [
+        "郭师傅"
+      ],
+      "identity": "八门拳师傅",
+      "faction": "未知",
+      "status": "存活",
+      "first_appearance": "前言",
+      "summary": "八门拳师傅，与孔笙密谋，曾在船上出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "八门拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "孔笙",
+          "type": "同谋"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "前言",
+          "event": "与孔笙密谋。"
+        }
+      ],
+      "evidence": [
+        "那个人的面孔，居然是在船上出现过的八门拳郭师傅"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黑袍男",
+      "aliases": [],
+      "identity": "神秘黑袍人",
+      "faction": "未知",
+      "status": "存活",
+      "first_appearance": "前言",
+      "summary": "神秘黑袍人，与岳武霍同行，计划在落魂谷一网打尽。",
+      "appearance": [
+        "黑袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岳武霍",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "前言",
+          "event": "与岳武霍对话，计划在落魂谷行动。"
+        }
+      ],
+      "evidence": [
+        "几个一身黑袍的神秘人物出现在观潮",
+        "黑袍男低声道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "女童",
+      "aliases": [],
+      "identity": "血杆子杀手",
+      "faction": "血杆子",
+      "status": "存活",
+      "first_appearance": "前言",
+      "summary": "血杆子杀手，声音喑哑的女童，传达暗花消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“好好好，只要这一次能成功，一定能砍断水龙帮的一根胳膊，”楚三粗犷的脸上满脸兴奋，“要不是老子来找你喝酒，怎么能碰上这种好事",
-        "”    “我的眼珠，你敢——”    “我爹不会放过你的，水龙帮不会放过你的",
-        "水龙帮纵横东南六省三十载，恐怖与狠辣的名声是靠填人全家性命填出来的，已经很久很久，没有人敢这么做了"
+      "timeline": [
+        {
+          "stage": "前言",
+          "event": "传达暗花消息。"
+        }
       ],
-      "mention_count": 9
+      "evidence": [
+        "一个声音喑哑的女童开口道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "妖娆男人",
+      "aliases": [],
+      "identity": "血杆子杀手",
+      "faction": "血杆子",
+      "status": "存活",
+      "first_appearance": "前言",
+      "summary": "血杆子杀手，妖娆，捏着兰花指。",
+      "appearance": [
+        "妖娆"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "前言",
+          "event": "询问暗花插谁身。"
+        }
+      ],
+      "evidence": [
+        "一个妖娆的男人捏着兰花指"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵皮儿",
+      "aliases": [
+        "人皮狼"
+      ],
+      "identity": "水龙帮成员，狼族大长老之子",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "正文 第一百一十章 孤城计",
+      "summary": "水龙帮成员，狼族大长老之子，被寇立折磨后烧死。",
+      "appearance": [
+        "双手双脚被绑",
+        "下半身被烈火包裹",
+        "眼珠被挖"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "狼族大长老",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "落魂谷之战",
+          "event": "被寇立折磨并烧死。"
+        }
+      ],
+      "evidence": [
+        "赵皮儿被对方带出来了！",
+        "人皮狼赵皮儿"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "朱师傅",
+      "aliases": [
+        "朱师傅"
+      ],
+      "identity": "福城拳师",
+      "faction": "无",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十三章 二十四连击",
+      "summary": "福城拳术最厉害的拳师，被老太监逼迫传授二十四连环手。",
+      "appearance": [
+        "老人"
+      ],
+      "personality": [
+        "无奈",
+        "愤怒"
+      ],
+      "abilities": [
+        "二十四连环手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱小军",
+          "type": "祖孙"
+        },
+        {
+          "target": "老太监",
+          "type": "胁迫者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十日后",
+          "event": "被迫向寇立传授二十四连环手。"
+        }
+      ],
+      "evidence": [
+        "朱师傅眼中闪过一丝无奈愤怒之色",
+        "朱师傅沉声道"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "朱小军",
+      "aliases": [
+        "小军"
+      ],
+      "identity": "朱师傅之孙",
+      "faction": "无",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十三章 二十四连击",
+      "summary": "朱师傅的孙子，少年，不服寇立，被寇立搭手击飞。",
+      "appearance": [
+        "少年"
+      ],
+      "personality": [
+        "不服气"
+      ],
+      "abilities": [
+        "抖铃手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱师傅",
+          "type": "祖孙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十日后",
+          "event": "向寇立演示抖铃手，被寇立搭手击飞。"
+        }
+      ],
+      "evidence": [
+        "叫小军的少年不服气的看了寇立一眼",
+        "朱小军倒飞了出去"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "老太监",
+      "aliases": [],
+      "identity": "太监",
+      "faction": "未知主子",
+      "status": "存活",
+      "first_appearance": "正文 第一百一十三章 二十四连击",
+      "summary": "太监，奉主子之命带寇立来学拳，胁迫朱师傅。",
+      "appearance": [
+        "老人",
+        "面色黑青",
+        "没有喉结"
+      ],
+      "personality": [
+        "玩味"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同行"
+        },
+        {
+          "target": "朱师傅",
+          "type": "胁迫者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十日后",
+          "event": "带寇立到朱师傅处学拳。"
+        }
+      ],
+      "evidence": [
+        "老太监玩味的看着寇立",
+        "杂家可是太监"
+      ],
+      "mention_count": 3
     }
   ]
 }

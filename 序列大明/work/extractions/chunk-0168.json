@@ -1,255 +1,140 @@
 {
   "chunk_id": "chunk-0168",
-  "title": "第166章溅佛一身血",
   "characters": [
     {
-      "name": "慧银",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "慧银和尚一脸不耐烦，挥袖呵斥道：“众生皆苦，可佛祖却偏偏施恩于伱兄弟二人，这是何等的博爱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "慧银和尚一脸不耐烦，挥袖呵斥道：“众生皆苦，可佛祖却偏偏施恩于伱兄弟二人，这是何等的博爱",
-        "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-        "”　　慧银和尚被眼前这个恍如恶鬼的少年吓破了胆子，正要开口呼救，却突然感觉眉心一凉"
-      ],
-      "mention_count": 16
-    },
-    {
       "name": "周游",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "周施主",
+        "周游"
+      ],
+      "identity": "贫民窟出身，半人半械的改造人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第166章溅佛一身血",
-      "summary": "与此同时，一只形如蜻蜓的机械造物从周游衣领内爬出，爬伏在他的肩头微微震翅",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "与此同时，一只形如蜻蜓的机械造物从周游衣领内爬出，爬伏在他的肩头微微震翅",
-        "”　　此刻，慧银和尚终于察觉到了周游的异样，一股猛然寒意从脚底窜上心头",
-        "周游语气生硬，一张脸隐藏在兜帽之中，让人看不清楚脸上的表情"
+      "summary": "为了赎回被抵押在罗汉寺的弟弟周生，攒钱多年，最终持枪闯入罗汉寺。",
+      "appearance": [
+        "兜帽遮脸",
+        "爬满血丝的眼眸",
+        "嘴角狰狞笑意",
+        "半人半械的身体"
       ],
-      "mention_count": 9
+      "personality": [
+        "执着",
+        "愤怒",
+        "绝望",
+        "疯狂"
+      ],
+      "abilities": [],
+      "equipment": [
+        "枪",
+        "息蜓郎（机械造物）"
+      ],
+      "relationships": [
+        {
+          "target": "周生",
+          "type": "弟弟"
+        },
+        {
+          "target": "慧银和尚",
+          "type": "债主与债务人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "持枪闯入罗汉寺，威胁慧银和尚带他去找弟弟周生。"
+        },
+        {
+          "stage": "两年前",
+          "event": "在十八梯贫民窟兜售违禁品，被地痞抓住，割去五脏六腑，后被弟弟周生用香积钱换得械体保命。"
+        }
+      ],
+      "evidence": [
+        "周游语气生硬，一张脸隐藏在兜帽之中",
+        "周游缓缓抬头，一双爬满血丝的眼眸从阴影中浮现，还有嘴角那丝狰狞至极的笑意",
+        "今天就算是死，我也要溅这满寺佛陀一身血！"
+      ],
+      "mention_count": 20
     },
     {
       "name": "慧银和尚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "慧银",
+        "知客僧慧银和尚",
+        "小僧"
+      ],
+      "identity": "罗汉寺知客僧，负责放香积钱",
+      "faction": "罗汉寺",
       "status": "登场",
       "first_appearance": "第166章溅佛一身血",
-      "summary": "慧银和尚一脸不耐烦，挥袖呵斥道：“众生皆苦，可佛祖却偏偏施恩于伱兄弟二人，这是何等的博爱",
+      "summary": "罗汉寺的知客僧，利用职务之便压榨周游兄弟，最终被周游用枪威胁。",
+      "appearance": [],
+      "personality": [
+        "贪婪",
+        "虚伪",
+        "欺软怕硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "债主与债务人"
+        },
+        {
+          "target": "周生",
+          "type": "抵押物管理者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被周游用枪顶住额头，被迫带路去找周生。"
+        }
+      ],
+      "evidence": [
+        "慧银和尚一脸不耐烦，挥袖呵斥道",
+        "慧银和尚带着哭腔说道",
+        "慧银和尚被眼前这个恍如恶鬼的少年吓破了胆子"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "周生",
+      "aliases": [
+        "周生"
+      ],
+      "identity": "周游的弟弟，被抵押在罗汉寺",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第166章溅佛一身血",
+      "summary": "周游的弟弟，为了救周游将自己抵押给罗汉寺，目前在佛国中受罚。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "哥哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两年前",
+          "event": "为了救周游，将自己抵押给罗汉寺借香积钱。"
+        },
+        {
+          "stage": "当前",
+          "event": "在佛国中触怒比丘高僧，正在接受惩罚。"
+        }
+      ],
       "evidence": [
-        "慧银和尚一脸不耐烦，挥袖呵斥道：“众生皆苦，可佛祖却偏偏施恩于伱兄弟二人，这是何等的博爱",
-        "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-        "”　　慧银和尚被眼前这个恍如恶鬼的少年吓破了胆子，正要开口呼救，却突然感觉眉心一凉"
+        "我弟弟找你们罗汉寺借了香积钱，给我换了这一身械体",
+        "周生只能将自己作为抵押物",
+        "您的弟弟在佛国之中触怒了比丘高僧，现在正在接受惩罚"
       ],
       "mention_count": 8
-    },
-    {
-      "name": "所有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "“十方一切诸众生，二进有学及无学，一切如来与菩萨，所有功德皆随喜",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“十方一切诸众生，二进有学及无学，一切如来与菩萨，所有功德皆随喜",
-        "”　　“十方所有世间灯，最初构造佛国者，我今一切皆劝请，转于无上算力法",
-        "”　　在晚课结束之后，所有的低级僧众都要返回到寮房休息"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "周施主",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-        "“我只是个负责放香积钱的小沙弥，哪儿来的机会去极乐佛国”　　慧银和尚怒斥道：“周施主还请慎言，能够侍佛的机会何其难得，怎么能够抵押这么粗鄙的字眼",
-        "“果然是周施主您，小僧这几天夜夜都睡不安稳，生怕耽误了您的事情"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "周施",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-        "“我只是个负责放香积钱的小沙弥，哪儿来的机会去极乐佛国”　　慧银和尚怒斥道：“周施主还请慎言，能够侍佛的机会何其难得，怎么能够抵押这么粗鄙的字眼",
-        "“果然是周施主您，小僧这几天夜夜都睡不安稳，生怕耽误了您的事情"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "”　　一旦被负责寺庙安保的罗汉堂武僧发现，那他们可不会管你手里有没有人质，直接就进行物理超度",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一旦被负责寺庙安保的罗汉堂武僧发现，那他们可不会管你手里有没有人质，直接就进行物理超度",
-        "他们把我抓住，让我交出所有的钱和货",
-        "我不答应，他们就割了我的五脏六腑拿去卖钱"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "十方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "“十方一切诸众生，二进有学及无学，一切如来与菩萨，所有功德皆随喜",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“十方一切诸众生，二进有学及无学，一切如来与菩萨，所有功德皆随喜",
-        "”　　“十方所有世间灯，最初构造佛国者，我今一切皆劝请，转于无上算力法"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "转于",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "”　　“十方所有世间灯，最初构造佛国者，我今一切皆劝请，转于无上算力法",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“十方所有世间灯，最初构造佛国者，我今一切皆劝请，转于无上算力法"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "”　　“可是我好不容易终于攒够了钱，你们为什么还要逼压榨我，还要逼我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“可是我好不容易终于攒够了钱，你们为什么还要逼压榨我，还要逼我",
-        "可是我们兄弟二人无父无母，无亲无朋，哪来的什么担保人，所以周生只能将自己作为抵押物",
-        "”　　这种行为，可是触到了罗汉寺的底线"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "我也",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　慧银和尚带着哭腔说道：“周施主，我也是个苦命人啊",
-        "“周施主，所有的抵押物都存放在经堂之中，要是都在客头和尚的手中，我也进不去啊",
-        "“今天就算是死，我也要溅这满寺佛陀一身血"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "此刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第166章溅佛一身血",
-      "summary": "此刻慧银和尚脸上已经流露出明显的不耐烦，只听他冷哼一声道：“小僧已经说过了，施主您的弟弟在佛国之中触怒了比丘高僧，现在正在接受惩罚，只有用香火洗清罪孽，你兄弟二人才能相见",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此刻慧银和尚脸上已经流露出明显的不耐烦，只听他冷哼一声道：“小僧已经说过了，施主您的弟弟在佛国之中触怒了比丘高僧，现在正在接受惩罚，只有用香火洗清罪孽，你兄弟二人才能相见",
-        "”　　此刻，慧银和尚终于察觉到了周游的异样，一股猛然寒意从脚底窜上心头",
-        "”　　此刻慧银心中叫苦不迭，他原本只是打算从周游身上敲一笔钱出来，为自己弥补业绩上的欠缺"
-      ],
-      "mention_count": 3
     }
   ]
 }

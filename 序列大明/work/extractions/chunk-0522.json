@@ -1,257 +1,385 @@
 {
   "chunk_id": "chunk-0522",
-  "title": "第520章过关",
   "characters": [
     {
-      "name": "刘途",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第520章过关",
-      "summary": "刘途早已经等在其中，面带微笑的看着顾玺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "刘途早已经等在其中，面带微笑的看着顾玺",
-        "”　　顾玺恭敬站在门口，得到刘途的允许后方才跨过门槛",
-        "”　　刘途感叹一声，随即笑道：“不过这方梦境可不是我的，我不过也是这里的客人罢了"
-      ],
-      "mention_count": 32
-    },
-    {
-      "name": "顾玺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第520章过关",
-      "summary": "梦境的链接进入点被设置在一里地之外，足腕的积雪，让顾玺每一次抬脚都感觉颇为沉重，　　“就凭我是墨四，而你秦戈只是一个靠着溜须拍马上位的墨五",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "梦境的链接进入点被设置在一里地之外，足腕的积雪，让顾玺每一次抬脚都感觉颇为沉重，　　“就凭我是墨四，而你秦戈只是一个靠着溜须拍马上位的墨五",
-        "刘途早已经等在其中，面带微笑的看着顾玺",
-        "”　　顾玺恭敬站在门口，得到刘途的允许后方才跨过门槛"
-      ],
-      "mention_count": 26
-    },
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第520章过关",
-      "summary": "”　　“贪生怕死，李钧是武序匪徒，根本没有理智可言，你怎么知道他下一次不会调转枪头对准我们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“贪生怕死，李钧是武序匪徒，根本没有理智可言，你怎么知道他下一次不会调转枪头对准我们",
-        "如何让金陵刘家跟己方联手合作，让这些自诩聪明的读书人主动把自己的脖子送到李钧的刀下，为自己消耗对方的力气",
-        "李钧、刘途、顾知微，这些人里好像谁都不是单纯的笨蛋"
-      ],
-      "mention_count": 16
-    },
-    {
-      "name": "韩骧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第520章过关",
-      "summary": "”　　邹四九伪装的‘秦戈’此刻展现出一改往日的强势，可在韩骧的眼中也不过是贪生怕死之人费尽心思找个了冠冕堂皇的理由，好让自己的临阵脱逃变得名正言顺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　邹四九伪装的‘秦戈’此刻展现出一改往日的强势，可在韩骧的眼中也不过是贪生怕死之人费尽心思找个了冠冕堂皇的理由，好让自己的临阵脱逃变得名正言顺",
-        "原本韩骧准备给对方留一点面子，但既然这个废物如此不识趣，那自己也用不着继续忍让了",
-        "”　　韩骧不再去看那把插进地中的长枪，转身大步逼近邹四九"
-      ],
-      "mention_count": 13
-    },
-    {
       "name": "邹四九",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "秦戈"
+      ],
+      "identity": "十室成员，伪装成秦戈",
+      "faction": "兼爱所十室",
       "status": "登场",
       "first_appearance": "第520章过关",
-      "summary": "”　　邹四九伪装的‘秦戈’此刻展现出一改往日的强势，可在韩骧的眼中也不过是贪生怕死之人费尽心思找个了冠冕堂皇的理由，好让自己的临阵脱逃变得名正言顺",
+      "summary": "十室成员，伪装成秦戈与韩骧对峙，后成功脱身。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "强势",
+        "隐忍",
+        "狡猾"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "韩骧",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "伪装成秦戈与韩骧争吵，后离开现场。"
+        }
+      ],
       "evidence": [
-        "”　　邹四九伪装的‘秦戈’此刻展现出一改往日的强势，可在韩骧的眼中也不过是贪生怕死之人费尽心思找个了冠冕堂皇的理由，好让自己的临阵脱逃变得名正言顺",
-        "”　　韩骧不再去看那把插进地中的长枪，转身大步逼近邹四九",
-        "反观邹四九一方，一众下属眼神闪躲，虽然没有掉头就跑，但没胆子为自己的上司摇旗助阵"
+        "邹四九伪装的‘秦戈’此刻展现出一改往日的强势",
+        "邹四九愤然转身，一把推开挡路的九室成员。"
       ],
       "mention_count": 10
     },
     {
-      "name": "邹四",
+      "name": "韩骧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "九室成员，墨四",
+      "faction": "兼爱所九室",
       "status": "登场",
       "first_appearance": "第520章过关",
-      "summary": "”　　邹四九伪装的‘秦戈’此刻展现出一改往日的强势，可在韩骧的眼中也不过是贪生怕死之人费尽心思找个了冠冕堂皇的理由，好让自己的临阵脱逃变得名正言顺",
+      "summary": "九室成员，墨四序列，与邹四九发生冲突。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　邹四九伪装的‘秦戈’此刻展现出一改往日的强势，可在韩骧的眼中也不过是贪生怕死之人费尽心思找个了冠冕堂皇的理由，好让自己的临阵脱逃变得名正言顺",
-        "”　　韩骧不再去看那把插进地中的长枪，转身大步逼近邹四九",
-        "反观邹四九一方，一众下属眼神闪躲，虽然没有掉头就跑，但没胆子为自己的上司摇旗助阵"
+      "personality": [
+        "嚣张",
+        "轻蔑",
+        "强势"
       ],
-      "mention_count": 7
+      "abilities": [],
+      "equipment": [
+        "长枪"
+      ],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "敌对"
+        },
+        {
+          "target": "荣麓",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邹四九争吵，试图独揽任务。"
+        }
+      ],
+      "evidence": [
+        "韩骧冷笑道：“就凭我是墨四，而你秦戈只是一个靠着溜须拍马上位的墨五！”",
+        "韩骧将邹四九脸上一闪而逝的异样神情看得清清楚楚"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "脸上",
+      "name": "顾玺",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "成都县县令",
+      "faction": "顾家",
       "status": "登场",
       "first_appearance": "第520章过关",
-      "summary": "”　　邹四九被九室人员团团围在中间，脸上恰好好处闪过一丝惧意和羞怒，梗着脖子吼道：“这不是抢功是什么，这不是抗命是什么",
+      "summary": "成都县县令，顾家子弟，为求自保而投靠刘途。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "聪明",
+        "有野心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　邹四九被九室人员团团围在中间，脸上恰好好处闪过一丝惧意和羞怒，梗着脖子吼道：“这不是抢功是什么，这不是抗命是什么",
-        "”　　韩骧将邹四九脸上一闪而逝的异样神情看得清清楚楚，眼中的不屑更加明显，弹出一根手指戳着邹四九的胸膛",
-        "”　　刘途闻言，脸上的笑意缓缓敛去，微沉的眼神静静看着顾玺"
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "下属"
+        },
+        {
+          "target": "阎老板",
+          "type": "联络人"
+        },
+        {
+          "target": "顾知微",
+          "type": "家族长辈"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在刘途的梦境书房中汇报消息。"
+        }
+      ],
+      "evidence": [
+        "顾玺恭敬站在门口，得到刘途的允许后方才跨过门槛。",
+        "顾玺如实回答道：“当时原成都县县令裴行俭大人奉命升任重庆府知府，由我来接任他的空缺。”"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "恐怕",
+      "name": "刘途",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "刘阀成员，吏部官员",
+      "faction": "刘阀",
       "status": "登场",
       "first_appearance": "第520章过关",
-      "summary": "要是让真秦戈听到，恐怕都会当场跟他翻脸，更别说现在的‘秦戈’是邹四九",
+      "summary": "刘阀成员，吏部官员，与李钧合作除掉郑继之。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "要是让真秦戈听到，恐怕都会当场跟他翻脸，更别说现在的‘秦戈’是邹四九",
-        "他是什么意见，恐怕不会甘心就这样将你调回金陵吧",
-        "酒肆内装潢算不上贵气，甚至有些粗糙简陋，晃眼看来，恐怕只有店名还算的上有几分味道"
+      "personality": [
+        "深沉",
+        "老谋深算",
+        "残忍"
       ],
-      "mention_count": 6
+      "abilities": [
+        "操控梦境"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "上级"
+        },
+        {
+          "target": "李钧",
+          "type": "合作"
+        },
+        {
+          "target": "刘典",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在梦境书房中接见顾玺，得知郑继之已死。"
+        }
+      ],
+      "evidence": [
+        "刘途早已经等在其中，面带微笑的看着顾玺。",
+        "刘途闻言，脸上的笑意缓缓敛去，微沉的眼神静静看着顾玺。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
+      "name": "李钧",
+      "aliases": [
+        "钧哥"
+      ],
+      "identity": "武序匪徒，序四薪主",
       "faction": "",
       "status": "登场",
       "first_appearance": "第520章过关",
-      "summary": "“韩骧你不要欺人太甚，你眼里到底还有没有荣大人，还有没有刘长老",
+      "summary": "武序匪徒，序四薪主，与刘途合作，计划对付刘典。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“韩骧你不要欺人太甚，你眼里到底还有没有荣大人，还有没有刘长老",
-        "“还有外人",
-        "还有，他说如果您办不好，那他就会把您这位朋友办的妥妥贴贴"
+      "personality": [
+        "狡猾",
+        "心机深沉",
+        "谨慎"
       ],
-      "mention_count": 6
+      "abilities": [
+        "震虏庭武学"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "合作"
+        },
+        {
+          "target": "刘途",
+          "type": "合作"
+        },
+        {
+          "target": "刘典",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在狮子山下等待邹四九的消息，后进入酒肆。"
+        }
+      ],
+      "evidence": [
+        "李钧眺望着如墨色晕开的穹顶",
+        "李钧压低头上斗笠般的圆帽，迈步汇入人群。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "这一次",
+      "name": "沈笠",
       "aliases": [],
-      "identity": "",
+      "identity": "门派武四",
       "faction": "",
       "status": "登场",
       "first_appearance": "第520章过关",
-      "summary": "“荣麓大人说的很清楚，这一次的任务是你和我共同完成",
-      "appearance": [],
+      "summary": "门派武四，在酒肆中主动与李钧搭话。",
+      "appearance": [
+        "英俊"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“荣麓大人说的很清楚，这一次的任务是你和我共同完成",
-        "这一次大人为什么让我九室参与这项任务，其中的缘由伱要是不明白，我现在就可以告诉你，因为你们十室的废物靠不住"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "主动结识"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在英雄座酒肆中向李钧自我介绍。"
+        }
+      ],
+      "evidence": [
+        "不请自来的年轻武夫对着李钧拱手抱拳，脸上笑容灿烂。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "而是",
+      "name": "荣麓",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "兼爱所上级",
+      "faction": "兼爱所",
+      "status": "提及",
       "first_appearance": "第520章过关",
-      "summary": "”　　“韩骧，我今天不是怕你，而是不想兼爱所出现内斗，传出去引人嘲笑",
+      "summary": "兼爱所上级，负责协调九室和十室的任务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "韩骧",
+          "type": "上级"
+        },
+        {
+          "target": "邹四九",
+          "type": "上级"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“韩骧，我今天不是怕你，而是不想兼爱所出现内斗，传出去引人嘲笑",
-        "“不是我英明，而是如今的顾家摆明了是将你当作了下注新政的唯一筹码，怎么可能会轻易放弃",
-        "从郑继之的淫宴场离开之后，李钧并没有走远，而是就待在与之相隔不远的地方"
+        "荣麓大人说的很清楚，这一次的任务是你和我共同完成！"
       ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
-      "name": "我现",
+      "name": "刘典",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "刘阀嫡系子弟",
+      "faction": "刘阀",
+      "status": "提及",
       "first_appearance": "第520章过关",
-      "summary": "”　　韩骧冷笑道：“信不信我现在杀了你，也没有一个人敢说是我做的",
+      "summary": "刘阀嫡系子弟，与刘途敌对，其左膀右臂郑继之被杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "敌对"
+        },
+        {
+          "target": "郑继之",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　韩骧冷笑道：“信不信我现在杀了你，也没有一个人敢说是我做的",
-        "“我现在怀疑你根本就是为了一己私利，想要立功上位，所以意图故意激发事态，置整个兼爱所，甚至整個中院的利益于不顾",
-        "这一次大人为什么让我九室参与这项任务，其中的缘由伱要是不明白，我现在就可以告诉你，因为你们十室的废物靠不住"
+        "刘典在金陵城内的左膀右臂——郑继之，已经被砍断。"
       ],
-      "mention_count": 5
+      "mention_count": 3
+    },
+    {
+      "name": "郑继之",
+      "aliases": [],
+      "identity": "刘典的代理人",
+      "faction": "刘阀",
+      "status": "已死",
+      "first_appearance": "第520章过关",
+      "summary": "刘典的代理人，被李钧和刘途联手除掉。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘典",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已死。"
+        }
+      ],
+      "evidence": [
+        "郑继之这个老滑头...现在这只扰人的苍蝇终于消失了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "阎老板",
+      "aliases": [],
+      "identity": "武序人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第520章过关",
+      "summary": "武序人物，与刘途合作，通过顾玺传递消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "联络人"
+        },
+        {
+          "target": "刘途",
+          "type": "合作"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "阎老板让我给您带句话，他答应朋友的事情，已经办妥了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "顾知微",
+      "aliases": [],
+      "identity": "顾家前任家主，工部致仕",
+      "faction": "顾家",
+      "status": "提及",
+      "first_appearance": "第520章过关",
+      "summary": "顾家前任家主，从工部致仕，将顾玺作为下注新政的筹码。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "家族长辈"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我记得如今顾家的家主是不久前才从工部致仕的顾知微顾大人吧？"
+      ],
+      "mention_count": 1
     }
   ]
 }

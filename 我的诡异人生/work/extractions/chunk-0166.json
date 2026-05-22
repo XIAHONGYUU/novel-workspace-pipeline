@@ -1,256 +1,223 @@
 {
   "chunk_id": "chunk-0166",
-  "title": "第165章 发鞭",
   "characters": [
     {
       "name": "康雄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "戒律长老",
+        "戒律院主",
+        "上师"
+      ],
+      "identity": "戒律院长老",
+      "faction": "寺庙戒律院",
       "status": "登场",
       "first_appearance": "第165章 发鞭",
-      "summary": "第165章 发鞭　　康雄匆匆离开戒律院主殿，　　一路上遇到僧众驻步向他行礼，却是丝毫没有回应，脸上阴云密布，仿佛能拧出水来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第165章 发鞭　　康雄匆匆离开戒律院主殿，　　一路上遇到僧众驻步向他行礼，却是丝毫没有回应，脸上阴云密布，仿佛能拧出水来",
-        "坐在蒲团上的康雄拽下头顶僧帽，露出脑袋上一层青黑的寸发，他脸色狰狞，猛然间一掌按在身前的桌案上",
-        "桌子上的油灯倾倒，灯油溅落在康雄的僧袍上，形成污黄的渍印"
+      "summary": "戒律院长老，修炼邪法，奉养‘黑身白手瑜伽母’，因佛子被大雪山选中而暴怒。",
+      "appearance": [
+        "头顶青黑寸发",
+        "僧袍"
       ],
-      "mention_count": 25
+      "personality": [
+        "暴戾",
+        "残忍",
+        "喜怒无常"
+      ],
+      "abilities": [
+        "秘密灌顶",
+        "使用发鞭"
+      ],
+      "equipment": [
+        "雪白骨骼法器",
+        "发鞭"
+      ],
+      "relationships": [
+        {
+          "target": "广善",
+          "type": "弟子"
+        },
+        {
+          "target": "广言",
+          "type": "弟子"
+        },
+        {
+          "target": "广喻",
+          "type": "弟子"
+        },
+        {
+          "target": "佛子",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因佛子被大雪山选中而愤怒，鞭打广喻。"
+        }
+      ],
+      "evidence": [
+        "康雄匆匆离开戒律院主殿",
+        "康雄喘着粗气，双眼的眼仁渐渐扩大，漆黑色弥漫盖过了眼白的部分。",
+        "康雄怒声吼叫，眼睛里如同在喷火一般"
+      ],
+      "mention_count": 30
     },
     {
       "name": "广喻",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "红衣大僧侣",
+      "faction": "寺庙戒律院",
       "status": "登场",
       "first_appearance": "第165章 发鞭",
-      "summary": "把广善、广言、广喻都给我叫过来",
-      "appearance": [],
-      "personality": [],
+      "summary": "康雄的弟子之一，负责监视佛子，因失职被康雄鞭打。",
+      "appearance": [
+        "红衣僧袍"
+      ],
+      "personality": [
+        "媚上",
+        "讨好"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "把广善、广言、广喻都给我叫过来",
-        "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚"
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "上师"
+        },
+        {
+          "target": "广善",
+          "type": "同门"
+        },
+        {
+          "target": "广言",
+          "type": "同门"
+        }
       ],
-      "mention_count": 18
+      "evidence": [
+        "一向擅于媚上讨好的广喻低眉顺眼",
+        "广喻趴在地上，连声惨呼着，向康雄求饶"
+      ],
+      "mention_count": 12
     },
     {
       "name": "广善",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "红衣大僧侣",
+      "faction": "寺庙戒律院",
       "status": "登场",
       "first_appearance": "第165章 发鞭",
-      "summary": "把广善、广言、广喻都给我叫过来",
-      "appearance": [],
+      "summary": "康雄的弟子之一，协助康雄按住广喻。",
+      "appearance": [
+        "红衣僧袍"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "把广善、广言、广喻都给我叫过来",
-        "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚"
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "上师"
+        },
+        {
+          "target": "广喻",
+          "type": "同门"
+        },
+        {
+          "target": "广言",
+          "type": "同门"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "广善、广言二人战战兢兢地走过来，按着广喻的肩膀"
+      ],
+      "mention_count": 6
     },
     {
       "name": "广言",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "红衣大僧侣",
+      "faction": "寺庙戒律院",
       "status": "登场",
       "first_appearance": "第165章 发鞭",
-      "summary": "把广善、广言、广喻都给我叫过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "把广善、广言、广喻都给我叫过来",
-        "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚"
+      "summary": "康雄的弟子之一，协助康雄按住广喻。",
+      "appearance": [
+        "红衣僧袍"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "眼睛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第165章 发鞭",
-      "summary": "康雄脖颈上遍布淤青，　　他大口大口喘着气，　　眼睛里满是劫后余生的庆幸",
-      "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "康雄脖颈上遍布淤青，　　他大口大口喘着气，　　眼睛里满是劫后余生的庆幸",
-        "“如不是你的人做这些好事，　　连监视佛子阅览经卷，你的人都监视不住，　　眼睛都瞎了",
-        "”　　康雄怒声吼叫，眼睛里如同在喷火一般，恶狠狠盯着地上恐惧颤栗的三人"
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "上师"
+        },
+        {
+          "target": "广善",
+          "type": "同门"
+        },
+        {
+          "target": "广喻",
+          "type": "同门"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "戒律长",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第165章 发鞭",
-      "summary": "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚",
-        "“非是弟子不去……”小黄衣僧露出为难之色，犹疑片刻，还是鼓起勇气，向屋内的康雄回话道，“长老，您蓄养的明妃已经没有八位了，　　只剩下六人……”　　明明昨日戒律长老才消耗过一位明妃，　　当时他还记得自己只剩下六位明妃"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "佛子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第165章 发鞭",
-      "summary": "“佛子……佛子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“佛子……佛子",
-        "“佛子",
-        "佛子"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "小黄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第165章 发鞭",
-      "summary": "”　　门外的小黄衣僧连忙应声，　　一阵脚步声从门外响起，渐渐远去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　门外的小黄衣僧连忙应声，　　一阵脚步声从门外响起，渐渐远去",
-        "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "小黄衣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第165章 发鞭",
-      "summary": "”　　门外的小黄衣僧连忙应声，　　一阵脚步声从门外响起，渐渐远去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　门外的小黄衣僧连忙应声，　　一阵脚步声从门外响起，渐渐远去",
-        "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚"
+        "广善、广言二人战战兢兢地走过来，按着广喻的肩膀"
       ],
       "mention_count": 5
     },
     {
       "name": "小黄衣僧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "伺候康雄日常起居的年轻僧人",
+      "faction": "寺庙戒律院",
       "status": "登场",
       "first_appearance": "第165章 发鞭",
-      "summary": "”　　门外的小黄衣僧连忙应声，　　一阵脚步声从门外响起，渐渐远去",
-      "appearance": [],
-      "personality": [],
+      "summary": "康雄的侍者，负责传话和日常事务。",
+      "appearance": [
+        "黄衣"
+      ],
+      "personality": [
+        "战战兢兢"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　门外的小黄衣僧连忙应声，　　一阵脚步声从门外响起，渐渐远去",
-        "小黄衣僧的声音随之响起：“戒律长老，广善、广言、广喻三位上师已经过来了",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚"
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "侍奉"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "守候在门外，一直伺候他日常起居的年轻黄衣僧",
+        "小黄衣僧神色迟疑不定"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "他们",
+      "name": "佛子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "佛子",
+      "faction": "寺庙",
+      "status": "提及",
       "first_appearance": "第165章 发鞭",
-      "summary": "”　　“让他们都进来",
+      "summary": "被大雪山使僧考校修行并选中，康雄因他而愤怒。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“让他们都进来",
-        "”　　门外，　　广善、广言、广喻三个红衣僧侣，本都是一脸忐忑之色，他们听送信的小黄衣僧说了，戒律长老脸色不对，便以为对方召自己三人过来，必有一番责问与惩罚",
-        "对于上师的任何命令，他们都不敢有丝毫违逆之心，否则便要堕入金刚地狱，永世不得超生"
+      "personality": [
+        "贪玩",
+        "怠惰修行"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "弟子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第165章 发鞭",
-      "summary": "“非是弟子不去……”小黄衣僧露出为难之色，犹疑片刻，还是鼓起勇气，向屋内的康雄回话道，“长老，您蓄养的明妃已经没有八位了，　　只剩下六人……”　　明明昨日戒律长老才消耗过一位明妃，　　当时他还记得自己只剩下六位明妃",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "领悟‘遮跋陀转轮加持心咒’"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "敌对"
+        }
+      ],
       "evidence": [
-        "“非是弟子不去……”小黄衣僧露出为难之色，犹疑片刻，还是鼓起勇气，向屋内的康雄回话道，“长老，您蓄养的明妃已经没有八位了，　　只剩下六人……”　　明明昨日戒律长老才消耗过一位明妃，　　当时他还记得自己只剩下六位明妃",
-        "弟子令几个黄衣僧监视他，　　那些黄衣僧日日回来向弟子报告，　　说他从不修行诸部正经，甚至连经卷都看得很少，　　只读一些带有图画的书册",
-        "是以，弟子觉得，这位佛子却是成不了大器的，想必在使僧那里，亦未讨得好处"
+        "今日，大雪山来的使僧考校佛子修行",
+        "他又怎会从经卷中领悟‘遮跋陀转轮加持心咒’"
       ],
       "mention_count": 5
     }

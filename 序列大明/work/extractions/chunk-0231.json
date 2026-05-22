@@ -1,253 +1,168 @@
 {
   "chunk_id": "chunk-0231",
-  "title": "第229章道士上山",
   "characters": [
     {
       "name": "陈乞生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "陈天师",
+        "年轻道人",
+        "小道"
+      ],
+      "identity": "道门龙虎集团‘斗部’天师，黄粱祖庭‘白玉京’仙班候补人仙，老派修士",
+      "faction": "道门龙虎集团",
       "status": "登场",
       "first_appearance": "第229章道士上山",
-      "summary": "宽敞明亮的轿梯内只有陈乞生一个人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "宽敞明亮的轿梯内只有陈乞生一个人",
-        "张汝贞推诿扯皮的功法显然也是炉火纯青，话语之间根本滴水不漏，反倒是将‘道心不仁、办事不力’脏水泼到了陈乞生身上",
-        "陈乞生似乎当真感同身受，一脸义愤道：“如今的朝廷当真是风气不正，秦王如此贤明的王爷，居然也要受到如此不公的待遇"
+      "summary": "道门龙虎集团斗部天师，奉斗部天君之命拜会秦王，与张汝贞进行政治交涉。",
+      "appearance": [
+        "身姿修长，眉眼英挺",
+        "身穿青色道袍，头戴白玉道冠，金钗束道髻"
       ],
-      "mention_count": 11
+      "personality": [
+        "慵懒",
+        "义愤",
+        "不以为然"
+      ],
+      "abilities": [],
+      "equipment": [
+        "青色道袍",
+        "白玉道冠",
+        "金钗"
+      ],
+      "relationships": [
+        {
+          "target": "张汝贞",
+          "type": "对话对手"
+        },
+        {
+          "target": "秦王",
+          "type": "拜会对象"
+        },
+        {
+          "target": "李钧",
+          "type": "想起"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘坐轿梯上洪崖山，与秦王府总管张汝贞会面，讨论秦王受困及道门立场。"
+        }
+      ],
+      "evidence": [
+        "道门龙虎集团‘斗部’天师，黄粱祖庭‘白玉京’仙班候补人仙，老派修士陈乞生，见过秦王府张总管。",
+        "陈乞生正色道：“进山拜神，进观烧香，这是礼节所在。所以小道这次是奉‘斗部’天君之命，特来拜会秦王殿下。”",
+        "出现在镜中的人影身姿修长，眉眼英挺。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "张汝贞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张总管",
+        "张总管"
+      ],
+      "identity": "秦王府总管，太监",
+      "faction": "秦王府",
       "status": "登场",
       "first_appearance": "第229章道士上山",
-      "summary": "张汝贞推诿扯皮的功法显然也是炉火纯青，话语之间根本滴水不漏，反倒是将‘道心不仁、办事不力’脏水泼到了陈乞生身上",
+      "summary": "秦王府总管，太监，与陈乞生进行政治对话，言语滴水不漏。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "滴水不漏",
+        "冷笑",
+        "嘲弄"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张汝贞推诿扯皮的功法显然也是炉火纯青，话语之间根本滴水不漏，反倒是将‘道心不仁、办事不力’脏水泼到了陈乞生身上",
-        "张汝贞静静等着眼前的年轻道人报完自己冗长的头衔，这才上前伸手扶住对方的行礼手肘",
-        "张汝贞冷笑一声，“现在转头就责怪起王爷拉偏架"
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "对话对手"
+        },
+        {
+          "target": "秦王",
+          "type": "下属"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在秦王府接待陈乞生，讨论秦王受困及道门立场。"
+        }
+      ],
+      "evidence": [
+        "张汝贞推诿扯皮的功法显然也是炉火纯青，话语之间根本滴水不漏",
+        "张汝贞冷笑一声，“现在转头就责怪起王爷拉偏架？”",
+        "张汝贞呷了一口茶水，面无表情道：“咱们两人，一个是身陷世俗的阉人，一个是超然物外的道人。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "陈乞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "秦王",
+      "aliases": [
+        "王爷",
+        "秦王殿下"
+      ],
+      "identity": "皇室藩王",
+      "faction": "皇室",
+      "status": "提及",
       "first_appearance": "第229章道士上山",
-      "summary": "宽敞明亮的轿梯内只有陈乞生一个人",
+      "summary": "受困于宅邸，受宗人府监控限制的藩王，道门欲助其脱离樊笼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "宽敞明亮的轿梯内只有陈乞生一个人",
-        "张汝贞推诿扯皮的功法显然也是炉火纯青，话语之间根本滴水不漏，反倒是将‘道心不仁、办事不力’脏水泼到了陈乞生身上",
-        "陈乞生似乎当真感同身受，一脸义愤道：“如今的朝廷当真是风气不正，秦王如此贤明的王爷，居然也要受到如此不公的待遇"
+      "relationships": [
+        {
+          "target": "张汝贞",
+          "type": "主仆"
+        },
+        {
+          "target": "陈乞生",
+          "type": "拜会对象"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被宗人府巡察限制，无法脱身。"
+        }
+      ],
+      "evidence": [
+        "堂堂皇室藩王受困在这座小小的宅邸之中，行为言语都要受到宗人府的监控和限制",
+        "王爷此番限制行走人数，本意是为了防止事态进一步扩大",
+        "最近京城那边的宗人府不知道哪根筋不对，天天不定时不定点的巡察王府"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "张汝",
+      "name": "李钧",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第229章道士上山",
-      "summary": "张汝贞推诿扯皮的功法显然也是炉火纯青，话语之间根本滴水不漏，反倒是将‘道心不仁、办事不力’脏水泼到了陈乞生身上",
+      "summary": "陈乞生突然想起的人物，背景不详。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张汝贞推诿扯皮的功法显然也是炉火纯青，话语之间根本滴水不漏，反倒是将‘道心不仁、办事不力’脏水泼到了陈乞生身上",
-        "”　　张汝真噢的一声，脸上露出遗憾的神情",
-        "张汝贞静静等着眼前的年轻道人报完自己冗长的头衔，这才上前伸手扶住对方的行礼手肘"
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "被想起"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "天师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "”　　“天师的心情咱家能够理解，但咱家提醒你一句，最好还是慎言",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“天师的心情咱家能够理解，但咱家提醒你一句，最好还是慎言",
-        "”　　“陈天师你这一次上洪崖山，不知道是所为何事啊",
-        "”　　“陈天师实在太客气了，秦王府和龙虎集团一直以来的关系都很不错，天师到这里大可以跟回家一样，这些客套就免了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈乞生想起。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "小道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "”　　“张总管刚才问了小道一个问题，说帮助王爷脱离樊笼这种话，到底是出自谁的授意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　“张总管刚才问了小道一个问题，说帮助王爷脱离樊笼这种话，到底是出自谁的授意",
-        "“张总管言重了，既然有宗人府巡察，小道自然不能再给王爷添麻烦",
-        "所以小道这次是奉‘斗部’天君之命，特来拜会秦王殿下"
+        "没来由的，陈乞生突然想起了李钧。"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这些",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "”　　“陈天师实在太客气了，秦王府和龙虎集团一直以来的关系都很不错，天师到这里大可以跟回家一样，这些客套就免了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“陈天师实在太客气了，秦王府和龙虎集团一直以来的关系都很不错，天师到这里大可以跟回家一样，这些客套就免了",
-        "”　　机械肢体、慧根道基、农家药剂.　　就算买不起这些成为人上人的敲门砖，这里还有满足心灵需求的佛堂和精舍，以及放纵欲望的黄粱馆子",
-        "相比之下，他还是喜欢跟这些武夫打交道，能谈就谈，不能谈就打，直来直往，根本没有这么多的弯弯绕绕"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "半阖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "道人神情慵懒的依靠着厢壁，半阖着眼睛打量着脚下一层一层展开，彼此之间看似相似，却又泾渭分明的洪崖山世界",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "道人神情慵懒的依靠着厢壁，半阖着眼睛打量着脚下一层一层展开，彼此之间看似相似，却又泾渭分明的洪崖山世界"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "欲望",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "随着楼层缓缓拔高，欲望也在节节攀升",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着楼层缓缓拔高，欲望也在节节攀升",
-        "”　　机械肢体、慧根道基、农家药剂.　　就算买不起这些成为人上人的敲门砖，这里还有满足心灵需求的佛堂和精舍，以及放纵欲望的黄粱馆子"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "张总",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "”　　“张总管刚才问了小道一个问题，说帮助王爷脱离樊笼这种话，到底是出自谁的授意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“张总管刚才问了小道一个问题，说帮助王爷脱离樊笼这种话，到底是出自谁的授意",
-        "“张总管言重了，既然有宗人府巡察，小道自然不能再给王爷添麻烦",
-        "”　　“张总管教训的是，是小道我口不择言了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "张总管",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "”　　“张总管刚才问了小道一个问题，说帮助王爷脱离樊笼这种话，到底是出自谁的授意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“张总管刚才问了小道一个问题，说帮助王爷脱离樊笼这种话，到底是出自谁的授意",
-        "“张总管言重了，既然有宗人府巡察，小道自然不能再给王爷添麻烦",
-        "”　　“张总管教训的是，是小道我口不择言了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第229章道士上山",
-      "summary": "张汝贞静静等着眼前的年轻道人报完自己冗长的头衔，这才上前伸手扶住对方的行礼手肘",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张汝贞静静等着眼前的年轻道人报完自己冗长的头衔，这才上前伸手扶住对方的行礼手肘"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

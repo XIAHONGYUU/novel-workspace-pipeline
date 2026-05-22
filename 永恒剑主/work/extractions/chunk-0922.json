@@ -1,257 +1,232 @@
 {
   "chunk_id": "chunk-0922",
-  "title": "第九百一十七章 超脱（下）",
   "characters": [
-    {
-      "name": "天音",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "”　　天音龙王再度对着林新一指",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　天音龙王再度对着林新一指",
-        "天音面色隐隐有些发白起来",
-        "”　　最后一指，天音食指点出得分外吃力"
-      ],
-      "mention_count": 18
-    },
-    {
-      "name": "九色",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "天音挥手洒出白光，九色从中迅速走出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天音挥手洒出白光，九色从中迅速走出",
-        "”九色点头，此时他完全没有以前那样的狂傲和冷酷",
-        "但无论是九色，还是方狱，亦或者她，都已经没有了所谓的敌我界限"
-      ],
-      "mention_count": 17
-    },
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "被黑宇宙毁灭意志加持的强者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "”　　天音龙王再度对着林新一指",
+      "summary": "被天音龙王用介音四法封印，后挣脱，最终撞入超脱之门。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "属性点强化",
+        "黑宇宙毁灭意志加持",
+        "高密度压缩体"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "天音龙王",
+          "type": "对手"
+        },
+        {
+          "target": "九色",
+          "type": "对手"
+        },
+        {
+          "target": "方狱",
+          "type": "对手"
+        },
+        {
+          "target": "神祖烟乃亚",
+          "type": "被封印对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被天音龙王封印，后挣脱，最终撞入超脱之门。"
+        }
+      ],
       "evidence": [
-        "”　　天音龙王再度对着林新一指",
-        "刹那间林新周围的所有气味完全消失",
-        "但面对此时的林新，本身就已经被属性点强化到一个匪夷所思地步的他，再加上黑宇宙的毁灭意志加持"
+        "天音龙王再度对着林新一指。",
+        "被封印的林新猛地狂吼起来，居然在这关键时刻就要挣脱天音的介音四法。",
+        "林新双眼骤然恢复了一瞬的清明，完全控制身体，狠狠朝着超脱之门撞去。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "天音龙王",
+      "aliases": [
+        "天音"
+      ],
+      "identity": "龙王，施展介音四法者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第九百一十七章 超脱（下）",
+      "summary": "施展介音四法封印林新，后与其他道祖合力轰击锻天经盘，打开超脱之门并进入。",
+      "appearance": [],
+      "personality": [
+        "决然"
+      ],
+      "abilities": [
+        "介音四法",
+        "湮灭力量"
+      ],
+      "equipment": [
+        "幻意刀"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "对手"
+        },
+        {
+          "target": "九色",
+          "type": "合作者"
+        },
+        {
+          "target": "方狱",
+          "type": "合作者"
+        },
+        {
+          "target": "神祖烟乃亚",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "施展介音四法封印林新，后与其他道祖合力轰击锻天经盘，打开超脱之门并进入。"
+        }
+      ],
+      "evidence": [
+        "天音龙王再度对着林新一指。",
+        "天音挥手洒出白光，九色从中迅速走出。",
+        "天音龙王第二个断开光柱，冲入门扉。"
       ],
       "mention_count": 12
     },
     {
+      "name": "九色",
+      "aliases": [],
+      "identity": "道祖",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第九百一十七章 超脱（下）",
+      "summary": "与天音龙王、方狱合作，燃烧神魂轰击锻天经盘，后进入超脱之门。",
+      "appearance": [],
+      "personality": [
+        "冰冷",
+        "决然"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "天音龙王",
+          "type": "合作者"
+        },
+        {
+          "target": "方狱",
+          "type": "合作者"
+        },
+        {
+          "target": "林新",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与天音龙王、方狱合作，燃烧神魂轰击锻天经盘，后进入超脱之门。"
+        }
+      ],
+      "evidence": [
+        "九色从中迅速走出。",
+        "九色和方狱已经燃烧掉了自己大部分的神魂，但此时也是面露癫狂之色，飞扑进大门。"
+      ],
+      "mention_count": 8
+    },
+    {
       "name": "方狱",
       "aliases": [],
-      "identity": "",
+      "identity": "道祖",
       "faction": "",
       "status": "登场",
       "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "”方狱的声音从混沌中透出来",
+      "summary": "去而复返，与天音龙王、九色合作，燃烧神魂轰击锻天经盘，后进入超脱之门。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”方狱的声音从混沌中透出来",
-        "但无论是九色，还是方狱，亦或者她，都已经没有了所谓的敌我界限",
-        "”　　方狱沉声道"
+      "relationships": [
+        {
+          "target": "天音龙王",
+          "type": "合作者"
+        },
+        {
+          "target": "九色",
+          "type": "合作者"
+        },
+        {
+          "target": "林新",
+          "type": "对手"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "天音龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "”　　天音龙王再度对着林新一指",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "去而复返，与天音龙王、九色合作，燃烧神魂轰击锻天经盘，后进入超脱之门。"
+        }
+      ],
       "evidence": [
-        "”　　天音龙王再度对着林新一指",
-        "天音龙王眼中狠色一闪",
-        "”　　天音龙王沉声道"
+        "方狱的声音从混沌中透出来。",
+        "方狱也闭上眼，重重应下。",
+        "九色和方狱已经燃烧掉了自己大部分的神魂，但此时也是面露癫狂之色，飞扑进大门。"
       ],
       "mention_count": 8
     },
     {
-      "name": "天音龙王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "”　　天音龙王再度对着林新一指",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　天音龙王再度对着林新一指",
-        "天音龙王眼中狠色一闪",
-        "”　　天音龙王沉声道"
+      "name": "神祖烟乃亚",
+      "aliases": [
+        "烟乃亚"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
+      "identity": "神祖",
       "faction": "",
       "status": "登场",
       "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "”　　这是第三指",
+      "summary": "未死，以无数世界丝带封印林新，第一个投身超脱之门。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这是第三指",
-        "这是前所未有的最好机会",
-        "到了如今这个地步，介音四法是天音龙王最后的法门，这是只能对任何一个生命体都只能使用一次的恐怖法决"
+      "abilities": [
+        "接引深渊，化为封印束缚",
+        "操控无数世界丝带"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "此时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "但面对此时的林新，本身就已经被属性点强化到一个匪夷所思地步的他，再加上黑宇宙的毁灭意志加持",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但面对此时的林新，本身就已经被属性点强化到一个匪夷所思地步的他，再加上黑宇宙的毁灭意志加持",
-        "就算是她，此时也无法再轻松自如的施展第三指",
-        "要不是此时的林新根本杀不死，她就凭这一招，就能轻而易举毁掉对方"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "封印者"
+        },
+        {
+          "target": "天音龙王",
+          "type": "合作者"
+        },
+        {
+          "target": "九色",
+          "type": "合作者"
+        },
+        {
+          "target": "方狱",
+          "type": "合作者"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "他们全部人追求的，其实就只有一个",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他们全部人追求的，其实就只有一个",
-        "若是一般道祖有这样的程度，其实也就是个星云层次"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以世界丝带封印林新，第一个投身超脱之门。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "他居然去而复返",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他居然去而复返",
-        "”　　就在这时，被封印的林新猛地狂吼起来，居然在这关键时刻就要挣脱天音的介音四法",
-        "介音四法这种能镇压星座道祖的力量，居然也压不住他了"
+        "神祖烟乃亚的身影浮现出来。",
+        "她双臂张开，一条条金色，银色，黑色，紫色，红色等等丝带一样的东西，开始在她周围环绕飞舞。",
+        "神祖烟乃亚第一个投身进去，消失不见。"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "化为",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "夹带着血色火光，同样化为差不多的血色光柱，撞向三色光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "夹带着血色火光，同样化为差不多的血色光柱，撞向三色光",
-        "“接引深渊，化为封印束缚……好大的手笔",
-        "哗啦一下，整个圆盘轰然炸裂，化为无数黄铜碎片飞散"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "超脱",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十七章 超脱（下）",
-      "summary": "第九百一十七章 超脱（下）　　“食气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九百一十七章 超脱（下）　　“食气",
-        "“既然杀不死你，那就只能……”　　要想超脱，光靠她一人之力是不可能",
-        "超脱"
-      ],
-      "mention_count": 4
     }
   ]
 }

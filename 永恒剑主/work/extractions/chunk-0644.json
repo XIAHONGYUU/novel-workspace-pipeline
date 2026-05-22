@@ -1,246 +1,407 @@
 {
   "chunk_id": "chunk-0644",
-  "title": "第六百四十章 转投（一）",
   "characters": [
     {
-      "name": "风槐",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "龙蛇界主",
+      "aliases": [
+        "龙蛇",
+        "龙蛇长老",
+        "龙蛇师兄"
+      ],
+      "identity": "碧湖山界主，地仙级修士",
+      "faction": "碧湖山",
       "status": "登场",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "带头的两人，一人手摇折扇，面带微笑，正是才从青山界过来的风槐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "带头的两人，一人手摇折扇，面带微笑，正是才从青山界过来的风槐",
-        "其余几人则是林又可三人，和风槐的那名女护卫千眼",
-        "六人出了法器，风槐挥手洒出一道洁白结界罩子，护住几人"
+      "summary": "碧湖山界主，性格狂放，因暗伤未能突破天仙，对青山界主不满，收林新为徒。",
+      "appearance": [
+        "须发皆红的狂放老者"
       ],
-      "mention_count": 24
-    },
-    {
-      "name": "龙蛇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百四十章 转投（一）",
-      "summary": "第六百四十章 转投（一）　　“龙蛇师兄，我这次来是为了我胞弟求份人情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六百四十章 转投（一）　　“龙蛇师兄，我这次来是为了我胞弟求份人情",
-        "那林摄日的资质，想必龙蛇师兄也是知晓的吧",
-        "这龙蛇界主要不是暗伤太多，怕是真如传说那般，有突破地仙大境界，踏入天仙的希望"
+      "personality": [
+        "狂放",
+        "暴躁",
+        "快意恩仇"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百四十章 转投（一）",
-      "summary": "玉简内是他才收到的关于林新的一切资料",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玉简内是他才收到的关于林新的一切资料",
-        "另一人面如冠玉，神色淡然，则是跟着一起的林新",
-        "”林新点头"
+      "abilities": [
+        "地仙境界",
+        "龙蛇熔岩威压"
       ],
-      "mention_count": 10
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风盘君",
+          "type": "师弟"
+        },
+        {
+          "target": "青山界主",
+          "type": "敌对"
+        },
+        {
+          "target": "龙头巨龟",
+          "type": "结拜兄弟"
+        },
+        {
+          "target": "林新",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "同意收林新为徒，与风盘君达成交易。"
+        }
+      ],
+      "evidence": [
+        "堡垒内一阵剧烈颤抖，传出的声音如同雷鸣，震动四周数十里范围。",
+        "龙蛇界主也是不客气。",
+        "一个须发皆红的狂放老者，正一手捏着一根玉简仔细查看着。"
+      ],
+      "mention_count": 18
     },
     {
       "name": "风盘君",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "风师弟"
+      ],
+      "identity": "风家天才，仙人转世，碧湖山修士",
+      "faction": "风家",
       "status": "登场",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "风盘君面色淡然",
+      "summary": "风家天才，仙人转世，为胞弟求人情，与龙蛇界主交易。",
       "appearance": [],
+      "personality": [
+        "淡然"
+      ],
+      "abilities": [
+        "仙人转世资质"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龙蛇界主",
+          "type": "师兄"
+        },
+        {
+          "target": "风槐",
+          "type": "兄长"
+        },
+        {
+          "target": "林摄日",
+          "type": "为他说情"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜访龙蛇界主，为林摄日求情。"
+        }
+      ],
+      "evidence": [
+        "风盘君面色淡然。",
+        "风盘君是什么人？风家号称有史以来最强天才，仙人转世的恐怖资质。",
+        "等待外面风盘君离开后，老者龙蛇界主嘿嘿一笑。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "林新",
+      "aliases": [
+        "林摄日"
+      ],
+      "identity": "青山界叛逃弟子，五阶三级修士",
+      "faction": "碧湖山（即将加入）",
+      "status": "登场",
+      "first_appearance": "第六百四十章 转投（一）",
+      "summary": "原青山界弟子，因杀乔玉而叛逃，转投龙蛇界主门下。",
+      "appearance": [
+        "面如冠玉，神色淡然"
+      ],
+      "personality": [
+        "淡然"
+      ],
+      "abilities": [
+        "五阶三级",
+        "雷火气息",
+        "引动过麒麟、雷帝剑招"
+      ],
+      "equipment": [
+        "护体灵光"
+      ],
+      "relationships": [
+        {
+          "target": "龙蛇界主",
+          "type": "即将拜师"
+        },
+        {
+          "target": "风槐",
+          "type": "同行者"
+        },
+        {
+          "target": "乔玉",
+          "type": "仇敌（已杀）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随风槐到达龙蛇界，拜见龙蛇界主。"
+        }
+      ],
+      "evidence": [
+        "另一人面如冠玉，神色淡然，则是跟着一起的林新。",
+        "五阶三级啊，不错不错，有希望踏入地仙大道",
+        "你身上也有雷火气息，还有雷帝麒麟的味道？"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "风槐",
+      "aliases": [],
+      "identity": "风家弟子，风盘君之弟",
+      "faction": "风家",
+      "status": "登场",
+      "first_appearance": "第六百四十章 转投（一）",
+      "summary": "风盘君的弟弟，带林新前往龙蛇界。",
+      "appearance": [
+        "手摇折扇，面带微笑"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "黑色梭型飞行法器",
+        "洁白结界罩子"
+      ],
+      "relationships": [
+        {
+          "target": "风盘君",
+          "type": "弟弟"
+        },
+        {
+          "target": "林新",
+          "type": "引荐人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带林新到达龙蛇界，引荐给龙蛇界主。"
+        }
+      ],
       "evidence": [
-        "风盘君面色淡然",
-        "风盘君也是有些心惊",
-        "风盘君是什么人"
+        "带头的两人，一人手摇折扇，面带微笑，正是才从青山界过来的风槐。",
+        "风槐挥手洒出一道洁白结界罩子，护住几人。",
+        "风家弟子风槐，求见龙蛇界主。"
       ],
       "mention_count": 6
     },
     {
-      "name": "既然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "龙头巨龟",
+      "aliases": [
+        "二弟"
+      ],
+      "identity": "龙蛇界主的结拜兄弟，妖龙一脉",
+      "faction": "妖龙一脉",
       "status": "登场",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "“既然师兄知道，那就好办了",
-      "appearance": [],
-      "personality": [],
+      "summary": "龙蛇界主的结拜兄弟，龙头龟身，与龙蛇界主关系亲密。",
+      "appearance": [
+        "通体血红的龙头巨龟"
+      ],
+      "personality": [
+        "粗声粗气",
+        "易怒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "龙蛇界主",
+          "type": "结拜兄弟"
+        },
+        {
+          "target": "三妹",
+          "type": "结拜兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从侧殿爬入，与龙蛇界主交谈。"
+        }
+      ],
       "evidence": [
-        "“既然师兄知道，那就好办了",
-        "“风某胞弟正朝师兄这里过来，既然您允下，那便全权交给您了",
-        "“应该已经朝这边过来了，既然来了那就先收下看看"
+        "忽然一头通体血红的龙头巨龟，缓缓从侧殿爬进来，鼻孔里喷出几点火星子，声音粗声粗气。",
+        "大哥，你又唧唧歪歪个什么？",
+        "他慢慢爬出去，一边嘴里嘟哝着，他龟大爷从不和这死老头一般见识。"
       ],
       "mention_count": 5
     },
     {
-      "name": "巨龟",
+      "name": "千眼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "风槐的女护卫",
+      "faction": "风家",
       "status": "登场",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "”　　忽然一头通体血红的龙头巨龟，缓缓从侧殿爬进来，鼻孔里喷出几点火星子，声音粗声粗气",
+      "summary": "风槐的女护卫，随行前往龙蛇界。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　忽然一头通体血红的龙头巨龟，缓缓从侧殿爬进来，鼻孔里喷出几点火星子，声音粗声粗气",
-        "”　　龙头巨龟笑了两声",
-        "”巨龟懒洋洋回了句，爬到座位边躺下"
+      "relationships": [
+        {
+          "target": "风槐",
+          "type": "护卫"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随风槐到达龙蛇界，留在道宫外。"
+        }
+      ],
+      "evidence": [
+        "其余几人则是林又可三人，和风槐的那名女护卫千眼。",
+        "我也留下吧。千眼出声道。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "两人",
+      "name": "林又可",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新的随从",
+      "faction": "林新",
       "status": "登场",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "带头的两人，一人手摇折扇，面带微笑，正是才从青山界过来的风槐",
+      "summary": "林新的随从之一，随行前往龙蛇界。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "带头的两人，一人手摇折扇，面带微笑，正是才从青山界过来的风槐",
-        "两人跨入道宫，里面两侧是一座座不同龙头怪物的红色雕塑",
-        "一个须发皆红的老者正一身红袍，浑身环绕着一层淡淡的扭曲，端坐在道宫最上方，俯瞰着两人"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "随从"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随林新到达龙蛇界，留在道宫外。"
+        }
+      ],
+      "evidence": [
+        "其余几人则是林又可三人",
+        "林又可服下后，也稍微舒服了些"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "大厅",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百四十章 转投（一）",
-      "summary": "大厅不大，但却充斥着难以想象的高温",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "大厅不大，但却充斥着难以想象的高温",
-        "两人走到大厅正中，同时朝老者抱拳躬身",
-        "大厅大门缓缓合拢，就只剩下林新和龙蛇长老两人在"
+      "name": "青山界主",
+      "aliases": [
+        "青山老儿"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "堡垒内",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "青山界界主",
+      "faction": "碧湖山",
+      "status": "提及",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "”　　堡垒内传出的声音顿时有些幸灾乐祸起来",
+      "summary": "青山界界主，与龙蛇界主有矛盾，林新原为其弟子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "龙蛇界主",
+          "type": "敌对"
+        },
+        {
+          "target": "林新",
+          "type": "原师父"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　堡垒内传出的声音顿时有些幸灾乐祸起来",
-        "”　　堡垒内一阵剧烈颤抖，传出的声音如同雷鸣，震动四周数十里范围",
-        "堡垒内，一片猩红的大殿上，一名须发皆红的狂放老者，正一手捏着一根玉简仔细查看着"
+        "只要能把青山老儿气得火大的事，老子都干！",
+        "青山老儿这些年做的恶心事也不多这一件",
+        "这样的弟子，青山老儿居然不要！"
       ],
       "mention_count": 4
     },
     {
-      "name": "风盘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "乔玉",
+      "aliases": [
+        "乔玉小崽子"
+      ],
+      "identity": "青山界弟子",
+      "faction": "青山界",
+      "status": "提及（已死）",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "风盘君面色淡然",
+      "summary": "被林新所杀的青山界弟子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "风盘君面色淡然",
-        "风盘君也是有些心惊",
-        "风盘君是什么人"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被杀"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "在青山界腹地被林新所杀。"
+        }
+      ],
+      "evidence": [
+        "那乔玉小崽子居然就在自己腹地被杀。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "老子",
+      "name": "三妹",
       "aliases": [],
-      "identity": "",
+      "identity": "龙蛇界主的结拜妹妹",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "只要能把青山老儿气得火大的事，老子都干",
+      "summary": "龙蛇界主的结拜妹妹，去开辟新遗迹。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只要能把青山老儿气得火大的事，老子都干",
-        "”　　“这个林摄日，很合老子的胃口啊",
-        "老子这次绝对会很温柔"
+      "abilities": [
+        "九条命"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龙蛇界主",
+          "type": "结拜兄妹"
+        },
+        {
+          "target": "龙头巨龟",
+          "type": "结拜兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "去开辟新遗迹。"
+        }
+      ],
+      "evidence": [
+        "三妹又去开辟新遗迹了？",
+        "放心吧，她九条命，死不了。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "龙蛇界",
+      "name": "化石老仙",
       "aliases": [],
-      "identity": "",
+      "identity": "仙人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六百四十章 转投（一）",
-      "summary": "这龙蛇界主要不是暗伤太多，怕是真如传说那般，有突破地仙大境界，踏入天仙的希望",
+      "summary": "龙头巨龟曾去其处喝酒。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -248,11 +409,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "这龙蛇界主要不是暗伤太多，怕是真如传说那般，有突破地仙大境界，踏入天仙的希望",
-        "”　　龙蛇界主也是不客气",
-        "等待外面风盘君离开后，老者龙蛇界主嘿嘿一笑"
+        "你不是去化石老仙那里喝酒了么？"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

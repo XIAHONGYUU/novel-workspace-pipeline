@@ -1,0 +1,310 @@
+{
+  "chunk_id": "chunk-0178",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拥有幻觉印记、一次性能量心脏和金属天赋的巫师，正在前往某岛屿。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "幻觉印记",
+        "金属天赋"
+      ],
+      "equipment": [
+        "菱形金属"
+      ],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "同行巫师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与船队同行，观察海族与船只战斗，后与丽丝佩尔交谈，最终乘小船前往岛屿。"
+        }
+      ],
+      "evidence": [
+        "他的幻觉印记很强，但不能见光",
+        "他唯一能够肆意使用的，就是金属天赋了",
+        "安格列走出房间第一时间看到的，就是船队侧面"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "丽丝佩尔",
+      "aliases": [
+        "佩尔大人"
+      ],
+      "identity": "巫师，六环高塔琼斯家族成员",
+      "faction": "六环高塔琼斯家族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的同行巫师，来自六环高塔琼斯家族，正在准备能量化仪式。",
+      "appearance": [
+        "紫边的白袍",
+        "黑色长发绑成一束马尾"
+      ],
+      "personality": [
+        "疲倦"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同行巫师"
+        },
+        {
+          "target": "德尔",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列交谈，提及能量化仪式和海族局势。"
+        }
+      ],
+      "evidence": [
+        "丽丝佩尔一脸疲倦地走过来，换了一身紫边的白袍",
+        "我们是六环高塔琼斯家族的人",
+        "丽丝佩尔淡淡地回答"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "艾尼芬多",
+      "aliases": [
+        "艾尼"
+      ],
+      "identity": "巫师，与海族亲王有交情",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "船队中的巫师，负责与海族交涉，可能使用化名。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏摩尔",
+          "type": "交涉对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与海族头领苏摩尔交涉，后带领船队前进。"
+        }
+      ],
+      "evidence": [
+        "我是艾尼芬多，苏摩尔是吧？看来亲王接到我的传信了。",
+        "艾尼已经走上了甲板，准备迎接这些海族。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "米丽莎",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "船队中的巫师，使用石质圆盘引导船只穿过迷雾。",
+      "appearance": [
+        "白袍",
+        "瘦小老婆子"
+      ],
+      "personality": [],
+      "abilities": [
+        "使用石质圆盘导航"
+      ],
+      "equipment": [
+        "石质圆盘"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用石质圆盘引导船只穿过迷雾，宣布到达目的地。"
+        }
+      ],
+      "evidence": [
+        "米丽莎手上拿着一个小小的石质圆盘",
+        "米丽莎神色凝重的盯着小石块。",
+        "米丽莎出声道。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "苏摩尔",
+      "aliases": [],
+      "identity": "海族头领",
+      "faction": "海族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "海族头领，与艾尼芬多交涉。",
+      "appearance": [
+        "蓝白色皮甲",
+        "双耳是鱼一样的鳍",
+        "皮肤淡蓝色",
+        "手持黑色三尖叉"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "黑色三尖叉"
+      ],
+      "relationships": [
+        {
+          "target": "艾尼芬多",
+          "type": "交涉对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领海族与船队交涉，后带领海族沉入海水。"
+        }
+      ],
+      "evidence": [
+        "浮在最前边，身材最高的一个海族人大声询问起来。",
+        "这个名叫苏摩尔的海族头领手一挥。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "德尔",
+      "aliases": [
+        "金发骑士"
+      ],
+      "identity": "大骑士，丽丝佩尔的追随者",
+      "faction": "六环高塔琼斯家族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "丽丝佩尔的三名大骑士之一，由丽丝佩尔亲手供养长大。",
+      "appearance": [
+        "金发"
+      ],
+      "personality": [
+        "彬彬有礼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列交谈，透露琼斯家族信息。"
+        }
+      ],
+      "evidence": [
+        "金发骑士德尔连忙带头迎上来。",
+        "我叫德尔，是佩尔大人亲手供养长大的。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "奎日曼",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "船队中的巫师，对迷晕追随者表示不满。",
+      "appearance": [],
+      "personality": [
+        "冷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在甲板上质疑迷晕追随者的必要性。"
+        }
+      ],
+      "evidence": [
+        "奎日曼独自站着，双手环抱冷眼看着石块。",
+        "奎日曼冷声说。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "贝伦老头",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "船队中的巫师，与艾尼站在一起。",
+      "appearance": [
+        "老头"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "艾尼芬多",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与艾尼站在一起。"
+        }
+      ],
+      "evidence": [
+        "艾尼和贝伦老头站在一起，两人一副异常亲密的样子。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女骑士",
+      "aliases": [],
+      "identity": "大骑士，丽丝佩尔的追随者",
+      "faction": "六环高塔琼斯家族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "丽丝佩尔的三名大骑士之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列交谈，提及艾尼可能是化名。"
+        }
+      ],
+      "evidence": [
+        "三个大骑士中，那名女骑士出声说。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

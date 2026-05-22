@@ -1,245 +1,219 @@
 {
   "chunk_id": "chunk-0212",
-  "title": "第210章凌迟逼问",
   "characters": [
     {
       "name": "周游",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "周周哥"
+      ],
+      "identity": "牌系老大",
       "faction": "",
       "status": "登场",
       "first_appearance": "第210章凌迟逼问",
-      "summary": "只听周游冷冷笑道：“我虽然不知道许哥伱是从什么梦境中走出来的‘黄梁鬼’，但我知道你肯定是个铁骨铮铮的汉子，出卖主人这种事，你肯定做不出来",
+      "summary": "牌系老大，手段残忍，对许康进行凌迟逼问，目的是获取洪崖山房产的转移秘钥。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只听周游冷冷笑道：“我虽然不知道许哥伱是从什么梦境中走出来的‘黄梁鬼’，但我知道你肯定是个铁骨铮铮的汉子，出卖主人这种事，你肯定做不出来",
-        "”　　周游右手五指摊开，站在身后的一名壮汉立马上前，将一柄薄如蝉翼、柄饰鬼头的短刀放在周游手心中",
-        "暗处中，有杂牌怔怔盯着周游那道并不算魁梧的背影"
+      "personality": [
+        "残忍",
+        "冷漠",
+        "狡猾"
       ],
-      "mention_count": 24
+      "abilities": [
+        "凌迟技艺",
+        "使用黄梁主机"
+      ],
+      "equipment": [
+        "薄如蝉翼、柄饰鬼头的短刀",
+        "魏武卒手枪"
+      ],
+      "relationships": [
+        {
+          "target": "许康",
+          "type": "逼问对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "对许康实施凌迟逼问，最终许康招供。"
+        }
+      ],
+      "evidence": [
+        "周游右手五指摊开，站在身后的一名壮汉立马上前，将一柄薄如蝉翼、柄饰鬼头的短刀放在周游手心中。",
+        "周游面无表情，又是一刀割下，将许康头顶一大块头皮硬生生剐了下来。",
+        "周游摇了摇头，‘不，你连做鬼的机会都没有。我会把你的意识关进一台微型的黄梁主机，模拟今天的场景，让你一遍遍不断重复，直到你的意识化为一串无意义的数字。’"
+      ],
+      "mention_count": 20
     },
     {
       "name": "许康",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "许哥"
+      ],
+      "identity": "儒道序列修行者，被怀疑是戚槐制作的偃人（黄梁鬼）",
       "faction": "",
       "status": "登场",
       "first_appearance": "第210章凌迟逼问",
-      "summary": "”　　头皮寸寸绷紧，许康甚至能够听到自己头发断裂的声音，急声道：“我如果真是戚槐制作的偃人，当初还能让你砍了我的双手",
+      "summary": "被周游怀疑是戚槐制作的偃人，遭受凌迟逼问，最终招供洪崖山房产的转移秘钥。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恐惧",
+        "痛苦"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　头皮寸寸绷紧，许康甚至能够听到自己头发断裂的声音，急声道：“我如果真是戚槐制作的偃人，当初还能让你砍了我的双手",
-        "”　　许康闻言还要辩解，却突然感觉头顶一松",
-        "”　　在许康的面门上，鼻子已经消失不见"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "被逼问者"
+        },
+        {
+          "target": "戚槐",
+          "type": "被怀疑是其所制偃人"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被周游凌迟逼问，最终招供。"
+        }
+      ],
+      "evidence": [
+        "许康梗着脖子吼道，踩在血水中的双脚却不断震出道道涟漪。",
+        "许康目眦欲裂，眼球几乎蹦出眼眶，身体挺直绷紧，继而又猛的瘫软在椅子上。",
+        "断断续续说出这句话后，许康像是被抽掉了整根脊梁，彻底瘫软在椅子上。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "我说",
+      "name": "戚槐",
       "aliases": [],
-      "identity": "",
+      "identity": "被提及的人物，据称制作偃人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第210章凌迟逼问",
-      "summary": "我说了啊，我手里根本没有你想要的东西",
+      "summary": "被周游提及，怀疑许康是其制作的偃人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "许康",
+          "type": "被怀疑是其所制偃人"
+        },
+        {
+          "target": "鸿鹄",
+          "type": "曾与鸿鹄眉来眼去"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "我说了啊，我手里根本没有你想要的东西",
-        "”　　“我说",
-        "别让我回黄梁梦境，我说.我都说.”　　冰冷的刀刃拍打着许康的脸"
+        "我如果真是戚槐制作的偃人，当初还能让你砍了我的双手？",
+        "再加上戚槐当时正忙着和鸿鹄眉来眼去"
       ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
-      "name": "我手",
+      "name": "鸿鹄",
       "aliases": [],
-      "identity": "",
+      "identity": "被提及的人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第210章凌迟逼问",
-      "summary": "我说了啊，我手里根本没有你想要的东西",
+      "summary": "被提及曾与戚槐眉来眼去。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚槐",
+          "type": "曾与戚槐眉来眼去"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "我说了啊，我手里根本没有你想要的东西",
-        "“我手里这把刀，也是货真价实的古董，据说当年还被用来剐过一名十分有名的读书人"
+        "再加上戚槐当时正忙着和鸿鹄眉来眼去"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "站在",
+      "name": "壮汉",
       "aliases": [],
-      "identity": "",
+      "identity": "周游的手下",
       "faction": "",
       "status": "登场",
       "first_appearance": "第210章凌迟逼问",
-      "summary": "”　　周游右手五指摊开，站在身后的一名壮汉立马上前，将一柄薄如蝉翼、柄饰鬼头的短刀放在周游手心中",
+      "summary": "周游身后的壮汉，负责递刀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "手下"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　周游右手五指摊开，站在身后的一名壮汉立马上前，将一柄薄如蝉翼、柄饰鬼头的短刀放在周游手心中"
+        "站在身后的一名壮汉立马上前，将一柄薄如蝉翼、柄饰鬼头的短刀放在周游手心中。"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "溅起",
+      "name": "杂牌",
       "aliases": [],
-      "identity": "",
+      "identity": "牌系成员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第210章凌迟逼问",
-      "summary": "一块肉团掉入血水中，溅起点点猩红的水花",
+      "summary": "暗处中的杂牌，对周游的残忍感到恐惧。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恐惧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "老大"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "一块肉团掉入血水中，溅起点点猩红的水花"
+        "暗处中，有杂牌怔怔盯着周游那道并不算魁梧的背影。",
+        "不久前，他心中对这位年纪轻轻的老大还有几分暗藏的轻视。",
+        "可现在，他只感觉浑身汗毛直立，还有那股萦绕不散的刺骨寒意。"
       ],
-      "mention_count": 3
+      "mention_count": 2
     },
     {
-      "name": "眼眸",
+      "name": "同伴",
       "aliases": [],
-      "identity": "",
+      "identity": "牌系成员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第210章凌迟逼问",
-      "summary": "眼眸中透出的寒光，像是屠夫在看一头待宰羔羊",
+      "summary": "周游的同伴，对周游的变化感到感慨。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "不忍"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "同伴"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "眼眸中透出的寒光，像是屠夫在看一头待宰羔羊",
-        "周游嘴角虽然带笑，眼眸之中却是瘆人的冷漠",
-        "身旁的同伴垂下眼眸，不愿再去看身前血腥的场景，用细如蚊呐的说道：“以前他不是这样，是从罗汉寺之后，才”　　“还不说"
+        "身旁的同伴垂下眼眸，不愿再去看身前血腥的场景，用细如蚊呐的说道：‘以前他不是这样，是从罗汉寺之后，才’"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "周游你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第210章凌迟逼问",
-      "summary": "“周游你不要乱来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“周游你不要乱来",
-        "“周游你这个畜生"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "应该",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第210章凌迟逼问",
-      "summary": "”　　“这段时间我估计也不会太长，应该也就几十年吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“这段时间我估计也不会太长，应该也就几十年吧"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "等割",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第210章凌迟逼问",
-      "summary": "等割下去自然就有答案了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "等割下去自然就有答案了"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "我身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第210章凌迟逼问",
-      "summary": "周游朝许康露出一个微笑：“不过也没事，我身后就有农序的兄弟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "周游朝许康露出一个微笑：“不过也没事，我身后就有农序的兄弟"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "眯着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第210章凌迟逼问",
-      "summary": "”　　周游眯着眼笑道：“如果我没记错的话，洪崖山的房产都有锁定的功能",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　周游眯着眼笑道：“如果我没记错的话，洪崖山的房产都有锁定的功能",
-        "”　　周游一脚踩住即将翻倒的椅子，眯着眼笑道：“我怎么可能舍得杀你"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

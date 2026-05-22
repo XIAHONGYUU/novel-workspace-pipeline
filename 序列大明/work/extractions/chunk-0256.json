@@ -1,253 +1,261 @@
 {
   "chunk_id": "chunk-0256",
-  "title": "第254章收利息",
   "characters": [
     {
       "name": "赵青侠",
       "aliases": [],
-      "identity": "",
+      "identity": "墨攻部队成员，李钧和马王爷的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第254章收利息",
-      "summary": "”　　赵青侠若无其事的笑道，可他眼底的那一丝不甘和憋屈还是被李钧看的一清二楚",
+      "summary": "李钧和马王爷的同伴，因墨晋出卖被追杀，放弃矩子堂名额，对李钧的实力感到震惊。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冲动",
+        "重情义",
+        "不甘"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵青侠若无其事的笑道，可他眼底的那一丝不甘和憋屈还是被李钧看的一清二楚",
-        "”　　马王爷一巴掌拍在赵青侠的头顶，骂骂咧咧道：“有你马爷和李叔在这儿，还能让伱受这样的委屈",
-        "”　　赵青侠一口气憋在胸口，霎时语塞，半晌才语气焦急说道：“那还抄个什么家啊，你怎么不劝着他点"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "马王爷",
+          "type": "器灵与宿主"
+        },
+        {
+          "target": "墨晋",
+          "type": "仇敌"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "引荐人"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧、马王爷商议应对墨晋追杀，得知李钧实力提升，计划反击。"
+        }
+      ],
+      "evidence": [
+        "赵青侠若无其事的笑道，可他眼底的那一丝不甘和憋屈还是被李钧看的一清二楚。",
+        "赵青侠终于恍然，磕磕巴巴问道：“钧哥现现在是序几？”",
+        "赵青侠面露愧疚道：“上次在威海卫调查的时候，因为我一时手软留了个活口，暴露了朵朵，导致她被‘非攻科研’以科研人员参与谋杀的名义开革了。”"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "钧哥",
+        "李叔"
+      ],
+      "identity": "锦衣卫小旗，武道序列高手",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第254章收利息",
+      "summary": "赵青侠和马王爷的同伴，实力强大，计划对墨晋进行反击。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "强势"
+      ],
+      "abilities": [
+        "武六止戈"
+      ],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "同伴"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        },
+        {
+          "target": "墨晋",
+          "type": "仇敌"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "受照顾对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵青侠、马王爷商议反击墨晋，展示实力。"
+        }
+      ],
+      "evidence": [
+        "李钧懒得理会眼前这两个活宝，用刀鞘将冲过来的赵青侠顶飞出去。",
+        "李钧抬脚将地上还没死透的那名墨七踢到赵青侠面前，语气森冷道：“他们追杀了你们那么久，也该让他们先还点利息了。”",
+        "马王爷笑道：“那我问问你，你什么时候见过一个锦衣卫小旗能这么轻易的放翻一支满编墨攻小队，外加一个墨序七的副主官？”"
+      ],
+      "mention_count": 12
     },
     {
       "name": "马王爷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "”　　马王爷一巴掌拍在赵青侠的头顶，骂骂咧咧道：“有你马爷和李叔在这儿，还能让伱受这样的委屈",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　马王爷一巴掌拍在赵青侠的头顶，骂骂咧咧道：“有你马爷和李叔在这儿，还能让伱受这样的委屈",
-        "”　　马王爷语气幽幽道：“应该算不输不赢吧，你还年轻，有些事情说了你也不明白",
-        "”　　不过经过马王爷这一下插科打诨，赵青侠胸中的愤懑倒确实被排解了不少，他自嘲一笑道：“不跑路还能干啥"
+      "aliases": [
+        "老马",
+        "马爷"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "赵青",
-      "aliases": [],
-      "identity": "",
+      "identity": "赵青侠的器灵（明鬼）",
       "faction": "",
       "status": "登场",
       "first_appearance": "第254章收利息",
-      "summary": "”　　赵青侠若无其事的笑道，可他眼底的那一丝不甘和憋屈还是被李钧看的一清二楚",
+      "summary": "赵青侠的器灵，性格豪爽，对李钧的实力有信心。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵青侠若无其事的笑道，可他眼底的那一丝不甘和憋屈还是被李钧看的一清二楚",
-        "”　　马王爷一巴掌拍在赵青侠的头顶，骂骂咧咧道：“有你马爷和李叔在这儿，还能让伱受这样的委屈",
-        "”　　赵青侠一口气憋在胸口，霎时语塞，半晌才语气焦急说道：“那还抄个什么家啊，你怎么不劝着他点"
+      "personality": [
+        "豪爽",
+        "幽默",
+        "老练"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "马王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "”　　马王爷一巴掌拍在赵青侠的头顶，骂骂咧咧道：“有你马爷和李叔在这儿，还能让伱受这样的委屈",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "器灵与宿主"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧、赵青侠商议反击墨晋。"
+        }
+      ],
       "evidence": [
-        "”　　马王爷一巴掌拍在赵青侠的头顶，骂骂咧咧道：“有你马爷和李叔在这儿，还能让伱受这样的委屈",
-        "”　　马王爷语气幽幽道：“应该算不输不赢吧，你还年轻，有些事情说了你也不明白",
-        "”　　不过经过马王爷这一下插科打诨，赵青侠胸中的愤懑倒确实被排解了不少，他自嘲一笑道：“不跑路还能干啥"
+        "马王爷一巴掌拍在赵青侠的头顶，骂骂咧咧道：“有你马爷和李叔在这儿，还能让伱受这样的委屈？”",
+        "马王爷语气中透着古怪，像是在强忍着笑意。",
+        "马王爷当着李钧的面朝他竖起右手手掌，三指弯曲，只留下拇指和小指翘起。"
       ],
       "mention_count": 8
     },
     {
-      "name": "李钧",
+      "name": "墨晋",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "墨攻部队成员，出卖赵青侠的人",
+      "faction": "墨攻部队",
+      "status": "提及",
       "first_appearance": "第254章收利息",
-      "summary": "”　　赵青侠若无其事的笑道，可他眼底的那一丝不甘和憋屈还是被李钧看的一清二楚",
+      "summary": "出卖赵青侠并派人追杀，背景深厚。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵青侠若无其事的笑道，可他眼底的那一丝不甘和憋屈还是被李钧看的一清二楚",
-        "”　　李钧懒得理会眼前这两个活宝，用刀鞘将冲过来的赵青侠顶飞出去",
-        "起码赵青侠这辈子都记得很清楚，自己在第一次碰见李钧的时候，穿上墨甲都差点被对方活生生打死"
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "仇敌"
+        },
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "锦衣卫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "”　　“锦衣卫啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“锦衣卫啊",
-        "”　　在赵青侠看来，虽然近海四卫是墨家的基本盘，锦衣卫在这里的势力并不强",
-        "”　　但如果李钧现在的官身级别够高，能够调动近海四卫的锦衣卫，利用他们无孔不入的情报能力，说不定还有机会继续搜集墨恪违反天志会规矩的罪证，然后捅到天志会高层那里"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧等人计划反击。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "你小子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "“你小子在想什么呢，谁说要跑路了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“你小子在想什么呢，谁说要跑路了",
-        "“说白了，你小子还是不相信你李叔啊"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "一个是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "”　　一个是能打，一个是只能打",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一个是能打，一个是只能打",
-        "”　　要知道武六和墨六虽然处于同一个序列水平，但一个是专门打架杀人，不受任何黄粱梦境干扰的纯粹序列",
-        "”　　一个是集科研、制造、指挥等多种能力于一身的复合序列"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "赵青侠忍不住翻了个白眼，“这个我知道，我是问是什么级别",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵青侠忍不住翻了个白眼，“这个我知道，我是问是什么级别",
-        "“这个.”　　对啊，当初在成都府的时候，那个叫余寇的锦衣卫总旗也不过是个道八而已",
-        "”　　这个一肚子坏水的老王八蛋"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "否则墨恪这辈子睡觉都要穿着墨甲，而且还要拿一只眼睛站岗放哨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "否则墨恪这辈子睡觉都要穿着墨甲，而且还要拿一只眼睛站岗放哨",
-        "而且还他娘的是个异地的小旗"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第254章收利息",
-      "summary": "第254章收利息　　“其实从一开始我也准备直接跑路，反正不管有没有矩子堂的资源，我都有信心能研究出完整的拟态武学",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第254章收利息　　“其实从一开始我也准备直接跑路，反正不管有没有矩子堂的资源，我都有信心能研究出完整的拟态武学"
+        "在我刚刚搞清楚出卖我的人是墨晋的时候，对方已经先一步找借口把我开革出墨攻部队，开始派人追杀了。"
       ],
       "mention_count": 3
     },
     {
-      "name": "我都",
+      "name": "墨恪",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "墨家高层，墨晋的关联人物",
+      "faction": "墨家",
+      "status": "提及",
       "first_appearance": "第254章收利息",
-      "summary": "第254章收利息　　“其实从一开始我也准备直接跑路，反正不管有没有矩子堂的资源，我都有信心能研究出完整的拟态武学",
+      "summary": "墨家高层，被李钧计划搜集罪证。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "利用他们无孔不入的情报能力，说不定还有机会继续搜集墨恪违反天志会规矩的罪证"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "乌鸦朵朵",
+      "aliases": [
+        "朵朵"
+      ],
+      "identity": "被赵青侠引荐加入天志会的人",
+      "faction": "天志会",
+      "status": "提及",
+      "first_appearance": "第254章收利息",
+      "summary": "因赵青侠暴露而被‘非攻科研’开革。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "引荐人"
+        },
+        {
+          "target": "李钧",
+          "type": "受照顾对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被‘非攻科研’以科研人员参与谋杀的名义开革。"
+        }
+      ],
+      "evidence": [
+        "因为我一时手软留了个活口，暴露了朵朵，导致她被‘非攻科研’以科研人员参与谋杀的名义开革了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "余寇",
+      "aliases": [],
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第254章收利息",
+      "summary": "被提及作为对比，道八序列。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "道八"
+      ],
+      "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "第254章收利息　　“其实从一开始我也准备直接跑路，反正不管有没有矩子堂的资源，我都有信心能研究出完整的拟态武学",
-        "我都放弃名额了，他们总不能还要大费周章的追到罪民区吧"
+        "当初在成都府的时候，那个叫余寇的锦衣卫总旗也不过是个道八而已。"
       ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

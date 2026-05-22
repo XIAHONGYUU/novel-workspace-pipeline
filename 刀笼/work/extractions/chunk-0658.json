@@ -1,253 +1,313 @@
 {
   "chunk_id": "chunk-0658",
-  "title": "第四十九章 共分江山",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "陛下"
+      ],
+      "identity": "夜昼国皇帝，龙脉化身",
+      "faction": "夜昼国",
       "status": "登场",
       "first_appearance": "第四十九章 共分江山",
-      "summary": "伴随着戚笼的召唤，天上灵气如同银河倒泻，白浪此起彼伏，天机氤氲，让方圆千里百花盛开，生机高到了一种难以想象的地步",
+      "summary": "夜昼国现任皇帝，拥有龙脉之王权柄，正在调查夜真宗之死。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "坦率",
+        "谨慎",
+        "善于权谋"
+      ],
+      "abilities": [
+        "召唤灵脉",
+        "龙脉之王权柄"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "祝应安",
+          "type": "君臣"
+        },
+        {
+          "target": "夜真宗",
+          "type": "曾祖父"
+        },
+        {
+          "target": "朱太后",
+          "type": "儿媳（名义上）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抽取三条灵脉为城内修士疗伤，并回忆与祝应安的谈话。"
+        }
+      ],
+      "evidence": [
+        "伴随着戚笼的召唤，天上灵气如同银河倒泻",
+        "戚笼一边动用龙脉之王的权柄，维持夜昼国灵脉的抽取",
+        "戚笼笑道：但设身处地的想一下，你若是本皇，怕也担心被侍女在夜中用被子捂死吧。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "金顶道人",
+      "aliases": [
+        "金顶真人",
+        "师傅"
+      ],
+      "identity": "夜昼国道人，戚笼的臣属",
+      "faction": "夜昼国",
+      "status": "登场",
+      "first_appearance": "第四十九章 共分江山",
+      "summary": "一位道人，因拒绝戚笼单独疗伤而错失机缘，后悔不已。",
+      "appearance": [],
+      "personality": [
+        "易怒",
+        "后悔"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "伴随着戚笼的召唤，天上灵气如同银河倒泻，白浪此起彼伏，天机氤氲，让方圆千里百花盛开，生机高到了一种难以想象的地步",
-        "另一边，戚笼一边动用龙脉之王的权柄，维持夜昼国灵脉的抽取，一边在回想着昨日的谈话",
-        "祝应安一口酒喷出来后，脑子也清醒了，诡异的看向戚笼，好半晌才道：“陛下到底想要知道什么"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "君臣"
+        },
+        {
+          "target": "小道童",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "看到戚笼抽取灵脉，后悔自己之前拒绝单独疗伤。"
+        }
+      ],
+      "evidence": [
+        "听到动静，闻讯赶来的金顶道人看到这一幕，直接就傻眼了",
+        "金顶真人嘴巴颤抖着，这么庞大的灵气要是用在他一个人身上，别说伤势痊愈，甚至能让自己的修为再进一步",
+        "金顶真人便把怒气发泄到了可怜的小道童身上。"
+      ],
+      "mention_count": 4
     },
     {
       "name": "祝应安",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十九章 共分江山",
-      "summary": "祝应安一口酒喷出来后，脑子也清醒了，诡异的看向戚笼，好半晌才道：“陛下到底想要知道什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "祝应安一口酒喷出来后，脑子也清醒了，诡异的看向戚笼，好半晌才道：“陛下到底想要知道什么",
-        "祝应安摸了摸脖子，总感觉莫名其妙的一凉，沉默片刻，才斟词酌句道：“这等宫闱秘事，老臣怎么会知道",
-        "“这个、那个——”    祝应安这位做了十几年牢，连砍头都不怕的老倌，眼神中居然露出一丝痛苦与艰难"
+      "aliases": [
+        "老倌"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "祝应",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "夜昼国当代大儒，曾入狱多年",
+      "faction": "夜昼国",
       "status": "登场",
       "first_appearance": "第四十九章 共分江山",
-      "summary": "祝应安一口酒喷出来后，脑子也清醒了，诡异的看向戚笼，好半晌才道：“陛下到底想要知道什么",
+      "summary": "夜昼国资格最老、读书最多的当代大儒，曾坐牢十几年，被戚笼询问夜真宗之死的秘事。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "祝应安一口酒喷出来后，脑子也清醒了，诡异的看向戚笼，好半晌才道：“陛下到底想要知道什么",
-        "祝应安摸了摸脖子，总感觉莫名其妙的一凉，沉默片刻，才斟词酌句道：“这等宫闱秘事，老臣怎么会知道",
-        "“这个、那个——”    祝应安这位做了十几年牢，连砍头都不怕的老倌，眼神中居然露出一丝痛苦与艰难"
+      "personality": [
+        "谨慎",
+        "痛苦于宫闱秘事"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十九章 共分江山",
-      "summary": "而且什么叫也",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼谈论夜真宗之死的可能性。"
+        }
+      ],
       "evidence": [
-        "而且什么叫也",
-        "而且他这个‘晚年’，对应的其实应该是壮年才对，修行者的四百九十年寿元，他至少还有一百多年才对",
-        "”戚笼反问，做为龙脉化身，哪个野神毛神能挡的住他的叩拜，怕是直接就被气运撑爆了吧，而且这事怎么会记载在史书上，无论哪个王朝的帝王，血祭淫祀的名声可都不好"
+        "祝应安一口酒喷出来后，脑子也清醒了",
+        "祝应安摸了摸脖子，总感觉莫名其妙的一凉",
+        "祝应安这位做了十几年牢，连砍头都不怕的老倌，眼神中居然露出一丝痛苦与艰难。"
       ],
       "mention_count": 6
     },
     {
-      "name": "陛下",
+      "name": "残海皇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "近海霸主，夜昼国的敌对势力首领",
+      "faction": "敌对势力",
       "status": "登场",
       "first_appearance": "第四十九章 共分江山",
-      "summary": "听到动静，闻讯赶来的金顶道人看到这一幕，直接就傻眼了，嘴角抽搐半晌，才一把拧来一个门下小道童，怒不可遏道：“昨日陛下要给我疗伤，是不是便是如此",
+      "summary": "近海霸主，曾与夜真宗争霸，如今面对戚笼的崛起，打算联合天恶老祖。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "听到动静，闻讯赶来的金顶道人看到这一幕，直接就傻眼了，嘴角抽搐半晌，才一把拧来一个门下小道童，怒不可遏道：“昨日陛下要给我疗伤，是不是便是如此",
-        "”    “对啊，陛下对师傅十分尊重，都愿意为您一人抽来一条灵脉，”小道童小心翼翼的道",
-        "祝应安一口酒喷出来后，脑子也清醒了，诡异的看向戚笼，好半晌才道：“陛下到底想要知道什么"
+      "personality": [
+        "果断",
+        "善于观察"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十九章 共分江山",
-      "summary": "这不是一条灵脉，而是整整三条，如同大江大河，灌溉在城内所有的受伤修士身上，而这些修士一个个疯狂的吐纳呼吸，把握这可以说是百年难得一见的机缘",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这不是一条灵脉，而是整整三条，如同大江大河，灌溉在城内所有的受伤修士身上，而这些修士一个个疯狂的吐纳呼吸，把握这可以说是百年难得一见的机缘",
-        "这种艰难不是面对不周那种，权柄滔天，随意操弄自己生死那种恐惧，而是一种接近于至亲犯法，自己要不要检举的痛苦",
-        "谁都知道，这几十年间，夜昼国最重要的不是皇帝，更不是不周，而是这位维持政局的老太后，没有她的克制与手腕，不周会搞事，十大福地更是会提前造反"
+      "relationships": [
+        {
+          "target": "夜真宗",
+          "type": "宿敌"
+        },
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "天恶老祖",
+          "type": "盟友（提议）"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "老臣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十九章 共分江山",
-      "summary": "祝应安摸了摸脖子，总感觉莫名其妙的一凉，沉默片刻，才斟词酌句道：“这等宫闱秘事，老臣怎么会知道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "祝应安摸了摸脖子，总感觉莫名其妙的一凉，沉默片刻，才斟词酌句道：“这等宫闱秘事，老臣怎么会知道",
-        "祝应安干咳一声，继续道：“根据野史记载，真宗晚年经常会出现一些身体上的小毛病，如腿疾、哮喘、虚汗，若他是正常老人，这便是再正常不过的事，老臣也有，还要加上肾虚，咳咳，但那可是真宗啊",
-        "”    祝应安沉默许久，才叹了口气，躬身道：“老臣领命"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察戚笼抽取灵脉，决定不再耗下去，提议与天恶老祖共分江山。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "怕是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十九章 共分江山",
-      "summary": "等等，龙脉的换体，怕是要比修行者要更艰难吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "等等，龙脉的换体，怕是要比修行者要更艰难吧",
-        "换作他是夜真宗，一统天下，还剩一百多年寿时，怕是做两件事，一，准备闭关突破真神境，二，为换躯壳做准备",
-        "”戚笼反问，做为龙脉化身，哪个野神毛神能挡的住他的叩拜，怕是直接就被气运撑爆了吧，而且这事怎么会记载在史书上，无论哪个王朝的帝王，血祭淫祀的名声可都不好"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "现金",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十九章 共分江山",
-      "summary": "#送888现金红包# 关注vx.公众号书友大本营，看热门神作，抽888现金红包",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "#送888现金红包# 关注vx.公众号书友大本营，看热门神作，抽888现金红包"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十九章 共分江山",
-      "summary": "听到动静，闻讯赶来的金顶道人看到这一幕，直接就傻眼了，嘴角抽搐半晌，才一把拧来一个门下小道童，怒不可遏道：“昨日陛下要给我疗伤，是不是便是如此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "听到动静，闻讯赶来的金顶道人看到这一幕，直接就傻眼了，嘴角抽搐半晌，才一把拧来一个门下小道童，怒不可遏道：“昨日陛下要给我疗伤，是不是便是如此",
-        "”戚笼反问，做为龙脉化身，哪个野神毛神能挡的住他的叩拜，怕是直接就被气运撑爆了吧，而且这事怎么会记载在史书上，无论哪个王朝的帝王，血祭淫祀的名声可都不好",
-        "“的确是夜颠神的手段，而且只强不弱，当年夜颠神也只能大范围控制风水演化，直接抽取龙脉，真是难以想象"
+        "戚笼招摄龙脉的动静自然瞒不过残海皇",
+        "残海皇也是大气运者，但就是这般一点一滴的被磨成了势均力敌",
+        "面对这个加强版的‘夜天宗’，他这一次不打算再耗下去了。"
       ],
       "mention_count": 3
     },
     {
-      "name": "是您",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "夜真宗",
+      "aliases": [
+        "夜颠神",
+        "夜天宗"
+      ],
+      "identity": "夜昼国开国皇帝，戚笼的曾祖父",
+      "faction": "夜昼国",
+      "status": "已故",
       "first_appearance": "第四十九章 共分江山",
-      "summary": "“师傅，是您说不要的啊，”可怜的小道童都要哭了",
+      "summary": "夜昼国开国皇帝，无限接近真神的强者，晚年身体出现异常，疑似被朱太后所害。",
       "appearance": [],
       "personality": [],
+      "abilities": [
+        "龙脉掌控",
+        "风水演化"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "曾祖父"
+        },
+        {
+          "target": "残海皇",
+          "type": "宿敌"
+        },
+        {
+          "target": "朱太后",
+          "type": "儿媳（疑似加害者）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "晚年",
+          "event": "身体出现腿疾、哮喘等毛病，迷信巫蛊之道，经常去某地祭祀。"
+        }
+      ],
+      "evidence": [
+        "夜颠神便是夜真宗的本名",
+        "根据野史记载，真宗晚年经常会出现一些身体上的小毛病，如腿疾、哮喘、虚汗",
+        "他晚年，似乎有段时间迷信巫蛊之道，还经常去某个地方祭祀。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "朱太后",
+      "aliases": [
+        "夜皇太后"
+      ],
+      "identity": "夜昼国太后，戚笼的儿媳（名义上）",
+      "faction": "夜昼国",
+      "status": "登场（提及）",
+      "first_appearance": "第四十九章 共分江山",
+      "summary": "夜昼国太后，维持政局数十年，被戚笼怀疑毒死了夜真宗。",
+      "appearance": [],
+      "personality": [
+        "有手腕",
+        "克制"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "夜真宗",
+          "type": "儿媳（疑似加害者）"
+        },
+        {
+          "target": "戚笼",
+          "type": "儿媳（名义上）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼怀疑与夜真宗之死有关。"
+        }
+      ],
       "evidence": [
-        "“师傅，是您说不要的啊，”可怜的小道童都要哭了"
+        "想要知道真宗的死，跟我们那位夜皇太后有没有关系",
+        "这位儿媳妇是不是毒死了自己的公公",
+        "谁都知道，这几十年间，夜昼国最重要的不是皇帝，更不是不周，而是这位维持政局的老太后"
       ],
       "mention_count": 3
     },
     {
-      "name": "可怜",
+      "name": "天恶老祖",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "未知，残海皇提议的盟友",
+      "faction": "未知",
+      "status": "登场（提及）",
       "first_appearance": "第四十九章 共分江山",
-      "summary": "”金顶真人便把怒气发泄到了可怜的小道童身上",
+      "summary": "被残海皇提议联手共分江山的人物，具体身份未明。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "残海皇",
+          "type": "盟友（被提议）"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”金顶真人便把怒气发泄到了可怜的小道童身上",
-        "“师傅，是您说不要的啊，”可怜的小道童都要哭了"
+        "天恶老祖，夺了夜昼国，你我共分江山如何？"
       ],
-      "mention_count": 3
+      "mention_count": 1
+    },
+    {
+      "name": "小道童",
+      "aliases": [],
+      "identity": "金顶道人的弟子",
+      "faction": "夜昼国",
+      "status": "登场",
+      "first_appearance": "第四十九章 共分江山",
+      "summary": "金顶道人的门下小道童，被师傅迁怒。",
+      "appearance": [],
+      "personality": [
+        "委屈"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金顶道人",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被金顶道人质问为何不阻止他拒绝疗伤。"
+        }
+      ],
+      "evidence": [
+        "小道童小心翼翼的道",
+        "可怜的小道童都要哭了"
+      ],
+      "mention_count": 2
     }
   ]
 }

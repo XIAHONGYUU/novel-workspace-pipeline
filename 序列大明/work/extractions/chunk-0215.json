@@ -1,256 +1,311 @@
 {
   "chunk_id": "chunk-0215",
-  "title": "第213章客随主便",
   "characters": [
     {
-      "name": "金生火",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第213章客随主便",
-      "summary": "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
-        "金生火摇头道：“这件事最有趣的地方就是这里，四人不过对峙片刻便相继退走",
-        "金生火从头到尾就没站直过的身体又跪了下去，口中连呼不敢"
-      ],
-      "mention_count": 17
-    },
-    {
       "name": "张汝贞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张汝真"
+      ],
+      "identity": "银楼主人，疑似太监",
+      "faction": "牌系",
       "status": "登场",
       "first_appearance": "第213章客随主便",
-      "summary": "张汝贞沉吟片刻，冷笑道：“这场戏才刚刚开幕，可不能就这样冷场了",
-      "appearance": [],
-      "personality": [],
+      "summary": "银楼主人，面容清秀如女子，对金生火有提携之恩，策划利用赫藏甲设局引李钧入瓮。",
+      "appearance": [
+        "面容清秀如女子"
+      ],
+      "personality": [
+        "心狠手辣",
+        "多疑",
+        "有城府"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "金生火",
+          "type": "主仆/提携"
+        },
+        {
+          "target": "赫藏甲",
+          "type": "棋子"
+        },
+        {
+          "target": "李钧",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在银楼与金生火密谈，商议利用赫藏甲设局对付李钧。"
+        }
+      ],
       "evidence": [
-        "张汝贞沉吟片刻，冷笑道：“这场戏才刚刚开幕，可不能就这样冷场了",
-        "”　　“小人一定会把痕迹清理的干干净净，绝对不会给大人您添麻烦，只是.”　　张汝贞端起案几上的茶盏，用盖碗轻拂着清澈的茶汤",
-        "植入在颅后脑机灵窍中的芯片死死收束着自己的思想，丝毫不敢跟着张汝贞的话语向下深思"
+        "张汝贞沉吟片刻，冷笑道：“这场戏才刚刚开幕，可不能就这样冷场了。”",
+        "身影徐徐回转，露出张汝贞那张如同女子般的清秀面容。",
+        "张汝贞眼眸萌生戾气，“那个不知所谓的老古板，咱家要不是看他现在对王爷还有用处，早就将他撵出重庆府了！”"
       ],
       "mention_count": 14
     },
     {
-      "name": "张汝",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "金生火",
+      "aliases": [
+        "风将"
+      ],
+      "identity": "川渝赌会八将之一，暹罗人",
+      "faction": "牌系",
       "status": "登场",
       "first_appearance": "第213章客随主便",
-      "summary": "张汝贞沉吟片刻，冷笑道：“这场戏才刚刚开幕，可不能就这样冷场了",
-      "appearance": [],
-      "personality": [],
+      "summary": "暹罗人，受张汝贞提携成为风将，负责处理痕迹和设局。",
+      "appearance": [
+        "肥壮的身躯",
+        "胖脸"
+      ],
+      "personality": [
+        "阿谀奉承",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张汝贞",
+          "type": "下属/受提携"
+        },
+        {
+          "target": "赫藏甲",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张汝贞汇报重庆府情况，提及隆图、寂武、陈乞生和李钧的冲突。"
+        }
+      ],
       "evidence": [
-        "张汝贞沉吟片刻，冷笑道：“这场戏才刚刚开幕，可不能就这样冷场了",
-        "”　　“小人一定会把痕迹清理的干干净净，绝对不会给大人您添麻烦，只是.”　　张汝贞端起案几上的茶盏，用盖碗轻拂着清澈的茶汤",
-        "植入在颅后脑机灵窍中的芯片死死收束着自己的思想，丝毫不敢跟着张汝贞的话语向下深思"
+        "金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘”",
+        "金生火胖脸上露出几丝迟疑",
+        "金生火笑道：“回大人，最有趣的当属昨日，大昭寺派来的行走隆图出现在南渝区”"
       ],
       "mention_count": 12
     },
     {
-      "name": "金生",
-      "aliases": [],
-      "identity": "",
+      "name": "赫藏甲",
+      "aliases": [
+        "农八耕夫"
+      ],
+      "identity": "农八耕夫",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第213章客随主便",
-      "summary": "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
+      "summary": "一名农八耕夫，与从成都府逃过来的武七独夫走得颇近，被张汝贞视为李钧的弱点。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "朋友/弱点"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
-        "金生火摇头道：“这件事最有趣的地方就是这里，四人不过对峙片刻便相继退走",
-        "金生火从头到尾就没站直过的身体又跪了下去，口中连呼不敢"
+        "没错，本名叫赫藏甲，一名农八耕夫。和那名从成都府逃过来的武七独夫走得颇近。",
+        "以那个武夫恩仇必报的脾性，如果我们用赫藏甲的性命设局，他必然会不请自入。"
       ],
-      "mention_count": 12
+      "mention_count": 3
     },
     {
-      "name": "小人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第213章客随主便",
-      "summary": "”　　“小人一定会把痕迹清理的干干净净，绝对不会给大人您添麻烦，只是.”　　张汝贞端起案几上的茶盏，用盖碗轻拂着清澈的茶汤",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“小人一定会把痕迹清理的干干净净，绝对不会给大人您添麻烦，只是.”　　张汝贞端起案几上的茶盏，用盖碗轻拂着清澈的茶汤",
-        "”　　“那位爷的恩情，小人自然是铭感五内",
-        "大人的关照，小人同样也没齿难忘"
+      "name": "李钧",
+      "aliases": [
+        "武七独夫",
+        "武夫"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "张汝真",
-      "aliases": [],
-      "identity": "",
+      "identity": "武七独夫",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第213章客随主便",
-      "summary": "”　　张汝真放下茶盏，挑眉一笑：“瞧这架势，这是联手了",
+      "summary": "从成都府逃过来的武七独夫，与赫藏甲关系密切，被张汝贞视为目标。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恩仇必报"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赫藏甲",
+          "type": "朋友"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同盟"
+        },
+        {
+          "target": "寂武",
+          "type": "敌对"
+        },
+        {
+          "target": "隆图",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "昨日",
+          "event": "被寂武和隆图设伏，但陈乞生抢先一步与其结成同盟，四人对峙后退走。"
+        }
+      ],
       "evidence": [
-        "”　　张汝真放下茶盏，挑眉一笑：“瞧这架势，这是联手了",
-        "张汝真阴阳怪气，口中啧啧有声",
-        "”　　张汝真缓缓点头，疑惑道：“罗汉寺可是隶属汉传，少林的行走都没露脸，他一个番僧为什么会率先出头，找伱们的麻烦"
+        "和那名从成都府逃过来的武七独夫走得颇近。",
+        "以那个武夫恩仇必报的脾性",
+        "寂武和隆图想要设伏先拿下李钧，却没料到陈乞生抢先一步和李钧结成了同盟。"
       ],
       "mention_count": 5
     },
     {
-      "name": "每一",
+      "name": "隆图",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "大昭寺行走",
+      "faction": "大昭寺",
+      "status": "提及",
       "first_appearance": "第213章客随主便",
-      "summary": "每一栋宅邸均是府门宽大、气度森严",
+      "summary": "大昭寺派来的行走，番僧，试图度化川渝赌会‘和牌’手下的一张杂牌。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "每一栋宅邸均是府门宽大、气度森严",
-        "四周围墙高耸，每一面的长度最短都是成人步伐的五百步以上",
-        "穿着各色明衫，容貌俊美靓丽的男女偃人生活在其中，精心定制调配的灵魂，让他们日复一日，不知疲倦的清扫着宅邸内的每一处"
+      "relationships": [
+        {
+          "target": "寂武",
+          "type": "合作"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "还是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第213章客随主便",
-      "summary": "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
-        "”　　张汝贞点了点头，“明白就好，你做事一向妥帖，但这次还是要千万小心，不能让有心人看出你们‘八将’参与在其中，特别是锦衣卫燕八荒那里",
-        "”　　金生火轻声道：“无论是寂武、隆图，还是陈乞生，都是‘天下分武’之后诞生的从序者"
+      "timeline": [
+        {
+          "stage": "昨日",
+          "event": "出现在南渝区，与寂武设伏李钧，但被陈乞生破坏。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "口中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第213章客随主便",
-      "summary": "金生火从头到尾就没站直过的身体又跪了下去，口中连呼不敢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "金生火从头到尾就没站直过的身体又跪了下去，口中连呼不敢",
-        "张汝贞看着跪在身前的胖子，口中一时感慨万千",
-        "张汝真阴阳怪气，口中啧啧有声"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "大人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第213章客随主便",
-      "summary": "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　金生火一脸阿谀奉承：“还是大人您高瞻远瞩，当时让我们接手了罗汉寺的地盘，将李钧引入了‘牌系’，给他添了赫藏甲这个弱点",
-        "”　　“小人一定会把痕迹清理的干干净净，绝对不会给大人您添麻烦，只是.”　　张汝贞端起案几上的茶盏，用盖碗轻拂着清澈的茶汤",
-        "金生火笑道：“回大人，最有趣的当属昨日，大昭寺派来的行走隆图出现在南渝区，想要强行度化川渝赌会‘和牌’手下的一张杂牌"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "少林",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第213章客随主便",
-      "summary": "”　　张汝真缓缓点头，疑惑道：“罗汉寺可是隶属汉传，少林的行走都没露脸，他一个番僧为什么会率先出头，找伱们的麻烦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　张汝真缓缓点头，疑惑道：“罗汉寺可是隶属汉传，少林的行走都没露脸，他一个番僧为什么会率先出头，找伱们的麻烦",
-        "”　　“有趣之处正是这里，少林的行走寂武也现身了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "只有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第213章客随主便",
-      "summary": "可在这层楼内，却几乎看不到人影，只有几栋明制巨宅沉默的卧在其中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可在这层楼内，却几乎看不到人影，只有几栋明制巨宅沉默的卧在其中",
-        "当年若不是大人您赏我一口饭吃，根本不可能有现在的‘风将’金生火，只有一个还在穷山恶水中挣扎求生的刁民罢了"
+        "大昭寺派来的行走隆图出现在南渝区，想要强行度化川渝赌会‘和牌’手下的一张杂牌。",
+        "寂武和隆图想要设伏先拿下李钧"
       ],
       "mention_count": 3
+    },
+    {
+      "name": "寂武",
+      "aliases": [],
+      "identity": "少林行走",
+      "faction": "少林",
+      "status": "提及",
+      "first_appearance": "第213章客随主便",
+      "summary": "少林的行走，与隆图合作设伏李钧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "隆图",
+          "type": "合作"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "昨日",
+          "event": "与隆图设伏李钧，但被陈乞生破坏。"
+        }
+      ],
+      "evidence": [
+        "少林的行走寂武也现身了。",
+        "寂武和隆图想要设伏先拿下李钧"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "龙虎山天师",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "第213章客随主便",
+      "summary": "龙虎山的天师，抢先与李钧结成同盟。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同盟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "昨日",
+          "event": "抢先一步与李钧结成同盟，导致寂武和隆图的伏击失败。"
+        }
+      ],
+      "evidence": [
+        "龙虎山的天师陈乞生和李钧都出现了。",
+        "没料到陈乞生抢先一步和李钧结成了同盟。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "燕八荒",
+      "aliases": [],
+      "identity": "锦衣卫",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第213章客随主便",
+      "summary": "锦衣卫，张汝贞提醒金生火要小心他。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "特别是锦衣卫燕八荒那里。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戚槐",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第213章客随主便",
+      "summary": "张汝贞询问其是否有消息传回。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张汝贞",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "戚槐那边还没有消息传回来？"
+      ],
+      "mention_count": 1
     }
   ]
 }

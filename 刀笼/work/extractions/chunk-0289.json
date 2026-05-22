@@ -1,256 +1,217 @@
 {
   "chunk_id": "chunk-0289",
-  "title": "第六十二章 还刀",
   "characters": [
     {
-      "name": "男人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "”    “那我告诉你，我是怎么来的——”    男人低头缓缓咀嚼着，仿佛一点声音都听不到",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “那我告诉你，我是怎么来的——”    男人低头缓缓咀嚼着，仿佛一点声音都听不到",
-        "男人小心翼翼的避开周围兵卒的眼线，半晌过后，才重新钻了回去，冷酷的把老人砸在地上",
-        "“它们死了，”男人面无表情道"
-      ],
-      "mention_count": 16
-    },
-    {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "五十张上品篆箓，六灭法杵、天武将军铠、无形战弓、魔靥马、圣火盔、六阳天王令、天命水龙旗、捆山圈、超血丹、养魂丸、补身膏、还有几十本煞气阵法……    戚笼让人见识了什么叫挥金如土，三百万金的大款，被他短短半个时辰洒了个精光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "五十张上品篆箓，六灭法杵、天武将军铠、无形战弓、魔靥马、圣火盔、六阳天王令、天命水龙旗、捆山圈、超血丹、养魂丸、补身膏、还有几十本煞气阵法……    戚笼让人见识了什么叫挥金如土，三百万金的大款，被他短短半个时辰洒了个精光",
-        "打发走了叶玲儿，戚笼才嘴角一挑，哪还有什么后手，一个月之后，他找不到老祖宗，就要卷款跑路了",
-        "但是，戚笼最大的目标达成了"
+      "aliases": [
+        "薛保侯",
+        "戚大魁首"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "老人",
-      "aliases": [],
-      "identity": "",
+      "identity": "先锋卫侯爷，原刀笼魁首",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六十二章 还刀",
-      "summary": "”一个老人偷偷摸摸过来，嘴巴一咧，没有一颗好牙",
+      "summary": "主角，化名薛保侯采购物资，寻找老祖宗线索，目标是向百乌崔氏复仇。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "隐忍",
+        "果决",
+        "有戾气"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "八斩刀"
+      ],
+      "relationships": [
+        {
+          "target": "洪一",
+          "type": "旧识，曾拼刀"
+        },
+        {
+          "target": "洪小四",
+          "type": "受其托付"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "采购大量物资，得知百乌崔氏是仇家，去见洪一还刀。"
+        }
+      ],
       "evidence": [
-        "”一个老人偷偷摸摸过来，嘴巴一咧，没有一颗好牙",
-        "但这个老人的目光很明亮，很纯粹",
-        "那人抬起头，诧异了的看了老人一眼，老人一只眼睛还青肿着，这是争抢食物，被同类打的"
+        "戚笼轻轻吐了口气，很多人说他变了，他的确是变了，变的更加隐忍",
+        "他就想要报仇。",
+        "戚笼手指一转，一口八斩刀钉在了对方面前。"
       ],
       "mention_count": 12
     },
     {
-      "name": "洪一",
+      "name": "叶玲儿",
       "aliases": [],
-      "identity": "",
+      "identity": "先锋卫成员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六十二章 还刀",
-      "summary": "前奋勇校尉，洪一",
+      "summary": "先锋卫成员，关心大军粮秣，对戚笼的采购表示担忧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问粮秣问题，被戚笼安抚。"
+        }
+      ],
+      "evidence": [
+        "叶玲儿则欲言又止，最后实在忍不住，道：“侯爷，这大军的粮秣怎么办？”",
+        "叶玲儿闻言，顿时心安，心道果然不愧是侯爷，居然还有手段。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "青苗道人",
+      "aliases": [],
+      "identity": "商人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十二章 还刀",
+      "summary": "接待戚笼采购的道人，态度热情。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送别戚笼，笑开了花。"
+        }
+      ],
       "evidence": [
-        "前奋勇校尉，洪一",
-        "“人总是要死的，”洪一面无表情道",
-        "洪一盯着这口刀半晌，缓缓道：“把这口刀，带回去交给老爷子吧"
+        "“侯爷慢走，欢迎再次光临！”青苗道人笑开了花"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "洪一",
+      "aliases": [
+        "前奋勇校尉"
+      ],
+      "identity": "前奋勇校尉，现为奴隶",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十二章 还刀",
+      "summary": "戚笼旧识，曾与戚笼拼刀，如今沦为奴隶，在牲口拦中劳作。",
+      "appearance": [
+        "蓬头垢面、衣衫褴褛"
+      ],
+      "personality": [
+        "麻木",
+        "冷淡"
+      ],
+      "abilities": [
+        "武者"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "旧识，曾拼刀"
+        },
+        {
+          "target": "洪小四",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牲口拦中做苦工，与老人对话，后与戚笼见面，得知弟弟死讯。"
+        }
+      ],
+      "evidence": [
+        "一个蓬头垢面、衣衫褴褛的汉子",
+        "前奋勇校尉，洪一。",
+        "洪一盯着这口刀半晌，缓缓道：“把这口刀，带回去交给老爷子吧。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "老人",
+      "aliases": [],
+      "identity": "逃难至关外的乞丐",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十二章 还刀",
+      "summary": "一个信仰坚定的老人，向洪一宣传绝地天通的思想，导致同棚人畜死亡。",
+      "appearance": [
+        "一只眼睛青肿"
+      ],
+      "personality": [
+        "理想主义",
+        "执着"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "洪一",
+          "type": "被洪一救下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向洪一讲述自己的经历和绝地天通理念，导致同棚人畜死亡。"
+        }
+      ],
+      "evidence": [
+        "老人精神一振，在他看来，这是对方愿意听自己说话的迹象。",
+        "老人兴奋的手舞足蹈，若不是被人捂着嘴，险些都要笑出声来。",
+        "老人跪在地上，张大嘴巴，像是喘不过气来"
       ],
       "mention_count": 6
     },
     {
-      "name": "脚步",
+      "name": "洪小四",
       "aliases": [],
-      "identity": "",
+      "identity": "洪一的弟弟",
       "faction": "",
-      "status": "登场",
+      "status": "已故",
       "first_appearance": "第六十二章 还刀",
-      "summary": "“还有最后一件事，”戚笼自言自语，脚步一转，往某个特殊兵种的军营中走去",
+      "summary": "洪一的弟弟，在关内战死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“还有最后一件事，”戚笼自言自语，脚步一转，往某个特殊兵种的军营中走去",
-        "那人猛的捂住了对方的嘴巴，脚步一搓，闪电般的飞出‘牲口拦’"
+      "relationships": [
+        {
+          "target": "洪一",
+          "type": "兄弟"
+        },
+        {
+          "target": "戚笼",
+          "type": "受其托付"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "兵卒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "男人小心翼翼的避开周围兵卒的眼线，半晌过后，才重新钻了回去，冷酷的把老人砸在地上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "男人小心翼翼的避开周围兵卒的眼线，半晌过后，才重新钻了回去，冷酷的把老人砸在地上",
-        "”兵卒用力拍打的门，怒道",
-        "兵卒没有一点的情绪波动，只是不耐烦的道：“死了就死了，明个儿，你们自己把它们送到隔壁去，那些妖兽吃粗肉，坏了，一下子死这么多，不会得瘟了吧，我得找郎中瞅瞅，给我老实点"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在关内战死。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "几乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "”    无怪乎她这么说，‘薛保侯’大手笔采购，几乎把之前所得的‘煞石’全部掏空，还要搭上一部分先锋卫家底",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    无怪乎她这么说，‘薛保侯’大手笔采购，几乎把之前所得的‘煞石’全部掏空，还要搭上一部分先锋卫家底",
-        "从山北道、山南道、再到关中、关外，单从城池建筑、衣食住行来看、普通人的生活状态是越来越好了，尤其是关外，几乎跟传说中的仙境一般无二，人人居住在风水宝地中，气运强盛，旺子旺孙",
-        "戚笼死死盯着对方死气沉沉的眼神，这一位，跟当年敢跟他拼刀的那一位，几乎没有一点相同"
+        "小四在关内死了。",
+        "他帮你去救了，结果救下来了，也跑了，他战死了"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "五十张上品篆箓，六灭法杵、天武将军铠、无形战弓、魔靥马、圣火盔、六阳天王令、天命水龙旗、捆山圈、超血丹、养魂丸、补身膏、还有几十本煞气阵法……    戚笼让人见识了什么叫挥金如土，三百万金的大款，被他短短半个时辰洒了个精光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "五十张上品篆箓，六灭法杵、天武将军铠、无形战弓、魔靥马、圣火盔、六阳天王令、天命水龙旗、捆山圈、超血丹、养魂丸、补身膏、还有几十本煞气阵法……    戚笼让人见识了什么叫挥金如土，三百万金的大款，被他短短半个时辰洒了个精光",
-        "叶玲儿闻言，顿时心安，心道果然不愧是侯爷，居然还有手段",
-        "打发走了叶玲儿，戚笼才嘴角一挑，哪还有什么后手，一个月之后，他找不到老祖宗，就要卷款跑路了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "叶玲儿闻言，顿时心安，心道果然不愧是侯爷，居然还有手段",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "叶玲儿闻言，顿时心安，心道果然不愧是侯爷，居然还有手段",
-        "而这老人来的第一天，居然还想着划分食物，让瘦弱的、残废的，多吃一些"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那些",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "”    伴随着随军监官猛的一鞭子，那些赤身的、麻木的、身上有着种种伤势的奴隶们做起了最脏最累的活儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    伴随着随军监官猛的一鞭子，那些赤身的、麻木的、身上有着种种伤势的奴隶们做起了最脏最累的活儿",
-        "”    “是那些大人物，那些跟神祇一样强大的大人物，他们统治着世界，他们又不想改变这个世界",
-        "那些神，都死了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "普通人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "从山北道、山南道、再到关中、关外，单从城池建筑、衣食住行来看、普通人的生活状态是越来越好了，尤其是关外，几乎跟传说中的仙境一般无二，人人居住在风水宝地中，气运强盛，旺子旺孙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "从山北道、山南道、再到关中、关外，单从城池建筑、衣食住行来看、普通人的生活状态是越来越好了，尤其是关外，几乎跟传说中的仙境一般无二，人人居住在风水宝地中，气运强盛，旺子旺孙",
-        "山南道，军阀横行，帮会根本不能存在，军阀十个有九个都是世袭，普通人在乱世，哪怕有些拳脚功夫，也只能在其中煎熬",
-        "在关中，煞气跟潮水一样，时不时的就来上一遭，没有防御阵法，整城整县的人被煞气一卷，说没就没了，哪还有多少普通人"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十二章 还刀",
-      "summary": "那人抬起头，诧异了的看了老人一眼，老人一只眼睛还青肿着，这是争抢食物，被同类打的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那人抬起头，诧异了的看了老人一眼，老人一只眼睛还青肿着，这是争抢食物，被同类打的",
-        "那人接过馊馒头，掰开一小块，在干巴巴的嘴中挤出一丝口水，艰难的咀嚼着",
-        "都回去了，没有那些怪物，没有那些个人形的妖魔，再没有神异鬼怪，所有人的气力都是一样大，练武的人也不可能天下无敌，如果皇帝做的不好，人们可以推翻他，再没有人上人……”    那人明显感觉到，随着老人的话，一种恐怖的意志在凝聚，在产生一种类似愤"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

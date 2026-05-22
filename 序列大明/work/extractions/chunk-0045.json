@@ -1,243 +1,122 @@
 {
   "chunk_id": "chunk-0045",
-  "title": "第44章武八，红血",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "武道修行者",
+      "faction": "武道序列",
       "status": "登场",
       "first_appearance": "第44章武八，红血",
-      "summary": "李钧心头一动，隐约觉得这四个字背后隐藏了不少信息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧心头一动，隐约觉得这四个字背后隐藏了不少信息",
-        "咚..咚..　　护法神脚步极重，每一步落下被烈焰烘烤焦脆的地板就会发出难以承受的噼啪声响，五指张开罩向李钧面门",
-        "”　　劲风扑面，李钧眉峰挑动，双手持刀翻腕横抹，从佛掌上一割而过，声响刺耳，火星四溅"
+      "summary": "与护法神激战的武道修行者，拥有青帝诀八品大圆满修为。",
+      "appearance": [
+        "满脸烟尘和血迹",
+        "虎口裂开"
       ],
-      "mention_count": 28
+      "personality": [
+        "冷静",
+        "谨慎",
+        "彪悍"
+      ],
+      "abilities": [
+        "游身步",
+        "单刀法选",
+        "青帝诀"
+      ],
+      "equipment": [
+        "长刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与护法神战斗，击杀护法神后面对红僧木措。"
+        }
+      ],
+      "evidence": [
+        "李钧心头一动，隐约觉得这四个字背后隐藏了不少信息。",
+        "李钧飞身追至，手中长刀笔直朝着护法神的眉心刺下！",
+        "【消耗精通点100点，青帝诀提升至八品大圆满】"
+      ],
+      "mention_count": 30
     },
     {
       "name": "护法神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "”　　这名在佛国之中扮演巨佛的护法神语气生硬刻板，一张和木措等人截然不同的狰狞五官上没有半分生气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这名在佛国之中扮演巨佛的护法神语气生硬刻板，一张和木措等人截然不同的狰狞五官上没有半分生气",
-        "可还没来得及深思，身形极其魁梧的护法神就已经冲了过来",
-        "咚..咚..　　护法神脚步极重，每一步落下被烈焰烘烤焦脆的地板就会发出难以承受的噼啪声响，五指张开罩向李钧面门"
+      "aliases": [
+        "巨佛"
       ],
-      "mention_count": 10
+      "identity": "佛国护法神",
+      "faction": "佛门序列",
+      "status": "死亡",
+      "first_appearance": "第44章武八，红血",
+      "summary": "佛国中的护法神，由红僧木措操控，拥有金属骨骼和梵文刻印。",
+      "appearance": [
+        "身形极其魁梧",
+        "狰狞五官",
+        "黄色僧袍"
+      ],
+      "personality": [
+        "生硬刻板",
+        "不知疼痛"
+      ],
+      "abilities": [],
+      "equipment": [
+        "金属骨骼",
+        "金色梵文"
+      ],
+      "relationships": [
+        {
+          "target": "红僧木措",
+          "type": "被操控"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧击杀，眉心慧根被毁。"
+        }
+      ],
+      "evidence": [
+        "这名在佛国之中扮演巨佛的护法神语气生硬刻板",
+        "护法神掌心血肉被剖开，露出下面的金属骨骼，上面密密麻麻篆刻着蝇头大小的金色梵文。",
+        "断首炸碎，血肉横飞。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "护法",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "”　　这名在佛国之中扮演巨佛的护法神语气生硬刻板，一张和木措等人截然不同的狰狞五官上没有半分生气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这名在佛国之中扮演巨佛的护法神语气生硬刻板，一张和木措等人截然不同的狰狞五官上没有半分生气",
-        "可还没来得及深思，身形极其魁梧的护法神就已经冲了过来",
-        "咚..咚..　　护法神脚步极重，每一步落下被烈焰烘烤焦脆的地板就会发出难以承受的噼啪声响，五指张开罩向李钧面门"
+      "name": "红僧木措",
+      "aliases": [
+        "木措"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "一路",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "红僧",
+      "faction": "佛门序列",
       "status": "登场",
       "first_appearance": "第44章武八，红血",
-      "summary": "一阵刺耳的摩擦声不断响起，刃口从护法神的下颚砍了进去，一路上撩，几乎将下半张面皮掀了下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一阵刺耳的摩擦声不断响起，刃口从护法神的下颚砍了进去，一路上撩，几乎将下半张面皮掀了下来",
-        "两道纠缠在一起的身影砸穿三层楼板，一路向下坠落，最终狠狠砸落在红砖木楼的底层，撞击带起的风压让肆虐的火海都为之一窒"
+      "summary": "操控护法神的红僧，与李钧敌对。",
+      "appearance": [
+        "一袭红袍"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "李钧摇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "【消耗精通点2点，青帝诀提升至八品后期（0/100）】　　李钧摇了摇被破锁声音震得发昏的脑袋，嘴唇微动：“别废话，要动手就来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【消耗精通点2点，青帝诀提升至八品后期（0/100）】　　李钧摇了摇被破锁声音震得发昏的脑袋，嘴唇微动：“别废话，要动手就来",
-        "”　　李钧摇头苦笑，抬手抹了把脸上的烟尘和血迹，略微弯曲的脊背一寸寸挺直"
+      "personality": [
+        "阴沉"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "护法神掌心血肉被剖开，露出下面的金属骨骼，上面密密麻麻篆刻着蝇头大小的金色梵文",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "护法神掌心血肉被剖开，露出下面的金属骨骼，上面密密麻麻篆刻着蝇头大小的金色梵文",
-        "李钧咧嘴露出一口森白的牙齿，浑身凛然的杀意陡然彪悍三分，右脚突然暴起凶猛蹬在护法神下颚"
+      "relationships": [
+        {
+          "target": "护法神",
+          "type": "操控"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "几乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "一阵刺耳的摩擦声不断响起，刃口从护法神的下颚砍了进去，一路上撩，几乎将下半张面皮掀了下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一阵刺耳的摩擦声不断响起，刃口从护法神的下颚砍了进去，一路上撩，几乎将下半张面皮掀了下来",
-        "李钧后仰折腰几乎与地面平行，让过护法神回身横扫的手臂，腰身发力，硬生生拔起身形，一刀钉在对方肋部"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "扔出人头挑衅李钧，声称要李钧替代护法神。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "还没",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "可还没来得及深思，身形极其魁梧的护法神就已经冲了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "可还没来得及深思，身形极其魁梧的护法神就已经冲了过来",
-        "李钧双手按着膝盖缓缓起身，还没来得及喘口气，被鲜血模糊的视线中便看到一袭红袍"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "呼啸",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "原本被抓住的长刀顺势脱困，呼啸着向眉心劈落",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "原本被抓住的长刀顺势脱困，呼啸着向眉心劈落"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "千钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "千钧一发之际，护法神勉强侧转面门，用侧脸替代眉心扛了这一刀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "千钧一发之际，护法神勉强侧转面门，用侧脸替代眉心扛了这一刀"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "要动",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "【消耗精通点2点，青帝诀提升至八品后期（0/100）】　　李钧摇了摇被破锁声音震得发昏的脑袋，嘴唇微动：“别废话，要动手就来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【消耗精通点2点，青帝诀提升至八品后期（0/100）】　　李钧摇了摇被破锁声音震得发昏的脑袋，嘴唇微动：“别废话，要动手就来"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "自肩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第44章武八，红血",
-      "summary": "【消耗精通点100点，青帝诀提升至八品大圆满】　　一道刀痕出现在护法神的背心，自肩头一直蔓延到腰部，紧绷的黄色僧袍霎时被剖成两半",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【消耗精通点100点，青帝诀提升至八品大圆满】　　一道刀痕出现在护法神的背心，自肩头一直蔓延到腰部，紧绷的黄色僧袍霎时被剖成两半"
+        "被鲜血模糊的视线中便看到一袭红袍。",
+        "红僧木措扬手一甩，一颗血肉模糊的脑袋裹挟着凄厉的破空声飞砸而来。",
+        "红僧木措面色阴沉，一字一顿。"
       ],
       "mention_count": 3
     }

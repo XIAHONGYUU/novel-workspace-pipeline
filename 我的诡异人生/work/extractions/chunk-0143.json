@@ -1,258 +1,177 @@
 {
   "chunk_id": "chunk-0143",
-  "title": "第142章 变改的真实",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者，拥有天蓬肃杀咒印和尸陀鬼之手",
       "faction": "",
       "status": "登场",
       "first_appearance": "第142章 变改的真实",
-      "summary": "第142章 变改的真实　　苏午看着有个女人摇曳裙摆，从商店内里走出来，到了店老板旁边连声呼唤，　　他点了点头，　　既然对方的老婆已经出来救人了，他就不去掺和什么了",
+      "summary": "主角，拥有模拟器能力，能影响历史。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第142章 变改的真实　　苏午看着有个女人摇曳裙摆，从商店内里走出来，到了店老板旁边连声呼唤，　　他点了点头，　　既然对方的老婆已经出来救人了，他就不去掺和什么了",
-        "那种被窥伺的感觉十分细微，　　并且稍纵即逝，　　苏午转身查看，未有任何发现以后，自觉可能是有过路人悄悄看了自己一眼，用意不明",
-        "记下这个细节，苏午刷卡走入小区中"
+      "personality": [
+        "谨慎",
+        "善于思考"
       ],
-      "mention_count": 36
+      "abilities": [
+        "天蓬肃杀咒印",
+        "尸陀鬼之手",
+        "模拟器能力"
+      ],
+      "equipment": [
+        "牛皮唐卡大袍",
+        "壮养膏",
+        "罡洞"
+      ],
+      "relationships": [
+        {
+          "target": "申豪",
+          "type": "朋友"
+        },
+        {
+          "target": "卓杰",
+          "type": "模拟身份"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现模拟器影响现实历史，决定进行真身模拟。"
+        }
+      ],
+      "evidence": [
+        "苏午看着桌上的书页，沉默了许久。",
+        "模拟器——让历史发生了改变！",
+        "苏午向模拟器发出了指令：“开启‘卓杰的过去人生’模拟！”"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "卓杰",
+      "name": "店老板",
       "aliases": [],
-      "identity": "",
+      "identity": "小商店老板",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第142章 变改的真实",
-      "summary": "在他上一次模拟以前，这本书籍上的记载并没有任何异常，虽然当时记录中的‘无想尊能寺’也有天海这个人，　　但天海还是原历史时间轴上的那个天海，　　即是原本的卓杰",
+      "summary": "被苏午的天蓬肃杀咒印间接杀死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在他上一次模拟以前，这本书籍上的记载并没有任何异常，虽然当时记录中的‘无想尊能寺’也有天海这个人，　　但天海还是原历史时间轴上的那个天海，　　即是原本的卓杰",
-        "它将苏午顶替卓杰身份，成为天海僧侣以后，在密藏域进行的草药推广，救助群生的部分给记录了下来",
-        "苏午思索了一阵，　　打算明早正式开始真身进入‘卓杰的过去人生’模拟后，进行一番试验，来确定自己猜测的正确与否"
+      "relationships": [
+        {
+          "target": "老板娘",
+          "type": "夫妻"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午经过时，因天蓬肃杀咒印而死亡。"
+        }
+      ],
+      "evidence": [
+        "店老板摔倒昏迷过去",
+        "才导致了店老板的‘死亡’",
+        "一具本就已死的尸体直接倒毙"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "书上",
+      "name": "老板娘",
       "aliases": [],
-      "identity": "",
+      "identity": "店老板的妻子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第142章 变改的真实",
-      "summary": "苏午记得，上次浏览这一节的时候，书上说了‘扎布山寺’是‘无想尊能寺’破灭以后，寺庙里的僧侣们在‘扎布山’上新建立的一座寺庙",
+      "summary": "在店老板出事时出现。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午记得，上次浏览这一节的时候，书上说了‘扎布山寺’是‘无想尊能寺’破灭以后，寺庙里的僧侣们在‘扎布山’上新建立的一座寺庙",
-        "书上对‘无想尊能寺’的住持谱系，以及出身该寺庙的有名大僧侣作了简略介绍",
-        "书上多出了一个大僧侣的介绍"
+      "relationships": [
+        {
+          "target": "店老板",
+          "type": "夫妻"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从商店内里走出来呼唤店老板。"
+        }
+      ],
+      "evidence": [
+        "有个女人摇曳裙摆，从商店内里走出来，到了店老板旁边连声呼唤"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "模拟",
+      "name": "申豪",
       "aliases": [],
-      "identity": "",
+      "identity": "苏午的朋友",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第142章 变改的真实",
-      "summary": "在他上一次模拟以前，这本书籍上的记载并没有任何异常，虽然当时记录中的‘无想尊能寺’也有天海这个人，　　但天海还是原历史时间轴上的那个天海，　　即是原本的卓杰",
+      "summary": "与苏午约早餐，接收雄血汤。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在他上一次模拟以前，这本书籍上的记载并没有任何异常，虽然当时记录中的‘无想尊能寺’也有天海这个人，　　但天海还是原历史时间轴上的那个天海，　　即是原本的卓杰",
-        "苏午进行的模拟，让真实历史发生了移转",
-        "让模拟里的‘天海贤僧’，成为了真实历史中的‘天海贤僧’"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "自身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第142章 变改的真实",
-      "summary": "自身的意已经积累到一个当世人匪夷所思的程度，若说让自己记忆整部字典、辞海，自己可能做不到",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "自身的意已经积累到一个当世人匪夷所思的程度，若说让自己记忆整部字典、辞海，自己可能做不到",
-        "那么，自身日后是否可以去往密藏域，探看自己身陨之地，是否有遗物存留至今",
-        "他脑海里回忆着从自身上一次模拟至今，都发生了什么事情"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午约早餐，接收雄血汤。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "天海",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第142章 变改的真实",
-      "summary": "——‘天海贤僧’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "——‘天海贤僧’",
-        "书上说：天海贤僧是无想尊能寺戒律院长老广法的弟子，被尊称为‘大善天海贤僧’",
-        "这位天海贤僧……　　……　　关于‘天海贤僧’的记载，这本书用了整整一页的篇幅"
+        "苏午照例与申豪约了早餐，将几份雄血汤交给对方"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "天海贤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第142章 变改的真实",
-      "summary": "——‘天海贤僧’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "——‘天海贤僧’",
-        "书上说：天海贤僧是无想尊能寺戒律院长老广法的弟子，被尊称为‘大善天海贤僧’",
-        "这位天海贤僧……　　……　　关于‘天海贤僧’的记载，这本书用了整整一页的篇幅"
-      ],
-      "mention_count": 6
+      "mention_count": 2
     },
     {
       "name": "天海贤僧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "大善天海贤僧"
+      ],
+      "identity": "无想尊能寺戒律院长老广法的弟子",
+      "faction": "无想尊能寺",
+      "status": "提及（历史人物）",
       "first_appearance": "第142章 变改的真实",
-      "summary": "——‘天海贤僧’",
+      "summary": "历史上被记载的贤僧，实为苏午模拟中的身份。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "——‘天海贤僧’",
-        "书上说：天海贤僧是无想尊能寺戒律院长老广法的弟子，被尊称为‘大善天海贤僧’",
-        "这位天海贤僧……　　……　　关于‘天海贤僧’的记载，这本书用了整整一页的篇幅"
+      "relationships": [
+        {
+          "target": "广法",
+          "type": "师徒"
+        },
+        {
+          "target": "苏午",
+          "type": "模拟身份"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "扎布",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第142章 变改的真实",
-      "summary": "打开《密藏域现存法寺历史索引》，找到关于‘扎布山寺’本源追溯的那一个章节",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "打开《密藏域现存法寺历史索引》，找到关于‘扎布山寺’本源追溯的那一个章节",
-        "苏午记得，上次浏览这一节的时候，书上说了‘扎布山寺’是‘无想尊能寺’破灭以后，寺庙里的僧侣们在‘扎布山’上新建立的一座寺庙",
-        "——关于‘扎布山寺’源流追溯的这个章节，篇幅比他上一次阅览时似乎多出了一二页"
+      "timeline": [
+        {
+          "stage": "历史",
+          "event": "在密藏域进行草药推广，救助群生。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "扎布山",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第142章 变改的真实",
-      "summary": "打开《密藏域现存法寺历史索引》，找到关于‘扎布山寺’本源追溯的那一个章节",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "打开《密藏域现存法寺历史索引》，找到关于‘扎布山寺’本源追溯的那一个章节",
-        "苏午记得，上次浏览这一节的时候，书上说了‘扎布山寺’是‘无想尊能寺’破灭以后，寺庙里的僧侣们在‘扎布山’上新建立的一座寺庙",
-        "——关于‘扎布山寺’源流追溯的这个章节，篇幅比他上一次阅览时似乎多出了一二页"
+        "书上说：天海贤僧是无想尊能寺戒律院长老广法的弟子",
+        "被尊称为‘大善天海贤僧’",
+        "其对密藏域，尤其是昌云州的医药学、文化、艺术等领域都有卓绝贡献"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "已经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第142章 变改的真实",
-      "summary": "第142章 变改的真实　　苏午看着有个女人摇曳裙摆，从商店内里走出来，到了店老板旁边连声呼唤，　　他点了点头，　　既然对方的老婆已经出来救人了，他就不去掺和什么了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第142章 变改的真实　　苏午看着有个女人摇曳裙摆，从商店内里走出来，到了店老板旁边连声呼唤，　　他点了点头，　　既然对方的老婆已经出来救人了，他就不去掺和什么了",
-        "——他看到店老板转身靠着货架软倒，　　还以为对方是高血压、心脏病一类的疾病发了，昏倒过去，并未想到对方已经彻底死亡",
-        "自身的意已经积累到一个当世人匪夷所思的程度，若说让自己记忆整部字典、辞海，自己可能做不到"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "模拟器",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第142章 变改的真实",
-      "summary": "模拟器——让历史发生了改变",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "模拟器——让历史发生了改变",
-        "又有哪些事情可能是与模拟器相关的",
-        "借此来判断，导致模拟器影响现实历史的原因在哪里"
-      ],
-      "mention_count": 5
+      "mention_count": 4
     }
   ]
 }

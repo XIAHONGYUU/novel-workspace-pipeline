@@ -1,48 +1,126 @@
 {
   "chunk_id": "chunk-0625",
-  "title": "第六百二十一章 勇气（八）",
   "characters": [
     {
       "name": "宋丹浩",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "丹浩",
+        "浩哥"
+      ],
+      "identity": "五阶修士",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "长方形的大厅内，宋丹浩正站在最中间的一张金属长桌前，仔细围绕桌面研究了很久",
+      "first_appearance": "",
+      "summary": "寻找第四块令牌，与酒虫人战斗，后被杜启君困于生死边界。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "长方形的大厅内，宋丹浩正站在最中间的一张金属长桌前，仔细围绕桌面研究了很久",
-        "”宋丹浩皱眉道",
-        "宋丹浩几人飞快走过去，透过敞开的大门，终于看到第四块令牌的所在"
+      "abilities": [
+        "黑刀凝聚",
+        "黑气屏障",
+        "眉心符号闪烁"
       ],
-      "mention_count": 29
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林耀阳",
+          "type": "同伴"
+        },
+        {
+          "target": "宫商白钰",
+          "type": "同伴"
+        },
+        {
+          "target": "许玲",
+          "type": "同伴"
+        },
+        {
+          "target": "杜启君",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在虚无宫中央大厅寻找第四块令牌，遭遇酒虫人，令牌被杜启君抢走。"
+        }
+      ],
+      "evidence": [
+        "宋丹浩正站在最中间的一张金属长桌前，仔细围绕桌面研究了很久。",
+        "宋丹浩眉心符号闪烁，周身黑气散发开来。",
+        "宋丹浩令牌被抢一块，面色难看的往后退了几步。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "宋丹",
+      "name": "林耀阳",
       "aliases": [],
+      "identity": "四阶修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与宋丹浩一同行动，与酒虫人战斗，后被东升平对上。",
+      "appearance": [],
+      "personality": [
+        "实战经验丰富"
+      ],
+      "abilities": [],
+      "equipment": [
+        "断剑（后被酒虫人吃掉）"
+      ],
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        },
+        {
+          "target": "东升平",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现令牌位置，与酒虫人战斗，断剑被毁，后被东升平对上。"
+        }
+      ],
+      "evidence": [
+        "林耀阳情急之下，将手里的断剑往其中一头酒虫人一扔。",
+        "林耀阳实战经验丰富，也是第一个反应过来的。",
+        "副手东升平，则是手持五齿钉耙，缓缓站到林耀阳对面。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "宫商白钰",
+      "aliases": [
+        "白钰"
+      ],
       "identity": "",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "长方形的大厅内，宋丹浩正站在最中间的一张金属长桌前，仔细围绕桌面研究了很久",
+      "first_appearance": "",
+      "summary": "与宋丹浩同行，被宋丹浩送到角落藏起来。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "长方形的大厅内，宋丹浩正站在最中间的一张金属长桌前，仔细围绕桌面研究了很久",
-        "”宋丹浩皱眉道",
-        "宋丹浩几人飞快走过去，透过敞开的大门，终于看到第四块令牌的所在"
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被宋丹浩送到角落藏起来，后被困于生死边界。"
+        }
+      ],
+      "evidence": [
+        "宋丹浩将脸红得不行的白钰送到角落里藏起来",
+        "一个戴面纱的女修对上宫商白钰"
+      ],
+      "mention_count": 4
     },
     {
       "name": "许玲",
@@ -50,209 +128,176 @@
       "identity": "",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "”许玲嘲讽道",
+      "first_appearance": "",
+      "summary": "与宋丹浩同行，偷偷取走令牌并丢给宋丹浩。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”许玲嘲讽道",
-        "许玲则悄无声息的隐藏起来，浑身气息完全收敛，双手抱着一小瓶绿色药水，跑到一侧小心翼翼的往地上倾倒泼洒起来",
-        "趁着酒虫人被缠住的时机，许玲小心翼翼的一边泼洒毫无气味的药水"
+      "abilities": [
+        "隐藏气息"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "林耀阳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "忽然林耀阳那边传来惊疑声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "忽然林耀阳那边传来惊疑声",
-        "让人怪异的是，这头巨熊周围还隐隐散发出浓烈酒香，像是有许多酒水被蒸发后闷着，熏得林耀阳也忍不住后退两步",
-        "”林耀阳缓缓拔出断剑，舔舔嘴唇"
+      "equipment": [
+        "小瓶绿色药水"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "忽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "忽然林耀阳那边传来惊疑声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "忽然林耀阳那边传来惊疑声",
-        "林耀阳正要回话，忽然感觉不对，马上一个后跃，刚好退出三步距离",
-        "”　　距离林耀阳三人还有十多米远时，许玲比了比方向，忽然一把将令牌丢出去，精准的落向刚刚爬起来的宋丹浩位置"
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "杜启君",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "四耳杜启君面带微笑走出来，身后是东升平和另外两个得力干将，然后后面还有十多位紧跟进来的四海仙山修士",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "四耳杜启君面带微笑走出来，身后是东升平和另外两个得力干将，然后后面还有十多位紧跟进来的四海仙山修士",
-        "”杜启君走进宋丹浩所在的方块，直接朝令牌抓去",
-        "杜启君的手顿了顿，终究还是轻轻碰到令牌"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "偷偷取走令牌并丢给宋丹浩，后被困于生死边界。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "林耀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "忽然林耀阳那边传来惊疑声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "忽然林耀阳那边传来惊疑声",
-        "让人怪异的是，这头巨熊周围还隐隐散发出浓烈酒香，像是有许多酒水被蒸发后闷着，熏得林耀阳也忍不住后退两步",
-        "”林耀阳缓缓拔出断剑，舔舔嘴唇"
+        "许玲则悄无声息的隐藏起来，浑身气息完全收敛，双手抱着一小瓶绿色药水",
+        "许玲小心翼翼的一边泼洒毫无气味的药水。一边悄然绕圈",
+        "许玲小心将令牌拿起来，又绕弯往回跑去。"
       ],
       "mention_count": 6
     },
     {
-      "name": "像是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "杜启君",
+      "aliases": [
+        "四耳杜启君",
+        "四耳仙杜启君"
+      ],
+      "identity": "四海仙山修士",
+      "faction": "四海仙山",
       "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "呼……　　呼……　　这头庞大生物足有上百米长，五十多宽，通体血红，像是放大版的狗熊冰雕，身体隐隐有些半透明",
+      "first_appearance": "",
+      "summary": "使用生死边界法术困住宋丹浩等人，抢走令牌。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "呼……　　呼……　　这头庞大生物足有上百米长，五十多宽，通体血红，像是放大版的狗熊冰雕，身体隐隐有些半透明",
-        "让人怪异的是，这头巨熊周围还隐隐散发出浓烈酒香，像是有许多酒水被蒸发后闷着，熏得林耀阳也忍不住后退两步",
-        "断剑狠狠刺在酒虫人皮肤上，然后像是撞到硬木头一般，反弹下来，完全没用"
+      "abilities": [
+        "生死边界",
+        "分割空间"
       ],
-      "mention_count": 5
+      "equipment": [
+        "小瓶（上半截黑色，下半截白色，瓶口有金色毫光）"
+      ],
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "敌对"
+        },
+        {
+          "target": "东升平",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领四海仙山修士出现，使用生死边界困住众人，抢走令牌。"
+        }
+      ],
+      "evidence": [
+        "四耳杜启君面带微笑走出来，身后是东升平和另外两个得力干将",
+        "杜启君走进宋丹浩所在的方块，直接朝令牌抓去。",
+        "杜启君微笑看着他，手里缓缓多出一个小瓶。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "我们",
+      "name": "东升平",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "四海仙山修士，副手",
+      "faction": "四海仙山",
       "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "”　　“既然不会醒，我们直接过去拿走令牌不就好了",
+      "first_appearance": "",
+      "summary": "杜启君的副手，对上林耀阳。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“既然不会醒，我们直接过去拿走令牌不就好了",
-        "“我们要遇到大麻烦了",
-        "“没办法解决，酒虫人一般居住在酒海，和我们世界并没有通道相连"
+      "equipment": [
+        "五齿钉耙"
       ],
-      "mention_count": 5
+      "relationships": [
+        {
+          "target": "杜启君",
+          "type": "上司"
+        },
+        {
+          "target": "林耀阳",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "手持五齿钉耙对上林耀阳。"
+        }
+      ],
+      "evidence": [
+        "副手东升平，则是手持五齿钉耙，缓缓站到林耀阳对面。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "手里",
+      "name": "戴面纱的女修",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "四海仙山修士",
+      "faction": "四海仙山",
       "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "这些毛虫长达七八米，上半身是人类男子模样，肌肉强健，直立起来，手里还握着一把把三米多长的白色双尖叉",
-      "appearance": [],
+      "first_appearance": "",
+      "summary": "对上宫商白钰。",
+      "appearance": [
+        "戴面纱"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这些毛虫长达七八米，上半身是人类男子模样，肌肉强健，直立起来，手里还握着一把把三米多长的白色双尖叉",
-        "林耀阳情急之下，将手里的断剑往其中一头酒虫人一扔",
-        "”杜启君微笑看着他，手里缓缓多出一个小瓶"
+      "relationships": [
+        {
+          "target": "宫商白钰",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "对上宫商白钰。"
+        }
+      ],
+      "evidence": [
+        "一个戴面纱的女修对上宫商白钰"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "它们",
+      "name": "手握钢叉的男子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "四海仙山修士",
+      "faction": "四海仙山",
       "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "“酒虫人……凡事醉酒之熊在的地方，就有它们的踪影",
-      "appearance": [],
+      "first_appearance": "",
+      "summary": "对上许玲。",
+      "appearance": [
+        "身穿白色半身铠甲"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“酒虫人……凡事醉酒之熊在的地方，就有它们的踪影",
-        "“注意保持距离，它们身边十米范围都会有最浓的酒气，一旦闻到铁定醉倒任他们宰割",
-        "它们只能短暂通过那头巨熊引发的空间裂缝，趁机出现在这里"
+      "equipment": [
+        "钢叉"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百二十一章 勇气（八）",
-      "summary": "但因为攻击每一次都无从察觉，两人不一会儿便都被打中数次",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但因为攻击每一次都无从察觉，两人不一会儿便都被打中数次",
-        "两人很快陷入苦战",
-        "临走前还不忘朝宋丹浩两人打个手势"
+      "relationships": [
+        {
+          "target": "许玲",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "对上许玲。"
+        }
+      ],
+      "evidence": [
+        "一个手握钢叉，身上穿着白色半身铠甲的男子，对上许玲。"
+      ],
+      "mention_count": 1
     }
   ]
 }

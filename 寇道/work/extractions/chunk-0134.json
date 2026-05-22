@@ -1,258 +1,498 @@
 {
   "chunk_id": "chunk-0134",
-  "title": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
   "characters": [
     {
-      "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "”    寇立脚下煞蛇嘶吼，不仅没有半点惧意，反而满是战意，对于这吞星的幕后黑手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    寇立脚下煞蛇嘶吼，不仅没有半点惧意，反而满是战意，对于这吞星的幕后黑手",
-        "寇立心道：‘敢情这也有个海姆达尔",
-        "寇立觉的，对方强的可怕"
-      ],
-      "mention_count": 88
-    },
-    {
       "name": "古小钗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "人间的周天星辰尽是天规所化，而当古小钗将神眼威能大开后，天规尽散，等踏入这篇星域后，那象征着北方正朔的星宫早已消失不见",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "人间的周天星辰尽是天规所化，而当古小钗将神眼威能大开后，天规尽散，等踏入这篇星域后，那象征着北方正朔的星宫早已消失不见",
-        "“这股凶气，这种霸道作风，”古小钗摇头：“来者不善啊，只希望他的目标不是玉京城",
-        "古小钗说，这道门能够入危险的三界之外，也能够到玉京城中，具体怎么走，这位爷说了算"
+      "aliases": [
+        "古小钗"
       ],
-      "mention_count": 32
+      "identity": "金宵宗长老转世",
+      "faction": "金宵派",
+      "status": "登场",
+      "first_appearance": "第七十一章 玉京城（下）",
+      "summary": "金宵宗长老转世，性格豪爽直率，对九琼玉京的谪仙人持批判态度。",
+      "appearance": [],
+      "personality": [
+        "豪爽",
+        "直率",
+        "叛逆"
+      ],
+      "abilities": [
+        "神眼",
+        "瞳术"
+      ],
+      "equipment": [
+        "玉扳指（神陨石）"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门师姐弟"
+        },
+        {
+          "target": "正阳子",
+          "type": "师兄"
+        },
+        {
+          "target": "菩提道人",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立一同前往九琼玉京，在望乡台醉酒闹事，与上官城主约定三日后比试。"
+        }
+      ],
+      "evidence": [
+        "古小钗说，这道门能够入危险的三界之外，也能够到玉京城中",
+        "古小钗咧嘴：“当然是去拜见主家了。”",
+        "古小钗阴阳怪气的道，她的双眼中，蓝光映衬着繁星"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "古小",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "人间的周天星辰尽是天规所化，而当古小钗将神眼威能大开后，天规尽散，等踏入这篇星域后，那象征着北方正朔的星宫早已消失不见",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "人间的周天星辰尽是天规所化，而当古小钗将神眼威能大开后，天规尽散，等踏入这篇星域后，那象征着北方正朔的星宫早已消失不见",
-        "“这股凶气，这种霸道作风，”古小钗摇头：“来者不善啊，只希望他的目标不是玉京城",
-        "古小钗说，这道门能够入危险的三界之外，也能够到玉京城中，具体怎么走，这位爷说了算"
+      "name": "寇立",
+      "aliases": [
+        "寇立"
       ],
-      "mention_count": 23
+      "identity": "疑似金宵宗长老转世，实为正阳子选中之人",
+      "faction": "金宵派",
+      "status": "登场",
+      "first_appearance": "第七十一章 玉京城（下）",
+      "summary": "主角，拥有前世记忆碎片，剑术为‘生’之剑术，被东方谨认出并非金宵宗长老。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有悟性"
+      ],
+      "abilities": [
+        "剑术（再生剑术）",
+        "水剑术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "古小钗",
+          "type": "同门师姐弟"
+        },
+        {
+          "target": "正阳子",
+          "type": "继承者"
+        },
+        {
+          "target": "东方谨",
+          "type": "前辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与古小钗前往九琼玉京，在望乡台醉酒闹事，与上官城主约定三日后比试。"
+        }
+      ],
+      "evidence": [
+        "寇立心道：‘敢情这也有个海姆达尔。’",
+        "寇立从未见过长的这么帅的中年人",
+        "寇立点头、赞同，心中暗道:‘加油。’"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "许白",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "“这是——”许白眉又摸出两块玉圭，晃动推算，只是刚一变化，月牙形的玉圭炸碎，炸的满手鲜血",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这是——”许白眉又摸出两块玉圭，晃动推算，只是刚一变化，月牙形的玉圭炸碎，炸的满手鲜血",
-        "“两位道友，这股凶气，”许白眉顾不上手上伤势，急道",
-        "’    许白眉将之前看到事简单一说，毕竟能看门的老人，不是大爷，就是你大爷"
+      "name": "许白眉",
+      "aliases": [
+        "小白眉"
       ],
-      "mention_count": 20
+      "identity": "太极门弟子",
+      "faction": "太极门",
+      "status": "登场",
+      "first_appearance": "第七十一章 玉京城（下）",
+      "summary": "太极门弟子，跟随方玄一，对金宵派之事有疑惑。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "恭敬"
+      ],
+      "abilities": [
+        "玉圭推算"
+      ],
+      "equipment": [
+        "玉圭"
+      ],
+      "relationships": [
+        {
+          "target": "方玄一",
+          "type": "师徒"
+        },
+        {
+          "target": "张浮姑",
+          "type": "师兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随方玄一前往九琼玉京，向师尊禀告所见所闻。"
+        }
+      ],
+      "evidence": [
+        "许白眉又摸出两块玉圭，晃动推算",
+        "许白眉向方玄一禀告了自己所见所闻"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "上官",
+      "name": "张浮姑",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "太极门弟子，方玄一的孙女",
+      "faction": "太极门",
       "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "“城里有五姓，公孙、东方、上官、青柳、云阳，公孙是主家",
+      "first_appearance": "第七十一章 玉京城（下）",
+      "summary": "方玄一的孙女，擅长厨艺，性格活泼。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“城里有五姓，公孙、东方、上官、青柳、云阳，公孙是主家",
-        "“走吧，这是上官城，我们先去拜会一下城主",
-        "迎接他们的，是上官城主"
+      "personality": [
+        "活泼",
+        "任性"
       ],
-      "mention_count": 15
+      "abilities": [
+        "厨艺"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "方玄一",
+          "type": "祖孙"
+        },
+        {
+          "target": "许白眉",
+          "type": "师兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随方玄一前往九琼玉京，想去望乡台游玩。"
+        }
+      ],
+      "evidence": [
+        "张浮姑扑哧一笑",
+        "张浮姑顿时哼了一声，心满意足"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "方老道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "”    等与二人告别后，古小钗才摸着下巴：“方老道也来了，怪不得这小姑娘看着眼熟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    等与二人告别后，古小钗才摸着下巴：“方老道也来了，怪不得这小姑娘看着眼熟",
-        "”    “方老道是谁",
-        "”    方老道气势顿时萎靡起来，他平生无二好，只喜吃与喝，而这张浮姑最擅长的便是一手厨艺"
+      "name": "方玄一",
+      "aliases": [
+        "方老道"
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "方玄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "太极门传功长老",
+      "faction": "太极门",
       "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "“方玄一，太极门的两大传功长老之一，本事跟我菩提师兄差不多",
+      "first_appearance": "第七十一章 玉京城（下）",
+      "summary": "太极门两大传功长老之一，与金宵派有旧，对金宵派之事态度复杂。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“方玄一，太极门的两大传功长老之一，本事跟我菩提师兄差不多",
-        "’正文 第七十二章 望乡台    相较于寇立一方的冷清，方玄一这边就热闹的多，云阳城城主与这太极老道谈经论道，还有玉京城弟子经常过来请教人间道法",
-        "许白眉向方玄一禀告了自己所见所闻，这太极老道沉吟了片刻：“日后别让你师妹出门了，特别是别与金宵派的弟子接触"
+      "personality": [
+        "老练",
+        "谨慎",
+        "好美食"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "“两位道友，你们是先去拜见城主，还是跟我去见爷爷，他老人家常说好久没见到金宵派的人了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“两位道友，你们是先去拜见城主，还是跟我去见爷爷，他老人家常说好久没见到金宵派的人了",
-        "”老道一拍案桌，将这千年温玉的桌案打出一张手印，面色阴晴不定，最后道：“我和你们一起去",
-        "“望乡台，望乡，望了多少年了，一百年、一千年、一万年，你们什么时候回去过，他们让你们回去了吗，哈哈哈哈"
+      "relationships": [
+        {
+          "target": "古小钗",
+          "type": "旧识"
+        },
+        {
+          "target": "许白眉",
+          "type": "师徒"
+        },
+        {
+          "target": "张浮姑",
+          "type": "祖孙"
+        }
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "老道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "”    等与二人告别后，古小钗才摸着下巴：“方老道也来了，怪不得这小姑娘看着眼熟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    等与二人告别后，古小钗才摸着下巴：“方老道也来了，怪不得这小姑娘看着眼熟",
-        "”    “方老道是谁",
-        "’正文 第七十二章 望乡台    相较于寇立一方的冷清，方玄一这边就热闹的多，云阳城城主与这太极老道谈经论道，还有玉京城弟子经常过来请教人间道法"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带弟子前往九琼玉京，与玉京城交流道法。"
+        }
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "”    天空上是星云星漩，还有流光霞彩，城池通体白玉，巧夺天工",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    天空上是星云星漩，还有流光霞彩，城池通体白玉，巧夺天工",
-        "”古小钗指了指脑袋：“这里人这里都有些问题，还有，眼珠子长在脑门上",
-        "有仙官、有仙吏、有守将、还有城主"
+        "方玄一捻着白胡子",
+        "方老道气的嘴歪眼斜"
       ],
       "mention_count": 12
     },
     {
-      "name": "这是",
+      "name": "上官城主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "九琼玉京上官城城主",
+      "faction": "九琼玉京",
       "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "“这是——”许白眉又摸出两块玉圭，晃动推算，只是刚一变化，月牙形的玉圭炸碎，炸的满手鲜血",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这是——”许白眉又摸出两块玉圭，晃动推算，只是刚一变化，月牙形的玉圭炸碎，炸的满手鲜血",
-        "“走吧，这是上官城，我们先去拜会一下城主",
-        "”    “这是神陨石，是先天一块神石，也是玉京城的传承之物，是当年东方城主所赠"
+      "first_appearance": "第七十一章 玉京城（下）",
+      "summary": "玉京五城城主之一，修为高深，对金宵派二人持警惕态度。",
+      "appearance": [
+        "完美无缺的脸上"
       ],
-      "mention_count": 11
+      "personality": [
+        "威严",
+        "谨慎"
+      ],
+      "abilities": [
+        "炼就三花五气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "上官玉琼",
+          "type": "父女"
+        },
+        {
+          "target": "云阳城主",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与云阳城主一同处理古小钗和寇立闯入望乡台之事。"
+        }
+      ],
+      "evidence": [
+        "上官城主摇头：“东方他已经闭关三百年了”",
+        "上官城主完美无缺的脸上，终于露出一丝惊讶"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "对方",
+      "name": "云阳城主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "九琼玉京云阳城城主",
+      "faction": "九琼玉京",
       "status": "登场",
-      "first_appearance": "第一幕府时代，武家夺得天下霸权，使得倭奴国结束了数百年的混乱，终于实现大一统，并开创了以武士为核心的武道精神，这对于倭奴国的历史进程有着不可估量的影响。",
-      "summary": "寇立觉的，对方强的可怕",
+      "first_appearance": "第七十二章 望乡台",
+      "summary": "玉京五城城主之一，与上官城主一同处理事务。",
       "appearance": [],
       "personality": [],
+      "abilities": [
+        "炼就三花五气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "上官城主",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与上官城主一同处理古小钗和寇立闯入望乡台之事。"
+        }
+      ],
+      "evidence": [
+        "上官城主和云阳城主联袂而来"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "上官玉琼",
+      "aliases": [],
+      "identity": "上官城主的爱女",
+      "faction": "九琼玉京",
+      "status": "登场",
+      "first_appearance": "第七十二章 望乡台",
+      "summary": "上官城主的女儿，容貌绝世，修为不俗，曾吸收正阳子剑意。",
+      "appearance": [
+        "容貌绝世倾城"
+      ],
+      "personality": [
+        "高傲",
+        "冷漠"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立觉的，对方强的可怕",
-        "”    这骚话太超前，古小钗没跟上，她奇怪的看了对方一眼，道：“东方城主和当年教尊乃莫逆之交，所以在分别时，所赠这道信物，只要有人持着这道信物，便能答应一个条件",
-        "”    许白眉刚刚还被对方的拍掌声吓了一跳，结果又被对方的反应搞愣住了"
+      "relationships": [
+        {
+          "target": "上官城主",
+          "type": "父女"
+        },
+        {
+          "target": "东方谨",
+          "type": "爱慕"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在望乡台阻拦古小钗和寇立，后带寇立去见东方谨。"
+        }
+      ],
+      "evidence": [
+        "上官玉琼面如寒冰",
+        "上官玉琼绝美的脸上，闪过尊敬、亲近，还有一丝丝爱慕"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "东方谨",
+      "aliases": [
+        "东方城主"
+      ],
+      "identity": "九琼玉京主城主",
+      "faction": "九琼玉京",
+      "status": "登场",
+      "first_appearance": "第七十三章 带价",
+      "summary": "九琼玉京的主城主，修为深不可测，剑术通神，与正阳子有旧，认出寇立并非金宵宗长老。",
+      "appearance": [
+        "绝代风姿"
+      ],
+      "personality": [
+        "温和",
+        "睿智"
+      ],
+      "abilities": [
+        "剑术（天外飞仙）",
+        "升仙梯"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正阳子",
+          "type": "莫逆之交"
+        },
+        {
+          "target": "寇立",
+          "type": "前辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出关，接见寇立，点破其身份，并讲述天地浩劫与正邪斗剑的真相。"
+        }
+      ],
+      "evidence": [
+        "背着手，看着满天星辰的人回头",
+        "公孙谨轻笑，并指一点"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "云阳解",
+      "aliases": [],
+      "identity": "云阳氏年轻一辈",
+      "faction": "九琼玉京",
+      "status": "登场",
+      "first_appearance": "第七十三章 带价",
+      "summary": "云阳氏年轻一辈，强行吸收正阳子剑意，与寇立比试落败。",
+      "appearance": [],
+      "personality": [
+        "疯狂",
+        "执着"
+      ],
+      "abilities": [
+        "正一阳雷法"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立比试，被寇立以水剑术击败。"
+        }
+      ],
+      "evidence": [
+        "云阳解将正阳子的剑意，强融入自身雷法中",
+        "云阳解鼻中流出黄色的脓液"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "屠圣",
+      "aliases": [],
+      "identity": "未知势力使者",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第七十三章 带价",
+      "summary": "奉东方魔教教主之命向东方谨送战帖，被东方谨斩下一臂。",
+      "appearance": [
+        "体型是常人数倍",
+        "手如象腿",
+        "眼若铜铃",
+        "瞎了一只眼"
+      ],
+      "personality": [
+        "狞笑",
+        "狂妄"
+      ],
+      "abilities": [
+        "十方魔神变（不完整）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "东方魔教教主",
+          "type": "使者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向东方谨送战帖，并试图偷袭，被斩下一臂。"
+        }
+      ],
+      "evidence": [
+        "屠圣狞笑连连",
+        "屠圣屈指一弹，一道红光射了出去"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "正阳子",
+      "aliases": [
+        "正小阳"
+      ],
+      "identity": "金宵宗前任宗主，人间剑神",
+      "faction": "金宵派",
+      "status": "已故（提及）",
+      "first_appearance": "第七十三章 带价",
+      "summary": "金宵宗前任宗主，人间剑神，曾一人一剑挑翻九琼玉京五家姓，与东方谨为莫逆之交。",
+      "appearance": [
+        "虬发披散，手执长剑，满脸豪意"
+      ],
+      "personality": [
+        "豪迈"
+      ],
+      "abilities": [
+        "剑术（无上境界）"
+      ],
+      "equipment": [
+        "背剑图"
+      ],
+      "relationships": [
+        {
+          "target": "东方谨",
+          "type": "莫逆之交"
+        },
+        {
+          "target": "寇立",
+          "type": "继承者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾一人一剑挑翻九琼玉京五家姓。"
+        }
+      ],
+      "evidence": [
+        "当年那位正阳子，也是下界之辈",
+        "正阳子是人间的剑神"
+      ],
+      "mention_count": 8
     }
   ]
 }

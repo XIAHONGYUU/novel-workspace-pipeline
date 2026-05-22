@@ -1,0 +1,192 @@
+{
+  "chunk_id": "chunk-0358",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与塔芽战斗后重伤，逃离黑渊峡谷，与西格尼通讯。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "巫术",
+        "金属天赋长剑",
+        "凤凰（熔岩心湖缩影）",
+        "轻身术",
+        "落羽术"
+      ],
+      "equipment": [
+        "宽刃剑",
+        "腰囊",
+        "蓝色小瓶",
+        "红色小瓶",
+        "银色细丝"
+      ],
+      "relationships": [
+        {
+          "target": "塔芽",
+          "type": "敌人"
+        },
+        {
+          "target": "西格尼",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与塔芽战斗，将其打入黑渊峡谷，自身重伤，后与西格尼通讯。"
+        }
+      ],
+      "evidence": [
+        "安格列微笑着松开捂着胸口的手，手一抖，宽刃剑嗤的一声划出一条红线冲向对面。",
+        "安格列看也不看下方已经被黑烟快要吞噬了的塔芽，单手抓在凤凰双爪上，整个人轻飘飘的吊在凤凰身下，缓缓向上飞去。",
+        "安格列坐在狮背上，抬起左手，小拇指指甲盖上隐隐亮起阵阵绿光。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "塔芽",
+      "aliases": [],
+      "identity": "女巫",
+      "faction": "阴影之王",
+      "status": "坠入深渊",
+      "first_appearance": "",
+      "summary": "与安格列战斗，被击落黑渊峡谷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "雷鸣之光"
+      ],
+      "equipment": [
+        "盾牌"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列战斗，被击落黑渊峡谷。"
+        }
+      ],
+      "evidence": [
+        "塔芽正要反击，脚下的地面居然再度断裂，她脚一轻，直接掉落下去。",
+        "塔芽忽然抬起手，口中轻声念出。",
+        "金光砸在安格列胸口处，顿时刺穿一层银色金属皮肤，然后是皮肤，肌肉，骨头。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "西格尼",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "通讯中",
+      "first_appearance": "",
+      "summary": "安格列的盟友，刚晋升三级，因晋升过快有实力下降期，计划回西海岸。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "预言系"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "盟友"
+        },
+        {
+          "target": "西纳",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列通讯，告知已干掉西纳，计划回西海岸。"
+        }
+      ],
+      "evidence": [
+        "西格尼的声音顿时从印记中传出来。",
+        "差点让他跑掉了，不过最后还是被我干掉了，只是伤势至少十天半个月没办法恢复。",
+        "我准备带我母亲和妹妹一起离开中部，去其他区域先避一避。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "西纳",
+      "aliases": [],
+      "identity": "",
+      "faction": "阴影之王",
+      "status": "已死亡",
+      "first_appearance": "",
+      "summary": "被西格尼干掉的敌人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "西格尼",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被西格尼干掉。"
+        }
+      ],
+      "evidence": [
+        "差点让他跑掉了，不过最后还是被我干掉了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "狮子头领",
+      "aliases": [],
+      "identity": "三脚狮子头领",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "智慧生物，载着安格列逃离黑烟。",
+      "appearance": [
+        "土黄色",
+        "三只脚"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "临时坐骑"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "载着安格列逃离。"
+        }
+      ],
+      "evidence": [
+        "三脚狮子足有两米多高，四米多宽。就像一头小型大象。",
+        "三十块魔石，否则给我滚下去。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

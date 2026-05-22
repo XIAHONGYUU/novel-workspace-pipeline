@@ -1,256 +1,507 @@
 {
   "chunk_id": "chunk-0121",
-  "title": "第一百二十一章 郡主选婿（上）",
   "characters": [
-    {
-      "name": "罗武皇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "“啊呸呸呸——”    薛白灰头土脸的从一堆废墟中爬了起来，一脸纳闷的看向这罗武皇",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“啊呸呸呸——”    薛白灰头土脸的从一堆废墟中爬了起来，一脸纳闷的看向这罗武皇",
-        "而是是横炼罗家的一个小子，他有一个非常霸道、且找打的名字——罗武皇",
-        "薛蔓蔓到现在都记得，当初罗武皇疯狂暴虐的模样，三家家主合力，都被他数次重伤"
-      ],
-      "mention_count": 14
-    },
-    {
-      "name": "罗武",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "“啊呸呸呸——”    薛白灰头土脸的从一堆废墟中爬了起来，一脸纳闷的看向这罗武皇",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“啊呸呸呸——”    薛白灰头土脸的从一堆废墟中爬了起来，一脸纳闷的看向这罗武皇",
-        "而是是横炼罗家的一个小子，他有一个非常霸道、且找打的名字——罗武皇",
-        "薛蔓蔓到现在都记得，当初罗武皇疯狂暴虐的模样，三家家主合力，都被他数次重伤"
-      ],
-      "mention_count": 12
-    },
     {
       "name": "薛白",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "薛家子弟",
+      "faction": "薛家",
       "status": "登场",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "“啊呸呸呸——”    薛白灰头土脸的从一堆废墟中爬了起来，一脸纳闷的看向这罗武皇",
+      "summary": "薛家年轻子弟，性格冲动，好奇心强。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“啊呸呸呸——”    薛白灰头土脸的从一堆废墟中爬了起来，一脸纳闷的看向这罗武皇",
-        "“想不明白呀，呀呀呀呀~~”    薛白的耳朵被提的老高，一脸恐慌，眼神下意识的到处躲闪",
-        "”薛白顿时不怕了，一脸好奇"
+      "personality": [
+        "冲动",
+        "好奇"
       ],
-      "mention_count": 11
+      "abilities": [
+        "窥鬼神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛蔓蔓",
+          "type": "母子"
+        },
+        {
+          "target": "戚小骨",
+          "type": "兄妹（自称）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从废墟中爬起，与罗武皇对峙，被薛蔓蔓教训。"
+        }
+      ],
+      "evidence": [
+        "薛白灰头土脸的从一堆废墟中爬了起来",
+        "薛白的耳朵被提的老高",
+        "薛白又一次不知死活的跳了出来"
+      ],
+      "mention_count": 8
     },
     {
       "name": "薛蔓蔓",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "娘"
+      ],
+      "identity": "薛家成员，薛白之母",
+      "faction": "薛家",
+      "status": "登场",
+      "first_appearance": "第一百二十一章 郡主选婿（上）",
+      "summary": "薛白的母亲，了解罗武皇的来历。",
+      "appearance": [],
+      "personality": [
+        "愤怒",
+        "后怕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛白",
+          "type": "母子"
+        },
+        {
+          "target": "罗武皇",
+          "type": "同门（大师兄）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "教训薛白，讲述罗武皇的来历。"
+        }
+      ],
+      "evidence": [
+        "薛蔓蔓一脸愤怒和后怕",
+        "薛蔓蔓简单的把此人来历说了一遍"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "罗武皇",
+      "aliases": [
+        "大师兄"
+      ],
+      "identity": "横炼罗家子弟，陈万道弟子",
+      "faction": "罗家",
+      "status": "登场",
+      "first_appearance": "第一百二十一章 郡主选婿（上）",
+      "summary": "天赋极高的拳术修行者，性格残暴，闭死关三十年，现破关而出。",
+      "appearance": [
+        "粗萝卜般的手指"
+      ],
+      "personality": [
+        "残暴",
+        "狂妄"
+      ],
+      "abilities": [
+        "血狂屠",
+        "不坏身",
+        "身震五百里"
+      ],
+      "equipment": [
+        "八十面人皮大鼓"
+      ],
+      "relationships": [
+        {
+          "target": "陈万道",
+          "type": "师父"
+        },
+        {
+          "target": "薛蔓蔓",
+          "type": "同门"
+        },
+        {
+          "target": "戚笼",
+          "type": "欣赏"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "三十年前",
+          "event": "被陈万道收为弟子，展现恐怖天赋。"
+        },
+        {
+          "stage": "三十年前",
+          "event": "身份曝光，是罗天鹰之孙，选择闭死关。"
+        },
+        {
+          "stage": "当前",
+          "event": "破关而出，参加武家宴，提出监管屠魔令。"
+        }
+      ],
+      "evidence": [
+        "拳术修行最快的，实力也最强的，却是横炼罗家的一个小子",
+        "这家伙的性子也越发残暴",
+        "罗武皇盯着对方唇红齿白的小脸"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "戚笼",
+      "aliases": [
+        "刀魔",
+        "匪首"
+      ],
+      "identity": "麻匪头子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "“娘，他要打妹妹，您说这事咱能看着不管么，真不是不听您的话——”    薛蔓蔓一脸愤怒和后怕，“你知道这怪物是谁么，你就没头没脑的冲上去，找死么",
+      "summary": "被称为刀魔的匪首，拳术高强，佛法心境高深。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "冷静",
+        "狡猾"
+      ],
+      "abilities": [
+        "佛身无相"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "罗武皇",
+          "type": "互相欣赏"
+        },
+        {
+          "target": "阎佛",
+          "type": "暗斗过"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "七八年前",
+          "event": "与阎佛有过一面之缘并暗斗。"
+        },
+        {
+          "stage": "当前",
+          "event": "与罗武皇、阎佛精神交锋，被罗武皇提议共同监管屠魔令。"
+        }
+      ],
       "evidence": [
-        "“娘，他要打妹妹，您说这事咱能看着不管么，真不是不听您的话——”    薛蔓蔓一脸愤怒和后怕，“你知道这怪物是谁么，你就没头没脑的冲上去，找死么",
-        "“这人啊，唉~也可以算是你娘我的大师兄了……”    薛蔓蔓简单的把此人来历说了一遍",
-        "薛蔓蔓、以及如今三大家族的族长，都在那一批人中"
+        "戚笼昼眼之中，眼前这名为‘罗武皇’的怪物",
+        "戚笼是淡淡的轻笑",
+        "你就是刀魔？老子在闭关时，就听说过你的名声"
       ],
       "mention_count": 10
     },
     {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "阎佛",
+      "aliases": [
+        "小和尚",
+        "老和尚",
+        "大师"
+      ],
+      "identity": "佛门高僧，夺舍佛子",
+      "faction": "佛门",
       "status": "登场",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "但这老和尚夺舍佛子，不仅一身拳术意境传到小和尚的身上，而且佛门武功特异，以‘一念成佛’的能耐，直接在这小和尚身上，再证金身",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但这老和尚夺舍佛子，不仅一身拳术意境传到小和尚的身上，而且佛门武功特异，以‘一念成佛’的能耐，直接在这小和尚身上，再证金身",
-        "而且这‘寂灭禅’也诡异的很，罗武皇盯着对方唇红齿白的小脸，发现这小东西的脸蛋竟以肉眼可见的速度，变成了一张沟壑纵横的老脸，然后在下一瞬间，又变了回来",
-        "而且对方的气场在也十分古怪，即像是佛门修行深厚的大师，又像是半本佛经不通的门外汉"
+      "summary": "夺舍佛子的老和尚，佛法高深，意图突破宗师。",
+      "appearance": [
+        "唇红齿白的小脸",
+        "沟壑纵横的老脸"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "薛蔓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "“娘，他要打妹妹，您说这事咱能看着不管么，真不是不听您的话——”    薛蔓蔓一脸愤怒和后怕，“你知道这怪物是谁么，你就没头没脑的冲上去，找死么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“娘，他要打妹妹，您说这事咱能看着不管么，真不是不听您的话——”    薛蔓蔓一脸愤怒和后怕，“你知道这怪物是谁么，你就没头没脑的冲上去，找死么",
-        "“这人啊，唉~也可以算是你娘我的大师兄了……”    薛蔓蔓简单的把此人来历说了一遍",
-        "薛蔓蔓、以及如今三大家族的族长，都在那一批人中"
+      "personality": [
+        "慈悲",
+        "狡猾"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "老子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "‘这老和尚平白多了一甲子寿，有足够的时间慢慢发育，突破宗师的可能性竟比老子都高，真是让人分外不爽，真想活撕了他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘这老和尚平白多了一甲子寿，有足够的时间慢慢发育，突破宗师的可能性竟比老子都高，真是让人分外不爽，真想活撕了他",
-        "老子在闭关时，就听说过你的名声，不得不说，那一拳够味，老子欣赏你，你跟老子是一类人",
-        "“这不是山北道的武家宴么，老子不是山北道的武人么，就迟到那么一小会儿，怎么，你们五大阀就这么霸道"
+      "abilities": [
+        "一念成佛",
+        "寂灭禅"
       ],
-      "mention_count": 7
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "暗斗过"
+        },
+        {
+          "target": "罗武皇",
+          "type": "互相忌惮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "七八年前",
+          "event": "与戚笼暗斗。"
+        },
+        {
+          "stage": "当前",
+          "event": "与罗武皇、戚笼精神交锋，后与三大家主站在一起。"
+        }
+      ],
+      "evidence": [
+        "这老和尚夺舍佛子",
+        "阎佛眼观鼻、鼻观心",
+        "小和尚阎佛羞涩一笑"
+      ],
+      "mention_count": 12
     },
     {
       "name": "薛世仪",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "薛家家主",
+      "faction": "薛家",
       "status": "登场",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "薛世仪掸了掸袖子，先是对阎佛见礼：    “没想到大师也来了，大师闭关数年，想必是功行有成，如此一来，这剿魔一事，就更多了三分把握",
+      "summary": "薛家家主，主持武家宴。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "平静",
+        "威严"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "薛世仪掸了掸袖子，先是对阎佛见礼：    “没想到大师也来了，大师闭关数年，想必是功行有成，如此一来，这剿魔一事，就更多了三分把握",
-        "”    薛世仪又淡淡道：“古礼不可废，屠魔令一出，正缺五牲六畜之祭品，没想到大师兄正好送上门来了",
-        "”薛世仪表情平静道"
+      "relationships": [
+        {
+          "target": "薛蔓蔓",
+          "type": "父女"
+        },
+        {
+          "target": "罗武皇",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与阎佛见礼，质问罗武皇来意。"
+        }
+      ],
+      "evidence": [
+        "薛世仪掸了掸袖子，先是对阎佛见礼",
+        "薛世仪又淡淡道",
+        "薛世仪用眼神安抚另外两家家主"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "还是",
-      "aliases": [],
-      "identity": "",
+      "name": "戚小骨",
+      "aliases": [
+        "小不化骨"
+      ],
+      "identity": "疑似尸武人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "他使用‘窥鬼神’还是头一次失败，一般他‘窥’到了谁死，那就是真的死亡，半点都不做假",
-      "appearance": [],
+      "summary": "被薛白称为妹妹，两眼漆黑，极似尸武人。",
+      "appearance": [
+        "两眼漆黑"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他使用‘窥鬼神’还是头一次失败，一般他‘窥’到了谁死，那就是真的死亡，半点都不做假",
-        "”    “还是说，你们觉的老子喝不下武家宴的茶汤",
-        "”    “你们刚刚说，刺杀承天堡主程天凶的，是八难中的‘恶鬼难’，那你这是替山北道武人出头呢，还是替自家主子出气呢"
+      "relationships": [
+        {
+          "target": "薛白",
+          "type": "兄妹（自称）"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被薛白拉着，被罗武皇注意到。"
+        }
+      ],
+      "evidence": [
+        "戚小骨两眼漆黑，极似‘尸武人’"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "你现",
-      "aliases": [],
-      "identity": "",
+      "name": "陈万道",
+      "aliases": [
+        "武道之神"
+      ],
+      "identity": "武道之神",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "当时陈万道并没有多说什么，只是像往常一般传授其拳术，只在其疯狂状态完全不可控之前，才道：    ‘你现在这般练下去，要么身体炸裂而死，要么彻底疯意入脑，被肉身控制，成为一个只会杀人的疯子",
+      "summary": "三十年前百岁大寿，在山北道挑选弟子，心胸开阔。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "宽厚",
+        "有教无类"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当时陈万道并没有多说什么，只是像往常一般传授其拳术，只在其疯狂状态完全不可控之前，才道：    ‘你现在这般练下去，要么身体炸裂而死，要么彻底疯意入脑，被肉身控制，成为一个只会杀人的疯子",
-        "’    ‘我现在给你两条路选，一个，你现在便下山，往后你做的任何事，与我无关，二个，你闭死关，无法彻底降定心、意、神、性之前，不能出世"
+      "relationships": [
+        {
+          "target": "罗武皇",
+          "type": "师父"
+        },
+        {
+          "target": "薛蔓蔓",
+          "type": "师父"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "三十年前",
+          "event": "百岁大寿，收徒。"
+        }
+      ],
+      "evidence": [
+        "当时刚过了百岁大寿的武道之神陈万道"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "薛世",
+      "name": "罗天鹰",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "前任罗家家主",
+      "faction": "罗家",
+      "status": "提及",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "薛世仪掸了掸袖子，先是对阎佛见礼：    “没想到大师也来了，大师闭关数年，想必是功行有成，如此一来，这剿魔一事，就更多了三分把握",
+      "summary": "罗武皇的祖父，死于陈万道手下。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "薛世仪掸了掸袖子，先是对阎佛见礼：    “没想到大师也来了，大师闭关数年，想必是功行有成，如此一来，这剿魔一事，就更多了三分把握",
-        "”    薛世仪又淡淡道：“古礼不可废，屠魔令一出，正缺五牲六畜之祭品，没想到大师兄正好送上门来了",
-        "”薛世仪表情平静道"
+      "relationships": [
+        {
+          "target": "罗武皇",
+          "type": "祖父"
+        },
+        {
+          "target": "陈万道",
+          "type": "被其所杀"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "三十年前",
+          "event": "被陈万道杀死。"
+        }
+      ],
+      "evidence": [
+        "罗天鹰，就是死在当时如日中天的陈万道手下"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "梁家",
+      "name": "陈长在",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "陈家家主",
+      "faction": "陈家",
       "status": "登场",
       "first_appearance": "第一百二十一章 郡主选婿（上）",
-      "summary": "”    罗武皇牛眼扫了一圈，讽刺的一笑：“薛家的、陈家的、梁家的，都是自家人，内定好的么",
+      "summary": "陈家家主，被罗武皇指责引发尸潮。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    罗武皇牛眼扫了一圈，讽刺的一笑：“薛家的、陈家的、梁家的，都是自家人，内定好的么",
-        "“梁家，嘿，别人不知道，我可是知道你们梁家人和那承天堡的关系，梁家的拳术，追根溯源，还不是关外程家的那一支么"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被罗武皇指责。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "陈长在眉头深深皱起"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "梁乃周",
+      "aliases": [],
+      "identity": "梁家家主",
+      "faction": "梁家",
+      "status": "登场",
+      "first_appearance": "第一百二十一章 郡主选婿（上）",
+      "summary": "梁家家主，被罗武皇指责与承天堡有关。",
+      "appearance": [],
+      "personality": [
+        "阴沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被罗武皇指责。"
+        }
+      ],
+      "evidence": [
+        "梁乃周面色阴沉，眼光如琉璃般转动"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "薛平龟",
+      "aliases": [],
+      "identity": "薛家成员",
+      "faction": "薛家",
+      "status": "登场",
+      "first_appearance": "第一百二十一章 郡主选婿（上）",
+      "summary": "薛家成员，示意薛白等人不要说话。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "摆手示意薛白等人不要说话。"
+        }
+      ],
+      "evidence": [
+        "薛平龟摆了摆手，示意三人不要说话"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "高勇",
+      "aliases": [],
+      "identity": "无锋成员",
+      "faction": "无锋",
+      "status": "登场",
+      "first_appearance": "第一百二十一章 郡主选婿（上）",
+      "summary": "无锋成员，出现在窗外。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在窗外。"
+        }
+      ],
+      "evidence": [
+        "竟然看到了高勇的身影"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "程天凶",
+      "aliases": [],
+      "identity": "承天堡主",
+      "faction": "承天堡",
+      "status": "提及",
+      "first_appearance": "第一百二十一章 郡主选婿（上）",
+      "summary": "承天堡主，被刺杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及刺杀事件。"
+        }
+      ],
+      "evidence": [
+        "刺杀承天堡主程天凶的，是八难中的‘恶鬼难’"
+      ],
+      "mention_count": 1
     }
   ]
 }

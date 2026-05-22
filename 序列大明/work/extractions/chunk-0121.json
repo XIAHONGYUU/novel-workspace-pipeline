@@ -1,250 +1,199 @@
 {
   "chunk_id": "chunk-0121",
-  "title": "第119章落井下石",
   "characters": [
     {
-      "name": "老人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第119章落井下石",
-      "summary": "”　　老人眯着眼，缓缓沉声道：“我现在担心的是，他手里的那些东西，会不会让一些贼心不死的人抓到机会，影响了老夫的大事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　老人眯着眼，缓缓沉声道：“我现在担心的是，他手里的那些东西，会不会让一些贼心不死的人抓到机会，影响了老夫的大事",
-        "”　　老人朝着周围诧异的眼神歉意一笑，“不过话说回来，这一次咱们虽然选择了袖手旁观，但也不能彻底撒手不管，不然到时候真有一方狗急跳墙，那可就麻烦了",
-        "”　　相比之下，老人却显得有些格外淡定"
-      ],
-      "mention_count": 15
-    },
-    {
       "name": "黄耀宗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "黄耀宗"
+      ],
+      "identity": "成都府县尉",
+      "faction": "儒教",
       "status": "登场",
       "first_appearance": "第119章落井下石",
-      "summary": "”　　黄耀宗眼神狂热，若不是顾及这里是茶馆，恐怕早就振臂高呼",
+      "summary": "成都府县尉，追随老人，对儒教复兴充满热情。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "狂热",
+        "愚钝",
+        "受教"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　黄耀宗眼神狂热，若不是顾及这里是茶馆，恐怕早就振臂高呼",
-        "这种似是而非的感觉格外折磨人，黄耀宗忍不住道：“属下愚钝，还请大人明示",
-        "”　　黄耀宗这句话说到了点子上，老人也陷入了沉吟"
+      "relationships": [
+        {
+          "target": "老人",
+          "type": "下属"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与老人讨论顾吴两家冲突及儒教策略。"
+        }
+      ],
+      "evidence": [
+        "黄耀宗眼神狂热",
+        "黄耀宗苦笑道",
+        "黄耀宗恍然大悟"
+      ],
+      "mention_count": 14
     },
     {
-      "name": "黄耀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "老人",
+      "aliases": [
+        "老人",
+        "成都府县令"
+      ],
+      "identity": "成都府县令",
+      "faction": "儒教",
       "status": "登场",
       "first_appearance": "第119章落井下石",
-      "summary": "”　　黄耀宗眼神狂热，若不是顾及这里是茶馆，恐怕早就振臂高呼",
+      "summary": "成都府县令，儒教领袖，老谋深算，主张落井下石。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "从容",
+        "老谋深算",
+        "淡定"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　黄耀宗眼神狂热，若不是顾及这里是茶馆，恐怕早就振臂高呼",
-        "这种似是而非的感觉格外折磨人，黄耀宗忍不住道：“属下愚钝，还请大人明示",
-        "”　　黄耀宗这句话说到了点子上，老人也陷入了沉吟"
+      "relationships": [
+        {
+          "target": "黄耀宗",
+          "type": "上级"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与黄耀宗密谋利用顾吴冲突，煽动民怨。"
+        }
+      ],
+      "evidence": [
+        "老人眯着眼，缓缓沉声道",
+        "老人脸上依旧挂着从容的笑意",
+        "这位在外界眼中碌碌无为的成都府县令言辞如凿"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "旁边",
-      "aliases": [],
-      "identity": "",
+      "name": "鼠眼汉子",
+      "aliases": [
+        "鼠眼汉子"
+      ],
+      "identity": "茶馆客人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第119章落井下石",
-      "summary": "旁边的茶倌看在眼里，急在心里",
-      "appearance": [],
+      "summary": "在茶馆中散布顾吴两家冲突消息的客人。",
+      "appearance": [
+        "鼠眼"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在茶馆中谈论顾吴两家冲突，导致客人离开。"
+        }
+      ],
+      "evidence": [
+        "经过鼠眼汉子这么一闹"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "茶倌",
+      "aliases": [
+        "茶倌"
+      ],
+      "identity": "茶馆伙计",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第119章落井下石",
+      "summary": "茶馆伙计，担心生意受影响，家中儿子需要钱换腿。",
+      "appearance": [
+        "换了条义肢手臂"
+      ],
+      "personality": [
+        "惴惴不安"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因客人离开而担忧生意。"
+        }
+      ],
       "evidence": [
         "旁边的茶倌看在眼里，急在心里",
-        "”　　想到这里，这位换了条义肢手臂的茶倌也没了招揽客人的生意，垂着头坐在灶台旁边，嘴里长吁短叹",
-        "”　　旁边的老人脸上依旧挂着从容的笑意，缓缓吟了一句，“夫欲善其事，必先知其当然，至不惧，而徐徐图之"
+        "这位换了条义肢手臂的茶倌也没了招揽客人的生意"
       ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "顾玺",
+      "aliases": [
+        "顾玺"
+      ],
+      "identity": "顾家成员",
+      "faction": "顾家",
+      "status": "提及",
       "first_appearance": "第119章落井下石",
-      "summary": "要知道枪炮可不长眼，随便一发‘火龙出水’打偏，就可能要了他们的命",
+      "summary": "顾家成员，杀了吴拱的红衫奴，引发冲突。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "要知道枪炮可不长眼，随便一发‘火龙出水’打偏，就可能要了他们的命",
-        "他们肯定不愿意在这个时候得罪顾吴两家，只会骑墙而观",
-        "对于顾玺和吴拱来说，错失了这次举荐的机会，不单单是丢了一个入仕的机会，更是丢了他们主家的脸面"
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "杀了吴拱的两头红衫奴。"
+        }
+      ],
+      "evidence": [
+        "这一次顾玺动手杀了那两头红衫奴"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "吴拱",
+      "aliases": [
+        "吴拱"
+      ],
+      "identity": "吴家成员",
+      "faction": "吴家",
+      "status": "提及",
       "first_appearance": "第119章落井下石",
-      "summary": "”　　想到这里，这位换了条义肢手臂的茶倌也没了招揽客人的生意，垂着头坐在灶台旁边，嘴里长吁短叹",
+      "summary": "吴家成员，与顾玺冲突，手中可能有制胜之物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　想到这里，这位换了条义肢手臂的茶倌也没了招揽客人的生意，垂着头坐在灶台旁边，嘴里长吁短叹",
-        "”　　这位在外界眼中碌碌无为的成都府县令言辞如凿，掷地有声，“时机一到，我们再点出这一切的根源所在",
-        "”　　这位官场经验尚且浅薄的城府县县尉细细琢磨这四个字，总感觉品出了些什么，却始终未能抓到重点"
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "那要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第119章落井下石",
-      "summary": "黄耀宗干笑了一声，面露赧然，“那要不上报知府衙门，让他们抽调其他县的戍卫过来支援",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黄耀宗干笑了一声，面露赧然，“那要不上报知府衙门，让他们抽调其他县的戍卫过来支援",
-        "”　　黄耀宗恍然大悟，急声道:“那要不要提前跟他们两家打声招呼，把规矩定下来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "红衫奴被杀，隐忍不发。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第119章落井下石",
-      "summary": "虽然说新政区在成都县地位特殊，但照那鼠眼汉子的说法，这次动手的可是高高在上顾家和吴家，如果真的打起来，波及到这里怎么办",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "虽然说新政区在成都县地位特殊，但照那鼠眼汉子的说法，这次动手的可是高高在上顾家和吴家，如果真的打起来，波及到这里怎么办",
-        "虽然这种乱战的情况不太可能发生，可这种情况下，哪儿还有人愿意出来喝茶",
-        "”　　老人朝着周围诧异的眼神歉意一笑，“不过话说回来，这一次咱们虽然选择了袖手旁观，但也不能彻底撒手不管，不然到时候真有一方狗急跳墙，那可就麻烦了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "落井",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第119章落井下石",
-      "summary": "第119章落井下石　　经过鼠眼汉子这么一闹，茶馆里的其他客人也没有了继续摆龙门阵的心思，一个个接连离开",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第119章落井下石　　经过鼠眼汉子这么一闹，茶馆里的其他客人也没有了继续摆龙门阵的心思，一个个接连离开",
-        "”　　“落井下石的字面意思你都不懂",
-        "”　　“落井下石"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "茶馆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第119章落井下石",
-      "summary": "第119章落井下石　　经过鼠眼汉子这么一闹，茶馆里的其他客人也没有了继续摆龙门阵的心思，一个个接连离开",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第119章落井下石　　经过鼠眼汉子这么一闹，茶馆里的其他客人也没有了继续摆龙门阵的心思，一个个接连离开",
-        "”　　黄耀宗眼神狂热，若不是顾及这里是茶馆，恐怕早就振臂高呼"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "急在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第119章落井下石",
-      "summary": "旁边的茶倌看在眼里，急在心里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "旁边的茶倌看在眼里，急在心里"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "强迫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第119章落井下石",
-      "summary": "客来客往，那是人家的自由，强迫不了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "客来客往，那是人家的自由，强迫不了"
+        "吴拱手上恐怕是捏了什么足够制胜的东西"
       ],
       "mention_count": 3
     }

@@ -1,258 +1,591 @@
 {
   "chunk_id": "chunk-0001",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
       "aliases": [],
-      "identity": "",
+      "identity": "穿越者，原为书生",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "---------------------------用户上传之内容开始--------------------------------<寇道>虫梦 著正文 第一章 寇立    坐在窗边的，是一个二十三四岁的年轻人，一身浆洗发白的青袍，模样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "---------------------------用户上传之内容开始--------------------------------<寇道>虫梦 著正文 第一章 寇立    坐在窗边的，是一个二十三四岁的年轻人，一身浆洗发白的青袍，模样",
-        "对了，掌柜的还想了起来，这个年轻人的名字，叫做寇立",
-        "”    这群水龙帮帮众的凶恶眼神，全部盯向了窗边的寇立"
+      "first_appearance": "第一章 寇立",
+      "summary": "穿越到异世界的年轻人，追求修仙长生，拥有无字天书和冰魄珠。",
+      "appearance": [
+        "二十三四岁，一身浆洗发白的青袍，模样端正，眼睛尖锐如鹰喙"
       ],
-      "mention_count": 56
+      "personality": [
+        "冷静",
+        "谨慎",
+        "执着"
+      ],
+      "abilities": [
+        "能使用冰魄珠施展寒气攻击"
+      ],
+      "equipment": [
+        "无字天书（叩心图）",
+        "冰魄珠"
+      ],
+      "relationships": [
+        {
+          "target": "郑宝儿",
+          "type": "救命恩人/朋友"
+        },
+        {
+          "target": "郑老铁",
+          "type": "欠人情关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在客栈喝茶，被水龙帮找上门，郑老铁出手解围。"
+        },
+        {
+          "stage": "早期",
+          "event": "与郑老铁讨论武扣仙门，拒绝学武。"
+        },
+        {
+          "stage": "早期",
+          "event": "遭遇秃鹰邓明袭击，带郑宝儿躲入地窖，用冰魄珠杀死两名刀客。"
+        }
+      ],
+      "evidence": [
+        "坐在窗边的，是一个二十三四岁的年轻人，一身浆洗发白的青袍，模样还算端正，最引人注目的是那双眼睛，眼角微弯，尖锐，像是鹰之喙。",
+        "寇立眼疾手快，在桌面掀翻之前，抢救了那碗喝了一半的凉茶。",
+        "寇立的右手，掐了个古怪的法诀，脖子上的冰魄珠，开始微微的亮起。"
+      ],
+      "mention_count": 45
     },
     {
-      "name": "郑老",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "郑老铁",
+      "aliases": [
+        "郑老汉",
+        "郑老头"
+      ],
+      "identity": "老枪客，豫行镖师",
+      "faction": "豫行",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    郑老头气的险些吐血，走了，这家伙就这么走了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "first_appearance": "第一章 寇立",
+      "summary": "老练的枪术高手，为报恩想传授寇立枪法，后遭仇家邓明袭击。",
+      "appearance": [
+        "瘦长马脸老者"
+      ],
+      "personality": [
+        "暴躁",
+        "重恩情",
+        "老江湖"
+      ],
+      "abilities": [
+        "挑枪术（骑龙桩、双枪夹棍）"
+      ],
+      "equipment": [
+        "五尺铁枪（三四十斤）",
+        "短枪"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "欠人情"
+        },
+        {
+          "target": "郑宝儿",
+          "type": "爷孙"
+        },
+        {
+          "target": "邓明",
+          "type": "死敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在客栈出手教训水龙帮众，展示枪术。"
+        },
+        {
+          "stage": "早期",
+          "event": "与寇立讨论武扣仙门。"
+        },
+        {
+          "stage": "早期",
+          "event": "被邓明带人袭击，战斗中受伤。"
+        }
+      ],
       "evidence": [
-        "”    郑老头气的险些吐血，走了，这家伙就这么走了",
-        "”    寇立长吐了口闷气，可惜不像是那郑老汉，两息时间便吐了个精光，将卷轴打开，光洁一片，居然是一卷无字书",
-        "郑老汉的房间在三楼，顺着破旧的楼梯向上，楼梯的两侧，站着一个个彪形大汉，面上都有恐怖纹身，腰间鼓囊囊的，眼中闪烁着危险的光泽"
+        "一个瘦长马脸的老者不知何时冒出，看似笑眯眯的，但手如铁钳般，夹的这水龙帮小头目动弹不得。",
+        "马脸老者并没有施展出飞檐走壁的本事，打架时也没有附带五毛特效，只是拧腰、拔背、鼓筋，脚掌紧咬地面，再加上一个屈膝半蹲的动作，直接矮了对方两头。",
+        "郑老铁越打越是心惊，这邓明的刀法居然精进若斯"
       ],
       "mention_count": 20
     },
     {
-      "name": "郑老铁",
-      "aliases": [],
-      "identity": "",
+      "name": "郑宝儿",
+      "aliases": [
+        "宝儿"
+      ],
+      "identity": "郑老铁的孙子",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    郑老铁顿时来了精神，道：“我们豫行的枪客，有恩必报，你救我孙子，这人情我必须得还给你",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "第一章 寇立",
+      "summary": "五六岁的小孩，被寇立从虎口救下，很黏寇立。",
+      "appearance": [
+        "五六岁大小，青布团袄，额前贴了一团桃子形短发的胖娃娃"
+      ],
+      "personality": [
+        "天真",
+        "乖巧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    郑老铁顿时来了精神，道：“我们豫行的枪客，有恩必报，你救我孙子，这人情我必须得还给你",
-        "”    郑老铁幽怨的看了对方一眼，看的寇立鸡皮疙瘩都冒出来了，才道：“可你钱也不要，田地也不收，就连捐的官儿你都不当，若不是小老儿眼神不差，能看出你说的是真话，都以为你是要狮子大开口了",
-        "“既然你真的想要走那条不可能的道路，小老儿给你指个方向，”郑老铁眼中闪过肉痛的神色，道：“我老脸都不要了，让你跟宝儿一起，拜一位南拳大师学艺，然后——你那是什么眼神"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "救命恩人/朋友"
+        },
+        {
+          "target": "郑老铁",
+          "type": "爷孙"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "向寇立展示变铜板戏法。"
+        },
+        {
+          "stage": "早期",
+          "event": "被寇立带着躲入地窖，目睹寇立杀死两名刀客。"
+        }
+      ],
+      "evidence": [
+        "只见一位五六岁大小，青布团袄，额前贴了一团桃子形短发的胖娃娃，踉踉跄跄的跑了过来，肥嘟嘟的脸上满是兴奋。",
+        "郑宝儿用力的点了点头，这是他和寇哥哥的秘密，连爷爷都没有告诉。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "马脸",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“年轻人，不要急嘛，事情不弄清楚，打什么架啊，”一个瘦长马脸的老者不知何时冒出，看似笑眯眯的，但手如铁钳般，夹的这水龙帮小头目动弹不得",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“年轻人，不要急嘛，事情不弄清楚，打什么架啊，”一个瘦长马脸的老者不知何时冒出，看似笑眯眯的，但手如铁钳般，夹的这水龙帮小头目动弹不得",
-        "”    马脸老者却没接话，只是转头道：“你下盘松散、手脚无力、眼无精光，一看就没有练过武的，面对这些泼皮无赖，你不怕吗",
-        "”马脸老者看似好意，眼中却闪过一丝狡诈之色"
+      "name": "邓明",
+      "aliases": [
+        "秃顶恶鹰邓明"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "江湖",
-      "aliases": [],
-      "identity": "",
+      "identity": "大盗，鹰三煞之一",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "他的确不是江湖中人，但这三年来也不是一无所获的，对付几个混混头，他还是有把握的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他的确不是江湖中人，但这三年来也不是一无所获的，对付几个混混头，他还是有把握的",
-        "寇立也好奇了起来，他不怕这几个纹身混混，因为他有杀手锏，但这老汉也如此嚣张，难道这江湖，真的有武功",
-        "他就算不道谢，难道对这江湖中名气极大的枪术也不感兴趣"
+      "first_appearance": "第三章 秃鹰来袭",
+      "summary": "二十年前豫南大盗，与郑老铁有深仇，带人袭击客栈。",
+      "appearance": [
+        "长脖细腰，身形奇高，阴森面孔，双眼如钩，额头凸起一块"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "不知怎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    不知怎的，在这些人恶劣凶狠的表象中，似乎透着一丝心虚",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    不知怎的，在这些人恶劣凶狠的表象中，似乎透着一丝心虚",
-        "意识恍恍惚惚间，不知怎的，就飘到了这个书生的身上",
-        "”不知怎么，他总感觉今日分外的疲惫，精神也很差劲"
+      "personality": [
+        "狠辣",
+        "阴险"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "神仙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "神仙不是大白菜，想碰上就碰上，神仙也不是言情剧男一号，哭着喊着要收了你",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "神仙不是大白菜，想碰上就碰上，神仙也不是言情剧男一号，哭着喊着要收了你",
-        "他可以肯定，这是个仙家宝物，而且还是能上档次的那种，不然那两位‘神仙’也不会拼的你死我活，反而让他捡了便宜",
-        "“神仙不给我脸子，你这破书也是这般，我可是穿越的啊，兄弟，系统没有也就算了，宝物也不开光，信不信我把你也给沉了海底"
+      "abilities": [
+        "九煞刀法",
+        "东瀛拔刀斩",
+        "三鹰十字斩"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "水龙帮",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    年轻的渔民愤怒的要上前理论，却被老渔民死死抓住，低声道：“他们是水龙帮的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "鬼头大刀"
+      ],
+      "relationships": [
+        {
+          "target": "郑老铁",
+          "type": "死敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "带斗笠刀客袭击客栈，与郑老铁激战。"
+        }
+      ],
       "evidence": [
-        "”    年轻的渔民愤怒的要上前理论，却被老渔民死死抓住，低声道：“他们是水龙帮的",
-        "”    水龙帮，与掌管长江漕运的青帮，巴蜀的哥老会，并成为天下三大船帮，自从二十年前，朝廷开海以来，仗着与琉球群岛、南洋各国的海运交易，迅速壮大，珠宝、茶叶、绸缎、瓷器、粮食，无所不运，尤其是近几年，发展极快，隐然有三大船帮之首的架势",
-        "”    这群水龙帮帮众的凶恶眼神，全部盯向了窗边的寇立"
+        "是你，秃顶恶鹰邓明！",
+        "邓明拔出鬼头大刀，直扑了上去",
+        "邓明阴喋喋的一笑，右腕下沉，向右闪身，抱丹提劲，皮毛一开一合，如猫炸尾，蹁刀提撩，瞬间劈出一道十字形的刀光。"
       ],
       "mention_count": 8
     },
     {
       "name": "鱼叉骨",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "领头的鱼叉骨不屑的看了二人一眼，一口浓痰吐在对方的脑门上，走路不长眼，自己找死",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "领头的鱼叉骨不屑的看了二人一眼，一口浓痰吐在对方的脑门上，走路不长眼，自己找死",
-        "“把东西交出来，水龙帮的货，你也敢碰，信不信我把你也给沉下海去，”鱼叉骨一脚踹翻了对面的桌子，吼道",
-        "”    鱼叉骨怒极，做势就是一巴掌，这要是抽实了，脸骨都能抽断，水龙帮的打手，百里挑一，向来是有真材实料的"
+      "aliases": [
+        "骨哥"
       ],
-      "mention_count": 8
+      "identity": "水龙帮小头目",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第一章 寇立",
+      "summary": "水龙帮打手，带人找寇立麻烦，被郑老铁教训。",
+      "appearance": [
+        "一双死鱼眼"
+      ],
+      "personality": [
+        "凶恶",
+        "嚣张"
+      ],
+      "abilities": [],
+      "equipment": [
+        "腰刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "带人闯入客栈，向寇立索要货物，被郑老铁击退。"
+        }
+      ],
+      "evidence": [
+        "领头的鱼叉骨不屑的看了二人一眼，一口浓痰吐在对方的脑门上",
+        "鱼叉骨怒极，做势就是一巴掌"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "还有",
+      "name": "蛋头仔",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "水龙帮帮众",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "姿态不仅不潇洒，甚至还有些丑陋",
+      "first_appearance": "第一章 寇立",
+      "summary": "水龙帮打手，跟随鱼叉骨闹事。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姿态不仅不潇洒，甚至还有些丑陋",
-        "寇立了然，或许正是这种爆发的力量，才让这些水龙帮众武器一磕即飞，不仅是力气，还有，某种技巧",
-        "还有，水龙帮到底丢了什么东西，怎么会跟自己牵扯上关系，他根本就没见过这些人，对方怎么会指名道姓找自己"
+      "personality": [
+        "暴躁"
       ],
-      "mention_count": 8
+      "abilities": [],
+      "equipment": [
+        "鱼叉"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "抄起鱼叉扑向寇立，被郑老铁击退。"
+        }
+      ],
+      "evidence": [
+        "旁边的蛋头仔可不是个好脾气，抄起鱼叉就扑了上去。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "掌柜",
-      "aliases": [],
-      "identity": "",
+      "name": "掌柜老赵",
+      "aliases": [
+        "老赵"
+      ],
+      "identity": "客栈掌柜",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "掌柜老赵悄悄打量着这位客人，这是他的习惯，观察并猜测每一个客人的家底、意图、性格",
+      "first_appearance": "第一章 寇立",
+      "summary": "客栈掌柜，善于观察客人，后死于袭击。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "毒辣",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "掌柜老赵悄悄打量着这位客人，这是他的习惯，观察并猜测每一个客人的家底、意图、性格",
-        "他当了二十多年掌柜，眼神毒辣，已经很少有人看不透了，但他真的看不穿这个年轻人",
-        "对了，掌柜的还想了起来，这个年轻人的名字，叫做寇立"
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "暗中观察寇立。"
+        },
+        {
+          "stage": "早期",
+          "event": "在袭击中死亡。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "掌柜老赵悄悄打量着这位客人，这是他的习惯，观察并猜测每一个客人的家底、意图、性格。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "眼中",
+      "name": "水龙帮大总管",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "水龙帮在粤州城的大总管",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "粤州是风云地、是暴富地，只要够胆，南洋大海中，蕴含着无数的财富，来这里的每个人，眼中无不透着欲望，只是有人掩饰的好，而有人则毫不掩饰",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "圆脸中年人，向郑老铁道歉并承诺处理丐行。",
+      "appearance": [
+        "圆脸，身穿南宁官缎，头戴珍珠罗帽"
+      ],
+      "personality": [
+        "笑面虎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "到客栈向郑老铁道歉，承诺处理丐行。"
+        }
+      ],
+      "evidence": [
+        "除了郑老汉外，还有一个圆脸的中年人，身穿缎子衣服，看面料还是千两银子的南宁官缎，头戴珍珠罗帽，笑容满面，但总给人一种笑面虎的感觉。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "刀疤汉子",
+      "aliases": [],
+      "identity": "水龙帮高手",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "站在门口的高手，额上有刀疤，外家高手。",
+      "appearance": [
+        "额上有夸张刀疤"
+      ],
+      "personality": [],
+      "abilities": [
+        "外家功夫"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "站在郑老铁房门外，深深看了寇立一眼。"
+        }
+      ],
+      "evidence": [
+        "门口站着两个明显不一般的汉子，一个瞎了只眼，一个额上有道夸张刀疤"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "独眼汉子",
+      "aliases": [],
+      "identity": "水龙帮高手",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "站在门口的高手，瞎了一只眼，外家高手。",
+      "appearance": [
+        "瞎了只眼"
+      ],
+      "personality": [],
+      "abilities": [
+        "外家功夫"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "站在郑老铁房门外。"
+        }
+      ],
+      "evidence": [
+        "门口站着两个明显不一般的汉子，一个瞎了只眼，一个额上有道夸张刀疤"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "秦鬼儿",
+      "aliases": [],
+      "identity": "鬼仙宗弟子",
+      "faction": "鬼仙宗",
+      "status": "提及",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "鬼仙宗弟子，奉师命寻找无字天书。",
+      "appearance": [],
+      "personality": [
+        "狂热"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鬼仙宗师尊",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "与师尊对话，得知无字天书的消息，准备寻找。"
+        }
+      ],
+      "evidence": [
+        "秦鬼儿，你须知道，我等一辈的，还停留在人间，便是以四宗、三老、二真、一奇为尊",
+        "秦鬼儿皱起了眉头，道：可是师尊，按照您的说法，似这等独一无二的成道之宝，在左圣出世前，却无半点名头"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "鬼仙宗师尊",
+      "aliases": [],
+      "identity": "鬼仙宗掌门",
+      "faction": "鬼仙宗",
+      "status": "提及",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "鬼仙宗掌门，派遣秦鬼儿寻找无字天书。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "粤州是风云地、是暴富地，只要够胆，南洋大海中，蕴含着无数的财富，来这里的每个人，眼中无不透着欲望，只是有人掩饰的好，而有人则毫不掩饰",
-        "在靠海吃饭人的眼中，他们就是岭南的皇帝老子",
-        "”马脸老者看似好意，眼中却闪过一丝狡诈之色"
+      "relationships": [
+        {
+          "target": "秦鬼儿",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "向秦鬼儿讲述无字天书的来历，并派其寻找。"
+        }
+      ],
+      "evidence": [
+        "秦鬼儿，你须知道，我等一辈的，还停留在人间，便是以四宗、三老、二真、一奇为尊，只有这位左圣，乃是旁门出身，并无任何师承，也非老辈的转世，能在短短三百年便证就地仙，位列二真之一，靠的便是此宝。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "左圣",
+      "aliases": [],
+      "identity": "旁门地仙，二真之一",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "三百年前证就地仙的旁门修士，拥有无字天书。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "无字天书（叩心图）"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "证就地仙，留下无字天书等遗产。"
+        }
+      ],
+      "evidence": [
+        "只有这位左圣，乃是旁门出身，并无任何师承，也非老辈的转世，能在短短三百年便证就地仙，位列二真之一，靠的便是此宝。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "冷星河",
+      "aliases": [],
+      "identity": "天魔道修士",
+      "faction": "天魔道",
+      "status": "提及",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "与清虚子在独龙峰同归于尽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "清虚子",
+          "type": "同归于尽"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与清虚子在独龙峰同归于尽。"
+        }
+      ],
+      "evidence": [
+        "已经证实，天魔道的冷星河，和紫霄派的清虚子在独龙峰，同归于尽"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "清虚子",
+      "aliases": [],
+      "identity": "紫霄派修士",
+      "faction": "紫霄派",
+      "status": "提及",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "与冷星河在独龙峰同归于尽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "冷星河",
+          "type": "同归于尽"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与冷星河在独龙峰同归于尽。"
+        }
+      ],
+      "evidence": [
+        "已经证实，天魔道的冷星河，和紫霄派的清虚子在独龙峰，同归于尽"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "屠圣",
+      "aliases": [],
+      "identity": "左圣长子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "左圣的长子，得到了极阴球。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "极阴球"
+      ],
+      "relationships": [
+        {
+          "target": "左圣",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "得到极阴球。"
+        }
+      ],
+      "evidence": [
+        "极阴球落在了左圣的长子，屠圣的手中"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "风采",
+      "aliases": [],
+      "identity": "紫霄派弟子",
+      "faction": "紫霄派",
+      "status": "提及",
+      "first_appearance": "第二章 武扣仙门",
+      "summary": "得到了冷烟火心和丙丁针。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "冷烟火心",
+        "丙丁针"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "得到冷烟火心和丙丁针。"
+        }
+      ],
+      "evidence": [
+        "冷烟火心和丙丁针已被紫霄派风采所得"
+      ],
+      "mention_count": 1
     }
   ]
 }

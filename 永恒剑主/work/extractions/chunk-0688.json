@@ -1,255 +1,163 @@
 {
   "chunk_id": "chunk-0688",
-  "title": "第六百八十四章 发展（一）",
   "characters": [
     {
-      "name": "龙蛇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "龙蛇减速悬浮在废土附近，看着被一拳打穿的层层阵法，心头也是惊诧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "龙蛇减速悬浮在废土附近，看着被一拳打穿的层层阵法，心头也是惊诧",
-        "”　　废土内阵法缺口处，林新飞出来，朝龙蛇恭敬行礼",
-        "龙蛇没有说话，看着这个自己一直寄以厚望的弟子，眼中闪过一丝丝欣慰"
-      ],
-      "mention_count": 21
-    },
-    {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "烈山"
+      ],
+      "identity": "碧湖山弟子，龙蛇的徒弟",
+      "faction": "碧湖山",
       "status": "登场",
       "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "”　　废土内阵法缺口处，林新飞出来，朝龙蛇恭敬行礼",
+      "summary": "龙蛇的弟子，在废土上成功设伏重创地仙刺客宦牛，战后重建领地并种植新道兵。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　废土内阵法缺口处，林新飞出来，朝龙蛇恭敬行礼",
-        "”林新摇头，“这已经是弟子拼了命的结果，还好有效，否则这次怕是凶多吉少",
-        "林新微微有些苦笑"
+      "personality": [
+        "谨慎",
+        "有后手"
       ],
-      "mention_count": 18
+      "abilities": [
+        "五阶修为",
+        "布置阵法"
+      ],
+      "equipment": [
+        "废土领地",
+        "道兵建筑"
+      ],
+      "relationships": [
+        {
+          "target": "龙蛇",
+          "type": "师徒"
+        },
+        {
+          "target": "宦牛",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "与龙蛇交谈，处理宦牛，重建废土并种植雪怪、星魔等道兵。"
+        }
+      ],
+      "evidence": [
+        "废土内阵法缺口处，林新飞出来，朝龙蛇恭敬行礼。",
+        "林新微微有些苦笑。‘但这一下也是损失惨重了。’",
+        "林新迅速开始指挥小矮人，收拾残局，重建废土上的很多建筑物。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "最后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "龙蛇",
+      "aliases": [
+        "师尊"
+      ],
+      "identity": "碧湖山高层，地仙强者",
+      "faction": "碧湖山",
       "status": "登场",
       "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "最后还有人造的小型能量潮汐爆炸",
+      "summary": "林新的师尊，地仙修为，出手帮助林新扩大废土领地，并带走宦牛处理。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "欣慰",
+        "谨慎"
+      ],
+      "abilities": [
+        "地仙修为",
+        "扩大领土术法"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "现身废土，称赞林新，扩大废土面积，带走宦牛。"
+        }
+      ],
       "evidence": [
-        "最后还有人造的小型能量潮汐爆炸",
-        "他都以为这次徒弟是在劫难逃了，没想到最后却是柳暗花明，这种心情的一起一落，让他也是感觉很多年前体会过求偶的那种玩心跳的味道",
-        "”　　最后一下爆发，要不是他被数头五阶树妖一起固定在废土上，怕是自己也会被巨大元力一起挤压出来"
+        "龙蛇减速悬浮在废土附近，看着被一拳打穿的层层阵法，心头也是惊诧。",
+        "龙蛇没有说话，看着这个自己一直寄以厚望的弟子，眼中闪过一丝丝欣慰。",
+        "龙蛇双手一挥，两股无形巨力轰然朝四面扩散出去。"
       ],
       "mention_count": 10
     },
     {
-      "name": "废土",
+      "name": "宦牛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "影子城刺客，地仙",
+      "faction": "影子城",
+      "status": "登场（被重创昏迷）",
       "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "龙蛇减速悬浮在废土附近，看着被一拳打穿的层层阵法，心头也是惊诧",
+      "summary": "影子城派出的地仙刺客，刺杀林新失败，被林新的陷阱重创昏迷，后被龙蛇带走。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "龙蛇减速悬浮在废土附近，看着被一拳打穿的层层阵法，心头也是惊诧",
-        "”　　废土内阵法缺口处，林新飞出来，朝龙蛇恭敬行礼",
-        "”　　最后一下爆发，要不是他被数头五阶树妖一起固定在废土上，怕是自己也会被巨大元力一起挤压出来"
+      "abilities": [
+        "地仙修为",
+        "刺客手段"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "就算",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "现在看来，这手段之强，就算是纵观整个碧湖山，也是少有罕见",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现在看来，这手段之强，就算是纵观整个碧湖山，也是少有罕见",
-        "仔细想来，就算欧罗他们其他几人，面对这种局面，怕是也是凶多吉少，没想到这次居然大获全胜",
-        "“就算我不来，你怕是也会有后手吧"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "刺杀目标"
+        },
+        {
+          "target": "龙蛇",
+          "type": "被俘"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "怕是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "刺杀",
+          "event": "刺杀林新，触发二十层阵法和小型能量潮汐爆炸，被重创昏迷。"
+        }
+      ],
       "evidence": [
-        "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-        "仔细想来，就算欧罗他们其他几人，面对这种局面，怕是也是凶多吉少，没想到这次居然大获全胜",
-        "“就算我不来，你怕是也会有后手吧"
+        "宦牛居然失败了……",
+        "他指了指不远处漂浮着的宦牛。",
+        "这家伙并没有死，只是因为你的陷阱受了重创昏迷。"
       ],
       "mention_count": 5
     },
     {
-      "name": "只是",
+      "name": "三道黑袍",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "影子城成员",
+      "faction": "影子城",
+      "status": "登场（撤退）",
       "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-      "appearance": [],
-      "personality": [],
+      "summary": "三名黑袍人，与宦牛同伙，见宦牛失败后决定撤退。",
+      "appearance": [
+        "三道黑袍"
+      ],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-        "原本他只是以为这个弟子只是有潜力罢了，这次的变故，却是彻底出乎他意外",
-        "“所以这家伙并没有死，只是因为你的陷阱受了重创昏迷"
+      "relationships": [
+        {
+          "target": "宦牛",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "只要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-        "“只要人没事就好",
-        "只要不死，就能很快在雕像前自动修复"
+      "timeline": [
+        {
+          "stage": "刺杀后",
+          "event": "讨论宦牛失败，决定不再动手，转身离开。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "眨眼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "”　　其余两人带着疑惑不解，但还是依言，转身没入虚空，眨眼便消失不见",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　其余两人带着疑惑不解，但还是依言，转身没入虚空，眨眼便消失不见",
-        "之前才布置的一切，眨眼便彻底消失"
+        "三道黑袍中，其中一人沉默了下，涩声道。",
+        "我们还要动手么？",
+        "不了……已经没机会了。走吧。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "但这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "“但这一下也是损失惨重了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“但这一下也是损失惨重了",
-        "林新祭神后，几位师兄也前来探望了下，但这次大典他却是没法参加了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“这么近的距离，怕是不会有生还的可能，不过身为地仙，只要圣地不灭，本体也能再度生长出来，只是……刚才那一下对他的圣地怕是也有很严重的影响",
-        "他的背后圣地不绝，你是杀不死他的，只能封印",
-        "”　　他的视线也同样看向宦牛"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "同时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六百八十四章 发展（一）",
-      "summary": "同时也开始将第四个道兵——雪怪，种进刚刚凝聚出来的领土上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同时也开始将第四个道兵——雪怪，种进刚刚凝聚出来的领土上",
-        "比起回到道兵建筑内愈合要快出很多倍，同时还有改善整个领地生态环境的作用，能增幅浓化灵气，逐渐转换虚空中各种能量，让其化为灵力，使修士也能适应这里的环境得到补给，而不是只能极度缓慢的恢复体内修为"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

@@ -1,252 +1,192 @@
 {
   "chunk_id": "chunk-0962",
-  "title": "第九百五十六章 原初（一）",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "拥有四道力的强者，奥佳帝国的征服者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "”林新对于钥匙补全后会发生什么，异常感兴趣",
+      "summary": "林新是拥有四道力的强大存在，精神力恐怖，正在探索奥佳帝国地下宝库，寻找钥匙碎片。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新对于钥匙补全后会发生什么，异常感兴趣",
-        "林新闭目感应了下，庞大无匹的精神力往下探去",
-        "林新脚下直接炸开一个大洞，洞口成椭圆形，边缘光滑无比"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "好奇",
+        "霸道"
       ],
-      "mention_count": 44
+      "abilities": [
+        "精神力操控",
+        "巨力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "冬夜",
+          "type": "下属"
+        },
+        {
+          "target": "奥佳帝国皇帝",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入地下宝库，击杀皇帝，获得怪人雕塑。"
+        }
+      ],
+      "evidence": [
+        "林新闭目感应了下，庞大无匹的精神力往下探去。",
+        "林新直接下令。",
+        "林新一巴掌拍在雕塑怪人上，将其轰隆一声巨响，砸落在另一边的空间力场上。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "他的",
+      "name": "冬夜",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的下属，小队成员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "他的直觉在达到现在的四道力后，已经堪称恐怖般的准确度",
+      "summary": "冬夜是林新的下属，带领小队执行搜索任务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随林新进入地下宝库，执行搜索命令。"
+        }
+      ],
       "evidence": [
-        "他的直觉在达到现在的四道力后，已经堪称恐怖般的准确度",
-        "这种地方，居然还有他的精神力无法探索的区域，这让他稍微有了点兴趣",
-        "他的双眼被蒙着黑布，下半张脸带着一丝诡异的怪笑"
+        "冬夜紧跟着，其余小队成员连忙也跟上去。",
+        "冬夜领命，带着其余七人分散开来，朝着四面八方硬生生撞出去。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "奥佳帝国皇帝",
+      "aliases": [],
+      "identity": "奥佳帝国皇帝",
+      "faction": "奥佳帝国",
+      "status": "死亡",
+      "first_appearance": "第九百五十六章 原初（一）",
+      "summary": "奥佳帝国皇帝，试图依靠宝库中的箱子反杀林新，但被林新杀死。",
+      "appearance": [
+        "身穿白金色帝服，带着白金王冠"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新杀死。"
+        }
+      ],
+      "evidence": [
+        "皇帝惊恐的睁大老眼，不敢置信的盯着眼前的林新。",
+        "皇帝脑袋直接一震，红白色的脑浆从鼻孔里流出来，歪倒在地，直接没了气。"
       ],
       "mention_count": 5
     },
     {
-      "name": "这种",
-      "aliases": [],
-      "identity": "",
+      "name": "怪人雕塑",
+      "aliases": [
+        "罪恶之源，灾祸之根"
+      ],
+      "identity": "封印在箱子中的怪异雕像，具有实现愿望的能力",
       "faction": "",
       "status": "登场",
       "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "这种本事，在普通人眼中，就是所谓的天地垂青，命运的宠儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这种本事，在普通人眼中，就是所谓的天地垂青，命运的宠儿",
-        "这种地方，居然还有他的精神力无法探索的区域，这让他稍微有了点兴趣",
-        "黑暗中有着大片的白雾，这种感觉很怪异"
+      "summary": "一个长着两对触须翅膀的黑色怪人雕塑，被封印在箱子中，能够实现愿望但需要祭品。",
+      "appearance": [
+        "长着两对触须一样翅膀的黑色怪人",
+        "双眼被蒙着黑布",
+        "下半张脸带着一丝诡异的怪笑"
       ],
-      "mention_count": 5
+      "personality": [
+        "木讷"
+      ],
+      "abilities": [
+        "实现愿望"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被林新获得"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新从箱子中取出并激活。"
+        }
+      ],
+      "evidence": [
+        "里面是一座黑石头雕刻的怪异雕像。",
+        "雕塑上的怪人一下活了过来，挣脱林新的手掌，飞到半空。",
+        "献祭吞噬的祭品，满足你一切的愿望。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "雕塑",
+      "name": "两个怪人",
       "aliases": [],
-      "identity": "",
+      "identity": "禁忌之门的守卫",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "忽然雕塑的表面开始浮现出丝丝裂纹",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "忽然雕塑的表面开始浮现出丝丝裂纹",
-        "哧的一下脆响，雕塑上的怪人一下活了过来，挣脱林新的手掌，飞到半空",
-        "”怪人雕塑木讷的回答"
+      "summary": "禁忌之门上的两个黑色怪人头像，负责出谜语考验闯入者，被林新杀死。",
+      "appearance": [
+        "浑身漆黑",
+        "头上长羊角",
+        "双眼眼珠隐隐有着一点白色"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "林新脚下直接炸开一个大洞，洞口成椭圆形，边缘光滑无比",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新脚下直接炸开一个大洞，洞口成椭圆形，边缘光滑无比",
-        "林新狠狠落地，通过精神联系，让手下的原能使直接接管后续善后，安排好一切后，他才看向四周环境",
-        "”　　他直接下令"
+      "personality": [
+        "傲慢",
+        "嘲讽"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这两",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "这两个只有上半身的怪人，浑身漆黑，头上长羊角，双眼眼珠隐隐有着一点白色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这两个只有上半身的怪人，浑身漆黑，头上长羊角，双眼眼珠隐隐有着一点白色",
-        "看到林新来了，这两个怪人居然是活的，顿时发出桀桀的怪笑",
-        "这两种语言，光是一听，就让人能感觉到一丝丝烦躁不安的情绪"
+      "abilities": [
+        "说话",
+        "出谜语"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "林新顺着这个通道，往前跨出十几步，便到了尽头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新顺着这个通道，往前跨出十几步，便到了尽头",
-        "”　　“那我换个问法，这个谜语是猜什么类别",
-        "”　　“这个都不知道"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被林新杀死"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "区区",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "“区区一个箱子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“区区一个箱子",
-        "区区一个箱子，居然能够扛得住这种恐怖的拉扯力"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新杀死。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "这种本事，在普通人眼中，就是所谓的天地垂青，命运的宠儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这种本事，在普通人眼中，就是所谓的天地垂青，命运的宠儿",
-        "“就是这里了",
-        "地宫的通道在他们看来，也就是硬一点的薄纸板，不管多厚的合金墙，都也就一拳打穿"
+        "两个怪人张嘴说出一种林新也没听过的语言",
+        "回答不出来就滚吧，愚蠢的人类！",
+        "那两个怪人的身体直接被扯断爆炸，当场殒命。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "从边",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "从边上往下看，可以看到，一个笔直的，一直贯通到帝都地下深处的巨型通道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "从边上往下看，可以看到，一个笔直的，一直贯通到帝都地下深处的巨型通道"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "如同",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "通道边缘由无形的透明扭曲力场包裹着，如同一根长达数千米的巨大管道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "通道边缘由无形的透明扭曲力场包裹着，如同一根长达数千米的巨大管道",
-        "九人远远望去，如同芝麻点一般，狠狠坠落进帝都中央突然出现的巨洞中"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "九人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百五十六章 原初（一）",
-      "summary": "九人远远望去，如同芝麻点一般，狠狠坠落进帝都中央突然出现的巨洞中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "九人远远望去，如同芝麻点一般，狠狠坠落进帝都中央突然出现的巨洞中"
-      ],
-      "mention_count": 3
+      "mention_count": 6
     }
   ]
 }

@@ -1,236 +1,189 @@
 {
   "chunk_id": "chunk-0333",
-  "title": "第331章反水",
   "characters": [
     {
       "name": "明王",
       "aliases": [],
-      "identity": "",
+      "identity": "百户",
       "faction": "",
       "status": "登场",
       "first_appearance": "第331章反水",
-      "summary": "明王恍然大悟，心头被李钧撩拨起的怒火，也在这一刻如潮水般褪的干干净净",
+      "summary": "冈山城百户，在评议大会上突然改变立场支持阎君一方。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴沉",
+        "不甘"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "角木蛟",
+          "type": "同城上下级"
+        },
+        {
+          "target": "野老",
+          "type": "同盟"
+        },
+        {
+          "target": "阎君",
+          "type": "敌对转为支持"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "突然改变立场，支持阎君一方。"
+        }
+      ],
       "evidence": [
-        "明王恍然大悟，心头被李钧撩拨起的怒火，也在这一刻如潮水般褪的干干净净",
-        "”　　明王苦涩一笑，什么兵部会议，什么结算惯例，不过都是这位千户大人拿捏自己的手段罢了",
-        "说出这句的明王，表情阴沉难看，每一个字眼都是从牙缝里挤出来"
+        "明王恍然大悟，心头被李钧撩拨起的怒火，也在这一刻如潮水般褪的干干净净。",
+        "费了一番心意，好不容易把犬山城赶到自己的陷阱中的明王，突然改变立场，调转枪头支持起了阎君一方。"
       ],
       "mention_count": 12
     },
     {
       "name": "角木蛟",
       "aliases": [],
-      "identity": "",
+      "identity": "冈山城百户",
+      "faction": "冈山城",
+      "status": "登场",
+      "first_appearance": "第331章反水",
+      "summary": "冈山城百户，因明王倒戈而愤怒，当众揭露交易。",
+      "appearance": [],
+      "personality": [
+        "愤怒",
+        "羞恼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "同城上下级"
+        },
+        {
+          "target": "野老",
+          "type": "同盟"
+        },
+        {
+          "target": "阎君",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "被明王呵斥，愤怒揭露交易。"
+        }
+      ],
+      "evidence": [
+        "角木蛟的脸色一时间青红转变，被人当众呵斥的羞恼情绪在他心头快速滋生。",
+        "角木蛟冷笑一声，已经红了的眼睛看向李钧，“还有你！大家投票定下的决议，不是你阎君想不认就能不认的”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "阎君"
+      ],
+      "identity": "千户所成员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第331章反水",
-      "summary": "”　　李钧单脚踩在会议桌上，几乎不用展臂，绣春刀的刃口已经递到了角木蛟的面前",
+      "summary": "被称为阎君的人物，在评议大会上持刀威胁角木蛟。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧单脚踩在会议桌上，几乎不用展臂，绣春刀的刃口已经递到了角木蛟的面前",
-        "“明王，你.”　　角木蛟心头暗恨，所有的屈辱和不满在这一刻同时引爆，只见他突然怒声喝道：“明王，野老，你们答应过我会保我冈山城的名次，现在不作数了",
-        "”　　“角木蛟你不要胡说"
+      "personality": [
+        "愤怒",
+        "强势"
       ],
-      "mention_count": 11
+      "abilities": [],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "敌对转为被支持"
+        },
+        {
+          "target": "角木蛟",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "持刀威胁角木蛟，被明王截停。"
+        }
+      ],
+      "evidence": [
+        "李钧单脚踩在会议桌上，几乎不用展臂，绣春刀的刃口已经递到了角木蛟的面前！",
+        "满腔怒火被硬生生戛止的李钧，本就十分不爽。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "角木",
+      "name": "野老",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第331章反水",
-      "summary": "”　　李钧单脚踩在会议桌上，几乎不用展臂，绣春刀的刃口已经递到了角木蛟的面前",
+      "summary": "与明王、角木蛟同盟的人物，在角木蛟揭露交易时焦急否认。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "焦急"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧单脚踩在会议桌上，几乎不用展臂，绣春刀的刃口已经递到了角木蛟的面前",
-        "“明王，你.”　　角木蛟心头暗恨，所有的屈辱和不满在这一刻同时引爆，只见他突然怒声喝道：“明王，野老，你们答应过我会保我冈山城的名次，现在不作数了",
-        "”　　“角木蛟你不要胡说"
+      "relationships": [
+        {
+          "target": "角木蛟",
+          "type": "同盟"
+        },
+        {
+          "target": "明王",
+          "type": "同盟"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "被角木蛟提及交易，焦急否认。"
+        }
+      ],
+      "evidence": [
+        "“角木蛟你不要胡说！”野老焦急地放声大喝。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "直接",
+      "name": "钱凤庭",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第331章反水",
-      "summary": "”　　钱凤庭撂下这句话，直接把身体往座椅里一缩，闭上眼睛摆出一副假寐的态势",
+      "summary": "在评议大会上假寐的人物，暗示明王千户故意缺席。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "老谋深算"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　钱凤庭撂下这句话，直接把身体往座椅里一缩，闭上眼睛摆出一副假寐的态势",
-        "可落在孔雀的眼里，其中的含义却直接让她凤眉倒竖，差点忍不住破口大骂，目光如刀剔肉，在范无咎身上游走",
-        "这是直接把台面下见不得人的交易，直接给扔到台上了啊"
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "假寐，暗示明王千户故意缺席。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第331章反水",
-      "summary": "明明局势已经尽在掌握，犬山城不过是无能狂怒罢了，根本不足为惧，明王为什么会突然倒戈",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "明明局势已经尽在掌握，犬山城不过是无能狂怒罢了，根本不足为惧，明王为什么会突然倒戈",
-        "”　　彻骨的寒意将角木蛟的身体锁死在原地，往日如臂使指的械体如同锈死，根本来不及做出任何反应"
+        "钱凤庭撂下这句话，直接把身体往座椅里一缩，闭上眼睛摆出一副假寐的态势。"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "千户",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第331章反水",
-      "summary": "千户临时有紧急会议这件事是假，故意不来参加恐怕才是真",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "千户临时有紧急会议这件事是假，故意不来参加恐怕才是真",
-        "“千户大人这是对我心生不满了啊",
-        "”　　明王苦涩一笑，什么兵部会议，什么结算惯例，不过都是这位千户大人拿捏自己的手段罢了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "所有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第331章反水",
-      "summary": "只有他不在场，所有的矛盾才能顺理成章的浮出水面",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只有他不在场，所有的矛盾才能顺理成章的浮出水面",
-        "“明王，你.”　　角木蛟心头暗恨，所有的屈辱和不满在这一刻同时引爆，只见他突然怒声喝道：“明王，野老，你们答应过我会保我冈山城的名次，现在不作数了",
-        "一时间所有的目光全部汇聚到角木蛟的身上，其中明显无比的讥讽嘲弄，让他霎时如芒在背"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "看着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第331章反水",
-      "summary": "他身后两名冈山城的总旗，看着自家百户如此不堪的表现，颓然的低下了脑袋",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他身后两名冈山城的总旗，看着自家百户如此不堪的表现，颓然的低下了脑袋",
-        "”　　谢必安叹息一声，用惋惜的眼神看着范无咎，“别找了，人不在这里",
-        "李钧似笑非笑，看着身前单手抓刀的明王"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "谢必安",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第331章反水",
-      "summary": "谢必安一本正经，“不愧是你，一点就透",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "谢必安一本正经，“不愧是你，一点就透",
-        "范无咎凑到谢必安耳边，低声问道",
-        "’　　谢必安凝视着面色已经趋于平静的明王，身为名序七察士的他敏锐捕捉到对方眼底正在消弭的一丝不甘"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "明明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第331章反水",
-      "summary": "明明局势已经尽在掌握，犬山城不过是无能狂怒罢了，根本不足为惧，明王为什么会突然倒戈",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "明明局势已经尽在掌握，犬山城不过是无能狂怒罢了，根本不足为惧，明王为什么会突然倒戈",
-        "”　　明明已经没有了这项功能的角木蛟，却被鬼门关前的这一次横跳，吓出了已经淡忘的本能",
-        "”　　现在，明明说好了共进退的明王，也弃自己的利益于不顾"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "范无",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第331章反水",
-      "summary": "范无咎稍加琢磨，脸上猛然浮现出骇然的表情，“难道是陈乞生",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "范无咎稍加琢磨，脸上猛然浮现出骇然的表情，“难道是陈乞生",
-        "范无咎恍然，当下十分隐晦的，小心翼翼的朝着还在怒视自己的江户城总旗孔雀比了个大拇指",
-        "可落在孔雀的眼里，其中的含义却直接让她凤眉倒竖，差点忍不住破口大骂，目光如刀剔肉，在范无咎身上游走"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
       "name": "范无咎",
@@ -239,7 +192,166 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第331章反水",
-      "summary": "范无咎稍加琢磨，脸上猛然浮现出骇然的表情，“难道是陈乞生",
+      "summary": "与谢必安交谈的人物，猜测明王倒戈的原因。",
+      "appearance": [],
+      "personality": [
+        "好奇",
+        "粗鲁"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谢必安",
+          "type": "同伴"
+        },
+        {
+          "target": "孔雀",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "与谢必安讨论明王倒戈原因，并向孔雀比手势。"
+        }
+      ],
+      "evidence": [
+        "范无咎凑到谢必安耳边，低声问道。",
+        "范无咎恍然，当下十分隐晦的，小心翼翼的朝着还在怒视自己的江户城总旗孔雀比了个大拇指。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "谢必安",
+      "aliases": [],
+      "identity": "名序七察士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第331章反水",
+      "summary": "名序七察士，观察明王情绪变化。",
+      "appearance": [],
+      "personality": [
+        "敏锐"
+      ],
+      "abilities": [
+        "察言观色"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "范无咎",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "凝视明王，捕捉其不甘情绪。"
+        }
+      ],
+      "evidence": [
+        "谢必安凝视着面色已经趋于平静的明王，身为名序七察士的他敏锐捕捉到对方眼底正在消弭的一丝不甘。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "孔雀",
+      "aliases": [],
+      "identity": "江户城总旗",
+      "faction": "江户城",
+      "status": "登场",
+      "first_appearance": "第331章反水",
+      "summary": "江户城总旗，怒视范无咎。",
+      "appearance": [],
+      "personality": [
+        "愤怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "范无咎",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "怒视范无咎，对其手势愤怒。"
+        }
+      ],
+      "evidence": [
+        "可落在孔雀的眼里，其中的含义却直接让她凤眉倒竖，差点忍不住破口大骂，目光如刀剔肉，在范无咎身上游走。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "虬龙",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第331章反水",
+      "summary": "站在李钧身后的人物，曾质问角木蛟。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "下属或同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "当众质问角木蛟。"
+        }
+      ],
+      "evidence": [
+        "站在李钧身后的虬龙突然感觉手中一轻，一块‘门板’的刀身从他眼前滑过"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "磔狗",
+      "aliases": [],
+      "identity": "总旗",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第331章反水",
+      "summary": "明王身后的总旗之一，被明王示意闭嘴。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明王",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "评议大会",
+          "event": "被明王示意闭嘴。"
+        }
+      ],
+      "evidence": [
+        "他立马回头用眼神示意身后正在和范无咎对喷的总旗磔狗闭嘴"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第331章反水",
+      "summary": "被范无咎猜测可能是明王倒戈的原因。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -247,11 +359,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "范无咎稍加琢磨，脸上猛然浮现出骇然的表情，“难道是陈乞生",
-        "范无咎恍然，当下十分隐晦的，小心翼翼的朝着还在怒视自己的江户城总旗孔雀比了个大拇指",
-        "可落在孔雀的眼里，其中的含义却直接让她凤眉倒竖，差点忍不住破口大骂，目光如刀剔肉，在范无咎身上游走"
+        "范无咎稍加琢磨，脸上猛然浮现出骇然的表情，“难道是陈乞生？不会这明王也是他的黄巾力士？”"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

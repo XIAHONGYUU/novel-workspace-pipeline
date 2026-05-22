@@ -1,252 +1,200 @@
 {
   "chunk_id": "chunk-0033",
-  "title": "第32章 尸香供",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "广法的弟子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第32章 尸香供",
-      "summary": "苏午看着那座庙，一时入神",
+      "summary": "广法的弟子，正在学习密藏域修行之法，拥有模拟器获得的力士咒印。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午看着那座庙，一时入神",
-        "广法却在这时松开了苏午的手，径直朝黑暗里走去",
-        "他的声音被风送进苏午的耳中：“我们出了庙，窄袖观音很快就能感知到你的方位，还不赶紧走"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "好学"
       ],
-      "mention_count": 25
+      "abilities": [
+        "力士咒印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "广法",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随广法离开庙宇，躲避窄袖观音追杀，使用尸香供拖延窄袖观音。"
+        }
+      ],
+      "evidence": [
+        "苏午看着那座庙，一时入神。",
+        "苏午一脑袋问号，却也知道事情轻重，当即快步跟上了广法",
+        "苏午心神沉定，在旁边师父的注视下，计算着窄袖观音与自己之间的距离，眼看她飘到了自己五步以内，才猛然掷出手里的尸香供！"
+      ],
+      "mention_count": 12
     },
     {
       "name": "广法",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "师父"
+      ],
+      "identity": "密藏域僧侣，系缚修行者",
+      "faction": "无想尊能寺",
       "status": "登场",
       "first_appearance": "第32章 尸香供",
-      "summary": "广法却在这时松开了苏午的手，径直朝黑暗里走去",
+      "summary": "苏午的师父，系缚修行者，体内有厉诡，能压制其他僧侣体内的诡，被两个师兄挟持镇守庙宇，但实际有自主权。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "广法却在这时松开了苏午的手，径直朝黑暗里走去",
-        "苏午一脑袋问号，却也知道事情轻重，当即快步跟上了广法，边走边道：“师父，你先前说自己是被挟持来镇守这座庙，制衡两只诡复苏的",
-        "广法扭过头来，看了苏午一眼，像是看穿了苏午内心的真实想法"
+      "personality": [
+        "嚣张",
+        "冰冷",
+        "果断"
       ],
-      "mention_count": 16
+      "abilities": [
+        "系缚修行",
+        "种下虎神咒印",
+        "制作尸香供"
+      ],
+      "equipment": [
+        "尸香供"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒"
+        },
+        {
+          "target": "两个师兄",
+          "type": "师兄弟"
+        },
+        {
+          "target": "无想尊能寺两大长老",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带苏午离开庙宇，解释系缚修行，给予苏午尸香供以拖延窄袖观音。"
+        }
+      ],
+      "evidence": [
+        "广法却在这时松开了苏午的手，径直朝黑暗里走去。",
+        "广法扭过头来，看了苏午一眼，像是看穿了苏午内心的真实想法。",
+        "广法徐徐道出系缚修行之秘"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "你先",
+      "name": "窄袖观音",
       "aliases": [],
-      "identity": "",
+      "identity": "诡异",
       "faction": "",
       "status": "登场",
       "first_appearance": "第32章 尸香供",
-      "summary": "苏午一脑袋问号，却也知道事情轻重，当即快步跟上了广法，边走边道：“师父，你先前说自己是被挟持来镇守这座庙，制衡两只诡复苏的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午一脑袋问号，却也知道事情轻重，当即快步跟上了广法，边走边道：“师父，你先前说自己是被挟持来镇守这座庙，制衡两只诡复苏的",
-        "听到这关乎修行之事，苏午连忙跟了上去：“你先前和我说过的，我拜你为师，你就告诉我修行之事"
+      "summary": "一只追杀苏午的诡异，形象为袖口紧窄、脸庞似桃心、顶着大肚子的女性，能感知方位。",
+      "appearance": [
+        "袖口紧窄打了结",
+        "脸庞似桃心",
+        "顶着大肚子",
+        "风筝似地穿越黑暗"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "此后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第32章 尸香供",
-      "summary": "此后将批命之语，化为偈语，此后一生遵从偈语行事，则称之为受戒",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此后将批命之语，化为偈语，此后一生遵从偈语行事，则称之为受戒",
-        "此后还有鬼药养身种种阶段，对你来说太过遥远——许多僧侣终其一生，都只是停留在受戒阶段"
+      "abilities": [
+        "飞行",
+        "感知方位"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "为什么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第32章 尸香供",
-      "summary": "”　　你明知道自己臭骂别人一顿，肯定会和人结仇，为什么还这么做",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "追赶苏午，被尸香供吸引。"
+        }
+      ],
       "evidence": [
-        "”　　你明知道自己臭骂别人一顿，肯定会和人结仇，为什么还这么做",
-        "“自然要回去，为什么不回去"
+        "窄袖观音很快就能感知到你的方位",
+        "袖口紧窄打了结，脸庞似桃心的窄袖观音顶着大肚子，风筝似地穿越黑暗，向苏午接近而来。",
+        "干枯人偶的领口、袖口里生出条条白得发光的手臂，将人偶层层缠绕！"
       ],
       "mention_count": 4
     },
     {
-      "name": "黑暗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "广法的两个师兄",
+      "aliases": [
+        "两僧侣"
+      ],
+      "identity": "密藏域僧侣，体内有厉诡",
+      "faction": "无想尊能寺",
+      "status": "提及",
       "first_appearance": "第32章 尸香供",
-      "summary": "黑暗里的小庙重归于寂静",
+      "summary": "广法的师兄，体内厉诡濒临复苏，被广法压制，曾挟持广法镇守庙宇。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑暗里的小庙重归于寂静",
-        "广法却在这时松开了苏午的手，径直朝黑暗里走去",
-        "袖口紧窄打了结，脸庞似桃心的窄袖观音顶着大肚子，风筝似地穿越黑暗，向苏午接近而来"
+      "abilities": [
+        "容纳了诡但未完成系缚"
       ],
-      "mention_count": 3
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "广法",
+          "type": "师兄弟"
+        },
+        {
+          "target": "无想尊能寺两大长老",
+          "type": "受其授意"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在庙宇中，被广法臭骂，不甘心放广法离开。"
+        }
+      ],
+      "evidence": [
+        "我那两个师兄被我臭骂一顿，一定不会甘心放我就此离开的。",
+        "真正让我这两个师兄挟持我来此的原因，是有人授意他们这么做，许了大好处的。",
+        "像庙里那两个废物，容纳了诡却未彻底完成系缚，而今只张狂了二三年，便要面临厉诡复苏的问题！"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "看了",
+      "name": "无想尊能寺两大长老",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "无想尊能寺长老",
+      "faction": "无想尊能寺",
+      "status": "提及",
       "first_appearance": "第32章 尸香供",
-      "summary": "广法扭过头来，看了苏午一眼，像是看穿了苏午内心的真实想法",
+      "summary": "授意广法的两个师兄挟持广法镇守庙宇，并许以好处。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "广法扭过头来，看了苏午一眼，像是看穿了苏午内心的真实想法",
-        "”　　苏午心头一紧，看了看掌中一尺来噶高的人偶"
+      "relationships": [
+        {
+          "target": "广法的两个师兄",
+          "type": "授意者"
+        },
+        {
+          "target": "广法",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "密藏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第32章 尸香供",
-      "summary": "苏午一时大受震撼，不过他旋即明白过来，密藏域诸多法寺都有这种假托转世之名，寻找寺庙继承人的传统",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午一时大受震撼，不过他旋即明白过来，密藏域诸多法寺都有这种假托转世之名，寻找寺庙继承人的传统",
-        "密藏域所谓修行，就是以自身来容纳诡，获得诡的助力",
-        "密藏域似乎很擅长制作各种‘供’来吸引诡异的注意力，转移它们对自身的追杀"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为挟持广法的幕后主使。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "密藏域",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第32章 尸香供",
-      "summary": "苏午一时大受震撼，不过他旋即明白过来，密藏域诸多法寺都有这种假托转世之名，寻找寺庙继承人的传统",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "苏午一时大受震撼，不过他旋即明白过来，密藏域诸多法寺都有这种假托转世之名，寻找寺庙继承人的传统",
-        "密藏域所谓修行，就是以自身来容纳诡，获得诡的助力",
-        "密藏域似乎很擅长制作各种‘供’来吸引诡异的注意力，转移它们对自身的追杀"
+        "真正让我这两个师兄挟持我来此的原因，是有人授意他们这么做，许了大好处的。",
+        "无想尊能寺的两大长老。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第32章 尸香供",
-      "summary": "所谓转世，只是一种说法而已",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所谓转世，只是一种说法而已",
-        "此后还有鬼药养身种种阶段，对你来说太过遥远——许多僧侣终其一生，都只是停留在受戒阶段",
-        "发现这件人偶酷似婴儿失水干枯的尸体，只是婴儿不像这人偶头上有浓密的毛发"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "便跟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第32章 尸香供",
-      "summary": "”广法见苏午还有点犹豫，便跟着又说了几句",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”广法见苏午还有点犹豫，便跟着又说了几句"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "就能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第32章 尸香供",
-      "summary": "他的声音被风送进苏午的耳中：“我们出了庙，窄袖观音很快就能感知到你的方位，还不赶紧走",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他的声音被风送进苏午的耳中：“我们出了庙，窄袖观音很快就能感知到你的方位，还不赶紧走",
-        "持戒修行期满，就能将己身化为容器，可以容纳命格对应的某一类诡异",
-        "完成‘缚’的步骤，就能驾驭厉诡为己所用了"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

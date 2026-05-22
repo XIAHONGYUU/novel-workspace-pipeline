@@ -1,248 +1,138 @@
 {
   "chunk_id": "chunk-0029",
-  "title": "第28章骗局",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "钧哥"
+      ],
+      "identity": "武道序列九",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "”　　乌鸦华眼中冒着精光，围着李钧打量了一圈，口中啧啧有声，“要不你切片肉下来给老夫研究研究，这次的诊金的我给你打九折",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "武道序列九，修炼八品内功青帝决，身体出现基因问题。",
+      "appearance": [
+        "缠满绷带的手臂"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "警觉"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华眼中冒着精光，围着李钧打量了一圈，口中啧啧有声，“要不你切片肉下来给老夫研究研究，这次的诊金的我给你打九折",
-        "”　　李钧眯着眼，将自己缠满绷带的手臂伸了过去，笑道：“要不我卸条胳膊给伱，打个五折",
-        "李钧如遭雷齑，整个人愣在原地，背心蓦然冰冷，密布冷汗"
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "医患关系"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "医患关系"
+        },
+        {
+          "target": "况青云",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 23
-    },
-    {
-      "name": "乌鸦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "”　　乌鸦华眼中冒着精光，围着李钧打量了一圈，口中啧啧有声，“要不你切片肉下来给老夫研究研究，这次的诊金的我给你打九折",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华眼中冒着精光，围着李钧打量了一圈，口中啧啧有声，“要不你切片肉下来给老夫研究研究，这次的诊金的我给你打九折",
-        "”　　乌鸦华感觉一股寒意从脚底直冲头顶，浑身一颤，连忙赔笑道：“还是算了吧，搞科研不是我的强项",
-        "”　　一个清脆悦耳的声音从角落里飘了过来，扎着高马尾的乌鸦朵朵捧着一本不知道从哪里搞来的新书蹲在那里"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在乌鸦诊所接受治疗，得知自己基因有问题。"
+        }
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "乌鸦朵",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "”　　一个清脆悦耳的声音从角落里飘了过来，扎着高马尾的乌鸦朵朵捧着一本不知道从哪里搞来的新书蹲在那里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　一个清脆悦耳的声音从角落里飘了过来，扎着高马尾的乌鸦朵朵捧着一本不知道从哪里搞来的新书蹲在那里",
-        "”　　乌鸦朵朵言辞凿凿，可李钧却还是有些不太相信",
-        "乌鸦朵朵抬头看了看天花板，思索片刻后，重重点头，以肯定的语气说道：“就像是一名壮汉拿着破碎机在十二时辰持续不停的凿击"
+        "李钧眯着眼，将自己缠满绷带的手臂伸了过去",
+        "李钧如遭雷齑，整个人愣在原地，背心蓦然冰冷，密布冷汗。",
+        "李钧黑色的眼瞳深处寒光汹涌，如同一把快刀正在出鞘。"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "乌鸦朵朵",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "”　　一个清脆悦耳的声音从角落里飘了过来，扎着高马尾的乌鸦朵朵捧着一本不知道从哪里搞来的新书蹲在那里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一个清脆悦耳的声音从角落里飘了过来，扎着高马尾的乌鸦朵朵捧着一本不知道从哪里搞来的新书蹲在那里",
-        "”　　乌鸦朵朵言辞凿凿，可李钧却还是有些不太相信",
-        "乌鸦朵朵抬头看了看天花板，思索片刻后，重重点头，以肯定的语气说道：“就像是一名壮汉拿着破碎机在十二时辰持续不停的凿击"
-      ],
-      "mention_count": 8
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "“按照你的说法，武九的体魄无法承受八品内功，那武道序列九的晋升仪轨为什么会有‘八品之力’这个要求",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“按照你的说法，武九的体魄无法承受八品内功，那武道序列九的晋升仪轨为什么会有‘八品之力’这个要求",
-        "“这个外力是什么",
-        "“这个功法，有问题"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "透着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "乌鸦朵朵稚气未脱的脸上表情异常严肃，透着一股超出她年龄的成熟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵稚气未脱的脸上表情异常严肃，透着一股超出她年龄的成熟",
-        "”　　声音凄厉，透着一股无助和哀伤"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "三天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "第28章骗局　　“三天前来的时候还捂着肚子怕肠子掉出来，现在竟然就已经好的七七八八了，你们这些武道从序者的恢复能力当真可怕",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第28章骗局　　“三天前来的时候还捂着肚子怕肠子掉出来，现在竟然就已经好的七七八八了，你们这些武道从序者的恢复能力当真可怕"
-      ],
-      "mention_count": 3
+      "mention_count": 20
     },
     {
       "name": "乌鸦华",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "乌鸦华"
+      ],
+      "identity": "诊所医生",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "”　　乌鸦华眼中冒着精光，围着李钧打量了一圈，口中啧啧有声，“要不你切片肉下来给老夫研究研究，这次的诊金的我给你打九折",
+      "first_appearance": "",
+      "summary": "乌鸦诊所的医生，对李钧进行治疗。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "圆滑",
+        "幽默"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　乌鸦华眼中冒着精光，围着李钧打量了一圈，口中啧啧有声，“要不你切片肉下来给老夫研究研究，这次的诊金的我给你打九折",
-        "”　　乌鸦华感觉一股寒意从脚底直冲头顶，浑身一颤，连忙赔笑道：“还是算了吧，搞科研不是我的强项",
-        "”　　站在他旁边的乌鸦华突然感觉一股凌冽的杀意，默默地朝着旁边挪动了几步"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "医患关系"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "父女或师徒"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为李钧检查伤势，并提及乌鸦朵朵的诊断。"
+        }
+      ],
+      "evidence": [
+        "乌鸦华眼中冒着精光，围着李钧打量了一圈",
+        "站在他旁边的乌鸦华突然感觉一股凌冽的杀意，默默地朝着旁边挪动了几步。",
+        "这名老人看向乌鸦朵朵的眼神，晦涩难明，似有责备、疼惜和无可奈何。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "重重",
-      "aliases": [],
-      "identity": "",
+      "name": "乌鸦朵朵",
+      "aliases": [
+        "朵朵"
+      ],
+      "identity": "诊所医生或研究员",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "乌鸦朵朵抬头看了看天花板，思索片刻后，重重点头，以肯定的语气说道：“就像是一名壮汉拿着破碎机在十二时辰持续不停的凿击",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵抬头看了看天花板，思索片刻后，重重点头，以肯定的语气说道：“就像是一名壮汉拿着破碎机在十二时辰持续不停的凿击"
+      "first_appearance": "",
+      "summary": "乌鸦诊所的年轻女性，对人体研究深入，诊断出李钧的基因问题。",
+      "appearance": [
+        "扎着高马尾",
+        "明式黑色马面褶裙"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "就像是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "乌鸦朵朵抬头看了看天花板，思索片刻后，重重点头，以肯定的语气说道：“就像是一名壮汉拿着破碎机在十二时辰持续不停的凿击",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵抬头看了看天花板，思索片刻后，重重点头，以肯定的语气说道：“就像是一名壮汉拿着破碎机在十二时辰持续不停的凿击",
-        "这种感觉，就像是有人在故意普及这条仪轨的内容"
+      "personality": [
+        "直率",
+        "成熟",
+        "狂热"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "疼惜",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "这名老人看向乌鸦朵朵的眼神，晦涩难明，似有责备、疼惜和无可奈何",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这名老人看向乌鸦朵朵的眼神，晦涩难明，似有责备、疼惜和无可奈何"
+      "abilities": [
+        "人体研究"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "准确",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第28章骗局",
-      "summary": "乌鸦朵朵啪的一声将书合上，表情严肃道：“准确的说是你的基因组稳定性出了点问题",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌鸦朵朵啪的一声将书合上，表情严肃道：“准确的说是你的基因组稳定性出了点问题"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "医患关系"
+        },
+        {
+          "target": "乌鸦华",
+          "type": "父女或师徒"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指出李钧的基因问题，并给出建议。"
+        }
+      ],
+      "evidence": [
+        "扎着高马尾的乌鸦朵朵捧着一本不知道从哪里搞来的新书蹲在那里。",
+        "乌鸦朵朵稚气未脱的脸上表情异常严肃，透着一股超出她年龄的成熟。",
+        "乌鸦朵朵毫不留情将他打断，她站起身来，双眼凝视着李钧，眸中闪动着恍如实质的狂热光芒！"
+      ],
+      "mention_count": 10
     }
   ]
 }

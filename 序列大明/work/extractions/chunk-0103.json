@@ -1,245 +1,265 @@
 {
   "chunk_id": "chunk-0103",
-  "title": "第102章上门抓人",
   "characters": [
     {
-      "name": "钱仲骁",
-      "aliases": [],
-      "identity": "",
+      "name": "幺鸡",
+      "aliases": [
+        "幺鸡"
+      ],
+      "identity": "袭击者之一",
       "faction": "",
       "status": "登场",
       "first_appearance": "第102章上门抓人",
-      "summary": "钱仲骁翻身扑倒，可在脊背刚刚贴到地面的瞬间，他的身体猛的翻转，四脚着地，像一条丧家犬般，快如闪电窜进身后的员工之中",
-      "appearance": [],
-      "personality": [],
+      "summary": "袭击蜀道物流的从序者之一，性格跋扈暴戾，使用魏武卒手枪。",
+      "appearance": [
+        "俊美的面孔"
+      ],
+      "personality": [
+        "跋扈",
+        "暴戾",
+        "嚣张"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "魏武卒手枪",
+        "金属斗笠"
+      ],
+      "relationships": [
+        {
+          "target": "魁梧汉子",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "与同伙袭击蜀道物流，追杀钱仲骁。"
+        }
+      ],
       "evidence": [
-        "钱仲骁翻身扑倒，可在脊背刚刚贴到地面的瞬间，他的身体猛的翻转，四脚着地，像一条丧家犬般，快如闪电窜进身后的员工之中",
-        "”　　一道寒光掠过，钱仲骁下意识向后一仰，却依旧感觉到有寒意贴脸，接着便是一阵刺骨的剧痛涌上心头",
-        "钱仲骁强装镇定的声音从拐角中传出"
+        "那个代为为‘幺鸡’的男子朗声大笑",
+        "幺鸡虽然性子跋扈暴戾，但在魁梧汉子面前，却显得十分老实。"
       ],
       "mention_count": 8
     },
     {
-      "name": "钱仲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "钱仲骁",
+      "aliases": [
+        "钱仲骁"
+      ],
+      "identity": "蜀道物流主管",
+      "faction": "蜀道物流",
       "status": "登场",
       "first_appearance": "第102章上门抓人",
-      "summary": "钱仲骁翻身扑倒，可在脊背刚刚贴到地面的瞬间，他的身体猛的翻转，四脚着地，像一条丧家犬般，快如闪电窜进身后的员工之中",
+      "summary": "蜀道物流的主管，在袭击中幸存并逃跑。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "强装镇定"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "在袭击中扑倒逃跑，试图谈判。"
+        }
+      ],
       "evidence": [
-        "钱仲骁翻身扑倒，可在脊背刚刚贴到地面的瞬间，他的身体猛的翻转，四脚着地，像一条丧家犬般，快如闪电窜进身后的员工之中",
-        "”　　一道寒光掠过，钱仲骁下意识向后一仰，却依旧感觉到有寒意贴脸，接着便是一阵刺骨的剧痛涌上心头",
-        "钱仲骁强装镇定的声音从拐角中传出"
+        "钱仲骁翻身扑倒",
+        "钱仲骁强装镇定的声音从拐角中传出。"
       ],
       "mention_count": 6
     },
     {
-      "name": "幺鸡",
-      "aliases": [],
-      "identity": "",
+      "name": "魁梧汉子",
+      "aliases": [
+        "老大"
+      ],
+      "identity": "袭击者首领",
       "faction": "",
       "status": "登场",
       "first_appearance": "第102章上门抓人",
-      "summary": "‘幺鸡’笑了笑，手腕一抖，将那把魏武卒打空的弹夹甩开，顺势在腰间一错，便完成了换弹",
-      "appearance": [],
+      "summary": "袭击蜀道物流的从序者首领，冷静果断。",
+      "appearance": [
+        "魁梧"
+      ],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "钢索机括"
+      ],
+      "relationships": [
+        {
+          "target": "幺鸡",
+          "type": "手下"
+        },
+        {
+          "target": "刀疤脸",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "指挥袭击，阻止幺鸡追击钱仲骁。"
+        }
+      ],
+      "evidence": [
+        "魁梧汉子闻言摇了摇头",
+        "一只手突然伸了过来，按住了幺鸡的肩头。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "刀疤脸",
+      "aliases": [],
+      "identity": "袭击者之一",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第102章上门抓人",
+      "summary": "袭击蜀道物流的从序者之一，与幺鸡一同行动。",
+      "appearance": [
+        "刀疤脸"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘幺鸡’笑了笑，手腕一抖，将那把魏武卒打空的弹夹甩开，顺势在腰间一错，便完成了换弹",
-        "眯着眼睛仔细闻了片刻之后，‘幺鸡’脸上不禁露出古怪的神色，“人还在十二楼，没动过",
-        "‘幺鸡’大笑一声，“不过可惜了，老子从来不喜欢别人施舍，只喜欢打家劫舍"
+      "equipment": [
+        "金属斗笠"
       ],
-      "mention_count": 6
+      "relationships": [
+        {
+          "target": "魁梧汉子",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "与幺鸡一同冲出轿梯。"
+        }
+      ],
+      "evidence": [
+        "和身旁的刀疤脸同时摘下头上的金属斗笠"
+      ],
+      "mention_count": 1
     },
     {
       "name": "齐珠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "蜀道物流情报分析部门部长",
+      "faction": "蜀道物流",
       "status": "登场",
       "first_appearance": "第102章上门抓人",
-      "summary": "看着落款的顾玺二字，齐珠的呼吸不由加快",
+      "summary": "蜀道物流情报分析部门部长，发现顾玺的命令后试图通讯。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "看着落款的顾玺二字，齐珠的呼吸不由加快",
-        "脸上一片灰黑的齐珠瑟缩在角落里，颤抖不止的手中拿着一份刚刚从情报部终端上打印出来的命令",
-        "可就在通讯接通的瞬间，齐珠口中却发出了无比尖锐的惊叫"
+      "personality": [
+        "紧张"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "脸上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第102章上门抓人",
-      "summary": "眯着眼睛仔细闻了片刻之后，‘幺鸡’脸上不禁露出古怪的神色，“人还在十二楼，没动过",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "眯着眼睛仔细闻了片刻之后，‘幺鸡’脸上不禁露出古怪的神色，“人还在十二楼，没动过",
-        "脸上一片灰黑的齐珠瑟缩在角落里，颤抖不止的手中拿着一份刚刚从情报部终端上打印出来的命令"
+      "equipment": [
+        "通讯装置"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "按住",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第102章上门抓人",
-      "summary": "一只手突然伸了过来，按住了幺鸡的肩头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一只手突然伸了过来，按住了幺鸡的肩头",
-        "在连续深呼吸几次之后，她才终于镇定下来，按住耳道中内置的通讯装置，拨出了通讯"
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "在情报部门看到顾玺的命令，试图通讯时惊叫。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "沉重",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第102章上门抓人",
-      "summary": "哒哒哒哒哒哒　　爆炸的余音刚刚散去，沉重的脚步声便接连响起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "哒哒哒哒哒哒　　爆炸的余音刚刚散去，沉重的脚步声便接连响起"
+        "脸上一片灰黑的齐珠瑟缩在角落里",
+        "齐珠的呼吸不由加快"
       ],
       "mention_count": 3
     },
     {
-      "name": "四脚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "顾邕",
+      "aliases": [
+        "儒九少爷"
+      ],
+      "identity": "蜀道物流相关人员",
+      "faction": "蜀道物流",
+      "status": "提及",
       "first_appearance": "第102章上门抓人",
-      "summary": "钱仲骁翻身扑倒，可在脊背刚刚贴到地面的瞬间，他的身体猛的翻转，四脚着地，像一条丧家犬般，快如闪电窜进身后的员工之中",
+      "summary": "袭击者目标，被称为儒九少爷，可能在天府重工资料中。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "被袭击者提及，位于十二楼未动。"
+        }
+      ],
       "evidence": [
-        "钱仲骁翻身扑倒，可在脊背刚刚贴到地面的瞬间，他的身体猛的翻转，四脚着地，像一条丧家犬般，快如闪电窜进身后的员工之中"
+        "先看看顾邕现在在什么位置。",
+        "这位儒九少爷，恐怕是知道自己无路可逃了。"
       ],
       "mention_count": 3
     },
     {
-      "name": "将那",
+      "name": "顾玺",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "蜀道物流东主或高层",
+      "faction": "蜀道物流",
+      "status": "提及",
       "first_appearance": "第102章上门抓人",
-      "summary": "‘幺鸡’笑了笑，手腕一抖，将那把魏武卒打空的弹夹甩开，顺势在腰间一错，便完成了换弹",
+      "summary": "蜀道物流高层，其命令被齐珠看到。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘幺鸡’笑了笑，手腕一抖，将那把魏武卒打空的弹夹甩开，顺势在腰间一错，便完成了换弹",
-        "”　　‘幺鸡’脚掌踏下，将那张汪在血水之中的人皮碾成肉糜，身影一动就要追击而出"
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "其命令出现在情报部门终端。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "看着落款的顾玺二字"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "老子",
+      "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "蜀道物流人员",
+      "faction": "蜀道物流",
+      "status": "提及",
       "first_appearance": "第102章上门抓人",
-      "summary": "‘幺鸡’大笑一声，“不过可惜了，老子从来不喜欢别人施舍，只喜欢打家劫舍",
+      "summary": "被钱仲骁大骂不知所踪。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘幺鸡’大笑一声，“不过可惜了，老子从来不喜欢别人施舍，只喜欢打家劫舍"
+      "relationships": [
+        {
+          "target": "钱仲骁",
+          "type": "同事"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "衣袖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第102章上门抓人",
-      "summary": "嗡.　　衣袖中的机括收缩，拽着汉子向上飞升，另外两人也是如法炮制",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "嗡.　　衣袖中的机括收缩，拽着汉子向上飞升，另外两人也是如法炮制"
+      "timeline": [
+        {
+          "stage": "袭击中",
+          "event": "被钱仲骁提及不知所踪。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "脑海",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第102章上门抓人",
-      "summary": "魁梧汉子闻言摇了摇头，脑海中回忆起天府重工提供的资料里关于顾邕的描述，冷冷一笑：“这位儒九少爷，恐怕是知道自己无路可逃了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "魁梧汉子闻言摇了摇头，脑海中回忆起天府重工提供的资料里关于顾邕的描述，冷冷一笑：“这位儒九少爷，恐怕是知道自己无路可逃了"
+        "心中不断大骂着不知所踪的李钧"
       ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

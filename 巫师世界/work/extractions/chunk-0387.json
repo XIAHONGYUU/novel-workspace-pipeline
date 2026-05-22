@@ -1,0 +1,331 @@
+{
+  "chunk_id": "chunk-0387",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在翻阅秘法之书，得知父亲去世的消息，心情复杂。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "感性"
+      ],
+      "abilities": [],
+      "equipment": [
+        "秘法之书"
+      ],
+      "relationships": [
+        {
+          "target": "南希",
+          "type": "旧识"
+        },
+        {
+          "target": "丽丝佩尔",
+          "type": "合作者"
+        },
+        {
+          "target": "父亲",
+          "type": "父子"
+        },
+        {
+          "target": "薇薇",
+          "type": "亲人"
+        },
+        {
+          "target": "弗利亚",
+          "type": "叔叔/侄女"
+        },
+        {
+          "target": "欧菲",
+          "type": "保护对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "翻阅秘法之书，收到父亲去世的消息。"
+        },
+        {
+          "stage": "当前",
+          "event": "在梦魇世界别墅练功场指导弗利亚和欧菲。"
+        }
+      ],
+      "evidence": [
+        "安格列一页页地翻看着。",
+        "安格列知道，这已经是丽丝佩尔能够表现出的最大情绪波动了。",
+        "安格列无奈地走上台，右手一伸，掌心延伸出一把银色十字剑。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "南希",
+      "aliases": [],
+      "identity": "巫师学徒",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列旧识，秘法印记显示其冲击正式巫师失败，生命潜力流逝。",
+      "appearance": [
+        "貌美如花的高傲少女"
+      ],
+      "personality": [
+        "高傲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这个印记，是南希的。",
+        "看来她还是妄图冲击正式巫师层次了，而且还失败了几次。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "丽丝佩尔",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的合作者，通过秘法印记留言告知安格列父亲去世的消息。",
+      "appearance": [],
+      "personality": [
+        "清冷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这是丽丝佩尔的嗓音，她的声音依旧透着一丝清冷。",
+        "很抱歉……你的父亲，已经过世了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "安格列的父亲",
+      "aliases": [
+        "男爵"
+      ],
+      "identity": "男爵",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "安格列的父亲，已去世，曾想成为旅行家。",
+      "appearance": [
+        "留着一撮小胡子的长发男人"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在宝石海遭遇风暴去世。"
+        }
+      ],
+      "evidence": [
+        "你的父亲，已经过世了。",
+        "那个骑着高头大马，留着一撮小胡子的长发男人"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "薇薇",
+      "aliases": [],
+      "identity": "安格列的亲人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列剩下的唯一血脉亲人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "亲人"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他忽然间，似乎只剩下薇薇这么一个亲人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "尤金",
+      "aliases": [
+        "尤金大人"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在黑渊峡谷寻找杀害妹妹的凶手，计划下深渊。",
+      "appearance": [
+        "年轻漂亮的女子",
+        "右耳是白色兔子耳朵"
+      ],
+      "personality": [
+        "冷漠",
+        "不耐烦"
+      ],
+      "abilities": [
+        "双眼有黑色漩涡",
+        "释放信号标记"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "妹妹",
+          "type": "兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑渊峡谷找到线索，计划下深渊寻找妹妹尸体。"
+        }
+      ],
+      "evidence": [
+        "尤金走到深渊边上，静静往下凝视着",
+        "回去告诉他，我这里还需要三年时间，到时候就可以彻底找到杀掉我妹妹的人。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "白袍男子",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受命来通知尤金地底来了两个黎明巫师。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尤金",
+          "type": "下属/传讯者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "远处天空一道白烟迅速飞来，落在女子身前，凝聚成一个白袍男子。",
+        "地底又来了两个黎明巫师，大人让你帮忙解决掉"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "弗利亚",
+      "aliases": [],
+      "identity": "安格列的侄女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的侄女，在梦魇世界别墅练功场与欧菲对练，对安格列有依赖和爱恋。",
+      "appearance": [
+        "黑色短马尾",
+        "白皙近乎透明的肌肤"
+      ],
+      "personality": [
+        "活泼",
+        "任性",
+        "依赖"
+      ],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [
+        "十字剑"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "叔叔/侄女"
+        },
+        {
+          "target": "欧菲",
+          "type": "对练伙伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与欧菲对练，并试图让安格列指导。"
+        }
+      ],
+      "evidence": [
+        "场上拿十字剑的，是弗利亚",
+        "叔叔，是不是比以前大了很多？"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "欧菲",
+      "aliases": [],
+      "identity": "被保护者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与弗利亚对练的少女，被安格列保护。",
+      "appearance": [],
+      "personality": [
+        "害羞"
+      ],
+      "abilities": [],
+      "equipment": [
+        "长匕首"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "保护者"
+        },
+        {
+          "target": "弗利亚",
+          "type": "对练伙伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与弗利亚对练，不敌。"
+        }
+      ],
+      "evidence": [
+        "而拿长匕首的，则是欧菲。",
+        "欧菲此时已经是有些狼狈不堪了"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

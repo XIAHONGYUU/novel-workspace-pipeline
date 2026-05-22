@@ -1,256 +1,144 @@
 {
   "chunk_id": "chunk-0077",
-  "title": "第76章 瞳中门，门中诡",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "模拟器使用者，拥有尸陀鬼之手等能力",
       "faction": "",
       "status": "登场",
       "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "需要苏午在离开模拟以后，再花费模拟币将它兑换出来",
+      "summary": "主角，在模拟中获得了通灵体质天赋，与[空格]视频通话时遭遇许进的诡术攻击，用鬼手反击。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "需要苏午在离开模拟以后，再花费模拟币将它兑换出来",
-        "类似感知诡异的能力，苏午通过尸陀鬼之手已经掌握，通灵体质（绿色）的加成可有可无",
-        "但它的第二项作用——可以锻炼苏午的‘意根藏’，令自己的意在感应到诡异韵致的时候，持续得到锻炼"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 22
+      "abilities": [
+        "尸陀鬼之手",
+        "通灵体质（绿色）"
+      ],
+      "equipment": [
+        "应急罐头",
+        "文件夹",
+        "手机"
+      ],
+      "relationships": [
+        {
+          "target": "许进",
+          "type": "敌对"
+        },
+        {
+          "target": "方元",
+          "type": "未知"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在模拟中查看天赋，与[空格]视频通话，遭遇许进攻击，捏碎手机。"
+        }
+      ],
+      "evidence": [
+        "苏午通过尸陀鬼之手已经掌握",
+        "苏午忽然感觉到衣服口袋里的手机断续地震动起来",
+        "鬼手将手机狠狠捏碎"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "说话",
-      "aliases": [],
-      "identity": "",
+      "name": "许进",
+      "aliases": [
+        "丑人",
+        "长相随意的男人"
+      ],
+      "identity": "疑似官方人员，拥有诡的力量",
       "faction": "",
       "status": "登场",
       "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "第76章 瞳中门，门中诡　　‘说话的艺术’这项天赋，经过诡变后，保留了原本的‘说话的艺术（蓝色）’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第76章 瞳中门，门中诡　　‘说话的艺术’这项天赋，经过诡变后，保留了原本的‘说话的艺术（蓝色）’",
-        "在他前头的阴柔男人连忙开口打圆场：“诶，朋友，说话没必要这么冲的……”　　说罢，阴柔男人又转脸去安慰长相随意男人：“他毕竟不知道你是谁，不要跟一个普通人那么计较",
-        "到了阴柔男嘴里，反而先开口劝告苏午‘说话不要那么冲’"
+      "summary": "与方元一起在明州市郊区，通过视频通话对苏午使用诡术，被苏午反击。",
+      "appearance": [
+        "长相随意",
+        "眼神阴沉",
+        "泛黄的眼睛"
       ],
-      "mention_count": 7
+      "personality": [
+        "颐指气使",
+        "易怒",
+        "残忍"
+      ],
+      "abilities": [
+        "瞳中门诡术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "方元",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与方元在春凤海鲜酒楼外，通过视频通话攻击苏午，被鬼手反击。"
+        }
+      ],
+      "evidence": [
+        "丑人抬手打断了阴柔男的话",
+        "那双阴森的、泛黄的眼睛里，瞳仁扩大，像是撑开了两扇门户",
+        "你已经第五次违背工作守则"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "空格",
-      "aliases": [],
-      "identity": "",
+      "name": "方元",
+      "aliases": [
+        "阴柔男",
+        "阴柔男人"
+      ],
+      "identity": "疑似官方人员，与许进同行",
       "faction": "",
       "status": "登场",
       "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "屏幕亮起，　　又浮现出[空格]申请加自己为好友的消息",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "屏幕亮起，　　又浮现出[空格]申请加自己为好友的消息",
-        "不过在这时，[空格]发来的加好友验证消息里，出现了一句话：“你就不想知道明州市外是什么情况吗",
-        "加了[空格]为好友"
+      "summary": "与许进一起在明州市郊区，试图缓和苏午与许进的冲突，对许进有所顾忌。",
+      "appearance": [
+        "长相比较阴柔"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "阴柔男",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "”　　苏午看着屏幕前面的阴柔男，开口说道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　苏午看着屏幕前面的阴柔男，开口说道",
-        "”阴柔男笑了笑，回答苏午道，其看到苏午背后红灯笼升起，而苏午却未受丝毫影响，眼神非常惊奇，还想开口询问，就被身后的同伴打断了",
-        "在他前头的阴柔男人连忙开口打圆场：“诶，朋友，说话没必要这么冲的……”　　说罢，阴柔男人又转脸去安慰长相随意男人：“他毕竟不知道你是谁，不要跟一个普通人那么计较"
+      "personality": [
+        "圆滑",
+        "谨慎"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "通灵",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-        "通灵体质（绿色）：你比寻常人更容易感应到诡异的存在，诡异的韵致对寻常人是一种毒药，会让他们自身造成极重的负担，产生诸如‘濒死感’一类的恐怖体验",
-        "……　　这项‘通灵体质’天赋，是临时天赋"
+      "equipment": [
+        "手机"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "通灵体",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-        "通灵体质（绿色）：你比寻常人更容易感应到诡异的存在，诡异的韵致对寻常人是一种毒药，会让他们自身造成极重的负担，产生诸如‘濒死感’一类的恐怖体验",
-        "……　　这项‘通灵体质’天赋，是临时天赋"
+      "relationships": [
+        {
+          "target": "许进",
+          "type": "同伴"
+        },
+        {
+          "target": "苏午",
+          "type": "未知"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "通灵体质",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-        "通灵体质（绿色）：你比寻常人更容易感应到诡异的存在，诡异的韵致对寻常人是一种毒药，会让他们自身造成极重的负担，产生诸如‘濒死感’一类的恐怖体验",
-        "……　　这项‘通灵体质’天赋，是临时天赋"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许进在春凤海鲜酒楼外，与苏午视频通话，试图阻止许进。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "明州市",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "不过在这时，[空格]发来的加好友验证消息里，出现了一句话：“你就不想知道明州市外是什么情况吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "不过在这时，[空格]发来的加好友验证消息里，出现了一句话：“你就不想知道明州市外是什么情况吗",
-        "明州市外的世界，看起来似乎还比较正常",
-        "还在明州市内，只不过是郊区"
+        "前面长相比较阴柔的男人拿着手机",
+        "阴柔男人连忙开口打圆场",
+        "阴柔男对身后的丑人有点顾忌"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "丑人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "”　　明明是这个丑人开口就一副颐指气使的样子，　　苏午只不过是回怼了他一句而已",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　明明是这个丑人开口就一副颐指气使的样子，　　苏午只不过是回怼了他一句而已",
-        "阴柔男对身后的丑人有点顾忌",
-        "但他们越是这样，苏午反而越是好奇——这丑人J8谁啊"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这项",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "第76章 瞳中门，门中诡　　‘说话的艺术’这项天赋，经过诡变后，保留了原本的‘说话的艺术（蓝色）’",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第76章 瞳中门，门中诡　　‘说话的艺术’这项天赋，经过诡变后，保留了原本的‘说话的艺术（蓝色）’",
-        "……　　这项‘通灵体质’天赋，是临时天赋",
-        "这项加成却是十分不错"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "绿色",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "同时，裂变衍生出了另一项天赋：通灵体质（绿色）",
-        "通灵体质（绿色）：你比寻常人更容易感应到诡异的存在，诡异的韵致对寻常人是一种毒药，会让他们自身造成极重的负担，产生诸如‘濒死感’一类的恐怖体验",
-        "类似感知诡异的能力，苏午通过尸陀鬼之手已经掌握，通灵体质（绿色）的加成可有可无"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "站起",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第76章 瞳中门，门中诡",
-      "summary": "他抱着应急罐头，站起了身，右腋下伸出鬼手，将文件夹托在手掌上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他抱着应急罐头，站起了身，右腋下伸出鬼手，将文件夹托在手掌上"
-      ],
-      "mention_count": 3
+      "mention_count": 6
     }
   ]
 }

@@ -1,254 +1,400 @@
 {
   "chunk_id": "chunk-0506",
-  "title": "第二百七十九章 复国计划（中）",
   "characters": [
     {
-      "name": "云玉真",
+      "name": "女皇",
       "aliases": [],
-      "identity": "",
+      "identity": "上古女皇",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "观世音，不，云玉真第一次真正惊讶了，好奇道：“主人是怎么知道的",
+      "summary": "上古女皇，与燃灯对话，提及未来殒落命运和复国计划。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "威严",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "金棒"
+      ],
+      "relationships": [
+        {
+          "target": "燃灯",
+          "type": "对话者"
+        },
+        {
+          "target": "主人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "上古",
+          "event": "建国，与燃灯商议未来。"
+        }
+      ],
+      "evidence": [
+        "陛下建国有成",
+        "女皇冷哼一声，手中金棒拍到老和尚肩上",
+        "本皇在未来注定是殒落的命运"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "燃灯",
+      "aliases": [
+        "老和尚",
+        "老僧"
+      ],
+      "identity": "佛门古佛",
+      "faction": "佛门",
+      "status": "登场",
+      "first_appearance": "第二百七十九章 复国计划（中）",
+      "summary": "佛门古佛，与女皇对话，提及偷了假道祖躯壳。",
+      "appearance": [
+        "一脸笑眯眯，眼角充斥着狡诈之色"
+      ],
+      "personality": [
+        "狡诈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "观世音，不，云玉真第一次真正惊讶了，好奇道：“主人是怎么知道的",
-        "云玉真惋惜道：“可惜主人没成地藏，不然地藏和观音，多么般配，我们可以一同参修欢喜禅呢",
-        "”    云玉真笑道：“若无六道轮回，岂有地藏王，若无观世音，岂有观世音菩萨，主人，您也太小瞧玉真了"
+      "relationships": [
+        {
+          "target": "女皇",
+          "type": "对话者"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "上古",
+          "event": "与女皇商议功成身退。"
+        }
+      ],
+      "evidence": [
+        "老和尚一脸笑眯眯，眼角充斥着狡诈之色，正是燃灯",
+        "你不是趁机偷了假道祖的一具躯壳么"
+      ],
+      "mention_count": 4
     },
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "主人"
+      ],
+      "identity": "主角，曾差点成为地藏",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "”    戚笼没全说实话，还有一点，他在对方身上感受到了‘大自在神光’的气息，那是《大自在心经》中的最强神通",
+      "summary": "主角，与云玉真对话，了解复国计划细节。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼没全说实话，还有一点，他在对方身上感受到了‘大自在神光’的气息，那是《大自在心经》中的最强神通",
-        "”    戚笼无语，证就了‘观自在’，这一位撩骚的性子似乎也没有改变多少，不过想到当初地藏六大化身已证其五，结果为了摆脱死劫硬生生爆了全部，他多少也有些惋惜",
-        "”    戚笼一愣，然后摇头道：“是我糊涂了，若无净土之意，你也修不出这西方三圣的业位来"
+      "personality": [
+        "敏锐",
+        "冷静"
       ],
-      "mention_count": 11
+      "abilities": [
+        "感应大菩萨业位"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "云玉真",
+          "type": "主仆"
+        },
+        {
+          "target": "长公主",
+          "type": "合作者"
+        },
+        {
+          "target": "木叉公",
+          "type": "对手"
+        },
+        {
+          "target": "波旬",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与云玉真讨论复国计划。"
+        }
+      ],
+      "evidence": [
+        "戚笼没全说实话",
+        "戚笼无语",
+        "戚笼突然道"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "云玉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "云玉真",
+      "aliases": [
+        "观世音",
+        "观自在",
+        "观世自在"
+      ],
+      "identity": "佛门四大菩萨之一，观世音菩萨",
+      "faction": "佛门",
       "status": "登场",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "观世音，不，云玉真第一次真正惊讶了，好奇道：“主人是怎么知道的",
+      "summary": "佛门观世音菩萨，参与复国计划，与戚笼对话。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "撩骚",
+        "慈悲"
+      ],
+      "abilities": [
+        "大自在神光",
+        "净土权柄"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主仆"
+        },
+        {
+          "target": "长公主",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向戚笼解释复国计划。"
+        }
+      ],
       "evidence": [
-        "观世音，不，云玉真第一次真正惊讶了，好奇道：“主人是怎么知道的",
-        "云玉真惋惜道：“可惜主人没成地藏，不然地藏和观音，多么般配，我们可以一同参修欢喜禅呢",
-        "”    云玉真笑道：“若无六道轮回，岂有地藏王，若无观世音，岂有观世音菩萨，主人，您也太小瞧玉真了"
+        "观世音，不，云玉真第一次真正惊讶了",
+        "云玉真笑道",
+        "云玉真双手合十，一脸慈悲"
       ],
       "mention_count": 8
     },
     {
-      "name": "老和尚",
+      "name": "长公主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "钟吾国长公主，复国计划主导者",
+      "faction": "钟吾国",
+      "status": "提及",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
+      "summary": "复国计划的主导者，利用万神大阵吸纳神族、王族血脉。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
-        "”    老和尚一脸笑眯眯，眼角充斥着狡诈之色，正是燃灯",
-        "“想走，哪有这么容易，”女皇冷哼一声，手中金棒拍到老和尚肩上，顿时间，虚空传来重物砸落的声音"
+      "relationships": [
+        {
+          "target": "云玉真",
+          "type": "合作者"
+        },
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        },
+        {
+          "target": "波旬",
+          "type": "对手"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
-        "”    戚笼没全说实话，还有一点，他在对方身上感受到了‘大自在神光’的气息，那是《大自在心经》中的最强神通"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "推动复国计划，准备让众生入福堂。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "主人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "“拿出来吧，当初本皇和主人大闹天宫时，你不是趁机偷了假道祖的一具躯壳么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“拿出来吧，当初本皇和主人大闹天宫时，你不是趁机偷了假道祖的一具躯壳么",
-        "观世音，不，云玉真第一次真正惊讶了，好奇道：“主人是怎么知道的",
-        "云玉真惋惜道：“可惜主人没成地藏，不然地藏和观音，多么般配，我们可以一同参修欢喜禅呢"
+        "长公主要想让众生入内",
+        "长公主用万神大阵吸纳所有神族、王族血脉"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "大自",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "”    戚笼没全说实话，还有一点，他在对方身上感受到了‘大自在神光’的气息，那是《大自在心经》中的最强神通",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼没全说实话，还有一点，他在对方身上感受到了‘大自在神光’的气息，那是《大自在心经》中的最强神通"
-      ],
-      "mention_count": 5
+      "mention_count": 4
     },
     {
       "name": "波旬",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "魔王",
+      "faction": "魔道",
+      "status": "提及",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "“古佛留下的气运便藏在福堂中，所以木叉公必须进入其中，而波旬需要一副容纳亿万外道生灵的躯壳，否则单凭一缕妄念，最后的下场只是被万魔吞噬，而我们也需要福堂，把亿万众生送去彼岸",
+      "summary": "魔王，试图释放外道生灵进入福堂，与长公主等人对立。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "长公主",
+          "type": "对手"
+        },
+        {
+          "target": "木叉公",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阻止长公主计划，欲释放外道生灵。"
+        }
+      ],
       "evidence": [
-        "“古佛留下的气运便藏在福堂中，所以木叉公必须进入其中，而波旬需要一副容纳亿万外道生灵的躯壳，否则单凭一缕妄念，最后的下场只是被万魔吞噬，而我们也需要福堂，把亿万众生送去彼岸",
-        "”    “八难是众生进入福堂的唯一条路，所以波旬必须加入，而只有木叉公的本体能分离古佛气运，所以他必须吞噬无心如来、杀佛，积累足够大的法力，而长公主要想让众生入内，即需要八难、也需要佛门气运",
-        "”    “没错，”云玉真浅笑道：“长公主用万神大阵吸纳所有神族、王族血脉，并通过逆转二者血脉，再造破界之力，让众生从黑暗中分离而出，通过八难入福堂，波旬必定会阻止"
+        "波旬要释放外道生灵进入福堂",
+        "波旬必定会阻止"
       ],
       "mention_count": 5
     },
     {
-      "name": "千年之",
+      "name": "木叉公",
       "aliases": [],
-      "identity": "",
+      "identity": "菩提木，三个如来级别的大僧人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
+      "summary": "融合了药师如来、无心佛、杀佛之力的菩提木，是计划的关键。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
-        "女皇淡淡道：“本皇在未来注定是殒落的命运，但是既然事做了，便就要做好，千年之后，天帝再度出世，本皇又早已殒落，这一批钟吾国民又该何去何从"
+      "relationships": [
+        {
+          "target": "波旬",
+          "type": "合作者"
+        },
+        {
+          "target": "长公主",
+          "type": "对手"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被波旬利用，吞噬无心如来等。"
+        }
+      ],
+      "evidence": [
+        "木叉公必须进入其中",
+        "融合了药师如来、无心佛、杀佛之力的木叉公"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "陛下",
+      "name": "杀佛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "佛门人物",
+      "faction": "佛门",
+      "status": "提及",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "“陛下建国有成，那老僧也可以功成身退了",
+      "summary": "被木叉公吞噬的佛门人物之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“陛下建国有成，那老僧也可以功成身退了",
-        "老和尚眼角抽了抽，强笑道：“五帝已退入先天之源，天帝又在千年后出世，陛下既无远虑，又无近忧，老僧呆在这里也无用啊",
-        "”    “陛下的意思"
+      "relationships": [
+        {
+          "target": "木叉公",
+          "type": "被吞噬"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被木叉公吞噬。"
+        }
+      ],
+      "evidence": [
+        "杀佛必须死",
+        "融合了药师如来、无心佛、杀佛之力的木叉公"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "老和",
+      "name": "无心如来",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "佛门如来",
+      "faction": "佛门",
+      "status": "提及",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
+      "summary": "被木叉公吞噬的佛门如来之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
-        "”    老和尚一脸笑眯眯，眼角充斥着狡诈之色，正是燃灯",
-        "“想走，哪有这么容易，”女皇冷哼一声，手中金棒拍到老和尚肩上，顿时间，虚空传来重物砸落的声音"
+      "relationships": [
+        {
+          "target": "木叉公",
+          "type": "被吞噬"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被木叉公吞噬。"
+        }
+      ],
+      "evidence": [
+        "无心如来、药师如来也必须交给木叉公"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "女皇",
+      "name": "药师如来",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "佛门如来",
+      "faction": "佛门",
+      "status": "提及",
       "first_appearance": "第二百七十九章 复国计划（中）",
-      "summary": "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
+      "summary": "被木叉公吞噬的佛门如来之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "千年之前，上古碎片之上，立着一位女皇、还有一位老和尚",
-        "“想走，哪有这么容易，”女皇冷哼一声，手中金棒拍到老和尚肩上，顿时间，虚空传来重物砸落的声音",
-        "女皇淡淡道：“本皇在未来注定是殒落的命运，但是既然事做了，便就要做好，千年之后，天帝再度出世，本皇又早已殒落，这一批钟吾国民又该何去何从"
+      "relationships": [
+        {
+          "target": "木叉公",
+          "type": "被吞噬"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被木叉公吞噬。"
+        }
+      ],
+      "evidence": [
+        "无心如来、药师如来也必须交给木叉公"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "人皇",
+      "aliases": [
+        "照灯笼"
+      ],
+      "identity": "人皇，人道融入此界",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二百七十九章 复国计划（中）",
+      "summary": "人皇，人道融入此界，若众生离去将疯掉。",
+      "appearance": [],
+      "personality": [
+        "半疯不傻"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "可能被计划影响。"
+        }
+      ],
+      "evidence": [
+        "人皇的人道早已融入此界之中",
+        "一旦众生离去，人道断绝，这小子必疯无疑"
+      ],
+      "mention_count": 1
     }
   ]
 }

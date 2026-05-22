@@ -1,162 +1,269 @@
 {
   "chunk_id": "chunk-0308",
-  "title": "第三百零五章 风云（上）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "那蒙面人继续在林新身上摸索起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那蒙面人继续在林新身上摸索起来",
-        "”林新忽然开口道",
-        "”林新微微一笑"
+      "aliases": [
+        "红花先生"
       ],
-      "mention_count": 16
+      "identity": "被囚禁的修行者",
+      "faction": "",
+      "status": "被囚禁",
+      "first_appearance": "",
+      "summary": "被仙煞盟元斗魔宗囚禁在观星台，承受星力灌体痛苦，但仍能冷静询问情报。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "坚韧",
+        "谨慎"
+      ],
+      "abilities": [
+        "星力灌体承受力强"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵克",
+          "type": "曾救过"
+        },
+        {
+          "target": "四绝仙子",
+          "type": "曾救过"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被囚禁在元斗魔宗观星台，白天痛苦稍缓，向看守询问情报。"
+        }
+      ],
+      "evidence": [
+        "林新动弹不得，只是能勉强说话，星力灌体痛苦虽然痛苦，但倒是对身体的损伤破坏却没有魔液池大",
+        "林新微微一笑。“只要你多回答我几个问题，我便不会说出去。如何？”",
+        "红花先生最近似乎出事了……将仙煞盟的一个加盟宗门宗主，直接杀了，还抢了其手上的一样宝物，现在被仙煞盟的高手抓了去"
+      ],
+      "mention_count": 10
     },
     {
       "name": "赵克",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "”　　少年便是之前林新和也蛇洞主相斗时，遇到的那个狡黠少年赵克",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　少年便是之前林新和也蛇洞主相斗时，遇到的那个狡黠少年赵克",
-        "当初的四绝仙子心狠手辣，冰冷如霜，但现在看来，似乎已经被赵克成功沦陷，没半点当初的冰冷",
-        "”赵克有些无奈道"
+      "aliases": [
+        "赵郎"
       ],
-      "mention_count": 13
+      "identity": "光耀会成员",
+      "faction": "光耀会",
+      "status": "活跃",
+      "first_appearance": "",
+      "summary": "与四绝仙子相恋，正在练习寒霜刀法，考虑脱离光耀会另寻师门。",
+      "appearance": [],
+      "personality": [
+        "聪颖",
+        "狡黠",
+        "有上进心"
+      ],
+      "abilities": [
+        "寒霜刀法"
+      ],
+      "equipment": [
+        "银白长刀"
+      ],
+      "relationships": [
+        {
+          "target": "四绝仙子",
+          "type": "恋人"
+        },
+        {
+          "target": "林新",
+          "type": "被救者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在庭院中练习寒霜刀法，被王怀生通知会里有急召。"
+        }
+      ],
+      "evidence": [
+        "一黄袍少年手持银白长刀，上下不断翻飞舞动",
+        "赵郎聪颖过人，天赋异禀，这套寒霜刀法已经掌握得七七八八了",
+        "赵克和四绝交换眼神，都感觉有些不对。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "少年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "一处庭院中，一黄袍少年手持银白长刀，上下不断翻飞舞动，刀刃明明宽厚异常，但在他手中却仿佛穿花蝴蝶一般，轻盈巧妙",
-      "appearance": [],
-      "personality": [],
+      "name": "四绝仙子",
+      "aliases": [
+        "蓉儿"
+      ],
+      "identity": "修行者，赵克恋人",
+      "faction": "光耀会",
+      "status": "活跃",
+      "first_appearance": "",
+      "summary": "原本心狠手辣，如今对赵克温柔体贴，支持赵克寻找更好师门。",
+      "appearance": [
+        "容貌秀丽，戴着一层薄薄黑面纱，身段婀娜，凹凸有致"
+      ],
+      "personality": [
+        "温柔",
+        "体贴",
+        "有主见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵克",
+          "type": "恋人"
+        },
+        {
+          "target": "林新",
+          "type": "被救者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵克在庭院中，鼓励赵克，并考虑脱离光耀会。"
+        }
+      ],
       "evidence": [
-        "一处庭院中，一黄袍少年手持银白长刀，上下不断翻飞舞动，刀刃明明宽厚异常，但在他手中却仿佛穿花蝴蝶一般，轻盈巧妙",
-        "静静看着少年舞刀",
-        "不多时，一套刀法舞下来，少年缓缓收刀，刀刃上附着的一片寒意顿时缓缓散去"
+        "旁观女子微微点头，眼中闪过一丝温柔",
+        "当初的四绝仙子心狠手辣，冰冷如霜，但现在看来，似乎已经被赵克成功沦陷",
+        "四绝仙子盈盈一笑，温柔道。“再说不是还有我么？我会保护你的”"
       ],
       "mention_count": 6
     },
     {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "而在这等痛苦之下，居然还有精力分心说话",
+      "name": "王怀生",
+      "aliases": [
+        "王大哥"
+      ],
+      "identity": "光耀会成员",
+      "faction": "光耀会",
+      "status": "活跃",
+      "first_appearance": "",
+      "summary": "对赵克和四绝仙子照顾有加，前来通知会里有急召。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "热心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在这等痛苦之下，居然还有精力分心说话",
-        "”　　居然连一宗之主都给杀了，听到消息，两人先是心头一震，但后面的话却是让他们都是心头微跳",
-        "连他那般强悍的高人，居然也会出事"
+      "relationships": [
+        {
+          "target": "赵克",
+          "type": "朋友"
+        },
+        {
+          "target": "四绝仙子",
+          "type": "朋友"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "敲门通知赵克和四绝仙子去总部。"
+        }
+      ],
+      "evidence": [
+        "会里一直对他们两人照顾有加的王怀生大哥",
+        "王怀生迅速解释道。“会里有急召，要你们两个赶紧去总部”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "一人",
+      "name": "灰布衣袍人",
       "aliases": [],
-      "identity": "",
+      "identity": "神秘高手",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "”一人小心的看着他，低声回答",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”一人小心的看着他，低声回答",
-        "”另一人赶紧回答道",
-        "”一人低声道，“赤脊门现在四面皆敌，定然猖獗不了多久"
+      "first_appearance": "",
+      "summary": "从卿秋山走出，身后黑雾弥漫，提着画眉鸟笼，言行古怪。",
+      "appearance": [
+        "一身灰布衣袍，手里提着个画眉鸟笼，看起来像是个教书先生一般"
       ],
-      "mention_count": 5
+      "personality": [
+        "平和",
+        "古怪"
+      ],
+      "abilities": [
+        "引发异象"
+      ],
+      "equipment": [
+        "画眉鸟笼"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从卿秋山走出，身后黑雾弥漫，雷声滚滚。"
+        }
+      ],
+      "evidence": [
+        "这人一身灰布衣袍，手里提着个画眉鸟笼，看起来像是个教书先生一般",
+        "他缓缓走出山道，身后黑雾弥漫，使其原本普通的形象也变得有些诡异莫名起来",
+        "听一点小曲儿，喝一盅小酒，有吃有穿，有美相伴，这才是我曾经最苛求的美好生活啊"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "我们",
+      "name": "欧阳黥",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "”那人挣脱开来，“反正他也是必死，不如身上有什么好东西也能便宜便宜我们",
+      "identity": "路门明面门主，纳溪第一高手",
+      "faction": "仙煞盟路门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "路门明面上的门主，但真正镇压宗门的是欧阳燕。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "欧阳燕",
+          "type": "明面与真正掌权者"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”那人挣脱开来，“反正他也是必死，不如身上有什么好东西也能便宜便宜我们",
-        "”　　“你不说我不说，就我们几个兄弟姐妹，谁会发现",
-        "那位只是明面上推出来的，真正镇压宗门的是欧阳燕，是与我们宗主相提并论的三君之一"
+        "是那个欧阳黥的路门？",
+        "欧阳黥？那位只是明面上推出来的，真正镇压宗门的是欧阳燕"
       ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
-      "name": "刀刃",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "银白刀刃划破夜晚，亮起淡淡蓝光，刀刃所指方向，地面豁然散开一片蓝霜",
+      "name": "欧阳燕",
+      "aliases": [
+        "岁响君"
+      ],
+      "identity": "路门真正掌权者，三君之一",
+      "faction": "仙煞盟路门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "路门真正镇压宗门的高手，三君之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "欧阳黥",
+          "type": "真正掌权者与明面门主"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "银白刀刃划破夜晚，亮起淡淡蓝光，刀刃所指方向，地面豁然散开一片蓝霜",
-        "一处庭院中，一黄袍少年手持银白长刀，上下不断翻飞舞动，刀刃明明宽厚异常，但在他手中却仿佛穿花蝴蝶一般，轻盈巧妙",
-        "刀刃穿梭，每一次都会打出一片蓝白冰霜"
+        "真正镇压宗门的是欧阳燕，是与我们宗主相提并论的三君之一"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "但实际",
+      "name": "黄猿君",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "”　　几个人冷汗一下子出来，以前被抓来的人，都是无法说话无法开口的，别看这观星台现在已经是白天了，没有星力接引，但实际上在夜晚时刻，它都储存了大量星力，就是为的白天用",
+      "identity": "元斗魔宗宗主，三君之一",
+      "faction": "仙煞盟元斗魔宗",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元斗魔宗宗主，三君之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -164,19 +271,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　几个人冷汗一下子出来，以前被抓来的人，都是无法说话无法开口的，别看这观星台现在已经是白天了，没有星力接引，但实际上在夜晚时刻，它都储存了大量星力，就是为的白天用",
-        "所以现在看起来一片安静，但实际上林新还是一直在持续的承受着剧烈痛苦，只是略微减弱一些，仅此而已"
+        "我们宗主黄猿君"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "他想",
+      "name": "黄泉君",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "”　　他想了想，又问",
+      "identity": "幽冥道宗主，三君之一",
+      "faction": "仙煞盟幽冥道",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "幽冥道宗主，三君之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -184,39 +290,39 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　他想了想，又问",
-        "”他想了想又问"
+        "幽冥道黄泉君"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "但对",
+      "name": "袁秋雀",
       "aliases": [],
-      "identity": "",
+      "identity": "被赤脊门追杀者",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "看得出来，他们虽然有些占小便宜，但对于元斗魔宗的感情还是很深的，起码这种有损脸面的话不是那么容易说出口",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被赤脊门追杀，持有生死刀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
+      "equipment": [
+        "生死刀"
+      ],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "看得出来，他们虽然有些占小便宜，但对于元斗魔宗的感情还是很深的，起码这种有损脸面的话不是那么容易说出口",
-        "“光耀会只是个松散组织，我们虽然有核心成员红大哥的引荐，但对于赵郎你未来的发展并不是最好"
+        "赤脊门先前一直在追杀袁秋雀，夺取生死刀"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "这人",
+      "name": "黄悦容",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "可惜可惜……”　　这人一身灰布衣袍，手里提着个画眉鸟笼，看起来像是个教书先生一般",
+      "identity": "赤脊门高手",
+      "faction": "赤脊门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "赤脊门中横扫诸派的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -224,32 +330,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "可惜可惜……”　　这人一身灰布衣袍，手里提着个画眉鸟笼，看起来像是个教书先生一般",
-        "那鸟笼里的画眉鸟叽叽喳喳叫个不停，神情惊恐，但在这人平和缓慢的步伐中，似乎也渐渐平静下来",
-        "”　　嘴里嘟嘟喃喃着，这人慢吞吞的朝着远处走去，不多时便消失在茂密的山脚树林中，再也不见"
+        "黄悦容呢？他不是一直在横扫诸派，顺者昌逆者亡么？"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "四绝",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百零五章 风云（上）",
-      "summary": "他与四绝仙子被林新救下后，便进了光耀会接任务，暂时稳定下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他与四绝仙子被林新救下后，便进了光耀会接任务，暂时稳定下来",
-        "当初的四绝仙子心狠手辣，冰冷如霜，但现在看来，似乎已经被赵克成功沦陷，没半点当初的冰冷",
-        "”四绝仙子仔细道"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

@@ -1,255 +1,284 @@
 {
   "chunk_id": "chunk-0515",
-  "title": "第513章开幕",
   "characters": [
     {
       "name": "顾玺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "顾贤弟"
+      ],
+      "identity": "三等门阀子弟，成都县官员",
+      "faction": "顾阀",
       "status": "登场",
       "first_appearance": "第513章开幕",
-      "summary": "顾玺之选择在这样一个地方落脚，而没有住进吏部专供回乡省亲官员居住的驿站，就是希望能够晚点被顾家发现自己并没有离开金陵",
+      "summary": "三等门阀子弟，因与杨白泽的恩怨而陷入困境，试图通过与刘途合作自保。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "不安",
+        "谨慎",
+        "有谋略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾玺之选择在这样一个地方落脚，而没有住进吏部专供回乡省亲官员居住的驿站，就是希望能够晚点被顾家发现自己并没有离开金陵",
-        "虽然在顾玺的心里很清楚，这种举动恐怕没有什么太大的实际作用",
-        "在这几天当中，顾玺感觉自己就像是一只攀爬在悬崖峭壁之上的岩羊，身下是深不见底的湍流，头上是虎视眈眈的猛兽"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "合作者"
+        },
+        {
+          "target": "刘途",
+          "type": "合作者"
+        },
+        {
+          "target": "杨白泽",
+          "type": "仇敌"
+        },
+        {
+          "target": "顾知微",
+          "type": "亲大伯"
+        }
       ],
-      "mention_count": 45
-    },
-    {
-      "name": "刘途",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第513章开幕",
-      "summary": "刘途与刘典的不合，在金陵城儒序门阀势力之中，几乎是人尽皆知的事情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "刘途与刘典的不合，在金陵城儒序门阀势力之中，几乎是人尽皆知的事情",
-        "如今刘典在第一阶段的新政之中大放异彩，俨然已经成为了新东林党内年轻一代的翘楚人物，这足以让原本占据优势地位的刘途恨不得咬碎牙齿",
-        "刘途，南直隶吏部左侍郎，正四品官职"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在客栈与李钧、刘途会面，促成合作。"
+        }
       ],
-      "mention_count": 42
+      "evidence": [
+        "顾玺之选择在这样一个地方落脚，而没有住进吏部专供回乡省亲官员居住的驿站，就是希望能够晚点被顾家发现自己并没有离开金陵。",
+        "顾玺神情恭敬，对着中年儒生拱手躬身。",
+        "顾玺微微一笑，侧步让开半个身位，如同将自己从李钧和刘途之中摘开。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "阎老板"
+      ],
+      "identity": "从辽东来的神秘人物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第513章开幕",
-      "summary": "此时距离他和李钧在大同街地龙站分开，已经过去了足足五天时间",
+      "summary": "从辽东来的神秘人物，与刘典有仇，计划通过帮助刘途除掉刘典的母家娘舅来引刘典回金陵。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "有胆识"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时距离他和李钧在大同街地龙站分开，已经过去了足足五天时间",
-        "如果选择攀岩而上，为李钧这头下山饿虎做事，那便是为虎作伥",
-        "顾玺从来没有考虑过李钧真的会放过自己，这种想法太天真"
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "合作者"
+        },
+        {
+          "target": "刘途",
+          "type": "合作者"
+        },
+        {
+          "target": "刘典",
+          "type": "仇敌"
+        },
+        {
+          "target": "卢宁",
+          "type": "提及"
+        }
       ],
-      "mention_count": 27
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与顾玺、刘途会面，提出帮助刘途除掉刘典的母家娘舅。"
+        }
+      ],
+      "evidence": [
+        "给大人您介绍一下，这位是阎老板，从辽东来。",
+        "李钧笑道：'难道刘兄要坐看机会从手边溜走？'",
+        "李钧轻喝一声，卧在沙发之中的身体猛然坐起，'那我就帮朋友办了这件事！'"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "阎老板",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "刘途",
+      "aliases": [
+        "刘大少爷",
+        "刘兄",
+        "刘大人"
+      ],
+      "identity": "南直隶吏部左侍郎，正四品，刘阀嫡系子弟",
+      "faction": "刘阀",
       "status": "登场",
       "first_appearance": "第513章开幕",
-      "summary": "“给大人您介绍一下，这位是阎老板，从辽东来",
-      "appearance": [],
-      "personality": [],
+      "summary": "刘阀嫡系子弟，南直隶吏部左侍郎，与同父异母的弟弟刘典不合，试图借助李钧的力量除掉刘典。",
+      "appearance": [
+        "脸型方正，气质儒雅的中年儒生"
+      ],
+      "personality": [
+        "野心",
+        "谨慎",
+        "善于权谋"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“给大人您介绍一下，这位是阎老板，从辽东来",
-        "之前我托人向您传的那句话，就是出自阎老板之口",
-        "“想不到顾贤弟你竟然有能力结识阎老板这等人物，真是有胆有谋，深藏不漏啊"
+      "relationships": [
+        {
+          "target": "刘典",
+          "type": "同父异母的弟弟，竞争对手"
+        },
+        {
+          "target": "顾玺",
+          "type": "合作者"
+        },
+        {
+          "target": "李钧",
+          "type": "合作者"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在客栈与顾玺、李钧会面，同意合作除掉刘典的母家娘舅。"
+        }
+      ],
+      "evidence": [
+        "刘途，南直隶吏部左侍郎，正四品官职。",
+        "刘途与刘典的不合，在金陵城儒序门阀势力之中，几乎是人尽皆知的事情。",
+        "刘途脸上笑容一敛，双眼定定看着李钧，缓缓道：'可我只看到了对我的好处，没看到阎老板你有什么好处啊。'"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "阎老",
+      "name": "刘典",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "刘阀嫡系子弟，新东林党年轻一代翘楚",
+      "faction": "刘阀",
+      "status": "提及",
       "first_appearance": "第513章开幕",
-      "summary": "“给大人您介绍一下，这位是阎老板，从辽东来",
+      "summary": "刘途同父异母的弟弟，在新政中大放异彩，是刘途的竞争对手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "同父异母的哥哥，竞争对手"
+        },
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“给大人您介绍一下，这位是阎老板，从辽东来",
-        "之前我托人向您传的那句话，就是出自阎老板之口",
-        "“想不到顾贤弟你竟然有能力结识阎老板这等人物，真是有胆有谋，深藏不漏啊"
+        "而与李钧结仇的刘典，是他同父异母的弟弟。",
+        "如今刘典在第一阶段的新政之中大放异彩，俨然已经成为了新东林党内年轻一代的翘楚人物"
       ],
       "mention_count": 8
     },
     {
-      "name": "刘兄",
+      "name": "杨白泽",
       "aliases": [],
-      "identity": "",
+      "identity": "绵州县杨家成员，拜入重庆府知府裴行俭门下",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第513章开幕",
-      "summary": "”　　“那我就大胆一次，叫您一声刘兄",
+      "summary": "与顾玺有血海深仇，因祸得福拜入裴行俭门下。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "仇敌"
+        },
+        {
+          "target": "裴行俭",
+          "type": "师徒"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“那我就大胆一次，叫您一声刘兄",
-        "”　　“刘兄，请",
-        "你说是吧，刘兄"
+        "其实在得知杨白泽因祸得福，拜入重庆府知府裴行俭的门下之后，顾玺便明白对方迟早会跟自己清算这笔血海深仇。"
       ],
-      "mention_count": 8
+      "mention_count": 2
     },
     {
-      "name": "刘阀",
+      "name": "顾知微",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "顾玺的亲大伯",
+      "faction": "顾阀",
+      "status": "提及",
       "first_appearance": "第513章开幕",
-      "summary": "等到对方把刘阀这头巨蟒咬到遍体鳞伤的时候，很可能会回头一口将自己吃进肚子，尸骨无存",
+      "summary": "顾玺的亲大伯，曾与顾玺谈话。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "亲大伯"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "等到对方把刘阀这头巨蟒咬到遍体鳞伤的时候，很可能会回头一口将自己吃进肚子，尸骨无存",
-        "刘阀不为典守，当在途中",
-        "刘阀内部掌权的老人们同样也知道这一点，可他们不仅不加以制止，反而摆出一副乐见其成的态度"
+        "其实在和自己的亲大伯顾知微谈话之后，顾玺虽然还是心有不甘，但脑海中已经萌生了认命的想法。"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
+      "name": "卢宁",
+      "aliases": [
+        "卢思义"
+      ],
+      "identity": "辽东人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第513章开幕",
-      "summary": "其实在得知杨白泽因祸得福，拜入重庆府知府裴行俭的门下之后，顾玺便明白对方迟早会跟自己清算这笔血海深仇",
+      "summary": "辽东人物，被李钧提及以证明自己的本事。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "提及"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "其实在得知杨白泽因祸得福，拜入重庆府知府裴行俭的门下之后，顾玺便明白对方迟早会跟自己清算这笔血海深仇",
-        "”　　其实在和自己的亲大伯顾知微谈话之后，顾玺虽然还是心有不甘，但脑海中已经萌生了认命的想法"
+        "有没有本事，刘兄你可以问问辽东的卢宁。",
+        "那么彼时彼刻的辽东卢思义"
       ],
-      "mention_count": 6
+      "mention_count": 2
     },
     {
-      "name": "既然",
+      "name": "苏千户",
       "aliases": [],
-      "identity": "",
+      "identity": "千户",
       "faction": "",
-      "status": "登场",
+      "status": "提及（已故）",
       "first_appearance": "第513章开幕",
-      "summary": "既然不想死，那他要在这场龙虎之争中，为自己搏出一线生机",
+      "summary": "已故的千户，被刘途称为英雄。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "提及"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "既然不想死，那他要在这场龙虎之争中，为自己搏出一线生机",
-        "”　　顾玺笑道：“既然大家都有兴趣谈下去，那不如我们坐下聊",
-        "”　　“既然如此，那阎某就先告辞了"
+        "苏千户的死，壮烈！他老人家，是英雄！"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "那我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第513章开幕",
-      "summary": "”　　“那我就大胆一次，叫您一声刘兄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“那我就大胆一次，叫您一声刘兄",
-        "”　　李钧轻喝一声，卧在沙发之中的身体猛然坐起，“那我就帮朋友办了这件事"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "难道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第513章开幕",
-      "summary": "”　　李钧挑了挑眉毛：“难道顾玺没跟你说",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧挑了挑眉毛：“难道顾玺没跟你说",
-        "”　　李钧反问：“难道他不多余",
-        "“那摘了它，难道对刘兄你不好"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "我说",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第513章开幕",
-      "summary": "”　　顾玺笑眯眯道：“我说的是刘阀不为典守，当在途中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　顾玺笑眯眯道：“我说的是刘阀不为典守，当在途中",
-        "”　　“有没有缘，我说了不算"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

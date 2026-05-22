@@ -1,27 +1,35 @@
 {
   "chunk_id": "chunk-0190",
-  "title": "第一百九十一章 等天黑（上）",
   "characters": [
     {
-      "name": "尸僧",
+      "name": "戚笼",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
+      "summary": "一行人中的核心人物，在兽潮中未出手，处于闭关状态。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-        "这些一流高手中灰头土脸的爬了出来，个个狼狈，其中尸僧口念诡异佛音，没多久，一百五十位骨罗汉汇聚当场，直接少了一半人",
-        "尸僧扫了一眼只剩一半的骨罗汉，面无表情，只道了一声，“走"
+      "relationships": [
+        {
+          "target": "戚小骨",
+          "type": "父女"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在兽潮中闭关，未出手。"
+        }
+      ],
+      "evidence": [
+        "而戚笼在这场凶险万分的兽潮之中，一次也没有出手过。",
+        "戚笼在闭关，戚小骨在闭关"
+      ],
+      "mention_count": 4
     },
     {
       "name": "洪小四",
@@ -30,91 +38,296 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "‘呼呼~’    洪小四沉重的喘着粗气，八斩刀上鲜血淋漓，这两口刀，在白日不知挥斩了多少下，数万下，还是十数万下",
+      "summary": "一行人中的成员，使用八斩刀，在兽潮中奋战。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘呼呼~’    洪小四沉重的喘着粗气，八斩刀上鲜血淋漓，这两口刀，在白日不知挥斩了多少下，数万下，还是十数万下",
-        "洪小四检查一番，发现对方只是身体虚脱，精神极度萎靡，倒还不至于立刻挂掉，便就撒手不管",
-        "”    洪小四对着面色苍白的血红菱问道，这女向导能活着，也是刻意保全的结果"
+      "personality": [
+        "凶悍"
       ],
-      "mention_count": 10
+      "abilities": [],
+      "equipment": [
+        "八斩刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "杀出兽潮，询问位置，决定去护国冢。"
+        }
+      ],
+      "evidence": [
+        "洪小四沉重的喘着粗气，八斩刀上鲜血淋漓",
+        "洪小四知道，这叫神兽种，是古国时期的战争利器。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "洪小",
+      "name": "鸟不飞",
+      "aliases": [
+        "鸟天王"
+      ],
+      "identity": "鸟天王",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 等天黑（上）",
+      "summary": "一行人中的成员，拥有半神一脚的能力，在兽潮中虚脱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "半神一脚"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在兽潮中口吐白沫，意识模糊。"
+        }
+      ],
+      "evidence": [
+        "鸟不飞更是口吐白沫，下身潮湿，烂泥一般的躺在沙坑之上，意识都模糊了。",
+        "每当这时，就需要这位鸟天王的‘半神一脚’"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "戚小骨",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "‘呼呼~’    洪小四沉重的喘着粗气，八斩刀上鲜血淋漓，这两口刀，在白日不知挥斩了多少下，数万下，还是十数万下",
+      "summary": "戚笼的女儿，小僵尸，在兽潮中吸收大量生气、血脉、煞气，需要闭关。",
       "appearance": [],
+      "personality": [
+        "凶残",
+        "对吃人无心理障碍"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "父女"
+        },
+        {
+          "target": "薛白",
+          "type": "认识"
+        },
+        {
+          "target": "菩儿",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "吸收大量能量后需要闭关，否则会吃人。"
+        }
+      ],
+      "evidence": [
+        "我要闭关。不然我就要吃人。",
+        "戚小骨可对吃人没什么心里障碍"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "血红菱",
+      "aliases": [],
+      "identity": "女向导",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 等天黑（上）",
+      "summary": "一行人中的女向导，负责辨别方向。",
+      "appearance": [
+        "面色苍白"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘呼呼~’    洪小四沉重的喘着粗气，八斩刀上鲜血淋漓，这两口刀，在白日不知挥斩了多少下，数万下，还是十数万下",
-        "洪小四检查一番，发现对方只是身体虚脱，精神极度萎靡，倒还不至于立刻挂掉，便就撒手不管",
-        "”    洪小四对着面色苍白的血红菱问道，这女向导能活着，也是刻意保全的结果"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被洪小四询问位置，建议去护国冢。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "血红菱虽然没上战场，但是一路上的惊吓也让她吃不消",
+        "血红菱顿时语塞，她也不敢反驳对方"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "薛继",
+      "name": "菩儿",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
+      "summary": "一行人中的成员，在护国冢中昏睡，突然睁眼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-        "’    薛继武盯着已经变成一个小黑点的夔牛种，眼露贪婪之色",
-        "”薛继武质疑道"
+      "relationships": [
+        {
+          "target": "戚小骨",
+          "type": "认识"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在护国冢中昏睡，突然睁眼，眼神冷漠。"
+        }
+      ],
+      "evidence": [
+        "正在昏睡中的菩儿忽然睁开了眼，眼神之中，是一种难以言喻的冷漠。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "薛继武",
+      "name": "尸僧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "阎佛寺一脉",
+      "faction": "薛家",
       "status": "登场",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-        "’    薛继武盯着已经变成一个小黑点的夔牛种，眼露贪婪之色",
-        "”薛继武质疑道"
+      "summary": "薛家阵营的高手，拥有死佛气内炼法门，能召唤骨罗汉。",
+      "appearance": [
+        "六条手臂"
       ],
-      "mention_count": 7
+      "personality": [
+        "面无表情"
+      ],
+      "abilities": [
+        "死佛气",
+        "地藏隐身术",
+        "畜牲道手段"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "红度母",
+          "type": "同门"
+        },
+        {
+          "target": "薛继武",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领薛家众人到达护国冢，破解幻术发现金色墓碑，打坐念经等天黑。"
+        }
+      ],
+      "evidence": [
+        "尸僧口念诡异佛音，没多久，一百五十位骨罗汉汇聚当场",
+        "尸僧扫了一眼只剩一半的骨罗汉，面无表情",
+        "尸僧很快来到了目的地，这是一座小庙"
+      ],
+      "mention_count": 6
     },
     {
       "name": "红度母",
       "aliases": [],
       "identity": "",
-      "faction": "",
+      "faction": "薛家",
       "status": "登场",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
+      "summary": "薛家阵营的高手，与尸僧同门。",
+      "appearance": [
+        "露出大片诱人的皮肤"
+      ],
+      "personality": [
+        "风骚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尸僧",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人一起行动，询问护国冢情况。"
+        }
+      ],
+      "evidence": [
+        "红度母伸了个懒腰，露出大片诱人的皮肤。",
+        "红度母狐疑的打量着四周"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "薛继武",
+      "aliases": [],
+      "identity": "薛家族长之子",
+      "faction": "薛家",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 等天黑（上）",
+      "summary": "薛家族长之子，对夔牛种有贪婪之心。",
+      "appearance": [],
+      "personality": [
+        "贪婪"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛文海",
+          "type": "同族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人一起行动，对夔牛种表现出兴趣。"
+        }
+      ],
+      "evidence": [
+        "薛继武盯着已经变成一个小黑点的夔牛种，眼露贪婪之色。",
+        "薛继武抱着膀子，眉头皱紧"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "高勇",
+      "aliases": [],
+      "identity": "",
+      "faction": "薛家",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 等天黑（上）",
+      "summary": "薛家阵营的一流高手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人一起行动，评论夔牛种。"
+        }
+      ],
+      "evidence": [
+        "高勇感慨，“毕竟是夔牛种啊”",
+        "高勇忽然若有所指"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "薛沉舟",
+      "aliases": [],
+      "identity": "",
+      "faction": "薛家",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 等天黑（上）",
+      "summary": "薛家阵营成员。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -122,136 +335,91 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-        "”    红度母伸了个懒腰，露出大片诱人的皮肤",
-        "”    红度母狐疑的打量着四周，护国冢是古战场中的特色建筑，是当年古国征伐乱军，给战死的战士们在当地留下的墓冢"
+        "薛沉舟、薛文海等人依次出现"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "诸神",
+      "name": "薛文海",
+      "aliases": [],
+      "identity": "薛家在海蛮道一大分支的主事者",
+      "faction": "薛家",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 等天黑（上）",
+      "summary": "薛家在海蛮道分支的主事者，见多识广。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛继武",
+          "type": "同族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人一起行动，研究金色墓碑文字。"
+        }
+      ],
+      "evidence": [
+        "薛文海细细打量着这墓碑上的文字",
+        "薛文海、薛继武，都露出了震惊的表情"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "罗武皇",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "薛继武吐了口气，道：“在我知道的历史中，钟吾古国是由诸神创立，而诸神的前身，便是菩提树下，听佛讲道的一众神兽",
+      "summary": "被提及的人物，与薛白一起孝敬长辈。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "薛白",
+          "type": "一起行动"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "薛继武吐了口气，道：“在我知道的历史中，钟吾古国是由诸神创立，而诸神的前身，便是菩提树下，听佛讲道的一众神兽",
-        "”    “在外人眼中，古国建成之后，诸神便在人间便消失了，而根据我家老祖的说法，诸神并没有离开，而是借助古国气运，另辟一界，这便是小妖庭，又称神庭",
-        "”    “而小妖庭的说法，其实是来源于诸神出身的大妖庭，那是传说之中，统御世间一切有灵之物的主宰之地，诸神在未脱离兽身之前，也要受其统辖，而这大妖庭，便是唐国人口中的天庭，哪里也曾经是真正的四极中心，九州正统"
+        "就在罗武皇和薛白‘孝敬’长辈的关口"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "护国冢",
+      "name": "薛白",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "“应该是在护国冢附近，可以在此休息一夜，在护国冢中，煞兽是不敢进来的",
+      "summary": "被提及的人物，与罗武皇一起孝敬长辈。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "罗武皇",
+          "type": "一起行动"
+        },
+        {
+          "target": "戚小骨",
+          "type": "认识"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“应该是在护国冢附近，可以在此休息一夜，在护国冢中，煞兽是不敢进来的",
-        "“护国冢是古战场最安全的地方，从来没发生过什么危险事件",
-        "洪小四也知道这小祖宗的性子，一咬牙，道：“所有人，去护国冢"
+        "就在罗武皇和薛白‘孝敬’长辈的关口"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-        "”    红度母伸了个懒腰，露出大片诱人的皮肤",
-        "”红度母风骚的脸上闪过一丝疑惑，因为他注意到，薛文海、薛继武，都露出了震惊的表情"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "红度",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在不起眼的一处墙脚，突然地面开裂，露出近十个大洞来，每一个洞中，都藏着一道人影，尸僧、红度母、薛继武、高勇、薛沉舟、薛文海等人依次出现",
-        "”    红度母伸了个懒腰，露出大片诱人的皮肤",
-        "”    红度母狐疑的打量着四周，护国冢是古战场中的特色建筑，是当年古国征伐乱军，给战死的战士们在当地留下的墓冢"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "等天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "第一百九十一章 等天黑（上）    最快更新刀笼最新章节",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百九十一章 等天黑（上）    最快更新刀笼最新章节",
-        "“等天黑"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 等天黑（上）",
-      "summary": "就在罗武皇和薛白‘孝敬’长辈的关口，戚笼一行人，终于杀出了这片兽潮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就在罗武皇和薛白‘孝敬’长辈的关口，戚笼一行人，终于杀出了这片兽潮",
-        "唯一还算完好的，便只有给戚笼抬棺，不，是抬轿的那几位",
-        "而戚笼在这场凶险万分的兽潮之中，一次也没有出手过"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

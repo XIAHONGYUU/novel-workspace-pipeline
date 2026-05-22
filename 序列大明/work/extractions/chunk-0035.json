@@ -1,99 +1,183 @@
 {
   "chunk_id": "chunk-0035",
-  "title": "第34章落幕",
   "characters": [
     {
       "name": "赵鼎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "鼎爷"
+      ],
+      "identity": "袍哥会前任首领",
+      "faction": "袍哥会",
+      "status": "已故（投影）",
       "first_appearance": "第34章落幕",
-      "summary": "第34章落幕　　赵鼎垂眸看向如临大敌的李钧，笑着说道：“别这么紧张，我确实已经死了",
+      "summary": "袍哥会前任首领，已故，以记忆副本投影形式出现，与李钧和况青云对话。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "老谋深算",
+        "洒脱",
+        "自负",
+        "重情义"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第34章落幕　　赵鼎垂眸看向如临大敌的李钧，笑着说道：“别这么紧张，我确实已经死了",
-        "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手",
-        "”　　赵鼎脸上浮现一丝狠厉，“杀了你是死，不杀你也是死，既然前后都是深渊，那我就赌你是条潜龙"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "利用与被利用"
+        },
+        {
+          "target": "况青云",
+          "type": "袍哥会上下级"
+        },
+        {
+          "target": "顾家",
+          "type": "敌对"
+        },
+        {
+          "target": "锦衣卫",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 45
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以投影形式与李钧、况青云对话，交代后事并赠送大礼。"
+        }
+      ],
+      "evidence": [
+        "赵鼎垂眸看向如临大敌的李钧，笑着说道：“别这么紧张，我确实已经死了。你们现在看到的不过是有我记忆副本的投影罢了。”",
+        "赵鼎脸上浮现一丝狠厉，“杀了你是死，不杀你也是死，既然前后都是深渊，那我就赌你是条潜龙！”",
+        "赵鼎肃容正色道：“我把这件事告诉你，是为了跟你坦诚相见，不留嫌隙。”"
+      ],
+      "mention_count": 30
     },
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "前袍哥会成员，现为锦衣卫线人",
+      "faction": "锦衣卫（线人）",
       "status": "登场",
       "first_appearance": "第34章落幕",
-      "summary": "第34章落幕　　赵鼎垂眸看向如临大敌的李钧，笑着说道：“别这么紧张，我确实已经死了",
+      "summary": "前袍哥会成员，被赵鼎利用作为刀，后得知赵鼎的算计。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "警惕",
+        "愤怒",
+        "冷静"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第34章落幕　　赵鼎垂眸看向如临大敌的李钧，笑着说道：“别这么紧张，我确实已经死了",
-        "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
-        "况青云颤声回道：“都死了，就连虎冢和罗镇也被李钧杀了"
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "被利用"
+        },
+        {
+          "target": "况青云",
+          "type": "同袍"
+        },
+        {
+          "target": "锦衣卫",
+          "type": "线人"
+        },
+        {
+          "target": "顾家",
+          "type": "目标"
+        }
       ],
-      "mention_count": 21
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵鼎投影对话，得知赵鼎的算计和赠送的大礼。"
+        }
+      ],
+      "evidence": [
+        "李钧压着怒意道：“那你现在为什么又要告诉我？如果你不说，我可能猜不到那么多。”",
+        "李钧脸色突然涨红，继而变得铁青，无法置信道：“为了算计我，你连自己的命都不要了？”",
+        "李钧深吸一口气，赵鼎的心思之深、眼光之准令他不寒而栗。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "况青云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "青云"
+      ],
+      "identity": "袍哥会成员，赵鼎的继任者",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第34章落幕",
-      "summary": "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
-      "appearance": [],
-      "personality": [],
+      "summary": "袍哥会成员，赵鼎死后被托付照顾袍哥兄弟，并执行赵鼎的遗命。",
+      "appearance": [
+        "义眼被摧毁"
+      ],
+      "personality": [
+        "忠诚",
+        "悲戚",
+        "不安"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "袍哥会上下级"
+        },
+        {
+          "target": "李钧",
+          "type": "同袍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跪拜赵鼎投影，接受托付，后退出议事厅。"
+        }
+      ],
       "evidence": [
-        "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
-        "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手",
-        "况青云颤声回道：“都死了，就连虎冢和罗镇也被李钧杀了"
+        "况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上。",
+        "况青云颤声回道：“都死了，就连虎冢和罗镇也被李钧杀了。”",
+        "况青云声线低沉，轻而易举就能听出他心中的不安，“鼎爷，我怕我做不好。”"
       ],
       "mention_count": 10
     },
     {
-      "name": "况青",
+      "name": "顾甲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "蜀道物流集团安保部长",
+      "faction": "蜀道物流集团",
+      "status": "提及",
       "first_appearance": "第34章落幕",
-      "summary": "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
+      "summary": "蜀道物流集团的安保部长，赵鼎提及他将邀请李钧加入安保部。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
-        "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手",
-        "况青云颤声回道：“都死了，就连虎冢和罗镇也被李钧杀了"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "未来上级"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "未来",
+          "event": "将邀请李钧加入安保部。"
+        }
+      ],
+      "evidence": [
+        "蜀道物流集团的安保部长名叫顾甲，他接下来会邀请你加入安保部，顶替顾丁主管的位置。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "锦衣卫",
+      "name": "顾丁",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "蜀道物流集团安保部主管",
+      "faction": "蜀道物流集团",
+      "status": "提及",
       "first_appearance": "第34章落幕",
-      "summary": "我在鸡鹅区混了多久，锦衣卫又才来成都府多少年",
+      "summary": "蜀道物流集团安保部主管，将被李钧顶替。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -101,20 +185,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "我在鸡鹅区混了多久，锦衣卫又才来成都府多少年",
-        "”　　“锦衣卫让你办的事情，我帮你办了",
-        "“当然怕，可杀了你，锦衣卫又会放过袍哥会吗"
+        "蜀道物流集团的安保部长名叫顾甲，他接下来会邀请你加入安保部，顶替顾丁主管的位置。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "突然",
+      "name": "乌鸦华",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第34章落幕",
-      "summary": "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手",
+      "summary": "被李钧回忆提及，曾评价赵鼎。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -122,20 +204,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手",
-        "”　　李钧脸色突然涨红，继而变得铁青，无法置信道：“为了算计我，你连自己的命都不要了",
-        "等厅内只剩两人，一老一少两人四目相对，陷入沉默，突然又不约而同放声大笑"
+        "他脑海中莫名想起乌鸦华曾经说的那句话：赵鼎不算个好人，但绝对称得上袍哥二字。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "鼎爷",
+      "name": "虎冢",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "已故（提及）",
       "first_appearance": "第34章落幕",
-      "summary": "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
+      "summary": "被李钧杀死的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -143,20 +223,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
-        "况青云声线低沉，轻而易举就能听出他心中的不安，“鼎爷，我怕我做不好",
-        "况青云忙道：“鼎爷您吩咐"
+        "都死了，就连虎冢和罗镇也被李钧杀了。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "苦笑",
+      "name": "罗镇",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "已故（提及）",
       "first_appearance": "第34章落幕",
-      "summary": "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手",
+      "summary": "被李钧杀死的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -164,19 +242,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手",
-        "赵鼎眼神惆怅，苦笑着摇头，“我不看着这个混球，死的不踏实啊"
+        "都死了，就连虎冢和罗镇也被李钧杀了。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "无论",
+      "name": "赵斗",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第34章落幕",
-      "summary": "”　　“不过，”赵鼎语调变重：“你千万要记住一点，无论是顾家也好，吴家也罢",
+      "summary": "赵鼎提及要将自己的尸体与赵斗的黄粱梦境主机埋在一起。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -184,69 +261,33 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”　　“不过，”赵鼎语调变重：“你千万要记住一点，无论是顾家也好，吴家也罢",
-        "无论身前风浪再大，也千万不要有离队的想法"
+        "把我的尸体和赵斗的黄粱梦境主机埋在一起吧。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "青云",
+      "name": "顾邕",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "清水袍哥",
+      "faction": "顾家",
+      "status": "提及",
       "first_appearance": "第34章落幕",
-      "summary": "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
+      "summary": "顾家成员，清水袍哥身份，被锦衣卫利用接近顾家。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被利用接近顾家"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　“鼎爷.”　　况青云发出一声悲戚呼喊，甩开李钧搀扶的手，重重跪在地上",
-        "“青云",
-        "”　　赵鼎眼神柔和，伸出手按向况青云的脊背，却又像突然反应过来，苦笑了收回了手"
+        "如果我猜得没错，他们肯定是让你借助顾邕清水袍哥的身份进入顾家吧？"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "他接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第34章落幕",
-      "summary": "”　　“蜀道物流集团的安保部长名叫顾甲，他接下来会邀请你加入安保部，顶替顾丁主管的位置",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“蜀道物流集团的安保部长名叫顾甲，他接下来会邀请你加入安保部，顶替顾丁主管的位置"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "既然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第34章落幕",
-      "summary": "”　　赵鼎脸上浮现一丝狠厉，“杀了你是死，不杀你也是死，既然前后都是深渊，那我就赌你是条潜龙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赵鼎脸上浮现一丝狠厉，“杀了你是死，不杀你也是死，既然前后都是深渊，那我就赌你是条潜龙"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

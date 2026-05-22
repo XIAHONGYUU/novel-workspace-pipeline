@@ -1,173 +1,213 @@
 {
   "chunk_id": "chunk-0365",
-  "title": "第363章夜下众生（二）",
   "characters": [
-    {
-      "name": "余沧海",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第363章夜下众生（二）",
-      "summary": "”　　啪.　　啪.　　余沧海掌心中电火飞溅，被捏成碎片的电子案牍撒的满地都是",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　啪.　　啪.　　余沧海掌心中电火飞溅，被捏成碎片的电子案牍撒的满地都是",
-        "”　　余沧海一声怒喝，耳边有赤红色的剑尖不断吞吐，“潜入我户所，试图蛊惑捭阖本官，不要以为你是纵横五犀首就有恃无恐，这么近的距离我一样能杀了你",
-        "”　　森冈抬手将一枚玉碟压在桌上，推到余沧海面前"
-      ],
-      "mention_count": 13
-    },
     {
       "name": "传灯",
       "aliases": [],
-      "identity": "",
+      "identity": "寒山寺僧人",
+      "faction": "寒山寺",
+      "status": "登场",
+      "first_appearance": "第363章夜下众生（二）",
+      "summary": "寒山寺僧人，负责传递寺内命令，与孔雀、余沧海等人交涉。",
+      "appearance": [],
+      "personality": [
+        "能言善辩",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "孔雀",
+          "type": "同门"
+        },
+        {
+          "target": "余沧海",
+          "type": "合作"
+        },
+        {
+          "target": "明王",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向孔雀和余沧海传达寒山寺的命令，并劝说他们不要触犯苏策。"
+        }
+      ],
+      "evidence": [
+        "传灯肃声道：“要不然现在帝国本土失踪了那么多道序...”",
+        "传灯苦口婆心道：“他现在之所以能容忍咱们...”",
+        "传灯双手合十，正色道：“回师兄的话，寺里这次的意思是想趁着罪民区动乱的机会...”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "孔雀",
+      "aliases": [],
+      "identity": "真君",
       "faction": "",
       "status": "登场",
       "first_appearance": "第363章夜下众生（二）",
-      "summary": "第363章夜下众生（二）　　传灯肃声道：“要不然现在帝国本土失踪了那么多道序，道门会只派几个小虾米悄悄进来打前站，现在又搞出‘递补地仙’这种上不了台面的小手段来吸引那些不怕死的道匪进来试探",
+      "summary": "一位真君，与传灯同门，对阎君有敌意，性格暴躁。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴鸷",
+        "易怒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "传灯",
+          "type": "同门"
+        },
+        {
+          "target": "阎君",
+          "type": "仇敌"
+        },
+        {
+          "target": "余沧海",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与传灯争论，对阎君一事耿耿于怀。"
+        }
+      ],
       "evidence": [
-        "第363章夜下众生（二）　　传灯肃声道：“要不然现在帝国本土失踪了那么多道序，道门会只派几个小虾米悄悄进来打前站，现在又搞出‘递补地仙’这种上不了台面的小手段来吸引那些不怕死的道匪进来试探",
-        "”　　传灯苦口婆心道：“他现在之所以能容忍咱们，还有大阪城刚刚上任的那个真君，是因为需要我们这些人替他按死这些倭民，了解他自己此生最后的夙愿",
-        "”　　“传灯，你这次回寒山听令，带回来什么消息"
+        "孔雀不禁皱紧了眉头。",
+        "他神色阴鸷的盯着眼前的不速之客，冷声道：“你们就凭借这么一份匪情通报...”",
+        "孔雀眼中依旧噙着怒火。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "余沧海",
+      "aliases": [],
+      "identity": "江户城百户",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第363章夜下众生（二）",
+      "summary": "江户城百户，与阎君有仇，被森冈劝说加入鸿鹄。",
+      "appearance": [],
+      "personality": [
+        "色厉内荏",
+        "易怒"
+      ],
+      "abilities": [
+        "赤龙飞剑"
+      ],
+      "equipment": [
+        "赤龙飞剑",
+        "玉碟"
+      ],
+      "relationships": [
+        {
+          "target": "阎君",
+          "type": "仇敌"
+        },
+        {
+          "target": "森冈",
+          "type": "被劝说"
+        },
+        {
+          "target": "传灯",
+          "type": "合作"
+        },
+        {
+          "target": "苏策",
+          "type": "上级"
+        },
+        {
+          "target": "钱凤庭",
+          "type": "下属中有其眼线"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被森冈劝说加入鸿鹄，最终接受玉碟。"
+        }
+      ],
+      "evidence": [
+        "余沧海一声怒喝，耳边有赤红色的剑尖不断吞吐",
+        "余沧海脸色越发苍白，那柄赤龙飞剑已经彻底失去了神光",
+        "余沧海此刻已然是一副色厉内荏的模样。"
       ],
       "mention_count": 12
     },
     {
       "name": "森冈",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "纵横五犀首",
+      "faction": "鸿鹄",
       "status": "登场",
       "first_appearance": "第363章夜下众生（二）",
-      "summary": "”　　森冈眸光幽幽，“你在成都府做过的事情，被青城集团除名的原因，这些苏策可都是知道的一清二楚",
+      "summary": "鸿鹄成员，劝说余沧海加入鸿鹄，并给予黄粱权限玉碟。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　森冈眸光幽幽，“你在成都府做过的事情，被青城集团除名的原因，这些苏策可都是知道的一清二楚",
-        "”　　森冈笑道：“有苏策这头大佛压在他的头顶，他寸步难行",
-        "”　　这个自称森冈的男人伸出一根手指竖在眼前，轻轻晃动，“我们希望真君你能彻底成为一名真正的鸿鹄"
+      "personality": [
+        "善于言辞",
+        "诱惑"
       ],
-      "mention_count": 12
+      "abilities": [],
+      "equipment": [
+        "玉碟"
+      ],
+      "relationships": [
+        {
+          "target": "余沧海",
+          "type": "劝说对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "潜入余沧海户所，劝说其加入鸿鹄。"
+        }
+      ],
+      "evidence": [
+        "森冈笑道：“有苏策这头大佛压在他的头顶...”",
+        "森冈抬手将一枚玉碟压在桌上，推到余沧海面前。",
+        "森冈充满磁性的声音宛如引诱人堕落的邪魔"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "余沧",
+      "name": "明智晴秀",
       "aliases": [],
-      "identity": "",
+      "identity": "老妇",
       "faction": "",
       "status": "登场",
       "first_appearance": "第363章夜下众生（二）",
-      "summary": "”　　啪.　　啪.　　余沧海掌心中电火飞溅，被捏成碎片的电子案牍撒的满地都是",
-      "appearance": [],
+      "summary": "一位老妇，与荒世烈关系密切，在黑龙资本大厦唤醒荒世烈。",
+      "appearance": [
+        "枯败干瘪的面容",
+        "稀疏的牙齿"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　啪.　　啪.　　余沧海掌心中电火飞溅，被捏成碎片的电子案牍撒的满地都是",
-        "”　　余沧海一声怒喝，耳边有赤红色的剑尖不断吞吐，“潜入我户所，试图蛊惑捭阖本官，不要以为你是纵横五犀首就有恃无恐，这么近的距离我一样能杀了你",
-        "”　　森冈抬手将一枚玉碟压在桌上，推到余沧海面前"
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "唤醒者"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "明王",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第363章夜下众生（二）",
-      "summary": "明王微阖的眼缝之中有冷光流转，“寺里这次，有些欠考虑了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "明王微阖的眼缝之中有冷光流转，“寺里这次，有些欠考虑了",
-        "”　　就在此刻，站在明王肩头的那尊金身佛陀停下了诵经，脚尖一点，向上腾起，轻轻落在明王的头顶",
-        "明王淡定问道：“道序人员失踪的事情查的怎么样了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑龙资本大厦唤醒荒世烈。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "缓缓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第363章夜下众生（二）",
-      "summary": "”　　赤裸的脚掌踏着满地的碎渣，缓缓走到老妇的面前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　赤裸的脚掌踏着满地的碎渣，缓缓走到老妇的面前",
-        "明智晴秀低垂着头，缓缓将手伸进嘴中，将一颗在刚刚撞击中摇摇欲坠的牙齿摘了下来，随手一抛",
-        "”　　明王双眸颤动，缓缓睁开一条缝隙"
+        "明智晴秀摘下头顶的兜帽，露出一张枯败干瘪的面容",
+        "明智晴秀低垂着头，缓缓将手伸进嘴中，将一颗在刚刚撞击中摇摇欲坠的牙齿摘了下来"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "这种",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第363章夜下众生（二）",
-      "summary": "第363章夜下众生（二）　　传灯肃声道：“要不然现在帝国本土失踪了那么多道序，道门会只派几个小虾米悄悄进来打前站，现在又搞出‘递补地仙’这种上不了台面的小手段来吸引那些不怕死的道匪进来试探",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第363章夜下众生（二）　　传灯肃声道：“要不然现在帝国本土失踪了那么多道序，道门会只派几个小虾米悄悄进来打前站，现在又搞出‘递补地仙’这种上不了台面的小手段来吸引那些不怕死的道匪进来试探",
-        "这种时候为了一个可能成为隐患的阎君，去触犯苏策的眉头，这不是得不偿失吗",
-        "”　　“暗地里有道序大批从序者失踪，鸿鹄也在蠢蠢欲动，真不知道这种浑水他们怎么还有兴趣来掺一脚"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "将她",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第363章夜下众生（二）",
-      "summary": "燥热的鼻息拍打在明智晴秀的脸上，将她散落的白发吹得扬起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "燥热的鼻息拍打在明智晴秀的脸上，将她散落的白发吹得扬起",
-        "”　　一条粗壮的手臂环住明智晴秀的身躯，将她轻轻抱起"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "name": "荒世烈",
@@ -176,81 +216,187 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第363章夜下众生（二）",
-      "summary": "”　　明智晴秀摘下头顶的兜帽，露出一张枯败干瘪的面容，稀疏的牙齿中传出细微的低语，“荒世烈，你该醒了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　明智晴秀摘下头顶的兜帽，露出一张枯败干瘪的面容，稀疏的牙齿中传出细微的低语，“荒世烈，你该醒了",
-        "”　　荒世烈大步离去，留下一个宛如鬼面的骇人背影",
-        "”　　荒世烈声如雷鸣，嘴唇朝着眼前之人盖了下去"
+      "summary": "被明智晴秀唤醒的强者，身躯魁伟，霸气绝伦。",
+      "appearance": [
+        "魁伟至极的身体",
+        "明黄长发"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "森冈抬",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第363章夜下众生（二）",
-      "summary": "”　　森冈抬手将一枚玉碟压在桌上，推到余沧海面前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　森冈抬手将一枚玉碟压在桌上，推到余沧海面前",
-        "森冈抬手指向门外宛如木偶般呆立的人群，“你的两位总旗，可都是千户所钱凤庭留下的眼线"
+      "personality": [
+        "霸气"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第363章夜下众生（二）",
-      "summary": "”　　传灯苦口婆心道：“他现在之所以能容忍咱们，还有大阪城刚刚上任的那个真君，是因为需要我们这些人替他按死这些倭民，了解他自己此生最后的夙愿",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "明智晴秀",
+          "type": "被唤醒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑龙资本大厦被明智晴秀唤醒。"
+        }
+      ],
       "evidence": [
-        "”　　传灯苦口婆心道：“他现在之所以能容忍咱们，还有大阪城刚刚上任的那个真君，是因为需要我们这些人替他按死这些倭民，了解他自己此生最后的夙愿",
-        "”　　“暗地里有道序大批从序者失踪，鸿鹄也在蠢蠢欲动，真不知道这种浑水他们怎么还有兴趣来掺一脚",
-        "”　　神色悲悯的不止有菩萨，还有魔女"
+        "魁伟至极的身体上，一块块线条分明的肌肉宛如甲胄",
+        "荒世烈声如雷鸣，嘴唇朝着眼前之人盖了下去。",
+        "荒世烈大步离去，留下一个宛如鬼面的骇人背影。"
       ],
       "mention_count": 3
     },
     {
-      "name": "你们",
+      "name": "明王",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "寒山寺高僧",
+      "faction": "寒山寺",
       "status": "登场",
       "first_appearance": "第363章夜下众生（二）",
-      "summary": "他神色阴鸷的盯着眼前的不速之客，冷声道：“你们就凭借这么一份匪情通报，就这么笃定本真君会再次跟你们合作",
+      "summary": "寒山寺的高僧，传灯的师兄，对苏策有所忌惮。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "脑机"
+      ],
+      "relationships": [
+        {
+          "target": "传灯",
+          "type": "师弟"
+        },
+        {
+          "target": "苏策",
+          "type": "忌惮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与传灯对话，决定暂时不插手倭区事务。"
+        }
+      ],
+      "evidence": [
+        "明王微阖的眼缝之中有冷光流转，“寺里这次，有些欠考虑了。”",
+        "明王淡定问道：“道序人员失踪的事情查的怎么样了？”",
+        "明王语气停顿了片刻，“就先放着吧，有苏千户在，我们还没有伸手的资格。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "苏策",
+      "aliases": [],
+      "identity": "倭区千户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第363章夜下众生（二）",
+      "summary": "倭区千户，实力强大，令各方忌惮。",
+      "appearance": [],
+      "personality": [
+        "杀性极重",
+        "老而将死"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余沧海",
+          "type": "上级"
+        },
+        {
+          "target": "阎君",
+          "type": "庇护对象"
+        },
+        {
+          "target": "明王",
+          "type": "被忌惮"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "要是没有苏策，恐怕早就有地仙顶尖的人物踏剑而来了！",
+        "有苏策这头大佛压在他的头顶，他寸步难行。",
+        "有苏策在，他敢杀我？擅杀同僚，可是锦衣卫内部的死罪！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "阎君",
+      "aliases": [],
+      "identity": "犬山城百户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第363章夜下众生（二）",
+      "summary": "犬山城百户，与余沧海有仇，实力提升迅速。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "余沧海",
+          "type": "仇敌"
+        },
+        {
+          "target": "苏策",
+          "type": "被庇护"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "他神色阴鸷的盯着眼前的不速之客，冷声道：“你们就凭借这么一份匪情通报，就这么笃定本真君会再次跟你们合作",
-        "“我可以加入你们，但我要一个高价",
-        "”　　“既然你们知道他在拿我当诱饵，你们为什么还敢来找我"
+        "犬山城百户阎君的真实身份，真君你很清楚。你和他在成都府结下的仇怨根本没有化解的可能。",
+        "现在他已经能够正面打死松山的本体，实力远不止序六的水平。"
       ],
-      "mention_count": 3
+      "mention_count": 4
+    },
+    {
+      "name": "陆成江",
+      "aliases": [],
+      "identity": "前任倭区副千户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第363章夜下众生（二）",
+      "summary": "前任倭区副千户，被苏策所杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏策",
+          "type": "被杀死"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "上一任倭区副千户陆成江，可就是死在他的手里"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钱凤庭",
+      "aliases": [],
+      "identity": "千户所官员",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第363章夜下众生（二）",
+      "summary": "千户所官员，在余沧海身边安插了眼线。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余沧海",
+          "type": "安插眼线"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "你的两位总旗，可都是千户所钱凤庭留下的眼线。"
+      ],
+      "mention_count": 1
     }
   ]
 }

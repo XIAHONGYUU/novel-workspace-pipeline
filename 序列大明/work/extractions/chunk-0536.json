@@ -1,225 +1,402 @@
 {
   "chunk_id": "chunk-0536",
-  "title": "第534章醒者寡，愚者众（二）",
   "characters": [
     {
-      "name": "刘途",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "刘仙州",
+      "aliases": [
+        "刘长老",
+        "刘院长"
+      ],
+      "identity": "中部分院副院长",
+      "faction": "中院",
       "status": "登场",
       "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”　　刘途笑问道：“还是刘长老你这么自信那个独行武序杀不了你",
+      "summary": "中部分院副院长，计划将计就计镇压叛乱，并与刘途合作。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "自信",
+        "轻蔑",
+        "老谋深算"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　刘途笑问道：“还是刘长老你这么自信那个独行武序杀不了你",
-        "”　　面对信心十足的刘仙州，刘途不置可否的笑了笑：“既然如此，刘长老为何还要让茅山道序出手",
-        "”　　刘途望向刘仙州，笑道：“此事一过，中院在刘院长你的领导下，五院合流指日可待啊"
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "合作"
+        },
+        {
+          "target": "墨孤煌",
+          "type": "敌对"
+        },
+        {
+          "target": "龙宗",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 40
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黄金屋中与刘途密谈，识破龙宗计划，决定将计就计。"
+        }
+      ],
+      "evidence": [
+        "名为黄金屋的黄粱梦境中，刘仙州神情轻蔑，直截了当道破了龙宗他们的计划。",
+        "刘仙州不屑道：“不过对于明鬼和武序这样一个组合而言，他们能想出这样的计划已经算不错了。”",
+        "刘仙州沉声反问：“山顶寒重，江边风暖。难道刘少爷当真不愿意给中院一个休养生息的机会？”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "刘途",
+      "aliases": [
+        "刘少爷",
+        "刘大少爷",
+        "刘阀主"
+      ],
+      "identity": "刘阀少爷",
+      "faction": "刘阀",
+      "status": "登场",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "刘阀少爷，与刘仙州合作，并暗中布局对付刘典。",
+      "appearance": [],
+      "personality": [
+        "精明",
+        "冷漠",
+        "善于权谋"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘仙州",
+          "type": "合作"
+        },
+        {
+          "target": "刘典",
+          "type": "敌对（兄弟）"
+        },
+        {
+          "target": "顾玺",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黄金屋中与刘仙州密谈，达成合作；之后与顾玺对话，指示其办事。"
+        }
+      ],
+      "evidence": [
+        "刘途笑问道：“还是刘长老你这么自信那个独行武序杀不了你？认为他们这么做只是自投罗网？”",
+        "刘途恍然大悟：“所以你让我出面拉茅山进来，是想要让他们的黄巾力士伪装成你，替你挡刀？”",
+        "刘途冷漠的挥了挥手，转身进屋。"
+      ],
+      "mention_count": 25
     },
     {
       "name": "顾玺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "顾哥",
+        "小人",
+        "下官"
+      ],
+      "identity": "刘途手下，后投靠刘典",
+      "faction": "刘典",
       "status": "登场",
       "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”　　站在屋檐下的顾玺垂头敛目，狼狈不堪",
-      "appearance": [],
-      "personality": [],
+      "summary": "原为刘途手下，后因刘典的劝说而倒戈，成为刘典的盟友。",
+      "appearance": [
+        "狼狈不堪",
+        "浑身颤栗",
+        "衣衫被雪水打透"
+      ],
+      "personality": [
+        "怯懦",
+        "谨慎",
+        "求生欲强"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　站在屋檐下的顾玺垂头敛目，狼狈不堪",
-        "”　　顾玺低声回道：“他可能也在等待一个恰当的时机",
-        "”　　刘途飘入风中，‘雪人’微微颤动，簌簌滑落的积雪下，露出顾玺苍白如纸的五官，在雪地中踉跄前行"
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "前主仆"
+        },
+        {
+          "target": "刘典",
+          "type": "盟友"
+        },
+        {
+          "target": "李钧",
+          "type": "传声筒"
+        }
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "刘仙州",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”　　名为黄金屋的黄粱梦境中，刘仙州神情轻蔑，直截了当道破了龙宗他们的计划",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　名为黄金屋的黄粱梦境中，刘仙州神情轻蔑，直截了当道破了龙宗他们的计划",
-        "刘仙州不屑道：“不过对于明鬼和武序这样一个组合而言，他们能想出这样的计划已经算不错了",
-        "”　　面对信心十足的刘仙州，刘途不置可否的笑了笑：“既然如此，刘长老为何还要让茅山道序出手"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在雪中受罚后，向刘途汇报；之后与刘典会面，告知黄金屋中对话。"
+        }
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "中院",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "无非就是和李钧里应外合，在中院内部造成混乱，让李钧趁乱袭杀我们这些长老会成员，从而抢走明鬼境在现实中的门户载体，获得他们所谓的‘自由’，仅此而已",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "无非就是和李钧里应外合，在中院内部造成混乱，让李钧趁乱袭杀我们这些长老会成员，从而抢走明鬼境在现实中的门户载体，获得他们所谓的‘自由’，仅此而已",
-        "”　　“他当然杀不了，就算是有那群内鬼，中院还是墨序的中院，他们翻不了天",
-        "”　　“中院院长墨孤煌在位期间倒行逆施，致使院内明鬼不甘屈辱，无奈揭竿而起，将墨孤煌斩于刀下"
+        "站在屋檐下的顾玺垂头敛目，狼狈不堪。",
+        "顾玺低声回道：“他可能也在等待一个恰当的时机。”",
+        "顾玺仰身从一张破烂的单人沙发中坐起，伸手接过酒杯，轻声道：“多谢，刘少爷。”"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "刘仙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”　　名为黄金屋的黄粱梦境中，刘仙州神情轻蔑，直截了当道破了龙宗他们的计划",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　名为黄金屋的黄粱梦境中，刘仙州神情轻蔑，直截了当道破了龙宗他们的计划",
-        "刘仙州不屑道：“不过对于明鬼和武序这样一个组合而言，他们能想出这样的计划已经算不错了",
-        "”　　面对信心十足的刘仙州，刘途不置可否的笑了笑：“既然如此，刘长老为何还要让茅山道序出手"
-      ],
-      "mention_count": 11
+      "mention_count": 15
     },
     {
       "name": "刘典",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "刘少爷",
+        "刘典"
+      ],
+      "identity": "刘家子弟，刘途的兄弟",
+      "faction": "刘典",
       "status": "登场",
       "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "那个独行武序比我预料的要有脑子，刘典返回金陵已经有段时间了，他竟然还能忍得住不动手",
+      "summary": "刘途的兄弟，与顾玺结盟，计划除掉刘途、李钧和刘仙州。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "坚毅",
+        "果断",
+        "有野心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那个独行武序比我预料的要有脑子，刘典返回金陵已经有段时间了，他竟然还能忍得住不动手",
-        "可目前为止，大量关于刘典的情报已经交给了顾玺，李钧那边却始终没有任何动作",
-        "”　　“叫我刘典就行"
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "敌对（兄弟）"
+        },
+        {
+          "target": "顾玺",
+          "type": "盟友"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与顾玺会面，听取情报，决定一锤定音。"
+        }
+      ],
+      "evidence": [
+        "刘典神情真挚道：“顾哥你能做到这一步，我自愧不如。”",
+        "刘典字字铿锵道：“今天是中元节，顾知微太老了，他活不过这一晚。明日之后，你就是顾家的掌权人。”",
+        "刘典神情坚毅，举杯相邀。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "墨孤煌",
+      "aliases": [
+        "中院院长"
+      ],
+      "identity": "中部分院院长",
+      "faction": "中院",
+      "status": "提及",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "中部分院院长，被刘仙州视为敌人，计划借刀杀人。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "隐忍"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘仙州",
+          "type": "敌对"
+        },
+        {
+          "target": "明鬼",
+          "type": "利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被刘仙州提及，认为其故意示弱，想借明鬼之手除掉自己。"
+        }
+      ],
+      "evidence": [
+        "刘仙州眼神闪动，缓缓道：“就算是中院因为这次内乱而损失惨重，他也不会在意。他唯一在意的，就是如何借刀杀人，将可能会威胁他院长地位的隐患全部清除。”",
+        "“墨孤煌此番刻意示弱，拱手让权于我，不过就是想让我去面对那群明鬼的怒火，坐山观虎斗。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "老李"
+      ],
+      "identity": "武序，明鬼造反的领导者之一",
+      "faction": "明鬼",
+      "status": "登场",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "武序，计划与明鬼里应外合造反，夺取明鬼境门户。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "沉稳"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龙宗",
+          "type": "同伙"
+        },
+        {
+          "target": "刘仙州",
+          "type": "敌对"
+        },
+        {
+          "target": "刘途",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邹四九、沈笠乘坐地龙前往狮子山。"
+        }
+      ],
+      "evidence": [
+        "李钧揉着被吵得发疼的眉心，独自一人起身朝着车外走去。",
+        "李钧沿着地下通道的台阶走出车站，如注的暴雨将浮空的投影打的稀稀拉拉。"
+      ],
+      "mention_count": 8
     },
     {
       "name": "邹四九",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "老邹",
+        "邹爷"
+      ],
+      "identity": "阴阳序，天阙成员",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”　　邹四九沉声道：“龙老头他们的计划简单粗暴，恐怕早就被别人猜的一清二楚了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "阴阳序，与李钧、沈笠同行，性格幽默。",
+      "appearance": [
+        "油亮背头"
+      ],
+      "personality": [
+        "幽默",
+        "直率",
+        "有点迷信"
+      ],
+      "abilities": [
+        "阴阳术（算卦）"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "沈笠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧、沈笠乘坐地龙前往狮子山，途中调侃。"
+        }
+      ],
       "evidence": [
-        "”　　邹四九沉声道：“龙老头他们的计划简单粗暴，恐怕早就被别人猜的一清二楚了",
-        "”　　邹四九转头看向李钧：“老李，这一趟可就是正儿八经的明知山有虎，偏向虎山行了",
-        "”　　李钧瞥了邹四九一眼，没好气道：“你看胸还行，看卦就算了吧"
+        "邹四九沉声道：“龙老头他们的计划简单粗暴，恐怕早就被别人猜的一清二楚了。”",
+        "邹四九一甩头上的油亮背头，怒道：“少跟我这儿胡咧咧，难道你扛一拳能不倒？”"
       ],
       "mention_count": 8
     },
     {
       "name": "沈笠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "武序，天阙成员",
+      "faction": "天阙",
       "status": "登场",
       "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”　　难得换了件干净衣裳的沈笠双手抱胸，冷笑道：“只要他们起来造反，那群墨序根本不可能挡得住",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　难得换了件干净衣裳的沈笠双手抱胸，冷笑道：“只要他们起来造反，那群墨序根本不可能挡得住",
-        "”　　沈笠的话音中带着一股苦涩的味道",
-        "因此沈笠对‘内鬼’这两个字格外痛恨"
+      "summary": "武序，与李钧、邹四九同行，性格直爽。",
+      "appearance": [
+        "难得换了件干净衣裳"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "无非就是和李钧里应外合，在中院内部造成混乱，让李钧趁乱袭杀我们这些长老会成员，从而抢走明鬼境在现实中的门户载体，获得他们所谓的‘自由’，仅此而已",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "无非就是和李钧里应外合，在中院内部造成混乱，让李钧趁乱袭杀我们这些长老会成员，从而抢走明鬼境在现实中的门户载体，获得他们所谓的‘自由’，仅此而已",
-        "可目前为止，大量关于刘典的情报已经交给了顾玺，李钧那边却始终没有任何动作",
-        "顾玺在此期间的表现实在是拿不上台面，充其量不过是他和李钧之间的一个可有可无的传声筒"
+      "personality": [
+        "直爽",
+        "有点痞气"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "邹四",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”　　邹四九沉声道：“龙老头他们的计划简单粗暴，恐怕早就被别人猜的一清二楚了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧、邹四九乘坐地龙前往狮子山。"
+        }
+      ],
       "evidence": [
-        "”　　邹四九沉声道：“龙老头他们的计划简单粗暴，恐怕早就被别人猜的一清二楚了",
-        "”　　邹四九转头看向李钧：“老李，这一趟可就是正儿八经的明知山有虎，偏向虎山行了",
-        "”　　李钧瞥了邹四九一眼，没好气道：“你看胸还行，看卦就算了吧"
+        "难得换了件干净衣裳的沈笠双手抱胸，冷笑道：“只要他们起来造反，那群墨序根本不可能挡得住。”",
+        "沈笠打趣道：“在我李哥面前，你可就别提什么阴阳四了。”"
       ],
       "mention_count": 6
     },
     {
-      "name": "我可",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "龙宗",
+      "aliases": [
+        "龙老头"
+      ],
+      "identity": "明鬼造反的领导者之一",
+      "faction": "明鬼",
+      "status": "提及",
       "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "”刘途连连摆手道：“中院目前的情况我还是了解的，我可不愿意看到刘院你为了在下去触怒那位大人，不值当",
+      "summary": "明鬼造反的领导者，计划被刘仙州识破。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被刘仙州提及，计划被识破。"
+        }
+      ],
+      "evidence": [
+        "刘仙州神情轻蔑，直截了当道破了龙宗他们的计划。",
+        "邹四九沉声道：“龙老头他们的计划简单粗暴，恐怕早就被别人猜的一清二楚了。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "墨序",
+      "aliases": [],
+      "identity": "中院的墨序群体",
+      "faction": "中院",
+      "status": "提及",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "中院的墨序，被提及可能无法阻挡内鬼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -227,20 +404,90 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”刘途连连摆手道：“中院目前的情况我还是了解的，我可不愿意看到刘院你为了在下去触怒那位大人，不值当",
-        "反倒是如果你我易位而处，我可能早就已经死了",
-        "这次可是分头行动，我可不想把命丢在中院啊"
+        "“只要他们起来造反，那群墨序根本不可能挡得住。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "明鬼",
+      "aliases": [],
+      "identity": "中院内的明鬼群体",
+      "faction": "明鬼",
+      "status": "提及",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "中院内的明鬼，计划造反。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "“无非就是和李钧里应外合，在中院内部造成混乱”"
       ],
       "mention_count": 5
     },
     {
-      "name": "他们",
+      "name": "顾知微",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "顾家前任掌权人",
+      "faction": "顾家",
+      "status": "提及",
       "first_appearance": "第534章醒者寡，愚者众（二）",
-      "summary": "第534章醒者寡，愚者众（二）　　“他们能做些什么",
+      "summary": "顾家前任掌权人，被认为活不过今晚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾玺",
+          "type": "家族长辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被刘典提及，认为其将死。"
+        }
+      ],
+      "evidence": [
+        "“今天是中元节，顾知微太老了，他活不过这一晚。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "臭牛鼻子"
+      ],
+      "identity": "道序",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "被邹四九提及的道序，似乎可以兵解。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "道序（可能兵解）"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "“你这胆子，还不如陈乞生那个臭牛鼻子。”",
+        "“谁给你说他能兵解了？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "荣麓",
+      "aliases": [],
+      "identity": "兼爱所成员",
+      "faction": "兼爱所",
+      "status": "提及",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "兼爱所成员，曾差点把邹四九拐进坑里。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -248,11 +495,62 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "第534章醒者寡，愚者众（二）　　“他们能做些什么",
-        "无非就是和李钧里应外合，在中院内部造成混乱，让李钧趁乱袭杀我们这些长老会成员，从而抢走明鬼境在现实中的门户载体，获得他们所谓的‘自由’，仅此而已",
-        "”　　名为黄金屋的黄粱梦境中，刘仙州神情轻蔑，直截了当道破了龙宗他们的计划"
+        "“一个荣麓都差点把邹爷我拐进坑里”"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "郭丘",
+      "aliases": [],
+      "identity": "观云观成员",
+      "faction": "茅山白云观",
+      "status": "提及",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "观云观成员，在刘典手中吃亏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "“而且观云观的郭丘也在他们手里吃了不少亏”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "屋儿",
+      "aliases": [],
+      "identity": "黄金屋的灵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第534章醒者寡，愚者众（二）",
+      "summary": "黄金屋的灵，被刘途称为屋儿，最终在火中消失。",
+      "appearance": [
+        "火光中浮现的白衣女人"
+      ],
+      "personality": [
+        "忠诚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被刘途感谢，随后在梦境大火中消失。"
+        }
+      ],
+      "evidence": [
+        "火光之中，隐隐约约浮现一个身着白衣的女人。",
+        "女人抿嘴一笑，身影连同这座梦境，一同在大火之中化成飞灰。"
+      ],
+      "mention_count": 3
     }
   ]
 }

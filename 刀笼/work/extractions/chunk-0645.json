@@ -1,245 +1,397 @@
 {
   "chunk_id": "chunk-0645",
-  "title": "第四十二章 换天",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "夜皇",
+        "陛下"
+      ],
+      "identity": "夜皇，第四代夜天宗，夜昼国最强者之一",
+      "faction": "夜昼国",
       "status": "登场",
       "first_appearance": "第四十二章 换天",
-      "summary": "”    几个修士也吵吵闹闹的去见戚笼，刚入门，便见三个媚姹正在给戚笼整理衣物，而几个小童子则是端水递毛巾",
+      "summary": "夜皇，第四代夜天宗，夜昼国最强者之一，正在处理领地事务并试图凝结人道种子。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    几个修士也吵吵闹闹的去见戚笼，刚入门，便见三个媚姹正在给戚笼整理衣物，而几个小童子则是端水递毛巾",
-        "”戚笼问",
-        "”    戚笼沉吟了下，对着这三个山中修客道：“你们既然精通风水之道，那找人的事便交给你们了，本皇调一支兵马帮你们"
+      "personality": [
+        "果断",
+        "强势"
       ],
-      "mention_count": 14
+      "abilities": [
+        "龙脉之气恢复",
+        "收容上古投影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "不周",
+          "type": "合作者"
+        },
+        {
+          "target": "夜叉大将",
+          "type": "下属"
+        },
+        {
+          "target": "青儿",
+          "type": "侍女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "处理青儿失踪、奴隶场等事务，并试图凝结人道种子。"
+        }
+      ],
+      "evidence": [
+        "戚笼沉吟了下，对着这三个山中修客道",
+        "戚笼笑了笑，没有回答，又随意找了个由头打发其它人",
+        "戚笼要借这次行动，凝结一颗人道种子。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "夜叉",
+      "name": "夜叉大将",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "夜皇麾下大将",
+      "faction": "夜昼国",
       "status": "登场",
       "first_appearance": "第四十二章 换天",
-      "summary": "夜叉大将巡视归来，面色阴沉，自言自语，“这事一定要禀告陛下",
+      "summary": "夜皇麾下大将，发现奴隶场后奉命解救奴隶。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "夜叉大将巡视归来，面色阴沉，自言自语，“这事一定要禀告陛下",
-        "’    戚笼正思索之际，忽然看到夜叉大将站在门口，欲言又止",
-        "”    “陛下，臣有事禀告，”夜叉大将顿了顿，把自己看到的说了出来"
+      "personality": [
+        "忠诚",
+        "勇猛"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十二章 换天",
-      "summary": "”    “你们有没有见过我家青儿，她一晚上都没有回来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向戚笼禀告奴隶场情况，并奉命解救奴隶。"
+        }
+      ],
       "evidence": [
-        "”    “你们有没有见过我家青儿，她一晚上都没有回来",
-        "”    戚笼沉吟了下，对着这三个山中修客道：“你们既然精通风水之道，那找人的事便交给你们了，本皇调一支兵马帮你们",
-        "“你们去帮一帮他"
+        "夜叉大将巡视归来，面色阴沉，自言自语",
+        "夜叉大将顿了顿，把自己看到的说了出来",
+        "夜叉大将更是势如猛虎"
       ],
       "mention_count": 5
     },
     {
-      "name": "好似",
+      "name": "青儿",
       "aliases": [],
-      "identity": "",
+      "identity": "夜皇的侍女",
       "faction": "",
-      "status": "登场",
+      "status": "失踪",
       "first_appearance": "第四十二章 换天",
-      "summary": "”    “不清楚，好似是野兽的叫声",
+      "summary": "夜皇的侍女，前一晚与戚笼拌嘴后失踪。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “不清楚，好似是野兽的叫声",
-        "”    “好似、好似就是昨日跟陛下拌嘴的时候"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "侍女"
+        },
+        {
+          "target": "潘儿",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前一晚与戚笼拌嘴后失踪。"
+        }
+      ],
+      "evidence": [
+        "你们有没有见过我家青儿，她一晚上都没有回来。",
+        "陛下，我家青儿不见了，"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "陛下",
+      "name": "潘儿",
       "aliases": [],
-      "identity": "",
+      "identity": "青儿的同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十二章 换天",
-      "summary": "夜叉大将巡视归来，面色阴沉，自言自语，“这事一定要禀告陛下",
+      "summary": "青儿的同伴，焦急寻找青儿。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "焦急"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "夜叉大将巡视归来，面色阴沉，自言自语，“这事一定要禀告陛下",
-        "“陛下，我家青儿不见了，”潘儿抢先焦急道",
-        "”    “好似、好似就是昨日跟陛下拌嘴的时候"
+      "relationships": [
+        {
+          "target": "青儿",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向戚笼报告青儿失踪。"
+        }
+      ],
+      "evidence": [
+        "潘儿急道。",
+        "陛下，我家青儿不见了，"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "山中仙",
+      "aliases": [],
+      "identity": "精通风水之道的修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四十二章 换天",
+      "summary": "精通风水之道的修士，发现风水变化。",
+      "appearance": [],
+      "personality": [
+        "专注"
+      ],
+      "abilities": [
+        "风水勘探"
+      ],
+      "equipment": [
+        "风水盘"
+      ],
+      "relationships": [
+        {
+          "target": "罗田",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "勘探风水，发现地势变化。"
+        }
+      ],
+      "evidence": [
+        "罗田转头问山中仙，而以勘探风水闻名的山中仙此刻正专注着看向自己的风水盘",
+        "山中仙疑道：难道是跟昨日的风水变化有关？"
+      ],
+      "mention_count": 2
     },
     {
       "name": "罗田",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十二章 换天",
-      "summary": "”    罗田转头问山中仙，而以勘探风水闻名的山中仙此刻正专注着看向自己的风水盘，走禹步，盘算吉凶，好半晌才道：“奇怪，仅仅一夜功夫，居然由普通的地势变成左右护卫、朝山迎合、拱揖拜伏，这是龙抬头啊",
+      "summary": "一位修士，与山中仙讨论风水变化。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "山中仙",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问山中仙风水变化。"
+        }
+      ],
       "evidence": [
-        "”    罗田转头问山中仙，而以勘探风水闻名的山中仙此刻正专注着看向自己的风水盘，走禹步，盘算吉凶，好半晌才道：“奇怪，仅仅一夜功夫，居然由普通的地势变成左右护卫、朝山迎合、拱揖拜伏，这是龙抬头啊"
+        "罗田转头问山中仙"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "吴凤子",
+      "aliases": [],
+      "identity": "天罗老道的弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四十二章 换天",
+      "summary": "天罗老道的弟子，奉命协助夜叉大将。",
+      "appearance": [],
+      "personality": [
+        "好战"
+      ],
+      "abilities": [
+        "剑气"
+      ],
+      "equipment": [
+        "剑鞘"
+      ],
+      "relationships": [
+        {
+          "target": "张灵灵",
+          "type": "同门"
+        },
+        {
+          "target": "天罗老道",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张灵灵一起用剑气攻击阵法。"
+        }
+      ],
+      "evidence": [
+        "吴凤子冷喝一声，二人同掐剑指",
+        "陛下，留活口吗？吴凤子眼中闪烁着一丝沸腾的剑气。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张灵灵",
+      "aliases": [],
+      "identity": "天罗老道的弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四十二章 换天",
+      "summary": "天罗老道的弟子，与吴凤子一同行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑气"
+      ],
+      "equipment": [
+        "剑鞘"
+      ],
+      "relationships": [
+        {
+          "target": "吴凤子",
+          "type": "同门"
+        },
+        {
+          "target": "天罗老道",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与吴凤子一起攻击阵法。"
+        }
+      ],
+      "evidence": [
+        "天罗老道三弟子张灵灵轻咦一声"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "离珠大长老",
+      "aliases": [
+        "离珠"
+      ],
+      "identity": "离珠部落大长老",
+      "faction": "离珠部落",
+      "status": "登场",
+      "first_appearance": "第四十二章 换天",
+      "summary": "离珠部落大长老，暗中从事贩奴活动，因儿子绑架夜皇侍女而焦虑。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "暴躁"
+      ],
+      "abilities": [],
+      "equipment": [
+        "族宝"
+      ],
+      "relationships": [
+        {
+          "target": "儿子（三头人）",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "责骂儿子，并准备取族宝应对危机。"
+        }
+      ],
+      "evidence": [
+        "此时，那个不会说官话的离珠大长老，正用着最标准的官话骂着自己的儿子。",
+        "我们装了这么多年土著，不就是为了偷偷赚灵石",
+        "至于我，先去取那件族宝，看看情况再说。"
       ],
       "mention_count": 3
     },
     {
-      "name": "居然",
+      "name": "三头人儿子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "离珠大长老的儿子",
+      "faction": "离珠部落",
       "status": "登场",
       "first_appearance": "第四十二章 换天",
-      "summary": "”    罗田转头问山中仙，而以勘探风水闻名的山中仙此刻正专注着看向自己的风水盘，走禹步，盘算吉凶，好半晌才道：“奇怪，仅仅一夜功夫，居然由普通的地势变成左右护卫、朝山迎合、拱揖拜伏，这是龙抬头啊",
-      "appearance": [],
-      "personality": [],
+      "summary": "离珠大长老的儿子，三头人，因绑架夜皇侍女而惹祸。",
+      "appearance": [
+        "三头"
+      ],
+      "personality": [
+        "委屈",
+        "推诿"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    罗田转头问山中仙，而以勘探风水闻名的山中仙此刻正专注着看向自己的风水盘，走禹步，盘算吉凶，好半晌才道：“奇怪，仅仅一夜功夫，居然由普通的地势变成左右护卫、朝山迎合、拱揖拜伏，这是龙抬头啊",
-        "看着拔地而起的阵法，天罗老道三弟子张灵灵轻咦一声，开口道：“师兄，在这么偏僻落后的地方，居然还有这么隐蔽的阵法"
+      "relationships": [
+        {
+          "target": "离珠大长老",
+          "type": "父子"
+        }
       ],
-      "mention_count": 3
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被父亲责骂，并准备逃离。"
+        }
+      ],
+      "evidence": [
+        "一个年青强壮的三头人正一脸委屈的道",
+        "三颗脑袋险些自己就打了起来"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "你最",
+      "name": "不周",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四十二章 换天",
-      "summary": "“你最后一次见她是什么时候",
+      "summary": "被戚笼提及，似乎与上古投影有关。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你最后一次见她是什么时候"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "虽然那",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十二章 换天",
-      "summary": "虽然那三头六臂的巨人气势恢宏，虽然那口剖天巨斧更是无比强横，但这巨人来来回回只这一招，怒吼、下劈，事实上，只要进入投影时有所防备，避开它其实不难",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然那三头六臂的巨人气势恢宏，虽然那口剖天巨斧更是无比强横，但这巨人来来回回只这一招，怒吼、下劈，事实上，只要进入投影时有所防备，避开它其实不难"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼提及，标记了上古投影。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "但并",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十二章 换天",
-      "summary": "有一定致命性，但并不无解，不周的标记还是准确的，就是那一斧头的确够犀利",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "有一定致命性，但并不无解，不周的标记还是准确的，就是那一斧头的确够犀利"
+        "不周的标记还是准确的"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "既然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十二章 换天",
-      "summary": "”    戚笼沉吟了下，对着这三个山中修客道：“你们既然精通风水之道，那找人的事便交给你们了，本皇调一支兵马帮你们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼沉吟了下，对着这三个山中修客道：“你们既然精通风水之道，那找人的事便交给你们了，本皇调一支兵马帮你们",
-        "‘换一种思路，既然与上古投影与这些上古血脉的拥有者息息相关，那么能不能用上古人族血脉，反向收容这道投影，毕竟只是一道影子嘛"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "简单",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十二章 换天",
-      "summary": "简单来说，他在这里发现了一处奴隶场，里面除了三头民奴隶之外，还藏有其它种族",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "简单来说，他在这里发现了一处奴隶场，里面除了三头民奴隶之外，还藏有其它种族"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

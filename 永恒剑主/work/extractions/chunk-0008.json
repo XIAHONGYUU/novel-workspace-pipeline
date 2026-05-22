@@ -1,255 +1,493 @@
 {
   "chunk_id": "chunk-0008",
-  "title": "第六章 元宵灯会（二）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "林新如",
+        "大爷"
+      ],
+      "identity": "红松城林家子弟，红松山弟子",
+      "faction": "红松山",
       "status": "登场",
       "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "第六章 元宵灯会（二）　　毕竟伯云子也是行走江湖的黑道中人，各种手段层出不穷，下三滥手段也不少，很是让林新等人体验了下什么叫狠毒和防不胜防",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六章 元宵灯会（二）　　毕竟伯云子也是行走江湖的黑道中人，各种手段层出不穷，下三滥手段也不少，很是让林新等人体验了下什么叫狠毒和防不胜防",
-        "不过好处就是，几人中特别是林新，掌握了红松剑法后，胆气大增",
-        "”林新吩咐"
+      "summary": "红松山弟子，掌握红松剑法，因无法修炼小归元诀而寻找替代方法，元宵节回家探亲。",
+      "appearance": [
+        "黑色道袍",
+        "绑着发髻",
+        "背上背了一把长剑"
       ],
-      "mention_count": 41
-    },
-    {
-      "name": "林新光",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "”林新认出眼前这人，他的四弟，林新光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新认出眼前这人，他的四弟，林新光",
-        "”林新光笑容收敛，低声问",
-        "”林新光眉头微蹙"
+      "personality": [
+        "谨慎",
+        "有上进心"
       ],
-      "mention_count": 8
+      "abilities": [
+        "红松剑法（松阳针、大松阳针、定真还阳）",
+        "红松步"
+      ],
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "路云",
+          "type": "师弟"
+        },
+        {
+          "target": "路云妹妹",
+          "type": "师妹"
+        },
+        {
+          "target": "安颖",
+          "type": "师妹"
+        },
+        {
+          "target": "伯云子",
+          "type": "师叔"
+        },
+        {
+          "target": "林志文",
+          "type": "父亲"
+        },
+        {
+          "target": "林新光",
+          "type": "四弟"
+        },
+        {
+          "target": "林新媛",
+          "type": "表妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "元宵节前下山回家，途中与安颖同行，在门口观察林府后进入。"
+        }
+      ],
+      "evidence": [
+        "林新吩咐路云兄妹守家，自己带安颖回家。",
+        "林新在房间内发现《归元要领》小册子，得知归元丹的炼制方法。",
+        "林新带着安颖回到林府，与父亲林志文、四弟林新光等人相遇。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "安颖",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新的师妹",
+      "faction": "红松山",
       "status": "登场",
       "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "”　　摇摇头，吃过饭，林新又安排了下安颖，叮嘱她要准备什么东西，注意什么东西，这才回到自己房间",
-      "appearance": [],
-      "personality": [],
+      "summary": "林新的师妹，跟随林新下山回家，身穿白裙，侠女打扮。",
+      "appearance": [
+        "白裙",
+        "白色靴子有些污泥",
+        "侠女打扮"
+      ],
+      "personality": [
+        "羞羞答答"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随林新下山，一同前往林府。"
+        }
+      ],
       "evidence": [
-        "”　　摇摇头，吃过饭，林新又安排了下安颖，叮嘱她要准备什么东西，注意什么东西，这才回到自己房间",
-        "他身边是安颖，还是那身白裙，不过白色的靴子有些被污泥弄黑了，倒也不很影响气质",
-        "从小贩手里接过肉串，分给安颖一半"
+        "林新带着安颖一起回家。",
+        "安颖一边接过肉串开始吃，一边盯着林家府邸仔细观察。",
+        "安颖站在一边听得不是很懂的样子，咬着嘴唇低着头。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "林志文",
+      "aliases": [],
+      "identity": "林新的父亲，红松城林家主人",
+      "faction": "林家",
+      "status": "登场",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的父亲，身穿白色宽衣，热情迎接回家的子女。",
+      "appearance": [
+        "白色宽衣"
+      ],
+      "personality": [
+        "热情",
+        "笑呵呵"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "儿子"
+        },
+        {
+          "target": "林新光",
+          "type": "儿子"
+        },
+        {
+          "target": "二小姐",
+          "type": "女儿"
+        },
+        {
+          "target": "三爷",
+          "type": "儿子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接二小姐、三爷、四爷回家，随后迎接林新。"
+        }
+      ],
+      "evidence": [
+        "林志文带着几个妇人已经笑呵呵的迎了出来。",
+        "林志文走上前来，狠狠给林新一个拥抱。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "林新光",
+      "aliases": [
+        "老四"
+      ],
+      "identity": "林新的四弟",
+      "faction": "林家",
+      "status": "登场",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的四弟，白衣折扇，对林新回家拿钱一事不满。",
+      "appearance": [
+        "白衣飘飘",
+        "手上一把折扇"
+      ],
+      "personality": [
+        "有主见",
+        "直接"
+      ],
+      "abilities": [],
+      "equipment": [
+        "折扇"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "大哥"
+        },
+        {
+          "target": "林志文",
+          "type": "父亲"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在石桥上与林新相遇，质问林新回家拿钱一事。"
+        }
+      ],
+      "evidence": [
+        "林新光看到林新走来时，他双眼一眯，微笑着迎上来。",
+        "林新光说：听说你这次回来，还想从家里拿钱买什么东西？这就有点不像话了。",
+        "林新光最后说：等会儿你自己过来支取五十两银子。"
       ],
       "mention_count": 6
     },
     {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "土黄色，表面有些破烂，有些褶皱，似乎是被人经常翻阅",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "土黄色，表面有些破烂，有些褶皱，似乎是被人经常翻阅",
-        "从外面只能看到白色大墙后面有很宽的面积，似乎还能看到园林，还有下人来往呼喝的声音",
-        "还有他身后的两个女孩，二房的表妹林新媛，另一个却是不认识，似乎不是林家的人"
+      "name": "林新媛",
+      "aliases": [
+        "表妹"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "手上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林家的表妹，二房",
+      "faction": "林家",
       "status": "登场",
       "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "那个女子却是珠光宝气一身淡黄色绸裙，手上脖子上都戴了珍珠和玉石链子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那个女子却是珠光宝气一身淡黄色绸裙，手上脖子上都戴了珍珠和玉石链子",
-        "”　　最前面的公子年纪不过十八九岁，但白衣飘飘，手上一把折扇轻轻摇晃，看到林新走来时，他双眼一眯，微笑着迎上来",
-        "另一个女孩穿着绿色短裙，露出白皙大腿，白色上衣隐约露出肚脐，手上戴着银色手镯"
+      "summary": "林新的表妹，紧身衣裤，手握马鞭，刚从马场回来。",
+      "appearance": [
+        "紧身衣裤",
+        "小蛮腰上绑着红色护腰",
+        "手里握着一根马鞭"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "身材",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "面容娇美，身材微微有些丰满，不过更显得成熟妩媚",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "面容娇美，身材微微有些丰满，不过更显得成熟妩媚",
-        "”放开林新，林志文顿时目光落在了边上的安颖身上，看她一副羞羞答答的样子，一身白裙看起来也是英姿飒爽，身材也好，印象看起来很不错",
-        "容貌平凡，但皮肤身材极好，此时却是正在仔细打量林新和安颖"
+      "personality": [
+        "笑容灿烂"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "父亲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "“这可不是管不管的问题，大哥，你也年纪老大不小了，父亲不可能养你一辈子",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这可不是管不管的问题，大哥，你也年纪老大不小了，父亲不可能养你一辈子",
-        "现在我林家遇到困境，你不用我管，转个弯求到父亲那儿，父亲又来找我，还不是最后要我来"
+      "equipment": [
+        "马鞭"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "顿时两人又高兴起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顿时两人又高兴起来",
-        "时间一点一滴的过去，不知不觉间，油灯嚓的一声炸响，顿时惊醒了沉浸在册子中的林新",
-        "混着前后有些拥挤的车流，马车车夫挥鞭详做要抽打，顿时吓开了周围围上来卖东西的小孩"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "表哥"
+        },
+        {
+          "target": "林新光",
+          "type": "堂兄"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "正是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "正是为无法修习小归元诀的弟子而创立的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正是为无法修习小归元诀的弟子而创立的",
-        "正是才从山上下来的林新"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新光一起在石桥上遇到林新，离开时捏了捏林新的手。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "一身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "那个女子却是珠光宝气一身淡黄色绸裙，手上脖子上都戴了珍珠和玉石链子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "那个女子却是珠光宝气一身淡黄色绸裙，手上脖子上都戴了珍珠和玉石链子",
-        "大门内，一身白色宽衣的林志文带着几个妇人已经笑呵呵的迎了出来",
-        "男的个一身黑色道袍，绑着发髻，年纪不过二十左右，背上背了一把长剑，面容俊朗，和刚才下马车的两个男子有些相像"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "看到林",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "走到大门口，那边才把马车牵走，门房正准备关门，看到林新走过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "走到大门口，那边才把马车牵走，门房正准备关门，看到林新走过来",
-        "”　　最前面的公子年纪不过十八九岁，但白衣飘飘，手上一把折扇轻轻摇晃，看到林新走来时，他双眼一眯，微笑着迎上来",
-        "白皙的小脸一看到林新顿时笑容灿烂起来"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "掌握",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六章 元宵灯会（二）",
-      "summary": "不过好处就是，几人中特别是林新，掌握了红松剑法后，胆气大增",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过好处就是，几人中特别是林新，掌握了红松剑法后，胆气大增",
-        "沉下心，林新继续习练红松剑法，虽然剑招都已经掌握，不过到底时间不长，要把其练成身体本能还是需要很长时间的"
+        "林新媛穿着紧身衣裤，小蛮腰上绑着红色护腰，手里握着一根马鞭。",
+        "林新媛路过林新时用力捏了捏他的手，挤出个笑容。"
       ],
       "mention_count": 3
+    },
+    {
+      "name": "伯云子",
+      "aliases": [
+        "师叔"
+      ],
+      "identity": "林新的师叔，行走江湖的黑道中人",
+      "faction": "红松山",
+      "status": "提及",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的师叔，归还小归元诀秘技，并留下《归元要领》小册子。",
+      "appearance": [],
+      "personality": [
+        "手段狠毒",
+        "下三滥手段多"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师叔侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "之前与林新等人一起行动，归还秘技并留下小册子。"
+        }
+      ],
+      "evidence": [
+        "伯云子也是行走江湖的黑道中人，各种手段层出不穷。",
+        "这玩意被师叔伯云子还了回来。",
+        "册子表面龙飞凤舞的写了《归元要领》四个字。显然是伯云子故意放在这里的。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "路云",
+      "aliases": [
+        "师弟"
+      ],
+      "identity": "林新的师弟",
+      "faction": "红松山",
+      "status": "提及",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的师弟，与妹妹一起被林新安排守家。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师兄"
+        },
+        {
+          "target": "路云妹妹",
+          "type": "兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新安排守家。"
+        }
+      ],
+      "evidence": [
+        "路云兄妹有气无力的应了声。",
+        "多谢师兄！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "路云妹妹",
+      "aliases": [
+        "师妹"
+      ],
+      "identity": "林新的师妹，路云的妹妹",
+      "faction": "红松山",
+      "status": "提及",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的师妹，与哥哥路云一起被安排守家。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师兄"
+        },
+        {
+          "target": "路云",
+          "type": "兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新安排守家。"
+        }
+      ],
+      "evidence": [
+        "路云兄妹有气无力的应了声。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "二小姐",
+      "aliases": [
+        "二妹"
+      ],
+      "identity": "林新的二妹",
+      "faction": "林家",
+      "status": "提及",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的二妹，珠光宝气，身材丰满。",
+      "appearance": [
+        "淡黄色绸裙",
+        "手上脖子上戴了珍珠和玉石链子",
+        "面容娇美",
+        "身材微微有些丰满"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "珍珠链子",
+        "玉石链子"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "二哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与三爷、四爷一起回家。"
+        }
+      ],
+      "evidence": [
+        "那个女子却是珠光宝气一身淡黄色绸裙，手上脖子上都戴了珍珠和玉石链子。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "三爷",
+      "aliases": [
+        "老三"
+      ],
+      "identity": "林新的三弟",
+      "faction": "林家",
+      "status": "提及",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的三弟，容貌俊朗，肤色偏黑。",
+      "appearance": [
+        "容貌俊朗",
+        "肤色偏黑"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "二哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与二小姐、四爷一起回家。"
+        }
+      ],
+      "evidence": [
+        "两个男子容貌俊朗，一个肤色偏黑，一个隐约有点威严。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "四爷",
+      "aliases": [
+        "老四"
+      ],
+      "identity": "林新的四弟（与林新光可能为同一人，但此处四爷为另一人？原文有歧义，暂分开）",
+      "faction": "林家",
+      "status": "提及",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "林新的四弟，容貌俊朗，隐约有点威严。",
+      "appearance": [
+        "容貌俊朗",
+        "隐约有点威严"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "二哥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与二小姐、三爷一起回家。"
+        }
+      ],
+      "evidence": [
+        "两个男子容貌俊朗，一个肤色偏黑，一个隐约有点威严。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "绿裙女孩",
+      "aliases": [],
+      "identity": "林新媛的朋友或客人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六章 元宵灯会（二）",
+      "summary": "与林新光、林新媛一起出现的女孩，穿着绿色短裙，容貌平凡但皮肤身材好。",
+      "appearance": [
+        "绿色短裙",
+        "露出白皙大腿",
+        "白色上衣隐约露出肚脐",
+        "手上戴着银色手镯"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "银色手镯"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新光、林新媛一起在石桥上遇到林新。"
+        }
+      ],
+      "evidence": [
+        "另一个女孩穿着绿色短裙，露出白皙大腿，白色上衣隐约露出肚脐，手上戴着银色手镯。"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,256 +1,208 @@
 {
   "chunk_id": "chunk-0438",
-  "title": "第436章应天府",
   "characters": [
     {
       "name": "刘典",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "刘大人",
+        "刘同知"
+      ],
+      "identity": "倭区官员，宣威司衙门上级",
+      "faction": "帝国",
       "status": "登场",
       "first_appearance": "第436章应天府",
-      "summary": "”　　刘典笑容温和，拍了拍秦校监的肩头：“不过就算本官没时间看完整间晒书堂，也能从这些学子的精神面貌，看出你秦校监的治理成果，做的很不错",
-      "appearance": [],
-      "personality": [],
+      "summary": "倭区官员，负责夫子庙新政，深受学子崇拜。",
+      "appearance": [
+        "丰神俊朗",
+        "气质出尘"
+      ],
+      "personality": [
+        "温和",
+        "善于言辞"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　刘典笑容温和，拍了拍秦校监的肩头：“不过就算本官没时间看完整间晒书堂，也能从这些学子的精神面貌，看出你秦校监的治理成果，做的很不错",
-        "”　　刘典点了点头，笑道：“行了，就送到这里吧",
-        "”　　可当目光落在身上刺目的红漆上之时，他似乎瞬间忘却了心头的畏惧，仰面看向刘典，肃穆正色道：“我希望能追随您"
+      "relationships": [
+        {
+          "target": "秦校监",
+          "type": "上下级"
+        },
+        {
+          "target": "长崎峰",
+          "type": "追随者"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在晒书堂视察并发表讲话，后乘车离开。"
+        }
+      ],
+      "evidence": [
+        "刘典笑容温和，拍了拍秦校监的肩头",
+        "所有人的目光都聚集在那位丰神俊朗、气质出尘的刘同知，刘大人的身上。",
+        "刘典看着眼前这个‘与众不同’的学子，温和笑道：“不过不是现在。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "戍卫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "秦校监",
+      "aliases": [
+        "秦校监"
+      ],
+      "identity": "晒书堂校监",
+      "faction": "帝国",
       "status": "登场",
       "first_appearance": "第436章应天府",
-      "summary": "”　　戍卫队长冷笑道：“接下来要不了多久，这些倭寇青壮就会被送往其他的罪民区",
-      "appearance": [],
-      "personality": [],
+      "summary": "晒书堂校监，对刘典恭敬，管理学子。",
+      "appearance": [
+        "专门订制了一副及胸美髯"
+      ],
+      "personality": [
+        "谨慎",
+        "易怒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　戍卫队长冷笑道：“接下来要不了多久，这些倭寇青壮就会被送往其他的罪民区",
-        "”　　“你小子还是太嫩了，我告诉你，要想当好戍卫，特别是咱们南直隶的戍卫，光会开枪可不行，更要学会看风向、分局势、懂政策",
-        "”　　戍卫队长轻蔑道：“你以为朝廷费这么大力气把他们弄出来，真是来务工的"
+      "relationships": [
+        {
+          "target": "刘典",
+          "type": "上级"
+        },
+        {
+          "target": "长崎峰",
+          "type": "师生"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "陪同刘典视察晒书堂，呵斥长崎峰。"
+        }
+      ],
+      "evidence": [
+        "秦校监不动声色的冲着周围准备扑上来的夫子摇了摇头，脸色阴沉难看。",
+        "秦校监怒发冲冠，目光凶戾。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "戍卫队",
+      "name": "长崎峰",
       "aliases": [],
-      "identity": "",
+      "identity": "晒书堂学子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第436章应天府",
-      "summary": "”　　戍卫队长冷笑道：“接下来要不了多久，这些倭寇青壮就会被送往其他的罪民区",
-      "appearance": [],
-      "personality": [],
+      "summary": "晒书堂学子，对刘典表达追随意愿。",
+      "appearance": [
+        "一身青红脏衣",
+        "身上青衫有大块红漆擦痕"
+      ],
+      "personality": [
+        "勇敢",
+        "执着"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　戍卫队长冷笑道：“接下来要不了多久，这些倭寇青壮就会被送往其他的罪民区",
-        "”　　戍卫队长轻蔑道：“你以为朝廷费这么大力气把他们弄出来，真是来务工的",
-        "”　　嘴唇上胡须花白的戍卫队长若有所思的看了眼车辆远去的方向，拢了拢身上的防弹布甲，冲着呲牙咧嘴的下属翻了个白眼，没好气道：“差点被你小子害死了"
+      "relationships": [
+        {
+          "target": "刘典",
+          "type": "追随者"
+        },
+        {
+          "target": "秦校监",
+          "type": "师生"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在人群中喊话，表达追随刘典的意愿。"
+        }
+      ],
+      "evidence": [
+        "只见一身青红脏衣的长崎峰从人群后方奋力挤到前排，满脸振奋的望着刘典。",
+        "长崎峰看着暴怒的校监，本能的闭上了嘴巴，畏缩的低下了脑袋。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "戍卫队长",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第436章应天府",
-      "summary": "”　　戍卫队长冷笑道：“接下来要不了多久，这些倭寇青壮就会被送往其他的罪民区",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　戍卫队长冷笑道：“接下来要不了多久，这些倭寇青壮就会被送往其他的罪民区",
-        "”　　戍卫队长轻蔑道：“你以为朝廷费这么大力气把他们弄出来，真是来务工的",
-        "”　　嘴唇上胡须花白的戍卫队长若有所思的看了眼车辆远去的方向，拢了拢身上的防弹布甲，冲着呲牙咧嘴的下属翻了个白眼，没好气道：“差点被你小子害死了"
+      "aliases": [
+        "队长"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "年轻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "应天府戍卫队长",
+      "faction": "帝国",
       "status": "登场",
       "first_appearance": "第436章应天府",
-      "summary": "年轻戍卫闻言赶忙凑近，躬着身子谄媚笑道：“那您老就多给我讲讲呗，免得小的我哪天一不小心就得罪了那些大人们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "年轻戍卫闻言赶忙凑近，躬着身子谄媚笑道：“那您老就多给我讲讲呗，免得小的我哪天一不小心就得罪了那些大人们",
-        "”年轻戍卫点头哈腰道",
-        "”年轻戍卫点头道：“前不久才有一批运送倭区劳工的船靠岸，我还去参与了秩序维护的"
+      "summary": "经验丰富的戍卫队长，教导年轻戍卫。",
+      "appearance": [
+        "嘴唇上胡须花白"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "年轻戍",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第436章应天府",
-      "summary": "年轻戍卫闻言赶忙凑近，躬着身子谄媚笑道：“那您老就多给我讲讲呗，免得小的我哪天一不小心就得罪了那些大人们",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "老练",
+        "谨慎"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "防弹布甲",
+        "枪械"
+      ],
+      "relationships": [
+        {
+          "target": "年轻戍卫",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阻止年轻戍卫拦截刘家车辆，并教导其处世之道。"
+        }
+      ],
       "evidence": [
-        "年轻戍卫闻言赶忙凑近，躬着身子谄媚笑道：“那您老就多给我讲讲呗，免得小的我哪天一不小心就得罪了那些大人们",
-        "”年轻戍卫点头哈腰道",
-        "”年轻戍卫点头道：“前不久才有一批运送倭区劳工的船靠岸，我还去参与了秩序维护的"
+        "嘴唇上胡须花白的戍卫队长若有所思的看了眼车辆远去的方向",
+        "队长找了一处台阶坐下，感叹道：“这其中的门道太多太深，你呀，还得多学学啊。”"
       ],
       "mention_count": 6
     },
     {
       "name": "年轻戍卫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第436章应天府",
-      "summary": "年轻戍卫闻言赶忙凑近，躬着身子谄媚笑道：“那您老就多给我讲讲呗，免得小的我哪天一不小心就得罪了那些大人们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "年轻戍卫闻言赶忙凑近，躬着身子谄媚笑道：“那您老就多给我讲讲呗，免得小的我哪天一不小心就得罪了那些大人们",
-        "”年轻戍卫点头哈腰道",
-        "”年轻戍卫点头道：“前不久才有一批运送倭区劳工的船靠岸，我还去参与了秩序维护的"
+      "aliases": [
+        "张峰"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "刘家",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "应天府戍卫",
+      "faction": "帝国",
       "status": "登场",
       "first_appearance": "第436章应天府",
-      "summary": "等做完这一切后，他才徐徐说道：“刘家是谁，那可是咱们应天府的一等门阀之一，平日见做事最是讲究四平八稳，波澜不惊",
+      "summary": "年轻戍卫，缺乏经验，被队长教导。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "好奇",
+        "冒失"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "防弹衣",
+        "头盔记录仪"
+      ],
+      "relationships": [
+        {
+          "target": "戍卫队长",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "差点拦截刘家车辆，被队长阻止并教导。"
+        }
+      ],
       "evidence": [
-        "等做完这一切后，他才徐徐说道：“刘家是谁，那可是咱们应天府的一等门阀之一，平日见做事最是讲究四平八稳，波澜不惊",
-        "“不过头儿，这大白天的，刘家的车开这么快干什么",
-        "刘家的专车你也敢拦，真是不知死活"
+        "年轻戍卫闻言赶忙凑近，躬着身子谄媚笑道",
+        "年轻戍卫此刻后知后觉，惊出了一身冷汗"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "真是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第436章应天府",
-      "summary": "”　　戍卫队长轻蔑道：“你以为朝廷费这么大力气把他们弄出来，真是来务工的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　戍卫队长轻蔑道：“你以为朝廷费这么大力气把他们弄出来，真是来务工的",
-        "刘家的专车你也敢拦，真是不知死活"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "要是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第436章应天府",
-      "summary": "今天这么反常，车上的人肯定是有什么了不得的急事，你要是在这种时候冲撞了他们，那不是自己凑上去找死吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "今天这么反常，车上的人肯定是有什么了不得的急事，你要是在这种时候冲撞了他们，那不是自己凑上去找死吗",
-        "到时候我死了倒没什么，要是把队长您给连累了，那我才是死一百回也赎不了罪啊",
-        "“要是只知道闷着头横冲直撞，即便是有一天你们家祖坟冒青烟，基因沸腾得就跟开锅了一样，侥幸晋升了兵序八，那在应天府里顶多也是一个大号的蝼蚁，说被人碾死就被人碾死了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "长崎峰",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第436章应天府",
-      "summary": "”　　只见一身青红脏衣的长崎峰从人群后方奋力挤到前排，满脸振奋的望着刘典",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　只见一身青红脏衣的长崎峰从人群后方奋力挤到前排，满脸振奋的望着刘典",
-        "”　　长崎峰看着暴怒的校监，本能的闭上了嘴巴，畏缩的低下了脑袋",
-        "人群最外围，长崎峰一脸失魂落魄，身上的青衫全是大块大块的红漆擦痕，格外的扎眼"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "专门",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第436章应天府",
-      "summary": "专门订制了一副及胸美髯的秦校监迎着喊声来处望去，只一眼，便惊的浑身冷汗直冒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "专门订制了一副及胸美髯的秦校监迎着喊声来处望去，只一眼，便惊的浑身冷汗直冒",
-        "我特意截了一包下来，专门拿来孝敬您老人家"
-      ],
-      "mention_count": 4
     }
   ]
 }

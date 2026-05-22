@@ -1,28 +1,6 @@
 {
   "chunk_id": "chunk-0225",
-  "title": "第二百二十三章 方法（上）",
   "characters": [
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "微微一笑，他转身朝着林新所在的位置走去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "微微一笑，他转身朝着林新所在的位置走去",
-        "”林新仰躺着，眯眼望着天空刺目的太阳，气息微弱",
-        "林新勉强扭过头，看到的却是一个熟悉的身影"
-      ],
-      "mention_count": 16
-    },
     {
       "name": "花神曦",
       "aliases": [],
@@ -30,228 +8,151 @@
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "花神曦站立不动，手上刀刃几乎模糊看不清，只有一点点淡淡白影",
+      "summary": "与秋叶道子交手的强者，刀法精湛，能精确抵消对方攻击。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "花神曦站立不动，手上刀刃几乎模糊看不清，只有一点点淡淡白影",
-        "秋叶道子双臂如同千手观音，幻化出大片手臂，刀芒密密麻麻如同蜘蛛丝飞射出去，飞出两米外边自动消失，然后再出现便已经是花神曦身边周围了",
-        "花神曦见状，微微一笑"
+      "abilities": [
+        "刀法",
+        "云开隐现",
+        "眉心刺，花开念"
       ],
-      "mention_count": 10
+      "equipment": [
+        "刀刃"
+      ],
+      "relationships": [
+        {
+          "target": "秋叶道子",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与秋叶道子交手，击败对方后寻找林新未果。"
+        }
+      ],
+      "evidence": [
+        "花神曦站立不动，手上刀刃几乎模糊看不清，只有一点点淡淡白影。",
+        "花神曦一刀往前笔直刺出。",
+        "花神曦见状，微微一笑。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "两人",
+      "name": "秋叶道子",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "整个林中只有两人高速交手产生的剧烈劲气激荡",
+      "summary": "与花神曦交手的强者，使用刀芒丝线攻击。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "整个林中只有两人高速交手产生的剧烈劲气激荡",
-        "两人每一次动手动作，都会产生一个个漏洞弱点，也会产生一个个强悍的锋锐之处",
-        "两人就这么一躺一坐，都没有和对方说话的意思"
+      "abilities": [
+        "千手观音",
+        "焚化",
+        "刀线莲花"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "花神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "花神曦站立不动，手上刀刃几乎模糊看不清，只有一点点淡淡白影",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "花神曦",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与花神曦交手，被击败后消失。"
+        }
+      ],
       "evidence": [
-        "花神曦站立不动，手上刀刃几乎模糊看不清，只有一点点淡淡白影",
-        "秋叶道子双臂如同千手观音，幻化出大片手臂，刀芒密密麻麻如同蜘蛛丝飞射出去，飞出两米外边自动消失，然后再出现便已经是花神曦身边周围了",
-        "花神曦见状，微微一笑"
+        "秋叶道子双臂如同千手观音，幻化出大片手臂，刀芒密密麻麻如同蜘蛛丝飞射出去",
+        "秋叶道子拔地而起，周身旋转如同陀螺",
+        "秋叶道子眼中闪过一丝迷茫"
       ],
       "mention_count": 6
     },
     {
-      "name": "微微",
+      "name": "林新",
       "aliases": [],
+      "identity": "练气九层修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二百二十三章 方法（上）",
+      "summary": "受伤的修士，因灵气暴走而无法动用灵气，被红叶剑主带到瀑布边。",
+      "appearance": [
+        "浑身是血"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "破烂的储物袋",
+        "玉牌"
+      ],
+      "relationships": [
+        {
+          "target": "红叶剑主",
+          "type": "被其带到此地"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被花神曦波及受伤，通过马车逃到瀑布边，遇到红叶剑主。"
+        }
+      ],
+      "evidence": [
+        "一个浑身是血的男子翻滚着落出来。",
+        "林新勉强扭过头，看到的却是一个熟悉的身影。",
+        "林新控制着自己不去触碰灵气，就这么仰躺在水潭边。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "红叶剑主",
+      "aliases": [
+        "红树林怪人"
+      ],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "花神曦见状，微微一笑",
-      "appearance": [],
-      "personality": [],
+      "summary": "沉默寡言的壮汉，背着宽刃巨剑，喜欢喝酒，拥有妖符种。",
+      "appearance": [
+        "相貌平凡",
+        "满面络腮胡",
+        "穿着灰布衣服",
+        "背着宽刃巨剑"
+      ],
+      "personality": [
+        "沉默",
+        "迷茫"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "绿色酒葫芦",
+        "宽刃巨剑",
+        "妖符种"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "将其带到瀑布边"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在瀑布边喝酒，发现林新后离开又返回。"
+        }
+      ],
       "evidence": [
-        "花神曦见状，微微一笑",
-        "微微一笑，他转身朝着林新所在的位置走去",
-        "他微微侧过脸，朝着林新的方向看了眼"
+        "一个相貌平凡的壮汉，穿着普普通通的灰布衣服，背上背着一把宽刃巨剑，满面络腮胡的蹲坐在地上，手里拿着一个绿色酒葫芦正大口大口对着嘴灌。",
+        "看看红叶剑主边上随手丢了一地的妖符种就知道",
+        "红叶剑主已经站起身了，走到一边拿起地上的妖符种，仰头灌了口酒水，就这么一踏步，往前凭空走入空气里，消失不见。"
       ],
       "mention_count": 6
-    },
-    {
-      "name": "看了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "他微微侧过脸，朝着林新的方向看了眼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他微微侧过脸，朝着林新的方向看了眼",
-        "看了看身边的林新",
-        "也不说话，他看了一会儿，又找了个地方坐下，取下腰间葫芦大口大口喝起来"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他便",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "而这人却是没有丝毫想要说话的意思，早在红叶林中，他便一直是这样，只是喝酒，从未说话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而这人却是没有丝毫想要说话的意思，早在红叶林中，他便一直是这样，只是喝酒，从未说话",
-        "没有疗伤的东西，他便只能躺在地上试图控制暴走的灵气"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "此时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "林新是自己此时状态太差，急着疗伤所以不愿多费力气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新是自己此时状态太差，急着疗伤所以不愿多费力气",
-        "而他若是没有先前提升过的属性强化，此时也不可能还撑这么久",
-        "此时红叶剑主已经站起身了，走到一边拿起地上的妖符种，仰头灌了口酒水，就这么一踏步，往前凭空走入空气里，消失不见"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "身体",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "他能够感觉自己的身体如同被刺了孔的气球，大量血水顺着刚才被波及的伤口涌出来，顺着地面染红周围草地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他能够感觉自己的身体如同被刺了孔的气球，大量血水顺着刚才被波及的伤口涌出来，顺着地面染红周围草地",
-        "若不是他身体素质极其强悍，一般人估计早就爆体而亡了",
-        "林新勉强动了动身体，想要站起身，却被灵气波动绊了下，又重新跌回去"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "几乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "但让人惊叹的是，他们交手的范围极其狭窄，几乎只是在对方身边周围很小的区域碰撞",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但让人惊叹的是，他们交手的范围极其狭窄，几乎只是在对方身边周围很小的区域碰撞",
-        "花神曦站立不动，手上刀刃几乎模糊看不清，只有一点点淡淡白影",
-        "但幻觉导致的灵气失控太过暴虐，特别是现在的他已经到了练气九层，几乎只差道基便能直入筑基，这样的层次走火入魔，极其凶险"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "刀芒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "高度集中的力量，刀芒和刀罡剧烈碰撞，有的甚至都不会发出声音，因为声音频率太快，以至于超过了一般人耳朵的接受极限",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "高度集中的力量，刀芒和刀罡剧烈碰撞，有的甚至都不会发出声音，因为声音频率太快，以至于超过了一般人耳朵的接受极限",
-        "白色刀芒和透明刀罡在林中不断激荡，不时还有黑色影刀浮现",
-        "秋叶道子双臂如同千手观音，幻化出大片手臂，刀芒密密麻麻如同蜘蛛丝飞射出去，飞出两米外边自动消失，然后再出现便已经是花神曦身边周围了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "秋叶",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百二十三章 方法（上）",
-      "summary": "秋叶道子双臂如同千手观音，幻化出大片手臂，刀芒密密麻麻如同蜘蛛丝飞射出去，飞出两米外边自动消失，然后再出现便已经是花神曦身边周围了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "秋叶道子双臂如同千手观音，幻化出大片手臂，刀芒密密麻麻如同蜘蛛丝飞射出去，飞出两米外边自动消失，然后再出现便已经是花神曦身边周围了",
-        "秋叶道子额头渐渐浮现一丝细微汗渍",
-        "”秋叶道子拔地而起，周身旋转如同陀螺，朝着林中上空飞去"
-      ],
-      "mention_count": 4
     }
   ]
 }

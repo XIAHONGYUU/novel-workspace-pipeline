@@ -1,257 +1,294 @@
 {
   "chunk_id": "chunk-0011",
-  "title": "第10章图穷匕见",
   "characters": [
     {
-      "name": "罗镇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李钧",
+      "aliases": [
+        "红旗五哥"
+      ],
+      "identity": "袍哥会红旗五哥，年轻一代扛鼎人物",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第10章图穷匕见",
-      "summary": "第10章图穷匕见　　赵斗、祭刀会，再加上此时现身的天府戍卫局巡检罗镇",
+      "summary": "袍哥会红旗五哥，被赵斗设计陷害，况青云力保。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第10章图穷匕见　　赵斗、祭刀会，再加上此时现身的天府戍卫局巡检罗镇",
-        "罗镇大手一挥，虎目径直看向李钧，“把人交出来，我可以不追究谁坏规矩的事情",
-        "”　　罗镇一番话大义凛然，可其中的狠毒心思在场众人怎么可能不明白"
+      "personality": [
+        "谨慎"
       ],
-      "mention_count": 15
+      "abilities": [
+        "青帝诀（八品中期）",
+        "铁布衫（九品中期）",
+        "八卦游身步（九品初期）",
+        "单刀法选（九品中期）"
+      ],
+      "equipment": [
+        "青色药剂"
+      ],
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "兄弟"
+        },
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被赵斗设计陷害，况青云力保，将精通点投入青帝诀突破至中期。"
+        }
+      ],
+      "evidence": [
+        "李钧毫不犹豫将所有的精通点全部投入到【青帝诀】上，直接将这门内功推到中期。",
+        "要知道李钧在袍哥会内可不是什么无足轻重的小角色，而是红旗五哥，年轻一代的扛鼎人物。",
+        "一只手按在李钧肩头，耳旁传来况青云温润的声音。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "况青云",
+      "aliases": [
+        "圣贤二哥"
+      ],
+      "identity": "袍哥会圣贤二哥",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第10章图穷匕见",
-      "summary": "随着藏在幕后的黑手一个个浮现，李钧心中许多困惑也随之解开，整个事情的来龙去脉在他脑海中清楚地呈现",
-      "appearance": [],
-      "personality": [],
+      "summary": "袍哥会圣贤二哥，力保李钧，与罗镇对抗。",
+      "appearance": [
+        "穿着长衫却浑身痞气"
+      ],
+      "personality": [
+        "坚定",
+        "义气"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着藏在幕后的黑手一个个浮现，李钧心中许多困惑也随之解开，整个事情的来龙去脉在他脑海中清楚地呈现",
-        "赵鼎的舐犊之心却让他不忍看到唯一的亲人在浑水袍哥中无立足之地，所以让李钧潜入罪民街敲打流川坦，去帮赵斗挽回颜面",
-        "罗镇大手一挥，虎目径直看向李钧，“把人交出来，我可以不追究谁坏规矩的事情"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "兄弟"
+        },
+        {
+          "target": "罗镇",
+          "type": "敌对"
+        },
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "站出来力保李钧，与罗镇对峙。"
+        }
+      ],
+      "evidence": [
+        "况青云语气坚定说道：“当家谈不上，不过为兄弟挡事是我这个圣贤二哥的份内职责。”",
+        "况青云眯眼笑道：“罗巡检，什么时候帮派之间的争斗需要官府来主持公道了，这不合规矩吧？”",
+        "明明穿着长衫却浑身痞气的况青云当仁不让的站到最前方。"
+      ],
+      "mention_count": 8
     },
     {
       "name": "赵斗",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "袍哥会成员，赵鼎之子",
+      "faction": "袍哥会（反水）",
       "status": "登场",
       "first_appearance": "第10章图穷匕见",
-      "summary": "第10章图穷匕见　　赵斗、祭刀会，再加上此时现身的天府戍卫局巡检罗镇",
+      "summary": "赵鼎之子，与祭刀会联手设计陷阱，意图夺权。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "野心勃勃",
+        "阴险"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "父子"
+        },
+        {
+          "target": "祭刀会",
+          "type": "合作"
+        },
+        {
+          "target": "罗镇",
+          "type": "合作"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "撕破脸皮，公开反水夺权。"
+        }
+      ],
       "evidence": [
-        "第10章图穷匕见　　赵斗、祭刀会，再加上此时现身的天府戍卫局巡检罗镇",
-        "赵斗明白赵鼎不会扶他上位，所以选择和祭刀会联手，演了一出苦肉计",
-        "他笃定濒死的赵鼎不会不管他，事情也确实朝着赵斗预想的方向发展"
+        "赵斗明白赵鼎不会扶他上位，所以选择和祭刀会联手，演了一出苦肉计。",
+        "一直躲在虎冢身后的赵斗也闪身走了出来，满脸春风。",
+        "赵斗的目标便是除掉况青云这位圣贤二哥。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "罗镇",
+      "aliases": [
+        "罗巡检"
+      ],
+      "identity": "天府戍卫局巡检，鸡鹅区治安长官",
+      "faction": "天府戍卫局",
+      "status": "登场",
+      "first_appearance": "第10章图穷匕见",
+      "summary": "鸡鹅区新上任巡检，意图插手袍哥会生意，与赵斗合作。",
+      "appearance": [],
+      "personality": [
+        "狠毒",
+        "傲慢"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "合作"
+        },
+        {
+          "target": "袍哥会",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出面为赵斗撑腰，要求交出李钧。"
+        }
+      ],
+      "evidence": [
+        "罗镇大手一挥，虎目径直看向李钧，“把人交出来，我可以不追究谁坏规矩的事情。”",
+        "罗镇负手而立，一身官威浩荡，他并没有直接为赵斗撑腰，而是开口为袍哥会和祭刀会的冲突定下了调子。",
+        "罗镇依旧负手傲立，饶有兴趣的盯着李钧，眼底甚至还有一丝期待。"
       ],
       "mention_count": 7
     },
     {
-      "name": "况青云",
+      "name": "虎冢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "祭刀会会长",
+      "faction": "祭刀会",
       "status": "登场",
       "first_appearance": "第10章图穷匕见",
-      "summary": "况青云语气坚定说道：“当家谈不上，不过为兄弟挡事是我这个圣贤二哥的份内职责",
-      "appearance": [],
+      "summary": "祭刀会会长，与赵斗合作。",
+      "appearance": [
+        "魁梧"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "况青云语气坚定说道：“当家谈不上，不过为兄弟挡事是我这个圣贤二哥的份内职责",
-        "站在况青云身旁的李钧将他脸上的挣扎看的清清楚楚，心头微沉，右手不着痕迹的挪向身后",
-        "”罗镇怒极而笑，“看来袍哥会的家是你况青云来当了"
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "合作"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "况青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第10章图穷匕见",
-      "summary": "况青云语气坚定说道：“当家谈不上，不过为兄弟挡事是我这个圣贤二哥的份内职责",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "况青云语气坚定说道：“当家谈不上，不过为兄弟挡事是我这个圣贤二哥的份内职责",
-        "站在况青云身旁的李钧将他脸上的挣扎看的清清楚楚，心头微沉，右手不着痕迹的挪向身后",
-        "”罗镇怒极而笑，“看来袍哥会的家是你况青云来当了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "挡在赵斗身前。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "祭刀会会长虎冢冷冷一笑，跨前一步，魁梧的身形直接挡在赵斗身前。"
+      ],
+      "mention_count": 2
     },
     {
       "name": "赵鼎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "袍哥会舵把子",
+      "faction": "袍哥会",
+      "status": "提及",
       "first_appearance": "第10章图穷匕见",
-      "summary": "赵鼎行将就木的事情在袍哥会内已经不算什么秘密，舵把子的位置换人只是迟早的事情",
+      "summary": "袍哥会舵把子，赵斗之父，濒死。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵鼎行将就木的事情在袍哥会内已经不算什么秘密，舵把子的位置换人只是迟早的事情",
-        "赵斗明白赵鼎不会扶他上位，所以选择和祭刀会联手，演了一出苦肉计",
-        "他笃定濒死的赵鼎不会不管他，事情也确实朝着赵斗预想的方向发展"
+      "personality": [
+        "舐犊情深"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "九品",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第10章图穷匕见",
-      "summary": "【练体】：铁布衫（九品中期5/100）　　罗镇话音铿锵，掷地有声",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "【练体】：铁布衫（九品中期5/100）　　罗镇话音铿锵，掷地有声",
-        "【加载武学青帝诀（八品）】　　【身法】：八卦游身步（九品初期12/100）　　他在期待李钧动手",
-        "【技击】：单刀法选（九品中期33/100）　　【鸡鹅区爆发黑帮仇杀冲突，天府戍卫及时赶到击毙暴徒"
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "父子"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "其中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第10章图穷匕见",
-      "summary": "”　　罗镇一番话大义凛然，可其中的狠毒心思在场众人怎么可能不明白",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　罗镇一番话大义凛然，可其中的狠毒心思在场众人怎么可能不明白",
-        "”　　袍哥会号称有三千浑水袍哥，其中绝大部分都是小摊主和小商贩，挂着浑水袍哥的名头混口饭吃",
-        "天府戍卫局负责整个成都府的治安防务，其中的巡检便是各区的治安长官"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及，赵斗利用其舐犊之心设计陷阱。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第10章图穷匕见",
-      "summary": "这是一场精心设计好的陷阱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这是一场精心设计好的陷阱",
-        "这是赵鼎不愿意看到的结果",
-        "”　　袍哥会义字当头，罗镇让况青云交出李钧，这是要逼着他自己亲手砸了袍哥会的招牌"
+        "赵鼎行将就木的事情在袍哥会内已经不算什么秘密",
+        "赵鼎的舐犊之心却让他不忍看到唯一的亲人在浑水袍哥中无立足之地"
       ],
       "mention_count": 4
     },
     {
-      "name": "舵把子",
+      "name": "流川坦",
       "aliases": [],
-      "identity": "",
+      "identity": "罪民街人物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第10章图穷匕见",
-      "summary": "赵鼎行将就木的事情在袍哥会内已经不算什么秘密，舵把子的位置换人只是迟早的事情",
+      "summary": "被赵斗用作诱饵。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵鼎行将就木的事情在袍哥会内已经不算什么秘密，舵把子的位置换人只是迟早的事情",
-        "下面的弟兄就会猜忌赵鼎的能力，舵把子的位置自然会被动摇",
-        "“如果是这样，那袍哥会舵把子的位置就该易主了，赵斗"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被赵斗用作诱饵陷害李钧。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "赵斗以流川坦为诱饵，借机害死在袍哥会中异军突起的李钧。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "直接",
+      "name": "焰鬼",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第10章图穷匕见",
-      "summary": "祭刀会会长虎冢冷冷一笑，跨前一步，魁梧的身形直接挡在赵斗身前",
+      "summary": "被提及为拖延时间的工作。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "祭刀会会长虎冢冷冷一笑，跨前一步，魁梧的身形直接挡在赵斗身前",
-        "【精通点】：32　　李钧毫不犹豫将所有的精通点全部投入到【青帝诀】上，直接将这门内功推到中期",
-        "”　　只是自己逃出生天破坏了赵斗的计划，迫于无奈下赵斗只能选择撕破脸皮，直接跳到明面上反水夺权"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为拖延时间的工作。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "随着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第10章图穷匕见",
-      "summary": "随着藏在幕后的黑手一个个浮现，李钧心中许多困惑也随之解开，整个事情的来龙去脉在他脑海中清楚地呈现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "随着藏在幕后的黑手一个个浮现，李钧心中许多困惑也随之解开，整个事情的来龙去脉在他脑海中清楚地呈现",
-        "随着一股全新的能量在体内滋生，原本属于武兵诀的内力自行溃散，成为新内力壮大的养分"
+        "至于焰鬼，只是一个拖延时间的工作。"
       ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

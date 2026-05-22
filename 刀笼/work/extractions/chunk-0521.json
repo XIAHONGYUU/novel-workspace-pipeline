@@ -1,247 +1,413 @@
 {
   "chunk_id": "chunk-0521",
-  "title": "第二百九十四章 谋划",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "戚大寇"
+      ],
+      "identity": "龙脉之王，四龙之主",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "除了蜃红鳞，戚笼对于其它人并没有多少热情，自从大劫开启，这些兵强马壮之辈便失去了作用，至少是他们以为的作用",
+      "first_appearance": "",
+      "summary": "主角，龙脉之王，拥有四条龙脉，与天地初步合一，正在谋划应对夺龙局和九幽军团。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有谋略"
+      ],
+      "abilities": [
+        "龙脉之王",
+        "四龙化一龙",
+        "与天地合一"
+      ],
+      "equipment": [
+        "托天圣灵碑",
+        "枯黄色莲花",
+        "烛龙龙掌"
+      ],
+      "relationships": [
+        {
+          "target": "蜃红鳞",
+          "type": "合作者"
+        },
+        {
+          "target": "蜃香寒",
+          "type": "旧识"
+        },
+        {
+          "target": "叶落秋",
+          "type": "下属"
+        },
+        {
+          "target": "炼铁手",
+          "type": "对手"
+        },
+        {
+          "target": "九卫神帅",
+          "type": "对手"
+        },
+        {
+          "target": "照灯笼",
+          "type": "对手"
+        },
+        {
+          "target": "不周",
+          "type": "支持者"
+        },
+        {
+          "target": "侯孝天",
+          "type": "义父"
+        },
+        {
+          "target": "龙母",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到炼铁手的挑战贴，决定半年后参加夺龙局。"
+        },
+        {
+          "stage": "当前",
+          "event": "召见叶落秋询问钳龙锁信息。"
+        },
+        {
+          "stage": "当前",
+          "event": "闭关，召见戚大寇，安排其寻找七伤之力和九幽入口。"
+        }
+      ],
+      "evidence": [
+        "戚笼放下了挑战贴，沉吟了下，召来了叶落秋",
+        "戚笼闭目，一炷香后，一道喑哑的刀鸣声响起，一道浑身浴血的人影浮现",
+        "戚笼微微一笑，双目紧闭，一丝丝金线从虚空中钻出，盘踞成云，又像是无数龙影。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "蜃红鳞",
+      "aliases": [
+        "蜃红麟"
+      ],
+      "identity": "龙脉之子，七府传送阵主持者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "真正的龙脉之子，由蜃龙之气入腹而生，曾与戚笼在东荒大草原共患难，告知戚笼关于蜃龙的消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "主持七府传送阵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        },
+        {
+          "target": "蜃香寒",
+          "type": "相关"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "蜃红鳞是例外，他是给蜃香寒这个小胖妞面子",
+        "蜃红麟也坦然说，这个消息，她老早就告知了真神",
+        "她是真正意义上的‘龙脉之子’，是蜃龙之气入腹，与女子交合而生"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "叶落秋",
+      "aliases": [],
+      "identity": "戚笼的下属",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戚笼的下属，对钳龙锁有所了解，认为钳龙锁可能是一种上古生物而非大阵。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼召见，回答关于钳龙锁的问题。"
+        }
+      ],
+      "evidence": [
+        "戚笼放下了挑战贴，沉吟了下，召来了叶落秋",
+        "叶落秋想了想道：'事实上，除了九幽军团的人，并没有人知道它的真容'",
+        "他的语气并不肯定。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "炼铁手",
+      "aliases": [],
+      "identity": "龙脉拥有者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "拥有两条龙脉，向戚笼发出夺龙局挑战，决战地点选在七府内腹。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "拥有两条龙脉"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "对手"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "除了蜃红鳞，戚笼对于其它人并没有多少热情，自从大劫开启，这些兵强马壮之辈便失去了作用，至少是他们以为的作用",
-        "戚笼放下了挑战贴，沉吟了下，召来了叶落秋，问道：“关于钳龙锁，你知道些什么",
-        "”    戚笼明白对方的疑虑了，如果真是‘生物’的话，血食是不可缺少的；就算是真神也是要吃喝的，当然祂们的吃喝不是凡间食物，而是一些灵材"
+        "炼铁手的帖子上写的很简单，无非是邀请他半年后来一场夺龙局",
+        "他有四条龙脉、炼铁手有两条、九卫神帅有一条"
       ],
-      "mention_count": 23
+      "mention_count": 2
+    },
+    {
+      "name": "九卫神帅",
+      "aliases": [],
+      "identity": "龙脉拥有者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "拥有一条龙脉，参与夺龙局。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "拥有一条龙脉"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "对手"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他有四条龙脉、炼铁手有两条、九卫神帅有一条"
+      ],
+      "mention_count": 1
     },
     {
       "name": "戚大寇",
       "aliases": [],
-      "identity": "",
+      "identity": "戚笼通过托天圣灵碑创造的主体，斩天刀寇",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "固然可以用圣灵碑强行洗脑，但洗脑之后，这位‘戚大寇’哪里能斩出‘斩天刀寇’的刀光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "固然可以用圣灵碑强行洗脑，但洗脑之后，这位‘戚大寇’哪里能斩出‘斩天刀寇’的刀光",
-        "‘戚大寇’也是知道这一点，所以这一段时间彻底放飞自我，借助外道生灵疯狂磨练刀意，单论刀境，已经晋升至道者层次",
-        "”    戚大寇皱眉道：“别搞那些虚伪腔调，你便是我，我便是你，我的性子你不明白"
+      "first_appearance": "",
+      "summary": "戚笼创造的有自我意识的主体，专注于磨练刀意，刀境已晋升至道者层次，负责寻找七伤之力和九幽入口。",
+      "appearance": [
+        "浑身浴血"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "炼铁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "’    炼铁手的帖子上写的很简单，无非是邀请他半年后来一场夺龙局，他有四条龙脉、炼铁手有两条、九卫神帅有一条，合起来便是七条",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "’    炼铁手的帖子上写的很简单，无非是邀请他半年后来一场夺龙局，他有四条龙脉、炼铁手有两条、九卫神帅有一条，合起来便是七条"
+      "personality": [
+        "冷厉",
+        "凶悍",
+        "好战"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "戚大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "固然可以用圣灵碑强行洗脑，但洗脑之后，这位‘戚大寇’哪里能斩出‘斩天刀寇’的刀光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "斩天刀寇",
+        "刀境至道者"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "本体"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼召见，接受寻找七伤之力和九幽入口的任务。"
+        }
+      ],
       "evidence": [
-        "固然可以用圣灵碑强行洗脑，但洗脑之后，这位‘戚大寇’哪里能斩出‘斩天刀寇’的刀光",
-        "‘戚大寇’也是知道这一点，所以这一段时间彻底放飞自我，借助外道生灵疯狂磨练刀意，单论刀境，已经晋升至道者层次",
-        "”    戚大寇皱眉道：“别搞那些虚伪腔调，你便是我，我便是你，我的性子你不明白"
+        "一道浑身浴血的人影浮现，然后是冷厉凶悍的声线",
+        "单论刀境，已经晋升至道者层次",
+        "戚大寇的幻影点了点头，刀光一卷，便就消失不见。"
       ],
       "mention_count": 5
     },
     {
-      "name": "而蜃",
-      "aliases": [],
-      "identity": "",
+      "name": "照灯笼",
+      "aliases": [
+        "照老弟"
+      ],
+      "identity": "戚笼的对手",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "蜃红鳞是例外，他是给蜃香寒这个小胖妞面子，毕竟二人也曾在东荒大草原共患难过，而蜃红鳞给出的价码也让他心动，那是一条蜃龙",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戚笼的对手，剑术高超，正在参悟剑十三、剑十四，融入大劫之力。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "剑术",
+        "参悟剑十三、剑十四"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "对手"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "蜃红鳞是例外，他是给蜃香寒这个小胖妞面子，毕竟二人也曾在东荒大草原共患难过，而蜃红鳞给出的价码也让他心动，那是一条蜃龙",
-        "而蜃红麟之所以能肯定有，是因为她是真正意义上的‘龙脉之子’，是蜃龙之气入腹，与女子交合而生，所以天生强大，整个七府的传送阵都是借助她的力量来主持"
+        "一旦参悟剑十三、剑十四，胜率只会更低",
+        "我那位照老弟想要参悟出剑十三、剑十四，只有更深层次的融入大劫之力"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "那是",
+      "name": "不周",
       "aliases": [],
-      "identity": "",
+      "identity": "真神",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "蜃红鳞是例外，他是给蜃香寒这个小胖妞面子，毕竟二人也曾在东荒大草原共患难过，而蜃红鳞给出的价码也让他心动，那是一条蜃龙",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "在戚笼体内留下真神烙印的真神，支持戚笼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "支持者"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "蜃红鳞是例外，他是给蜃香寒这个小胖妞面子，毕竟二人也曾在东荒大草原共患难过，而蜃红鳞给出的价码也让他心动，那是一条蜃龙",
-        "最终，一座巴掌大的幻影神山从云层中浮出，那是不周留在自己体内的真神烙印"
+        "最终，一座巴掌大的幻影神山从云层中浮出，那是不周留在自己体内的真神烙印。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "一物是",
+      "name": "侯孝天",
       "aliases": [],
-      "identity": "",
+      "identity": "戚笼的义父",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "他取出两物，一物是一朵枯黄色的莲花、一物是一节烛龙龙掌，这两者前者对应是大劫之力的七煞、另一种对应的则是九幽",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戚笼的便宜义父，背后有比真神还强大的古神龙母。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "义父"
+        },
+        {
+          "target": "龙母",
+          "type": "背后支持者"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "他取出两物，一物是一朵枯黄色的莲花、一物是一节烛龙龙掌，这两者前者对应是大劫之力的七煞、另一种对应的则是九幽"
+        "便宜义父侯孝天背后的那一位，便是比真神还强大的古神龙母。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
+      "name": "龙母",
+      "aliases": [
+        "古神龙母"
+      ],
+      "identity": "古神，上古龙脉所化",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "可是天下都快没了，要你们这些兵马又有什么意义呢",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "比真神还强大的古神，可能是炼铁手的依仗，可能惦记着钳龙锁。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "古神"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "侯孝天",
+          "type": "被追随"
+        },
+        {
+          "target": "炼铁手",
+          "type": "可能支持"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "可是天下都快没了，要你们这些兵马又有什么意义呢",
-        "”    ‘四成么，’戚笼心想，可是对方口中的四成，只是剑十三状态下的照灯笼"
+        "那位传说中是上古龙脉所化的龙母，是不是惦记上了钳龙锁这类气运生物。"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "沉吟",
-      "aliases": [],
+      "name": "蜃香寒",
+      "aliases": [
+        "小胖妞"
+      ],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "戚笼放下了挑战贴，沉吟了下，召来了叶落秋，问道：“关于钳龙锁，你知道些什么",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "蜃红鳞给面子的对象，与戚笼相识。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "蜃红鳞",
+          "type": "相关"
+        },
+        {
+          "target": "戚笼",
+          "type": "旧识"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "戚笼放下了挑战贴，沉吟了下，召来了叶落秋，问道：“关于钳龙锁，你知道些什么",
-        "”    戚大寇沉吟片刻，“我先拔刀，有三成，后拔刀，只一成"
+        "蜃红鳞是例外，他是给蜃香寒这个小胖妞面子"
       ],
-      "mention_count": 3
+      "mention_count": 1
     },
     {
-      "name": "并不是",
+      "name": "薛白",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "”    叶落秋想了想道：“事实上，除了九幽军团的人，并没有人知道它的真容，不过根据当初与神庭那一战，我怀疑‘钳龙锁’并不是一座大阵，而像是一种上古生物",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "拥有天子之气的人物，与戚笼的气运对比。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "天子之气"
+      ],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    叶落秋想了想道：“事实上，除了九幽军团的人，并没有人知道它的真容，不过根据当初与神庭那一战，我怀疑‘钳龙锁’并不是一座大阵，而像是一种上古生物",
-        "”    戚笼语气有些无奈，托天圣灵碑创造的‘人’并不是分身，而是有自我意识的主体，甚至有着七情六欲，个人利益追求"
+        "比起薛白的‘天子之气’，他这四龙之主的气运更厚重、更狂野。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "”    戚笼明白对方的疑虑了，如果真是‘生物’的话，血食是不可缺少的；就算是真神也是要吃喝的，当然祂们的吃喝不是凡间食物，而是一些灵材",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    戚笼明白对方的疑虑了，如果真是‘生物’的话，血食是不可缺少的；就算是真神也是要吃喝的，当然祂们的吃喝不是凡间食物，而是一些灵材",
-        "”    戚笼语气有些无奈，托天圣灵碑创造的‘人’并不是分身，而是有自我意识的主体，甚至有着七情六欲，个人利益追求"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "譬如",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百九十四章 谋划",
-      "summary": "除此之外，应该还有其它的真神触手，譬如便宜义父侯孝天背后的那一位，便是比真神还强大的古神龙母",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "除此之外，应该还有其它的真神触手，譬如便宜义父侯孝天背后的那一位，便是比真神还强大的古神龙母",
-        "‘这方世界的大气运被七府真神夺去，据我所知并没有生出波澜，那么说明那些真神志不在此，譬如，那位传说中是上古龙脉所化的龙母，是不是惦记上了钳龙锁这类气运生物"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

@@ -1,256 +1,279 @@
 {
   "chunk_id": "chunk-0531",
-  "title": "第529章杀人就是医病",
   "characters": [
+    {
+      "name": "沈笠",
+      "aliases": [
+        "沈哥"
+      ],
+      "identity": "天阙年轻一辈的扛鼎人之一，一门之主",
+      "faction": "门派武序",
+      "status": "登场",
+      "first_appearance": "第529章杀人就是医病",
+      "summary": "天阙年轻一辈的扛鼎人之一，杀人最多的刽子手，正在审问背叛师门的姚俊。",
+      "appearance": [
+        "穿着脏兮兮的黑色箭袖武服",
+        "外表邋遢"
+      ],
+      "personality": [
+        "冷静",
+        "果断",
+        "狠辣"
+      ],
+      "abilities": [
+        "拳法高超"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姚俊",
+          "type": "审问者与被审问者"
+        },
+        {
+          "target": "张长风",
+          "type": "同门或敬重的前辈"
+        },
+        {
+          "target": "雷耀",
+          "type": "追捕对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在医馆中审问并杀死姚俊，随后与朱烬对峙。"
+        }
+      ],
+      "evidence": [
+        "沈笠依旧穿着那一身脏兮兮的黑色箭袖武服，翘着二郎腿坐在一把太师椅中",
+        "门派武序最年轻的门主，天阙年轻一辈的扛鼎人之一，同时也是天阙中杀人最多的刽子手",
+        "沈笠依旧坐在那把太师椅中，从始至终身形未动分毫"
+      ],
+      "mention_count": 20
+    },
     {
       "name": "姚俊",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "洪圣门弟子，背叛师门者",
+      "faction": "洪圣门（原）",
+      "status": "死亡",
       "first_appearance": "第529章杀人就是医病",
-      "summary": "”　　沈笠依旧穿着那一身脏兮兮的黑色箭袖武服，翘着二郎腿坐在一把太师椅中，垂眸凝视着姚俊那张沾满血污的脸",
-      "appearance": [],
-      "personality": [],
+      "summary": "洪圣门弟子，被雷耀欺骗背叛师门，后被沈笠审问并杀死。",
+      "appearance": [
+        "沾满血污的脸",
+        "身受重伤"
+      ],
+      "personality": [
+        "懦弱",
+        "求饶"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　沈笠依旧穿着那一身脏兮兮的黑色箭袖武服，翘着二郎腿坐在一把太师椅中，垂眸凝视着姚俊那张沾满血污的脸",
-        "”　　姚俊口中提到的‘淬武’，就是沈笠曾经给李钧讲述的基因喂食的过程",
-        "”　　砰.砰.砰.　　姚俊挥头砸地，身上刚刚有结痂趋势的伤口再次裂开，淋漓的鲜血透染全身，看起来格外凄凉"
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "被审问者"
+        },
+        {
+          "target": "雷耀",
+          "type": "同门，被其欺骗"
+        },
+        {
+          "target": "张长风",
+          "type": "师傅"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被沈笠审问，最终被一拳打死。"
+        }
+      ],
+      "evidence": [
+        "姚俊神色悲戚，声泪俱下道",
+        "姚俊见沈笠的脸色似乎稍有缓和，立马抽动着脸上的五官",
+        "姚俊双眼几乎炸出眼眶，胸口处蓦然爆开一个前后通透的血洞"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "沈笠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第529章杀人就是医病",
-      "summary": "”　　沈笠依旧穿着那一身脏兮兮的黑色箭袖武服，翘着二郎腿坐在一把太师椅中，垂眸凝视着姚俊那张沾满血污的脸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　沈笠依旧穿着那一身脏兮兮的黑色箭袖武服，翘着二郎腿坐在一把太师椅中，垂眸凝视着姚俊那张沾满血污的脸",
-        "”　　姚俊口中提到的‘淬武’，就是沈笠曾经给李钧讲述的基因喂食的过程",
-        "”　　沈笠冷笑道：“可我怎么听说张师傅为人坦荡大气，授徒从不藏私"
+      "name": "雷耀",
+      "aliases": [
+        "雷耀这个杂碎"
       ],
-      "mention_count": 11
+      "identity": "洪圣门弟子，背叛者",
+      "faction": "刘阀（现）",
+      "status": "提及",
+      "first_appearance": "第529章杀人就是医病",
+      "summary": "洪圣门弟子，为加速淬武背叛师门，投靠刘家，现为刘典的贴身护卫。",
+      "appearance": [],
+      "personality": [
+        "心狠手辣",
+        "自私"
+      ],
+      "abilities": [],
+      "equipment": [
+        "秋分（农序药剂）"
+      ],
+      "relationships": [
+        {
+          "target": "姚俊",
+          "type": "同门，欺骗者"
+        },
+        {
+          "target": "张长风",
+          "type": "师傅，背叛对象"
+        },
+        {
+          "target": "刘典",
+          "type": "雇主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "背叛师门，将张长风引入金陵卖给刘家。"
+        }
+      ],
+      "evidence": [
+        "勾结刘家的人是雷耀，不是我们啊",
+        "雷耀是为了‘淬武’才背叛师门",
+        "他现在就在给刘家的二少爷刘典充当贴身护卫"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第529章杀人就是医病",
-      "summary": "“沈哥，勾结刘家的人是雷耀，不是我们啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“沈哥，勾结刘家的人是雷耀，不是我们啊",
-        "我们根本不愿意背叛师门，沈哥你相信我，我说的这些千真万确，没有一句话敢骗您啊",
-        "而且淬武本就是一个水滴石穿的蜕变功夫，这是门派武序内人人皆知的事情，我们自己都无法缩短这个过程，难道儒序门阀就有办法"
+      "name": "张长风",
+      "aliases": [
+        "张师傅",
+        "师傅"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "沈哥",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "洪圣门掌门",
+      "faction": "洪圣门",
+      "status": "提及",
       "first_appearance": "第529章杀人就是医病",
-      "summary": "“沈哥，勾结刘家的人是雷耀，不是我们啊",
+      "summary": "洪圣门掌门，被雷耀背叛并囚禁于刘阀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "坦荡大气",
+        "授徒从不藏私"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "雷耀",
+          "type": "徒弟，背叛者"
+        },
+        {
+          "target": "姚俊",
+          "type": "徒弟"
+        },
+        {
+          "target": "沈笠",
+          "type": "被敬重的前辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被囚禁在刘阀之内，饱受折磨。"
+        }
+      ],
       "evidence": [
-        "“沈哥，勾结刘家的人是雷耀，不是我们啊",
-        "我们根本不愿意背叛师门，沈哥你相信我，我说的这些千真万确，没有一句话敢骗您啊",
-        "”　　“沈哥，求您饶了我吧"
+        "你师父还被囚禁在刘阀之内，饱受折磨",
+        "师傅他老人家当然要帮",
+        "天阙的老头子们要想尽办法去救张长风"
       ],
       "mention_count": 6
     },
     {
-      "name": "淬武",
+      "name": "朱烬",
       "aliases": [],
-      "identity": "",
+      "identity": "未知，自称有病之人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第529章杀人就是医病",
-      "summary": "是他要拿师傅的性命去当投名状，换取刘家帮他完成‘淬武’，从而晋升序三雄主",
+      "summary": "突然闯入医馆的神秘男人，自称一身穷病，与沈笠对峙。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "是他要拿师傅的性命去当投名状，换取刘家帮他完成‘淬武’，从而晋升序三雄主",
-        "”　　姚俊口中提到的‘淬武’，就是沈笠曾经给李钧讲述的基因喂食的过程",
-        "在门派武序之中要想破四进三，完成‘淬武’便是先决条件"
+      "personality": [
+        "戏谑",
+        "自信"
       ],
-      "mention_count": 4
+      "abilities": [
+        "能无声无息烧毁店门"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈笠",
+          "type": "对峙者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闯入医馆，与沈笠发生冲突。"
+        }
+      ],
+      "evidence": [
+        "一个戏谑的声音突然在医馆门外响起",
+        "我的名字叫朱烬",
+        "一股炽热的焰流从医馆内奔涌而出"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "我们根",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "刘谨勋",
+      "aliases": [
+        "刘谨勋这個老东西"
+      ],
+      "identity": "刘阀家主",
+      "faction": "刘阀",
+      "status": "提及",
       "first_appearance": "第529章杀人就是医病",
-      "summary": "我们根本不愿意背叛师门，沈哥你相信我，我说的这些千真万确，没有一句话敢骗您啊",
+      "summary": "刘阀家主，舍得用秋分收买雷耀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "雷耀",
+          "type": "收买者"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "我们根本不愿意背叛师门，沈哥你相信我，我说的这些千真万确，没有一句话敢骗您啊",
-        "”　　“这些年，我们根本没有过过半天好日子，只能寄存在门阀之中给人看家护院，苟且偷生，根本不敢离开金陵半步",
-        "”　　姚俊神色变得有些癫狂，狞声说道：“原本他只是让我们跟他一起威逼师傅退位，答应在成功之后，将门派内所有的武学全部向我们无偿开放，我们根本不知道他早就跟刘家在暗中有交易"
+        "秋分.刘谨勋这個老东西还真他娘的舍得下本钱啊"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "我们根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "刘典",
+      "aliases": [
+        "刘家的二少爷"
+      ],
+      "identity": "刘家二少爷",
+      "faction": "刘阀",
+      "status": "提及",
       "first_appearance": "第529章杀人就是医病",
-      "summary": "我们根本不愿意背叛师门，沈哥你相信我，我说的这些千真万确，没有一句话敢骗您啊",
+      "summary": "刘家二少爷，雷耀现在充当其贴身护卫。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "雷耀",
+          "type": "雇主"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "我们根本不愿意背叛师门，沈哥你相信我，我说的这些千真万确，没有一句话敢骗您啊",
-        "”　　“这些年，我们根本没有过过半天好日子，只能寄存在门阀之中给人看家护院，苟且偷生，根本不敢离开金陵半步",
-        "”　　姚俊神色变得有些癫狂，狞声说道：“原本他只是让我们跟他一起威逼师傅退位，答应在成功之后，将门派内所有的武学全部向我们无偿开放，我们根本不知道他早就跟刘家在暗中有交易"
+        "他现在就在给刘家的二少爷刘典充当贴身护卫"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "雷耀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第529章杀人就是医病",
-      "summary": "“沈哥，勾结刘家的人是雷耀，不是我们啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“沈哥，勾结刘家的人是雷耀，不是我们啊",
-        "“那你的意思，雷耀是为了‘淬武’才背叛师门咯",
-        "如果雷耀这个杂碎真有那份潜力晋升雄主，难道张师傅会不帮他"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "沈笠冷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第529章杀人就是医病",
-      "summary": "”　　沈笠冷笑道：“可我怎么听说张师傅为人坦荡大气，授徒从不藏私",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　沈笠冷笑道：“可我怎么听说张师傅为人坦荡大气，授徒从不藏私",
-        "”　　沈笠冷笑一声，摇头道：“路不是别人给的，只有靠自己打出来"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第529章杀人就是医病",
-      "summary": "如果雷耀这个杂碎真有那份潜力晋升雄主，难道张师傅会不帮他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如果雷耀这个杂碎真有那份潜力晋升雄主，难道张师傅会不帮他",
-        "而且淬武本就是一个水滴石穿的蜕变功夫，这是门派武序内人人皆知的事情，我们自己都无法缩短这个过程，难道儒序门阀就有办法",
-        "从一开始，这个王八蛋的目的就不是成为洪圣的掌门，而是将师傅他老人家引入金陵卖给刘家"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这些年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第529章杀人就是医病",
-      "summary": "这些年我在金陵探打听了不少关于雷耀的事情，他现在就在给刘家的二少爷刘典充当贴身护卫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这些年我在金陵探打听了不少关于雷耀的事情，他现在就在给刘家的二少爷刘典充当贴身护卫",
-        "”　　“这些年，我们根本没有过过半天好日子，只能寄存在门阀之中给人看家护院，苟且偷生，根本不敢离开金陵半步",
-        "曾经也是天阙成员的姚俊很清楚，这些年背叛门派武序的人有将近一半是被眼前外表邋遢的男人亲手处决"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "求求您",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第529章杀人就是医病",
-      "summary": "”　　“求您再给我一次改过自新，戴罪立功的机会啊，沈哥，求求您了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“求您再给我一次改过自新，戴罪立功的机会啊，沈哥，求求您了",
-        "“沈哥，求求您给我条活路啊"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

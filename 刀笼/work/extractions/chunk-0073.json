@@ -1,257 +1,441 @@
 {
   "chunk_id": "chunk-0073",
-  "title": "第七十三章 可锻亦可断（完）",
   "characters": [
     {
       "name": "鲍无常",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "鲍无常是这般，冒辟江也是这般",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "鲍无常是这般，冒辟江也是这般",
-        "而鲍无常则依旧冲杀在第一线，刀术越发偏激凶戾，名声也越来越大",
-        "前脚掌扒地，手腕一抖，刀光片片，以削刺破对方劈斩，并在鲍无常小臂大臂上各留两道刀痕"
+      "aliases": [
+        "老幺",
+        "剑鬼鲍无常"
       ],
-      "mention_count": 21
+      "identity": "李伏威的部下，负责阴暗面事务",
+      "faction": "李伏威势力",
+      "status": "重伤",
+      "first_appearance": "第七十三章 可锻亦可断（完）",
+      "summary": "李伏威的部下，负责处理恶事恶名，使剑如使刀，天生能挪动器官要害，曾与冒辟江激战并反杀对方。",
+      "appearance": [
+        "丑脸",
+        "伤疤嶙峋的上身"
+      ],
+      "personality": [
+        "凶戾",
+        "硬气",
+        "有人性的一面"
+      ],
+      "abilities": [
+        "使剑如使刀",
+        "天生能挪动器官要害"
+      ],
+      "equipment": [
+        "鬼煞剑（内含匕首）"
+      ],
+      "relationships": [
+        {
+          "target": "李伏威",
+          "type": "部下"
+        },
+        {
+          "target": "冒辟江",
+          "type": "对手"
+        },
+        {
+          "target": "冯花娘",
+          "type": "爱慕对象"
+        },
+        {
+          "target": "冯老大",
+          "type": "被拒绝"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与冒辟江激战，反杀冒辟江，但自身重伤"
+        }
+      ],
+      "evidence": [
+        "鲍无常是这般，冒辟江也是这般。",
+        "鲍无常面孔狰狞却平静，舌头将脸颊的肉沫子舔入嘴中",
+        "我天生就可以挪动器官要害。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "冒辟江",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "鲍无常是这般，冒辟江也是这般",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "鲍无常是这般，冒辟江也是这般",
-        "不过不同的时，冒辟江在闯出名堂后，表面做了官面上的营生，背地里则请了刀术名家指点刀术，将当年刀术中的弱点、缺陷，一一弥补，养刀多年，渐渐出了章法",
-        "但暂时占上风的却是冒辟江"
+      "aliases": [
+        "冒二"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "鲍无",
-      "aliases": [],
-      "identity": "",
+      "identity": "官面营生，背地请刀术名家指点",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "鲍无常是这般，冒辟江也是这般",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "鲍无常是这般，冒辟江也是这般",
-        "而鲍无常则依旧冲杀在第一线，刀术越发偏激凶戾，名声也越来越大",
-        "前脚掌扒地，手腕一抖，刀光片片，以削刺破对方劈斩，并在鲍无常小臂大臂上各留两道刀痕"
+      "summary": "与鲍无常激战，使用鱼腹藏刀等宫廷刀术，最终被鲍无常反杀。",
+      "appearance": [
+        "老脸"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "冒辟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "鲍无常是这般，冒辟江也是这般",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "鲍无常是这般，冒辟江也是这般",
-        "不过不同的时，冒辟江在闯出名堂后，表面做了官面上的营生，背地里则请了刀术名家指点刀术，将当年刀术中的弱点、缺陷，一一弥补，养刀多年，渐渐出了章法",
-        "但暂时占上风的却是冒辟江"
+      "personality": [
+        "志得意满"
       ],
-      "mention_count": 11
+      "abilities": [
+        "左手刀",
+        "鱼腹藏刀",
+        "长桥三式"
+      ],
+      "equipment": [
+        "刀"
+      ],
+      "relationships": [
+        {
+          "target": "鲍无常",
+          "type": "对手"
+        },
+        {
+          "target": "梁惠清",
+          "type": "刀术传承"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与鲍无常激战，被鲍无常反杀"
+        }
+      ],
+      "evidence": [
+        "冒辟江老脸被压的通红",
+        "冒辟江右手虎口崩裂，手掌发抖，他换了持刀手",
+        "鱼腹藏刀，宫廷失传的鱼刀术，见识过没？"
+      ],
+      "mention_count": 12
     },
     {
       "name": "赵勇",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "拳霸",
+        "老赵"
+      ],
+      "identity": "拳霸",
       "faction": "",
       "status": "登场",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "“嘶~”赵勇摸了摸脖子，突然感觉开了骨也不是很保险，因为骨头缝里都是肉啊",
+      "summary": "旁观鲍无常与冒辟江的战斗，性格直率，好汉惜好汉。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“嘶~”赵勇摸了摸脖子，突然感觉开了骨也不是很保险，因为骨头缝里都是肉啊",
-        "”    赵勇啧啧有声：“这么说就是不行咯，幸好有人支援，不然你和我之间少说要死一个",
-        "”    赵勇捏了捏钢制拳骨，转头，发现不知何时，乌三已经消失不见，哼了两声，“娴娘，等会儿这老小子一上船，你就用法术逼浪头打回去，想告状，门都没有"
+      "personality": [
+        "情真意切",
+        "好汉惜好汉"
       ],
-      "mention_count": 9
+      "abilities": [],
+      "equipment": [
+        "钢制拳骨"
+      ],
+      "relationships": [
+        {
+          "target": "鲍无常",
+          "type": "敬佩"
+        },
+        {
+          "target": "乌三",
+          "type": "同伴"
+        },
+        {
+          "target": "娴娘",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "旁观战斗，与乌三、娴娘乘船离开"
+        }
+      ],
+      "evidence": [
+        "赵勇摸了摸脖子，突然感觉开了骨也不是很保险",
+        "赵勇捏了捏钢制拳骨",
+        "赵勇大叫着冲了过来"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "老幺",
-      "aliases": [],
-      "identity": "",
+      "name": "乌三",
+      "aliases": [
+        "黑刀客乌三"
+      ],
+      "identity": "黑刀客，刺客",
       "faction": "",
       "status": "登场",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "“老幺，我一直想不明白，你使剑如使刀，为什么不干脆直接用刀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“老幺，我一直想不明白，你使剑如使刀，为什么不干脆直接用刀",
-        "“幸好我还练了左手刀，老幺，你这口刀已经磨的到处都是缺口了",
-        "‘老幺，这一家，我要你给我灭门"
+      "summary": "黑刀客，自称刺客，从不与人正面对敌。",
+      "appearance": [
+        "头戴斗笠",
+        "大拇指顶着裹红刃的小镡口"
       ],
-      "mention_count": 6
+      "personality": [
+        "沉默"
+      ],
+      "abilities": [
+        "刺客"
+      ],
+      "equipment": [
+        "裹红刃"
+      ],
+      "relationships": [
+        {
+          "target": "赵勇",
+          "type": "同伴"
+        },
+        {
+          "target": "鲍无常",
+          "type": "被调走"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵勇乘船离开"
+        }
+      ],
+      "evidence": [
+        "黑刀客乌三，头戴斗笠，大拇指顶着裹红刃的小镡口",
+        "我是刺客，从不与人正面对敌。",
+        "乌三沉默点头，拉着赵勇上了船"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "或者",
+      "name": "娴娘",
       "aliases": [],
-      "identity": "",
+      "identity": "船上人员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "“死前有什么遗言交代，交代我也好，或者说交给你那个夫人",
+      "summary": "船上人员，会法术，能逼浪头。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“死前有什么遗言交代，交代我也好，或者说交给你那个夫人",
-        "”    拳霸一脸的情真意切，或者说，好汉惜好汉",
-        "’    ‘老幺，这一次去杀一个女人……’    做为一个枭雄，一定是要善恶同存、奸豪两分，而鲍无常所代表的，便是李伏威的阴暗面，或者说，承下了他所以的恶事恶名"
+      "personality": [
+        "沉默"
       ],
-      "mention_count": 6
+      "abilities": [
+        "法术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵勇",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵勇、乌三乘船离开"
+        }
+      ],
+      "evidence": [
+        "娴娘沉默的点了点头。",
+        "船上传来娴娘怒吼声"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "姑娘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "后来，他碰上了一位花市卖花的盲姑娘，他第一次知道，没被人用警惕、恐惧、厌恶的眼神打量，是什么样的感觉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "后来，他碰上了一位花市卖花的盲姑娘，他第一次知道，没被人用警惕、恐惧、厌恶的眼神打量，是什么样的感觉",
-        "姑娘一直告诉他，不要浪费这个钱，花的花期是很短的，他没同意，姑娘摸了摸他的脸，给他织了一个花环",
-        "’    ‘好啊，看上谁家姑娘了，我给拉纤保媒去"
+      "name": "李伏威",
+      "aliases": [
+        "总管"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
+      "identity": "枭雄，鲍无常的上司",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "冒辟江一扑而起，同时反手拔刀，大步连跨，刀光像是长了一截的拳头，从三个方向或戳或捣，这一手叫‘长桥三式’，是刀术大家梁惠清的成名绝技，以短拳变化为刀理，手臂为大臂，刀身为小臂，使刀如使拳，寸拳如寸刀，刀式灵活多变，刀速使之倍增",
+      "summary": "鲍无常的上司，利用鲍无常处理阴暗面事务。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "枭雄"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "鲍无常",
+          "type": "部下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "派遣鲍无常执行各种任务"
+        }
+      ],
       "evidence": [
-        "冒辟江一扑而起，同时反手拔刀，大步连跨，刀光像是长了一截的拳头，从三个方向或戳或捣，这一手叫‘长桥三式’，是刀术大家梁惠清的成名绝技，以短拳变化为刀理，手臂为大臂，刀身为小臂，使刀如使拳，寸拳如寸刀，刀式灵活多变，刀速使之倍增",
-        "‘老幺，这一家，我要你给我灭门",
-        "’    ‘老幺，这一次去杀一个女人……’    做为一个枭雄，一定是要善恶同存、奸豪两分，而鲍无常所代表的，便是李伏威的阴暗面，或者说，承下了他所以的恶事恶名"
+        "做为一个枭雄，一定是要善恶同存、奸豪两分，而鲍无常所代表的，便是李伏威的阴暗面",
+        "老幺，这一家，我要你给我灭门。"
       ],
       "mention_count": 5
     },
     {
-      "name": "而鲍",
-      "aliases": [],
-      "identity": "",
+      "name": "冯花娘",
+      "aliases": [
+        "冯老大的妹妹"
+      ],
+      "identity": "卖花盲姑娘",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "而鲍无常则依旧冲杀在第一线，刀术越发偏激凶戾，名声也越来越大",
-      "appearance": [],
+      "summary": "鲍无常爱慕的盲姑娘，卖花为生，被冯老大接回老家。",
+      "appearance": [
+        "盲"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而鲍无常则依旧冲杀在第一线，刀术越发偏激凶戾，名声也越来越大",
-        "’    ‘老幺，这一次去杀一个女人……’    做为一个枭雄，一定是要善恶同存、奸豪两分，而鲍无常所代表的，便是李伏威的阴暗面，或者说，承下了他所以的恶事恶名"
+      "relationships": [
+        {
+          "target": "鲍无常",
+          "type": "爱慕对象"
+        },
+        {
+          "target": "冯老大",
+          "type": "兄妹"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "鲍无常买了十年花，后冯老大将其接回老家"
+        }
+      ],
+      "evidence": [
+        "他碰上了一位花市卖花的盲姑娘",
+        "姑娘一直告诉他，不要浪费这个钱",
+        "冯老大，冯花娘。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "刀光",
+      "name": "冯老大",
       "aliases": [],
-      "identity": "",
+      "identity": "冯花娘的哥哥",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "前脚掌扒地，手腕一抖，刀光片片，以削刺破对方劈斩，并在鲍无常小臂大臂上各留两道刀痕",
+      "summary": "冯花娘的哥哥，拒绝鲍无常娶其妹妹。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "前脚掌扒地，手腕一抖，刀光片片，以削刺破对方劈斩，并在鲍无常小臂大臂上各留两道刀痕",
-        "冒辟江一扑而起，同时反手拔刀，大步连跨，刀光像是长了一截的拳头，从三个方向或戳或捣，这一手叫‘长桥三式’，是刀术大家梁惠清的成名绝技，以短拳变化为刀理，手臂为大臂，刀身为小臂，使刀如使拳，寸拳如寸刀，刀式灵活多变，刀速使之倍增",
-        "冒辟江目光一凝，两股凶恶气势撞在一起，下一刻，两人同时爆射而起，再一瞬，刀光璀璨如雨，‘叮叮当当’的斩击声几乎连成一片"
+      "relationships": [
+        {
+          "target": "冯花娘",
+          "type": "兄妹"
+        },
+        {
+          "target": "鲍无常",
+          "type": "拒绝"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "拒绝鲍无常娶冯花娘，并将妹妹接回老家"
+        }
+      ],
+      "evidence": [
+        "冯老大，冯花娘。",
+        "冯大不同意，他把他妹妹接回老家了。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "同时",
+      "name": "戚笼",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第七十三章 可锻亦可断（完）",
-      "summary": "冒辟江老脸被压的通红，突然半跪，化架为背，刀尖插在刀边老岩上，同时弃刀，滚地左弓肘，恶狠狠的捣向对方腹部，把对方捣的连退数步，丑脸扭曲而可怖",
+      "summary": "主角，出城找帮手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冒辟江老脸被压的通红，突然半跪，化架为背，刀尖插在刀边老岩上，同时弃刀，滚地左弓肘，恶狠狠的捣向对方腹部，把对方捣的连退数步，丑脸扭曲而可怖",
-        "冒辟江一扑而起，同时反手拔刀，大步连跨，刀光像是长了一截的拳头，从三个方向或戳或捣，这一手叫‘长桥三式’，是刀术大家梁惠清的成名绝技，以短拳变化为刀理，手臂为大臂，刀身为小臂，使刀如使拳，寸拳如寸刀，刀式灵活多变，刀速使之倍增",
-        "冒辟江目光一凝，两股凶恶气势撞在一起，下一刻，两人同时爆射而起，再一瞬，刀光璀璨如雨，‘叮叮当当’的斩击声几乎连成一片"
+      "relationships": [
+        {
+          "target": "段大师",
+          "type": "合作"
+        },
+        {
+          "target": "白夫人",
+          "type": "提供消息"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出城找帮手"
+        }
+      ],
+      "evidence": [
+        "戚笼摆了摆手，'我出城一趟。'",
+        "找几个帮手。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "段大师",
+      "aliases": [],
+      "identity": "官营铁匠铺师傅",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七十三章 可锻亦可断（完）",
+      "summary": "官营铁匠铺的师傅，正在锻造某物。",
+      "appearance": [
+        "叼着旱烟"
+      ],
+      "personality": [],
+      "abilities": [
+        "锻造"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在铁匠铺锻造，与戚笼对话"
+        }
+      ],
+      "evidence": [
+        "烟火缭绕的官营铁匠铺，段大师叼着旱烟",
+        "做好需要多久？"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白夫人",
+      "aliases": [],
+      "identity": "提供消息者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十三章 可锻亦可断（完）",
+      "summary": "提供消息给戚笼，称白家动了几个武行大才。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "提供消息"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提供消息给戚笼"
+        }
+      ],
+      "evidence": [
+        "根据白夫人消息，这一次，白家动了几个武行大才！"
+      ],
+      "mention_count": 1
     }
   ]
 }

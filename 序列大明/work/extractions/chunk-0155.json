@@ -1,249 +1,222 @@
 {
   "chunk_id": "chunk-0155",
-  "title": "第153章强杀幺鸡",
   "characters": [
     {
       "name": "赵青侠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "墨家从序者",
+      "faction": "墨家",
       "status": "登场",
       "first_appearance": "第153章强杀幺鸡",
-      "summary": "赵青侠在崎岖黑暗的山林中发足狂奔，子弹呼啸着从他身边凶狠咬过去，掀飞树皮，打进树身，发出声声沉闷响动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵青侠在崎岖黑暗的山林中发足狂奔，子弹呼啸着从他身边凶狠咬过去，掀飞树皮，打进树身，发出声声沉闷响动",
-        "贰条横臂如举盾，正面挡下袭来的鞭腿，左脚后侧一步卸掉劲力，反手直接抓向赵青侠的脖颈",
-        "”　　夜风吹起赵青侠额前焦黄的头发，火光照耀下的面庞布满凛然杀意"
+      "summary": "墨家从序者，被龚青鸿等人追杀，在山区中与追兵激战。",
+      "appearance": [
+        "身穿墨甲",
+        "焦黄头发",
+        "外骨骼装甲"
       ],
-      "mention_count": 19
+      "personality": [
+        "冷静",
+        "果敢",
+        "飞扬跋扈"
+      ],
+      "abilities": [
+        "兵八械灵先锋",
+        "外骨骼装甲战斗"
+      ],
+      "equipment": [
+        "墨甲",
+        "外骨骼装甲"
+      ],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "敌对"
+        },
+        {
+          "target": "贰条",
+          "type": "敌对"
+        },
+        {
+          "target": "幺鸡",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被龚青鸿等人追杀，在山区中反击，击杀幺鸡。"
+        }
+      ],
+      "evidence": [
+        "赵青侠狂奔的身影突然一个趔趄，似乎被子弹击中",
+        "赵青侠口鼻猛然呛出猩红的鲜血",
+        "半跪在幺鸡尸体旁边的赵青侠缓缓回头，糊满血污的脸上露出一个飞扬跋扈的笑容。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "幺鸡",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "第153章强杀幺鸡　　砰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第153章强杀幺鸡　　砰",
-        "”　　龚青鸿举目凝视着这片幽幽如鬼域的山林，口中不慌不忙喊道：“幺鸡",
-        "”　　幺鸡瞪着一双被火光照亮的瞳孔，面露焦急"
+      "name": "龚青鸿",
+      "aliases": [
+        "老大"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "贰条",
-      "aliases": [],
-      "identity": "",
+      "identity": "追捕者首领",
       "faction": "",
       "status": "登场",
       "first_appearance": "第153章强杀幺鸡",
-      "summary": "贰条横臂如举盾，正面挡下袭来的鞭腿，左脚后侧一步卸掉劲力，反手直接抓向赵青侠的脖颈",
+      "summary": "追捕赵青侠的首领，冷静老练，指挥手下行动。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "贰条横臂如举盾，正面挡下袭来的鞭腿，左脚后侧一步卸掉劲力，反手直接抓向赵青侠的脖颈",
-        "“贰条",
-        "”　　这番变化来的突然，贰条下意识双手交叠扛在头顶"
+      "personality": [
+        "冷静",
+        "老辣"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "赵青",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "赵青侠在崎岖黑暗的山林中发足狂奔，子弹呼啸着从他身边凶狠咬过去，掀飞树皮，打进树身，发出声声沉闷响动",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵青侠在崎岖黑暗的山林中发足狂奔，子弹呼啸着从他身边凶狠咬过去，掀飞树皮，打进树身，发出声声沉闷响动",
-        "贰条横臂如举盾，正面挡下袭来的鞭腿，左脚后侧一步卸掉劲力，反手直接抓向赵青侠的脖颈",
-        "”　　夜风吹起赵青侠额前焦黄的头发，火光照耀下的面庞布满凛然杀意"
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "敌对"
+        },
+        {
+          "target": "贰条",
+          "type": "手下"
+        },
+        {
+          "target": "幺鸡",
+          "type": "手下"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "断裂",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "破烂的棚屋弹指间便被密集的弹雨撕成碎片，承重的梁柱断裂，屋顶轰然砸下",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指挥贰条和幺鸡追杀赵青侠。"
+        }
+      ],
       "evidence": [
-        "破烂的棚屋弹指间便被密集的弹雨撕成碎片，承重的梁柱断裂，屋顶轰然砸下",
-        "横生的枝条被狂奔而过身影撞断，断裂的截面还没来得及沁出汁液，就被紧跟而至的子弹打成齑粉",
-        "断断续续的呼喊被一记自上而下砸落的重拳打断，断裂的惨白颈骨从咽喉处刺了出来，血肉模糊的头颅半陷入松软的泥土"
+        "龚青鸿举目凝视着这片幽幽如鬼域的山林",
+        "龚青鸿双手环抱胸前站在原地，像是一名老辣的猎人"
       ],
       "mention_count": 4
     },
     {
-      "name": "一道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "掀起的烟尘中，一道身影冲了出来，几个纵跃便消失在屋后的密林之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "掀起的烟尘中，一道身影冲了出来，几个纵跃便消失在屋后的密林之中",
-        "“你”　　幺鸡脸色涨红，可话还没说完，就看见不远处的烈焰突然被劲风压得一低，一道猎豹般迅捷的身影从中扑杀而出"
+      "name": "贰条",
+      "aliases": [
+        "贰贰"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
+      "identity": "兵八械灵先锋",
       "faction": "",
       "status": "登场",
       "first_appearance": "第153章强杀幺鸡",
-      "summary": "这个地点位于渝西山区，穷山恶水、地势复杂、人迹罕至",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个地点位于渝西山区，穷山恶水、地势复杂、人迹罕至",
-        "”　　龚青鸿可是花了不菲的代价才找到这个墨家从序者的藏身处，他们要是只带回去一具尸体，肯定交不了差",
-        "赵青侠眉头一皱，没想到这个脸上带疤的丑陋汉子竟是一名兵八械灵先锋"
+      "summary": "龚青鸿的手下，一名兵八械灵先锋，负责追杀赵青侠。",
+      "appearance": [
+        "脸上带疤",
+        "丑陋汉子"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "便有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "连绵数百里的崇山峻岭十分适合隐藏踪迹，要是真的被仇家发现，只需要往山中一钻，便有很大的机会逃出生天",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "连绵数百里的崇山峻岭十分适合隐藏踪迹，要是真的被仇家发现，只需要往山中一钻，便有很大的机会逃出生天"
+      "personality": [
+        "木讷",
+        "沉默"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "口中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "”　　龚青鸿举目凝视着这片幽幽如鬼域的山林，口中不慌不忙喊道：“幺鸡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "abilities": [
+        "兵八械灵先锋",
+        "械心轰鸣"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "手下"
+        },
+        {
+          "target": "赵青侠",
+          "type": "敌对"
+        },
+        {
+          "target": "幺鸡",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵青侠激战，被其逃脱。"
+        }
+      ],
       "evidence": [
-        "”　　龚青鸿举目凝视着这片幽幽如鬼域的山林，口中不慌不忙喊道：“幺鸡",
+        "贰条横臂如举盾，正面挡下袭来的鞭腿",
         "贰条面无表情，口中蹦出两个生硬的字眼"
       ],
-      "mention_count": 3
+      "mention_count": 8
     },
     {
-      "name": "在等",
+      "name": "幺鸡",
       "aliases": [],
-      "identity": "",
+      "identity": "农九食者",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第153章强杀幺鸡",
-      "summary": "唯有龚青鸿双手环抱胸前站在原地，像是一名老辣的猎人，在等着放出去的鬣狗为自己将猎物带回",
+      "summary": "龚青鸿的手下，农九食者，被赵青侠击杀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "焦急",
+        "骂骂咧咧"
+      ],
+      "abilities": [
+        "农九食者"
+      ],
+      "equipment": [
+        "朵颜卫冲锋枪"
+      ],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "手下"
+        },
+        {
+          "target": "赵青侠",
+          "type": "敌对"
+        },
+        {
+          "target": "贰条",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被赵青侠一拳砸死。"
+        }
+      ],
+      "evidence": [
+        "幺鸡瞪着一双被火光照亮的瞳孔，面露焦急",
+        "清脆的骨裂声中，幺鸡身影向后抛飞出去",
+        "摔躺在草丛中的幺鸡此刻双眼突出，绵密的血泡不断从他的嘴角渗出"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "马王爷",
+      "aliases": [],
+      "identity": "藏身者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第153章强杀幺鸡",
+      "summary": "选择在渝西山区藏身的人物，被提及但未出场。",
+      "appearance": [],
+      "personality": [
+        "深谋远虑"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "唯有龚青鸿双手环抱胸前站在原地，像是一名老辣的猎人，在等着放出去的鬣狗为自己将猎物带回"
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "选择在渝西山区藏身。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "用钻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "他猛然一咬舌尖，用钻心的剧痛重新收拢恍惚的心神，身形向前冲出，竟比刚才还要快上几分",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他猛然一咬舌尖，用钻心的剧痛重新收拢恍惚的心神，身形向前冲出，竟比刚才还要快上几分"
+        "马王爷选择在这里藏身，自然有他的深谋远虑。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "身形",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第153章强杀幺鸡",
-      "summary": "他猛然一咬舌尖，用钻心的剧痛重新收拢恍惚的心神，身形向前冲出，竟比刚才还要快上几分",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他猛然一咬舌尖，用钻心的剧痛重新收拢恍惚的心神，身形向前冲出，竟比刚才还要快上几分",
-        "赵青侠放声怒吼，狂奔中的身形猛然跃起，那条有外骨骼装甲保护的右腿高高抡起，如一柄战斧狠狠砸下"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

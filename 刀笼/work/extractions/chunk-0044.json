@@ -1,253 +1,298 @@
 {
   "chunk_id": "chunk-0044",
-  "title": "第四十四章 断舍离 再铸剑（下）",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "戚龙头"
+      ],
+      "identity": "赤身党第一王，铸剑师",
+      "faction": "赤身党",
       "status": "登场",
       "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "戚笼一锤子砸在剑胎上，一声重响，火星四溅",
+      "summary": "赤身党第一王，正在铸剑，因有人触碰其逆鳞而心情极不愉快。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "凶戾",
+        "决然"
+      ],
+      "abilities": [
+        "铸剑",
+        "刀法"
+      ],
+      "equipment": [
+        "鱼肠剑残骸",
+        "新铸短剑"
+      ],
+      "relationships": [
+        {
+          "target": "癞小三",
+          "type": "师徒"
+        },
+        {
+          "target": "赵牙子",
+          "type": "旧识"
+        },
+        {
+          "target": "白三娘",
+          "type": "被利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在铸剑炉中毁剑重铸，铸成一口暗杀短剑，并让癞小三交给赵牙子。"
+        }
+      ],
       "evidence": [
-        "戚笼一锤子砸在剑胎上，一声重响，火星四溅",
-        "戚笼又是一锤砸在剑胎上，烧的火红的剑身，已经被砸的只剩薄薄一层，透过火焰，能看到剑中纹理",
-        "铁锤和剑刃的敲击越发急促，‘咔嚓’一声，火红的剑身被一敲两断，戚笼仍未住手"
+        "戚笼一锤子砸在剑胎上，一声重响，火星四溅！",
+        "他心情极不愉快，心头像滚油燃烧！",
+        "戚笼扫了一眼这口废剑，毫不犹豫的往炉子上一磕"
       ],
       "mention_count": 20
     },
     {
-      "name": "赵牙子",
-      "aliases": [],
-      "identity": "",
+      "name": "癞小三",
+      "aliases": [
+        "小三"
+      ],
+      "identity": "戚笼的徒弟，小乞丐",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "”    ……    赵牙子不敢置信的看着手中短剑，虽然极不愿意相信，但此剑身上的些微妖气，以及那一闪而过的白芒，毫无疑问代表着一口暗杀剑的问世，哪怕这口剑只是粗制品",
+      "summary": "戚笼的徒弟，胆小但忠诚，替师傅送剑给赵牙子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "胆小",
+        "机灵"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    ……    赵牙子不敢置信的看着手中短剑，虽然极不愿意相信，但此剑身上的些微妖气，以及那一闪而过的白芒，毫无疑问代表着一口暗杀剑的问世，哪怕这口剑只是粗制品",
-        "赵牙子听下人说有一小乞丐找自己，还颇有些新奇，结果发现此人是戚笼的徒弟，立刻便多了几分厌恶",
-        "”    赵牙子试探几句没有收获后，便就不耐烦的将对方打发走，收乞丐做徒弟，也亏他戚笼想的出来"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹戚笼铸剑，后奉命送剑给赵牙子。"
+        }
+      ],
+      "evidence": [
+        "癞小三见状缩了缩脖子，轻手轻脚的溜了出去。",
+        "癞小三揉着筋骨酸麻的手脚，龇牙咧嘴的想。",
+        "癞小三挺胸抬头，然后不怀好意的打量着眼前富丽堂皇的环境"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "癞小三",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "赵牙子",
+      "aliases": [
+        "赵总管"
+      ],
+      "identity": "总管",
+      "faction": "白三娘手下",
       "status": "登场",
       "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "癞小三见状缩了缩脖子，轻手轻脚的溜了出去",
+      "summary": "白三娘手下的总管，收到戚笼送来的短剑，内心挣扎。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴晴不定"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "旧识"
+        },
+        {
+          "target": "白三娘",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到癞小三送来的短剑，后将其交给白三娘。"
+        }
+      ],
       "evidence": [
-        "癞小三见状缩了缩脖子，轻手轻脚的溜了出去",
-        "但癞小三明白，三年前凶焰滔天的赤身第一王根本不可能是好人，他好说话，只是因为你没触碰到他的禁忌，若是动了，他可以比任何人都要凶戾",
-        "’    癞小三揉着筋骨酸麻的手脚，龇牙咧嘴的想"
+        "赵牙子不敢置信的看着手中短剑",
+        "赵牙子试探几句没有收获后，便就不耐烦的将对方打发走",
+        "赵牙子脸色阴晴不定起来"
       ],
       "mention_count": 6
     },
     {
-      "name": "癞小",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "白三娘",
+      "aliases": [
+        "夫人"
+      ],
+      "identity": "夫人",
+      "faction": "黑山城势力",
       "status": "登场",
       "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "癞小三见状缩了缩脖子，轻手轻脚的溜了出去",
+      "summary": "黑山城的夫人，精明强干，利用戚笼的剑拉拢边军。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "精明",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "赵牙子",
+          "type": "主仆"
+        },
+        {
+          "target": "戚笼",
+          "type": "利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得到短剑后，决定以此拉拢边军，并召见段七娘。"
+        }
+      ],
       "evidence": [
-        "癞小三见状缩了缩脖子，轻手轻脚的溜了出去",
-        "但癞小三明白，三年前凶焰滔天的赤身第一王根本不可能是好人，他好说话，只是因为你没触碰到他的禁忌，若是动了，他可以比任何人都要凶戾",
-        "’    癞小三揉着筋骨酸麻的手脚，龇牙咧嘴的想"
+        "白三娘饶有兴趣的打量着手中短剑",
+        "白三娘这才微微一笑：“这么说，我就当你应下此事了，戚龙头。”",
+        "白三娘摇了摇铃铛，圆脸小侍女玉儿走了过上来"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "一道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "一道身材瘦长的汉子，眼神骨碌骨碌的到处瞧，一个野性十足的恶女人，龇牙咧嘴的看着他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一道身材瘦长的汉子，眼神骨碌骨碌的到处瞧，一个野性十足的恶女人，龇牙咧嘴的看着他",
-        "一道奇形怪鱼一闪而过，一道光亮同样划过",
-        "火炉的火光猛然大涨，像是要炸出炉子似的，凌九牙买的是上等的炼刀炉，此刻随着汹涌的火光喷出，‘嘎吱’‘嘎吱’声中，一道道裂纹开出"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "赵牙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "”    ……    赵牙子不敢置信的看着手中短剑，虽然极不愿意相信，但此剑身上的些微妖气，以及那一闪而过的白芒，毫无疑问代表着一口暗杀剑的问世，哪怕这口剑只是粗制品",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    ……    赵牙子不敢置信的看着手中短剑，虽然极不愿意相信，但此剑身上的些微妖气，以及那一闪而过的白芒，毫无疑问代表着一口暗杀剑的问世，哪怕这口剑只是粗制品",
-        "赵牙子听下人说有一小乞丐找自己，还颇有些新奇，结果发现此人是戚笼的徒弟，立刻便多了几分厌恶",
-        "”    赵牙子试探几句没有收获后，便就不耐烦的将对方打发走，收乞丐做徒弟，也亏他戚笼想的出来"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "但癞小三明白，三年前凶焰滔天的赤身第一王根本不可能是好人，他好说话，只是因为你没触碰到他的禁忌，若是动了，他可以比任何人都要凶戾",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但癞小三明白，三年前凶焰滔天的赤身第一王根本不可能是好人，他好说话，只是因为你没触碰到他的禁忌，若是动了，他可以比任何人都要凶戾",
-        "戚笼愣了一下，却没有半点停滞，手掌翻开，最后一块‘鱼肠剑残骸’直接丢入火炉中，不过片刻，火烫的铁汁便顺着管道浇灌在了断剑身上，锤声再响，只是这一次，多了一分决然，少了一份眷恋",
-        "”    ……    赵牙子不敢置信的看着手中短剑，虽然极不愿意相信，但此剑身上的些微妖气，以及那一闪而过的白芒，毫无疑问代表着一口暗杀剑的问世，哪怕这口剑只是粗制品"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "但癞小三明白，三年前凶焰滔天的赤身第一王根本不可能是好人，他好说话，只是因为你没触碰到他的禁忌，若是动了，他可以比任何人都要凶戾",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但癞小三明白，三年前凶焰滔天的赤身第一王根本不可能是好人，他好说话，只是因为你没触碰到他的禁忌，若是动了，他可以比任何人都要凶戾",
-        "他的刀口和现实中荆棘霜刃的拼杀，这是世道向他展示的东西，他也习惯于此",
-        "虽然这宝贵之物挡了他的路，他也会毫不犹豫把它劈碎，但这是他才能破坏的东西，他不动手，别人不能抢"
-      ],
-      "mention_count": 4
     },
     {
       "name": "萧道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "道人",
+      "faction": "兴元府",
       "status": "登场",
       "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "”    ……    不知何时起，黑山城主府的外围，一座高约九丈的法台立了起来，萧道人披头散发，前后竖着九口大旗，在他眼中，一杆又一杆烈火旗门迎风招展，悬在半空，上空金云滚荡，四周黑雾汹涌，杀气如潮；一具具黑色甲胄堵在四面巷口，手持钢刀利刃",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    ……    不知何时起，黑山城主府的外围，一座高约九丈的法台立了起来，萧道人披头散发，前后竖着九口大旗，在他眼中，一杆又一杆烈火旗门迎风招展，悬在半空，上空金云滚荡，四周黑雾汹涌，杀气如潮；一具具黑色甲胄堵在四面巷口，手持钢刀利刃",
-        "同时，萧道人身前法台上，还有一葫芦、一雷令、一人头杖、一鱼缸、一活生生的草人",
-        "萧道人起身，风水之力在其周身凝成风光电闪、九匝云环，看着不断被冲击的城主府，其一字一句的道：“虞贼道，我以兴元府十三公城的杀伐之气布下十面埋伏，这一次，我看你怎么破我的阵"
+      "summary": "布下十面埋伏阵法的道人，针对虞贼道。",
+      "appearance": [
+        "披头散发"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "轻手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "癞小三见状缩了缩脖子，轻手轻脚的溜了出去",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "癞小三见状缩了缩脖子，轻手轻脚的溜了出去"
+      "abilities": [
+        "布阵",
+        "风水术"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "如今",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "如今看来，有人触碰了他老人家的逆鳞",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "法台",
+        "九口大旗",
+        "葫芦",
+        "雷令",
+        "人头杖",
+        "鱼缸",
+        "草人"
+      ],
+      "relationships": [
+        {
+          "target": "虞贼道",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑山城主府外布下十面埋伏阵法。"
+        }
+      ],
       "evidence": [
-        "如今看来，有人触碰了他老人家的逆鳞"
+        "萧道人披头散发，前后竖着九口大旗",
+        "萧道人起身，风水之力在其周身凝成风光电闪、九匝云环",
+        "萧道人一字一句的道：“虞贼道，我以兴元府十三公城的杀伐之气布下十面埋伏”"
       ],
       "mention_count": 3
     },
     {
-      "name": "脑袋",
+      "name": "段七娘",
       "aliases": [],
-      "identity": "",
+      "identity": "段大师的女儿",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四十四章 断舍离 再铸剑（下）",
-      "summary": "一个额宽肩厚的紫脸大汉哈哈大笑的迎了过来，手刚刚张开，脑袋就像是被厚刀劈了一记，脑浆子溢到眼珠子里",
+      "summary": "被白三娘召见，具体身份不明。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "白三娘",
+          "type": "被召见"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "白三娘派人去喊她。"
+        }
+      ],
+      "evidence": [
+        "你，去把段大师那个女儿，叫什么，对，段七娘给我喊来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉儿",
+      "aliases": [],
+      "identity": "白三娘的侍女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
+      "summary": "白三娘的圆脸小侍女，听从吩咐。",
+      "appearance": [
+        "圆脸"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白三娘",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被白三娘吩咐去喊段七娘。"
+        }
+      ],
+      "evidence": [
+        "白三娘摇了摇铃铛，圆脸小侍女玉儿走了过上来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "虞贼道",
+      "aliases": [],
+      "identity": "贼道",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第四十四章 断舍离 再铸剑（下）",
+      "summary": "萧道人的敌对目标。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "萧道人",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "一个额宽肩厚的紫脸大汉哈哈大笑的迎了过来，手刚刚张开，脑袋就像是被厚刀劈了一记，脑浆子溢到眼珠子里",
-        "又是一位留着两撇小胡子，气质通透的书生摇着扇子走了过来，手一翻，一朵莲花灯便被他变了出来，可惜他张口想说些什么，刀光一闪，脑袋落下了，血腔洒出一朵朵血花"
+        "萧道人一字一句的道：“虞贼道，我以兴元府十三公城的杀伐之气布下十面埋伏”"
       ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

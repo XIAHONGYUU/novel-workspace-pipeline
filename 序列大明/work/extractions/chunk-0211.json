@@ -1,252 +1,125 @@
 {
   "chunk_id": "chunk-0211",
-  "title": "第209章赌会内乱",
   "characters": [
     {
       "name": "许康",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "戚康",
+        "许哥",
+        "许大哥"
+      ],
+      "identity": "原‘筒字’成员，牌面人物，二筒",
+      "faction": "雀系筒字",
+      "status": "被绑架",
       "first_appearance": "第209章赌会内乱",
-      "summary": "他缓缓弯腰，将脸凑到许康的面前：“兄弟",
+      "summary": "原雀系筒字成员，因戚槐出逃事件被牵连，被周游绑架逼问房契信息。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "狡猾",
+        "能屈能伸"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他缓缓弯腰，将脸凑到许康的面前：“兄弟",
-        "许康的瞳孔蓦然紧缩，脸上露出惊惧的神情",
-        "”　　冰冷刺骨的声音从许康头顶飘落，激的他浑身汗毛直立"
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "绑架者"
+        },
+        {
+          "target": "戚槐",
+          "type": "原上级"
+        }
       ],
-      "mention_count": 35
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被周游绑架，逼问戚槐房产信息。"
+        }
+      ],
+      "evidence": [
+        "我是该叫你许康，还是该叫你戚康？嗯？",
+        "许康低头看了眼散落在周围的三具尸体，顿时一阵颤栗。",
+        "许康在心头破口大骂，面上却还是赔着笑容。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "周游",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "许康不等周游把话说完，连忙接过话茬，“兄弟你尽管问，我知无不言",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "许康不等周游把话说完，连忙接过话茬，“兄弟你尽管问，我知无不言",
-        "周游微微一笑，将那盏从重型卡车上拆下来的射灯转开，一边揉着眼角，一边走到徐康身前",
-        "周游笑笑：“不过我有一些小事还需要问问许哥，如果许哥你能好好配合，兄弟我保证你平安无事"
+      "aliases": [
+        "周兄弟"
       ],
-      "mention_count": 19
+      "identity": "牌系成员",
+      "faction": "牌系",
+      "status": "活跃",
+      "first_appearance": "第209章赌会内乱",
+      "summary": "牌系成员，绑架许康以获取戚槐的房产信息。",
+      "appearance": [
+        "年轻面容",
+        "冷漠眼眸"
+      ],
+      "personality": [
+        "冷静",
+        "狠辣",
+        "善于心理压迫"
+      ],
+      "abilities": [],
+      "equipment": [
+        "射灯"
+      ],
+      "relationships": [
+        {
+          "target": "许康",
+          "type": "绑架对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "绑架许康，逼问房契信息。"
+        }
+      ],
+      "evidence": [
+        "是你？周游？！",
+        "周游微微一笑，将那盏从重型卡车上拆下来的射灯转开",
+        "周游站直身体，眼眶中瞳仁下曳，睥睨许康。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "兄弟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "他缓缓弯腰，将脸凑到许康的面前：“兄弟",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他缓缓弯腰，将脸凑到许康的面前：“兄弟",
-        "你在我场子里出千的时候，有想过大家是兄弟吗",
-        "许康不等周游把话说完，连忙接过话茬，“兄弟你尽管问，我知无不言"
+      "name": "戚槐",
+      "aliases": [
+        "正将"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "已经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "雀系筒字正将",
+      "faction": "雀系筒字",
+      "status": "出逃，被锦衣卫追捕",
       "first_appearance": "第209章赌会内乱",
-      "summary": "第209章赌会内乱　　月挂半天，已经是子夜时分",
+      "summary": "雀系筒字正将，出逃后全家被锦衣卫抓入诏狱，在中渝区洪崖山铜楼有房产。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "从黄梁幻境下载‘黄梁鬼’植入偃人"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "许康",
+          "type": "原下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出逃，房产信息被周游觊觎。"
+        }
+      ],
       "evidence": [
-        "第209章赌会内乱　　月挂半天，已经是子夜时分",
-        "此刻在南渝区的街道上，已经看不见多少行人",
-        "”　　“兄弟你就别取笑我了，如今‘筒字’已经成了过街老鼠，人人喊打"
+        "正将戚槐在中渝区洪崖山的铜楼购置了两处房产",
+        "戚槐的脑子也确实好用，居然能想到从黄梁幻境中下载出‘黄梁鬼’",
+        "正将戚槐出逃，全家被锦衣卫抓入诏狱"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "口中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "幽绿的猫眼中跳动着焦躁的光芒，深嗅着空气中若有若无的血腥味道，口中发出饥渴的低声嘶吼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "幽绿的猫眼中跳动着焦躁的光芒，深嗅着空气中若有若无的血腥味道，口中发出饥渴的低声嘶吼",
-        "看着那双近在咫尺的冷漠眼眸，许康下意识将身体往椅子深处挪动，口中讪笑：“呵呵呵呵，周兄弟说笑了，这事情不都过去了吗",
-        "可你要是.”　　许康将一口刺目腥臭的空气吸入肺中，眯着刺痛的眼眸，口中语调冷静喊道"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "那是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "我去你妈的，那是‘风将’金生火自己的场子，跟你一个小小的杂牌有他妈半毛钱的关系",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我去你妈的，那是‘风将’金生火自己的场子，跟你一个小小的杂牌有他妈半毛钱的关系",
-        "“那是上面那些大人物们之间的博弈，跟我这种底层成员可没什么关系啊"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "咱们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "”　　许康抬起自己的双臂，“况且我也被你砍了一双原生手掌，咱们也算恩怨两清了不是",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　许康抬起自己的双臂，“况且我也被你砍了一双原生手掌，咱们也算恩怨两清了不是",
-        "”　　“几位兄弟，现在人你们已经杀了，下马威我许康也受了，咱们是不是能出声聊聊了",
-        "咱们可都是赌会中人，见血可是坏了规矩啊"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "牌系",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "“牌系在罗汉寺那里的场子从开业到现在，不过才一个月的时间，平均每天就要被你们雀系的人骚扰两三次",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“牌系在罗汉寺那里的场子从开业到现在，不过才一个月的时间，平均每天就要被你们雀系的人骚扰两三次",
-        "许大哥你也知道，小弟我也是跟着牌系混饭吃的，不为自己的阵营出一份力，着这说不过去啊",
-        "”　　周游面露恍然，却随即摇头一笑，“不过，牌系和雀系之间的恩怨可还在啊"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "正将",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "正将戚槐出逃，全家被锦衣卫抓入诏狱，整个‘雀系筒字’分崩离析",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正将戚槐出逃，全家被锦衣卫抓入诏狱，整个‘雀系筒字’分崩离析",
-        "“正将不知所踪.川渝赌会内乱”　　许康的脸皮抽动了一下，眼睛死死盯着周游的双腿",
-        "“正将戚槐在中渝区洪崖山的铜楼购置了两处房产，兄弟我想知道，房契的编号和转移秘钥是多少"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "卷起",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "寂寥的夜风穿街而过，卷起地上不知何人丢弃的一张重庆府衙门发出的邸报，在两侧招牌散发出的旖旎炫光中肆意舞动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寂寥的夜风穿街而过，卷起地上不知何人丢弃的一张重庆府衙门发出的邸报，在两侧招牌散发出的旖旎炫光中肆意舞动"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "”　　无论他如何奋力聚焦，却还是只能看出身前伫立着几道黑影，根本看不清对方的面容",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　无论他如何奋力聚焦，却还是只能看出身前伫立着几道黑影，根本看不清对方的面容"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "兄弟你",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第209章赌会内乱",
-      "summary": "许康不等周游把话说完，连忙接过话茬，“兄弟你尽管问，我知无不言",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "许康不等周游把话说完，连忙接过话茬，“兄弟你尽管问，我知无不言",
-        "”　　“兄弟你就别取笑我了，如今‘筒字’已经成了过街老鼠，人人喊打"
-      ],
-      "mention_count": 3
     }
   ]
 }

@@ -1,258 +1,502 @@
 {
   "chunk_id": "chunk-0009",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "当然，辛亏他不知道，寇立站桩的第一天，就已经能控住劲了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当然，辛亏他不知道，寇立站桩的第一天，就已经能控住劲了",
-        "而在这几人说话间，寇立又劈倒了五位胥家出身的武馆学徒，不是断手，便是砸脚，就像他们自己说的，练拳的，谁没被人打过，不巧，他也很赞同这句话",
-        "至于其他武馆学徒，只要不动手，寇立也不会为难他们，毕竟二者是很好区分的，身上有纹身的，基本上都是胥家出生"
+      "aliases": [
+        "八师兄",
+        "寇师兄"
       ],
-      "mention_count": 56
+      "identity": "烧身武馆八师兄",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "烧身武馆八师兄，拳术天才，两个月内从无到有练成桩功，性格冷静狠辣。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "狠辣",
+        "霸道"
+      ],
+      "abilities": [
+        "猛虎拳",
+        "桩劲",
+        "打虎式"
+      ],
+      "equipment": [
+        "白楠武棍"
+      ],
+      "relationships": [
+        {
+          "target": "郑宝儿",
+          "type": "同门"
+        },
+        {
+          "target": "林显师",
+          "type": "师徒"
+        },
+        {
+          "target": "路遥",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "扛起武馆牌匾，与五象馆路遥比武，施展打虎式击败对方。"
+        }
+      ],
+      "evidence": [
+        "寇立几如下山猛虎，左冲右突，无人敢挡",
+        "烧身馆的牌匾，既然是我摘下来的，在我还没有挂上去之前，谁也不能落它的面子",
+        "寇立眼中戾气一闪，坍腰屈膝，脊椎骨一起一落"
+      ],
+      "mention_count": 45
     },
     {
-      "name": "便是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "而在这几人说话间，寇立又劈倒了五位胥家出身的武馆学徒，不是断手，便是砸脚，就像他们自己说的，练拳的，谁没被人打过，不巧，他也很赞同这句话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在这几人说话间，寇立又劈倒了五位胥家出身的武馆学徒，不是断手，便是砸脚，就像他们自己说的，练拳的，谁没被人打过，不巧，他也很赞同这句话",
-        "而寇立的回应，便是虎行回身，身影一窜即没，转身一个屈膝蹬踢，蹬翻了那个说话者",
-        "但是拳术的境界，差一层，便是差一大截，再加上寇立头顶牌匾高三尺，以势压人，以力服人，武馆学徒们叫嚣的再狠，气势也难免减上三分，谁也不敢玩命出手"
+      "name": "路遥",
+      "aliases": [
+        "路师妹"
       ],
-      "mention_count": 16
+      "identity": "五象馆馆主爱女",
+      "faction": "五象馆",
+      "status": "登场",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "五象馆馆主之女，精通虎豹合击，性格凶悍好斗。",
+      "appearance": [],
+      "personality": [
+        "凶悍",
+        "好斗",
+        "狡猾"
+      ],
+      "abilities": [
+        "猛虎拳",
+        "豹拳",
+        "虎豹合击",
+        "猫虎桩"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白鹤",
+          "type": "师兄"
+        },
+        {
+          "target": "寇立",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立比武，施展虎豹合击，被寇立以打虎式击败。"
+        }
+      ],
+      "evidence": [
+        "路遥趁着对方躲避的功夫，两小臂内旋，塌腰挺颈，身形涨缩之间，双掌化虎爪",
+        "路遥虎豹合击必杀不中",
+        "小腹、肋骨、胸骨、锁骨同时一痛，浑身上下的所有虎拳气劲，都在瞬间被中断"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "白鹤",
+      "aliases": [
+        "白师兄",
+        "蛇鹤双行白鹤"
+      ],
+      "identity": "五象馆大师兄",
+      "faction": "五象馆",
+      "status": "登场",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "五象馆大师兄，绰号蛇鹤双行，拳术高强，性格温和。",
+      "appearance": [],
+      "personality": [
+        "温和",
+        "谨慎"
+      ],
+      "abilities": [
+        "蛇鹤双行"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "路遥",
+          "type": "师兄妹"
+        },
+        {
+          "target": "寇立",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带路遥和另一同伴拜访烧身馆，目睹路遥与寇立比武。"
+        }
+      ],
+      "evidence": [
+        "白鹤见状，轻轻一笑",
+        "白鹤双眼大睁，周身气劲鼓荡，居然响起成片的鹤唳声"
+      ],
+      "mention_count": 12
     },
     {
       "name": "姜水源",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “你怎么又叫了，”姜水源不满道，他看不惯对方一惊一乍，好像在场所有人，就他能看懂似的",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆学徒，善于见风使舵，消息灵通。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "见风使舵",
+        "机灵"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “你怎么又叫了，”姜水源不满道，他看不惯对方一惊一乍，好像在场所有人，就他能看懂似的",
-        "”姜水源不服气的道",
-        "”姜水源也是吓到了，这么重的重量，这寇师兄到底是怎么撑起来的，除非是——    “桩劲，”谭鱼和马源异口同声的道"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向寇立透露胥民与海盗有牵扯的消息。"
+        }
+      ],
+      "evidence": [
+        "姜水源讨好的道",
+        "姜水源见状，赶紧把自己知道的消息交代"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "浑身",
+      "name": "谭鱼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "但这位八师兄，不出手则已，一出手就废了十几个人，那就真让人心惊胆颤、浑身发凉了",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆学徒，站硬桩层次。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但这位八师兄，不出手则已，一出手就废了十几个人，那就真让人心惊胆颤、浑身发凉了",
-        "在这胜负、乃至生死的重要关口，寇立忽然长吸一口气，巨鲸吞水，浩荡不息，浑身骨节‘咔咔’作响，而在同一时间，小臂一抖一转，居然转了将近一圈，那五根利爪深深插进去的地方，是手背，而非是手腕",
-        "寇立的眉头同样紧皱，眼下的局势，明明是自己占上风，鼓荡丹田之气，贯穿整体之劲，动势不懈不怠，浑身骨节滚荡，搓声如虎吼"
+      "personality": [
+        "心胸不算狭隘"
       ],
-      "mention_count": 13
+      "abilities": [
+        "站桩"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与马源一同说出桩劲，感叹寇立的进步。"
+        }
+      ],
+      "evidence": [
+        "谭鱼和马源异口同声的道",
+        "刚刚上升到站硬桩层次的谭鱼面色复杂道"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "白鹤",
+      "name": "马源",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “瞎说什么，”白师兄没好气的回了一句，拱手道：“五象馆白鹤，来寻旧友罗严宗，不知罗兄可在馆中",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆学徒。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “瞎说什么，”白师兄没好气的回了一句，拱手道：“五象馆白鹤，来寻旧友罗严宗，不知罗兄可在馆中",
-        "”    “白鹤，不是那五象馆的大师兄嘛",
-        "”    “蛇鹤双行白鹤，我们粤地武行中，最出色的打家之一"
+      "relationships": [
+        {
+          "target": "谭鱼",
+          "type": "同门"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与谭鱼一同说出桩劲。"
+        }
+      ],
+      "evidence": [
+        "谭鱼和马源异口同声的道"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "对方",
+      "name": "虾头",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “你怎么又叫了，”姜水源不满道，他看不惯对方一惊一乍，好像在场所有人，就他能看懂似的",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆学徒，向寇立示好。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "机灵"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “你怎么又叫了，”姜水源不满道，他看不惯对方一惊一乍，好像在场所有人，就他能看懂似的",
-        "“你懂什么，寇师兄之前并不是压不住对方，而是避其锋芒，他看出这二位刀术锐利有余，根基不足，必然有由盛而衰的那一刹那，只要把握住那一刹那，便能以最小的代价取得胜利",
-        "距离对方第一次站桩的时间，好似才过了两个月吧，当初站桩站拉伤时的情景，依稀发生在昨天"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问寇立接下来怎么办，表明自己是八师兄的人。"
+        }
+      ],
+      "evidence": [
+        "虾头眼神闪烁的道，但畏惧的表情中，还透出几分喜色"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "路遥",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李教习",
+      "aliases": [
+        "李教习"
+      ],
+      "identity": "烧身武馆教习",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    寇立对面那个自称路遥的女人，五趾抓地，膝微屈，身体稍微下沉，十指一抓一放，带动着两臂、腿骨、肩胛、乃至脊柱都是一张一弛，与呼吸相应",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆教习，被路遥打伤后丢回武馆。",
+      "appearance": [
+        "鼻青脸肿"
+      ],
+      "personality": [
+        "脾气恶劣"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    寇立对面那个自称路遥的女人，五趾抓地，膝微屈，身体稍微下沉，十指一抓一放，带动着两臂、腿骨、肩胛、乃至脊柱都是一张一弛，与呼吸相应",
-        "路遥趁着对方躲避的功夫，两小臂内旋，塌腰挺颈，身形涨缩之间，双掌化虎爪，上步爪面，下步剜心，雌虎出洞，更显凶辣",
-        "这一雄一雌两条虎，寇立是脚动身圆，走弧形，恰如虎潜草丛，而路遥更加诡异，脚不动身转身，拔筋转骨转腰转髋，身体柔韧性简直强到不可思议"
+      "relationships": [
+        {
+          "target": "路遥",
+          "type": "对手"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被路遥打伤后丢回武馆。"
+        }
+      ],
+      "evidence": [
+        "从门外丢进来一只鼻青脸肿的‘死猪’，而这只‘死猪’，正是胥家人久等不至的李教习"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "这一打法已经不属于正宗猛虎拳的路数，而是五象馆重新推演出的招式，而且还有一个文雅好听的名字，叫做腕剪花",
+      "name": "林显师",
+      "aliases": [
+        "林师傅",
+        "百手师"
+      ],
+      "identity": "烧身武馆馆主",
+      "faction": "烧身武馆",
+      "status": "提及",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆馆主，绰号百手师，精修多种拳术。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一打法已经不属于正宗猛虎拳的路数，而是五象馆重新推演出的招式，而且还有一个文雅好听的名字，叫做腕剪花",
-        "没想到对方不仅躲过了自己的腕剪花，而且还将猛虎拳练到这么深厚的境界，就连自己，若非是刻意准备，也打不出这独有的拳劲来",
-        "‘只是那转腕的手法，怎么跟腕剪花有些相似，却也不像是猛虎拳的变种，而且怎么给我一种将尽未尽之感……’    “明明说好是猛虎拳中的较量，为什么你师妹在比武中，施展不同的拳术"
+      "abilities": [
+        "百手"
       ],
-      "mention_count": 12
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师徒"
+        },
+        {
+          "target": "鲁志雄",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "五日前回馆，召集徒弟谈话后陆续离馆。"
+        }
+      ],
+      "evidence": [
+        "林显师在五天前回馆",
+        "你们林师傅人送绰号百手师"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "这一抽，正好抽中了刀面，连刀带人，一起抽趴在地，身上的骨头断了几根，就谁也不知道了",
+      "name": "鲁志雄",
+      "aliases": [
+        "雄哥"
+      ],
+      "identity": "胥家出身的武馆学徒",
+      "faction": "胥家",
+      "status": "提及",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "胥家出身的武馆学徒，背景可能与海盗有关。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一抽，正好抽中了刀面，连刀带人，一起抽趴在地，身上的骨头断了几根，就谁也不知道了",
-        "这一打，就成了大人打小孩，哭爹喊娘一大片",
-        "当然，这一切的前提，就是郑宝儿安然无恙的醒来，真要有个万一，那寇立的手段就不会这么温柔了"
+      "relationships": [
+        {
+          "target": "林显师",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及，其背景可能与海盗有关。"
+        }
+      ],
+      "evidence": [
+        "等雄哥回来，你会知道得罪我们的下场"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "居然",
+      "name": "郑宝儿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "谁能想到，观潮这里居然这么偏僻难走，三人绕了半天，居然迷路了，好不容易碰上个人，满心欢喜的前去问路，偏生对方出言不逊，还率先动手，这就真怪不得他们了",
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "提及",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆学徒，被胥家学徒打伤。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "谁能想到，观潮这里居然这么偏僻难走，三人绕了半天，居然迷路了，好不容易碰上个人，满心欢喜的前去问路，偏生对方出言不逊，还率先动手，这就真怪不得他们了",
-        "“你们够种，够胆，居然敢砸我们烧身馆的招牌，好大的胆子——”李教习说着说着，忽然愣住了，眼前那人手上拿着的，不正是烧身馆的牌匾么",
-        "‘这女人在跟我打的时候，居然还隐藏着实力，’李教习眼孔睁大，不可置信"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被胥家学徒打伤，昏迷未醒。"
+        }
+      ],
+      "evidence": [
+        "想要给郑宝儿报仇简单"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "猛虎拳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "而其中的虎形，其实就是猛虎拳，或者说，完整版的猛虎拳",
+      "name": "岳武霍",
+      "aliases": [
+        "总教头"
+      ],
+      "identity": "烧身武馆总教头",
+      "faction": "烧身武馆",
+      "status": "提及",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆总教头，脾气暴躁但教学严格。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "暴躁",
+        "刀子嘴豆腐心"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "而其中的虎形，其实就是猛虎拳，或者说，完整版的猛虎拳",
-        "一身脆响，汗珠子直接炸成雾水，猛虎拳的拳路，好似融入了寇立的本能，所以哪怕对方招式险恶，他也在万中无一的刹那，架住对方手腕",
-        "这一打法已经不属于正宗猛虎拳的路数，而是五象馆重新推演出的招式，而且还有一个文雅好听的名字，叫做腕剪花"
+        "总教头虽然脾气暴躁、动辄打骂"
       ],
-      "mention_count": 11
+      "mention_count": 1
     },
     {
-      "name": "姜水",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “你怎么又叫了，”姜水源不满道，他看不惯对方一惊一乍，好像在场所有人，就他能看懂似的",
+      "name": "罗严宗",
+      "aliases": [
+        "罗兄"
+      ],
+      "identity": "烧身武馆大师兄",
+      "faction": "烧身武馆",
+      "status": "提及",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "烧身武馆大师兄，白鹤的旧友。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “你怎么又叫了，”姜水源不满道，他看不惯对方一惊一乍，好像在场所有人，就他能看懂似的",
-        "”姜水源不服气的道",
-        "”姜水源也是吓到了，这么重的重量，这寇师兄到底是怎么撑起来的，除非是——    “桩劲，”谭鱼和马源异口同声的道"
+      "relationships": [
+        {
+          "target": "白鹤",
+          "type": "旧友"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "不在馆中。"
+        }
+      ],
+      "evidence": [
+        "五象馆白鹤，来寻旧友罗严宗"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "巨人黑影",
+      "aliases": [],
+      "identity": "五象馆成员",
+      "faction": "五象馆",
+      "status": "登场",
+      "first_appearance": "第二十九章 这招牌我在扛",
+      "summary": "五象馆中沉默寡言的巨人，拳术高深，擅长熊形。",
+      "appearance": [
+        "体型巨大"
+      ],
+      "personality": [
+        "沉默"
+      ],
+      "abilities": [
+        "熊形",
+        "冬熊舒腰"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白鹤",
+          "type": "同伴"
+        },
+        {
+          "target": "路遥",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在路遥被击败后出手阻挡寇立。"
+        }
+      ],
+      "evidence": [
+        "背后那道巨大黑影闷声道",
+        "对方依旧沉默着，只是在及身的一刹那间，调转过身子，将背部空门留给对手"
+      ],
+      "mention_count": 4
     }
   ]
 }

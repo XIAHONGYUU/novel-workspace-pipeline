@@ -1,255 +1,276 @@
 {
   "chunk_id": "chunk-0174",
-  "title": "第173章 六字大明咒",
   "characters": [
     {
-      "name": "康雄",
-      "aliases": [],
-      "identity": "",
+      "name": "苏午",
+      "aliases": [
+        "佛子"
+      ],
+      "identity": "佛子",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "他路过苏午身侧，深深地看了苏午一眼，　　而后，　　站在了康雄旁边",
+      "first_appearance": "",
+      "summary": "佛子，修成《鹏王摩日大法》第五重次第，为救下仆丹加与戒律长老康雄、经纶长老康智对峙。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "言辞犀利",
+        "果断"
+      ],
+      "abilities": [
+        "六字大明咒",
+        "意之能量"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "敌对"
+        },
+        {
+          "target": "康智",
+          "type": "敌对"
+        },
+        {
+          "target": "沛旺",
+          "type": "主仆"
+        },
+        {
+          "target": "丹加",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在戒律院质问康雄，诵念六字大明咒震慑有罪僧侣。"
+        }
+      ],
+      "evidence": [
+        "方才苏午展现《鹏王摩日大法》第五重次第，头顶燃烧大日的情景",
+        "苏午直接将六字大明咒诵念了出来",
+        "苏午的意萦绕于无形之中"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "康雄",
+      "aliases": [
+        "戒律长老"
+      ],
+      "identity": "戒律长老",
+      "faction": "戒律院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戒律长老，指使手下抓捕佛子下仆丹加，与佛子苏午对峙。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "狡诈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他路过苏午身侧，深深地看了苏午一眼，　　而后，　　站在了康雄旁边",
-        "佛子气势太过盛烈，　　锋芒毕露，　　才修成第五重次第，就登门质问戒律长老，一副要拿对方问罪的势头，　　这次他逼问的是康雄，　　安知他下一次会不会逼问自己，让自身在经纶院颜面扫地",
-        "经纶院诸僧聚集在康雄左右，顿时让康雄不再显得那么形单影只"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "康智",
+          "type": "盟友"
+        },
+        {
+          "target": "广言",
+          "type": "下属"
+        }
       ],
-      "mention_count": 24
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被佛子质问，试图以剖心剜眼之法刁难。"
+        }
+      ],
+      "evidence": [
+        "康雄在旁勾着嘴角浅笑",
+        "康雄一脸无辜，对于佛子非要给自己‘泼脏水’这件事，很是无可奈何",
+        "康雄眼中掠过一丝慌张之色"
+      ],
+      "mention_count": 15
     },
     {
       "name": "康智",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "第173章 六字大明咒　　踏踏踏踏……　　康智领着一众经纶僧，分开人群，走到了场中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第173章 六字大明咒　　踏踏踏踏……　　康智领着一众经纶僧，分开人群，走到了场中",
-        "方才苏午展现《鹏王摩日大法》第五重次第，头顶燃烧大日的情景，即便康智隔得尚远，都看得清清楚楚",
-        "康智觉得，自己的位子不稳了"
+      "aliases": [
+        "经纶长老"
       ],
-      "mention_count": 19
+      "identity": "经纶长老",
+      "faction": "经纶院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "经纶长老，因佛子锋芒太盛而心生危机，与康雄联手对抗佛子。",
+      "appearance": [],
+      "personality": [
+        "虚伪",
+        "善辩"
+      ],
+      "abilities": [],
+      "equipment": [
+        "念珠"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "康雄",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带经纶僧众支援康雄，与佛子辩驳。"
+        }
+      ],
+      "evidence": [
+        "康智领着一众经纶僧，分开人群，走到了场中",
+        "康智亦是怒声斥责",
+        "康智手中盘绕的念珠崩断了绳索"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "苏午",
+      "name": "沛旺",
       "aliases": [],
-      "identity": "",
+      "identity": "佛子下仆",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "他路过苏午身侧，深深地看了苏午一眼，　　而后，　　站在了康雄旁边",
+      "first_appearance": "",
+      "summary": "佛子的仆人，目睹丹加被抓走，向佛子报告。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他路过苏午身侧，深深地看了苏午一眼，　　而后，　　站在了康雄旁边",
-        "方才苏午展现《鹏王摩日大法》第五重次第，头顶燃烧大日的情景，即便康智隔得尚远，都看得清清楚楚",
-        "话一出口，　　便满带着对苏午的诘问、责备之意"
+      "personality": [
+        "胆小"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "佛子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "佛子气势太过盛烈，　　锋芒毕露，　　才修成第五重次第，就登门质问戒律长老，一副要拿对方问罪的势头，　　这次他逼问的是康雄，　　安知他下一次会不会逼问自己，让自身在经纶院颜面扫地",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "佛子气势太过盛烈，　　锋芒毕露，　　才修成第五重次第，就登门质问戒律长老，一副要拿对方问罪的势头，　　这次他逼问的是康雄，　　安知他下一次会不会逼问自己，让自身在经纶院颜面扫地",
-        "广言乃是康雄座下僧侣，　　他被康雄指使，专门负责抓捕佛子下仆，进行审问的事宜，　　先前其见佛子来势汹汹，　　连广喻都被对方‘言语蛊惑’，直接去触康雄的霉头，广言自觉不能制止佛子，便找机会悄悄溜出了戒律院，　　去寻经纶长老送风报信去了",
-        "“佛子，缘何如此气势汹汹"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主仆"
+        },
+        {
+          "target": "丹加",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "广言",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "康雄与康智对视刹那，　　未从其眼中看见任何情绪，　　接着转移目光，看向了康智身后，混在诸红袍僧侣当中的广言",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "康雄与康智对视刹那，　　未从其眼中看见任何情绪，　　接着转移目光，看向了康智身后，混在诸红袍僧侣当中的广言",
-        "广言乃是康雄座下僧侣，　　他被康雄指使，专门负责抓捕佛子下仆，进行审问的事宜，　　先前其见佛子来势汹汹，　　连广喻都被对方‘言语蛊惑’，直接去触康雄的霉头，广言自觉不能制止佛子，便找机会悄悄溜出了戒律院，　　去寻经纶长老送风报信去了",
-        "康雄目光向广言看来，广言面露谄媚笑意，微微颌首"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被佛子叫到前面作证，差点被剖心剜眼。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "六字",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "第173章 六字大明咒　　踏踏踏踏……　　康智领着一众经纶僧，分开人群，走到了场中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第173章 六字大明咒　　踏踏踏踏……　　康智领着一众经纶僧，分开人群，走到了场中",
-        "他内心有鬼，　　焉能经手得住我佛门无上真言——六字大明咒之威压",
-        "必然在六字大明咒棒喝之下，　　当场交代"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "经纶长",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "经纶长老内心的危机感，因此达到了顶点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "经纶长老内心的危机感，因此达到了顶点",
-        "广言乃是康雄座下僧侣，　　他被康雄指使，专门负责抓捕佛子下仆，进行审问的事宜，　　先前其见佛子来势汹汹，　　连广喻都被对方‘言语蛊惑’，直接去触康雄的霉头，广言自觉不能制止佛子，便找机会悄悄溜出了戒律院，　　去寻经纶长老送风报信去了",
-        "”　　经纶长老康智开口说话"
+        "沛旺则逃了回来，向我报告此事",
+        "沛旺蜷缩着肩膀",
+        "小仆人心中猛地一沉"
       ],
       "mention_count": 6
     },
     {
-      "name": "还是",
+      "name": "丹加",
       "aliases": [],
-      "identity": "",
+      "identity": "佛子下仆",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "康智皱了皱眉，　　还是点头道：“有戒律院的红袍僧侣过来，与我说明了情况",
+      "status": "被提及",
+      "first_appearance": "",
+      "summary": "佛子的仆人，被戒律院僧人抓走。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主仆"
+        },
+        {
+          "target": "沛旺",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戒律院僧人抓走。"
+        }
+      ],
       "evidence": [
-        "康智皱了皱眉，　　还是点头道：“有戒律院的红袍僧侣过来，与我说明了情况",
-        "还是从谁哪里听说的"
+        "仆人丹加被抓走了"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "广言",
+      "aliases": [],
+      "identity": "戒律院红袍僧侣",
+      "faction": "戒律院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "康雄座下僧侣，负责抓捕佛子下仆，向康智报信。",
+      "appearance": [],
+      "personality": [
+        "阴毒",
+        "谄媚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提出剖心剜眼之法，被佛子六字大明咒震慑跪倒。"
+        }
+      ],
+      "evidence": [
+        "广言乃是康雄座下僧侣",
+        "广言面露谄媚笑意",
+        "广言在人群里出声道"
       ],
       "mention_count": 5
     },
     {
-      "name": "经纶",
+      "name": "广喻",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "戒律院僧侣",
+      "faction": "戒律院",
       "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "第173章 六字大明咒　　踏踏踏踏……　　康智领着一众经纶僧，分开人群，走到了场中",
+      "first_appearance": "",
+      "summary": "戒律院僧侣，被佛子言语蛊惑，触康雄霉头。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第173章 六字大明咒　　踏踏踏踏……　　康智领着一众经纶僧，分开人群，走到了场中",
-        "经纶长老内心的危机感，因此达到了顶点",
-        "佛子气势太过盛烈，　　锋芒毕露，　　才修成第五重次第，就登门质问戒律长老，一副要拿对方问罪的势头，　　这次他逼问的是康雄，　　安知他下一次会不会逼问自己，让自身在经纶院颜面扫地"
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "下属"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "进行",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "广言乃是康雄座下僧侣，　　他被康雄指使，专门负责抓捕佛子下仆，进行审问的事宜，　　先前其见佛子来势汹汹，　　连广喻都被对方‘言语蛊惑’，直接去触康雄的霉头，广言自觉不能制止佛子，便找机会悄悄溜出了戒律院，　　去寻经纶长老送风报信去了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "广言乃是康雄座下僧侣，　　他被康雄指使，专门负责抓捕佛子下仆，进行审问的事宜，　　先前其见佛子来势汹汹，　　连广喻都被对方‘言语蛊惑’，直接去触康雄的霉头，广言自觉不能制止佛子，便找机会悄悄溜出了戒律院，　　去寻经纶长老送风报信去了",
-        "”　　二僧此时出手，亦相当于与苏午的‘意’进行了一次间接较量"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被佛子六字大明咒震慑跪倒。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "缘何",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "“佛子，缘何如此气势汹汹",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“佛子，缘何如此气势汹汹",
-        "我本也未发声，并不同意康雄长老方才之提议……”　　“如不同意，　　缘何不发声"
+        "广喻、广言乃至一些知悉内情的戒律院红衣僧侣、黄衣僧侣，都慌张了起来"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "康雄长",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第173章 六字大明咒",
-      "summary": "实情则是，　　康雄长老令人绑缚了我的下仆，　　将他抓到了不知何处去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "实情则是，　　康雄长老令人绑缚了我的下仆，　　将他抓到了不知何处去",
-        "佛子，你莫非亲眼见到，是康雄长老令手下人捉拿了你的下仆",
-        "不然，我也不至于如此兴师动众，来到戒律院向康雄长老问明此事"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

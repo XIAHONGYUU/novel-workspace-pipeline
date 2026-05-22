@@ -1,253 +1,323 @@
 {
   "chunk_id": "chunk-0206",
-  "title": "第204章局势靡乱",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "杂牌身份者，拥有风水罗盘",
+      "faction": "牌系",
       "status": "登场",
       "first_appearance": "第204章局势靡乱",
-      "summary": "”　　李钧双手环在胸前，站在邹四九自己私藏的酒架前上下打量",
+      "summary": "李钧在邹四九的酒架前发现秘密，通过罗盘获取信息，并阅读了关于戚槐的檄文，推测川渝赌会将内乱。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧双手环在胸前，站在邹四九自己私藏的酒架前上下打量",
-        "如果此刻邹四九还在这里，一定会震惊于自己的秘密怎么会被李钧发现",
-        "李钧虽然不懂机关术，但马王爷这个墨家老流氓可是精通此道"
+      "personality": [
+        "烦躁",
+        "谨慎"
       ],
-      "mention_count": 19
+      "abilities": [
+        "神经反应速度快"
+      ],
+      "equipment": [
+        "风水罗盘",
+        "黄粱网络外接装置"
+      ],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "合作者"
+        },
+        {
+          "target": "邹四九",
+          "type": "酒架主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在和平饭店查看信息，阅读檄文"
+        }
+      ],
+      "evidence": [
+        "李钧双手环在胸前，站在邹四九自己私藏的酒架前上下打量。",
+        "李钧虽然不懂机关术，但马王爷这个墨家老流氓可是精通此道。",
+        "李钧将酒碗放在窗沿上，从怀中取出赫藏甲送给他的，能够链接黄粱网络的外接装置。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "正将",
-      "aliases": [],
-      "identity": "",
+      "name": "邹四九",
+      "aliases": [
+        "神棍"
+      ],
+      "identity": "神棍，酒架主人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第204章局势靡乱",
-      "summary": "“雀系主事人‘正将’戚槐勾结鸿鹄，惨遭锦衣卫抄家",
+      "summary": "邹四九私藏酒架，其秘密被李钧发现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "独门密技‘黄粱欲海’"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "酒架被李钧发现"
+        },
+        {
+          "target": "马王爷",
+          "type": "被马王爷破解机关"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其酒架被李钧发现"
+        }
+      ],
+      "evidence": [
+        "一个神棍不好好算命，居然藏这么多酒",
+        "邹四九自己私藏的酒架",
+        "马王爷这个墨家老流氓可是精通此道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "马王爷",
+      "aliases": [
+        "墨家老流氓"
+      ],
+      "identity": "墨家精通机关术者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第204章局势靡乱",
+      "summary": "马王爷破解了邹四九的机关，将控制罗盘交给李钧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "精通机关术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "将罗盘交给李钧"
+        },
+        {
+          "target": "邹四九",
+          "type": "破解其机关"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "破解邹四九的机关，将罗盘交给李钧"
+        }
+      ],
+      "evidence": [
+        "马王爷这个墨家老流氓可是精通此道",
+        "他前脚刚刚将控制罗盘交给李钧",
+        "马王爷应该已经在邹四九那手独门密技‘黄粱欲海’中遨游去了"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "戚槐",
+      "aliases": [
+        "正将"
+      ],
+      "identity": "川渝赌会雀系主事人‘正将’",
+      "faction": "雀系",
+      "status": "提及",
+      "first_appearance": "第204章局势靡乱",
+      "summary": "戚槐勾结鸿鹄，被锦衣卫抄家，被檄文指责，正被追杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "鸿鹄",
+          "type": "勾结"
+        },
+        {
+          "target": "锦衣卫",
+          "type": "被抄家"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被檄文揭露勾结鸿鹄，被锦衣卫抄家，逃亡"
+        }
+      ],
       "evidence": [
-        "“雀系主事人‘正将’戚槐勾结鸿鹄，惨遭锦衣卫抄家",
-        "后文的措辞更是毫不客气，指责戚槐身为川渝赌会‘正将’，不止不为广大赌会同仁谋求利益，反而参与到鸿鹄的叛乱之中",
-        "这番举动完全是置赌会众人的生死于不顾，根本配不上‘正将’二字"
+        "雀系主事人‘正将’戚槐勾结鸿鹄，惨遭锦衣卫抄家。",
+        "戚槐身为川渝赌会‘正将’，不止不为广大赌会同仁谋求利益，反而参与到鸿鹄的叛乱之中。",
+        "现在‘正将’戚槐被逼逃亡"
       ],
       "mention_count": 6
     },
     {
-      "name": "雀系",
+      "name": "金生火",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "牌系风将",
+      "faction": "牌系",
+      "status": "提及",
       "first_appearance": "第204章局势靡乱",
-      "summary": "“雀系主事人‘正将’戚槐勾结鸿鹄，惨遭锦衣卫抄家",
+      "summary": "李钧猜测檄文可能是金生火的手笔。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“雀系主事人‘正将’戚槐勾结鸿鹄，惨遭锦衣卫抄家",
-        "如果这个时候占据大义，煽动赌会中其他人一起向‘雀系’发难，必然能分到不少利益",
-        "甚至一举将‘雀系’赶出中渝区也不是不可能"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧猜测为檄文作者"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "难道‘牌系’的风将，金生火？"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "恐怕",
-      "aliases": [],
-      "identity": "",
+      "name": "王文钦",
+      "aliases": [
+        "神霞道人"
+      ],
+      "identity": "被李钧所杀",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第204章局势靡乱",
-      "summary": "“居然还有这个东西.”　　而自己作为局中人，恐怕早已经深陷其中",
+      "summary": "王文钦被李钧所杀，但檄文中未提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“居然还有这个东西.”　　而自己作为局中人，恐怕早已经深陷其中",
-        "被如此多的恶徒盯上，就算是‘正将’恐怕也难以应付",
-        "就连李钧都不禁猜测，戚槐的家眷就算不是被全部上传进了诏狱，恐怕下场也好不到哪里去"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被李钧所杀"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被李钧所杀"
+        }
+      ],
+      "evidence": [
+        "明明神霞道人王文钦和方薪斧都是被自己所杀"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "戚槐",
-      "aliases": [],
-      "identity": "",
+      "name": "方薪斧",
+      "aliases": [
+        "黄巾力士"
+      ],
+      "identity": "被李钧所杀",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第204章局势靡乱",
-      "summary": "“雀系主事人‘正将’戚槐勾结鸿鹄，惨遭锦衣卫抄家",
+      "summary": "方薪斧被李钧所杀，但檄文中未提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“雀系主事人‘正将’戚槐勾结鸿鹄，惨遭锦衣卫抄家",
-        "信息中事无巨细，将戚槐如何协助鸿鹄潜入栖霞集团的过程描述的一清二楚",
-        "后文的措辞更是毫不客气，指责戚槐身为川渝赌会‘正将’，不止不为广大赌会同仁谋求利益，反而参与到鸿鹄的叛乱之中"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被李钧所杀"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被李钧所杀"
+        }
+      ],
+      "evidence": [
+        "明明神霞道人王文钦和方薪斧都是被自己所杀"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "牌系",
+      "name": "张缙云",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "栖霞集团道八",
+      "faction": "栖霞集团",
+      "status": "提及",
       "first_appearance": "第204章局势靡乱",
-      "summary": "这篇檄文如果真是金生火的手笔，倒是符合‘牌系’的利益",
+      "summary": "张缙云被鸿鹄策反。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这篇檄文如果真是金生火的手笔，倒是符合‘牌系’的利益",
-        "毕竟自己身上还有‘牌系’杂牌的身份",
-        "毕竟中渝区一直被‘雀系’视为囊中物，‘牌系’虽然通过罗汉寺的事情将手伸了进来，但双方之间一直是摩擦不断"
+      "relationships": [
+        {
+          "target": "鸿鹄",
+          "type": "被策反"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被鸿鹄策反"
+        }
+      ],
+      "evidence": [
+        "指出了被鸿鹄策反的栖霞集团道八张缙云"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "杂牌",
+      "name": "王谢",
       "aliases": [],
-      "identity": "",
+      "identity": "道心破碎者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第204章局势靡乱",
-      "summary": "在印证过自己‘杂牌’的身份后，顺利进入了川渝赌会内部的信息平台",
+      "summary": "李钧认为王谢不可能发布檄文。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "道心破碎"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "在印证过自己‘杂牌’的身份后，顺利进入了川渝赌会内部的信息平台",
-        "毕竟自己身上还有‘牌系’杂牌的身份"
+        "王谢？不可能，他自己一副道心破碎的样子"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "当日",
+      "name": "赫藏甲",
       "aliases": [],
-      "identity": "",
+      "identity": "赠送李钧外接装置者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第204章局势靡乱",
-      "summary": "当日聚集在栖霞广场前的信徒众多，虽然这些人被鸿鹄的‘自爆’吓的四散逃跑，但肯定有人目击了当时的情形",
+      "summary": "赫藏甲送给李钧黄粱网络外接装置。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "赠送外接装置"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "当日聚集在栖霞广场前的信徒众多，虽然这些人被鸿鹄的‘自爆’吓的四散逃跑，但肯定有人目击了当时的情形",
-        "仿佛发布这条信息之人，当日就在事发现场"
+        "从怀中取出赫藏甲送给他的，能够链接黄粱网络的外接装置"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "心中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第204章局势靡乱",
-      "summary": "李钧抬手按揉着太阳穴，心中一片烦躁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧抬手按揉着太阳穴，心中一片烦躁",
-        "不过李钧在看完这篇煽动力十足的檄文之后，心中冒出了和当初看自己悬赏时一样的疑惑",
-        "”　　李钧摩挲着自己的下巴，心中暗自思量"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第204章局势靡乱",
-      "summary": "第204章局势靡乱　　“一个神棍不好好算命，居然藏这么多酒，真当自己是开饭店的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第204章局势靡乱　　“一个神棍不好好算命，居然藏这么多酒，真当自己是开饭店的",
-        "“居然还有这个东西.”　　而自己作为局中人，恐怕早已经深陷其中"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "毕竟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第204章局势靡乱",
-      "summary": "毕竟自己身上还有‘牌系’杂牌的身份",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "毕竟自己身上还有‘牌系’杂牌的身份",
-        "毕竟中渝区一直被‘雀系’视为囊中物，‘牌系’虽然通过罗汉寺的事情将手伸了进来，但双方之间一直是摩擦不断"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第204章局势靡乱",
-      "summary": "甚至一举将‘雀系’赶出中渝区也不是不可能",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "甚至一举将‘雀系’赶出中渝区也不是不可能",
-        "甚至指出了被鸿鹄策反的栖霞集团道八张缙云，以及‘死而复生’的黄巾力士方薪斧"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

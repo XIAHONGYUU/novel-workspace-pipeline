@@ -1,255 +1,379 @@
 {
   "chunk_id": "chunk-0679",
-  "title": "第677章以身入局",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "革君"
+      ],
+      "identity": "独行序三",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "他们原本从东院出发直奔江西行省，在半途中却突然接到了李钧的消息，与他在金陵汇合",
+      "first_appearance": "",
+      "summary": "独行武序，序三，性格果断，不惧挑战，计划进入龙虎山杀严东庆。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "不惧挑战",
+        "冷静"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "对话者"
+        },
+        {
+          "target": "严东庆",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张峰岳在金陵会面，讨论进入龙虎山杀严东庆的计划。"
+        }
+      ],
       "evidence": [
-        "他们原本从东院出发直奔江西行省，在半途中却突然接到了李钧的消息，与他在金陵汇合",
-        "”　　李钧疑惑问道：“那您今天的意思.”　　“对于严东庆上龙虎山寻求庇护的行为，你怎么看",
-        "”　　李钧眉头微蹙，对于张峰岳提成的问题，他自然也思考过"
+        "你小子真打算进龙虎山杀严东庆？",
+        "我还是序四的时候就没怂过，没道理现在成了序三，反而要畏首畏尾。",
+        "所以您老的意思是，我要是进了龙虎山，除了要对付张希极之外，还要防备东皇宫了？"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "老爷子",
+        "老人"
+      ],
+      "identity": "儒序序二",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "儒序序二，年迈但睿智，主张治本，愿意以身作饵引诱东皇宫。",
+      "appearance": [
+        "满头白发"
+      ],
+      "personality": [
+        "睿智",
+        "豪迈",
+        "深思熟虑"
+      ],
+      "abilities": [
+        "数艺"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对话者"
+        },
+        {
+          "target": "严东庆",
+          "type": "同序列后辈"
+        },
+        {
+          "target": "张希极",
+          "type": "对手"
+        },
+        {
+          "target": "东皇宫",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在金陵与李钧会面，分析局势，决定以身入局。"
+        }
+      ],
+      "evidence": [
+        "满头白发的老人缓缓说道",
+        "老夫可没那个当和事佬的闲心，相反，我倒是很乐意看把张希极的龙虎道国掀个底朝天",
+        "所以李钧，这次老夫来给你当一次诱饵，最后能赚多少，就看你这位革君的本事有多大了！"
       ],
       "mention_count": 18
     },
     {
-      "name": "张峰岳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "等到了才发现，本该在番地的张峰岳不知何时已经悄然返回了帝国本土",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "等到了才发现，本该在番地的张峰岳不知何时已经悄然返回了帝国本土",
-        "”　　张峰岳闻言一笑：“老夫可没那个当和事佬的闲心，相反，我倒是很乐意看把张希极的龙虎道国掀个底朝天，如果你的刀再锋利一点，能把那头老乌龟宰了的话，那就更好了",
-        "”　　李钧眉头微蹙，对于张峰岳提成的问题，他自然也思考过"
+      "name": "邹四九",
+      "aliases": [
+        "邹爷"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "张峰",
-      "aliases": [],
-      "identity": "",
+      "identity": "梦主，持有儒序两成权限",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "等到了才发现，本该在番地的张峰岳不知何时已经悄然返回了帝国本土",
+      "first_appearance": "",
+      "summary": "梦主，性格玩世不恭但深沉，被东皇宫视为目标，但实际目标并非他。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "玩世不恭",
+        "深沉",
+        "自信"
+      ],
+      "abilities": [
+        "梦主规则"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "东皇宫",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在金陵与李钧等人汇合，后强行张开梦境拉走东皇宫众君。"
+        }
+      ],
       "evidence": [
-        "等到了才发现，本该在番地的张峰岳不知何时已经悄然返回了帝国本土",
-        "”　　张峰岳闻言一笑：“老夫可没那个当和事佬的闲心，相反，我倒是很乐意看把张希极的龙虎道国掀个底朝天，如果你的刀再锋利一点，能把那头老乌龟宰了的话，那就更好了",
-        "”　　李钧眉头微蹙，对于张峰岳提成的问题，他自然也思考过"
+        "百无聊赖的邹四九蹲在台阶上",
+        "邹爷我等这一天，可是已经等了太久太久了",
+        "他身上的梦主规则已经脱离了静默。这一次，他要打六个！"
       ],
       "mention_count": 12
     },
     {
-      "name": "詹舜",
-      "aliases": [],
-      "identity": "",
+      "name": "陈乞生",
+      "aliases": [
+        "老陈",
+        "牛鼻子",
+        "道人"
+      ],
+      "identity": "年轻道人",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "詹舜的想法跟老夫一样，他也想要一劳永逸",
+      "first_appearance": "",
+      "summary": "年轻道人，与邹四九关系密切，性格诙谐。",
+      "appearance": [],
+      "personality": [
+        "诙谐",
+        "爱调侃"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邹四九在金陵等待，后与邹四九互动。"
+        }
+      ],
+      "evidence": [
+        "一旁的年轻道人将双手拢在袖中",
+        "一条手臂揽住了邹四九紧绷的肩头，道人学着对方摆出同样斜望天空的动作",
+        "牛鼻子，你别在这里阴阳怪气儿的"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "严东庆",
+      "aliases": [],
+      "identity": "儒序三，原春秋会成员",
+      "faction": "原属朱家，后脱离",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "儒序三，野心勃勃，曾依附皇权，后脱离朱家，借龙虎山庇护。",
+      "appearance": [],
+      "personality": [
+        "桀骜不驯",
+        "自视甚高",
+        "野心勃勃"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "目标"
+        },
+        {
+          "target": "张希极",
+          "type": "寻求庇护"
+        },
+        {
+          "target": "朱家",
+          "type": "曾依附"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "上龙虎山寻求张希极庇护。"
+        }
+      ],
+      "evidence": [
+        "严东庆更是其中的翘楚，野心勃勃",
+        "他毅然决然选择脱离朱家",
+        "严东庆上龙虎山寻求庇护的行为"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "张希极",
+      "aliases": [
+        "老乌龟"
+      ],
+      "identity": "龙虎道国首领",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "龙虎道国首领，被张峰岳称为老乌龟，庇护严东庆。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "严东庆",
+          "type": "庇护"
+        },
+        {
+          "target": "李钧",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "庇护严东庆，被张峰岳认为受黄粱蛊惑。"
+        }
+      ],
+      "evidence": [
+        "能把那头老乌龟宰了的话",
+        "张希极迟早也会看出来他根本没有利用的价值",
+        "张希极是傻子"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "詹舜",
+      "aliases": [
+        "东皇宫君"
+      ],
+      "identity": "东皇宫成员",
+      "faction": "东皇宫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "东皇宫成员，目标为解放黄粱，与张峰岳理念相似。",
+      "appearance": [],
+      "personality": [
+        "平和",
+        "自信"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "目标"
+        },
+        {
+          "target": "袁明妃",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在永乐洞天与袁明妃对峙。"
+        }
+      ],
       "evidence": [
         "詹舜的想法跟老夫一样，他也想要一劳永逸",
-        "一座新的梦境强行张开，拉着除了詹舜和袁明妃以外的所有人，离开了永乐洞天",
-        "”　　詹舜脸上变幻的五官定格在一副平和的笑容上"
+        "詹舜脸上变幻的五官定格在一副平和的笑容上",
+        "本君今日没兴趣跟你动手"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "同样",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "”　　“不过严东庆也很清楚，就算皇室有朝一日能够重新复起，同样也不会再给他任何立党的机会，狡兔死走狗烹也是预料之中的事情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“不过严东庆也很清楚，就算皇室有朝一日能够重新复起，同样也不会再给他任何立党的机会，狡兔死走狗烹也是预料之中的事情",
-        "”　　满头白发的老人缓缓说道：“皇朝的出现，同样也是数千年来的民心所向",
-        "朱家领衔大明帝国，所以可以代行民心，用皇权来炮制同样依附民心而存的儒序"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "冻住",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "刺骨的寒风自西南方滚滚袭来，冻住了翻涌的恶浪，冻住了倒灌的幽海，冻住了崩塌的山体",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "刺骨的寒风自西南方滚滚袭来，冻住了翻涌的恶浪，冻住了倒灌的幽海，冻住了崩塌的山体"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "你觉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "”　　“那你觉得张希极为什么会愿意庇护他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“那你觉得张希极为什么会愿意庇护他",
-        "”　　“你觉得民心空泛虚假，是因为李钧你从没有过寻常百姓的生活",
-        "”　　老人话锋一转，脸上笑意敛去：“能在背后把他们耍的团团转的，你觉得又会是谁"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "儒序",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "为了一个普普通通的儒序三，再跟你这位独行序三对上，怎么看都不像是一笔划算的买卖",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "为了一个普普通通的儒序三，再跟你这位独行序三对上，怎么看都不像是一笔划算的买卖",
-        "”　　李钧听到这里，却忍不住问道：“如果皇权真能这么简单炮制出一群高序位的儒序，为什么还需要对老爷子您摇尾乞怜",
-        "朱家领衔大明帝国，所以可以代行民心，用皇权来炮制同样依附民心而存的儒序"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "他现在没看明白，只是因为被黄粱所蛊惑罢了，他合道黄粱的弊端就在这里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他现在没看明白，只是因为被黄粱所蛊惑罢了，他合道黄粱的弊端就在这里",
-        "”　　屋内，李钧说道：“他现在手中可有儒序的两成权限.”　　“这同样也是一个治标与治本之间的选择"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "东皇宫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "”　　“东皇宫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“东皇宫",
-        "”　　李钧拧动肩膀，笑道：“如果我现在是序二，东皇宫就算能拉我入梦，也只配被我一拳打死",
-        "”　　张峰岳说道：“东皇宫要为黄粱索回所有被抢走的权限，彻底解放捆缚在黄粱身上的枷锁，所以他们搞这些把戏，合情合理"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "邹四九",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "百无聊赖的邹四九蹲在台阶上，一旁的年轻道人将双手拢在袖中，斜靠着一根梁柱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "百无聊赖的邹四九蹲在台阶上，一旁的年轻道人将双手拢在袖中，斜靠着一根梁柱",
-        "”　　“是邹四九",
-        "蹲在门外的邹四九屁股上被人踢了一脚，仰头就看见陈乞生那张似笑非笑的脸"
-      ],
-      "mention_count": 5
+      "mention_count": 4
     },
     {
       "name": "袁明妃",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "菩萨",
+        "十方菩萨"
+      ],
+      "identity": "佛序序二",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第677章以身入局",
-      "summary": "一座新的梦境强行张开，拉着除了詹舜和袁明妃以外的所有人，离开了永乐洞天",
+      "first_appearance": "",
+      "summary": "佛序序二，被张峰岳补全序列，出手救邹四九。",
+      "appearance": [],
+      "personality": [
+        "坚定"
+      ],
+      "abilities": [
+        "操控风雪"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "被帮助"
+        },
+        {
+          "target": "邹四九",
+          "type": "救援"
+        },
+        {
+          "target": "詹舜",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在永乐洞天与詹舜对峙，冻住恶浪。"
+        }
+      ],
+      "evidence": [
+        "真想不到破烂到如此地步的佛序，竟然还能诞生出一个序二",
+        "袁明妃无视周遭一切，不过手掌轻翻",
+        "袁明妃脚下的高山平地拔升"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "朱家",
+      "aliases": [
+        "皇室"
+      ],
+      "identity": "大明皇室",
+      "faction": "皇室",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "大明皇室，曾利用皇权炮制儒序，但如今皇权衰落。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "严东庆",
+          "type": "曾依附"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "一座新的梦境强行张开，拉着除了詹舜和袁明妃以外的所有人，离开了永乐洞天",
-        "在袁明妃现身之后，他身上的梦主规则已经脱离了静默",
-        "一股强烈的排斥笼罩着袁明妃的身体，此刻的她似乎不再是那普渡众生的菩萨，而是犯下大错的穷凶极恶之徒，惹出天怒地厌，要将她碾成粉碎"
+        "在靠上朱家这颗大树之后",
+        "朱家领衔大明帝国",
+        "皇室要是有这个能力，何至于沦落到如今地步？"
       ],
-      "mention_count": 5
+      "mention_count": 4
     }
   ]
 }

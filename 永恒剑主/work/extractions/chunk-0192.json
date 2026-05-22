@@ -1,257 +1,260 @@
 {
   "chunk_id": "chunk-0192",
-  "title": "第一百九十章 巨树（下）",
   "characters": [
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "”　　“理所当然，此等天才……”林新略略有些艳羡道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“理所当然，此等天才……”林新略略有些艳羡道",
-        "林新独自站在林中，身后便是营地",
-        "闭上眼，再度缓缓睁开，林新眼前远远浮现一抹红色倩影"
-      ],
-      "mention_count": 16
-    },
-    {
-      "name": "花玉奴",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "远处林中，花玉奴站在树干横枝上，正用白丝巾缓缓擦拭着手上剑刃",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "远处林中，花玉奴站在树干横枝上，正用白丝巾缓缓擦拭着手上剑刃",
-        "”花玉奴站在一群人前面，手里把玩着一支紫色花枝",
-        "”花玉奴赶紧开口打圆场，“此时大敌在前，我们还是齐心协力，先处理掉虫师再说，如何"
-      ],
-      "mention_count": 13
-    },
-    {
-      "name": "苏婉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "“苏婉仙子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“苏婉仙子",
-        "”苏婉淡淡道",
-        "有我独孤霖在，区区虫师，苏婉你是怕了吗"
-      ],
-      "mention_count": 12
-    },
-    {
-      "name": "花玉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "远处林中，花玉奴站在树干横枝上，正用白丝巾缓缓擦拭着手上剑刃",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "远处林中，花玉奴站在树干横枝上，正用白丝巾缓缓擦拭着手上剑刃",
-        "”花玉奴站在一群人前面，手里把玩着一支紫色花枝",
-        "”花玉奴赶紧开口打圆场，“此时大敌在前，我们还是齐心协力，先处理掉虫师再说，如何"
-      ],
-      "mention_count": 9
-    },
     {
       "name": "花林",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "”花林也是听到战绩眼中闪过一丝引以为荣之色",
+      "summary": "松林剑派弟子，伤势未愈，支持花玉奴总领行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "花林兄长",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "伤势未好，先行告辞休息。"
+        }
+      ],
+      "evidence": [
+        "花林也是听到战绩眼中闪过一丝引以为荣之色。",
+        "花林明显伤势未好，还很是疲惫，便先告辞。",
+        "花林也是趁机离开回去修习内功。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林新",
+      "aliases": [],
+      "identity": "灵心山庄主人",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "第一百九十章 巨树（下）",
+      "summary": "灵心山庄主人，修为接近筑基，被法旨召来参与行动。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "红花剑法",
+        "归元核心"
+      ],
+      "equipment": [
+        "玉笛",
+        "红花剑"
+      ],
+      "relationships": [
+        {
+          "target": "萧玲玲",
+          "type": "恋人"
+        },
+        {
+          "target": "独孤霖",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在营地吹笛思念萧玲玲，随后参与上树行动。"
+        }
+      ],
+      "evidence": [
+        "林新独自站在林中，身后便是营地。",
+        "林新眼前远远浮现一抹红色倩影。",
+        "林新则带着灵心山庄等人站在队伍中，仰头望着上方巨大树冠。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "林罗",
+      "aliases": [],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "第一百九十章 巨树（下）",
+      "summary": "松林剑派弟子，离开回去修习内功。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "离开回去修习内功。"
+        }
+      ],
       "evidence": [
-        "”花林也是听到战绩眼中闪过一丝引以为荣之色",
-        "”花林明显伤势未好，还很是疲惫，便先告辞",
-        "……　　第二天一早，花林回归重新稳定了队伍人心，众人再度启程，这次却是没有再多遇到麻烦"
+        "林罗也是趁机离开回去修习内功。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "萧玲玲",
+      "aliases": [],
+      "identity": "林新的恋人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百九十章 巨树（下）",
+      "summary": "林新的恋人，曾唱过词曲。",
+      "appearance": [
+        "红色倩影"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "恋人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾唱过词曲。"
+        }
+      ],
+      "evidence": [
+        "萧玲玲曾经唱过的词仿佛随着笛声在重新迎合。",
+        "萧玲玲正远远倚在树干边，俏生生的含笑看着他。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "花玉奴",
+      "aliases": [
+        "花公子"
+      ],
+      "identity": "松林剑派筑基修士",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "第一百九十章 巨树（下）",
+      "summary": "松林剑派筑基修士，总领此次行动。",
+      "appearance": [],
+      "personality": [
+        "细心"
+      ],
+      "abilities": [
+        "游鱼剑"
+      ],
+      "equipment": [
+        "游鱼剑"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "组织众人上树，吩咐注意事项。"
+        }
+      ],
+      "evidence": [
+        "花玉奴站在一群人前面，手里把玩着一支紫色花枝。",
+        "花玉奴赶紧开口打圆场",
+        "花玉奴开始吩咐众人起身准备上树，一一在给其他人叮嘱介绍注意事项，显得极其细心。"
       ],
       "mention_count": 8
     },
     {
-      "name": "众人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "……　　第二天一早，花林回归重新稳定了队伍人心，众人再度启程，这次却是没有再多遇到麻烦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　第二天一早，花林回归重新稳定了队伍人心，众人再度启程，这次却是没有再多遇到麻烦",
-        "众人站在树干前，黄褐色的树干如同一面看不到左右尽头的凸起墙面",
-        "”　　此时远处一道剑光银亮闪现，流星般轰然射来，狠狠砸进众人地面中间"
+      "name": "苏婉",
+      "aliases": [
+        "苏婉仙子"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "独孤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "御风宗筑基修士",
+      "faction": "御风宗",
       "status": "登场",
       "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "有我独孤霖在，区区虫师，苏婉你是怕了吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "有我独孤霖在，区区虫师，苏婉你是怕了吗",
-        "正是松林剑派独孤霖",
-        "”独孤霖意气凌厉如剑，整个人都犹如尖锐无比的剑刃，让人甚至多看一眼都有伤人之意"
+      "summary": "御风宗筑基修士，协助松林剑派处理虫师。",
+      "appearance": [
+        "黑裙面纱",
+        "耳垂上是一对黑鱼银边明月珰",
+        "嘴唇发紫",
+        "绑着很多小辫子",
+        "黑紫色长裙"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "独孤霖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "有我独孤霖在，区区虫师，苏婉你是怕了吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "阴冷",
+        "情绪多变"
+      ],
+      "abilities": [
+        "掌法"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "独孤霖",
+          "type": "同辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与独孤霖对峙，后参与上树行动。"
+        }
+      ],
       "evidence": [
-        "有我独孤霖在，区区虫师，苏婉你是怕了吗",
-        "正是松林剑派独孤霖",
-        "”独孤霖意气凌厉如剑，整个人都犹如尖锐无比的剑刃，让人甚至多看一眼都有伤人之意"
+        "女子黑裙面纱，耳垂上是一对黑鱼银边明月珰",
+        "苏婉仙子。御风宗的人不知道多久才能到齐",
+        "苏婉素手拍击，一掌打出，一头小飞象便倒飞出去"
       ],
       "mention_count": 6
     },
     {
-      "name": "女子",
+      "name": "独孤霖",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派筑基修士",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "花林带着林新这边等人进入空地，越过一些树桩，其中一个最大树桩上此时正站立一女子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "花林带着林新这边等人进入空地，越过一些树桩，其中一个最大树桩上此时正站立一女子",
-        "女子黑裙面纱，耳垂上是一对黑鱼银边明月珰（类似耳钉的一种饰品）",
-        "“哦~~”女子双目如电，目光直接落在花林带来的队伍上"
+      "summary": "松林剑派筑基修士，剑意凌厉，对吃感兴趣。",
+      "appearance": [
+        "黑发如瀑",
+        "额头隐隐点着一点银色竖痕"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "此时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "花林带着林新这边等人进入空地，越过一些树桩，其中一个最大树桩上此时正站立一女子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "花林带着林新这边等人进入空地，越过一些树桩，其中一个最大树桩上此时正站立一女子",
-        "”　　此时远处一道剑光银亮闪现，流星般轰然射来，狠狠砸进众人地面中间",
-        "”花玉奴赶紧开口打圆场，“此时大敌在前，我们还是齐心协力，先处理掉虫师再说，如何"
+      "personality": [
+        "意气凌厉",
+        "狂热"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "御风宗的人不知道多久才能到齐，我们的人已经来得差不多了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "御风宗的人不知道多久才能到齐，我们的人已经来得差不多了",
-        "”花玉奴赶紧开口打圆场，“此时大敌在前，我们还是齐心协力，先处理掉虫师再说，如何",
-        "它们会自动带我们上去大树"
+      "abilities": [
+        "剑术",
+        "无形剑影"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "漫天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十章 巨树（下）",
-      "summary": "蓝光团如同雨点般，缓缓降落，密密麻麻，漫天都是，照亮周围空间",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "蓝光团如同雨点般，缓缓降落，密密麻麻，漫天都是，照亮周围空间",
-        "漫天的蓝色光团慢慢洒落，每一团都有一米多直径"
+      "equipment": [
+        "剑"
       ],
-      "mention_count": 4
+      "relationships": [
+        {
+          "target": "苏婉",
+          "type": "同辈"
+        },
+        {
+          "target": "林新",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏婉对峙，后烤小飞象，并施展剑术保护众人。"
+        }
+      ],
+      "evidence": [
+        "坑里显出一女子，神色厉然，黑发如瀑，额头隐隐点着一点银色竖痕，犹如第三只眼。正是松林剑派独孤霖。",
+        "独孤霖带着狂热的表情飞奔出去。",
+        "独孤霖应了声，一弹剑鞘，无形剑影在空气中骤然消失。"
+      ],
+      "mention_count": 7
     }
   ]
 }

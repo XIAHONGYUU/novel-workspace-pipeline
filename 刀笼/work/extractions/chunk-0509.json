@@ -1,253 +1,283 @@
 {
   "chunk_id": "chunk-0509",
-  "title": "第二百八十二章 道不同 相为谋（中）",
   "characters": [
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "道真天师",
+      "aliases": [
+        "道真"
+      ],
+      "identity": "王朝国师、一府之主，天庭国师",
+      "faction": "天庭",
       "status": "登场",
       "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "一个鸠面老人手持黑拐，站定对面，不知为何，只是看上一眼，就仿佛直面真神本体，眼前这一位，似是一座苍老的神祇",
+      "summary": "亡国七灾之一，与威德正法国师对峙，阻止其出手。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一个鸠面老人手持黑拐，站定对面，不知为何，只是看上一眼，就仿佛直面真神本体，眼前这一位，似是一座苍老的神祇",
-        "威德正法国师脸色抽了抽，冷冷道：“老夫可没有那么蠢，耗尽妖皇一脉气运，只是为了给蚂蚁搬家",
-        "”    “没什么，只是请您安静的在这里呆一会儿"
+      "personality": [
+        "冷笑",
+        "奇怪"
       ],
-      "mention_count": 5
+      "abilities": [],
+      "equipment": [
+        "木剑"
+      ],
+      "relationships": [
+        {
+          "target": "威德正法",
+          "type": "老对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与威德正法国师对峙，质问其为何阻止自己。"
+        }
+      ],
+      "evidence": [
+        "道真天师望向对面，只见一只粗糙老手探出，双指夹住木剑剑尖",
+        "道真天师冷笑道",
+        "道真天师奇怪道"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "干戚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "威德正法",
+      "aliases": [
+        "威德正法国师",
+        "国师"
+      ],
+      "identity": "亡国七灾之一，钟吾国国师",
+      "faction": "钟吾国",
       "status": "登场",
       "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "“老夫立志复兴古国，只要有妖皇一脉的嫡系血脉举旗，老夫立刻跟随，”国师冷冷道：“王朝气运损耗殆尽，老夫恨不得杀了这些干戚一脉的不肖子孙",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“老夫立志复兴古国，只要有妖皇一脉的嫡系血脉举旗，老夫立刻跟随，”国师冷冷道：“王朝气运损耗殆尽，老夫恨不得杀了这些干戚一脉的不肖子孙",
-        "……    “蠢货、蠢货，我早就跟七夜讲过，干戚承这小子别有心思，结果无人相信，现在可好，一旦让其毁坏人道根基，劫数便会提前沸腾",
-        "“老祖，干戚缺拜见"
+      "summary": "妖皇一脉的国师，立志复兴古国，但受君命不参与灭国之举。",
+      "appearance": [
+        "鸠面老人",
+        "手持黑拐"
       ],
-      "mention_count": 5
+      "personality": [
+        "冷冷"
+      ],
+      "abilities": [
+        "风水之道"
+      ],
+      "equipment": [
+        "黑拐"
+      ],
+      "relationships": [
+        {
+          "target": "道真天师",
+          "type": "老对手"
+        },
+        {
+          "target": "妖皇一脉",
+          "type": "国师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出手阻止道真天师，解释自己受君命不参与灭国。"
+        }
+      ],
+      "evidence": [
+        "一个鸠面老人手持黑拐，站定对面",
+        "威德正法国师脸色抽了抽，冷冷道",
+        "君有命，老臣不得不受"
+      ],
+      "mention_count": 7
     },
     {
       "name": "干戚缺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "干戚承"
+      ],
+      "identity": "龙脉之子，妖皇一脉后裔",
+      "faction": "妖皇一脉",
       "status": "登场",
       "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "“老祖，干戚缺拜见",
-      "appearance": [],
-      "personality": [],
+      "summary": "手持双刀，阻止白虎真神，不愿成为牺牲品。",
+      "appearance": [
+        "妙龄少女",
+        "手持一大一小两口白刃"
+      ],
+      "personality": [
+        "表情复杂",
+        "眼神坚定",
+        "冷冷"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "一大一小两口白刃"
+      ],
+      "relationships": [
+        {
+          "target": "白虎真神",
+          "type": "老祖"
+        },
+        {
+          "target": "父亲",
+          "type": "父女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用妖皇神通封印白虎真神，阻止其干预。"
+        }
+      ],
       "evidence": [
-        "“老祖，干戚缺拜见",
-        "”    “因为这小王妄图复辟，这等祸事——”    “便是你幕后组织的，”干戚缺冷冷道：“您担心因为我父亲，您会被您的那些真神伙伴们所忌惮，所以您出手了，炼铁手的确能保密，但白天官、诸葛我死后，可是留下了不少线索",
-        "”    干戚缺深吸一口气道：“我现在明白父王为什么不让我参加复国计划，因为我注定不能放弃王族血脉，同样也不愿成为这场谋划的牺牲品"
+        "干戚缺手持双刀，冷冷一笑",
+        "干戚缺深吸一口气道",
+        "干戚缺手持双刀，冷冷一笑"
       ],
       "mention_count": 5
     },
     {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "白虎真神",
+      "aliases": [
+        "白虎",
+        "老祖"
+      ],
+      "identity": "曾经的十二神王之一",
+      "faction": "神王",
       "status": "登场",
       "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "几盏灯笼飘入黑暗中，露出一身是血的紫衣人，挡在路前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "近万丈的白虎，愤怒咆哮，被干戚缺封印。",
+      "appearance": [
+        "近万丈的白虎"
+      ],
+      "personality": [
+        "忿怒"
+      ],
+      "abilities": [
+        "白虎星煞"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "干戚缺",
+          "type": "老祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "意图调动九幽军团，被干戚缺封印。"
+        }
+      ],
       "evidence": [
-        "几盏灯笼飘入黑暗中，露出一身是血的紫衣人，挡在路前",
-        "紫衣人抬头，露出一张极灿烂的笑容"
+        "一尊近万丈的白虎忿怒咆哮",
+        "白虎沉默了一会儿",
+        "白虎在做最后的争取"
       ],
       "mention_count": 5
     },
     {
-      "name": "道真",
+      "name": "照灯笼",
       "aliases": [],
-      "identity": "",
+      "identity": "人皇剑持有者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "”    道真天师望向对面，只见一只粗糙老手探出，双指夹住木剑剑尖，使之施展不得",
+      "summary": "使用人皇剑，与紫衣人战斗。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "冷冷"
+      ],
+      "abilities": [
+        "人皇剑意"
+      ],
+      "equipment": [
+        "人皇剑"
+      ],
+      "relationships": [
+        {
+          "target": "紫衣人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "识破被诓骗，拔剑施展第四剑一剑敦煌。"
+        }
+      ],
       "evidence": [
-        "”    道真天师望向对面，只见一只粗糙老手探出，双指夹住木剑剑尖，使之施展不得",
-        "”道真天师冷笑道",
-        "不过道真天师怎么也没想到，威德正法国师居然会出手阻止他"
+        "照灯笼豁然起身",
+        "照灯笼冷冷道",
+        "照灯笼甚至不屑回答"
       ],
       "mention_count": 4
     },
     {
-      "name": "道真天",
+      "name": "紫衣人",
       "aliases": [],
-      "identity": "",
+      "identity": "前朝内卫总管，横天都部元帅",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "”    道真天师望向对面，只见一只粗糙老手探出，双指夹住木剑剑尖，使之施展不得",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    道真天师望向对面，只见一只粗糙老手探出，双指夹住木剑剑尖，使之施展不得",
-        "”道真天师冷笑道",
-        "不过道真天师怎么也没想到，威德正法国师居然会出手阻止他"
+      "summary": "挡在照灯笼面前，自称两辈子爱两个人。",
+      "appearance": [
+        "一身是血",
+        "紫衣"
       ],
-      "mention_count": 4
+      "personality": [
+        "极灿烂的笑容"
+      ],
+      "abilities": [
+        "皇家武道领域——无"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "照灯笼",
+          "type": "敌对"
+        },
+        {
+          "target": "明妖皇",
+          "type": "上一辈挚爱"
+        },
+        {
+          "target": "重明儿",
+          "type": "这一生所爱"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用无领域封印人皇剑三息。"
+        }
+      ],
+      "evidence": [
+        "露出一身是血的紫衣人",
+        "紫衣人抬头，露出一张极灿烂的笑容",
+        "所以上一辈挚爱明妖皇，这一生只爱重明儿"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "道真天师",
+      "name": "戚笼",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "”    道真天师望向对面，只见一只粗糙老手探出，双指夹住木剑剑尖，使之施展不得",
+      "summary": "自言自语，思考死神僧、杀僧、红莲僧的秘密。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    道真天师望向对面，只见一只粗糙老手探出，双指夹住木剑剑尖，使之施展不得",
-        "”道真天师冷笑道",
-        "不过道真天师怎么也没想到，威德正法国师居然会出手阻止他"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "自言自语分析三念秘密。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "元神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "元神的伤势比起肉身还要严重，你可不要硬撑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "元神的伤势比起肉身还要严重，你可不要硬撑",
-        "”    元神高人比起真神，推演能力更强，一旦计划开展，便就瞒不住了"
+        "戚笼自言自语"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "冷冷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "威德正法国师脸色抽了抽，冷冷道：“老夫可没有那么蠢，耗尽妖皇一脉气运，只是为了给蚂蚁搬家",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "威德正法国师脸色抽了抽，冷冷道：“老夫可没有那么蠢，耗尽妖皇一脉气运，只是为了给蚂蚁搬家",
-        "“老夫立志复兴古国，只要有妖皇一脉的嫡系血脉举旗，老夫立刻跟随，”国师冷冷道：“王朝气运损耗殆尽，老夫恨不得杀了这些干戚一脉的不肖子孙",
-        "”    “因为这小王妄图复辟，这等祸事——”    “便是你幕后组织的，”干戚缺冷冷道：“您担心因为我父亲，您会被您的那些真神伙伴们所忌惮，所以您出手了，炼铁手的确能保密，但白天官、诸葛我死后，可是留下了不少线索"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "老夫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "威德正法国师脸色抽了抽，冷冷道：“老夫可没有那么蠢，耗尽妖皇一脉气运，只是为了给蚂蚁搬家",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "威德正法国师脸色抽了抽，冷冷道：“老夫可没有那么蠢，耗尽妖皇一脉气运，只是为了给蚂蚁搬家",
-        "“老夫立志复兴古国，只要有妖皇一脉的嫡系血脉举旗，老夫立刻跟随，”国师冷冷道：“王朝气运损耗殆尽，老夫恨不得杀了这些干戚一脉的不肖子孙"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "老臣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "”    “那你为何——”    “君有命，老臣不得不受，既然历代妖皇都有此意，老臣虽不赞同，亦不参与灭国之举，但是你也不能参与",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    “那你为何——”    “君有命，老臣不得不受，既然历代妖皇都有此意，老臣虽不赞同，亦不参与灭国之举，但是你也不能参与"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "白虎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百八十二章 道不同 相为谋（中）",
-      "summary": "”    在无数空间的另一面，一尊近万丈的白虎忿怒咆哮，一时间乌云笼罩，风暴连连，凶神恶煞的气息甚至钻出这个世界，绵延到大千世界中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    在无数空间的另一面，一尊近万丈的白虎忿怒咆哮，一时间乌云笼罩，风暴连连，凶神恶煞的气息甚至钻出这个世界，绵延到大千世界中",
-        "”    白虎星煞凝结，却不是白虎真神所为，而是一个妙龄少女，手持一大一小两口白刃，缓缓走出，表情复杂，但眼神却很坚定",
-        "”    白虎沉默了一会儿，“所以你想干什么"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

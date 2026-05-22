@@ -1,256 +1,432 @@
 {
   "chunk_id": "chunk-0246",
-  "title": "第二百四十三章 中府（下）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "上师"
+      ],
+      "identity": "练气士，能解决血兽的高手",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "”林新想了下，自己确实对中府一无所知，最好的办法就是先找个地方安定下来，慢慢打听了解情况",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”林新想了下，自己确实对中府一无所知，最好的办法就是先找个地方安定下来，慢慢打听了解情况",
-        "果然，一听到林新的决定，马原父女都有些松了口气",
-        "”　　林新点头"
+      "summary": "从南府逃难至中府的练气士，拥有青鱼灯，正在研究其与佛门的关联。",
+      "appearance": [
+        "一身暗绿色长衣，肩上绣了一朵金梅"
       ],
-      "mention_count": 32
+      "personality": [
+        "冷静",
+        "谨慎",
+        "独立"
+      ],
+      "abilities": [
+        "练气二品以上实力",
+        "能手刃血兽"
+      ],
+      "equipment": [
+        "青鱼灯"
+      ],
+      "relationships": [
+        {
+          "target": "马原",
+          "type": "同行者"
+        },
+        {
+          "target": "马秋秋",
+          "type": "同行者"
+        },
+        {
+          "target": "表小姐",
+          "type": "被召见对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在马府暂住，研究青鱼灯，拒绝表小姐召见。"
+        }
+      ],
+      "evidence": [
+        "林新想了下，自己确实对中府一无所知，最好的办法就是先找个地方安定下来，慢慢打听了解情况。",
+        "能够解决一般血兽的高手，至少也是练气士，一个练气二品高手，在这里居然会遇到这等待遇，却是有些所料未及。",
+        "林新已经提着书进了院子卧房，关上门丢出一句话。‘我闭关休息，不要吵我。’"
+      ],
+      "mention_count": 20
     },
     {
       "name": "马原",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "马叔叔"
+      ],
+      "identity": "南府商人，马家远亲",
+      "faction": "马家",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "果然，一听到林新的决定，马原父女都有些松了口气",
+      "summary": "带林新到中府的马家远亲，在佘临城有亲族。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "善于交际"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "果然，一听到林新的决定，马原父女都有些松了口气",
-        "”马原赶紧道，“我马家在这里附近的佘临城内，也算是名门望族，等我安排好，上师也能安心在这里休息一段时间，了解周围环境清楚后，再做打算也不迟",
-        "”　　一行人先去了一处商行模样的地方，马原拿出一个小袋子交了货，便马不停蹄的直接去车马行雇了数辆马车，购置好吃喝，直接前往附近的佘临城"
+      "relationships": [
+        {
+          "target": "马秋秋",
+          "type": "父女"
+        },
+        {
+          "target": "林新",
+          "type": "同行者"
+        },
+        {
+          "target": "表小姐",
+          "type": "远亲"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带林新到佘临城马府，之后离开。"
+        }
+      ],
+      "evidence": [
+        "马原也是陪着笑道，又递上去一点东西。",
+        "马原赶紧道，‘我马家在这里附近的佘临城内，也算是名门望族’",
+        "从马原马秋秋父女离开，已经有三天了"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "此时",
+      "name": "马秋秋",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "马原之女",
+      "faction": "马家",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "此时他正坐在铺子里，和其余一起来吃早餐的人混杂在一起，泯然众人，没有一点异样凸出",
+      "summary": "马原的女儿，与父亲一同逃难至中府。",
+      "appearance": [],
+      "personality": [
+        "易伤感"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马原",
+          "type": "父女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与父亲一同到达马府。"
+        }
+      ],
+      "evidence": [
+        "马秋秋也是想起之前的情形，又有些想要落泪。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "表小姐",
+      "aliases": [],
+      "identity": "马府主人，马家表小姐",
+      "faction": "马府",
+      "status": "提及",
+      "first_appearance": "第二百四十三章 中府（下）",
+      "summary": "马府的实际掌权者，有意招揽林新为女儿所用。",
+      "appearance": [],
+      "personality": [
+        "精明",
+        "有算计"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马原",
+          "type": "远亲"
+        },
+        {
+          "target": "林新",
+          "type": "试图招揽"
+        },
+        {
+          "target": "萱儿",
+          "type": "母女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "召见林新被拒，计划招揽其为女儿所用。"
+        }
+      ],
+      "evidence": [
+        "表小姐感兴趣了，要召见他。",
+        "女子却是淡淡一笑。‘我女不久就要从坤琳剑派回来’",
+        "‘正好这次马原他们一起过来逃难的人中，这个红花实力能够杀死那劳什子什么血兽，应该不错，正好可以给萱儿做个身边主事。’"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "萱儿",
+      "aliases": [],
+      "identity": "表小姐之女，坤琳剑派正式弟子",
+      "faction": "坤琳剑派",
+      "status": "提及",
+      "first_appearance": "第二百四十三章 中府（下）",
+      "summary": "表小姐的女儿，即将从坤琳剑派归来成为正式弟子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时他正坐在铺子里，和其余一起来吃早餐的人混杂在一起，泯然众人，没有一点异样凸出",
-        "不知道怎么的，林新忽然想起青鱼灯，此时站在寺庙前，他隐隐感觉有些安心宁静",
-        "此时站在寺庙前，也是一样感觉"
+      "relationships": [
+        {
+          "target": "表小姐",
+          "type": "母女"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "即将从坤琳剑派回来。"
+        }
+      ],
+      "evidence": [
+        "我女不久就要从坤琳剑派回来，这次成为正式弟子"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "华世龙城",
+      "aliases": [],
+      "identity": "江湖人士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二百四十三章 中府（下）",
+      "summary": "在街上打斗的江湖人士之一，被另一人称为华世龙城。",
+      "appearance": [],
+      "personality": [
+        "轻浮"
+      ],
+      "abilities": [
+        "内家高手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "宋掌门",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在街上与宋掌门等人打斗。"
+        }
+      ],
+      "evidence": [
+        "华世龙城，既然被我撞上了，昨日之仇今日了结。",
+        "另一人嬉皮笑脸道，‘不就是勾搭几下随便玩玩，用得着这么大动肝火？’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "宋掌门",
+      "aliases": [],
+      "identity": "某门派掌门",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二百四十三章 中府（下）",
+      "summary": "与华世龙城有仇的掌门，因妻子被杀而寻仇。",
+      "appearance": [],
+      "personality": [
+        "愤怒"
+      ],
+      "abilities": [
+        "内家高手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "华世龙城",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在街上与华世龙城打斗。"
+        }
+      ],
+      "evidence": [
+        "宋掌门，那次之事可怪不得我吧",
+        "杀妻之仇不共戴天！"
+      ],
+      "mention_count": 2
     },
     {
       "name": "丫鬟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "马府丫鬟",
+      "faction": "马府",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "一行人马从侧面侧门进去，有穿黑色描金长裙的丫鬟迎出来",
-      "appearance": [],
-      "personality": [],
+      "summary": "马府中迎接马原一行人的丫鬟，伶俐可爱。",
+      "appearance": [
+        "穿黑色描金长裙",
+        "身材娇小",
+        "伶俐可爱"
+      ],
+      "personality": [
+        "伶俐"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一行人马从侧面侧门进去，有穿黑色描金长裙的丫鬟迎出来",
-        "”丫鬟生得伶俐可爱，身材娇小，带着马原一行人进了侧门",
-        "”丫鬟接过东西低声问"
+      "relationships": [
+        {
+          "target": "表小姐",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接马原一行人，并带他们见表小姐。"
+        }
+      ],
+      "evidence": [
+        "有穿黑色描金长裙的丫鬟迎出来。",
+        "丫鬟生得伶俐可爱，身材娇小，带着马原一行人进了侧门。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "小沙弥",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "寺庙僧人",
+      "faction": "寺庙",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "仅仅只是一天的路程，马原等人便带着林新，来到城内一处朱门石狮的深宅大院前",
+      "summary": "寺庙中清扫台阶的小沙弥，为林新指路。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "仅仅只是一天的路程，马原等人便带着林新，来到城内一处朱门石狮的深宅大院前",
-        "“只是点小玩意，不成敬意",
-        "只是有些烫，喝下去肚里全是暖洋洋的，很是舒服"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在寺庙台阶上扫地，接待林新。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "石阶上正又一个小沙弥握着扫帚在清扫台阶。",
+        "小沙弥看到林新进来，便也迎上来问。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "中府",
+      "name": "小和尚",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "寺庙僧人",
+      "faction": "寺庙",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "第二百四十三章 中府（下）　　“既如此，那便先叨扰一阵了",
+      "summary": "寺庙中向林新推销佛经的小和尚。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "机灵"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二百四十三章 中府（下）　　“既如此，那便先叨扰一阵了",
-        "”林新想了下，自己确实对中府一无所知，最好的办法就是先找个地方安定下来，慢慢打听了解情况",
-        "这几天，他在附近转了转，中府说的话口音和南府相差不多，只是调子有些不同，显然双方是有流通语言的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新询问是否需要佛经。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "一个小和尚凑过来询问。",
+        "小和尚顿时感觉生意来了，双眼发亮问道。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "而且",
+      "name": "老妈子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "马府仆人",
+      "faction": "马府",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "而且他也需要一段安稳的时间来仔细研究青鱼灯对自己身体的影响",
+      "summary": "马府中陪表小姐说话的老妈子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "多嘴"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且他也需要一段安稳的时间来仔细研究青鱼灯对自己身体的影响",
-        "而且这几天研究发现，他只要诵读佛经，便能加强青鱼灯对抗腐烂的程度",
-        "而且关联不小"
+      "relationships": [
+        {
+          "target": "表小姐",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与表小姐讨论马原等人。"
+        }
+      ],
+      "evidence": [
+        "两个老妈子正陪着一个娇美贵气女子说着话。",
+        "一老妈子担心道。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "不知道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "女子",
+      "aliases": [
+        "表小姐"
+      ],
+      "identity": "马府主母",
+      "faction": "马府",
       "status": "登场",
       "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "热腾腾的豆浆喝着没什么味道，不知道冲了多少水",
-      "appearance": [],
-      "personality": [],
+      "summary": "马府主母，表小姐，为女儿萱儿的前途谋划。",
+      "appearance": [
+        "娇美贵气"
+      ],
+      "personality": [
+        "精明",
+        "有远见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "热腾腾的豆浆喝着没什么味道，不知道冲了多少水",
-        "不知道怎么的，林新忽然想起青鱼灯，此时站在寺庙前，他隐隐感觉有些安心宁静",
-        "但看现在这样子，似乎是这表小姐对他有了一丝兴趣，也不知道马原父女在她面前说了什么"
+      "relationships": [
+        {
+          "target": "萱儿",
+          "type": "母女"
+        },
+        {
+          "target": "马原",
+          "type": "远亲"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "他在附",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "这几天，他在附近转了转，中府说的话口音和南府相差不多，只是调子有些不同，显然双方是有流通语言的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这几天，他在附近转了转，中府说的话口音和南府相差不多，只是调子有些不同，显然双方是有流通语言的",
-        "在马府这几天里，他在附近找到了一家小书店，在里面有很多纪录类的县志府志之类书籍，可以去翻看一下，了解关于中府的大致环境"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与老妈子商议招揽林新之事。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "既然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "“华世龙城，既然被我撞上了，昨日之仇今日了结",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“华世龙城，既然被我撞上了，昨日之仇今日了结",
-        "“既然是华世龙城",
-        "既然心有所感，不如立刻就去看看"
+        "女子却是淡淡一笑。",
+        "我这个做娘的，唯一要注意的，便是为她安定后方"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "可以",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "在马府这几天里，他在附近找到了一家小书店，在里面有很多纪录类的县志府志之类书籍，可以去翻看一下，了解关于中府的大致环境",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在马府这几天里，他在附近找到了一家小书店，在里面有很多纪录类的县志府志之类书籍，可以去翻看一下，了解关于中府的大致环境",
-        "越过一个卖仿写字画和小玩意的路口，路边有着一个小小的寺庙，从白石牌匾往里望去，可以看到长长的往里延伸的白色石阶，里面隐隐有诵经声穿出",
-        "自从知道这东西可以对抗身体腐烂化后，他便将其放在自己心口处，护住心脉"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "正好",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二百四十三章 中府（下）",
-      "summary": "“我女不久就要从坤琳剑派回来，这次成为正式弟子，正好大办一场，且萱儿身边也需要一点人手使唤，一直是以前那般的凡俗之人也不大行，也需要一点高手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“我女不久就要从坤琳剑派回来，这次成为正式弟子，正好大办一场，且萱儿身边也需要一点人手使唤，一直是以前那般的凡俗之人也不大行，也需要一点高手",
-        "”　　“正好这次马原他们一起过来逃难的人中，这个红花实力能够杀死那劳什子什么血兽，应该不错，正好可以给萱儿做个身边主事"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

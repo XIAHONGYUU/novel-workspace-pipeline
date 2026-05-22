@@ -1,0 +1,219 @@
+{
+  "chunk_id": "chunk-0463",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在神殿地下探索，释放了被封印的女子。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "火焰操控",
+        "芯片辅助"
+      ],
+      "equipment": [
+        "黑色镜面",
+        "暗红地图"
+      ],
+      "relationships": [
+        {
+          "target": "蝎女",
+          "type": "被封印者"
+        },
+        {
+          "target": "眼魔",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入神殿地下，释放被封印的女子，收到眼魔求助。"
+        }
+      ],
+      "evidence": [
+        "安格列身形瞬间爆开化为一团红色火焰，重新在数米外的地方凝聚出来。",
+        "安格列站在原地，双眼缓缓亮起蓝光，同时双眼上方也浮现出一双暗金色双眼。",
+        "安格列伸手轻轻探入黑色雾气中间。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "蝎女",
+      "aliases": [
+        "女子",
+        "女人"
+      ],
+      "identity": "被封印的存在",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被狩猎女神封印在神殿地下上千年的存在，被安格列释放。",
+      "appearance": [
+        "浑身仿佛涂了一层黑色涂料",
+        "像是一层丝袜般的质料"
+      ],
+      "personality": [],
+      "abilities": [
+        "情绪运用"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "释放者"
+        },
+        {
+          "target": "狩猎女神",
+          "type": "封印者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列释放。"
+        }
+      ],
+      "evidence": [
+        "我被狩猎女神封印了上千年",
+        "蝎女从来都是运用情绪的顶尖强者",
+        "女子浑身仿佛涂了一层黑色涂料"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "眼魔",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的盟友，正在与海神和远古巨树战斗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "盟友"
+        },
+        {
+          "target": "海神",
+          "type": "敌人"
+        },
+        {
+          "target": "远古巨树",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向安格列求助，称海神想同归于尽并找来远古巨树封印时空漩涡。"
+        }
+      ],
+      "evidence": [
+        "凤凰，情况有变，我需要你们的帮助！",
+        "海神那只老乌龟想和我同归于尽！！他还找来了远古巨树准备封印时空漩涡！！"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "海神",
+      "aliases": [
+        "老乌龟"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "眼魔的敌人，试图与眼魔同归于尽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "眼魔",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "想与眼魔同归于尽，并找来远古巨树封印时空漩涡。"
+        }
+      ],
+      "evidence": [
+        "海神那只老乌龟想和我同归于尽！！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "远古巨树",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被海神找来封印时空漩涡的存在。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "海神",
+          "type": "被召唤"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被海神找来准备封印时空漩涡。"
+        }
+      ],
+      "evidence": [
+        "他还找来了远古巨树准备封印时空漩涡！！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "狩猎女神",
+      "aliases": [],
+      "identity": "神祇",
+      "faction": "神殿",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "封印蝎女的神祇。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "蝎女",
+          "type": "封印者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "封印了蝎女上千年。"
+        }
+      ],
+      "evidence": [
+        "我被狩猎女神封印了上千年"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

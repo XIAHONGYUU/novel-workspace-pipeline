@@ -1,258 +1,729 @@
 {
   "chunk_id": "chunk-0047",
-  "title": "前言",
   "characters": [
     {
-      "name": "吕龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "帮内关于贩婴一事，也不是没有争议，只不过高昂的价格，让长老们，尤其是吕龙头压制住一切声音",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "帮内关于贩婴一事，也不是没有争议，只不过高昂的价格，让长老们，尤其是吕龙头压制住一切声音",
-        "表面上，江南的长老团和吕龙头所掌握的势力，他们两派推举出的人物是最有可能的，但其实，镇岛虎、金刚虎、胭脂虎三人早已达成共识，他们推举出的人物未必不能胜出",
-        "………………    ‘滴答’‘滴答’‘滴答’    无面狼缓缓将刀口拔出，吕龙头的十几个亲信，至少也是精通以上的拳师，全部倒在了血泊之中"
+      "name": "寇立",
+      "aliases": [
+        "大总管",
+        "凤府大总管"
       ],
-      "mention_count": 22
+      "identity": "凤府大总管",
+      "faction": "凤公主一方",
+      "status": "登场",
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "凤府大总管，带领拳师与吕龙头对抗。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "拳术高强",
+        "四大炼之境"
+      ],
+      "equipment": [
+        "童子切鱼纲（妖刀）",
+        "无字图"
+      ],
+      "relationships": [
+        {
+          "target": "吕龙头",
+          "type": "敌对"
+        },
+        {
+          "target": "胭脂虎",
+          "type": "同一阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十一章",
+          "event": "破坏祭祀，与黑狼旗战斗。"
+        },
+        {
+          "stage": "第六十四章",
+          "event": "带领拳师拦截吕龙头父子。"
+        }
+      ],
+      "evidence": [
+        "寇立将受一转，那被刻意装点成普通刀身的童子切鱼纲瞬间出鞘",
+        "原来是凤府大总管，老夫只有一事不解，你是怎么发现的？",
+        "寇立平静的道"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "吕龙头",
+      "aliases": [
+        "吕长恩",
+        "吕老鬼",
+        "吕龙头"
+      ],
+      "identity": "水龙帮前任龙头",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "水龙帮前任龙头，老谋深算，计划利用天狼魔阵和鬼娃造反。",
+      "appearance": [
+        "苍老的背影",
+        "佝偻的身躯"
+      ],
+      "personality": [
+        "老谋深算",
+        "残忍",
+        "野心勃勃"
+      ],
+      "abilities": [
+        "拳术高强",
+        "精通阴谋"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "无面狼",
+          "type": "仇敌"
+        },
+        {
+          "target": "狼公子",
+          "type": "父子"
+        },
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十一章",
+          "event": "在狼头大殿后的小楼阁中，揭露无面狼的阴谋。"
+        },
+        {
+          "stage": "第六十四章",
+          "event": "准备登船离开，被寇立拦截。"
+        }
+      ],
+      "evidence": [
+        "吕龙头苍老的背影，居然靠在窗边微微打起了鼾",
+        "老夫不一样，老夫喜欢吃自己碗里的肉",
+        "待到秋来九月八，我花开后百花杀。冲天香阵透长安，满城尽带黄金甲。吕龙头好雅兴。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "无面狼",
+      "aliases": [
+        "冷血魔狼"
+      ],
+      "identity": "水龙帮八狼之一",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "水龙帮八狼之一，为父报仇刺杀吕龙头，反被吕龙头所杀。",
+      "appearance": [
+        "烧焦烫伤的脸面，没有皮肤，只有抽搐的血肉"
+      ],
+      "personality": [
+        "隐忍",
+        "复仇心切"
+      ],
+      "abilities": [
+        "精通三种暗杀拳"
+      ],
+      "equipment": [
+        "滴血的刀"
+      ],
+      "relationships": [
+        {
+          "target": "吕龙头",
+          "type": "仇敌"
+        },
+        {
+          "target": "暴狼",
+          "type": "同谋"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十一章",
+          "event": "刺杀吕龙头，反被埋伏重伤。"
+        },
+        {
+          "stage": "第六十二章",
+          "event": "被吕龙头斩杀。"
+        }
+      ],
+      "evidence": [
+        "无面狼缓缓将刀口拔出，吕龙头的十几个亲信...全部倒在了血泊之中",
+        "无面狼被死死的压住，连面具都被砸的粉碎",
+        "冷血魔狼无面狼——亡！"
+      ],
+      "mention_count": 8
     },
     {
       "name": "胭脂虎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "…………    胭脂虎望着昏暗的天空，不知怎么，心情罕见的有些不安，明明该是把握十足才对",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "…………    胭脂虎望着昏暗的天空，不知怎么，心情罕见的有些不安，明明该是把握十足才对",
-        "”胭脂虎皱眉",
-        "”    胭脂虎柳眉微颦，不是失手，那又是什么，今夜的狼头岛，居然让她想到了之前的总督大宅子，不安在加剧"
+      "aliases": [
+        "胭脂",
+        "胭脂姑娘"
       ],
-      "mention_count": 20
-    },
-    {
-      "name": "招风",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "水龙帮四虎之一",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    招风耳大汉一个虚步上拨棍，棍梢一抖，交叉步转出扭拧劲，瞬间将两个狼影挑飞，不过其中一个半妖魔双爪如钩，居然在钢铁长棍上拉出十道金属爪痕；这一招，极像是狼形中的转狼追爪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    招风耳大汉一个虚步上拨棍，棍梢一抖，交叉步转出扭拧劲，瞬间将两个狼影挑飞，不过其中一个半妖魔双爪如钩，居然在钢铁长棍上拉出十道金属爪痕；这一招，极像是狼形中的转狼追爪",
-        "招风耳心中一紧，他也是厮杀多年的帮中干将，名气仅次于四狼八虎，知道这时不能硬顶，刚准备撤招，一口软剑忽然如毒蛇般袭来，瞬间盯在了对方眼珠子上",
-        "”    招风耳苦笑一声，他是苏地外使，还是支持江南长老团的立场，可如今，长老团的老胳膊老腿，哪能在那场人与半妖魔的大混战中活下来，新上任的‘杨龙头’，更是直接被妖魔活活咬断了脑袋，之前的算计，就统统变成了一场笑话"
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "水龙帮四虎之一，女性，剑法高超，在混乱中带领手下逃生。",
+      "appearance": [
+        "妩媚脸蛋"
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "半柱香后，寇立从监牢中走了出来，已经归鞘的刀身似乎变了模样，似乎大了一圈，而且透着一股实质性的凶残感觉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "半柱香后，寇立从监牢中走了出来，已经归鞘的刀身似乎变了模样，似乎大了一圈，而且透着一股实质性的凶残感觉",
-        "印象中，真正的贩婴，也就是这十几年的事吧，而且与他交接的，似乎是个青靛鬼般的中年男人，脸色的肤色诡异的很",
-        "刀口劈上去的时候，就像是砍在硬木上，同时对方手影一闪，好似钩刀，只攻不守，居然同样是暗杀拳的路数，而且动手前没有半点迹象，绝对是得了深功夫"
+      "personality": [
+        "狠辣",
+        "果断",
+        "敏锐"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "胭脂",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "…………    胭脂虎望着昏暗的天空，不知怎么，心情罕见的有些不安，明明该是把握十足才对",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "…………    胭脂虎望着昏暗的天空，不知怎么，心情罕见的有些不安，明明该是把握十足才对",
-        "”胭脂虎皱眉",
-        "”    胭脂虎柳眉微颦，不是失手，那又是什么，今夜的狼头岛，居然让她想到了之前的总督大宅子，不安在加剧"
+      "abilities": [
+        "剑法入神",
+        "四大炼之境（旁门左道）"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "居然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "刀身和血色狼影一撞，一股奇异的巨力冲来，逼迫着寇立连退数步，而让他也没想到的是，似乎受到了某种刺激，刀身居然剧烈颤抖起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "刀身和血色狼影一撞，一股奇异的巨力冲来，逼迫着寇立连退数步，而让他也没想到的是，似乎受到了某种刺激，刀身居然剧烈颤抖起来",
-        "”    胭脂虎柳眉微颦，不是失手，那又是什么，今夜的狼头岛，居然让她想到了之前的总督大宅子，不安在加剧",
-        "可是现在，胭脂虎居然开始反对这一举动，镇岛虎本就敏感的神经顿时一跳"
+      "equipment": [
+        "软剑"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“怎么是他们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“怎么是他们",
-        "水龙帮在做人口买卖也不是一日两日的了，基本上高层都有个概念，而负责帮内海外船只的鱼头狼，更是经常与他们接头",
-        "在大厅之中，杨峻才和胭脂虎擦身而过，细微的声音传到了她的耳朵里，带着一份焦急和恼怒，“胭脂姑娘，别玩过了，我的这些朋友，家中长辈都是朝廷诸公，他们要是少了一根汗毛，整个水龙帮都受不起，你若是识相的话——”    “他们的死活，跟妾身有什么关"
+      "relationships": [
+        {
+          "target": "镇岛虎",
+          "type": "盟友"
+        },
+        {
+          "target": "金刚虎",
+          "type": "盟友"
+        },
+        {
+          "target": "寇立",
+          "type": "同一阵营"
+        }
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "老夫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    然后，他看到了对方手上那滴血的刀身，老脸露出诡谲的神色，“原来，你是来杀老夫的啊，看来你果然没忘记当年的事，忍了快二十年，也不容易啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    然后，他看到了对方手上那滴血的刀身，老脸露出诡谲的神色，“原来，你是来杀老夫的啊，看来你果然没忘记当年的事，忍了快二十年，也不容易啊",
-        "“当年老夫和你爹竞选龙头，老夫赢了，你爹输了，我找机会弄死了你爹，本还想着斩草除根，但你表现的太老实了，居然让老夫动了恻隐之心，放了你一马，看来的确是个错误的决定",
-        "”    “让老夫猜猜，你应该是先跟死了儿子的大长老勾结上，然后又蛊惑了暴狼，这孩子其实是个半人半妖魔，大长老有控制的手段，只是老夫不明白，既然你想要老夫死，为什么在之前，没有让暴狼得手呢"
+      "timeline": [
+        {
+          "stage": "第六十一章",
+          "event": "察觉不对劲，决定提前动手。"
+        },
+        {
+          "stage": "第六十三章",
+          "event": "带领手下沿狼脊道逃生，与金刚虎会合。"
+        }
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "松鼠姑娘小跑了过来，焦急的道：“姐姐，我们派出去的两个姐妹不见了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "松鼠姑娘小跑了过来，焦急的道：“姐姐，我们派出去的两个姐妹不见了",
-        "“说不清楚，但是妾身怀疑我们被人下了局，金刚虎这厮呢，还有那位——他们人呢",
-        "”    “现在岛上的大部分人都疯了，见人就吃就咬，就连我们自家兄弟有的、有的都变成了怪物…我们好不容易杀了出来，”一个护卫头领喘着粗气道"
-      ],
-      "mention_count": 13
-    },
-    {
-      "name": "杨峻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "在大厅之中，杨峻才和胭脂虎擦身而过，细微的声音传到了她的耳朵里，带着一份焦急和恼怒，“胭脂姑娘，别玩过了，我的这些朋友，家中长辈都是朝廷诸公，他们要是少了一根汗毛，整个水龙帮都受不起，你若是识相的话——”    “他们的死活，跟妾身有什么关",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在大厅之中，杨峻才和胭脂虎擦身而过，细微的声音传到了她的耳朵里，带着一份焦急和恼怒，“胭脂姑娘，别玩过了，我的这些朋友，家中长辈都是朝廷诸公，他们要是少了一根汗毛，整个水龙帮都受不起，你若是识相的话——”    “他们的死活，跟妾身有什么关",
-        "”    冰冷的声音同时响起，杨峻才一愣，抬头望去，却看到胭脂虎妩媚脸蛋上，那种残忍、冷漠、蔑视，还有赤·裸裸的杀意，让这个举人老爷忽然打了个激灵，再也说不出话来",
-        "正文 第六十二章 天狼吟（中）    “杨峻才，一百三十票"
-      ],
-      "mention_count": 13
-    },
-    {
-      "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "一看奏效，寇立顿时心中一喜，这应该是跟香神道的手段类似，用人去祭祀妖魔，这种过程只要被打断，便就能破坏祭祀的效果",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一看奏效，寇立顿时心中一喜，这应该是跟香神道的手段类似，用人去祭祀妖魔，这种过程只要被打断，便就能破坏祭祀的效果",
-        "似乎这种行为也触怒了旗中黑狼，‘砰’的一声，暴狼的身体整个爆炸开来，化作一道赤条条、血淋林的狼影，龇牙咧嘴，直向寇立扑了过来",
-        "寇立将受一转，那被刻意装点成普通刀身的童子切鱼纲瞬间出鞘，刀尖无形锯齿一张，同时撕咬了过去"
+        "胭脂虎望着昏暗的天空，不知怎么，心情罕见的有些不安",
+        "胭脂虎柳眉微颦，不是失手，那又是什么",
+        "胭脂虎妩媚脸蛋上，那种残忍、冷漠、蔑视"
       ],
       "mention_count": 12
     },
     {
       "name": "镇岛虎",
+      "aliases": [
+        "汪船主"
+      ],
+      "identity": "水龙帮四虎之一",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "水龙帮四虎之一，威震海外的船主，被狼公子所杀。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "拳术高强"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "盟友"
+        },
+        {
+          "target": "狼公子",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十一章",
+          "event": "与胭脂虎商议提前动手。"
+        },
+        {
+          "stage": "第六十二章",
+          "event": "尸体被发现，已死亡。"
+        }
+      ],
+      "evidence": [
+        "镇岛虎的尸体就这么干脆的躺在地上，双眼凸起，四肢被怪异的拧转了一圈",
+        "这位威震海外的汪船主，帮中数一数二的实力派，死的是如此憋屈和不可思议"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "金刚虎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "水龙帮四虎之一",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "胭脂虎也不理会这个自作聪明的家伙，在人群中找到了镇岛虎，打了个眼色，二人前后走到偏僻的一角，虽然已经被人注意到，但已经顾不得了",
+      "first_appearance": "第六十三章 天狼吟（下）",
+      "summary": "水龙帮四虎之一，已入四大炼之境，在混乱中救援胭脂虎等人。",
+      "appearance": [],
+      "personality": [
+        "豪爽",
+        "不屑权谋"
+      ],
+      "abilities": [
+        "四大炼之境"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "盟友"
+        },
+        {
+          "target": "车九牛",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十三章",
+          "event": "与车九牛一起击杀两个深化妖魔，救援胭脂虎。"
+        }
+      ],
+      "evidence": [
+        "金刚虎！",
+        "没想到你居然入了四大炼之境",
+        "水龙帮都没了，龙头有个屁用！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "狼公子",
+      "aliases": [],
+      "identity": "吕龙头的儿子",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十二章 天狼吟（中）",
+      "summary": "吕龙头的儿子，残忍嗜血，带领鬼娃行动。",
+      "appearance": [],
+      "personality": [
+        "嗜血",
+        "残忍"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吕龙头",
+          "type": "父子"
+        },
+        {
+          "target": "镇岛虎",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十二章",
+          "event": "提着大长老的脑袋出现，声称杀了镇岛虎。"
+        },
+        {
+          "stage": "第六十四章",
+          "event": "与父亲吕龙头一起准备登船离开。"
+        }
+      ],
+      "evidence": [
+        "狼公子和十几个同样白衣青脸的诡异孩童出现",
+        "狼公子的手上，还提着个血淋林的脑袋",
+        "狼公子满脸嗜血的道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "鱼头狼",
+      "aliases": [],
+      "identity": "水龙帮成员，负责海外船只",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "水龙帮成员，负责海外船只，对人口贩卖不满，后被插翅狼所救。",
+      "appearance": [],
+      "personality": [
+        "粗鲁",
+        "有底线"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "插翅狼",
+          "type": "被救"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十一章",
+          "event": "发现贩婴船，感到不安。"
+        },
+        {
+          "stage": "第六十三章",
+          "event": "被插翅狼救出，讲述吕龙头的阴谋。"
+        }
+      ],
+      "evidence": [
+        "鱼头狼忍不住怒骂一声",
+        "鱼头狼顶着瓢泼大雨走到甲板上",
+        "鱼头狼苦笑道：完了，都完了，吕老鬼把我们都耍了"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "插翅狼",
+      "aliases": [],
+      "identity": "水龙帮八狼之一",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十三章 天狼吟（下）",
+      "summary": "水龙帮八狼之一，断臂，暗中改装运粪船以救底层兄弟。",
+      "appearance": [
+        "断了一臂"
+      ],
+      "personality": [
+        "重义气",
+        "关心底层"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鱼头狼",
+          "type": "救援"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十三章",
+          "event": "救出鱼头狼等人，并透露运粪船的存在。"
+        }
+      ],
+      "evidence": [
+        "另一个熟悉面孔出现，居然是断了一臂的插翅狼",
+        "插翅狼忽然咧开了嘴，满眼嘲讽",
+        "这运粪船我早就让人改装过"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "杨峻才",
+      "aliases": [
+        "杨龙头"
+      ],
+      "identity": "江南举人，被推举为水龙帮新龙头",
+      "faction": "江南长老团",
+      "status": "死亡",
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "江南举人，被长老团推举为龙头，后死于妖魔之口。",
+      "appearance": [
+        "细皮嫩肉"
+      ],
+      "personality": [
+        "自矜",
+        "胆小"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十二章",
+          "event": "被推举为龙头，但局势失控。"
+        },
+        {
+          "stage": "第六十三章",
+          "event": "被妖魔咬断脑袋而死。"
+        }
+      ],
+      "evidence": [
+        "杨峻才，一百三十票",
+        "这位细皮嫩肉的举人老人微微自矜",
+        "新上任的‘杨龙头’，更是直接被妖魔活活咬断了脑袋"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "周谪仙",
+      "aliases": [],
+      "identity": "拳师",
+      "faction": "凤公主一方",
+      "status": "登场",
+      "first_appearance": "第六十四章 天狼吟（完）",
+      "summary": "凤公主一方的拳师，身法高超，准备刺杀吕龙头。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "炼筋级别身法",
+        "拳术高强"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十四章",
+          "event": "与寇立一同拦截吕龙头，施展身法准备刺杀。"
+        }
+      ],
+      "evidence": [
+        "周谪仙的目光扫过战场",
+        "周谪仙的身影似缓实快，仙人提玉壶，醉酒过江洋"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "薛守诚",
+      "aliases": [],
+      "identity": "豪门子弟，官袍青年",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第六十二章 天狼吟（中）",
+      "summary": "豪门子弟，乘船前来，似乎与凤公主有关。",
+      "appearance": [
+        "官袍青年"
+      ],
+      "personality": [
+        "自信"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "凤公主",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十二章",
+          "event": "乘薛字大船破浪而来，声称要让凤公主看看男人的本事。"
+        }
+      ],
+      "evidence": [
+        "站在船头迎接风浪的是一个官袍青年，正是当初跟黄公子一起出现在赌船上的豪门子弟薛守诚",
+        "凤公主，这次我一定要你看看，不是什么事情，都是女人能做的！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "招风耳",
+      "aliases": [],
+      "identity": "水龙帮苏地外使",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十三章 天狼吟（下）",
+      "summary": "水龙帮苏地外使，支持江南长老团，后与胭脂虎一同逃生。",
+      "appearance": [],
+      "personality": [
+        "苦笑",
+        "无奈"
+      ],
+      "abilities": [
+        "棍术"
+      ],
+      "equipment": [
+        "钢铁长棍"
+      ],
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十三章",
+          "event": "与胭脂虎一同逃生，遇到深化妖魔，后被金刚虎所救。"
+        }
+      ],
+      "evidence": [
+        "招风耳大汉一个虚步上拨棍",
+        "招风耳苦笑一声，他是苏地外使",
+        "招风耳惨白着脸道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "车九牛",
+      "aliases": [],
+      "identity": "拳师",
+      "faction": "凤公主一方",
+      "status": "登场",
+      "first_appearance": "第六十三章 天狼吟（下）",
+      "summary": "拳师，与金刚虎一同击杀深化妖魔。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "拳术高强"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金刚虎",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十三章",
+          "event": "与金刚虎一起击杀两个深化妖魔。"
+        }
+      ],
+      "evidence": [
+        "车九牛！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "洪四官",
+      "aliases": [],
+      "identity": "凤府人员",
+      "faction": "凤公主一方",
+      "status": "登场",
+      "first_appearance": "第六十三章 天狼吟（下）",
+      "summary": "凤府人员，稳重干练，负责救援。",
+      "appearance": [],
+      "personality": [
+        "稳重",
+        "干练"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "救援"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十三章",
+          "event": "在山谷会合大部队，负责救援胭脂虎等人。"
+        }
+      ],
+      "evidence": [
+        "洪四官低声道，他速来稳重干练，被委派负责救援"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "暴狼",
+      "aliases": [],
+      "identity": "水龙帮八狼之一",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "第六十一章 天狼吟（上）",
+      "summary": "水龙帮八狼之一，半人半妖魔，被寇立所杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "半人半妖魔"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "无面狼",
+          "type": "同谋"
+        },
+        {
+          "target": "大长老",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十一章",
+          "event": "身体爆炸化作狼影攻击寇立，被寇立击败。"
+        }
+      ],
+      "evidence": [
+        "暴狼的身体整个爆炸开来，化作一道赤条条、血淋林的狼影"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "大长老",
+      "aliases": [],
+      "identity": "水龙帮大长老",
+      "faction": "水龙帮",
+      "status": "死亡",
+      "first_appearance": "第六十二章 天狼吟（中）",
+      "summary": "水龙帮大长老，曾摆下天狼魔阵，后被狼公子所杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "精通阵法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "无面狼",
+          "type": "同谋"
+        },
+        {
+          "target": "狼公子",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第六十二章",
+          "event": "被狼公子提着脑袋出现。"
+        }
+      ],
+      "evidence": [
+        "这个脑袋，正是死去的大长老"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "青凤",
+      "aliases": [],
+      "identity": "胭脂虎手下",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十三章 天狼吟（下）",
+      "summary": "胭脂虎的手下，跟随胭脂虎逃生。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "胭脂虎也不理会这个自作聪明的家伙，在人群中找到了镇岛虎，打了个眼色，二人前后走到偏僻的一角，虽然已经被人注意到，但已经顾不得了",
-        "”镇岛虎低声道",
-        "表面上，江南的长老团和吕龙头所掌握的势力，他们两派推举出的人物是最有可能的，但其实，镇岛虎、金刚虎、胭脂虎三人早已达成共识，他们推举出的人物未必不能胜出"
+      "relationships": [
+        {
+          "target": "胭脂虎",
+          "type": "下属"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "第六十三章",
+          "event": "回应胭脂虎，确认会有人接应。"
+        }
+      ],
+      "evidence": [
+        "青凤肯定的道"
+      ],
+      "mention_count": 1
     }
   ]
 }

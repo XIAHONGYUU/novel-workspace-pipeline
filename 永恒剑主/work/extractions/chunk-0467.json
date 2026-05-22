@@ -1,258 +1,558 @@
 {
   "chunk_id": "chunk-0467",
-  "title": "第四百六十四章 寿宴（一）",
   "characters": [
     {
       "name": "林新",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "其中一队人流里，正是林新一行人乘坐的牛车人马",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "松林剑派弟子，参加太昆真人寿宴，与花神曦有旧怨，受雨竹仙子庇护。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其中一队人流里，正是林新一行人乘坐的牛车人马",
-        "林新仰头看了眼上方道宫，顺着人流进了大门，里面赫然看起来远比外表宽敞",
-        "林新等人被引入席后，便是坐着吃着瓜果，等待寿宴开始"
+      "relationships": [
+        {
+          "target": "花神曦",
+          "type": "敌对"
+        },
+        {
+          "target": "独孤霖",
+          "type": "盟友"
+        },
+        {
+          "target": "雨竹仙子",
+          "type": "受庇护"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "随松林剑派队伍进入太昆山道宫，与花神曦传音交锋，被独孤霖和雨竹仙子解围。"
+        }
+      ],
+      "evidence": [
+        "林新仰头看了眼上方道宫，顺着人流进了大门",
+        "花神曦双目似有黑线闪烁，目光笔直的落在对面坐着的林新身上。",
+        "林新则是朝着雨竹仙子微笑敬酒。"
+      ],
+      "mention_count": 8
     },
     {
       "name": "花神曦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "花家大长老"
+      ],
+      "identity": "花家大长老",
+      "faction": "花家",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "花神曦双目似有黑线闪烁，目光笔直的落在对面坐着的林新身上",
-      "appearance": [],
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "花家大长老，与林新有仇怨，在寿宴上对林新传音威胁。",
+      "appearance": [
+        "白衣俊美男子"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "花神曦双目似有黑线闪烁，目光笔直的落在对面坐着的林新身上",
-        "”花神曦双目微眯，冰冷传音道",
-        "“花神曦前辈太过紧张了，今日良辰吉时，美酒佳肴，不如我们坐下来好好享受休憩一下，整天聊这些打打杀杀有何意思"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "独孤霖",
+          "type": "被阻"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "进入宴席，目光锁定林新并传音威胁，被独孤霖和雨竹仙子阻止。"
+        }
+      ],
+      "evidence": [
+        "花神曦双目似有黑线闪烁，目光笔直的落在对面坐着的林新身上。",
+        "花神曦冷哼一声，忌惮的看了眼雨竹仙子，不再说话。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "此时",
+      "name": "独孤霖",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派精锐弟子",
+      "faction": "松林剑派",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "此时一队队人流正顺着下方云雾形成的阶梯，陆陆续续进入道宫大门",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "松林剑派精锐弟子，在寿宴上为林新解围，与花神曦对峙。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时一队队人流正顺着下方云雾形成的阶梯，陆陆续续进入道宫大门",
-        "太昆真人此时也在歌舞声中缓缓走来，在一众弟子搀扶下坐稳主位",
-        "”　　此时又是一唱诺声传来"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "盟友"
+        },
+        {
+          "target": "花神曦",
+          "type": "敌对"
+        },
+        {
+          "target": "雨竹仙子",
+          "type": "好友"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "举杯传音插入林新与花神曦的对话，阻止花神曦。"
+        }
+      ],
+      "evidence": [
+        "乐声之中，独孤霖同样举杯传音道，插入两人之间。",
+        "她坐在第三阶段的席位最前面，左手面便是师姐雨竹仙子"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "雨竹仙子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "金丹问道大圆满高手",
+      "faction": "松林剑派",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "只是众人都能看到他面无表情，神色肃然",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "独孤霖的师姐，金丹问道大圆满高手，曾支持灵心山庄抵御花神曦。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "面冷心热"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是众人都能看到他面无表情，神色肃然",
-        "”　　“不谢，我只是看霖妹妹的份上",
-        "”　　雨竹仙子明显是个面冷心热的个性，话不多，只是一句便不再多说"
+      "relationships": [
+        {
+          "target": "独孤霖",
+          "type": "师姐"
+        },
+        {
+          "target": "林新",
+          "type": "受敬酒"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "坐在独孤霖左手边，接受林新敬酒。"
+        }
+      ],
+      "evidence": [
+        "她坐在第三阶段的席位最前面，左手面便是师姐雨竹仙子",
+        "雨竹仙子明显是个面冷心热的个性"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "其中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "其中一人缓缓走出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其中一人缓缓走出来",
-        "很快便渐渐没入其中",
-        "其中一队人流里，正是林新一行人乘坐的牛车人马"
+      "name": "太昆真人",
+      "aliases": [
+        "君子剑"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "看了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "太昆山主人，寿宴主角",
+      "faction": "太昆山",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "黑袍人收回右臂，看了眼黑袍头领",
-      "appearance": [],
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "太昆山主人，人称君子剑，举办寿宴，但被金玉宗长老轻视。",
+      "appearance": [
+        "满面白须，手持拐杖，浑身笼罩在一层青光中"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "在歌舞中缓缓走来，坐稳主位。"
+        }
+      ],
       "evidence": [
-        "黑袍人收回右臂，看了眼黑袍头领",
-        "林新仰头看了眼上方道宫，顺着人流进了大门，里面赫然看起来远比外表宽敞",
-        "”赵玉峰淡淡看了眼高台上的太昆真人，被其弟子两人小心的搀扶着"
+        "太昆真人此时也在歌舞声中缓缓走来，在一众弟子搀扶下坐稳主位。",
+        "他满面白须，手持拐杖，浑身笼罩在一层青光中"
       ],
       "mention_count": 5
     },
     {
-      "name": "花神",
+      "name": "太素",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "太昆真人亲传大弟子",
+      "faction": "太昆山",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "花神曦双目似有黑线闪烁，目光笔直的落在对面坐着的林新身上",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "太昆真人亲传大弟子，在寿宴上主持并应对御风宗的挑衅。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "花神曦双目似有黑线闪烁，目光笔直的落在对面坐着的林新身上",
-        "”花神曦双目微眯，冰冷传音道",
-        "“花神曦前辈太过紧张了，今日良辰吉时，美酒佳肴，不如我们坐下来好好享受休憩一下，整天聊这些打打杀杀有何意思"
+      "relationships": [
+        {
+          "target": "太昆真人",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "奉上贺词时被御风宗修士打断，冷声回应。"
+        }
+      ],
+      "evidence": [
+        "本人太素，乃真人亲传大弟子，奉上……",
+        "太素眼神一冷，看了眼师傅师弟一眼。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "太昆",
+      "name": "东斜真人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "御风宗太上元老",
+      "faction": "御风宗",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "第四百六十四章 寿宴（一）　　太昆山殷墟洞",
-      "appearance": [],
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "御风宗太上元老，在寿宴上默认弟子挑衅松林剑派。",
+      "appearance": [
+        "普通老道，毫不起眼"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四百六十四章 寿宴（一）　　太昆山殷墟洞",
-        "他们顺着山腰斜坡，视周边大阵为无物，步伐从容，笔直朝着隐藏太昆池的殷墟洞走去",
-        "“此乃太昆山禁地，闲杂人等不许进入"
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "弟子出声挑衅时淡然闭目打坐，默认其行为。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "东斜真人看起来就和个普通老道没什么两样，毫不起眼",
+        "东斜真人身边一矮胖修士站出来大声道"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "他们",
+      "name": "赵玉峰",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "金玉宗长老，太上元老亲子",
+      "faction": "金玉宗",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "他们顺着山腰斜坡，视周边大阵为无物，步伐从容，笔直朝着隐藏太昆池的殷墟洞走去",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "金玉宗长老，在寿宴上对太昆真人表示轻蔑。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他们顺着山腰斜坡，视周边大阵为无物，步伐从容，笔直朝着隐藏太昆池的殷墟洞走去",
-        "他们跟在前面的梅花宗队伍后面，和其余诸多前来汇聚的镇压者势力没什么两样",
-        "这次寿宴必定会有人起来捣乱，他们也早有做好对应的准备"
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "与青衣人交谈，评论太昆真人。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "金玉宗长老赵玉峰笑呵呵摇头道。",
+        "赵玉峰再度摇头，这一次却是眼中闪过一丝轻蔑。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "黄金",
+      "name": "上阳真主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "朱雀圣庭真主",
+      "faction": "朱雀圣庭",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "”　　一个头戴黄金头盔的修士大声喝道",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "朱雀圣庭真主，参加寿宴，站在高台上。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　一个头戴黄金头盔的修士大声喝道",
-        "通报……”黄金头盔话没说完，便陡然神色突变，转身闪开，让过一道从自己身边擦过的黑色光晕",
-        "就剩下带头的黄金头盔修士一人没晕"
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "与梅花天女等人在高台上静候。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "上阳真主和梅花天女等人都在上方静候。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "祝太",
+      "name": "梅花天女",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "梅花宗代表",
+      "faction": "梅花宗",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "祝太昆真人寿比天齐，送上贺礼一份",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "梅花宗代表，参加寿宴，站在高台上。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "祝太昆真人寿比天齐，送上贺礼一份",
-        "祝太昆真人仙福永享，送上贺礼一份",
-        "”　　“朱雀圣庭上阳真主驾临，祝太昆真人日月昌明，松鹤长春"
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "与上阳真主等人在高台上静候。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "上阳真主和梅花天女等人都在上方静候。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "祝太昆",
+      "name": "陈岳生",
       "aliases": [],
-      "identity": "",
+      "identity": "林新身边同伴",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第四百六十四章 寿宴（一）",
-      "summary": "祝太昆真人寿比天齐，送上贺礼一份",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "林新身边的同伴，在寿宴上与林新交谈。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "祝太昆真人寿比天齐，送上贺礼一份",
-        "祝太昆真人仙福永享，送上贺礼一份",
-        "”　　“朱雀圣庭上阳真主驾临，祝太昆真人日月昌明，松鹤长春"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "与林新说话。"
+        }
+      ],
+      "evidence": [
+        "林新和心事重重的独孤霖闲聊了阵，又和身边陈岳生等人说了说话。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钟铉",
+      "aliases": [],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "松林剑派弟子，曾救过林新，但如今不认识林新。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "曾救过"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "站在一老者身后，与师兄弟说话。"
+        }
+      ],
+      "evidence": [
+        "像站在一老者身后的钟铉，这位曾经在人面果案中救过他一次。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "尤萱",
+      "aliases": [
+        "师伯娘"
+      ],
+      "identity": "松林剑派阵堂真人后面的人",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "林新的师伯娘，站在阵堂真人后面。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师伯娘"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "站在阵堂真人后面，似乎没看到林新。"
+        }
+      ],
+      "evidence": [
+        "尤萱师伯娘却是站在阵堂真人后面，眼观鼻鼻观心，似乎没看到他所在位置。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "矮胖修士",
+      "aliases": [],
+      "identity": "御风宗修士",
+      "faction": "御风宗",
+      "status": "登场",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "御风宗东斜真人身边的修士，在寿宴上提议剑法切磋挑衅。",
+      "appearance": [
+        "矮胖"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "东斜真人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "站出来提议剑法切磋，打断太素的话。"
+        }
+      ],
+      "evidence": [
+        "御风宗东斜真人身边一矮胖修士站出来大声道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青衣人",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "与赵玉峰交谈的青衣男子，摇扇微笑。",
+      "appearance": [
+        "青衣"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "扇子"
+      ],
+      "relationships": [
+        {
+          "target": "赵玉峰",
+          "type": "交谈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "与赵玉峰评论太昆真人。"
+        }
+      ],
+      "evidence": [
+        "一侧一青衣男子摇扇微笑道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黄金头盔修士",
+      "aliases": [],
+      "identity": "太昆山守山者头领",
+      "faction": "太昆山",
+      "status": "登场",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "太昆山守山者头领，被黑袍人击倒。",
+      "appearance": [
+        "头戴黄金头盔"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴前",
+          "event": "在殷墟洞外喝止黑袍人，被击倒。"
+        }
+      ],
+      "evidence": [
+        "一个头戴黄金头盔的修士大声喝道。",
+        "就剩下带头的黄金头盔修士一人没晕。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "黑袍头领",
+      "aliases": [],
+      "identity": "入侵者头领",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "带领黑袍人入侵太昆山殷墟洞的头领，声音年轻。",
+      "appearance": [
+        "黑袍蒙面"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴前",
+          "event": "带领黑袍人进入殷墟洞，命令手下速战速决。"
+        }
+      ],
+      "evidence": [
+        "带头的黑袍人淡淡道，声音有些年轻。",
+        "黑袍人收回右臂，看了眼黑袍头领。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "出手黑袍人",
+      "aliases": [],
+      "identity": "入侵者之一",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第464章 寿宴（一）",
+      "summary": "黑袍人中的一员，出手击倒守山者。",
+      "appearance": [
+        "黑袍蒙面"
+      ],
+      "personality": [],
+      "abilities": [
+        "使用黑刃"
+      ],
+      "equipment": [
+        "黑刃"
+      ],
+      "relationships": [
+        {
+          "target": "黑袍头领",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴前",
+          "event": "弹出黑刃击倒守山者，包括黄金头盔修士。"
+        }
+      ],
+      "evidence": [
+        "站出来的黑袍人嘿嘿一笑，手中顿时弹出一把黑刃。",
+        "嘭的一下，一团黑光笼罩住他，让其连哼都没哼一声，直接倒地。"
+      ],
+      "mention_count": 2
     }
   ]
 }

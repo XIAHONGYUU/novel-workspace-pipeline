@@ -1,254 +1,218 @@
 {
   "chunk_id": "chunk-0137",
-  "title": "第136章 复活",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "主角，拥有未来模拟能力",
       "faction": "",
       "status": "登场",
       "first_appearance": "第136章 复活",
-      "summary": "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
+      "summary": "主角，与江莺莺视频通话，关心药浴效果，每天进行未来模拟。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
-        "她端着手机，正对着漆黑的屏幕，梳理自己额前的刘海，看到苏午端坐的身形忽然出现了屏幕里，她顿时有些慌张，差点把手里的电话丢掉",
-        "江莺莺晕生双颊，有些不敢看屏幕里的苏午，细声细气道：“我、我还以为你不会接视频呢……”　　确实，　　之前她几次询问苏午能否通电话、打视频，都被苏午无情拒绝"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "关心他人"
       ],
-      "mention_count": 24
+      "abilities": [
+        "未来模拟"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "江莺莺",
+          "type": "朋友/潜在恋人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与江莺莺视频通话，讨论药浴和应急罐头。"
+        }
+      ],
+      "evidence": [
+        "苏午把手机捡起，看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话。”",
+        "他紧皱的眉头舒展了些许。",
+        "苏午默无声息地打量着屏幕里的江莺莺，几天时间未见，对方看起来气色更足了一些。"
+      ],
+      "mention_count": 20
     },
     {
       "name": "江莺莺",
       "aliases": [],
-      "identity": "",
+      "identity": "苏午的朋友，住在农村老家",
       "faction": "",
       "status": "登场",
       "first_appearance": "第136章 复活",
-      "summary": "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
-      "appearance": [],
+      "summary": "与苏午视频通话，汇报药浴效果，养了一只大公鸡应急罐头。",
+      "appearance": [
+        "头发散发着湿润的水汽，穿着小吊带",
+        "肤色细腻润白，眉眼如画，面孔精致"
+      ],
+      "personality": [
+        "活泼",
+        "细心",
+        "害羞"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "朋友/潜在恋人"
+        },
+        {
+          "target": "应急罐头",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午视频通话，展示应急罐头。"
+        }
+      ],
+      "evidence": [
+        "江莺莺晕生双颊，有些不敢看屏幕里的苏午，细声细气道：“我、我还以为你不会接视频呢……”",
+        "她紧紧盯着屏幕里的苏午，生怕下一秒屏幕就突然黑掉。",
+        "江莺莺被苏午问得俏脸发红，支支吾吾道：“我观察过的，它对家里的小母鸡……不感兴趣哦。”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "应急罐头",
+      "aliases": [],
+      "identity": "江莺莺养的大公鸡",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第136章 复活",
+      "summary": "一只因药浴而体型增大的公鸡，与柯基犬差不多大。",
+      "appearance": [
+        "羽色鲜艳",
+        "鸡冠像一团火在燃烧",
+        "体型硕大"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
-        "江莺莺晕生双颊，有些不敢看屏幕里的苏午，细声细气道：“我、我还以为你不会接视频呢……”　　确实，　　之前她几次询问苏午能否通电话、打视频，都被苏午无情拒绝",
-        "江莺莺再度慌张起来，连连摇头：“啊……不要不要，不要关视频……”　　她紧紧盯着屏幕里的苏午，　　生怕下一秒屏幕就突然黑掉"
+      "relationships": [
+        {
+          "target": "江莺莺",
+          "type": "主人"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被江莺莺抱起来展示给苏午看。"
+        }
+      ],
+      "evidence": [
+        "一只硕大的公鸡就被江莺莺抱了起来。",
+        "现在的‘应急罐头’和一只柯基犬相比，也差不了多少了吧？",
+        "它竟然长大了一圈？！"
+      ],
+      "mention_count": 6
     },
     {
       "name": "李云鹏",
       "aliases": [],
-      "identity": "",
+      "identity": "普通市民，妻子已故",
       "faction": "",
       "status": "登场",
       "first_appearance": "第136章 复活",
-      "summary": "……　　李云鹏从一家饭馆里走了出来",
+      "summary": "在深巷中被黑衣青年袭击，被割喉后伤口愈合。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　李云鹏从一家饭馆里走了出来",
-        "但吃过以后，　　仔细想想，妻子已经不在这个世上，　　李云鹏的内心又被莫大的悲伤笼罩了",
-        "夜市摊子上的男男女女们举着扎啤杯，挥舞着肉串，大声地说笑着，李云鹏觉得自己和他们处在不同的世界"
+      "personality": [
+        "悲伤",
+        "谨慎"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "江莺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第136章 复活",
-      "summary": "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "妻子",
+          "type": "已故配偶"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在饭馆吃饭后回家途中被袭击。"
+        }
+      ],
       "evidence": [
-        "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
-        "江莺莺晕生双颊，有些不敢看屏幕里的苏午，细声细气道：“我、我还以为你不会接视频呢……”　　确实，　　之前她几次询问苏午能否通电话、打视频，都被苏午无情拒绝",
-        "江莺莺再度慌张起来，连连摇头：“啊……不要不要，不要关视频……”　　她紧紧盯着屏幕里的苏午，　　生怕下一秒屏幕就突然黑掉"
+        "李云鹏从一家饭馆里走了出来。",
+        "他提着一大包‘禾香泡面’，一个人走在阴暗的街巷里。",
+        "他手里的匕首，抹过了李云鹏的脖颈，乌黑发臭的鲜血从李云鹏脖颈间的伤口里汩汩涌出！"
       ],
       "mention_count": 10
     },
     {
-      "name": "李云",
+      "name": "黑衣青年",
       "aliases": [],
-      "identity": "",
+      "identity": "行凶者，具有反社会人格",
       "faction": "",
       "status": "登场",
       "first_appearance": "第136章 复活",
-      "summary": "……　　李云鹏从一家饭馆里走了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　李云鹏从一家饭馆里走了出来",
-        "但吃过以后，　　仔细想想，妻子已经不在这个世上，　　李云鹏的内心又被莫大的悲伤笼罩了",
-        "夜市摊子上的男男女女们举着扎啤杯，挥舞着肉串，大声地说笑着，李云鹏觉得自己和他们处在不同的世界"
+      "summary": "袭击李云鹏的凶手，被两个男人抓住。",
+      "appearance": [
+        "头发凌乱",
+        "黑衣兜帽"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "我就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第136章 复活",
-      "summary": "用剩下的药汤，我就给应急罐头泡了泡澡，它长大了很多，爪子都更利了",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "仇恨",
+        "自私",
+        "偏执",
+        "易怒"
+      ],
       "abilities": [],
-      "equipment": [],
+      "equipment": [
+        "匕首"
+      ],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟踪并袭击李云鹏，后被制服。"
+        }
+      ],
       "evidence": [
-        "用剩下的药汤，我就给应急罐头泡了泡澡，它长大了很多，爪子都更利了",
-        "你想要几个，我就给你留几个",
-        "别做傻事，你想要钱，我就给你钱"
+        "一个头发凌乱的青年透过猫眼，死死地盯着他的身影。",
+        "那是一双充满负面情绪的眼神，仇恨，自私，偏执，易怒……",
+        "青年杀了李云鹏，却尤觉得不解气，抬脚就往李云鹏身上踹去！"
       ],
       "mention_count": 6
     },
     {
-      "name": "应急罐",
+      "name": "两个男人",
       "aliases": [],
-      "identity": "",
+      "identity": "从发廊走出的神秘人，具有特殊能力",
       "faction": "",
       "status": "登场",
       "first_appearance": "第136章 复活",
-      "summary": "用剩下的药汤，我就给应急罐头泡了泡澡，它长大了很多，爪子都更利了",
+      "summary": "制服了黑衣青年，似乎拥有超自然能力。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "用剩下的药汤，我就给应急罐头泡了泡澡，它长大了很多，爪子都更利了",
-        "她偏过脑袋，转向画面外呼唤道：“应急罐头，来，过来……”　　踏踏踏……　　一阵鸡爪子踩踏光滑地板的声音由远及近",
-        "现在的‘应急罐头’和一只柯基犬相比，也差不了多少了吧"
+      "personality": [
+        "勇敢"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "屏幕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第136章 复活",
-      "summary": "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午把手机捡起，　　看到屏幕上浮现的社交用户头像，与屏幕中间的一行字：“江莺莺请求与你视频通话",
-        "按下了屏幕上的‘接听’键",
-        "屏幕里的黑暗画面倏忽消散，进而显示出一个头发散发着湿润的水汽，穿着小吊带的女孩"
+      "abilities": [
+        "白绫操控",
+        "高跳跃/壁虎游墙"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "女孩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第136章 复活",
-      "summary": "屏幕里的黑暗画面倏忽消散，进而显示出一个头发散发着湿润的水汽，穿着小吊带的女孩",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "屏幕里的黑暗画面倏忽消散，进而显示出一个头发散发着湿润的水汽，穿着小吊带的女孩",
-        "女孩肤色细腻润白，眉眼如画，面孔精致",
-        "女孩心里松了一口气"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从发廊出来，抓住黑衣青年。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "每天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第136章 复活",
-      "summary": "”　　眼看话题就要中断，双方有陷入尴尬的沉默的可能，江莺莺连忙跟着道：“我这些天，每天都在用你送给我的那些药剂，　　爷爷也吃了一些，他也说很好用",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　眼看话题就要中断，双方有陷入尴尬的沉默的可能，江莺莺连忙跟着道：“我这些天，每天都在用你送给我的那些药剂，　　爷爷也吃了一些，他也说很好用",
-        "“你确定只是每天把用剩下的药浴汤给它用一下，　　它就变成了这个样子",
-        "开始在模拟里阅读书籍，　　同时也探查一下，未来几天自己及自己身边，会不会有什么变故发生——每天进行一到三次的未来模拟，　　保证自身不会在无知觉地情况下，被未知恐怖所笼罩，　　亦是苏午当下养成的一个良好习惯"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他可以",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第136章 复活",
-      "summary": "如果‘应急罐头’能留下子嗣就很好，　　他可以向江莺莺购买一只，试着来培育",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如果‘应急罐头’能留下子嗣就很好，　　他可以向江莺莺购买一只，试着来培育",
-        "下次江莺莺如果再问，他可以回答一二"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第136章 复活",
-      "summary": "”　　两人又闲聊了一阵",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　两人又闲聊了一阵",
-        "”　　两人看到行凶的黑衣青年，却是毫无畏惧，　　大声呵斥的同时，他们行动了起来"
+        "一道白绫从其中一个男人脚下铺展开，穿梭半空，席卷向转身逃跑的黑衣青年！",
+        "另一个男人一步跃起，双脚下就像垫了弹簧一样，让他飞起一丈多高！",
+        "他双脚踩踏在楼房墙壁上，如履平地般快步走向黑衣青年！"
       ],
       "mention_count": 4
     }

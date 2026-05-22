@@ -1,0 +1,340 @@
+{
+  "chunk_id": "chunk-0580",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与海利亚、辛西亚同行，支开芙瑞拉后询问辛西亚受伤原因。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "芙瑞拉",
+          "type": "支开她"
+        },
+        {
+          "target": "海利亚",
+          "type": "同行"
+        },
+        {
+          "target": "辛西亚",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在马车中与海利亚、辛西亚交谈，支开芙瑞拉询问辛西亚受伤详情。"
+        }
+      ],
+      "evidence": [
+        "安格列笑了笑，没有接话。",
+        "我不想让小家伙知道太多这方面教会的强势。所以暂时支开她，现在，我想问下，以辛西亚的实力，到底是谁把他伤到那个程度？"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "芙瑞拉",
+      "aliases": [
+        "小瑞拉"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被安格列支开去采浆果。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被支开"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列支开去采浆果。"
+        }
+      ],
+      "evidence": [
+        "芙瑞拉嘟着嘴不情不愿的下了车厢。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "辛西亚",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受伤，被海利亚所救，对海利亚态度复杂。",
+      "appearance": [],
+      "personality": [
+        "倔强"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "海利亚",
+          "type": "被救"
+        },
+        {
+          "target": "安格列",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被海利亚救下，在马车中与安格列、海利亚交谈。"
+        }
+      ],
+      "evidence": [
+        "辛西亚正低头握紧拳头。",
+        "下一次……下一次我一定能杀掉他！！而且绝对不会需要你救我！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "海利亚",
+      "aliases": [],
+      "identity": "颓废佣兵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "救了辛西亚，自称当时脑子一昏就冲上去了。",
+      "appearance": [],
+      "personality": [
+        "无辜",
+        "手足无措"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "辛西亚",
+          "type": "救了他"
+        },
+        {
+          "target": "安格列",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在马车中与安格列、辛西亚交谈，解释救辛西亚的过程。"
+        }
+      ],
+      "evidence": [
+        "我当时只是感觉脑子一昏，就冲上去了，后来醒过来我已经抱着你跑出很远了。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "教皇",
+      "aliases": [],
+      "identity": "教会最高领袖",
+      "faction": "教会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "坐在大殿最高位置，主持圣骑士与教士的争论，听取雷须的汇报。",
+      "appearance": [
+        "瘦弱老人",
+        "头戴白金皇冠"
+      ],
+      "personality": [],
+      "abilities": [
+        "能释放无形波动禁止声音传播"
+      ],
+      "equipment": [
+        "白金皇冠",
+        "白金蓝宝石王仗"
+      ],
+      "relationships": [
+        {
+          "target": "雷须",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大殿中听取雷须关于厄运天平审判失败的汇报。"
+        }
+      ],
+      "evidence": [
+        "坐在大殿最高位置上的一个瘦弱老人低声问。",
+        "教皇这才使劲咳嗽两声。",
+        "教皇拿起放在黑色王座边白金蓝宝石王仗，轻轻触地。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "雷须",
+      "aliases": [
+        "雷须大人",
+        "雷须骑士长"
+      ],
+      "identity": "最强圣骑士",
+      "faction": "教会圣骑士",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "高大强壮的圣骑士，脸上有白色触须，未能完成审判厄运天平的任务。",
+      "appearance": [
+        "两米高",
+        "身材强壮有力",
+        "背上两把银黑色长柄战锤",
+        "脸上有两根白色触须"
+      ],
+      "personality": [
+        "沉稳严肃"
+      ],
+      "abilities": [],
+      "equipment": [
+        "金边银甲",
+        "淡金色头盔",
+        "金属手套",
+        "银黑色长柄战锤"
+      ],
+      "relationships": [
+        {
+          "target": "教皇",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "返回大殿，向教皇汇报厄运天平审判失败。"
+        }
+      ],
+      "evidence": [
+        "雷须点点头，往前走上数步，弯腰单膝跪地，铠甲撞在地面发出嘭的一声闷响。",
+        "厄运天平本来快要被我击杀，但被一个怪异巫师血脉的家伙干扰了一下，没能第一时间完成任务。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "安格里拉主教",
+      "aliases": [],
+      "identity": "主教",
+      "faction": "教会教士",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被推荐前往东部处理巫师事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被黑袍教士推荐前往东部。"
+        }
+      ],
+      "evidence": [
+        "我推荐安格里拉主教前往东部解决事务"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白发巫师",
+      "aliases": [
+        "长老"
+      ],
+      "identity": "巫师长老",
+      "faction": "巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "巫师聚集点的长老，主持转移会议。",
+      "appearance": [
+        "白发老人"
+      ],
+      "personality": [
+        "悲哀",
+        "无奈"
+      ],
+      "abilities": [],
+      "equipment": [
+        "法杖"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在岩洞中召集巫师，讨论转移事宜。"
+        }
+      ],
+      "evidence": [
+        "坐在最上方的白发老人站起身，沉声说着。",
+        "白发巫师闭上眼，流露出悲哀之色。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "独臂老女巫",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "报告埃希亚隐藏点被攻破的消息。",
+      "appearance": [
+        "独臂"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在巫师会议上报告埃希亚隐藏点被攻破。"
+        }
+      ],
+      "evidence": [
+        "一个独臂老女巫低声回答"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "红发老人",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在巫师会议上发言，说明圣力对巫师的压制。",
+      "appearance": [
+        "红发"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在巫师会议上发言。"
+        }
+      ],
+      "evidence": [
+        "另一名红发老人低声说。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

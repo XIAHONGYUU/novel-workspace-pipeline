@@ -1,256 +1,245 @@
 {
   "chunk_id": "chunk-0053",
-  "title": "第五十一章 疫病（上）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "林贤弟"
+      ],
+      "identity": "武者，疑似练气士",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "“这里是一点心意，好好照顾他吧……”林新也不知道该说什么，沉默了一会儿后，只是摸出一些碎银子，约莫有十几两的样子，硬塞给他",
+      "first_appearance": "",
+      "summary": "主角，与孔昱辉交好，关心疫病，寻找任务目标。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这里是一点心意，好好照顾他吧……”林新也不知道该说什么，沉默了一会儿后，只是摸出一些碎银子，约莫有十几两的样子，硬塞给他",
-        "”王大叔很是激动，但力气却不如林新大，被他生生塞进手中",
-        "”林新大踏步离去，头也不回"
+      "personality": [
+        "谨慎",
+        "有同情心",
+        "不迂腐"
       ],
-      "mention_count": 32
+      "abilities": [],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "孔昱辉",
+          "type": "朋友"
+        },
+        {
+          "target": "舒络衣",
+          "type": "队友"
+        },
+        {
+          "target": "余畅",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给胖娃银子，去孔雀门找孔昱辉询问疫病，后与孔昱辉去翠云楼寻找任务目标。"
+        }
+      ],
+      "evidence": [
+        "林新也不知道该说什么，沉默了一会儿后，只是摸出一些碎银子，约莫有十几两的样子，硬塞给他。",
+        "林新大踏步离去，头也不回。",
+        "林新和孔昱辉一起来到的地方，是个灯红酒绿的喝花酒阁楼。"
+      ],
+      "mention_count": 18
     },
     {
       "name": "孔昱辉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "他没有做任何停留，而是直接去了孔昱辉所在的孔雀门总部",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他没有做任何停留，而是直接去了孔昱辉所在的孔雀门总部",
-        "孔昱辉和林新相对而坐，身边有着两名娇怯侍女服侍",
-        "”孔昱辉一向精明，自然看出来林新前来是有事找他，在这孔雀城里，不说事无巨细，但是只要他想知道的，就没有不能知道的"
+      "aliases": [
+        "孔兄",
+        "孔少门主"
       ],
-      "mention_count": 32
+      "identity": "孔雀门少门主，先天武者",
+      "faction": "孔雀门",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "孔雀门少门主，突破先天后势力大增，与林新交好，知晓六翼蜜蜂内幕。",
+      "appearance": [],
+      "personality": [
+        "精明",
+        "强势",
+        "意气风发"
+      ],
+      "abilities": [
+        "先天境界"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新在孔雀门总部交谈，后带林新去翠云楼寻找任务目标。"
+        }
+      ],
+      "evidence": [
+        "孔昱辉面色沉着，似乎一点也不动容。",
+        "孔昱辉面色不变，好似根本没听到他说的话一般。",
+        "孔昱辉看也不看她，和林新直接走进去，一路上所有挡在他前面的人都被身后手下蛮横推开。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "孔昱",
+      "name": "胖娃",
       "aliases": [],
-      "identity": "",
+      "identity": "孤儿，卖油炸饼的孩童",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "他没有做任何停留，而是直接去了孔昱辉所在的孔雀门总部",
+      "first_appearance": "",
+      "summary": "父母双亡，与奶奶相依为命，奶奶死于疫病。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他没有做任何停留，而是直接去了孔昱辉所在的孔雀门总部",
-        "孔昱辉和林新相对而坐，身边有着两名娇怯侍女服侍",
-        "”孔昱辉一向精明，自然看出来林新前来是有事找他，在这孔雀城里，不说事无巨细，但是只要他想知道的，就没有不能知道的"
+      "relationships": [
+        {
+          "target": "王大叔",
+          "type": "被照顾"
+        },
+        {
+          "target": "林新",
+          "type": "受赠"
+        }
       ],
-      "mention_count": 19
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "奶奶去世，被王大叔安慰，林新赠银。"
+        }
+      ],
+      "evidence": [
+        "胖娃被他搂着，哭得稀里哗啦。",
+        "王大叔赶紧从边上随手买了一串小糖人递给他，但还是止不住孩子的哭声。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "两人也都不再开口，一时间气氛略显得沉闷",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两人也都不再开口，一时间气氛略显得沉闷",
-        "两人没有惊动其余人，而是只带了十多个孔雀门的内卫暗自前来",
-        "两人一前一后朝着阁楼走去，阁楼上挂着大大的牌匾：翠云楼"
+      "name": "王大叔",
+      "aliases": [
+        "王叔叔"
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
+      "identity": "卖衣服的大叔",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "“这里是一点心意，好好照顾他吧……”林新也不知道该说什么，沉默了一会儿后，只是摸出一些碎银子，约莫有十几两的样子，硬塞给他",
+      "first_appearance": "",
+      "summary": "认识胖娃一家，照顾胖娃。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这里是一点心意，好好照顾他吧……”林新也不知道该说什么，沉默了一会儿后，只是摸出一些碎银子，约莫有十几两的样子，硬塞给他",
-        "只是我们一直保持着井水不犯河水",
-        "“已经找到人了，只是没现身接触"
+      "personality": [
+        "热心"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "他没有做任何停留，而是直接去了孔昱辉所在的孔雀门总部",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他没有做任何停留，而是直接去了孔昱辉所在的孔雀门总部",
-        "两人没有惊动其余人，而是只带了十多个孔雀门的内卫暗自前来",
-        "”几个当家的女子赶紧迎了出来，似乎准备说点好话，但一看孔昱辉等人进来后不上楼，而是直奔一楼后侧的厢房走廊，顿时都是脸色一变"
+      "relationships": [
+        {
+          "target": "胖娃",
+          "type": "照顾"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "余畅",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "”房间里忽然冲出两人，居然正是余畅和舒络衣二人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”房间里忽然冲出两人，居然正是余畅和舒络衣二人",
-        "两人中余畅一身黄色短衣，腰佩蓝色长剑",
-        "”余畅一看到进来的第一人，心头顿时一凉，在孔雀城除开一般普通人，稍微有些地位的谁不认识孔昱辉孔大少，这货从来都是吃人不吐骨头的主儿，这次回来更是突破先天，被誉为孔雀门中最有可能接手门主之位的少门主"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新讲述胖娃身世，安慰胖娃。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "沉默",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "“这里是一点心意，好好照顾他吧……”林新也不知道该说什么，沉默了一会儿后，只是摸出一些碎银子，约莫有十几两的样子，硬塞给他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“这里是一点心意，好好照顾他吧……”林新也不知道该说什么，沉默了一会儿后，只是摸出一些碎银子，约莫有十几两的样子，硬塞给他",
-        "沉默了约莫半分多钟",
-        "林新顿时沉默下来，细细咀嚼他的话"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "阁楼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "……　　黄顶红砖的六层阁楼边上，是大片大片的暗绿树林，一阵阵练拳的呼喝声从林中传出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　黄顶红砖的六层阁楼边上，是大片大片的暗绿树林，一阵阵练拳的呼喝声从林中传出",
-        "阁楼第五层，窗户开着，里面摆着一桌酒席，三叠小菜一壶小酒",
-        "……　　林新和孔昱辉一起来到的地方，是个灯红酒绿的喝花酒阁楼"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "孔昱辉顿时知他意，挥了挥手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "孔昱辉顿时知他意，挥了挥手",
-        "林新顿时沉默下来，细细咀嚼他的话",
-        "顿时一阵惊呼怒骂声从左右传来"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "”　　“我今天亲眼看到有人死在我面前，就是中了这种疫病",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“我今天亲眼看到有人死在我面前，就是中了这种疫病",
-        "”　　林新听到这话也微微挑眉，六翼蜜蜂的事他也不打算深究，既然孔昱辉都说到这个份上了，自然是指的这里面有着他也惹不起的深水内幕，他终究不是什么坚持绝对正义的热血青年，这种事也就是做个力所能及，要是危及到自己的利益也不会迂腐坚持",
-        "不要说他爹余副将，就是孔雀城主亲自来了也得好好招呼着"
+        "买衣服的大叔叹着气道",
+        "王大叔赶紧从边上随手买了一串小糖人递给他"
       ],
       "mention_count": 4
     },
     {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
+      "name": "余畅",
+      "aliases": [
+        "余兄"
+      ],
+      "identity": "余副将之子",
+      "faction": "余府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与舒络衣一起寻找任务目标，忌惮孔昱辉。",
+      "appearance": [
+        "一身黄色短衣，腰佩蓝色长剑"
+      ],
+      "personality": [
+        "势利"
+      ],
+      "abilities": [],
+      "equipment": [
+        "蓝色长剑"
+      ],
+      "relationships": [
+        {
+          "target": "舒络衣",
+          "type": "同伴"
+        },
+        {
+          "target": "林新",
+          "type": "队友"
+        },
+        {
+          "target": "孔昱辉",
+          "type": "忌惮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在翠云楼与舒络衣一起，被孔昱辉和林新撞见。"
+        }
+      ],
+      "evidence": [
+        "余畅一身黄色短衣，腰佩蓝色长剑。",
+        "余畅一看到进来的第一人，心头顿时一凉",
+        "余畅顿时舒了口气，不用夹在中间里外不是人。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "舒络衣",
+      "aliases": [
+        "舒师妹"
+      ],
+      "identity": "练气士家族成员",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第五十一章 疫病（上）",
-      "summary": "“你们先下去",
-      "appearance": [],
+      "first_appearance": "",
+      "summary": "与余畅一起寻找任务目标，与林新相识。",
+      "appearance": [
+        "白色连衣裙，裙摆到膝盖处"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "余畅",
+          "type": "同伴"
+        },
+        {
+          "target": "林新",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在翠云楼与余畅一起，遇到林新和孔昱辉。"
+        }
+      ],
       "evidence": [
-        "“你们先下去",
-        "你们认识",
-        "“你们也是来这里找任务之人的"
+        "舒络衣换了身白色连衣裙，裙摆到膝盖处。",
+        "刚准备发火的舒络衣也是微微一愣，暂时放下了准备动手的念头。"
       ],
       "mention_count": 4
     }

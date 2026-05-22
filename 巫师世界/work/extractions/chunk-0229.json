@@ -1,0 +1,302 @@
+{
+  "chunk_id": "chunk-0229",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第228章 梦魇世界 1",
+      "summary": "安格列在凌晨抵达湖边别墅，进入法术室后通过巨鹰女妖的力量进入梦魇世界，发现别墅地下室和客厅积满灰尘，空无一人。",
+      "appearance": [
+        "穿着白袍，带着兜帽"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "敛息术",
+        "操控火焰"
+      ],
+      "equipment": [
+        "独角马",
+        "魔石",
+        "能量心脏"
+      ],
+      "relationships": [
+        {
+          "target": "黑独角马",
+          "type": "坐骑"
+        },
+        {
+          "target": "艾米",
+          "type": "侍女"
+        },
+        {
+          "target": "艾丽",
+          "type": "侍女"
+        },
+        {
+          "target": "南希",
+          "type": "侍女"
+        },
+        {
+          "target": "巨鹰女妖",
+          "type": "契约生物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "凌晨六点前",
+          "event": "抵达湖边别墅，喂食独角马后返回别墅。"
+        },
+        {
+          "stage": "进入别墅后",
+          "event": "与双胞胎侍女交谈，进入地下室法术室。"
+        },
+        {
+          "stage": "法术室中",
+          "event": "通过巨鹰女妖进入梦魇世界，女妖陷入休眠。"
+        },
+        {
+          "stage": "梦魇世界",
+          "event": "发现别墅地下室和客厅积满灰尘，空无一人。"
+        }
+      ],
+      "evidence": [
+        "一路疾奔中，安格列确实在凌晨六点以前，抵达了自己的湖边别墅。",
+        "安格列面色不变，反手关上法术室门，开始仔细打量周围的情况。",
+        "客厅里空空荡荡，地上同样积了厚厚的一层灰。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "黑独角马",
+      "aliases": [
+        "黑马"
+      ],
+      "identity": "坐骑",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第228章 梦魇世界 1",
+      "summary": "安格列的坐骑，能说话，吃魔石。",
+      "appearance": [
+        "黑色独角马"
+      ],
+      "personality": [],
+      "abilities": [
+        "说话"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "凌晨六点前",
+          "event": "被安格列喂食魔石后离开。"
+        }
+      ],
+      "evidence": [
+        "咔嚓咔嚓两声，黑色独角马毫不客气地两口就直接咬碎魔石，吞了下去。",
+        "黑马开口说：“那么我就先回去了？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "艾米",
+      "aliases": [],
+      "identity": "侍女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第228章 梦魇世界 1",
+      "summary": "安格列的双胞胎侍女之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主人"
+        },
+        {
+          "target": "艾丽",
+          "type": "姐妹"
+        },
+        {
+          "target": "南希",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "凌晨",
+          "event": "与艾丽一起迎接安格列回家。"
+        }
+      ],
+      "evidence": [
+        "走在前边是艾米，“需要给您准备一点饮食么？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "艾丽",
+      "aliases": [],
+      "identity": "侍女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第228章 梦魇世界 1",
+      "summary": "安格列的双胞胎侍女之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主人"
+        },
+        {
+          "target": "艾米",
+          "type": "姐妹"
+        },
+        {
+          "target": "南希",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "凌晨",
+          "event": "与艾米一起迎接安格列回家。"
+        }
+      ],
+      "evidence": [
+        "艾丽低着头低声回答，“南希姐姐因为我们害怕，所以过来陪着我们睡……”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "南希",
+      "aliases": [],
+      "identity": "侍女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第228章 梦魇世界 1",
+      "summary": "安格列的侍女，与双胞胎关系亲密。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主人"
+        },
+        {
+          "target": "艾米",
+          "type": "同伴"
+        },
+        {
+          "target": "艾丽",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "凌晨",
+          "event": "在双胞胎房间睡觉，未出来迎接安格列。"
+        }
+      ],
+      "evidence": [
+        "南希姐姐因为我们害怕，所以过来陪着我们睡……",
+        "南希肯定是因为身上什么也没穿，才假装睡着，不好意思出来见自己。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "巨鹰女妖",
+      "aliases": [
+        "苏格拉巨鹰女妖"
+      ],
+      "identity": "契约生物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第228章 梦魇世界 1",
+      "summary": "安格列的契约生物，带他进入梦魇世界后因消耗过大陷入休眠。",
+      "appearance": [
+        "丰满的胸部",
+        "羽毛"
+      ],
+      "personality": [],
+      "abilities": [
+        "带人进入梦魇世界"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "法术室中",
+          "event": "帮助安格列进入梦魇世界后陷入休眠。"
+        }
+      ],
+      "evidence": [
+        "他左肩上，苏格拉巨鹰女妖无精打采地趴在肩头",
+        "女妖似乎是和上次一样，因为消耗过大而彻底陷入休眠状态。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "骑士",
+      "aliases": [],
+      "identity": "护卫骑士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第228章 梦魇世界 1",
+      "summary": "安格列别墅附近的护卫骑士，警觉性高。",
+      "appearance": [
+        "穿着褐色半身皮甲"
+      ],
+      "personality": [
+        "警觉"
+      ],
+      "abilities": [
+        "弓箭"
+      ],
+      "equipment": [
+        "长弓",
+        "白羽箭"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "护卫对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "凌晨",
+          "event": "在篝火边警戒，认出安格列后放下弓箭。"
+        }
+      ],
+      "evidence": [
+        "一个男骑士穿着褐色半身皮甲，正打着呵欠坐在火堆边",
+        "坐在火堆边的骑士突然低吼一声，反手瞬间把长弓拿在手上"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

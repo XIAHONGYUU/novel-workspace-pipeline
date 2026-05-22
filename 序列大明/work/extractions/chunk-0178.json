@@ -1,253 +1,136 @@
 {
   "chunk_id": "chunk-0178",
-  "title": "第176章和气生财",
   "characters": [
     {
       "name": "赫藏甲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "虎头"
+      ],
+      "identity": "牌系文牌‘虎头’，后升为‘和牌’",
+      "faction": "牌系",
       "status": "登场",
       "first_appearance": "第176章和气生财",
-      "summary": "马不停蹄从十八梯贫民区赶来的赫藏甲恰好也登上了铜楼，走进了一间名为听风阁的殿阁",
+      "summary": "牌系成员，从‘虎头’升为‘和牌’，与李钧是亲戚关系，因罗汉寺事件求助金生火。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冲动",
+        "讲义气",
+        "谄媚"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "马不停蹄从十八梯贫民区赶来的赫藏甲恰好也登上了铜楼，走进了一间名为听风阁的殿阁",
-        "可就是如此逼人的俗气，让第一次来到这里的赫藏甲不禁有些惴惴不安，原本不卑不亢的气度霎时弱了几分",
-        "赫藏甲表情神往，“风声救命，谣言害人"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "远房表哥"
+        },
+        {
+          "target": "金生火",
+          "type": "上下级"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往听风阁拜见金生火，请求帮助解决罗汉寺事件，并被提升为‘和牌’。"
+        }
+      ],
+      "evidence": [
+        "文牌‘虎头’赫藏甲，见过风将金大人！",
+        "从今日开始，你便是咱们牌系的‘和牌’！",
+        "赫藏甲苦笑道：‘他就是只会打打杀杀的莽夫而已，啥都不会，就会护短。现在惹下这么大一个篓子，我也真不知道该怎么办了。’"
+      ],
+      "mention_count": 20
     },
     {
       "name": "金生火",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "风将",
+        "风将大人",
+        "金大人"
+      ],
+      "identity": "牌系风将",
+      "faction": "牌系",
       "status": "登场",
       "first_appearance": "第176章和气生财",
-      "summary": "”　　“一家人不说两家话，我金生火只想看到敌人流血，可不想看到兄弟流泪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“一家人不说两家话，我金生火只想看到敌人流血，可不想看到兄弟流泪",
-        "啧啧，这原来是得被坑得多惨，才能如此经验丰富啊”　　金生火开玩笑似说道：“虎头你可能不知道，这洪崖山其实就是个地位的象征，真要住在这里一点都不安逸",
-        "”　　等赫藏甲重新坐稳，金生火这才笑道：　　金生火似笑非笑，“这么说来，关系不算太亲了"
+      "summary": "牌系风将，掌管消息买卖，脾气温和，善于笼络人心，决定提升赫藏甲为‘和牌’。",
+      "appearance": [
+        "身形矮胖的中年男人",
+        "穿着一身明黄罗裳",
+        "一双肿胀的鱼泡眼"
       ],
-      "mention_count": 16
+      "personality": [
+        "温和",
+        "豪迈",
+        "精明"
+      ],
+      "abilities": [
+        "听风而行，买卖消息"
+      ],
+      "equipment": [
+        "牌九"
+      ],
+      "relationships": [
+        {
+          "target": "赫藏甲",
+          "type": "上下级"
+        },
+        {
+          "target": "火将",
+          "type": "同僚"
+        },
+        {
+          "target": "脱将",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在听风阁接见赫藏甲，商议罗汉寺事件，并提升赫藏甲为‘和牌’。"
+        }
+      ],
+      "evidence": [
+        "说话的是一个身形矮胖的中年男人，穿着一身明黄罗裳，正坐在一张圈椅之中朝着赫藏甲招手。",
+        "金生火笑容和煦，没有一点‘千门八将’的架子，反而像是一个脾气温和的长辈",
+        "金生火神色豪迈，朗声道：‘当年我和火将、脱将也正是靠着一腔血勇去打拼，这才有了咱们牌系如今的地位。’"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "金生",
-      "aliases": [],
-      "identity": "",
+      "name": "李钧",
+      "aliases": [
+        "武七独夫"
+      ],
+      "identity": "赫藏甲的远房表哥",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第176章和气生财",
-      "summary": "”　　“一家人不说两家话，我金生火只想看到敌人流血，可不想看到兄弟流泪",
+      "summary": "赫藏甲的远房表哥，因在罗汉寺惹事而需要牌系庇护。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "只会打打杀杀",
+        "护短"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“一家人不说两家话，我金生火只想看到敌人流血，可不想看到兄弟流泪",
-        "啧啧，这原来是得被坑得多惨，才能如此经验丰富啊”　　金生火开玩笑似说道：“虎头你可能不知道，这洪崖山其实就是个地位的象征，真要住在这里一点都不安逸",
-        "”　　等赫藏甲重新坐稳，金生火这才笑道：　　金生火似笑非笑，“这么说来，关系不算太亲了"
+      "relationships": [
+        {
+          "target": "赫藏甲",
+          "type": "远房表弟"
+        }
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "赫藏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "马不停蹄从十八梯贫民区赶来的赫藏甲恰好也登上了铜楼，走进了一间名为听风阁的殿阁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "马不停蹄从十八梯贫民区赶来的赫藏甲恰好也登上了铜楼，走进了一间名为听风阁的殿阁",
-        "可就是如此逼人的俗气，让第一次来到这里的赫藏甲不禁有些惴惴不安，原本不卑不亢的气度霎时弱了几分",
-        "赫藏甲表情神往，“风声救命，谣言害人"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在罗汉寺惹事，赫藏甲为其求助金生火。"
+        }
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "虎头",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "啧啧，这原来是得被坑得多惨，才能如此经验丰富啊”　　金生火开玩笑似说道：“虎头你可能不知道，这洪崖山其实就是个地位的象征，真要住在这里一点都不安逸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "啧啧，这原来是得被坑得多惨，才能如此经验丰富啊”　　金生火开玩笑似说道：“虎头你可能不知道，这洪崖山其实就是个地位的象征，真要住在这里一点都不安逸",
-        "”　　怪不得别人能当风将，而自己只是张虎头",
-        "赫藏甲躬身不起，“虎头惭愧，都是我做事冲动，不自量力，差点酿成大祸"
+        "赫藏甲苦笑道：‘他就是只会打打杀杀的莽夫而已，啥都不会，就会护短。现在惹下这么大一个篓子，我也真不知道该怎么办了。’",
+        "金生火话锋一转，‘倒是你那表哥接下来怎么打算？那些秃驴报复起来，可不会手软啊。’"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "以前",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "”　　赫藏甲说道：“以前不太联系，要不是他在成都府遇见了事情，也不会来这里投靠我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赫藏甲说道：“以前不太联系，要不是他在成都府遇见了事情，也不会来这里投靠我",
-        "”　　“以前我都是把这里当成避难所，遇见麻烦事才躲进来避避风头",
-        "”　　“以前我们把藏甲你放在‘虎头’的位置上，是考虑你年纪尚轻，处事不够沉稳"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "有风",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "”　　赫藏甲谄媚笑道：“他是我的亲戚，那也就是咱们牌系的人，有风将大人您在，难道还能让我和表哥受委屈",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赫藏甲谄媚笑道：“他是我的亲戚，那也就是咱们牌系的人，有风将大人您在，难道还能让我和表哥受委屈"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "还请",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "”　　赫藏甲顺坡下驴，露出一副激动的神情，“还请大人您救救我和表哥",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赫藏甲顺坡下驴，露出一副激动的神情，“还请大人您救救我和表哥",
-        "”　　还没坐稳的赫藏甲闻言蹭的一声站直了身子，拱手沉声道：“都是虎头的错，还请风将大人惩罚"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "大人您",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "”　　赫藏甲谄媚笑道：“他是我的亲戚，那也就是咱们牌系的人，有风将大人您在，难道还能让我和表哥受委屈",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赫藏甲谄媚笑道：“他是我的亲戚，那也就是咱们牌系的人，有风将大人您在，难道还能让我和表哥受委屈",
-        "”　　赫藏甲顺坡下驴，露出一副激动的神情，“还请大人您救救我和表哥",
-        "“大人您说"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "咱们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "”　　赫藏甲谄媚笑道：“他是我的亲戚，那也就是咱们牌系的人，有风将大人您在，难道还能让我和表哥受委屈",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　赫藏甲谄媚笑道：“他是我的亲戚，那也就是咱们牌系的人，有风将大人您在，难道还能让我和表哥受委屈",
-        "可说来也好笑，咱们牌系的三将今晚可都连夜搬了进来",
-        "”　　“这间听风阁其实我也不常来，你就当咱们都是过来做客的客人，千万不要拘谨"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "躬身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "赫藏甲躬身不起，“虎头惭愧，都是我做事冲动，不自量力，差点酿成大祸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赫藏甲躬身不起，“虎头惭愧，都是我做事冲动，不自量力，差点酿成大祸",
-        "”　　赫藏甲深吸一口俗气，这才快步走了过去，躬身一礼",
-        "”　　赫藏甲长身而起，躬身还礼，“和气生财"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "走进",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第176章和气生财",
-      "summary": "马不停蹄从十八梯贫民区赶来的赫藏甲恰好也登上了铜楼，走进了一间名为听风阁的殿阁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "马不停蹄从十八梯贫民区赶来的赫藏甲恰好也登上了铜楼，走进了一间名为听风阁的殿阁"
-      ],
-      "mention_count": 3
+      "mention_count": 6
     }
   ]
 }

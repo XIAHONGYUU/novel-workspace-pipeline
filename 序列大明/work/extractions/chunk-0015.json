@@ -1,252 +1,321 @@
 {
   "chunk_id": "chunk-0015",
-  "title": "第14章械心",
   "characters": [
     {
-      "name": "虎冢",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章械心",
-      "summary": "罗镇面色阴沉，转身向着拳场外走去，虎冢沉默着跟他在身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "罗镇面色阴沉，转身向着拳场外走去，虎冢沉默着跟他在身后",
-        "”虎冢语气嘲弄，“你不过也是条家犬",
-        "”　　【消耗精通点88点，八卦游身步提升至（九品中期0/100）】　　虎冢冷笑道：“大言不惭，你那颗械心还能泵出多少力气"
-      ],
-      "mention_count": 21
-    },
-    {
       "name": "罗镇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "罗巡检"
+      ],
+      "identity": "天府戍卫局巡检",
+      "faction": "天府戍卫局",
       "status": "登场",
       "first_appearance": "第14章械心",
-      "summary": "”　　罗镇要带走赵斗，因为这个人还有价值",
+      "summary": "天府戍卫局巡检，试图带走赵斗以控制九龙街，与袍哥会冲突。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　罗镇要带走赵斗，因为这个人还有价值",
-        "”罗镇朗声喝道，抬手指着周围聚拢的浑水袍哥弟子，“本官现在就要带赵斗走，我看谁敢拦我",
-        "罗镇面色阴沉，转身向着拳场外走去，虎冢沉默着跟他在身后"
+      "personality": [
+        "强势",
+        "有野心"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章械心",
-      "summary": "李钧从戮手的眼眶中拔出两根血红的手指，甩开上面粘腻的组织和破碎的植入物零件，转头看向况青云方向",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧从戮手的眼眶中拔出两根血红的手指，甩开上面粘腻的组织和破碎的植入物零件，转头看向况青云方向",
-        "李钧和况青云对视一眼，几乎同时暴身而起，朝着躲在祭刀会人群中赵斗冲去",
-        "侧面有劲风袭来，李钧不闪不躲直接鞭腿抽了过去，以小腿被削掉一块血肉为代价，将另一名持刀的祭刀会干部扫飞出去"
+      "abilities": [
+        "序列者"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "露出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章械心",
-      "summary": "一只脚踏入粘稠的血泊中，液体在狂暴的力量下四处飞射，露出地面上蛛网般的裂缝",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一只脚踏入粘稠的血泊中，液体在狂暴的力量下四处飞射，露出地面上蛛网般的裂缝",
-        "况青云咧嘴露出一口森白的牙齿，仿佛遭到雷齑的并不是他，啧啧有声道：“怪不得堂堂祭刀会的会长要给天府戍卫当狗，罗镇还真他妈够大方啊",
-        "虎冢放下交叉挡在身前的双臂，露出一双惊疑不定的眸子，手腕处能够看到明显的凹陷"
+      "relationships": [
+        {
+          "target": "虎冢",
+          "type": "手下"
+        },
+        {
+          "target": "赵鼎",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "况青云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章械心",
-      "summary": "李钧从戮手的眼眶中拔出两根血红的手指，甩开上面粘腻的组织和破碎的植入物零件，转头看向况青云方向",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧从戮手的眼眶中拔出两根血红的手指，甩开上面粘腻的组织和破碎的植入物零件，转头看向况青云方向",
-        "况青云咧嘴露出一口森白的牙齿，仿佛遭到雷齑的并不是他，啧啧有声道：“怪不得堂堂祭刀会的会长要给天府戍卫当狗，罗镇还真他妈够大方啊",
-        "李钧和况青云对视一眼，几乎同时暴身而起，朝着躲在祭刀会人群中赵斗冲去"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以买凶杀人名义要带走赵斗，与赵鼎对峙。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "本官现在怀疑赵斗涉嫌买凶杀人，要带他回戍卫局审问",
+        "罗镇要带走赵斗，因为这个人还有价值！",
+        "能当上一区巡检，罗镇也是一名序列者！"
+      ],
+      "mention_count": 10
     },
     {
       "name": "赵鼎",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "袍哥会首领",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第14章械心",
-      "summary": "今天这场局他虽然输了，但只要赵斗还在自己手上，等赵鼎一死，他立马就能以调查案件为借口，再次将手伸进九龙街",
-      "appearance": [],
-      "personality": [],
+      "summary": "袍哥会首领，年老但威严，与罗镇对抗。",
+      "appearance": [
+        "枯枝般的手指"
+      ],
+      "personality": [
+        "威严",
+        "老练"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "罗镇",
+          "type": "敌对"
+        },
+        {
+          "target": "赵斗",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与罗镇对峙，拒绝交出赵斗。"
+        }
+      ],
       "evidence": [
-        "今天这场局他虽然输了，但只要赵斗还在自己手上，等赵鼎一死，他立马就能以调查案件为借口，再次将手伸进九龙街",
-        "”赵鼎脸色一片漠然，言语间不再客气",
-        "”　　赵鼎长叹一声，枯枝般的手指从大氅中伸出，敲了敲座椅的扶手"
+        "赵鼎脸色一片漠然，言语间不再客气",
+        "赵鼎长叹一声，枯枝般的手指从大氅中伸出，敲了敲座椅的扶手",
+        "赵鼎哈哈一笑，根本不把罗镇的威胁放在心上"
       ],
       "mention_count": 5
     },
     {
-      "name": "本官现",
+      "name": "赵斗",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "祭刀会成员",
+      "faction": "祭刀会",
       "status": "登场",
       "first_appearance": "第14章械心",
-      "summary": "第14章械心　　“本官现在怀疑赵斗涉嫌买凶杀人，要带他回戍卫局审问，你要拦我",
+      "summary": "祭刀会成员，被罗镇指控买凶杀人，成为冲突焦点。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第14章械心　　“本官现在怀疑赵斗涉嫌买凶杀人，要带他回戍卫局审问，你要拦我",
-        "”罗镇朗声喝道，抬手指着周围聚拢的浑水袍哥弟子，“本官现在就要带赵斗走，我看谁敢拦我"
+      "relationships": [
+        {
+          "target": "罗镇",
+          "type": "被追捕"
+        },
+        {
+          "target": "赵鼎",
+          "type": "被保护"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被罗镇指控买凶杀人，赵鼎拒绝交出。"
+        }
+      ],
+      "evidence": [
+        "本官现在怀疑赵斗涉嫌买凶杀人",
+        "赵斗赌了命，那他就必须把命留在九龙街",
+        "朝着躲在祭刀会人群中赵斗冲去"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "况青",
+      "name": "虎冢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "兵道序列九",
+      "faction": "天府戍卫局",
       "status": "登场",
       "first_appearance": "第14章械心",
-      "summary": "李钧从戮手的眼眶中拔出两根血红的手指，甩开上面粘腻的组织和破碎的植入物零件，转头看向况青云方向",
+      "summary": "罗镇的手下，兵道序列九，拥有雷部天兵核心。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧从戮手的眼眶中拔出两根血红的手指，甩开上面粘腻的组织和破碎的植入物零件，转头看向况青云方向",
-        "况青云咧嘴露出一口森白的牙齿，仿佛遭到雷齑的并不是他，啧啧有声道：“怪不得堂堂祭刀会的会长要给天府戍卫当狗，罗镇还真他妈够大方啊",
-        "李钧和况青云对视一眼，几乎同时暴身而起，朝着躲在祭刀会人群中赵斗冲去"
+      "personality": [
+        "忠诚",
+        "谨慎"
       ],
-      "mention_count": 4
+      "abilities": [
+        "兵道序列九",
+        "雷部天兵核心"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗镇",
+          "type": "手下"
+        },
+        {
+          "target": "况青云",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与况青云和李钧战斗，被击退。"
+        }
+      ],
+      "evidence": [
+        "虎冢虽然是一名老牌的兵道序列九",
+        "虎冢冷哼一声，五指间炸出更多的电芒",
+        "虎冢身形向后暴退，双腿电弧跳动扎入地面不断卸力"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "再次",
+      "name": "况青云",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "浑水袍哥",
+      "faction": "袍哥会",
       "status": "登场",
       "first_appearance": "第14章械心",
-      "summary": "今天这场局他虽然输了，但只要赵斗还在自己手上，等赵鼎一死，他立马就能以调查案件为借口，再次将手伸进九龙街",
+      "summary": "浑水袍哥，儒生打扮但暴力，与李钧联手对抗虎冢。",
+      "appearance": [
+        "儒生打扮",
+        "青袍变血袍"
+      ],
+      "personality": [
+        "暴力",
+        "嚣张"
+      ],
+      "abilities": [
+        "武道序列九"
+      ],
+      "equipment": [
+        "银白义肢"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "盟友"
+        },
+        {
+          "target": "虎冢",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧联手攻击虎冢，被雷光所伤。"
+        }
+      ],
+      "evidence": [
+        "青袍变血袍的况青云如同炮弹袭出",
+        "况青云手臂上的皮肤如同融化的蜡烛，不断溶解剥离，露出藏在仿生皮肤下的银白义肢",
+        "况青云瞳底的红光一刹亮过一刹"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "武道序列九",
+      "faction": "袍哥会",
+      "status": "登场",
+      "first_appearance": "第14章械心",
+      "summary": "武道序列九，拥有械心，与况青云联手对抗虎冢。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "武道序列九",
+        "八卦游身步",
+        "青帝诀"
+      ],
+      "equipment": [
+        "械心"
+      ],
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "盟友"
+        },
+        {
+          "target": "虎冢",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "消耗精通点提升技能，与况青云联手攻击虎冢。"
+        }
+      ],
+      "evidence": [
+        "消耗精通点88点，八卦游身步提升至（九品中期0/100）",
+        "消耗精通点12点，青帝诀提升至（八品中期16/100）",
+        "李钧的身影浮现在虎冢身侧，腿影如刀"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "戮手",
+      "aliases": [],
+      "identity": "祭刀会十贵次席",
+      "faction": "祭刀会",
+      "status": "死亡",
+      "first_appearance": "第14章械心",
+      "summary": "祭刀会十贵次席，被李钧杀死。",
+      "appearance": [
+        "紫色头发"
+      ],
+      "personality": [
+        "嗜血"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧杀死。"
+        }
+      ],
       "evidence": [
-        "今天这场局他虽然输了，但只要赵斗还在自己手上，等赵鼎一死，他立马就能以调查案件为借口，再次将手伸进九龙街"
+        "戮手丢下一具被折断脖颈的尸体",
+        "戮手的意淫还没结束，额前垂落的紫色头发突然被狂风吹起",
+        "李钧从戮手的眼眶中拔出两根血红的手指"
       ],
       "mention_count": 3
     },
     {
-      "name": "巡检",
+      "name": "豹影",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "祭刀会十贵高手",
+      "faction": "祭刀会",
+      "status": "死亡",
       "first_appearance": "第14章械心",
-      "summary": "巡检大人难道不给袍哥会面子",
+      "summary": "祭刀会十贵高手，被况青云杀死。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "巡检大人难道不给袍哥会面子",
-        "赵鼎哈哈一笑，根本不把罗镇的威胁放在心上，朗声道：“我代表袍哥会众兄弟，多谢罗巡检",
-        "”　　此刻拳场内诸多以为胜券在握的浑水袍哥猛然惊出一头冷汗，能当上一区巡检，罗镇也是一名序列者"
+      "relationships": [
+        {
+          "target": "况青云",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "情理",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章械心",
-      "summary": "刚才赵斗赌了命，那他就必须把命留在九龙街，这是情理",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "刚才赵斗赌了命，那他就必须把命留在九龙街，这是情理",
-        "”　　“情理大不过法理"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被况青云膝撞杀死。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "转身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第14章械心",
-      "summary": "罗镇面色阴沉，转身向着拳场外走去，虎冢沉默着跟他在身后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "罗镇面色阴沉，转身向着拳场外走去，虎冢沉默着跟他在身后"
+        "豹影的头颅向后折叠一百八十度",
+        "祭刀会‘十贵’中名列前茅的高手豹影根本反应不过来，就被一记凶狠的膝撞轰在面门"
       ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

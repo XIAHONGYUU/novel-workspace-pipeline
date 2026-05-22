@@ -1,257 +1,449 @@
 {
   "chunk_id": "chunk-0585",
-  "title": "第583章无佛可拜，那就无人磕头",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "明大人"
+      ],
+      "identity": "明人，薪主",
+      "faction": "明人",
       "status": "登场",
       "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "原本暴怒的僧人在看到李钧等人的瞬间，脸色顿时大变，没有任何迟疑，他转身就要逃跑",
+      "summary": "明人领袖，实力强大，对番地佛门深恶痛绝，主张杀尽恶佛。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "原本暴怒的僧人在看到李钧等人的瞬间，脸色顿时大变，没有任何迟疑，他转身就要逃跑",
-        "”　　李钧没有理会顿珠的询问，低头看了眼他怀中的少女，惨白面容上眉头紧皱，泪水顺着紧闭的眼睛流下",
-        "虽然心头隐约已经有了答案，但李钧还是情不自禁再次问了一遍"
+      "personality": [
+        "暴怒",
+        "果断",
+        "杀伐决断"
       ],
-      "mention_count": 22
+      "abilities": [
+        "劲力",
+        "薪主威压"
+      ],
+      "equipment": [
+        "长刀"
+      ],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        },
+        {
+          "target": "甘泉法王",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在番地戈壁中遇到金珠村佛奴和甘泉法王，杀死甘泉。"
+        }
+      ],
+      "evidence": [
+        "李钧单手举起这具肥硕丑陋的身躯，压着怒，收着力，朝着地面掼下。",
+        "李钧剑眉倒竖，体内劲力掀起惊涛骇浪",
+        "杀到他们无佛可拜，那就不会有人再跪下磕头！"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "甘泉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "甘泉法王",
+      "aliases": [
+        "甘泉",
+        "法王"
+      ],
+      "identity": "桑烟寺僧人，序六法王",
+      "faction": "番传佛序",
+      "status": "死亡",
       "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "“谁敢阻挠我甘泉寺重建",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "桑烟寺林伽婆座下弟子，负责监督金珠村筑寺，被李钧击败后杀死。",
+      "appearance": [
+        "肥硕丑陋"
+      ],
+      "personality": [
+        "残忍",
+        "贪婪"
+      ],
+      "abilities": [
+        "佛国展开",
+        "狮子印"
+      ],
+      "equipment": [
+        "明黄法床",
+        "华贵撵车"
+      ],
+      "relationships": [
+        {
+          "target": "林伽婆",
+          "type": "师从"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧击败，后被顿珠斩首。"
+        }
+      ],
       "evidence": [
-        "“谁敢阻挠我甘泉寺重建",
-        "车撵上是一张带有帷帐的明黄法床，车后大旗飘扬，上书四个番地大字：甘泉法王",
-        "“用来筑寺的神石，竟被如此随意的遗弃落地，还敢伤害的本座派出的监工僧人.”　　华盖帷帐中，甘泉法王半偎着靠枕，垂眸敛目，一枚狮子印结在身前"
+        "甘泉法王半偎着靠枕，垂眸敛目，一枚狮子印结在身前。",
+        "甘泉法王是佛陀行走人间的化身",
+        "甘泉的头颅不断塌陷变形的咔咔声响"
       ],
       "mention_count": 15
     },
     {
       "name": "顿珠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "金珠村佛奴，身负佛泽",
+      "faction": "金珠村",
       "status": "登场",
       "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "顿珠后背着地，小心护着怀中已经妖魔化，体型比他还要硕大几分的少女阿卓",
-      "appearance": [],
+      "summary": "金珠村佛奴，性情憨直，为保护少女阿卓和村长建九，最终亲手杀死甘泉法王并自断慧根。",
+      "appearance": [
+        "赤膊上身",
+        "血迹斑斑"
+      ],
+      "personality": [
+        "憨直",
+        "勇敢",
+        "有担当"
+      ],
+      "abilities": [
+        "佛泽"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阿卓",
+          "type": "保护者"
+        },
+        {
+          "target": "建九",
+          "type": "敬重"
+        },
+        {
+          "target": "甘泉法王",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "请求亲手杀死甘泉法王，成功后自断慧根倒地。"
+        }
+      ],
+      "evidence": [
+        "顿珠后背着地，小心护着怀中已经妖魔化的少女阿卓。",
+        "顿珠指着甘泉，一字一顿：让我亲手杀了他。",
+        "他切断了自己的慧根，切断了所谓的佛泽。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "阿卓",
+      "aliases": [
+        "少女"
+      ],
+      "identity": "金珠村少女，已妖魔化",
+      "faction": "金珠村",
+      "status": "死亡",
+      "first_appearance": "第583章无佛可拜，那就无人磕头",
+      "summary": "金珠村少女，被妖魔化后由顿珠保护，最终在老人尸体旁自尽。",
+      "appearance": [
+        "体型硕大",
+        "鳞甲覆盖",
+        "狰狞爪子"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顿珠后背着地，小心护着怀中已经妖魔化，体型比他还要硕大几分的少女阿卓",
-        "”　　李钧没有理会顿珠的询问，低头看了眼他怀中的少女，惨白面容上眉头紧皱，泪水顺着紧闭的眼睛流下",
-        "虽然眼下自己这个念头显然是于佛不敬，可顿珠的直觉就是如此"
+      "relationships": [
+        {
+          "target": "顿珠",
+          "type": "被保护"
+        },
+        {
+          "target": "建九",
+          "type": "祖孙"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "醒来后发现自己妖魔化，划伤老人尸体后自尽。"
+        }
+      ],
+      "evidence": [
+        "少女阿卓蜷缩着身体，静静躺在老人身旁。",
+        "利爪切开了鳞片覆盖的喉管，喷洒出淡绿色的腥臭血液。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "建九",
+      "aliases": [
+        "建九阿爸",
+        "建九阿爷",
+        "村长"
+      ],
+      "identity": "金珠村村长",
+      "faction": "金珠村",
+      "status": "死亡",
+      "first_appearance": "第583章无佛可拜，那就无人磕头",
+      "summary": "金珠村村长，因放走阿卓被僧人杀害。",
+      "appearance": [
+        "满是血污的脸上是一片死寂的灰白"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阿卓",
+          "type": "祖孙"
+        },
+        {
+          "target": "顿珠",
+          "type": "村民"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被僧人杀害，尸体被顿珠抱起。"
+        }
+      ],
+      "evidence": [
+        "一个拳头大小的窟窿几乎洞穿了他的胸膛。",
+        "顿珠轻轻抱起老人摔倒在铁笼边的身体。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "四九"
+      ],
+      "identity": "明人，同伴",
+      "faction": "明人",
+      "status": "登场",
+      "first_appearance": "第583章无佛可拜，那就无人磕头",
+      "summary": "李钧的同伴，擅长挖取记忆。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "挖脑子获取信息"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受李钧之命挖取僧人和甘泉的记忆。"
+        }
+      ],
+      "evidence": [
+        "邹四九迈步上前，与李钧并肩而站",
+        "四九，去拆了他的脑子，捞点有用的消息回来。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "明人，同伴",
+      "faction": "明人",
+      "status": "登场",
+      "first_appearance": "第583章无佛可拜，那就无人磕头",
+      "summary": "李钧的同伴，冷酷无情，擅长用神念攻击。",
+      "appearance": [],
+      "personality": [
+        "冰冷",
+        "残忍"
+      ],
+      "abilities": [
+        "神念"
+      ],
+      "equipment": [
+        "银白长剑"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用神念碾碎僧人四肢，后杀死露出怨恨目光的佛奴。"
+        }
+      ],
+      "evidence": [
+        "陈乞生站在人群外围，双手抱着肩膀，眉宇间一片冰冷。",
+        "凡事露出过怨恨目光的头颅，全部被飞掠的长剑所洞穿。"
+      ],
+      "mention_count": 4
     },
     {
       "name": "袁明妃",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "明人，同伴",
+      "faction": "明人",
       "status": "登场",
       "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "“是农序，他们竟然把手伸进了番地”　　袁明妃蹲在少女的身旁，手指轻抚过对方身上丑恶的鳞甲，眼眸深处有一头山岳怒猿昂头啸月",
+      "summary": "李钧的同伴，对番地佛门有深刻了解，内心无奈。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "无奈",
+        "痛心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“是农序，他们竟然把手伸进了番地”　　袁明妃蹲在少女的身旁，手指轻抚过对方身上丑恶的鳞甲，眼眸深处有一头山岳怒猿昂头啸月",
-        "“番传佛序那群畜生，他们想干什么.”　　袁明妃脸色铁青，这还是李钧第一次看到她如此失态",
-        "就算是曾经在重庆府面对大昭寺僧人隆图的时候，袁明妃也从未显露出如此强烈的愤怒和恨意"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧解释番地佛奴的处境。"
+        }
+      ],
+      "evidence": [
+        "袁明妃蹲在少女的身旁，手指轻抚过对方身上丑恶的鳞甲",
+        "袁明妃的透着说不出的无奈和痛心"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "他们",
+      "name": "马王爷",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "明人，同伴",
+      "faction": "明人",
       "status": "登场",
       "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "“是农序，他们竟然把手伸进了番地”　　袁明妃蹲在少女的身旁，手指轻抚过对方身上丑恶的鳞甲，眼眸深处有一头山岳怒猿昂头啸月",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“是农序，他们竟然把手伸进了番地”　　袁明妃蹲在少女的身旁，手指轻抚过对方身上丑恶的鳞甲，眼眸深处有一头山岳怒猿昂头啸月",
-        "“番传佛序那群畜生，他们想干什么.”　　袁明妃脸色铁青，这还是李钧第一次看到她如此失态",
-        "仿佛眼前是一群无法用语言形容的庞然大物，而自己只是一只匍匐在他们脚下的一只弱小虫子"
+      "summary": "李钧的同伴，身穿暗金色甲胄。",
+      "appearance": [
+        "暗金色的庞然甲胄",
+        "红眼"
       ],
-      "mention_count": 7
+      "personality": [
+        "含怒"
+      ],
+      "abilities": [],
+      "equipment": [
+        "长刀"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将长刀抛给李钧。"
+        }
+      ],
+      "evidence": [
+        "暗金色的庞然甲胄站在李钧身后，红眼中传出马王爷饱含怒意的声线。",
+        "李钧摊开手掌，抓住马王爷抛来的长刀"
+      ],
+      "mention_count": 2
     },
     {
       "name": "妇人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "孩子的母亲"
+      ],
+      "identity": "金珠村佛奴",
+      "faction": "金珠村",
       "status": "登场",
       "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "”　　妇人对着李钧双手合十，高过头顶，跪地乞求",
-      "appearance": [],
-      "personality": [],
+      "summary": "金珠村佛奴，为保护甘泉法王而向李钧求情。",
+      "appearance": [
+        "面色苍白"
+      ],
+      "personality": [
+        "虔诚",
+        "怯懦"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　妇人对着李钧双手合十，高过头顶，跪地乞求",
-        "那名率先出头的妇人再次壮着胆子往前跪行几步，在李钧脚下直伸双手，掌心向上，又复跪下，额头和胸口紧紧贴在地",
-        "“尊敬的明大人，甘泉法王是佛陀行走人间的化身，是救苦救难的菩萨，不容亵渎，请您离开”　　妇人双手贴着地面划出一个带着血迹的半圆，在身前合十"
+      "relationships": [
+        {
+          "target": "甘泉法王",
+          "type": "崇拜"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "制止李钧杀死甘泉，并带领佛奴跪求宽恕。"
+        }
+      ],
+      "evidence": [
+        "妇人对着李钧双手合十，高过头顶，跪地乞求。",
+        "尊敬的明大人，甘泉法王是佛陀行走人间的化身"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "那就",
+      "name": "少年",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "金珠村佛奴，妇人之子",
+      "faction": "金珠村",
       "status": "登场",
       "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "第583章无佛可拜，那就无人磕头　　怎么还会有明人出现在雨墨",
-      "appearance": [],
+      "summary": "妇人的儿子，跟随母亲跪求。",
+      "appearance": [
+        "泪流满面"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第583章无佛可拜，那就无人磕头　　怎么还会有明人出现在雨墨",
-        "“这么说，那就是蛇鼠一窝了",
-        "“没用的，你杀的了一个，杀不完所有.”　　“那就有多少，杀多少"
+      "relationships": [
+        {
+          "target": "妇人",
+          "type": "母子"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "汉子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "汉子一脸紧张看着面前这个体型远逊色于自己的明人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "汉子一脸紧张看着面前这个体型远逊色于自己的明人",
-        "性情憨直的汉子朝着袁明妃点了点头，嘴里含糊不清的说了一声‘谢谢’，随后挣扎起身，抱着阿卓大步跑回到老人的身边",
-        "汉子看了眼身旁面目全非的少女，又看了眼怀中的尸体，跪坐在地，陷入长久的沉默"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "学着母亲的模样跪地乞求。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "虽然心头隐约已经有了答案，但李钧还是情不自禁再次问了一遍",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "虽然心头隐约已经有了答案，但李钧还是情不自禁再次问了一遍",
-        "虽然眼下自己这个念头显然是于佛不敬，可顿珠的直觉就是如此"
+        "清醒过来的少年泪流满面，却死死咬着嘴唇，学着母亲的模样，做出一样的动作。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "袁明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "“是农序，他们竟然把手伸进了番地”　　袁明妃蹲在少女的身旁，手指轻抚过对方身上丑恶的鳞甲，眼眸深处有一头山岳怒猿昂头啸月",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“是农序，他们竟然把手伸进了番地”　　袁明妃蹲在少女的身旁，手指轻抚过对方身上丑恶的鳞甲，眼眸深处有一头山岳怒猿昂头啸月",
-        "“番传佛序那群畜生，他们想干什么.”　　袁明妃脸色铁青，这还是李钧第一次看到她如此失态",
-        "就算是曾经在重庆府面对大昭寺僧人隆图的时候，袁明妃也从未显露出如此强烈的愤怒和恨意"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "小僧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "“大人，大人”　　甘泉肝胆俱裂，用佛念出声，仓惶喊道：“小僧是桑烟佛主林伽婆座下弟子，不知道有什么地方冒犯了大人，还请大人看在桑烟佛祖的面上饶恕小僧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“大人，大人”　　甘泉肝胆俱裂，用佛念出声，仓惶喊道：“小僧是桑烟佛主林伽婆座下弟子，不知道有什么地方冒犯了大人，还请大人看在桑烟佛祖的面上饶恕小僧",
-        "”　　“不用挖，当然不用挖，如果大人需要因果算力，小僧手里存有不少提纯后的佛奴”　　甘泉求饶的话语尚未说完，就见一只脚重重踩在脸上，两颗眼珠在挤压的巨力下顿时炸出眼眶",
-        "“大人饶了小僧，小僧是桑烟寺的人，桑烟寺啊.”　　甘泉绝望的嘶嚎，还在妄图用桑烟寺的名头震慑李钧"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "想要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第583章无佛可拜，那就无人磕头",
-      "summary": "只见他喉头滚动，嘴角抽搐，似乎想要说话，可屡次欲言又止，最终还是一言不发，只是紧了紧怀中干瘦的尸体",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只见他喉头滚动，嘴角抽搐，似乎想要说话，可屡次欲言又止，最终还是一言不发，只是紧了紧怀中干瘦的尸体",
-        "”　　佛奴群中顿时怒骂连连，有几个跪地的男人竟爬起身来，扑向顿珠，拽住他的肩膀，想要将他压在地上",
-        "她爬伏在老人的尸体旁，想要伸手触摸那张满是岁月沟壑的面容，并没有发现自己抬起的是一只狰狞爪子"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

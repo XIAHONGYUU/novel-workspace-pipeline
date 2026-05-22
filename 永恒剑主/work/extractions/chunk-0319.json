@@ -1,254 +1,451 @@
 {
   "chunk_id": "chunk-0319",
-  "title": "第三百一十六章 潜藏（上）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "海极哥",
+        "夏海极"
+      ],
+      "identity": "幽府之子，伪装成夏海极",
+      "faction": "黄山",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "林新双目微眯，砂时神宫",
+      "summary": "伪装成夏海极的幽府之子，混入黄山小队，对幽府情况不熟悉。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "沉默"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新双目微眯，砂时神宫",
-        "林新感觉自己身边的梅子和陈帆都是情绪一下子低落下来",
-        "梅子则是看向林新"
+      "relationships": [
+        {
+          "target": "明桥",
+          "type": "被其关心（原主关系）"
+        },
+        {
+          "target": "顾林策",
+          "type": "队友"
+        },
+        {
+          "target": "梅子",
+          "type": "队友"
+        },
+        {
+          "target": "陈帆",
+          "type": "队友"
+        }
       ],
-      "mention_count": 24
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黄山交易现场，被明桥叫出，遭遇王鹤挑衅，但未回应。"
+        }
+      ],
+      "evidence": [
+        "林新双目微眯，砂时神宫？这些幽府之子似乎各方面的消息都异常灵通。",
+        "林新感觉自己身边的梅子和陈帆都是情绪一下子低落下来。",
+        "林新不知道什么情况，只能沉默掩饰自己。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "王鹤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "黄山尊者",
+      "aliases": [
+        "黄山"
+      ],
+      "identity": "黄山组织首领",
+      "faction": "黄山",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "“王鹤",
+      "summary": "黄山组织的首领，得知无极道君背叛后情绪低落。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "落寞"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“王鹤",
-        "王鹤身上缓缓弥漫翻滚着极其浓烈的杀意和血气",
-        "“王鹤，你到底想做什么"
+      "relationships": [
+        {
+          "target": "雾生刀子",
+          "type": "被其威胁"
+        },
+        {
+          "target": "无极道君",
+          "type": "被其背叛"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被雾生刀子告知无极道君已前往砂时神宫，确认背叛。"
+        }
+      ],
+      "evidence": [
+        "更多的目光落在黄山尊者身上。",
+        "黄山尊者则是低下头，神情落寞。",
+        "黄山尊者也是叹气。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "明桥",
+      "name": "雾生刀子",
       "aliases": [],
-      "identity": "",
+      "identity": "幽府之子，危险人物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "“明桥一叫他，便老老实实的跑出去帮忙，海极哥怎么就是不明白，那女人根本就是在利用他",
+      "summary": "一个危险人物，向黄山尊者透露无极道君背叛的消息。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "讥讽"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“明桥一叫他，便老老实实的跑出去帮忙，海极哥怎么就是不明白，那女人根本就是在利用他",
-        "“明桥虽然漂亮，但不适合海极，相信他总有一天能明白的",
-        "林新心头大概有了了解，大踏步的朝着那个叫明桥的女子走去"
+      "relationships": [
+        {
+          "target": "黄山尊者",
+          "type": "告知消息"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与黄山尊者对话后离去。"
+        }
+      ],
+      "evidence": [
+        "雾生刀子微笑盯着黄山尊者。",
+        "雾生打断黄山尊者说话，脸上挂起一丝讥讽。",
+        "雾生刀子又和黄山尊者说了几句话，便转身离去。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "陈帆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "无极道君",
+      "aliases": [
+        "无极"
+      ],
+      "identity": "黄山组织成员，神算高手",
+      "faction": "黄山（已背叛）",
+      "status": "提及",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "林新感觉自己身边的梅子和陈帆都是情绪一下子低落下来",
+      "summary": "黄山组织的重要成员，拥有神算能力，但已背叛前往砂时神宫。",
       "appearance": [],
       "personality": [],
+      "abilities": [
+        "神算"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黄山尊者",
+          "type": "背叛"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被雾生刀子告知已前往砂时神宫。"
+        }
+      ],
+      "evidence": [
+        "无极已经早就前往砂时神宫了。",
+        "无极道君，背叛了我们么？",
+        "似乎这个无极道君在众人心目中的地位异常之高。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "巨汉",
+      "aliases": [],
+      "identity": "幽府之子，黄山成员",
+      "faction": "黄山",
+      "status": "登场",
+      "first_appearance": "第三百一十六章 潜藏（上）",
+      "summary": "黄山组织中的一名巨汉，性格刚硬。",
+      "appearance": [],
+      "personality": [
+        "刚硬"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新感觉自己身边的梅子和陈帆都是情绪一下子低落下来",
-        "”陈帆小声说",
-        "”陈帆的声音传来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "质问无极道君是否背叛，后离开。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "最前面说话的巨汉低沉开口",
+        "那巨汉冷冷道。",
+        "冷哼一声，巨汉转身就走，不再留恋。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "顾林策",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "队长"
+      ],
+      "identity": "黄山小队队长",
+      "faction": "黄山",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "队长顾林策阴沉着脸，拳头微微握紧，显然是正在强制压制情绪",
+      "summary": "林新所在小队的队长，对王鹤有仇视。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "队长顾林策阴沉着脸，拳头微微握紧，显然是正在强制压制情绪",
-        "顾林策吐了口气，回头看向身后队员",
-        "”这是顾林策的安慰"
+      "personality": [
+        "阴沉",
+        "仇视"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "忽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "”　　忽然一个平静的女声从不远处传来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　忽然一个平静的女声从不远处传来",
-        "却忽然发现周围几个队伍里的伙伴都市有些奇怪的看着自己",
-        "”忽然一个妖异的声音从边上传来"
+      "equipment": [
+        "大刀"
       ],
-      "mention_count": 6
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "队友"
+        },
+        {
+          "target": "梅子",
+          "type": "队友"
+        },
+        {
+          "target": "陈帆",
+          "type": "队友"
+        },
+        {
+          "target": "王鹤",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领小队参与交易，面对王鹤时准备动手。"
+        }
+      ],
+      "evidence": [
+        "队长顾林策阴沉着脸，拳头微微握紧",
+        "顾林策吐了口气，回头看向身后队员。",
+        "顾林策眼神前所未有的凝重，手甚至已经握住了腰间挂着的大刀"
+      ],
+      "mention_count": 4
     },
     {
       "name": "梅子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "黄山小队成员",
+      "faction": "黄山",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "林新感觉自己身边的梅子和陈帆都是情绪一下子低落下来",
+      "summary": "林新所在小队的女成员，关心夏海极。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "关心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "队友"
+        },
+        {
+          "target": "明桥",
+          "type": "不满其利用夏海极"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新对话，后面对王鹤时被压力所迫。"
+        }
+      ],
       "evidence": [
-        "林新感觉自己身边的梅子和陈帆都是情绪一下子低落下来",
-        "梅子则是看向林新",
-        "”　　梅子点点头"
+        "林新感觉自己身边的梅子和陈帆都是情绪一下子低落下来。",
+        "梅子则是看向林新。",
+        "梅子冷冷反驳矮胖子。"
       ],
       "mention_count": 5
     },
     {
-      "name": "夏海极",
+      "name": "陈帆",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "黄山小队成员",
+      "faction": "黄山",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "“夏海极",
+      "summary": "林新所在小队的成员，对王鹤有杀意。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“夏海极",
-        "“夏海极，我记得我给你提过醒吧",
-        "”　　此时夏海极的小队队员们赶上来，纷纷挡在夏海极前面"
+      "personality": [
+        "仇视"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "没人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "第三百一十六章 潜藏（上）　　现场一片安静，没人大声喘气出声",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "队友"
+        },
+        {
+          "target": "王鹤",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新对话，后面对王鹤时表现出杀意。"
+        }
+      ],
       "evidence": [
-        "第三百一十六章 潜藏（上）　　现场一片安静，没人大声喘气出声",
-        "没人回答他"
+        "陈帆小声说。",
+        "陈帆眼里急速跳动着杀意。",
+        "此仇不报，我陈帆怕是心路不畅，永远进不了祖祠！"
       ],
       "mention_count": 4
     },
     {
-      "name": "雾生",
-      "aliases": [],
-      "identity": "",
+      "name": "明桥",
+      "aliases": [
+        "明桥一",
+        "明家大小姐"
+      ],
+      "identity": "幽府之子，明家小姐",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "”雾生刀子微笑盯着黄山尊者",
-      "appearance": [],
-      "personality": [],
+      "summary": "一位贵气美丽的年轻女子，与夏海极（林新）关系密切，被王家逼迫联姻。",
+      "appearance": [
+        "异常贵气美丽",
+        "披着洁白如雪的白狐裘大衣",
+        "长发结了白色丝带",
+        "一脸的冷漠冰霜"
+      ],
+      "personality": [
+        "冷漠",
+        "不耐烦",
+        "火大"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”雾生刀子微笑盯着黄山尊者",
-        "”雾生打断黄山尊者说话，脸上挂起一丝讥讽",
-        "但周围黄山的其他成员却已经听到这个消息，一个个都神色微变，似乎听懂了雾生口中的意思"
+      "relationships": [
+        {
+          "target": "林新（夏海极）",
+          "type": "关心（原主关系）"
+        },
+        {
+          "target": "王鹤",
+          "type": "被其威胁"
+        },
+        {
+          "target": "矮胖子",
+          "type": "被其嘲讽"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "叫出林新，责备其去无声崖，后与王鹤对峙。"
+        }
+      ],
+      "evidence": [
+        "那赫然是个异常贵气美丽的年轻女子",
+        "明桥猛地挡在他身前",
+        "明桥浑身微微颤动着，那是极度紧张导致的身体微微抽搐。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "你还",
+      "name": "王鹤",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "幽府之子，王家成员",
+      "faction": "王家",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "你还不明白么",
-      "appearance": [],
-      "personality": [],
+      "summary": "一个强大的幽府之子，与明桥有婚约关系，曾重伤夏海极小队并抢走妖符种。",
+      "appearance": [
+        "浑身紧紧包裹在漆黑的长衣里",
+        "戴着黑色头巾，黑色眼罩",
+        "只露出一只冰蓝色眼瞳"
+      ],
+      "personality": [
+        "阴冷",
+        "杀意浓烈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "你还不明白么",
-        "“海极哥，你还去换妖符种么"
+      "relationships": [
+        {
+          "target": "明桥",
+          "type": "威胁对象（未婚夫？）"
+        },
+        {
+          "target": "夏海极（林新）",
+          "type": "挑衅"
+        },
+        {
+          "target": "顾林策小队",
+          "type": "仇敌"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现并挑衅夏海极，释放杀气后离开。"
+        }
+      ],
+      "evidence": [
+        "王鹤身上缓缓弥漫翻滚着极其浓烈的杀意和血气。",
+        "王鹤却是看向被人包在中间的林新。",
+        "王鹤不会放过你的！"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "黄山",
+      "name": "矮胖子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "幽府之子，王家成员",
+      "faction": "王家",
       "status": "登场",
       "first_appearance": "第三百一十六章 潜藏（上）",
-      "summary": "更多的目光落在黄山尊者身上",
-      "appearance": [],
-      "personality": [],
+      "summary": "一个肥头大耳的矮胖子，王家的人，嘲讽明桥和夏海极。",
+      "appearance": [
+        "肥头大耳",
+        "矮胖",
+        "一身穿金戴银",
+        "脸上带着一丝恶心的媚笑"
+      ],
+      "personality": [
+        "恶心",
+        "毒舌"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "明桥",
+          "type": "嘲讽"
+        },
+        {
+          "target": "林新（夏海极）",
+          "type": "嘲讽"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现并嘲讽明桥和夏海极。"
+        }
+      ],
       "evidence": [
-        "更多的目光落在黄山尊者身上",
-        "”雾生刀子微笑盯着黄山尊者",
-        "”雾生打断黄山尊者说话，脸上挂起一丝讥讽"
+        "说话的是个肥头大耳的矮胖子。",
+        "胖子却是丝毫不理会女子，而是双眼紧盯着林新。",
+        "那矮胖男子却是毒舌的刺了林新一句。"
       ],
       "mention_count": 4
     }

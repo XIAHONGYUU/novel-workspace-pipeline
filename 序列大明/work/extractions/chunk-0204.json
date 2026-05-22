@@ -1,246 +1,137 @@
 {
   "chunk_id": "chunk-0204",
-  "title": "第202章鸾鸟哀鸣",
   "characters": [
     {
       "name": "魏拒鞍",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "魏总旗"
+      ],
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "魏拒鞍两眼微眯，凝视眼前这名毫不掩饰自己身份特征的不速之客",
+      "summary": "锦衣卫总旗，负责此次抓捕鸿鹄成员的行动，杀伐果断。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魏拒鞍两眼微眯，凝视眼前这名毫不掩饰自己身份特征的不速之客",
-        "”　　魏拒鞍双眸紧紧盯着仓库大门，竖起的五指缓缓并拢，狠狠往身前一砸",
-        "众人愕然回望，只见魏拒鞍就这样堂而皇之站在场中，肩头扛着一柄几乎与人齐高的巨型枪械，神色不屑啐了一口"
+      "personality": [
+        "杀伐果断",
+        "冷静"
       ],
-      "mention_count": 13
+      "abilities": [],
+      "equipment": [
+        "巨型枪械"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指挥锦衣卫围剿鸿鹄成员，与寂武对峙。"
+        }
+      ],
+      "evidence": [
+        "魏拒鞍两眼微眯，凝视眼前这名毫不掩饰自己身份特征的不速之客。",
+        "魏拒鞍怒极而笑，一向杀伐果断的他也没兴趣再跟对方多言，左拳挥动，冷声喝道：“杀！”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "仓库",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "一头羽翼漆黑的鸾鸟撞破云层，俯冲而下，悄无声息盘旋在一间废弃的仓库上空",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一头羽翼漆黑的鸾鸟撞破云层，俯冲而下，悄无声息盘旋在一间废弃的仓库上空",
-        "仓库四周充当墙壁的薄铁皮根本无法阻挡那双猩红的眼眸，潜藏在其中的人员被侦查的一清二楚",
-        "此时有风吹过，仓库外围几乎齐腰深的荒草张牙舞爪，晃动之间露出一个个悬浮其中的‘红点’"
+      "name": "寂武",
+      "aliases": [
+        "少林，寂武"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "魏拒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "少林僧人",
+      "faction": "佛门",
       "status": "登场",
       "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "魏拒鞍两眼微眯，凝视眼前这名毫不掩饰自己身份特征的不速之客",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魏拒鞍两眼微眯，凝视眼前这名毫不掩饰自己身份特征的不速之客",
-        "”　　魏拒鞍双眸紧紧盯着仓库大门，竖起的五指缓缓并拢，狠狠往身前一砸",
-        "众人愕然回望，只见魏拒鞍就这样堂而皇之站在场中，肩头扛着一柄几乎与人齐高的巨型枪械，神色不屑啐了一口"
+      "summary": "少林僧人，俊美无俦，请求魏拒鞍随他去重庆府。",
+      "appearance": [
+        "俊美无俦"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "缴械",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "“缴械不杀",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "从容"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "魏拒鞍",
+          "type": "对峙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在仓库外，与魏拒鞍交涉。"
+        }
+      ],
       "evidence": [
-        "“缴械不杀",
-        "“缴械不杀"
+        "寂武俊美无俦的脸上露出淡淡的笑容，“想要请魏总旗帮一个小忙。”",
+        "寂武单手竖掌身前，“活的不行，死的也行。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "其余",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "鸿鹄成员",
+      "aliases": [
+        "鸿鹄"
+      ],
+      "identity": "鸿鹄组织成员",
+      "faction": "鸿鹄",
       "status": "登场",
       "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "”　　其余锦衣卫保持三人一组的作战队列，沿着豁口快速推进，手中虎豹骑叁型滚烫的枪口怒视着眼前的黑暗，密如暴雨的子弹泼洒而出",
+      "summary": "鸿鹄组织的成员，被锦衣卫围剿，悍不畏死。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　其余锦衣卫保持三人一组的作战队列，沿着豁口快速推进，手中虎豹骑叁型滚烫的枪口怒视着眼前的黑暗，密如暴雨的子弹泼洒而出",
-        "其余小队同样如法炮制，始终保持高强度的火力压制，交替掩护前进"
+      "personality": [
+        "悍不畏死",
+        "疯狂"
       ],
-      "mention_count": 3
+      "abilities": [
+        "自爆"
+      ],
+      "equipment": [
+        "械体",
+        "械心"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在仓库中被锦衣卫围剿，多数战死或自爆。"
+        }
+      ],
+      "evidence": [
+        "这些鸿鹄的人都是疯子，兄弟们已经尽量留手了，可还是没能没能抓住活口。",
+        "一名胸腔之中迸发着械心嗡鸣的鸿鹄成员从掩体后冲出"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "可就",
+      "name": "小旗",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫小旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "”　　可就在大门倒塌，烟尘掀起的一瞬间，仓库内蓦然乍现刺目的火光",
+      "summary": "一名锦衣卫小旗，向魏拒鞍汇报情况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　可就在大门倒塌，烟尘掀起的一瞬间，仓库内蓦然乍现刺目的火光"
+      "relationships": [
+        {
+          "target": "魏拒鞍",
+          "type": "下属"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "仓库内",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "”　　可就在大门倒塌，烟尘掀起的一瞬间，仓库内蓦然乍现刺目的火光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　可就在大门倒塌，烟尘掀起的一瞬间，仓库内蓦然乍现刺目的火光",
-        "”　　仓库内很快恢复了安静，只剩下刺鼻的硝烟和血腥味道还在萦绕"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向魏拒鞍汇报鸿鹄成员无活口。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "两道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "两道冷峻的声线在耳蜗中响起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "两道冷峻的声线在耳蜗中响起",
-        "”　　只见呈扇形推进的小队中，两道身穿明光重铠的魁梧身影一马当先冲出，脚步落地踏出沉闷的声响，暗处袭来的子弹打在甲胄上发出清脆的铿锵声响"
+        "一名腰间挂着小旗令牌的锦衣卫快步走了过来，冲着靠在一个货箱旁闭目养神的魏拒鞍抱拳躬身。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "凝视",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "魏拒鞍两眼微眯，凝视眼前这名毫不掩饰自己身份特征的不速之客",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魏拒鞍两眼微眯，凝视眼前这名毫不掩饰自己身份特征的不速之客"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "狠狠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "”　　魏拒鞍双眸紧紧盯着仓库大门，竖起的五指缓缓并拢，狠狠往身前一砸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　魏拒鞍双眸紧紧盯着仓库大门，竖起的五指缓缓并拢，狠狠往身前一砸"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "一名",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "一名胸腔之中迸发着械心嗡鸣的鸿鹄成员从掩体后冲出，还未冲出两步，立马被汹涌袭来的弹流打断了冲势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一名胸腔之中迸发着械心嗡鸣的鸿鹄成员从掩体后冲出，还未冲出两步，立马被汹涌袭来的弹流打断了冲势",
-        "一名腰间挂着小旗令牌的锦衣卫快步走了过来，冲着靠在一个货箱旁闭目养神的魏拒鞍抱拳躬身"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "还未",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第202章鸾鸟哀鸣",
-      "summary": "一名胸腔之中迸发着械心嗡鸣的鸿鹄成员从掩体后冲出，还未冲出两步，立马被汹涌袭来的弹流打断了冲势",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一名胸腔之中迸发着械心嗡鸣的鸿鹄成员从掩体后冲出，还未冲出两步，立马被汹涌袭来的弹流打断了冲势",
-        "”　　回过神来的一众锦衣卫连忙拉开阵型，还未冷却的枪口齐刷刷对准前方那道，从黑暗中踏出的身影"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

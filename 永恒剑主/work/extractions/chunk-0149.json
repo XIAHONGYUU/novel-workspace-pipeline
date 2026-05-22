@@ -1,256 +1,322 @@
 {
   "chunk_id": "chunk-0149",
-  "title": "第一百四十七章 延缓（上）",
   "characters": [
     {
-      "name": "独孤霖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "独孤霖",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "独孤霖",
-        "“独孤霖啊独孤霖，别以为仗着有太上长老直宠，就可以为所欲为",
-        "“独孤霖"
-      ],
-      "mention_count": 20
-    },
-    {
       "name": "韩啸龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "韩长老",
+        "韩兄"
+      ],
+      "identity": "松林剑派白袍道人，剑堂长老",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "”白袍道人韩啸龙不可思议的看着来报的那名弟子",
-      "appearance": [],
-      "personality": [],
+      "summary": "松林剑派剑堂长老，与独孤霖敌对，因好友蒙曼被杀而愤怒，被独孤霖重伤。",
+      "appearance": [
+        "白袍道人"
+      ],
+      "personality": [
+        "易怒",
+        "愤慨",
+        "欺软怕硬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”白袍道人韩啸龙不可思议的看着来报的那名弟子",
-        "”韩啸龙眼中闪过一丝杀意",
-        "”韩啸龙心情不爽，此时再看他一副胆小怕事的样子，更是气不打一处来"
+      "relationships": [
+        {
+          "target": "独孤霖",
+          "type": "敌对"
+        },
+        {
+          "target": "蒙曼",
+          "type": "好友"
+        },
+        {
+          "target": "昆生如",
+          "type": "同门，受其提点"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知好友蒙曼死亡，愤怒；被独孤霖重伤心脉；被昆生如警告后吐血倒地。"
+        }
+      ],
+      "evidence": [
+        "白袍道人韩啸龙不可思议的看着来报的那名弟子。",
+        "韩啸龙眼中闪过一丝杀意。‘杀我好友，断人财路，如杀人父母！独孤霖！！’",
+        "韩啸龙勉强站起身，摸了摸心口，只感觉现在还是一片刺痛，显然是伤到了内部心脉。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "独孤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "“据说只是小溪边发现遗物……”　　“蒙曼……不可能做到这一点，肯定是独孤那个臭娘们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“据说只是小溪边发现遗物……”　　“蒙曼……不可能做到这一点，肯定是独孤那个臭娘们",
+      "name": "独孤霖",
+      "aliases": [
         "独孤霖",
-        "“独孤霖啊独孤霖，别以为仗着有太上长老直宠，就可以为所欲为"
+        "独孤师姐",
+        "臭娘们"
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "韩啸",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派女修，聚灵体，筑基期",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "”白袍道人韩啸龙不可思议的看着来报的那名弟子",
-      "appearance": [],
-      "personality": [],
+      "summary": "松林剑派女修，弟弟被杀后强闯剑堂，重伤韩啸龙，修成从云心神剑。",
+      "appearance": [
+        "窈窕修长身影",
+        "黑发如瀑",
+        "额头隐隐点着一点银色竖痕，犹如第三只眼"
+      ],
+      "personality": [
+        "冰冷",
+        "强势",
+        "重情"
+      ],
+      "abilities": [
+        "从云心神剑",
+        "剑意"
+      ],
+      "equipment": [
+        "天意剑"
+      ],
+      "relationships": [
+        {
+          "target": "韩啸龙",
+          "type": "敌对"
+        },
+        {
+          "target": "季路",
+          "type": "交易伙伴"
+        },
+        {
+          "target": "尤萱",
+          "type": "交易伙伴"
+        },
+        {
+          "target": "弟弟",
+          "type": "亲人（已故）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "强闯剑堂，重伤韩啸龙；与季路交易获得天意剑。"
+        }
+      ],
+      "evidence": [
+        "独孤霖面色如霜的缓步走上石阶。",
+        "独孤霖冰冷的眼神猛然盯住他，‘你再叫一句试试……’",
+        "她握着天意剑爱不释手的不断翻看。"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "昆生如",
+      "aliases": [
+        "昆师兄",
+        "昆生如师兄"
+      ],
+      "identity": "松林剑派金丹期修士，昆家子弟",
+      "faction": "松林剑派昆家",
+      "status": "登场",
+      "first_appearance": "第一百四十七章 延缓（上）",
+      "summary": "松林剑派金丹期修士，性情喜怒无常，警告韩啸龙等人停止争斗。",
+      "appearance": [
+        "风度翩翩的俊美道人",
+        "面如冠玉",
+        "双眉犹如利剑",
+        "眼瞳宛如绽放亮光"
+      ],
+      "personality": [
+        "喜怒无常",
+        "笑里藏刀"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”白袍道人韩啸龙不可思议的看着来报的那名弟子",
-        "”韩啸龙眼中闪过一丝杀意",
-        "”韩啸龙心情不爽，此时再看他一副胆小怕事的样子，更是气不打一处来"
+      "relationships": [
+        {
+          "target": "韩啸龙",
+          "type": "同门，提点"
+        },
+        {
+          "target": "祖父",
+          "type": "亲属"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在剑堂，警告韩啸龙等人争斗到此为止。"
+        }
+      ],
+      "evidence": [
+        "昆生如性情喜怒无常，刚入金丹期便连截红楼十三名大魔女，用于洞府做炉鼎。",
+        "昆生如却是笑容一敛，‘那位长老虽然方法激进了点，但终究是为宗门着想……祖父的意思是，一切到此为止。’",
+        "此时他的笑容里隐隐透着一丝寒意。"
+      ],
+      "mention_count": 6
     },
     {
       "name": "季路",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "”　　季路带着尤萱一起朝不远处山壁边的独孤霖深深拜下",
+      "summary": "松林剑派弟子，与尤萱一起委托独孤霖出手，并支付天意剑作为报酬。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　季路带着尤萱一起朝不远处山壁边的独孤霖深深拜下",
-        "”季路也是苦笑，小心的从怀里取出一柄小巧的白色利剑",
-        "”季路低头轻声道"
+      "relationships": [
+        {
+          "target": "独孤霖",
+          "type": "交易伙伴"
+        },
+        {
+          "target": "尤萱",
+          "type": "同伴"
+        },
+        {
+          "target": "林新",
+          "type": "师弟"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "顿时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "那道人顿时脸色一白，口中鲜血喷出，一下从空中栽倒，周围弟子大惊失色赶紧上前搀扶",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那道人顿时脸色一白，口中鲜血喷出，一下从空中栽倒，周围弟子大惊失色赶紧上前搀扶",
-        "他隐隐感觉心头一疼，眼前居然隐约浮现阵阵幻象，顿时心头大惊，知道这是被独孤霖强大的精神压制",
-        "韩啸龙三人顿时背生冷汗，不敢再问"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尤萱一起感谢独孤霖，并交付天意剑。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "从云",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "“从云心神剑……你居然真的练成了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "“从云心神剑……你居然真的练成了",
-        "哪里有什么剑气剑意，这就是从云心神剑的恐怖之处，作为松林剑派隐藏的最顶尖剑术神通，她仅仅是打出一道无形心神剑气，便让韩啸龙自己陷入幻觉，身受重创",
-        "从云心神剑，就算是聚灵体想要修成，也是千难万难，没想到她……”　　“此次回去，我要闭关十年，省得出来丢人现眼……”另一人沉闷的憋出一句满是怒气的话"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "昆生如",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "“原来是昆生如师兄",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“原来是昆生如师兄",
-        "昆家，可是宗门内三家之一，昆生如性情喜怒无常，刚入金丹期便连截红楼十三名大魔女，用于洞府做炉鼎",
-        "”昆生如笑吟吟道"
+        "季路带着尤萱一起朝不远处山壁边的独孤霖深深拜下。",
+        "季路也是苦笑，小心的从怀里取出一柄小巧的白色利剑。",
+        "他将天意剑丢出去，在半空中便被独孤霖一把凌空摄住，缓缓飞到她手中。"
       ],
       "mention_count": 5
     },
     {
-      "name": "狠狠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "尤萱",
+      "aliases": [
+        "萱儿"
+      ],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
       "status": "登场",
       "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "石桌猛然破碎，裂成数块飞散，狠狠撞在石壁上",
+      "summary": "松林剑派弟子，与季路一起行动。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "石桌猛然破碎，裂成数块飞散，狠狠撞在石壁上",
-        "”　　远处道宫飞射出一道黑袍身影，一声剑响轻鸣，身影身上陡然飚射出一道黑光，那黑光半空中化为一条黑蛇，蜿蜒转折，朝女子狠狠扑去",
-        "”　　惨白剑气骤然飚射崩散，独孤霖剑刃浮现虚影，瞬间巨大化，狠狠一下将黑蛇斩断飞开"
+      "relationships": [
+        {
+          "target": "季路",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与季路一起感谢独孤霖。"
+        }
+      ],
+      "evidence": [
+        "季路带着尤萱一起朝不远处山壁边的独孤霖深深拜下。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "让他",
+      "name": "蒙曼",
       "aliases": [],
-      "identity": "",
+      "identity": "韩啸龙的好友",
       "faction": "",
-      "status": "登场",
+      "status": "已故",
       "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "”　　“回……回老爷，还没……”　　“等他回来了，让他过来我这里",
+      "summary": "韩啸龙的好友，已死，死因与独孤霖有关。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“回……回老爷，还没……”　　“等他回来了，让他过来我这里",
-        "……”　　一股森冷的杀意瞬间锁定韩啸龙全身，让他下面的话丝毫没能再说下去"
+      "relationships": [
+        {
+          "target": "韩啸龙",
+          "type": "好友"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已死，遗物在小溪边被发现。"
+        }
+      ],
+      "evidence": [
+        "‘蒙曼……不可能做到这一点，肯定是独孤那个臭娘们！！’",
+        "‘据说只是小溪边发现遗物……’"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "只能",
+      "name": "袁师兄",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "韩啸龙的弟子",
+      "faction": "松林剑派",
+      "status": "提及",
       "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "他身体被剑意震慑，全身灵力根本调度不动，只能眼睁睁看着剑气狠狠刺入自己心口",
+      "summary": "韩啸龙的弟子，尚未归来。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他身体被剑意震慑，全身灵力根本调度不动，只能眼睁睁看着剑气狠狠刺入自己心口",
-        "“这口气韩兄只能往下咽了",
-        "”　　“我和萱儿被师父下令不许下山，无法助师弟一臂之力，只能出此下策了"
+      "relationships": [
+        {
+          "target": "韩啸龙",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "尚未回宗门。"
+        }
+      ],
+      "evidence": [
+        "‘等等！你袁师兄回来没？’",
+        "‘回……回老爷，还没……’"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "韩长",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "林新",
+      "aliases": [
+        "师弟"
+      ],
+      "identity": "季路的师弟",
+      "faction": "松林剑派",
+      "status": "提及",
       "first_appearance": "第一百四十七章 延缓（上）",
-      "summary": "“韩长老……”其中一人苦笑道，“独孤霖，已经不是我们能够阻挡的了",
+      "summary": "季路的师弟，提供天意剑作为报酬委托独孤霖出手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“韩长老……”其中一人苦笑道，“独孤霖，已经不是我们能够阻挡的了",
-        "韩长老，不说独孤霖现在我们打不过，就算能打得过，有太上长老那一关，谁敢动她"
+      "equipment": [
+        "天意剑"
       ],
-      "mention_count": 4
+      "relationships": [
+        {
+          "target": "季路",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "委托季路用天意剑换取独孤霖出手。"
+        }
+      ],
+      "evidence": [
+        "‘这是我那师弟支付的报酬。’"
+      ],
+      "mention_count": 1
     }
   ]
 }

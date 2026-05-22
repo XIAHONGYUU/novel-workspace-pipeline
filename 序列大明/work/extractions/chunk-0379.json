@@ -1,250 +1,174 @@
 {
   "chunk_id": "chunk-0379",
-  "title": "第377章脏心",
   "characters": [
     {
       "name": "知炉",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫二处总旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第377章脏心",
-      "summary": "“知炉，你们二处的情报收集的如何了",
+      "summary": "锦衣卫二处总旗，负责情报工作，与监坛合谋对付黄冠和食饵。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“知炉，你们二处的情报收集的如何了",
-        "”　　知炉虽然很乐意看着对方吃瘪，不过他也明白唇亡齿寒的道理",
-        "曾经的小旗知炉和监坛就是这个过程中的幸运儿，而黄冠和食饵则是可怜的牺牲品"
+      "personality": [
+        "阴险",
+        "工于心计"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "黄冠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "”　　“虽然大阪城的大部分线人都是黄冠一手发展的，但这些人可都是无利不起早的货色",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“虽然大阪城的大部分线人都是黄冠一手发展的，但这些人可都是无利不起早的货色",
-        "现在黄冠失势，他们早就有改换门庭的想法了",
-        "曾经的小旗知炉和监坛就是这个过程中的幸运儿，而黄冠和食饵则是可怜的牺牲品"
+      "equipment": [
+        "无常簿指环"
       ],
-      "mention_count": 12
+      "relationships": [
+        {
+          "target": "监坛",
+          "type": "同僚"
+        },
+        {
+          "target": "黄冠",
+          "type": "敌对"
+        },
+        {
+          "target": "食饵",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与监坛密谋，利用情报陷害黄冠和食饵。"
+        }
+      ],
+      "evidence": [
+        "知炉，你们二处的情报收集的如何了？",
+        "知炉敛去脸上的轻蔑神情，蹙着眉头说道",
+        "知炉冷冷一笑"
+      ],
+      "mention_count": 15
     },
     {
       "name": "监坛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第377章脏心",
-      "summary": "”　　监坛冷着脸回了一句，犹豫了片刻之后，又放缓了语气",
-      "appearance": [],
-      "personality": [],
+      "summary": "锦衣卫总旗，与知炉合谋，急于做出成绩稳固地位。",
+      "appearance": [
+        "头缚网巾，身穿素净劲装，衣角绣银线龙蟒"
+      ],
+      "personality": [
+        "急躁",
+        "阴险"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "知炉",
+          "type": "同僚"
+        },
+        {
+          "target": "黄冠",
+          "type": "敌对"
+        },
+        {
+          "target": "食饵",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与知炉密谋，同意利用假情报陷害食饵。"
+        }
+      ],
       "evidence": [
-        "”　　监坛冷着脸回了一句，犹豫了片刻之后，又放缓了语气",
-        "曾经的小旗知炉和监坛就是这个过程中的幸运儿，而黄冠和食饵则是可怜的牺牲品",
-        "”　　监坛笑道：“你们干情报的脑子都灵活，有没有什么好主意"
+        "一个头缚网巾的男人靠着庄园的红色砌墙",
+        "监坛冷着脸回了一句",
+        "监坛心中暗骂不止"
       ],
       "mention_count": 10
     },
     {
-      "name": "我们",
+      "name": "黄冠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "前锦衣卫总旗",
+      "faction": "锦衣卫",
       "status": "登场",
       "first_appearance": "第377章脏心",
-      "summary": "这次的‘清剿’可是咱们上位之后的第一次大型行动，要是抓不住这次机会做出成绩立威，以后我们还怎么在户所里立足",
+      "summary": "前锦衣卫总旗，因失势而处境艰难，试图用情报换取调回本土的机会。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "卑微",
+        "焦急"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这次的‘清剿’可是咱们上位之后的第一次大型行动，要是抓不住这次机会做出成绩立威，以后我们还怎么在户所里立足",
-        "我们就从这里下手",
-        "”　　“所以无论最终成败如何，我们都有很大的几率能够先解决一个人，至于剩下的那一个，如果识趣的话自己就会离开大阪城，要是不识趣，我们也有的是办法慢慢炮制他"
+      "relationships": [
+        {
+          "target": "知炉",
+          "type": "敌对"
+        },
+        {
+          "target": "监坛",
+          "type": "敌对"
+        },
+        {
+          "target": "食饵",
+          "type": "部下"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向知炉报告食饵叛变，请求见百户大人。"
+        }
+      ],
+      "evidence": [
+        "黄冠表情犹豫不决",
+        "黄冠哀求道",
+        "黄冠脸上浮现出卑微的神色"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "百户",
+      "name": "食饵",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "锦衣卫小旗",
+      "faction": "锦衣卫",
+      "status": "提及",
       "first_appearance": "第377章脏心",
-      "summary": "“知炉，百户大人现在人在哪里，我有重要的情况向他汇报",
+      "summary": "锦衣卫小旗，被黄冠指控叛变，成为知炉和监坛陷害的目标。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "黄冠",
+          "type": "部下"
+        },
+        {
+          "target": "知炉",
+          "type": "敌对"
+        },
+        {
+          "target": "监坛",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被黄冠指控叛变，知炉和监坛计划利用假情报除掉他。"
+        }
+      ],
       "evidence": [
-        "“知炉，百户大人现在人在哪里，我有重要的情况向他汇报",
-        "”　　现在百户所内嫉恨他们，等着看他们笑话的人数不胜数",
-        "”　　新百户要立威，最简单有效的办法就是拆散原百户遗留的人员班底，提拔培养自己的心腹"
+        "是食饵，他叛变了！",
+        "让食饵带着他的小队前去抓捕",
+        "无论这次‘清剿’行动的结果如何，我都不可能再让食饵继续留在大阪"
       ],
       "mention_count": 6
-    },
-    {
-      "name": "要是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "“封城的命令经过大人允许后才实施的，伱要是有什么不满，可以去找大人，用不着在这儿跟我阴阳怪气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“封城的命令经过大人允许后才实施的，伱要是有什么不满，可以去找大人，用不着在这儿跟我阴阳怪气",
-        "知炉眯着眼，问道：“届时我要是告诉百户大人，黄冠在这件事中有暗通鸿鹄的嫌疑，你说大人会不会相信",
-        "这次的‘清剿’可是咱们上位之后的第一次大型行动，要是抓不住这次机会做出成绩立威，以后我们还怎么在户所里立足"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "虽然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "”　　“虽然大阪城的大部分线人都是黄冠一手发展的，但这些人可都是无利不起早的货色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“虽然大阪城的大部分线人都是黄冠一手发展的，但这些人可都是无利不起早的货色",
-        "”　　知炉虽然很乐意看着对方吃瘪，不过他也明白唇亡齿寒的道理",
-        "”　　虽然身处息蜓郎撑开的屏蔽场中，但知炉依旧压着嗓音道：“我已经掌握了一名序六鸿鹄的藏身之处，据我了解，这人可是个凶悍的角色，很不好对付"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "一处",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "第377章脏心　　大阪城以南，海湾沿岸，一处位置隐秘的庄园",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第377章脏心　　大阪城以南，海湾沿岸，一处位置隐秘的庄园",
-        "”　　“一处也是同样的情况，食饵当初的那些部下一个个”　　“你先说来听听",
-        "这里是一处相较于犬山城的白帝混汤更加精致的露天温泉"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "没看见",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "再说了，没看见大人一点都不着急，你慌什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "再说了，没看见大人一点都不着急，你慌什么"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "用不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "“封城的命令经过大人允许后才实施的，伱要是有什么不满，可以去找大人，用不着在这儿跟我阴阳怪气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“封城的命令经过大人允许后才实施的，伱要是有什么不满，可以去找大人，用不着在这儿跟我阴阳怪气"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "又放",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "”　　监坛冷着脸回了一句，犹豫了片刻之后，又放缓了语气",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　监坛冷着脸回了一句，犹豫了片刻之后，又放缓了语气"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "曾经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第377章脏心",
-      "summary": "曾经的小旗知炉和监坛就是这个过程中的幸运儿，而黄冠和食饵则是可怜的牺牲品",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "曾经的小旗知炉和监坛就是这个过程中的幸运儿，而黄冠和食饵则是可怜的牺牲品"
-      ],
-      "mention_count": 3
     }
   ]
 }

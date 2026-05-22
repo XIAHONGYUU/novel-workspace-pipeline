@@ -1,251 +1,156 @@
 {
   "chunk_id": "chunk-0039",
-  "title": "第38章松潘卫",
   "characters": [
     {
       "name": "李钧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "李兄弟"
+      ],
+      "identity": "顾老板的手下",
+      "faction": "顾老板一方",
       "status": "登场",
       "first_appearance": "第38章松潘卫",
-      "summary": "李钧微微一笑，手腕一翻，将一张印有‘日升昌钱庄’字样的卡片按在台面上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧微微一笑，手腕一翻，将一张印有‘日升昌钱庄’字样的卡片按在台面上",
-        "每根数据线旁都挂有计费的仪器，上面跳动的金额让李钧的眼角都忍不住抽搐",
-        "这些信息都是李钧在安保部的资料库里看到的"
+      "summary": "顾老板派来松潘卫与金利生接头的黑衣青年，身手不凡，驾驶破烂越野车抵达。",
+      "appearance": [
+        "脊背挺拔的黑衣青年"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "男人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "站在吧台后的是一名身形修长的年轻男人，身上从西夷舶来的西装格外笔挺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "站在吧台后的是一名身形修长的年轻男人，身上从西夷舶来的西装格外笔挺",
-        "”男人耸了耸肩膀，眼神上下打量，“而且您这身打扮，啧啧，值钱啊",
-        "男人将李钧的动作看在眼中，贴心递上一块白布，笑问道：“先生在哪家公司高就"
+      "personality": [
+        "冷静",
+        "谨慎"
       ],
-      "mention_count": 6
+      "abilities": [],
+      "equipment": [
+        "越野车",
+        "日升昌钱庄卡片"
+      ],
+      "relationships": [
+        {
+          "target": "顾老板",
+          "type": "手下"
+        },
+        {
+          "target": "金利生",
+          "type": "接头人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "深夜抵达松潘卫，与金利生在酒吧会面，了解诏书情况。"
+        }
+      ],
+      "evidence": [
+        "在看到下车的是一位脊背挺拔的黑衣青年后，周围驻足观望的行人立马发出一声意味莫名的叹息",
+        "李钧微微一笑，手腕一翻，将一张印有‘日升昌钱庄’字样的卡片按在台面上。",
+        "李钧抓住金利生话中的重点，问道：“那看来这笔生意谈是谈不下来了？”"
+      ],
+      "mention_count": 12
     },
     {
       "name": "金利生",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "金老板"
+      ],
+      "identity": "酒吧老板或中间人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第38章松潘卫",
-      "summary": "金利生也不生气，左右看了两眼，压低声音道：“顾老板想要的那件宝贝，现在就在菩提公司手里",
-      "appearance": [],
-      "personality": [],
+      "summary": "松潘卫酒吧的老板，与顾老板有生意往来，负责与李钧接头。",
+      "appearance": [
+        "身形修长的年轻男人，身穿笔挺西装"
+      ],
+      "personality": [
+        "热情",
+        "健谈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "接头人"
+        },
+        {
+          "target": "顾老板",
+          "type": "生意伙伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在酒吧接待李钧，告知诏书即将被送往白龙寺。"
+        }
+      ],
       "evidence": [
-        "金利生也不生气，左右看了两眼，压低声音道：“顾老板想要的那件宝贝，现在就在菩提公司手里",
-        "李钧抓住金利生话中的重点，问道：“那看来这笔生意谈是谈不下来了",
-        "”金利生摇了摇头，语气肯定道：“木措绝对不敢得罪他的上师，否则他将一辈子再也无法进入白龙寺的黄粱佛国，体内的慧根要不了多久就会枯萎"
+        "站在吧台后的是一名身形修长的年轻男人，身上从西夷舶来的西装格外笔挺。",
+        "金利生也不生气，左右看了两眼，压低声音道：“顾老板想要的那件宝贝，现在就在菩提公司手里。”",
+        "金利生庆幸道：“还好李兄弟伱今晚赶到了，要是再晚来几个时辰，等天亮的时候，这诏书可就不在松潘卫了。”"
       ],
       "mention_count": 6
-    },
-    {
-      "name": "最终",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "一辆破烂不堪的越野车在干道上踽踽而行，最终停在松潘卫唯一一家酒吧前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一辆破烂不堪的越野车在干道上踽踽而行，最终停在松潘卫唯一一家酒吧前",
-        "驾驶室的扭曲变形车门弹动了几下还是无法打开，最终咣当一声被整个踹了下来"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "金利",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "金利生也不生气，左右看了两眼，压低声音道：“顾老板想要的那件宝贝，现在就在菩提公司手里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "金利生也不生气，左右看了两眼，压低声音道：“顾老板想要的那件宝贝，现在就在菩提公司手里",
-        "李钧抓住金利生话中的重点，问道：“那看来这笔生意谈是谈不下来了",
-        "”金利生摇了摇头，语气肯定道：“木措绝对不敢得罪他的上师，否则他将一辈子再也无法进入白龙寺的黄粱佛国，体内的慧根要不了多久就会枯萎"
-      ],
-      "mention_count": 4
     },
     {
       "name": "木措",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "菩提公司大老板，佛教番传一脉俗家弟子",
+      "faction": "菩提公司",
+      "status": "提及",
       "first_appearance": "第38章松潘卫",
-      "summary": "”　　“李兄弟你没猜错，这菩提公司的大老板木措正是佛教番传一脉的俗家弟子，佛八比丘",
+      "summary": "菩提公司的大老板，佛教番传一脉的俗家弟子，佛八比丘。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“李兄弟你没猜错，这菩提公司的大老板木措正是佛教番传一脉的俗家弟子，佛八比丘",
-        "”金利生摇了摇头，语气肯定道：“木措绝对不敢得罪他的上师，否则他将一辈子再也无法进入白龙寺的黄粱佛国，体内的慧根要不了多久就会枯萎",
-        "”　　“昨天刚得到消息，木措的上师让他明天把诏书送回白龙寺"
+      "relationships": [
+        {
+          "target": "上师",
+          "type": "师徒"
+        },
+        {
+          "target": "金利生",
+          "type": "生意对手"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "李钧抬",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "”　　李钧抬手刮了刮眉毛，跨步走了进去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧抬手刮了刮眉毛，跨步走了进去",
-        "李钧抬手挥开身前几乎让人无法呼吸的浓烟，硬生生从人群中艰难挤到了吧台前"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "木措的上师要求他将诏书送回白龙寺。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "打消",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "偶尔有几道贪婪的目光，也在看清车身上恐怖的伤痕后，打消了上前挑事的念头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "偶尔有几道贪婪的目光，也在看清车身上恐怖的伤痕后，打消了上前挑事的念头"
+        "这菩提公司的大老板木措正是佛教番传一脉的俗家弟子，佛八比丘。",
+        "木措绝对不敢得罪他的上师，否则他将一辈子再也无法进入白龙寺的黄粱佛国"
       ],
       "mention_count": 3
     },
     {
-      "name": "身上",
-      "aliases": [],
-      "identity": "",
+      "name": "顾老板",
+      "aliases": [
+        "顾"
+      ],
+      "identity": "李钧的老板",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第38章松潘卫",
-      "summary": "偶尔有几道贪婪的目光，也在看清车身上恐怖的伤痕后，打消了上前挑事的念头",
+      "summary": "李钧的老板，派李钧来松潘卫与金利生接头，想要得到某件宝贝。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "手下"
+        },
+        {
+          "target": "金利生",
+          "type": "生意伙伴"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "偶尔有几道贪婪的目光，也在看清车身上恐怖的伤痕后，打消了上前挑事的念头",
-        "站在吧台后的是一名身形修长的年轻男人，身上从西夷舶来的西装格外笔挺",
-        "”　　街头巷弄中，有行者手持转经筒赤脚行走，身上重复播放着梵唱经文的声音"
+        "我的老板姓顾，他让我把这点感谢费交给金利生金老板。"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "可舍",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "“不是大公司的人，可舍不得浪费这么好的酒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“不是大公司的人，可舍不得浪费这么好的酒"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "眼神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "在无数双觊觎的眼神中，布满弹坑的车厢蓦然传来几声撞击的闷响声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在无数双觊觎的眼神中，布满弹坑的车厢蓦然传来几声撞击的闷响声",
-        "在看到下车的是一位脊背挺拔的黑衣青年后，周围驻足观望的行人立马发出一声意味莫名的叹息，纷纷挪开了眼神",
-        "”男人耸了耸肩膀，眼神上下打量，“而且您这身打扮，啧啧，值钱啊"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第38章松潘卫",
-      "summary": "”男人耸了耸肩膀，眼神上下打量，“而且您这身打扮，啧啧，值钱啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”男人耸了耸肩膀，眼神上下打量，“而且您这身打扮，啧啧，值钱啊",
-        "但科技更加落后，治安也更加混乱，而且还有许多以前闻所未闻，见所未见的‘本地特产’"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

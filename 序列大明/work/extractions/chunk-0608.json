@@ -1,257 +1,434 @@
 {
   "chunk_id": "chunk-0608",
-  "title": "第606章入梦起争",
   "characters": [
     {
       "name": "赵梦泽",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "赵梦主",
+        "老赵"
+      ],
+      "identity": "阴阳序三梦主",
+      "faction": "阴阳序",
       "status": "登场",
       "first_appearance": "第606章入梦起争",
-      "summary": "赵梦泽，你究竟图什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵梦泽，你究竟图什么",
-        "”　　此刻在梦境中以本体现身的赵梦泽，形象格外的标准",
-        "“赵梦泽，天阙五柱里你也算是个人物，连田畴都坦言没有完全摸清你的底细，让我们小心提防"
+      "summary": "阴阳序三梦主，天阙五柱之一，与社稷巫祠四身对峙。",
+      "appearance": [
+        "一身黑色长褂，鼻梁上架着一副圆形墨镜"
       ],
-      "mention_count": 15
+      "personality": [
+        "冷静",
+        "神秘",
+        "神棍做派"
+      ],
+      "abilities": [
+        "梦境主持"
+      ],
+      "equipment": [
+        "圆框墨镜"
+      ],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "帮手"
+        },
+        {
+          "target": "巫祠春身",
+          "type": "敌对"
+        },
+        {
+          "target": "巫祠夏身",
+          "type": "敌对"
+        },
+        {
+          "target": "巫祠秋身",
+          "type": "敌对"
+        },
+        {
+          "target": "巫祠冬身",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在梦境中与社稷巫祠四身对峙，等待邹四九到来。"
+        }
+      ],
+      "evidence": [
+        "赵梦泽，天阙五柱里你也算是个人物",
+        "赵梦泽答非所问，啧啧感慨",
+        "赵梦泽似乎并不将眼下的局势当做是什么生死危机"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "赵梦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "巫祠春身",
+      "aliases": [
+        "春身"
+      ],
+      "identity": "社稷巫祠四身之一",
+      "faction": "社稷",
       "status": "登场",
       "first_appearance": "第606章入梦起争",
-      "summary": "赵梦泽，你究竟图什么",
+      "summary": "社稷巫祠四身之一，性格阴险，面带笑意。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴险奸诈",
+        "面带笑意"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "赵梦泽，你究竟图什么",
-        "”　　此刻在梦境中以本体现身的赵梦泽，形象格外的标准",
-        "“赵梦泽，天阙五柱里你也算是个人物，连田畴都坦言没有完全摸清你的底细，让我们小心提防"
+      "relationships": [
+        {
+          "target": "赵梦泽",
+          "type": "敌对"
+        },
+        {
+          "target": "巫祠夏身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠秋身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠冬身",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵梦泽对话，后退出对话。"
+        }
+      ],
+      "evidence": [
+        "带着满脸笑意巫祠春身轻声开口",
+        "春身笑着打断了赵梦泽的话音"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "巫祠夏身",
+      "aliases": [
+        "夏身",
+        "红衣夏身"
+      ],
+      "identity": "社稷巫祠四身之一",
+      "faction": "社稷",
+      "status": "登场",
+      "first_appearance": "第606章入梦起争",
+      "description": "社稷巫祠四身之一，性格暴躁，穿红衣。",
+      "appearance": [
+        "红衣"
+      ],
+      "personality": [
+        "暴躁",
+        "轻蔑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵梦泽",
+          "type": "敌对"
+        },
+        {
+          "target": "巫祠春身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠秋身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠冬身",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "怒喝赵梦泽，后欲动手被秋身拦下。"
+        }
+      ],
+      "evidence": [
+        "红衣夏身怒喝道",
+        "巫祠夏身冷笑道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "巫祠秋身",
+      "aliases": [
+        "秋身",
+        "黄衣秋身"
+      ],
+      "identity": "社稷巫祠四身之一",
+      "faction": "社稷",
+      "status": "登场",
+      "first_appearance": "第606章入梦起争",
+      "summary": "社稷巫祠四身之一，地位尊崇，穿黄衣。",
+      "appearance": [
+        "黄衣"
+      ],
+      "personality": [
+        "冷静",
+        "尊崇"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵梦泽",
+          "type": "敌对"
+        },
+        {
+          "target": "巫祠春身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠夏身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠冬身",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拦下夏身，与赵梦泽谈判。"
+        }
+      ],
+      "evidence": [
+        "身穿黄衣的秋身地位更加尊崇",
+        "秋身缓缓说道"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "巫祠冬身",
+      "aliases": [
+        "冬身",
+        "白衣冬身"
+      ],
+      "identity": "社稷巫祠四身之一",
+      "faction": "社稷",
+      "status": "登场",
+      "first_appearance": "第606章入梦起争",
+      "summary": "社稷巫祠四身之一，性格冷傲，穿白衣。",
+      "appearance": [
+        "白衣"
+      ],
+      "personality": [
+        "冷傲",
+        "不屑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵梦泽",
+          "type": "敌对"
+        },
+        {
+          "target": "巫祠春身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠夏身",
+          "type": "同僚"
+        },
+        {
+          "target": "巫祠秋身",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "讥讽赵梦泽。"
+        }
+      ],
+      "evidence": [
+        "穿着白衣的巫祠冬身，表情不屑说道",
+        "性情最是冷傲的冬身上下打量邹四九"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "小四九",
+        "邹爷"
+      ],
+      "identity": "阴阳序四庄周蝶",
+      "faction": "阴阳序",
+      "status": "登场",
+      "first_appearance": "第606章入梦起争",
+      "summary": "阴阳序四庄周蝶，赵梦泽的帮手。",
+      "appearance": [],
+      "personality": [
+        "骂骂咧咧",
+        "自信"
+      ],
+      "abilities": [
+        "梦境战斗"
+      ],
+      "equipment": [
+        "圆框墨镜（赵梦泽所给）"
+      ],
+      "relationships": [
+        {
+          "target": "赵梦泽",
+          "type": "帮手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入梦境，与赵梦泽并肩作战。"
+        }
+      ],
+      "evidence": [
+        "邹四九双手抹过鬓角，从赵梦泽的身后走出",
+        "邹四九翻了个白眼，一边叹气，一边撸起衣袖"
+      ],
+      "mention_count": 8
     },
     {
       "name": "袁明妃",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "袁姐"
+      ],
+      "identity": "佛序修行者",
+      "faction": "佛序",
       "status": "登场",
       "first_appearance": "第606章入梦起争",
-      "summary": "”　　袁明妃摇头道：“也不完全是，这些社稷的农序过于邪性，保不齐真有什么令人匪夷所思的手段",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃摇头道：“也不完全是，这些社稷的农序过于邪性，保不齐真有什么令人匪夷所思的手段",
-        "”　　袁明妃沉声道：“不过我们这段时间杀的两名佛序四，分属大昭和白马，说法却都出奇的一致",
-        "”　　袁明妃喃喃道：“否则这么多年，为什么一直不见他们有任何动作"
+      "summary": "佛序修行者，与陈乞生一起在番地调查社稷。",
+      "appearance": [
+        "提着裙角"
       ],
-      "mention_count": 14
+      "personality": [
+        "谨慎",
+        "凌厉"
+      ],
+      "abilities": [
+        "佛国"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        },
+        {
+          "target": "林迦婆",
+          "type": "敌对（潜在）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在番地寺庙废墟中与陈乞生交谈，后遇到林迦婆。"
+        }
+      ],
+      "evidence": [
+        "女人提着裙角小心翼翼跨过地上的残肢",
+        "袁明妃摇头道"
+      ],
+      "mention_count": 8
     },
     {
       "name": "陈乞生",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "道序修行者",
+      "faction": "道序",
       "status": "登场",
       "first_appearance": "第606章入梦起争",
-      "summary": "陈乞生皱着眉头说道：“话说回来，现在的形势有些复杂啊，社稷这些人居然想在番地养一尊神出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈乞生皱着眉头说道：“话说回来，现在的形势有些复杂啊，社稷这些人居然想在番地养一尊神出来",
-        "”　　陈乞生抬手揉了揉隐隐发疼的眉心，倒不是因为刚才劈碎的佛国还有残留在脑海中，完全是了解到的消息过于的骇人听闻",
-        "”　　陈乞生疑惑道：“所以他们才会为了自救，心甘情愿把番地送给社稷当试验场"
+      "summary": "道序修行者，与袁明妃一起行动。",
+      "appearance": [
+        "银色甲胄"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "袁明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第606章入梦起争",
-      "summary": "”　　袁明妃摇头道：“也不完全是，这些社稷的农序过于邪性，保不齐真有什么令人匪夷所思的手段",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　袁明妃摇头道：“也不完全是，这些社稷的农序过于邪性，保不齐真有什么令人匪夷所思的手段",
-        "”　　袁明妃沉声道：“不过我们这段时间杀的两名佛序四，分属大昭和白马，说法却都出奇的一致",
-        "”　　袁明妃喃喃道：“否则这么多年，为什么一直不见他们有任何动作"
+      "personality": [
+        "谨慎",
+        "疑惑"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "陈乞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第606章入梦起争",
-      "summary": "陈乞生皱着眉头说道：“话说回来，现在的形势有些复杂啊，社稷这些人居然想在番地养一尊神出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈乞生皱着眉头说道：“话说回来，现在的形势有些复杂啊，社稷这些人居然想在番地养一尊神出来",
-        "”　　陈乞生抬手揉了揉隐隐发疼的眉心，倒不是因为刚才劈碎的佛国还有残留在脑海中，完全是了解到的消息过于的骇人听闻",
-        "”　　陈乞生疑惑道：“所以他们才会为了自救，心甘情愿把番地送给社稷当试验场"
+      "abilities": [
+        "神念和真气同震激荡，召唤真武身影"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "我也",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第606章入梦起争",
-      "summary": "”　　“巫祠你与其现在去引火烧身，倒不如大家在这里等着李钧宰了田畴，到时候你能得到的好处也不少，我也不用劳筋动骨跟你打，这样岂不是更好",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“巫祠你与其现在去引火烧身，倒不如大家在这里等着李钧宰了田畴，到时候你能得到的好处也不少，我也不用劳筋动骨跟你打，这样岂不是更好",
-        "”　　“我也不想跟你废话啊，关键是那臭小子来的实在是太慢了",
-        "她拉我，我也能拉她，用得着妄自菲薄"
+      "equipment": [
+        "剑",
+        "银色甲胄"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "表情",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第606章入梦起争",
-      "summary": "”　　这次开口的是穿着白衣的巫祠冬身，表情不屑说道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这次开口的是穿着白衣的巫祠冬身，表情不屑说道",
-        "”　　赵梦泽似乎并不将眼下的局势当做是什么生死危机，反而摆出一副神棍做派，表情神秘",
-        "”　　赵梦泽双手一摊，表情无奈"
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        },
+        {
+          "target": "林迦婆",
+          "type": "敌对（潜在）"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "邹四九",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第606章入梦起争",
-      "summary": "邹四九双手抹过鬓角，从赵梦泽的身后走出，和他并肩而站",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "邹四九双手抹过鬓角，从赵梦泽的身后走出，和他并肩而站",
-        "”　　赵梦泽斜着眼瞥向邹四九，没好气道：“怎么，人多就怕了",
-        "”　　邹四九理所当然道：“当然怕了，别人玩的可是新黄粱，咱们这些落后份子，能是别人的对手"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在番地寺庙废墟中与袁明妃交谈，后遇到林迦婆。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "陈乞生皱着眉头说道",
+        "陈乞生顿时如临大敌，银色甲胄披覆全身，持剑起身"
+      ],
+      "mention_count": 7
     },
     {
       "name": "林迦婆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "桑烟佛主"
+      ],
+      "identity": "桑烟佛主，番地三大世尊之一",
+      "faction": "桑烟寺",
       "status": "登场",
       "first_appearance": "第606章入梦起争",
-      "summary": "桑烟佛主，林迦婆",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "桑烟佛主，番地三大世尊之一，以分身出现。",
+      "appearance": [
+        "一头如瀑黑发，未曾剃去烦恼丝",
+        "雪白僧衣",
+        "空手赤脚，玉足踏雪无痕"
+      ],
+      "personality": [
+        "平静",
+        "和煦"
+      ],
+      "abilities": [
+        "分身"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "化解宿怨"
+        },
+        {
+          "target": "陈乞生",
+          "type": "化解宿怨"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以分身出现在寺庙废墟，欲与袁明妃和陈乞生化解宿怨。"
+        }
+      ],
       "evidence": [
-        "桑烟佛主，林迦婆",
-        "”　　林迦婆脚步一顿，白皙纤细的手腕竖在身前",
-        "不过林迦婆神色依旧如常，并没有因此动怒"
+        "一位奇怪女人的走近。她一头如瀑黑发，未曾剃去三万三千烦恼丝。穿着一袭番地几乎不可能看到的雪白僧衣",
+        "林迦婆脚步一顿，白皙纤细的手腕竖在身前"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第606章入梦起争",
-      "summary": "一身黑色长褂，鼻梁上架着一副圆形墨镜，若是再来一根‘算无遗漏’的招牌幌子，那就和大明帝国本土内招摇撞骗的算命先生简直一模一样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一身黑色长褂，鼻梁上架着一副圆形墨镜，若是再来一根‘算无遗漏’的招牌幌子，那就和大明帝国本土内招摇撞骗的算命先生简直一模一样",
-        "”　　“那就.开始吧"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "巫祠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第606章入梦起争",
-      "summary": "”　　带着满脸笑意巫祠春身轻声开口",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　带着满脸笑意巫祠春身轻声开口",
-        "”　　巫祠春身笑问道：“你当真没有料到会有今天这般局面",
-        "”　　这次开口的是穿着白衣的巫祠冬身，表情不屑说道"
-      ],
-      "mention_count": 4
     }
   ]
 }

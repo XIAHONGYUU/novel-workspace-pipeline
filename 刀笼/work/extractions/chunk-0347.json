@@ -1,245 +1,476 @@
 {
   "chunk_id": "chunk-0347",
-  "title": "第一百二十章 大战开始",
   "characters": [
     {
       "name": "戚笼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "”戚笼脱口道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”戚笼脱口道",
-        "黑山山头的夜枭女、承天堡的百媚夫人、还有亡国七灾的刑五官，可以说，戚笼一路上都跟这一脉纠缠不清，甚至一度怀疑，赤炼魔府和这亡国七灾有什么特殊关系",
-        "”    戚笼问道：“上古魔道，跟古佛有什么关系"
+      "aliases": [
+        "薛保侯",
+        "侯爷"
       ],
-      "mention_count": 34
+      "identity": "先锋卫将领，薛保侯",
+      "faction": "皇城司/赤炼府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，修炼佛魔合一之道，与魔后合作破解古魔封印，统领先锋卫，准备对陈国之战。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于谋划"
+      ],
+      "abilities": [
+        "佛魔合一之法",
+        "龙脉风水演化",
+        "半如来级别精神魔念"
+      ],
+      "equipment": [
+        "黑魔战甲",
+        "魔角枪",
+        "化魔符"
+      ],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "合作"
+        },
+        {
+          "target": "小宛夫人",
+          "type": "夫妻"
+        },
+        {
+          "target": "周子通",
+          "type": "旧识/盟友"
+        },
+        {
+          "target": "薛白",
+          "type": "儿子"
+        },
+        {
+          "target": "炼铜旗",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "大战前夕",
+          "event": "与魔后合作破解古魔封印，闭关修炼，调教兵马。"
+        },
+        {
+          "stage": "军府议事",
+          "event": "被小炼都督调任为方云堡守将。"
+        }
+      ],
+      "evidence": [
+        "戚笼脱口道。",
+        "戚笼回府之后，立马与小宛夫人同时闭关。",
+        "戚笼出关之后，第二次去了皇城司，以龙脉的滚滚龙元，外加魔如来的加持，顺利的消化了古魔封印。"
+      ],
+      "mention_count": 25
     },
     {
       "name": "魔后",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "皇城司执掌者，红莲僧之女",
+      "faction": "皇城司/赤炼府",
       "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "魔后披上黑色衣裙，然后转过身道：“亡国七灾中，除了照敦煌之外，可以说都有着极强的背景，而这刑五官背后便有着上古魔道的影子，当初红师在离开此界之前，曾经镇压了这厮，本后也参与了那一战，这道‘古魔封印’，便是那一位留下的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魔后披上黑色衣裙，然后转过身道：“亡国七灾中，除了照敦煌之外，可以说都有着极强的背景，而这刑五官背后便有着上古魔道的影子，当初红师在离开此界之前，曾经镇压了这厮，本后也参与了那一战，这道‘古魔封印’，便是那一位留下的",
-        "”    魔后转过身来，淡淡道：“我原本以为，你会是当今魔门从外界落下的棋子，却没想到你居然别开机杼，将佛魔变化杂糅在一起，于我而言，这却是更好，你我合力，或许能化解这道封印",
-        "”    “原来这才是魔后让我过来的主要目的，”戚笼沉吟片刻，道：“可以，但我要一道古魔之气做为分析，还有，我需要赤炼府的魔门大法"
+      "first_appearance": "",
+      "summary": "皇城司的掌控者，红莲僧与红莲仙子的女儿，与戚笼合作破解古魔封印。",
+      "appearance": [
+        "披上黑色衣裙"
       ],
-      "mention_count": 8
+      "personality": [
+        "冷淡",
+        "威严"
+      ],
+      "abilities": [
+        "魔道大法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作"
+        },
+        {
+          "target": "红莲僧",
+          "type": "恩师/亲父"
+        },
+        {
+          "target": "红莲仙子",
+          "type": "亲母"
+        },
+        {
+          "target": "刑五官",
+          "type": "被镇压者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "大战前夕",
+          "event": "与戚笼会面，传授小宛夫人《赤炼浮屠》，让戚笼破解古魔封印。"
+        }
+      ],
+      "evidence": [
+        "魔后披上黑色衣裙，然后转过身道：",
+        "魔后转过身来，淡淡道：",
+        "魔后早已转过身去，观赏着这片金色江潮"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "曾经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "魔后披上黑色衣裙，然后转过身道：“亡国七灾中，除了照敦煌之外，可以说都有着极强的背景，而这刑五官背后便有着上古魔道的影子，当初红师在离开此界之前，曾经镇压了这厮，本后也参与了那一战，这道‘古魔封印’，便是那一位留下的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魔后披上黑色衣裙，然后转过身道：“亡国七灾中，除了照敦煌之外，可以说都有着极强的背景，而这刑五官背后便有着上古魔道的影子，当初红师在离开此界之前，曾经镇压了这厮，本后也参与了那一战，这道‘古魔封印’，便是那一位留下的",
-        "”    “曾经的上古魔道便是上古佛门，如今的上古魔道，已经跟佛门没有半点关系了",
-        "周子通表面很平静，道：“东佛尊曾经指点过我，让我在乱世之中，求一个净土，争霸为救世，斩业不斩人，不过我愚昧，终究参悟不透，紫帅的死仇，让我彻底放弃了佛道"
+      "name": "小宛夫人",
+      "aliases": [
+        "赵小宛"
       ],
-      "mention_count": 7
+      "identity": "戚笼的妻子",
+      "faction": "赤炼府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戚笼的妻子，修炼《赤炼浮屠》魔功，达到第二层‘姹女心魔’。",
+      "appearance": [],
+      "personality": [
+        "七窍玲珑心"
+      ],
+      "abilities": [
+        "赤炼浮屠第二层姹女心魔"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "夫妻"
+        },
+        {
+          "target": "魔后",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "大战前夕",
+          "event": "与戚笼同时闭关，修炼魔功。"
+        }
+      ],
+      "evidence": [
+        "小宛夫人见戚笼迟迟不语，便忍不住好奇道。",
+        "戚笼回府之后，立马与小宛夫人同时闭关。",
+        "小宛夫人被魔后亲自指点，已经达到第二层‘姹女心魔’"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "黑山山头的夜枭女、承天堡的百媚夫人、还有亡国七灾的刑五官，可以说，戚笼一路上都跟这一脉纠缠不清，甚至一度怀疑，赤炼魔府和这亡国七灾有什么特殊关系",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑山山头的夜枭女、承天堡的百媚夫人、还有亡国七灾的刑五官，可以说，戚笼一路上都跟这一脉纠缠不清，甚至一度怀疑，赤炼魔府和这亡国七灾有什么特殊关系",
-        "”    “原来这才是魔后让我过来的主要目的，”戚笼沉吟片刻，道：“可以，但我要一道古魔之气做为分析，还有，我需要赤炼府的魔门大法",
-        "“对了，在下还有一个问题想不明白，为什么魔后你一个外人，会被那三位选入执掌皇城司"
+      "name": "周子通",
+      "aliases": [
+        "佛帅"
       ],
-      "mention_count": 6
+      "identity": "原佛帅，现顶替紫帅位置",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戚笼武道上的半个领路人，因紫帅之死放弃佛道，变得煞气腾腾，前来与戚笼结盟。",
+      "appearance": [
+        "长出了半茬短发、煞气腾腾、一身戎装"
+      ],
+      "personality": [
+        "忿怒",
+        "冷酷"
+      ],
+      "abilities": [
+        "金刚夜叉明王忿怒化身",
+        "业火"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "旧识/盟友"
+        },
+        {
+          "target": "紫帅",
+          "type": "死仇（已故）"
+        },
+        {
+          "target": "东佛尊",
+          "type": "曾受指点"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "大战前夕",
+          "event": "拜访戚笼，提出结盟，灭亡陈国后下一个是中山国。"
+        }
+      ],
+      "evidence": [
+        "戚笼盯着长出了半茬短发、煞气腾腾、一身戎装的周子通",
+        "佛帅周子通，戚笼武道上的半个领路人",
+        "周子通表面很平静，道："
+      ],
+      "mention_count": 5
     },
     {
-      "name": "可以",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "小炼都督",
+      "aliases": [
+        "炼铜旗"
+      ],
+      "identity": "十大府将之首，炼铁手之子",
+      "faction": "天策府",
       "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "黑山山头的夜枭女、承天堡的百媚夫人、还有亡国七灾的刑五官，可以说，戚笼一路上都跟这一脉纠缠不清，甚至一度怀疑，赤炼魔府和这亡国七灾有什么特殊关系",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "天策府都督，因父亲位置被戚笼儿子薛白占据而怀恨在心，在军府议事中故意调戚笼为守将。",
+      "appearance": [
+        "龙行虎步，霸气凌然"
+      ],
+      "personality": [
+        "霸气",
+        "记仇"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑山山头的夜枭女、承天堡的百媚夫人、还有亡国七灾的刑五官，可以说，戚笼一路上都跟这一脉纠缠不清，甚至一度怀疑，赤炼魔府和这亡国七灾有什么特殊关系",
-        "魔后披上黑色衣裙，然后转过身道：“亡国七灾中，除了照敦煌之外，可以说都有着极强的背景，而这刑五官背后便有着上古魔道的影子，当初红师在离开此界之前，曾经镇压了这厮，本后也参与了那一战，这道‘古魔封印’，便是那一位留下的",
-        "”    “原来这才是魔后让我过来的主要目的，”戚笼沉吟片刻，道：“可以，但我要一道古魔之气做为分析，还有，我需要赤炼府的魔门大法"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "炼铁手",
+          "type": "父亲（已故）"
+        },
+        {
+          "target": "薛白",
+          "type": "政敌（占其父之位）"
+        },
+        {
+          "target": "先天元胎",
+          "type": "求婚被拒"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "军府议事",
+          "event": "主持军务，调戚笼为方云堡守将。"
+        }
+      ],
+      "evidence": [
+        "主持军务的是小炼都督。",
+        "小炼都督却主动点了戚笼的将",
+        "炼铜旗半个月前，曾经向先天元胎求婚"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "赤炼",
+      "name": "翡翠先生",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "戚笼的幕僚",
+      "faction": "戚笼麾下",
       "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "黑山山头的夜枭女、承天堡的百媚夫人、还有亡国七灾的刑五官，可以说，戚笼一路上都跟这一脉纠缠不清，甚至一度怀疑，赤炼魔府和这亡国七灾有什么特殊关系",
+      "first_appearance": "",
+      "summary": "戚笼的谋士，负责暗中勾搭关系。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "稳重"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑山山头的夜枭女、承天堡的百媚夫人、还有亡国七灾的刑五官，可以说，戚笼一路上都跟这一脉纠缠不清，甚至一度怀疑，赤炼魔府和这亡国七灾有什么特殊关系",
-        "”    “原来这才是魔后让我过来的主要目的，”戚笼沉吟片刻，道：“可以，但我要一道古魔之气做为分析，还有，我需要赤炼府的魔门大法",
-        "”    “你倒是不客气，”魔后并没有为对方的狮子大张口而惊讶，只是冷冷道：“赤炼魔法，你夫人会传授你的，希望你不要让本后失望，魔佛合一之法，本后不是没见过，也不是不知道克制之法"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主从"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "大战前夕",
+          "event": "向戚笼报告罗派等掌教来访。"
+        }
+      ],
+      "evidence": [
+        "翡翠先生便微微点头，直接走了出去",
+        "翡翠先生和黄真人便联袂而来"
+      ],
+      "mention_count": 3
     },
     {
       "name": "黄真人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "戚笼的盟友",
+      "faction": "戚笼麾下",
       "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "没多久，翡翠先生和黄真人便联袂而来，黄真人开口就道：“司马正道让我告诉你，这一次事，不是你那位义父搞的鬼，是炼铜旗",
+      "first_appearance": "",
+      "summary": "与翡翠先生一同向戚笼解释炼铜旗的敌意。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "没多久，翡翠先生和黄真人便联袂而来，黄真人开口就道：“司马正道让我告诉你，这一次事，不是你那位义父搞的鬼，是炼铜旗",
-        "黄真人叹了口气，又道：“还有一件事，炼铜旗半个月前，曾经向先天元胎求婚，这对于炼家来说，算是一种政治联姻，他们在军中势力很强，加上炼铁手遗子身份，算是门当户对——”    “不用说了，我大概猜到结局了",
-        "”    黄真人也松了口气：“司马正道还认为你会尥蹶子呢，放心吧，我们会暗中助你一臂之力的——”    黄真人目光扫了一圈，忽然双眼一缩，“你哪来这么多的高手"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "盟友"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "大战前夕",
+          "event": "告知戚笼炼铜旗的敌意原因。"
+        }
+      ],
+      "evidence": [
+        "黄真人开口就道：",
+        "黄真人又叹了口气，又道："
+      ],
+      "mention_count": 3
     },
     {
-      "name": "本后",
+      "name": "薛白",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "魔后披上黑色衣裙，然后转过身道：“亡国七灾中，除了照敦煌之外，可以说都有着极强的背景，而这刑五官背后便有着上古魔道的影子，当初红师在离开此界之前，曾经镇压了这厮，本后也参与了那一战，这道‘古魔封印’，便是那一位留下的",
+      "identity": "戚笼的儿子，斗部左将军",
+      "faction": "斗部",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戚笼的儿子，占据了炼铜旗父亲原本的斗部左将军之位。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "父子"
+        },
+        {
+          "target": "炼铜旗",
+          "type": "政敌"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "魔后披上黑色衣裙，然后转过身道：“亡国七灾中，除了照敦煌之外，可以说都有着极强的背景，而这刑五官背后便有着上古魔道的影子，当初红师在离开此界之前，曾经镇压了这厮，本后也参与了那一战，这道‘古魔封印’，便是那一位留下的",
-        "”    “你倒是不客气，”魔后并没有为对方的狮子大张口而惊讶，只是冷冷道：“赤炼魔法，你夫人会传授你的，希望你不要让本后失望，魔佛合一之法，本后不是没见过，也不是不知道克制之法",
-        "“红莲僧即是本后恩师，也是本后亲父，至于本后亲母，则是那三位中的红莲仙子"
+        "现在的斗部左将军，是——薛白。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "已经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "”    “曾经的上古魔道便是上古佛门，如今的上古魔道，已经跟佛门没有半点关系了",
+      "name": "红莲僧",
+      "aliases": [
+        "红莲魔僧"
+      ],
+      "identity": "魔后恩师兼亲父，真神",
+      "faction": "上古魔道",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "从佛法中演化魔门，达到真神之境，离开此界。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "魔佛合一之法"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "恩师/亲父"
+        },
+        {
+          "target": "红莲仙子",
+          "type": "夫妻"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    “曾经的上古魔道便是上古佛门，如今的上古魔道，已经跟佛门没有半点关系了",
-        "魔后似乎早就料到戚笼的要求，传授小宛夫人的魔门功法是赤炼府顶级秘传，唤作《赤炼浮屠》，共有六层，小宛夫人被魔后亲自指点，已经达到第二层‘姹女心魔’，能够刺激人欲，并且举手投足之间，吸干武人的精气和心血，并通过这种吸收，培养自身心魔，以达到第",
-        "对陈国之战，是真正意义上的国战，前期准备哪怕一两年都不嫌多，不过在多方力量的推动下，仅仅半年，就已经准备的七七八八"
+        "红莲僧即是本后恩师，也是本后亲父",
+        "红莲僧从佛法中演化魔门，最后脱身而出，必是达到了真神之境"
       ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
-      "name": "最后",
+      "name": "红莲仙子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "”    戚笼轻轻一笑，并没有把对方的威胁放在心里，而是心想，红莲僧从佛法中演化魔门，最后脱身而出，必是达到了真神之境，看来自己这条路是走对了",
+      "identity": "三位真神之一，魔后亲母",
+      "faction": "真神",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "三位真神中的红莲仙子，魔后的母亲。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "母女"
+        },
+        {
+          "target": "红莲僧",
+          "type": "夫妻"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    戚笼轻轻一笑，并没有把对方的威胁放在心里，而是心想，红莲僧从佛法中演化魔门，最后脱身而出，必是达到了真神之境，看来自己这条路是走对了",
-        "”    戚笼沉默半晌，最后也只能憋出这两字来",
-        "而最后一路偏师，则是做佯攻之态，去堵住陈国在国境线上的重堡重镇，防止五大阀向两处增兵"
+        "本后亲母，则是那三位中的红莲仙子。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "他们",
+      "name": "刑五官",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "“我在想，古佛三个弟子，他们心中的救世之道到底是什么，死神僧疯了，大杀僧消失无踪，那位红莲僧更是离开此界，也不知这三位是失败了，还是放弃了",
+      "identity": "亡国七灾之一",
+      "faction": "亡国七灾",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "亡国七灾之一，被红师镇压，背后有上古魔道影子。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "魔气"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "红师",
+          "type": "被镇压"
+        },
+        {
+          "target": "魔后",
+          "type": "参与镇压"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "“我在想，古佛三个弟子，他们心中的救世之道到底是什么，死神僧疯了，大杀僧消失无踪，那位红莲僧更是离开此界，也不知这三位是失败了，还是放弃了",
-        "黄真人叹了口气，又道：“还有一件事，炼铜旗半个月前，曾经向先天元胎求婚，这对于炼家来说，算是一种政治联姻，他们在军中势力很强，加上炼铁手遗子身份，算是门当户对——”    “不用说了，我大概猜到结局了"
+        "这是，刑五官的魔气！",
+        "亡国七灾的刑五官"
       ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
-      "name": "直接",
+      "name": "红师",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十章 大战开始",
-      "summary": "二人之间间隔了一座石桌，然后随着门中黑光溢出，石桌表面居然缓缓腐蚀，最终直接化作石粉",
+      "identity": "上古魔道人物",
+      "faction": "上古魔道",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "镇压刑五官的人物，留下古魔封印。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刑五官",
+          "type": "镇压"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "当初红师在离开此界之前，曾经镇压了这厮"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "波旬",
+      "aliases": [],
+      "identity": "上古魔道成员",
+      "faction": "上古魔道",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾是上古魔道的一员。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -247,10 +478,337 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "二人之间间隔了一座石桌，然后随着门中黑光溢出，石桌表面居然缓缓腐蚀，最终直接化作石粉",
-        "”    戚笼冷喝一声，直接把这些人给镇住了，眼神示意，翡翠先生便微微点头，直接走了出去，这一段时间中，他暗中不知勾搭了多少关系，突然间被调职，绝对是有人针对自己"
+        "波旬也曾是上古魔道的一员？"
       ],
-      "mention_count": 5
+      "mention_count": 1
+    },
+    {
+      "name": "死神僧",
+      "aliases": [],
+      "identity": "古佛弟子",
+      "faction": "古佛",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "古佛三个弟子之一，疯了。",
+      "appearance": [],
+      "personality": [
+        "疯"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "古佛",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "死神僧疯了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "大杀僧",
+      "aliases": [],
+      "identity": "古佛弟子",
+      "faction": "古佛",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "古佛三个弟子之一，消失无踪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "古佛",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "大杀僧消失无踪"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "生覆老",
+      "aliases": [],
+      "identity": "戚笼手下第一位半神",
+      "faction": "戚笼麾下",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "武痴，在戚笼吸收烧身火后成功突破半神。",
+      "appearance": [],
+      "personality": [
+        "武痴"
+      ],
+      "abilities": [
+        "半神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主从"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "生覆老成功突破半神，算是戚笼手下，真正意义上的第一位半神。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "云海坊主",
+      "aliases": [],
+      "identity": "戚笼的联络人",
+      "faction": "戚笼麾下",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "为戚笼寻找受烧身火困扰的顶级宗师。",
+      "appearance": [
+        "肥嘟嘟"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主从"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "云海坊主拍着肥嘟嘟的胸脯保证"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "司马正道",
+      "aliases": [],
+      "identity": "戚笼的义父？",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "通过黄真人向戚笼传递信息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "义父？"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "司马正道让我告诉你"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "炼铁手",
+      "aliases": [],
+      "identity": "原斗部左将军，炼铜旗之父",
+      "faction": "天策府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "已故，原斗部左将军。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "炼铜旗",
+          "type": "父子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他爹，也就是炼铁手，曾经可是斗部左将军之位"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "先天元胎",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "炼铜旗曾向其求婚，被拒。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "炼铜旗",
+          "type": "求婚被拒"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "炼铜旗半个月前，曾经向先天元胎求婚"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "紫帅",
+      "aliases": [],
+      "identity": "已故将领",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "周子通的死仇，已故。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周子通",
+          "type": "死仇"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "紫帅的死仇，让我彻底放弃了佛道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "东佛尊",
+      "aliases": [],
+      "identity": "佛门高人",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾指点周子通。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周子通",
+          "type": "指点"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "东佛尊曾经指点过我"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黑夜叉",
+      "aliases": [],
+      "identity": "魔后四大弟子之一，魔道半神",
+      "faction": "赤炼府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "魔后四大弟子之一，魔道半神。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "半神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "魔后四大弟子，黑夜叉、白修罗、红恶鬼、月姹女，其中，黑夜叉和白修罗都是魔道半神。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白修罗",
+      "aliases": [],
+      "identity": "魔后四大弟子之一，魔道半神",
+      "faction": "赤炼府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "魔后四大弟子之一，魔道半神。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "半神"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "黑夜叉和白修罗都是魔道半神。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "红恶鬼",
+      "aliases": [],
+      "identity": "魔后四大弟子之一",
+      "faction": "赤炼府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "魔后四大弟子之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "魔后四大弟子，黑夜叉、白修罗、红恶鬼、月姹女"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "月姹女",
+      "aliases": [],
+      "identity": "魔后四大弟子之一",
+      "faction": "赤炼府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "魔后四大弟子之一，曾在佛胎净土被戚笼暗算。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魔后",
+          "type": "弟子"
+        },
+        {
+          "target": "戚笼",
+          "type": "曾被暗算"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "月姹女，正是当初在佛胎净土上，被戚笼暗算的那一位魔女"
+      ],
+      "mention_count": 1
     }
   ]
 }

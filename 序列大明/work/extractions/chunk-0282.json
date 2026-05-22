@@ -1,258 +1,203 @@
 {
   "chunk_id": "chunk-0282",
-  "title": "第280章集议定向",
   "characters": [
     {
-      "name": "丰臣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "德川宏志",
+      "aliases": [
+        "宏志先生",
+        "川康宏志"
+      ],
+      "identity": "黑龙资本首领，集议召集人",
+      "faction": "四大公司",
       "status": "登场",
       "first_appearance": "第280章集议定向",
-      "summary": "“丰臣家主是不是忘记了，明智家族也是阴阳序",
-      "appearance": [],
-      "personality": [],
+      "summary": "四大公司之一黑龙资本的首领，主持新年集议，推动反抗帝国计划。",
+      "appearance": [
+        "白发老人"
+      ],
+      "personality": [
+        "沉稳",
+        "威严"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“丰臣家主是不是忘记了，明智家族也是阴阳序",
-        "这其中的切肤之痛，想必丰臣家主感触很深",
-        "”　　随着他这一声怒喝，浮世绘中的眼眸齐刷刷盯向荒世烈和丰臣远疆，刺骨的寒意激的两人汗毛直立、械心收紧，不约而同闭上了嘴巴"
+      "relationships": [
+        {
+          "target": "荒世烈",
+          "type": "同谋"
+        },
+        {
+          "target": "丰臣远疆",
+          "type": "同谋"
+        },
+        {
+          "target": "明智晴秀",
+          "type": "同谋"
+        }
       ],
-      "mention_count": 31
+      "timeline": [
+        {
+          "stage": "集议中",
+          "event": "宣告新年集议核心主旨，主持讨论反抗帝国事宜。"
+        }
+      ],
+      "evidence": [
+        "德川宏志重新跪坐回自己的位置",
+        "宏志先生您放心",
+        "川康宏志又复起身"
+      ],
+      "mention_count": 8
     },
     {
       "name": "荒世烈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "荒世家主"
+      ],
+      "identity": "荒世集团家主，武序继承者",
+      "faction": "四大公司",
       "status": "登场",
       "first_appearance": "第280章集议定向",
-      "summary": "荒世烈依旧神色桀骜，“武序不需要枪械，也不要补给，只需要一个需要屠杀的名单，或者是摧毁的目标",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "荒世烈依旧神色桀骜，“武序不需要枪械，也不要补给，只需要一个需要屠杀的名单，或者是摧毁的目标",
-        "”　　随着他这一声怒喝，浮世绘中的眼眸齐刷刷盯向荒世烈和丰臣远疆，刺骨的寒意激的两人汗毛直立、械心收紧，不约而同闭上了嘴巴",
-        "荒世烈垂眸睥睨，“我就问一句，当年武序打的赢他们吗"
+      "summary": "荒世集团首领，性格桀骜好战，主张武力对抗帝国。",
+      "appearance": [
+        "身形魁伟的壮汉",
+        "皮肤上刺满神鬼刺青",
+        "眉心刻有三片金色龙鳞"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "荒世",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "”　　“宏志先生您放心，荒世集团所有的武序已经做好了准备，随时可以出动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“宏志先生您放心，荒世集团所有的武序已经做好了准备，随时可以出动",
-        "荒世烈依旧神色桀骜，“武序不需要枪械，也不要补给，只需要一个需要屠杀的名单，或者是摧毁的目标",
-        "”　　随着他这一声怒喝，浮世绘中的眼眸齐刷刷盯向荒世烈和丰臣远疆，刺骨的寒意激的两人汗毛直立、械心收紧，不约而同闭上了嘴巴"
+      "personality": [
+        "桀骜",
+        "好战",
+        "冲动"
       ],
-      "mention_count": 15
+      "abilities": [
+        "武序"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "德川宏志",
+          "type": "同谋"
+        },
+        {
+          "target": "丰臣远疆",
+          "type": "争吵对手"
+        },
+        {
+          "target": "明智晴秀",
+          "type": "同谋"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "集议中",
+          "event": "主张立即动手肃清帝国官员，与丰臣远疆争吵。"
+        }
+      ],
+      "evidence": [
+        "荒世烈依旧神色桀骜",
+        "荒世烈双手环抱胸前",
+        "荒世烈满脸狞笑"
+      ],
+      "mention_count": 12
     },
     {
       "name": "丰臣远疆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "丰臣家主"
+      ],
+      "identity": "三川重工东主",
+      "faction": "四大公司",
       "status": "登场",
       "first_appearance": "第280章集议定向",
-      "summary": "”　　随着他这一声怒喝，浮世绘中的眼眸齐刷刷盯向荒世烈和丰臣远疆，刺骨的寒意激的两人汗毛直立、械心收紧，不约而同闭上了嘴巴",
-      "appearance": [],
-      "personality": [],
+      "summary": "三川重工首领，谨慎务实，主张做好万全准备再行动。",
+      "appearance": [
+        "五短身材",
+        "四肢粗壮结实",
+        "唇上花白胡须"
+      ],
+      "personality": [
+        "谨慎",
+        "务实",
+        "易怒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　随着他这一声怒喝，浮世绘中的眼眸齐刷刷盯向荒世烈和丰臣远疆，刺骨的寒意激的两人汗毛直立、械心收紧，不约而同闭上了嘴巴",
-        "”　　丰臣远疆将他的愤怒看在眼中，脸上的笑容越发开怀",
-        "丰臣远疆如同听见了一个天大的笑话，毫不留情讥讽道：“你以为你们跟天志会墨攻部队的那点猫腻，我们其他几家不知道"
+      "relationships": [
+        {
+          "target": "德川宏志",
+          "type": "同谋"
+        },
+        {
+          "target": "荒世烈",
+          "type": "争吵对手"
+        },
+        {
+          "target": "明智晴秀",
+          "type": "同谋"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "集议中",
+          "event": "与荒世烈争论，强调准备的重要性，最终同意配合。"
+        }
+      ],
+      "evidence": [
+        "丰臣远疆将他的愤怒看在眼中",
+        "丰臣远疆脸色铁青",
+        "丰臣远疆转眸怒视荒世烈"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "“三位，反抗帝国暴政，实现倭民中兴，是我们共同作出决定",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“三位，反抗帝国暴政，实现倭民中兴，是我们共同作出决定",
-        "甚至在当年在修建‘白玉京’的时候，我们也曾经出过一分力，是帝国本土遗忘了我们的功绩，背弃了我们的付出",
-        "我们早就不指望你们了"
+      "name": "明智晴秀",
+      "aliases": [
+        "晴秀"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "明智家族家主，阴阳序",
+      "faction": "四大公司",
       "status": "登场",
       "first_appearance": "第280章集议定向",
-      "summary": "甚至在当年在修建‘白玉京’的时候，我们也曾经出过一分力，是帝国本土遗忘了我们的功绩，背弃了我们的付出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "甚至在当年在修建‘白玉京’的时候，我们也曾经出过一分力，是帝国本土遗忘了我们的功绩，背弃了我们的付出",
-        "”　　也可能是街边居酒屋的老板，亦或者某家混堂之中的娼妓，甚至是街道上擦肩而过的陌生人",
-        "脸上皱纹堆叠，眼眸却晦暗如一汪幽泉的明智晴秀，继续说道：“与之相反的是帝国这些年不遗余力的推行脑机灵窍，甚至提出免费安装的优惠政策"
+      "summary": "四大公司中唯一的女性首领，年老体衰，但智慧深沉，提出从阴阳序下手获取权限。",
+      "appearance": [
+        "身穿白衣绯袴，打扮如同神社巫女",
+        "苍老面容",
+        "脸上皱纹堆叠"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "”　　他们可能是四大公司旗下产业中的点卯上工，兢兢业业的工奴",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "深沉",
+        "睿智",
+        "阴狠"
+      ],
+      "abilities": [
+        "阴阳序"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "德川宏志",
+          "type": "同谋"
+        },
+        {
+          "target": "荒世烈",
+          "type": "同谋"
+        },
+        {
+          "target": "丰臣远疆",
+          "type": "同谋"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "集议中",
+          "event": "提出通过抓捕阴阳序获取权限，并嫁祸对方。"
+        }
+      ],
       "evidence": [
-        "”　　他们可能是四大公司旗下产业中的点卯上工，兢兢业业的工奴",
-        "”　　“其实无论是帝国还是鸿鹄，我们要想和他们对抗，真正的核心重点是那片笼罩在帝国亿万百姓头上黄粱梦境",
-        "荒世烈垂眸睥睨，“我就问一句，当年武序打的赢他们吗"
+        "明智晴秀将染血的掌心收回袖中",
+        "明智晴秀突然捂着嘴，发出剧烈的咳嗽",
+        "明智晴秀沉声道"
       ],
       "mention_count": 6
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "现在宣战的誓言已经发出，开弓没有回头箭，如果你们或者是你们的家族中还有任何的疑虑或者是担忧，此时都可以说出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现在宣战的誓言已经发出，开弓没有回头箭，如果你们或者是你们的家族中还有任何的疑虑或者是担忧，此时都可以说出来",
-        "我们早就不指望你们了",
-        "丰臣远疆如同听见了一个天大的笑话，毫不留情讥讽道：“你以为你们跟天志会墨攻部队的那点猫腻，我们其他几家不知道"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "德川",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "第280章集议定向　　在德川宏志宣告完本次新年集议的核心主旨之后，悬浮在朱红鸟居周围的投影便缓缓淡去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第280章集议定向　　在德川宏志宣告完本次新年集议的核心主旨之后，悬浮在朱红鸟居周围的投影便缓缓淡去",
-        "德川宏志重新跪坐回自己的位置，覆满整个墙壁的浮世绘中的眼珠，也将目光投在他的肩背之上",
-        "德川宏志嘴唇蠕动，念出了那个如同梦魇一般缠绕着他心神的名字"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "德川宏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "第280章集议定向　　在德川宏志宣告完本次新年集议的核心主旨之后，悬浮在朱红鸟居周围的投影便缓缓淡去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第280章集议定向　　在德川宏志宣告完本次新年集议的核心主旨之后，悬浮在朱红鸟居周围的投影便缓缓淡去",
-        "德川宏志重新跪坐回自己的位置，覆满整个墙壁的浮世绘中的眼珠，也将目光投在他的肩背之上",
-        "德川宏志嘴唇蠕动，念出了那个如同梦魇一般缠绕着他心神的名字"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "德川宏志",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "第280章集议定向　　在德川宏志宣告完本次新年集议的核心主旨之后，悬浮在朱红鸟居周围的投影便缓缓淡去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第280章集议定向　　在德川宏志宣告完本次新年集议的核心主旨之后，悬浮在朱红鸟居周围的投影便缓缓淡去",
-        "德川宏志重新跪坐回自己的位置，覆满整个墙壁的浮世绘中的眼珠，也将目光投在他的肩背之上",
-        "德川宏志嘴唇蠕动，念出了那个如同梦魇一般缠绕着他心神的名字"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "明智",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第280章集议定向",
-      "summary": "“丰臣家主是不是忘记了，明智家族也是阴阳序",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“丰臣家主是不是忘记了，明智家族也是阴阳序",
-        "明智晴秀将染血的掌心收回袖中，抬眸看向一脸错愕的丰臣远疆和蹙眉沉思的川康宏志",
-        "脸上皱纹堆叠，眼眸却晦暗如一汪幽泉的明智晴秀，继续说道：“与之相反的是帝国这些年不遗余力的推行脑机灵窍，甚至提出免费安装的优惠政策"
-      ],
-      "mention_count": 5
     }
   ]
 }

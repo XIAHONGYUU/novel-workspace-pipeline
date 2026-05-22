@@ -1,27 +1,45 @@
 {
   "chunk_id": "chunk-0919",
-  "title": "第九百一十四章 毁灭意志（一）",
   "characters": [
     {
       "name": "方狱",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "方狱脚下踩到实地",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "试图夺取锻天经盘，最终自爆破碎，释放出林新。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方狱脚下踩到实地",
-        "“锻天经盘……”　　方狱双目一亮，快步朝着那圆盘走去",
-        "方狱的手快要触摸到铜盘时，一层无形的隔膜挡在他身前"
+      "personality": [
+        "冷静",
+        "算计慎密",
+        "疯狂"
       ],
-      "mention_count": 32
+      "abilities": [],
+      "equipment": [
+        "黑球"
+      ],
+      "relationships": [
+        {
+          "target": "九色",
+          "type": "对手"
+        },
+        {
+          "target": "林新",
+          "type": "压制者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图夺取锻天经盘失败，自爆破碎，释放林新。"
+        }
+      ],
+      "evidence": [
+        "方狱面色难看的转身，看向漂浮在半空的本体九色。",
+        "方狱一声苦笑，身体哗啦一下跟着黑球瞬间破碎。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "九色",
@@ -29,83 +47,46 @@
       "identity": "",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "“九色，还没结束，还有代表黑宇宙的规则没完全破碎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“九色，还没结束，还有代表黑宇宙的规则没完全破碎",
-        "看向手中代表九色的那个黑球",
-        "之前无论是和九色交手，或者是献祭自身，都没有丝毫动容"
+      "first_appearance": "",
+      "summary": "与方狱交手的强大存在，拥有两件深渊界器作为替身，心机深沉。",
+      "appearance": [
+        "巨大的彩色圆环，中心浮现一张清晰人面"
       ],
-      "mention_count": 29
-    },
-    {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "居然正是之前被九色分神吞掉了的林新",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "居然正是之前被九色分神吞掉了的林新",
-        "所以他果断离开，没了他的压制，林新直接脱身而出",
-        "因为林新此时的形态，已经彻底没了人形"
+      "personality": [
+        "心机深沉"
       ],
-      "mention_count": 19
-    },
-    {
-      "name": "天音",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "天音龙王就在他身后出现，丝毫没有上前阻止他的意思",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天音龙王就在他身后出现，丝毫没有上前阻止他的意思",
-        "”　　天音龙王平静道",
-        "就连一旁的天音龙王也沉默了"
+      "equipment": [
+        "最初之光",
+        "魔神法典",
+        "佛种"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "天音龙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "天音龙王就在他身后出现，丝毫没有上前阻止他的意思",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天音龙王就在他身后出现，丝毫没有上前阻止他的意思",
-        "”　　天音龙王平静道",
-        "就连一旁的天音龙王也沉默了"
+      "relationships": [
+        {
+          "target": "方狱",
+          "type": "对手"
+        },
+        {
+          "target": "天音龙王",
+          "type": "盟友"
+        },
+        {
+          "target": "林新",
+          "type": "被吞噬部分分身"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与方狱交手，揭示其替身计划，后与天音龙王联手对付林新。"
+        }
+      ],
+      "evidence": [
+        "九色的声音出现在他身后高处。",
+        "九色心机之深，确实不同凡响",
+        "九色点头，恰到好处的在林新融合间隙，打出一枚金色种子没入其体内。"
+      ],
+      "mention_count": 14
     },
     {
       "name": "天音龙王",
@@ -113,145 +94,111 @@
       "identity": "",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "天音龙王就在他身后出现，丝毫没有上前阻止他的意思",
+      "first_appearance": "",
+      "summary": "除未来佛外最强的存在，拥有湮灭龙拳，与九色联手对付林新。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天音龙王就在他身后出现，丝毫没有上前阻止他的意思",
-        "”　　天音龙王平静道",
-        "就连一旁的天音龙王也沉默了"
+      "personality": [
+        "冷酷"
       ],
-      "mention_count": 13
+      "abilities": [
+        "湮灭龙拳"
+      ],
+      "equipment": [
+        "鱼灭玉蟾"
+      ],
+      "relationships": [
+        {
+          "target": "九色",
+          "type": "盟友"
+        },
+        {
+          "target": "林新",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与九色联手攻击林新，但无法杀死他。"
+        }
+      ],
+      "evidence": [
+        "天音龙王就在他身后出现，丝毫没有上前阻止他的意思。",
+        "天音龙王面色冷酷，连续不断的近身撕毁林新肉身。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "居然",
+      "name": "林新",
+      "aliases": [
+        "摄日神君"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被方狱压制后脱身，吞噬九色分身，实力暴增一倍，成为天音龙王和九色的目标。",
+      "appearance": [
+        "融化成一团模模糊糊的黑红色虚影，像是纯粹的光和雾气组成的东西"
+      ],
+      "personality": [],
+      "abilities": [
+        "恐怖恢复力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "方狱",
+          "type": "被压制者"
+        },
+        {
+          "target": "九色",
+          "type": "吞噬其分身"
+        },
+        {
+          "target": "天音龙王",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被方狱释放，吞噬九色分身，实力大增，遭到天音龙王和九色围攻。"
+        }
+      ],
+      "evidence": [
+        "林新直接脱身而出。",
+        "林新此时的形态，已经彻底没了人形。",
+        "林新居然都能无中生有一般，凭空又再度冒出来。"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "神祖烟乃亚",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "就算以他此时的实力，居然也没法破开这层隔膜阻挡",
+      "first_appearance": "",
+      "summary": "旁观者，见势不妙立即离开。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就算以他此时的实力，居然也没法破开这层隔膜阻挡",
-        "居然正是之前被九色分神吞掉了的林新",
-        "”九色苦涩道，他耗费巨大代价，用两件深渊界器炼制的分身，居然就这么被眼前这个摄日神君吞噬掉"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "浮现远处观望，后转身离开。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "似乎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "他环顾四周，似乎要将眼前的一切都深深记在心头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他环顾四周，似乎要将眼前的一切都深深记在心头",
-        "似乎在笑，又似乎是遗憾",
-        "”九色和天音龙王都微微一滞，似乎没弄明白他说的话意思"
+        "神祖烟乃亚也跟着浮现在另一侧远处，遥遥望着这边。",
+        "神祖烟乃亚眼神闪烁，转身就走，竟然连锻天经盘看也不看。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "转身",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "方狱面色难看的转身，看向漂浮在半空的本体九色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方狱面色难看的转身，看向漂浮在半空的本体九色",
-        "神祖烟乃亚眼神闪烁，转身就走，竟然连锻天经盘看也不看",
-        "九色和天音龙王终于明白，为什么方狱二话不说，转身就走了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "看向",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "看向手中代表九色的那个黑球",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "看向手中代表九色的那个黑球",
-        "方狱面色难看的转身，看向漂浮在半空的本体九色",
-        "他却仿佛没有知觉一般，目光看向九色"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "所有的事物，所有的力量气息，波动，物质，甚至神魂，都被染成一片惨白",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所有的事物，所有的力量气息，波动，物质，甚至神魂，都被染成一片惨白",
-        "玉蟾融入得很顺利，甚至说毫无声息",
-        "头部，心脏，躯干，四肢，甚至全部湮灭毁掉其肉身"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "但现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九百一十四章 毁灭意志（一）",
-      "summary": "但现在还是晚了……”　　“你",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但现在还是晚了……”　　“你",
-        "”九色没有天音龙王那般经验丰富，如果他合并成未来佛，自然不用说，但现在他的一部分已经被林新吞噬，未来佛注定无法成型"
-      ],
-      "mention_count": 5
+      "mention_count": 2
     }
   ]
 }

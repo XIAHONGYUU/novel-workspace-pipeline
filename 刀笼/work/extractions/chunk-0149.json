@@ -1,255 +1,536 @@
 {
   "chunk_id": "chunk-0149",
-  "title": "第一百五十章 大危机",
   "characters": [
     {
       "name": "戚笼",
       "aliases": [],
-      "identity": "",
+      "identity": "练武之人，修行六道轮回印",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "戚笼赴会、杀人，回归，正好与洪小四的行动错开",
+      "summary": "主角，修行六道轮回印，精神敏锐，正在调查七府大酒楼中的高手。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "敏锐",
+        "谨慎"
+      ],
+      "abilities": [
+        "人道印",
+        "天道印",
+        "阿修罗印",
+        "昼眼",
+        "活人桩"
+      ],
+      "equipment": [
+        "人皮袈裟"
+      ],
+      "relationships": [
+        {
+          "target": "戚小骨",
+          "type": "父女"
+        },
+        {
+          "target": "闫灵甲",
+          "type": "爪仆人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在七府大酒楼吃白食，发现五个一流高手的脚印，决定与酒楼主人聊聊。"
+        }
+      ],
+      "evidence": [
+        "戚笼赴会、杀人，回归，正好与洪小四的行动错开。",
+        "戚笼昼眼打开，顿时变成了三百六十度无死角。",
+        "戚笼低声道，手中捏了一个天道印，刹那间，无数气息开始回溯。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "戚小骨",
+      "aliases": [],
+      "identity": "戚笼的女儿，僵尸",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百五十章 大危机",
+      "summary": "戚笼的女儿，僵尸，喜欢喝皮蛋粥。",
+      "appearance": [],
+      "personality": [
+        "面无表情"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "戚笼赴会、杀人，回归，正好与洪小四的行动错开",
-        "’    戚笼朝着窗户缓缓伸出手掌，仿佛掌心轻轻一握，便能把对面那座金碧辉煌的大酒楼按入地面",
-        "这一丝称佛做祖的念头，在一瞬间被戚笼镇压了下来"
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "父女"
+        }
       ],
-      "mention_count": 23
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在七府大酒楼喝粥，喝了不下十碗。"
+        }
+      ],
+      "evidence": [
+        "戚小骨依旧在‘咕嘟’‘咕嘟’的喝着粥，她已经喝了不下十碗了。",
+        "原来僵尸喜欢吃皮蛋啊。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "闫灵甲",
+      "aliases": [
+        "爪仆人"
+      ],
+      "identity": "七府大酒楼的爪仆人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百五十章 大危机",
+      "summary": "七府大酒楼的爪仆人，负责管理杂务。",
+      "appearance": [],
+      "personality": [
+        "严厉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主仆"
+        },
+        {
+          "target": "戚小骨",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "呵斥泥瓦匠，被戚笼注意到。"
+        }
+      ],
+      "evidence": [
+        "闫灵甲正在呵斥一个泥瓦匠。"
+      ],
+      "mention_count": 2
     },
     {
       "name": "尸僧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "阎佛的大弟子"
+      ],
+      "identity": "阎佛寺大弟子，暂代主持",
+      "faction": "阎佛寺",
       "status": "登场",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "此人正是阎佛的大弟子，尸僧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此人正是阎佛的大弟子，尸僧",
-        "尸僧低头，看到了一张艳丽魅惑的面孔，眼角眉梢、脖颈、身上露出的每一块皮肉，都在散发着万众风情，窈窕的身段上，皮肤像一块块白脂豆腐般晃动着",
-        "只是尸僧自从修行大进之后，就断了子孙根，让她再无可乘之机"
+      "summary": "阎佛的大弟子，拳术一流巅峰，修行六道轮回印中的畜生印，通过吞噬尸虫提高武道。",
+      "appearance": [
+        "面目苍白",
+        "身材高大",
+        "身上一块块尸肉随风而动"
       ],
-      "mention_count": 11
+      "personality": [
+        "冷酷"
+      ],
+      "abilities": [
+        "六道轮回印·畜生印",
+        "一流巅峰拳术"
+      ],
+      "equipment": [
+        "人指节佛串"
+      ],
+      "relationships": [
+        {
+          "target": "红度母",
+          "type": "师兄妹"
+        },
+        {
+          "target": "阎佛",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在尸坑边超度，吞噬尸虫，随后与红度母等人汇合，准备诛杀魔头。"
+        }
+      ],
+      "evidence": [
+        "这大和尚手上的印法，正是六道轮回印中的畜生印。",
+        "尸僧面无表情起身，缓缓向城门口走去。",
+        "尸僧张嘴，露出森森牙齿，同样是四十颗。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "六道轮",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十章 大危机",
-      "summary": "不得不说，六道轮回印不愧是阎佛寺秘法，是一门极涨精神的功夫，他在入定之时，感觉自己就是一尊胎藏大佛，醒来之后，神清气爽，精神像是琉璃一般通透",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不得不说，六道轮回印不愧是阎佛寺秘法，是一门极涨精神的功夫，他在入定之时，感觉自己就是一尊胎藏大佛，醒来之后，神清气爽，精神像是琉璃一般通透",
-        "六道轮回印中的天道印，正确的说法其实是天人印，也就是所谓的业果福报印，结善因，得善果，生前善因越多，死后去的世界就越好，什么欲界天、色界天、无色界天之类的",
-        "六道轮回印中的六种印法，其实隐隐契合着佛教的宗旨——舍此蕴以复趣他蕴"
+      "name": "红度母",
+      "aliases": [
+        "阎佛的二弟子",
+        "本菩萨"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "精神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "阎佛寺二弟子，修行肉身布施邪法",
+      "faction": "阎佛寺",
       "status": "登场",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "不得不说，六道轮回印不愧是阎佛寺秘法，是一门极涨精神的功夫，他在入定之时，感觉自己就是一尊胎藏大佛，醒来之后，神清气爽，精神像是琉璃一般通透",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不得不说，六道轮回印不愧是阎佛寺秘法，是一门极涨精神的功夫，他在入定之时，感觉自己就是一尊胎藏大佛，醒来之后，神清气爽，精神像是琉璃一般通透",
-        "‘怪不得老和尚能连续夺舍别人，我才练了这印法不过十天，就有一种肉身是臭皮囊，精神做度世筏的感觉，天下之大，无不可度己",
-        "父女二人又来到七府大酒楼吃白食，只是不知为何，今日客人有些少，而且戚笼近来精神日益增长，敏锐的感觉到，空气中有一种焦灼的气味"
+      "summary": "阎佛的二弟子，做观世音打扮，修行肉身布施邪法，让人沉迷色相。",
+      "appearance": [
+        "艳丽魅惑",
+        "窈窕身段",
+        "皮肤像白脂豆腐"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十章 大危机",
-      "summary": "父女二人又来到七府大酒楼吃白食，只是不知为何，今日客人有些少，而且戚笼近来精神日益增长，敏锐的感觉到，空气中有一种焦灼的气味",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "父女二人又来到七府大酒楼吃白食，只是不知为何，今日客人有些少，而且戚笼近来精神日益增长，敏锐的感觉到，空气中有一种焦灼的气味",
-        "”    戚笼望了过去，似乎是这泥瓦匠在补地面的一处凹陷，只是补的不好，看上去不太平整",
-        "其间端了好几几个尸武人组成的团伙，从上到下，整个拳术流派都被清洗掉，其过程自然是血淋淋的，但也没多少人在乎，大多数人关心的，只是在这场血腥盛宴中，自己能分得几杯羹"
+      "personality": [
+        "风情万种",
+        "心机深沉"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十章 大危机",
-      "summary": "不能完全说是杀气，而是一种混合了惊疑、戒备、紧张、愤怒，是一瞬间爆炸开的情绪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不能完全说是杀气，而是一种混合了惊疑、戒备、紧张、愤怒，是一瞬间爆炸开的情绪",
-        "他并非对吕阀的消息完全不感兴趣，而是那位少将军的态度，摆明了是在借刀杀人",
-        "‘咦，不对，这不是天然凹陷，而是高手踩踏，劲力陷入地面，不仅是青石板崩裂，包括石板下面的数尺之地，都是裂纹密布，这匠人补不好是正常的，地基都崩了，谁能修好房子"
+      "abilities": [
+        "肉身布施邪法"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "包括",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十章 大危机",
-      "summary": "‘咦，不对，这不是天然凹陷，而是高手踩踏，劲力陷入地面，不仅是青石板崩裂，包括石板下面的数尺之地，都是裂纹密布，这匠人补不好是正常的，地基都崩了，谁能修好房子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "尸僧",
+          "type": "师兄妹"
+        },
+        {
+          "target": "阎佛",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧汇合，告知已查明魔头所在。"
+        }
+      ],
       "evidence": [
-        "‘咦，不对，这不是天然凹陷，而是高手踩踏，劲力陷入地面，不仅是青石板崩裂，包括石板下面的数尺之地，都是裂纹密布，这匠人补不好是正常的，地基都崩了，谁能修好房子",
-        "阎佛寺上下，就没有没被她‘布施’过的，包括阎佛，包括眼前这位"
+        "一声软糯的、风情万种的声音响起。",
+        "这位做观世音打扮的，便是阎佛的二弟子红度母。",
+        "红度母咯咯一笑。"
       ],
       "mention_count": 5
     },
     {
-      "name": "而且",
+      "name": "薛文海",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛魔小队成员",
+      "faction": "薛家",
       "status": "登场",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "父女二人又来到七府大酒楼吃白食，只是不知为何，今日客人有些少，而且戚笼近来精神日益增长，敏锐的感觉到，空气中有一种焦灼的气味",
+      "summary": "薛家成员，参与薛继武组织的诛魔小队。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "父女二人又来到七府大酒楼吃白食，只是不知为何，今日客人有些少，而且戚笼近来精神日益增长，敏锐的感觉到，空气中有一种焦灼的气味",
-        "而且一个寓将军的儿子，就算得到什么隐秘消息，所知恐怕也有限的很",
-        "回龙行掌、盘龙劲    旱地平抡手、开山劲    败桩十八技、水银劲    关外炮拳、火药劲    盖山掌、镇地劲    ‘果然都是关外的拳术，劲力在身上的运转，明显更加精妙，而且蕴藏着一种难以言喻的气势"
+      "abilities": [
+        "一流高手"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛沉舟",
+          "type": "同族"
+        },
+        {
+          "target": "薛继武",
+          "type": "同族"
+        },
+        {
+          "target": "高勇",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人汇合，准备强杀宗师。"
+        }
+      ],
+      "evidence": [
+        "薛文海、薛沉舟、薛继武、高勇等人组成的超级小队。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "劲力",
+      "name": "薛沉舟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛魔小队成员",
+      "faction": "薛家",
       "status": "登场",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "‘咦，不对，这不是天然凹陷，而是高手踩踏，劲力陷入地面，不仅是青石板崩裂，包括石板下面的数尺之地，都是裂纹密布，这匠人补不好是正常的，地基都崩了，谁能修好房子",
+      "summary": "薛家成员，参与诛魔小队。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "‘咦，不对，这不是天然凹陷，而是高手踩踏，劲力陷入地面，不仅是青石板崩裂，包括石板下面的数尺之地，都是裂纹密布，这匠人补不好是正常的，地基都崩了，谁能修好房子",
-        "而随着人影越转越快，消散的人影也越来越多，最后，只剩下五道，各以爆发的姿态出现，虽然五官模糊，但是劲力的变化一览无遗",
-        "回龙行掌、盘龙劲    旱地平抡手、开山劲    败桩十八技、水银劲    关外炮拳、火药劲    盖山掌、镇地劲    ‘果然都是关外的拳术，劲力在身上的运转，明显更加精妙，而且蕴藏着一种难以言喻的气势"
+      "abilities": [
+        "一流高手"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛文海",
+          "type": "同族"
+        },
+        {
+          "target": "薛继武",
+          "type": "同族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人汇合。"
+        }
+      ],
+      "evidence": [
+        "薛文海、薛沉舟、薛继武、高勇等人组成的超级小队。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "拳术",
+      "name": "薛继武",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "诛魔小队组织者",
+      "faction": "薛家",
       "status": "登场",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "一流高手是什么概念，那是一代拳术大师，能开宗立派的那一档",
+      "summary": "薛家成员，费尽心思组成诛魔小队，准备强杀宗师。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一流高手是什么概念，那是一代拳术大师，能开宗立派的那一档",
-        "回龙行掌、盘龙劲    旱地平抡手、开山劲    败桩十八技、水银劲    关外炮拳、火药劲    盖山掌、镇地劲    ‘果然都是关外的拳术，劲力在身上的运转，明显更加精妙，而且蕴藏着一种难以言喻的气势",
-        "其间端了好几几个尸武人组成的团伙，从上到下，整个拳术流派都被清洗掉，其过程自然是血淋淋的，但也没多少人在乎，大多数人关心的，只是在这场血腥盛宴中，自己能分得几杯羹"
+      "abilities": [
+        "一流高手中的强手"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛文海",
+          "type": "同族"
+        },
+        {
+          "target": "薛沉舟",
+          "type": "同族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "组织诛魔小队，与尸僧等人汇合。"
+        }
+      ],
+      "evidence": [
+        "薛继武费尽心思组成的，准备强杀宗师的诛魔小队。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "这大",
+      "name": "高勇",
       "aliases": [],
-      "identity": "",
+      "identity": "诛魔小队成员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "他的超度经文也很诡异，像是妖魔嘶吼、又像是夜叉尖叫、尸坑之中，每一具尸体都被念的瞪大了双眼，丝丝血雾从耳中溢出，然后钻入这大和尚的嘴巴里",
+      "summary": "诛魔小队成员，一流高手中的强手。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他的超度经文也很诡异，像是妖魔嘶吼、又像是夜叉尖叫、尸坑之中，每一具尸体都被念的瞪大了双眼，丝丝血雾从耳中溢出，然后钻入这大和尚的嘴巴里",
-        "——《大般涅槃经》    这大和尚正在通过吞噬尸体脑中的‘尸虫’，来提高自己的武道境界，增强自己的武学修为",
-        "若是戚笼在此，必然会认出来，这大和尚手上的印法，正是六道轮回印中的畜生印"
+      "abilities": [
+        "一流高手"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛文海",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人汇合。"
+        }
+      ],
+      "evidence": [
+        "薛文海、薛沉舟、薛继武、高勇等人组成的超级小队。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "本菩萨",
+      "name": "洪小四",
       "aliases": [],
-      "identity": "",
+      "identity": "戚笼的同伴或手下",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百五十章 大危机",
-      "summary": "红度母咯咯一笑：“本菩萨的舍身施主，已全数舍去肉躯，回归我佛，本菩萨也借此，查明了魔头的所在，就在那巨城之中",
+      "summary": "一夜未归，与戚笼的行动错开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "一夜未归。"
+        }
+      ],
+      "evidence": [
+        "洪小四一夜未归。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "少将军费锦",
+      "aliases": [
+        "少将军"
+      ],
+      "identity": "寓将军的儿子",
+      "faction": "吕阀？",
+      "status": "提及",
+      "first_appearance": "第一百五十章 大危机",
+      "summary": "寓将军的儿子，可能知道关于尸武人的隐秘消息，态度是借刀杀人。",
+      "appearance": [],
+      "personality": [
+        "借刀杀人"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "戚笼怀疑昨夜伏杀自己的幕后之人可能是他。"
+        }
+      ],
+      "evidence": [
+        "那位少将军的态度，摆明了是在借刀杀人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "蜘蛛贵族",
+      "aliases": [],
+      "identity": "贵族",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百五十章 大危机",
+      "summary": "戚笼怀疑的昨夜伏杀自己的幕后之人之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "红度母咯咯一笑：“本菩萨的舍身施主，已全数舍去肉躯，回归我佛，本菩萨也借此，查明了魔头的所在，就在那巨城之中"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "戚笼猜测其可能是幕后黑手。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "少将军费锦，还是那个蜘蛛贵族，都有可能，但又都不像。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "阎佛",
+      "aliases": [
+        "老和尚"
+      ],
+      "identity": "阎佛寺前任主持",
+      "faction": "阎佛寺",
+      "status": "提及",
+      "first_appearance": "第一百五十章 大危机",
+      "summary": "阎佛寺前任主持，已死亡，曾夺舍小和尚肉身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "六道轮回印",
+        "夺舍"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尸僧",
+          "type": "师徒"
+        },
+        {
+          "target": "红度母",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "寂灭禅成，返老还童，后死亡。"
+        }
+      ],
+      "evidence": [
+        "怪不得老和尚能连续夺舍别人。",
+        "若非其师阎佛寂灭禅成，返老还童。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "小师妹",
+      "aliases": [],
+      "identity": "阎佛寺弟子，阎佛小师弟的孪生妹妹",
+      "faction": "阎佛寺",
+      "status": "提及",
+      "first_appearance": "第一百五十章 大危机",
+      "summary": "阎佛寺弟子，天赋极高，拳术境界超越同年龄段高僧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "拳术境界高"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阎佛",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尸僧等人汇合。"
+        }
+      ],
+      "evidence": [
+        "小师妹，还有薛家那群人，都在等你呢。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "泥瓦匠",
+      "aliases": [],
+      "identity": "工匠",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百五十章 大危机",
+      "summary": "被闫灵甲呵斥的泥瓦匠，修补地面凹陷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "闫灵甲",
+          "type": "雇主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被闫灵甲呵斥。"
+        }
+      ],
+      "evidence": [
+        "闫灵甲正在呵斥一个泥瓦匠。"
+      ],
+      "mention_count": 1
     }
   ]
 }

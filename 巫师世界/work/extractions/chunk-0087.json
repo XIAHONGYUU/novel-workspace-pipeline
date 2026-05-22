@@ -1,0 +1,93 @@
+{
+  "chunk_id": "chunk-0087",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "拉姆所答学院的三等学徒，主修死灵系",
+      "faction": "拉姆所答学院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与班尼迪克激战后僵持，最终和解并试图偷袭。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "毒舌",
+        "狡猾"
+      ],
+      "abilities": [
+        "死灵系法术",
+        "风系能量运用"
+      ],
+      "equipment": [
+        "十字剑"
+      ],
+      "relationships": [
+        {
+          "target": "班尼迪克",
+          "type": "对手后和解"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "僵持阶段",
+          "event": "与班尼迪克激战后双双虚弱，互相嘲讽后和解，最后试图偷袭。"
+        }
+      ],
+      "evidence": [
+        "安格列，主修死灵系。",
+        "要不是被电流麻痹了肌肉……",
+        "安格列手上一抖，十字剑狠狠飞出去。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "班尼迪克",
+      "aliases": [],
+      "identity": "曼彻斯特的三等学徒，主修电系",
+      "faction": "曼彻斯特",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与安格列激战后僵持，最终和解，但被安格列偷袭。",
+      "appearance": [
+        "银发青年"
+      ],
+      "personality": [
+        "冷酷",
+        "顽强",
+        "毒舌"
+      ],
+      "abilities": [
+        "电系法术"
+      ],
+      "equipment": [
+        "十字剑",
+        "绿色药膏",
+        "土黄色卷轴（一级法术）"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "对手后和解"
+        },
+        {
+          "target": "莉迪亚薇公主",
+          "type": "嘱托对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "僵持阶段",
+          "event": "与安格列激战后双双虚弱，互相嘲讽后和解，最后被安格列偷袭。"
+        }
+      ],
+      "evidence": [
+        "我叫班尼迪克，主修电系。",
+        "银发青年脸色不变，仿佛身上没有一点伤势一般，面色冷酷。",
+        "他艰难地抖着手，从怀里摸出一个土黄色的卷轴。"
+      ],
+      "mention_count": 25
+    }
+  ]
+}

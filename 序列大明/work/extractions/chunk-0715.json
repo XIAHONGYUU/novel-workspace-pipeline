@@ -1,257 +1,296 @@
 {
   "chunk_id": "chunk-0715",
-  "title": "第712章序列之路（一）",
   "characters": [
     {
-      "name": "杨白泽",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第712章序列之路（一）",
-      "summary": "杨白泽捂着腹部前后贯通的伤口，用那把长剑当做拐杖，在满地的尸体中摇摇晃晃的行走",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "杨白泽捂着腹部前后贯通的伤口，用那把长剑当做拐杖，在满地的尸体中摇摇晃晃的行走",
-        "寻找了很久，杨白泽终于在一片堆积如山的尸骸旁边，看见了那张血汗混杂的苍老面容",
-        "”　　杨白泽丢开当做拐杖的长剑，躬身想要裴行俭搀扶站起，却听对方说道：“为师现在就剩一口气了，你小子可别折腾我了"
-      ],
-      "mention_count": 22
-    },
-    {
       "name": "张嗣源",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "张嗣源"
+      ],
+      "identity": "儒序序列者",
+      "faction": "张家",
+      "status": "重伤",
       "first_appearance": "第712章序列之路（一）",
-      "summary": "浓郁到化不开的血色填满张嗣源的眼睛，混乱的人群之中，礼艺和捭阖之力的重迭压制源源不断，法尺和刀剑交错袭来，不给他任何一丝喘息的机会",
+      "summary": "儒序序列者，被朱彝焰控制的从序者围攻，濒临油尽灯枯，最终被沈笠所救。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "倔强",
+        "宁死不屈"
+      ],
+      "abilities": [
+        "射艺"
+      ],
+      "equipment": [
+        "凡响（枪械）"
+      ],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "老师"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在旧都外围被围攻，濒死之际被沈笠救下。"
+        }
+      ],
       "evidence": [
-        "浓郁到化不开的血色填满张嗣源的眼睛，混乱的人群之中，礼艺和捭阖之力的重迭压制源源不断，法尺和刀剑交错袭来，不给他任何一丝喘息的机会",
-        "粘腻的血将衣袍和皮肤糊在一起，张嗣源只感觉脑袋里被人搅成一团浆糊，轰隆隆响成一片，五感颠倒混乱，只能凭借本能不断躲闪接踵而至的攻击",
-        "张嗣源也在此刻，才算是真正感受到了纵横序的强大"
+        "张嗣源只感觉脑袋里被人搅成一团浆糊",
+        "张嗣源将一身‘射艺’发挥到淋漓尽致",
+        "张嗣源就算死了，陛下还是能让‘他’活。"
       ],
       "mention_count": 20
     },
     {
+      "name": "朱彝焰",
+      "aliases": [
+        "朱彝焰"
+      ],
+      "identity": "皇帝",
+      "faction": "朱家",
+      "status": "未直接出场",
+      "first_appearance": "第712章序列之路（一）",
+      "summary": "朱家皇帝，控制从序者围攻张嗣源，意图捭阖控制张家。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "纵横序"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "派遣纵横序执旗人围攻张嗣源。"
+        }
+      ],
+      "evidence": [
+        "朱彝焰嘴里说着要留他当做诱饵",
+        "陛下要的只是张家这块牌子"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "沈笠",
+      "aliases": [
+        "沈笠"
+      ],
+      "identity": "虎甲序列者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第712章序列之路（一）",
+      "summary": "骁勇悍卒，强行冲阵击杀执旗纵横序，救下张嗣源。",
+      "appearance": [],
+      "personality": [
+        "凶狠"
+      ],
+      "abilities": [
+        "虎甲"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "救援"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "冲入敌阵击杀执旗纵横序，救下张嗣源。"
+        }
+      ],
+      "evidence": [
+        "沈笠一声怒啸，腰背微躬，以一身虎甲硬抗所有攻击",
+        "被裹挟着强大劲力的拳头直接轰碎了头颅"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "杨白泽",
+      "aliases": [
+        "小白泽"
+      ],
+      "identity": "儒序序列者，裴行俭的学生",
+      "faction": "",
+      "status": "受伤",
+      "first_appearance": "第712章序列之路（一）",
+      "summary": "裴行俭的学生，在皇城甬道中找到重伤的裴行俭，陪伴其最后一程。",
+      "appearance": [],
+      "personality": [
+        "哀伤",
+        "有理想",
+        "有底线",
+        "有毅力",
+        "有韧劲",
+        "有血性"
+      ],
+      "abilities": [],
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "学生"
+        },
+        {
+          "target": "张嗣源",
+          "type": "师祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在皇城甬道中找到裴行俭，陪伴其临终。"
+        }
+      ],
+      "evidence": [
+        "杨白泽捂着腹部前后贯通的伤口",
+        "杨白泽双眼泛红，语速急促道",
+        "杨白泽坐正身体，轻轻搂着老人歪斜的身躯"
+      ],
+      "mention_count": 18
+    },
+    {
       "name": "裴行俭",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "裴行俭"
+      ],
+      "identity": "儒序序列者，张嗣源的学生，杨白泽的老师",
       "faction": "",
-      "status": "登场",
+      "status": "死亡",
       "first_appearance": "第712章序列之路（一）",
-      "summary": "裴行俭箕坐在古旧斑驳的城墙下，在此处执旗的纵横序的跪倒在他的面前",
-      "appearance": [],
-      "personality": [],
+      "summary": "儒序序列者，张嗣源的学生，杨白泽的老师，在皇城甬道中重伤濒死，最终去世。",
+      "appearance": [
+        "血汗混杂的苍老面容"
+      ],
+      "personality": [
+        "倔强",
+        "嘴硬",
+        "玩世不恭"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "裴行俭箕坐在古旧斑驳的城墙下，在此处执旗的纵横序的跪倒在他的面前",
-        "”　　杨白泽丢开当做拐杖的长剑，躬身想要裴行俭搀扶站起，却听对方说道：“为师现在就剩一口气了，你小子可别折腾我了",
-        "传来的触感绵软无力，仿佛裴行俭所有的骨头都碎了个干净"
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "学生"
+        },
+        {
+          "target": "杨白泽",
+          "type": "老师"
+        },
+        {
+          "target": "刘谨勋",
+          "type": "同门/敌对"
+        }
       ],
-      "mention_count": 19
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在皇城甬道中重伤濒死，与杨白泽交谈后去世。"
+        }
+      ],
+      "evidence": [
+        "裴行俭箕坐在古旧斑驳的城墙下",
+        "裴行俭吐出一口长长的浊气",
+        "一颗白发苍苍的头颅靠在肩膀上"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "杨白",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "刘谨勋",
+      "aliases": [
+        "刘谨勋"
+      ],
+      "identity": "儒序序列者，裴行俭的同门",
+      "faction": "刘家",
+      "status": "已故（提及）",
       "first_appearance": "第712章序列之路（一）",
-      "summary": "杨白泽捂着腹部前后贯通的伤口，用那把长剑当做拐杖，在满地的尸体中摇摇晃晃的行走",
+      "summary": "裴行俭的同门，出身好，与裴行俭关系敌对，已故。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "杨白泽捂着腹部前后贯通的伤口，用那把长剑当做拐杖，在满地的尸体中摇摇晃晃的行走",
-        "寻找了很久，杨白泽终于在一片堆积如山的尸骸旁边，看见了那张血汗混杂的苍老面容",
-        "”　　杨白泽丢开当做拐杖的长剑，躬身想要裴行俭搀扶站起，却听对方说道：“为师现在就剩一口气了，你小子可别折腾我了"
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "同门/敌对"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与裴行俭为敌，已故。"
+        }
+      ],
+      "evidence": [
+        "刘谨勋出身好，我就处处故意与他为敌",
+        "在这儿还能跟刘谨勋做个伴"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "张嗣",
-      "aliases": [],
-      "identity": "",
+      "name": "李不逢",
+      "aliases": [
+        "李不逢"
+      ],
+      "identity": "儒序序列者",
       "faction": "",
-      "status": "登场",
+      "status": "已故（提及）",
       "first_appearance": "第712章序列之路（一）",
-      "summary": "浓郁到化不开的血色填满张嗣源的眼睛，混乱的人群之中，礼艺和捭阖之力的重迭压制源源不断，法尺和刀剑交错袭来，不给他任何一丝喘息的机会",
+      "summary": "裴行俭提及的人物，与刘谨勋并称老王八蛋。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "浓郁到化不开的血色填满张嗣源的眼睛，混乱的人群之中，礼艺和捭阖之力的重迭压制源源不断，法尺和刀剑交错袭来，不给他任何一丝喘息的机会",
-        "粘腻的血将衣袍和皮肤糊在一起，张嗣源只感觉脑袋里被人搅成一团浆糊，轰隆隆响成一片，五感颠倒混乱，只能凭借本能不断躲闪接踵而至的攻击",
-        "张嗣源也在此刻，才算是真正感受到了纵横序的强大"
+        "刘谨勋和李不逢那两个老王八蛋"
       ],
-      "mention_count": 12
+      "mention_count": 1
     },
     {
-      "name": "裴行",
-      "aliases": [],
+      "name": "邹四九",
+      "aliases": [
+        "邹四九"
+      ],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第712章序列之路（一）",
-      "summary": "裴行俭箕坐在古旧斑驳的城墙下，在此处执旗的纵横序的跪倒在他的面前",
+      "summary": "张嗣源提及的人物，曾说过白帝混汤。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "相识"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "裴行俭箕坐在古旧斑驳的城墙下，在此处执旗的纵横序的跪倒在他的面前",
-        "”　　杨白泽丢开当做拐杖的长剑，躬身想要裴行俭搀扶站起，却听对方说道：“为师现在就剩一口气了，你小子可别折腾我了",
-        "传来的触感绵软无力，仿佛裴行俭所有的骨头都碎了个干净"
+        "上次在番地，邹四九跟他说过的白帝混汤"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "执旗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第712章序列之路（一）",
-      "summary": "此刻站在战局最外围，从始至终一直袖手旁观的一名纵横序四，便是朱彝焰钦点在此负责远交近攻的‘执旗人’，这一小部分‘位业’的使用者，所有人都是由他来串联指挥",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此刻站在战局最外围，从始至终一直袖手旁观的一名纵横序四，便是朱彝焰钦点在此负责远交近攻的‘执旗人’，这一小部分‘位业’的使用者，所有人都是由他来串联指挥",
-        "念及至此，执旗的纵横序也不犹豫，丝毫不顾忌手中‘位业’的飞速损耗，命令一众从序者再次围上，意图用命彻底耗尽张嗣源的气力",
-        "”　　执旗号令的纵横序目光平静，似乎半点不在意张嗣源自杀"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "仔细",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第712章序列之路（一）",
-      "summary": "他埋着头，仔细看着每一张或是惊恐，或是绝望，或是愤恨的脸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他埋着头，仔细看着每一张或是惊恐，或是绝望，或是愤恨的脸",
-        "杨白泽动作轻柔，仔细扫去发丝间沾染的尘土，微笑自语"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "位业",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第712章序列之路（一）",
-      "summary": "但对方若是配上足够的‘位业’，哪怕只是眼前一两百人左右的队伍，爆发出来的战力便能死死压制自己",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但对方若是配上足够的‘位业’，哪怕只是眼前一两百人左右的队伍，爆发出来的战力便能死死压制自己",
-        "”　　张嗣源心头无奈，手握‘位业’的纵横序虽然强悍，但也不是没有任何弱点",
-        "此刻站在战局最外围，从始至终一直袖手旁观的一名纵横序四，便是朱彝焰钦点在此负责远交近攻的‘执旗人’，这一小部分‘位业’的使用者，所有人都是由他来串联指挥"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "凡响",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第712章序列之路（一）",
-      "summary": "”　　张嗣源两眼放空，口中喃喃自语，手上那柄名为‘凡响’的枪械上，金青两色遍染枪身，逐一点亮篆刻其上的道文佛经，粗如炮口的枪管喷射出瑰丽且致命的华彩，将身前之人轰成细密的血水",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　张嗣源两眼放空，口中喃喃自语，手上那柄名为‘凡响’的枪械上，金青两色遍染枪身，逐一点亮篆刻其上的道文佛经，粗如炮口的枪管喷射出瑰丽且致命的华彩，将身前之人轰成细密的血水",
-        "不管是儒、兵、法，还是纵横，只要被‘凡响’枪口锁定，结局只能是炸散成一团喷溅的烂肉血水",
-        "‘凡响’刚刚爆发出一声震耳欲聋的怒吼，下一刻便被一名抢身靠近的六韬兵序徒手抓住枪口"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "再也",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第712章序列之路（一）",
-      "summary": "“真他娘的痛啊.”　　张嗣源挣扎着站起身来，右臂颤抖不止，往日轻如无物的‘凡响’，此刻却沉重如山，再也无法再举起",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“真他娘的痛啊.”　　张嗣源挣扎着站起身来，右臂颤抖不止，往日轻如无物的‘凡响’，此刻却沉重如山，再也无法再举起",
-        "可下一刻，杨白泽便再也忍不住，沙哑开口",
-        "”　　“我怕我有一天会错而不自知，再也回不了头"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "要不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第712章序列之路（一）",
-      "summary": "那你还是把老夫背回去吧，要不然可就太丢人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那你还是把老夫背回去吧，要不然可就太丢人了",
-        "连张老头也被我骂了很多年，说来也是他脾气好，要不然早就该把我这个逆徒给杀了",
-        "”　　裴行俭一副理所当然的语气说道：“要不然我拿你这个学生干啥"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

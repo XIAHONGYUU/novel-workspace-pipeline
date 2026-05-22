@@ -1,256 +1,290 @@
 {
   "chunk_id": "chunk-0121",
-  "title": "第120章 一碗泡面",
   "characters": [
     {
       "name": "方乾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "队长",
+        "巡察"
+      ],
+      "identity": "诡狱第三巡察，原东四区驭诡者小队队长",
+      "faction": "诡狱",
       "status": "登场",
       "first_appearance": "第120章 一碗泡面",
-      "summary": "方乾拉开车门，跨出了车子",
+      "summary": "诡狱第三巡察，原东四区驭诡者小队队长，善于心理操控和伪装，拥有白纸鬼蜮。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方乾拉开车门，跨出了车子",
-        "护栏前早已有三个人在等候，他们见到方乾从车上下来，都聚集了过来",
-        "”　　三人对方乾的称呼，并非如普通下级那般称之为巡察，而是称呼他作‘队长’"
+      "personality": [
+        "温和",
+        "阴险",
+        "善于操控"
       ],
-      "mention_count": 55
+      "abilities": [
+        "白纸鬼蜮",
+        "绘画伪装"
+      ],
+      "equipment": [
+        "画板",
+        "油画颜料"
+      ],
+      "relationships": [
+        {
+          "target": "云霓裳",
+          "type": "审讯者"
+        },
+        {
+          "target": "李东星",
+          "type": "前下属"
+        },
+        {
+          "target": "许进",
+          "type": "前下属"
+        },
+        {
+          "target": "方元",
+          "type": "弟弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在铁塔山诡狱审讯云霓裳，并计划用许进伪装云霓裳，让云霓裳伪装许进去监视苏午。"
+        }
+      ],
+      "evidence": [
+        "方乾拉开车门，跨出了车子。",
+        "方乾笑着看向圆脸青年，拍了拍他的肩膀，当先朝围栏里的铁塔走去",
+        "方乾周身忽然涌起阴冷的诡韵，一层白纸从他脚下呈现，以他为中心，向着周围铺开，瞬间就将云霓裳也带入了这‘白纸鬼蜮’当中！"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "苏午",
-      "aliases": [],
-      "identity": "",
+      "name": "云霓裳",
+      "aliases": [
+        "云女士"
+      ],
+      "identity": "驭诡者，被诡狱关押的囚犯",
+      "faction": "",
+      "status": "被关押",
+      "first_appearance": "第120章 一碗泡面",
+      "summary": "被诡狱关押的女驭诡者，因与苏午有交集而被审讯，最终选择伪装成许进去监视苏午。",
+      "appearance": [
+        "长发",
+        "苍白面孔",
+        "精致五官"
+      ],
+      "personality": [
+        "有底线",
+        "讲良心",
+        "天真",
+        "倔强"
+      ],
+      "abilities": [],
+      "equipment": [
+        "锁链"
+      ],
+      "relationships": [
+        {
+          "target": "方乾",
+          "type": "审讯者"
+        },
+        {
+          "target": "苏午",
+          "type": "被监视对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在铁塔山诡狱接受方乾审讯，最终同意伪装成许进去监视苏午。"
+        }
+      ],
+      "evidence": [
+        "长发女子双手拴缚着漂浮神秘铭文的锁链，静静站立。",
+        "云霓裳面无表情，根本不开口回应方乾的言语。",
+        "云霓裳听说方乾称‘现在已有人锁定苏午居住地’，眼神颤抖，神色里难掩歉疚。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "李东星",
+      "aliases": [
+        "东星"
+      ],
+      "identity": "原东四区驭诡者小队成员",
       "faction": "",
       "status": "登场",
       "first_appearance": "第120章 一碗泡面",
-      "summary": "其三，他们称你包庇罪犯，不肯透露外界驭诡者‘苏午’的具体信息",
-      "appearance": [],
+      "summary": "方乾的前下属，圆脸青年，对方乾态度复杂。",
+      "appearance": [
+        "圆脸"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其三，他们称你包庇罪犯，不肯透露外界驭诡者‘苏午’的具体信息",
-        "“现在已经有人锁定了‘苏午’当下具体居住地，开始派人前往其居住地，对此人严密监视了",
-        "”方乾盯着云霓裳，轻声道，“那个苏午究竟有什么，让你即使到现在这种情况，也不愿透露他的丝毫消息"
+      "relationships": [
+        {
+          "target": "方乾",
+          "type": "前队长"
+        }
       ],
-      "mention_count": 22
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在铁塔山景区公园等候方乾，并告知崔勋已送人过来。"
+        }
+      ],
+      "evidence": [
+        "站在方乾正对面的圆脸青年，看着方乾的眼神有些复杂。",
+        "李东星低沉应声，“就在诡狱的看守区。她的情况不太好。”"
+      ],
+      "mention_count": 4
     },
     {
       "name": "许进",
       "aliases": [],
-      "identity": "",
+      "identity": "原驭诡者，现被关押在诡狱",
       "faction": "",
-      "status": "登场",
+      "status": "被关押",
       "first_appearance": "第120章 一碗泡面",
-      "summary": "我把许进带出来，帮你完成伪装",
-      "appearance": [],
-      "personality": [],
+      "summary": "方乾的前下属，因背叛和犯罪倾向被方乾关押，后被方乾用来伪装成云霓裳。",
+      "appearance": [
+        "长相随意"
+      ],
+      "personality": [
+        "狰狞",
+        "阴狠",
+        "恐惧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我把许进带出来，帮你完成伪装",
-        "“许进",
-        "方才还满脸狰狞之色，连连出口恶毒咒骂的许进，听到方乾的声音，猛然打了个哆嗦"
+      "relationships": [
+        {
+          "target": "方乾",
+          "type": "前队长"
+        },
+        {
+          "target": "肖巡察",
+          "type": "投靠对象"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被方乾从白纸鬼蜮中带出，并被伪装成云霓裳的模样。"
+        }
+      ],
+      "evidence": [
+        "那副十字架瞬间被无形的力量拖动着，被带到了方乾的近前。",
+        "许进眼神惊恐，“那我去哪里？”",
+        "面膜似的纸张轻轻贴附在许进的面孔上"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "云霓裳",
+      "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者，被监视对象",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第120章 一碗泡面",
-      "summary": "”　　“她就是崔勋送来的云霓裳",
+      "summary": "被诡狱和惩戒组锁定的驭诡者，拥有尸陀鬼之手和龙形能力，正在家中修炼。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“她就是崔勋送来的云霓裳",
-        "她就是云霓裳",
-        "”　　方乾摇了摇头，指着云霓裳道：“给她一把椅子，让她坐着说话"
+      "abilities": [
+        "尸陀鬼之手",
+        "龙形",
+        "龙息"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "云霓",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第120章 一碗泡面",
-      "summary": "”　　“她就是崔勋送来的云霓裳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“她就是崔勋送来的云霓裳",
-        "她就是云霓裳",
-        "”　　方乾摇了摇头，指着云霓裳道：“给她一把椅子，让她坐着说话"
+      "equipment": [
+        "保险箱",
+        "铅笔画"
       ],
-      "mention_count": 9
+      "relationships": [
+        {
+          "target": "云霓裳",
+          "type": "被其保护的对象"
+        },
+        {
+          "target": "申豪",
+          "type": "发小"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在混沌虚空修炼后，与发小申豪出门吃饭，途中去彩票店买彩票。"
+        }
+      ],
+      "evidence": [
+        "苏午的意识徐徐回归。",
+        "苏午将墙上的铅笔画卷起，收进一个保险箱内。",
+        "苏午的‘意’勾动着尸陀鬼之手"
+      ],
+      "mention_count": 10
     },
     {
       "name": "申豪",
       "aliases": [],
-      "identity": "",
+      "identity": "苏午的发小",
       "faction": "",
       "status": "登场",
       "first_appearance": "第120章 一碗泡面",
-      "summary": "透过门口的猫眼，苏午看到申豪在外面站着",
+      "summary": "苏午的发小，邀请苏午去吃酱大骨。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "透过门口的猫眼，苏午看到申豪在外面站着",
-        "”　　申豪手里拿着车钥匙，看到门口的苏午，就要拉他出门去——苏午应了一声，返身锁上门，跟着申豪乘电梯到楼下",
-        "申豪把车开过来，也跟着苏午走进店内"
+      "equipment": [
+        "车钥匙"
       ],
-      "mention_count": 8
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "发小"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "邀请苏午去吃酱大骨，并一同前往彩票店。"
+        }
+      ],
+      "evidence": [
+        "申豪手里拿着车钥匙，看到门口的苏午，就要拉他出门去",
+        "申豪把车开过来，也跟着苏午走进店内。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第120章 一碗泡面",
-      "summary": "护栏前早已有三个人在等候，他们见到方乾从车上下来，都聚集了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "护栏前早已有三个人在等候，他们见到方乾从车上下来，都聚集了过来",
-        "他们连忙收起了手机，匆匆起身，向方乾打着招呼：“巡察",
-        "”方乾并不在意这俩人的工作态度，他们能在与动辄就显出种种疯狂可怖之相的囚犯长期接触中，仍然保持良好的心态，还有上班摸鱼的心情，已经非常不错了"
+      "name": "彩票店老板",
+      "aliases": [
+        "老板"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "李东星",
-      "aliases": [],
-      "identity": "",
+      "identity": "彩票店店主",
       "faction": "",
       "status": "登场",
       "first_appearance": "第120章 一碗泡面",
-      "summary": "”李东星低沉应声，“就在诡狱的看守区",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”李东星低沉应声，“就在诡狱的看守区",
-        "李东星站在入口三步外，忍不住问了句：“你要怎么处置她",
-        "李东星站在铁塔外，神色很明显地放松了许多"
+      "summary": "彩票店老板，文质彬彬，身材瘦削，正在吃泡面。",
+      "appearance": [
+        "文质彬彬",
+        "身材瘦削"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "神色",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第120章 一碗泡面",
-      "summary": "李东星站在铁塔外，神色很明显地放松了许多",
-      "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李东星站在铁塔外，神色很明显地放松了许多",
-        "”　　云霓裳听说方乾称‘现在已有人锁定苏午居住地’，眼神颤抖，神色里难掩歉疚",
-        "”　　看着云霓裳的神色，方乾忽地恍然大悟般道：“其实你也知道，自己坚持不肯透露苏午的信息，并不能让他免于被找到"
+      "equipment": [
+        "电热水壶",
+        "泡面碗"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第120章 一碗泡面",
-      "summary": "只是大半年前，因为有几个游客在山中失踪，后又有了铁塔之中闹鬼的传闻",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是大半年前，因为有几个游客在山中失踪，后又有了铁塔之中闹鬼的传闻",
-        "只是，自从方乾被吸纳入诡狱上层后，似乎就与曾经的战友有了隔阂",
-        "”　　“现在只是查问阶段，还没到要处置她的时候"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在彩票店为苏午打彩票，后因隔间声响去查看妻子。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "已经",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第120章 一碗泡面",
-      "summary": "如今，景区内的各种设施因为疏于管理保养的援护，已经越发老旧，穿梭群山的索道被撤下，莽莽林木占据了原本的游客休息区，看不出有丝毫设施升级的迹象",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "如今，景区内的各种设施因为疏于管理保养的援护，已经越发老旧，穿梭群山的索道被撤下，莽莽林木占据了原本的游客休息区，看不出有丝毫设施升级的迹象",
-        "”方乾并不在意这俩人的工作态度，他们能在与动辄就显出种种疯狂可怖之相的囚犯长期接触中，仍然保持良好的心态，还有上班摸鱼的心情，已经非常不错了",
-        "“现在已经有人锁定了‘苏午’当下具体居住地，开始派人前往其居住地，对此人严密监视了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第120章 一碗泡面",
-      "summary": "旁侧的墙角里，还有一个长发女子双手拴缚着漂浮神秘铭文的锁链，静静站立",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "旁侧的墙角里，还有一个长发女子双手拴缚着漂浮神秘铭文的锁链，静静站立",
-        "”方乾并不在意这俩人的工作态度，他们能在与动辄就显出种种疯狂可怖之相的囚犯长期接触中，仍然保持良好的心态，还有上班摸鱼的心情，已经非常不错了",
-        "只是你做人还有那么一点天真，　　成了驭诡者，还想要讲底线，讲良心"
+        "看起来文质彬彬，身材瘦削的店老板提着个电热水壶",
+        "店老板将彩票叠好，交给苏午",
+        "店老板连忙起身，绕出柜台，奔向了隔间。"
       ],
       "mention_count": 5
     }

@@ -1,253 +1,238 @@
 {
   "chunk_id": "chunk-0112",
-  "title": "第111章 伥",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "那些铭文与苏午曾经在思维里‘看’到过的、组成‘解龙环’锁链的漆黑铭文分外相似",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那些铭文与苏午曾经在思维里‘看’到过的、组成‘解龙环’锁链的漆黑铭文分外相似",
-        "苏午在想到利用诡狱的锁链缠绕神像，试图将神像拖拽走的方案后，就在模拟里进行了一次尝试",
-        "模拟里，　　苏午抓住了诡狱的锁链"
+      "first_appearance": "",
+      "summary": "沉默寡言、清秀周正的驭诡者，行事果断狠辣，利用诡狱锁链拖拽神像，并收服沈愿愿为伥尸。",
+      "appearance": [
+        "清秀周正"
       ],
-      "mention_count": 29
+      "personality": [
+        "沉默寡言",
+        "冷静",
+        "果断",
+        "狠辣",
+        "疯子"
+      ],
+      "abilities": [
+        "驭诡",
+        "观想解龙环铭文",
+        "使用鬼手（尸陀鬼之手）",
+        "暴食之口"
+      ],
+      "equipment": [
+        "诡狱锁链",
+        "心诡纸页",
+        "木盒",
+        "背包"
+      ],
+      "relationships": [
+        {
+          "target": "沈愿愿",
+          "type": "控制者"
+        },
+        {
+          "target": "肖锦荣",
+          "type": "杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抓住诡狱锁链，拖拽元始天尊神像，迫使沈愿愿在心诡纸页上按手印，将其转化为伥尸。"
+        }
+      ],
+      "evidence": [
+        "苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链！",
+        "他把肖锦荣丢到井里，就是为了‘杀鸡给猴看’！",
+        "苏午将心诡纸页对着僵立在原地的‘沈愿愿’，她就化作一股血流冲入纸页中，消失无踪。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "沈愿愿",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者（原），后转化为伥尸",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "现实中——　　在沈愿愿的注视下，苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链",
+      "status": "转化为伥尸",
+      "first_appearance": "",
+      "summary": "原为驭诡者，被苏午胁迫在心诡纸页上按手印，转化为伥尸，其体内的血婴被心诡吞噬。",
+      "appearance": [
+        "干瘪",
+        "肤色惨白",
+        "眼神呆滞"
+      ],
+      "personality": [
+        "恐惧",
+        "求生欲强"
+      ],
+      "abilities": [
+        "驭诡（原）",
+        "阴影之蟒（原）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被控制"
+        },
+        {
+          "target": "肖锦荣",
+          "type": "同被苏午控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午胁迫按手印，转化为伥尸，血婴被心诡吞噬。"
+        }
+      ],
+      "evidence": [
+        "沈愿愿看到苏午一把抓住诡狱延伸出的锁链，反应简直比看到肖锦荣惨死还激烈！",
+        "她眼神瑟缩着，手臂颤抖着，在苏午的注视下，于暗红纸张上暗下了手印",
+        "她的躯体内涌出大量的尸水，散发着强烈腐败味道的尸水浇灌进了心诡纸页当中！"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "肖锦荣",
+      "aliases": [],
+      "identity": "驭诡者（已死）",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被苏午丢入深井中杀害，作为杀鸡儆猴的牺牲品。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现实中——　　在沈愿愿的注视下，苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链",
-        "”　　沈愿愿看到苏午一把抓住诡狱延伸出的锁链，反应简直比看到肖锦荣惨死还激烈",
-        "苏午一个操作不当，　　他自己死也就罢了，　　也会连累沈愿愿跟着去死"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被杀害"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午丢入井中惨死。"
+        }
+      ],
+      "evidence": [
+        "肖锦荣惨死",
+        "他把肖锦荣丢到井里，就是为了‘杀鸡给猴看’！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "血婴",
+      "aliases": [],
+      "identity": "伥鬼",
+      "faction": "",
+      "status": "被心诡吞噬",
+      "first_appearance": "",
+      "summary": "沈愿愿体内的血婴，被心诡纸页中的血河诡韵拖拽吞噬。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈愿愿",
+          "type": "寄生于其体内"
+        },
+        {
+          "target": "心诡",
+          "type": "被吞噬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被心诡纸页吞噬，发出惨叫声。"
+        }
+      ],
+      "evidence": [
+        "她腹部裂开，被她身体容纳的那只血婴则被血河诡韵拴缚着，拖进了心诡纸页当中。",
+        "其中不时传出婴儿咿呀咿呀的惨叫声"
+      ],
+      "mention_count": 3
     },
     {
       "name": "心诡",
       "aliases": [],
-      "identity": "",
+      "identity": "诡",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "苏午将承载‘心诡’的纸页托到阴影蟒蛇控制下的沈愿愿面前，漠然开口：“在这上面按个手印",
+      "status": "活跃",
+      "first_appearance": "",
+      "summary": "寄宿于暗红纸页中的诡，要求苏午为其带来五个伥尸，会给予奖赏但会导致伥尸化。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午将承载‘心诡’的纸页托到阴影蟒蛇控制下的沈愿愿面前，漠然开口：“在这上面按个手印",
-        "阴影蟒蛇松开了沈愿愿的身躯——她的躯体内涌出大量的尸水，散发着强烈腐败味道的尸水浇灌进了心诡纸页当中",
-        "心诡诡韵让她的躯体重又变得充实，　　肤色惨白，　　眼神呆滞，彻底被转化作了伥尸"
+      "abilities": [
+        "转化伥尸",
+        "诡韵灌输"
       ],
-      "mention_count": 7
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "契约者"
+        },
+        {
+          "target": "沈愿愿",
+          "type": "转化为伥尸"
+        },
+        {
+          "target": "血婴",
+          "type": "吞噬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受沈愿愿和血婴作为伥尸，纸页数字变为3。"
+        }
+      ],
+      "evidence": [
+        "心诡要求苏午为它带来五个伥尸",
+        "纸页上，一行行蛇虫文字的最末尾，显出一个淡白色的数字‘3’。",
+        "其上忽然涌出一股诡韵集聚的血流，向着他的鼻孔灌输而来！"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "纸页",
+      "name": "元始天尊",
       "aliases": [],
-      "identity": "",
+      "identity": "神像",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "暗红纸页一经拿出，就有种让人毛骨悚然的诡韵流转",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "暗红纸页一经拿出，就有种让人毛骨悚然的诡韵流转",
-        "苏午将承载‘心诡’的纸页托到阴影蟒蛇控制下的沈愿愿面前，漠然开口：“在这上面按个手印",
-        "阴影蟒蛇松开了沈愿愿的身躯——她的躯体内涌出大量的尸水，散发着强烈腐败味道的尸水浇灌进了心诡纸页当中"
+      "status": "被拖拽",
+      "first_appearance": "",
+      "summary": "道观中的神像，被苏午用诡狱锁链拖拽出正殿，用于焚烧诡韵。",
+      "appearance": [
+        "金红火光"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "一把",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "现实中——　　在沈愿愿的注视下，苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "激发火光"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午用锁链拖拽出正殿，沿路焚烧诡韵。"
+        }
+      ],
       "evidence": [
-        "现实中——　　在沈愿愿的注视下，苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链",
-        "”　　沈愿愿看到苏午一把抓住诡狱延伸出的锁链，反应简直比看到肖锦荣惨死还激烈",
-        "他也不在乎诡狱是什么东西，看着它伸出井口，一把就将锁链攥住了"
+        "元始天尊神像不断激发着熊熊火光",
+        "苏午用锁链拽着神像，将之拽到了老槐树下的井口旁。"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "沈愿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "现实中——　　在沈愿愿的注视下，苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现实中——　　在沈愿愿的注视下，苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链",
-        "”　　沈愿愿看到苏午一把抓住诡狱延伸出的锁链，反应简直比看到肖锦荣惨死还激烈",
-        "苏午一个操作不当，　　他自己死也就罢了，　　也会连累沈愿愿跟着去死"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "看起",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "眼前这个人，　　这个沉默寡言，看起来清秀周正的驭诡者，内在里其实是个彻头彻尾的疯子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "眼前这个人，　　这个沉默寡言，看起来清秀周正的驭诡者，内在里其实是个彻头彻尾的疯子",
-        "它包裹着苏午站在原地，看起来与之前一样，没有丝毫变化"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "一手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "他一手拽锁链，一手拿下背后的背包，一手拉开锁链，从中取出了一个木盒",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他一手拽锁链，一手拿下背后的背包，一手拉开锁链，从中取出了一个木盒"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "可阴影之蟒依旧缠缚着她，让她根本脱身不得，若是当下城门失火，那她就是被殃及的那条池鱼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可阴影之蟒依旧缠缚着她，让她根本脱身不得，若是当下城门失火，那她就是被殃及的那条池鱼",
-        "他根本不在乎肖锦荣背后站着谁，说把对方丢到井里杀掉就杀掉了",
-        "自己与肖锦荣对他而言，根本就是两个可以随意拿捏的禽畜罢了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "血河",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "所以，她眼神瑟缩着，手臂颤抖着，在苏午的注视下，于暗红纸张上暗下了手印，　　按下手印的瞬间，她看到暗红纸张变作了一条血河，血河中到处都是一个个蠕动的人形，　　一张人面从血河中央浮现了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所以，她眼神瑟缩着，手臂颤抖着，在苏午的注视下，于暗红纸张上暗下了手印，　　按下手印的瞬间，她看到暗红纸张变作了一条血河，血河中到处都是一个个蠕动的人形，　　一张人面从血河中央浮现了出来",
-        "如是，　　血河里一个个蠕动的人形翻转、挣扎着，从河中朝沈愿愿伸出了手",
-        "与此同时，纸页内也漫溢出让人不寒而栗的诡韵，在半空中显化为一条条血河，顺着身躯干瘪的沈愿愿的眼耳口鼻灌进了她的身体内"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "她眼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "她眼前都出现了苏午被锁链直接缠绕住，绞碎成血泥的幻觉，她以为自己也要死了——　　这种强烈的刺激下，她都忍不住夹紧了双腿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她眼前都出现了苏午被锁链直接缠绕住，绞碎成血泥的幻觉，她以为自己也要死了——　　这种强烈的刺激下，她都忍不住夹紧了双腿",
-        "所以，她眼神瑟缩着，手臂颤抖着，在苏午的注视下，于暗红纸张上暗下了手印，　　按下手印的瞬间，她看到暗红纸张变作了一条血河，血河中到处都是一个个蠕动的人形，　　一张人面从血河中央浮现了出来"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "但现实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第111章 伥",
-      "summary": "但现实里，其实什么都没发生",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但现实里，其实什么都没发生",
-        "但现实里，苏午早有预防，提前把暴食之口升级到蓝色品质，鬼手吞吃心诡诡韵以后，粘稠的阴影一阵蠕动，就将那份浓烈的诡韵完全吸收"
-      ],
-      "mention_count": 4
     }
   ]
 }

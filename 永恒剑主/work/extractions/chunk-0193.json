@@ -1,182 +1,329 @@
 {
   "chunk_id": "chunk-0193",
-  "title": "第一百九十一章 驻扎（上）",
   "characters": [
     {
-      "name": "林新",
-      "aliases": [],
-      "identity": "",
+      "name": "费朵拉",
+      "aliases": [
+        "黑衣女子",
+        "姐姐"
+      ],
+      "identity": "虫师",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "”一男子在屋外听到声响，赶紧冲进来，男子身材健壮，持着上半身，手里提着一把巨剑，居然是才和林新见过面的东月",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”一男子在屋外听到声响，赶紧冲进来，男子身材健壮，持着上半身，手里提着一把巨剑，居然是才和林新见过面的东月",
-        "”林新大哥的话还在他耳边缓缓回荡",
-        "出了门，给女子弄了些蘑菇汤，借口出去逛逛，便直接奔着林新等人所在队伍方向追去"
+      "summary": "一名虫师，为月儿熬制万魂水，被仙门中人欺伤重，与弟弟有冲突。",
+      "appearance": [
+        "黑衣"
       ],
-      "mention_count": 25
+      "personality": [
+        "尖锐戾气",
+        "狠厉"
+      ],
+      "abilities": [
+        "制作万魂水",
+        "操控虫人"
+      ],
+      "equipment": [
+        "黑玉瓶",
+        "镜子"
+      ],
+      "relationships": [
+        {
+          "target": "月儿",
+          "type": "为月儿熬制万魂水"
+        },
+        {
+          "target": "弟弟",
+          "type": "姐弟"
+        },
+        {
+          "target": "母上",
+          "type": "母女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "派遣虫人刺杀花玉奴、独孤霖、苏婉三人"
+        }
+      ],
+      "evidence": [
+        "一黑衣女子怒声狠狠一掌拍在面前镜子上。",
+        "女子视线尤为在花玉奴身上和独孤霖苏婉身上。",
+        "去给我杀了那三人。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "女子",
+      "name": "虫人",
       "aliases": [],
-      "identity": "",
+      "identity": "费朵拉制造的生物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "一黑衣女子怒声狠狠一掌拍在面前镜子上",
-      "appearance": [],
+      "summary": "由黄色蛔虫凝聚而成的人形，受费朵拉命令去刺杀三人。",
+      "appearance": [
+        "五米多高",
+        "光头",
+        "全身蠕动的黏液蛔虫"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一黑衣女子怒声狠狠一掌拍在面前镜子上",
-        "无数碎片滚落，女子胸膛剧烈起伏",
-        "女子视线尤为在花玉奴身上和独孤霖苏婉身上"
+      "relationships": [
+        {
+          "target": "费朵拉",
+          "type": "主人"
+        }
       ],
-      "mention_count": 21
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被费朵拉派遣去刺杀三人"
+        }
+      ],
+      "evidence": [
+        "人形没有五官，脸上身上全部都是不断蠕动的黏液蛔虫。",
+        "虫人五米多的身高微微弯曲，向着只到他大腿的女子行了一礼。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "弟弟",
+      "aliases": [
+        "男子"
+      ],
+      "identity": "费朵拉的弟弟，虫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 驻扎（上）",
+      "summary": "费朵拉的弟弟，奉母上之命来找姐姐回去，与费朵拉有冲突。",
+      "appearance": [
+        "浑身沾满黄色脓水",
+        "赤身"
+      ],
+      "personality": [
+        "妖异阴冷"
+      ],
+      "abilities": [
+        "吐出触手吞噬"
+      ],
+      "equipment": [
+        "巨大黑甲虫"
+      ],
+      "relationships": [
+        {
+          "target": "费朵拉",
+          "type": "姐弟"
+        },
+        {
+          "target": "母上",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现并攻击费朵拉，吞噬其分身"
+        }
+      ],
+      "evidence": [
+        "我只是来看看我最亲爱的姐姐啊。",
+        "男子张口一吐。一根灰黄色巨大触手从其口中飞出"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "静儿",
+      "aliases": [
+        "女子"
+      ],
+      "identity": "虫师，东月的恋人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百九十一章 驻扎（上）",
+      "summary": "东月的恋人，虫师，为东月熬制药水，后颈有白色蝴蝶纹身。",
+      "appearance": [
+        "布衣",
+        "清冷秀美"
+      ],
+      "personality": [
+        "温柔"
+      ],
+      "abilities": [
+        "熬制药水"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "东月",
+          "type": "恋人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因分身被弟弟吞噬而受伤"
+        }
+      ],
+      "evidence": [
+        "一名布衣女子猛地面色一白，捂住嘴，一丝丝鲜血从嘴角溢出。",
+        "因为，我喜欢你啊……"
+      ],
+      "mention_count": 6
     },
     {
       "name": "东月",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "”一男子在屋外听到声响，赶紧冲进来，男子身材健壮，持着上半身，手里提着一把巨剑，居然是才和林新见过面的东月",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”一男子在屋外听到声响，赶紧冲进来，男子身材健壮，持着上半身，手里提着一把巨剑，居然是才和林新见过面的东月",
-        "东月一脸紧张的冲过去，抱住女子",
-        "”东月焦急道"
+      "aliases": [
+        "月儿"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "男子",
-      "aliases": [],
-      "identity": "",
+      "identity": "修士，林新认识的人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "”　　忽然一个妖娆的男子声音从黑暗中传出",
-      "appearance": [],
-      "personality": [],
+      "summary": "与林新见过面的健壮男子，与虫师静儿相恋，内心矛盾。",
+      "appearance": [
+        "身材健壮",
+        "持着上半身",
+        "手提巨剑"
+      ],
+      "personality": [
+        "感动",
+        "心乱如麻"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "巨剑"
+      ],
+      "relationships": [
+        {
+          "target": "静儿",
+          "type": "恋人"
+        },
+        {
+          "target": "林新",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现静儿受伤，内心纠结后去找林新"
+        }
+      ],
       "evidence": [
-        "”　　忽然一个妖娆的男子声音从黑暗中传出",
-        "那里面居然站着一个人，一个浑身沾满黄色脓水，看不清楚面目的赤身男子",
-        "透过脓水，还能看到男子妖异阴冷的微微笑意"
+        "东月一脸紧张的冲过去，抱住女子。",
+        "东月此时心头一片乱糟糟。"
       ],
       "mention_count": 8
     },
     {
-      "name": "哗啦",
+      "name": "林新",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "一人多高的落地镜内，小飞象和修士们厮杀的景象顿时破碎，哗啦一下散裂在地",
+      "summary": "修士，骑小飞象探查巨树，发现巨树汁液有毒。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "剑气"
+      ],
+      "equipment": [
+        "灵光盾护罩"
+      ],
+      "relationships": [
+        {
+          "target": "东月",
+          "type": "认识"
+        },
+        {
+          "target": "林罗",
+          "type": "师徒"
+        },
+        {
+          "target": "独孤霖",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "骑小飞象探查巨树，发现汁液有毒"
+        }
+      ],
       "evidence": [
-        "一人多高的落地镜内，小飞象和修士们厮杀的景象顿时破碎，哗啦一下散裂在地",
-        "为了一个人类，不惜自己耗损修为也要制作这么多万魂水……”　　话音未落，女子周围身影垮掉，哗啦一下让融化为一摊液体，砸落在地面，并迅速朝地下渗透去"
+        "林新骑着小飞象不断往上攀飞",
+        "这巨树的汁液，有毒，而且很烈。"
       ],
       "mention_count": 6
     },
     {
-      "name": "母上",
+      "name": "花玉奴",
       "aliases": [],
-      "identity": "",
+      "identity": "修士，领队",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "”女子猛地转身，“母上大人不是让你去霍州了么",
+      "summary": "带领众人探查巨树的修士，被费朵拉视为目标。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”女子猛地转身，“母上大人不是让你去霍州了么",
-        "“你为了一个人类忍气吞声，缩在这里，分身也被西乙洞的人杀了两个，母上早有不满",
-        "“不可能，母上陷身绝影分光阵，不可能传出消息来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领众人落下树枝，安排阵符修士"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "静儿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "静儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "静儿",
-        "“静儿，你怎么了",
-        "“静儿，不要太累了自己，我这里没事的，一天两天不用药水也没关系"
+        "前面花玉奴一个纵身跳下",
+        "花玉奴等到所有人都全部落下后，将众人聚在一起。"
       ],
-      "mention_count": 6
+      "mention_count": 3
     },
     {
       "name": "独孤霖",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "女子视线尤为在花玉奴身上和独孤霖苏婉身上",
+      "summary": "修士，与林新同行，被费朵拉视为目标。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "女子视线尤为在花玉奴身上和独孤霖苏婉身上",
-        "独孤霖从侧面走过来",
-        "”　　林新站在独孤霖身侧，听着这些人不断询问花玉奴各种问题"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同行"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新交谈，提醒他注意保护自己"
+        }
+      ],
+      "evidence": [
+        "独孤霖从侧面走过来。",
+        "你注意保护自己，跟在我身后"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "无数",
+      "name": "苏婉",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "第一百九十一章 驻扎（上）　　无数小飞象相互厮杀起来，血水断鼻不断掉落，腥味刚刚飘散便被狂风吹开",
+      "summary": "被费朵拉视为目标的修士之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -184,74 +331,38 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "第一百九十一章 驻扎（上）　　无数小飞象相互厮杀起来，血水断鼻不断掉落，腥味刚刚飘散便被狂风吹开",
-        "无数碎片滚落，女子胸膛剧烈起伏",
-        "“仙门中人，欺我伤重……”　　女子伸手在虚空一抓，周围黑暗中，无数黑气飞速凝聚过来，气息旋转，化为一个小巧黑玉瓶"
+        "女子视线尤为在花玉奴身上和独孤霖苏婉身上。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "小飞象",
+      "name": "林罗",
       "aliases": [],
-      "identity": "",
+      "identity": "林新的弟子",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "第一百九十一章 驻扎（上）　　无数小飞象相互厮杀起来，血水断鼻不断掉落，腥味刚刚飘散便被狂风吹开",
+      "summary": "林新的弟子，向林新报告有人掉下去。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百九十一章 驻扎（上）　　无数小飞象相互厮杀起来，血水断鼻不断掉落，腥味刚刚飘散便被狂风吹开",
-        "一人多高的落地镜内，小飞象和修士们厮杀的景象顿时破碎，哗啦一下散裂在地",
-        "林新骑着小飞象不断往上攀飞，狂风肆掠，他周身支撑起灵光盾护罩，将护罩化为扁平型，气流从侧面吹来，正好大幅度减少阻挡面积"
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "轻轻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "女子轻轻将黑玉瓶往地上一抛",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "女子轻轻将黑玉瓶往地上一抛",
-        "”女子温柔地回道，她伸出手轻轻抚摸东月脸颊",
-        "他操纵小飞象飞到花玉奴等人所在的树枝上方，轻轻一跃，从上班跳下来，稳稳落在树枝上"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林新传音报告有人掉下去"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "里面",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十一章 驻扎（上）",
-      "summary": "镜面亮起，这一次里面显现的是最上方一群筑基修士的景象",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "镜面亮起，这一次里面显现的是最上方一群筑基修士的景象",
-        "瓶子破碎，里面顿时涌出大量淡黄色黏糊糊的虫子，那是如同蛔虫一样的长条形，剧烈扭曲翻滚着，朝着四周爬行离开",
-        "那里面居然站着一个人，一个浑身沾满黄色脓水，看不清楚面目的赤身男子"
+        "老师……有两人掉下去了……"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

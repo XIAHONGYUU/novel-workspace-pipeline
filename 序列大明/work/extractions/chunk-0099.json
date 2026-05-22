@@ -1,246 +1,268 @@
 {
   "chunk_id": "chunk-0099",
-  "title": "第98章利诱",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "蜀道物流安保部部长",
+      "faction": "蜀道物流",
       "status": "登场",
       "first_appearance": "第98章利诱",
-      "summary": "”　　李钧眼角不住抽动，“你是怎么评估的，没搞错吧",
+      "summary": "蜀道物流安保部部长，性格冷静果断，对顾邕的算计感到愤怒，正在调查集团内部问题。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　李钧眼角不住抽动，“你是怎么评估的，没搞错吧",
-        "”　　李钧将那本安保部账目信息的电子卷宗递给齐珠，看着她用尽全身力气将其砸成一地碎片",
-        "李钧说完这句话，就看见女人双手叠在腰间行了个万福礼，一直面对着自己碎步向后退去"
+      "personality": [
+        "冷静",
+        "果断",
+        "匪气",
+        "洞若观火"
       ],
-      "mention_count": 22
+      "abilities": [],
+      "equipment": [
+        "外置通讯终端",
+        "息蜻郎"
+      ],
+      "relationships": [
+        {
+          "target": "齐珠",
+          "type": "上下级"
+        },
+        {
+          "target": "顾邕",
+          "type": "敌对"
+        },
+        {
+          "target": "钱仲骁",
+          "type": "同事/潜在敌对"
+        },
+        {
+          "target": "乌鸦华",
+          "type": "熟人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在办公室与齐珠谈话，安排调查任务，之后前往乌鸦诊所。"
+        }
+      ],
+      "evidence": [
+        "李钧将那本安保部账目信息的电子卷宗递给齐珠",
+        "李钧已经很久没有去过乌鸦诊所",
+        "李钧不是笨蛋，自然已经猜到了爷孙俩的身份恐怕并不简单"
+      ],
+      "mention_count": 20
     },
     {
       "name": "齐珠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "李钧的秘书",
+      "faction": "蜀道物流",
       "status": "登场",
       "first_appearance": "第98章利诱",
-      "summary": "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住",
-      "appearance": [],
-      "personality": [],
+      "summary": "李钧的秘书，性格坚韧，因背叛顾家而恐惧，但为了家人选择继续为李钧做事。",
+      "appearance": [
+        "面容枯槁",
+        "眼中带着往日的犀利干练"
+      ],
+      "personality": [
+        "强韧心性",
+        "凌厉果决",
+        "恐惧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住",
-        "”　　李钧将那本安保部账目信息的电子卷宗递给齐珠，看着她用尽全身力气将其砸成一地碎片",
-        "”　　齐珠声音十分平静，却带着十足的自信"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "上下级"
+        },
+        {
+          "target": "顾邕",
+          "type": "前主家/背叛"
+        },
+        {
+          "target": "顾甲",
+          "type": "前主家"
+        },
+        {
+          "target": "钱仲骁",
+          "type": "同事/敌对"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧汇报，接受调查任务，离开办公室时与钱仲骁交锋。"
+        }
+      ],
+      "evidence": [
+        "齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面",
+        "齐珠此时的面容虽然还是一片枯槁，但眼中之中已经带上了几分往日的犀利干练",
+        "在她选择说出顾邕和顾甲的谋算后，女人已经选择背叛了蜀道物流"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "齐珠这",
+      "name": "钱仲骁",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "蜀道物流主管",
+      "faction": "蜀道物流",
       "status": "登场",
       "first_appearance": "第98章利诱",
-      "summary": "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住",
+      "summary": "蜀道物流主管，与李钧有矛盾，暗中观察齐珠，被李钧视为碍事之人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谄媚",
+        "不屑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同事/敌对"
+        },
+        {
+          "target": "齐珠",
+          "type": "同事/敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在九楼栏杆边眺望，对齐珠嗤笑。"
+        }
+      ],
       "evidence": [
-        "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住",
-        "等做完了这一切，齐珠这才在李钧错愕的眼神中推门而出，两腿颤栗，一步三摇晃",
-        "”　　等站到办公室门边，齐珠这才站直身子，仔仔细细擦干净手上的鲜血和脸上的泪痕，突然抬手扇了自己两耳光"
+        "当齐珠贴着墙壁慢慢挪出部长办公室，已经在九楼栏杆边眺望了很久的钱仲骁才终于收回眼神",
+        "钱仲骁没有注意到，在他转身之后，齐珠欲气一片的眼眸中突然爆发出彻骨的恨意"
       ],
       "mention_count": 5
     },
     {
-      "name": "但眼",
+      "name": "顾邕",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "蜀道物流高层",
+      "faction": "蜀道物流",
+      "status": "提及",
       "first_appearance": "第98章利诱",
-      "summary": "”　　齐珠此时的面容虽然还是一片枯槁，但眼中之中已经带上了几分往日的犀利干练",
+      "summary": "蜀道物流高层，被李钧指责为精打细算、过河拆桥之人。",
+      "appearance": [],
+      "personality": [
+        "精打细算"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "齐珠",
+          "type": "前主家"
+        },
+        {
+          "target": "顾甲",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "顾邕，你可真是够精打细算啊。",
+        "在她选择说出顾邕和顾甲的谋算后"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "顾甲",
+      "aliases": [],
+      "identity": "顾邕的部下",
+      "faction": "蜀道物流",
+      "status": "提及",
+      "first_appearance": "第98章利诱",
+      "summary": "顾邕的部下，被齐珠提及。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "顾邕",
+          "type": "上下级"
+        },
+        {
+          "target": "齐珠",
+          "type": "前同事"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　齐珠此时的面容虽然还是一片枯槁，但眼中之中已经带上了几分往日的犀利干练",
-        "虽然顾邕同样让她恐惧，但眼前这个看似鲁莽无智，实则一身匪焰，将一切洞若观火的男人更让她惧怕"
+        "怪不得顾甲会如此倚重这个女人"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
       "name": "乌鸦华",
       "aliases": [],
-      "identity": "",
+      "identity": "乌鸦诊所医生",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第98章利诱",
-      "summary": "“乌鸦华",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“乌鸦华",
-        "一方面是因为明里暗里盯着自己的人太多，如果跟乌鸦华他们走的太近，很容易就会将他们牵连进来",
-        "乌鸦华和乌鸦朵朵都不是从序者，就靠着诊所里那点小机关，随便来个械骨坚硬点的兵九都能轻易虐杀他们"
+      "summary": "乌鸦诊所的医生，与李钧有联系，身份可能不简单。",
+      "appearance": [
+        "身形消瘦的老头"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章利诱",
-      "summary": "”　　这一系列异常联系在一起，这对爷孙的身份已经呼之欲出",
-      "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　这一系列异常联系在一起，这对爷孙的身份已经呼之欲出",
-        "等做完了这一切，齐珠这才在李钧错愕的眼神中推门而出，两腿颤栗，一步三摇晃",
-        "而且乌鸦朵朵小小年纪，居然能在血肉体魄方面有那么深的造诣，这一点很不寻常"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "熟人"
+        },
+        {
+          "target": "乌鸦朵朵",
+          "type": "爷孙"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "脑袋",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章利诱",
-      "summary": "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在诊所屋檐下翘首以盼等待李钧。"
+        }
+      ],
       "evidence": [
-        "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住",
-        "“行了，我可不想自己的秘书顶着一脑袋的血去做事"
+        "乌鸦华？他找我干什么？",
+        "屋檐下，一个身形消瘦的老头早已经在翘首以盼。"
       ],
       "mention_count": 3
     },
     {
-      "name": "却被",
+      "name": "乌鸦朵朵",
       "aliases": [],
-      "identity": "",
+      "identity": "乌鸦华的孙女",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第98章利诱",
-      "summary": "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住",
+      "summary": "乌鸦华的孙女，小小年纪在血肉体魄方面有很深造诣。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "血肉体魄造诣深"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "爷孙"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”　　齐珠这个时候怎么敢去接话，脑袋一低就要用额头去砸地面，却被一只温热的手掌轻轻托住"
+        "乌鸦朵朵小小年纪，居然能在血肉体魄方面有那么深的造诣"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "再套",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章利诱",
-      "summary": "用刀杀完了人，竟然还要把血擦干净，再套上一把刀鞘卖给别人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "用刀杀完了人，竟然还要把血擦干净，再套上一把刀鞘卖给别人"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "一直",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章利诱",
-      "summary": "李钧说完这句话，就看见女人双手叠在腰间行了个万福礼，一直面对着自己碎步向后退去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李钧说完这句话，就看见女人双手叠在腰间行了个万福礼，一直面对着自己碎步向后退去"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "那我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章利诱",
-      "summary": "”　　念及至此，李钧将那张刚刚到手的钱庄卡放进女人手中，“皇帝不差饿兵，既然你选择为我做事，那我也不会亏待你",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　念及至此，李钧将那张刚刚到手的钱庄卡放进女人手中，“皇帝不差饿兵，既然你选择为我做事，那我也不会亏待你"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "实则",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第98章利诱",
-      "summary": "虽然顾邕同样让她恐惧，但眼前这个看似鲁莽无智，实则一身匪焰，将一切洞若观火的男人更让她惧怕",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然顾邕同样让她恐惧，但眼前这个看似鲁莽无智，实则一身匪焰，将一切洞若观火的男人更让她惧怕"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

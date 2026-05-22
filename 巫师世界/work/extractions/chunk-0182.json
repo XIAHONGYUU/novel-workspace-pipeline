@@ -1,0 +1,204 @@
+{
+  "chunk_id": "chunk-0182",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "气化阶段巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拥有能量心脏技术，正在追杀奎日曼和双头人。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "狠辣"
+      ],
+      "abilities": [
+        "能量心脏操控",
+        "金属天赋力场"
+      ],
+      "equipment": [
+        "能量心脏",
+        "银色十字剑",
+        "银色刀刃"
+      ],
+      "relationships": [
+        {
+          "target": "奎日曼",
+          "type": "敌对"
+        },
+        {
+          "target": "贝伦",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在遗迹中与奎日曼战斗，后遭双头人偷袭，贝伦阻拦，安格列杀死贝伦并继续追击。"
+        }
+      ],
+      "evidence": [
+        "安格列身上足有二十多个能量心脏，根本不用担心数量不足。",
+        "安格列脸色陡然变得一片森然。他抬起右手，一颗火红色的拳头大小珠子迅速浮现在手上，然后狠狠拍向贝伦。",
+        "安格列头也不回，直接朝着前边的通道追去。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "奎日曼",
+      "aliases": [],
+      "identity": "双头教巫师",
+      "faction": "双头教",
+      "status": "重伤被救走",
+      "first_appearance": "",
+      "summary": "与安格列战斗，被能量心脏炸伤，后被双头人救走。",
+      "appearance": [
+        "浑身焦黑"
+      ],
+      "personality": [],
+      "abilities": [
+        "恶念弯刀治疗"
+      ],
+      "equipment": [
+        "恶念弯刀",
+        "绿色尖刺"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        },
+        {
+          "target": "双头人",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列用能量心脏炸伤，后被双头人救走。"
+        }
+      ],
+      "evidence": [
+        "奎日曼虽然努力躲闪了，但还是被溅了一半身体的面积。",
+        "奎日曼整个人被狠狠地炸飞，贴在左侧的通道壁上。",
+        "一个长着两个头的人影正扛着奎日曼往前狂奔着。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "贝伦",
+      "aliases": [
+        "贝伦老头"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "与双头教有勾结，阻拦安格列追击，被安格列杀死。",
+      "appearance": [],
+      "personality": [
+        "焦急",
+        "决然"
+      ],
+      "abilities": [
+        "透明屏障防御"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        },
+        {
+          "target": "双头教",
+          "type": "勾结"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阻拦安格列追击，被安格列用次级火焰之珠炸伤，后被踩死。"
+        }
+      ],
+      "evidence": [
+        "贝伦老头居然一下挡在安格列前边。",
+        "这里……是我教派的驻地……你们跑不掉的，呵呵呵……",
+        "安格列脸色一狠，走过去，狠狠一脚踩在贝伦头上。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "双头人",
+      "aliases": [],
+      "identity": "双头教成员",
+      "faction": "双头教",
+      "status": "逃跑",
+      "first_appearance": "",
+      "summary": "长着两个头的人影，救走了奎日曼。",
+      "appearance": [
+        "长着两个头"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "奎日曼",
+          "type": "同伙"
+        },
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "偷袭安格列后救走奎日曼。"
+        }
+      ],
+      "evidence": [
+        "一个长着两个头的人影正扛着奎日曼往前狂奔着。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "艾尼",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与贝伦一同出现，阻止安格列杀死贝伦。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "中立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与贝伦一起出现，目睹安格列杀死贝伦。"
+        }
+      ],
+      "evidence": [
+        "艾尼两人看到了一边的安格列",
+        "一边的艾尼终于从震惊中清醒过来，出声阻止。"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

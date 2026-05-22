@@ -1,256 +1,273 @@
 {
   "chunk_id": "chunk-0081",
-  "title": "第80章 “门内驶出的汽车”",
   "characters": [
     {
       "name": "苏午",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者，心诡契约者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "苏午手里的黑烛燃烧殆尽，但诡烛的力量还未消散，仍在地面上映照出了巨大的影子",
+      "summary": "与心诡签订契约，拥有压制林光远和医生的权限，体魄超限，能吞噬诡异韵致。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "强势"
+      ],
+      "abilities": [
+        "心诡力量",
+        "鬼手",
+        "说话的艺术"
+      ],
+      "equipment": [
+        "暗红纸页",
+        "黑烛"
+      ],
+      "relationships": [
+        {
+          "target": "林光远",
+          "type": "前员工，现敌对"
+        },
+        {
+          "target": "医生",
+          "type": "敌对，后收服"
+        },
+        {
+          "target": "江莺莺",
+          "type": "同伴"
+        },
+        {
+          "target": "许进",
+          "type": "敌对"
+        },
+        {
+          "target": "方元",
+          "type": "初次接触"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与心诡签约后，收服林光远和医生，驾车离开明州市区，遭遇许进并击败之。"
+        }
+      ],
+      "evidence": [
+        "苏午手里的黑烛燃烧殆尽，但诡烛的力量还未消散",
+        "苏午与心诡签下契约，成为它文书的那一刻起",
+        "苏午看着脸色阴沉的医生，问了个问题"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "林光远",
+      "aliases": [
+        "林老板"
+      ],
+      "identity": "心诡文书，前商业精英",
+      "faction": "",
+      "status": "被收服",
+      "first_appearance": "第80章 “门内驶出的汽车”",
+      "summary": "曾是苏午的老板，因癌症被医生所救，后成为心诡文书，被苏午收进暗红纸页。",
+      "appearance": [
+        "年过半百，白净面孔"
+      ],
+      "personality": [
+        "恼恨",
+        "无能狂怒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午手里的黑烛燃烧殆尽，但诡烛的力量还未消散，仍在地面上映照出了巨大的影子",
-        "林光远与‘医生’并排站在苏午前面的不远处，前者神色阴晴不定，后者轻轻拍着前者的肩膀，无声地安慰着对方",
-        "自苏午与心诡签下契约，成为它文书的那一刻起，心诡原本容纳的文书林光远、士兵‘医生’就同时生出了感应"
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "亲密关系"
+        },
+        {
+          "target": "苏午",
+          "type": "前员工，现敌对"
+        }
       ],
-      "mention_count": 32
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午一拳打碎脑袋，后收进暗红纸页。"
+        }
+      ],
+      "evidence": [
+        "林光远与‘医生’并排站在苏午前面的不远处",
+        "林光远恼恨难平：“为什么？”",
+        "苏午走进阴影里，下一瞬就出现在林光远跟前，一拳就将林光远的脑袋打成了烂西瓜"
+      ],
+      "mention_count": 8
     },
     {
       "name": "医生",
       "aliases": [],
-      "identity": "",
+      "identity": "心诡士兵，神打派叛徒",
       "faction": "",
-      "status": "登场",
+      "status": "被收服",
       "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "林光远与‘医生’并排站在苏午前面的不远处，前者神色阴晴不定，后者轻轻拍着前者的肩膀，无声地安慰着对方",
+      "summary": "背叛师门，献祭师父成为心诡士兵，与林光远有亲密关系，后被苏午收进暗红纸页。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林光远与‘医生’并排站在苏午前面的不远处，前者神色阴晴不定，后者轻轻拍着前者的肩膀，无声地安慰着对方",
-        "自苏午与心诡签下契约，成为它文书的那一刻起，心诡原本容纳的文书林光远、士兵‘医生’就同时生出了感应",
-        "当苏午与心诡签订契约后，他虽与林光远、‘医生’是同一职级，但权限却超过了二人"
+      "personality": [
+        "阴沉",
+        "屈服"
       ],
-      "mention_count": 17
+      "abilities": [
+        "绿鬼眼的心相能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林光远",
+          "type": "亲密关系"
+        },
+        {
+          "target": "苏午",
+          "type": "敌对，后屈服"
+        },
+        {
+          "target": "善瑜",
+          "type": "师弟师妹"
+        },
+        {
+          "target": "药师",
+          "type": "师弟师妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午以林光远要挟，告知善瑜等人下落，后被收进暗红纸页。"
+        }
+      ],
+      "evidence": [
+        "医生眉头紧锁，沉默不语",
+        "医生勃然大怒，想要攻击苏午",
+        "被苏午抓住软肋，医生当场屈服了"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "方元",
+      "name": "江莺莺",
       "aliases": [],
-      "identity": "",
+      "identity": "普通人，苏午同伴",
       "faction": "",
       "status": "登场",
       "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "”　　方元眼神震惊，看着原本空无一物的道路上，忽然就‘凭空’出现了一辆汽车，迅速地朝高坡上的自己靠近",
-      "appearance": [],
-      "personality": [],
+      "summary": "驾驶雪佛兰科鲁兹，与苏午一同离开明州市区。",
+      "appearance": [
+        "年轻漂亮"
+      ],
+      "personality": [
+        "听话"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　方元眼神震惊，看着原本空无一物的道路上，忽然就‘凭空’出现了一辆汽车，迅速地朝高坡上的自己靠近",
-        "方元看到汽车后的道路上，有缕缕红光从那片虚空中渗出，像是虚空的伤口正在流血",
-        "许进看到了方元惊喜交加的神情，　　听到身后车轮轧过道路的声音"
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "驾车载苏午离开，听从苏午指令加速碾过许进。"
+        }
+      ],
+      "evidence": [
+        "他把车钥匙递给江莺莺，示意对方去发动车子",
+        "江莺莺驾驶着汽车",
+        "对于他的要求，女孩根本没有丝毫犹豫"
+      ],
+      "mention_count": 5
     },
     {
       "name": "许进",
       "aliases": [],
-      "identity": "",
+      "identity": "驭诡者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "许进看到了方元惊喜交加的神情，　　听到身后车轮轧过道路的声音",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "许进看到了方元惊喜交加的神情，　　听到身后车轮轧过道路的声音",
-        "这女的长得真漂亮……　　许进心头的怒火忽然消散了不少，目光转而看向副驾驶上的苏午——此时，苏午正好睁开眼睛，与他对视了刹那",
-        "苏午面无表情，　　而许进看着苏午的眼神，心里忽然生出一种强烈的感觉——　　嗡"
+      "summary": "瞳中诡的驭诡者，性格暴躁，被苏午击败后体内厉诡濒临复苏。",
+      "appearance": [
+        "丑陋"
       ],
-      "mention_count": 14
+      "personality": [
+        "暴躁",
+        "反社会",
+        "摇尾乞怜"
+      ],
+      "abilities": [
+        "瞳中诡"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "方元",
+          "type": "同伴/被约束"
+        },
+        {
+          "target": "苏午",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "攻击苏午和江莺莺，被苏午击败，体内厉诡濒临复苏。"
+        }
+      ],
+      "evidence": [
+        "许进瞳孔放大，瞳中生出了两扇黑漆门户",
+        "许进整个人趴在车顶上",
+        "许进浑身鲜血淋漓"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "林光",
+      "name": "方元",
       "aliases": [],
-      "identity": "",
+      "identity": "普通人，驭诡者监管者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "林光远与‘医生’并排站在苏午前面的不远处，前者神色阴晴不定，后者轻轻拍着前者的肩膀，无声地安慰着对方",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林光远与‘医生’并排站在苏午前面的不远处，前者神色阴晴不定，后者轻轻拍着前者的肩膀，无声地安慰着对方",
-        "自苏午与心诡签下契约，成为它文书的那一刻起，心诡原本容纳的文书林光远、士兵‘医生’就同时生出了感应",
-        "盯着苏午手里那张暗红纸页，林光远恼恨难平：“为什么"
+      "summary": "面相阴柔，负责约束许进，对苏午保持敬畏。",
+      "appearance": [
+        "面相阴柔"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "就是其师父",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就是其师父",
-        "绿鬼眼的心相能力，就是以其师父的‘意’变化而成",
-        "——每一次向心诡输送伥尸，运用心诡的力量，就是在履行契约"
+      "personality": [
+        "紧张",
+        "礼貌"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "不断",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "如果苏午真的傻乎乎完成了第一个要求，这个数字随时会增加成‘50’、‘100’、‘500’……不断让人突破自己的底线",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "如果苏午真的傻乎乎完成了第一个要求，这个数字随时会增加成‘50’、‘100’、‘500’……不断让人突破自己的底线",
-        "即便与那片红光流溢之地还有一段距离，诡异探测器已经开始发出蜂鸣声，不断报警",
-        "许进浑身鲜血淋漓，瞳中门内不断伸出一只只苍白虚幻手臂，勾连诡韵，帮他弥补"
+      "equipment": [
+        "诡异探测器"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "汽车",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "第80章 “门内驶出的汽车”　　街道上的路灯时明时暗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第80章 “门内驶出的汽车”　　街道上的路灯时明时暗",
-        "”　　方元眼神震惊，看着原本空无一物的道路上，忽然就‘凭空’出现了一辆汽车，迅速地朝高坡上的自己靠近",
-        "离得近了，　　他看到汽车的车型"
+      "relationships": [
+        {
+          "target": "许进",
+          "type": "同伴/监管"
+        },
+        {
+          "target": "苏午",
+          "type": "初次接触"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "一把",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "他腋下生出一条漆黑蟒蛇，　　蟒蛇缠绕过他的身躯，遮挡在江莺莺跟前，一口就咬住了许进眼里浮现的两条苍白虚幻手臂，一把将之扯断",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他腋下生出一条漆黑蟒蛇，　　蟒蛇缠绕过他的身躯，遮挡在江莺莺跟前，一口就咬住了许进眼里浮现的两条苍白虚幻手臂，一把将之扯断",
-        "对方明明只是朝这边跨出了一步，　　却在下一刻直接从许进身前的影子里钻出来，他腋下生出漆黑的手臂，在许进惊恐的目光中，一把攥住其脖颈，将之整个人提到了半空中",
-        "他冷淡地对方元说了几句话，随后驱使鬼手，一把将许进掼在地上"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹苏午击败许进，道歉并请求放过许进。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "听到",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "”　　听到林光远的质问，苏午抬头看向自己曾经的老板",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　听到林光远的质问，苏午抬头看向自己曾经的老板",
-        "许进看到了方元惊喜交加的神情，　　听到身后车轮轧过道路的声音"
+        "方元眼神震惊",
+        "方元从后面狂追了过来，怒声大喊",
+        "方元神色紧张"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "却在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "一旁的医生勃然大怒，想要攻击苏午，却在更高权限的心诡力量下，被直接缴械，僵立原地，根本动弹不得",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一旁的医生勃然大怒，想要攻击苏午，却在更高权限的心诡力量下，被直接缴械，僵立原地，根本动弹不得",
-        "对方明明只是朝这边跨出了一步，　　却在下一刻直接从许进身前的影子里钻出来，他腋下生出漆黑的手臂，在许进惊恐的目光中，一把攥住其脖颈，将之整个人提到了半空中"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "她们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第80章 “门内驶出的汽车”",
-      "summary": "苏午看着脸色阴沉的医生，问了个问题：“善瑜、药师她们，也都被你杀了吗",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苏午看着脸色阴沉的医生，问了个问题：“善瑜、药师她们，也都被你杀了吗",
-        "“如果你不告诉我你怎么知道这些事情的，那你也休想知道，曲灵、善瑜她们的死活",
-        "”　　“关于她们的消息，对我没有那么重要"
-      ],
-      "mention_count": 4
+      "mention_count": 6
     }
   ]
 }

@@ -1,257 +1,302 @@
 {
   "chunk_id": "chunk-0139",
-  "title": "第一百三十七章 地火金梅（上）",
   "characters": [
     {
       "name": "林新",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "庄主",
+        "宗主"
+      ],
+      "identity": "山庄庄主，艳阳门宗主",
+      "faction": "艳阳门",
       "status": "登场",
       "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "”　　“庄主，那原先答应的百城演武大会邀请……”林新媛低声问",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“庄主，那原先答应的百城演武大会邀请……”林新媛低声问",
-        "”林新随意道",
-        "”林新媛一惊"
+      "summary": "山庄庄主，同时也是艳阳门宗主，擅长阵法，拥有微型化阵盘的能力。",
+      "appearance": [
+        "打扮成江湖普通侠客，背着剑匣和一个包袱"
       ],
-      "mention_count": 39
-    },
-    {
-      "name": "柳杨",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "最厉害的是柳杨，这个最强的先天九层高手，居然借助阳灼阵，配合自己心血祭炼的法剑，一举爆发达到了炼气期的威力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "最厉害的是柳杨，这个最强的先天九层高手，居然借助阳灼阵，配合自己心血祭炼的法剑，一举爆发达到了炼气期的威力",
-        "地宫内，柳杨上前一步，脸上带着一丝压抑的喜色",
-        "柳杨已经是九层大圆满，若是再突破，那就是真正的练气士，他只不过是改善了一下这些人的生活医疗条件，给予他们更好功法，这些东西，其他宗门也有，不应该有这么大的效果"
+      "personality": [
+        "冷静",
+        "果断",
+        "有谋略"
       ],
-      "mention_count": 10
+      "abilities": [
+        "阵符高手，接近大师级",
+        "能够微型化阵盘"
+      ],
+      "equipment": [
+        "剑匣",
+        "包袱",
+        "炎阳符剑"
+      ],
+      "relationships": [
+        {
+          "target": "林新媛",
+          "type": "兄妹"
+        },
+        {
+          "target": "柳杨",
+          "type": "下属"
+        },
+        {
+          "target": "柳宗",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "安排山庄事务，准备前往岳林山寻找地火金梅"
+        }
+      ],
+      "evidence": [
+        "林新摆摆手，开始和其余几个高层商量其他事务。",
+        "坐在高座上，林新示意众人起身。",
+        "林新也是从他们身上学到了一点，自己心血祭炼的法器，若是找到附和自身功法性质的阵法，那么对于自己修为的提升也有极大的增益。"
+      ],
+      "mention_count": 25
     },
     {
       "name": "林新媛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "林新的妹妹",
+      "faction": "山庄",
       "status": "登场",
       "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "”　　“庄主，那原先答应的百城演武大会邀请……”林新媛低声问",
+      "summary": "林新的妹妹，被指派代表山庄参加百城演武大会。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有些惊讶"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林新指派参加百城演武大会"
+        }
+      ],
+      "evidence": [
+        "林新媛低声问。",
+        "林新媛看着自己这个大哥，心头总有些莫名的感觉。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "欧映红",
+      "aliases": [],
+      "identity": "山庄成员",
+      "faction": "山庄",
+      "status": "提及",
+      "first_appearance": "第一百三十七章 地火金梅（上）",
+      "summary": "被林新指派与林新媛一同参加百城演武大会。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被指派参加百城演武大会"
+        }
+      ],
       "evidence": [
-        "”　　“庄主，那原先答应的百城演武大会邀请……”林新媛低声问",
-        "”林新媛一惊",
-        "林新媛看着自己这个大哥，心头总有些莫名的感觉"
+        "欧映红也一起，带着几个小子去见识一下"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "柳杨",
+      "aliases": [],
+      "identity": "艳阳门高手，先天九层",
+      "faction": "艳阳门",
+      "status": "登场",
+      "first_appearance": "第一百三十七章 地火金梅（上）",
+      "summary": "艳阳门最强高手，先天九层，借助阳灼阵爆发达到炼气期威力，即将闭关突破。",
+      "appearance": [],
+      "personality": [
+        "镇定"
+      ],
+      "abilities": [
+        "先天九层",
+        "借助阳灼阵爆发达到炼气期威力"
+      ],
+      "equipment": [
+        "心血祭炼的法剑"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "汇报进展，表示需要闭关突破"
+        }
+      ],
+      "evidence": [
+        "柳杨上前一步，脸上带着一丝压抑的喜色。",
+        "柳杨已经是九层大圆满，若是再突破，那就是真正的练气士"
       ],
       "mention_count": 6
     },
     {
-      "name": "艳阳门",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "……　　艳阳门地宫",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "……　　艳阳门地宫",
-        "”　　一群艳阳门高手单膝跪地，朝着缓缓在上方座上坐下的林新行礼",
-        "”　　艳阳门经过这么段时间的调整，以及山庄的暗中支援，此时已经真正的换了一身装备"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "这些",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "这些人身上气息晦涩，每一个都有着林新给他们炼制的隐匿阵盘，作为阵符高手，就算是在一般仙门中，林新现在的层次也是接近大师级，差一点就能自创阵法的级别，这点也是宗门没有动他山庄的原因之一",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这些人身上气息晦涩，每一个都有着林新给他们炼制的隐匿阵盘，作为阵符高手，就算是在一般仙门中，林新现在的层次也是接近大师级，差一点就能自创阵法的级别，这点也是宗门没有动他山庄的原因之一",
-        "这些艳阳门高手所修行的阳极丹功法，也就是极阳卷，有着极强的阳灼性质",
-        "区区一个阳灼阵，就让这些艳阳门的高手修为进度暴增，堪比有聚灵阵的效果，比起原先苦哈哈的日子算是好得太多了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "林新媛看着自己这个大哥，心头总有些莫名的感觉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "林新媛看着自己这个大哥，心头总有些莫名的感觉",
-        "最厉害的是柳杨，这个最强的先天九层高手，居然借助阳灼阵，配合自己心血祭炼的法剑，一举爆发达到了炼气期的威力",
-        "“这个倒是不用"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "至于",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "人数正好就够了，至于忠诚度和开销，原本就不需要",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "人数正好就够了，至于忠诚度和开销，原本就不需要",
-        "“至于组织的中介机制，这点以后再谈",
-        "至于怎么算"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "能够",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "能够微型化阵盘的能力，是他隐藏的杀手锏，对外他只是宣称的通明符阵一种阵法可以微型化，而其他的不行",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "能够微型化阵盘的能力，是他隐藏的杀手锏，对外他只是宣称的通明符阵一种阵法可以微型化，而其他的不行",
-        "”林新也是知道，这些艳阳门高手常年做任务杀手，也杀人越货积攒了很多家底，能够拿出来一套二品剑诀也算正常",
-        "”　　一行人顿时开始纷纷汇报自身修为提升状况，修为相差不大不等于实力战力，但却能够体现出一个人以后的潜力"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "就连林",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "没料到他们的内气配合阳灼阵居然威力暴增，就连林新自己使用炎阳符剑也没有他们强悍",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "没料到他们的内气配合阳灼阵居然威力暴增，就连林新自己使用炎阳符剑也没有他们强悍",
-        "就连林新看了也是侧目"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "二品",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "”柳杨略为迟疑了下，随即道，“宗主，我曾经得到过一套诡异剑法，名为戮阴剑诀，应该在二品左右，不知道可否作为交换……”　　“二品剑诀么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”柳杨略为迟疑了下，随即道，“宗主，我曾经得到过一套诡异剑法，名为戮阴剑诀，应该在二品左右，不知道可否作为交换……”　　“二品剑诀么",
-        "”林新也是知道，这些艳阳门高手常年做任务杀手，也杀人越货积攒了很多家底，能够拿出来一套二品剑诀也算正常",
-        "一品是指先天，二品是指练气，三品是指筑基，依次往上"
-      ],
-      "mention_count": 4
-    },
-    {
       "name": "柳宗",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "艳阳门高手，先天八层",
+      "faction": "艳阳门",
       "status": "登场",
       "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "”　　“但我艳阳门一向隐在暗处，先不说人员难找……”柳宗忍不住开口道",
+      "summary": "艳阳门高手，先天八层，被林新指派一同前往岳林山寻找地火金梅。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　“但我艳阳门一向隐在暗处，先不说人员难找……”柳宗忍不住开口道",
-        "”柳宗顿时了然，他还年轻，这方面接受反应很快",
-        "“至于地火金梅，柳宗，你带点人和我一起前往"
+      "personality": [
+        "阴沉"
       ],
-      "mention_count": 4
+      "abilities": [
+        "先天八层"
+      ],
+      "equipment": [
+        "法剑（铭刻阳灼阵）"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被指派与林新一同前往岳林山"
+        }
+      ],
+      "evidence": [
+        "柳宗是先天八层的阴沉男子",
+        "柳宗，你带点人和我一起前往。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "我们",
+      "name": "柳元",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "艳阳门高手",
+      "faction": "艳阳门",
+      "status": "提及",
       "first_appearance": "第一百三十七章 地火金梅（上）",
-      "summary": "“你去吧，代表我们山庄",
+      "summary": "艳阳门高手，即将突破练气九层。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "接近练气九层"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "修为提升，接近练气九层"
+        }
+      ],
+      "evidence": [
+        "柳元甚至已经快要突破练气九层了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "于长老",
+      "aliases": [],
+      "identity": "松林剑派长老",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "第一百三十七章 地火金梅（上）",
+      "summary": "松林剑派长老，其两个孙子失踪。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你去吧，代表我们山庄",
-        "“我准备以我们内堂为根基，建立一个扩大化的外堂",
-        "我们不需要忠诚度，我们只需要做到组织的准确，公正，和真实"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "两个孙子失踪，尚未找到"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "于长老的两个孙子都消失不见"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白袍道人",
+      "aliases": [],
+      "identity": "松林剑派道人",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "第一百三十七章 地火金梅（上）",
+      "summary": "松林剑派的白袍道人，盘膝在道馆内，询问于长老孙子的下落。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问于长老孙子的下落"
+        }
+      ],
+      "evidence": [
+        "一个白袍道人盘膝坐在蒲团上"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "低眉垂首的道人",
+      "aliases": [],
+      "identity": "松林剑派道人",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "第一百三十七章 地火金梅（上）",
+      "summary": "松林剑派道人，站在门口向白袍道人汇报。",
+      "appearance": [
+        "低眉垂首"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "汇报于长老孙子失踪的情况"
+        }
+      ],
+      "evidence": [
+        "一个低眉垂首的道人站在门口低声道"
+      ],
+      "mention_count": 1
     }
   ]
 }

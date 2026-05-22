@@ -1,183 +1,364 @@
 {
   "chunk_id": "chunk-0021",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "表哥"
+      ],
+      "identity": "拳术大成者，疑似穿越者",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "当初在水师营地的那一夜，寇立的豹胎丸其实并没有全部交给鬼影子，而是事先留存了几颗，就是为了在某些极危险的场合，做万一之想",
+      "first_appearance": "第001章 穿越",
+      "summary": "拳术大成，身怀龙形精髓和冰魄珠，正在荒岛求生。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当初在水师营地的那一夜，寇立的豹胎丸其实并没有全部交给鬼影子，而是事先留存了几颗，就是为了在某些极危险的场合，做万一之想",
-        "寇立顿时了然，以龙形精髓超神带来的改变，就算是服用一整颗豹胎丸，也完全可以控制住杀意",
-        "”    寇立微微眯眼，嘴角磨了磨，低声念了一句，“原来还有漏网之鱼"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "桀骜"
       ],
-      "mention_count": 69
+      "abilities": [
+        "大成拳术",
+        "虎性杀意",
+        "冰魄珠冰封能力",
+        "竹手捣海劲"
+      ],
+      "equipment": [
+        "冰魄珠"
+      ],
+      "relationships": [
+        {
+          "target": "林素娥",
+          "type": "表兄妹"
+        },
+        {
+          "target": "黄公子",
+          "type": "合作与恩怨"
+        },
+        {
+          "target": "鲁三宝",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海难后",
+          "event": "在荒岛求生，练成捣海劲，探索岛中心。"
+        }
+      ],
+      "evidence": [
+        "寇立顿时了然，以龙形精髓超神带来的改变，就算是服用一整颗豹胎丸，也完全可以控制住杀意。",
+        "竹手第五重劲——捣海劲成！",
+        "寇立仰头看向天空好似要压下来的滚滚乌云，身体虚弱至极，眼神依旧透着桀骜，“嘿，贼老天，这一次，我赌你收不了我的命！”"
+      ],
+      "mention_count": 45
     },
     {
-      "name": "黄公子",
+      "name": "鲁三宝",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "徐家船上，徐开山、黄公子以及仅剩的数个拳师，无不面色阴沉如水，狼公子不愧是有狼顾之相，不仅违背诺言，提前开船，并且还转向攻击自己这艘船，让他们成为挡住鲨舰的绊脚石",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "徐家船上，徐开山、黄公子以及仅剩的数个拳师，无不面色阴沉如水，狼公子不愧是有狼顾之相，不仅违背诺言，提前开船，并且还转向攻击自己这艘船，让他们成为挡住鲨舰的绊脚石",
-        "“等我上岸——”黄公子的俏脸，白皙的好似透明一般，她突然发现自己是不是与粤地风水相克，不然怎么会每一次都这么倒霉，特意准备的船只，居然成了障碍",
-        "”黄公子脱口道"
+      "identity": "张宝仔义子，鲁天生之子",
+      "faction": "海盗",
+      "status": "死亡",
+      "first_appearance": "本片段",
+      "summary": "张宝仔的义子，被寇立杀死。",
+      "appearance": [
+        "奇丑无比，脸像拉长的鳊鱼，双眼突起"
       ],
-      "mention_count": 41
+      "personality": [
+        "怨毒",
+        "狠辣"
+      ],
+      "abilities": [],
+      "equipment": [
+        "降真红木杆长枪"
+      ],
+      "relationships": [
+        {
+          "target": "张宝仔",
+          "type": "义父"
+        },
+        {
+          "target": "鲁天生",
+          "type": "父亲"
+        },
+        {
+          "target": "寇立",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "被寇立制服并杀死。"
+        }
+      ],
+      "evidence": [
+        "老子是鲁三宝，我义父是张宝仔",
+        "鲁三宝身子一颤，心脏都跳的快了一拍。",
+        "对方的声音在伴随着脖颈的骨折声戛然而止"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "黄公",
+      "name": "郭凤",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "血鲨舰舰主",
+      "faction": "海盗",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "徐家船上，徐开山、黄公子以及仅剩的数个拳师，无不面色阴沉如水，狼公子不愧是有狼顾之相，不仅违背诺言，提前开船，并且还转向攻击自己这艘船，让他们成为挡住鲨舰的绊脚石",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "徐家船上，徐开山、黄公子以及仅剩的数个拳师，无不面色阴沉如水，狼公子不愧是有狼顾之相，不仅违背诺言，提前开船，并且还转向攻击自己这艘船，让他们成为挡住鲨舰的绊脚石",
-        "“等我上岸——”黄公子的俏脸，白皙的好似透明一般，她突然发现自己是不是与粤地风水相克，不然怎么会每一次都这么倒霉，特意准备的船只，居然成了障碍",
-        "”黄公子脱口道"
+      "first_appearance": "本片段",
+      "summary": "血鲨舰舰主，拳术大成，体格变态。",
+      "appearance": [
+        "浴血壮汉，面色狰狞"
       ],
-      "mention_count": 28
+      "personality": [
+        "狰狞"
+      ],
+      "abilities": [
+        "大成拳术",
+        "变态体格"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "追杀寇立，被火铳击中。"
+        }
+      ],
+      "evidence": [
+        "血鲨舰舰主的实力，比他之前所杀的角爷要强的太多，至少大成的拳术，加上变态的体格",
+        "郭凤挣扎着，肩部和腹部湿红一片，这是被火铳给打中的"
+      ],
+      "mention_count": 3
     },
     {
       "name": "林素娥",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "林妹妹"
+      ],
+      "identity": "寇立的表妹",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立目光好似大虫乱闪，手里抱着还在昏迷中的林素娥，在船身上到处乱窜，以他的眼力和拳术，远距离的海战武器能避开九成，只要不被登船，他还是相对属于安全，但若真要被登了船，就算他拳术通神，那也没办法了",
+      "first_appearance": "本片段",
+      "summary": "寇立的表妹，性格温柔乐观，懂医道。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "温柔",
+        "乐观",
+        "傻白甜"
+      ],
+      "abilities": [
+        "医道"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "表兄妹"
+        },
+        {
+          "target": "黄公子",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海难后",
+          "event": "与寇立、黄公子流落荒岛。"
+        }
+      ],
       "evidence": [
-        "寇立目光好似大虫乱闪，手里抱着还在昏迷中的林素娥，在船身上到处乱窜，以他的眼力和拳术，远距离的海战武器能避开九成，只要不被登船，他还是相对属于安全，但若真要被登了船，就算他拳术通神，那也没办法了",
-        "“表哥，这是我分来的水，”林素娥捧着好不容易得来的一小杯水，满心欢喜的送到寇立面前",
-        "见寇立晕沉沉的没有说话，林素娥咬牙，小心翼翼的将对方脑袋贴在自己腿上，往对方嘴里一点一滴的倒着水"
+        "林素娥捧着好不容易得来的一小杯水，满心欢喜的送到寇立面前。",
+        "她可是医道大家，能将这菇中的毒性相生相克",
+        "林素娥性子温柔"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "黄公子",
+      "aliases": [
+        "黄姐姐"
+      ],
+      "identity": "身份尊贵的女扮男装者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "本片段",
+      "summary": "女扮男装的贵人，对拳术理论精通，但生活能力极差。",
+      "appearance": [
+        "凹凸有致的身材",
+        "俏脸白皙"
+      ],
+      "personality": [
+        "傲娇",
+        "娇气",
+        "聪明"
+      ],
+      "abilities": [
+        "拳术理论知识丰富"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "合作与恩怨"
+        },
+        {
+          "target": "林素娥",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海难后",
+          "event": "与寇立、林素娥流落荒岛。"
+        }
+      ],
+      "evidence": [
+        "黄公子的俏脸，白皙的好似透明一般",
+        "本公子就善心的指点你一番",
+        "黄公子姿态高挑，表情傲然"
       ],
       "mention_count": 20
     },
     {
-      "name": "还有",
+      "name": "徐开山",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "徐家船主",
+      "faction": "徐家",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    寇立微微眯眼，嘴角磨了磨，低声念了一句，“原来还有漏网之鱼",
+      "first_appearance": "本片段",
+      "summary": "徐家船主，负责护送黄公子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    寇立微微眯眼，嘴角磨了磨，低声念了一句，“原来还有漏网之鱼",
-        "“大成的拳术，还有内家高手的体能，好好好，你的确够狠，但你记住，老子是鲁三宝，我义父是张宝仔，你会比我死的惨的千倍万倍，还要杀你全家",
-        "“不能再拖延下去了，”徐开山咬牙，他也想不明白，一次简单的护花任务，怎么会沦落到这般田地，“抛下所有的火炮、军械、食物、酒水，还有压船石，我们也逃"
+      "relationships": [
+        {
+          "target": "黄公子",
+          "type": "护送"
+        },
+        {
+          "target": "寇立",
+          "type": "合作"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "指挥船只突围，后流落荒岛。"
+        }
+      ],
+      "evidence": [
+        "徐开山咬牙",
+        "徐开山低沉道，“我爹知道这个岛，他会派人找来的。”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "林素",
+      "name": "莫一",
       "aliases": [],
-      "identity": "",
+      "identity": "不明",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立目光好似大虫乱闪，手里抱着还在昏迷中的林素娥，在船身上到处乱窜，以他的眼力和拳术，远距离的海战武器能避开九成，只要不被登船，他还是相对属于安全，但若真要被登了船，就算他拳术通神，那也没办法了",
+      "first_appearance": "本片段",
+      "summary": "与寇立一同行动的神秘人物，脸色苍白。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立目光好似大虫乱闪，手里抱着还在昏迷中的林素娥，在船身上到处乱窜，以他的眼力和拳术，远距离的海战武器能避开九成，只要不被登船，他还是相对属于安全，但若真要被登了船，就算他拳术通神，那也没办法了",
-        "“表哥，这是我分来的水，”林素娥捧着好不容易得来的一小杯水，满心欢喜的送到寇立面前",
-        "见寇立晕沉沉的没有说话，林素娥咬牙，小心翼翼的将对方脑袋贴在自己腿上，往对方嘴里一点一滴的倒着水"
+      "abilities": [
+        "刀锋劲"
       ],
-      "mention_count": 15
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "跳入龙骨洞口。"
+        }
+      ],
+      "evidence": [
+        "听到动静的莫一鬼魅般的出现在了洞口，二话不说，直接跳了下去，不过寇立注意到，对方的脸色有些苍白。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "插翅狼",
+      "aliases": [
+        "狼公子"
+      ],
+      "identity": "水龙帮成员",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“你怎么会——”那人惊道，对方现在的表面模样十分恐怖，双眼充血，身子骨膨胀开来，四肢筋骨虬结，浑身杀意沸腾，就像是那天夜里，所有喝了那壶酒的官兵一般",
+      "first_appearance": "本片段",
+      "summary": "水龙帮的插翅狼，提前开船逃离，有狼顾之相。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "狡猾"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“你怎么会——”那人惊道，对方现在的表面模样十分恐怖，双眼充血，身子骨膨胀开来，四肢筋骨虬结，浑身杀意沸腾，就像是那天夜里，所有喝了那壶酒的官兵一般",
-        "朱宝仔的义子，能力或许有上下之别，但是没有一个无胆之辈，一咬牙，左手海底三叉掌，扣向对方双眼，居然是以命搏命的路数",
-        "”    直到把对方制服在地，寇立才有机会看清对方的脸面，是个奇丑无比的汉子，脸就像是拉长的鳊鱼，双眼突起"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "海战",
+          "event": "提前开船逃离，并攻击徐家船。"
+        }
+      ],
+      "evidence": [
+        "狼公子不愧是有狼顾之相，不仅违背诺言，提前开船，并且还转向攻击自己这艘船"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "我们",
+      "name": "罗严宗",
       "aliases": [],
-      "identity": "",
+      "identity": "不明",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "反倒是那徐家的改装船，正倒霉的卡在两艘海盗船的中间，进不得，退不得，联想到之前插翅狼的突然消失，寇立顿时明白，却又咬牙的道：“好好好，居然真的拿我们当诱饵",
+      "status": "提及",
+      "first_appearance": "本片段",
+      "summary": "被提及的人物，曾告知寇立竹手独门拳劲。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "怪浪力和冷脆弹"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "告知拳劲"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "反倒是那徐家的改装船，正倒霉的卡在两艘海盗船的中间，进不得，退不得，联想到之前插翅狼的突然消失，寇立顿时明白，却又咬牙的道：“好好好，居然真的拿我们当诱饵",
-        "“不能再拖延下去了，”徐开山咬牙，他也想不明白，一次简单的护花任务，怎么会沦落到这般田地，“抛下所有的火炮、军械、食物、酒水，还有压船石，我们也逃",
-        "”    “没有武器，我们怎么逃，我们不可能撑到岸上的"
+        "竹手的独门拳劲，寇立已被罗严宗告知"
       ],
-      "mention_count": 11
+      "mention_count": 1
     },
     {
-      "name": "这岛",
+      "name": "钟权",
       "aliases": [],
-      "identity": "",
+      "identity": "不明",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”    “这是个荒岛，我们都是被那天的大风暴卷到这里来的，你已经睡了一天一夜，好在没有发病，这岛上的药材很少的……”    林素娥就像是只欢快的喜鹊，让黄公子的心情稍稍轻松了下来",
+      "status": "提及",
+      "first_appearance": "本片段",
+      "summary": "被提及的人物，与罗严宗一同看护狼公子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -185,41 +366,48 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    “这是个荒岛，我们都是被那天的大风暴卷到这里来的，你已经睡了一天一夜，好在没有发病，这岛上的药材很少的……”    林素娥就像是只欢快的喜鹊，让黄公子的心情稍稍轻松了下来",
-        "”    “不止呢，还有表哥，他说出去探一探岛的情况，这岛上似乎有些古怪，鸟虫都很少",
-        "这岛上的野兽比较难缠，就算是这两只‘兔子’，奔跑之速居然不亚于猎豹，而且嘴里四五颗弧形尖牙，还带着血丝，这居然是两只吃肉的兔子"
+        "在罗严宗和钟权的双重看护下，狼公子到底是怎么提前溜走的"
       ],
-      "mention_count": 11
+      "mention_count": 1
     },
     {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
+      "name": "刁奉圣",
+      "aliases": [
+        "刁显圣"
+      ],
+      "identity": "刁家拳传人",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "不过不管如何，这冰封的手段除了在霍峻东身上失效了半次外，其他关头从没有失手过，而且这种冰封，似乎不仅仅是冰冻万物，而是连灵魂也一起被冻僵",
+      "status": "提及",
+      "first_appearance": "本片段",
+      "summary": "被提及的已故人物，曾与寇立一战。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "八面肩头",
+        "漩涡劲"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "不过不管如何，这冰封的手段除了在霍峻东身上失效了半次外，其他关头从没有失手过，而且这种冰封，似乎不仅仅是冰冻万物，而是连灵魂也一起被冻僵",
-        "而且这种冰冻，似乎对龙骨内的东西也有着奇效",
-        "这岛上的野兽比较难缠，就算是这两只‘兔子’，奔跑之速居然不亚于猎豹，而且嘴里四五颗弧形尖牙，还带着血丝，这居然是两只吃肉的兔子"
+        "当初与刁奉圣一战，对方打出的刁家散手杀招，八面肩头。",
+        "当初刁显圣施展八面肩头的场面"
       ],
-      "mention_count": 10
+      "mention_count": 2
     },
     {
-      "name": "这是",
+      "name": "霍峻东",
       "aliases": [],
-      "identity": "",
+      "identity": "不明",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”郭凤挣扎着，肩部和腹部湿红一片，这是被火铳给打中的，战场上，终究不只是拳术的地盘",
+      "status": "提及",
+      "first_appearance": "本片段",
+      "summary": "被提及的人物，冰魄珠曾在他身上失效半次。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -227,20 +415,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”郭凤挣扎着，肩部和腹部湿红一片，这是被火铳给打中的，战场上，终究不只是拳术的地盘",
-        "“表哥，这是我分来的水，”林素娥捧着好不容易得来的一小杯水，满心欢喜的送到寇立面前",
-        "数十里外，汹涌的海面渐渐涌出一圈又一圈的漩涡，这是海底暗流激荡到极点，产生的海涡，这也代表着，这一次的风暴大到惊人"
+        "这冰封的手段除了在霍峻东身上失效了半次外"
       ],
-      "mention_count": 10
+      "mention_count": 1
     },
     {
-      "name": "当初",
+      "name": "角爷",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "当初在水师营地的那一夜，寇立的豹胎丸其实并没有全部交给鬼影子，而是事先留存了几颗，就是为了在某些极危险的场合，做万一之想",
+      "identity": "海盗头目",
+      "faction": "海盗",
+      "status": "提及",
+      "first_appearance": "本片段",
+      "summary": "被提及的已故海盗，实力不如郭凤。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -248,11 +434,57 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "当初在水师营地的那一夜，寇立的豹胎丸其实并没有全部交给鬼影子，而是事先留存了几颗，就是为了在某些极危险的场合，做万一之想",
-        "当初他在无字图的争夺中，两个‘神仙’斗的是昏天暗地，而到了最后，除了无字图让他捡了便宜外，其中一个神仙的遗产就是这寒魄珠",
-        "说也奇怪，他当初得到这珠子的一刹那，不仅知道珠子的名字，就连用法也都一并传入寇立的意识中，那是一种玄而又玄的感觉"
+        "这位血鲨舰舰主的实力，比他之前所杀的角爷要强的太多"
       ],
-      "mention_count": 9
+      "mention_count": 1
+    },
+    {
+      "name": "张宝仔",
+      "aliases": [],
+      "identity": "海盗头目",
+      "faction": "海盗",
+      "status": "提及",
+      "first_appearance": "本片段",
+      "summary": "鲁三宝的义父。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鲁三宝",
+          "type": "义父"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我义父是张宝仔"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "鲁天生",
+      "aliases": [],
+      "identity": "鲁三宝之父",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本片段",
+      "summary": "鲁三宝的父亲，被寇立提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鲁三宝",
+          "type": "父亲"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "鲁天生跟你是什么关系？"
+      ],
+      "mention_count": 1
     }
   ]
 }

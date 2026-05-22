@@ -1,258 +1,805 @@
 {
   "chunk_id": "chunk-0018",
-  "title": "前言",
   "characters": [
     {
       "name": "寇立",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "寇立最担心的，便是那未见面的刁家教教主的‘鬼神拳意’，虽然能这是自己感悟龙拳精髓的关键，就算是在比斗中成功感悟出来，也不可能立马就兑换成即战力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寇立最担心的，便是那未见面的刁家教教主的‘鬼神拳意’，虽然能这是自己感悟龙拳精髓的关键，就算是在比斗中成功感悟出来，也不可能立马就兑换成即战力",
-        "寇立尝试着吸收这种意念，然而这种意念虽然看似没有伤害，但是一旦想去吸收，瞬息便硬如坚钢，而无字图的触感，也是第一次被全数击碎",
-        "果然，无字图开始发威了，这种触感的无限放大，就算寇立也不清楚极限在哪里"
+      "aliases": [
+        "老八",
+        "八师兄",
+        "寇师傅"
       ],
-      "mention_count": 55
+      "identity": "烧身武馆弟子",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "烧身武馆弟子，核心人物，正在与水龙帮的刁奉圣进行生死擂。",
+      "appearance": [
+        "鹰隼一般的眉眼",
+        "气质柔和",
+        "面净满如月"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "温和"
+      ],
+      "abilities": [
+        "秘音虎啸",
+        "虎形拳",
+        "童子桩大成",
+        "内家黏劲"
+      ],
+      "equipment": [
+        "琥珀念珠",
+        "无字图"
+      ],
+      "relationships": [
+        {
+          "target": "宋野",
+          "type": "同一身体中的前后身份"
+        },
+        {
+          "target": "罗严宗",
+          "type": "师兄"
+        },
+        {
+          "target": "岳武霍",
+          "type": "师兄"
+        },
+        {
+          "target": "莫一",
+          "type": "师兄"
+        },
+        {
+          "target": "翟关",
+          "type": "五师兄"
+        },
+        {
+          "target": "林素娥",
+          "type": "被救之人"
+        },
+        {
+          "target": "狼公子",
+          "type": "对手"
+        },
+        {
+          "target": "刁奉圣",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "感悟琥珀念珠中的众生意志，融入拳法。"
+        },
+        {
+          "stage": "比武日",
+          "event": "与水龙帮约定的生死擂，对阵刁奉圣。"
+        }
+      ],
+      "evidence": [
+        "寇立最担心的，便是那未见面的刁家教教主的‘鬼神拳意’",
+        "寇立心中一喜，同样也是一松",
+        "寇立温和一笑，拍了拍对方脑袋"
+      ],
+      "mention_count": 45
     },
     {
-      "name": "罗严宗",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "门口，岳武霍、罗严宗、莫一早已等候多时",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "门口，岳武霍、罗严宗、莫一早已等候多时",
-        "“师兄，你们这是——”    “烧身武馆的人出去打生死擂，怎么可能没有撑场面的，”罗严宗笑道",
-        "寇立心中生出一股感激之情，无论是粗豪的岳武霍，还是冷漠的莫一，以及温和如水的罗严宗，其实都把他当作了自家人"
+      "name": "刁奉圣",
+      "aliases": [
+        "刁家教教主"
       ],
-      "mention_count": 22
-    },
-    {
-      "name": "狼公子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "南方第一散手",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "就这么一耽误，不远处走来了一大堆人，狼公子走在最前头，一身书生袍子，很是风雅",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "first_appearance": "第六十三章 大船",
+      "summary": "水龙帮请来的高手，南方第一散手，与寇立进行生死擂。",
+      "appearance": [
+        "红袍光头大汉",
+        "锦红大袍",
+        "腰间竖着黑色布袋",
+        "似佛似魔"
+      ],
+      "personality": [
+        "诡异",
+        "邪恶",
+        "超然"
+      ],
+      "abilities": [
+        "刁家散手",
+        "漩涡劲",
+        "鬼神拳意"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武日",
+          "event": "与寇立在生死擂上对决。"
+        }
+      ],
       "evidence": [
-        "就这么一耽误，不远处走来了一大堆人，狼公子走在最前头，一身书生袍子，很是风雅",
-        "寇立打从上船以来，就一直眼观鼻、鼻观心，两耳不闻窗外事，这一次，终于是抬起了头，目光透着某种奇异的温润，“看来狼公子为我准备了不少大餐啊",
-        "”    “徐，”狼公子目光闪了闪，道：“让它进来"
+        "这是刁奉圣，怎么可能！",
+        "刁奉圣嘿然一笑，表情充斥着一种诡异的邪恶与超然",
+        "刁奉圣居高临下的望着寇立"
       ],
       "mention_count": 18
     },
     {
-      "name": "水龙帮",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "时间很快就到了与水龙帮约定好的那一天，寇立的屋内，一种密集的声音不是的响起，就像是水流的激射声，又像是大锅炒蚕豆的动静",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "时间很快就到了与水龙帮约定好的那一天，寇立的屋内，一种密集的声音不是的响起，就像是水流的激射声，又像是大锅炒蚕豆的动静",
-        "”    水龙帮大总管带着一大批头目，笑眯眯的走了过来，“今日是鲁师傅挂帅吗，林大师傅呢",
-        "“老大，水龙帮的人似乎很熟悉你"
+      "name": "罗严宗",
+      "aliases": [
+        "大师兄",
+        "海修罗"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "罗严",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身武馆大师兄",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "门口，岳武霍、罗严宗、莫一早已等候多时",
+      "first_appearance": "第六十三章 大船",
+      "summary": "烧身武馆大师兄，陪同寇立参加生死擂。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "门口，岳武霍、罗严宗、莫一早已等候多时",
-        "“师兄，你们这是——”    “烧身武馆的人出去打生死擂，怎么可能没有撑场面的，”罗严宗笑道",
-        "寇立心中生出一股感激之情，无论是粗豪的岳武霍，还是冷漠的莫一，以及温和如水的罗严宗，其实都把他当作了自家人"
+      "personality": [
+        "温和",
+        "冷静"
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "刁奉圣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "“这是刁奉圣，怎么可能",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“这是刁奉圣，怎么可能",
-        "”    “我看到你想要的东西，我已经得到你想要的东西，我可以赐予你想要的东西，”刁奉圣居高临下的望着寇立，他的眼神，仿佛能透过双眼，看到他心中最深处的秘密",
-        "”    “神，奉圣便为神，”刁奉圣低沉的道"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "岳武霍",
+          "type": "师弟"
+        },
+        {
+          "target": "莫一",
+          "type": "师弟"
+        },
+        {
+          "target": "霍峻东",
+          "type": "对手"
+        }
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "他要有一种能克制对方诡异拳意的手段，而这串念珠，就是最好的契机",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他要有一种能克制对方诡异拳意的手段，而这串念珠，就是最好的契机",
-        "“放心，”寇立温和一笑，拍了拍对方脑袋",
-        "岳武霍目光一缩，万一对方事后起意，不说别的，几百条巨弩火铳往内打，拳术再高也吃不住，恼意一闪，刚想说些什么，却被罗严宗止住"
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "与寇立等人前往赌船。"
+        },
+        {
+          "stage": "比武中",
+          "event": "观察寇立与刁奉圣的对决。"
+        }
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "岳武霍",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "前言",
-      "summary": "门口，岳武霍、罗严宗、莫一早已等候多时",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "门口，岳武霍、罗严宗、莫一早已等候多时",
-        "寇立心中生出一股感激之情，无论是粗豪的岳武霍，还是冷漠的莫一，以及温和如水的罗严宗，其实都把他当作了自家人",
-        "”岳武霍满脸吃惊"
+        "罗严宗温和的道",
+        "罗严宗面色一肃，毫不犹豫的上前一步",
+        "罗严宗表情不解"
       ],
       "mention_count": 12
     },
     {
-      "name": "水龙",
+      "name": "岳武霍",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "烧身武馆弟子",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "时间很快就到了与水龙帮约定好的那一天，寇立的屋内，一种密集的声音不是的响起，就像是水流的激射声，又像是大锅炒蚕豆的动静",
+      "first_appearance": "第六十三章 大船",
+      "summary": "烧身武馆弟子，性格粗豪。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "粗豪"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "时间很快就到了与水龙帮约定好的那一天，寇立的屋内，一种密集的声音不是的响起，就像是水流的激射声，又像是大锅炒蚕豆的动静",
-        "”    水龙帮大总管带着一大批头目，笑眯眯的走了过来，“今日是鲁师傅挂帅吗，林大师傅呢",
-        "“老大，水龙帮的人似乎很熟悉你"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "罗严宗",
+          "type": "师兄"
+        },
+        {
+          "target": "林素娥",
+          "type": "关心对象"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "与寇立等人前往赌船。"
+        }
+      ],
+      "evidence": [
+        "岳武霍目光一缩",
+        "岳武霍鼓起了牛眼",
+        "岳武霍激动的语无伦次"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "岳武",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "莫一",
+      "aliases": [
+        "老三"
+      ],
+      "identity": "烧身武馆弟子",
+      "faction": "烧身武馆",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "门口，岳武霍、罗严宗、莫一早已等候多时",
+      "first_appearance": "第六十三章 大船",
+      "summary": "烧身武馆弟子，性格冷漠。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷漠"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "门口，岳武霍、罗严宗、莫一早已等候多时",
-        "寇立心中生出一股感激之情，无论是粗豪的岳武霍，还是冷漠的莫一，以及温和如水的罗严宗，其实都把他当作了自家人",
-        "”岳武霍满脸吃惊"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "罗严宗",
+          "type": "师兄"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "与寇立等人前往赌船。"
+        }
+      ],
+      "evidence": [
+        "莫一冷不丁的道",
+        "莫一冷脸问",
+        "莫一低声道"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "狼公",
+      "name": "狼公子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "水龙帮公子",
+      "faction": "水龙帮",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "就这么一耽误，不远处走来了一大堆人，狼公子走在最前头，一身书生袍子，很是风雅",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "第六十三章 大船",
+      "summary": "水龙帮的公子，与寇立有恩怨，设下生死擂。",
+      "appearance": [
+        "一身书生袍子",
+        "风雅"
+      ],
+      "personality": [
+        "狡诈",
+        "得意"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "就这么一耽误，不远处走来了一大堆人，狼公子走在最前头，一身书生袍子，很是风雅",
-        "寇立打从上船以来，就一直眼观鼻、鼻观心，两耳不闻窗外事，这一次，终于是抬起了头，目光透着某种奇异的温润，“看来狼公子为我准备了不少大餐啊",
-        "”    “徐，”狼公子目光闪了闪，道：“让它进来"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "对手"
+        },
+        {
+          "target": "霍峻东",
+          "type": "合作者"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "迎接寇立等人上船。"
+        },
+        {
+          "stage": "比武中",
+          "event": "观察比武进程。"
+        }
+      ],
+      "evidence": [
+        "狼公子走在最前头，一身书生袍子，很是风雅",
+        "狼公子目光闪了闪",
+        "狼公子面色抽搐"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "目光",
+      "name": "霍峻东",
+      "aliases": [
+        "霍师傅"
+      ],
+      "identity": "通臂拳大拳师",
+      "faction": "晋行",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "通臂双霍之一，晋行大拳师，为师妹燕飞娘之死前来兴师问罪。",
+      "appearance": [
+        "蜡黄脸中年人",
+        "金刚怒目"
+      ],
+      "personality": [
+        "愤怒",
+        "杀意"
+      ],
+      "abilities": [
+        "通臂拳",
+        "四大炼级别"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "燕飞娘",
+          "type": "师妹"
+        },
+        {
+          "target": "寇立",
+          "type": "怀疑对象"
+        },
+        {
+          "target": "狼公子",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "在赌船上质问寇立关于燕飞娘之死。"
+        }
+      ],
+      "evidence": [
+        "霍峻东阴沉着脸道",
+        "霍峻东眼中杀机一闪",
+        "霍峻东选择了退缩"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "钟权",
+      "aliases": [
+        "铁胆子"
+      ],
+      "identity": "粤行会老",
+      "faction": "粤行",
+      "status": "登场",
+      "first_appearance": "第六十四章 超神（一）",
+      "summary": "粤行会老，曾帮洪大帅平定海祸，出面保寇立。",
+      "appearance": [],
+      "personality": [
+        "硬气",
+        "有骨气"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "保护对象"
+        },
+        {
+          "target": "霍峻东",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "带门徒上船，阻止霍峻东对寇立动手。"
+        }
+      ],
+      "evidence": [
+        "铁胆子钟权，带着六个门徒闯了进来",
+        "钟权这老汉居然硬顶硬",
+        "钟权愤怒的同时，眼中倒是多了一丝欣赏"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "黄公子",
       "aliases": [],
-      "identity": "",
+      "identity": "未知势力公子",
       "faction": "",
       "status": "登场",
-      "first_appearance": "前言",
-      "summary": "”郑小宝目光一亮，脱口道",
+      "first_appearance": "第六十三章 大船",
+      "summary": "乘福船而来的神秘公子，带人上赌船观战。",
+      "appearance": [],
+      "personality": [
+        "妩媚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "关注对象"
+        },
+        {
+          "target": "狼公子",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "乘福船到达赌船，要求观战。"
+        }
+      ],
+      "evidence": [
+        "黄公子轻轻一笑，凭空多了一丝妩媚",
+        "黄公子看了看寇立，又看向不远处的林素娥"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林素娥",
+      "aliases": [],
+      "identity": "被水龙帮绑架的女子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十四章 超神（一）",
+      "summary": "被水龙帮绑架的女子，寇立为救她而参加生死擂。",
+      "appearance": [
+        "面色有些苍白"
+      ],
+      "personality": [
+        "焦急"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "被救之人"
+        },
+        {
+          "target": "岳武霍",
+          "type": "关心者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "被水龙帮释放，与寇立见面。"
+        }
+      ],
+      "evidence": [
+        "林素娥就被带了出来，面色有些苍白",
+        "林素娥满眼满心都放在了寇立身上",
+        "林素娥顿时发出一声尖叫"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "翟关",
+      "aliases": [
+        "五师兄"
+      ],
+      "identity": "烧身武馆五师兄",
+      "faction": "烧身武馆",
+      "status": "提及",
+      "first_appearance": "第六十四章 超神（一）",
+      "summary": "烧身武馆五师兄，在比武前夜秘密会见寇立，给予火丹。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”郑小宝目光一亮，脱口道",
-        "”    寇立垂下的目光一抬，然后再度收回",
-        "岳武霍目光一缩，万一对方事后起意，不说别的，几百条巨弩火铳往内打，拳术再高也吃不住，恼意一闪，刚想说些什么，却被罗严宗止住"
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "比武前夜",
+          "event": "秘密会见寇立，给予火丹。"
+        }
+      ],
+      "evidence": [
+        "五师兄翟关",
+        "这是火丹，服下去后，你的力量、速度、反应会暴增到极限"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "燕飞娘",
+      "aliases": [],
+      "identity": "霍峻东的师妹",
+      "faction": "晋行",
+      "status": "提及",
+      "first_appearance": "第六十四章 超神（一）",
+      "summary": "霍峻东的师妹，已死，被怀疑是寇立所杀。",
+      "appearance": [],
+      "personality": [
+        "刁蛮任性"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "霍峻东",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "离家出走，死亡。"
+        }
+      ],
+      "evidence": [
+        "我三师妹燕飞娘，是不是你杀死的！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "郭师傅",
+      "aliases": [
+        "老郭"
+      ],
+      "identity": "潮汕拳馆拳师",
+      "faction": "粤行",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "粤行派来做公证的拳师之一，曾打断八口牛骨尖刀。",
+      "appearance": [
+        "圆背宽腰",
+        "面色红润",
+        "像厨子"
+      ],
+      "personality": [
+        "有骨气"
+      ],
+      "abilities": [
+        "拳术练到四梢"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈师傅",
+          "type": "同伴"
+        },
+        {
+          "target": "岳武霍",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "作为公证人上船。"
+        }
+      ],
+      "evidence": [
+        "郭师傅尴尬的道",
+        "郭师傅顿了顿，纠结的叹了口气"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "陈师傅",
+      "aliases": [],
+      "identity": "粤行拳师",
+      "faction": "粤行",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "粤行派来做公证的拳师之一，父亲被水龙帮斩死。",
+      "appearance": [
+        "脸面老成",
+        "双眼阴郁"
+      ],
+      "personality": [],
+      "abilities": [
+        "拳术练到四梢"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "郭师傅",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "作为公证人上船。"
+        }
+      ],
+      "evidence": [
+        "陈师傅的父亲，当年就是在争地盘时，被水龙帮人斩死的"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "徐开山",
+      "aliases": [],
+      "identity": "未知势力人物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "与黄公子同船而来的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黄公子",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "与黄公子乘福船到达。"
+        }
+      ],
+      "evidence": [
+        "徐开山站在船头，对着狼公子叫道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "郑小宝",
+      "aliases": [],
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "烧身武馆学徒，曾预见寇立的未来。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "在武馆为寇立加油。"
+        }
+      ],
+      "evidence": [
+        "郑小宝目光一亮，脱口道",
+        "郑小宝看见的未来，光若将灭之烛火"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "姜水源",
+      "aliases": [],
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "烧身武馆学徒，借给寇立六百两银子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "在武馆为寇立加油。"
+        }
+      ],
+      "evidence": [
+        "姜水源小声的道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "插翅狼",
+      "aliases": [
+        "罗翼"
+      ],
+      "identity": "水龙帮四狼八虎之一",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "水龙帮四狼八虎中的插翅狼。",
+      "appearance": [
+        "懒散"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大力狼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "在赌船上出现。"
+        }
+      ],
+      "evidence": [
+        "插翅狼罗翼也收敛了玩世不恭的表情"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "大力狼",
+      "aliases": [],
+      "identity": "水龙帮四狼八虎之一",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "水龙帮四狼八虎中的大力狼。",
+      "appearance": [
+        "九尺大汉",
+        "赤裸虬结的上半身",
+        "纹着吞肉的恶狼"
+      ],
+      "personality": [
+        "呆滞"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "插翅狼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "在赌船上出现。"
+        }
+      ],
+      "evidence": [
+        "一个眼神有些呆滞的九尺大汉"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "水龙帮大总管",
+      "aliases": [],
+      "identity": "水龙帮大总管",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第六十三章 大船",
+      "summary": "水龙帮大总管，负责接待寇立等人。",
+      "appearance": [],
+      "personality": [
+        "笑眯眯"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "狼公子",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "比武前",
+          "event": "迎接寇立等人上船。"
+        }
+      ],
+      "evidence": [
+        "水龙帮大总管带着一大批头目，笑眯眯的走了过来"
+      ],
+      "mention_count": 2
     }
   ]
 }

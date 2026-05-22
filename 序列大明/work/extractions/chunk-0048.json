@@ -1,247 +1,175 @@
 {
   "chunk_id": "chunk-0048",
-  "title": "第47章教坊司",
   "characters": [
-    {
-      "name": "顾邕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "顾邕说罢也不等李钧回答，张开双臂，迎着寒风大步走出院子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "顾邕说罢也不等李钧回答，张开双臂，迎着寒风大步走出院子",
-        "顾邕这番癫狂的独角戏看的李钧目瞪口呆，果然不管是什么世界，有些东西千万沾不得",
-        "”　　顾邕抚掌大笑，脸上神采飞扬"
-      ],
-      "mention_count": 22
-    },
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "集团安保主管",
+      "faction": "顾邕集团",
       "status": "登场",
       "first_appearance": "第47章教坊司",
-      "summary": "第47章教坊司　　李钧跟在一名接引侍女身后走进教坊司，眼神没有落在身前故意摇曳的腰肢上，而是不断审视着沿途的环境",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第47章教坊司　　李钧跟在一名接引侍女身后走进教坊司，眼神没有落在身前故意摇曳的腰肢上，而是不断审视着沿途的环境",
-        "有不少型号李钧也只在鸡鹅区的地下黑市图录中看到过，都是那种能够卖到天价的绝版收藏品",
-        "一些侍立在院门口的护卫察觉到李钧的目光，立马投回警告的眼神，从身上散发出的危险气息来看，竟然有不少是序列九的高手"
+      "summary": "新入职的安保主管，谨慎冷静，受到顾邕赏识。",
+      "appearance": [
+        "壮硕"
       ],
-      "mention_count": 12
+      "personality": [
+        "谨慎",
+        "冷静",
+        "不卑不亢"
+      ],
+      "abilities": [
+        "序列九高手",
+        "武八"
+      ],
+      "equipment": [
+        "黑色卡片"
+      ],
+      "relationships": [
+        {
+          "target": "顾邕",
+          "type": "老板"
+        },
+        {
+          "target": "杜十三娘",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入教坊司，与顾邕会面，接受入职礼物和任务。"
+        }
+      ],
+      "evidence": [
+        "李钧跟在一名接引侍女身后走进教坊司",
+        "李钧脸上露出一丝惭愧，“老板你过誉了”",
+        "李钧曲指在那根神经线束上轻轻一弹，表情肃穆道：“爷们我只玩真实。”"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "教坊司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "顾邕",
+      "aliases": [
+        "顾老板"
+      ],
+      "identity": "集团老板",
+      "faction": "顾邕集团",
       "status": "登场",
       "first_appearance": "第47章教坊司",
-      "summary": "第47章教坊司　　李钧跟在一名接引侍女身后走进教坊司，眼神没有落在身前故意摇曳的腰肢上，而是不断审视着沿途的环境",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第47章教坊司　　李钧跟在一名接引侍女身后走进教坊司，眼神没有落在身前故意摇曳的腰肢上，而是不断审视着沿途的环境",
-        "在寸土寸金的青阳区，教坊司的占地面积称得上大手笔，布置高明的园林中隐藏着一栋栋独门独院的小楼，灯火幽幽，格外静谧",
-        "虽然还没有看到一名教坊司清官人，但光是这些露在表面上的排场，就已经让人足够震撼"
+      "summary": "集团老板，性格癫狂，赏识李钧，与天府重工有仇。",
+      "appearance": [
+        "年轻书生",
+        "黑底云纹长衫"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "一块",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "一块虚拟棋盘投射在他面前，正在与人隔空对弈",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一块虚拟棋盘投射在他面前，正在与人隔空对弈",
-        "“就算是那种粗制滥造，拿出去糊弄人的六艺芯片，一块也不过几十万宝钞"
+      "personality": [
+        "癫狂",
+        "亢奋",
+        "豪爽"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "看起",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "”　　注入器的外壳呈现青、赤、黄、白、黑五种颜色，看起来颇为神秘",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　注入器的外壳呈现青、赤、黄、白、黑五种颜色，看起来颇为神秘",
-        "顾邕自言自语，表情时而兴奋时而冷峻，看起来竟有些疯癫"
+      "equipment": [
+        "虚拟棋盘",
+        "黑色卡片",
+        "五色注入器"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "庭院",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "庭院前停着的汽车类别之多，价格之贵，令人瞠目结舌",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "庭院前停着的汽车类别之多，价格之贵，令人瞠目结舌"
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "老板"
+        },
+        {
+          "target": "杜十三娘",
+          "type": "相识"
+        },
+        {
+          "target": "吴锦丰",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "杜十",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "”　　杜十三娘轻手轻脚解开顾邕头顶的发髻，柔荑托着书生下巴，拿起那支注入器朝着他颈后的脑机接口滴下几滴",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　杜十三娘轻手轻脚解开顾邕头顶的发髻，柔荑托着书生下巴，拿起那支注入器朝着他颈后的脑机接口滴下几滴",
-        "”　　站在他身后的杜十三娘突然朝房外递去一个隐晦的眼神，立马有侍女捧着一支注入器快步走了进来",
-        "一具火辣丰腴的娇躯靠了过来，杜十三娘艳若桃花的双眼在李钧壮硕的身体上来回扫动"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在教坊司与李钧会面，给予入职礼物，交代任务。"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "杜十三",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "”　　杜十三娘轻手轻脚解开顾邕头顶的发髻，柔荑托着书生下巴，拿起那支注入器朝着他颈后的脑机接口滴下几滴",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”　　杜十三娘轻手轻脚解开顾邕头顶的发髻，柔荑托着书生下巴，拿起那支注入器朝着他颈后的脑机接口滴下几滴",
-        "”　　站在他身后的杜十三娘突然朝房外递去一个隐晦的眼神，立马有侍女捧着一支注入器快步走了进来",
-        "一具火辣丰腴的娇躯靠了过来，杜十三娘艳若桃花的双眼在李钧壮硕的身体上来回扫动"
+        "顾邕抚掌大笑，脸上神采飞扬",
+        "顾邕大袖一甩，将棋盘虚影挥散",
+        "顾邕自言自语，表情时而兴奋时而冷峻，看起来竟有些疯癫。"
       ],
-      "mention_count": 3
+      "mention_count": 18
     },
     {
       "name": "杜十三娘",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "十三娘"
+      ],
+      "identity": "教坊司头牌",
       "faction": "",
       "status": "登场",
       "first_appearance": "第47章教坊司",
-      "summary": "”　　杜十三娘轻手轻脚解开顾邕头顶的发髻，柔荑托着书生下巴，拿起那支注入器朝着他颈后的脑机接口滴下几滴",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　杜十三娘轻手轻脚解开顾邕头顶的发髻，柔荑托着书生下巴，拿起那支注入器朝着他颈后的脑机接口滴下几滴",
-        "”　　站在他身后的杜十三娘突然朝房外递去一个隐晦的眼神，立马有侍女捧着一支注入器快步走了进来",
-        "一具火辣丰腴的娇躯靠了过来，杜十三娘艳若桃花的双眼在李钧壮硕的身体上来回扫动"
+      "summary": "教坊司头牌，美艳，与顾邕关系亲密。",
+      "appearance": [
+        "宫装女人",
+        "火辣丰腴",
+        "艳若桃花"
       ],
-      "mention_count": 3
+      "personality": [
+        "妩媚",
+        "善解人意"
+      ],
+      "abilities": [],
+      "equipment": [
+        "神经线束",
+        "注入器"
+      ],
+      "relationships": [
+        {
+          "target": "顾邕",
+          "type": "相识"
+        },
+        {
+          "target": "李钧",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在教坊司陪伴顾邕，与李钧见面。"
+        }
+      ],
+      "evidence": [
+        "杜十三娘轻手轻脚解开顾邕头顶的发髻",
+        "杜十三娘艳若桃花的双眼在李钧壮硕的身体上来回扫动",
+        "杜十三娘轻笑一声，推动注入器"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "牵动",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "”　　偶尔看到惊险处还会捧心惊呼，牵动身上山峦一阵起伏，看得出来应该都是原装货",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　偶尔看到惊险处还会捧心惊呼，牵动身上山峦一阵起伏，看得出来应该都是原装货"
+      "name": "吴锦丰",
+      "aliases": [
+        "吴老狗"
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天府重工负责人",
+      "faction": "天府重工",
+      "status": "提及",
       "first_appearance": "第47章教坊司",
-      "summary": "“十三娘，这位就是我们集团新的安保主管，怎么样",
+      "summary": "天府重工负责人，与顾邕敌对。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“十三娘，这位就是我们集团新的安保主管，怎么样",
-        "这位教坊司头牌秋水般的眸子在李钧身上一扫，抿嘴笑道：“确实英武不凡"
+      "relationships": [
+        {
+          "target": "顾邕",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "根本",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第47章教坊司",
-      "summary": "“我要入仕，我也要入仕.”　　顾邕大袖一甩，将棋盘虚影挥散，根本不看躺在托盘中的明黄帛书一眼，朝着身后的美妇笑问道：　　“现在白龙寺把仇都记在了天府重工身上，放话出来要拔了他们在松潘卫的所有军火生意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
       "timeline": [],
       "evidence": [
-        "“我要入仕，我也要入仕.”　　顾邕大袖一甩，将棋盘虚影挥散，根本不看躺在托盘中的明黄帛书一眼，朝着身后的美妇笑问道：　　“现在白龙寺把仇都记在了天府重工身上，放话出来要拔了他们在松潘卫的所有军火生意"
+        "现在白龙寺把仇都记在了天府重工身上",
+        "关键就在如何压制天府重工，把吴锦丰这条老狗逼上绝路！"
       ],
       "mention_count": 3
     }

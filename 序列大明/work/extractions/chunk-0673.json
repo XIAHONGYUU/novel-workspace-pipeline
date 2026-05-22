@@ -1,244 +1,381 @@
 {
   "chunk_id": "chunk-0673",
-  "title": "第671章有神谋仙",
   "characters": [
     {
       "name": "李钧",
       "aliases": [],
-      "identity": "",
+      "identity": "武夫",
       "faction": "",
       "status": "登场",
       "first_appearance": "第671章有神谋仙",
-      "summary": "但随着张希极霸道无比的话音响起，‘仙’不再是脑海之中进行的拆文解字的游戏，而是真正出现在李钧等人眼前的场景",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但随着张希极霸道无比的话音响起，‘仙’不再是脑海之中进行的拆文解字的游戏，而是真正出现在李钧等人眼前的场景",
-        "令人窒息的压迫感从四面倾轧而来，带给李钧的压力远胜刚才",
-        "“没想到这个东西居然还存在.”　　独眼中传出马王爷震惊的话音，在李钧的身后响起"
+      "summary": "与张希极正面交战的武夫，体内有崩势劲力，身穿暗金色墨甲，使用鬼头大刀和狰狞大枪。",
+      "appearance": [
+        "暗金色墨甲",
+        "眉嵌红眼",
+        "鬼头大刀",
+        "狰狞大枪"
       ],
-      "mention_count": 28
+      "personality": [
+        "悍勇",
+        "冲动",
+        "厌恶装模作样的神仙"
+      ],
+      "abilities": [
+        "崩势劲力",
+        "黑红雷霆"
+      ],
+      "equipment": [
+        "暗金色墨甲",
+        "鬼头大刀",
+        "狰狞大枪"
+      ],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "战友"
+        },
+        {
+          "target": "张希极",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张希极交战，被墨甲吞入，使用鬼头大刀和狰狞大枪攻击。"
+        }
+      ],
+      "evidence": [
+        "李钧体内的崩势劲力瞬间爆发，激荡翻涌，将周围众人全部掀飞出去。",
+        "一具暗金色的墨甲后发先至，胸膛甲片张开，一口吞下李钧的身体！",
+        "李钧毫不犹豫扣下扳机，体内鼓噪的锋劲顷刻间便被彻底抽干！"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "杨白泽",
-      "aliases": [],
-      "identity": "",
+      "name": "张希极",
+      "aliases": [
+        "老张头",
+        "天师"
+      ],
+      "identity": "龙虎道国天师，道序二",
+      "faction": "龙虎道国",
+      "status": "登场",
+      "first_appearance": "第671章有神谋仙",
+      "summary": "龙虎道国天师，实力强横，拥有昆仑道祖法器和星辰剑阵，性格冷漠无情。",
+      "appearance": [
+        "鹤发童颜",
+        "紫袍"
+      ],
+      "personality": [
+        "冷漠",
+        "漠然",
+        "没有人性"
+      ],
+      "abilities": [
+        "操控昆仑",
+        "星辰剑阵",
+        "神念凝聚成手"
+      ],
+      "equipment": [
+        "昆仑（道祖法器）",
+        "机械莲花",
+        "星辰剑阵"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "严东庆",
+          "type": "敌对"
+        },
+        {
+          "target": "黄梁",
+          "type": "拥有者（三成权限）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以灵体现身，后本体出现，操控昆仑和星辰剑阵攻击李钧。"
+        }
+      ],
+      "evidence": [
+        "山巅之上，鹤发童颜的紫袍道人负手而立，凌空御虚。",
+        "张希极面无表情，擎张的五指猛然扣拢。",
+        "张希极脸上依旧是那副僵硬的漠然，飘然落在严东庆身旁。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "马王爷",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "明鬼，李钧的战友",
       "faction": "",
       "status": "登场",
       "first_appearance": "第671章有神谋仙",
-      "summary": "”　　金陵城衙署，杨白泽凝望着投影中的浮梁城，脸上满是不解",
+      "summary": "李钧的战友，知晓昆仑的来历，能操控墨甲，提供武器。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "豪迈",
+        "直爽"
+      ],
+      "abilities": [
+        "操控墨甲",
+        "提供武器"
+      ],
+      "equipment": [
+        "墨甲",
+        "狰狞大枪"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        },
+        {
+          "target": "邹四九",
+          "type": "保护"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧并肩作战，操控墨甲，提供狰狞大枪。"
+        }
+      ],
       "evidence": [
-        "”　　金陵城衙署，杨白泽凝望着投影中的浮梁城，脸上满是不解",
-        "”　　杨白泽依旧不明所以",
-        "”　　杨白泽毫不犹豫回答道：“所以他根本不可能会愿意为了他人生死而牺牲自己，要不然他从一开始就不会出卖春秋会"
+        "独眼中传出马王爷震惊的话音，在李钧的身后响起。",
+        "远处的马王爷心灵神会，不禁闻声大笑，扬手便将昏迷不醒的邹四九扔向陈乞生。",
+        "红眼中传出豪迈响声，李钧只听耳边铿锵不断，后背甲片忽然裂开，根根甲骨弹出，交错拼合，眨眼间组成一把狰狞大枪。"
       ],
       "mention_count": 10
     },
     {
-      "name": "张希极",
+      "name": "邹四九",
       "aliases": [],
-      "identity": "",
+      "identity": "红发修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第671章有神谋仙",
-      "summary": "但随着张希极霸道无比的话音响起，‘仙’不再是脑海之中进行的拆文解字的游戏，而是真正出现在李钧等人眼前的场景",
-      "appearance": [],
+      "summary": "红发披肩的修士，被昆仑的机械莲花影响而昏迷。",
+      "appearance": [
+        "红发披肩"
+      ],
+      "personality": [],
+      "abilities": [
+        "控制信徒梦境"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "被保护"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被机械莲花影响，陷入昏迷。"
+        }
+      ],
+      "evidence": [
+        "红发披肩的邹四九闻声回头，愕然问道。",
+        "邹四九突然发出一声闷哼，脸色惨白，神情萎靡",
+        "被马王爷护住的邹四九表面看上去并无大碍，只是一头红发已然悄然褪回黑色，双眼紧闭，陷入了昏迷之中。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "甲胄战士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第671章有神谋仙",
+      "summary": "身穿甲胄的战士，在战斗中受伤。",
+      "appearance": [
+        "一身甲胄残破不堪"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但随着张希极霸道无比的话音响起，‘仙’不再是脑海之中进行的拆文解字的游戏，而是真正出现在李钧等人眼前的场景",
-        "虽然不确定此刻现身的张希极到底是本体，或者还是一具分身，但有一点毋庸置疑，那就是实力远比之前那道灵体更加强横",
-        "现在看来，张希极这老东西也是够能忍的，当年差点被人弄死都没把这个东西拿出来"
+      "equipment": [
+        "甲胄"
       ],
-      "mention_count": 8
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在战斗中受伤，单膝跪地。"
+        }
+      ],
+      "evidence": [
+        "远处，陈乞生单膝跪地，一身甲胄残破不堪，裸露的皮肤如同被利器生生剐去，鲜血淋漓。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "严东庆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "严会首"
+      ],
+      "identity": "儒序成员，春秋会前会首",
+      "faction": "儒序",
       "status": "登场",
       "first_appearance": "第671章有神谋仙",
-      "summary": "严东庆，难道你之前跟本君说的那些话，只是在诓骗本君",
-      "appearance": [],
-      "personality": [],
+      "summary": "儒序成员，曾出卖春秋会，现欲假死脱身。",
+      "appearance": [
+        "白衣胜雪",
+        "满头黑发一丝不苟束在青冠之中"
+      ],
+      "personality": [
+        "自私自利",
+        "赌徒"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张希极",
+          "type": "敌对"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "黄梁",
+          "type": "相关"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身要求李钧罢手，声称愿意牺牲自己。"
+        }
+      ],
       "evidence": [
-        "严东庆，难道你之前跟本君说的那些话，只是在诓骗本君",
-        "严东庆不值得您如此大动干戈",
-        "”　　严东庆白衣胜雪，满头黑发一丝不苟束在青冠之中，眉眼间正气凛然"
+        "严东庆白衣胜雪，满头黑发一丝不苟束在青冠之中，眉眼间正气凛然。",
+        "严东庆，难道你之前跟本君说的那些话，只是在诓骗本君？",
+        "严东庆不值得您如此大动干戈！"
       ],
       "mention_count": 8
-    },
-    {
-      "name": "杨白",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第671章有神谋仙",
-      "summary": "”　　金陵城衙署，杨白泽凝望着投影中的浮梁城，脸上满是不解",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”　　金陵城衙署，杨白泽凝望着投影中的浮梁城，脸上满是不解",
-        "”　　杨白泽依旧不明所以",
-        "”　　杨白泽毫不犹豫回答道：“所以他根本不可能会愿意为了他人生死而牺牲自己，要不然他从一开始就不会出卖春秋会"
-      ],
-      "mention_count": 8
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第671章有神谋仙",
-      "summary": "被马王爷护住的邹四九表面看上去并无大碍，只是一头红发已然悄然褪回黑色，双眼紧闭，陷入了昏迷之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "被马王爷护住的邹四九表面看上去并无大碍，只是一头红发已然悄然褪回黑色，双眼紧闭，陷入了昏迷之中",
-        "严东庆，难道你之前跟本君说的那些话，只是在诓骗本君",
-        "张希极脸上依旧是那副僵硬的漠然，飘然落在严东庆身旁，只是将李钧换拳的右手隐在袖中，背在了身后"
-      ],
-      "mention_count": 7
     },
     {
       "name": "张崇诚",
       "aliases": [],
-      "identity": "",
+      "identity": "观察者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第671章有神谋仙",
-      "summary": "冰冷的夜风被高温烘烤成暖流，吹拂而来，轻轻拍打在张崇诚的脸上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冰冷的夜风被高温烘烤成暖流，吹拂而来，轻轻拍打在张崇诚的脸上",
-        "”　　在张希极以灵体现身之前，张崇诚便已经悄然远离了浮梁城",
-        "别说是看，光是想到这个名字，张崇诚的心头便会不受控制的涌起无边恐惧"
+      "summary": "在远处观察浮梁城战况的人物，对张希极充满恐惧。",
+      "appearance": [
+        "闪动着幽绿的眼睛"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "看见",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第671章有神谋仙",
-      "summary": "肆虐的余波不知道持续了多久，等到蒙蔽眼眸的炽光淡去，李钧才发现自己竟站在一片旷野之中，目光无遮无挡，轻而易举便能看见极遥远处的地平线",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "肆虐的余波不知道持续了多久，等到蒙蔽眼眸的炽光淡去，李钧才发现自己竟站在一片旷野之中，目光无遮无挡，轻而易举便能看见极遥远处的地平线",
-        "他看见了漫天的剑光和满地的尸体，看见了陈乞生的脸上的恨意，看见了李钧眼中的怒火，看见了良公明嘴角似有若无的笑容"
+      "personality": [
+        "恐惧"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "张希",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第671章有神谋仙",
-      "summary": "但随着张希极霸道无比的话音响起，‘仙’不再是脑海之中进行的拆文解字的游戏，而是真正出现在李钧等人眼前的场景",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但随着张希极霸道无比的话音响起，‘仙’不再是脑海之中进行的拆文解字的游戏，而是真正出现在李钧等人眼前的场景",
-        "虽然不确定此刻现身的张希极到底是本体，或者还是一具分身，但有一点毋庸置疑，那就是实力远比之前那道灵体更加强横",
-        "现在看来，张希极这老东西也是够能忍的，当年差点被人弄死都没把这个东西拿出来"
+      "abilities": [
+        "远距离观察"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "严东",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第671章有神谋仙",
-      "summary": "严东庆，难道你之前跟本君说的那些话，只是在诓骗本君",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "严东庆，难道你之前跟本君说的那些话，只是在诓骗本君",
-        "严东庆不值得您如此大动干戈",
-        "”　　严东庆白衣胜雪，满头黑发一丝不苟束在青冠之中，眉眼间正气凛然"
+      "relationships": [
+        {
+          "target": "张希极",
+          "type": "恐惧"
+        },
+        {
+          "target": "严东庆",
+          "type": "期待"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第671章有神谋仙",
-      "summary": "虽然不确定此刻现身的张希极到底是本体，或者还是一具分身，但有一点毋庸置疑，那就是实力远比之前那道灵体更加强横",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在远处观察浮梁城，看到严东庆现身。"
+        }
+      ],
       "evidence": [
-        "虽然不确定此刻现身的张希极到底是本体，或者还是一具分身，但有一点毋庸置疑，那就是实力远比之前那道灵体更加强横",
-        "”　　李钧眉头一挑，笑道：“那就走着"
+        "冰冷的夜风被高温烘烤成暖流，吹拂而来，轻轻拍打在张崇诚的脸上。",
+        "他看见了漫天的剑光和满地的尸体，看见了陈乞生的脸上的恨意，看见了李钧眼中的怒火，看见了良公明嘴角似有若无的笑容。",
+        "张崇诚满意一笑，不再流连，果断拂袖转身。"
       ],
       "mention_count": 4
     },
     {
-      "name": "浮梁城",
+      "name": "杨白泽",
+      "aliases": [],
+      "identity": "金陵城衙署官员",
+      "faction": "儒序",
+      "status": "提及",
+      "first_appearance": "第671章有神谋仙",
+      "summary": "金陵城衙署官员，与刘谨勋讨论浮梁城局势。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘谨勋",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与刘谨勋讨论严东庆的目的。"
+        }
+      ],
+      "evidence": [
+        "金陵城衙署，杨白泽凝望着投影中的浮梁城，脸上满是不解。",
+        "杨白泽眉头紧皱，沉吟片刻后说道：“难道是为了假死脱身？”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "刘谨勋",
+      "aliases": [
+        "首辅"
+      ],
+      "identity": "儒序首辅",
+      "faction": "儒序",
+      "status": "提及",
+      "first_appearance": "第671章有神谋仙",
+      "summary": "儒序首辅，与杨白泽讨论黄梁权限分配和严东庆的意图。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与杨白泽分析严东庆假死脱身的可能性。"
+        }
+      ],
+      "evidence": [
+        "安坐椅中的刘谨勋淡淡道：“我们儒序自己拿了两成。”",
+        "刘谨勋点了点头，继续问道：“那他又如何假死，又是想从谁的手中脱身？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "良公明",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第671章有神谋仙",
-      "summary": "一座庞大的山峰从天边横移而来，投下的沉重阴影一寸寸吞噬死寂的浮梁城",
+      "summary": "被张崇诚看到嘴角有似若无的笑容。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -246,11 +383,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "一座庞大的山峰从天边横移而来，投下的沉重阴影一寸寸吞噬死寂的浮梁城",
-        "浮梁城中，那些本该沉睡在梦境之中的信徒们幡然醒来，彻底摆脱了邹四九的控制，朝着头顶的‘昆仑’不断叩拜",
-        "”　　在张希极以灵体现身之前，张崇诚便已经悄然远离了浮梁城"
+        "看见了良公明嘴角似有若无的笑容。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }
