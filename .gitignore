@@ -21,3 +21,9 @@ node_modules/
 待处理小说/*.txt
 刀笼/source/DAOLONG.md
 .env
+
+# transient chapter-distillation artifacts
+**/.distill_progress
+**/*.bak
+**/*.bak2
+**/work/chapter-distillation/

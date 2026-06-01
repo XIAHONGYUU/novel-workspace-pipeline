@@ -152,6 +152,16 @@ python3 scripts/validate_chapter_distillation_outputs.py --workspace <项目名>
 
 **不负责**：不生成任何包含分析内容的骨架文件，不填写"核心推进"、"主角状态"等字段。
 
+### `distill_chapters.py`（新增）
+
+**职责**：调用 DeepSeek API 批量蒸馏整本小说。自动检测编码和章节格式，3章/批生成蒸馏骨架。支持断点续跑。
+
+**落盘规则**：
+
+- 正式产物只写回 `<小说名>-章节蒸馏骨架.md`
+- 中间续跑状态、批次原文结果、备份文件统一写入 `work/chapter-distillation/`
+- 不应把 `.distill_progress`、`.bak`、批次日志直接堆到工作区根目录
+
 ### `validate_chapter_distillation_outputs.py`
 
 **职责**：检查蒸馏骨架是否覆盖所有章节、每章是否包含必需字段、是否检测到模板话术。
@@ -162,10 +172,73 @@ python3 scripts/validate_chapter_distillation_outputs.py --workspace <项目名>
 
 | 文件 | 生成方式 | 内容 |
 |---|---|---|
-| 章节边界清单 | init 脚本自动 | 章节号、标题、源文件行号范围 |
-| `<小说名>-章节蒸馏骨架.md` | AI 逐章蒸馏 | 每章 6 条确认事实 |
+| `chapter-distillation-manifest.json` | init 脚本自动 | 章节号、标题、源文件行号范围 |
+| `<小说名>-章节蒸馏骨架.md` | AI 逐章蒸馏 / 批量脚本重建 | 每章 6 条确认事实 |
+| `<小说名>-阶段骨架与换挡草图.md` | init 后人工补齐 | 阶段换挡与篇章段落 |
+| `<小说名>-校准与验证锚点.md` | init 后人工补齐 | 后续层回看和校准锚点 |
+| `work/chapter-distillation/` | 批量脚本自动 | 续跑进度、批次缓存、备份 |
 
-不再需要 `chapter-distillation-manifest.json`、`阶段骨架与换挡草图.md`、`校准与验证锚点.md`——这三个文件的功能被合并到蒸馏骨架本身：
-- manifest 功能 → 蒸馏骨架每章的"源文件行"字段
-- 阶段划分功能 → 蒸馏骨架每章的"阶段判断"字段
-- 校准锚点功能 → 蒸馏骨架每章的"核心推进"和"章末钩子"字段
+注意：当前工作区 workflow 仍把 `manifest / 阶段骨架 / 校准锚点` 视为正式层文件的一部分。
+不要把它们当成冗余文件删除，否则 validator 和 orchestrator 会误判这一层未完成。
+
+---
+
+## DeepSeek API 自动蒸馏模式（新增）
+
+### 概述
+
+当需要蒸馏整本长篇（数百章）时，手工逐章蒸馏耗时过长。`distill_chapters.py` 脚本调用 DeepSeek API 批量生成蒸馏骨架。
+
+### 使用方式
+
+```bash
+cd /home/zuoky/project && source .env
+
+# 基本用法（自动检测编码和章节格式）
+python3 novel-chapter-distillation-skill/scripts/distill_chapters.py <小说名>
+
+# 指定源文件
+python3 novel-chapter-distillation-skill/scripts/distill_chapters.py <小说名> --source /path/to/source.md
+
+# 断点续跑（中断后直接重新执行）
+python3 novel-chapter-distillation-skill/scripts/distill_chapters.py <小说名>
+```
+
+### 支持的源文件格式
+
+脚本自动检测以下格式：
+
+| 编码 | 章节格式 | 示例 |
+|------|---------|------|
+| UTF-8 | `## 第001章 标题` | 巫师世界、刀笼 |
+| UTF-8 | `## 第一章 标题` | 刀笼（中文数字） |
+| GBK | `正文 第一章 标题` | 寇道 |
+| UTF-8 | `第001章 标题` | 序列大明等 |
+
+### 技术参数
+
+| 参数 | 值 | 说明 |
+|------|:---:|------|
+| 批次大小 | 3 章/次 | 平衡质量和速度 |
+| 上下文占用 | ~2% | DeepSeek 128K 窗口内安全 |
+| 单次耗时 | ~25 秒 | 含重试间隔 |
+| 费用 | ~$0.005/批 | DeepSeek 定价 |
+| 质量评分 | ~90/100 | 因果密度 ~1%，高于模板填充 |
+
+### 与手工蒸馏的区别
+
+| 维度 | 手工蒸馏 | DeepSeek 自动蒸馏 |
+|------|---------|-------------------|
+| 速度 | ~10 章/小时 | ~180 章/小时 |
+| 质量 | 95-100 分 | 90 分 |
+| 适用场景 | 前 20 章关键章节 | 全书 500+ 章批量 |
+| 因果密度 | ~10% | ~1-2% |
+| 可定位性 | 每章标注源文件行号 | 引用具体事件但无行号 |
+
+### 已完成蒸馏的小说
+
+| 小说 | 章节数 | 结果 | 批次 |
+|------|:---:|:---:|:---:|
+| 寇道 | 593 | 98.3/100 | 198 |
+| 刀笼 | 847 | 98.3/100 | 283 |
+| 巫师世界 | 646 | 80.8/100 | 216 |

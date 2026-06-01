@@ -9,7 +9,7 @@ from pathlib import Path
 def main() -> int:
     repo_root = Path(__file__).resolve().parents[1]
     script = repo_root / "novel-chapter-distillation-skill/scripts/distill_chapters.py"
-    cmd = ["python3", str(script), "寇道", "--project-root", str(repo_root)]
+    cmd = ["python3", str(script), "刀笼", "--project-root", str(repo_root)]
     return subprocess.run(cmd, check=False).returncode
 
 

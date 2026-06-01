@@ -365,6 +365,8 @@ def readme_md(
   阶段换挡的第一版草图
 - `{novel_name}-校准与验证锚点.md`
   后续 skill 用来检查漂移和回看的锚点
+- `work/chapter-distillation/`
+  章节蒸馏的中间续跑状态、批次缓存和备份目录
 - `工作状态-{date.today().isoformat()}.md`
   当前项目级交接文件
 
@@ -380,6 +382,7 @@ def readme_md(
 
 - 当前已识别章节数：`{len(chapters)}`
 - 当前工作区刚初始化完成，以上蒸馏文件默认只是占位骨架，不代表章节蒸馏已完成。
+- 后续批量蒸馏时，中间进度和备份应落在 `work/chapter-distillation/`，不要把 `.distill_progress` 或 `.bak` 直接堆在工作区根目录。
 {mode_line}- 这一层默认应先于主角层、开篇层、整书层和高光层使用。
 
 ## 已探测到的可复用上下文文件
