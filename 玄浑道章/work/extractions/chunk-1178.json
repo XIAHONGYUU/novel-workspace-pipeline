@@ -1,257 +1,272 @@
 {
   "chunk_id": "chunk-1178",
-  "title": "第八十章 明光照世途",
   "characters": [
     {
       "name": "岳萝",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "岳师妹"
+      ],
+      "identity": "玄修弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第八十章 明光照世途",
-      "summary": "岳萝惊讶看了看四周，不知道自己怎么会突然来到这个地方，她记得上一刻自己方才结束了功课",
+      "summary": "玄修弟子，被张御送入另一天地，落于某宗派附近，准备拜师学艺。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "岳萝惊讶看了看四周，不知道自己怎么会突然来到这个地方，她记得上一刻自己方才结束了功课",
-        "”    岳萝眼前一亮，急忙回应道：“是严师兄么",
-        "我是岳萝"
+      "personality": [
+        "聪明",
+        "冷静",
+        "嘴甜"
       ],
-      "mention_count": 14
+      "abilities": [],
+      "equipment": [
+        "训天道章"
+      ],
+      "relationships": [
+        {
+          "target": "严鱼明",
+          "type": "师兄妹"
+        },
+        {
+          "target": "白果",
+          "type": "指引者"
+        },
+        {
+          "target": "梨师姐",
+          "type": "接待者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被送入新天地，与严鱼明通话，得到白果指引，前往宗派拜师。"
+        }
+      ],
+      "evidence": [
+        "岳萝惊讶看了看四周，不知道自己怎么会突然来到这个地方",
+        "岳萝眼前一亮，急忙回应道：“是严师兄么？我是岳萝。”",
+        "岳萝由衷道：“姐姐也很年轻呀。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "严鱼明",
+      "aliases": [
+        "严师兄"
+      ],
+      "identity": "玄修弟子",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第八十章 明光照世途",
+      "summary": "玄修弟子，负责联络和指引其他玄修弟子。",
+      "appearance": [],
+      "personality": [
+        "负责",
+        "严厉"
+      ],
+      "abilities": [],
+      "equipment": [
+        "训天道章"
+      ],
+      "relationships": [
+        {
+          "target": "岳萝",
+          "type": "师兄妹"
+        },
+        {
+          "target": "林禀",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过训天道章联系岳萝和林禀，指导他们。"
+        }
+      ],
+      "evidence": [
+        "严鱼明的声音继续传来道：“缘故我自是知晓，师妹不必急”",
+        "严鱼明道：“别以为我不知道你在想什么”"
+      ],
+      "mention_count": 5
     },
     {
       "name": "白果",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "指引者（可能是道章化身）",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第八十章 明光照世途",
-      "summary": "”    严鱼明的声音继续传来道：“缘故我自是知晓，师妹不必急，你有什么不明白的，可以唤一声‘白果’，有什么都可以问他，稍候你自能清楚，好了，我还要去和寻其余人，稍候再与岳师妹说话",
+      "summary": "通过训天道章为岳萝提供信息和指引的存在。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    严鱼明的声音继续传来道：“缘故我自是知晓，师妹不必急，你有什么不明白的，可以唤一声‘白果’，有什么都可以问他，稍候你自能清楚，好了，我还要去和寻其余人，稍候再与岳师妹说话",
-        "”    “白果",
-        "”    岳萝方才轻声说出这个名字，就有一个小童的声音出现，“我是白果"
+      "relationships": [
+        {
+          "target": "岳萝",
+          "type": "指引者"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回答岳萝的疑问，提供信息。"
+        }
+      ],
+      "evidence": [
+        "就有一个小童的声音出现，“我是白果。”",
+        "白果也是逐一回答了她心中的疑问。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "林师兄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "梨师姐",
+      "aliases": [
+        "梨师姐"
+      ],
+      "identity": "宗派接待者",
+      "faction": "未知宗派",
       "status": "登场",
       "first_appearance": "第八十章 明光照世途",
-      "summary": "其中一个弟子看着下方，面色有些发白，颤声道：“林师兄，真，真的能跳么",
-      "appearance": [],
-      "personality": [],
+      "summary": "宗派中负责考核入门弟子的女修。",
+      "appearance": [
+        "身着水湖绿窄袖长裙，兰花印比甲，高挽发髻，露出光洁额头"
+      ],
+      "personality": [
+        "漫不经心",
+        "和善"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其中一个弟子看着下方，面色有些发白，颤声道：“林师兄，真，真的能跳么",
-        "”    林师兄道：“你怕个什么，你还是个修士呢，等下跟着我跳就行了",
-        "”    那个弟子望下又看了一眼，喉头动了下，道：“林师兄，不，不如我们走下去吧……”    林师兄道：“这么高的山，爬上下去多费力，跳下去多快啊"
+      "relationships": [
+        {
+          "target": "岳萝",
+          "type": "考核者"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "前辈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十章 明光照世途",
-      "summary": "正待她犹豫着是不是要请教一下桃实前辈的时候，忽然一个熟悉声音响起道：“岳师妹，在么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正待她犹豫着是不是要请教一下桃实前辈的时候，忽然一个熟悉声音响起道：“岳师妹，在么",
-        "他此刻在训天道章之中对着某个人说道：“前辈，这个天地之内有着高过于我们天机院的造物技艺，”他满脸都是憧憬，“如果我们能够学到这些，并把这些带回去，一定能够使得天机院的技艺大大提升",
-        "”    任怀却是激动道：“前辈，你小看我了，我以前曾自学了很多，我相信我一定可以取得他们的信任的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "考核岳萝，并带她去拜师。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "她心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十章 明光照世途",
-      "summary": "她心中微慌，可是很快平静下来，想了想，心下一唤，随着光幕泛起，训天道章便就出现在了面前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "她心中微慌，可是很快平静下来，想了想，心下一唤，随着光幕泛起，训天道章便就出现在了面前",
-        "见到还能牵连道章，她心中顿时安定了许多",
-        "”    岳萝看了看，却发现没有找到白果的名印，联想到严鱼明第一个来寻她，心中顿时有了一个猜测，不过她很是聪明没有去探究到底，而只是问起了眼下之事，白果也是逐一回答了她心中的疑问"
+        "这里面坐着一个身着水湖绿窄袖长裙，兰花印比甲，高挽发髻，露出光洁额头的女子。",
+        "那女子不由轻轻一笑，瞟了她一眼，道：“这小嘴真甜，叫我梨师姐就好了”"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十章 明光照世途",
-      "summary": "她心中微慌，可是很快平静下来，想了想，心下一唤，随着光幕泛起，训天道章便就出现在了面前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她心中微慌，可是很快平静下来，想了想，心下一唤，随着光幕泛起，训天道章便就出现在了面前",
-        "严师兄，小妹好像到了另一处天地中，你可是知晓缘故么",
-        "在经过两天的跋涉后，她来到了一处千多人的聚集地，这里虽然人口稀少，可是建筑却是高大壮观，精美华丽"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "还是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十章 明光照世途",
-      "summary": "”    这几位好友的名印都是亮着，但是她唤了几声，都是不见回应，也不知道是另有事，还是沟通不上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    这几位好友的名印都是亮着，但是她唤了几声，都是不见回应，也不知道是另有事，还是沟通不上",
-        "她想了想，还是决定先试着去那个门派看一看，主要是这里身处山岭，不见人踪，她现在没有修为在身，去不了太远的地方",
-        "虽说白果告诉她便是破灭了身躯也还是会凝聚出来的，可她却是不敢尝试，毕竟周围的一切无论怎么看都是真实的，这也让她不敢轻易尝试跨过那道界限，不到万不得已，她是不会做此事的"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "林师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十章 明光照世途",
-      "summary": "其中一个弟子看着下方，面色有些发白，颤声道：“林师兄，真，真的能跳么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其中一个弟子看着下方，面色有些发白，颤声道：“林师兄，真，真的能跳么",
-        "”    林师兄道：“你怕个什么，你还是个修士呢，等下跟着我跳就行了",
-        "”    那个弟子望下又看了一眼，喉头动了下，道：“林师兄，不，不如我们走下去吧……”    林师兄道：“这么高的山，爬上下去多费力，跳下去多快啊"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "跳下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十章 明光照世途",
-      "summary": "”    那个弟子望下又看了一眼，喉头动了下，道：“林师兄，不，不如我们走下去吧……”    林师兄道：“这么高的山，爬上下去多费力，跳下去多快啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那个弟子望下又看了一眼，喉头动了下，道：“林师兄，不，不如我们走下去吧……”    林师兄道：“这么高的山，爬上下去多费力，跳下去多快啊",
-        "”    “可是，可是，万一不是这样，”那个弟子道：“小弟是说，万一那些话只是骗人的，我们是真在这里，跳下去就真没命了呢"
-      ],
-      "mention_count": 5
+      "mention_count": 3
     },
     {
       "name": "林禀",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "林师兄"
+      ],
+      "identity": "玄修弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第八十章 明光照世途",
-      "summary": "就在这时，一个声音忽然响了起来：“林禀，你在么",
+      "summary": "玄修弟子，性格大胆，试图通过跳崖体验新人生。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "大胆",
+        "冒险"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "训天道章"
+      ],
+      "relationships": [
+        {
+          "target": "严鱼明",
+          "type": "师弟"
+        },
+        {
+          "target": "于师弟",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与于师弟站在悬崖边，最终跳下。"
+        }
+      ],
       "evidence": [
-        "就在这时，一个声音忽然响了起来：“林禀，你在么",
-        "”    林禀顿时吓了一跳，他左右了看了看，随即他发现严鱼明不在附近，顿时底气又足了，忙道：“严师兄，我会好好修行的，我不会乱来的",
-        "”    林禀正色道：“师兄误会了，范师兄说过，不止炼法才是修行，体悟人间酸汤……酸甜苦辣亦是修行"
+        "林师兄道：“你怕个什么，你还是个修士呢，等下跟着我跳就行了。”",
+        "他一把拉过正瑟缩的往后躲的同门，道：“于师弟，来，跟我跳！”"
       ],
       "mention_count": 5
     },
     {
-      "name": "严师",
+      "name": "于师弟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄修弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第八十章 明光照世途",
-      "summary": "”    岳萝眼前一亮，急忙回应道：“是严师兄么",
+      "summary": "玄修弟子，胆小，被林禀拉着跳崖。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "胆小"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    岳萝眼前一亮，急忙回应道：“是严师兄么",
-        "严师兄，小妹好像到了另一处天地中，你可是知晓缘故么",
-        "”    “严师兄"
+      "relationships": [
+        {
+          "target": "林禀",
+          "type": "同门"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林禀拉着从悬崖跳下。"
+        }
+      ],
+      "evidence": [
+        "那个弟子望下又看了一眼，喉头动了下，道：“林师兄，不，不如我们走下去吧……”",
+        "他一把拉过正瑟缩的往后躲的同门，道：“于师弟，来，跟我跳！”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "严师兄",
+      "name": "任怀",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天机院栽培的玄修",
+      "faction": "天夏（天机院）",
       "status": "登场",
       "first_appearance": "第八十章 明光照世途",
-      "summary": "”    岳萝眼前一亮，急忙回应道：“是严师兄么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    岳萝眼前一亮，急忙回应道：“是严师兄么",
-        "严师兄，小妹好像到了另一处天地中，你可是知晓缘故么",
-        "”    “严师兄"
+      "summary": "天机院自行栽培的玄修，热爱造物，希望学习此地的造物技艺。",
+      "appearance": [
+        "满面尘土"
       ],
-      "mention_count": 4
+      "personality": [
+        "热忱",
+        "自信"
+      ],
+      "abilities": [
+        "过目不忘"
+      ],
+      "equipment": [
+        "训天道章"
+      ],
+      "relationships": [
+        {
+          "target": "前辈（未具名）",
+          "type": "指导者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到达昊族城域前，与前辈交流，计划学习造物技艺。"
+        }
+      ],
+      "evidence": [
+        "一个满面尘土的年轻人神情激动的看着前方高大城域，喃喃道：“到了，终于到了。”",
+        "任怀却是激动道：“前辈，你小看我了，我以前曾自学了很多”"
+      ],
+      "mention_count": 3
     }
   ]
 }

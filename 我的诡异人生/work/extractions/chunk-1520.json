@@ -1,0 +1,200 @@
+{
+  "chunk_id": "chunk-1520",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "完人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与三清对峙的完人，拥有天柱超脱相、真实轮回等能力，主动走入三清口中以验证其诸我归一之道。",
+      "appearance": [],
+      "personality": [
+        "刚直",
+        "坚定",
+        "无畏"
+      ],
+      "abilities": [
+        "天柱超脱相",
+        "完人气韵",
+        "真实轮回",
+        "杀诡之能"
+      ],
+      "equipment": [
+        "法剑"
+      ],
+      "relationships": [
+        {
+          "target": "三清",
+          "type": "敌对"
+        },
+        {
+          "target": "赤龙真人",
+          "type": "师父"
+        },
+        {
+          "target": "元皇",
+          "type": "祖先"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与三清对话后主动走入其口中"
+        }
+      ],
+      "evidence": [
+        "苏午的心意狂烈地震颤起来！",
+        "他看着那似已超脱元河之外，但总难与元河脱离牵扯的‘三清’，忽然间笑了起来",
+        "苏午嗤笑一声，昂首迈入三清口中，举身赴死！"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "三清",
+      "aliases": [],
+      "identity": "近乎与大天齐列的存在",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "追求诸我归一之道的强大存在，曾吞吃过完人中黄太乙，与苏午对峙并最终将其吞入口中。",
+      "appearance": [
+        "脖颈上的头颅没有表情，眼中蕴着日月星辰",
+        "漆黑的嘴唇微微张开，露出一颗颗山岳般的牙齿",
+        "颈骨化为九道长龙"
+      ],
+      "personality": [
+        "全知全能",
+        "苟且",
+        "掠夺"
+      ],
+      "abilities": [
+        "诸我归一",
+        "三清神谱",
+        "性命圭旨",
+        "吞吃"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "大天",
+          "type": "相互寄生"
+        },
+        {
+          "target": "元皇",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午对话后将其吞入口中"
+        }
+      ],
+      "evidence": [
+        "三清安坐于脖颈上的头颅没有表情，眼中蕴着日月星辰",
+        "三清的头颅微微垂下，俯视着元河上的苏午",
+        "三清沉默无言。它的头颅落入宇宙洪荒之中"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "赤龙真人",
+      "aliases": [],
+      "identity": "苏午的师父",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被三清抹除后又因真实轮回而复生的人物，曾与苏午共同禁锢三清的足掌。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与苏午及闾山群道共同禁锢三清的足掌"
+        }
+      ],
+      "evidence": [
+        "被它抹除的桃花源、死在苏午手中的赤龙真人……都各归于本位！",
+        "你的足掌，亦是我与赤龙师父、闾山群道一代代努力，方才禁锢封押至今"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "元皇",
+      "aliases": [],
+      "identity": "人族始祖",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "生而强横，与大天齐列，死后以元根成就人族万代不绝。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "祖先"
+        },
+        {
+          "target": "三清",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与大天相争而死"
+        }
+      ],
+      "evidence": [
+        "元皇与大天相争而死，他的元根永驻于后世人类的血肉性灵中央",
+        "元皇，生而强横，与大天齐列！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "中黄太乙",
+      "aliases": [],
+      "identity": "完人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾被三清吞吃的完人，三清因此窥见诸我归一之路。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "三清",
+          "type": "被吞吃"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被三清吞吃"
+        }
+      ],
+      "evidence": [
+        "它曾经吞吃过一尊完人-中黄太乙"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

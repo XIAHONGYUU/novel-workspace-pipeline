@@ -1,225 +1,470 @@
 {
   "chunk_id": "chunk-0450",
-  "title": "第两百二十一章 抓捕",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "第两百二十一章 抓捕    张御把那两份卷宗详细翻有几遍，明、卫这两个人在这里面互揭其短，并把许多罪责推向对方，并且还一边痛斥其人，一边把自己描述的如何无奈，如何不得已",
+      "summary": "玄府玄正，负责调查天机院造物人替身一事，行事谨慎，善于谋划。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于谋划"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹方定",
+          "type": "下属"
+        },
+        {
+          "target": "费大匠",
+          "type": "合作"
+        },
+        {
+          "target": "谭从",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阅读明、卫两人的卷宗，决定暂时不动他们。"
+        },
+        {
+          "stage": "当前",
+          "event": "在良州郊外庄园召集曹方定、时悦、杏川道人询问情况。"
+        },
+        {
+          "stage": "当前",
+          "event": "单独留下曹方定，让其注意谭从的举动。"
+        },
+        {
+          "stage": "当前",
+          "event": "与费大匠商议抓捕谭从，拒绝替身方案，同意费大匠去说服姜副院主。"
+        },
+        {
+          "stage": "当前",
+          "event": "收到姜副院主的书信，决定抓捕谭从。"
+        }
+      ],
+      "evidence": [
+        "张御把那两份卷宗详细翻有几遍",
+        "张御在到了这里后，就吩咐人手把曹方定、时悦、还有杏川道人等人寻来",
+        "张御考虑了一下，道：“费大匠，你可以放手去做。”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "曹方定",
+      "aliases": [],
+      "identity": "张御的下属",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 抓捕",
+      "summary": "张御的下属，负责执行任务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百二十一章 抓捕    张御把那两份卷宗详细翻有几遍，明、卫这两个人在这里面互揭其短，并把许多罪责推向对方，并且还一边痛斥其人，一边把自己描述的如何无奈，如何不得已",
-        "张御在到了这里后，就吩咐人手把曹方定、时悦、还有杏川道人等人寻来，问道：“最近情形如何",
-        "”    张御在又问了一些话后，就让诸人离去，不过却单独把曹方定留下，并要其这几天注意留神天机院副院主谭从的一举一动"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
       ],
-      "mention_count": 20
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御汇报天机院的情况。"
+        },
+        {
+          "stage": "当前",
+          "event": "被张御单独留下，注意谭从的举动。"
+        },
+        {
+          "stage": "当前",
+          "event": "护送费大匠去启州见姜副院主。"
+        }
+      ],
+      "evidence": [
+        "曹方定回道：“回禀玄正，之前我们一连捉拿了两位大匠”",
+        "张御在又问了一些话后，就让诸人离去，不过却单独把曹方定留下",
+        "当夜，张御就命曹方定护送费大匠去往副院主隐居之地启州"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "时悦",
+      "aliases": [
+        "时道友"
+      ],
+      "identity": "张御的下属",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 抓捕",
+      "summary": "张御的下属，参与调查。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御召集询问情况。"
+        }
+      ],
+      "evidence": [
+        "张御在到了这里后，就吩咐人手把曹方定、时悦、还有杏川道人等人寻来",
+        "时悦点头道：“是这样”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "杏川道人",
+      "aliases": [],
+      "identity": "张御的下属",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 抓捕",
+      "summary": "张御的下属，参与调查。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御召集询问情况。"
+        }
+      ],
+      "evidence": [
+        "张御在到了这里后，就吩咐人手把曹方定、时悦、还有杏川道人等人寻来",
+        "杏川道人不屑道：“他们这是心虚。”"
+      ],
+      "mention_count": 2
     },
     {
       "name": "费大匠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十一章 抓捕",
-      "summary": "再加上上次在审问费大匠的时候，其人也言或许可以问一问天机部副院主谭从",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "再加上上次在审问费大匠的时候，其人也言或许可以问一问天机部副院主谭从",
-        "在让曹方定退下去后，他又命人去把关押在检正司衙署内的费大匠请了过来，试着再是了解了一下情况",
-        "费大匠听他问起后，想了想，问道：“玄正是不是得到了一些东西，准备着手调查谭副院主了"
+      "aliases": [
+        "费某人"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "费大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "大匠，原天机院匠师",
+      "faction": "天机院",
       "status": "登场",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "再加上上次在审问费大匠的时候，其人也言或许可以问一问天机部副院主谭从",
+      "summary": "被关押在检正司的大匠，曾建议用替身抓捕谭从，后主动提出说服姜副院主。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "再加上上次在审问费大匠的时候，其人也言或许可以问一问天机部副院主谭从",
-        "在让曹方定退下去后，他又命人去把关押在检正司衙署内的费大匠请了过来，试着再是了解了一下情况",
-        "费大匠听他问起后，想了想，问道：“玄正是不是得到了一些东西，准备着手调查谭副院主了"
+      "personality": [
+        "有谋略",
+        "感激张御的信任"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "并且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十一章 抓捕",
-      "summary": "第两百二十一章 抓捕    张御把那两份卷宗详细翻有几遍，明、卫这两个人在这里面互揭其短，并把许多罪责推向对方，并且还一边痛斥其人，一边把自己描述的如何无奈，如何不得已",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百二十一章 抓捕    张御把那两份卷宗详细翻有几遍，明、卫这两个人在这里面互揭其短，并把许多罪责推向对方，并且还一边痛斥其人，一边把自己描述的如何无奈，如何不得已",
-        "但是开阳学宫的大匠都是十分讲规矩的，并且对青阳上洲的大匠都有一分警惕之心，所以每次技艺上的交流，他们都会留下一定的记录，这面有不少涉及掩饰造物人的方法",
-        "”    费大匠道：“他是原来天机院的副院主，比陈大匠资历更老，与原来的洪昭院主是一辈人，如今已经一百四十九岁了，本来院主之位是该由他担任，只是他这个人功利心不重，所以早早退了下来，并且他颇爱提携后辈，很多洲内的师匠和大匠都得到过他的老人家"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        },
+        {
+          "target": "姜副院主",
+          "type": "学生"
+        },
+        {
+          "target": "谭从",
+          "type": "调查对象"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "谭从",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十一章 抓捕",
-      "summary": "”    张御在又问了一些话后，就让诸人离去，不过却单独把曹方定留下，并要其这几天注意留神天机院副院主谭从的一举一动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御请来了解情况，提出替身方案被拒，后提出说服姜副院主。"
+        },
+        {
+          "stage": "当前",
+          "event": "在曹方定护送下前往启州见姜副院主。"
+        },
+        {
+          "stage": "当前",
+          "event": "返回后交给张御姜副院主的书信。"
+        }
+      ],
       "evidence": [
-        "”    张御在又问了一些话后，就让诸人离去，不过却单独把曹方定留下，并要其这几天注意留神天机院副院主谭从的一举一动",
-        "明、卫两人在那卷宗之上，主要说得是就是谭从的照州天机院与开阳天机院的一些交流往来",
-        "再加上上次在审问费大匠的时候，其人也言或许可以问一问天机部副院主谭从"
+        "他又命人去把关押在检正司衙署内的费大匠请了过来",
+        "费大匠道：“我的确有一个办法，或许可以帮助玄正。”",
+        "费大匠在重新见到张御后，从袖中取出一封书信"
       ],
       "mention_count": 10
     },
     {
-      "name": "他也",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "谭从",
+      "aliases": [
+        "谭副院主",
+        "谭老"
+      ],
+      "identity": "照州天机院副院主",
+      "faction": "天机院",
       "status": "登场",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "”    说到这里，他顿了顿，道：“他也是费某人的老师",
+      "summary": "照州天机院副院主，被怀疑与霜洲有染，张御准备抓捕他。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "自信",
+        "关心后辈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    说到这里，他顿了顿，道：“他也是费某人的老师",
-        "不过从信中某些话语里面，他也看出来这位年高德劭的大匠肯定也是感觉到了什么，甚或当年这位不担任院主之位而是主动退下也是有某种原因在内的",
-        "”    费大匠道：“老师说这是他该为之事，他也看不过天机院某些人的做法"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被调查对象"
+        },
+        {
+          "target": "郭安生",
+          "type": "副手"
+        },
+        {
+          "target": "施姜",
+          "type": "学生"
+        },
+        {
+          "target": "姜副院主",
+          "type": "后辈"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在照州天机院批阅公文，决定前往启州见姜公。"
+        },
+        {
+          "stage": "当前",
+          "event": "乘坐飞舟前往启州，途中阅读后辈书信。"
+        },
+        {
+          "stage": "当前",
+          "event": "飞舟震动，舱门打开，有人进入。"
+        }
+      ],
+      "evidence": [
+        "谭从正在水榭之中批阅公文",
+        "谭从却道：“好了，我行事自问问心无愧，又怕什么玄府呢？”",
+        "可就在这个时候，整个飞舟微微震动了一下，而后舱门无声无息移动开来，一个人影自外走了进来。"
+      ],
+      "mention_count": 14
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "郭安生",
+      "aliases": [
+        "安生"
+      ],
+      "identity": "谭从的副手",
+      "faction": "天机院",
       "status": "登场",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "说什么玄是在刻意针对他们这些能够打造造物的大匠，想要把天机院从青州地面上革除出去，所以现在各州天机院内人心惶惶",
+      "summary": "谭从的副手，对谭从的安全表示担忧。",
+      "appearance": [],
+      "personality": [
+        "担忧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谭从",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "劝说谭从不要外出。"
+        }
+      ],
+      "evidence": [
+        "郭安生却是有些担忧，劝说道：“谭老，最近就不要出去了吧”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "施姜",
+      "aliases": [],
+      "identity": "谭从的女学生",
+      "faction": "天机院",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 抓捕",
+      "summary": "谭从的女学生，随行照顾。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "谭从",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为谭从按摩头部。"
+        }
+      ],
       "evidence": [
-        "说什么玄是在刻意针对他们这些能够打造造物的大匠，想要把天机院从青州地面上革除出去，所以现在各州天机院内人心惶惶",
-        "”    杏川道人不屑道：“他们这是心虚",
-        "”    时悦点头道：“是这样，有些人，往往自己在暗地里要对别人做些什么的时候，也怕别人对自己也这样做，这说明他们的确有过针对我们的心思"
+        "他的女学生施姜这时候站了起来，走过来伸出纤指放在他的头颅两侧的穴位上"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "姜副院主",
+      "aliases": [
+        "姜公",
+        "老师"
+      ],
+      "identity": "原天机院副院主，费大匠的老师",
+      "faction": "天机院",
+      "status": "提及",
+      "first_appearance": "第两百二十一章 抓捕",
+      "summary": "原天机院副院主，资历深厚，隐居启州，愿意出面安抚天机院。",
+      "appearance": [],
+      "personality": [
+        "功利心不重",
+        "提携后辈"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "费大匠",
+          "type": "学生"
+        },
+        {
+          "target": "谭从",
+          "type": "后辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "费大匠前去说服，他写信给张御表示支持。"
+        }
+      ],
+      "evidence": [
+        "费大匠道：“他是原来天机院的副院主，比陈大匠资历更老”",
+        "费大匠在重新见到张御后，从袖中取出一封书信，道：“玄正，这是老师给玄正的书信”"
       ],
       "mention_count": 5
     },
     {
-      "name": "玄正",
+      "name": "明",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "便是真的有过错，也并不在他这个玄府玄正的管束范围内",
+      "summary": "与卫互揭其短，送交卷宗给张御。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "便是真的有过错，也并不在他这个玄府玄正的管束范围内",
-        "”    曹方定回道：“回禀玄正，之前我们一连捉拿了两位大匠，虽说这两人暗通霜洲，罪有应得，不过天机院里有人却是故意用另一番说辞",
-        "费大匠听他问起后，想了想，问道：“玄正是不是得到了一些东西，准备着手调查谭副院主了"
+      "relationships": [
+        {
+          "target": "卫",
+          "type": "互揭其短"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与卫互揭其短，卷宗被张御阅读。"
+        }
+      ],
+      "evidence": [
+        "张御把那两份卷宗详细翻有几遍，明、卫这两个人在这里面互揭其短"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "只是",
+      "name": "卫",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "至于这两个人，他决定暂时不去动，毕竟两人送来的这些东西的确有用，而且严格来说，两个人作法只是基于立场和利益的缘故所做出的选择，组多只是道德上的缺失，并没有触发什么律条",
+      "summary": "与明互揭其短，送交卷宗给张御。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "至于这两个人，他决定暂时不去动，毕竟两人送来的这些东西的确有用，而且严格来说，两个人作法只是基于立场和利益的缘故所做出的选择，组多只是道德上的缺失，并没有触发什么律条",
-        "我愿意去说服原来天机院的姜副院主，由他出面，当能安抚住天机院其他人，只是不知玄正信得过在下么",
-        "”    费大匠道：“他是原来天机院的副院主，比陈大匠资历更老，与原来的洪昭院主是一辈人，如今已经一百四十九岁了，本来院主之位是该由他担任，只是他这个人功利心不重，所以早早退了下来，并且他颇爱提携后辈，很多洲内的师匠和大匠都得到过他的老人家"
+      "relationships": [
+        {
+          "target": "明",
+          "type": "互揭其短"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与明互揭其短，卷宗被张御阅读。"
+        }
+      ],
+      "evidence": [
+        "张御把那两份卷宗详细翻有几遍，明、卫这两个人在这里面互揭其短"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "老师",
+      "name": "范大匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "大匠",
+      "faction": "天机院",
+      "status": "提及",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "”    说到这里，他顿了顿，道：“他也是费某人的老师",
+      "summary": "费大匠建议让范大匠打造谭从的替身。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "打造替身"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    说到这里，他顿了顿，道：“他也是费某人的老师",
-        "”    费大匠郑重道：“好，我会尽力说服老师，给玄正一个交代",
-        "费大匠在重新见到张御后，从袖中取出一封书信，道：“玄正，这是老师给玄正的书信，我和老师详细分说了，老师说，玄正请放心去做，他负责会出面替玄正安抚各州天机院众位匠师"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被费大匠提及可以打造替身。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "费大匠道：“玄正，我们可以先让范大匠打造一个谭从的替身”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "而且",
+      "name": "陈大匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "大匠",
+      "faction": "天机院",
+      "status": "提及",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "至于这两个人，他决定暂时不去动，毕竟两人送来的这些东西的确有用，而且严格来说，两个人作法只是基于立场和利益的缘故所做出的选择，组多只是道德上的缺失，并没有触发什么律条",
+      "summary": "被提及比姜副院主资历浅。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -227,20 +472,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "至于这两个人，他决定暂时不去动，毕竟两人送来的这些东西的确有用，而且严格来说，两个人作法只是基于立场和利益的缘故所做出的选择，组多只是道德上的缺失，并没有触发什么律条",
-        "”    费大匠沉声道：“那么我猜，张玄正现在之所以不动手，是因为一旦抓捕了他，那么不但会使天机院本来分散的人因此而抱团，而且也会打草惊蛇",
-        "而且这次是姜公亲自来书，作为后辈，当年我也是受过他老人家照拂的，我可不能不去"
+        "费大匠道：“他是原来天机院的副院主，比陈大匠资历更老”"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "这一",
+      "name": "洪昭院主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "原天机院院主",
+      "faction": "天机院",
+      "status": "提及",
       "first_appearance": "第两百二十一章 抓捕",
-      "summary": "这一回，他住入了李青禾在此安置的产业之中",
+      "summary": "与姜副院主同辈。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -248,11 +491,38 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "这一回，他住入了李青禾在此安置的产业之中",
-        "这一座建立在州城郊外的庄园，依山傍水，树木环绕，内中竹石清泉，溪流亭榭，应有尽有",
-        "更何况，这些大匠一直在用造物人替代原主，那又怎么可能不防着这一手"
+        "费大匠道：“他是原来天机院的副院主，比陈大匠资历更老，与原来的洪昭院主是一辈人”"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "温道友",
+      "aliases": [],
+      "identity": "张御的下属",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第两百二十一章 抓捕",
+      "summary": "张御吩咐请来的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御吩咐请来。"
+        }
+      ],
+      "evidence": [
+        "张御此刻感觉抓捕谭从的时机已是成熟，便吩咐底下人道：“把时道友和温道友请来。”"
+      ],
+      "mention_count": 1
     }
   ]
 }

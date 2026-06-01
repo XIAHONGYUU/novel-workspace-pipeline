@@ -1,256 +1,276 @@
 {
   "chunk_id": "chunk-1640",
-  "title": "第两百一十八章 定和付战机",
   "characters": [
     {
       "name": "金郅行",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "金驻使",
+        "金玄尊",
+        "金执事"
+      ],
+      "identity": "天夏驻元夏使者",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "第两百一十八章 定和付战机    金郅行将向司议送走之后",
+      "summary": "天夏驻元夏的使者，通过训天道章与天夏保持联系，负责传递消息。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百一十八章 定和付战机    金郅行将向司议送走之后",
-        "金郅行见易钧子仍在往外看，道：“这位向司议易真人可是认识么",
-        "”    金郅行道：“在任"
+      "personality": [
+        "谨慎",
+        "忠诚"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "金郅",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "第两百一十八章 定和付战机    金郅行将向司议送走之后",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百一十八章 定和付战机    金郅行将向司议送走之后",
-        "金郅行见易钧子仍在往外看，道：“这位向司议易真人可是认识么",
-        "”    金郅行道：“在任"
+      "equipment": [
+        "训天道章",
+        "符诏"
       ],
-      "mention_count": 14
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        },
+        {
+          "target": "易午",
+          "type": "情报交流"
+        },
+        {
+          "target": "向司议",
+          "type": "外交接触"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与易午会面，随后前往天夏飞舟见张御，递交向司议的书信。"
+        }
+      ],
+      "evidence": [
+        "金郅行将向司议送走之后。易午也是随后踏入进来。",
+        "金郅行倒是感觉到，易午的态度比上次更为亲近一些",
+        "金郅行则是回到了后殿密室之内，重拟了一份文书"
+      ],
+      "mention_count": 18
     },
     {
       "name": "易午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "易午也是随后踏入进来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "易午也是随后踏入进来",
-        "”    易午露出些许认真之色道：“认得",
-        "”    易午道：“通常司议也是会去位的，不可能永远占据在位置上，诸世道不会同意，底下之人也不会同意"
+      "aliases": [
+        "易真人",
+        "易钧子"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "北未世道成员，易氏龙类",
+      "faction": "北未世道",
       "status": "登场",
       "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "张御今时敢于主动提出反击元夏，也正是因为有着这样的消息作为前提，若是对元夏布置不够了解，那么也只是盲动而已",
+      "summary": "北未世道的成员，易氏龙类，与金郅行有情报交流，希望将更多后辈送往天夏。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "亲近天夏"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "情报交流"
+        },
+        {
+          "target": "易钧子",
+          "type": "同一人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与金郅行会面，请求将更多后辈送往天夏。"
+        }
+      ],
       "evidence": [
-        "张御今时敢于主动提出反击元夏，也正是因为有着这样的消息作为前提，若是对元夏布置不够了解，那么也只是盲动而已",
-        "张御也不怕北未世道会欺瞒他",
-        "”    金郅行整了整衣衫，顺着虹梯走入进去，沿着舱道一路行到主舱之内，见得张御一身玉白色的道袍，正负袖站在那里，身外笼罩着一层浅浅的星光玉雾"
+        "易午也是随后踏入进来。",
+        "易午露出些许认真之色道：“认得。如今下殿在任司议之中，一共有三位求全道法之人，此人便是其中之一。”",
+        "易午道：“元上殿并没有查问诸世道的权柄，最多也就是从内部排挤我等”"
       ],
       "mention_count": 10
     },
     {
       "name": "向司议",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "向司议"
+      ],
+      "identity": "元夏下殿司议",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "第两百一十八章 定和付战机    金郅行将向司议送走之后",
+      "summary": "元夏下殿的司议，负责与天夏交涉，主张先打一场再谈条件。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百一十八章 定和付战机    金郅行将向司议送走之后",
-        "实际上他先一步到了，只是不便与向司议碰面",
-        "金郅行见易钧子仍在往外看，道：“这位向司议易真人可是认识么"
+      "personality": [
+        "务实",
+        "强硬"
       ],
-      "mention_count": 7
+      "abilities": [
+        "求全道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "外交接触"
+        },
+        {
+          "target": "全司议",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与金郅行会面后，返回见全司议，表示愿意率众与天夏一战。"
+        }
+      ],
+      "evidence": [
+        "金郅行将向司议送走之后。",
+        "向司议道：“正是，不打过一场，不让天夏觉得继续攻打下去反而占不到便宜，他们岂会和我们坐下来好生商量？”",
+        "向司议愿意率众与天夏一战。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "廷执"
+      ],
+      "identity": "天夏廷执，主持前沿攻势",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "实际上他先一步到了，只是不便与向司议碰面",
-      "appearance": [],
-      "personality": [],
+      "summary": "天夏的廷执，负责此次对元夏的攻势，与金郅行会面，决定筑造壁垒。",
+      "appearance": [
+        "一身玉白色的道袍，身外笼罩着一层浅浅的星光玉雾"
+      ],
+      "personality": [
+        "果断",
+        "深思熟虑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "上下级"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "尤道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟中接见金郅行，决定开始筑造壁垒。"
+        }
+      ],
       "evidence": [
-        "实际上他先一步到了，只是不便与向司议碰面",
-        "”    易午道：“我听宗长说过，若只是寻常司议，在任上既无功绩，又无道行，那么等有合适之人后，自是远离权柄，一心修道，再不过问外事",
-        "张御今时敢于主动提出反击元夏，也正是因为有着这样的消息作为前提，若是对元夏布置不够了解，那么也只是盲动而已"
+        "张御今时敢于主动提出反击元夏",
+        "张御一身玉白色的道袍，正负袖站在那里",
+        "张御道：“这便开始吧。”"
       ],
       "mention_count": 6
     },
     {
-      "name": "天夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "全司议",
+      "aliases": [
+        "全司议"
+      ],
+      "identity": "元夏下殿司议",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "因为那些开了智窍的龙类后辈可是都在天夏，易钧子当是比他更不希望这些是假消息",
+      "summary": "元夏下殿的司议，向司议的上司，决定与天夏一战。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为那些开了智窍的龙类后辈可是都在天夏，易钧子当是比他更不希望这些是假消息",
-        "随后拜托金郅行能否问一问如今族人状况，又恭贺天夏此回之壮举，在说此话之时，似乎根本不在意自己是元夏之人",
-        "金郅行倒是感觉到，易午的态度比上次更为亲近一些，显然正是因为天夏反击到了元夏疆域内的缘故"
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "上下级"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接见向司议，同意先打一场。"
+        }
+      ],
+      "evidence": [
+        "全司议缓缓道：“还是要打过一场的。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "实际",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "林廷执",
+      "aliases": [
+        "林廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "实际上他先一步到了，只是不便与向司议碰面",
+      "summary": "天夏廷执，负责筑造壁垒。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "实际上他先一步到了，只是不便与向司议碰面",
-        "实际上也是如此，易氏龙类从来没真正把自己看作元夏一分子"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问张御是否可以开始布置筑造壁垒。"
+        }
+      ],
+      "evidence": [
+        "林廷执与尤道人将会在这里筑造一方壁垒"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "金郅行道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "尤道人",
+      "aliases": [
+        "尤道人"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "”    金郅行道：“在任",
+      "summary": "天夏修士，与林廷执一同筑造壁垒。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    金郅行道：“在任",
-        "”    金郅行道：“金某倒是知晓，诸世道的宗老宗长去位之后可能会去元上殿，但是这些司议去位之后又会去哪里呢",
-        "金郅行道：“金某这里倒是无碍，但是现在想来不知多少目光盯着金某这里，贵方如此为，会否被所元上殿追究"
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "最多",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "”    易午道：“元上殿并没有查问诸世道的权柄，最多也就是从内部排挤我等，而其余世道么，为了不被元上殿找到借口，便是见到了此事也只会替我遮掩",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    易午道：“元上殿并没有查问诸世道的权柄，最多也就是从内部排挤我等，而其余世道么，为了不被元上殿找到借口，便是见到了此事也只会替我遮掩",
-        "”    金郅行道：“属下只是外身在外，每日也就是应酬往来，倒也不算什么，最多只是一些冷嘲热讽，不过那于我无损，只当看个笑话罢了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林廷执一起筑造壁垒。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "而要是那些有道行的有功绩之人，去位之后则是负责驾驭属于元上殿镇道之宝，与诸世道一同负责维持护理元夏天序",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "而要是那些有道行的有功绩之人，去位之后则是负责驾驭属于元上殿镇道之宝，与诸世道一同负责维持护理元夏天序",
-        "也就是这样一来一去的交流之中，金郅行从他这里得到了不少关于元夏上层较为详细的消息",
-        "张御今时敢于主动提出反击元夏，也正是因为有着这样的消息作为前提，若是对元夏布置不够了解，那么也只是盲动而已"
+        "林廷执与尤道人将会在这里筑造一方壁垒"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "向司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百一十八章 定和付战机",
-      "summary": "第两百一十八章 定和付战机    金郅行将向司议送走之后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百一十八章 定和付战机    金郅行将向司议送走之后",
-        "实际上他先一步到了，只是不便与向司议碰面",
-        "金郅行见易钧子仍在往外看，道：“这位向司议易真人可是认识么"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

@@ -11,44 +11,54 @@
   "source_estimated_chars": 6708230,
   "is_long_novel": true,
   "available_layers": [
+    "chapter-distillation",
     "opening",
     "protagonist",
+    "supporting-cast",
     "outline",
     "highlight"
   ],
   "completed_layers": [
     "opening",
     "protagonist",
+    "outline",
     "highlight"
   ],
   "incomplete_layers": [
-    "outline"
+    "chapter-distillation",
+    "supporting-cast"
   ],
   "last_run_layer": "highlight",
   "last_validator_result": {
+    "chapter-distillation": "章节骨架仍不足",
     "opening": "开篇抓力已明确",
     "protagonist": "体系闭环完成（主干闭环版）",
-    "outline": "共性标准仍不足",
+    "supporting-cast": "重要配角 Top10 仍不足",
+    "outline": "共性标准已覆盖",
     "highlight": "高光桥段已明确"
   },
-  "recommended_next_layer": "outline",
-  "recommended_skill": "novel-outline-analysis",
+  "recommended_next_layer": "chapter-distillation",
+  "recommended_skill": "novel-chapter-distillation",
   "recommended_mode": "repair-existing",
-  "recommended_next_step": "优先修复 整书大纲层，因为该层已存在但尚未达标。",
+  "recommended_next_step": "优先修复 章节蒸馏层，因为该层已存在但尚未达标。",
   "optional_backfill_layers": [],
-  "updated_at": "2026-05-12T23:59:14",
+  "updated_at": "2026-05-30T21:48:22",
   "layer_status": {
     "chapter-distillation": {
       "layer": "chapter-distillation",
       "label": "章节蒸馏层",
-      "exists": false,
+      "exists": true,
       "validated": false,
-      "has_placeholders": false,
+      "has_placeholders": true,
       "completion_label": "章节骨架仍不足",
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/刀笼/README.md",
-        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
+        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
+        "manifest": "/home/zuoky/project/刀笼/chapter-distillation-manifest.json",
+        "chapter_skeleton": "/home/zuoky/project/刀笼/刀笼-章节蒸馏骨架.md",
+        "stage_skeleton": "/home/zuoky/project/刀笼/刀笼-阶段骨架与换挡草图.md",
+        "calibration_anchors": "/home/zuoky/project/刀笼/刀笼-校准与验证锚点.md",
         "validator_report": "/home/zuoky/project/刀笼/刀笼-章节蒸馏校验报告.md"
       },
       "checks": {
@@ -63,24 +73,32 @@
           "reason": "ok"
         },
         "manifest": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok",
+          "chapter_count": 847
         },
         "chapter_skeleton": {
-          "exists": false,
+          "exists": true,
           "content_ok": false,
-          "reason": "missing"
+          "reason": "placeholder_detected",
+          "placeholder_hits": [
+            "待补充"
+          ]
         },
         "stage_skeleton": {
-          "exists": false,
+          "exists": true,
           "content_ok": false,
-          "reason": "missing"
+          "reason": "placeholder_detected",
+          "placeholder_hits": [
+            "待补充",
+            "- 待补充"
+          ]
         },
         "calibration_anchors": {
-          "exists": false,
+          "exists": true,
           "content_ok": false,
-          "reason": "missing"
+          "reason": "too_short"
         }
       },
       "validator_report": "/home/zuoky/project/刀笼/刀笼-章节蒸馏校验报告.md",
@@ -88,41 +106,41 @@
         "novel_name": "刀笼",
         "skeleton_status": "章节骨架仍不足",
         "calibration_status": "校准锚点仍不足",
-        "existing_count": 2,
-        "content_ok_count": 2,
-        "required_core_ok_count": 2
+        "existing_count": 6,
+        "content_ok_count": 3,
+        "required_core_ok_count": 3
       },
       "failed_checks": [
         {
-          "check": "manifest",
-          "label": "章节蒸馏 manifest",
-          "reason": "missing",
-          "file": null
-        },
-        {
           "check": "chapter_skeleton",
           "label": "章节蒸馏骨架",
-          "reason": "missing",
-          "file": null
+          "reason": "placeholder_detected",
+          "file": "/home/zuoky/project/刀笼/刀笼-章节蒸馏骨架.md",
+          "placeholder_hits": [
+            "待补充"
+          ]
         },
         {
           "check": "stage_skeleton",
           "label": "阶段骨架与换挡草图",
-          "reason": "missing",
-          "file": null
+          "reason": "placeholder_detected",
+          "file": "/home/zuoky/project/刀笼/刀笼-阶段骨架与换挡草图.md",
+          "placeholder_hits": [
+            "待补充",
+            "- 待补充"
+          ]
         },
         {
           "check": "calibration_anchors",
           "label": "校准与验证锚点",
-          "reason": "missing",
-          "file": null
+          "reason": "too_short",
+          "file": "/home/zuoky/project/刀笼/刀笼-校准与验证锚点.md"
         }
       ],
       "repair_targets": [
-        "补齐 `章节蒸馏 manifest`，至少先从缺失补到可校验骨架。",
-        "补齐 `章节蒸馏骨架`，至少先从缺失补到可校验骨架。",
-        "补齐 `阶段骨架与换挡草图`，至少先从缺失补到可校验骨架。",
-        "补齐 `校准与验证锚点`，至少先从缺失补到可校验骨架。"
+        "替换 `章节蒸馏骨架` 里的占位内容，补成明确结论和证据。",
+        "替换 `阶段骨架与换挡草图` 里的占位内容，补成明确结论和证据。",
+        "扩写 `校准与验证锚点`，把当前短骨架补成可判断正文。"
       ]
     },
     "opening": {
@@ -135,7 +153,7 @@
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/刀笼/README.md",
-        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
+        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
         "total_judgment": "/home/zuoky/project/刀笼/刀笼-黄金前三章总判断.md",
         "chapter_1": "/home/zuoky/project/刀笼/刀笼-第一章拆解.md",
         "chapter_2": "/home/zuoky/project/刀笼/刀笼-第二章拆解.md",
@@ -208,7 +226,7 @@
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/刀笼/README.md",
-        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
+        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
         "startup_checklist": "/home/zuoky/project/刀笼/刀笼-项目启动清单.md",
         "anchor": "/home/zuoky/project/刀笼/刀笼-主角锚点与骨架.md",
         "stage_outline": "/home/zuoky/project/刀笼/刀笼-整书粗阶段划分.md",
@@ -277,7 +295,7 @@
         "required_system_ok_count": 2,
         "files": {
           "project_entry": "/home/zuoky/project/刀笼/README.md",
-          "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
+          "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
           "startup_checklist": "/home/zuoky/project/刀笼/刀笼-项目启动清单.md",
           "anchor": "/home/zuoky/project/刀笼/刀笼-主角锚点与骨架.md",
           "stage_outline": "/home/zuoky/project/刀笼/刀笼-整书粗阶段划分.md",
@@ -290,18 +308,187 @@
       "failed_checks": [],
       "repair_targets": []
     },
+    "supporting-cast": {
+      "layer": "supporting-cast",
+      "label": "重要配角层",
+      "exists": true,
+      "validated": false,
+      "has_placeholders": false,
+      "completion_label": "重要配角 Top10 仍不足",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/刀笼/README.md",
+        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
+        "top10_table": "/home/zuoky/project/刀笼/刀笼-重要配角Top10总表.md",
+        "relation_map": "/home/zuoky/project/刀笼/刀笼-重要配角与主角关系图.md",
+        "stage_distribution": "/home/zuoky/project/刀笼/刀笼-重要配角阶段作用分布.md",
+        "profiles": "/home/zuoky/project/刀笼/supporting-cast",
+        "validator_report": "/home/zuoky/project/刀笼/刀笼-重要配角层校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "candidate_pool": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "ai_review": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "top10_table": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "relation_map": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "stage_distribution": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "index": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "profiles": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "profile_quality_insufficient"
+        }
+      },
+      "validator_report": "/home/zuoky/project/刀笼/刀笼-重要配角层校验报告.md",
+      "validator_summary": {
+        "novel_name": "刀笼",
+        "top10_status": "重要配角 Top10 仍不足",
+        "ai_review_status": "AI 复核结论仍不足",
+        "relation_status": "配角与主角关系仍不足",
+        "stage_status": "配角阶段作用层仍不足",
+        "profile_count": 10,
+        "profile_failures": [
+          "不周-配角分析.md:too_short",
+          "天帝天母-配角分析.md:too_short",
+          "妖皇-配角分析.md:too_short",
+          "巨人-配角分析.md:too_short",
+          "徐狗贼-配角分析.md:too_short",
+          "段老匠头-配角分析.md:too_short",
+          "程天凶-配角分析.md:too_short",
+          "薛保侯-配角分析.md:too_short",
+          "虞道人-配角分析.md:too_short",
+          "赵牙子-配角分析.md:too_short"
+        ],
+        "files": {
+          "project_entry": "/home/zuoky/project/刀笼/README.md",
+          "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
+          "top10_table": "/home/zuoky/project/刀笼/刀笼-重要配角Top10总表.md",
+          "relation_map": "/home/zuoky/project/刀笼/刀笼-重要配角与主角关系图.md",
+          "stage_distribution": "/home/zuoky/project/刀笼/刀笼-重要配角阶段作用分布.md",
+          "profiles": "/home/zuoky/project/刀笼/supporting-cast"
+        }
+      },
+      "failed_checks": [
+        {
+          "check": "project_entry",
+          "label": "project_entry",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/刀笼/README.md"
+        },
+        {
+          "check": "handoff",
+          "label": "handoff",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md"
+        },
+        {
+          "check": "candidate_pool",
+          "label": "candidate_pool",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "ai_review",
+          "label": "ai_review",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "top10_table",
+          "label": "重要配角Top10总表",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/刀笼/刀笼-重要配角Top10总表.md"
+        },
+        {
+          "check": "relation_map",
+          "label": "重要配角与主角关系图",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/刀笼/刀笼-重要配角与主角关系图.md"
+        },
+        {
+          "check": "stage_distribution",
+          "label": "重要配角阶段作用分布",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/刀笼/刀笼-重要配角阶段作用分布.md"
+        },
+        {
+          "check": "index",
+          "label": "配角分析索引",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "profiles",
+          "label": "Top10 配角分析文件",
+          "reason": "profile_quality_insufficient",
+          "file": "/home/zuoky/project/刀笼/supporting-cast"
+        }
+      ],
+      "repair_targets": [
+        "补齐 `project_entry` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `handoff` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `candidate_pool`，至少先从缺失补到可校验骨架。",
+        "补齐 `ai_review`，至少先从缺失补到可校验骨架。",
+        "补齐 `重要配角Top10总表` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `重要配角与主角关系图` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `重要配角阶段作用分布` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `配角分析索引`，至少先从缺失补到可校验骨架。",
+        "检查并修复 `Top10 配角分析文件`，当前原因：`profile_quality_insufficient`。"
+      ]
+    },
     "outline": {
       "layer": "outline",
       "label": "整书大纲层",
       "exists": true,
-      "validated": false,
+      "validated": true,
       "has_placeholders": false,
-      "completion_label": "共性标准仍不足",
+      "completion_label": "共性标准已覆盖",
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/刀笼/README.md",
-        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
+        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
         "protagonist_layer": "/home/zuoky/project/刀笼/刀笼-主角锚点与骨架.md",
+        "core_supporting_relations": "/home/zuoky/project/刀笼/刀笼-核心配角与主角关系.md",
+        "overview": "/home/zuoky/project/刀笼/刀笼-大纲总览.md",
+        "stages": "/home/zuoky/project/刀笼/刀笼-阶段与篇章拆分.md",
+        "lines": "/home/zuoky/project/刀笼/刀笼-主线支线与冲突地图.md",
+        "conflicts": "/home/zuoky/project/刀笼/刀笼-核心冲突点与爆发点.md",
+        "time_place": "/home/zuoky/project/刀笼/刀笼-时间与地点转折.md",
+        "climax_pacing": "/home/zuoky/project/刀笼/刀笼-高潮节奏与收束诊断.md",
+        "issues_revision": "/home/zuoky/project/刀笼/刀笼-结构问题与修改建议.md",
         "validator_report": "/home/zuoky/project/刀笼/刀笼-大纲分析校验报告.md"
       },
       "checks": {
@@ -321,122 +508,72 @@
           "reason": "ok"
         },
         "core_supporting_relations": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "overview": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "stages": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "lines": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "conflicts": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "time_place": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "climax_pacing": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "issues_revision": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         }
       },
       "validator_report": "/home/zuoky/project/刀笼/刀笼-大纲分析校验报告.md",
       "validator_summary": {
         "novel_name": "刀笼",
-        "common_status": "共性标准仍不足",
+        "common_status": "共性标准已覆盖",
         "feature_status": "单书特性仍不足",
-        "existing_count": 3,
-        "content_ok_count": 3,
-        "required_core_ok_count": 1,
+        "existing_count": 11,
+        "content_ok_count": 11,
+        "required_core_ok_count": 7,
         "feature_file": null,
         "feature_items": [],
         "files": {
           "project_entry": "/home/zuoky/project/刀笼/README.md",
-          "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
-          "protagonist_layer": "/home/zuoky/project/刀笼/刀笼-主角锚点与骨架.md"
+          "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
+          "protagonist_layer": "/home/zuoky/project/刀笼/刀笼-主角锚点与骨架.md",
+          "core_supporting_relations": "/home/zuoky/project/刀笼/刀笼-核心配角与主角关系.md",
+          "overview": "/home/zuoky/project/刀笼/刀笼-大纲总览.md",
+          "stages": "/home/zuoky/project/刀笼/刀笼-阶段与篇章拆分.md",
+          "lines": "/home/zuoky/project/刀笼/刀笼-主线支线与冲突地图.md",
+          "conflicts": "/home/zuoky/project/刀笼/刀笼-核心冲突点与爆发点.md",
+          "time_place": "/home/zuoky/project/刀笼/刀笼-时间与地点转折.md",
+          "climax_pacing": "/home/zuoky/project/刀笼/刀笼-高潮节奏与收束诊断.md",
+          "issues_revision": "/home/zuoky/project/刀笼/刀笼-结构问题与修改建议.md"
         }
       },
-      "failed_checks": [
-        {
-          "check": "core_supporting_relations",
-          "label": "核心配角与主角关系",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "overview",
-          "label": "大纲总览",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "stages",
-          "label": "阶段与篇章拆分",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "lines",
-          "label": "主线支线与冲突地图",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "conflicts",
-          "label": "核心冲突点与爆发点",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "time_place",
-          "label": "时间与地点转折",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "climax_pacing",
-          "label": "高潮节奏与收束诊断",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "issues_revision",
-          "label": "结构问题与修改建议",
-          "reason": "missing",
-          "file": null
-        }
-      ],
-      "repair_targets": [
-        "补齐 `核心配角与主角关系`，至少先从缺失补到可校验骨架。",
-        "补齐 `大纲总览`，至少先从缺失补到可校验骨架。",
-        "补齐 `阶段与篇章拆分`，至少先从缺失补到可校验骨架。",
-        "补齐 `主线支线与冲突地图`，至少先从缺失补到可校验骨架。",
-        "补齐 `核心冲突点与爆发点`，至少先从缺失补到可校验骨架。",
-        "补齐 `时间与地点转折`，至少先从缺失补到可校验骨架。",
-        "补齐 `高潮节奏与收束诊断`，至少先从缺失补到可校验骨架。",
-        "补齐 `结构问题与修改建议`，至少先从缺失补到可校验骨架。"
-      ]
+      "failed_checks": [],
+      "repair_targets": []
     },
     "highlight": {
       "layer": "highlight",
@@ -448,7 +585,7 @@
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/刀笼/README.md",
-        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
+        "handoff": "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
         "top10_table": "/home/zuoky/project/刀笼/刀笼-最吸引人的十个剧情细节总表.md",
         "mechanism": "/home/zuoky/project/刀笼/刀笼-剧情吸引力机制分析.md",
         "top10_breakdown": "/home/zuoky/project/刀笼/刀笼-Top10细节逐条拆解.md",
@@ -514,79 +651,49 @@
   },
   "repair_plan": {
     "required": true,
-    "target_layer": "outline",
-    "target_label": "整书大纲层",
+    "target_layer": "chapter-distillation",
+    "target_label": "章节蒸馏层",
     "mode": "repair-existing",
-    "reason": "核心配角与主角关系 -> missing；大纲总览 -> missing；阶段与篇章拆分 -> missing；主线支线与冲突地图 -> missing",
+    "reason": "章节蒸馏骨架 -> placeholder_detected；阶段骨架与换挡草图 -> placeholder_detected；校准与验证锚点 -> too_short；检测到占位内容",
     "failed_checks": [
       {
-        "check": "core_supporting_relations",
-        "label": "核心配角与主角关系",
-        "reason": "missing",
-        "file": null
+        "check": "chapter_skeleton",
+        "label": "章节蒸馏骨架",
+        "reason": "placeholder_detected",
+        "file": "/home/zuoky/project/刀笼/刀笼-章节蒸馏骨架.md",
+        "placeholder_hits": [
+          "待补充"
+        ]
       },
       {
-        "check": "overview",
-        "label": "大纲总览",
-        "reason": "missing",
-        "file": null
+        "check": "stage_skeleton",
+        "label": "阶段骨架与换挡草图",
+        "reason": "placeholder_detected",
+        "file": "/home/zuoky/project/刀笼/刀笼-阶段骨架与换挡草图.md",
+        "placeholder_hits": [
+          "待补充",
+          "- 待补充"
+        ]
       },
       {
-        "check": "stages",
-        "label": "阶段与篇章拆分",
-        "reason": "missing",
-        "file": null
-      },
-      {
-        "check": "lines",
-        "label": "主线支线与冲突地图",
-        "reason": "missing",
-        "file": null
-      },
-      {
-        "check": "conflicts",
-        "label": "核心冲突点与爆发点",
-        "reason": "missing",
-        "file": null
-      },
-      {
-        "check": "time_place",
-        "label": "时间与地点转折",
-        "reason": "missing",
-        "file": null
-      },
-      {
-        "check": "climax_pacing",
-        "label": "高潮节奏与收束诊断",
-        "reason": "missing",
-        "file": null
-      },
-      {
-        "check": "issues_revision",
-        "label": "结构问题与修改建议",
-        "reason": "missing",
-        "file": null
+        "check": "calibration_anchors",
+        "label": "校准与验证锚点",
+        "reason": "too_short",
+        "file": "/home/zuoky/project/刀笼/刀笼-校准与验证锚点.md"
       }
     ],
     "repair_targets": [
-      "补齐 `核心配角与主角关系`，至少先从缺失补到可校验骨架。",
-      "补齐 `大纲总览`，至少先从缺失补到可校验骨架。",
-      "补齐 `阶段与篇章拆分`，至少先从缺失补到可校验骨架。",
-      "补齐 `主线支线与冲突地图`，至少先从缺失补到可校验骨架。",
-      "补齐 `核心冲突点与爆发点`，至少先从缺失补到可校验骨架。",
-      "补齐 `时间与地点转折`，至少先从缺失补到可校验骨架。",
-      "补齐 `高潮节奏与收束诊断`，至少先从缺失补到可校验骨架。",
-      "补齐 `结构问题与修改建议`，至少先从缺失补到可校验骨架。"
+      "替换 `章节蒸馏骨架` 里的占位内容，补成明确结论和证据。",
+      "替换 `阶段骨架与换挡草图` 里的占位内容，补成明确结论和证据。",
+      "扩写 `校准与验证锚点`，把当前短骨架补成可判断正文。"
     ],
     "context_files": [
       "/home/zuoky/project/刀笼/README.md",
-      "/home/zuoky/project/刀笼/工作状态-2026-05-12.md",
-      "/home/zuoky/project/刀笼/戚笼-词条总索引.md",
-      "/home/zuoky/project/刀笼/戚笼-最终人物卡.md",
-      "/home/zuoky/project/刀笼/戚笼-核心体系总览.md",
-      "/home/zuoky/project/刀笼/刀笼-全书精华总结.md"
+      "/home/zuoky/project/刀笼/工作状态-2026-05-24.md",
+      "/home/zuoky/project/刀笼/source/DAOLONG.md",
+      "/home/zuoky/project/刀笼/source/刀笼.md"
     ],
-    "suggested_context_file": "/home/zuoky/project/刀笼/workspace-context-outline.md",
+    "suggested_context_file": "/home/zuoky/project/刀笼/workspace-context-chapter-distillation.md",
     "suggested_repair_note": "/home/zuoky/project/刀笼/workspace-repair-plan.md"
   }
 }

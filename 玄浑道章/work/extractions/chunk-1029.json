@@ -1,257 +1,462 @@
 {
   "chunk_id": "chunk-1029",
-  "title": "第三百二十四章 吞天见神昭",
   "characters": [
     {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "正清道人",
+      "aliases": [
+        "正清"
+      ],
+      "identity": "天夏玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "此间阵机每时每刻都在增多和加固之中，充斥满布者清穹之气，足以作为后方之依托，现在上宸天若是只依靠自身，那么已经失去了反攻的可能",
+      "summary": "天夏方的玄尊，与武廷执一同从对面阵中退出来，后参与攻阵。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此间阵机每时每刻都在增多和加固之中，充斥满布者清穹之气，足以作为后方之依托，现在上宸天若是只依靠自身，那么已经失去了反攻的可能",
-        "从方才那几次攻袭上他们也是不难看出，玄兵威能虽是不小，但是直来直往，当中缺少变化，若是手段高明一些，完全可以在半途将之截下，令其无从落在正确所在，所以这里就需得他们加以遮护了",
-        "”    要知天夏那边还有一个镇道之宝元都玄图还没有动用，若是利用此物直接将陈廷执送至阵中，那么天鸿道人一去就可能遭到三人围攻了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与武廷执从对面阵中退出，后趁撞天梭扰乱阵势时再度冲入。"
+        }
       ],
-      "mention_count": 10
+      "evidence": [
+        "就见正清道人和武廷执二人也是从对面阵中深处退了出来",
+        "正清道人、武倾墟二人见这等机会出现，哪里会错过，立时遁光而起，再度往阵中冲入"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "武廷执",
+      "aliases": [
+        "武倾墟"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百二十四章 吞天见神昭",
+      "summary": "天夏廷执，与正清道人一同行动，参与攻阵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与正清道人从对面阵中退出，后趁撞天梭扰乱阵势时再度冲入。"
+        }
+      ],
+      "evidence": [
+        "就见正清道人和武廷执二人也是从对面阵中深处退了出来",
+        "正清道人、武倾墟二人见这等机会出现，哪里会错过，立时遁光而起，再度往阵中冲入"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "傅玉阶",
+      "aliases": [],
+      "identity": "天夏玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百二十四章 吞天见神昭",
+      "summary": "天夏玄尊，在阵中观察并询问袁勘。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "袁勘",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在阵中观察对面阵势，询问袁勘看法。"
+        }
+      ],
+      "evidence": [
+        "傅玉阶站在阵中看了几眼，又感应了一下，道：“此阵势与方才大不一样了，袁道友，你可能看出什么来？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "袁勘",
+      "aliases": [
+        "袁道友"
+      ],
+      "identity": "天夏玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百二十四章 吞天见神昭",
+      "summary": "天夏玄尊，被傅玉阶询问对面阵势。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "傅玉阶",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回应傅玉阶的询问，认为阵势变化是孤阳子三人出手。"
+        }
+      ],
+      "evidence": [
+        "袁勘也是看了看，摇头道：“情势这般变化，应是上宸天孤阳子三人出手了”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李姓浑章玄尊",
+      "aliases": [
+        "李姓浑章修士"
+      ],
+      "identity": "天夏浑章玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百二十四章 吞天见神昭",
+      "summary": "天夏浑章玄尊，提议用斗战飞舟试探，并通过训天道章传令。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议用斗战飞舟试探对面阵势，并传令。"
+        }
+      ],
+      "evidence": [
+        "有一名李姓浑章玄尊见那些悬停在那处的斗战飞舟，建言道",
+        "那位李姓浑章修士立刻通过训天道章将此建言传回"
+      ],
+      "mention_count": 2
     },
     {
       "name": "陈廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "陈廷执这时对座上打一个稽首，言道：“首执，武廷执和正清道友两位能与对面对峙，但尚难攻破阵禁，陈某当下去相助两位道友",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈廷执这时对座上打一个稽首，言道：“首执，武廷执和正清道友两位能与对面对峙，但尚难攻破阵禁，陈某当下去相助两位道友",
-        "”    首座道人言道：“陈廷执且稍缓",
-        "”    要知天夏那边还有一个镇道之宝元都玄图还没有动用，若是利用此物直接将陈廷执送至阵中，那么天鸿道人一去就可能遭到三人围攻了"
+      "aliases": [
+        "陈廷执",
+        "陈某"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "陈廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "陈廷执这时对座上打一个稽首，言道：“首执，武廷执和正清道友两位能与对面对峙，但尚难攻破阵禁，陈某当下去相助两位道友",
+      "summary": "天夏廷执，主动请缨攻杀上宸天，并推荐张御坐镇。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈廷执这时对座上打一个稽首，言道：“首执，武廷执和正清道友两位能与对面对峙，但尚难攻破阵禁，陈某当下去相助两位道友",
-        "”    首座道人言道：“陈廷执且稍缓",
-        "”    要知天夏那边还有一个镇道之宝元都玄图还没有动用，若是利用此物直接将陈廷执送至阵中，那么天鸿道人一去就可能遭到三人围攻了"
+      "personality": [
+        "主动",
+        "果断"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "诸廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "悬天道宫之内，诸廷执也在关注这一击，见到此景后，立时辨出那里阵机几无明显漏洞，明显凭眼下投入的力量难以攻破此间",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "悬天道宫之内，诸廷执也在关注这一击，见到此景后，立时辨出那里阵机几无明显漏洞，明显凭眼下投入的力量难以攻破此间",
-        "悬天道宫之上，诸廷执正在凝注着此刻战局，他们自也能看出此刻已到关键之时",
-        "诸廷执也是同样察觉到了这里变化，纷纷看了过去"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "推荐"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "众人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "众人在回来了两三息之后，就见正清道人和武廷执二人也是从对面阵中深处退了出来，不过二人并没有入阵，而是直接站在了大阵之前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在悬天道宫与诸廷执商议，主张继续进攻上宸天，并推荐张御坐镇。"
+        }
+      ],
       "evidence": [
-        "众人在回来了两三息之后，就见正清道人和武廷执二人也是从对面阵中深处退了出来，不过二人并没有入阵，而是直接站在了大阵之前",
-        "”    众人一想，这倒是也一个好办法",
-        "”    众人皆是称是"
+        "陈廷执这时沉声言道：“上宸天这里攻势绝不能停下！”",
+        "陈廷执看着上方，缓缓道：“如今守宫宫的张御张守正！”"
       ],
       "mention_count": 6
+    },
+    {
+      "name": "首座道人",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百二十四章 吞天见神昭",
+      "summary": "天夏首执，坐镇中枢，下令使用撞天梭。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "下令使用撞天梭凿击对面阵势。"
+        }
+      ],
+      "evidence": [
+        "首座道人道：“天外既然有些变数，那也不必等到内圈之阵再用了，可先行凿击当面之阵。”"
+      ],
+      "mention_count": 3
     },
     {
       "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "”他看向林廷执，“林廷执，撞天梭可是备好了么",
+      "summary": "天夏廷执，负责撞天梭，并反对陈廷执离开。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他看向林廷执，“林廷执，撞天梭可是备好了么",
-        "”    林廷执还有一礼，道：“已然备妥，随时可用",
-        "”    林廷执立时应下"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回应首座道人关于撞天梭的询问，并反对陈廷执离开。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "林廷执还有一礼，道：“已然备妥，随时可用。”",
+        "林廷执却是反对道：“陈廷执，神昭派那镇道之宝能坏法阵虚空，若无一合适之人前往坐镇，那肯定是不成的”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "孤阳子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "上宸天玄尊",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "那位李姓浑章修士立刻通过训天道章将此建言传回，廷上反应很快，只是几息之后，斗战飞舟这边就得有传令，当下立时放了三轮玄兵过去",
+      "summary": "上宸天玄尊，与天鸿、灵都一同坐镇，应对天夏攻势。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那位李姓浑章修士立刻通过训天道章将此建言传回，廷上反应很快，只是几息之后，斗战飞舟这边就得有传令，当下立时放了三轮玄兵过去",
-        "而除了陈廷执之外，天夏这边其实还有一位摘取功果的修道人，只是此前在云海之中潜修，不曾露面，对外也是一直秘而不宣，若是见有机会，也是上前参与这一场围杀",
-        "神昭派乃是古夏时期的一个门派，在古夏向神夏演变之时，有大量门派归并一体，也有如上宸天、寰阳派这般因自身势大，只是名义上从属，但实际上仍是自立一地的宗派"
+      "relationships": [
+        {
+          "target": "天鸿道人",
+          "type": "同门"
+        },
+        {
+          "target": "灵都道人",
+          "type": "同门"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与天鸿、灵都一同坐镇中圈阵势，应对天夏攻势。"
+        }
+      ],
+      "evidence": [
+        "孤阳子也知此刻除这般做也无太好办法了",
+        "孤阳子郑重道：“两位道友小心为好”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "首执",
+      "name": "天鸿道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "上宸天玄尊",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "陈廷执这时对座上打一个稽首，言道：“首执，武廷执和正清道友两位能与对面对峙，但尚难攻破阵禁，陈某当下去相助两位道友",
+      "summary": "上宸天玄尊，主动请缨出面抵挡正清和武倾墟。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "主动"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈廷执这时对座上打一个稽首，言道：“首执，武廷执和正清道友两位能与对面对峙，但尚难攻破阵禁，陈某当下去相助两位道友",
-        "”他看向上座，道：“首执，我当与严道友一同攻杀上宸天，以期尽早破开面前之阵",
-        "”    林廷执却是反对道：“陈廷执，神昭派那镇道之宝能坏法阵虚空，若无一合适之人前往坐镇，那肯定是不成的，首执不能轻动，严道友也并不合适，唯有陈廷执能往"
+      "relationships": [
+        {
+          "target": "灵都道人",
+          "type": "同门"
+        },
+        {
+          "target": "孤阳子",
+          "type": "同门"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主动请缨出面抵挡正清和武倾墟。"
+        }
+      ],
+      "evidence": [
+        "天鸿道人看了一看，站起道：“不可让正清、武倾墟二人突破进来，不然中圈必告瓦解，我当出面抵挡。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "他看",
+      "name": "灵都道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "上宸天玄尊",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "”他看向林廷执，“林廷执，撞天梭可是备好了么",
+      "summary": "上宸天玄尊，与天鸿道人一同出面接应。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他看向林廷执，“林廷执，撞天梭可是备好了么",
-        "”他看向上座，道：“首执，我当与严道友一同攻杀上宸天，以期尽早破开面前之阵"
+      "relationships": [
+        {
+          "target": "天鸿道人",
+          "type": "同门"
+        },
+        {
+          "target": "孤阳子",
+          "type": "同门"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与天鸿道人一同出面接应。"
+        }
+      ],
+      "evidence": [
+        "灵都道人道：“如今陈禹还不曾露面，我与道友同往吧，也好有个接应。”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "林廷",
+      "name": "韦廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "”他看向林廷执，“林廷执，撞天梭可是备好了么",
+      "summary": "天夏廷执，注意到虚空中的异常啃噬痕迹。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他看向林廷执，“林廷执，撞天梭可是备好了么",
-        "”    林廷执还有一礼，道：“已然备妥，随时可用",
-        "”    林廷执立时应下"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "注意到虚空中的异常啃噬痕迹，并询问其他廷执。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "韦廷执看了一会儿，皱眉道：“诸位廷执，觉得这是否像是那物的啃噬之痕？”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "纷纷",
+      "name": "钟廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "众玄尊见此，纷纷法力撑开法力以作护持，再加上清穹之气相助，这些玄兵得以顺利冲入了对面阵势之中",
+      "summary": "天夏廷执，回应韦廷执的疑问。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "众玄尊见此，纷纷法力撑开法力以作护持，再加上清穹之气相助，这些玄兵得以顺利冲入了对面阵势之中",
-        "长梭皆是三寸大小，看着一掌可握，然则每一枚都有清穹九岳之重，只一出来，周围云气却是纷纷朝其汇聚过去，却又无声无息消失，像是被其吞入了无形虚空之中",
-        "正清道人、武倾墟二人见这等机会出现，哪里会错过，立时遁光而起，再度往阵中冲入，身后玄尊也是纷纷腾起浩浩荡荡的气光跟上，后方清穹之气更是掀起倾天之势，恍若巨浪一般覆压而来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回应韦廷执，认为可能是那东西。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "钟廷执看了看，道：“却有几分相似，若是那东西的话，那岂不是说……”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "诸廷",
+      "name": "崇廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百二十四章 吞天见神昭",
-      "summary": "悬天道宫之内，诸廷执也在关注这一击，见到此景后，立时辨出那里阵机几无明显漏洞，明显凭眼下投入的力量难以攻破此间",
+      "summary": "天夏廷执，分析寰阳派可能与神昭派牵连。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "悬天道宫之内，诸廷执也在关注这一击，见到此景后，立时辨出那里阵机几无明显漏洞，明显凭眼下投入的力量难以攻破此间",
-        "悬天道宫之上，诸廷执正在凝注着此刻战局，他们自也能看出此刻已到关键之时",
-        "诸廷执也是同样察觉到了这里变化，纷纷看了过去"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "分析寰阳派可能与神昭派牵连。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "崇廷执沉声道：“根据先前探查，上宸天之前找去时，寰阳派并不在原先被逐退之地，凭他们自身之力，很难脱离那处，不定那时此辈那时是与神昭派牵连上了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "竺廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百二十四章 吞天见神昭",
+      "summary": "天夏廷执，指出缺少陈廷执和严道友难以打开局面。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指出缺少陈廷执和严道友难以打开局面。"
+        }
+      ],
+      "evidence": [
+        "竺廷执缓声道：“只是上宸天那里若是少了陈廷执与严道友，那都是难以打开局面的”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张守正"
+      ],
+      "identity": "守宫宫守正",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第三百二十四章 吞天见神昭",
+      "summary": "守宫宫张守正，被陈廷执推荐坐镇。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈廷执",
+          "type": "被推荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈廷执推荐坐镇。"
+        }
+      ],
+      "evidence": [
+        "陈廷执看着上方，缓缓道：“如今守宫宫的张御张守正！”"
+      ],
+      "mention_count": 1
     }
   ]
 }

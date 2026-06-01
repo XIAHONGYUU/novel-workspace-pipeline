@@ -1,253 +1,363 @@
 {
   "chunk_id": "chunk-1959",
-  "title": "第五百二十六章 昔缈今复存",
   "characters": [
-    {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "他并不认识其人，不过大部分天夏上层他俱都不识得，正待上前问询，那道人却是早他一步发现了巡游飞舟，身影微微一晃，就从极遥之处来至面前，稽首一礼，道：“这位道友请了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他并不认识其人，不过大部分天夏上层他俱都不识得，正待上前问询，那道人却是早他一步发现了巡游飞舟，身影微微一晃，就从极遥之处来至面前，稽首一礼，道：“这位道友请了",
-        "”    曾驽诧异望望此人，这位上真莫非是闭关许久方才出来",
-        "他也是听说过的，以往有一些修士不服天夏管束，故而躲入虚空之中的，这位会否也是如此"
-      ],
-      "mention_count": 7
-    },
     {
       "name": "曾驽",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "虚空巡查",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "第五百二十六章 昔缈今复存    虚空之中，曾驽正乘舟巡查，他做此事已然十几载了，如今不是战时，不是必须他人配合，一人负责此事也是足够",
+      "summary": "负责虚空巡查的修士，已任职十几年。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百二十六章 昔缈今复存    虚空之中，曾驽正乘舟巡查，他做此事已然十几载了，如今不是战时，不是必须他人配合，一人负责此事也是足够",
-        "”    曾驽忙是回有一礼，道：“前辈有礼",
-        "”    曾驽诧异望望此人，这位上真莫非是闭关许久方才出来"
+      "personality": [
+        "谨慎"
       ],
-      "mention_count": 6
+      "abilities": [],
+      "equipment": [
+        "飞舟",
+        "晶玉"
+      ],
+      "relationships": [
+        {
+          "target": "戴廷执",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在虚空中巡查时遇到南丹道人，并向上通报。"
+        }
+      ],
+      "evidence": [
+        "曾驽正乘舟巡查，他做此事已然十几载了",
+        "曾驽诧异望望此人",
+        "曾驽当即向利用晶玉，向虚空世域之中传递去了一個传讯"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "南丹道人",
+      "aliases": [
+        "南丹"
+      ],
+      "identity": "求全修道人，明石道派传人",
+      "faction": "天夏（过去）",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "他倒不是怀疑此人元夏来人，若是两界通道不开，那是别想进来，有这等迹象，上层第一时间就能发现，再说似此人这般修为，若有恶意，拿下他也是简单之事，不必要如此麻烦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他倒不是怀疑此人元夏来人，若是两界通道不开，那是别想进来，有这等迹象，上层第一时间就能发现，再说似此人这般修为，若有恶意，拿下他也是简单之事，不必要如此麻烦",
-        "他是知晓的，修道人若是尝试摘取上乘功果，若是不得成功，可能至此不见，而求全之人要去上层，他不清楚具体，但恐怕亦是如此",
-        "可问题是，一个修道人若是在成就玄尊之后选择脱离世间，完全将自身过去存在的痕迹抹去，那么就很难找到其存在的证明了"
+      "summary": "自称过去在内层修持，因坐关落入虚空，欲归返天夏内层。",
+      "appearance": [
+        "足踏法驾"
       ],
-      "mention_count": 6
+      "personality": [],
+      "abilities": [
+        "求全之境"
+      ],
+      "equipment": [
+        "法驾"
+      ],
+      "relationships": [
+        {
+          "target": "曾驽",
+          "type": "问路"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在内层修持，坐关后落入虚空。"
+        },
+        {
+          "stage": "当前",
+          "event": "在虚空中遇到曾驽，请求通禀归返。"
+        }
+      ],
+      "evidence": [
+        "贫道南丹，过去在内层修持",
+        "此人疑似求全之境",
+        "其乃是已然消亡的道派，明石道派的传人"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "只是",
+      "name": "戴廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "虚空世域廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "只是他也不敢擅专，更不敢随意把人往虚空世域中带，便客气道：“晚辈这就向上通禀，只是晚辈只是一个巡查，做不了主，故是还要委屈前辈在此稍待",
+      "summary": "收到曾驽传讯后，将南丹道人之事上报陈首执。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "慎重"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是他也不敢擅专，更不敢随意把人往虚空世域中带，便客气道：“晚辈这就向上通禀，只是晚辈只是一个巡查，做不了主，故是还要委屈前辈在此稍待",
-        "只是对于这一位自称也是天夏修士的南丹道人，他全然没有印象，不过看曾驽的禀告之中，此人疑似求全之境",
-        "对于这些人他是佩服的，但是首先要确定其人来历，只是报上了名姓，此人并不谈自身渊源，他本能觉得这里有一些问题"
+      "relationships": [
+        {
+          "target": "曾驽",
+          "type": "下属"
+        },
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到曾驽传讯，上报陈首执。"
+        }
+      ],
+      "evidence": [
+        "戴廷执收到了曾驽传讯，惊讶之余，心下也是十分慎重"
+      ],
+      "mention_count": 3
     },
     {
       "name": "陈首执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏首执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "他觉得这件事自己也无法做主，于是唤出训天道章，将此事报给了陈首执",
+      "summary": "天夏最高领导者之一，负责处理南丹道人事件。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他觉得这件事自己也无法做主，于是唤出训天道章，将此事报给了陈首执",
-        "陈首执得闻此事后，寻思了一下，发现同样无法判断，因为对于此人他也一样没有什么印象，照理说一个人修道长远，那么一定是会留下过往痕迹的",
-        "”    陈首执道：“张廷执若有办法，那还请一试"
+      "personality": [
+        "谨慎"
       ],
-      "mention_count": 5
+      "abilities": [],
+      "equipment": [
+        "晶玉"
+      ],
+      "relationships": [
+        {
+          "target": "戴廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "钟廷执",
+          "type": "下属"
+        },
+        {
+          "target": "崇廷执",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "林廷执",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到戴廷执上报，召集廷执商议，并请张御探查南丹根脚。"
+        }
+      ],
+      "evidence": [
+        "陈首执得闻此事后，寻思了一下",
+        "陈首执沉吟道：“明石派……”"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "或者",
+      "name": "钟廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "或者不是天夏治下修道人",
+      "summary": "擅长推算，尝试推算南丹道人根脚。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "或者不是天夏治下修道人",
-        "那么他大可以以大道之印去观望，若是其人是过去天夏存在之人，那么当是也能够见到，或者还能由此见得更多"
+      "abilities": [
+        "推算"
       ],
-      "mention_count": 4
+      "equipment": [
+        "清穹之气"
+      ],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受陈首执之命推算南丹根脚，仅得模糊结果。"
+        }
+      ],
+      "evidence": [
+        "钟廷执道：“我等愿意一试。”他借用了一缕清穹之气过来，推算了一会儿"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "贫道",
+      "name": "崇廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "”    那道人听到此言，颔首道：“贫道南丹，过去在内层修持，本拟求取上道，寻找破关之法，然则一息坐关之后，却是落入了虚空之中，星辰天象与以往已是大为不同，不知过去了多少年月，贫道心中有所疑惑，正欲求一个答案，既然此处还是天夏，还请向上通禀",
+      "summary": "与钟廷执一同参与推算。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人听到此言，颔首道：“贫道南丹，过去在内层修持，本拟求取上道，寻找破关之法，然则一息坐关之后，却是落入了虚空之中，星辰天象与以往已是大为不同，不知过去了多少年月，贫道心中有所疑惑，正欲求一个答案，既然此处还是天夏，还请向上通禀"
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与钟廷执一同推算南丹根脚。"
+        }
+      ],
+      "evidence": [
+        "并先对钟廷执及崇廷执二人道"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "陈首",
+      "name": "玉素道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "他觉得这件事自己也无法做主，于是唤出训天道章，将此事报给了陈首执",
+      "summary": "参与廷议，提出需查清南丹道人是否天夏人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他觉得这件事自己也无法做主，于是唤出训天道章，将此事报给了陈首执",
-        "陈首执得闻此事后，寻思了一下，发现同样无法判断，因为对于此人他也一样没有什么印象，照理说一个人修道长远，那么一定是会留下过往痕迹的",
-        "”    陈首执道：“张廷执若有办法，那还请一试"
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中发言。"
+        }
+      ],
+      "evidence": [
+        "玉素道人则道：“虽是根脚落在我天夏，可到底是我天夏人，还是其余道脉之人，却需得查清楚才是。”"
+      ],
+      "mention_count": 1
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执，守正宫主",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "张御这时开口道：“关于此人来历，御或可一察",
+      "summary": "利用大道之印探查南丹道人根脚，确认其为明石道派传人。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御这时开口道：“关于此人来历，御或可一察",
-        "”    张御应下，他从议谈之中退出，随后坐定下来",
-        "不过想来也是，與元夏這一戰过后，许多人都功行有所精进，而张御作为斗战最多之人，又是战力最为强横之人，有此成就似有很合情理"
+      "abilities": [
+        "大道之印",
+        "目印",
+        "解化天地真环"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "邹正",
+          "type": "义父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受陈首执之请探查南丹根脚，成功确认其来历。"
+        }
+      ],
+      "evidence": [
+        "张御这时开口道：“关于此人来历，御或可一察。”",
+        "他借着目印向着那南丹道人望去",
+        "其乃是已然消亡的道派，明石道派的传人"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "张御应",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "”    张御应下，他从议谈之中退出，随后坐定下来",
+      "summary": "主动请缨去会见南丹道人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御应下，他从议谈之中退出，随后坐定下来",
-        "”    张御应下道：“此乃我守正宫应尽之责"
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "上级"
+        },
+        {
+          "target": "戴廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "请求与戴廷执一同会见南丹道人。"
+        }
+      ],
+      "evidence": [
+        "林廷执道：“首执，……林某愿意一行。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "虚空",
+      "name": "邹正",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "张御的义父",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "第五百二十六章 昔缈今复存    虚空之中，曾驽正乘舟巡查，他做此事已然十几载了，如今不是战时，不是必须他人配合，一人负责此事也是足够",
+      "summary": "被张御提及，曾预言东庭地陆变化。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百二十六章 昔缈今复存    虚空之中，曾驽正乘舟巡查，他做此事已然十几载了，如今不是战时，不是必须他人配合，一人负责此事也是足够",
-        "因为天势拨转的牵连，这些天来天夏发生了许多些微的变化，但虚空的变化反是最少的",
-        "虚空邪神似是变得多了一些，但是奇异的是，就算虚空邪神多了出来，也仍是遵守与天夏的约定，并没有侵入到天夏与邪神早就划定的地界之中"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "义父"
+        }
       ],
-      "mention_count": 3
-    },
-    {
-      "name": "如今",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十六章 昔缈今复存",
-      "summary": "第五百二十六章 昔缈今复存    虚空之中，曾驽正乘舟巡查，他做此事已然十几载了，如今不是战时，不是必须他人配合，一人负责此事也是足够",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百二十六章 昔缈今复存    虚空之中，曾驽正乘舟巡查，他做此事已然十几载了，如今不是战时，不是必须他人配合，一人负责此事也是足够",
-        "好在出产灵性植株的伏州没有任何异变，当初伊帕尔神国的所在地方，浸润了极为强大的神力，并浸润入了每一寸土地之中，东庭府洲正是利用这些神力培养着植株，如今几乎承担着各洲宿四成以上的丹材供应"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾言及至高之力被借用。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "正如义父邹正所言，至高之力被借用了不少"
+      ],
+      "mention_count": 1
     }
   ]
 }

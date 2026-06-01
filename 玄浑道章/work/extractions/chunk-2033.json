@@ -1,256 +1,326 @@
 {
   "chunk_id": "chunk-2033",
-  "title": "第三十三章 空青已渡黯",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "清玄执摄"
+      ],
+      "identity": "天夏执摄",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "第三十三章 空青已渡黯    张御心中明白，先前五位执摄让他们盯着那些先天之气，其实就是防备他们弄事",
+      "summary": "天夏执摄，谋划利用邪神和先天之气搅动局势，并授意青朔道人攀渡上境。",
+      "appearance": [],
+      "personality": [
+        "深思熟虑",
+        "激进",
+        "善于谋划"
+      ],
+      "abilities": [
+        "能与邪神沟通",
+        "能洞察先天之气和混沌"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "五位执摄",
+          "type": "同僚，但理念不合"
+        },
+        {
+          "target": "青朔道人",
+          "type": "映身关系，授意其攀渡上境"
+        },
+        {
+          "target": "上境邪神",
+          "type": "利用对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察邪神侵染先天之气，向五位执摄提议杀灭邪神被拒，后趁五位执摄牵制邪神时授意青朔攀渡上境。"
+        }
+      ],
+      "evidence": [
+        "张御心中明白，先前五位执摄让他们盯着那些先天之气，其实就是防备他们弄事。",
+        "张御见他们不理会这节，也就不再多言，气意退了回来，等上境邪神吞夺了先天之气后再度归来，到时候他倒要看这五位怎么解决此事。",
+        "张御这时眸光一闪，这个时候这五位无暇他顾，不怕其有什么布置，那么正好方便他此刻行事。他当下向下层传递去了一个意念。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "太始道人",
+      "aliases": [
+        "太始"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "天夏上层",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "五位执摄之一，主张以蔽绝方式应对邪神，反对张御的激进做法。",
+      "appearance": [],
+      "personality": [
+        "保守",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚，理念不合"
+        },
+        {
+          "target": "其他四位执摄",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御争论应对邪神的方法，坚持蔽绝而非杀灭。"
+        }
+      ],
+      "evidence": [
+        "太始道人道：“清玄执摄，此回道争之际，一切以定安天道变化为上，我辈不宜争杀。”",
+        "太始道人在他离开后道：“清玄执摄太过激进了。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "太初道人",
+      "aliases": [
+        "太初"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "天夏上层",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "五位执摄之一，附和太始道人的观点，认为张御过于激进。",
+      "appearance": [],
+      "personality": [
+        "保守"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚，不赞同其做法"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与太始道人一同反驳张御的提议。"
+        }
+      ],
+      "evidence": [
+        "太初道人亦道：“上回也与清玄执摄说过，上层力量对抗，所起变化远胜我之所谓，真正得不偿失。清玄执摄只消照着定策行事便好。”",
+        "太初道人言道：“清玄执摄到底是从人身修道人上进，一路争杀上来，故遇到事机，也总是以这等方法作为解决之法。等他渐渐明悟了道理，自然不会再坚持此见。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "太素道人",
+      "aliases": [
+        "太素"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "天夏上层",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "五位执摄之一，认为张御所言并非全无道理。",
+      "appearance": [],
+      "personality": [
+        "相对开明"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚，部分认同其观点"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在五位执摄讨论中表达对张御观点的部分认同。"
+        }
+      ],
+      "evidence": [
+        "太素道人摇头道：“此辈频频归来，总有一些牵扯，清玄执摄所言也并不是完全没有道理。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "太极道人",
+      "aliases": [
+        "太极"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "天夏上层",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "五位执摄之一，主张通过蔽绝来安抚元夏。",
+      "appearance": [],
+      "personality": [
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提出蔽绝寰阳三人以安抚元夏。"
+        }
+      ],
+      "evidence": [
+        "太极道人道：“我若将这三位消杀，元夏那边三位亦要有别样心思，如此处置，方能安抚其心，也是最好办法。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "太易道人",
+      "aliases": [
+        "太易"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "天夏上层",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "五位执摄之一，在邪神退去后感谢张御和庄执摄。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在邪神暂时退去后，唤回张御和庄执摄并表示感谢。"
+        }
+      ],
       "evidence": [
-        "第三十三章 空青已渡黯    张御心中明白，先前五位执摄让他们盯着那些先天之气，其实就是防备他们弄事",
-        "张御本以为这一次又是上次所传递来的东西，可是稍稍一顾，眼神微动，却发现并非如此，感觉与上回所见并不相同",
-        "”    张御见他们不理会这节，也就不再多言，气意退了回来，等上境邪神吞夺了先天之气后再度归来，到时候他倒要看这五位怎么解决此事"
+        "太易道人言道：“此番劳烦两位了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "庄执摄",
+      "aliases": [
+        "庄执摄"
+      ],
+      "identity": "天夏执摄",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "天夏执摄，与张御一同处理邪神事务，指出邪神并未真正离去。",
+      "appearance": [],
+      "personality": [
+        "敏锐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同被五位执摄唤回，并提醒五位执摄邪神并未真正离去。"
+        }
+      ],
+      "evidence": [
+        "庄执摄道：“这一次这邪神颇古怪，见无法突破清穹之气，便就自行退去，与以往有些不符。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "青朔道人",
+      "aliases": [
+        "青朔"
+      ],
+      "identity": "修道者，张御的映身",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "张御的映身，在张御授意下攀渡上境，最终成功成就上境。",
+      "appearance": [],
+      "personality": [
+        "意志坚定"
+      ],
+      "abilities": [
+        "道法‘诸行有常’"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "映身，受其授意"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在张御授意下开始攀渡上境，历经道机倾压后成功，落于静湖之上，口中吟诗。"
+        }
+      ],
+      "evidence": [
+        "虚空驻地之中，青朔道人已然在此闭关三载有余，早已做好了攀渡上境的一切准备，只是在等待一个恰当的时机。",
+        "此刻收到了张御之传意，他再不迟疑，放开心神，慨然踏出了那一步！",
+        "他站起身来，随光而去，待得前方光芒逐渐化开，他见自身已是落在一片静湖之上，只是这里似乎一片黯淡，空寂幽暗。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "上境邪神",
+      "aliases": [
+        "邪神",
+        "上邪神"
+      ],
+      "identity": "邪神",
+      "faction": "混沌",
+      "status": "登场",
+      "first_appearance": "第三十三章 空青已渡黯",
+      "summary": "来自上境的邪神，与寰阳派三位有关联，被张御利用来侵染先天之气。",
+      "appearance": [],
+      "personality": [
+        "本能行事",
+        "乐于分享"
+      ],
+      "abilities": [
+        "能污秽先天之气",
+        "与寰阳三人有联系"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被利用对象"
+        },
+        {
+          "target": "寰阳派三位",
+          "type": "有联系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到张御气意后反传气意，开始侵染先天之气，后被五位执摄再次蔽绝。"
+        }
+      ],
+      "evidence": [
+        "那个上邪神在收到了他传去的气意之后，顿了一下，却是反传了一缕气意过来。",
+        "发现那上境邪神果然没有真的离去，只是因为其力量不在对抗之上，而是正在侵染了诸多先天之气，等此事一毕，那一定会再度转回的。"
       ],
       "mention_count": 8
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "可是有些时候，其实用不着他亲自来动手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是有些时候，其实用不着他亲自来动手",
-        "邪神可是非常愿意将自己的好东西分享给所有人的，并且不管那是不是有智之灵，在其意识之中，也没有这等分别",
-        "张御本以为这一次又是上次所传递来的东西，可是稍稍一顾，眼神微动，却发现并非如此，感觉与上回所见并不相同"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "可再是一想，若是这个指引不是来自那五位，而是来自于其余大能呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可再是一想，若是这个指引不是来自那五位，而是来自于其余大能呢",
-        "可是他并不想此辈照着既定的棋局走下去，而是要将棋局尽量搅乱，让他们无法把一切执拿在手中",
-        "他眸中神光一闪，往那里看了过去，发现似乎不是如此，而是上境邪神有一部分气机落在了那些先天之气上，因为其本能将自身所得向外分享向，现在有的地方可分享，那自然先到那里，而不是执意朝着他们这里过来"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "只是表面看来，就是邪神已被蔽绝出去了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是表面看来，就是邪神已被蔽绝出去了",
-        "而这回看下来，发现那上境邪神果然没有真的离去，只是因为其力量不在对抗之上，而是正在侵染了诸多先天之气，等此事一毕，那一定会再度转回的",
-        "虚空驻地之中，青朔道人已然在此闭关三载有余，早已做好了攀渡上境的一切准备，只是在等待一个恰当的时机"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "却是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "那个上邪神在收到了他传去的气意之后，顿了一下，却是反传了一缕气意过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那个上邪神在收到了他传去的气意之后，顿了一下，却是反传了一缕气意过来",
-        "原本他已经有了一个想法，然而现在情况得悉，却是给他提供了一个新的思路，此事若是利用的好，或能引发更多变数",
-        "五位执摄一见如此，却是不敢放任其继续下去，因为他们也能看出，这些先天之气若被污秽，极可能成为这邪神的一部分，那时将更难对付"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "清玄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "”    太始道人道：“清玄执摄，此回道争之际，一切以定安天道变化为上，我辈不宜争杀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    太始道人道：“清玄执摄，此回道争之际，一切以定安天道变化为上，我辈不宜争杀",
-        "”    太初道人亦道：“上回也与清玄执摄说过，上层力量对抗，所起变化远胜我之所谓，真正得不偿失",
-        "清玄执摄只消照着定策行事便好"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "清玄执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "”    太始道人道：“清玄执摄，此回道争之际，一切以定安天道变化为上，我辈不宜争杀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    太始道人道：“清玄执摄，此回道争之际，一切以定安天道变化为上，我辈不宜争杀",
-        "”    太初道人亦道：“上回也与清玄执摄说过，上层力量对抗，所起变化远胜我之所谓，真正得不偿失",
-        "清玄执摄只消照着定策行事便好"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "清玄执摄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "”    太始道人道：“清玄执摄，此回道争之际，一切以定安天道变化为上，我辈不宜争杀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    太始道人道：“清玄执摄，此回道争之际，一切以定安天道变化为上，我辈不宜争杀",
-        "”    太初道人亦道：“上回也与清玄执摄说过，上层力量对抗，所起变化远胜我之所谓，真正得不偿失",
-        "清玄执摄只消照着定策行事便好"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "青朔",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "虚空驻地之中，青朔道人已然在此闭关三载有余，早已做好了攀渡上境的一切准备，只是在等待一个恰当的时机",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虚空驻地之中，青朔道人已然在此闭关三载有余，早已做好了攀渡上境的一切准备，只是在等待一个恰当的时机",
-        "张御就是怕这个时候会有所干扰，五位执摄的道法上次阻碍了他，他利用至高及大混沌方才避过，青朔虽然不是他，可源出一身，也难保不受影响",
-        "所以这一回等到五位执摄被牵制住了之后，他才是授意青朔上行"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "第三十三章 空青已渡黯    张御心中明白，先前五位执摄让他们盯着那些先天之气，其实就是防备他们弄事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三十三章 空青已渡黯    张御心中明白，先前五位执摄让他们盯着那些先天之气，其实就是防备他们弄事",
-        "可是有些时候，其实用不着他亲自来动手",
-        "要真是如此，那一切就说得通了，因为多数上境大能其实根本不在乎眼前之道争"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "否则",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "除非将之化入己身，成就先天之灵，否则对他们而言价值不大",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "除非将之化入己身，成就先天之灵，否则对他们而言价值不大",
-        "也就是他一直以来问对大混沌，又了解了先天之灵和先天之气，所以能够看得明白，否则换了五位执摄过来也一样分辨不清楚",
-        "他思索了一下，气意去到五位执摄那里，传言道：“五位执摄，我仍是坚持上回之意，此辈此番驱逐，下回又至，不当蔽绝，而当设法杀灭，否则余毒不尽"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "要么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十三章 空青已渡黯",
-      "summary": "先天之气若是被其所污秽，要么就是进入大混沌之中，要么就是与之融汇为一体",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "先天之气若是被其所污秽，要么就是进入大混沌之中，要么就是与之融汇为一体"
-      ],
-      "mention_count": 4
     }
   ]
 }

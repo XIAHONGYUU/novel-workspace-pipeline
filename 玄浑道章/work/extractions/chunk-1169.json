@@ -1,256 +1,306 @@
 {
   "chunk_id": "chunk-1169",
-  "title": "第七十一章 问法拭金符",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张廷执",
+        "张守正"
+      ],
+      "identity": "玄廷廷执，守正",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第七十一章 问法拭金符",
-      "summary": "第七十一章 问法拭金符    张御在观台之上站了许久，心中一直在思量着此回全法之事",
+      "summary": "天夏玄廷廷执，正在准备求全道法，与首座道人、霍衡等人交流。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第七十一章 问法拭金符    张御在观台之上站了许久，心中一直在思量着此回全法之事",
-        "”    张御踏上阶台，一如之前，先是跨过似若无尽的阶台，再是经过一个原本无路之门，最后才到了一处似存非存的门关之前",
-        "”    张御道：“正是，御方才是五位执摄处归来，只是身为廷执，此去求全道法，却需向首执有所交代"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "自信"
       ],
-      "mention_count": 27
+      "abilities": [
+        "玄修",
+        "道法",
+        "分身术"
+      ],
+      "equipment": [
+        "金符"
+      ],
+      "relationships": [
+        {
+          "target": "首座道人",
+          "type": "上下级"
+        },
+        {
+          "target": "霍衡",
+          "type": "同道"
+        },
+        {
+          "target": "蒯荆",
+          "type": "师兄"
+        },
+        {
+          "target": "小师弟",
+          "type": "师弟"
+        },
+        {
+          "target": "荀季",
+          "type": "师生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在观台思量全法之事，后前往清穹之舟面见首座道人，并化分身安排后事，最后祭动金符开始求全道法。"
+        }
+      ],
+      "evidence": [
+        "张御在观台之上站了许久，心中一直在思量着此回全法之事。",
+        "张御点了点头，他转身从此间离去。",
+        "他将那一封金符自袖中取出，起双指一夹，往外一祭。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "霍衡",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "首座道人",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "玄廷首执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第七十一章 问法拭金符",
-      "summary": "”    张御点了下头，他转身从此间离去，不过这个时候，他心有所感，停下了下来，霍衡从背后走了过来，与他并肩而立，道：“张道友，想来你已然准备求全道法了",
+      "summary": "玄廷首座，与张御交谈并安排后事。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "温和",
+        "稳重"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        },
+        {
+          "target": "明周道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清穹之舟接见张御，收下呈书，并吩咐明周道人记录张御功绩。"
+        }
+      ],
       "evidence": [
-        "”    张御点了下头，他转身从此间离去，不过这个时候，他心有所感，停下了下来，霍衡从背后走了过来，与他并肩而立，道：“张道友，想来你已然准备求全道法了",
-        "”    霍衡笑了一笑，道：“非我消息灵通，而是混沌应兆，自具前知，此是混沌道法之妙",
-        "”    霍衡负袖言道：“道友当是不会以为渡关之法只有玄廷可得拿出来吧"
+        "首座道人点了点头，将书信拿了过来。",
+        "首座道人道：“你记下张廷执，若是张廷执久不归来，便把他名字和过往功载刻在清穹之舟上。”"
       ],
       "mention_count": 8
     },
     {
-      "name": "首座",
+      "name": "霍衡",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "混沌道法修行者",
+      "faction": "混沌",
       "status": "登场",
       "first_appearance": "第七十一章 问法拭金符",
-      "summary": "他继续往前迈步，前方忽然一亮，首座道人正在站在一处台阶之上相候，他抬袖一礼，道：“首执有礼了",
+      "summary": "混沌道法修行者，向张御提出借混沌之力渡关的建议。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他继续往前迈步，前方忽然一亮，首座道人正在站在一处台阶之上相候，他抬袖一礼，道：“首执有礼了",
-        "”    首座道人还得一礼，道：“张廷执已是见过五位执摄了",
-        "首座道人点了点头，将书信拿了过来"
+      "personality": [
+        "神秘",
+        "自信"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "首座道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十一章 问法拭金符",
-      "summary": "他继续往前迈步，前方忽然一亮，首座道人正在站在一处台阶之上相候，他抬袖一礼，道：“首执有礼了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他继续往前迈步，前方忽然一亮，首座道人正在站在一处台阶之上相候，他抬袖一礼，道：“首执有礼了",
-        "”    首座道人还得一礼，道：“张廷执已是见过五位执摄了",
-        "首座道人点了点头，将书信拿了过来"
+      "abilities": [
+        "混沌道法",
+        "前知"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "首座道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十一章 问法拭金符",
-      "summary": "他继续往前迈步，前方忽然一亮，首座道人正在站在一处台阶之上相候，他抬袖一礼，道：“首执有礼了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他继续往前迈步，前方忽然一亮，首座道人正在站在一处台阶之上相候，他抬袖一礼，道：“首执有礼了",
-        "”    首座道人还得一礼，道：“张廷执已是见过五位执摄了",
-        "首座道人点了点头，将书信拿了过来"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同道"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十一章 问法拭金符",
-      "summary": "这是他给目前几个守正留下的交代，若是自身久去不返，就会由明周道人送到几人手中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这是他给目前几个守正留下的交代，若是自身久去不返，就会由明周道人送到几人手中",
-        "可他认为，以天夏的力量，若是不计代价的去想办法，也自是能够解决这个问题的，用不着他来操心",
-        "若是上次来他还有所怀疑，那么现在已是能够确定，前面两个所经过的地方正是对应神气寄虚和虚实相生两道关门"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在张御离开蒯荆处时出现，建议张御入混沌之道。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "明周",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十一章 问法拭金符",
-      "summary": "待写罢之后，将其中几封镇入一道气机，并唤出明周道人，关照其收妥",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "待写罢之后，将其中几封镇入一道气机，并唤出明周道人，关照其收妥",
-        "这是他给目前几个守正留下的交代，若是自身久去不返，就会由明周道人送到几人手中",
-        "”    首座道人还有一礼，待目送张御离去之后，他唤道：“明周"
+        "霍衡从背后走了过来，与他并肩而立，道：“张道友，想来你已然准备求全道法了。”",
+        "霍衡负袖言道：“道友当是不会以为渡关之法只有玄廷可得拿出来吧？”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十一章 问法拭金符",
-      "summary": "那么问题来了，五位执摄，元都那一位祖师，还有寰阳、上宸天、神昭、幽城等按理说跳早是已是脱出世外的各脉祖师，在这其中，会否也是遇到呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那么问题来了，五位执摄，元都那一位祖师，还有寰阳、上宸天、神昭、幽城等按理说跳早是已是脱出世外的各脉祖师，在这其中，会否也是遇到呢",
-        "还有那道化之世中到底会是何等情形",
-        "固然他对自己也有信心，可他并不知道此行会去得多久，身为廷执，还有不少职责在身，在求证道法之前，也需做一些安排"
-      ],
-      "mention_count": 5
+      "mention_count": 4
     },
     {
       "name": "蒯荆",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "蒯师兄"
+      ],
+      "identity": "张御的师兄",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第七十一章 问法拭金符",
-      "summary": "蒯荆走了出来，对他执有一礼，道：“张守正",
-      "appearance": [],
+      "summary": "张御的师兄，在灵关中照拂小师弟。",
+      "appearance": [
+        "戴眼镜"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "蒯荆走了出来，对他执有一礼，道：“张守正",
-        "”    蒯荆将符书接过，他抬起头来，推了下眼镜，道：“我会照拂小师弟的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师兄弟"
+        },
+        {
+          "target": "小师弟",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在灵关竹庐中读书，接受张御的符信。"
+        }
+      ],
+      "evidence": [
+        "蒯荆走了出来，对他执有一礼，道：“张守正。”",
+        "蒯荆将符书接过，他抬起头来，推了下眼镜，道：“我会照拂小师弟的。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "首座道人的下属",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第七十一章 问法拭金符",
-      "summary": "可是那比自己还要完满之我会是如何模样",
+      "summary": "首座道人的下属，负责记录功绩。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "肃容"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是那比自己还要完满之我会是如何模样",
-        "可是因为外我也会随之变强，且频繁寻来，所以若不设法攀渡上去，那么很可能保证永不失机，并且一旦没了外物相助，那恐怕结局不会美妙",
-        "修道人一旦求全道法失败，就会万化之世中退消，等若世上再无此人，可是身为修道人，留下痕迹不会在短时内磨灭的"
+      "relationships": [
+        {
+          "target": "首座道人",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "服务对象"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被首座道人唤出，记录张御功绩。"
+        }
+      ],
+      "evidence": [
+        "光芒一闪，明周道人出现在了一旁，稽首道：“明周在此，首执请吩咐。”",
+        "明周道人肃容道：“明周记下了。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "不过这",
+      "name": "小师弟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "张御和蒯荆的师弟",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第七十一章 问法拭金符",
-      "summary": "之前在听闻三法得时候，他脑海中也曾浮出能否将镇道之宝能借来一用的念头，不过这也是想想罢了，主动去寻外我，当是带不去不属于自身的任何法器的",
-      "appearance": [],
+      "summary": "张御和蒯荆的小师弟，在灵关中由蒯荆照拂。",
+      "appearance": [
+        "十二三岁，胖乎乎的少年道童"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "之前在听闻三法得时候，他脑海中也曾浮出能否将镇道之宝能借来一用的念头，不过这也是想想罢了，主动去寻外我，当是带不去不属于自身的任何法器的",
-        "”    张御点了下头，他转身从此间离去，不过这个时候，他心有所感，停下了下来，霍衡从背后走了过来，与他并肩而立，道：“张道友，想来你已然准备求全道法了",
-        "而随着他祭动此符，像是打开了什么阻障一般，无数外感纷扰传递而来，不过这些似是悠远余声一般，很快逐一消失而去，唯有一处依旧存在，其若大日高悬于顶，叫人难忽其光，又像是亘古以来便在那里，几疑与道同存"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师兄弟"
+        },
+        {
+          "target": "蒯荆",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在竹庐中读书。"
+        }
+      ],
+      "evidence": [
+        "一个十二三岁，看去胖乎乎的少年道童正在里面读书，声音清脆朗朗。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "他转",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "荀季",
+      "aliases": [
+        "荀真人"
+      ],
+      "identity": "元都派真人",
+      "faction": "元都派",
+      "status": "提及",
       "first_appearance": "第七十一章 问法拭金符",
-      "summary": "”    张御点了下头，他转身从此间离去，不过这个时候，他心有所感，停下了下来，霍衡从背后走了过来，与他并肩而立，道：“张道友，想来你已然准备求全道法了",
+      "summary": "张御曾经的老师，未现身求全道法。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师生"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    张御点了下头，他转身从此间离去，不过这个时候，他心有所感，停下了下来，霍衡从背后走了过来，与他并肩而立，道：“张道友，想来你已然准备求全道法了",
-        "”    他转过头来，目光看向张御，道：“以道友之资才，想来必定择选最上之法，然则道友恐有一事不知，我天夏到此世之际，从未感得大混沌，如今既是见得，那么诸世映照，必有混沌侵入其中，增添无穷变数"
+        "张御又道：“御想请教首执一言，元都派荀真人当初不曾现身，可也是为求全道法之事么？”"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "张御的宠物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十一章 问法拭金符",
+      "summary": "张御在清玄道宫中揉搓的宠物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御揉搓后离开清玄道宫。"
+        }
+      ],
+      "evidence": [
+        "他揉了揉凑过来的妙丹君，便离开了清玄道宫。"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,0 +1,256 @@
+{
+  "chunk_id": "chunk-1012",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "夜探大秦寺的领头人物，带领李家三人追踪洋道士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李黑虎",
+          "type": "同行者"
+        },
+        {
+          "target": "李雄彪",
+          "type": "同行者"
+        },
+        {
+          "target": "李雄罴",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大秦寺内追踪洋道士，发现铜牛厉诡和真空家乡成员。"
+        }
+      ],
+      "evidence": [
+        "苏午目光锁定住某个往大秦寺外围而去的洋道士",
+        "苏午身形于青蒙蒙雾气内飞快穿梭开来",
+        "苏午未有参与身后三人的讨论"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "李黑虎",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "李家三人之一，跟随苏午夜探大秦寺。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李雄彪",
+          "type": "父子"
+        },
+        {
+          "target": "苏午",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随苏午追踪洋道士，并猜测闯入者身份。"
+        }
+      ],
+      "evidence": [
+        "李黑虎跟在苏午右后侧，一边拔足狂奔，一边出声言语着",
+        "黑虎身旁的李雄彪斜乜了儿子一眼"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李雄彪",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "李家三人之一，李黑虎的父亲。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李黑虎",
+          "type": "父子"
+        },
+        {
+          "target": "李雄罴",
+          "type": "兄弟"
+        },
+        {
+          "target": "苏午",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随苏午夜探大秦寺。"
+        }
+      ],
+      "evidence": [
+        "黑虎身旁的李雄彪斜乜了儿子一眼，哼声道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李雄罴",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "李家三人之一，寡言少语。",
+      "appearance": [],
+      "personality": [
+        "寡言少语"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李雄彪",
+          "type": "兄弟"
+        },
+        {
+          "target": "苏午",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随苏午夜探大秦寺。"
+        }
+      ],
+      "evidence": [
+        "寡言少语的李雄罴点头附和"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "洋道士",
+      "aliases": [
+        "高大洋道士"
+      ],
+      "identity": "大秦寺道士",
+      "faction": "大秦寺",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大秦寺的洋道士，背负薄皮棺材，释放出铜牛厉诡。",
+      "appearance": [
+        "高大",
+        "黑袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "薄皮棺材",
+        "铜牛厉诡"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午追踪，释放铜牛厉诡攻击闯入者。"
+        }
+      ],
+      "evidence": [
+        "那背负着一副薄皮棺材在前头急奔的高大洋道士忽然定住了身形",
+        "洋道士胸前的黑袍子骤然竖直裂开来",
+        "一尊遍布绿锈的铜牛从裂缝中奔了出来"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "四弟/四哥",
+      "aliases": [],
+      "identity": "真空家乡成员",
+      "faction": "真空家乡",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真空家乡的成员，被铜牛厉诡的诡韵火焰缠绕，即将死亡。",
+      "appearance": [
+        "透明人影"
+      ],
+      "personality": [],
+      "abilities": [
+        "起火真言"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "真空家乡同伴",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被铜牛厉诡攻击，劝同伴离开。"
+        }
+      ],
+      "evidence": [
+        "一道微微透明的人影从墙根下浮显而出",
+        "四弟！四哥！",
+        "快走！快走！你俩的起火真言不顶用的"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "真空家乡同伴（两人）",
+      "aliases": [],
+      "identity": "真空家乡成员",
+      "faction": "真空家乡",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真空家乡的两名成员，试图救助同伴未果后离开。",
+      "appearance": [
+        "透明人影"
+      ],
+      "personality": [],
+      "abilities": [
+        "起火真言"
+      ],
+      "equipment": [
+        "火焰甲胄与兵刃"
+      ],
+      "relationships": [
+        {
+          "target": "四弟/四哥",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身救助同伴，被劝离后前往与香主汇合。"
+        }
+      ],
+      "evidence": [
+        "又有两道透明人影在不同方位显现",
+        "他们手上各自掐动印决，同时念念有词",
+        "二者继而以身形贴在墙边，透明身影倏忽消去"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

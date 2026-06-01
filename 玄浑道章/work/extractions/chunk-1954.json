@@ -1,78 +1,206 @@
 {
   "chunk_id": "chunk-1954",
-  "title": "第五百二十一章 劫变始内发",
   "characters": [
     {
-      "name": "向司议",
+      "name": "张御",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏修士",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
+      "summary": "天夏修士，从大道之印获得感应，提出断后。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
-        "”    向司议回道：“正是向某",
-        "”    全司议点点头，道：“向司议，你随我来吧"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在议事中提出由自己断后，并感应大道之印。"
+        }
       ],
-      "mention_count": 31
+      "evidence": [
+        "张御将手从晶玉之上收回，方才在议谈之中他提出由自己来断后，这是因为他感觉从大道之印传来某种感应。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "向司",
+      "name": "长孙廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
+      "summary": "天夏廷执，种下灵性气机。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
-        "”    向司议回道：“正是向某",
-        "”    全司议点点头，道：“向司议，你随我来吧"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "种下一缕不同的灵性气机。"
+        }
       ],
-      "mention_count": 20
+      "evidence": [
+        "长孙廷执又是种下了一缕不同的灵性气机"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "向司议",
+      "aliases": [
+        "向某"
+      ],
+      "identity": "元夏下殿负责之人",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百二十一章 劫变始内发",
+      "summary": "元夏下殿司议，被全司议带去观摩天地真环，并被告知打破天序的秘密。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "惊疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "全司议",
+          "type": "同僚"
+        },
+        {
+          "target": "越司议",
+          "type": "上级"
+        },
+        {
+          "target": "过司议",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被全司议带入两殿空域观摩天地真环，并听闻打破天序的提议。"
+        }
+      ],
+      "evidence": [
+        "向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议",
+        "向司议，你随我来吧。",
+        "向司议沉默了一会儿，才道：全司议，若是我不愿加入此中，又当如何呢？"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "越司议",
+      "aliases": [],
+      "identity": "元夏大司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百二十一章 劫变始内发",
+      "summary": "元夏大司议，询问向司议是否为下殿负责之人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在后殿接见向司议，并让全司议带其去观摩宝器。"
+        }
+      ],
+      "evidence": [
+        "越司议道：你就是如今下殿负责之人？"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "过司议",
+      "aliases": [],
+      "identity": "元夏大司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百二十一章 劫变始内发",
+      "summary": "元夏大司议，暂时执掌下殿权柄。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在后殿与越司议、全司议一同接见向司议。"
+        }
+      ],
+      "evidence": [
+        "座上正坐着越司议、过司议、全司议三位大司议"
+      ],
+      "mention_count": 2
     },
     {
       "name": "全司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏大司议",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
+      "summary": "元夏大司议，带向司议观摩天地真环，并透露打破天序的计划。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "平静",
+        "深谋远虑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
-        "”    越司议看向一边，道：“全司议，就由你带来他去那里走一趟吧，我两殿的东西，身为主持之人，又怎能不知呢",
-        "”    全司议点点头，道：“向司议，你随我来吧"
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "同僚"
+        },
+        {
+          "target": "越司议",
+          "type": "同僚"
+        },
+        {
+          "target": "过司议",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带向司议进入两殿空域观摩天地真环，并提议打破天序。"
+        }
+      ],
+      "evidence": [
+        "全司议点点头，道：向司议，你随我来吧。",
+        "全司议则是道：向司议一定是在想，我元夏天序一向稳固，我等到此便也无前路可言。",
+        "全司议语声平淡道：也没有什么，若你不同意，我会打散你的元神"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "全司",
+      "name": "兰司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元夏下殿代为主持之人",
+      "faction": "元夏",
+      "status": "提及",
       "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
+      "summary": "下殿日常事务的代为主持者。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -80,176 +208,58 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "几日之后，向司议走入了后殿，座上正坐着越司议、过司议、全司议三位大司议，他对着上方一礼，道：“见过三位司议",
-        "”    越司议看向一边，道：“全司议，就由你带来他去那里走一趟吧，我两殿的东西，身为主持之人，又怎能不知呢",
-        "”    全司议点点头，道：“向司议，你随我来吧"
+        "下殿的日常事务现在由兰司议代为主持"
       ],
-      "mention_count": 16
+      "mention_count": 1
     },
     {
-      "name": "他看",
+      "name": "万司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元夏上殿司议（已故）",
+      "faction": "元夏",
+      "status": "已故",
       "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "他看向外间，对面看去还暂时没有什么动静",
+      "summary": "上殿司议，已战亡。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看向外间，对面看去还暂时没有什么动静",
-        "“    向司议一怔，他看了看四周，依旧感应不到任何东西，道：“在这里",
-        "”    他看过来，语声平静道：“可以开诚布公的谈一谈"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "战亡。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "上殿自万司议战亡后"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "天夏",
+      "name": "惊龙子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元夏修士（已叛逃）",
+      "faction": "元夏（原）",
+      "status": "提及",
       "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "这一次议事结束后，天夏还不至于立刻走，因为若是他们立刻撤出，恐怕会暴露出他们得悉消息过早的情况，所要缓上一缓",
+      "summary": "曾尝试去天夏成就上境，但失败。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一次议事结束后，天夏还不至于立刻走，因为若是他们立刻撤出，恐怕会暴露出他们得悉消息过早的情况，所要缓上一缓",
-        "推动此器之前，首先是设法镇压纷乱天机，并不让天夏那边太早发现端倪",
-        "但这仅仅是附带的，他们不指望能完全瞒过天夏，只是在拨转天机之时，需要对天道进行一定的压制，以免到时候造成太大的变数"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "尝试去天夏成就上境，但失败。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "这一次议事结束后，天夏还不至于立刻走，因为若是他们立刻撤出，恐怕会暴露出他们得悉消息过早的情况，所要缓上一缓",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这一次议事结束后，天夏还不至于立刻走，因为若是他们立刻撤出，恐怕会暴露出他们得悉消息过早的情况，所要缓上一缓",
-        "倒是不管他们是否会走，元夏既然有所决定，那一定执行下去的，不会半途停下，因为这本质对元夏是有利的",
-        "此刻他们阵势两边有更多的灵性云雾蔓延开来，长孙廷执又是种下了一缕不同的灵性气机，本来这位还准备几种临清气机，随时准备应对元夏解化，但是此次看来是用不到了，只能等待下一次"
+        "莫非能是像惊龙子一般去到天夏尝试冲至上境么？",
+        "那惊龙子的下场就是一个例子了。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "全司议道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "”他忽然意识到了什么，心下动了动，道：“莫非……”    全司议道：“就如向司议所想的那样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他忽然意识到了什么，心下动了动，道：“莫非……”    全司议道：“就如向司议所想的那样",
-        "”    全司议道：“就是此物",
-        "”    全司议道：“在催动宝器之际，将会有上境力量演化，向司议可注意观望"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这宝器",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "全司议语声从心底传来道：“天地真环自炼造出来之后便一直放在这里，并不参与天序构筑，而这宝器如今就在此间",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "全司议语声从心底传来道：“天地真环自炼造出来之后便一直放在这里，并不参与天序构筑，而这宝器如今就在此间",
-        "他不禁有所明悟，这宝器在现世之内见不到，但是凭借那一缕神气寄托，却是可以在神虚之地内见到，因为神虚之地完全是意识的映现，只要意识可以接触或者理解的，那就可以见得",
-        "不过这只是他们的理解，这宝器真正的模样，不到上境无不可知其全貌"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "又能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "”    向司议不觉摇头，看到了又能如何",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    向司议不觉摇头，看到了又能如何",
-        "那么便是知悉了上境之道，了解诸般道法之妙，又能如何呢",
-        "又能获取多少呢"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "第五百二十一章 劫变始内发    张御将手从晶玉之上收回，方才在议谈之中他提出由自己来断后，这是因为他感觉从大道之印传来某种感应",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百二十一章 劫变始内发    张御将手从晶玉之上收回，方才在议谈之中他提出由自己来断后，这是因为他感觉从大道之印传来某种感应"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "方才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百二十一章 劫变始内发",
-      "summary": "第五百二十一章 劫变始内发    张御将手从晶玉之上收回，方才在议谈之中他提出由自己来断后，这是因为他感觉从大道之印传来某种感应",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百二十一章 劫变始内发    张御将手从晶玉之上收回，方才在议谈之中他提出由自己来断后，这是因为他感觉从大道之印传来某种感应",
-        "方才如此想时，却见一点明光泛起，却是全司议的元神从身上遁了出来，对他言道：“且随我来"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

@@ -1,258 +1,172 @@
 {
   "chunk_id": "chunk-0451",
-  "title": "第两百二十二章 诱饵",
   "characters": [
     {
       "name": "谭从",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "第两百二十二章 诱饵    在半睡半醒之间，谭从忽觉有异，他睁开眼，却发现自己的对面站着一个陌生道人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百二十二章 诱饵    在半睡半醒之间，谭从忽觉有异，他睁开眼，却发现自己的对面站着一个陌生道人",
-        "”    谭从心下一沉，同时又有些惊怒，他没想到玄府的人真会来抓拿自己",
-        "”    谭从冷静下来，道：“那么罪名呢"
+      "aliases": [
+        "谭副院主",
+        "谭大匠"
       ],
-      "mention_count": 39
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天机院副院主，享有爵禄之人，位比州守",
+      "faction": "天机院",
+      "status": "被玄府请去问话",
       "first_appearance": "第两百二十二章 诱饵",
-      "summary": "不过玄府位于礼制最高位，张御身为玄正，若是觉得某人对洲内有危害，可以绕过此例，直接出手拿人",
+      "summary": "天机院副院主，因违规被张御请去问话，但实际被用作诱饵以引出幕后之人。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过玄府位于礼制最高位，张御身为玄正，若是觉得某人对洲内有危害，可以绕过此例，直接出手拿人",
-        "这一路之上为了确保安稳，周围还有诸多修士隐藏于云中，负责沿途戒备，在经过一天一夜的疾驰之后，顺利回到了良州境内，并且在张御那处位于州城郊外的庄园之内停落下来",
-        "”    而此时此刻，时悦来到了张御的书房内，道：“玄正，人已是带到，下一步该是如何做"
+      "personality": [
+        "冷静",
+        "镇定",
+        "有担当",
+        "焦虑"
       ],
-      "mention_count": 26
+      "abilities": [],
+      "equipment": [
+        "眼镜"
+      ],
+      "relationships": [
+        {
+          "target": "施姜",
+          "type": "师生"
+        },
+        {
+          "target": "张御",
+          "type": "被调查者与调查者"
+        },
+        {
+          "target": "时悦",
+          "type": "被请去问话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被时悦请到张御的庄园，后签署供状，被用作诱饵。"
+        }
+      ],
+      "evidence": [
+        "谭从心下一沉，同时又有些惊怒，他没想到玄府的人真会来抓拿自己。",
+        "谭从坦承道：'谭某自问做人尚可，这几位大匠还不至于来凭空诬赖谭某。'",
+        "他心中不禁多了一丝焦躁，他原本想着把责任承担下来，牵连不到别人，可是没想到，张玄正根本没想从他身上得到什么，而是纯粹把他当成一个诱饵。"
+      ],
+      "mention_count": 30
     },
     {
       "name": "时悦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "时悦",
+        "时道友"
+      ],
+      "identity": "玄府道人",
+      "faction": "玄府",
+      "status": "执行任务中",
       "first_appearance": "第两百二十二章 诱饵",
-      "summary": "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
+      "summary": "玄府道人，受张玄正所托去请谭从。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "温言和语",
+        "有礼"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
-        "他看向时悦道：“你们知道这么做的后果么",
-        "”    时悦言道：“谭副院主现在不是更应该关心一下自己么"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "谭从",
+          "type": "请其问话"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将谭从和施姜带到张御的庄园。"
+        }
+      ],
+      "evidence": [
+        "那道人对他抬手一礼，道：'谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事。'",
+        "时悦温言和语道：'施师匠放心，不会出乱子的，会有人站出来安抚局面的。'"
+      ],
+      "mention_count": 8
     },
     {
       "name": "施姜",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "施师匠"
+      ],
+      "identity": "师匠，谭从的学生",
+      "faction": "天机院",
+      "status": "陪同谭从",
       "first_appearance": "第两百二十二章 诱饵",
-      "summary": "”    施姜这时突然道：“你们不能带走老师",
+      "summary": "谭从的学生，师匠，陪同谭从前往张御的庄园。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "急切",
+        "关心老师",
+        "慌张"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    施姜这时突然道：“你们不能带走老师",
-        "施姜急切道：“老师是享有爵禄之人，位比州守，按规矩你们不能拿他",
-        "施姜急道：“可是现在到处流传着你们玄府要抓捕所有天机院的大匠和师匠的消息，已经是人心惶惶了"
+      "relationships": [
+        {
+          "target": "谭从",
+          "type": "师生"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与谭从一起被带到庄园，后陪同谭从见张御。"
+        }
+      ],
+      "evidence": [
+        "施姜这时突然道：'你们不能带走老师！'",
+        "施姜咬了下唇，出声道：'老师，你身边不能没人照顾，我和你一起去！'"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "张御",
+      "aliases": [
+        "张玄正",
+        "张御"
+      ],
+      "identity": "玄正，玄府首领",
+      "faction": "玄府",
+      "status": "主持调查",
       "first_appearance": "第两百二十二章 诱饵",
-      "summary": "”    他又对时悦道：“我这里还有不少书信，都是一些有想法的年轻人寄来的，他们还在等着我的回复，能不能让我把这些书信再安排一下",
+      "summary": "玄正，负责清查违律之事，将谭从用作诱饵以引出幕后之人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "有原则",
+        "有策略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他又对时悦道：“我这里还有不少书信，都是一些有想法的年轻人寄来的，他们还在等着我的回复，能不能让我把这些书信再安排一下",
-        "不过她倒是松了一口气，道：“老师，幸好他们还顾忌老师的名声，没有怎么用强",
-        "”    谭从摇头道：“我的名声在这里可不值多少，他们也不必要这么做，几个神通法术下来，有什么秘密交代不出来"
+      "relationships": [
+        {
+          "target": "谭从",
+          "type": "调查者与被调查者"
+        },
+        {
+          "target": "时悦",
+          "type": "下属"
+        }
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "谭副",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
-        "”    时悦言道：“谭副院主现在不是更应该关心一下自己么",
-        "”    时悦道：“谭副院主不用多问，我们既然来请你，那当然是有证据的，尊驾和我们回去，自是一切都是明白了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在书房接见谭从和施姜，让谭从签署供状，并计划将其作为诱饵。"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "谭副院",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
-        "”    时悦言道：“谭副院主现在不是更应该关心一下自己么",
-        "”    时悦道：“谭副院主不用多问，我们既然来请你，那当然是有证据的，尊驾和我们回去，自是一切都是明白了"
+        "张御摇头道：'此法不妥。'他是去清查违律之事，自己自然不能带头去打破规矩。",
+        "张御淡声道：'我想谭副院主对事物有着自己的一套判断，并不会轻易被人左右，不过……'",
+        "张御看了一供状眼，道：'谭副院主既然愿意为自己违反规令之处承担罪责，那么我自会将这份供词交给两府。'"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "谭副院主",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人对他抬手一礼，道：“谭副院主，贫道时悦，这回受张玄正所托，特来请谭副院主过去交代一些事",
-        "”    时悦言道：“谭副院主现在不是更应该关心一下自己么",
-        "”    时悦道：“谭副院主不用多问，我们既然来请你，那当然是有证据的，尊驾和我们回去，自是一切都是明白了"
-      ],
-      "mention_count": 11
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "他心下一惊，随即又镇定下来，沉声道：“你是什么人，到这里做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他心下一惊，随即又镇定下来，沉声道：“你是什么人，到这里做什么",
-        "”    他心中也是放松许多，尽管他有手段可以自我解脱，并且有把握带着一些隐秘一起走，但是能够活着还是活着的好，他还有很多事情没有做完，他还有许多想看到的还不曾看到",
-        "他心中不禁多了一丝焦躁，他原本想着把责任承担下来，牵连不到别人，可是没想到，张玄正根本没想从他身上得到什么，而是纯粹把他当成一个诱饵"
-      ],
-      "mention_count": 9
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "他看向时悦道：“你们知道这么做的后果么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看向时悦道：“你们知道这么做的后果么",
-        "”    他看了看俏脸煞白的施姜，道：“不过你也不要太担心，那位张玄正是夏士，他应该是不会这么做的",
-        "张御正站在这里等候两人，他看着谭从，点首为礼道：“谭副院主，我们又见面了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "老师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "”    施姜这时突然道：“你们不能带走老师",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    施姜这时突然道：“你们不能带走老师",
-        "施姜急切道：“老师是享有爵禄之人，位比州守，按规矩你们不能拿他",
-        "若是老师也被抓了，后果你们想过么"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十二章 诱饵",
-      "summary": "不过玄府位于礼制最高位，张御身为玄正，若是觉得某人对洲内有危害，可以绕过此例，直接出手拿人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过玄府位于礼制最高位，张御身为玄正，若是觉得某人对洲内有危害，可以绕过此例，直接出手拿人",
-        "但他同样也不是为所欲为的，若是无有罪证，或者查不出来什么东西来，他自然也是要承担后果的，届时洲牧和监御使当会呈禀玉京及玄廷，玄廷也是会遣人过来问责的",
-        "若是老师也被抓了，后果你们想过么"
-      ],
-      "mention_count": 7
+      "mention_count": 10
     }
   ]
 }

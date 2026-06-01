@@ -1,257 +1,389 @@
 {
   "chunk_id": "chunk-0631",
-  "title": "第一百三十六章 巧合",
   "characters": [
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 巧合",
-      "summary": "倘若这次能趁张御穿渡天门的时候将此物投入进去，那么他们的目的也算达到了，而根本就用不着去与张御做什么正面冲突",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "倘若这次能趁张御穿渡天门的时候将此物投入进去，那么他们的目的也算达到了，而根本就用不着去与张御做什么正面冲突",
-        "”    张御此时已然带着众人走入了白舟之中，在主舱之内坐定下来后，他便催动白舟缓缓离开了泊台，并往地星之外破空飞去",
-        "”    张御心下微动，问道：“以往那些获得’缘法’的修士，军务署可曾出手护持过"
-      ],
-      "mention_count": 28
-    },
-    {
       "name": "曹道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 巧合",
-      "summary": "第一百三十六章 巧合    曹道人待常迩走后，从星袋里拿出一枚光润玉珠，里面似有一滴银水在流转着，在阳光底下格外耀眼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十六章 巧合    曹道人待常迩走后，从星袋里拿出一枚光润玉珠，里面似有一滴银水在流转着，在阳光底下格外耀眼",
-        "”    曹道人将玉珠递过去，道：“这东西你拿着，照着事先说好的去做",
-        "”    曹道人淡淡道：“不这样又如何，你愿意去么"
+      "aliases": [
+        "曹师"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "那年",
-      "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十六章 巧合",
-      "summary": "那年轻修士干笑了两声",
+      "summary": "策划干扰张御穿渡天门的修士，使用造物人执行计划。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "冷静",
+        "善于谋划"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "光润玉珠",
+        "玉佩"
+      ],
+      "relationships": [
+        {
+          "target": "常迩",
+          "type": "同伙"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "安排造物人投珠干扰张御穿渡天门，但计划因黄治行出现而失败。"
+        }
+      ],
       "evidence": [
-        "那年轻修士干笑了两声",
-        "”    那年轻修士想了想，道：“曹师可是认为，我们灭去玄法之后，余下空缺当有造物来填补",
-        "”    那年轻人壮着胆子道：“是的，以往争夺‘缘法’，那是玄尊默许的，所以胃宿军务署都是不管的"
+        "曹道人待常迩走后，从星袋里拿出一枚光润玉珠",
+        "曹道人将玉珠递过去，道：‘这东西你拿着，照着事先说好的去做。’",
+        "曹道人道：‘这一次不成虽然有些可惜，可我们并没有暴露自己，可以再等待下一次机会’"
       ],
       "mention_count": 10
     },
     {
-      "name": "曹道",
+      "name": "常迩",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十六章 巧合",
-      "summary": "第一百三十六章 巧合    曹道人待常迩走后，从星袋里拿出一枚光润玉珠，里面似有一滴银水在流转着，在阳光底下格外耀眼",
+      "summary": "曹道人的同伙，负责汇报情况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十六章 巧合    曹道人待常迩走后，从星袋里拿出一枚光润玉珠，里面似有一滴银水在流转着，在阳光底下格外耀眼",
-        "”    曹道人将玉珠递过去，道：“这东西你拿着，照着事先说好的去做",
-        "”    曹道人淡淡道：“不这样又如何，你愿意去么"
+      "relationships": [
+        {
+          "target": "曹道人",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向曹道人报告计划失败的原因。"
+        }
+      ],
+      "evidence": [
+        "常迩道：‘出现了一个意外，本来那位已经快要与我等派遣的飞舟一同进入天门了’"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "曹师",
+      "name": "造物人",
       "aliases": [],
-      "identity": "",
+      "identity": "造物人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十六章 巧合",
-      "summary": "他唤了一声，一名下巴上嵌有金属条的造物人走了过来，抱拳道：“曹师请吩咐",
-      "appearance": [],
+      "summary": "曹道人派去执行投珠任务的造物人。",
+      "appearance": [
+        "下巴上嵌有金属条"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他唤了一声，一名下巴上嵌有金属条的造物人走了过来，抱拳道：“曹师请吩咐",
-        "站在一边的一名年轻修士望了望远去的造物人，道：“曹师就把这么重要的事交给一个造物人么",
-        "”    那年轻修士想了想，道：“曹师可是认为，我们灭去玄法之后，余下空缺当有造物来填补"
+      "equipment": [
+        "玉珠",
+        "玉佩"
       ],
-      "mention_count": 8
+      "relationships": [
+        {
+          "target": "曹道人",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受曹道人的任务，携带玉珠和玉佩离开。"
+        }
+      ],
+      "evidence": [
+        "一名下巴上嵌有金属条的造物人走了过来",
+        "曹道人将玉珠递过去，道：‘这东西你拿着，照着事先说好的去做。’"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "黄治",
+      "name": "年轻修士",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十六章 巧合",
-      "summary": "”    张御没有回答，而是往后看去，就见远处一道遁光一闪，不过几个呼吸之间，就到了飞舟之前，而后自里现出一个修士来，其人对白舟一个揖礼，大声道：“在下黄治行，张巡护可是在么",
+      "summary": "曹道人身边的年轻修士，对造物人执行任务提出疑问。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御没有回答，而是往后看去，就见远处一道遁光一闪，不过几个呼吸之间，就到了飞舟之前，而后自里现出一个修士来，其人对白舟一个揖礼，大声道：“在下黄治行，张巡护可是在么",
-        "”    黄治行上得飞舟，再是对着他一揖，道：“张巡护有礼了",
-        "”    黄治行道：“黄某听闻，在讲道法会上张巡护曾是得了一个章印"
+      "relationships": [
+        {
+          "target": "曹道人",
+          "type": "同门或下属"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与曹道人讨论造物人任务和造物替代玄法的话题。"
+        }
+      ],
+      "evidence": [
+        "站在一边的一名年轻修士望了望远去的造物人，道：‘曹师就把这么重要的事交给一个造物人么？’"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "黄某",
+      "name": "张御",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "巡护",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百三十六章 巧合",
+      "summary": "核心人物，穿渡天门时遭遇曹道人计划干扰，但被黄治行打断。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "敏锐"
+      ],
+      "abilities": [],
+      "equipment": [
+        "白舟"
+      ],
+      "relationships": [
+        {
+          "target": "黄治行",
+          "type": "同道"
+        },
+        {
+          "target": "曹道人",
+          "type": "敌对"
+        },
+        {
+          "target": "许成通",
+          "type": "同行"
+        },
+        {
+          "target": "青曙",
+          "type": "随从"
+        },
+        {
+          "target": "卫山",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "驾驭白舟穿渡天门，途中放缓速度，后与黄治行交谈，并带其离开。"
+        }
+      ],
+      "evidence": [
+        "张御此时已然带着众人走入了白舟之中",
+        "张御意念一转，白舟舟身之上便塌融下去一块",
+        "张御道：‘既然缘法可以转送，那这究竟是缘法还是人定呢？’"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "许成通",
+      "aliases": [
+        "许某"
+      ],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百三十六章 巧合",
+      "summary": "与张御同行的修士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同乘白舟，并告知军务署出手。"
+        }
+      ],
+      "evidence": [
+        "许成通道：‘巡护，看去是军务署的人出手了。’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "安知之",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百三十六章 巧合",
+      "summary": "被提及的人物，卫山曾在其身边。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫山",
+          "type": "同行或上级"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这时舱内那个站在安知之身边的年轻人大胆言道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "卫山",
+      "aliases": [
+        "卫三"
+      ],
+      "identity": "天机工坊工匠",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百三十六章 巧合",
+      "summary": "天机工坊的年轻工匠，祖父是修士，自己无修道天赋。",
+      "appearance": [],
+      "personality": [
+        "大胆"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同行"
+        },
+        {
+          "target": "安知之",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在张御的飞舟上，回答张御关于军务署的问题。"
+        }
+      ],
+      "evidence": [
+        "那年轻人壮着胆子道：‘是的，以往争夺‘缘法’，那是玄尊默许的’",
+        "那年轻人道：‘我原本叫卫三，少郎给我改了个名字，叫‘卫山’。’"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "青曙",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十六章 巧合",
-      "summary": "黄某请求一见",
+      "summary": "张御的随从或弟子，对军务署行动有疑问。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黄某请求一见",
-        "”    黄治行道：“黄某听闻，在讲道法会上张巡护曾是得了一个章印",
-        "”    黄治行赶忙道：“黄某绝无此意，要说私心黄某确实也有，只是觉得被他人得去委实心气难平，也只有张巡护得了此印，黄某才心甘情愿"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随从"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问张御军务署是否因张御身份而行动。"
+        }
+      ],
+      "evidence": [
+        "青曙这时道：‘先生，会不会是军务署因为先生的身份才如此做？’"
+      ],
+      "mention_count": 2
     },
     {
       "name": "黄治行",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "黄某",
+        "黄道友"
+      ],
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十六章 巧合",
-      "summary": "”    张御没有回答，而是往后看去，就见远处一道遁光一闪，不过几个呼吸之间，就到了飞舟之前，而后自里现出一个修士来，其人对白舟一个揖礼，大声道：“在下黄治行，张巡护可是在么",
+      "summary": "讲道法会上另一个得章印的修士，因被盯上而想将章印交给张御，后被张御带离。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御没有回答，而是往后看去，就见远处一道遁光一闪，不过几个呼吸之间，就到了飞舟之前，而后自里现出一个修士来，其人对白舟一个揖礼，大声道：“在下黄治行，张巡护可是在么",
-        "”    黄治行上得飞舟，再是对着他一揖，道：“张巡护有礼了",
-        "”    黄治行道：“黄某听闻，在讲道法会上张巡护曾是得了一个章印"
+      "personality": [
+        "坦承"
       ],
-      "mention_count": 6
+      "abilities": [
+        "遁法了得"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在张御即将进入天门时出现，请求将章印交给张御，被拒后接受张御帮助离开。"
+        }
+      ],
+      "evidence": [
+        "黄治行上得飞舟，再是对着他一揖，道：‘张巡护有礼了。’",
+        "黄治行道：‘黄某听闻，在讲道法会上张巡护曾是得了一个章印？’",
+        "黄治行苦笑道：‘只是这几日有不少人盯上了在下’"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "在下",
+      "name": "池笠阳",
       "aliases": [],
-      "identity": "",
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十六章 巧合",
-      "summary": "”    张御没有回答，而是往后看去，就见远处一道遁光一闪，不过几个呼吸之间，就到了飞舟之前，而后自里现出一个修士来，其人对白舟一个揖礼，大声道：“在下黄治行，张巡护可是在么",
-      "appearance": [],
+      "summary": "在虚空等候张御的修士，受诸位道友所托。",
+      "appearance": [
+        "身着深青色道服",
+        "神气高昂"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御没有回答，而是往后看去，就见远处一道遁光一闪，不过几个呼吸之间，就到了飞舟之前，而后自里现出一个修士来，其人对白舟一个揖礼，大声道：“在下黄治行，张巡护可是在么",
-        "黄治行苦笑道：“只是这几日有不少人盯上了在下，在下也根本无法定下心来参悟，这东西实在烫手，”他咬了咬牙，“可要在下这么把送了出去，平白便宜了这些人，却又不甘心，思来想去，在下却宁愿将这个交托给张巡护……”    许成通冷笑一声，道：“黄道友",
-        "在下池笠阳，受诸位道友所托，在此等候张巡护"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "等候对象"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "黄道友",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 巧合",
-      "summary": "”    张御点首回礼，道：“黄道友为何而来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御点首回礼，道：“黄道友为何而来",
-        "黄治行苦笑道：“只是这几日有不少人盯上了在下，在下也根本无法定下心来参悟，这东西实在烫手，”他咬了咬牙，“可要在下这么把送了出去，平白便宜了这些人，却又不甘心，思来想去，在下却宁愿将这个交托给张巡护……”    许成通冷笑一声，道：“黄道友",
-        "”    张御道：“黄道友也算坦承，只这章印之黄道友的机缘，我是不会去拿的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在虚空等候张御，并出声招呼。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "常迩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 巧合",
-      "summary": "第一百三十六章 巧合    曹道人待常迩走后，从星袋里拿出一枚光润玉珠，里面似有一滴银水在流转着，在阳光底下格外耀眼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第一百三十六章 巧合    曹道人待常迩走后，从星袋里拿出一枚光润玉珠，里面似有一滴银水在流转着，在阳光底下格外耀眼",
-        "”    常迩道：“出现了一个意外，本来那位已经快要与我等派遣的飞舟一同进入天门了，眼看着就要成了，然而这时却有一个修道人唤住了他",
-        "”    常迩道：“我们为了怕引起那位的怀疑，因为请动了军务署的人动手，可是那名修士是讲法道会上另一个得缘之人，所以那些军务署的没有理由拦阻他，再加上此人遁法了得，所以被漏过去了"
+        "却见有数驾飞舟等在了那里",
+        "一名身着深青色道服，神气高昂的修士，他对着白舟方向一拱手，放声言道：‘张巡护可是在么？在下池笠阳’"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "而就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 巧合",
-      "summary": "而就在这个时候，有数驾飞舟也是同时从天台上飞起，跟着他们飞驰而来，不过他们飞驰没有多久，就被一驾架军务署的飞舟拦阻下来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而就在这个时候，有数驾飞舟也是同时从天台上飞起，跟着他们飞驰而来，不过他们飞驰没有多久，就被一驾架军务署的飞舟拦阻下来了",
-        "张御看了那艘飞舟一会儿，收回目光，继续往天门而来，而就白舟即将进入天门的时候，他却是意念一动，放缓了一点速度"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

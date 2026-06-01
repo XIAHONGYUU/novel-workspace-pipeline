@@ -1,258 +1,263 @@
 {
   "chunk_id": "chunk-0625",
-  "title": "第一百三十章 法争",
   "characters": [
     {
-      "name": "濮义",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 法争",
-      "summary": "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道",
-        "”    许成通上下看了他一眼，道：“原来尊驾就是濮义啊，听说过，听说过",
-        "”    濮义没感觉出来什么，态度仍是很热切，道：“道友若是来拜访我师兄的，贫道可带道友入内"
-      ],
-      "mention_count": 19
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "玄廷巡护",
+      "faction": "玄修",
       "status": "登场",
       "first_appearance": "第一百三十章 法争",
-      "summary": "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
+      "summary": "玄廷巡护，向薛道人求教阵法，并赠予阵盘。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
-        "”    张御道：“可我与薛道友来书之时，他却未曾在书信中提及尊驾半分",
-        "过有片刻，就见一名穿着粗布麻衣，精神矍铄的老道人自里走了出来，他见到张御，稽首一礼，歉然道：“可是张巡护么"
+      "personality": [
+        "淡声",
+        "客气"
       ],
-      "mention_count": 13
+      "abilities": [],
+      "equipment": [
+        "白舟",
+        "玉狮印",
+        "玉简"
+      ],
+      "relationships": [
+        {
+          "target": "薛道人",
+          "type": "道友"
+        },
+        {
+          "target": "濮义",
+          "type": "冲突"
+        },
+        {
+          "target": "许成通",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往薛道人洞府求法，赠予阵盘，获赠玉简和玉狮印。"
+        }
+      ],
+      "evidence": [
+        "张御看了濮道人一眼，淡声道：“尊驾似非此地主人。”",
+        "张御道：“我正是对阵法知晓不多，这才来此请教道友。”",
+        "张御也未客气，将这两物接了过来，抬手一礼，道：“多谢薛道友了。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "濮道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "濮义",
+      "aliases": [
+        "濮道人",
+        "濮师弟"
+      ],
+      "identity": "薛道人的师弟",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第一百三十章 法争",
-      "summary": "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
+      "summary": "薛道人的师弟，对玄修不满，认为真修应凌驾于玄修之上。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
-        "”    濮道人哼了一声，道：“薛师兄乃是我师兄，他的事情我亦可作主",
-        "”    濮道人一听这话，顿时憋住了，在他还想说什么时候，听得有一个声音自洞府深处传了过来道：“濮师弟，外面可是有客人到了"
+      "personality": [
+        "愤愤",
+        "激愤",
+        "胸无城府"
       ],
-      "mention_count": 9
+      "abilities": [],
+      "equipment": [
+        "符信",
+        "竹筒",
+        "鹰鸟"
+      ],
+      "relationships": [
+        {
+          "target": "薛道人",
+          "type": "师兄"
+        },
+        {
+          "target": "张御",
+          "type": "冲突"
+        },
+        {
+          "target": "许成通",
+          "type": "对话"
+        },
+        {
+          "target": "常道友",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因张御来访而心生不满，与许成通争论玄真之别，后秘密传信给常道友。"
+        }
+      ],
+      "evidence": [
+        "濮道人哼了一声，道：“薛师兄乃是我师兄，他的事情我亦可作主。”",
+        "濮义大声道：“不妥，大不妥！”",
+        "他拿了一张符信出来，以法力在此中印上许多文字，他将符信一卷，塞入一个小竹筒中"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "许成通",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "薛道人",
+      "aliases": [
+        "薛霖",
+        "薛师兄",
+        "老道"
+      ],
+      "identity": "阵法大师",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第一百三十章 法争",
-      "summary": "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "精通阵法的老道人，张御前来求法，他赠予玉简和玉狮印。",
+      "appearance": [
+        "穿着粗布麻衣，精神矍铄"
+      ],
+      "personality": [
+        "歉然",
+        "兴致勃勃",
+        "语重心长"
+      ],
+      "abilities": [
+        "阵法推演"
+      ],
+      "equipment": [
+        "玉简",
+        "玉狮印"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        },
+        {
+          "target": "濮义",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接待张御，接受阵盘，回赠玉简和玉狮印，并告诫濮义。"
+        }
+      ],
       "evidence": [
-        "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道",
-        "”    许成通上下看了他一眼，道：“原来尊驾就是濮义啊，听说过，听说过",
-        "”    许成通道：“不必了，我这回是跟随张巡护来此，张巡护已是入内了，我就在外等候就好"
+        "薛道人道：“巡护请到里面来坐。”",
+        "薛霖眼前一亮，他拿了过来，手抚其上，似是在探究什么",
+        "薛道人叹道：“你若如此以为，那就大错特错了”"
       ],
       "mention_count": 8
     },
     {
-      "name": "尊驾",
+      "name": "许成通",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "真修",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第一百三十章 法争",
-      "summary": "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
+      "summary": "跟随张御的真修，与濮义争论玄真之别。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "嘲弄",
+        "嗤笑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
-        "”    张御道：“可我与薛道友来书之时，他却未曾在书信中提及尊驾半分",
-        "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随从"
+        },
+        {
+          "target": "濮义",
+          "type": "争论"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在外等候张御，与濮义发生争论。"
+        }
+      ],
+      "evidence": [
+        "许成通看了看他，还有一礼，道：“尊驾是……”",
+        "许成通嗤笑道：“尊驾是因为玄法之法不正么？”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "薛道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "曹道人",
+      "aliases": [
+        "曹师"
+      ],
+      "identity": "真修",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第一百三十章 法争",
-      "summary": "”    张御道：“可我与薛道友来书之时，他却未曾在书信中提及尊驾半分",
+      "summary": "观察张御的真修，对其根基深厚感到震惊。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“可我与薛道友来书之时，他却未曾在书信中提及尊驾半分",
-        "”    张御道：“薛道友言重了",
-        "”    薛道人道：“巡护请到里面来坐"
+      "personality": [
+        "凝重"
       ],
-      "mention_count": 7
+      "abilities": [],
+      "equipment": [
+        "飞舟"
+      ],
+      "relationships": [
+        {
+          "target": "常迩",
+          "type": "弟子"
+        },
+        {
+          "target": "张御",
+          "type": "观察对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟中观察张御，认为不可妄动。"
+        }
+      ],
+      "evidence": [
+        "曹道人正站在里面，正盯着白舟直看。",
+        "曹道人拿来扫了一眼，就扔在了一旁，沉声道：“这些东西没什么用”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "濮道",
+      "name": "常迩",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "曹道人的弟子",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第一百三十章 法争",
-      "summary": "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
+      "summary": "向曹道人汇报搜集到的关于张御的消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十章 法争    张御看了濮道人一眼，淡声道：“尊驾似非此地主人",
-        "”    濮道人哼了一声，道：“薛师兄乃是我师兄，他的事情我亦可作主",
-        "”    濮道人一听这话，顿时憋住了，在他还想说什么时候，听得有一个声音自洞府深处传了过来道：“濮师弟，外面可是有客人到了"
+      "relationships": [
+        {
+          "target": "曹道人",
+          "type": "师"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "巡护",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 法争",
-      "summary": "过有片刻，就见一名穿着粗布麻衣，精神矍铄的老道人自里走了出来，他见到张御，稽首一礼，歉然道：“可是张巡护么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "过有片刻，就见一名穿着粗布麻衣，精神矍铄的老道人自里走了出来，他见到张御，稽首一礼，歉然道：“可是张巡护么",
-        "”    薛道人道：“巡护请到里面来坐",
-        "”薛道人这时似想起什么，一拍白发苍苍的脑袋，道：“差点忘了，正是张巡护破了这幽城，他忽然兴致勃勃道：“道友既是亲身所历，能否说说所遇阵禁的玄妙之处"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向曹道人提供张御的情报。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "许成",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 法争",
-      "summary": "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道",
-        "”    许成通上下看了他一眼，道：“原来尊驾就是濮义啊，听说过，听说过",
-        "”    许成通道：“不必了，我这回是跟随张巡护来此，张巡护已是入内了，我就在外等候就好"
+        "常迩这时走了过来，道：“曹师，这是我们搜集到的关于这一位的消息”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "在他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 法争",
-      "summary": "”    濮道人一听这话，顿时憋住了，在他还想说什么时候，听得有一个声音自洞府深处传了过来道：“濮师弟，外面可是有客人到了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    濮道人一听这话，顿时憋住了，在他还想说什么时候，听得有一个声音自洞府深处传了过来道：“濮师弟，外面可是有客人到了",
-        "当然，现在他有了戴玄尊所赐的玉符，暂且看起来是不必再担心此事了",
-        "”    在他目光之中，那里面有一道灵光直透天际，好若大日凌空，怎么也遮掩不住"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "薛道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 法争",
-      "summary": "”    薛道人道：“巡护请到里面来坐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    薛道人道：“巡护请到里面来坐",
-        "”薛道人这时似想起什么，一拍白发苍苍的脑袋，道：“差点忘了，正是张巡护破了这幽城，他忽然兴致勃勃道：“道友既是亲身所历，能否说说所遇阵禁的玄妙之处",
-        "就在这时，洞府禁阵一开，却见薛道人将张御自里送了出来，薛道人这时看了濮义一眼，对着张御道：“张巡护，这一次我师弟处事不周，多有得罪，我代他向你赔罪了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "薛霖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十章 法争",
-      "summary": "”    薛霖眼前一亮，他拿了过来，手抚其上，似是在探究什么，好半天，他才回过神来，不好意思道：“怠慢了，怠慢了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    薛霖眼前一亮，他拿了过来，手抚其上，似是在探究什么，好半天，他才回过神来，不好意思道：“怠慢了，怠慢了",
-        "”    许成通看了看他，还有一礼，道：“尊驾是……”    濮道人道：“贫道濮义，与我师兄在薛霖一同在此间修道",
-        "薛霖在这里面除了提供了有关阵禁的各种知识之后，还留下了大量阵法的实例，可以两者相结合来看"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

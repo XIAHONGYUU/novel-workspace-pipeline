@@ -1,256 +1,660 @@
 {
   "chunk_id": "chunk-1579",
-  "title": "第一百五十七章 数策取正攻",
   "characters": [
     {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "元夏，元上殿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "元夏，元上殿",
-        "”    慕司议道：“天夏与其他外世不同，在对那些外世开战之时，彼辈对我们通常是一无所知，而天夏则不然，对于我元夏有一定的了解了，实力也不弱，这样我们各种惯常用的方法我看下来就不必用了",
-        "外身没了可以再造，飞舟阵器没了可以再炼，总之靠着元夏覆灭万世的底蕴和天夏比拼消耗，看谁先撑不下去"
+      "name": "张御",
+      "aliases": [
+        "张御"
       ],
-      "mention_count": 10
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，参与对抗元夏的决策与战斗。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于分析"
+      ],
+      "abilities": [
+        "道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "白朢",
+          "type": "同源"
+        },
+        {
+          "target": "青朔",
+          "type": "同源"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        },
+        {
+          "target": "支道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林廷执别过，回顾与支道人的战斗，回到道宫，与妙丹君互动。"
+        }
+      ],
+      "evidence": [
+        "张御与林廷执别过之后，望向虚宇方向，确认再无敌人残留外间。",
+        "他回到了道宫之内，见得左右偏殿之中，一股青气、一股白气在殿上盘旋壮大，白朢、青朔二人正在修持之中。",
+        "他走入殿中，在榻上坐定，伸手揉着跑来身边挨着的妙丹君，回顾方才之战。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "林廷执",
+      "aliases": [
+        "林廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，与张御一同行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御别过。"
+        }
+      ],
+      "evidence": [
+        "张御与林廷执别过之后，望向虚宇方向，确认再无敌人残留外间。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "支道人",
+      "aliases": [
+        "支道人"
+      ],
+      "identity": "元夏修道人",
+      "faction": "元夏",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "元夏修道人，道法不及张御，被张御打杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "根本道法（用于己身）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御打杀。"
+        }
+      ],
+      "evidence": [
+        "虽然支道人道法不及他，照面就被他所打杀，且连名姓都未曾留下",
+        "在他看来，支道人的根本道法用于己身而不是发于外"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "白朢",
+      "aliases": [
+        "白朢"
+      ],
+      "identity": "天夏修道人",
+      "faction": "天夏",
+      "status": "修持中",
+      "first_appearance": "",
+      "summary": "与张御一气同源，正在修持道法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同源"
+        },
+        {
+          "target": "青朔",
+          "type": "同修"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在道宫偏殿中修持。"
+        }
+      ],
+      "evidence": [
+        "见得左右偏殿之中，一股青气、一股白气在殿上盘旋壮大，白朢、青朔二人正在修持之中。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "青朔",
+      "aliases": [
+        "青朔"
+      ],
+      "identity": "天夏修道人",
+      "faction": "天夏",
+      "status": "修持中",
+      "first_appearance": "",
+      "summary": "与张御一气同源，正在修持道法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同源"
+        },
+        {
+          "target": "白朢",
+          "type": "同修"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在道宫偏殿中修持。"
+        }
+      ],
+      "evidence": [
+        "见得左右偏殿之中，一股青气、一股白气在殿上盘旋壮大，白朢、青朔二人正在修持之中。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [
+        "妙丹君"
+      ],
+      "identity": "张御的宠物",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "”    黄司议道：“据下殿所言，天夏这回守得很稳，明明我们是突袭，又以镇道之宝遮蔽了感应，可天夏却好像提前有了防备，足见此辈眼光高明，并且布置上没有任何疏忽",
+      "first_appearance": "",
+      "summary": "张御的宠物，在张御身边挨着。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在张御身边挨着。"
+        }
+      ],
+      "evidence": [
+        "伸手揉着跑来身边挨着的妙丹君"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黄司议",
+      "aliases": [
+        "黄司议"
+      ],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元上殿司议，参与讨论对天夏的突袭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    黄司议道：“据下殿所言，天夏这回守得很稳，明明我们是突袭，又以镇道之宝遮蔽了感应，可天夏却好像提前有了防备，足见此辈眼光高明，并且布置上没有任何疏忽",
-        "”    慕司议道：“天夏与其他外世不同，在对那些外世开战之时，彼辈对我们通常是一无所知，而天夏则不然，对于我元夏有一定的了解了，实力也不弱，这样我们各种惯常用的方法我看下来就不必用了",
-        "”    兰司议道：“诸位，不管怎么说，这是下殿将功折罪之举，也无需我们出力，事先已经说明可能会失机，既然人已经败亡，再多说什么也没有什么意义了，还是想想下一步要如何做"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿讨论突袭失败。"
+        }
       ],
-      "mention_count": 10
+      "evidence": [
+        "黄司议道：“据下殿所言，天夏这回守得很稳”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "慕司议",
+      "aliases": [
+        "慕司议"
+      ],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元上殿司议，提出诸世道建言。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿讨论，提出诸世道建言。"
+        }
+      ],
+      "evidence": [
+        "慕司议此刻出声道：“诸世道建言，鉴于我元上殿几次行事不利，他们可动用各世道之力，一举覆亡天夏。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "段司议",
+      "aliases": [
+        "段司议"
+      ],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元上殿司议，对诸世道建言持反对态度。",
+      "appearance": [],
+      "personality": [
+        "傲慢",
+        "强硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿讨论，反对诸世道分润权柄。"
+        }
+      ],
+      "evidence": [
+        "段司议冷笑道：“我还不知道他们打得什么主意？不过是主导分享终道的权柄罢了”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "兰司议",
+      "aliases": [
+        "兰司议"
+      ],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元上殿司议，主张保留天夏驻使。",
+      "appearance": [],
+      "personality": [
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿讨论，建议保留天夏驻使。"
+        }
+      ],
+      "evidence": [
+        "兰司议开口道：“兰某以为，还是由的他在哪里好了，说不定还能有些用处。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "万道人",
+      "aliases": [
+        "万道人"
+      ],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元上殿司议，提出稳攻策略。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿提出稳攻策略。"
+        }
+      ],
+      "evidence": [
+        "万道人缓缓道：“既然急进之法无用，那就采取稳攻策略吧。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "金郅行",
+      "aliases": [
+        "金郅行"
+      ],
+      "identity": "天夏驻元夏驻使",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏驻元夏的驻使，发现元夏调动并报回天夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现元夏大规模调动，分报回天夏。"
+        }
+      ],
+      "evidence": [
+        "金郅行作为驻使，也是发现了元夏变化，这等大规模调动是瞒不了人的，立刻就此分明暗两路送报了回去。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "陈首执",
+      "aliases": [
+        "陈首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏首执，召集廷执商议应对元夏。",
+      "appearance": [],
+      "personality": [
+        "重视",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到金郅行消息后，召集廷执商议。"
+        }
+      ],
+      "evidence": [
+        "在收到了金郅行的消息后，陈首执很重视此事，立刻把诸位廷执唤了过来"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "钟廷执",
+      "aliases": [
+        "钟廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，认为应对元夏唯有坚守。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中发言。"
+        }
+      ],
+      "evidence": [
+        "钟廷执道：“阵器配合外身，此法没有别的应对办法，唯有坚守”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "长孙廷执",
+      "aliases": [
+        "长孙廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，负责外身准备。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中汇报外身准备情况。"
+        }
+      ],
+      "evidence": [
+        "长孙廷执回道：“已然大致稳妥，但是大战起来，外身消耗可能极大”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [
+        "玉素道人"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，主张与元夏争夺镇道之宝。",
+      "appearance": [],
+      "personality": [
+        "积极"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中发言。"
+        }
+      ],
+      "evidence": [
+        "玉素道人开口道：“但这是必须要争的，我们不争，元夏也会逼着我们争，我们就与他们打上一场！”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [
+        "戴廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，提及虚空邪神可分担压力。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中发言。"
+        }
+      ],
+      "evidence": [
+        "戴廷执道：“我们有我们的长处，在虚空之中我们有虚空邪神的遮挡”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "邓景",
+      "aliases": [
+        "邓景"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，担心镇道之宝暴露后被克制。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中发言。"
+        }
+      ],
+      "evidence": [
+        "邓景道：“玉素道友说得是。就算元夏镇道之宝比我们多，也无可能动用全部，邓某并不担心眼下，唯一可虑，就是我们将自身的镇道之宝都是暴露出去后，那么极易在以后遭到克制。”"
+      ],
+      "mention_count": 1
     },
     {
       "name": "武廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "武廷执从议殿出来，就来至镇狱深处，来到了一座灵光界域之中，这里专门关押求全道法之人的地方",
+      "first_appearance": "",
+      "summary": "天夏廷执，前往镇狱与灵都道人交谈。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "武廷执从议殿出来，就来至镇狱深处，来到了一座灵光界域之中，这里专门关押求全道法之人的地方",
-        "武廷执走入进来，见到灵都道人困坐坛池之中，他目光往下看下来",
-        "”    武廷执道：“外面有些情势有变，武某感觉有必要说与灵都道兄你知晓"
+      "relationships": [
+        {
+          "target": "灵都道人",
+          "type": "对话"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "武廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "武廷执从议殿出来，就来至镇狱深处，来到了一座灵光界域之中，这里专门关押求全道法之人的地方",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "武廷执从议殿出来，就来至镇狱深处，来到了一座灵光界域之中，这里专门关押求全道法之人的地方",
-        "武廷执走入进来，见到灵都道人困坐坛池之中，他目光往下看下来",
-        "”    武廷执道：“外面有些情势有变，武某感觉有必要说与灵都道兄你知晓"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从议殿出来，前往镇狱与灵都道人交谈。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "天夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "可这副样子天夏反而不能轻举妄动，未知的来敌方才是威胁最大的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "可这副样子天夏反而不能轻举妄动，未知的来敌方才是威胁最大的",
-        "”    黄司议道：“据下殿所言，天夏这回守得很稳，明明我们是突袭，又以镇道之宝遮蔽了感应，可天夏却好像提前有了防备，足见此辈眼光高明，并且布置上没有任何疏忽",
-        "”    慕司议道：“天夏与其他外世不同，在对那些外世开战之时，彼辈对我们通常是一无所知，而天夏则不然，对于我元夏有一定的了解了，实力也不弱，这样我们各种惯常用的方法我看下来就不必用了"
+        "武廷执从议殿出来，就来至镇狱深处",
+        "武廷执沉声道：“我此来并非是劝道兄出去为我天夏征战”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "”    所谓稳攻策略，就是不停派遣飞舟、外身、阵器等物，持续不间断的攻袭天夏及其附近其他世域",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    所谓稳攻策略，就是不停派遣飞舟、外身、阵器等物，持续不间断的攻袭天夏及其附近其他世域",
-        "只是这等办法用时长久，就是比拼耐心，而且可能随着时间推移，会有人许多人找借口加入进来，所以一开始不被他们所采用，但是现在看，唯有用这办法较为稳妥，而且当中还是可以随时调整策略的",
-        "元夏也没有打算遮掩，因为这等战术是堂堂正正的，就是以硬实力去碾压他人，无论金郅行是否报给天夏，结果没什么两样，金郅行报回去，说不定还能给些压力，只是这需要较为长的一段准备时日"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "灵都",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "上宸天的灵都道人便关押在此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "上宸天的灵都道人便关押在此",
-        "武廷执走入进来，见到灵都道人困坐坛池之中，他目光往下看下来",
-        "灵都道人有所察觉，从定中退出，抬眼看来，道：“武道兄，无事你不会来此"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "”    兰司议道：“诸位，不管怎么说，这是下殿将功折罪之举，也无需我们出力，事先已经说明可能会失机，既然人已经败亡，再多说什么也没有什么意义了，还是想想下一步要如何做",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    兰司议道：“诸位，不管怎么说，这是下殿将功折罪之举，也无需我们出力，事先已经说明可能会失机，既然人已经败亡，再多说什么也没有什么意义了，还是想想下一步要如何做",
-        "玉素道人开口道：“但这是必须要争的，我们不争，元夏也会逼着我们争，我们就与他们打上一场",
-        "”    陈首执沉声道：“这是避免不了的，我们不可能不用，只能尽力用在关键的时候，关于镇道之宝，我会去与诸位执摄商议的"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "灵都道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "上宸天的灵都道人便关押在此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "上宸天的灵都道人便关押在此",
-        "武廷执走入进来，见到灵都道人困坐坛池之中，他目光往下看下来",
-        "灵都道人有所察觉，从定中退出，抬眼看来，道：“武道兄，无事你不会来此"
-      ],
-      "mention_count": 5
+      "mention_count": 4
     },
     {
       "name": "灵都道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "上宸天的灵都道人便关押在此",
+      "aliases": [
+        "灵都道人"
+      ],
+      "identity": "上宸天修道人，求全道法",
+      "faction": "上宸天",
+      "status": "被囚禁",
+      "first_appearance": "",
+      "summary": "上宸天求全道法之人，自愿囚禁于天夏镇狱。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "平静",
+        "好奇"
+      ],
+      "abilities": [
+        "求全道法"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "武廷执",
+          "type": "对话"
+        },
+        {
+          "target": "庄首执",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在镇狱中与武廷执交谈，得知元夏之事和庄首执成就上境。"
+        }
+      ],
       "evidence": [
-        "上宸天的灵都道人便关押在此",
-        "武廷执走入进来，见到灵都道人困坐坛池之中，他目光往下看下来",
-        "灵都道人有所察觉，从定中退出，抬眼看来，道：“武道兄，无事你不会来此"
+        "上宸天的灵都道人便关押在此。",
+        "灵都道人困坐坛池之中",
+        "灵都道人也是第一次听到元夏之事"
       ],
       "mention_count": 5
     },
     {
-      "name": "一股",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "他回到了道宫之内，见得左右偏殿之中，一股青气、一股白气在殿上盘旋壮大，白朢、青朔二人正在修持之中",
+      "name": "庄首执",
+      "aliases": [
+        "庄首执",
+        "庄道人"
+      ],
+      "identity": "天夏前任首执，已成就上境",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏前任首执，已成就上境，灵都道人对其成就感到震动。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他回到了道宫之内，见得左右偏殿之中，一股青气、一股白气在殿上盘旋壮大，白朢、青朔二人正在修持之中"
+      "abilities": [
+        "上境"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十七章 数策取正攻",
-      "summary": "虽然支道人道法不及他，照面就被他所打杀，且连名姓都未曾留下，可其人道法不是没有可取之处，每一个修道人都有长处短处，再说单打独斗不及他，可是群战的话，此人道法可不见得会表现的弱了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然支道人道法不及他，照面就被他所打杀，且连名姓都未曾留下，可其人道法不是没有可取之处，每一个修道人都有长处短处，再说单打独斗不及他，可是群战的话，此人道法可不见得会表现的弱了",
-        "”    段司议呵了一声，道：“这些事我早便说过，可是没人愿意理会",
-        "但当听到元夏之事，得知诸位大能的情形，他又隐隐猜到这里面可能另有缘由，或许本来就是不能，可是庄道人的事却是明明白白告诉他这是可以的"
+      "relationships": [
+        {
+          "target": "灵都道人",
+          "type": "旧识"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "卸任首执，成就上境。"
+        }
+      ],
+      "evidence": [
+        "庄首执已然卸任了，他如今已是功成上境了。"
+      ],
+      "mention_count": 2
     }
   ]
 }

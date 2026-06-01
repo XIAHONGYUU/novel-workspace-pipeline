@@ -1,0 +1,271 @@
+{
+  "chunk_id": "chunk-0991",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "修行者，拥有六天鬼眼等能力",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "审问王焕，揭露其罪行，并最终处决王焕。",
+      "appearance": [
+        "清秀少年人"
+      ],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "意能量",
+        "六天鬼眼",
+        "操控疫气诡韵",
+        "赤白火焰"
+      ],
+      "equipment": [
+        "泥塑面具"
+      ],
+      "relationships": [
+        {
+          "target": "王焕",
+          "type": "审问并处决"
+        },
+        {
+          "target": "李黑虎",
+          "type": "同伴"
+        },
+        {
+          "target": "白驹",
+          "type": "随从"
+        },
+        {
+          "target": "黑傩",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "审问王焕，揭露其卖妻罪行，并使其疫气发作而死。"
+        }
+      ],
+      "evidence": [
+        "苏午的声音徐徐响起，那昏黄竖眼里便回应着苏午的声音",
+        "苏午摇了摇头，未再与王焕多言。",
+        "苏午点点头，看着缓缓展开的麻布卷。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "王焕",
+      "aliases": [],
+      "identity": "赌徒，卖妻者",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "因赌博败家，将妻子李文娟的尸体卖给大秦教，后又将续弦妻子卖给大秦教，最终被苏午处决。",
+      "appearance": [],
+      "personality": [
+        "懦弱",
+        "自私",
+        "残忍"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李文娟",
+          "type": "前妻（被其害死并卖尸）"
+        },
+        {
+          "target": "续弦妻子",
+          "type": "妻子（被其卖给大秦教）"
+        },
+        {
+          "target": "苏午",
+          "type": "被审问并处决"
+        },
+        {
+          "target": "洋道士",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "将李文娟尸体卖给大秦教，得五十亩良田、三百两白银。"
+        },
+        {
+          "stage": "当前",
+          "event": "将续弦妻子卖给大秦教，被苏午审问后疫气发作而死。"
+        }
+      ],
+      "evidence": [
+        "王焕仰头看着身前站立的清秀少年人。",
+        "王焕惊恐啸叫！",
+        "王焕双眼上翻，两腿一蹬，就此毙命！"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "李黑虎",
+      "aliases": [],
+      "identity": "苏午的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "对王焕之死表示愤恨，认为其死得太便宜。",
+      "appearance": [],
+      "personality": [
+        "嫉恶如仇"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹王焕死亡，表达不满。"
+        }
+      ],
+      "evidence": [
+        "李黑虎看着地上已经不成样子的王焕尸体，眼中恨恨之色尤未褪去"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白驹",
+      "aliases": [],
+      "identity": "苏午的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "从青蒙蒙雾气中走出，背着一捆麻布卷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从雾气中走出，展开麻布卷。"
+        }
+      ],
+      "evidence": [
+        "白驹、黑傩二者从雾气里走出。前者背着一捆一人高的麻布卷"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黑傩",
+      "aliases": [],
+      "identity": "苏午的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "从雾气中走出，给苏午戴上泥塑面具，并提醒其修持傩神金身。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "泥塑面具"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给苏午戴上面具，建议其修持傩神金身。"
+        }
+      ],
+      "evidence": [
+        "黑傩手里捏着一张泥塑面具，将那长有双角、生有两对獠牙的漆黑恶鬼面具戴在了苏午面上",
+        "黑傩看着麻布卷上显露的昏黄痕迹，缓缓出声道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李文娟",
+      "aliases": [],
+      "identity": "王焕的前妻",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "被王焕害死，尸体被卖给大秦教。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王焕",
+          "type": "前夫（被其害死）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被王焕害死，尸体被卖给大秦教。"
+        }
+      ],
+      "evidence": [
+        "李文娟确因你将她的生辰八字交给石匠打生桩而死"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "洋道士",
+      "aliases": [],
+      "identity": "大秦教成员",
+      "faction": "大秦教",
+      "status": "登场（回忆中）",
+      "first_appearance": "",
+      "summary": "与王焕交易，购买尸体，并许诺杀死李文娟父亲和儿子。",
+      "appearance": [
+        "棕红色头发、穿黑袍子",
+        "面容模糊"
+      ],
+      "personality": [
+        "怪异",
+        "无人性"
+      ],
+      "abilities": [
+        "法术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王焕",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在粥棚与王焕交易，购买李文娟尸体。"
+        }
+      ],
+      "evidence": [
+        "那洋道士称你若愿意卖李文娟之尸于他，他愿意赠你田地五十亩，白银三百两。"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "chunk_id": "chunk-1409",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "不良帅",
+        "将军"
+      ],
+      "identity": "不良帅，奉圣人旨意处置华山诡事",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "不良帅，奉圣人旨意处置华山诡事，与尚仁、尚白对话，引导尚仁认清局势。",
+      "appearance": [],
+      "personality": [
+        "敏锐",
+        "善于引导"
+      ],
+      "abilities": [
+        "未明法门（封堵尚白之口）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尚仁",
+          "type": "对话者"
+        },
+        {
+          "target": "尚白",
+          "type": "对话者"
+        },
+        {
+          "target": "圣人",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在华山附近车阵中接见尚仁、尚白，告知华山诡变真相。"
+        }
+      ],
+      "evidence": [
+        "苏午笑着看向一时发愣的尚仁，出声道",
+        "罪魁苏午并未向尚白多看去一眼",
+        "苏午忽然向欲要带着尚白离开的尚仁问道"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "尚仁",
+      "aliases": [
+        "尚仁师弟"
+      ],
+      "identity": "道士，奉圣人命探查华山诡变",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "道士，与师兄尚白奉圣人命探查华山诡变，本欲投靠不良帅，后改变主意。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于权衡"
+      ],
+      "abilities": [
+        "探问天息之法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尚白",
+          "type": "师兄"
+        },
+        {
+          "target": "苏午",
+          "type": "对话者"
+        },
+        {
+          "target": "圣人",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尚白一同面见不良帅，后决定回京如实汇报。"
+        }
+      ],
+      "evidence": [
+        "尚仁未有想到苏午会这样回应自己",
+        "尚仁在苏午的言语声中回过神来",
+        "尚仁严肃道"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "尚白",
+      "aliases": [
+        "尚白师兄"
+      ],
+      "identity": "道士，尚仁的师兄",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "道士，尚仁的师兄，性格相对单纯，被苏午封口。",
+      "appearance": [],
+      "personality": [
+        "单纯",
+        "听从师弟"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尚仁",
+          "type": "师弟"
+        },
+        {
+          "target": "苏午",
+          "type": "被其封口"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尚仁一同面见不良帅，被苏午封口。"
+        }
+      ],
+      "evidence": [
+        "身后的尚白听着师弟与不良帅的对话",
+        "尚白眼神惶急",
+        "尚白满面疑惑地道"
+      ],
+      "mention_count": 8
+    }
+  ]
+}

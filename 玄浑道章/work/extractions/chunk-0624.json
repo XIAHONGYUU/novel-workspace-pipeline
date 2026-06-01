@@ -1,243 +1,570 @@
 {
   "chunk_id": "chunk-0624",
-  "title": "第一百二十九章 化符",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "玄廷巡护，青阳上洲玄府玄正",
+      "faction": "玄修",
       "status": "登场",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "第一百二十九章 化符    新年之后，张御一直在居所修持，期间再没人来搅扰他，也是享受了难得的安逸",
+      "summary": "玄廷巡护，修为功行远迈同辈，曾攻打虢星、斩杀陆宣和、一日破幽城。",
       "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "呼吸吐纳提取神元",
+        "吸纳晶玉源能",
+        "剑光震荡"
+      ],
+      "equipment": [
+        "玉符（戴玄尊所赐）",
+        "白舟"
+      ],
+      "relationships": [
+        {
+          "target": "戴玄尊",
+          "type": "受其赐符"
+        },
+        {
+          "target": "薛霖",
+          "type": "拜访对象"
+        },
+        {
+          "target": "俞瑞卿",
+          "type": "通信"
+        },
+        {
+          "target": "许成通",
+          "type": "随从"
+        },
+        {
+          "target": "李青禾",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新年之后",
+          "event": "在居所修持，呼吸吐纳，提取神元，夜间从晶玉吸纳源能。"
+        },
+        {
+          "stage": "二月中旬",
+          "event": "收到奎宿军务署书信，决定将玉符交给军务署。"
+        },
+        {
+          "stage": "启程时",
+          "event": "收到俞瑞卿书信，邀请四月听道。"
+        },
+        {
+          "stage": "行途",
+          "event": "先至乙未天城见洪原秋，后受戴玄尊召见，得玉符。"
+        },
+        {
+          "stage": "之后",
+          "event": "前往金鹏州拜访薛霖，遇濮道人设阵阻拦，以玉符破阵而入。"
+        }
+      ],
+      "evidence": [
+        "张御被玄廷封授巡护，最早是青阳上洲玄府玄正",
+        "张御攻打虢星，斩杀险些踏入玄尊之境的陆宣和",
+        "一人踏上幽城，且一日破城，一日而返"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "曹道人",
+      "aliases": [
+        "曹师"
+      ],
+      "identity": "真修，绿袍道人",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "真修中的道人，主张压制玄修英才，以复还真法唯一格局。",
+      "appearance": [
+        "绿袍"
+      ],
+      "personality": [
+        "敌视玄修",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "常迩",
+          "type": "师徒"
+        },
+        {
+          "target": "余常",
+          "type": "因张御被禁囚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新年之后",
+          "event": "进入光晟宫庐，询问奎宿玄修后进，听取常迩汇报。"
+        },
+        {
+          "stage": "之后",
+          "event": "烧毁画影，宣称要压制怯除玄修英才。"
+        }
+      ],
+      "evidence": [
+        "一名绿袍道人走入了唯有真修可以寄居的光晟宫庐之中",
+        "曹道人目光左右一看，摆袖道：免礼吧。",
+        "正清宏正祖师之愿，是要让这天下复还真法唯一之格局"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "常迩",
+      "aliases": [],
+      "identity": "真修弟子，两耳甚大",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "曹道人的弟子，向曹道人介绍奎宿玄修后进。",
+      "appearance": [
+        "两耳甚大"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百二十九章 化符    新年之后，张御一直在居所修持，期间再没人来搅扰他，也是享受了难得的安逸",
-        "”    他移步一边，这里展现的是张御画影，但却并不与众人摆在一处，而是单独列开",
-        "“这张御被玄廷封授巡护，最早是青阳上洲玄府玄正，便是如今，也仍是兼领此职，颇得玄府看重"
+      "relationships": [
+        {
+          "target": "曹道人",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "新年之后",
+          "event": "向曹道人展示画影，介绍师延辛、梁屹、姚贞君、张御等人。"
+        }
+      ],
+      "evidence": [
+        "一名看去两耳甚大的修士走了出来，道：弟子在此。",
+        "他走到一边，伸手指了指，道：曹师请看"
+      ],
+      "mention_count": 5
     },
     {
       "name": "戴玄尊",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄尊",
+      "faction": "玄修",
       "status": "登场",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "张御让许成通待在飞舟之上，自己先去了军署大厅见了洪原秋，将玉符交由其人，只是待得转出来的时候，却听得戴玄尊的声音传至耳畔：“巡护且请上来一回",
+      "summary": "玄尊，曾赐予张御纸符，后将其化为玉符。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御让许成通待在飞舟之上，自己先去了军署大厅见了洪原秋，将玉符交由其人，只是待得转出来的时候，却听得戴玄尊的声音传至耳畔：“巡护且请上来一回",
-        "”    他听出这是戴玄尊的声音，心中一动，便即往上方来，到了法台之上，见得戴玄尊站在那里，拱手言道：“戴玄尊有礼",
-        "”    戴玄尊点了下头，道：“幽城背后那人，此次一战我已然斩灭了他的化身，我这里无碍，可你事涉其中，他日若此人感应得你，恐会寻你麻烦，我此前赐你纸符可在"
+      "abilities": [
+        "斩灭幽城背后人的化身"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十九章 化符",
-      "summary": "这破此局面也是简单，直接在外震荡剑光，惊动洞府便可，不过现在他没必要这么做，直接往里走去，每遇阵关，戴玄尊所赐那枚玉符一闪，便即压制住了阵法，使得他直接穿身而过",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这破此局面也是简单，直接在外震荡剑光，惊动洞府便可，不过现在他没必要这么做，直接往里走去，每遇阵关，戴玄尊所赐那枚玉符一闪，便即压制住了阵法，使得他直接穿身而过",
-        "濮道人本在里面观书，可这时察觉到了外面动静，却是面色一变，直接站了起来，匆匆赶到外厅，见到张御进入，他不觉露出一丝惊异，随即才定了定神，喝问道：“这是私人洞府，阁下怎可擅入"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "赐符"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "戴玄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十九章 化符",
-      "summary": "张御让许成通待在飞舟之上，自己先去了军署大厅见了洪原秋，将玉符交由其人，只是待得转出来的时候，却听得戴玄尊的声音传至耳畔：“巡护且请上来一回",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御让许成通待在飞舟之上，自己先去了军署大厅见了洪原秋，将玉符交由其人，只是待得转出来的时候，却听得戴玄尊的声音传至耳畔：“巡护且请上来一回",
-        "”    他听出这是戴玄尊的声音，心中一动，便即往上方来，到了法台之上，见得戴玄尊站在那里，拱手言道：“戴玄尊有礼",
-        "”    戴玄尊点了下头，道：“幽城背后那人，此次一战我已然斩灭了他的化身，我这里无碍，可你事涉其中，他日若此人感应得你，恐会寻你麻烦，我此前赐你纸符可在"
+      "timeline": [
+        {
+          "stage": "张御至天城时",
+          "event": "召见张御，将纸符化为玉符赐予。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "曹道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十九章 化符",
-      "summary": "”    曹道人目光左右一看，摆袖道：“免礼吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    曹道人目光左右一看，摆袖道：“免礼吧",
-        "”    曹道人道：“我方至奎宿，你来与我说说奎宿这里有哪些玄修后进值得注意",
-        "”    常迩道一声是，他回头吩咐了一声，立刻有弟子将一幅幅画影取了过来，并在一张张在曹道人面前展开，在这里面，师延辛、梁屹、姚贞君等人画影赫然在列"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他便",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百二十九章 化符",
-      "summary": "每日白天他便在那里呼吸吐纳，提取神元，随他功行日深，根基愈固，所能提炼的神元也同样也是增多了不少，不过这对于他所要达成的目标还远远不够的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "每日白天他便在那里呼吸吐纳，提取神元，随他功行日深，根基愈固，所能提炼的神元也同样也是增多了不少，不过这对于他所要达成的目标还远远不够的",
-        "故是到了夜间，他便是从那晶玉身上吸纳源能，每有所获，便投入到六印及心印之中，如此这一月来，功行又得增进",
-        "他考虑了一下，现在距离那时还有一个多月，可以容后再给回讯，在将书信收好后，他便启程往乙未天城而去"
+        "却听得戴玄尊的声音传至耳畔：巡护且请上来一回。",
+        "戴玄尊道：幽城背后那人，此次一战我已然斩灭了他的化身"
       ],
       "mention_count": 5
     },
     {
-      "name": "随即",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "濮道人",
+      "aliases": [
+        "濮先生"
+      ],
+      "identity": "薛霖的师弟，精瘦道人",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "”    随即他冷嘲一声，“若非他也是玄修，我却要为他道一声好",
-      "appearance": [],
-      "personality": [],
+      "summary": "薛霖的师弟，敌视玄修，故意设阵为难张御。",
+      "appearance": [
+        "兰褐色袍服",
+        "精瘦"
+      ],
+      "personality": [
+        "敌视玄修",
+        "傲慢"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "薛霖",
+          "type": "师弟"
+        },
+        {
+          "target": "张御",
+          "type": "为难对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "张御来访时",
+          "event": "故意让张御破阵，后见张御破阵而入，惊异质问。"
+        }
+      ],
       "evidence": [
-        "”    随即他冷嘲一声，“若非他也是玄修，我却要为他道一声好",
-        "”随即沉声道：“可越是这样之人，越是我辈将来之大敌",
-        "”    濮道人闻言一顿，随即呵了一声，道：“就让他在那里慢慢破阵吧，想学我们这一脉阵法，外面那些阵法必然要会的，如今我们展开予他，也是为他好嘛"
+        "一个身着兰褐色袍服的精瘦道人正坐在那里观书",
+        "濮道人漫不经心道：就让他在那里慢慢破阵吧",
+        "濮道人本在里面观书，可这时察觉到了外面动静，却是面色一变"
       ],
       "mention_count": 5
     },
     {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
+      "name": "薛霖",
+      "aliases": [
+        "大先生"
+      ],
+      "identity": "擅长布阵的修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "”    他看着那一幅幅画影，目光过去，画影俱是一幅幅燃烧起来，他看向众人，发声道：“正清宏正祖师之愿，是要让这天下复还真法唯一之格局，这些玄修英才，却是我辈路上之阻碍，绝不能让此辈顺利攀登上境，该当压制怯除",
+      "summary": "擅长布阵的修士，张御曾去信拜访。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他看着那一幅幅画影，目光过去，画影俱是一幅幅燃烧起来，他看向众人，发声道：“正清宏正祖师之愿，是要让这天下复还真法唯一之格局，这些玄修英才，却是我辈路上之阻碍，绝不能让此辈顺利攀登上境，该当压制怯除",
-        "他看有片刻后，也是理顺了思路，由此踏入进去，不多时也是成功过来，但是一出此阵，却发现面又是一个禁制，他不由一挑眉"
+      "abilities": [
+        "布阵"
       ],
-      "mention_count": 5
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被拜访"
+        },
+        {
+          "target": "濮道人",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "年节时",
+          "event": "张御去信，回信说二三月份有暇。"
+        }
+      ],
+      "evidence": [
+        "他向那位擅长布阵的薛霖去过一封祝书，后来也得回信"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "也是",
+      "name": "俞瑞卿",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "第一百二十九章 化符    新年之后，张御一直在居所修持，期间再没人来搅扰他，也是享受了难得的安逸",
+      "summary": "寄信给张御邀请四月听道。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百二十九章 化符    新年之后，张御一直在居所修持，期间再没人来搅扰他，也是享受了难得的安逸",
-        "每日白天他便在那里呼吸吐纳，提取神元，随他功行日深，根基愈固，所能提炼的神元也同样也是增多了不少，不过这对于他所要达成的目标还远远不够的",
-        "”    他点了点师延辛和梁屹二人，“这两人乃是玄尊弟子，得有师授，自不必多言，而这姚贞君也是资质过人，历练至今，不见一败，我疑她另有缘法"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "通信"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "张御启程前",
+          "event": "寄信给张御，说胃宿镇守玄尊四月开坛讲法。"
+        }
+      ],
+      "evidence": [
+        "这是俞瑞卿寄来的，说是胃宿镇守玄尊今年四月之时将会开坛讲法"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "一名",
+      "name": "洪原秋",
       "aliases": [],
-      "identity": "",
+      "identity": "军署大厅人员",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "而就在安稳修持之际，昙泉州中，一名绿袍道人走入了唯有真修可以寄居的光晟宫庐之中",
+      "summary": "张御在军署大厅见的人，将玉符交予他。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而就在安稳修持之际，昙泉州中，一名绿袍道人走入了唯有真修可以寄居的光晟宫庐之中",
-        "”    一名看去两耳甚大的修士走了出来，道：“弟子在此"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "接收玉符"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "张御至天城时",
+          "event": "张御将玉符交给洪原秋。"
+        }
+      ],
+      "evidence": [
+        "张御让许成通待在飞舟之上，自己先去了军署大厅见了洪原秋，将玉符交由其人"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "曹道",
+      "name": "许成通",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "”    曹道人目光左右一看，摆袖道：“免礼吧",
+      "summary": "张御的随从，功行深厚，受张御所制。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    曹道人目光左右一看，摆袖道：“免礼吧",
-        "”    曹道人道：“我方至奎宿，你来与我说说奎宿这里有哪些玄修后进值得注意",
-        "”    常迩道一声是，他回头吩咐了一声，立刻有弟子将一幅幅画影取了过来，并在一张张在曹道人面前展开，在这里面，师延辛、梁屹、姚贞君等人画影赫然在列"
+      "abilities": [
+        "功行深厚"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "张御出行时",
+          "event": "张御捎带上他，让他待在飞舟上。"
+        }
+      ],
+      "evidence": [
+        "这一次他出行也捎带上了许成通，这人功行深厚，而且为他所制"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "弟子",
+      "name": "李青禾",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百二十九章 化符",
-      "summary": "”    一名看去两耳甚大的修士走了出来，道：“弟子在此",
+      "summary": "张御的下属，被派去看左道人等人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "新年之后",
+          "event": "张御遣他去看左道人等人。"
+        }
+      ],
+      "evidence": [
+        "期间他又遣李青禾去看了左道人等人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "左道人",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "被李青禾探视的人，意识沉浸在下层。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "新年之后",
+          "event": "张御遣李青禾去看他，但意识仍沉浸下层。"
+        }
+      ],
+      "evidence": [
+        "期间他又遣李青禾去看了左道人等人，不过这几位意识仍是沉浸在下层之中"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "师延辛",
+      "aliases": [],
+      "identity": "玄尊弟子",
+      "faction": "玄修",
+      "status": "提及",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "玄尊弟子，被常迩认为可能成就玄尊之位。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "常迩",
+          "type": "被评价"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "曹道人询问时",
+          "event": "画影被展示给曹道人。"
+        }
+      ],
+      "evidence": [
+        "他点了点师延辛和梁屹二人，这两人乃是玄尊弟子"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "梁屹",
+      "aliases": [],
+      "identity": "玄尊弟子",
+      "faction": "玄修",
+      "status": "提及",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "玄尊弟子，被常迩认为可能成就玄尊之位。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "常迩",
+          "type": "被评价"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "曹道人询问时",
+          "event": "画影被展示给曹道人。"
+        }
+      ],
+      "evidence": [
+        "他点了点师延辛和梁屹二人，这两人乃是玄尊弟子"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "姚贞君",
+      "aliases": [],
+      "identity": "",
+      "faction": "玄修",
+      "status": "提及",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "资质过人的玄修，历练至今不见一败。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "常迩",
+          "type": "被评价"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "曹道人询问时",
+          "event": "画影被展示给曹道人。"
+        }
+      ],
+      "evidence": [
+        "而这姚贞君也是资质过人，历练至今，不见一败"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "余常",
+      "aliases": [],
+      "identity": "",
+      "faction": "真修",
+      "status": "提及",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "因张御被玄廷禁囚的真修。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "因之被禁"
+        },
+        {
+          "target": "曹道人",
+          "type": "因余常不在，真修得以放心到此"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被玄廷禁囚。"
+        }
+      ],
+      "evidence": [
+        "因他之故，余常才被玄廷禁囚"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陆宣和",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "险些踏入玄尊之境，被张御斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被斩杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被张御斩杀。"
+        }
+      ],
+      "evidence": [
+        "张御攻打虢星，斩杀险些踏入玄尊之境的陆宣和"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "正清宏正祖师",
+      "aliases": [],
+      "identity": "真修祖师",
+      "faction": "真修",
+      "status": "提及",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "真修祖师，主张复还真法唯一格局。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -245,11 +572,38 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    一名看去两耳甚大的修士走了出来，道：“弟子在此",
-        "”    常迩道一声是，他回头吩咐了一声，立刻有弟子将一幅幅画影取了过来，并在一张张在曹道人面前展开，在这里面，师延辛、梁屹、姚贞君等人画影赫然在列",
-        "他走到一边，伸手指了指，道：“曹师请看，舍去其余星宿不谈，只说如今奎宿之中，未来有可能成就的玄尊之位的，弟子以为，就是这几人"
+        "正清宏正祖师之愿，是要让这天下复还真法唯一之格局"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "役从",
+      "aliases": [],
+      "identity": "薛霖洞府的役从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百二十九章 化符",
+      "summary": "薛霖洞府的役从，向濮道人报告张御来访。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "濮道人",
+          "type": "报告"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "张御来访时",
+          "event": "向濮道人报告有访客。"
+        }
+      ],
+      "evidence": [
+        "有役从到来道：濮先生，方才外面阵法有动静，许是有访客到来访问大先生。"
+      ],
+      "mention_count": 2
     }
   ]
 }

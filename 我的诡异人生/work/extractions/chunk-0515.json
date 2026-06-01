@@ -1,0 +1,340 @@
+{
+  "chunk_id": "chunk-0515",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "苏小哥"
+      ],
+      "identity": "驭诡者，疑似与副典狱交过手",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与任部长、云霓裳在道观独院中交谈，了解诡狱现状，对副典狱有兴趣。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "面无表情"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "任部长",
+          "type": "对话者"
+        },
+        {
+          "target": "云霓裳",
+          "type": "同行者"
+        },
+        {
+          "target": "副典狱",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在凉亭中与任部长讨论诡狱收容规律失效问题。"
+        }
+      ],
+      "evidence": [
+        "苏午点了点头。",
+        "苏午眼神微动，沉思了片刻，向任部长开口说道……",
+        "苏午对这个‘副典狱’倒是颇有兴趣，很希望能将之修炼成自身的‘大黑天护法’。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "任部长",
+      "aliases": [
+        "任部长"
+      ],
+      "identity": "诡异对策部首脑",
+      "faction": "诡异对策部",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "诡异对策部首脑，向苏午说明诡狱收容规律失效的情况，希望苏午帮忙恢复。",
+      "appearance": [],
+      "personality": [
+        "疲惫",
+        "暮气"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "对话者"
+        },
+        {
+          "target": "云霓裳",
+          "type": "邀请对象"
+        },
+        {
+          "target": "方乾",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在凉亭中与苏午交谈，请求帮助恢复诡狱收容规律。"
+        }
+      ],
+      "evidence": [
+        "任部长坐在苏午的对面",
+        "任部长待苏午落座以后，就开口说话",
+        "任部长神色痛惜地说道。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "云霓裳",
+      "aliases": [
+        "云姑娘"
+      ],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午同行，在凉亭中参与对话。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同行者"
+        },
+        {
+          "target": "任部长",
+          "type": "被邀请者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在凉亭中听任部长与苏午对话。"
+        }
+      ],
+      "evidence": [
+        "云霓裳闻言看向苏午。",
+        "苏午、云霓裳暂住的独院由任部长带来的人进行冲洗、打扫。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "方乾",
+      "aliases": [
+        "方乾巡察"
+      ],
+      "identity": "巡察",
+      "faction": "诡异对策部",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "诡异对策部巡察，曾探索诡狱，发现黑色潮水。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "任部长",
+          "type": "下属"
+        },
+        {
+          "target": "张游",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在凉亭中，欲开口游说苏午被任部长拦住。"
+        }
+      ],
+      "evidence": [
+        "旁边的方乾立刻应声回道",
+        "方乾巡察欲开口游说，被任部长手势拦住。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "张游",
+      "aliases": [
+        "张游巡察"
+      ],
+      "identity": "巡察",
+      "faction": "诡异对策部",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "诡异对策部巡察，曾与方乾一起探索诡狱，发现黑色潮水。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "方乾",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与方乾巡察多次对诡狱进行探索，发现黑色潮水。"
+        }
+      ],
+      "evidence": [
+        "在如今方乾巡察、张游巡察多次对诡狱进行探索的时候"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "副典狱",
+      "aliases": [
+        "副典狱"
+      ],
+      "identity": "诡狱的发现者与掌控者，容纳了荒级厉诡",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "诡狱的发现者与掌控者，容纳了荒级厉诡，其厉诡气息与淹没诡狱的黑色潮水相似，导致诡狱收容规律失效。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "容纳荒级厉诡"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "带人首先发现诡狱，在探查过程中与众人走散。"
+        }
+      ],
+      "evidence": [
+        "副典狱在这个节点同时失踪",
+        "黑色潮水散发出的诡韵，与张游、方乾曾经感受过的、副典狱容纳的厉诡气息颇为相似",
+        "副典狱极可能是利用自身容纳的厉诡特性，与诡狱的骨架勾连"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "肖志仁",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "已死亡，其子肖锦荣被苏午杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "肖锦荣",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "死亡。"
+        }
+      ],
+      "evidence": [
+        "在苏午杀死肖志仁的儿子肖锦荣以前"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "肖锦荣",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "肖志仁之子，被苏午杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "肖志仁",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被苏午杀死。"
+        }
+      ],
+      "evidence": [
+        "在苏午杀死肖志仁的儿子肖锦荣以前"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白何龙",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "已死亡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "死亡。"
+        }
+      ],
+      "evidence": [
+        "在肖志仁、白何龙死亡"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "鉴真和尚",
+      "aliases": [
+        "鉴真"
+      ],
+      "identity": "诡狱的缔造者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "诡狱的缔造者，以杀生石打造缚诡索，形成囚禁厉诡的牢狱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "古代",
+          "event": "缔造诡狱。"
+        }
+      ],
+      "evidence": [
+        "诡狱的缔造者必然是‘鉴真和尚’，他以杀生石打造的缚诡索，相互勾连结合，最终形成了一座可以囚禁众多厉诡的牢狱。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

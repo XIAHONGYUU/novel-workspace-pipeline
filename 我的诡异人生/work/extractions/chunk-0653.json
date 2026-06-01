@@ -1,0 +1,259 @@
+{
+  "chunk_id": "chunk-0653",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "修行者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在调查天威道坛陵墓群中的秘密，发现怨神真相。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "掌心雷",
+        "影诡",
+        "眼诡",
+        "大红莲胎藏"
+      ],
+      "equipment": [
+        "大红莲胎藏"
+      ],
+      "relationships": [
+        {
+          "target": "鼎灵",
+          "type": "怀疑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "掘开耀阳子、本明等坟冢，发现杀生石人皮，推断怨神已活出第二世。"
+        }
+      ],
+      "evidence": [
+        "苏午站在安葬有第七代坛主大师公‘耀阳子’的坟冢前",
+        "苏午取了‘大红莲胎藏’来，一刀就能这些‘虺神长发’尽数斩断。",
+        "苏午霍然转头，注视着身后的鼎灵！"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "鼎灵",
+      "aliases": [],
+      "identity": "天威道坛的鼎灵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被苏午怀疑是怨神，体内有厉诡，被苏午用杀生石人皮封印。",
+      "appearance": [],
+      "personality": [
+        "慌张"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被怀疑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午质问，体内厉诡复苏，被苏午压制并封印。"
+        }
+      ],
+      "evidence": [
+        "鼎灵被他的目光盯住，顿时心头发寒",
+        "鼎灵慌慌张张想要辩解",
+        "鼎灵脸色苍白，一下子软倒在地！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "耀阳子",
+      "aliases": [
+        "第七代坛主大师公"
+      ],
+      "identity": "第七代坛主大师公",
+      "faction": "天威道坛",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "第七代坛主，被虺神长发缠绕，死后坟冢被掘开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "本明",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被葬于坟冢，棺椁内白骨被虺神长发穿透。"
+        }
+      ],
+      "evidence": [
+        "苏午站在安葬有第七代坛主大师公‘耀阳子’的坟冢前",
+        "棺椁之内，一具白骨被碎布包裹着",
+        "那些长发并未随着耀阳子头皮血肉腐化而跟着脱离他的头骨"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "本明",
+      "aliases": [
+        "第八代坛主"
+      ],
+      "identity": "第八代坛主",
+      "faction": "天威道坛",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "第八代坛主，疑似幕后推动种生基之人，但未成功，被怨神利用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "耀阳子",
+          "type": "师徒"
+        },
+        {
+          "target": "怨神",
+          "type": "被利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "葬于魁星踢斗点位，棺椁内设机关，有干瘪尸体和杀生石人皮。"
+        }
+      ],
+      "evidence": [
+        "葬在‘魁星踢斗’点位的第八代坛主‘本明’坟冢周围",
+        "在本明的棺材之内，并非如苏午料想的那般空空如也",
+        "本明没有真正成功活出第二世"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "怨神",
+      "aliases": [
+        "杀生石之诡"
+      ],
+      "identity": "厉诡",
+      "faction": "",
+      "status": "已复苏",
+      "first_appearance": "",
+      "summary": "由杀生石雕琢的地藏王菩萨像所化，已活出第二世，利用种生基吸收性命本源。",
+      "appearance": [
+        "漆黑女人皮"
+      ],
+      "personality": [],
+      "abilities": [
+        "控制傀儡",
+        "吸收性命本源"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "本明",
+          "type": "利用"
+        },
+        {
+          "target": "开坛祖师",
+          "type": "控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "跌入山崖后脱开束缚，利用种生基复苏。"
+        },
+        {
+          "stage": "当前",
+          "event": "被苏午推断已活出第二世，可能附身鼎灵。"
+        }
+      ],
+      "evidence": [
+        "怨神早就降临了！",
+        "杀生石雕琢成的地藏王菩萨像，化作了厉诡",
+        "它已经活出第二世！"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "开坛祖师",
+      "aliases": [],
+      "identity": "天威道坛开坛祖师",
+      "faction": "天威道坛",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "吊死在愿神庙，实际被怨神控制为傀儡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "怨神",
+          "type": "被控制"
+        },
+        {
+          "target": "发妻",
+          "type": "合葬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "吊死在愿神庙，后被怨神控制。"
+        }
+      ],
+      "evidence": [
+        "开坛祖师吊死在愿神庙里。",
+        "那后来仍在天威道坛里存活了数年方死的‘开坛祖师’，其实是杀生石控制下的傀儡！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "开坛祖师发妻",
+      "aliases": [],
+      "identity": "开坛祖师之妻",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "跌入崖底，尸首被背上山合葬，但后来从棺椁中消失。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "开坛祖师",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "跌入崖底，后被葬入合葬墓，但尸首消失。"
+        }
+      ],
+      "evidence": [
+        "那个从凤山后山崖底被背上山来的、被所有人都当作是开坛祖师发妻的‘女尸’",
+        "‘她’从棺椁里消失了。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

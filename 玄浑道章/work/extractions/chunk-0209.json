@@ -1,256 +1,412 @@
 {
   "chunk_id": "chunk-0209",
-  "title": "第两百零五章 安神",
   "characters": [
     {
-      "name": "邓明",
+      "name": "英颛",
       "aliases": [],
       "identity": "",
       "faction": "",
       "status": "登场",
       "first_appearance": "第两百零五章 安神",
-      "summary": "他一纵身，从都督府飞起，落回到了治署之前，往里步入，在见到了邓明青后，就将事情经过报给了其人知晓",
-      "appearance": [],
+      "summary": "在北海山崖上盘膝修炼，身上有黑火，看到烽火后消失。",
+      "appearance": [
+        "留海之下，猩红的眼眸"
+      ],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "黑火",
+        "瞬间移动"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他一纵身，从都督府飞起，落回到了治署之前，往里步入，在见到了邓明青后，就将事情经过报给了其人知晓",
-        "邓明青神情冷峻，他思考了一下，立刻命人把托洛提、姚弘义，还有那个银先生一同唤了过来",
-        "”    邓明青淡声道：“天夏是不会灭亡的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在北海山崖上看到烽火，随即消失。"
+        }
       ],
-      "mention_count": 13
+      "evidence": [
+        "英颛正盘膝坐在这里，他身上的黑火闪动不已",
+        "他凝视那光柱片刻，黑色烟火一晃，整个人已是从崖顶之上消失了。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他看",
-      "aliases": [],
+      "name": "张御",
+      "aliases": [
+        "先生"
+      ],
       "identity": "",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零五章 安神",
+      "summary": "在密林中行走，掌握言印力量，看到烽火后决定赶回瑞光城。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "言印",
+        "飞行"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "莫队率",
+          "type": "跟随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在密林中行走，看到烽火后飞离。"
+        }
+      ],
+      "evidence": [
+        "张御正在密林内迈步行走着。凡他过处，只需一声敕言，前方便就树木倒伏",
+        "他目视那道光亮，能在浊潮之中这般挺立着的，也只有天夏烽火了。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "莫队率",
+      "aliases": [],
+      "identity": "队率",
       "faction": "",
       "status": "登场",
       "first_appearance": "第两百零五章 安神",
-      "summary": "他看来自己要尽快赶回去了",
+      "summary": "跟随张御的队率，被张御关照继续前行。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看来自己要尽快赶回去了",
-        "他看了一会儿，转身走了出去",
-        "”    朱阙也没有太过在意，他并没有把雅秋女神和杨璎联系到一起，只以为杨璎和杨珏等人都躲在那个密室里，少了一个强大的神明，在他看来反而还少了一个麻烦"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "跟随者"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随张御在密林中，后受命继续前行。"
+        }
+      ],
+      "evidence": [
+        "莫队率、两个图瓦和那祭祀俱是满脸的敬畏的跟在后面。",
+        "莫队率仰着头，毫不迟疑对上方一抱拳，道：“是，先生。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "雅秋",
+      "aliases": [
+        "雅秋女神"
+      ],
+      "identity": "女神",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第两百零五章 安神",
+      "summary": "在望夏台前与朱阙、托洛提等人战斗，后不敌飞走。",
+      "appearance": [
+        "长矛折断，头盔掉落，皮甲裂痕，额头有金色血液"
+      ],
+      "personality": [],
+      "abilities": [
+        "神性力量恢复伤势",
+        "射箭"
+      ],
+      "equipment": [
+        "长矛",
+        "头盔",
+        "皮甲",
+        "弓箭"
+      ],
+      "relationships": [
+        {
+          "target": "朱阙",
+          "type": "对手"
+        },
+        {
+          "target": "托洛提",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在望夏台前战斗，后飞走。"
+        }
+      ],
+      "evidence": [
+        "雅秋女神长矛已是折断，头盔不知掉落到了哪里，皮甲之上都是裂痕和拳印凹陷",
+        "她这时一剑劈下，强大的力量使得托洛提被整个劈飞了出去"
+      ],
+      "mention_count": 6
     },
     {
       "name": "朱阙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "朱军候"
+      ],
+      "identity": "军候",
+      "faction": "神尉军",
       "status": "登场",
       "first_appearance": "第两百零五章 安神",
-      "summary": "两个强大对手的夹攻，哪怕是她也承受不住，尤其是朱阙，她深深感到了这个对手的厉害，正常情形下，一对一她也不见得赢过这个人",
+      "summary": "神尉军成员，与雅秋战斗后冲入望夏台，试图破坏烽火台未果。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "强大力量",
+        "恢复能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "下属"
+        },
+        {
+          "target": "雅秋",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与雅秋战斗，冲入望夏台，尝试破坏烽火台失败。"
+        }
+      ],
+      "evidence": [
+        "朱阙忽然出现在了左侧，强烈威胁逼得她不得不分神应对",
+        "他沿着那一条狭窄台阶而上，瞬息间来到宽敞的内厅之中"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "托洛提",
+      "aliases": [],
+      "identity": "异神",
+      "faction": "复神会",
+      "status": "登场",
+      "first_appearance": "第两百零五章 安神",
+      "summary": "与雅秋战斗的异神，后参与会议讨论唤醒安神。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两个强大对手的夹攻，哪怕是她也承受不住，尤其是朱阙，她深深感到了这个对手的厉害，正常情形下，一对一她也不见得赢过这个人",
-        "她这时一剑劈下，强大的力量使得托洛提被整个劈飞了出去，可随即“咔嚓”一声，长剑断裂，她立刻将之扔开，拿下背后弓箭刷的拉开，先是一下瞄准了朱阙，后者只觉得眉心刺疼，眼皮直跳，立刻身影一晃，闪躲开来",
-        "这时朱阙忽然出现在了左侧，强烈威胁逼得她不得不分神应对，那人立刻抓住了机会，只是一抓一扣之间，就扯得她的身形失去了平衡，将望夏台的入门让了出来"
+      "relationships": [
+        {
+          "target": "雅秋",
+          "type": "对手"
+        },
+        {
+          "target": "邓明青",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与雅秋战斗，后参与会议。"
+        }
+      ],
+      "evidence": [
+        "雅秋这时一剑劈下，强大的力量使得托洛提被整个劈飞了出去",
+        "托洛提肯定道：“是的，我也看过了，那烽火台十分牢固”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "齐巅",
+      "aliases": [],
+      "identity": "",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百零五章 安神",
+      "summary": "在望夏台外，与朱阙对话，称雅秋飞走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱阙",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在望夏台外，告知朱阙雅秋飞走。"
+        }
+      ],
+      "evidence": [
+        "齐巅一个人无聊的靠在墙壁上，道：“飞走了，我追不上。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "邓明青",
+      "aliases": [],
+      "identity": "",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百零五章 安神",
+      "summary": "神尉军核心人物，主持唤醒安神的会议。",
+      "appearance": [],
+      "personality": [
+        "冷峻"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱阙",
+          "type": "上级"
+        },
+        {
+          "target": "姚弘义",
+          "type": "同伙"
+        },
+        {
+          "target": "银先生",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "听取朱阙汇报，召集会议决定唤醒安神。"
+        }
+      ],
+      "evidence": [
+        "邓明青神情冷峻，他思考了一下，立刻命人把托洛提、姚弘义，还有那个银先生一同唤了过来。",
+        "邓明青淡声道：“既然银先生，那就试一试吧。”"
+      ],
+      "mention_count": 5
     },
     {
       "name": "姚弘义",
       "aliases": [],
       "identity": "",
-      "faction": "",
+      "faction": "神尉军",
       "status": "登场",
       "first_appearance": "第两百零五章 安神",
-      "summary": "邓明青神情冷峻，他思考了一下，立刻命人把托洛提、姚弘义，还有那个银先生一同唤了过来",
+      "summary": "神尉军成员，参与会议，对天夏存在存疑。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "邓明青神情冷峻，他思考了一下，立刻命人把托洛提、姚弘义，还有那个银先生一同唤了过来",
-        "”    姚弘义皱眉道：“天夏真的还存在么",
-        "”    姚弘义微显诧异的看了他一眼，一直以来，邓明青都是颠覆派的中坚，神尉军的一切可以说都是他在背后推动着，可他一直不明白，对方的目的是什么"
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与会议，附议唤醒安神。"
+        }
+      ],
+      "evidence": [
+        "姚弘义皱眉道：“天夏真的还存在么？”",
+        "姚弘义抚须想了想，最后道：“附议。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "银先生",
       "aliases": [],
       "identity": "",
-      "faction": "",
+      "faction": "复神会",
       "status": "登场",
       "first_appearance": "第两百零五章 安神",
-      "summary": "雅秋明显感受到了吃力，来人的力量不高，但是在技巧的运用之上无可比拟，出手的力量，时机、轻重都是恰到好处，并且从头到尾异常连贯，只是几个回合的交手，就将她迫在了下风",
-      "appearance": [],
+      "summary": "戴银色面具的人，提议提前唤醒安神。",
+      "appearance": [
+        "戴银色面具"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "雅秋明显感受到了吃力，来人的力量不高，但是在技巧的运用之上无可比拟，出手的力量，时机、轻重都是恰到好处，并且从头到尾异常连贯，只是几个回合的交手，就将她迫在了下风",
-        "这时朱阙忽然出现在了左侧，强烈威胁逼得她不得不分神应对，那人立刻抓住了机会，只是一抓一扣之间，就扯得她的身形失去了平衡，将望夏台的入门让了出来",
-        "可他再望了眼上方，知道自己是没有办法了，虽然只是短暂的接触，可他能判断出那是一种强大的保护的力量，不是他一个人能撼动得了的"
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在会议上提议唤醒安神。"
+        }
+      ],
+      "evidence": [
+        "银先生这时开口道：“其实还有一个办法，我的提议是……”",
+        "银先生笑了起来，虽然他戴着面具，可这里所有人都感觉到他在笑"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他身",
+      "name": "柳奉全",
       "aliases": [],
       "identity": "",
-      "faction": "",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百零五章 安神",
-      "summary": "第两百零五章 安神    北海山崖之上，英颛正盘膝坐在这里，他身上的黑火闪动不已，这时他忽然感觉一道亮光照来，正面身躯都在耀映之中",
+      "summary": "与杨珏躲在密室中，担心天夏存亡。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "紧张"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零五章 安神    北海山崖之上，英颛正盘膝坐在这里，他身上的黑火闪动不已，这时他忽然感觉一道亮光照来，正面身躯都在耀映之中",
-        "雅秋手指一松，可是这一箭出去，却没有射向他，而是直接出现在了托洛提的身上，并与他身上的光芒产生了剧烈碰撞，导致他直接飞了出去",
-        "片刻后，他身上黑影一闪，又若无其事的站了起来"
+      "relationships": [
+        {
+          "target": "杨珏",
+          "type": "保护者"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与杨珏躲在密室中，感受门外动静。"
+        }
+      ],
+      "evidence": [
+        "柳奉全正带着杨珏就在躲在门背后，他也是察觉到了刚才门上的动静，心中紧张无比",
+        "他低头看了看杨珏，见其还是昏迷不醒"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "天夏",
+      "name": "杨珏",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "大都督",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百零五章 安神",
-      "summary": "他目视那道光亮，能在浊潮之中这般挺立着的，也只有天夏烽火了",
+      "summary": "天夏大都督，点燃烽火后昏迷，被柳奉全保护。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他目视那道光亮，能在浊潮之中这般挺立着的，也只有天夏烽火了",
-        "柳奉全正带着杨珏就在躲在门背后，他也是察觉到了刚才门上的动静，心中紧张无比，可等了许久，没见有人进来，紧绷的心神这才松下，他低头看了看杨珏，见其还是昏迷不醒，搭了一下脉，发现的确没有什么大碍，这才放下心来，只是心里却在想着，“烽火已然点燃了",
-        "他将此刻情形大略交代了一遍，并沉声道：“天夏烽火已然点燃，假如被天夏本土看到了，那么很可能会派人前来支援都护府，相信我，到时到来的，将是无人可以抵抗的力量"
+      "relationships": [
+        {
+          "target": "柳奉全",
+          "type": "被保护者"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零五章 安神",
-      "summary": "邓明青这时接着言道：“不过现在浊潮还没有完全退去，天夏不见到能看到烽火，我们只要及时推倒烽火台，还有机会获得胜利",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "邓明青这时接着言道：“不过现在浊潮还没有完全退去，天夏不见到能看到烽火，我们只要及时推倒烽火台，还有机会获得胜利",
-        "”    托洛提肯定道：“是的，我也看过了，那烽火台十分牢固，并不是我们能够摧毁的",
-        "”    托洛提神情严肃道：“这样太仓促了，现在就算能唤醒祂，我们也无法控制祂"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "点燃烽火后昏迷，躲在密室中。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "一直",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零五章 安神",
-      "summary": "留海之下，猩红的眼眸睁了开来，便看见远空有一道光柱自大地之上升起，一直冲射到了云穹上端，似无法望见其之尽头",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "留海之下，猩红的眼眸睁了开来，便看见远空有一道光柱自大地之上升起，一直冲射到了云穹上端，似无法望见其之尽头",
-        "下一刻，他浑身一颤，整个人被一股巨大的力量反震了下来，轰然砸落在坚硬的地面之上，再反弹了几下，一直撞到墙角之上，方才轰的一声停了下来，可以看到，此刻他的浑身上下的骨骼全都是扭曲粉碎",
-        "”    姚弘义微显诧异的看了他一眼，一直以来，邓明青都是颠覆派的中坚，神尉军的一切可以说都是他在背后推动着，可他一直不明白，对方的目的是什么"
+        "烽火台是被人点燃的，很可能就是大都督杨珏所为",
+        "他低头看了看杨珏，见其还是昏迷不醒"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "并且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零五章 安神",
-      "summary": "雅秋明显感受到了吃力，来人的力量不高，但是在技巧的运用之上无可比拟，出手的力量，时机、轻重都是恰到好处，并且从头到尾异常连贯，只是几个回合的交手，就将她迫在了下风",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "雅秋明显感受到了吃力，来人的力量不高，但是在技巧的运用之上无可比拟，出手的力量，时机、轻重都是恰到好处，并且从头到尾异常连贯，只是几个回合的交手，就将她迫在了下风",
-        "东廷都护府到来后，发现了这个沉睡在地下的远古神明，并且见到地上的神庙有助于封印这个神明，所以就算建立起新的建筑，也只是在旧址上改建而不去大动，并且他们还更进一步，在都护府疆域上建立了三个镇元点，源源不断的抽取这个远古神明的神力为己用"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "可他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零五章 安神",
-      "summary": "可他再望了眼上方，知道自己是没有办法了，虽然只是短暂的接触，可他能判断出那是一种强大的保护的力量，不是他一个人能撼动得了的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可他再望了眼上方，知道自己是没有办法了，虽然只是短暂的接触，可他能判断出那是一种强大的保护的力量，不是他一个人能撼动得了的",
-        "”    姚弘义微显诧异的看了他一眼，一直以来，邓明青都是颠覆派的中坚，神尉军的一切可以说都是他在背后推动着，可他一直不明白，对方的目的是什么"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "姚弘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零五章 安神",
-      "summary": "邓明青神情冷峻，他思考了一下，立刻命人把托洛提、姚弘义，还有那个银先生一同唤了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "邓明青神情冷峻，他思考了一下，立刻命人把托洛提、姚弘义，还有那个银先生一同唤了过来",
-        "”    姚弘义皱眉道：“天夏真的还存在么",
-        "”    姚弘义微显诧异的看了他一眼，一直以来，邓明青都是颠覆派的中坚，神尉军的一切可以说都是他在背后推动着，可他一直不明白，对方的目的是什么"
-      ],
-      "mention_count": 5
+      "mention_count": 2
     }
   ]
 }

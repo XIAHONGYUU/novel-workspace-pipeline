@@ -1,251 +1,257 @@
 {
   "chunk_id": "chunk-0171",
-  "title": "第一百六十八章 飞天",
   "characters": [
     {
-      "name": "在绕",
+      "name": "张御",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百六十八章 飞天",
-      "summary": "因为那里既有都护府的大军，以及汇聚在那里神尉军三大军候，不排除密林之中还存在有异神，所以他没有再继续直线前行，而是折道向西，在绕了一圈之后，来到洪河隘口的北面",
+      "summary": "玄府修士，准备独自前往安山深处执行任务。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为那里既有都护府的大军，以及汇聚在那里神尉军三大军候，不排除密林之中还存在有异神，所以他没有再继续直线前行，而是折道向西，在绕了一圈之后，来到洪河隘口的北面",
-        "他回忆起当初来这里，也是曾经过这里的，在绕着转了一圈之后，就又沿着山势朝东南方俯冲而去，底下的林木渐渐变得茂密起来，只是上空的雾气好像一下多了出来，变得异常浓重"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "孤独"
       ],
-      "mention_count": 6
+      "abilities": [
+        "飞遁",
+        "心光"
+      ],
+      "equipment": [
+        "夏剑",
+        "朱色手套",
+        "斗篷",
+        "丹丸"
+      ],
+      "relationships": [
+        {
+          "target": "辛瑶",
+          "type": "下属"
+        },
+        {
+          "target": "严鱼明",
+          "type": "弟子"
+        },
+        {
+          "target": "李青禾",
+          "type": "管家"
+        },
+        {
+          "target": "范澜",
+          "type": "可求助之人"
+        },
+        {
+          "target": "柳光",
+          "type": "可求助之人"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出发前",
+          "event": "在玄府事务堂交代事宜，查验严鱼明功课，回到学宫居处，喂食妙丹君，嘱咐李青禾，静坐至第二天。"
+        },
+        {
+          "stage": "出发",
+          "event": "出城至土丘，化青光向东飞遁，沿安山山脉向北，经洪河隘口，找到鹰嘴岩，沿小径进入密林。"
+        }
+      ],
+      "evidence": [
+        "张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜",
+        "他站起身来，提剑步出静室，洗漱一番后，就泡了一杯茶，来到天台之上坐下。",
+        "他孤独一人徜徉在天穹之上，耳旁听着山体与天地共鸣所发出空旷的回响，不停往前飞遁着。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "随后",
+      "name": "辛瑶",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府人员",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第一百六十八章 飞天",
-      "summary": "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
+      "summary": "张御在玄府偏殿交代事宜的对象。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
-        "他一伸手，将夏剑拿住，随后将剑刃抽出，拿过一块擦布，缓缓擦拭起来",
-        "一只飞鹰察觉到什么，忽然一振翅膀，避了开去，随后一道青色虹光瞬息掠过长天，直趋远方，而天空之中，只留下一声久久不息的鹰唳"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "出发前",
+          "event": "张御在偏殿与她交代事宜。"
+        }
+      ],
+      "evidence": [
+        "张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "严鱼明",
+      "aliases": [],
+      "identity": "张御的弟子",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第一百六十八章 飞天",
+      "summary": "张御的弟子，被查验功课。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出发前",
+          "event": "张御查验其功课。"
+        }
+      ],
+      "evidence": [
+        "随后他又找来严鱼明查验了一下功课"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的管家",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百六十八章 飞天",
+      "summary": "张御的管家，负责照顾妙丹君。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        },
+        {
+          "target": "妙丹君",
+          "type": "照料"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出发前",
+          "event": "张御嘱咐他注意事项，并让他每日喂食妙丹君。"
+        }
+      ],
+      "evidence": [
+        "回到书房后，他把李青禾叫来简单嘱咐了几句"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "范澜",
+      "aliases": [],
+      "identity": "张御可求助之人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百六十八章 飞天",
+      "summary": "张御嘱咐李青禾有困难可找的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "可求助对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出发前",
+          "event": "被张御提及作为李青禾的求助对象。"
+        }
+      ],
+      "evidence": [
+        "有什么为难的地方可以去找范澜或者柳光"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "柳光",
+      "aliases": [],
+      "identity": "张御可求助之人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百六十八章 飞天",
+      "summary": "张御嘱咐李青禾有困难可找的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "可求助对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出发前",
+          "event": "被张御提及作为李青禾的求助对象。"
+        }
+      ],
+      "evidence": [
+        "有什么为难的地方可以去找范澜或者柳光"
+      ],
+      "mention_count": 1
     },
     {
       "name": "妙丹君",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的宠物",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百六十八章 飞天",
-      "summary": "他推门入内，将手中夏剑摆在一旁的架子上，妙丹君一声叫，从高篮上跃下，他逗弄了一会儿妙丹君，亲自喂养了些丹丸，这才揉了揉其脑袋，让它自去玩耍",
+      "summary": "张御饲养的宠物，被留在学宫居处。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他推门入内，将手中夏剑摆在一旁的架子上，妙丹君一声叫，从高篮上跃下，他逗弄了一会儿妙丹君，亲自喂养了些丹丸，这才揉了揉其脑袋，让它自去玩耍",
-        "另外，安山深处极端危险，连他自己也未必能保证安全，所以也不可能带上妙丹君，只能暂时留在家中了，不过他事先已是准备了大量的丹散，让李青禾每日固定时候喂食就可以了",
-        "他默默看着，一直坐着未动，案几上的茶杯冒着丝丝热气，妙丹君不知什么到来，乖巧的在一旁蹲着"
+      "personality": [
+        "乖巧"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        },
+        {
+          "target": "李青禾",
+          "type": "被照料"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出发前",
+          "event": "张御喂食丹丸，并嘱咐李青禾每日喂食。"
+        }
+      ],
       "evidence": [
-        "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
-        "张御走出学宫，坐马车由南城出了城门，来到当时召唤天平之神寄躯的土丘停下，然后他让车马自行回去"
+        "妙丹君一声叫，从高篮上跃下，他逗弄了一会儿妙丹君，亲自喂养了些丹丸",
+        "妙丹君几个纵跃，来到天台边缘，看着他逐渐远去。"
       ],
       "mention_count": 4
-    },
-    {
-      "name": "他一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "他一振衣袖，大步往前走去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他一振衣袖，大步往前走去",
-        "他一伸手，将夏剑拿住，随后将剑刃抽出，拿过一块擦布，缓缓擦拭起来"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "只能",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "在这半明不暗的黑夜之中，广场上的神怪雕像有如蹲伏在那里准备捕食的活物，可似又畏惧什么，躲在暗影中不敢显露出来，只能看着他沿着大道一路远去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在这半明不暗的黑夜之中，广场上的神怪雕像有如蹲伏在那里准备捕食的活物，可似又畏惧什么，躲在暗影中不敢显露出来，只能看着他沿着大道一路远去",
-        "另外，安山深处极端危险，连他自己也未必能保证安全，所以也不可能带上妙丹君，只能暂时留在家中了，不过他事先已是准备了大量的丹散，让李青禾每日固定时候喂食就可以了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "来到",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
-        "他站起身来，提剑步出静室，洗漱一番后，就泡了一杯茶，来到天台之上坐下",
-        "妙丹君几个纵跃，来到天台边缘，看着他逐渐远去"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "飞驰一会儿之后，他看着身下那无限的天与地，无边的山和海，心中总觉此刻似是缺少了点什么，琢磨了一下，知道那是什么了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "飞驰一会儿之后，他看着身下那无限的天与地，无边的山和海，心中总觉此刻似是缺少了点什么，琢磨了一下，知道那是什么了",
-        "此时他身形微微一偏，再次向东而来，沿着与隘口平行的方向找寻记忆中的所在，不多时，他看到了一座冰雪覆盖下的黑色山体"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "他心下一转念，等这次回去之后，倒是可以将这个章印补上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他心下一转念，等这次回去之后，倒是可以将这个章印补上",
-        "遁空有一天后，雄峻的山脉出现在了前方，他心光一长，瞬息拔高，破开云雾之后，往下俯视"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "速度",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "他行走时看似闲庭信步，可是速度实际上非常快，未没用多久，就回到了学宫居处",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他行走时看似闲庭信步，可是速度实际上非常快，未没用多久，就回到了学宫居处",
-        "看有片刻，他又目注前方，速度微微提升了一些",
-        "他目光凝注那里，身上光芒一扩，速度骤然一快"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他记",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "他记得山壁之上有一条“小径”，当年他的老师就是带着他从那里进入安山腹地的，那也是考验他的心性定力的第一关",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他记得山壁之上有一条“小径”，当年他的老师就是带着他从那里进入安山腹地的，那也是考验他的心性定力的第一关",
-        "他观察了一下四周，稍作回忆，便一提夏剑，朝着密林之中某一处走去，他记得，前方不远处应该存在一处古老的遗迹，找到那里，就可以凭着古代留下的残存道路继续往下行进"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十八章 飞天",
-      "summary": "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百六十八章 飞天    张御从事务堂出来，先来到偏殿之中，与辛瑶交代了一下事宜，随后他又找来严鱼明查验了一下功课，在关照了几句话后，这才步出玄府",
-        "他推门入内，将手中夏剑摆在一旁的架子上，妙丹君一声叫，从高篮上跃下，他逗弄了一会儿妙丹君，亲自喂养了些丹丸，这才揉了揉其脑袋，让它自去玩耍",
-        "待得天边红日升起，将光芒刺入云霄，他抬头看了看，端起茶杯，本来渐凉的茶水忽然又一下变得滚热起来，他从容喝了一口，放下之后，这才振袖起身"
-      ],
-      "mention_count": 3
     }
   ]
 }

@@ -1,257 +1,216 @@
 {
   "chunk_id": "chunk-1514",
-  "title": "第九十二章 挟功窥廷位",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
+      "first_appearance": "",
+      "summary": "玄廷廷执，与武廷执一同受邀与方道人会谈，主张天夏与修道者互利共存。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "善于辩论",
+        "坚持原则"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
-        "”    张御道：“诸位同道能在上层修行，能得上层清气灌溉，能得享永寿，那正是因为他们是天夏的一份子，当初之许诺，也正是出于这一点",
-        "”    张御摇头道：“方上尊此言之中仍是有误"
+      "relationships": [
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "方道人",
+          "type": "谈判对象"
+        },
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与武廷执一同会见方道人，讨论修道者出山之事。"
+        }
+      ],
+      "evidence": [
+        "张御听了方道人这一番话，却是道：“方上尊说错了。”",
+        "张御道：“天夏并非是一味要求诸位同道付出，亦是有所回报...”"
+      ],
+      "mention_count": 10
     },
     {
       "name": "方道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "方上尊",
+        "方上真"
+      ],
+      "identity": "潜修道人",
+      "faction": "天夏潜修派",
       "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
+      "first_appearance": "",
+      "summary": "潜修道人，与众多同道交好，曾立下功劳，但多次向玄廷索要廷执之位未果。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "善于交际",
+        "执着于权位"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
-        "”    方道人笑道：“哦",
-        "”    方道人道：“这话说得不错，但我辈之所以能有今日之享，那是因为以往都曾立过功劳的，接受的也并不是天夏的施舍"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "谈判对象"
+        },
+        {
+          "target": "武廷执",
+          "type": "谈判对象"
+        },
+        {
+          "target": "庄首执",
+          "type": "曾向其索要廷执之位被拒"
+        },
+        {
+          "target": "陈首执",
+          "type": "向其索要廷执之位"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "邀请张御和武廷执会谈，提出以解决修道者出山问题换取廷执之位。"
+        },
+        {
+          "stage": "过去",
+          "event": "曾两次向庄首执索要廷执之位被拒，后因拒绝征召被罚没玄粮。"
+        }
+      ],
+      "evidence": [
+        "方道人笑道：“哦？错在哪里？”",
+        "方道人道：“玄廷要许我一个廷执之位。”"
+      ],
+      "mention_count": 12
     },
     {
       "name": "武廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "”    武廷执道：“既是受方上真之邀到此，那便是为了一听方上真的建言的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    武廷执道：“既是受方上真之邀到此，那便是为了一听方上真的建言的",
-        "”    武廷执看向他，道：“可问一下，道友具体准备如何做么",
-        "”    武廷执沉声道：“不知方上尊的条件是什么"
+      "aliases": [
+        "武倾墟"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "武廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "”    武廷执道：“既是受方上真之邀到此，那便是为了一听方上真的建言的",
+      "first_appearance": "",
+      "summary": "玄廷廷执，与张御一同受邀与方道人会谈，对方道人的提议持谨慎态度。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    武廷执道：“既是受方上真之邀到此，那便是为了一听方上真的建言的",
-        "”    武廷执看向他，道：“可问一下，道友具体准备如何做么",
-        "”    武廷执沉声道：“不知方上尊的条件是什么"
+      "personality": [
+        "谨慎",
+        "务实"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "方道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
-        "”    方道人笑道：“哦",
-        "”    方道人道：“这话说得不错，但我辈之所以能有今日之享，那是因为以往都曾立过功劳的，接受的也并不是天夏的施舍"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "方道人",
+          "type": "谈判对象"
+        },
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "若是只愿收取利处，而不愿维护天夏，那么天夏又为何要庇佑诸位呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "若是只愿收取利处，而不愿维护天夏，那么天夏又为何要庇佑诸位呢",
-        "”    张御看他不同，道：“人各有所不同，方上尊若是不愿意谈义，但我们便来谈利",
-        "若是诸位坚持避世不出，也是可以，恐到时候非但不义，也无其利"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同会见方道人，并提议先回去商议。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "方某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "”    说着，他又笑了一笑，“而且方某也不讳言，人心向来偏私，在诸位同道看来，该付出的早已付出，反倒是天夏要求他们出山，是违背了当初之许诺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    说着，他又笑了一笑，“而且方某也不讳言，人心向来偏私，在诸位同道看来，该付出的早已付出，反倒是天夏要求他们出山，是违背了当初之许诺",
-        "让方某听着都觉得有道理",
-        "”    说到这里，他话锋一转，“不过方某今天请两位到此，也是因为有一个解决之道"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "在归途之上，武倾墟先是开口道：“这位说能解决事机，倒也不算太过夸口，这些潜修同道之中，严道友向来不问外事，尤道友只喜阵法，反是这位最是最热衷于结交同道，且若算修道年月，这位也在多数之人，与诸人的师长前辈称得上故旧，多少也要卖他一些情面的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在归途之上，武倾墟先是开口道：“这位说能解决事机，倒也不算太过夸口，这些潜修同道之中，严道友向来不问外事，尤道友只喜阵法，反是这位最是最热衷于结交同道，且若算修道年月，这位也在多数之人，与诸人的师长前辈称得上故旧，多少也要卖他一些情面的",
-        "”    张御想了想，道：“方才武廷执说，这位要当廷执之事另有源头，不知这又是如何一回事",
-        "”    武廷执道：“当初我天夏渡来此世时，这位曾经一度活跃，后来亦是他带着一众潜修真人一同对抗天外宗派，功劳是有，可是此事过去之后，他便向玄廷提出要一个廷执之位，不过庄首执却是没有答应他，只言可以安排去往地方镇守，若是能镇守数十上百载，那"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "他又",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "”    说着，他又笑了一笑，“而且方某也不讳言，人心向来偏私，在诸位同道看来，该付出的早已付出，反倒是天夏要求他们出山，是违背了当初之许诺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    说着，他又笑了一笑，“而且方某也不讳言，人心向来偏私，在诸位同道看来，该付出的早已付出，反倒是天夏要求他们出山，是违背了当初之许诺",
-        "”    他又一笑，道：“不过方某做此事，却也是有一个附带条件的"
+        "武廷执道：“既是受方上真之邀到此，那便是为了一听方上真的建言的。”",
+        "武廷执沉默着没有回答，只是他向张御传声道：“张廷执，这件事另有源头，我们不如今次先回去商议？”"
       ],
       "mention_count": 6
     },
     {
-      "name": "张廷执",
+      "name": "陈首执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "”    方道人微微一笑，道：“张廷执今日倒是谈了一番大义",
+      "identity": "玄廷首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄廷首执，负责决断廷执之位等重大事务。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "坚持原则"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    方道人微微一笑，道：“张廷执今日倒是谈了一番大义",
-        "”    方道人听到这里，不由抬起手来，轻轻鼓了鼓掌，道：“张廷执说得有理，义利两面都是让你们说到了",
-        "”    武廷执沉默着没有回答，只是他向张御传声道：“张廷执，这件事另有源头，我们不如今次先回去商议"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "武廷执",
+          "type": "下属"
+        },
+        {
+          "target": "方道人",
+          "type": "被索要廷执之位"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "听取张御和武廷执汇报，表示拒绝方道人的要求。"
+        }
+      ],
+      "evidence": [
+        "陈首执道：“武廷执如何想的？”",
+        "陈首执沉声道：“以往庄首执曾拒绝此人两次，若是问我，我之回答亦是回绝...”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "却是",
+      "name": "庄首执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
+      "identity": "前任玄廷首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "前任玄廷首执，曾两次拒绝方道人的廷执之位要求。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "坚持规矩"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
-        "诸位避世不过为修道，而有见得彼端的机会，却是不愿去求，那么到底是在求道，还是在求生",
-        "”    他点了点自己，“方某与他们相处数百载，却是对每一个人都是知之甚深，每一名同道的喜好，每一名同道的长处，每一名同道的想法，都是知道的清清楚楚，所以能做到有的放矢，能做到眼前玄廷做不到的事情"
+      "relationships": [
+        {
+          "target": "方道人",
+          "type": "曾拒绝其要求"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "方上尊",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十二章 挟功窥廷位",
-      "summary": "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十二章 挟功窥廷位    张御听了方道人这一番话，却是道：“方上尊说错了",
-        "”    张御摇头道：“方上尊此言之中仍是有误",
-        "”    张御看他不同，道：“人各有所不同，方上尊若是不愿意谈义，但我们便来谈利"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "两次拒绝方道人的廷执之位要求，并因方道人拒绝征召而罚没其玄粮。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "武廷执道：“当初我天夏渡来此世时，这位曾经一度活跃...不过庄首执却是没有答应他...”",
+        "庄首执论功之时，因这位还是立下功劳的，所以没有忘了，故是对其赐予玄粮以作补偿..."
+      ],
+      "mention_count": 3
     }
   ]
 }

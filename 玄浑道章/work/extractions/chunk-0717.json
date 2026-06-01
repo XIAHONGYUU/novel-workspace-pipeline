@@ -1,257 +1,399 @@
 {
   "chunk_id": "chunk-0717",
-  "title": "第十二章 道传需依凭",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "守正",
+        "巡护"
+      ],
+      "identity": "玄法开道之祖，玄廷守正",
+      "faction": "玄法",
       "status": "登场",
       "first_appearance": "第十二章 道传需依凭",
-      "summary": "第十二章 道传需依凭    张御送走玉素道人后，站在原地想了想，现在玄廷主要需对付的是那些浑修，这表面看着与玄修没什么关系，但实际上却是有极大牵扯的",
+      "summary": "玄法开道之祖，被玄廷授为守正，专司杀伐斗战，清剿内外诸邪。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "深思熟虑",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第十二章 道传需依凭    张御送走玉素道人后，站在原地想了想，现在玄廷主要需对付的是那些浑修，这表面看着与玄修没什么关系，但实际上却是有极大牵扯的",
-        "张御原本的对策，是靠着自己这个开道之祖慢慢推动玄法，最好是能再引导出新的玄尊",
-        "张御在外站定许久之后，见天光渐黯，看去又要入夜了，这才走入里殿，坐定之后，拿起摆在架上的一册道书翻看了起来"
+      "relationships": [
+        {
+          "target": "玉素道人",
+          "type": "支持者"
+        },
+        {
+          "target": "许成通",
+          "type": "下属"
+        },
+        {
+          "target": "左道人",
+          "type": "下属"
+        },
+        {
+          "target": "文肇",
+          "type": "投靠者"
+        },
+        {
+          "target": "扈子西",
+          "type": "投靠者"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送走玉素道人后，思考玄法处境，决定寻找稳固根基之法。"
+        },
+        {
+          "stage": "当前",
+          "event": "召见许成通和左道人，授予守正宫值司之职。"
+        },
+        {
+          "stage": "当前",
+          "event": "接见文肇和扈子西，收为门下。"
+        }
+      ],
+      "evidence": [
+        "张御送走玉素道人后，站在原地想了想",
+        "张御原本的对策，是靠着自己这个开道之祖慢慢推动玄法",
+        "张御道：'许执事，左道友，我如今已非巡护，玄廷授我守正一职，专司杀伐斗战，清剿内外诸邪。'"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "玄法",
+      "name": "玉素道人",
       "aliases": [],
-      "identity": "",
+      "identity": "玄廷中的支持者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第十二章 道传需依凭",
-      "summary": "不过暗中算计玄法之事和打开两界门户的事情现在放到了一起，此辈弄出动静越来越大，玄廷又怎么可能不作回应",
+      "summary": "张御的支持者，背后有执摄。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "支持者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御送走。"
+        }
+      ],
       "evidence": [
-        "不过暗中算计玄法之事和打开两界门户的事情现在放到了一起，此辈弄出动静越来越大，玄廷又怎么可能不作回应",
-        "但在打压过此辈之后，从大体上看，玄法可能会变得更为势弱",
-        "若是自身弱小，那么哪怕你本身无有问题，别人也会先盯上你，因为便是得罪了你也不怕有什么后果，更别说现在的“玄法”满身都是破绽"
+        "张御送走玉素道人后",
+        "尽管玉素道人包括背后那位执摄看着是站在他这一边"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "许成通",
+      "aliases": [
+        "许执事",
+        "老许"
+      ],
+      "identity": "张御的下属，守正宫值司",
+      "faction": "守正宫",
+      "status": "登场",
+      "first_appearance": "第十二章 道传需依凭",
+      "summary": "张御的下属，被授予守正宫值司之职，负责招募弟子门人。",
+      "appearance": [],
+      "personality": [
+        "忠诚",
+        "积极"
+      ],
+      "abilities": [],
+      "equipment": [
+        "印信衣袍"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "左道人",
+          "type": "同僚"
+        },
+        {
+          "target": "李青禾",
+          "type": "传讯者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御召见，授予守正宫值司之职。"
+        }
+      ],
+      "evidence": [
+        "许成通道：'只要不曾耽搁巡护的事，许某等着便好。'",
+        "许成通、左道人二人也是毫不犹豫躬身拜了下去。",
+        "张御道：'许执事，左道友，我如今已非巡护，玄廷授我守正一职，专司杀伐斗战，清剿内外诸邪。'"
       ],
       "mention_count": 8
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "只是左先生未至，许先生怕要再等上一会儿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是左先生未至，许先生怕要再等上一会儿",
-        "只是他正忙碌之时，突闻张御相召，做了好一番安排之后，这才得以赶了过来",
-        "只是片刻之后，就有一道清清光芒照落下来，在大殿之内洒散开来，而后便见张御虚影负袖立在了堂上"
+      "name": "左道人",
+      "aliases": [
+        "左先生"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御的下属，守正宫值司",
+      "faction": "守正宫",
       "status": "登场",
       "first_appearance": "第十二章 道传需依凭",
-      "summary": "”    文肇道：“我们在上层跟随师长修道数十载，师长常言我二人少缺磨砺，本来是要去得内外层界游历，正好闻听见守正召集人手，故是来此相投",
+      "summary": "张御的下属，之前拜在张御门下，现被授予守正宫值司之职。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    文肇道：“我们在上层跟随师长修道数十载，师长常言我二人少缺磨砺，本来是要去得内外层界游历，正好闻听见守正召集人手，故是来此相投",
-        "居于右座的那道人道：“风道兄，下一次廷议，说得当是定立法度，约束浑道了，今日我撞见几位道友，他们皆对此有所不满，我们又该是如何选择",
-        "”    风道人摇头道：“不必如此，那些浑修为不受此约束，必然会想尽一切办法阻碍此事，我们只需等着，他们自然会来寻我，正好让此辈欠我等一个人情，下回若玉素再提出为玄法正名一事，便可请他们助我了"
+      "personality": [
+        "激动"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "”    两人神情皆是一肃，随李青禾来至堂上",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "印信衣袍"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "许成通",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御召见，授予守正宫值司之职。"
+        }
+      ],
       "evidence": [
-        "”    两人神情皆是一肃，随李青禾来至堂上",
-        "许、左两人赶忙道：“见过巡护",
-        "”    两人忙是改口道：“拜见守正"
+        "左道人此刻不由心头激动，他之前拜在张御门下，算是得了一个身份",
+        "许成通、左道人二人也是毫不犹豫躬身拜了下去。",
+        "张御道：'许执事，左道友，我如今已非巡护，玄廷授我守正一职，专司杀伐斗战，清剿内外诸邪。'"
       ],
       "mention_count": 6
     },
     {
-      "name": "这才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "张御在外站定许久之后，见天光渐黯，看去又要入夜了，这才走入里殿，坐定之后，拿起摆在架上的一册道书翻看了起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御在外站定许久之后，见天光渐黯，看去又要入夜了，这才走入里殿，坐定之后，拿起摆在架上的一册道书翻看了起来",
-        "只是他正忙碌之时，突闻张御相召，做了好一番安排之后，这才得以赶了过来",
-        "左道人此刻不由心头激动，他之前拜在张御门下，算是得了一个身份，勉强可算是玄廷中人了，但是没有印信，终究不稳，如今得封值司，这才算是有了一个正经身份，自此之后，再也不算是没根脚之人了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "李青禾将那谕旨拿出，走到前方，摊开至那案台之上，而后对着上方一拜，道：“先生，许先生，左先生都已是到了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李青禾将那谕旨拿出，走到前方，摊开至那案台之上，而后对着上方一拜，道：“先生，许先生，左先生都已是到了",
-        "只是片刻之后，就有一道清清光芒照落下来，在大殿之内洒散开来，而后便见张御虚影负袖立在了堂上"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "”    张御心思一转，已知这两人来历，他道：“唤他们二人进来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御心思一转，已知这两人来历，他道：“唤他们二人进来",
-        "张御免了他们礼数，问道：“你两位到此，不知是为何事",
-        "居于右座的那道人道：“风道兄，下一次廷议，说得当是定立法度，约束浑道了，今日我撞见几位道友，他们皆对此有所不满，我们又该是如何选择"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "只要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "而玄廷之中现在废玄之说其实一直不曾消亡，要是下来借此废玄也不是不可能，不管你是真玄法还是假玄法，只要是玄法，那么都可顺势一并废了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而玄廷之中现在废玄之说其实一直不曾消亡，要是下来借此废玄也不是不可能，不管你是真玄法还是假玄法，只要是玄法，那么都可顺势一并废了",
-        "”    许成通道：“只要不曾耽搁巡护的事，许某等着便好",
-        "许成通虽也一般高兴，可心中却想道：“只要跟好了守正，身份什么的都不打紧"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "许成",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "奎宿昙泉州中，自张御自去上层之后，许成通哪里都没有去，一直带着弟子留驻地州之上，一副随时等候传命的模样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "奎宿昙泉州中，自张御自去上层之后，许成通哪里都没有去，一直带着弟子留驻地州之上，一副随时等候传命的模样",
-        "”    许成通道：“只要不曾耽搁巡护的事，许某等着便好",
-        "许成通、左道人二人也是毫不犹豫躬身拜了下去"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "许成通",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十二章 道传需依凭",
-      "summary": "奎宿昙泉州中，自张御自去上层之后，许成通哪里都没有去，一直带着弟子留驻地州之上，一副随时等候传命的模样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "奎宿昙泉州中，自张御自去上层之后，许成通哪里都没有去，一直带着弟子留驻地州之上，一副随时等候传命的模样",
-        "”    许成通道：“只要不曾耽搁巡护的事，许某等着便好",
-        "许成通、左道人二人也是毫不犹豫躬身拜了下去"
-      ],
-      "mention_count": 4
-    },
-    {
       "name": "李青禾",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御的传讯者",
+      "faction": "守正宫",
       "status": "登场",
       "first_appearance": "第十二章 道传需依凭",
-      "summary": "李青禾这时方才从正堂出来，看到他已是到来，道：“许先生来了",
+      "summary": "负责传讯和接待张御的客人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "许成通",
+          "type": "传讯对象"
+        },
+        {
+          "target": "左道人",
+          "type": "传讯对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传召许成通和左道人，并带他们见张御。"
+        }
+      ],
       "evidence": [
-        "李青禾这时方才从正堂出来，看到他已是到来，道：“许先生来了",
-        "李青禾道：“两位既然到了，那便随青禾来吧",
-        "”    两人神情皆是一肃，随李青禾来至堂上"
+        "李青禾道：'两位既然到了，那便随青禾来吧。'",
+        "李青禾将那谕旨拿出，走到前方，摊开至那案台之上"
       ],
       "mention_count": 4
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "张御的宠物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第十二章 道传需依凭",
+      "summary": "一个小小的金色身影，随清光出现在守正宫中，被张御按揉。",
+      "appearance": [
+        "金色"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随清光出现在守正宫中，被张御留下。"
+        }
+      ],
+      "evidence": [
+        "那角落边小小的身影忽然往清光之中一窜，便随那光芒一同消失不见了。",
+        "守正宫中，张御伸手出去，把出现在手边的妙丹君按揉了一下"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "文肇",
+      "aliases": [],
+      "identity": "玄修修士，投靠张御",
+      "faction": "玄法",
+      "status": "登场",
+      "first_appearance": "第十二章 道传需依凭",
+      "summary": "年轻玄修，随师长修道数十载，前来投靠张御。",
+      "appearance": [
+        "长生玉立",
+        "相貌不俗"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "投靠者"
+        },
+        {
+          "target": "扈子西",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与扈子西一同拜见张御，被收为门下。"
+        }
+      ],
+      "evidence": [
+        "不一会儿，外面进来两个年轻修士，俱是长生玉立，相貌不俗，只是身上气息一望而知乃是玄修。",
+        "文肇道：'我们在上层跟随师长修道数十载，师长常言我二人少缺磨砺，本来是要去得内外层界游历，正好闻听见守正召集人手，故是来此相投。'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "扈子西",
+      "aliases": [],
+      "identity": "玄修修士，投靠张御",
+      "faction": "玄法",
+      "status": "登场",
+      "first_appearance": "第十二章 道传需依凭",
+      "summary": "年轻玄修，随师长修道数十载，前来投靠张御。",
+      "appearance": [
+        "长生玉立",
+        "相貌不俗"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "投靠者"
+        },
+        {
+          "target": "文肇",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与文肇一同拜见张御，被收为门下。"
+        }
+      ],
+      "evidence": [
+        "不一会儿，外面进来两个年轻修士，俱是长生玉立，相貌不俗，只是身上气息一望而知乃是玄修。",
+        "扈子西道：'守正，我等出来，师长也是知晓的。'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "风廷执",
+      "aliases": [
+        "风道兄",
+        "风道人"
+      ],
+      "identity": "玄法玄尊",
+      "faction": "玄法（非张御所辟）",
+      "status": "登场",
+      "first_appearance": "第十二章 道传需依凭",
+      "summary": "玄法玄尊，主张与浑章修士抱团，反对立即立法规束浑章。",
+      "appearance": [],
+      "personality": [
+        "有策略"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高道人",
+          "type": "同僚"
+        },
+        {
+          "target": "玉素道人",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与高道人商议下一次廷议，决定反对立法规束浑章。"
+        }
+      ],
+      "evidence": [
+        "风廷执道：'高道兄，浑章修士看着虽与我不同，实则与我乃是一脉，我辈也本是玄法借得他们之力成就，而今真法势大，我辈本当互为臂助，才能立足玄廷，似如今立法度约束浑章，那下回也缚我，助他们也等若助我辈自身。'",
+        "风道人道：'非我不赞同，而是时机未至，何日我玄法大兴，那何日当可立此法。'"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "高道人",
+      "aliases": [
+        "高道兄"
+      ],
+      "identity": "玄法玄尊",
+      "faction": "玄法（非张御所辟）",
+      "status": "登场",
+      "first_appearance": "第十二章 道传需依凭",
+      "summary": "玄法玄尊，与风廷执商议廷议对策。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风廷执商议下一次廷议。"
+        }
+      ],
+      "evidence": [
+        "高道人道：'道兄是不赞同立此法度了？'",
+        "高道人想了想，道：'可要我先去几位道友那里走动一番。'"
+      ],
+      "mention_count": 3
     }
   ]
 }

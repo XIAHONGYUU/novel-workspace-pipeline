@@ -1,258 +1,558 @@
 {
   "chunk_id": "chunk-0206",
-  "title": "第两百零二章 秘府",
   "characters": [
     {
+      "name": "邓明青",
+      "aliases": [
+        "尉主"
+      ],
+      "identity": "神尉军尉主",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "神尉军的领导者，与姚弘义、托洛提、朱阙及银先生商议处理瑞光城事务。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姚弘义",
+          "type": "下属"
+        },
+        {
+          "target": "托洛提",
+          "type": "合作"
+        },
+        {
+          "target": "朱阙",
+          "type": "下属"
+        },
+        {
+          "target": "银先生",
+          "type": "顾问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都护府治署大厅与众人商议，同意天夏人离开的条件，并派人召回齐巅。"
+        }
+      ],
+      "evidence": [
+        "都护府的治署大厅内，邓明青、姚弘义、托洛提，朱阙，以及一个戴着银色面具的人站在环形厅的台阶之上。",
+        "邓明青淡声道：“和我们谈条件，他们的倚仗是什么？”",
+        "邓明青道：“去发信，把齐巅叫回来。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "姚弘义",
+      "aliases": [],
+      "identity": "神尉军成员",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "神尉军成员，向邓明青汇报天夏人的条件，并提出限制船只以控制人口转移。",
+      "appearance": [],
+      "personality": [
+        "精明",
+        "善于谋划"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都护府治署大厅提出限制船只的策略。"
+        }
+      ],
+      "evidence": [
+        "姚弘义道：“他们答应了我们的条件，但是说在签贴之前有一个要求，需要我们让城中不愿侍奉神国的天夏人离开，让他们去海外诸岛生存。”",
+        "姚弘义抚须言道：“这是不可能的，瑞光城有一百余万人，但是海外诸岛所能容纳的人口是有上限的，且我可以让都府不提供船只……”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "托洛提",
+      "aliases": [
+        "托洛提神"
+      ],
+      "identity": "神明",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "一位神明，刚获得新身体，需要时间适应力量。",
+      "appearance": [],
+      "personality": [
+        "随意",
+        "倾向于暴力"
+      ],
+      "abilities": [
+        "神性力量"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "合作"
+        },
+        {
+          "target": "朱阙",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都护府治署大厅参与讨论，同意银先生的意见。"
+        }
+      ],
+      "evidence": [
+        "托洛提道：“我这个身体才获得没多久，虽然身躯的来源不错，但还需要再过几天才能适应并拥有足够的力量。”",
+        "托洛提很随意说道：“那还不如把他们杀死，让他们成为祭品。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "朱阙",
+      "aliases": [],
+      "identity": "神尉军成员",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "神尉军成员，能感知神性力量，刚与戚毖战过，实力未恢复。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "感知神性力量"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "下属"
+        },
+        {
+          "target": "托洛提",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都护府治署大厅确认有神明庇佑天夏人。"
+        }
+      ],
+      "evidence": [
+        "邓明青看向朱阙，后者回答道：“尉主，他说得没错。”",
+        "朱阙回答道：“尉主，那个神性力量非常强大，如果我一个人，现在并没有十足的把握。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "银先生",
+      "aliases": [
+        "戴着银色面具的男子"
+      ],
+      "identity": "神尉军顾问",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "戴着银色面具的神秘男子，主张答应天夏人的条件，以建立秩序和引导信徒。",
+      "appearance": [
+        "戴着银色面具"
+      ],
+      "personality": [
+        "理性",
+        "善于说服"
+      ],
+      "abilities": [],
+      "equipment": [
+        "银色面具"
+      ],
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "顾问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都护府治署大厅提出答应天夏人条件的理由。"
+        }
+      ],
+      "evidence": [
+        "戴面具的男子道：“我觉得可以答应他们。”",
+        "银色面具的男子看着他，道：“献祭是要的，但不是现在……”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "姚先生",
+      "aliases": [],
+      "identity": "天夏人代表",
+      "faction": "天夏人",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "天夏人中的代表，负责与姚弘义交涉，计划点燃烽火。",
+      "appearance": [],
+      "personality": [
+        "坚定",
+        "有策略"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "雅秋女神",
+          "type": "盟友"
+        },
+        {
+          "target": "杨珏",
+          "type": "顾问"
+        },
+        {
+          "target": "柳奉全",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都督府庄园内与众人商议，决定由自己与姚弘义交涉。"
+        }
+      ],
+      "evidence": [
+        "姚先生道：“雅秋女神，他们答应了，那么按照你的看法，我们现在需要等待？”",
+        "姚先生微笑一下，道：“大都督，以后有什么事，多请教下柳先生。”",
+        "姚先生没有回头，就这么推开门，在外面投射过来的阳光之中走了出去。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "雅秋女神",
+      "aliases": [],
+      "identity": "女神",
+      "faction": "天夏人",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "一位女神，庇佑天夏人，计划在浊潮消退时点燃烽火。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "神性力量"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姚先生",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都督府庄园内告知姚先生需要等待三天。"
+        }
+      ],
+      "evidence": [
+        "雅秋女神道：“是的，浊潮正在消退，这几天消退的特别快，拖延的越长，点燃烽火后，成功的可能就越大。”",
+        "雅秋女神看着他的背影，道：“姚先生，你会看到的。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "王恭",
+      "aliases": [],
+      "identity": "天夏人",
+      "faction": "天夏人",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "天夏人之一，在都督府庄园内参与讨论。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都督府庄园内提出对方不会给太多时间。"
+        }
+      ],
+      "evidence": [
+        "王恭道：“可是他们不会给我们的太长时间的。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "柳奉全",
+      "aliases": [
+        "柳公"
+      ],
+      "identity": "天夏人",
+      "faction": "天夏人",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "天夏人中的谋士，提议提出更多要求以迷惑对方。",
+      "appearance": [],
+      "personality": [
+        "善于计谋"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姚先生",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都督府庄园内提议提出更多要求。"
+        }
+      ],
+      "evidence": [
+        "柳奉全提议道：“我们不能就这么等着，什么都不做，在签立贴书之前，我们要提出更多建立神国之后的要求……”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "杨珏",
+      "aliases": [
+        "大都督"
+      ],
+      "identity": "大都督",
+      "faction": "天夏人",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "天夏人的大都督，听从姚先生和柳先生的建议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姚先生",
+          "type": "顾问"
+        },
+        {
+          "target": "柳奉全",
+          "type": "顾问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都督府庄园内同意柳先生的建议。"
+        }
+      ],
+      "evidence": [
+        "姚先生看向杨珏，道：“大都督，你觉得呢？”",
+        "杨珏想了一想，道：“我觉得柳先生的建议很好。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "项淳",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "玄府代理府主",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百零二章 秘府",
+      "summary": "玄府代理府主，决定撤离瑞光城，在海外重建玄府。",
+      "appearance": [],
+      "personality": [
+        "务实",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "许英",
+          "type": "师弟"
+        },
+        {
+          "target": "季师侄",
+          "type": "师侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄府事务堂安排撤退事宜，拒绝许英的劝阻。"
+        }
+      ],
+      "evidence": [
+        "玄府之中，项淳正在事务堂中安排撤退的事宜",
+        "项淳头也不抬道：“老师不在了，我们没法对抗神尉军了，不走又能怎么样？”",
+        "项淳道：“不必了，愿意走就走，愿意留就留，我不会勉强他们的。”"
+      ],
+      "mention_count": 6
+    },
+    {
       "name": "许英",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "玄府之中，项淳正在事务堂中安排撤退的事宜，忽然大门被自外推开，许英闯了进来，急切问道：“师兄，你要带着玄府上下离开这里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玄府之中，项淳正在事务堂中安排撤退的事宜，忽然大门被自外推开，许英闯了进来，急切问道：“师兄，你要带着玄府上下离开这里",
-        "”    许英激动道：“可你怎么可以在这个时候离开",
-        "”    许英道：“那不一样，不一样的"
+      "aliases": [
+        "师伯"
       ],
-      "mention_count": 25
-    },
-    {
-      "name": "邓明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府成员",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百零二章 秘府",
-      "summary": "第两百零二章 秘府    都护府的治署大厅内，邓明青、姚弘义、托洛提，朱阙，以及一个戴着银色面具的人站在环形厅的台阶之上",
+      "summary": "玄府成员，项淳的师弟，坚持留守，并试图让年轻文士修炼功法报仇。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零二章 秘府    都护府的治署大厅内，邓明青、姚弘义、托洛提，朱阙，以及一个戴着银色面具的人站在环形厅的台阶之上",
-        "”    邓明青淡声道：“和我们谈条件，他们的倚仗是什么",
-        "”    邓明青看向朱阙，后者回答道：“尉主，他说得没错"
+      "personality": [
+        "执着",
+        "情绪化"
       ],
-      "mention_count": 20
-    },
-    {
-      "name": "年轻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "许英离开正殿之后，沿着启山密道，一口气来到了一间密室之中，戴着面具的年轻文士正这里看着什么，后者见他进来，连忙恭敬行礼，道：“师伯",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "许英离开正殿之后，沿着启山密道，一口气来到了一间密室之中，戴着面具的年轻文士正这里看着什么，后者见他进来，连忙恭敬行礼，道：“师伯",
-        "”    年轻文士低下头，没有回答",
-        "”    年轻文士低声道：“还未曾修炼好"
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄"
+        },
+        {
+          "target": "年轻文士",
+          "type": "师侄"
+        }
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "年轻文",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "许英离开正殿之后，沿着启山密道，一口气来到了一间密室之中，戴着面具的年轻文士正这里看着什么，后者见他进来，连忙恭敬行礼，道：“师伯",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闯入事务堂劝阻项淳，后去密室质问年轻文士，最终放其离开。"
+        }
+      ],
       "evidence": [
-        "许英离开正殿之后，沿着启山密道，一口气来到了一间密室之中，戴着面具的年轻文士正这里看着什么，后者见他进来，连忙恭敬行礼，道：“师伯",
-        "”    年轻文士低下头，没有回答",
-        "”    年轻文士低声道：“还未曾修炼好"
+        "许英闯了进来，急切问道：“师兄，你要带着玄府上下离开这里？”",
+        "许英急急问道：“师侄，给你的功法，你可修炼成功了么？”",
+        "许英摇头道：“不，你说的对，以前我对你太苛刻了，”他苦笑一声，“我自己做不到的事，凭什么非要强加在你身上呢？”"
       ],
       "mention_count": 12
     },
     {
       "name": "年轻文士",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "季师侄"
+      ],
+      "identity": "玄府弟子",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百零二章 秘府",
-      "summary": "许英离开正殿之后，沿着启山密道，一口气来到了一间密室之中，戴着面具的年轻文士正这里看着什么，后者见他进来，连忙恭敬行礼，道：“师伯",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "许英离开正殿之后，沿着启山密道，一口气来到了一间密室之中，戴着面具的年轻文士正这里看着什么，后者见他进来，连忙恭敬行礼，道：“师伯",
-        "”    年轻文士低下头，没有回答",
-        "”    年轻文士低声道：“还未曾修炼好"
+      "summary": "玄府年轻弟子，被许英寄予厚望，但不愿修炼，渴望自由。",
+      "appearance": [
+        "戴着面具",
+        "非常稚嫩，至多十四五岁"
       ],
-      "mention_count": 12
+      "personality": [
+        "叛逆",
+        "渴望自由"
+      ],
+      "abilities": [],
+      "equipment": [
+        "面具"
+      ],
+      "relationships": [
+        {
+          "target": "许英",
+          "type": "师伯"
+        },
+        {
+          "target": "老师",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在密室中向许英坦白没有修炼，并爆发情绪，最终离开。"
+        }
+      ],
+      "evidence": [
+        "年轻文士大声说道：“师侄是说，师侄还没有开始修炼。”",
+        "他一把将自己面具扯下，露出一张非常稚嫩，至多十四五岁的脸庞",
+        "年轻文士犹豫了一下，低声道：“师伯，你没事吧？刚才是我太无礼了，我不该这样对师伯大吼大叫的。”"
+      ],
+      "mention_count": 14
     },
     {
-      "name": "项淳",
+      "name": "桃定符",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "道人",
+      "faction": "未知",
       "status": "登场",
       "first_appearance": "第两百零二章 秘府",
-      "summary": "玄府之中，项淳正在事务堂中安排撤退的事宜，忽然大门被自外推开，许英闯了进来，急切问道：“师兄，你要带着玄府上下离开这里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "summary": "一位道人，发现复神会痕迹和玄修秘府，救下一名垂死玄修后前往北方。",
+      "appearance": [
+        "道人打扮"
+      ],
+      "personality": [
+        "无奈",
+        "热心"
+      ],
+      "abilities": [
+        "赤光飞行",
+        "生机输送"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玄府之中，项淳正在事务堂中安排撤退的事宜，忽然大门被自外推开，许英闯了进来，急切问道：“师兄，你要带着玄府上下离开这里",
-        "”    项淳头也不抬道：“老师不在了，我们没法对抗神尉军了，不走又能怎么样",
-        "”    项淳动作一顿，随即继续签着手中文书，道：“都护府"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在都护府南方荒原发现秘府，救下玄修，得知镇元点信息后飞往北方。"
+        }
       ],
-      "mention_count": 11
+      "evidence": [
+        "桃定符拂开光芒，自里走了出来，他目光微微泛动着火芒，看着地表。",
+        "桃定符怔了一下，唉了一声，无奈道：“玄修的事我真不想管啊。”",
+        "轰然一声，一道赤色光芒从平地纵起，划出一道经天长虹，往北方遥遥飞去。"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "我们",
+      "name": "玄修（垂死）",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "死亡",
       "first_appearance": "第两百零二章 秘府",
-      "summary": "姚弘义道：“他们答应了我们的条件，但是说在签贴之前有一个要求，需要我们让城中不愿侍奉神国的天夏人离开，让他们去海外诸岛生存",
-      "appearance": [],
+      "summary": "一名垂死的玄修，在秘府中告知桃定符北方隘口镇元点的信息后死去。",
+      "appearance": [
+        "身着玄府道袍",
+        "胸口塌陷，四肢断折"
+      ],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "心光"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姚弘义道：“他们答应了我们的条件，但是说在签贴之前有一个要求，需要我们让城中不愿侍奉神国的天夏人离开，让他们去海外诸岛生存",
-        "”    邓明青淡声道：“和我们谈条件，他们的倚仗是什么",
-        "”    戴着面具的男子面朝着空旷的环形厅，略带磁性的声音响起道：“诸位不要忘记我们的第一目的，那是建立我们的神国，我们需要的是能够服侍我们，顺从我们，膜拜我们的信徒，那些纯粹的天夏人是不会崇信我们的，也不会真正受我们控制，我们让他们走，反"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在秘府中垂死，被桃定符救醒后说出“北方、隘口、镇元点”后死亡。"
+        }
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "托洛提",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "第两百零二章 秘府    都护府的治署大厅内，邓明青、姚弘义、托洛提，朱阙，以及一个戴着银色面具的人站在环形厅的台阶之上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第两百零二章 秘府    都护府的治署大厅内，邓明青、姚弘义、托洛提，朱阙，以及一个戴着银色面具的人站在环形厅的台阶之上",
-        "”    托洛提往都督府那里看去，道：“我能感觉到，那里有一个强大的神性力量存在，应该有一位神明在庇佑他们",
-        "”    邓明青想了想，道：“托洛提神，你和朱阙合力，能压制住这位神明么"
+        "一个身着玄府道袍的人就斜靠在井壁之上，看去胸口塌陷，四肢断折。",
+        "那玄修却是不放，死死抓住他的手，道：“北方、隘口、镇元点，拜托了。”说完之后，他的手骤然松开。"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "姚先生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "姚先生道：“雅秋女神，他们答应了，那么按照你的看法，我们现在需要等待",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姚先生道：“雅秋女神，他们答应了，那么按照你的看法，我们现在需要等待",
-        "”    姚先生看向杨珏，道：“大都督，你觉得呢",
-        "”    姚先生微笑一下，道：“大都督，以后有什么事，多请教下柳先生"
-      ],
-      "mention_count": 9
-    },
-    {
-      "name": "我不",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "”    项淳道：“不必了，愿意走就走，愿意留就留，我不会勉强他们的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    项淳道：“不必了，愿意走就走，愿意留就留，我不会勉强他们的",
-        "”    许英不由气急，道：“我冒着危险把你从外面带回来，我每天为你的事情操劳，我去求老师把最好的功法传给你，为了你，我不得不让府里的玄修替你去吸引危险，你居然说不想修炼了",
-        "我感觉自己像是一个囚犯，每天被逼着做自己不想做的事情，我不要修炼"
-      ],
-      "mention_count": 9
-    },
-    {
-      "name": "都护府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "第两百零二章 秘府    都护府的治署大厅内，邓明青、姚弘义、托洛提，朱阙，以及一个戴着银色面具的人站在环形厅的台阶之上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零二章 秘府    都护府的治署大厅内，邓明青、姚弘义、托洛提，朱阙，以及一个戴着银色面具的人站在环形厅的台阶之上",
-        "我们走了，都护府谁来守御",
-        "”    项淳动作一顿，随即继续签着手中文书，道：“都护府"
-      ],
-      "mention_count": 8
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零二章 秘府",
-      "summary": "姚弘义道：“他们答应了我们的条件，但是说在签贴之前有一个要求，需要我们让城中不愿侍奉神国的天夏人离开，让他们去海外诸岛生存",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姚弘义道：“他们答应了我们的条件，但是说在签贴之前有一个要求，需要我们让城中不愿侍奉神国的天夏人离开，让他们去海外诸岛生存",
-        "”    邓明青淡声道：“和我们谈条件，他们的倚仗是什么",
-        "”    托洛提往都督府那里看去，道：“我能感觉到，那里有一个强大的神性力量存在，应该有一位神明在庇佑他们"
-      ],
-      "mention_count": 8
+      "mention_count": 2
     }
   ]
 }

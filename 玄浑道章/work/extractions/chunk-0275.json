@@ -1,256 +1,388 @@
 {
   "chunk_id": "chunk-0275",
-  "title": "第四十八章 来书",
   "characters": [
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
+      "name": "惠元武",
+      "aliases": [
+        "惠先生",
+        "惠某"
+      ],
+      "identity": "修士",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十八章 来书",
-      "summary": "”    开阳学宫之中，张御正在金台的论武场中指点青曙练剑，待后者一套剑式施展完毕，他点头道：“你学的很快，许多地方的要点皆以掌握，下来就是勤修苦练，早日激引灵性了，不过你要与人斗战，还缺少一把像样的剑兵，这事我会设法替你办妥",
+      "summary": "一名修士，被英颛从域外驻地接走，前往青阳上洲。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "好奇"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    开阳学宫之中，张御正在金台的论武场中指点青曙练剑，待后者一套剑式施展完毕，他点头道：“你学的很快，许多地方的要点皆以掌握，下来就是勤修苦练，早日激引灵性了，不过你要与人斗战，还缺少一把像样的剑兵，这事我会设法替你办妥",
-        "”    张御道：“他自洪山派回来了",
-        "”    张御一思，自他把书信寄出去，如今已是过去三天了，有不少小派选择了重归玄府，不过洪山、弥光两派依旧没有回音"
+      "relationships": [
+        {
+          "target": "英颛",
+          "type": "同行者"
+        },
+        {
+          "target": "小魂",
+          "type": "接待者"
+        },
+        {
+          "target": "狂焰",
+          "type": "随从或同伴"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在域外驻地观察飞舟和金属巨人，后随英颛乘飞舟前往青阳上洲。"
+        }
+      ],
+      "evidence": [
+        "惠元武正在看着外间，忽然见到一艘巨大的飞舟自远飞来",
+        "惠元武回身一拱手，道：“多谢小郎了。”",
+        "惠元武踏步入内，见英颛正等在大厅之中"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "惠元武",
+      "name": "狂焰",
       "aliases": [],
-      "identity": "",
+      "identity": "惠元武的随从或同伴",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四十八章 来书",
-      "summary": "第四十八章 来书    惠元武正在看着外间，忽然见到一艘巨大的飞舟自远飞来，横凌上空，但那型制却是自己以前从未见过的",
+      "summary": "惠元武的随从，对域外势力有所了解。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十八章 来书    惠元武正在看着外间，忽然见到一艘巨大的飞舟自远飞来，横凌上空，但那型制却是自己以前从未见过的",
-        "”    惠元武看着那些人，心下啄磨道：“那又会是什么人呢",
-        "”    惠元武回身一拱手，道：“多谢小郎了"
+      "relationships": [
+        {
+          "target": "惠元武",
+          "type": "随从"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向惠元武指出金属巨人非军府之人。"
+        }
+      ],
+      "evidence": [
+        "狂焰回道：“不是，这些人的旗徽章制与军府与截然不同。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "小魂",
+      "aliases": [
+        "小郎"
+      ],
+      "identity": "驻地中的少年侍者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四十八章 来书",
+      "summary": "驻地中的少年，为惠元武送衣物，对金属巨人表示不满。",
+      "appearance": [],
+      "personality": [
+        "热情",
+        "直率"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "惠元武",
+          "type": "服务"
+        },
+        {
+          "target": "英颛",
+          "type": "同驻地"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给惠元武送衣物，并告知金属巨人来自另一个大驻地。"
+        }
+      ],
+      "evidence": [
+        "门外来传来脚步声，却是那叫小魂的少年人捧着一个盖着红绸的托盘进来",
+        "小魂笑道：“就这么点小事，当不得谢。”",
+        "少年摇头道：“不知道，听闻也是一个很大的驻地来的。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "英颛",
+      "aliases": [
+        "英先生",
+        "英道友"
+      ],
+      "identity": "中位修士，驻地中的浑修之一",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四十八章 来书",
+      "summary": "驻地中的中位修士，带领惠元武乘飞舟前往青阳上洲。",
+      "appearance": [],
+      "personality": [
+        "寡言",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "惠元武",
+          "type": "同行者"
+        },
+        {
+          "target": "小魂",
+          "type": "同驻地"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通知惠元武出发，并带其乘飞舟前往青阳上洲。"
+        }
+      ],
+      "evidence": [
+        "英颛便是其中之一",
+        "英颛对此没有多言，只道：“可以出发了。”",
+        "英颛道：“跟我来。”"
+      ],
+      "mention_count": 5
     },
     {
       "name": "齐羽",
       "aliases": [],
-      "identity": "",
+      "identity": "修士，与道人密谋",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十八章 来书",
-      "summary": "域外某处地下洞窟之内，齐羽匆匆来到了一处暖意融融的热泉之前，还未开口说话，那站在泉水之旁的道人已是出声言道：“惠元武走脱了",
+      "summary": "与道人在域外洞窟中密谋，担心惠元武泄露消息。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "担忧",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "域外某处地下洞窟之内，齐羽匆匆来到了一处暖意融融的热泉之前，还未开口说话，那站在泉水之旁的道人已是出声言道：“惠元武走脱了",
-        "”    齐羽一惊，不可思议道：“怎么会",
-        "”    齐羽沉声道：“可要追回来么"
+      "relationships": [
+        {
+          "target": "道人",
+          "type": "同谋"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与道人在热泉前讨论惠元武逃脱之事。"
+        }
+      ],
+      "evidence": [
+        "齐羽匆匆来到了一处暖意融融的热泉之前",
+        "齐羽一惊，不可思议道：“怎么会？他是如何走脱的？”",
+        "齐羽皱眉道：“那我们怎么办？”"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "惠元",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十八章 来书",
-      "summary": "第四十八章 来书    惠元武正在看着外间，忽然见到一艘巨大的飞舟自远飞来，横凌上空，但那型制却是自己以前从未见过的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十八章 来书    惠元武正在看着外间，忽然见到一艘巨大的飞舟自远飞来，横凌上空，但那型制却是自己以前从未见过的",
-        "”    惠元武看着那些人，心下啄磨道：“那又会是什么人呢",
-        "”    惠元武回身一拱手，道：“多谢小郎了"
+      "name": "道人",
+      "aliases": [
+        "道友"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "那道人",
-      "aliases": [],
-      "identity": "",
+      "identity": "修士，与齐羽密谋",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十八章 来书",
-      "summary": "”    那道人沉吟道：“应该是意外，我已是看过了，他是被一位路过的修士救下带走的",
+      "summary": "与齐羽在域外洞窟中密谋，认为惠元武逃脱是意外，决定放弃驻地。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人沉吟道：“应该是意外，我已是看过了，他是被一位路过的修士救下带走的",
-        "”    那道人道：“无需再追，现在过去这么久，消息早就泄露出去了",
-        "”    那道人看了看他，道：“可是他什么都不知道，不是么"
+      "personality": [
+        "冷静",
+        "果断",
+        "冷酷"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "曹梁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十八章 来书",
-      "summary": "曹梁这次回返学宫，极可能就是受命而来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "曹梁这次回返学宫，极可能就是受命而来",
-        "”    过去一会儿，曹梁自外走进来，肃容一揖，道：“洪山派玄修曹梁，见过玄正",
-        "”    曹梁坐在下首看向他，道：“张玄正，派主收到了玄正的书信，故这一次是着我给玄正送来一封书信"
+      "relationships": [
+        {
+          "target": "齐羽",
+          "type": "同谋"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "李青禾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十八章 来书",
-      "summary": "他再指点了两句，留下青曙一人在此磨练，自己就回到了静室之中吐纳调息，提聚神元，数个夏时后，他才功行出来，这时见李青禾等在门前，问道：“可是有事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他再指点了两句，留下青曙一人在此磨练，自己就回到了静室之中吐纳调息，提聚神元，数个夏时后，他才功行出来，这时见李青禾等在门前，问道：“可是有事",
-        "”    李青禾道：“先生，曹玄修遣人来言，说是有要事与先生商议，询问先生何时有暇",
-        "”    李青禾道：“听闻是今晨回来的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知齐羽惠元武逃脱，并决定放弃驻地。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "那道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十八章 来书",
-      "summary": "”    那道人沉吟道：“应该是意外，我已是看过了，他是被一位路过的修士救下带走的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    那道人沉吟道：“应该是意外，我已是看过了，他是被一位路过的修士救下带走的",
-        "”    那道人道：“无需再追，现在过去这么久，消息早就泄露出去了",
-        "”    那道人看了看他，道：“可是他什么都不知道，不是么"
+        "那站在泉水之旁的道人已是出声言道：“惠元武走脱了。”",
+        "那道人沉吟道：“应该是意外，我已是看过了，他是被一位路过的修士救下带走的。”",
+        "那道人却似毫不在意，道：“这里终归是要放弃的”"
       ],
       "mention_count": 6
     },
     {
-      "name": "英颛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张玄正",
+        "先生"
+      ],
+      "identity": "玄府玄正，开阳学宫教师",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第四十八章 来书",
-      "summary": "通过驻地中人的言语交谈，他才是知道，原来这里每一个椭圆形的建筑之中，都有一名浑修，英颛便是其中之一，而算下来，这里至少有十名中位修士，这个实力，已是比得上域内一个大派了",
+      "summary": "玄府玄正，在开阳学宫指点青曙练剑，处理洪山派书信事宜。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "通过驻地中人的言语交谈，他才是知道，原来这里每一个椭圆形的建筑之中，都有一名浑修，英颛便是其中之一，而算下来，这里至少有十名中位修士，这个实力，已是比得上域内一个大派了",
-        "”    惠元武踏步入内，见英颛正等在大厅之中，忙是一拱手，道：“抱歉了英道友，在这里待得有些气闷，惠某出去转了转",
-        "”    英颛对此没有多言，只道：“可以出发了"
+      "personality": [
+        "沉稳",
+        "深思熟虑"
       ],
-      "mention_count": 5
+      "abilities": [],
+      "equipment": [
+        "蝉鸣剑"
+      ],
+      "relationships": [
+        {
+          "target": "青曙",
+          "type": "师徒"
+        },
+        {
+          "target": "李青禾",
+          "type": "侍从"
+        },
+        {
+          "target": "曹梁",
+          "type": "通信"
+        },
+        {
+          "target": "恽尘",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指点青曙练剑，阅读洪山派书信，并回复曹梁。"
+        }
+      ],
+      "evidence": [
+        "张御正在金台的论武场中指点青曙练剑",
+        "张御放下手中书册，抬头道：“请他进来。”",
+        "张御思索了一下，对曹梁道：“曹道友可知信中所言？”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "李青",
+      "name": "青曙",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的弟子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十八章 来书",
-      "summary": "他再指点了两句，留下青曙一人在此磨练，自己就回到了静室之中吐纳调息，提聚神元，数个夏时后，他才功行出来，这时见李青禾等在门前，问道：“可是有事",
+      "summary": "张御的弟子，正在学习剑术，实力提升很快。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "勤奋"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他再指点了两句，留下青曙一人在此磨练，自己就回到了静室之中吐纳调息，提聚神元，数个夏时后，他才功行出来，这时见李青禾等在门前，问道：“可是有事",
-        "”    李青禾道：“先生，曹玄修遣人来言，说是有要事与先生商议，询问先生何时有暇",
-        "”    李青禾道：“听闻是今晨回来的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在论武场练剑，得到张御指点。"
+        }
+      ],
+      "evidence": [
+        "张御正在金台的论武场中指点青曙练剑",
+        "青曙披上神袍后实力提升很快"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "这些人",
+      "name": "李青禾",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的侍从",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十八章 来书",
-      "summary": "这些人的行动整齐有序，迈步时脚步划一，看的出是经受过严格训练的",
+      "summary": "张御的侍从，负责传话和接待。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬",
+        "勤快"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "侍从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御报告曹梁来访，并安排接待。"
+        }
+      ],
       "evidence": [
-        "这些人的行动整齐有序，迈步时脚步划一，看的出是经受过严格训练的",
-        "”    狂焰回道：“不是，这些人的旗徽章制与军府与截然不同"
+        "李青禾道：“先生，曹玄修遣人来言，说是有要事与先生商议”",
+        "李青禾躬身一礼，道：“青禾这就去安排。”",
+        "李青禾上前接过，转递到了张御手中"
       ],
       "mention_count": 4
     },
     {
-      "name": "就这么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "曹梁",
+      "aliases": [
+        "曹玄修"
+      ],
+      "identity": "洪山派玄修",
+      "faction": "洪山派",
       "status": "登场",
       "first_appearance": "第四十八章 来书",
-      "summary": "”    小魂笑道：“就这么点小事，当不得谢",
+      "summary": "洪山派玄修，受派主之命给张御送信，并带回回复。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬",
+        "急切"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    小魂笑道：“就这么点小事，当不得谢",
-        "”    齐羽不觉一抬头，讶道：“道友，这处地界道友你经营了这么久，就这么放弃了么"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "通信"
+        },
+        {
+          "target": "洪山派主",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到开阳学宫给张御送信，并带回张御的口头回复。"
+        }
+      ],
+      "evidence": [
+        "曹梁自外走进来，肃容一揖，道：“洪山派玄修曹梁，见过玄正。”",
+        "曹梁坐在下首看向他，道：“张玄正，派主收到了玄正的书信，故这一次是着我给玄正送来一封书信。”",
+        "曹梁想了想，站起一礼，郑重道：“我我会将玄正之言完整转告老师的。”"
+      ],
+      "mention_count": 5
     }
   ]
 }

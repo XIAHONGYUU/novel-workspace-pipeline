@@ -1,253 +1,236 @@
 {
   "chunk_id": "chunk-0764",
-  "title": "第五十九章 载器当由人",
   "characters": [
     {
-      "name": "朱凤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "守正"
+      ],
+      "identity": "玄廷守正",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十九章 载器当由人",
-      "summary": "荒原之上，朱凤立在一处风蚀出来的石崖上，看着掌心之中粉嫩的花瓣随风飘去，很快失去生命的色泽，又在风中化为碎末",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "荒原之上，朱凤立在一处风蚀出来的石崖上，看着掌心之中粉嫩的花瓣随风飘去，很快失去生命的色泽，又在风中化为碎末",
-        "唯独我一人还彷徨徘徊于此……”    书信飞到了她身边，嚷嚷道：“朱凤真人，别再悲春伤秋了，你可是与世同寿的玄尊啊",
-        "”    朱凤摇头，叹息道：“没有玄粮，哪里会得天地之寿，这世上也没有什么永世不败之物"
+      "summary": "玄廷守正，与异神交战并获胜，关注外层势力动向。",
+      "appearance": [
+        "眼眸中有霹雳雷芒溢出"
       ],
-      "mention_count": 16
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "使用法器空勿劫珠",
+        "召唤竹筒法器"
+      ],
+      "equipment": [
+        "空勿劫珠",
+        "竹筒"
+      ],
+      "relationships": [
+        {
+          "target": "高墨",
+          "type": "道友"
+        },
+        {
+          "target": "明周道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "消杀异神，与高墨交谈，返回守正宫，归还法器，得知岑传回玄廷。"
+        }
+      ],
+      "evidence": [
+        "张御此刻察望了一下四周，见这异神再无任何痕迹遗留下来，便伸手一召，将空勿劫珠收了回来",
+        "张御此刻则是唤出大道玄章看了一下",
+        "张御回到清穹地陆之上，意念一转，就回到了守正宫中"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "高墨",
+      "aliases": [
+        "高道友"
+      ],
+      "identity": "伊洛上洲玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十九章 载器当由人",
-      "summary": "第五十九章 载器当由人    张御的眼眸之中，此刻有霹雳雷芒溢出，一道道光流时不时闪烁一下，过了好一会儿方才平息下来",
+      "summary": "伊洛上洲的玄尊，在张御与异神交战后前来询问情况。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五十九章 载器当由人    张御的眼眸之中，此刻有霹雳雷芒溢出，一道道光流时不时闪烁一下，过了好一会儿方才平息下来",
-        "张御此刻察望了一下四周，见这异神再无任何痕迹遗留下来，便伸手一召，将空勿劫珠收了回来，放入了袖中",
-        "”    他从来不怀疑张御此战能赢，玄廷守正，在事先有着充分准备的情形下，绝无可能连一个异神都斗不过"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "察觉地陆异动，前来查看，与张御交谈后离去。"
+        }
+      ],
+      "evidence": [
+        "高墨化身出现在了大阵之外",
+        "高墨闻听此言，神情微松，点头道：“如此便好啊。”",
+        "他与张御说了两句话后，便即告辞离去"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "朱凤",
+      "aliases": [
+        "朱凤真人"
+      ],
+      "identity": "玄尊",
+      "faction": "上宸天（疑似）",
+      "status": "登场",
+      "first_appearance": "第五十九章 载器当由人",
+      "summary": "与元童、毕明曾一同离开天夏，现与上宸天书信接触，准备配合打通内外门户。",
+      "appearance": [
+        "掌心有粉嫩花瓣"
+      ],
+      "personality": [
+        "多愁善感",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "元童",
+          "type": "旧友"
+        },
+        {
+          "target": "毕明",
+          "type": "旧友"
+        },
+        {
+          "target": "书信",
+          "type": "信使"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒原上与书信交谈，准备配合打通内外门户。"
+        }
+      ],
+      "evidence": [
+        "朱凤立在一处风蚀出来的石崖上",
+        "朱凤摇头，叹息道：“没有玄粮，哪里会得天地之寿”",
+        "朱凤凝眸看过去，如张御猜测的那样，这一次上宸天派这封书信过来"
+      ],
+      "mention_count": 8
     },
     {
       "name": "书信",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "上宸天信使",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第五十九章 载器当由人",
-      "summary": "唯独我一人还彷徨徘徊于此……”    书信飞到了她身边，嚷嚷道：“朱凤真人，别再悲春伤秋了，你可是与世同寿的玄尊啊",
+      "summary": "一封有灵性的书信，负责传达上宸天的指令，性格活泼。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "唯独我一人还彷徨徘徊于此……”    书信飞到了她身边，嚷嚷道：“朱凤真人，别再悲春伤秋了，你可是与世同寿的玄尊啊",
-        "”    书信在她身边来回飞着，嚷嚷道：“没有就去找啊，在这里叹气有什么用，没得让自己堕了志气",
-        "”    书信得意道：“就是呀，我只是一封书信，我要是个修士……唉呀呀……”    朱凤一把将它捉在手里，使劲揉捏了两下，她嫣然一笑，柔声道：“如果你是一个修士，我早便把你捏死了"
+      "personality": [
+        "活泼",
+        "爱说大话"
       ],
-      "mention_count": 10
+      "abilities": [
+        "飞行",
+        "说话"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱凤",
+          "type": "信使与收信人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "引导朱凤前往指定地点，并告知计划。"
+        }
+      ],
+      "evidence": [
+        "书信飞到了她身边，嚷嚷道：“朱凤真人，别再悲春伤秋了”",
+        "书信得意道：“就是呀，我只是一封书信”",
+        "书信晃动过来，疑惑道：“那又怎么样？”"
+      ],
+      "mention_count": 7
     },
     {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "玄廷传讯道人",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十九章 载器当由人",
-      "summary": "而玄廷之上算不出来结果，若不是推算之人故意不出力，那么就是对面有人刻意蔽去了天机",
+      "summary": "玄廷的传讯者，向张御传达岑传回玄廷的消息。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而玄廷之上算不出来结果，若不是推算之人故意不出力，那么就是对面有人刻意蔽去了天机",
-        "其实无论上宸天还是幽城，还是那些天外邪神，一般来说，能用的手段无非就是几种",
-        "其中最有可能的，就是上回那等打通内外层界，从而扩张门户的打算"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "出现在守正宫，告知岑传回玄廷的消息。"
+        }
+      ],
+      "evidence": [
+        "明周道人出现在了那里，对他打一个稽首",
+        "明周道人恭敬道：“守正，正清一脉的岑传岑玄尊前日回到玄廷了”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "岑传",
+      "aliases": [
+        "岑玄尊"
+      ],
+      "identity": "正清一脉玄尊",
+      "faction": "正清一脉",
+      "status": "提及",
       "first_appearance": "第五十九章 载器当由人",
-      "summary": "这个时候，荒原之上有清光一闪，高墨化身出现在了大阵之外，他看了眼顶上飘悬着的空勿劫珠，很谨慎的立在外间，朝里传声言道：“道友，可有什么不妥么",
+      "summary": "正清一脉的玄尊，被玄廷唤回，仍在监察中。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个时候，荒原之上有清光一闪，高墨化身出现在了大阵之外，他看了眼顶上飘悬着的空勿劫珠，很谨慎的立在外间，朝里传声言道：“道友，可有什么不妥么",
-        "他看了一眼前方，异神已除，那当是回去了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被监察对象"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "出现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十九章 载器当由人",
-      "summary": "这个时候，荒原之上有清光一闪，高墨化身出现在了大阵之外，他看了眼顶上飘悬着的空勿劫珠，很谨慎的立在外间，朝里传声言道：“道友，可有什么不妥么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个时候，荒原之上有清光一闪，高墨化身出现在了大阵之外，他看了眼顶上飘悬着的空勿劫珠，很谨慎的立在外间，朝里传声言道：“道友，可有什么不妥么",
-        "而后从阵禁之中一步跨越而出，出现在了高墨面前",
-        "而后天穹之上光云融开，出现了一个巨大的空洞，他一摆袖，就化一道浩大清光往上层归返"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前日回到玄廷。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "故是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十九章 载器当由人",
-      "summary": "”    他方才在玄府之中察觉到，脚下整个地陆都似在被推移挪动，并朝着某一方向倾斜过去，这等力量令他也不得不郑重对待，故是在稳固好洲内禁阵之后，第一时间就赶了过来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    他方才在玄府之中察觉到，脚下整个地陆都似在被推移挪动，并朝着某一方向倾斜过去，这等力量令他也不得不郑重对待，故是在稳固好洲内禁阵之后，第一时间就赶了过来",
-        "这也是自然，法器也是讲究与御主的缘分的，显然这法器与他十分投缘，故是不肯走",
-        "”    明周道人恭敬道：“守正，正清一脉的岑传岑玄尊前日回到玄廷了，故是廷上命明周前来告知守正一声"
+        "正清一脉的岑传岑玄尊前日回到玄廷了"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "却是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十九章 载器当由人",
-      "summary": "可她望了一会儿，却是轻轻蹙眉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可她望了一会儿，却是轻轻蹙眉",
-        "他伸指一点，却是要将这两物归还玄廷，那竹筒顺势化一道光芒飞去，可那“空勿劫珠”却是绕着他转了一圈，并在袖边上来回游走，似是不太肯回去"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "荒原之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十九章 载器当由人",
-      "summary": "这个时候，荒原之上有清光一闪，高墨化身出现在了大阵之外，他看了眼顶上飘悬着的空勿劫珠，很谨慎的立在外间，朝里传声言道：“道友，可有什么不妥么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个时候，荒原之上有清光一闪，高墨化身出现在了大阵之外，他看了眼顶上飘悬着的空勿劫珠，很谨慎的立在外间，朝里传声言道：“道友，可有什么不妥么",
-        "荒原之上，朱凤立在一处风蚀出来的石崖上，看着掌心之中粉嫩的花瓣随风飘去，很快失去生命的色泽，又在风中化为碎末"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十九章 载器当由人",
-      "summary": "而后从阵禁之中一步跨越而出，出现在了高墨面前",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而后从阵禁之中一步跨越而出，出现在了高墨面前",
-        "蔽去天机比推算天机其实更为容易，因为前者只需要单纯的搅乱，而后者则需必要的条件和长久的推演，所以在这一方面天夏并不能完全占据主动",
-        "而后天穹之上光云融开，出现了一个巨大的空洞，他一摆袖，就化一道浩大清光往上层归返"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他从",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十九章 载器当由人",
-      "summary": "”    他从来不怀疑张御此战能赢，玄廷守正，在事先有着充分准备的情形下，绝无可能连一个异神都斗不过",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他从来不怀疑张御此战能赢，玄廷守正，在事先有着充分准备的情形下，绝无可能连一个异神都斗不过",
-        "他从袖中拿了出来一个竹筒，默念法诀，须臾之间，万千细竹签从大气之中浮现，化作一道青气长河，在哗啦啦的声响中，全数汇聚入了竹筒之内"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "朱凤摇",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十九章 载器当由人",
-      "summary": "”    朱凤摇头，叹息道：“没有玄粮，哪里会得天地之寿，这世上也没有什么永世不败之物",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    朱凤摇头，叹息道：“没有玄粮，哪里会得天地之寿，这世上也没有什么永世不败之物",
-        "”    朱凤摇头道：“这里浊潮太盛"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

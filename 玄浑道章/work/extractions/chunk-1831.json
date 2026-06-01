@@ -1,256 +1,629 @@
 {
   "chunk_id": "chunk-1831",
-  "title": "第三百九十八章 荐推择后继",
   "characters": [
     {
+      "name": "钟廷执",
+      "aliases": [
+        "钟廷执",
+        "钟某"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "玄廷廷执，举荐正清镇守为廷执。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清镇守",
+          "type": "举荐"
+        },
+        {
+          "target": "晁廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上举荐正清镇守为廷执。"
+        }
+      ],
+      "evidence": [
+        "钟廷执站了起来，打一个稽首，道：“首执，诸位廷执，钟某这里愿意举荐正清镇守。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "正清镇守",
+      "aliases": [
+        "正清道人",
+        "正清"
+      ],
+      "identity": "镇守",
+      "faction": "天夏",
+      "status": "被提及",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "被钟廷执举荐为廷执，曾因过往被削夺，后归回天夏立有大功，求全道法之人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "求全道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "被举荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被削夺过往，后归回天夏。"
+        },
+        {
+          "stage": "当前",
+          "event": "被举荐为廷执候选人。"
+        }
+      ],
+      "evidence": [
+        "正清镇守无论功行资历，都是合适之人。",
+        "正清镇守曾被削夺过往，一应功绩，都需从归回天夏之后从头算起",
+        "正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [
+        "韦廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "玄廷廷执，对钟廷执的举荐提出异议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上发言质疑正清镇守的资历。"
+        }
+      ],
+      "evidence": [
+        "韦廷执沉吟片刻，道：“钟廷执当知，正清镇守曾被削夺过往，一应功绩，都需从归回天夏之后从头算起，这般算来，稍嫌有所不足。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈首执",
+      "aliases": [
+        "陈首执"
+      ],
+      "identity": "玄廷首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "玄廷首执，主持廷执增补会议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主持玄廷会议，询问其他廷执是否有其他人选。"
+        }
+      ],
+      "evidence": [
+        "陈首执也并没有立刻下论断，示意钟廷执先是坐了回去，随后看向其余人道：“诸位廷执可还有其他人选推荐么？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "邓廷执",
+      "aliases": [
+        "邓廷执",
+        "邓景"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "玄廷廷执，举荐俞让为廷执。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "俞让",
+          "type": "举荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "举荐俞让为廷执。"
+        }
+      ],
+      "evidence": [
+        "邓廷执想了想，道：“首执，邓某这里有一个人选，并云上洲俞让俞玄首，当是可以入廷为执。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "俞让",
+      "aliases": [
+        "俞让",
+        "俞玄首"
+      ],
+      "identity": "并云上洲玄首",
+      "faction": "天夏",
+      "status": "被提及",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "并云上洲玄首，被邓景举荐为廷执候选人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邓景",
+          "type": "被举荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾与邓景竞争廷执，后主动退让。"
+        },
+        {
+          "stage": "当前",
+          "event": "被举荐为廷执候选人。"
+        }
+      ],
+      "evidence": [
+        "并云上洲俞让俞玄首，当是可以入廷为执。",
+        "当初商量补位廷执的时候，玄廷曾从邓景和俞让二人之中进行挑选，最后是邓景胜出。",
+        "俞让知悉此事后，自己先有了退让之意，并且还呈书廷上，表示仍愿镇守地方。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "林廷执",
+      "aliases": [
+        "林廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "玄廷廷执，举荐魏涛为廷执。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魏涛",
+          "type": "举荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "举荐魏涛为廷执。"
+        }
+      ],
+      "evidence": [
+        "林廷执则是提了宣宁府洲的魏涛魏玄首"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "魏涛",
+      "aliases": [
+        "魏涛",
+        "魏玄首"
+      ],
+      "identity": "宣宁府洲玄首",
+      "faction": "天夏",
+      "status": "被提及",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "宣宁府洲玄首，资格甚老，被林廷执举荐为廷执候选人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "被举荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾放弃竞逐廷执，等待功绩足够。"
+        },
+        {
+          "stage": "当前",
+          "event": "被举荐为廷执候选人。"
+        }
+      ],
+      "evidence": [
+        "宣宁府洲的魏涛魏玄首，这一位同样资格甚老",
+        "其人从来都是要等功绩足够才肯挪位，所以上次放弃了竞逐。"
+      ],
+      "mention_count": 2
+    },
+    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "张御在座上等了一会儿，见诸人不再开口, 便道：“御这里也有一位合适人选, 壑界的冯昭通冯玄尊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御在座上等了一会儿，见诸人不再开口, 便道：“御这里也有一位合适人选, 壑界的冯昭通冯玄尊",
-        "更何况，提及增扩廷执之位的事断然是不会现下突然提出的，事先肯定打过招呼，张御身为次执不可能不知道，既然没有和自己提及，显然这一点早有考虑到，那自己也不必去多事了",
-        "此时天夏，张御正在林鬼的临时居处品茶"
+      "aliases": [
+        "张御",
+        "次执"
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "林鬼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷次执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "此时天夏，张御正在林鬼的临时居处品茶",
+      "summary": "玄廷次执，举荐冯昭通为廷执，后与林鬼交谈。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时天夏，张御正在林鬼的临时居处品茶",
-        "同行两个人被杀，偏生林鬼存活了下来，元夏那边不可能不怀疑，    不过其本人无所谓，有本事元夏就将他镇杀了，可这个法子此前元夏试过了，没有上境大能出手，除了封禁就没别的办法了",
-        "”    林鬼笑道：“林某正身不就在元夏么"
+      "relationships": [
+        {
+          "target": "冯昭通",
+          "type": "举荐"
+        },
+        {
+          "target": "林鬼",
+          "type": "交谈"
+        }
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "”    钟廷执道：“可如今乃是非常之时，许多过往规矩可以放宽一些了，况且正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功，再说正清镇守乃是求全道法之人，若是与元夏斗战，那却是少不了这位旳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执道：“可如今乃是非常之时，许多过往规矩可以放宽一些了，况且正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功，再说正清镇守乃是求全道法之人，若是与元夏斗战，那却是少不了这位旳",
-        "目前最重要的敌人乃是元夏，何主何次，何事先何事后，他都是分得清楚的",
-        "与元夏相比，其余一切都不重要，若是揪着以往那些不放，那只会陷入元夏那等无尽内耗之中"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上举荐冯昭通为廷执。"
+        },
+        {
+          "stage": "当前",
+          "event": "与林鬼交谈，建议其弥补过往。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "”    钟廷执道：“可如今乃是非常之时，许多过往规矩可以放宽一些了，况且正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功，再说正清镇守乃是求全道法之人，若是与元夏斗战，那却是少不了这位旳",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    钟廷执道：“可如今乃是非常之时，许多过往规矩可以放宽一些了，况且正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功，再说正清镇守乃是求全道法之人，若是与元夏斗战，那却是少不了这位旳",
-        "与元夏相比，其余一切都不重要，若是揪着以往那些不放，那只会陷入元夏那等无尽内耗之中",
-        "在此之后，林廷执则是提了宣宁府洲的魏涛魏玄首, 这一位同样资格甚老，若是有意廷执之位, 邓景可能会遇到一个有力对手, 不过其人从来都是要等功绩足够才肯挪位, 所以上次放弃了竞逐"
+        "张御在座上等了一会儿，见诸人不再开口，便道：“御这里也有一位合适人选，壑界的冯昭通冯玄尊。”",
+        "张御道：“林道友，你是否想要归去？”"
       ],
       "mention_count": 8
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "冯昭通",
+      "aliases": [
+        "冯昭通",
+        "冯玄尊"
+      ],
+      "identity": "壑界玄尊",
+      "faction": "天夏",
+      "status": "被提及",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "当初玄廷欲提拔他为廷执，只是他以功行不及加以婉拒了, 如今他已至寄虚之境，当是可以增位廷执",
+      "summary": "壑界玄尊，曾被玄廷欲提拔为廷执，以功行不及婉拒，现已至寄虚之境。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当初玄廷欲提拔他为廷执，只是他以功行不及加以婉拒了, 如今他已至寄虚之境，当是可以增位廷执",
-        "当初玄廷就对这位冯玄尊敞开过门关，这位只要答应一声就能成为廷执, 只是其人自觉能为不足所以此事未成",
-        "墩台一毁，无面道人那里的牵连也是断了，无面道人显然也是毁在了这场爆裂之中，不过他所见的这一位应该只是分身，正身当还在元夏，为了他这条线，很可能会随着墩台重新筑造再次设法联系的"
+      "abilities": [
+        "寄虚之境"
       ],
-      "mention_count": 5
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被举荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾被玄廷欲提拔为廷执，以功行不及婉拒。"
+        },
+        {
+          "stage": "当前",
+          "event": "被张御举荐为廷执候选人。"
+        }
+      ],
+      "evidence": [
+        "壑界的冯昭通冯玄尊。当初玄廷欲提拔他为廷执，只是他以功行不及加以婉拒了，如今他已至寄虚之境，当是可以增位廷执。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "林道友",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "风廷执",
+      "aliases": [
+        "风廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "他道：“林道友，你是否想要归去",
+      "summary": "玄廷廷执，曾考虑举荐高墨，后放弃。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他道：“林道友，你是否想要归去",
-        "”    张御微微点头，与他攀谈了几句后，问道：“林道友对三上世可是了解么",
-        "”    张御道：“林道友下来打算如何"
+      "relationships": [
+        {
+          "target": "高墨",
+          "type": "考虑举荐"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "考虑举荐高墨，但最终放弃。"
+        }
+      ],
+      "evidence": [
+        "风廷执这时于心下想了想，道：“高墨道友在伊洛上洲镇守多年，若是此刻提他之名……”",
+        "他再是一想，却是摇了摇头。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "张御道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "高墨",
+      "aliases": [
+        "高墨"
+      ],
+      "identity": "伊洛上洲镇守",
+      "faction": "天夏",
+      "status": "被提及",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "”    张御道：“林道友下来打算如何",
+      "summary": "伊洛上洲镇守，风廷执曾考虑举荐但放弃。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“林道友下来打算如何",
-        "”    张御道：“道友不必轻贱自身，你以往在元夏逼迫之下虽有恶行，但是道友自暴自弃大可不必，或可以想办法加以弥补的",
-        "”    张御道：“没有关系，我记得道友有精血渡传之法，我有使者在元夏那里，可以与道友说定，让林末送假身去往元夏，到时候道友想必自能感应"
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "被考虑举荐"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被风廷执考虑举荐为廷执，但最终未提名。"
+        }
+      ],
+      "evidence": [
+        "高墨道友在伊洛上洲镇守多年"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "钟廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "重岸",
+      "aliases": [
+        "重岸"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "第三百九十八章 荐推择后继    钟廷执站了起来，打一个稽首，道：“首执，诸位廷执，钟某这里愿意举荐正清镇守",
+      "summary": "乘坐飞舟巡查虚空，从自在界归来后继续巡游，关注元夏墩台。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三百九十八章 荐推择后继    钟廷执站了起来，打一个稽首，道：“首执，诸位廷执，钟某这里愿意举荐正清镇守",
-        "”    韦廷执沉吟片刻，道：“钟廷执当知，正清镇守曾被削夺过往，一应功绩，都需从归回天夏之后从头算起，这般算来，稍嫌有所不足",
-        "”    钟廷执道：“可如今乃是非常之时，许多过往规矩可以放宽一些了，况且正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功，再说正清镇守乃是求全道法之人，若是与元夏斗战，那却是少不了这位旳"
+      "equipment": [
+        "飞舟"
       ],
-      "mention_count": 4
+      "relationships": [
+        {
+          "target": "无面道人",
+          "type": "有联系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在虚空世域巡查，发现元夏金舟平台上有道童投掷纸鹤，疑似无面道人联系。"
+        }
+      ],
+      "evidence": [
+        "虚空世域之内，重岸正乘坐飞舟巡查虚空",
+        "他不由望着原来元夏墩台那处。",
+        "却见那元夏方才到来的金舟平台之上，正有一个两个道童似是无聊玩耍，相互在投掷一只不起眼的纸鹤。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "再说",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "无面道人",
+      "aliases": [
+        "无面道人"
+      ],
+      "identity": "元夏修士（分身）",
+      "faction": "元夏",
+      "status": "被提及",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "”    钟廷执道：“可如今乃是非常之时，许多过往规矩可以放宽一些了，况且正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功，再说正清镇守乃是求全道法之人，若是与元夏斗战，那却是少不了这位旳",
+      "summary": "与重岸有联系，其分身可能已毁于墩台爆裂，正身可能在元夏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执道：“可如今乃是非常之时，许多过往规矩可以放宽一些了，况且正清镇守自归回我天夏之后，先后经历数次大战，每回都有立有大功，再说正清镇守乃是求全道法之人，若是与元夏斗战，那却是少不了这位旳",
-        "”    再说了一会儿话后，他便与林鬼告辞，离开了此间，回到了清玄道宫之中"
+      "relationships": [
+        {
+          "target": "重岸",
+          "type": "有联系"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "分身可能毁于墩台爆裂。"
+        },
+        {
+          "stage": "当前",
+          "event": "可能通过纸鹤再次联系重岸。"
+        }
+      ],
+      "evidence": [
+        "无面道人显然也是毁在了这场爆裂之中，不过他所见的这一位应该只是分身，正身当还在元夏"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "最后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "林鬼",
+      "aliases": [
+        "林鬼",
+        "林道友"
+      ],
+      "identity": "元夏修士（正身在元夏）",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "”    当初商量补位廷执的时候, 玄廷曾从邓景和俞让二人之中进行挑选，最后是邓景胜出",
+      "summary": "元夏修士，正身在元夏，分身在天夏，与张御交谈，愿意尝试弥补过往。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    当初商量补位廷执的时候, 玄廷曾从邓景和俞让二人之中进行挑选，最后是邓景胜出",
-        "这三人暂时列为候选后，因为廷执之数可奇不可正, 所以诸廷执商量了一下，又是另外提了四人，一共是七人，最后就是从中择选出四人增补",
-        "”    说着，他传声几句过去，最后道：“这只是我之建言，接不接纳，道友自择"
+      "abilities": [
+        "精血渡传之法"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交谈"
+        },
+        {
+          "target": "林末",
+          "type": "族祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御交谈，同意通过假身回元夏尝试弥补。"
+        }
+      ],
+      "evidence": [
+        "林鬼笑道：“林某正身不就在元夏么？”",
+        "张御道：“林道友，你是否想要归去？”",
+        "林鬼道：“我一个为虎傅翼之人，还能如何？还不如眼不见心不烦。”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "诸廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "林末",
+      "aliases": [
+        "林末"
+      ],
+      "identity": "林鬼的族人",
+      "faction": "天夏",
+      "status": "被提及",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "诸廷执对于这个举荐，无一人反对, 反而点头不已",
+      "summary": "林鬼的族人，张御的使者，将送假身去元夏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "诸廷执对于这个举荐，无一人反对, 反而点头不已",
-        "”    诸廷执点头, 这是个非常合适的选择",
-        "这三人暂时列为候选后，因为廷执之数可奇不可正, 所以诸廷执商量了一下，又是另外提了四人，一共是七人，最后就是从中择选出四人增补"
+      "relationships": [
+        {
+          "target": "林鬼",
+          "type": "族祖"
+        },
+        {
+          "target": "张御",
+          "type": "使者"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御提及将送假身去元夏。"
+        }
+      ],
+      "evidence": [
+        "我有使者在元夏那里，可以与道友说定，让林末送假身去元夏"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "青朔",
+      "aliases": [
+        "青朔"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "被提及",
       "first_appearance": "第三百九十八章 荐推择后继",
-      "summary": "其实有一位同道在洲府之中更好，况且论功绩和功行，有这么多玄首镇守排在前面，确实也还轮不到高墨",
+      "summary": "与白朢一起，气息高涨，道法逐渐理顺，走向求全最后一关。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其实有一位同道在洲府之中更好，况且论功绩和功行，有这么多玄首镇守排在前面，确实也还轮不到高墨",
-        "他此时看向了训天道章之内，心印能做的，其实远远不止先前所探寻出来的那些，到了现下，倒是可以尝试推动自己构想的那一步了"
+      "abilities": [
+        "求全道法"
       ],
-      "mention_count": 4
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白朢",
+          "type": "同修"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "气息高涨，道法逐渐理顺。"
+        }
+      ],
+      "evidence": [
+        "青朔、白朢二人原本低敛下去的气息又一次高涨起来了，这说明两人的道法也是逐渐理顺了，朝着求全最后一关走去了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白朢",
+      "aliases": [
+        "白朢"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "被提及",
+      "first_appearance": "第三百九十八章 荐推择后继",
+      "summary": "与青朔一起，气息高涨，道法逐渐理顺，走向求全最后一关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "求全道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "青朔",
+          "type": "同修"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "气息高涨，道法逐渐理顺。"
+        }
+      ],
+      "evidence": [
+        "青朔、白朢二人原本低敛下去的气息又一次高涨起来了，这说明两人的道法也是逐渐理顺了，朝着求全最后一关走去了。"
+      ],
+      "mention_count": 1
     }
   ]
 }

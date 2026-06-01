@@ -1,255 +1,148 @@
 {
   "chunk_id": "chunk-0002",
-  "title": "第一章 大玄历二月初二",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "张少郎"
+      ],
+      "identity": "被看押的乘客，古代博物学专学",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一章 大玄历二月初二",
-      "summary": "张御听着脚步声走远，伸手拿起眼前的报纸，多年呼吸法的锻炼，使得他体魄远胜常人，哪怕这里光线昏暗，也不妨碍他阅读",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御听着脚步声走远，伸手拿起眼前的报纸，多年呼吸法的锻炼，使得他体魄远胜常人，哪怕这里光线昏暗，也不妨碍他阅读",
-        "”    张御听到这里，出声道：“石船首，或许我知道原因",
-        "”    一名护卫看了张御几眼，神情一紧，指着他道：“他，他好像是那个被关在羁押室的人"
+      "summary": "被看押的年轻乘客，因与异神教徒交易禁物而被关押，拥有古代博物学知识，能识别怪物习性。",
+      "appearance": [
+        "身穿斗篷，戴着遮帽",
+        "气清神秀，谪仙之表"
       ],
-      "mention_count": 16
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "船只中层一间单人羁押室内，盘膝坐着一个身穿斗篷，戴着遮帽的人，从阴影下方露出的脸庞上可以看出这是个年轻人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "船只中层一间单人羁押室内，盘膝坐着一个身穿斗篷，戴着遮帽的人，从阴影下方露出的脸庞上可以看出这是个年轻人",
-        "这是他在这段时间里摸索出来的诀窍，因为只有这样才更有效率",
-        "这是一首《夏风》"
+      "personality": [
+        "平静",
+        "自然"
       ],
-      "mention_count": 7
+      "abilities": [
+        "呼吸法修炼",
+        "能感知源能"
+      ],
+      "equipment": [
+        "朱红色手套"
+      ],
+      "relationships": [
+        {
+          "target": "老师",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大福号羁押室中，感知到源能，后因海怪事件出面解释原因。"
+        }
+      ],
+      "evidence": [
+        "张御听着脚步声走远，伸手拿起眼前的报纸",
+        "张御道：“我的专学是古代博物学，了解不少怪物的习性。”",
+        "他老师对他的评价是“气清神秀，谪仙之表”"
+      ],
+      "mention_count": 12
     },
     {
       "name": "石栋梁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-        "石栋梁拍了拍身前护卫队长的肩膀，示意后者让开",
-        "石栋梁也是忍不住打量了他好几眼，但他很快收敛了情绪，肃然道：“张少郎，你说你知道这头怪物找上我们的原因"
+      "aliases": [
+        "石船首"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
+      "identity": "大福号船长",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一章 大玄历二月初二",
-      "summary": "”    他并不是持续不断的做着这件事，而是每过一段时间就稍作停顿",
+      "summary": "大福号船长，负责指挥船只和处理危机。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "护卫队长",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赫连先生争论，后听从张御建议寻找夭螈幼崽。"
+        }
+      ],
       "evidence": [
-        "”    他并不是持续不断的做着这件事，而是每过一段时间就稍作停顿",
-        "”    “赫连先生，这是一头夭螈，是少见的灵性怪物，它的表面有一层灵性外衣，枪炮根本没用，只会将它激怒，我们现在需要做的不是对付它，而是找出它攻击我们的原因",
-        "夭螈在冲撞了一次大福号后，没有再进行类似的动作，但也没有离去，而是一直在船身四周游弋，不过能看得出来，它似乎越来越焦躁了"
+        "石栋梁拍了拍身前护卫队长的肩膀，示意后者让开。",
+        "石栋梁打出一个手势，阻止了两人的争论，沉声道：“先听张少郎把话说完。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "以至",
-      "aliases": [],
-      "identity": "",
+      "name": "赫连先生",
+      "aliases": [
+        "中年男子"
+      ],
+      "identity": "乘客，衣着剪裁合体",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一章 大玄历二月初二",
-      "summary": "每一次，新生的文明都会从废墟中崛起，再从兴盛走向毁灭，以至于大地上遍布着诸纪元的古代遗迹，到处充斥着各种各样的怪物和神明",
-      "appearance": [],
-      "personality": [],
+      "summary": "一位乘客，对海怪事件感到恐慌，催促处理水婴和幼崽。",
+      "appearance": [
+        "衣着剪裁合体"
+      ],
+      "personality": [
+        "紧张",
+        "急躁"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "每一次，新生的文明都会从废墟中崛起，再从兴盛走向毁灭，以至于大地上遍布着诸纪元的古代遗迹，到处充斥着各种各样的怪物和神明",
-        "据说天夏到来之初，遮天蔽日的浮空天城悬于高穹之巅，以至于当时已知世界的每一个角落都能望见"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与石栋梁争吵，后催促扔掉夭螈幼崽。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "中年男子一扭头，诧异道：“你是谁？”",
+        "中年男子大喜，他挥舞双手，催促道：“太好了，快，快把它扔到海里去！”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "天夏",
+      "name": "护卫队长",
       "aliases": [],
-      "identity": "",
+      "identity": "大福号护卫队长",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一章 大玄历二月初二",
-      "summary": "此世身为天夏人，他已经听过无数遍了",
+      "summary": "护卫队长，负责船上安全，是石栋梁的儿子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "积极",
+        "负责"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此世身为天夏人，他已经听过无数遍了",
-        "天夏降临了",
-        "据说天夏到来之初，遮天蔽日的浮空天城悬于高穹之巅，以至于当时已知世界的每一个角落都能望见"
+      "relationships": [
+        {
+          "target": "石栋梁",
+          "type": "父子"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "伸出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "他想了想，伸出手搭住了门板，轻轻一发力，咔吧一声，门栓就被顶断，伸出一手搭住门框，自羁押室里走了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他想了想，伸出手搭住了门板，轻轻一发力，咔吧一声，门栓就被顶断，伸出一手搭住门框，自羁押室里走了出来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领护卫队救助伤员，后奉命寻找夭螈幼崽。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "护卫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "他思考片刻，就朝着大福号最上层的楼台走了过去，护卫队正在一名队长的指挥下救助伤员，一时也没人顾得上他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他思考片刻，就朝着大福号最上层的楼台走了过去，护卫队正在一名队长的指挥下救助伤员，一时也没人顾得上他",
-        "”    一名护卫看了张御几眼，神情一紧，指着他道：“他，他好像是那个被关在羁押室的人",
-        "”    底下的护卫队长听到呼喊，反应很快，立刻带着一队人冲了上来，把张御团团包围住，一把把火铳也是指向了他"
+        "护卫队长道：“父亲，我去！”话音才落，人已经疾步往楼下冲去了。"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "护卫队",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "他思考片刻，就朝着大福号最上层的楼台走了过去，护卫队正在一名队长的指挥下救助伤员，一时也没人顾得上他",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他思考片刻，就朝着大福号最上层的楼台走了过去，护卫队正在一名队长的指挥下救助伤员，一时也没人顾得上他",
-        "”    底下的护卫队长听到呼喊，反应很快，立刻带着一队人冲了上来，把张御团团包围住，一把把火铳也是指向了他",
-        "石栋梁拍了拍身前护卫队长的肩膀，示意后者让开"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "中年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-        "”    中年男子一扭头，诧异道：“你是谁",
-        "”中年男子神色一慌，大喊道：“卫队，卫队"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "中年男",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-        "”    中年男子一扭头，诧异道：“你是谁",
-        "”中年男子神色一慌，大喊道：“卫队，卫队"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "中年男子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 大玄历二月初二",
-      "summary": "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "来到上方，他一眼望见船长石栋梁正在一个衣着剪裁合体的中年男子说话，看去在争吵着什么，旁边还有五六个妆容精致的女眷，此时正发出低低的抽泣声",
-        "”    中年男子一扭头，诧异道：“你是谁",
-        "”中年男子神色一慌，大喊道：“卫队，卫队"
-      ],
-      "mention_count": 5
+      "mention_count": 3
     }
   ]
 }

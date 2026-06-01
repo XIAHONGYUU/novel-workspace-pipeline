@@ -1,0 +1,207 @@
+{
+  "chunk_id": "chunk-1095",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "明王"
+      ],
+      "identity": "青云观道士",
+      "faction": "三阳会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青云观道士，带领三阳会众前往天王观拜访邵道师，后独自前往中皇山探查娲皇遗迹。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "八识心王",
+        "乘游劫运",
+        "钓取厉诡"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴文远",
+          "type": "下属"
+        },
+        {
+          "target": "秦横",
+          "type": "同伴"
+        },
+        {
+          "target": "柳飞烟",
+          "type": "赠予马铃铛"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天王观询问邵道师下落，得知其前往中皇山，随后独自前往中皇山。"
+        }
+      ],
+      "evidence": [
+        "苏午几人……从道观左边的小门里走进去",
+        "苏午拉住一个在回廊下翻阅经书的道士",
+        "苏午寻了一个僻静角落，当场沉入自身劫影之中"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "吴文远",
+      "aliases": [
+        "吴叔"
+      ],
+      "identity": "三阳会众",
+      "faction": "三阳会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "三阳会众，跟随苏午，负责接应黄稻会弟子及收集情报。",
+      "appearance": [],
+      "personality": [
+        "主动",
+        "忠诚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午一同前往天王观，后受命带领三阳会众投宿并接应秦横。"
+        }
+      ],
+      "evidence": [
+        "吴文远神色微愠",
+        "吴文远从苏午手中接过符咒",
+        "吴文远答应下来，带着几个三阳会弟子上了骡马车"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "长吉",
+      "aliases": [],
+      "identity": "天王观道士",
+      "faction": "天王观",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天王观中在回廊下翻阅经书的道士，被苏午用八识心王控制后透露了邵道师的行踪。",
+      "appearance": [],
+      "personality": [
+        "冷淡",
+        "直率"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邵道师",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天王观回廊下被苏午询问，告知邵道师前往中皇山临摹娲皇石刻。"
+        }
+      ],
+      "evidence": [
+        "那道士将他与身后的吴文远几人上下打量了一番",
+        "那道士合拢手中经卷，坐正了身子",
+        "长吉回道"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "邵道师",
+      "aliases": [
+        "邵道师"
+      ],
+      "identity": "天王观住持",
+      "faction": "天王观",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天王观住持，声名渐起，使道观香火鼎盛，目前前往中皇山临摹娲皇石刻。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "长吉",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往中皇山临摹娲皇石刻。"
+        }
+      ],
+      "evidence": [
+        "自邵道师继承道观住持之位，声名渐起以后",
+        "我师父去中皇山中，临摹石刻，探查遗迹去了"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "秦横",
+      "aliases": [],
+      "identity": "黄稻会弟子",
+      "faction": "黄稻会",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "黄稻会弟子，与苏午约定接应剩余的黄稻会弟子后前往郸城。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "未来",
+          "event": "预计在几日内到达郸城。"
+        }
+      ],
+      "evidence": [
+        "我与秦横约定过，待他接上剩余的黄稻会弟子以后，也会往郸城这边来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "柳飞烟",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午将马铃铛赠送给了她。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "受赠者"
+        }
+      ],
+      "evidence": [
+        "他将能唤出‘龙从马本’的马铃铛送给了柳飞烟"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

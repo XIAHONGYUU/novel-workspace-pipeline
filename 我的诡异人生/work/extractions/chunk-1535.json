@@ -1,0 +1,363 @@
+{
+  "chunk_id": "chunk-1535",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "太平道魁"
+      ],
+      "identity": "太平道魁首",
+      "faction": "太平道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "太平道魁首，试图吞服仙芝不死药以登仙，打开局面。",
+      "appearance": [
+        "遍布刑具裂痕的掌心"
+      ],
+      "personality": [
+        "冷静",
+        "果断",
+        "有谋略"
+      ],
+      "abilities": [
+        "天柱超脱相",
+        "完人之身"
+      ],
+      "equipment": [
+        "仙芝不死药"
+      ],
+      "relationships": [
+        {
+          "target": "燧皇",
+          "type": "盟友"
+        },
+        {
+          "target": "三清",
+          "type": "潜在合作对象"
+        },
+        {
+          "target": "仙",
+          "type": "敌对"
+        },
+        {
+          "target": "柳飞烟",
+          "type": "故旧"
+        },
+        {
+          "target": "丹加",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与燧皇商议吞服仙芝不死药，并计划与三清联手对抗仙。"
+        }
+      ],
+      "evidence": [
+        "苏午扫视帐中众类，缓缓开口道",
+        "苏午摇了摇头：“此中亦有燧祖尸骸的功劳。”",
+        "苏午忽然道：“三清应已化现入此方‘累卵天地’之中。”"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "燧皇",
+      "aliases": [
+        "燧祖"
+      ],
+      "identity": "远古皇者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "远古皇者，苏午的盟友，提供尸骸支撑天地。",
+      "appearance": [
+        "表情木然"
+      ],
+      "personality": [
+        "谨慎",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午讨论当前危局，并支持其计划。"
+        }
+      ],
+      "evidence": [
+        "燧皇看着苏午，首先出声道",
+        "燧祖表情木然",
+        "燧皇笑了起来，神色不再似先前一般木然"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "三清",
+      "aliases": [
+        "张修",
+        "张鲁",
+        "张盛"
+      ],
+      "identity": "天师道首领",
+      "faction": "天师道",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天师道的三位首领，苏午猜测其为三清化身，可能成为临时盟友。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "潜在合作对象"
+        },
+        {
+          "target": "仙",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "苏午猜测三清已化现入累卵天地，并计划与之联手。"
+        }
+      ],
+      "evidence": [
+        "三清应已化现入此方‘累卵天地’之中。",
+        "我猜测，三清即是张修、张鲁、张盛三者。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "仙",
+      "aliases": [],
+      "identity": "大天血液与元皇脑髓的融合体",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午的敌对者，试图阻止苏午登仙。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "天地主尊位"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "大天",
+          "type": "联手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "苏午计划引仙入局，与三清联手坑杀。"
+        }
+      ],
+      "evidence": [
+        "仙已然疑虑我掌握登仙之法",
+        "掌握‘天地主’尊位的仙，与从前根本不可同日而语"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "柳飞烟",
+      "aliases": [],
+      "identity": "苏午的故旧",
+      "faction": "太平道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的故旧，受天根缠绕，与‘大天’最接近，被选为服毒药的靶子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "故旧"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午指定为可能服毒药的人选。"
+        }
+      ],
+      "evidence": [
+        "你受天根缠绕而能活命，在今时众人里，与‘大天’最接近的那个人。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "丹加",
+      "aliases": [],
+      "identity": "苏午的追随者",
+      "faction": "太平道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的追随者，主动请缨服毒药。",
+      "appearance": [],
+      "personality": [
+        "勇敢"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主动请求服用毒药。"
+        }
+      ],
+      "evidence": [
+        "尊者，由我来服用这份毒药，或许更能抗御住此药的毒性呢？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "褚燕",
+      "aliases": [],
+      "identity": "太平道新弟子",
+      "faction": "太平道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "刚刚拜入太平道的新弟子，负责与张盛交接渠帅棺椁。",
+      "appearance": [
+        "拘谨地站在最末席，低头看着脚尖地面"
+      ],
+      "personality": [
+        "拘谨"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "首领"
+        },
+        {
+          "target": "张盛",
+          "type": "约定交接棺椁"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午询问与张盛的约定。"
+        }
+      ],
+      "evidence": [
+        "褚燕闻言一愣，旋而反应过来，连忙答道：“定在三日之后的原山山阴小道之中”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张角",
+      "aliases": [],
+      "identity": "太平道创始人之一",
+      "faction": "太平道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "太平道的重要人物，被苏午留下商议要事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与苏午的密议。"
+        }
+      ],
+      "evidence": [
+        "营帐之内，只剩下苏午、燧皇、张角、陶祖、柳飞烟、丹加、李珠儿、褚燕等人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陶祖",
+      "aliases": [],
+      "identity": "苏午的故旧",
+      "faction": "太平道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的故旧，有游山玩水之心，但关键时候留下。",
+      "appearance": [],
+      "personality": [
+        "喜好游山玩水"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "故旧"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "加入太平道，参与密议。"
+        }
+      ],
+      "evidence": [
+        "陶祖有游山玩水之心，但在这关键时候，总归没有犯浑"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李珠儿",
+      "aliases": [],
+      "identity": "苏午的故旧",
+      "faction": "太平道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的故旧，被留下商议要事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "故旧"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与密议。"
+        }
+      ],
+      "evidence": [
+        "营帐之内，只剩下苏午、燧皇、张角、陶祖、柳飞烟、丹加、李珠儿、褚燕等人"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,256 +1,412 @@
 {
   "chunk_id": "chunk-1431",
-  "title": "第九章 倾世亦了劫",
   "characters": [
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "姜道人",
+      "aliases": [
+        "姜役"
+      ],
+      "identity": "元夏使者，修习真法，道行较高，类似寄虚之境",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第九章 倾世亦了劫",
-      "summary": "两人从天中降下身形，走入了道宫之中，见这里并没有任何禁制布置，他们反而有些失望",
+      "summary": "元夏派往天夏的使者之一，道行高深，试图探查天夏情报，但因虚空邪神影响而受挫。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "谨慎",
+        "有野心",
+        "冷静"
+      ],
+      "abilities": [
+        "真法修行",
+        "元神出窍",
+        "描摹邪神"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "妘蕞",
+          "type": "同僚"
+        },
+        {
+          "target": "烛午江",
+          "type": "逆贼"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与妘蕞一同被困于天夏驻地，尝试探查外界混沌之气和描摹邪神，但均受挫。"
+        }
+      ],
       "evidence": [
-        "两人从天中降下身形，走入了道宫之中，见这里并没有任何禁制布置，他们反而有些失望",
-        "反正天夏没有说他们不能出去，他就可以试着一探，可是元神方到里面，忽然神情大变，因为感觉自身好像被牵引着向一个漩涡之中投入进去，而在此过程中，自己的忆识和功行似乎在不断的消逝",
-        "令他可惜的是，方才为了不被虚空邪神影响到，他们不得已将所有的造灵都是打灭了，故是下来的只能靠他们自己来辨别判断，并将这些见到的东西记下来了"
+        "姜道人道：“事已至此，不必抱怨了。”",
+        "姜道人想了想，道：“此世之人对我不可能完全放心...”",
+        "他闭上双目，一指点在地上，存神心中，想试着将邪神之形貌描摹了出来。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "妘蕞",
+      "aliases": [
+        "妘副使"
+      ],
+      "identity": "元夏副使，上境修士，具肉身",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九章 倾世亦了劫",
+      "summary": "元夏派往天夏的副使，与姜道人一同被困，尝试探查外界混沌之气时受伤。",
+      "appearance": [],
+      "personality": [
+        "急躁",
+        "易怒"
+      ],
+      "abilities": [
+        "元神出窍",
+        "斩断气机"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜道人",
+          "type": "同僚"
+        },
+        {
+          "target": "烛午江",
+          "type": "逆贼"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与姜道人一同被困，尝试以元神探查外界混沌之气，受伤后斩断牵连。"
+        }
+      ],
+      "evidence": [
+        "妘蕞冷笑道：“此辈为了不使我探看到具体事物，真是煞费苦心了。”",
+        "他吸了几口气，身上产生了某些变化，双目变成了蛇瞳...",
+        "妘蕞在他对面坐了下来，阴沉着脸道：“外间气机有古怪...”"
       ],
       "mention_count": 8
     },
     {
-      "name": "姜道人",
+      "name": "韦廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第九章 倾世亦了劫",
-      "summary": "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
+      "summary": "天夏廷执之一，负责监视元夏使者。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
-        "”    姜道人道：“事已至此，不必抱怨了",
-        "姜道人想了想，道：“此世之人对我不可能完全放心，肯定是寄希望外间那层遮掩上，妘副使，你到外面查看一下，看看到底是何物困阻了我"
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "陈禹",
+          "type": "首执"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风廷执一同离去，后与诸廷执观察姜道人和妘蕞。"
+        }
+      ],
+      "evidence": [
+        "韦廷执交代了一句过后，就留下二人，与风廷执一同转身离去了。",
+        "韦廷执道：“首执，那姜役道行稍高一些...”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "却是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "风廷执",
+      "aliases": [
+        "风道人"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第九章 倾世亦了劫",
-      "summary": "眼下所居之地表面看来倒是看着有山有水，日月高悬，风光无限，而且下方还有两座有流水环绕，修筑精巧别致的道宫，但是在此方地界之外，却是混沌一片，什么东西都看不到",
+      "summary": "天夏廷执之一，与韦廷执一同离去，后参与讨论。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "眼下所居之地表面看来倒是看着有山有水，日月高悬，风光无限，而且下方还有两座有流水环绕，修筑精巧别致的道宫，但是在此方地界之外，却是混沌一片，什么东西都看不到",
-        "可是深湛而稳固的修为，却是又将他的心神从偏移中扭转了回来，像是触动了什么，他猛然醒觉到了不对，神情一变，很快停下了自己的举动，而那些长须也是随之虚淡了下去，脑后的脸颊亦是消退",
-        "他下来却是不敢再随意尝试描摹邪神了"
+      "relationships": [
+        {
+          "target": "韦廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与韦廷执一同离去，后提议劝说元夏使者反正。"
+        }
+      ],
+      "evidence": [
+        "韦廷执交代了一句过后，就留下二人，与风廷执一同转身离去了。",
+        "风道人这时道：“首执，既如此，那我们不妨先从烛午江还有这两个元夏使者身上下手...”"
+      ],
+      "mention_count": 2
     },
     {
       "name": "陈禹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 倾世亦了劫",
-      "summary": "而也是通过这缕气机，陈禹和诸廷执将他们二人的一举一动都是看在眼里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而也是通过这缕气机，陈禹和诸廷执将他们二人的一举一动都是看在眼里",
-        "”    陈禹点头，这也正常，邪神的来源有很多假说，但是一般认为是受到了大混沌的影响",
-        "”    陈禹没有立时决断，他看向张御，道：“张廷执可有建言"
+      "aliases": [
+        "首执"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "首执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏首执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第九章 倾世亦了劫",
-      "summary": "韦廷执道：“首执，那姜役道行稍高一些，类似寄虚之境，所练的也是近乎真道之法，而那妘蕞与烛午江，虽然也算上境修士，但是仍具肉身，可气息较低，看着也是走得另一条路",
+      "summary": "天夏首执，主持对元夏使者的观察与决策。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "韦廷执道：“首执，那姜役道行稍高一些，类似寄虚之境，所练的也是近乎真道之法，而那妘蕞与烛午江，虽然也算上境修士，但是仍具肉身，可气息较低，看着也是走得另一条路",
-        "武倾墟则道：“首执，这两人对上虚空邪神时稍显有些狼狈，当是之前没有遇到过邪神之类的东西，所以也没有应付此类东西的经验",
-        "林廷执道：“首执，何时再与这两人接触"
+      "personality": [
+        "沉稳",
+        "有决断"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "妘蕞",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 倾世亦了劫",
-      "summary": "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
-        "妘蕞冷笑道：“此辈为了不使我探看到具体事物，真是煞费苦心了",
-        "”    妘蕞没有再说话"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "廷执"
+        },
+        {
+          "target": "韦廷执",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "姜道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 倾世亦了劫",
-      "summary": "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
-        "”    姜道人道：“事已至此，不必抱怨了",
-        "姜道人想了想，道：“此世之人对我不可能完全放心，肯定是寄希望外间那层遮掩上，妘副使，你到外面查看一下，看看到底是何物困阻了我"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与诸廷执观察姜道人和妘蕞，并听取建言。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "实际",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 倾世亦了劫",
-      "summary": "实际上只要出了此地，那就是一片晦乱混沌之气，若是不知彼端的具体去处，那根本无可能穿渡出去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "实际上只要出了此地，那就是一片晦乱混沌之气，若是不知彼端的具体去处，那根本无可能穿渡出去",
-        "”    两人在说话的时候，却是不知道上方有一缕清穹之气盘旋，实际上这整个地界都是掺杂有清穹之气开辟出来的"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 倾世亦了劫",
-      "summary": "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着两人身影没去混沌之气中，姜道人和妘蕞二人互相看了看，这才仔细打量起周围的情形来",
-        "两人从天中降下身形，走入了道宫之中，见这里并没有任何禁制布置，他们反而有些失望",
-        "”    两人在说话的时候，却是不知道上方有一缕清穹之气盘旋，实际上这整个地界都是掺杂有清穹之气开辟出来的"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "元神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 倾世亦了劫",
-      "summary": "他吸了几口气，身上产生了某些变化，双目变成了蛇瞳，身上光气一放，元神便从身躯之中放了出去，随后向混沌晦乱之气中冲入了进去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他吸了几口气，身上产生了某些变化，双目变成了蛇瞳，身上光气一放，元神便从身躯之中放了出去，随后向混沌晦乱之气中冲入了进去",
-        "反正天夏没有说他们不能出去，他就可以试着一探，可是元神方到里面，忽然神情大变，因为感觉自身好像被牵引着向一个漩涡之中投入进去，而在此过程中，自己的忆识和功行似乎在不断的消逝",
-        "他赶忙试着将元神收回来，可是他发现自己并无法做到这一点，元神好像被侵染了极重的承负，正在不断往下沉坠，这样下去用不了多久自身的功行和忆识恐怕就会被磨灭"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九章 倾世亦了劫",
-      "summary": "实际上只要出了此地，那就是一片晦乱混沌之气，若是不知彼端的具体去处，那根本无可能穿渡出去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "实际上只要出了此地，那就是一片晦乱混沌之气，若是不知彼端的具体去处，那根本无可能穿渡出去",
-        "当初元夏留下此辈就是为了侵略天外世域，若是当此辈得知我天夏就是最后一个世域，若我覆亡，那就是所有世域都被倾灭了，那么元夏还留着他们做什么呢",
-        "”    戴恭瀚则道：“首执，若是有我天夏东西能代替此辈的所服用的避劫丹丸，那这里或许可以加以利用"
+        "陈禹点头，这也正常，邪神的来源有很多假说...",
+        "陈禹没有立时决断，他看向张御，道：“张廷执可有建言？”",
+        "陈禹沉声道：“此辈之消亡乃是劫力加身...”"
       ],
       "mention_count": 4
     },
     {
-      "name": "本来",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第九章 倾世亦了劫",
-      "summary": "本来还以为能借机一窥天夏的布阵手段，没想到天夏并没有留下这些",
+      "summary": "天夏廷执，向首执陈禹提出关于元夏使者不知天夏是最后一个世域的见解。",
+      "appearance": [],
+      "personality": [
+        "敏锐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向陈禹指出元夏使者不知天夏是最后一个世域。"
+        }
+      ],
+      "evidence": [
+        "张御道：“方才交言之中，御发现了一事...”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "武倾墟",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九章 倾世亦了劫",
+      "summary": "天夏廷执，指出元夏使者对上虚空邪神时狼狈。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "本来还以为能借机一窥天夏的布阵手段，没想到天夏并没有留下这些",
-        "本来还以为能这次立下一个莫大功劳，得到上面的赏识，可烛午江之乱确实狠狠给了他一个重击"
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向陈禹报告元夏使者对邪神无经验。"
+        }
+      ],
+      "evidence": [
+        "武倾墟则道：“首执，这两人对上虚空邪神时稍显有些狼狈...”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "林廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九章 倾世亦了劫",
+      "summary": "天夏廷执，提议先磨一磨元夏使者的心气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议先不接触元夏使者，磨其心气。"
+        }
+      ],
+      "evidence": [
+        "林廷执道：“首执，此法可行。”",
+        "林廷执道：“首执，这两人心气十足...”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "钟廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九章 倾世亦了劫",
+      "summary": "天夏廷执，提议先磨一磨元夏使者的心气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议先不接触元夏使者，磨其心气。"
+        }
+      ],
+      "evidence": [
+        "钟廷执提议道：“首执，这两人心气十足...不如先把这两人放在那里，磨一磨他们的心气...”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九章 倾世亦了劫",
+      "summary": "天夏廷执，评论元夏使者的命运。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "评论元夏使者若天夏覆亡则被烹。"
+        }
+      ],
+      "evidence": [
+        "玉素道人冷哂道：“狡兔死，走狗烹。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戴恭瀚",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九章 倾世亦了劫",
+      "summary": "天夏廷执，提出利用天夏东西代替避劫丹丸的可能性。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提出若天夏东西能代替避劫丹丸则可利用元夏使者。"
+        }
+      ],
+      "evidence": [
+        "戴恭瀚则道：“首执，若是有我天夏东西能代替此辈的所服用的避劫丹丸，那这里或许可以加以利用。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "烛午江",
+      "aliases": [],
+      "identity": "元夏叛贼，上境修士",
+      "faction": "元夏（原）",
+      "status": "提及",
+      "first_appearance": "第九章 倾世亦了劫",
+      "summary": "元夏叛贼，导致姜道人和妘蕞行动受挫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜道人",
+          "type": "逆贼"
+        },
+        {
+          "target": "妘蕞",
+          "type": "逆贼"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为导致行动不顺利的原因。"
+        }
+      ],
+      "evidence": [
+        "妘蕞冷笑道：“此辈为了不使我探看到具体事物，真是煞费苦心了。都是烛午江这逆贼该死...”",
+        "烛午江的交代，乃是用法仪遮护，用避劫丹丸延后..."
+      ],
+      "mention_count": 3
     }
   ]
 }

@@ -1,253 +1,279 @@
 {
   "chunk_id": "chunk-0928",
-  "title": "第两百二十三章 心惘身落空",
   "characters": [
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "张御看着他道：“你是任殷平选中的弟子",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御看着他道：“你是任殷平选中的弟子",
-        "”    张御道：“你说你要归附元都派",
-        "过了一会儿，他抬头看去位于远端的张御的身影，心中已是有了一个想法"
-      ],
-      "mention_count": 16
-    },
     {
       "name": "苏盏",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上宸天修士，任殷平弟子",
+      "faction": "上宸天",
+      "status": "死亡",
       "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "第两百二十三章 心惘身落空    苏盏这番话说出来可没有任何不好意思",
+      "summary": "上宸天修士，赢冲的棋子，试图归附元都派未果，与张御交战，最终被张御的'诸恒常易'之术击杀。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百二十三章 心惘身落空    苏盏这番话说出来可没有任何不好意思",
-        "”    苏盏忙道：“是，在下苏盏，正是任师弟子啊",
-        "”    苏盏立刻改口道：“那我便愿意投……”可是话到此处，他却是忽然住口"
+      "abilities": [
+        "元都法门",
+        "虚身神通",
+        "驻命玄异"
       ],
-      "mention_count": 11
+      "equipment": [
+        "地星法器"
+      ],
+      "relationships": [
+        {
+          "target": "赢冲",
+          "type": "上级"
+        },
+        {
+          "target": "任殷平",
+          "type": "师父"
+        },
+        {
+          "target": "张御",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图归附元都派未果，与张御交战，被击杀。"
+        }
+      ],
+      "evidence": [
+        "苏盏忙道：'是，在下苏盏，正是任师弟子啊。'",
+        "他吸了一口气，在那里试着调和法力心神。",
+        "他抬起手来，惊恐地看着自己从手臂到手指正一块块掉落下来"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张守正"
+      ],
+      "identity": "天夏守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百二十三章 心惘身落空",
+      "summary": "天夏守正，击败苏盏，并向玄廷呈报战况。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "诸寰同昼",
+        "诸恒常易",
+        "目印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏盏",
+          "type": "对手"
+        },
+        {
+          "target": "瞻空道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击败苏盏，返回守正宫，向玄廷呈报。"
+        }
+      ],
+      "evidence": [
+        "张御看着他道：'你是任殷平选中的弟子？'",
+        "张御有目印在身，再加上自身神通感应",
+        "他心意一转，重新返回了上层守正宫中"
+      ],
+      "mention_count": 15
     },
     {
       "name": "赢冲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上宸天修士",
+      "faction": "上宸天",
+      "status": "已离开（在世之身被毁）",
       "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "虽然他还有许多苏氏族人，可不过都是一些凡人和低辈修士罢了，赢冲说是回去为他遮护，可这话能信多少呢",
+      "summary": "上宸天修士，谋划失败后离开，留下后手。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "算计深远"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然他还有许多苏氏族人，可不过都是一些凡人和低辈修士罢了，赢冲说是回去为他遮护，可这话能信多少呢",
-        "至于那些赢冲的弟子，他连半句也没提，这些弟子连赢冲自己都不在乎，他自然也没必要去理会",
-        "而此刻这些弟子也没法发出自己的声音，没了赢冲的法力遮护，他们自是经受不起玄尊气机的冲击，都是一个个躺倒在了地上，昏沉不醒"
+      "relationships": [
+        {
+          "target": "苏盏",
+          "type": "上级"
+        },
+        {
+          "target": "孤阳子",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "离开战场，留下符书给孤阳子。"
+        }
+      ],
+      "evidence": [
+        "赢冲说是回去为他遮护",
+        "赢冲还真是把一切算死了",
+        "赢冲这个人总是习惯留下后手的"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "也是",
+      "name": "瞻空道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元都派观治",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "也是如此，他方才说是愿意归附元都，而不是天夏，因为上宸天需要掌握元都玄图，故是唯有这个名头是不矛盾的",
+      "summary": "元都派观治，解释元都派并入天夏的原因。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "也是如此，他方才说是愿意归附元都，而不是天夏，因为上宸天需要掌握元都玄图，故是唯有这个名头是不矛盾的",
-        "而元都法门也是擅长做这一点",
-        "苏盏一见，自觉时机出现，立刻趁此机会一个挪转，霎时便突入到了内圈之中，虽然他感觉此举实在太过顺利，有点不不对劲，可箭在弦上，也是不得不发了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "苏盏",
+          "type": "同门（元都派）"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "最后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "他抬起手来，惊恐地看着自己从手臂到手指正一块块掉落下来，脱离出去的部分都是化为碎屑烟尘，再一缕缕飘散出去，最后化为虚无",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他抬起手来，惊恐地看着自己从手臂到手指正一块块掉落下来，脱离出去的部分都是化为碎屑烟尘，再一缕缕飘散出去，最后化为虚无",
-        "这个计划的可行性还是很大的，尤其是用不着与天夏磕个头破血流，这一定是能得到所有人的支持的，但没想到，最后还是功亏一篑",
-        "”    孤阳子微微叹息，最后点头道：“便就如此吧"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现并回答苏盏的问题，随后处理上宸天禁制。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "瞻空道人自虚空之中跨出",
+        "瞻空道人沉声道：'我之所以愿意并入天夏，乃是因为天夏是为人开道，而非为道弃人。'",
+        "瞻空道人看了看四周，见远端还有一些上宸天布置的禁制"
+      ],
+      "mention_count": 4
     },
     {
       "name": "孤阳子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上宸天高层",
+      "faction": "上宸天",
+      "status": "提及",
       "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "孤阳子得报之后，立刻命人去将赢冲事先留下的符书取拿了过来，他在看过后者整个谋划之后，也是可惜不已",
+      "summary": "上宸天高层，得知赢冲失败后决定召回寰阳派。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "孤阳子得报之后，立刻命人去将赢冲事先留下的符书取拿了过来，他在看过后者整个谋划之后，也是可惜不已",
-        "”    孤阳子微微叹息，最后点头道：“便就如此吧",
-        "孤阳子缓缓道：“灵都道友那边当由我来去说，这是我们最后一个可行之策了，只寰阳派也不是那么好相与的，这一次……我们总要心往一处使才好"
+      "relationships": [
+        {
+          "target": "赢冲",
+          "type": "同僚"
+        },
+        {
+          "target": "天鸿道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "也是如此，他方才说是愿意归附元都，而不是天夏，因为上宸天需要掌握元都玄图，故是唯有这个名头是不矛盾的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到失败消息，决定召回寰阳派。"
+        }
+      ],
       "evidence": [
-        "也是如此，他方才说是愿意归附元都，而不是天夏，因为上宸天需要掌握元都玄图，故是唯有这个名头是不矛盾的",
-        "张御目光平静的看着他，他方才并非只用了“诸寰同昼”，而是一上来便用了“诸恒常易”之术"
+        "孤阳子得报之后，立刻命人去将赢冲事先留下的符书取拿了过来",
+        "孤阳子叹息道：'赢冲道友这条计策不成，我上宸天当真是错过了一次大好良机。'",
+        "孤阳子缓缓道：'灵都道友那边当由我来去说'"
       ],
       "mention_count": 5
     },
     {
-      "name": "他看",
+      "name": "天鸿道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上宸天修士",
+      "faction": "上宸天",
+      "status": "提及",
       "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "他看着自己身躯一截截碎裂，也是苦笑不已，他看了看张御，忽然道：“我能问张守正一个问题么",
+      "summary": "上宸天修士，主张召回寰阳派。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看着自己身躯一截截碎裂，也是苦笑不已，他看了看张御，忽然道：“我能问张守正一个问题么"
+      "relationships": [
+        {
+          "target": "孤阳子",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "建议召回寰阳派，并准备执行。"
+        }
+      ],
+      "evidence": [
+        "天鸿道人则道：'再好的计策也未成功，那也不用去多想，此事不成，那还是按我先前计较来做，将寰阳派召回就是'",
+        "天鸿道人道：'这是自然，只点时日我们还是等得起的。'"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "虽然",
+      "name": "任殷平",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元都派修士，苏盏的师父",
+      "faction": "元都派（已并入天夏）",
+      "status": "提及",
       "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "虽然他还有许多苏氏族人，可不过都是一些凡人和低辈修士罢了，赢冲说是回去为他遮护，可这话能信多少呢",
+      "summary": "苏盏的师父，已故或不在场。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "苏盏",
+          "type": "师父"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "虽然他还有许多苏氏族人，可不过都是一些凡人和低辈修士罢了，赢冲说是回去为他遮护，可这话能信多少呢",
-        "苏盏一见，自觉时机出现，立刻趁此机会一个挪转，霎时便突入到了内圈之中，虽然他感觉此举实在太过顺利，有点不不对劲，可箭在弦上，也是不得不发了",
-        "而此刻虽然醒悟过来，但却已是来不及了"
+        "苏盏忙道：'是，在下苏盏，正是任师弟子啊。'"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "他抬",
+      "name": "卢星介",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上宸天派驻天夏的使者",
+      "faction": "上宸天",
+      "status": "提及",
       "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "过了一会儿，他抬头看去位于远端的张御的身影，心中已是有了一个想法",
+      "summary": "上宸天使者，负责传递消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "过了一会儿，他抬头看去位于远端的张御的身影，心中已是有了一个想法",
-        "他抬起手来，惊恐地看着自己从手臂到手指正一块块掉落下来，脱离出去的部分都是化为碎屑烟尘，再一缕缕飘散出去，最后化为虚无"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将赢冲失败的消息回报给上宸天。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "再加",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "张御有目印在身，再加上自身神通感应，通常不是异常高明的道法神通，他一眼便能看出端倪，似苏盏这等手段，他立刻便就洞悉了其中变化",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "张御有目印在身，再加上自身神通感应，通常不是异常高明的道法神通，他一眼便能看出端倪，似苏盏这等手段，他立刻便就洞悉了其中变化",
-        "因为天机被搅乱，再加上当日参与夺取谋划之人都被诛灭，而赢冲为了安稳起见，也没有动用训天道章传讯，这便导致其人失败的消息并没有能第一时间传回去"
+        "还是数天之后，派驻在天夏的使者卢星介得了天夏通传，这才是将此事返报给了上宸天。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "瞻空",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十三章 心惘身落空",
-      "summary": "”    瞻空道人自虚空之中跨出，出现在了距离苏盏不远处的地方，他沉声道：“我之所以愿意并入天夏，乃是因为天夏是为人开道，而非为道弃人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    瞻空道人自虚空之中跨出，出现在了距离苏盏不远处的地方，他沉声道：“我之所以愿意并入天夏，乃是因为天夏是为人开道，而非为道弃人",
-        "”    瞻空道人叹道：“道理是简单，可万古以来，诸界众生，能够真正做到的，又有多少呢",
-        "瞻空道人默默叹息一声，元都派道法修行不易，寻常弟子可谓千挑百选，苏盏能修到这等境地算是天纵奇才了，而且方才使用神通时也是可圈可点，可他也知，对方从始至终与己非是一路，那便只能任其灭去了"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

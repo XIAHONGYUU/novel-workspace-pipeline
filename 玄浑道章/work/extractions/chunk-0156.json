@@ -1,257 +1,360 @@
 {
   "chunk_id": "chunk-0156",
-  "title": "第一百五十三章 传信",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张君",
+        "张士君"
+      ],
+      "identity": "天夏之士，玄修",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百五十三章 传信",
-      "summary": "张御从大议堂回到宿处之后，就开始每日例行的呼吸吐纳，随着他的气息流转，戴在手上的那双朱色手套也是微微泛起了光亮",
+      "summary": "天夏玄修，曾斗败神尉军军候，参与士议，受余、况二公委托留意神尉军。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "呼吸吐纳",
+        "祭炼手套"
+      ],
+      "equipment": [
+        "朱色手套"
+      ],
+      "relationships": [
+        {
+          "target": "余公",
+          "type": "受托者"
+        },
+        {
+          "target": "况公",
+          "type": "受托者"
+        },
+        {
+          "target": "辛瑶",
+          "type": "同僚"
+        },
+        {
+          "target": "李青禾",
+          "type": "仆从"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "从大议堂回宿处，每日呼吸吐纳，祭炼手套。"
+        },
+        {
+          "stage": "士议结束",
+          "event": "与余、况二公在安庐居顶楼会谈，受托留意神尉军。"
+        },
+        {
+          "stage": "士议后",
+          "event": "回居处，收到辛瑶书信，决定去往海上。"
+        }
+      ],
+      "evidence": [
+        "张御从大议堂回到宿处之后，就开始每日例行的呼吸吐纳",
+        "张御抬袖而起，双手一合，回言道：'两位长者，御不能说定然能做到什么，但会尽力而为的。'",
+        "张御点了点头，让李青禾把那封书信拿来，打开看了一下。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "年轻文吏",
+      "aliases": [],
+      "identity": "治署文吏",
+      "faction": "都护府",
+      "status": "登场",
+      "first_appearance": "第一百五十三章 传信",
+      "summary": "向张御递送关于劫囚事件的报书。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "叩门向张御递送报书。"
+        }
+      ],
+      "evidence": [
+        "外面有人轻轻叩门，并问道：'张君可是在么？'",
+        "那年轻文吏对他一揖，道：'张君，昨日有人试图把燕叙伦劫走，不过来人未能成功，嗯，过程已是拟成报书，还请张君过目。'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "燕叙伦",
+      "aliases": [],
+      "identity": "被关押者",
+      "faction": "",
+      "status": "被提及",
+      "first_appearance": "第一百五十三章 传信",
+      "summary": "被关押的人，有人试图劫走他但未成功。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御从大议堂回到宿处之后，就开始每日例行的呼吸吐纳，随着他的气息流转，戴在手上的那双朱色手套也是微微泛起了光亮",
-        "”    张御睁开眼，他自内室走了出来，把门一开，见是一名年轻文吏站在那里，便问道：“什么事",
-        "张御接了过来，谢过一声，年轻文吏忙称道无碍，再是一礼，便就立刻去了"
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "有人试图劫走燕叙伦，但未成功。"
+        }
       ],
-      "mention_count": 18
+      "evidence": [
+        "昨日有人试图把燕叙伦劫走，不过来人未能成功"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "柳奉全",
+      "aliases": [
+        "署公"
+      ],
+      "identity": "都护府署公",
+      "faction": "都护府",
+      "status": "登场",
+      "first_appearance": "第一百五十三章 传信",
+      "summary": "代都府宣布士议结束，被余公评价为没有担当但能维持平稳。",
+      "appearance": [],
+      "personality": [
+        "没有担当"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "士议结束",
+          "event": "宣布士议结束，和各衙署主吏离去。"
+        }
+      ],
+      "evidence": [
+        "署公柳奉全在代都府宣布士议结束之后，就和各衙署主吏带着疲惫之色离去",
+        "如今的署公的柳奉全，不能说庸碌，但是没有什么担当"
+      ],
+      "mention_count": 2
     },
     {
       "name": "余公",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 传信",
-      "summary": "待三人都是坐定后，余公言道：“张君，今日之后，我和况老儿便会回到外海诸岛上，只是在临行之时，我很是担忧一件事，只能拜托你多多留意了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "待三人都是坐定后，余公言道：“张君，今日之后，我和况老儿便会回到外海诸岛上，只是在临行之时，我很是担忧一件事，只能拜托你多多留意了",
-        "”    张御道：“余公请言",
-        "”    余公抚须道：“如今的署公的柳奉全，不能说庸碌，但是没有什么担当，都府若是处在安和年景，各署司各安其职，军兵一心护民，那么他是能将局面平稳的维持下去的，可是如今这情形……”    说话之间，他摇了摇头"
+      "aliases": [
+        "余老儿"
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "况公",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏老臣",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百五十三章 传信",
-      "summary": "况公这时插言道：“余老儿说话就是喜欢遮遮掩掩，一点也不爽利，张君，我相信你也能看出来，而今都护府乱象渐显，这根源就在那神尉军身上",
+      "summary": "与况公一起请张御留下，委托其留意神尉军，来自天夏本土。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "有远见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "委托者"
+        },
+        {
+          "target": "况公",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议结束",
+          "event": "与况公一起请张御留下，在安庐居顶楼会谈。"
+        }
+      ],
       "evidence": [
-        "况公这时插言道：“余老儿说话就是喜欢遮遮掩掩，一点也不爽利，张君，我相信你也能看出来，而今都护府乱象渐显，这根源就在那神尉军身上",
-        "况公神情严肃道：“神尉军这次的表现很不正常，以我们对神尉军很了解，他们就是一群豺狼，现在接连打压之下，其等居然没有什么反抗，豺狼什么时候变得如此温顺了",
-        "”    况公道：“这个年轻人应该有一个厉害的长辈"
+        "余公言道：'张君，今日之后，我和况老儿便会回到外海诸岛上'",
+        "余公抚须道：'如今的署公的柳奉全，不能说庸碌，但是没有什么担当'"
       ],
       "mention_count": 10
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "况公",
+      "aliases": [
+        "况老儿"
+      ],
+      "identity": "天夏老臣",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百五十三章 传信",
-      "summary": "只是里面有一个比较引人注意的地方，这些劫囚的人最后全都变成了一种难以形容的东西",
+      "summary": "与余公一起请张御留下，委托其留意神尉军，来自天夏本土。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "敏锐"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是里面有一个比较引人注意的地方，这些劫囚的人最后全都变成了一种难以形容的东西",
-        "那是一个人形物体，乍一眼看去，就好像是一张干瘪下去的皮，只是表面有着树皮一般的节理，看着让人很是不适",
-        "在场之人并没有能分辨出这是什么，只是暂且归类于某种灵性力量的运用"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "委托者"
+        },
+        {
+          "target": "余公",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "士议结束",
+          "event": "与余公一起请张御留下，在安庐居顶楼会谈。"
+        }
+      ],
+      "evidence": [
+        "况公这时插言道：'余老儿说话就是喜欢遮遮掩掩，一点也不爽利'",
+        "况公沉声道：'我们都是将近一百二十岁的人了'"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "这东西",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "辛瑶",
+      "aliases": [
+        "辛师教"
+      ],
+      "identity": "学宫师教",
+      "faction": "学宫",
+      "status": "被提及",
       "first_appearance": "第一百五十三章 传信",
-      "summary": "他从报书后面抽出一副图画，里面很清晰的把这东西呈现了出来",
+      "summary": "张御的同僚，代为处理训教事务，并送来关于未加入玄府但有修玄天资学子的书信。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他从报书后面抽出一副图画，里面很清晰的把这东西呈现了出来",
-        "如果没错的话，这东西应该是树尸",
-        "这东西放在数百年前并不稀奇，许多土著部落会将自己族人尸体处理过后，埋在一种叫喀喀树的树洞里，部落祭祀通过一定的仪式让其吸收树上的灵性，然后就可让其“复活”过来，变成部落的忠诚守卫"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "代为处理训教事务。"
+        },
+        {
+          "stage": "士议后",
+          "event": "送来书信，列出未加入玄府但有修玄天资的学子。"
+        }
+      ],
+      "evidence": [
+        "由于他之前在参加士议，所以训教这个事情只能交由辛瑶代为处理",
+        "昨日有一封辛师教送来的书信"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "张君",
-      "aliases": [],
-      "identity": "",
+      "name": "李青禾",
+      "aliases": [
+        "青禾"
+      ],
+      "identity": "张御的仆从",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百五十三章 传信",
-      "summary": "许久之后，外面有人轻轻叩门，并问道：“张君可是在么",
+      "summary": "张御的仆从，负责照料居处和传递书信。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "许久之后，外面有人轻轻叩门，并问道：“张君可是在么",
-        "”    那年轻文吏对他一揖，道：“张君，昨日有人试图把燕叙伦劫走，不过来人未能成功，嗯，过程已是拟成报书，还请张君过目",
-        "待三人都是坐定后，余公言道：“张君，今日之后，我和况老儿便会回到外海诸岛上，只是在临行之时，我很是担忧一件事，只能拜托你多多留意了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "士议后",
+          "event": "向张御汇报严少郎来访和辛瑶书信。"
+        }
+      ],
+      "evidence": [
+        "李青禾道：'先生，昨日有一封辛师教送来的书信，青禾摆在先生的书房里了。'"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "昨日",
+      "name": "妙丹君",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的宠物猫",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百五十三章 传信",
-      "summary": "”    那年轻文吏对他一揖，道：“张君，昨日有人试图把燕叙伦劫走，不过来人未能成功，嗯，过程已是拟成报书，还请张君过目",
-      "appearance": [],
-      "personality": [],
+      "summary": "张御养的猫，金色皮毛，喜欢围着张御打转。",
+      "appearance": [
+        "金色皮毛"
+      ],
+      "personality": [
+        "黏人"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那年轻文吏对他一揖，道：“张君，昨日有人试图把燕叙伦劫走，不过来人未能成功，嗯，过程已是拟成报书，还请张君过目",
-        "事情经过并不复杂，昨日大约夜半时分，有九个人试图闯进来解救燕叙伦",
-        "”    李青禾道：“先生，昨日有一封辛师教送来的书信，青禾摆在先生的书房里了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "士议后",
+          "event": "从居处窜出迎接张御，跳到他膝盖上。"
+        }
+      ],
+      "evidence": [
+        "喵的一声稚嫩叫声传来，妙丹君从居处里窜出来，围着他直打转",
+        "他伸出手在妙丹君柔弱的金色皮毛上轻抚了几下"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "打开",
+      "name": "严少郎",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的访客",
       "faction": "",
-      "status": "登场",
+      "status": "被提及",
       "first_appearance": "第一百五十三章 传信",
-      "summary": "他合上门，来至里间坐下，打开报书看了看",
+      "summary": "曾多次来访，给妙丹君带丹药。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他合上门，来至里间坐下，打开报书看了看",
-        "”    张御点了点头，让李青禾把那封书信拿来，打开看了一下"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "访客"
+        },
+        {
+          "target": "妙丹君",
+          "type": "投喂者"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这东",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 传信",
-      "summary": "他从报书后面抽出一副图画，里面很清晰的把这东西呈现了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他从报书后面抽出一副图画，里面很清晰的把这东西呈现了出来",
-        "如果没错的话，这东西应该是树尸",
-        "这东西放在数百年前并不稀奇，许多土著部落会将自己族人尸体处理过后，埋在一种叫喀喀树的树洞里，部落祭祀通过一定的仪式让其吸收树上的灵性，然后就可让其“复活”过来，变成部落的忠诚守卫"
+        "就严少郎来过几次，每次都给妙丹君带了一些丹药来"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 传信",
-      "summary": "况公神情严肃道：“神尉军这次的表现很不正常，以我们对神尉军很了解，他们就是一群豺狼，现在接连打压之下，其等居然没有什么反抗，豺狼什么时候变得如此温顺了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "况公神情严肃道：“神尉军这次的表现很不正常，以我们对神尉军很了解，他们就是一群豺狼，现在接连打压之下，其等居然没有什么反抗，豺狼什么时候变得如此温顺了",
-        "”    余公看着张御，诚恳言道：“我们这些老家伙除了些许名望和这把老骨头，已经做不成什么事了，而张君你既是夏士，又是能一名斗败神尉军军候的玄修，所以我们下来只能拜托你多盯着神尉军了，若有什么需要，张君可托安巡会给我们来书，我们会全力支持你",
-        "”    况公沉声道：“我们都是将近一百二十岁的人了，以往那些年轻人，凡是深受天夏礼乐熏陶的，在遇到我们后，那多多少少都会向我们发问，天夏本土是如何模样的，很少有例外，可是这个年轻人却是丝毫没有提及"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "况老",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 传信",
-      "summary": "待三人都是坐定后，余公言道：“张君，今日之后，我和况老儿便会回到外海诸岛上，只是在临行之时，我很是担忧一件事，只能拜托你多多留意了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "待三人都是坐定后，余公言道：“张君，今日之后，我和况老儿便会回到外海诸岛上，只是在临行之时，我很是担忧一件事，只能拜托你多多留意了",
-        "余公在他离去后，问道：“况老儿，你对这位张士君怎么看",
-        "”    余公撇他一眼，口中道：“况老儿，这还用得着你来说么"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "况老儿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 传信",
-      "summary": "待三人都是坐定后，余公言道：“张君，今日之后，我和况老儿便会回到外海诸岛上，只是在临行之时，我很是担忧一件事，只能拜托你多多留意了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "待三人都是坐定后，余公言道：“张君，今日之后，我和况老儿便会回到外海诸岛上，只是在临行之时，我很是担忧一件事，只能拜托你多多留意了",
-        "余公在他离去后，问道：“况老儿，你对这位张士君怎么看",
-        "”    余公撇他一眼，口中道：“况老儿，这还用得着你来说么"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

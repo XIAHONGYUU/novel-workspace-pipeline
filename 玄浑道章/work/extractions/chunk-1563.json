@@ -1,258 +1,384 @@
 {
   "chunk_id": "chunk-1563",
-  "title": "第一百四十一章 入域心染尘",
   "characters": [
     {
-      "name": "邹司议",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "陈首执",
+      "aliases": [
+        "陈首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "”    位于阵中的元夏巨舟之内，邹司议忽然睁开了双目，因为他发现，身上及舟内的秽恶正在如退潮一般消退下去",
+      "summary": "天夏方面的首执，负责决策虚空世域事务。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "戴廷执",
+          "type": "下属"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "韦廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察虚空世域战况，决定由戴廷执全权决断。"
+        }
+      ],
       "evidence": [
-        "”    位于阵中的元夏巨舟之内，邹司议忽然睁开了双目，因为他发现，身上及舟内的秽恶正在如退潮一般消退下去",
-        "正在他寻思脱身之策的时候，一个声音传来道：“邹司议",
-        "”    邹司议心下一凛，因为他听出这是卫司议的声音，可是经历了方才之事，现在他却是对声音主人充满疑虑，因此没作回应"
+        "陈首执等人对于虚空世域那里的情况看得清清楚楚",
+        "陈首执沉声道：“既然将那处交托给戴廷执，那么一切就由他来决断。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [
+        "戴廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百四十一章 入域心染尘",
+      "summary": "天夏廷执，负责虚空世域阵法，采取不撤阵的冒险策略。",
+      "appearance": [],
+      "personality": [
+        "果敢",
+        "冒险"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在阵台上指挥，决定不撤阵，任由元夏巨舟嵌入。"
+        }
+      ],
+      "evidence": [
+        "见戴廷执那边并没有将阵法收敛",
+        "戴廷执在阵台上看到此辈发动攻势了"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林廷执",
+      "aliases": [
+        "林廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百四十一章 入域心染尘",
+      "summary": "天夏廷执，对戴廷执的冒险策略表示担忧。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "感叹戴廷执可能已做好放弃虚空世域的打算。"
+        }
+      ],
+      "evidence": [
+        "林廷执叹道：“戴廷执当已是做好了放弃虚空世域的准备了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [
+        "韦廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百四十一章 入域心染尘",
+      "summary": "天夏廷执，质疑戴廷执的冒险行为。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问陈首执戴廷执是否过于行险。"
+        }
+      ],
+      "evidence": [
+        "韦廷执道：“首执，戴廷执此举是否太过于行险了？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "丰神常",
+      "aliases": [
+        "丰神常"
+      ],
+      "identity": "元夏修士",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第一百四十一章 入域心染尘",
+      "summary": "元夏修士，与岳清泽一同将元夏巨舟推入天夏阵中。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "犹豫"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岳清泽",
+          "type": "同伴"
+        },
+        {
+          "target": "邹司议",
+          "type": "同僚"
+        },
+        {
+          "target": "卫司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与岳清泽将元夏巨舟推入天夏阵中，并讨论解救两位司议的时机。"
+        }
+      ],
+      "evidence": [
+        "丰神常和岳清泽二人虽然把元夏巨舟推至界中",
+        "丰神常道：“道友，既然现在那里被阵法遮蔽了邪秽，我等什么时候去救那两位司议。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "岳清泽",
+      "aliases": [
+        "岳清泽"
+      ],
+      "identity": "元夏修士",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第一百四十一章 入域心染尘",
+      "summary": "元夏修士，与丰神常一同行动，主张暂缓救援两位司议。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "有主见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丰神常",
+          "type": "同伴"
+        },
+        {
+          "target": "邹司议",
+          "type": "同僚"
+        },
+        {
+          "target": "卫司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与丰神常将元夏巨舟推入天夏阵中，并决定暂缓救援两位司议。"
+        }
+      ],
+      "evidence": [
+        "岳清泽却是无所谓道：“不管怎么说，那秽毒算是解除了”",
+        "岳清泽道：“道友，此事不急，现在里间之人还未完全醒觉”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "凌成明",
+      "aliases": [
+        "凌司议",
+        "凌成明"
+      ],
+      "identity": "元夏下殿司议，求全道法之人",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第一百四十一章 入域心染尘",
+      "summary": "元夏下殿司议，负责后方支援和镇道之宝的调用，对岳清泽和丰神常的举动不满。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "不满"
+      ],
+      "abilities": [
+        "求全道法"
+      ],
+      "equipment": [
+        "阵器道袍",
+        "长玉符"
+      ],
+      "relationships": [
+        {
+          "target": "邹司议",
+          "type": "同僚"
+        },
+        {
+          "target": "卫司议",
+          "type": "同僚"
+        },
+        {
+          "target": "岳清泽",
+          "type": "同僚"
+        },
+        {
+          "target": "丰神常",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过阵器观察天夏域内动静，对岳清泽和丰神常的举动不满，并催促壑界方向进攻。"
+        }
+      ],
+      "evidence": [
+        "下殿司议凌成明一身玄金色的阵器道袍，手捧长玉符，目光幽深",
+        "他方才也是看到了岳、丰二人之所为，不由对此举动很是不满"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "邹司议",
+      "aliases": [
+        "邹司议"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第一百四十一章 入域心染尘",
+      "summary": "元夏司议，被岳清泽和丰神常推入天夏阵中，摆脱邪秽后与卫司议会合，计划撤退。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "恼怒"
+      ],
+      "abilities": [],
+      "equipment": [
+        "阵器"
+      ],
+      "relationships": [
+        {
+          "target": "卫司议",
+          "type": "同僚"
+        },
+        {
+          "target": "岳清泽",
+          "type": "同僚"
+        },
+        {
+          "target": "丰神常",
+          "type": "同僚"
+        },
+        {
+          "target": "凌成明",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元夏巨舟中醒来，发现被推入天夏阵中，与卫司议会合后决定先攻后撤。"
+        }
+      ],
+      "evidence": [
+        "邹司议忽然睁开了双目，因为他发现，身上及舟内的秽恶正在如退潮一般消退下去。",
+        "邹司议略作沉吟，点头道：“这话有理。后面接应的凌司议也当不会坐视不理，只要找到机会，我们便往外撤走。”"
       ],
       "mention_count": 12
     },
     {
-      "name": "戴廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "第一百四十一章 入域心染尘    陈首执等人对于虚空世域那里的情况看得清清楚楚，见戴廷执那边并没有将阵法收敛，哪怕不用训天道章通传，也是明白了戴廷执的用意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百四十一章 入域心染尘    陈首执等人对于虚空世域那里的情况看得清清楚楚，见戴廷执那边并没有将阵法收敛，哪怕不用训天道章通传，也是明白了戴廷执的用意",
-        "林廷执叹道：“戴廷执当已是做好了放弃虚空世域的准备了",
-        "”    韦廷执道：“首执，戴廷执此举是否太过于行险了"
-      ],
-      "mention_count": 10
-    },
-    {
-      "name": "邹司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "”    位于阵中的元夏巨舟之内，邹司议忽然睁开了双目，因为他发现，身上及舟内的秽恶正在如退潮一般消退下去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    位于阵中的元夏巨舟之内，邹司议忽然睁开了双目，因为他发现，身上及舟内的秽恶正在如退潮一般消退下去",
-        "正在他寻思脱身之策的时候，一个声音传来道：“邹司议",
-        "”    邹司议心下一凛，因为他听出这是卫司议的声音，可是经历了方才之事，现在他却是对声音主人充满疑虑，因此没作回应"
-      ],
-      "mention_count": 9
-    },
-    {
-      "name": "戴廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "第一百四十一章 入域心染尘    陈首执等人对于虚空世域那里的情况看得清清楚楚，见戴廷执那边并没有将阵法收敛，哪怕不用训天道章通传，也是明白了戴廷执的用意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百四十一章 入域心染尘    陈首执等人对于虚空世域那里的情况看得清清楚楚，见戴廷执那边并没有将阵法收敛，哪怕不用训天道章通传，也是明白了戴廷执的用意",
-        "林廷执叹道：“戴廷执当已是做好了放弃虚空世域的准备了",
-        "”    韦廷执道：“首执，戴廷执此举是否太过于行险了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "丰神常",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "丰神常和岳清泽二人虽然把元夏巨舟推至界中，可是他们自身却是留在界外，此刻他们看着下方虚空世域，见虽遭元夏巨舟嵌入，可是阵法与之比起来根本没有变化，既不撤也不动，摆出了一副任凭攻袭的模样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "丰神常和岳清泽二人虽然把元夏巨舟推至界中，可是他们自身却是留在界外，此刻他们看着下方虚空世域，见虽遭元夏巨舟嵌入，可是阵法与之比起来根本没有变化，既不撤也不动，摆出了一副任凭攻袭的模样",
-        "丰神常琢磨道：“天夏那边打什么主意",
-        "”丰神常摇了摇头，道：“这两位不要怨我等，便算不错了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "难道不怕我们送渡入镇道之宝",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "难道不怕我们送渡入镇道之宝",
-        "”    岳清泽却是无所谓道：“不管怎么说，那秽毒算是解除了，我等目的也是达到了了，只看两位司议能否领会我们的好意了",
-        "我们又急个什么"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "丰神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "丰神常和岳清泽二人虽然把元夏巨舟推至界中，可是他们自身却是留在界外，此刻他们看着下方虚空世域，见虽遭元夏巨舟嵌入，可是阵法与之比起来根本没有变化，既不撤也不动，摆出了一副任凭攻袭的模样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "丰神常和岳清泽二人虽然把元夏巨舟推至界中，可是他们自身却是留在界外，此刻他们看着下方虚空世域，见虽遭元夏巨舟嵌入，可是阵法与之比起来根本没有变化，既不撤也不动，摆出了一副任凭攻袭的模样",
-        "丰神常琢磨道：“天夏那边打什么主意",
-        "”丰神常摇了摇头，道：“这两位不要怨我等，便算不错了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "”    元夏若是真的动用镇道之宝，导致那一处虚空世域被攻破，可是他们还有元都玄图，倒也不怕人撤不出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    元夏若是真的动用镇道之宝，导致那一处虚空世域被攻破，可是他们还有元都玄图，倒也不怕人撤不出来",
-        "丰神常和岳清泽二人虽然把元夏巨舟推至界中，可是他们自身却是留在界外，此刻他们看着下方虚空世域，见虽遭元夏巨舟嵌入，可是阵法与之比起来根本没有变化，既不撤也不动，摆出了一副任凭攻袭的模样",
-        "”    岳清泽笑了一笑，道：“稍候你我若将人解救了出来，他们却是谢我也来不及"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "卫司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "”    邹司议心下一凛，因为他听出这是卫司议的声音，可是经历了方才之事，现在他却是对声音主人充满疑虑，因此没作回应",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    邹司议心下一凛，因为他听出这是卫司议的声音，可是经历了方才之事，现在他却是对声音主人充满疑虑，因此没作回应",
-        "卫司议好像是看出了他的顾虑，他道：“邹司议，我非邪秽，你听我言说，我有办法证实自身",
-        "且卫司议说话极有条理，并不是如邪祟那样透着一股诡异，便道：“果然卫司议"
-      ],
-      "mention_count": 6
-    },
-    {
       "name": "卫司议",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "卫司议"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "”    邹司议心下一凛，因为他听出这是卫司议的声音，可是经历了方才之事，现在他却是对声音主人充满疑虑，因此没作回应",
+      "summary": "元夏司议，与邹司议一同被困天夏阵中，主张先攻后撤。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "有策略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    邹司议心下一凛，因为他听出这是卫司议的声音，可是经历了方才之事，现在他却是对声音主人充满疑虑，因此没作回应",
-        "卫司议好像是看出了他的顾虑，他道：“邹司议，我非邪秽，你听我言说，我有办法证实自身",
-        "且卫司议说话极有条理，并不是如邪祟那样透着一股诡异，便道：“果然卫司议"
+      "relationships": [
+        {
+          "target": "邹司议",
+          "type": "同僚"
+        },
+        {
+          "target": "岳清泽",
+          "type": "同僚"
+        },
+        {
+          "target": "丰神常",
+          "type": "同僚"
+        },
+        {
+          "target": "凌成明",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "也是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "第一百四十一章 入域心染尘    陈首执等人对于虚空世域那里的情况看得清清楚楚，见戴廷执那边并没有将阵法收敛，哪怕不用训天道章通传，也是明白了戴廷执的用意",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百四十一章 入域心染尘    陈首执等人对于虚空世域那里的情况看得清清楚楚，见戴廷执那边并没有将阵法收敛，哪怕不用训天道章通传，也是明白了戴廷执的用意",
-        "”    岳清泽却是无所谓道：“不管怎么说，那秽毒算是解除了，我等目的也是达到了了，只看两位司议能否领会我们的好意了",
-        "他方才也是看到了岳、丰二人之所为，不由对此举动很是不满，因为在他看来，分明是两人惜身，不敢动，这才行此险招"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邹司议会合，说服邹司议先攻后撤。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "我等",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十一章 入域心染尘",
-      "summary": "”    岳清泽却是无所谓道：“不管怎么说，那秽毒算是解除了，我等目的也是达到了了，只看两位司议能否领会我们的好意了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    岳清泽却是无所谓道：“不管怎么说，那秽毒算是解除了，我等目的也是达到了了，只看两位司议能否领会我们的好意了",
-        "”丰神常摇了摇头，道：“这两位不要怨我等，便算不错了",
-        "”    丰神常道：“道友，既然现在那里被阵法遮蔽了邪秽，我等什么时候去救那两位司议"
+        "卫司议道：“未必见得进退不得，我们本就是来制压天夏，现在既然到了这里，那应当趁势攻入进去才是。”",
+        "卫司议劝说道：“邹司议，欲先退，则必先攻，我们现在被困此间，为了打开一条退路。那就要先向前进才是。”"
       ],
-      "mention_count": 5
+      "mention_count": 8
     }
   ]
 }

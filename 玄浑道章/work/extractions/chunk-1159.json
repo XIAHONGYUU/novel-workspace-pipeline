@@ -1,258 +1,316 @@
 {
   "chunk_id": "chunk-1159",
-  "title": "第六十一章 机变放远观",
   "characters": [
     {
-      "name": "瑶璃",
+      "name": "韦廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "此刻的东庭远陆，瑶璃乘上了一驾每月往来运送补给的载运飞舟，正往安州方向而去",
+      "identity": "玄廷官员",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "亲自安排将造物躯壳送回天机总院。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此刻的东庭远陆，瑶璃乘上了一驾每月往来运送补给的载运飞舟，正往安州方向而去",
-        "她看了看瑶璃，用字正腔圆的声音道：“你不是天夏长大的吧",
-        "”    瑶璃好奇道：“你怎么知道"
+      "timeline": [
+        {
+          "stage": "八月中旬廷议后",
+          "event": "安排使者将造物躯壳送回天机总院。"
+        }
       ],
-      "mention_count": 14
+      "evidence": [
+        "韦廷执亲自安排之下，派遣了一名使者将那一具造物躯壳重新送回了天机总院。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "崇廷执",
+      "name": "连副部主",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天工部副部主",
+      "faction": "天工部",
       "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "”    昌合府洲，岑传正在观台上站着，负袖看着下面，后方有一道虹光照落下来，崇廷执的化影出现在了其中",
+      "first_appearance": "",
+      "summary": "与魏山一同被唤去，接受玄廷谕旨。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    昌合府洲，岑传正在观台上站着，负袖看着下面，后方有一道虹光照落下来，崇廷执的化影出现在了其中",
-        "”    崇廷执道：“此番透露天机造物突破层限的消息可是岑道友透露的",
-        "”他又看向崇廷执，“你不是早就知道了么"
+      "relationships": [
+        {
+          "target": "魏山",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "八月中旬廷议后",
+          "event": "与魏山一同被唤去，接受玄廷谕旨。"
+        }
+      ],
+      "evidence": [
+        "天工部的连副部主与魏山一同被唤了去"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "魏山",
+      "aliases": [
+        "魏宗匠"
+      ],
+      "identity": "天机总院宗匠",
+      "faction": "天机总院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天机总院宗匠，主导造物突破层限之事。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "连副部主",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "八月中旬廷议后",
+          "event": "与连副部主一同接受玄廷谕旨。"
+        },
+        {
+          "stage": "半日后",
+          "event": "召集参与此事的大匠，告知谕旨内容。"
+        }
+      ],
+      "evidence": [
+        "魏山与连副部主交谈了许久",
+        "魏山道：“不必理会，我们自做我们的事”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "于大匠",
+      "aliases": [
+        "于兄"
+      ],
+      "identity": "天机总院大匠",
+      "faction": "天机总院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "参与造物突破层限的大匠，对玄廷归还造物持乐观态度。",
+      "appearance": [],
+      "personality": [
+        "乐观",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龙大匠",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "半日后",
+          "event": "与龙大匠在工坊内讨论玄廷归还造物之事。"
+        }
+      ],
+      "evidence": [
+        "于大匠言道：“龙兄，怎么样？我早便说过了吧？这一次尝试是成功的”",
+        "于大匠道：“龙兄，你把事情想得太简单了”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "龙大匠",
+      "aliases": [
+        "龙兄"
+      ],
+      "identity": "天机总院大匠",
+      "faction": "天机总院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "参与造物突破层限的大匠，对玄廷归还造物持谨慎态度。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "于大匠",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "半日后",
+          "event": "与于大匠在工坊内讨论玄廷归还造物之事。"
+        }
+      ],
+      "evidence": [
+        "龙大匠道：“可是于兄，玄廷还是将造物归还给我们了”",
+        "龙大匠没再与他争辩下去"
+      ],
+      "mention_count": 3
     },
     {
       "name": "岑传",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "”    昌合府洲，岑传正在观台上站着，负袖看着下面，后方有一道虹光照落下来，崇廷执的化影出现在了其中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    昌合府洲，岑传正在观台上站着，负袖看着下面，后方有一道虹光照落下来，崇廷执的化影出现在了其中",
-        "岑传转过身来，道：“崇道兄，有何指教",
-        "”    岑传毫不否认道：“不错，是我"
+      "aliases": [
+        "岑道兄"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
+      "identity": "修道者",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "现在外面很多流传的流言，那并不是我们传出去的",
+      "first_appearance": "",
+      "summary": "在昌合府洲观台上与崇廷执讨论造物之事，反对造物发展。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现在外面很多流传的流言，那并不是我们传出去的",
-        "”    魏山道：“不必理会，我们自做我们的事，外面之言论，与我们不相干，天机造物为天夏子民造福，而不是为了逞口舌之利",
-        "”    那人又道：“可就怕玄廷到时候将此事扣到我们的头上"
+      "personality": [
+        "固执",
+        "警惕"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "崇廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "”    昌合府洲，岑传正在观台上站着，负袖看着下面，后方有一道虹光照落下来，崇廷执的化影出现在了其中",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    昌合府洲，岑传正在观台上站着，负袖看着下面，后方有一道虹光照落下来，崇廷执的化影出现在了其中",
-        "”    崇廷执道：“此番透露天机造物突破层限的消息可是岑道友透露的",
-        "”他又看向崇廷执，“你不是早就知道了么"
+      "relationships": [
+        {
+          "target": "崇廷执",
+          "type": "道友"
+        },
+        {
+          "target": "正清",
+          "type": "道友"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "造物",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "第六十一章 机变放远观    八月中旬的廷议过后，韦廷执亲自安排之下，派遣了一名使者将那一具造物躯壳重新送回了天机总院",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "八月中旬后",
+          "event": "在观台上与崇廷执化影对话，透露造物突破层限消息。"
+        }
+      ],
       "evidence": [
-        "第六十一章 机变放远观    八月中旬的廷议过后，韦廷执亲自安排之下，派遣了一名使者将那一具造物躯壳重新送回了天机总院",
-        "天工部的连副部主与魏山一同被唤了去，使者将事机大概经过告知了他们，最后才将玄廷的谕旨交给二人，并嘱咐他们此事可以继续，但造物突破层限一事不可主动向外宣扬，不然玄廷随时会中断此事，并不许天机院继续下去",
-        "”    魏山道：“不必理会，我们自做我们的事，外面之言论，与我们不相干，天机造物为天夏子民造福，而不是为了逞口舌之利"
+        "岑传正在观台上站着，负袖看着下面",
+        "岑传冷笑一声，道：“玄法还是修道之法，造物算什么？”"
       ],
       "mention_count": 7
     },
     {
-      "name": "土著",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "崇廷执",
+      "aliases": [
+        "崇道兄"
+      ],
+      "identity": "玄廷官员",
+      "faction": "玄廷",
       "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "可以看到，前面每次所停留的地方都是军事驻地，到了后面就是一个个有着很多土著的聚集地了",
+      "first_appearance": "",
+      "summary": "擅长天机推演，与岑传讨论造物气运，主张顺势而为。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "理性",
+        "善于说服"
+      ],
+      "abilities": [
+        "天机推演"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "岑传",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "八月中旬后",
+          "event": "化影出现在岑传观台上，与之讨论造物之事。"
+        }
+      ],
       "evidence": [
-        "可以看到，前面每次所停留的地方都是军事驻地，到了后面就是一个个有着很多土著的聚集地了",
-        "所以这里可以见到很多土著",
-        "在她坐下的地方不远处，就坐着一个相貌秀丽的土著女子，她嘴唇涂着一抹殷红，身上穿着天夏袍服"
+        "崇廷执的化影出现在了其中",
+        "崇廷执道：“岑道兄，天数流转，小节可改，大势不可变”"
       ],
       "mention_count": 6
     },
     {
-      "name": "魏山",
+      "name": "瑶璃",
       "aliases": [],
-      "identity": "",
+      "identity": "天夏混血少女",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "天工部的连副部主与魏山一同被唤了去，使者将事机大概经过告知了他们，最后才将玄廷的谕旨交给二人，并嘱咐他们此事可以继续，但造物突破层限一事不可主动向外宣扬，不然玄廷随时会中断此事，并不许天机院继续下去",
+      "first_appearance": "",
+      "summary": "乘载运飞舟前往安州，近期常做奇怪的梦。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "好奇",
+        "独立"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天工部的连副部主与魏山一同被唤了去，使者将事机大概经过告知了他们，最后才将玄廷的谕旨交给二人，并嘱咐他们此事可以继续，但造物突破层限一事不可主动向外宣扬，不然玄廷随时会中断此事，并不许天机院继续下去",
-        "魏山与连副部主交谈了许久，抓紧时间定下了一些值得注意的事宜，一直到了天边露出鱼肚白，这才在清晨的微光之中折返天机总院",
-        "”    魏山道：“不必理会，我们自做我们的事，外面之言论，与我们不相干，天机造物为天夏子民造福，而不是为了逞口舌之利"
+      "relationships": [
+        {
+          "target": "赵柔",
+          "type": "朋友"
+        },
+        {
+          "target": "沈瑾妍",
+          "type": "同乘者"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "最近",
+          "event": "乘载运飞舟往安州方向去。"
+        }
+      ],
+      "evidence": [
+        "瑶璃乘上了一驾每月往来运送补给的载运飞舟，正往安州方向而去",
+        "最近一段时日来她总是做梦"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "玄廷",
+      "name": "沈瑾妍",
       "aliases": [],
-      "identity": "",
+      "identity": "土著女子",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "天工部的连副部主与魏山一同被唤了去，使者将事机大概经过告知了他们，最后才将玄廷的谕旨交给二人，并嘱咐他们此事可以继续，但造物突破层限一事不可主动向外宣扬，不然玄廷随时会中断此事，并不许天机院继续下去",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "在飞舟上与瑶璃交谈的土著女子，渴望成为天夏人。",
+      "appearance": [
+        "相貌秀丽",
+        "嘴唇涂着一抹殷红",
+        "身上穿着天夏袍服"
+      ],
+      "personality": [
+        "羡慕天夏人",
+        "积极"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天工部的连副部主与魏山一同被唤了去，使者将事机大概经过告知了他们，最后才将玄廷的谕旨交给二人，并嘱咐他们此事可以继续，但造物突破层限一事不可主动向外宣扬，不然玄廷随时会中断此事，并不许天机院继续下去",
-        "他看得出来，玄廷这次的态度非常明确，不允许他们对外宣称还未成功之事，为此还正式下了诏旨，显然是划下了一条非常明确的界限，要是他跨过去，那绝对是会遭受到极为严厉的惩处的",
-        "他心中也是同意这个做法，毕竟他们还没有真正成功，还是靠了玄廷的力量的而成，出去宣扬那不过是自欺欺人"
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "同乘者"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "”    龙大匠道：“可是于兄，玄廷还是将造物归还给我们了，看起来没有阻止我们的意思，于兄是不是想多了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    龙大匠道：“可是于兄，玄廷还是将造物归还给我们了，看起来没有阻止我们的意思，于兄是不是想多了",
-        "”    崇廷执道：“此番透露天机造物突破层限的消息可是岑道友透露的",
-        "可是目前来看，我们的力量稍显不足，造物若突破上层，却能很好为我之补益"
+      "timeline": [
+        {
+          "stage": "飞舟上",
+          "event": "与瑶璃交谈，表示自己两年后可成为天夏人。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "岑道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "”    崇廷执道：“此番透露天机造物突破层限的消息可是岑道友透露的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    崇廷执道：“此番透露天机造物突破层限的消息可是岑道友透露的",
-        "”    崇廷执道：“岑道兄，不管你如何想，但是造物终归比玄法容易压制，他们也到不了那个地步",
-        "”    崇廷执道：“岑道友，造物有几十年气数"
+        "土著女子道：“我的天夏名叫沈瑾妍”",
+        "土著女子道：“最多再有两年，等我会教会了十个能写天夏字，能说天夏语的土著，那我就是天夏人了。”"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "土著女",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 机变放远观",
-      "summary": "在她坐下的地方不远处，就坐着一个相貌秀丽的土著女子，她嘴唇涂着一抹殷红，身上穿着天夏袍服",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在她坐下的地方不远处，就坐着一个相貌秀丽的土著女子，她嘴唇涂着一抹殷红，身上穿着天夏袍服",
-        "”    土著女子笑了笑，道：“我见的很多天夏人，你和他们不一样，但你比我们好多了，”她露出一丝羡慕之色，“你长的很像他们，你的身躯内应该有高贵的天夏血脉",
-        "”    土著女子道：“好名字，你的长辈给你取的么"
-      ],
-      "mention_count": 5
+      "mention_count": 4
     }
   ]
 }

@@ -1,256 +1,505 @@
 {
   "chunk_id": "chunk-1162",
-  "title": "第六十四章 消气断传迹",
   "characters": [
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "梁屹",
+      "aliases": [
+        "梁玄尊"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "不过所有一切他与万明道人已经准备好了，也上报给了张御知晓，要是对方真敢直接冲击东庭，必叫其有来无回",
+      "summary": "天夏玄尊，与崔岳讨论瑶璃及异神之事，主张以稳妥方式处理灵性力量寄附问题。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "有原则"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过所有一切他与万明道人已经准备好了，也上报给了张御知晓，要是对方真敢直接冲击东庭，必叫其有来无回",
-        "清穹道宫之内，张御站在殿中，看着墙上的天夏舆图，妙丹君则趴伏在他脚边不远处",
-        "”    张御看了一眼，就知是焦尧送来的，他拿了过来，意念顾去一转，顿时看到了焦尧这一路之上来到金玉大台之前所看到的东西"
+      "relationships": [
+        {
+          "target": "崔岳",
+          "type": "对话者"
+        },
+        {
+          "target": "万明",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与崔岳讨论瑶璃和异神归来的应对策略。"
+        }
+      ],
+      "evidence": [
+        "梁屹道：“梁某方才说了。那股灵性力量终究还是要靠寄主方能阐发力量”",
+        "梁屹道：“不错，那时候的她几乎就是一张白纸”",
+        "梁屹则是看向玄府最上方"
+      ],
+      "mention_count": 12
     },
     {
       "name": "崔岳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "崔玄正"
+      ],
+      "identity": "玄正，陈廷执和张廷执的弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "”    崔岳沉思了一下，道：“这应该是甄绰、赵柔两位道友之功，将她收做了弟子，告知他如何修行，并教导她天夏仪礼文字",
+      "summary": "天夏玄正，关心瑶璃之事，受老师之托照拂甄绰、赵柔两位道友。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "有责任感"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    崔岳沉思了一下，道：“这应该是甄绰、赵柔两位道友之功，将她收做了弟子，告知他如何修行，并教导她天夏仪礼文字",
-        "”    崔岳点点偶，道：“所以只要瑶璃一直维持着如今的状态，不使超过一个界限，那么那灵性力量是不会来的了",
-        "”    崔岳道：“如此就可以免除那异神归来么"
+      "relationships": [
+        {
+          "target": "梁屹",
+          "type": "对话者"
+        },
+        {
+          "target": "甄绰",
+          "type": "受照拂对象"
+        },
+        {
+          "target": "赵柔",
+          "type": "受照拂对象"
+        },
+        {
+          "target": "陈廷执",
+          "type": "老师"
+        },
+        {
+          "target": "张廷执",
+          "type": "曾跟随"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与梁屹讨论瑶璃之事，并解释自己为何照拂甄绰、赵柔。"
+        }
+      ],
+      "evidence": [
+        "崔岳沉思了一下，道：“这应该是甄绰、赵柔两位道友之功”",
+        "崔岳道：“梁玄尊，若无什么事，崔某就告辞了。”",
+        "崔岳摇头道：“我与他们并无交情”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "梁屹",
+      "name": "瑶璃",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "灵性力量寄附者，甄绰和赵柔的弟子",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "第六十四章 消气断传迹    梁屹道：“梁某方才说了",
+      "summary": "被灵性力量寄附的少女，因甄绰和赵柔的教导而未被邪化，目前留在东庭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十四章 消气断传迹    梁屹道：“梁某方才说了",
-        "”    梁屹道：“不错，那时候的她几乎就是一张白纸，可以任人涂染，若是那个时候灵性力量主导了她的认知，那就无可能阻止了",
-        "”    梁屹道：“是如此"
+      "relationships": [
+        {
+          "target": "甄绰",
+          "type": "弟子"
+        },
+        {
+          "target": "赵柔",
+          "type": "弟子"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被讨论其状态和未来处理方式。"
+        }
+      ],
+      "evidence": [
+        "瑶璃此刻自身并没有受太多的影响",
+        "将她收做了弟子，告知他如何修行，并教导她天夏仪礼文字",
+        "设法将她留在东庭，就是最稳妥的做法"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "甄绰",
+      "aliases": [
+        "甄道友"
+      ],
+      "identity": "上宸天赢冲的弟子，后投拜天夏",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第六十四章 消气断传迹",
+      "summary": "与赵柔一同收瑶璃为弟子，教导其修行和天夏礼仪，曾试图劝诫赢冲投奔天夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "老师"
+        },
+        {
+          "target": "赵柔",
+          "type": "同门/道友"
+        },
+        {
+          "target": "赢冲",
+          "type": "原老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "收瑶璃为弟子，教导修行和礼仪。"
+        }
+      ],
+      "evidence": [
+        "这应该是甄绰、赵柔两位道友之功，将她收做了弟子",
+        "这两位是上宸天赢冲的弟子",
+        "曾经试图劝诫赢冲投奔天夏"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "赵柔",
+      "aliases": [
+        "赵道友"
+      ],
+      "identity": "上宸天赢冲的弟子，后投拜天夏",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第六十四章 消气断传迹",
+      "summary": "与甄绰一同收瑶璃为弟子，教导其修行和天夏礼仪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "老师"
+        },
+        {
+          "target": "甄绰",
+          "type": "同门/道友"
+        },
+        {
+          "target": "赢冲",
+          "type": "原老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "收瑶璃为弟子，教导修行和礼仪。"
+        }
+      ],
+      "evidence": [
+        "这应该是甄绰、赵柔两位道友之功，将她收做了弟子",
+        "这两位是上宸天赢冲的弟子"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第六十四章 消气断传迹",
+      "summary": "天夏廷执，在清穹道宫研究间层，并派神气分身前往金玉大台探查。",
+      "appearance": [],
+      "personality": [
+        "深思熟虑",
+        "果断"
+      ],
+      "abilities": [
+        "神气分身"
+      ],
+      "equipment": [
+        "妙丹君（宠物）"
+      ],
+      "relationships": [
+        {
+          "target": "焦尧",
+          "type": "派遣者"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清穹道宫研究间层，并派神气分身前往金玉大台。"
+        }
+      ],
+      "evidence": [
+        "清穹道宫之内，张御站在殿中，看着墙上的天夏舆图",
+        "张御看了一眼，就知是焦尧送来的",
+        "张御一振袖，脚下踏起云芝玉台，就往那个门户之中穿渡进去"
+      ],
+      "mention_count": 10
     },
     {
       "name": "焦尧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十四章 消气断传迹",
-      "summary": "”    张御看了一眼，就知是焦尧送来的，他拿了过来，意念顾去一转，顿时看到了焦尧这一路之上来到金玉大台之前所看到的东西",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御看了一眼，就知是焦尧送来的，他拿了过来，意念顾去一转，顿时看到了焦尧这一路之上来到金玉大台之前所看到的东西",
-        "焦尧对着他打一个稽首，道：“廷执有礼",
-        "”    焦尧侧身看了一眼，道：“焦某未有在往里试探，”他从袖中那串宝珠取拿了出来，“廷执请过目，焦某便是这些宝珠之上看出了端倪"
+      "aliases": [
+        "焦道友"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "焦某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "老龙，天夏修士",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "”    焦尧侧身看了一眼，道：“焦某未有在往里试探，”他从袖中那串宝珠取拿了出来，“廷执请过目，焦某便是这些宝珠之上看出了端倪",
+      "summary": "老龙，受张御派遣探查金玉大台，为防沾染洗去记忆和化去身躯。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    焦尧侧身看了一眼，道：“焦某未有在往里试探，”他从袖中那串宝珠取拿了出来，“廷执请过目，焦某便是这些宝珠之上看出了端倪",
-        "”    焦尧正色道：“为了确保没有疏漏，焦某在看过之后，化去了在世之身，也洗去了这一段忆识，故是现在只知此物的厉害，但不知具体"
+      "personality": [
+        "谨慎",
+        "滑头"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "梁屹道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十四章 消气断传迹",
-      "summary": "第六十四章 消气断传迹    梁屹道：“梁某方才说了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "宝珠"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被派遣者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "探查金玉大台后向张御汇报，并洗去相关记忆。"
+        }
+      ],
       "evidence": [
-        "第六十四章 消气断传迹    梁屹道：“梁某方才说了",
-        "”    梁屹道：“不错，那时候的她几乎就是一张白纸，可以任人涂染，若是那个时候灵性力量主导了她的认知，那就无可能阻止了",
-        "”    梁屹道：“是如此"
+        "焦尧对着他打一个稽首，道：“廷执有礼。”",
+        "焦尧侧身看了一眼，道：“焦某未有在往里试探，”",
+        "焦尧正色道：“为了确保没有疏漏，焦某在看过之后，化去了在世之身，也洗去了这一段忆识”"
       ],
       "mention_count": 5
     },
     {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "万明",
+      "aliases": [
+        "万明道人"
+      ],
+      "identity": "天夏修士，与梁屹一同坐镇东庭",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "梁屹则是看向玄府最上方，东庭有益木遮盖，又有大阵护卫，还有他与万明坐镇在此",
+      "summary": "与梁屹一同坐镇东庭的修士。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "梁屹则是看向玄府最上方，东庭有益木遮盖，又有大阵护卫，还有他与万明坐镇在此",
-        "这里面既有伊帕尔神族的残骸，又有疑似莫契神族留下的痕迹，还有一些别的什么难以分辨的东西",
-        "其这般做，一个彻底根绝了后患，还有一个就是做给他看的，免去了自身回去之后被查验怀疑的可能"
+      "relationships": [
+        {
+          "target": "梁屹",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与梁屹一同准备应对可能的冲击。"
+        }
+      ],
+      "evidence": [
+        "东庭有益木遮盖，又有大阵护卫，还有他与万明坐镇在此"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "但这",
+      "name": "金郅行",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏修士，守御远陆",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "舆图上面正显现出密密麻麻的光点，随着各征伍消息陆续传回，这是目前所探寻到的间层，但这还不是全部",
+      "summary": "与艾伯高一同守御远陆的修士。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "舆图上面正显现出密密麻麻的光点，随着各征伍消息陆续传回，这是目前所探寻到的间层，但这还不是全部",
-        "后果如何暂还难以看出，但这东西无疑蕴藏着极强烈的恶意，里面还能隐隐可看到那易虫和佐姆之鳄的影子",
-        "但这事情，交给这老龙的确不合适"
+      "relationships": [
+        {
+          "target": "艾伯高",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "守御远陆。"
+        }
+      ],
+      "evidence": [
+        "远陆更有金郅行、艾伯高二人"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "可以",
+      "name": "艾伯高",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏修士，守御远陆",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "可以看出，瑶璃此刻自身并没有受太多的影响，这应该她受得沾染并不深，所以认知上也没有扭曲，若是往后一直能制压的好，那么或许能杜绝后续之事",
+      "summary": "与金郅行一同守御远陆的修士。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可以看出，瑶璃此刻自身并没有受太多的影响，这应该她受得沾染并不深，所以认知上也没有扭曲，若是往后一直能制压的好，那么或许能杜绝后续之事",
-        "”    梁屹道：“不错，那时候的她几乎就是一张白纸，可以任人涂染，若是那个时候灵性力量主导了她的认知，那就无可能阻止了",
-        "”    崔岳道：“如此就可以免除那异神归来么"
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "守御远陆。"
+        }
+      ],
+      "evidence": [
+        "远陆更有金郅行、艾伯高二人"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "若是",
+      "name": "赢冲",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上宸天修士，甄绰和赵柔的原老师",
+      "faction": "上宸天",
+      "status": "提及",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "可以看出，瑶璃此刻自身并没有受太多的影响，这应该她受得沾染并不深，所以认知上也没有扭曲，若是往后一直能制压的好，那么或许能杜绝后续之事",
+      "summary": "上宸天修士，甄绰和赵柔的原老师，曾与崔岳的老师交好。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可以看出，瑶璃此刻自身并没有受太多的影响，这应该她受得沾染并不深，所以认知上也没有扭曲，若是往后一直能制压的好，那么或许能杜绝后续之事",
-        "”    梁屹道：“不错，那时候的她几乎就是一张白纸，可以任人涂染，若是那个时候灵性力量主导了她的认知，那就无可能阻止了",
-        "”    他看向上空，沉声道：“何况这等事往后可能还会有，我们若是直接这般做，简单是简单了，但后来人或可能引此为例处置事机"
+      "relationships": [
+        {
+          "target": "甄绰",
+          "type": "原老师"
+        },
+        {
+          "target": "赵柔",
+          "type": "原老师"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "甄绰和赵柔曾试图劝诫他投奔天夏。"
+        }
+      ],
+      "evidence": [
+        "这两位是上宸天赢冲的弟子",
+        "老师以前曾与赢冲交好"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "这是",
+      "name": "陈廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏廷执，崔岳的老师",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "而这是非常重要的",
+      "summary": "崔岳的老师，曾与赢冲交好。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而这是非常重要的",
-        "”    梁屹摇头道：“这是免除不了的，预言在那里，只要灵性力量没有耗尽，那么一定是会实现的，只是会换一种方式，可是这般做消耗的力量将会更多，且也未必合适，这将有利于我们对付异神",
-        "舆图上面正显现出密密麻麻的光点，随着各征伍消息陆续传回，这是目前所探寻到的间层，但这还不是全部"
+      "relationships": [
+        {
+          "target": "崔岳",
+          "type": "弟子"
+        },
+        {
+          "target": "赢冲",
+          "type": "旧交"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与赢冲交好。"
+        }
+      ],
+      "evidence": [
+        "老师以前曾与赢冲交好"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "随着",
+      "name": "张廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏廷执，崔岳曾跟随",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第六十四章 消气断传迹",
-      "summary": "舆图上面正显现出密密麻麻的光点，随着各征伍消息陆续传回，这是目前所探寻到的间层，但这还不是全部",
+      "summary": "崔岳曾跟随过的廷执。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "崔岳",
+          "type": "曾跟随"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "舆图上面正显现出密密麻麻的光点，随着各征伍消息陆续传回，这是目前所探寻到的间层，但这还不是全部",
-        "随着眼前的光芒逐渐消散开来，这一具神气分身已然出现在了间层之中"
+        "还跟随过张廷执"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "张御的宠物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十四章 消气断传迹",
+      "summary": "张御的宠物，趴伏在张御脚边。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清穹道宫陪伴张御。"
+        }
+      ],
+      "evidence": [
+        "妙丹君则趴伏在他脚边不远处",
+        "妙丹君一下站了起来"
+      ],
+      "mention_count": 2
     }
   ]
 }

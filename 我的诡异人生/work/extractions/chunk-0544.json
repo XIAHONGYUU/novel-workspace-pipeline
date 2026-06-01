@@ -1,0 +1,160 @@
+{
+  "chunk_id": "chunk-0544",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "修行者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与玄照老道一同前往牛角山，处理三师姐坟冢事宜。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "密咒脉轮",
+        "大红莲胎藏"
+      ],
+      "equipment": [
+        "大红莲胎藏"
+      ],
+      "relationships": [
+        {
+          "target": "玄照",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在金光神咒护持下挣脱山势束缚，与玄照老道前往三师姐葬地，协助开棺。"
+        }
+      ],
+      "evidence": [
+        "金光覆映之下，苏午的状态出奇地好。",
+        "苏午抽出大红莲胎藏。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "玄照",
+      "aliases": [
+        "玄照老道",
+        "老道长"
+      ],
+      "identity": "茅山道士",
+      "faction": "茅山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "茅山老道，带领苏午前往三师姐葬地，进行开棺仪式。",
+      "appearance": [
+        "头发花白的老者"
+      ],
+      "personality": [
+        "谨慎",
+        "经验丰富"
+      ],
+      "abilities": [
+        "道法",
+        "符箓",
+        "收魂咒"
+      ],
+      "equipment": [
+        "铁锹",
+        "黄布",
+        "毛笔",
+        "朱砂"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同行者"
+        },
+        {
+          "target": "玄璧",
+          "type": "师姐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午一同前往牛角山，刨开三师姐坟冢，发现异常。"
+        }
+      ],
+      "evidence": [
+        "玄照老道自得地捋着胡须笑了笑。",
+        "老道长带着苏午一边往桃林深处的草庐走，一边向苏午解释道。"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "玄璧",
+      "aliases": [
+        "三师姐",
+        "玄璧道人"
+      ],
+      "identity": "茅山道士",
+      "faction": "茅山",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "玄照的师姐，葬于牛角山野桃林中，坟冢出现异常。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玄照",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被玄照下葬于牛角山野桃林。"
+        },
+        {
+          "stage": "当前",
+          "event": "坟冢被刨开，棺材内情况异常。"
+        }
+      ],
+      "evidence": [
+        "墓碑上写着‘茅山玄璧道人之墓’",
+        "玄照老道说：‘三师姐的葬地乃是在一片野桃林之中。’"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "晦诡",
+      "aliases": [],
+      "identity": "厉诡",
+      "faction": "",
+      "status": "未登场",
+      "first_appearance": "",
+      "summary": "牛角山中的厉诡，能引动山川地势，制造意外灾祸。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "引动山川地势",
+        "制造意外",
+        "鬼蜮"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牛角山中作祟，被怀疑影响三师姐坟冢。"
+        }
+      ],
+      "evidence": [
+        "晦诡强行分裂的山川地势，此时重归合拢。",
+        "晦诡便是如此，你越不希望一些事发生，它便偏偏会引致一些事情发生。"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

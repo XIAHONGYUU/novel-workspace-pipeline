@@ -1,257 +1,274 @@
 {
   "chunk_id": "chunk-0382",
-  "title": "第一百五十三章 问询",
   "characters": [
     {
-      "name": "莫若华",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-        "莫若华进入军府时间尚短，和这位陈校尉平时没什么太多交集，只是听说过这位的一些传闻，对他谈不上有什么恶劣印象",
-        "请了此人到了里厅后，莫若华道：“陈校尉，军府有什么命令传下么"
-      ],
-      "mention_count": 16
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "第一百五十三章 问询    张御这一剑斩落下来，元童老祖神魂还未得复还，便被彻底杀灭，那两道位于他身后的精煞此时也是一同爆散开来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百五十三章 问询    张御这一剑斩落下来，元童老祖神魂还未得复还，便被彻底杀灭，那两道位于他身后的精煞此时也是一同爆散开来",
-        "张御再是观察了一下，见周围并无什么东西遗落，便纵光一道，自风沙之中冲破出来，一直来到了天穹之上",
-        "”    张御道：“那邪魔已为我所斩杀，外间当已无扰，近日可恢复在外哨岗了"
+      "aliases": [
+        "张玄正"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "莫若",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府玄正",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百五十三章 问询",
-      "summary": "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
+      "summary": "玄府玄正，斩杀元童老祖，后前往玄府向竺玄首汇报。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "尺步天虚之术",
+        "剑术",
+        "紫星辰砂操控"
+      ],
+      "equipment": [
+        "紫星袋",
+        "紫星辰砂",
+        "玄兵",
+        "炼绝天纱"
+      ],
+      "relationships": [
+        {
+          "target": "元童老祖",
+          "type": "敌对"
+        },
+        {
+          "target": "竺玄首",
+          "type": "下属"
+        },
+        {
+          "target": "万明道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "斩杀元童老祖，返回驻地，后前往玄府见竺玄首。"
+        }
+      ],
       "evidence": [
-        "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-        "莫若华进入军府时间尚短，和这位陈校尉平时没什么太多交集，只是听说过这位的一些传闻，对他谈不上有什么恶劣印象",
-        "请了此人到了里厅后，莫若华道：“陈校尉，军府有什么命令传下么"
+        "张御这一剑斩落下来，元童老祖神魂还未得复还，便被彻底杀灭",
+        "张御再是观察了一下，见周围并无什么东西遗落，便纵光一道，自风沙之中冲破出来",
+        "张御离了驻地后，一路疾驰，很快行至玄府"
       ],
       "mention_count": 12
+    },
+    {
+      "name": "元童老祖",
+      "aliases": [
+        "邪魔"
+      ],
+      "identity": "邪魔",
+      "faction": "",
+      "status": "已死",
+      "first_appearance": "第一百五十三章 问询",
+      "summary": "被张御斩杀的一缕分魂，擅长变化存身之道。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "精煞寄托",
+        "血精祭炼法宝"
+      ],
+      "equipment": [
+        "炼绝天纱"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御斩杀。"
+        }
+      ],
+      "evidence": [
+        "张御这一剑斩落下来，元童老祖神魂还未得复还，便被彻底杀灭",
+        "那邪魔已为我所斩杀",
+        "炼绝天纱，这祭炼手法的确是元童老祖的手段"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "万明道人",
+      "aliases": [
+        "万明"
+      ],
+      "identity": "玄府道人",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百五十三章 问询",
+      "summary": "玄府道人，在方台驻地负责事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接张御返回驻地，并受命恢复哨岗。"
+        }
+      ],
+      "evidence": [
+        "万明道人之前已是看到了他的遁光，此刻也是赶来，对他一拱手",
+        "万明道人得闻此讯，心中倒很平静"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "莫若华",
+      "aliases": [
+        "莫校尉"
+      ],
+      "identity": "军府校尉",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "第一百五十三章 问询",
+      "summary": "军府校尉，与明校尉一同接待陈校尉。",
+      "appearance": [],
+      "personality": [
+        "严谨",
+        "有道德感"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明校尉",
+          "type": "同僚"
+        },
+        {
+          "target": "陈校尉",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与明校尉接待陈校尉，后得知邪魔已除。"
+        }
+      ],
+      "evidence": [
+        "莫若华进入军府时间尚短，和这位陈校尉平时没什么太多交集",
+        "莫若华道：“方才玄府传来消息，张玄正亲自出手，已经将那个邪魔斩杀在了荒原之上”"
+      ],
+      "mention_count": 6
     },
     {
       "name": "明校尉",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "军府校尉",
+      "faction": "军府",
       "status": "登场",
       "first_appearance": "第一百五十三章 问询",
-      "summary": "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
+      "summary": "军府校尉，性格直率，对陈校尉有意见。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "不拘小节"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-        "据说这位人缘十分不好，明校尉这几天本来已经恢复了，可是听到军府来人是这位，当即借口还有伤，想缩回去里面不露面",
-        "理由是陈校尉为人十分刻板，说要见他，那就一定会见他，他要不去，那势必会寻来，明校尉这才勉勉强强跟着一起出迎"
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "同僚"
+        },
+        {
+          "target": "陈校尉",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "明校",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-        "据说这位人缘十分不好，明校尉这几天本来已经恢复了，可是听到军府来人是这位，当即借口还有伤，想缩回去里面不露面",
-        "理由是陈校尉为人十分刻板，说要见他，那就一定会见他，他要不去，那势必会寻来，明校尉这才勉勉强强跟着一起出迎"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与莫若华一同接待陈校尉，后提议散会。"
+        }
       ],
-      "mention_count": 10
+      "evidence": [
+        "明校尉这几天本来已经恢复了，可是听到军府来人是这位，当即借口还有伤",
+        "明校尉嗤了一声，道：“假正经。”"
+      ],
+      "mention_count": 6
     },
     {
       "name": "陈校尉",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "军府校尉",
+      "faction": "军府",
       "status": "登场",
       "first_appearance": "第一百五十三章 问询",
-      "summary": "理由是陈校尉为人十分刻板，说要见他，那就一定会见他，他要不去，那势必会寻来，明校尉这才勉勉强强跟着一起出迎",
+      "summary": "军府校尉，为人刻板严肃，人缘不好。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "理由是陈校尉为人十分刻板，说要见他，那就一定会见他，他要不去，那势必会寻来，明校尉这才勉勉强强跟着一起出迎",
-        "莫若华进入军府时间尚短，和这位陈校尉平时没什么太多交集，只是听说过这位的一些传闻，对他谈不上有什么恶劣印象",
-        "而一开始接触，这陈校尉表现的一板一眼，十分严肃，也实在看不出什么太过特殊的地方"
+      "personality": [
+        "刻板",
+        "严肃"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "元童",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "第一百五十三章 问询    张御这一剑斩落下来，元童老祖神魂还未得复还，便被彻底杀灭，那两道位于他身后的精煞此时也是一同爆散开来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百五十三章 问询    张御这一剑斩落下来，元童老祖神魂还未得复还，便被彻底杀灭，那两道位于他身后的精煞此时也是一同爆散开来",
-        "精煞是元童老祖神魂能在外活动的最大寄托，而他的神魂，则是统合精煞的主宰，两者缺一不可，现在少去了一环，就如一个天平失去了一端，另一端彻底没了束缚",
-        "其实方才到了最后，若是紫星辰砂提前耗尽，或者那元童老祖还有什么手段，他还有一招，那便是在辰砂笼罩范围之内扔下上次剩下的两枚玄兵"
+      "equipment": [
+        "斗战飞舟",
+        "玄兵"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "陈校",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "理由是陈校尉为人十分刻板，说要见他，那就一定会见他，他要不去，那势必会寻来，明校尉这才勉勉强强跟着一起出迎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "理由是陈校尉为人十分刻板，说要见他，那就一定会见他，他要不去，那势必会寻来，明校尉这才勉勉强强跟着一起出迎",
-        "莫若华进入军府时间尚短，和这位陈校尉平时没什么太多交集，只是听说过这位的一些传闻，对他谈不上有什么恶劣印象",
-        "而一开始接触，这陈校尉表现的一板一眼，十分严肃，也实在看不出什么太过特殊的地方"
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "同僚"
+        },
+        {
+          "target": "明校尉",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "军府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天机院驻地之内，莫若华与明校尉二人此刻正接待一位自军府到来的陈姓校尉",
-        "这位是收到了她寄送过去的书信后才受军府之命到此的",
-        "据说这位人缘十分不好，明校尉这几天本来已经恢复了，可是听到军府来人是这位，当即借口还有伤，想缩回去里面不露面"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "奉命带来玄兵计划，后得知邪魔已除。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "可他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "这一次虽然成功斩杀了元童老祖，可他心中有几个疑问，需要向去玄首那里求一个答案",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这一次虽然成功斩杀了元童老祖，可他心中有几个疑问，需要向去玄首那里求一个答案",
-        "别看他这么一本正经的，可他在外面养了五个外室"
+        "陈校尉为人十分刻板",
+        "陈校尉表情严肃，道：“我这次带来了一批善于隐遁的斗战飞舟”"
       ],
-      "mention_count": 6
+      "mention_count": 5
     },
     {
       "name": "竺玄首",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府玄首",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百五十三章 问询",
-      "summary": "”    张御离了驻地后，一路疾驰，很快行至玄府，待落下身形，与前来相迎的明善道人打过招呼，就行至大殿之中，身往上行，来至鹤殿顶上，在站定之后，抬手对站在那里竺玄首一礼，道：“玄首有礼",
+      "summary": "玄府玄首，张御向其汇报斩杀元童老祖之事。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御离了驻地后，一路疾驰，很快行至玄府，待落下身形，与前来相迎的明善道人打过招呼，就行至大殿之中，身往上行，来至鹤殿顶上，在站定之后，抬手对站在那里竺玄首一礼，道：“玄首有礼",
-        "”    竺玄首点头回礼，又看他一眼，道：“玄正身上杀机未退，煞气暗藏，可是与哪个邪祟之辈方才斗过法么",
-        "”    竺玄首神情难得严肃了几分，“是如何一回事，还请玄正详言"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "玄正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十三章 问询",
-      "summary": "一刻之后，他便回了驻地，并在最高处的大台之上落下，万明道人之前已是看到了他的遁光，此刻也是赶来，对他一拱手，而后关切道：“玄正，不知此行如何",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一刻之后，他便回了驻地，并在最高处的大台之上落下，万明道人之前已是看到了他的遁光，此刻也是赶来，对他一拱手，而后关切道：“玄正，不知此行如何",
-        "”    万明忙道：“玄正言重了，我与诸位道友必当看好此处",
-        "”    莫若华道：“方才玄府传来消息，张玄正亲自出手，已经将那个邪魔斩杀在了荒原之上，我们的威胁已经解除了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在鹤殿顶上听取张御汇报。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "竺玄首点头回礼，又看他一眼",
+        "竺玄首神情难得严肃了几分"
+      ],
+      "mention_count": 3
     }
   ]
 }

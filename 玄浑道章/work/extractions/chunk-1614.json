@@ -1,244 +1,443 @@
 {
   "chunk_id": "chunk-1614",
-  "title": "第一百九十二章 道行从根生",
   "characters": [
     {
-      "name": "瑶璃",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "在论道之前，他特意把瑶璃唤至跟前，亲自嘱咐了几句",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在论道之前，他特意把瑶璃唤至跟前，亲自嘱咐了几句",
-        "不过这番谈话下来，他倒觉得这个弟子的确可堪造就，瑶璃面对即将到来的论法，没有半分紧张或者怯场，表现的平静自若",
-        "”    瑶璃道：“弟子就是这么想的"
-      ],
-      "mention_count": 15
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "张御在与季节把正事说定之后，便是令人摆了一场迎宴，并与后者攀谈了一会儿，主要是询问了下这些年来季节的主要经历，在了解过后，他便说起了天夏近来所面临的危机",
+      "summary": "天夏玄廷廷执，主导对抗元夏，正在祭炼新外身并磨砺剑意。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御在与季节把正事说定之后，便是令人摆了一场迎宴，并与后者攀谈了一会儿，主要是询问了下这些年来季节的主要经历，在了解过后，他便说起了天夏近来所面临的危机",
-        "当初他在东庭都护府时是亲身经历过过瑞光之变的，要不是张御力挽狂澜，还不知道会如何，但张御自己也说了，当初出力的绝不止他一个人，只靠他一人，即便翻盘过来，东庭也回不到以往",
-        "两人在一番交谈之后，见天色渐黯，张御唤了一声：“明周道友"
+      "personality": [
+        "冷静",
+        "深思远虑"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "项淳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "项淳对这番论道也是较为看重，此次论道虽然只是在低辈弟子之间，但是因为季节之事，东庭玄府格外受到关注，为了玄府名声考量，能赢的话就要设法赢下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "项淳对这番论道也是较为看重，此次论道虽然只是在低辈弟子之间，但是因为季节之事，东庭玄府格外受到关注，为了玄府名声考量，能赢的话就要设法赢下来",
-        "”    项淳不觉颔首，他道：“对了，你以前有两个老师，名唤甄绰、赵柔，是如此吧",
-        "”    瑶璃看了看项淳，道：“是的，两位老师待我很好"
+      "abilities": [
+        "剑意",
+        "祭炼外身"
       ],
-      "mention_count": 12
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "季节",
+          "type": "师兄"
+        },
+        {
+          "target": "明周道人",
+          "type": "下属"
+        },
+        {
+          "target": "项淳",
+          "type": "下属"
+        },
+        {
+          "target": "英颛",
+          "type": "同僚"
+        },
+        {
+          "target": "长孙廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与季节交谈，安排其驻地；祭炼新外身；磨砺剑意两年。"
+        }
+      ],
+      "evidence": [
+        "张御在与季节把正事说定之后，便是令人摆了一场迎宴",
+        "张御道：“季师弟方才来上层，暂还无落脚之地，如今开辟洞府也是靡费时日，你便替他寻一处驻地暂时落脚。”",
+        "在这两年之中，张御一直在道宫之中磨砺剑器，一点点提升自身的剑意。"
+      ],
+      "mention_count": 10
     },
     {
       "name": "季节",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "季师弟"
+      ],
+      "identity": "新晋玄法玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "季节这等新近成就且又是掌握阵法的玄法玄尊，那是极为稀少了，正好用来弥补一些守正宫不足的地方",
+      "summary": "新近成就的玄法玄尊，曾经历瑞光之变，决心为天夏出力。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "有觉悟",
+        "主动"
+      ],
+      "abilities": [
+        "阵法"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师兄"
+        },
+        {
+          "target": "明周道人",
+          "type": "引路人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "成就玄尊后与张御交谈，被安排驻地。"
+        }
+      ],
       "evidence": [
-        "季节这等新近成就且又是掌握阵法的玄法玄尊，那是极为稀少了，正好用来弥补一些守正宫不足的地方",
-        "张御在与季节把正事说定之后，便是令人摆了一场迎宴，并与后者攀谈了一会儿，主要是询问了下这些年来季节的主要经历，在了解过后，他便说起了天夏近来所面临的危机",
-        "”    季节听完之后，郑重道：“季节乃是天夏玄尊，该当为出力，”    他也是有觉悟的，正是因为知晓了元夏入侵，他觉得自己也当出一份力，这才下定决心攀登上境"
+        "季节这等新近成就且又是掌握阵法的玄法玄尊",
+        "季节听完之后，郑重道：“季节乃是天夏玄尊，该当为出力，”",
+        "季节成就上境，在上层来说不算什么"
       ],
       "mention_count": 8
     },
     {
-      "name": "东庭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明周道人",
+      "aliases": [
+        "明周道友"
+      ],
+      "identity": "道宫侍者",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "当初他在东庭都护府时是亲身经历过过瑞光之变的，要不是张御力挽狂澜，还不知道会如何，但张御自己也说了，当初出力的绝不止他一个人，只靠他一人，即便翻盘过来，东庭也回不到以往",
+      "summary": "张御身边的道人，负责传达命令和递送物品。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤来安排季节驻地；递送长孙廷执的化身。"
+        }
+      ],
       "evidence": [
-        "当初他在东庭都护府时是亲身经历过过瑞光之变的，要不是张御力挽狂澜，还不知道会如何，但张御自己也说了，当初出力的绝不止他一个人，只靠他一人，即便翻盘过来，东庭也回不到以往",
-        "东庭玄府一个偏居海外的玄府，不过百余年间，却是接连出了三位玄法玄尊，这是何等了不起",
-        "故也有一些有志大道的玄修心慕东庭，离开自身所在洲宿，来东庭游历学道"
+        "殿内光芒一闪，明周道人出现在了一旁，道：“廷执有何吩咐？”",
+        "明周道人稽首道：“明周明白。”",
+        "殿内光芒闪烁了一下，明周道人走了出来，他向左上递上一枚玉符"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "项淳",
+      "aliases": [
+        "项主事"
+      ],
+      "identity": "东庭玄府主事",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百九十二章 道行从根生",
+      "summary": "东庭玄府主事，重视论道，希望在自己任上出现更多玄尊。",
+      "appearance": [],
+      "personality": [
+        "有抱负",
+        "看重名声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "师长"
+        },
+        {
+          "target": "范澜",
+          "type": "下属"
+        },
+        {
+          "target": "万明道人",
+          "type": "上级"
+        },
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与瑶璃谈话，鼓励其论道；将论道结果报给万明道人。"
+        }
+      ],
+      "evidence": [
+        "项淳对这番论道也是较为看重",
+        "在论道之前，他特意把瑶璃唤至跟前，亲自嘱咐了几句。",
+        "项淳看着她身影走入石殿内，抚须长思。"
       ],
       "mention_count": 6
     },
     {
-      "name": "明周",
+      "name": "瑶璃",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "东庭玄府弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "两人在一番交谈之后，见天色渐黯，张御唤了一声：“明周道友",
+      "summary": "东庭玄府弟子，参与论道，表现平静自若，道法高深。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两人在一番交谈之后，见天色渐黯，张御唤了一声：“明周道友",
-        "”    殿内光芒一闪，明周道人出现在了一旁，道：“廷执有何吩咐",
-        "”    明周道人稽首道：“明周明白"
+      "personality": [
+        "平静自若",
+        "恬淡"
       ],
-      "mention_count": 5
+      "abilities": [
+        "道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师长"
+        },
+        {
+          "target": "范澜",
+          "type": "师长"
+        },
+        {
+          "target": "甄绰",
+          "type": "老师"
+        },
+        {
+          "target": "赵柔",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被项淳嘱咐论道；参与论道三天；论道后与范澜交谈。"
+        }
+      ],
+      "evidence": [
+        "瑶璃面对即将到来的论法，没有半分紧张或者怯场，表现的平静自若。",
+        "瑶璃道：“弟子就是这么想的。”",
+        "瑶璃想了想，道：“弟子把该说得都是说了，只说自己明白的，自己不明白的就未言。”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "如今",
+      "name": "范澜",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "东庭玄府师长",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "第一百九十二章 道行从根生    玄廷为了梳理平界的地火风水，如今朝那里派遣去了不少修道人，但其实人手还是不够的，因为多数人都调去布置阵法了",
+      "summary": "东庭玄府师长，负责带领弟子论道。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百九十二章 道行从根生    玄廷为了梳理平界的地火风水，如今朝那里派遣去了不少修道人，但其实人手还是不够的，因为多数人都调去布置阵法了",
-        "”    张御道：“季师弟方才来上层，暂还无落脚之地，如今开辟洞府也是靡费时日，你便替他寻一处驻地暂时落脚",
-        "如今全天下的玄修越来越多，哪怕是可以通过训天道章交流，各个章印也是能够任意观览，但是玄府之中负责传道的师长和一同修行的同道却是不一样的，各地的理念和传授水准也是有所差距的"
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "师长"
+        },
+        {
+          "target": "项淳",
+          "type": "上级"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "守在石殿门外，迎接论道弟子；与瑶璃交谈。"
+        }
+      ],
+      "evidence": [
+        "守在门外的范澜迎上前去",
+        "范澜道：“很好，只说自己明白的，正是我辈修道人所当秉持的”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他将",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "万明道人",
+      "aliases": [
+        "万明玄首"
+      ],
+      "identity": "玄首",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "他将去往元夏的见闻说了下，最后道：“元夏不灭，我天夏难存，我们两家一定是要分个胜负，也一定是要分一个道理的，若从大道而言，此中不分对错，但从人而言，元夏所执之道违逆人性，视众生如牲畜，定化天序，固守上下，妄图使天道不转，是必然要将之摧毁的",
+      "summary": "玄首，接收项淳的论道结果并传至清玄道宫。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他将去往元夏的见闻说了下，最后道：“元夏不灭，我天夏难存，我们两家一定是要分个胜负，也一定是要分一个道理的，若从大道而言，此中不分对错，但从人而言，元夏所执之道违逆人性，视众生如牲畜，定化天序，固守上下，妄图使天道不转，是必然要将之摧毁的",
-        "他将此番结果报去了玄首万明道人处，后者看过之后，也是通过训天道章，将此消息送传到了清玄道宫之中"
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "上级"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到项淳的论道结果，通过训天道章传至清玄道宫。"
+        }
+      ],
+      "evidence": [
+        "他将此番结果报去了玄首万明道人处",
+        "后者看过之后，也是通过训天道章，将此消息送传到了清玄道宫之中。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "元夏",
+      "name": "甄绰",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "瑶璃的老师",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "上一次元夏侵攻，持续三四月的攻袭破开了本土虚空之内的不少阵法，需要重新修补，并且还要继续加固",
+      "summary": "瑶璃以前的老师之一，因怕出身牵累瑶璃而离开东庭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "学生"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "上一次元夏侵攻，持续三四月的攻袭破开了本土虚空之内的不少阵法，需要重新修补，并且还要继续加固",
-        "他将去往元夏的见闻说了下，最后道：“元夏不灭，我天夏难存，我们两家一定是要分个胜负，也一定是要分一个道理的，若从大道而言，此中不分对错，但从人而言，元夏所执之道违逆人性，视众生如牲畜，定化天序，固守上下，妄图使天道不转，是必然要将之摧毁的",
-        "”    季节听完之后，郑重道：“季节乃是天夏玄尊，该当为出力，”    他也是有觉悟的，正是因为知晓了元夏入侵，他觉得自己也当出一份力，这才下定决心攀登上境"
+        "你以前有两个老师，名唤甄绰、赵柔，是如此吧？",
+        "你那两位老师离开东庭的请书我也看了，他们应该是怕自己出身牵累了你。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "明周道",
+      "name": "赵柔",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "瑶璃的老师",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "两人在一番交谈之后，见天色渐黯，张御唤了一声：“明周道友",
+      "summary": "瑶璃以前的老师之一，因怕出身牵累瑶璃而离开东庭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "学生"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "两人在一番交谈之后，见天色渐黯，张御唤了一声：“明周道友",
-        "”    殿内光芒一闪，明周道人出现在了一旁，道：“廷执有何吩咐",
-        "”    明周道人稽首道：“明周明白"
+        "你以前有两个老师，名唤甄绰、赵柔，是如此吧？",
+        "你那两位老师离开东庭的请书我也看了，他们应该是怕自己出身牵累了你。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "季节成",
+      "name": "长孙廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "季节成就上境，在上层来说不算什么，仅只是多了一位玄尊，多了一位人手，目前玄廷上层全都是在为应对元夏的再次侵袭做准备",
+      "summary": "送来一具化身给张御祭炼。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "季节成就上境，在上层来说不算什么，仅只是多了一位玄尊，多了一位人手，目前玄廷上层全都是在为应对元夏的再次侵袭做准备",
-        "季节成就之后，更是引得一大批玄修前往东庭，许多人觉得，便是没有收获，沾一沾东庭的机缘，说不定来日自己也能成玄尊呢"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送来一具化身给张御。"
+        }
+      ],
+      "evidence": [
+        "长孙廷执送来一具化身，说是林廷执以根本道法改换过的，需请廷执重作祭炼。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "弟子",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百九十二章 道行从根生",
-      "summary": "而在近段时日，各洲宿的玄府弟子也正是在准备论道之中",
+      "summary": "以根本道法改换化身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "根本道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "说是林廷执以根本道法改换过的"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "英颛",
+      "aliases": [],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第一百九十二章 道行从根生",
+      "summary": "与张御、季节并列的东庭玄尊之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "自己的资才比不上张御、英颛二人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "金郅行",
+      "aliases": [],
+      "identity": "情报来源",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第一百九十二章 道行从根生",
+      "summary": "提供元夏动向的情报。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -246,11 +445,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "而在近段时日，各洲宿的玄府弟子也正是在准备论道之中",
-        "昌合、安越、宣宁三大府洲这回都是派遣了府中英杰，意图压倒东庭玄府的弟子",
-        "项淳对这番论道也是较为看重，此次论道虽然只是在低辈弟子之间，但是因为季节之事，东庭玄府格外受到关注，为了玄府名声考量，能赢的话就要设法赢下来"
+        "从金郅行传来的消息，还在准备之中。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

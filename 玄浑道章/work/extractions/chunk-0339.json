@@ -1,256 +1,495 @@
 {
   "chunk_id": "chunk-0339",
-  "title": "第一百一十一章 秘图",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "青阳玄府玄正",
+      "faction": "青阳玄府",
       "status": "登场",
       "first_appearance": "第一百一十一章 秘图",
-      "summary": "第一百一十一章 秘图    张御转回洲中之后，立刻带着诸派派主直奔洪山、弥光两派而去",
+      "summary": "青阳玄府玄正，主导玄府统一，处理两府事务，并计划对付霜洲。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十一章 秘图    张御转回洲中之后，立刻带着诸派派主直奔洪山、弥光两派而去",
-        "洪山、弥光如今两派没有了派主，自然无可能抵御这股力量，不过一日时间，张御就将这两派拿下，派中弟子尽数归并入了玄府",
-        "不过张御也是知道，这样的结果肯定是有人不愿意见到的，甚至连原本相处尚算和睦的两府在对待他们的态度上怕也会有所改变"
+      "personality": [
+        "冷静",
+        "果断",
+        "善于谋划"
       ],
-      "mention_count": 26
+      "abilities": [
+        "心光感应"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "同僚"
+        },
+        {
+          "target": "竺玄首",
+          "type": "上级"
+        },
+        {
+          "target": "万明道人",
+          "type": "下属"
+        },
+        {
+          "target": "曹方定",
+          "type": "下属"
+        },
+        {
+          "target": "范澜",
+          "type": "同门"
+        },
+        {
+          "target": "齐武",
+          "type": "同门"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        },
+        {
+          "target": "青曦",
+          "type": "侍者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "转回洲中，拿下洪山、弥光两派，统一玄府。"
+        },
+        {
+          "stage": "当前",
+          "event": "在开阳学宫度过年夜。"
+        },
+        {
+          "stage": "当前",
+          "event": "与恽尘商议两府削减物资之事。"
+        },
+        {
+          "stage": "当前",
+          "event": "前往方台道派驻地，收到霜洲舆图。"
+        }
+      ],
+      "evidence": [
+        "张御转回洲中之后，立刻带着诸派派主直奔洪山、弥光两派而去。",
+        "张御返回天夏本土后的第一个年夜是在开阳学宫之内渡过的。",
+        "张御心下一思，从钟烈的话可以看出，其背后是有人的。"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "玄正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "他见张御到来，立刻请了他入殿，并道：“玄正来得正好，有一事正要告知玄正，新年之后，两府来函，说是北方战事吃紧，物资调拨周转有些困难，所以答应拨付给我们的东西可能要削减一些",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他见张御到来，立刻请了他入殿，并道：“玄正来得正好，有一事正要告知玄正，新年之后，两府来函，说是北方战事吃紧，物资调拨周转有些困难，所以答应拨付给我们的东西可能要削减一些",
-        "与恽尘再商量了一些事后，他本是准备去竺玄首那里再走一趟，不过恽尘言却道：“老师这几日正在闭关，不过月末当会出关，老师也言，有些话也正要与玄正言说，玄正可那时再至",
-        "万明道人见他到来，待见过礼后，便道：“玄正来的正好，正有一事要报于玄正知晓"
+      "name": "恽尘",
+      "aliases": [
+        "恽道友"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "玄府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府修士",
+      "faction": "青阳玄府",
       "status": "登场",
       "first_appearance": "第一百一十一章 秘图",
-      "summary": "洪山、弥光如今两派没有了派主，自然无可能抵御这股力量，不过一日时间，张御就将这两派拿下，派中弟子尽数归并入了玄府",
+      "summary": "玄府修士，年前返回，处理事务，与张御商议两府事宜。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "洪山、弥光如今两派没有了派主，自然无可能抵御这股力量，不过一日时间，张御就将这两派拿下，派中弟子尽数归并入了玄府",
-        "随着这最后两派归附，域外域内诸派已是全数并入了玄府，青阳玄府也是在实质意义上将五十余年将来分散在外的力量重新归并为一",
-        "毕竟从礼制上说，玄府是高于两府的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "竺玄首",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "他清楚，这是无可避免的，毕竟任谁也不希望头上另一个人压着，玄府之前那般四分五裂的样子恰恰是绝大多数人都愿意看到的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "年前返回，处理事务。"
+        },
+        {
+          "stage": "当前",
+          "event": "告知张御两府削减物资之事。"
+        }
+      ],
       "evidence": [
-        "他清楚，这是无可避免的，毕竟任谁也不希望头上另一个人压着，玄府之前那般四分五裂的样子恰恰是绝大多数人都愿意看到的",
-        "”    他吩咐了一声，立刻有弟子托了一只长形玉匣上来，他指着言道：“这是初一那日有人送到派中的，附着信签上言明是交予玄正的，看去是什么重要之物，我们未敢擅自打开",
-        "大致可以看出，这是一个身量中等的修士"
+        "恽尘也是在年前回来的，尽管在年节之中，可他仍是在处理事务。",
+        "他见张御到来，立刻请了他入殿，并道：“玄正来得正好，有一事正要告知玄正。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "尽管",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "尽管钟烈、梅倚枝二人还未曾将章印和秘法上交，但这只是小事罢了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "尽管钟烈、梅倚枝二人还未曾将章印和秘法上交，但这只是小事罢了",
-        "恽尘也是在年前回来的，尽管在年节之中，可他仍是在处理事务，对于真修而言，一个闭关通常就是数载甚至十余载，故是对年节倒是并不如何看重",
-        "”    张御心下一思，从钟烈的话可以看出，其背后是有人的，尽管现在不知此人具体身份，可其能驱用真修，且还能让两位玄修派主为之立誓，这其实已经是一个较为明显的线索了"
+      "name": "万明道人",
+      "aliases": [
+        "万明"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "恽尘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府修士，负责方台道派驻地",
+      "faction": "青阳玄府",
       "status": "登场",
       "first_appearance": "第一百一十一章 秘图",
-      "summary": "恽尘也是在年前回来的，尽管在年节之中，可他仍是在处理事务，对于真修而言，一个闭关通常就是数载甚至十余载，故是对年节倒是并不如何看重",
+      "summary": "玄府修士，被安排看顾方台道派驻地，向张御报告收到玉匣。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "恽尘也是在年前回来的，尽管在年节之中，可他仍是在处理事务，对于真修而言，一个闭关通常就是数载甚至十余载，故是对年节倒是并不如何看重",
-        "”    恽尘懂他的意思，道：“好，此事就由我来与两府交涉吧",
-        "”    恽尘摇头道：“这二人与那于坚一般，都是在心中立下过誓言的，所以不曾问出什么有用的东西来，只是知道那位与他们同行的真修名唤朱离，的确是灵妙玄境的修士"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "尽管钟烈、梅倚枝二人还未曾将章印和秘法上交，但这只是小事罢了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "尽管钟烈、梅倚枝二人还未曾将章印和秘法上交，但这只是小事罢了",
-        "”    恽尘摇头道：“这二人与那于坚一般，都是在心中立下过誓言的，所以不曾问出什么有用的东西来，只是知道那位与他们同行的真修名唤朱离，的确是灵妙玄境的修士",
-        "他看着这副悬于空中以金线勾勒出来的大图，不难分辨出来，这上面画的是两个地方，只是为了绘图方便，所以被彼此紧按在了一起"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在方台道派驻地看顾，收到玉匣并报告张御。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "更别",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "不过现在这个时候，霜洲人才是眼前需要解决的，更别说霜洲那里还有可能找到与域内有牵扯的东西，余者可以暂时先放一边",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "不过现在这个时候，霜洲人才是眼前需要解决的，更别说霜洲那里还有可能找到与域内有牵扯的东西，余者可以暂时先放一边",
-        "以青阳上洲如此庞大的地域和军事力量，尚且惧怕外来小股部队利用这样的战术对付自己，更别说是霜洲了，如此即便无法毁去此地，可绝然也可以对其造成巨大的破坏"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "这个道派的驻地位置十分重要，若是霜洲人想要用成规模的军兵突袭青阳，那么这里是必须拿下的，所以万明道人和曹方定等人现在都是被安排在了这里看顾",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个道派的驻地位置十分重要，若是霜洲人想要用成规模的军兵突袭青阳，那么这里是必须拿下的，所以万明道人和曹方定等人现在都是被安排在了这里看顾",
-        "他摆袖走前了两步，再是仔细看了几眼，心下思索了片刻，若是不曾猜错的话，这很可能是一副霜洲舆图",
-        "若这张图是真的，那么送上这副舆图的人，必然是对霜洲十分了解，此人无疑比这幅图的价值更高，若是能找到此人，那么他相信目前所遇到的问题至少能解决一半"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他指",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "”    他吩咐了一声，立刻有弟子托了一只长形玉匣上来，他指着言道：“这是初一那日有人送到派中的，附着信签上言明是交予玄正的，看去是什么重要之物，我们未敢擅自打开",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他吩咐了一声，立刻有弟子托了一只长形玉匣上来，他指着言道：“这是初一那日有人送到派中的，附着信签上言明是交予玄正的，看去是什么重要之物，我们未敢擅自打开",
-        "而这副舆图却是给他指出了方向，只是其真实性还需待定",
-        "他对外吩咐了一声，让人去把万明道人和曹方定寻来，待两人都是到来后，他指着那图画道：“两位可是识得此人么"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "立刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十一章 秘图",
-      "summary": "第一百一十一章 秘图    张御转回洲中之后，立刻带着诸派派主直奔洪山、弥光两派而去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十一章 秘图    张御转回洲中之后，立刻带着诸派派主直奔洪山、弥光两派而去",
-        "”    张御点了点头，对着妙丹君招呼一声，这只小豹猫立刻跟了上来，随着他往楼下走去",
-        "他见张御到来，立刻请了他入殿，并道：“玄正来得正好，有一事正要告知玄正，新年之后，两府来函，说是北方战事吃紧，物资调拨周转有些困难，所以答应拨付给我们的东西可能要削减一些"
+        "万明道人见他到来，待见过礼后，便道：“玄正来的正好，正有一事要报于玄正知晓。”",
+        "他吩咐了一声，立刻有弟子托了一只长形玉匣上来。"
       ],
       "mention_count": 3
     },
     {
-      "name": "毕竟",
+      "name": "曹方定",
       "aliases": [],
-      "identity": "",
+      "identity": "玄府修士",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "玄府修士，与万明道人一同被安排看顾方台道派驻地。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在方台道派驻地，被张御召见询问。"
+        }
+      ],
+      "evidence": [
+        "他对外吩咐了一声，让人去把万明道人和曹方定寻来。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钟烈",
+      "aliases": [],
+      "identity": "原洪山派派主",
+      "faction": "原洪山派",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "原洪山派派主，未上交章印和秘法，被提及与朱离有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "梅倚枝",
+          "type": "同伙"
+        },
+        {
+          "target": "朱离",
+          "type": "同行真修"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及未上交章印和秘法。"
+        }
+      ],
+      "evidence": [
+        "尽管钟烈、梅倚枝二人还未曾将章印和秘法上交，但这只是小事罢了。",
+        "恽尘摇头道：“这二人与那于坚一般，都是在心中立下过誓言的。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "梅倚枝",
+      "aliases": [],
+      "identity": "原弥光派派主",
+      "faction": "原弥光派",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "原弥光派派主，未上交章印和秘法，被提及与朱离有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟烈",
+          "type": "同伙"
+        },
+        {
+          "target": "朱离",
+          "type": "同行真修"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及未上交章印和秘法。"
+        }
+      ],
+      "evidence": [
+        "尽管钟烈、梅倚枝二人还未曾将章印和秘法上交，但这只是小事罢了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "朱离",
+      "aliases": [],
+      "identity": "灵妙玄境修士",
+      "faction": "灵妙玄境",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "灵妙玄境修士，与钟烈、梅倚枝同行。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟烈",
+          "type": "同行"
+        },
+        {
+          "target": "梅倚枝",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为灵妙玄境修士。"
+        }
+      ],
+      "evidence": [
+        "只是知道那位与他们同行的真修名唤朱离，的确是灵妙玄境的修士。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [
+        "老师"
+      ],
+      "identity": "玄府玄首",
+      "faction": "青阳玄府",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "玄府玄首，正在闭关，月末出关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "正在闭关，月末出关。"
+        }
+      ],
+      "evidence": [
+        "恽尘言却道：“老师这几日正在闭关，不过月末当会出关。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "范澜",
+      "aliases": [],
+      "identity": "东庭弟子",
+      "faction": "东庭",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "东庭弟子，与张御饮宴。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御在界隙饮宴。"
+        }
+      ],
+      "evidence": [
+        "去了一趟界隙，与范澜、齐武和一众来自东庭的弟子饮宴了几日。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "齐武",
+      "aliases": [],
+      "identity": "东庭弟子",
+      "faction": "东庭",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "东庭弟子，与张御饮宴。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御在界隙饮宴。"
+        }
+      ],
+      "evidence": [
+        "去了一趟界隙，与范澜、齐武和一众来自东庭的弟子饮宴了几日。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "武泽",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "张御从武泽拿里取了一些东西。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "提供物品"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "张御从武泽拿里取了一些东西。"
+        }
+      ],
+      "evidence": [
+        "从武泽拿里取了一些东西。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "宠物豹猫",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百一十一章 秘图",
-      "summary": "毕竟从礼制上说，玄府是高于两府的",
+      "summary": "张御的宠物豹猫，能变成多个自己。",
+      "appearance": [
+        "豹猫"
+      ],
+      "personality": [
+        "活泼"
+      ],
+      "abilities": [
+        "分身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在年夜时在张御脚下转来转去，变成多个自己追逐拍打。"
+        }
+      ],
+      "evidence": [
+        "妙丹君则在他脚下转了转去，时不时还会变成数十个自己，互相追逐拍打。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "青曦",
+      "aliases": [],
+      "identity": "侍者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "张御的侍者，通知年宴准备好。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "侍奉"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通知张御年宴准备好。"
+        }
+      ],
+      "evidence": [
+        "青曦这时从外面走进来，万福一礼，道：“先生，年宴已经准备好啦。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "于坚",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "被提及",
+      "first_appearance": "第一百一十一章 秘图",
+      "summary": "被提及与钟烈、梅倚枝类似，立下过誓言。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "毕竟从礼制上说，玄府是高于两府的",
-        "他清楚，这是无可避免的，毕竟任谁也不希望头上另一个人压着，玄府之前那般四分五裂的样子恰恰是绝大多数人都愿意看到的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及与钟烈、梅倚枝类似。"
+        }
       ],
-      "mention_count": 3
+      "evidence": [
+        "恽尘摇头道：“这二人与那于坚一般，都是在心中立下过誓言的。”"
+      ],
+      "mention_count": 1
     }
   ]
 }

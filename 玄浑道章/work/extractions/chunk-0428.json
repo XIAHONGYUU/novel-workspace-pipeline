@@ -1,256 +1,402 @@
 {
   "chunk_id": "chunk-0428",
-  "title": "第一百九十九章 契书",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "第一百九十九章 契书    张御在斩了公孙泯之后，就一路遁光往回飞纵",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百九十九章 契书    张御在斩了公孙泯之后，就一路遁光往回飞纵",
-        "”    张御略一思索，停下身形，道：“让他过来",
-        "”    张御一点头，他示意了一下，万明等人都是远远退避出去，而后他道：“林道友，这里一览无余，有什么话你可以说了"
+      "aliases": [
+        "张玄正"
       ],
-      "mention_count": 29
+      "identity": "青阳玄府玄正",
+      "faction": "天夏玄修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳玄府玄正，斩杀了公孙泯，正追查白秀上人。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "斩诸绝"
+      ],
+      "equipment": [
+        "剑胎"
+      ],
+      "relationships": [
+        {
+          "target": "公孙泯",
+          "type": "敌对"
+        },
+        {
+          "target": "白秀上人",
+          "type": "敌对"
+        },
+        {
+          "target": "林道人",
+          "type": "和解"
+        },
+        {
+          "target": "曹度",
+          "type": "合作"
+        },
+        {
+          "target": "陈大匠",
+          "type": "交易"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "斩公孙泯后返回独州，与林道人交谈，收下剑胎，后与曹度会面，再去牢舟见陈大匠立契书。"
+        }
+      ],
+      "evidence": [
+        "张御在斩了公孙泯之后，就一路遁光往回飞纵。",
+        "张御略一思索，停下身形，道：“让他过来。”",
+        "张御淡声道：“此事道法契书，签立约誓之下，自有道法神通约束，若是违反，性命神魂皆可夺去。”"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "林道",
+      "name": "公孙泯",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "正飞驰之中，万明道人赶了上来，对他言道：“玄正，那林道人跟上来了，看去似欲与玄正说话，玄正可要见他",
+      "identity": "白秀上人弟子",
+      "faction": "真修",
+      "status": "已死",
+      "first_appearance": "",
+      "summary": "白秀上人的弟子，被张御斩杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "白秀上人",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御斩杀。"
+        }
+      ],
+      "evidence": [
+        "张御在斩了公孙泯之后",
+        "代表着公孙泯的那个牌符已然失去了光亮。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "白秀上人",
+      "aliases": [
+        "白秀"
+      ],
+      "identity": "真修，玄廷廷执弟子",
+      "faction": "真修",
+      "status": "未登场",
+      "first_appearance": "",
+      "summary": "公孙泯之师，法力高深，背景深厚，其师为玄廷廷执。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙泯",
+          "type": "师徒"
+        },
+        {
+          "target": "竺玄首",
+          "type": "曾为门下"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "正飞驰之中，万明道人赶了上来，对他言道：“玄正，那林道人跟上来了，看去似欲与玄正说话，玄正可要见他",
-        "”    片刻之后，就见一道遁光趋至近前，林道人自里面出来，对他打一个稽首，抬头道：“张玄正，可否借一步说话",
-        "”    张御一点头，他示意了一下，万明等人都是远远退避出去，而后他道：“林道友，这里一览无余，有什么话你可以说了"
+        "白秀上人一直躲在幕后不出",
+        "白秀之师以往也曾是青阳玄府的上修，早年便炼就元神，名称玄尊，现如今更是玄廷之中的一位“廷执”"
       ],
-      "mention_count": 11
+      "mention_count": 8
     },
     {
       "name": "林道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "林道友",
+        "林某人"
+      ],
+      "identity": "真修，与张御和解",
+      "faction": "真修",
       "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "正飞驰之中，万明道人赶了上来，对他言道：“玄正，那林道人跟上来了，看去似欲与玄正说话，玄正可要见他",
+      "first_appearance": "",
+      "summary": "真修，代师弟向张御道歉，并赠剑胎赔礼，告知白秀上人背景。",
+      "appearance": [],
+      "personality": [
+        "诚恳"
+      ],
+      "abilities": [],
+      "equipment": [
+        "剑胎"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "和解"
+        },
+        {
+          "target": "楚师弟",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "追上张御，道歉并赠剑胎，告知白秀上人背景后离去。"
+        }
+      ],
+      "evidence": [
+        "万明道人赶了上来，对他言道：“玄正，那林道人跟上来了”",
+        "林道人这时从星袋之中取出一团精光耀目的物事，往上一递",
+        "林道人再是对他打一个稽首，道：“林某不与玄正同路，就此告辞了。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "万明道人",
+      "aliases": [
+        "万明"
+      ],
+      "identity": "玄修，张御下属",
+      "faction": "玄修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，向张御报告林道人跟上。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正飞驰之中，万明道人赶了上来，对他言道：“玄正，那林道人跟上来了，看去似欲与玄正说话，玄正可要见他",
-        "”    片刻之后，就见一道遁光趋至近前，林道人自里面出来，对他打一个稽首，抬头道：“张玄正，可否借一步说话",
-        "”    林道人神情认真道：“此来有二事需与张玄正言说，一来是楚师弟之事，他已是对我们说了，此前被张玄正斩杀的庞、赵两名邪修，便是他得公孙泯授意，有意放纵的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御报告林道人跟上。"
+        }
+      ],
+      "evidence": [
+        "万明道人赶了上来，对他言道：“玄正，那林道人跟上来了”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "独州将军",
+      "faction": "天夏军方",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "独州将军，与张御合作，负责监视牢舟。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在主舟迎候张御，汇报牢舟情况。"
+        }
+      ],
+      "evidence": [
+        "张御一路回了独州之后，让万明等人自去，而后自己直接往舰队主舟上与曹度会面。",
+        "曹度在大厅迎候他"
+      ],
+      "mention_count": 4
     },
     {
       "name": "陈大匠",
       "aliases": [],
-      "identity": "",
+      "identity": "大匠，被关押在牢舟",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "曹度在大厅迎候他，待请了他坐下，便道：“方才明校尉回来，已是将大致事情禀告于我，此回张玄正与诸位玄修着实辛苦了，只是张玄正，不知陈大匠所需那源念可是有寻到么",
+      "first_appearance": "",
+      "summary": "被关押在牢舟的大匠，与张御立契书交换源念。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "好奇"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "曹度在大厅迎候他，待请了他坐下，便道：“方才明校尉回来，已是将大致事情禀告于我，此回张玄正与诸位玄修着实辛苦了，只是张玄正，不知陈大匠所需那源念可是有寻到么",
-        "离了主舟之后，他先去了一趟驻地，备妥了一些事，这才往牢舟而来，到了此间后，他直接来到了关押陈大匠的那处牢间之内",
-        "陈大匠见他到来，从床榻上下来，浑浊的眼中有精芒亮起，隐隐带着几分急切道：“张玄正，可是东西拿到了么"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交易"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牢间与张御立契书。"
+        }
+      ],
+      "evidence": [
+        "陈大匠见他到来，从床榻上下来",
+        "陈大匠看了几眼，颇感兴趣道：“契书么，我听说过”",
+        "陈大匠呵呵一笑，道：“我明白了”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "玄正",
+      "name": "竺玄首",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "正飞驰之中，万明道人赶了上来，对他言道：“玄正，那林道人跟上来了，看去似欲与玄正说话，玄正可要见他",
+      "identity": "青阳玄府玄首",
+      "faction": "玄修",
+      "status": "未登场",
+      "first_appearance": "",
+      "summary": "青阳玄府玄首，曾为白秀上人之师，为其做遮掩。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "白秀上人",
+          "type": "曾为师徒"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "正飞驰之中，万明道人赶了上来，对他言道：“玄正，那林道人跟上来了，看去似欲与玄正说话，玄正可要见他",
-        "”    片刻之后，就见一道遁光趋至近前，林道人自里面出来，对他打一个稽首，抬头道：“张玄正，可否借一步说话",
-        "”    林道人神情认真道：“此来有二事需与张玄正言说，一来是楚师弟之事，他已是对我们说了，此前被张玄正斩杀的庞、赵两名邪修，便是他得公孙泯授意，有意放纵的"
+        "竺玄首又隐隐为其做遮掩"
       ],
-      "mention_count": 7
+      "mention_count": 2
     },
     {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "唐道人",
+      "aliases": [
+        "唐师叔"
+      ],
+      "identity": "白秀上人师弟",
+      "faction": "真修",
       "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "”    张御一点头，他示意了一下，万明等人都是远远退避出去，而后他道：“林道友，这里一览无余，有什么话你可以说了",
-      "appearance": [],
+      "first_appearance": "",
+      "summary": "白秀上人的师弟，出现在凤湘岭道观，告知小道童其师父之事。",
+      "appearance": [
+        "长髯凤目的年轻道人"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御一点头，他示意了一下，万明等人都是远远退避出去，而后他道：“林道友，这里一览无余，有什么话你可以说了",
-        "而后来何师弟向张玄正约战，同样也是公孙泯在背后推动，为的是取落到张玄正手中的血精",
-        "他小脸煞白，站在原地茫然了一会儿，在案台之上找了一下，拿出一枚玉符，而后转出来，一直走到庙台空地之前的石龛前，双手抓着玉符试着晃了一晃，然而上面却没有半分反应"
+      "relationships": [
+        {
+          "target": "白秀上人",
+          "type": "同门"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "你快",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "这时房门吱嘎一开，一名胖乎乎的小道童慌慌张张冲进来，满脸慌张道：“师兄，师兄，你快去看看吧，观主的光不见了呀",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这时房门吱嘎一开，一名胖乎乎的小道童慌慌张张冲进来，满脸慌张道：“师兄，师兄，你快去看看吧，观主的光不见了呀",
-        "”    胖道童连连摇头，“没弄丢，我没有，不是我……”他胖乎乎的脸皱了起来，用手比划了一下，“师兄，你快去看看吧，就是，就是观主供在上面的光，很亮的那个"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在凤湘岭道观安慰小道童，说会交代。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "曹度",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "”    张御一路回了独州之后，让万明等人自去，而后自己直接往舰队主舟上与曹度会面",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    张御一路回了独州之后，让万明等人自去，而后自己直接往舰队主舟上与曹度会面",
-        "曹度在大厅迎候他，待请了他坐下，便道：“方才明校尉回来，已是将大致事情禀告于我，此回张玄正与诸位玄修着实辛苦了，只是张玄正，不知陈大匠所需那源念可是有寻到么",
-        "”    曹度对源念虽然好奇，但他没有多问，涉及神异力量的事情他懂得不多，而他从不在自己不了解的方面去指手画脚，他道：“如此便好啊"
+        "唐道人点点头，道：“你师父的事，我和你师祖已是知道了。”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "陈大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "曹度在大厅迎候他，待请了他坐下，便道：“方才明校尉回来，已是将大致事情禀告于我，此回张玄正与诸位玄修着实辛苦了，只是张玄正，不知陈大匠所需那源念可是有寻到么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "曹度在大厅迎候他，待请了他坐下，便道：“方才明校尉回来，已是将大致事情禀告于我，此回张玄正与诸位玄修着实辛苦了，只是张玄正，不知陈大匠所需那源念可是有寻到么",
-        "离了主舟之后，他先去了一趟驻地，备妥了一些事，这才往牢舟而来，到了此间后，他直接来到了关押陈大匠的那处牢间之内",
-        "陈大匠见他到来，从床榻上下来，浑浊的眼中有精芒亮起，隐隐带着几分急切道：“张玄正，可是东西拿到了么"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "张玄正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "”    片刻之后，就见一道遁光趋至近前，林道人自里面出来，对他打一个稽首，抬头道：“张玄正，可否借一步说话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    片刻之后，就见一道遁光趋至近前，林道人自里面出来，对他打一个稽首，抬头道：“张玄正，可否借一步说话",
-        "”    林道人神情认真道：“此来有二事需与张玄正言说，一来是楚师弟之事，他已是对我们说了，此前被张玄正斩杀的庞、赵两名邪修，便是他得公孙泯授意，有意放纵的",
-        "而后来何师弟向张玄正约战，同样也是公孙泯在背后推动，为的是取落到张玄正手中的血精"
-      ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
       "name": "小道童",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "白秀上人弟子",
+      "faction": "真修",
       "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "凤湘岭，竹林道观之中，一名粉妆玉琢的小道童正在道房认真做着功课",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "白秀上人的弟子，在道观中发现公孙泯牌符失去光亮。",
+      "appearance": [
+        "粉妆玉琢"
+      ],
+      "personality": [
+        "小大人模样"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "白秀上人",
+          "type": "师徒"
+        },
+        {
+          "target": "公孙泯",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现公孙泯牌符失去光亮，试图联系师父未果。"
+        }
+      ],
       "evidence": [
-        "凤湘岭，竹林道观之中，一名粉妆玉琢的小道童正在道房认真做着功课",
-        "这时房门吱嘎一开，一名胖乎乎的小道童慌慌张张冲进来，满脸慌张道：“师兄，师兄，你快去看看吧，观主的光不见了呀",
-        "”    小道童倒是一股小大人模样，道：“别急，什么光，你是不是又弄丢什么东西了"
+        "一名粉妆玉琢的小道童正在道房认真做着功课。",
+        "小道童倒是一股小大人模样",
+        "他小脸煞白，站在原地茫然了一会儿"
       ],
       "mention_count": 5
     },
     {
-      "name": "而这",
+      "name": "胖道童",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "小道童的师弟",
+      "faction": "真修",
       "status": "登场",
-      "first_appearance": "第一百九十九章 契书",
-      "summary": "而这一次，他直接将其弟子公孙泯尸身送到其面前，那便是逼得此人过来寻他，不管其有何阴谋鬼祟，若得一战，自可破之",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "小道童的师弟，慌张报告观主的光不见了。",
+      "appearance": [
+        "胖乎乎"
+      ],
+      "personality": [
+        "慌张"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而这一次，他直接将其弟子公孙泯尸身送到其面前，那便是逼得此人过来寻他，不管其有何阴谋鬼祟，若得一战，自可破之",
-        "”    林道人这时神情一肃，道：“张玄正方才斩了公孙泯，下来想必也要追查白秀，只是张玄正要小心了，此人法力高深，无论神通法力，还是斗法争胜，都是我辈之中第一人，而这还罢了，关键是此人还颇有来历"
+      "relationships": [
+        {
+          "target": "小道童",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向师兄报告观主的光不见了。"
+        }
+      ],
+      "evidence": [
+        "一名胖乎乎的小道童慌慌张张冲进来"
+      ],
+      "mention_count": 2
     }
   ]
 }

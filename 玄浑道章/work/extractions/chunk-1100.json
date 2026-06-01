@@ -1,257 +1,450 @@
 {
   "chunk_id": "chunk-1100",
-  "title": "第二章 罢征拓内合",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "玄廷廷执，守正宫统辖",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "第二章 罢征拓内合    张御走入了光气长河之中，来到了自己席座之上，转目一望，诸廷执也是一一现身而出，他先与诸位廷执见过礼",
+      "summary": "玄廷廷执，负责守正宫，参与廷议并赞同钟廷执的呈议，后前往东庭府洲伏州。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "务实"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二章 罢征拓内合    张御走入了光气长河之中，来到了自己席座之上，转目一望，诸廷执也是一一现身而出，他先与诸位廷执见过礼",
-        "”    说到这里，他看向张御，道：“我曾看过一份呈报，当初张廷执担任青阳上洲玄正之时，曾在荒域之中派遣修士营造了驻地营垒，当时是为了防御警戒霜洲的侵袭，后来则逐步成了聚集地",
-        "张御想了下，他觉得钟廷执这呈议中或可能还有更多用意，但此策本身并没什么问题，既然有利于洲域免遭侵袭，那么自是应该去做，故他也是认可"
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "陈嵩",
+          "type": "旧识"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "参与玄廷廷议，赞同钟廷执的增洲扩府之策，并提议将投诚之人置于守正宫统辖。"
+        },
+        {
+          "stage": "廷议后",
+          "event": "离开廷议，前往东庭府洲伏州。"
+        }
+      ],
+      "evidence": [
+        "张御走入了光气长河之中，来到了自己席座之上",
+        "张御想了下，他觉得钟廷执这呈议中或可能还有更多用意，但此策本身并没什么问题，既然有利于洲域免遭侵袭，那么自是应该去做，故他也是认可。",
+        "张御略作思索，出声道：“此事涉及对外守御，此辈当放在守正宫辖下一并统御，也好方便监察。”"
+      ],
+      "mention_count": 8
     },
     {
       "name": "钟廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "钟某"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
+      "summary": "玄廷廷执，提出增洲扩府、设立驻地以防御神怪的呈议，并隐含推动造物发展的目的。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "有远见",
+        "沉稳"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "提出增洲扩府之策，获得通过。"
+        },
+        {
+          "stage": "廷议后",
+          "event": "与崇廷执交谈，透露呈议的深层目的。"
+        }
+      ],
       "evidence": [
-        "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
-        "”    钟廷执道：“钟某以为，在维持原先格局之上，当是继续增扩府洲，好为今后万世计",
-        "”    韦廷执沉吟一下，道：“钟廷执的意思是要增洲扩府"
+        "钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议。”",
+        "钟廷执道：“钟某以为，在维持原先格局之上，当是继续增扩府洲，好为今后万世计。”",
+        "钟廷执沉声道：“仅仅只是第一步罢了，是否能成，还要看他们能否做到，看他们自家是否由此意愿。”"
       ],
       "mention_count": 10
     },
     {
-      "name": "钟廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "首座道人",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "玄廷首座",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
+      "summary": "玄廷首座，主持廷议，最终裁定各项事宜。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "威严",
+        "公正"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
-        "”    钟廷执道：“钟某以为，在维持原先格局之上，当是继续增扩府洲，好为今后万世计",
-        "”    韦廷执沉吟一下，道：“钟廷执的意思是要增洲扩府"
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "主持廷议，询问诸位廷执可有呈议，并最终定议。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "首座道人缓声言道：“诸位廷执可有呈议么？”",
+        "首座道人望有一眼，道：“若是诸位廷执皆无异议，那此事便就如此定下。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "也是",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "第二章 罢征拓内合    张御走入了光气长河之中，来到了自己席座之上，转目一望，诸廷执也是一一现身而出，他先与诸位廷执见过礼",
+      "summary": "玄廷廷执，在廷议中询问内拓细节，并提议派遣人手坐镇虚空警星。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二章 罢征拓内合    张御走入了光气长河之中，来到了自己席座之上，转目一望，诸廷执也是一一现身而出，他先与诸位廷执见过礼",
-        "”    钟廷执道：“再设洲府钟某以为也是有必要的，不过并非眼下，钟某所言，指的乃是扩中洲，增下洲",
-        "张御想了下，他觉得钟廷执这呈议中或可能还有更多用意，但此策本身并没什么问题，既然有利于洲域免遭侵袭，那么自是应该去做，故他也是认可"
+      "personality": [
+        "积极",
+        "细致"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "发出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
-        "青曦看着下方，发出轻轻惊呼之声",
-        "”    陈嵩道：“回禀廷执，当年那些异神选地甚好，所散发出的神异气机也能震慑周围异神神怪，几年来都无变故"
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "询问钟廷执如何内拓，后提出投掷警星及派遣镇守人选。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "我等",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    待诸廷执都是看过来，他才是言道：“首执，诸位廷执，我天夏自与上宸天一战后，一年整顿，两年休养，如今民生渐复，因外敌已去，我等也改是转为内拓了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    待诸廷执都是看过来，他才是言道：“首执，诸位廷执，我天夏自与上宸天一战后，一年整顿，两年休养，如今民生渐复，因外敌已去，我等也改是转为内拓了",
-        "再是昌合府洲，越是向外开拓，所遇土著异神和神怪次数便越频繁，盖因为我等将原本荒芜人烟的所在改造成了沃土，故是皆来抢夺",
-        "而青阳上洲这般情形，这说明此法是行之有效的，我等只要照此在外设布壁垒，各洲用少量修士再配合大量造物甲士，玄兵、飞舟，就能在野外立足，成为洲域之屏藩"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    说到这里，他看向张御，道：“我曾看过一份呈报，当初张廷执担任青阳上洲玄正之时，曾在荒域之中派遣修士营造了驻地营垒，当时是为了防御警戒霜洲的侵袭，后来则逐步成了聚集地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    说到这里，他看向张御，道：“我曾看过一份呈报，当初张廷执担任青阳上洲玄正之时，曾在荒域之中派遣修士营造了驻地营垒，当时是为了防御警戒霜洲的侵袭，后来则逐步成了聚集地",
-        "”他看了看外间，又道：“陈师兄与我一同走走吧"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "来到",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 罢征拓内合",
-      "summary": "第二章 罢征拓内合    张御走入了光气长河之中，来到了自己席座之上，转目一望，诸廷执也是一一现身而出，他先与诸位廷执见过礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二章 罢征拓内合    张御走入了光气长河之中，来到了自己席座之上，转目一望，诸廷执也是一一现身而出，他先与诸位廷执见过礼",
-        "”    此时内层地陆之上，张御分身在乘舟离开了伊洛上洲后，便一路向东，越过青阳上洲，跨过汪洋，来到了东庭府洲",
-        "不过这一次，并没有从安州上空走，而是直接自南穿行，深入了安山以东的密林深处，直接来到了远离洲府的伏州上空"
+        "林廷执道：“如何内拓？”",
+        "林廷执敲了一下玉磬，站起言道：“诸位廷执，这三年来几番追索气机，如今已是可以确认，幽城、上宸两家残余修士皆是跟随着神昭、寰阳两派一同离去了。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "再是",
+      "name": "韦廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "等有片刻，见得首座道人到来，再是见礼过后，随着一声磬响，便与诸廷执一同坐定下来",
+      "summary": "玄廷廷执，对钟廷执的呈议提出疑问，但最终表示赞同。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "深思熟虑"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "质疑钟廷执的增洲扩府之策，后表示同意。"
+        }
+      ],
       "evidence": [
-        "等有片刻，见得首座道人到来，再是见礼过后，随着一声磬响，便与诸廷执一同坐定下来",
-        "再是昌合府洲，越是向外开拓，所遇土著异神和神怪次数便越频繁，盖因为我等将原本荒芜人烟的所在改造成了沃土，故是皆来抢夺",
-        "而当这些筑垒合在一处时，就能在洲域之间形成稳固的驻地，由以此扩为下洲、再是中洲，此可一步步去做，少则数十载，多则上百载，当便可剪灭内患"
+        "韦廷执沉吟一下，道：“钟廷执的意思是要增洲扩府？可是四大府洲此际正向外开拓，有必要再设洲府么？”",
+        "韦廷执想了想，道：“我亦同意此见，当初设立一十三洲后，若无上宸天、幽城脱离之事，那么以中洲、下洲为元节，用以串联各洲之举其实早该开始做了”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "陈廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二章 罢征拓内合",
+      "summary": "玄廷廷执，建议先在一二洲域试行新策。",
+      "appearance": [],
+      "personality": [
+        "稳妥"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "建议先用新法治一二洲域，再观后效。"
+        }
+      ],
+      "evidence": [
+        "陈廷执道：“可用此法先治一二洲域，再观其后效。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二章 罢征拓内合",
+      "summary": "玄廷廷执，赞同陈廷执的稳妥之见。",
+      "appearance": [],
+      "personality": [
+        "稳重"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "表示赞同陈廷执的提议。"
+        }
+      ],
+      "evidence": [
+        "戴廷执道：“陈廷执此言乃稳妥之见。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二章 罢征拓内合",
+      "summary": "玄廷廷执，赞同使用投诚之人镇守虚空。",
+      "appearance": [],
+      "personality": [
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "表示投诚之人是不错的选择。"
+        }
+      ],
+      "evidence": [
+        "玉素道人开口道：“投诚之人倒是不错。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二章 罢征拓内合",
+      "summary": "玄廷廷执，与钟廷执私下交谈，讨论呈议的深层目的。",
+      "appearance": [],
+      "personality": [
+        "深沉",
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议后",
+          "event": "与钟廷执交谈，指出不能小看造物派，并提醒做好防范。"
+        }
+      ],
+      "evidence": [
+        "崇廷执从光气长河上下来之后，与钟廷执走在了一处，道：“道友此番那呈议过去，算是完成了必要一步。”",
+        "崇廷执道：“有些东西，以往不能冒头，不是他们无此能耐，只是出路被堵死了，他们没有那个机会，若是把机会给了他们，他们或许能做成我等也想象不到的事情。”",
+        "崇廷执声音沉下，道：“所以我等也当做好准备，不能让他们太过越线。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "钟某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "陈嵩",
+      "aliases": [
+        "陈师兄"
+      ],
+      "identity": "东庭府洲伏州负责人",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
+      "summary": "东庭府洲伏州的管理者，负责灵株栽种，迎接张御到来。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬",
+        "稳重"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执拿起玉槌一敲，发出一声磬音，他站起一个稽首，道：“钟某有一呈议",
-        "”    钟廷执道：“钟某以为，在维持原先格局之上，当是继续增扩府洲，好为今后万世计",
-        "”    钟廷执道：“再设洲府钟某以为也是有必要的，不过并非眼下，钟某所言，指的乃是扩中洲，增下洲"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "旧识"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "张御到访",
+          "event": "在泊舟天台迎接张御，并陪同巡视伏州。"
+        }
+      ],
+      "evidence": [
+        "陈嵩正带着两名弟子站在这里相迎，待等到张御一行人从飞舟之中出来，便上前一礼，道：“陈嵩拜见廷执。”",
+        "张御点首为礼，伸手虚虚一托，道：“陈师兄不必多礼。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "如今",
+      "name": "李青禾",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御随从",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    待诸廷执都是看过来，他才是言道：“首执，诸位廷执，我天夏自与上宸天一战后，一年整顿，两年休养，如今民生渐复，因外敌已去，我等也改是转为内拓了",
+      "summary": "张御的随从之一，跟随张御前往伏州。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    待诸廷执都是看过来，他才是言道：“首执，诸位廷执，我天夏自与上宸天一战后，一年整顿，两年休养，如今民生渐复，因外敌已去，我等也改是转为内拓了",
-        "如今各地纷纷上报，说是神怪渐多，频频对洲域发动冲击，剿不胜剿，原因亦是大体相同",
-        "”    韦廷执想了想，道：“我亦同意此见，当初设立一十三洲后，若无上宸天、幽城脱离之事，那么以中洲、下洲为元节，用以串联各洲之举其实早该开始做了，如今钟廷执此建言，乃是将当初之策拿起，亦不算激进"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随从"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "张御到访",
+          "event": "随张御下飞舟，落在后面。"
+        }
+      ],
+      "evidence": [
+        "李青禾、青曙、青曦听到后，便落在了后面"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "林廷",
+      "name": "青曙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御随从",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 罢征拓内合",
-      "summary": "”    林廷执道：“如何内拓",
+      "summary": "张御的随从之一，跟随张御前往伏州。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    林廷执道：“如何内拓",
-        "待钟廷执落座下来后，林廷执敲了一下玉磬，站起言道：“诸位廷执，这三年来几番追索气机，如今已是可以确认，幽城、上宸两家残余修士皆是跟随着神昭、寰阳两派一同离去了",
-        "”    林廷执道：“人选拟定，当由两处，一是那些自愿去往那处的同道，我等当给予丰厚偿补，还有就是用那些罪囚，或是此回投诚之人"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随从"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "张御到访",
+          "event": "随张御下飞舟，落在后面。"
+        }
+      ],
+      "evidence": [
+        "李青禾、青曙、青曦听到后，便落在了后面"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青曦",
+      "aliases": [],
+      "identity": "张御随从",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二章 罢征拓内合",
+      "summary": "张御的随从之一，跟随张御前往伏州，抱着妙丹君。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随从"
+        },
+        {
+          "target": "妙丹君",
+          "type": "抱持"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "张御到访",
+          "event": "随张御下飞舟，落在后面，并抱起妙丹君。"
+        }
+      ],
+      "evidence": [
+        "李青禾、青曙、青曦听到后，便落在了后面，妙丹君想跟上去，被青曦弯腰一把抱了起来。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "宠物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二章 罢征拓内合",
+      "summary": "张御的宠物，跟随张御前往伏州，被青曦抱起。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        },
+        {
+          "target": "青曦",
+          "type": "被抱持"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "张御到访",
+          "event": "想跟上去，被青曦抱起。"
+        }
+      ],
+      "evidence": [
+        "妙丹君想跟上去，被青曦弯腰一把抱了起来。"
+      ],
+      "mention_count": 1
     }
   ]
 }

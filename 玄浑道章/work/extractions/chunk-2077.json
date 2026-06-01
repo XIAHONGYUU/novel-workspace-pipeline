@@ -1,258 +1,236 @@
 {
   "chunk_id": "chunk-2077",
-  "title": "第七十七章 争言以取位",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "清玄执摄"
+      ],
+      "identity": "金庭执摄",
+      "faction": "金庭",
       "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "张御此时看了一眼，见其道名唤作“灵瑕”",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "金庭执摄，主张举荐殷胧为执摄，并代表元衡、白朢、青朔三位执摄向五位执摄提出事先通传提拔执摄之事。",
+      "appearance": [
+        "一身玉白道袍，身绕湛湛清气，背后是一团灿烂明光"
+      ],
+      "personality": [
+        "冷静",
+        "有策略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御此时看了一眼，见其道名唤作“灵瑕”",
-        "”    说话之间，五人却是感觉到张御的气意到来，便往前方看去，就见张御形影出现在了那里，一身玉白道袍，身绕湛湛清气，背后是一团灿烂明光，虽未展现圣相，可也是气意高渺，如立云端",
-        "在他们目注之中，张御也是缓步来至近前，对着他们执有一礼，道：“五位执摄有礼"
+      "relationships": [
+        {
+          "target": "殷胧",
+          "type": "举荐者"
+        },
+        {
+          "target": "元衡、白朢、青朔",
+          "type": "受其委托"
+        },
+        {
+          "target": "五位执摄",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "”    太极道人也是道：“此人所持之理，与清玄执摄等人更为靠近，若是接纳，或还会在某些事上反对我等",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    太极道人也是道：“此人所持之理，与清玄执摄等人更为靠近，若是接纳，或还会在某些事上反对我等",
-        "”    太初道人却有不同意见，道：“此人之作用并非在其本身，若是将之招揽进来，也可让其与先圣得见，映身也能为我所用，从而入我金庭之中，何况其人也并非人身修道人成就，未必会与清玄执摄他们站在一处",
-        "”若是面对其余执摄，他们通常是不会如此礼遇，然而张御却用自身实力及战绩赢得了这等尊重"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入金庭，举荐殷胧为执摄，并代表其他三位执摄提出事先通传要求。"
+        }
       ],
-      "mention_count": 10
+      "evidence": [
+        "张御此时看了一眼，见其道名唤作“灵瑕”。",
+        "张御抬头看向五人，道：“这一次乃是为殷胧上神而来。”",
+        "张御见五人已然同意殷胧之事，算是达成了一个目的，对于后一件事也就没有再继续追着不放。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "殷胧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "第七十七章 争言以取位    殷胧立驻元空，将自身气意放出，随他如此做，他之道名也终是映入了元空之中，并为诸位上境大能所知悉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第七十七章 争言以取位    殷胧立驻元空，将自身气意放出，随他如此做，他之道名也终是映入了元空之中，并为诸位上境大能所知悉",
-        "此时金庭之内，五位执摄也正是在讨论关于殷胧之事",
-        "”    张御抬头看向五人，道：“这一次乃是为殷胧上神而来"
+      "aliases": [
+        "灵瑕上神",
+        "灵瑕"
       ],
-      "mention_count": 9
+      "identity": "上境大能，原为烛相先圣映身",
+      "faction": "金庭（新加入）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "原为烛相先圣映身，坚持己道，拒绝元夏，最终加入金庭，获授执摄权柄。",
+      "appearance": [],
+      "personality": [
+        "坚守己道",
+        "不乏仁心",
+        "强硬"
+      ],
+      "abilities": [
+        "存纯之道：弥补诸物之漏缺，使之在无尽变化中维系"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被举荐者"
+        },
+        {
+          "target": "五位执摄",
+          "type": "被接纳者"
+        },
+        {
+          "target": "烛相",
+          "type": "原主身"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "道名落入元空，寻得自身之道“存纯之道”，随后接受金庭召请，加入金庭并获授印信。"
+        }
+      ],
+      "evidence": [
+        "殷胧立驻元空，将自身气意放出，随他如此做，他之道名也终是映入了元空之中。",
+        "此道为“存纯之道”，此道法在于弥补诸物之漏缺，使之在无尽变化之中得以维系下去。",
+        "殷胧见这五位有所松口，便道：“在下自当遵循。”"
+      ],
+      "mention_count": 14
     },
     {
-      "name": "五位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "此时金庭之内，五位执摄也正是在讨论关于殷胧之事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时金庭之内，五位执摄也正是在讨论关于殷胧之事",
-        "五位执摄见了其人到来，也是郑重了一些",
-        "在他们目注之中，张御也是缓步来至近前，对着他们执有一礼，道：“五位执摄有礼"
+      "name": "太初道人",
+      "aliases": [
+        "太初执摄"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "五位执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "金庭五位执摄之一",
+      "faction": "金庭",
       "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "此时金庭之内，五位执摄也正是在讨论关于殷胧之事",
+      "first_appearance": "",
+      "summary": "金庭五位执摄之一，对殷胧之事持不同意见，最终同意张御的举荐。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时金庭之内，五位执摄也正是在讨论关于殷胧之事",
-        "五位执摄见了其人到来，也是郑重了一些",
-        "在他们目注之中，张御也是缓步来至近前，对着他们执有一礼，道：“五位执摄有礼"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "殷胧",
+          "type": "接纳者"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "在下",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "”    殷胧郑重道：“在下此前曾有过回传气意，若是诸位执摄不曾见到，在下于此重述，因我并非是元夏之人，也非金庭下属，何况自身之道也未得贯彻，自是无心与外勾连，此并非是刻意针对金庭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    殷胧郑重道：“在下此前曾有过回传气意，若是诸位执摄不曾见到，在下于此重述，因我并非是元夏之人，也非金庭下属，何况自身之道也未得贯彻，自是无心与外勾连，此并非是刻意针对金庭",
-        "”    殷胧道：“在下愿意， 在下十分不喜元一天宫，如今也唯有金庭可为我容身之所在，但在下也知先前有错在先，若是五位执摄认为在下有所不敬，予以回绝，那也是理所应当，在下心中也无任何怨言",
-        "”    殷胧见这五位有所松口，便道：“在下自当遵循"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与讨论殷胧之事，并最终同意张御的举荐。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "五位执摄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "此时金庭之内，五位执摄也正是在讨论关于殷胧之事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "此时金庭之内，五位执摄也正是在讨论关于殷胧之事",
-        "五位执摄见了其人到来，也是郑重了一些",
-        "在他们目注之中，张御也是缓步来至近前，对着他们执有一礼，道：“五位执摄有礼"
-      ],
-      "mention_count": 8
-    },
-    {
-      "name": "太初",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "太初道人道：“此人自有坚持，看来难以用此人完成我等制衡之策略",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "太初道人道：“此人自有坚持，看来难以用此人完成我等制衡之策略",
-        "”    太初道人却有不同意见，道：“此人之作用并非在其本身，若是将之招揽进来，也可让其与先圣得见，映身也能为我所用，从而入我金庭之中，何况其人也并非人身修道人成就，未必会与清玄执摄他们站在一处",
-        "过了一会儿，太初执摄开口言道：“清玄执摄方才所言，不令灵瑕上神被元一天宫招揽了去，也确实有几分道理的"
+        "太初道人道：“此人自有坚持，看来难以用此人完成我等制衡之策略。”",
+        "太初执摄开口言道：“清玄执摄方才所言，不令灵瑕上神被元一天宫招揽了去，也确实有几分道理的。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "灵瑕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "太极道人",
+      "aliases": [
+        "太极执摄"
+      ],
+      "identity": "金庭五位执摄之一",
+      "faction": "金庭",
       "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "张御此时看了一眼，见其道名唤作“灵瑕”",
+      "first_appearance": "",
+      "summary": "金庭五位执摄之一，对殷胧加入持保留态度。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与讨论殷胧之事，提出质疑。"
+        }
+      ],
       "evidence": [
-        "张御此时看了一眼，见其道名唤作“灵瑕”",
-        "过了一会儿，太初执摄开口言道：“清玄执摄方才所言，不令灵瑕上神被元一天宫招揽了去，也确实有几分道理的",
-        "”    太素道人认真道：“我等可以提拔灵瑕上神进入金庭"
+        "太极道人也是道：“此人所持之理，与清玄执摄等人更为靠近，若是接纳，或还会在某些事上反对我等。”",
+        "太极道人开口道：“这殷胧上神此前拒绝我等传意，现在我又能怎能入我金庭呢？”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "太素道人",
+      "aliases": [
+        "太素执摄"
+      ],
+      "identity": "金庭五位执摄之一",
+      "faction": "金庭",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "金庭五位执摄之一，最终同意殷胧加入并授予印信。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "殷胧",
+          "type": "授予者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与讨论，并代表五位执摄授予殷胧印信。"
+        }
+      ],
+      "evidence": [
+        "太素道人问道：“清玄执摄来此可是事么？”",
+        "太素道人认真道：“我等可以提拔灵瑕上神进入金庭。”",
+        "太素道人道：“既如此，还请灵暇上神收下印信，我金庭允你执拿权柄，并奉道而行。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "太始道人",
+      "aliases": [
+        "太始执摄"
+      ],
+      "identity": "金庭五位执摄之一",
+      "faction": "金庭",
       "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "从此前接触来过，这一位坚守己道的同时不乏仁心，这与烛相道人利己之性却是有所不同",
+      "first_appearance": "",
+      "summary": "金庭五位执摄之一，对殷胧加入提出条件。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "从此前接触来过，这一位坚守己道的同时不乏仁心，这与烛相道人利己之性却是有所不同",
-        "”    张御抬头看向五人，道：“这一次乃是为殷胧上神而来",
-        "这一次，五位执摄更是陷入沉默之中"
+      "relationships": [
+        {
+          "target": "殷胧",
+          "type": "接纳者"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "也是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "”    太极道人也是道：“此人所持之理，与清玄执摄等人更为靠近，若是接纳，或还会在某些事上反对我等",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    太极道人也是道：“此人所持之理，与清玄执摄等人更为靠近，若是接纳，或还会在某些事上反对我等",
-        "”    说话之间，五人却是感觉到张御的气意到来，便往前方看去，就见张御形影出现在了那里，一身玉白道袍，身绕湛湛清气，背后是一团灿烂明光，虽未展现圣相，可也是气意高渺，如立云端",
-        "五位执摄见了其人到来，也是郑重了一些"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与讨论，要求殷胧遵循金庭规序。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "太素",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第七十七章 争言以取位",
-      "summary": "太素道人问道：“清玄执摄来此可是事么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "太素道人问道：“清玄执摄来此可是事么",
-        "”    太素道人认真道：“我等可以提拔灵瑕上神进入金庭",
-        "太素道人道：“既如此，还请灵暇上神收下印信，我金庭允你执拿权柄，并奉道而行"
+        "太始执摄则道：“至于提拔执摄事先定议之事，以后我等若有决定，当会提前通传清玄执摄及诸位执摄一声的。”",
+        "太始道人道：“你之所言，也算有理，只是若入我金庭，自当按我金庭规序行事，不得再有那等违反谕令之事。”"
       ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

@@ -1,37 +1,31 @@
 # 《序列大明》Repair Plan
 
 - 工作区：`/home/zuoky/project/序列大明`
-- 目标层：`outline` / `整书大纲层`
+- 目标层：`supporting-cast` / `重要配角层`
 - 模式：`repair-existing`
-- 原因：核心配角与主角关系 -> missing；大纲总览 -> missing；阶段与篇章拆分 -> missing；主线支线与冲突地图 -> missing
+- 原因：ai_review -> placeholder_detected；重要配角Top10总表 -> placeholder_detected；重要配角与主角关系图 -> placeholder_detected；重要配角阶段作用分布 -> placeholder_detected；检测到占位内容
 
 ## 修复动作
 
-- 补齐 `核心配角与主角关系`，至少先从缺失补到可校验骨架。
-- 补齐 `大纲总览`，至少先从缺失补到可校验骨架。
-- 补齐 `阶段与篇章拆分`，至少先从缺失补到可校验骨架。
-- 补齐 `主线支线与冲突地图`，至少先从缺失补到可校验骨架。
-- 补齐 `核心冲突点与爆发点`，至少先从缺失补到可校验骨架。
-- 补齐 `时间与地点转折`，至少先从缺失补到可校验骨架。
-- 补齐 `高潮节奏与收束诊断`，至少先从缺失补到可校验骨架。
-- 补齐 `结构问题与修改建议`，至少先从缺失补到可校验骨架。
+- 替换 `ai_review` 里的占位内容，补成明确结论和证据。
+- 替换 `重要配角Top10总表` 里的占位内容，补成明确结论和证据。
+- 替换 `重要配角与主角关系图` 里的占位内容，补成明确结论和证据。
+- 替换 `重要配角阶段作用分布` 里的占位内容，补成明确结论和证据。
+- 检查并修复 `Top10 配角分析文件`，当前原因：`profile_quality_insufficient`。
 
 ## 失败检查项
 
-- `核心配角与主角关系`：`missing`
-- `大纲总览`：`missing`
-- `阶段与篇章拆分`：`missing`
-- `主线支线与冲突地图`：`missing`
-- `核心冲突点与爆发点`：`missing`
-- `时间与地点转折`：`missing`
-- `高潮节奏与收束诊断`：`missing`
-- `结构问题与修改建议`：`missing`
+- `ai_review`：`placeholder_detected`；文件：`序列大明-重要配角AI复核结论.md`；占位：`待AI复核`
+- `重要配角Top10总表`：`placeholder_detected`；文件：`序列大明-重要配角Top10总表.md`；占位：`待AI复核`
+- `重要配角与主角关系图`：`placeholder_detected`；文件：`序列大明-重要配角与主角关系图.md`；占位：`待AI复核`
+- `重要配角阶段作用分布`：`placeholder_detected`；文件：`序列大明-重要配角阶段作用分布.md`；占位：`待AI复核`
+- `Top10 配角分析文件`：`profile_quality_insufficient`；文件：`supporting-cast`
 
 ## 推荐先读
 
 - `README.md`
-- `工作状态-2026-04-21.md`
+- `工作状态-2026-05-30.md`
+- `characters.json`
+- `index.md`
 - `李钧-词条总索引.md`
 - `李钧-最终人物卡.md`
-- `李钧-核心体系总览.md`
-- `序列大明-全书精华总结.md`

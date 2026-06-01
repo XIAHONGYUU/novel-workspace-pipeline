@@ -1,254 +1,196 @@
 {
   "chunk_id": "chunk-0015",
-  "title": "第十四章 宣文查档",
   "characters": [
     {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "玄府真正的执掌很少露面，也并不怎么管事，主持日常事务的，是他的几名学生",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玄府真正的执掌很少露面，也并不怎么管事，主持日常事务的，是他的几名学生",
-        "当初他练了两年没有成功，他的老师就断言他没有这个天赋，无法接受自己这一脉的传承，旧法一路也就走不通了，所以后来又传给了他新法的入门窍诀",
-        "他的老师曾告诫过他，不要试图用大道之章来提升呼吸法，因为那很可能导致不可预测的后果"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "他心神一转，身周围的光芒便就敛去，探手从案上拿起图鉴看了起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他心神一转，身周围的光芒便就敛去，探手从案上拿起图鉴看了起来",
-        "他心下暗想：“虽不知道这些人到底有什么目的，可最近如无必要，看来还是待在学宫为好，等风头过去再说",
-        "他心下转了转念，这里有两个可能，其一是这个人已经不是学子了，而是成了学宫中的师教"
-      ],
-      "mention_count": 6
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张辅教"
+      ],
+      "identity": "泰阳学宫辅教",
+      "faction": "泰阳学宫",
       "status": "登场",
       "first_appearance": "第十四章 宣文查档",
-      "summary": "第十四章 宣文查档    两天之后，从玄府出来的回贴就由专人送到了张御手上",
+      "summary": "泰阳学宫辅教，正在调查文册被盗一事，并收到一封可疑信件。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第十四章 宣文查档    两天之后，从玄府出来的回贴就由专人送到了张御手上",
-        "张御将雨伞搁在门边，把开一门，就见一名带着斗笠，穿着雨蓑的助役站在庭前，手中捧着一个精美信匣，道：“张辅教",
-        "”    张御接了过来，又在助役递来的漆牌上签了自己的名姓，道一声谢，关上舍门，重又回到静室中坐下"
+      "personality": [
+        "谨慎",
+        "细心",
+        "务实"
       ],
-      "mention_count": 6
+      "abilities": [
+        "大道之章",
+        "雷音",
+        "语韵",
+        "真息",
+        "剑驭"
+      ],
+      "equipment": [
+        "油纸伞",
+        "丹丸"
+      ],
+      "relationships": [
+        {
+          "target": "赵相乘",
+          "type": "朋友"
+        },
+        {
+          "target": "项淳",
+          "type": "玄府主事者"
+        },
+        {
+          "target": "屈功",
+          "type": "宣文堂管事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到玄府回贴和可疑信件，前往宣文堂查档。"
+        }
+      ],
+      "evidence": [
+        "他翻到回贴印鉴处，见上面的盖印是“项淳”二字。",
+        "他把回帖收好，思考片刻，就于心下一唤，顿时光芒映耀，大道之章就随之浮现了出来。",
+        "此时他已能断定，这封信不是赵相乘送来的，只是有人托名而为。"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "他发现",
+      "name": "项淳",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府实际上的主事者",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第十四章 宣文查档",
-      "summary": "随着疑点的逐渐出现，他发现的破绽也越来越多",
+      "summary": "玄府主事者，主持日常事务，为人务实。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着疑点的逐渐出现，他发现的破绽也越来越多",
-        "他发现这个人为人风趣，知识渊博，思维敏捷，很容易让人心生好感，做个师教也是绰绰有余，可不知道为什么，却只是在此负责看理文籍",
-        "从静室里走出来时，他发现外面又下起了大雨"
+      "personality": [
+        "做事认真",
+        "务实"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "他之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "能知道他与赵相乘相交，还能查到他之前住在安庐居的，又能伪造书信，直接送到学宫来，答案已是呼之欲出了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "能知道他与赵相乘相交，还能查到他之前住在安庐居的，又能伪造书信，直接送到学宫来，答案已是呼之欲出了",
-        "泰阳学宫拥有整个都护府最多的文册典籍，关于许多旧时的记载只能到这里来查找，他之前翻阅的那本异怪图鉴，也是从这里拿到的",
-        "这个人名唤屈功，是宣文堂的管事，他之前来这里借阅图鉴时，曾与其交流过"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "回贴批复者"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "他翻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "他翻到回贴印鉴处，见上面的盖印是“项淳”二字",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他翻到回贴印鉴处，见上面的盖印是“项淳”二字",
-        "他翻下来，见这一年之中，共有三百二十七人入学，如果一个个去查证，既浪费时间，又缺少线索，所以他决定先从籍贯着手"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "批复张御的拜书回贴。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "项淳就是其中最为年长的一个，也是现如今玄府的实际上的主事者",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "项淳就是其中最为年长的一个，也是现如今玄府的实际上的主事者",
-        "那“真息”章印，其实就是他一直在修持的呼吸吐纳术",
-        "在这一门技巧上面，他没有投入过任何神元，章印一出现在道章之上就是光芒烁烁"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "只是现在这四个章印中，有三个都是焕发出了灼灼亮芒，唯独那剑驭之术还是黯淡无光，一眼望去，感觉实在太不协调了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是现在这四个章印中，有三个都是焕发出了灼灼亮芒，唯独那剑驭之术还是黯淡无光，一眼望去，感觉实在太不协调了",
-        "他查验了一下，这几天静养精气神后，自己的神元多出了一点，不过只是这是他自身凝炼出来的，要想恢复，至少要数月甚至半年时间",
-        "此时他已能断定，这封信不是赵相乘送来的，只是有人托名而为"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "发现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "到了第二天清晨，他从定坐中醒来时，发现外面淅淅沥沥的下起了小雨",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "到了第二天清晨，他从定坐中醒来时，发现外面淅淅沥沥的下起了小雨",
-        "他将信匣打开一看，发现是寄信人的名字是赵相乘",
-        "在反复盯着看了几遍后，他终于发现刚才的违和感出现在哪里了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "”    他寻思着这两天正好有暇，假如学宫方面允许，那就抽个空去见次面",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他寻思着这两天正好有暇，假如学宫方面允许，那就抽个空去见次面",
-        "因为除了他这样通过自荐上来的，要想升任辅教乃至师教，那首先要有足够的学识，对方既然要靠盗用文册来进学，那就说明其自身并无多少真材实料，否则根本没必要这样做",
-        "好在他也没想过一次就能得到结果，既然现阶段无法查证，那就等到自己掌握足够的力量之后才来理会了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "这封信",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "给朋友或者相熟的人写信，有一定讲究的，用什么样的纸就需搭配什么样的墨，有时还需搭配相应的笔体，这封信的纸墨一看就是只挑贵重的，而不讲究其余",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "给朋友或者相熟的人写信，有一定讲究的，用什么样的纸就需搭配什么样的墨，有时还需搭配相应的笔体，这封信的纸墨一看就是只挑贵重的，而不讲究其余",
-        "此时他已能断定，这封信不是赵相乘送来的，只是有人托名而为"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "见上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十四章 宣文查档",
-      "summary": "他翻到回贴印鉴处，见上面的盖印是“项淳”二字",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他翻到回贴印鉴处，见上面的盖印是“项淳”二字"
+        "项淳就是其中最为年长的一个，也是现如今玄府的实际上的主事者。",
+        "上面的用语并没有什么华丽辞藻，而是平直浅白，字也是写得端端正正，可以看出对方是个做事认真，又较为务实的人。"
       ],
       "mention_count": 3
+    },
+    {
+      "name": "赵相乘",
+      "aliases": [],
+      "identity": "张御的朋友",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第十四章 宣文查档",
+      "summary": "张御的朋友，行事传统，但信件被伪造。",
+      "appearance": [],
+      "personality": [
+        "传统"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被伪造信件约见张御。"
+        }
+      ],
+      "evidence": [
+        "赵相乘这个人的行事作风较为传统，吃穿用物全都是遵循着天夏的旧时风俗。",
+        "赵相乘是绝不会犯这种错的。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "屈功",
+      "aliases": [],
+      "identity": "宣文堂管事",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第十四章 宣文查档",
+      "summary": "宣文堂管事，为人风趣、知识渊博。",
+      "appearance": [
+        "四十多岁，颇有魅力的中年男子"
+      ],
+      "personality": [
+        "风趣",
+        "知识渊博",
+        "思维敏捷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在宣文堂与张御打招呼。"
+        }
+      ],
+      "evidence": [
+        "一个四十多岁，颇有魅力的中年男子上来与他客气打招呼。",
+        "这个人名唤屈功，是宣文堂的管事，他之前来这里借阅图鉴时，曾与其交流过。他发现这个人为人风趣，知识渊博，思维敏捷，很容易让人心生好感。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "少女",
+      "aliases": [],
+      "identity": "学宫外的寒酸少女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第十四章 宣文查档",
+      "summary": "一个十三四岁的安人混血少女，受风寒，被张御赠伞。",
+      "appearance": [
+        "十三四岁",
+        "身材纤细瘦小",
+        "衣着寒酸",
+        "眼瞳带着些许的金色"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "受赠伞"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在宣文堂门口避雨，得到张御赠伞。"
+        }
+      ],
+      "evidence": [
+        "她应该很冷，紧抱着双臂，轻轻颤抖着，还时不时跺下脚",
+        "张御注意到她的眼瞳带着些许的金色，应该有安人混血",
+        "这个少女的皮肤下有一层不正常的嫣红，这是明显是受了风寒了"
+      ],
+      "mention_count": 5
     }
   ]
 }

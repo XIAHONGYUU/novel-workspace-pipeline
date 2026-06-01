@@ -1,257 +1,372 @@
 {
   "chunk_id": "chunk-1152",
-  "title": "第五十四章 显机非秘藏",
   "characters": [
     {
-      "name": "我们",
+      "name": "金郅行",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏守正驻地人员",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "这么看莱赫之虫确实是被古老之神自行杀死的，只是具体用意还是不明……    年轻男子道：“已经是十五个星眠之期过去了，天夏营地扩大了一倍，这还是十个星眠之日日前的消息，说不定现在规模更大了，我们还要再等下去么",
+      "summary": "与艾伯高一同在守正驻地等待，负责监视营地。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这么看莱赫之虫确实是被古老之神自行杀死的，只是具体用意还是不明……    年轻男子道：“已经是十五个星眠之期过去了，天夏营地扩大了一倍，这还是十个星眠之日日前的消息，说不定现在规模更大了，我们还要再等下去么",
-        "”    他慷慨激昂的说道：“我们要面对的不是那些，是世间的主宰，是比伊帕尔更为文明，更具智慧，更重视技艺，更为强盛的神族",
-        "如果我们不做出抵抗，看着他们一步步侵吞我们，或许现在我们还有力量稍加延阻，到后面我们只能看着他们做，而无力阻止了"
+      "relationships": [
+        {
+          "target": "艾伯高",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与艾伯高在守正驻地等待，认为对方会再来破坏。"
+        }
+      ],
+      "evidence": [
+        "金郅行、艾伯高二人虽在等待，但东庭守正驻地下来却是一个多月也没有动静"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "龙大匠",
+      "name": "艾伯高",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏守正驻地人员",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
+      "summary": "与金郅行一同在守正驻地等待。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
-        "”    龙大匠精神一振，道：“魏宗匠的呈书起作用了",
-        "”    龙大匠看了看他，道：“那么前次玄廷突然打断了我们的尝试，这到底是什么缘由"
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与金郅行在守正驻地等待。"
+        }
+      ],
+      "evidence": [
+        "金郅行、艾伯高二人虽在等待"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "于大",
+      "name": "年轻男子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "南陆复神会成员",
+      "faction": "复神会",
       "status": "登场",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
+      "summary": "复神会三人之一，主张积极行动。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "慷慨激昂"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
-        "”    于大匠模糊回答道：“许是吧",
-        "”    于大匠摇头道：“只言是机密之事，天机院不可予闻"
+      "relationships": [
+        {
+          "target": "老者",
+          "type": "同伙"
+        },
+        {
+          "target": "金袍女子",
+          "type": "同伙"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与老者、金袍女子商议，认为不应再等待。"
+        }
+      ],
+      "evidence": [
+        "年轻男子道：“已经是十五个星眠之期过去了，天夏营地扩大了一倍”",
+        "他慷慨激昂的说道：“我们要面对的不是那些，是世间的主宰”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "老者",
+      "aliases": [],
+      "identity": "南陆复神会成员",
+      "faction": "复神会",
+      "status": "登场",
+      "first_appearance": "第五十四章 显机非秘藏",
+      "summary": "复神会三人之一，较为谨慎。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻男子",
+          "type": "同伙"
+        },
+        {
+          "target": "金袍女子",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与年轻男子、金袍女子商议，询问如果古老之神还需要莱赫之虫怎么办。"
+        }
+      ],
+      "evidence": [
+        "老者沉声道：“如果唤出来后，古老之神还需要它呢？”",
+        "老者沉吟了下，也是同意了下来"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "金袍女子",
+      "aliases": [],
+      "identity": "南陆复神会成员",
+      "faction": "复神会",
+      "status": "登场",
+      "first_appearance": "第五十四章 显机非秘藏",
+      "summary": "复神会三人之一，主张遵循古老之神意志。",
+      "appearance": [
+        "金袍"
+      ],
+      "personality": [
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻男子",
+          "type": "同伙"
+        },
+        {
+          "target": "老者",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与年轻男子、老者商议，认为应遵循古老之神意志。"
+        }
+      ],
+      "evidence": [
+        "金袍女子毫不犹豫道：“那么我们就给出去，这也是神得期望，不是么？”",
+        "金袍女子道：“最重要的还是神之躯壳”"
+      ],
+      "mention_count": 2
     },
     {
       "name": "于大匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玉京天机总院大匠",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
+      "summary": "天机总院大匠，负责造物尝试。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "坚定"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
-        "”    于大匠模糊回答道：“许是吧",
-        "”    于大匠摇头道：“只言是机密之事，天机院不可予闻"
+      "relationships": [
+        {
+          "target": "龙大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "魏宗匠",
+          "type": "上级"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与龙大匠商议，玄廷允许再做一次尝试。"
+        }
+      ],
+      "evidence": [
+        "于大匠喝着药茶，放松着精神",
+        "于大匠道：“有结果了，玄廷允许我们再做一次尝试。”"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "龙大",
+      "name": "龙大匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玉京天机总院大匠",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
+      "summary": "天机总院大匠，与于大匠商议造物尝试。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "紧张"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玉京天机总院，茶厅之内，于大匠喝着药茶，放松着精神，他连日来紧绷的神色终于松下，看着方才坐下的龙大匠，道：“有结果了，玄廷允许我们再做一次尝试",
-        "”    龙大匠精神一振，道：“魏宗匠的呈书起作用了",
-        "”    龙大匠看了看他，道：“那么前次玄廷突然打断了我们的尝试，这到底是什么缘由"
+      "relationships": [
+        {
+          "target": "于大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "魏宗匠",
+          "type": "上级"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "造物",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "我们可没有把握一定成功，万一失败了……”    “造物的根基在哪里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我们可没有把握一定成功，万一失败了……”    “造物的根基在哪里",
-        "他也接到了钟廷执等人授意，要他设法多开造物学宫，这一点他没法拒绝，还需要支持",
-        "在军事和民生之上，造物也的确是十分有用的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与于大匠商议，得知玄廷允许再做尝试。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "目前",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "但是金、艾二人却是认为，对方是不太可能坐视他们扩建营地，并在南陆立稳脚跟的，肯定会设法再进行破坏，而不管彼辈是不是会再出现，目前来看，盯着营地，这比盲目寻找对方下落来的强",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "但是金、艾二人却是认为，对方是不太可能坐视他们扩建营地，并在南陆立稳脚跟的，肯定会设法再进行破坏，而不管彼辈是不是会再出现，目前来看，盯着营地，这比盲目寻找对方下落来的强",
-        "如今的守正驻地已是大体修筑完整，目前还在不断扩大，并且都护府也是选址完毕，也是开始正式修建了，等到完全稳固起来，就可在南陆设布一个个监察驻点，能更方便的搜剿复神会"
+        "龙大匠精神一振，道：“魏宗匠的呈书起作用了？”",
+        "龙大匠有些紧张"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "但是金、艾二人却是认为，对方是不太可能坐视他们扩建营地，并在南陆立稳脚跟的，肯定会设法再进行破坏，而不管彼辈是不是会再出现，目前来看，盯着营地，这比盲目寻找对方下落来的强",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但是金、艾二人却是认为，对方是不太可能坐视他们扩建营地，并在南陆立稳脚跟的，肯定会设法再进行破坏，而不管彼辈是不是会再出现，目前来看，盯着营地，这比盲目寻找对方下落来的强",
-        "而此时此刻，南陆复神会三人派出去查探驻地的人方才回转了回来，并向他们禀告了驻地的情形",
-        "之所以耽搁这么久，一是路途长远，二来为防止被发现，采取了间隔传递的方法，保证没有办法追溯到他们这里来"
-      ],
-      "mention_count": 6
+      "mention_count": 4
     },
     {
       "name": "魏宗匠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "魏山"
+      ],
+      "identity": "天机总院宗匠",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "”    龙大匠精神一振，道：“魏宗匠的呈书起作用了",
+      "summary": "天机总院宗匠，为天机院争取利益。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "敢于担当"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    龙大匠精神一振，道：“魏宗匠的呈书起作用了",
-        "”想了想，他又补充了一句：“魏宗匠那里也没有说太多，想来的确是涉及机密，而我们这次能再做尝试，也可能是上面有大能替我们争取的",
-        "于大匠提醒道：“还有，魏宗匠让我们不要随意评论上面的事机"
+      "relationships": [
+        {
+          "target": "于大匠",
+          "type": "下属"
+        },
+        {
+          "target": "龙大匠",
+          "type": "下属"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其呈书促使玄廷允许再次尝试。"
+        }
+      ],
+      "evidence": [
+        "魏宗匠的呈书起作用了？",
+        "唯独魏山，一直为天机院争取利益"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "天机院",
+      "name": "岑传",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "昌合府洲官员",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "”    于大匠摇头道：“只言是机密之事，天机院不可予闻",
+      "summary": "昌合府洲官员，对造物持警惕态度。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "警惕"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    于大匠摇头道：“只言是机密之事，天机院不可予闻",
-        "唯独魏山，一直为天机院争取利益，为他们遮风挡雨，甚至不惜为此开罪一些人，故是得到了诸多大匠的拥护，他们实在不希望看到这位宗匠被上面怪责",
-        "天机院以前对此事一直遮遮掩掩，所以玄廷可以说停止就停止，但如果索性明着展现出来，在此事达到一定影响后，反倒可能没那么大的阻力了"
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "师兄"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "看到天机院尝试的传书，决定上书反对。"
+        }
+      ],
+      "evidence": [
+        "岑传手中正翻看着一封传书",
+        "他深思下来，决定向玄廷上书，反对向各个学宫公宣此事"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "只是",
+      "name": "正清道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "从回报中看，整个天夏驻地十分之完好，根本没看到任何受到进攻和被破坏的迹象，而且只是戒备稍加森严了些，除此外没有什么变化",
+      "summary": "岑传的师兄，被岑传去信请求一同上书。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "从回报中看，整个天夏驻地十分之完好，根本没看到任何受到进攻和被破坏的迹象，而且只是戒备稍加森严了些，除此外没有什么变化",
-        "守备稍加森严，这也可以理解，随着驻地的扩大，这么长时间不可能不增加人手，关键到现在为止，只是正常增添人手，而没有大量增补的迹象",
-        "这么看莱赫之虫确实是被古老之神自行杀死的，只是具体用意还是不明……    年轻男子道：“已经是十五个星眠之期过去了，天夏营地扩大了一倍，这还是十个星眠之日日前的消息，说不定现在规模更大了，我们还要再等下去么"
+      "relationships": [
+        {
+          "target": "岑传",
+          "type": "师弟"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "岑传给他去信，希望他一同上书阻遏造物尝试。"
+        }
+      ],
+      "evidence": [
+        "他还给了自己师兄正清道人去了一封书信"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "这样",
+      "name": "张御",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "守正宫守正",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五十四章 显机非秘藏",
-      "summary": "这样的神异生灵，怎么也是不可能失败的",
+      "summary": "守正宫守正，关注天机院尝试。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "洞察"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这样的神异生灵，怎么也是不可能失败的",
-        "”    于大匠道：“是这样，”他加大语气道：“所以我们一定要有自己的上层力量，这样才能在上面有发出自己的声音，无论多么艰难我们也要做下去",
-        "于大匠沉声道：“魏宗匠认为，上一次有人在故意生事，虽然有些同僚只是发泄心中愤懑，可这样做于事无补，反会令玄廷生厌"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在守正宫中得悉天机院尝试，调阅备书，认为成功可能不大。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "张御在守正宫中也是同样得悉了此事",
+        "张御看到这里，认为天机院这次成功的可能仍是不大"
+      ],
+      "mention_count": 2
     }
   ]
 }

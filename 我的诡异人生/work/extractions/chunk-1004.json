@@ -1,0 +1,398 @@
+{
+  "chunk_id": "chunk-1004",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "猪子"
+      ],
+      "identity": "李家的后辈，拳法高手",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在推演‘天理打神拳’的拳法高手，与李黑虎、李雄彪等人关系密切。",
+      "appearance": [
+        "长得俊"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "拳法高深",
+        "推演神拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李黑虎",
+          "type": "同伴"
+        },
+        {
+          "target": "李雄彪",
+          "type": "叔叔"
+        },
+        {
+          "target": "李雄罴",
+          "type": "叔叔"
+        },
+        {
+          "target": "李伯江",
+          "type": "大爷爷"
+        },
+        {
+          "target": "奶奶",
+          "type": "奶奶"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在李家家谱堂演练拳法，传授‘天理打神拳’给李雄彪等人。"
+        },
+        {
+          "stage": "当前",
+          "event": "得知洋道士来访，回家中应对。"
+        }
+      ],
+      "evidence": [
+        "苏午停下了拳脚动作，站在了原地。",
+        "苏午把自己初步推演出来的‘神拳’传授给了李雄彪两位叔叔，以及李黑虎",
+        "苏午点了点头，与坐在旁边的奶奶打过招呼"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "李黑虎",
+      "aliases": [
+        "黑虎"
+      ],
+      "identity": "李家人，苏午的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "李家的后辈，跟随苏午学习拳法，对洋道士有警惕心。",
+      "appearance": [],
+      "personality": [
+        "紧张",
+        "警惕"
+      ],
+      "abilities": [
+        "学拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在家谱堂观看苏午练拳，并学习‘天理打神拳’。"
+        },
+        {
+          "stage": "当前",
+          "event": "陪同苏午回家应对洋道士。"
+        }
+      ],
+      "evidence": [
+        "黑虎则道：“这门拳法……好似就有猪子你先前所说的‘神拳’雏形了”",
+        "旁边的李黑虎倒有些紧张",
+        "李黑虎也昂起头，瞪着两个人"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "李雄彪",
+      "aliases": [],
+      "identity": "李家人，苏午的叔叔",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "李家的长辈，对苏午的拳法表示赞赏。",
+      "appearance": [
+        "魁梧"
+      ],
+      "personality": [
+        "直率"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "叔叔"
+        },
+        {
+          "target": "李雄罴",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在家谱堂观看苏午练拳，并学习‘天理打神拳’。"
+        }
+      ],
+      "evidence": [
+        "李雄彪首先出声道。",
+        "李雄彪兄弟俩各自答应下来。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "李雄罴",
+      "aliases": [],
+      "identity": "李家人，苏午的叔叔",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "李家的长辈，性格较为内敛。",
+      "appearance": [
+        "魁梧"
+      ],
+      "personality": [
+        "内敛"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "叔叔"
+        },
+        {
+          "target": "李雄彪",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在家谱堂观看苏午练拳。"
+        }
+      ],
+      "evidence": [
+        "李雄罴跟着点了点头。",
+        "李雄罴面上有些挂不住，板着脸不与之对视。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李伯江",
+      "aliases": [
+        "大爷爷"
+      ],
+      "identity": "李家长辈",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "李家的老者，支持苏午参加拳会。",
+      "appearance": [],
+      "personality": [
+        "热心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "大爷爷"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在家谱堂观看苏午练拳，并提议苏午去拳会偷师。"
+        }
+      ],
+      "evidence": [
+        "李伯江眼睛发亮，向苏午与李黑虎问道。",
+        "李伯江当即道：“我还是那句话，拳法虽然是各家家传的”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "李伯清",
+      "aliases": [],
+      "identity": "李家长辈",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "李家的老者，被苏午询问拳会时间。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午询问拳会开始时间。"
+        }
+      ],
+      "evidence": [
+        "“那拳会什么时候开始啊？”苏午又向李伯清问道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "张家媳妇",
+      "aliases": [
+        "张婶子"
+      ],
+      "identity": "村民，张善举的妻子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "来李家家谱堂传话的妇人，对苏午有好感。",
+      "appearance": [
+        "面黄肌瘦"
+      ],
+      "personality": [
+        "爱笑",
+        "话多"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张善举",
+          "type": "丈夫"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到李家家谱堂传话，告知苏午洋道士来访。"
+        }
+      ],
+      "evidence": [
+        "一个身材瘦削、面黄肌瘦的妇人探头探脑地进了门",
+        "张家媳妇掩嘴笑着",
+        "张家媳妇满脸笑容，又赞了苏午一句"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "奶奶",
+      "aliases": [],
+      "identity": "苏午的奶奶",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的奶奶，在家接待洋道士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "奶奶"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在家中被洋道士拜访，让张家媳妇叫苏午回家。"
+        }
+      ],
+      "evidence": [
+        "与奶奶温声说着话",
+        "与坐在旁边的奶奶打过招呼"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "洋道士（为首）",
+      "aliases": [],
+      "identity": "大秦教洋道士",
+      "faction": "大秦教",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "来访的洋道士首领，行为诡异，似乎不是真人。",
+      "appearance": [
+        "棕黑发色"
+      ],
+      "personality": [
+        "诡异",
+        "有礼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到苏午家拜访，要求与苏午见面。"
+        }
+      ],
+      "evidence": [
+        "为首棕黑发色的洋道士带着笑意，向苏午微微躬身",
+        "他们的面容，却在此时变得诡异了起来",
+        "棕黑发的洋道士打量着堂屋里的各种陈设"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "洋道士（随从）",
+      "aliases": [],
+      "identity": "大秦教洋道士",
+      "faction": "大秦教",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "来访的洋道士随从，行为诡异。",
+      "appearance": [],
+      "personality": [
+        "诡异"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随首领到苏午家，主动关闭堂屋房门。"
+        }
+      ],
+      "evidence": [
+        "走在最后头的两个洋道士，便主动闭拢了堂屋房门。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "大秦教信士（两人）",
+      "aliases": [],
+      "identity": "大秦教信士",
+      "faction": "大秦教",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在苏午家门口站岗的两个汉人信士。",
+      "appearance": [
+        "胸前带着十字架",
+        "身材壮实"
+      ],
+      "personality": [
+        "挑衅"
+      ],
+      "abilities": [],
+      "equipment": [
+        "十字架"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在苏午家门口站岗，挑衅苏午和李黑虎。"
+        }
+      ],
+      "evidence": [
+        "两个大秦教信士挑衅似地扫了苏午与李黑虎两眼。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

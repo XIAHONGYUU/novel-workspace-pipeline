@@ -1,258 +1,348 @@
 {
   "chunk_id": "chunk-1424",
-  "title": "第二章 符传护道行",
   "characters": [
     {
       "name": "陈禹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "陈首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 符传护道行",
-      "summary": "第二章 符传护道行    陈禹沉声道：“单道友认为我等可以退让否",
+      "summary": "天夏首执，主导与乘幽派结盟及应对元夏事宜。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二章 符传护道行    陈禹沉声道：“单道友认为我等可以退让否",
-        "陈禹望着单道人直视过来的目光，道：“这正是我天夏所欲者",
-        "”    单道人点了点头，此刻他抬起手来，对着陈禹三人再是一礼，郑重无比道：“陈首执，两位廷执，单某身为乘幽执掌，在此许诺，我乘幽派当与天夏共进退"
+      "relationships": [
+        {
+          "target": "单道人",
+          "type": "盟友"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        },
+        {
+          "target": "庄道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 20
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 符传护道行",
-      "summary": "他很张御此前所言，乘幽派讲究避世避人，可连世域都没了，那还避个什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他很张御此前所言，乘幽派讲究避世避人，可连世域都没了，那还避个什么",
-        "”    这一次，陈禹、张御、武倾墟三人也都是神容一肃，郑重还礼",
-        "”    张御道：“可以告知二位，元夏使者恐怕不日即至，到时候两位当能见得"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与乘幽派单道人会面，确立同盟关系；后与张御、武倾墟商议应对元夏，并会见新晋执摄庄道人。"
+        }
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "单道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 符传护道行",
-      "summary": "第二章 符传护道行    陈禹沉声道：“单道友认为我等可以退让否",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第二章 符传护道行    陈禹沉声道：“单道友认为我等可以退让否",
-        "”    单道人断然言道：“此战不可退，退则必亡，唯有与之一战，方得生路",
-        "陈禹望着单道人直视过来的目光，道：“这正是我天夏所欲者"
+        "陈禹沉声道：“单道友认为我等可以退让否？”",
+        "陈禹道：“这正是我天夏所欲者。”",
+        "陈禹道：“单道友见谅，我等只能说，我天夏自有消息来处”"
       ],
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "name": "单道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "单道友",
+        "单某",
+        "乘幽执掌"
+      ],
+      "identity": "乘幽派执掌",
+      "faction": "乘幽派",
       "status": "登场",
       "first_appearance": "第二章 符传护道行",
-      "summary": "”    单道人断然言道：“此战不可退，退则必亡，唯有与之一战，方得生路",
+      "summary": "乘幽派执掌，摘取上乘功果，执掌镇道之宝，与天夏结盟共抗元夏。",
+      "appearance": [],
+      "personality": [
+        "决断",
+        "郑重"
+      ],
+      "abilities": [
+        "摘取上乘功果",
+        "执掌镇道之宝"
+      ],
+      "equipment": [
+        "镇道之器"
+      ],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "盟友"
+        },
+        {
+          "target": "张御",
+          "type": "盟友"
+        },
+        {
+          "target": "武倾墟",
+          "type": "盟友"
+        },
+        {
+          "target": "毕道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与天夏三位廷执会面，许诺共进退，并接受安排暂留。"
+        }
+      ],
+      "evidence": [
+        "单道人断然言道：“此战不可退，退则必亡，唯有与之一战，方得生路。”",
+        "单某身为乘幽执掌，在此许诺，我乘幽派当与天夏共进退。",
+        "单道人心知肚明，从一开始周围布下清穹之气，还有此刻留下他们二人的举动，这一切都是为了防止他们二人把此事告知门中上真"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执",
+        "张道友"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二章 符传护道行",
+      "summary": "天夏廷执，提出遮掩大混沌的建议，并负责联络霍衡。",
+      "appearance": [],
+      "personality": [
+        "深思",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        },
+        {
+          "target": "单道人",
+          "type": "盟友"
+        },
+        {
+          "target": "霍衡",
+          "type": "联络对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与与乘幽派会面，提出遮掩大混沌，后受命联络霍衡。"
+        }
+      ],
+      "evidence": [
+        "张御道：“御以为，有一处不可忽略了，也需加以遮掩。”",
+        "张御道：“五位执摄有言，为防元夏算定于我，故才寻到了大混沌”",
+        "张御当即应下。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "武倾墟",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二章 符传护道行",
+      "summary": "天夏廷执，参与与乘幽派会面及后续商议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    单道人断然言道：“此战不可退，退则必亡，唯有与之一战，方得生路",
-        "陈禹望着单道人直视过来的目光，道：“这正是我天夏所欲者",
-        "”    单道人点了点头，此刻他抬起手来，对着陈禹三人再是一礼，郑重无比道：“陈首执，两位廷执，单某身为乘幽执掌，在此许诺，我乘幽派当与天夏共进退"
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "单道人",
+          "type": "盟友"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与与乘幽派会面，建议布置清穹之气以防窥测。"
+        }
+      ],
+      "evidence": [
+        "武倾墟在旁言道：“如今此事也只有我三人和贵方知悉”",
+        "武倾墟待二人离开，又对陈禹言道：“首执，为防元夏来使探看于我，可能还要做一番布置。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "毕道人",
+      "aliases": [
+        "毕道友"
+      ],
+      "identity": "乘幽派道人",
+      "faction": "乘幽派",
+      "status": "登场",
+      "first_appearance": "第二章 符传护道行",
+      "summary": "乘幽派道人，随单道人一同与天夏会面。",
+      "appearance": [],
+      "personality": [
+        "紧张"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "单道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随单道人参与会面，询问元夏何时动手。"
+        }
+      ],
+      "evidence": [
+        "毕道人这时开口道：“敢问贵方，既那元夏欲化同我于一世，却不知其等何时开始动手”",
+        "毕道人想到用不了多久就要见到元夏来人，不由得气息一滞。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "庄道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "庄执摄",
+        "庄首执"
+      ],
+      "identity": "新晋执摄",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 符传护道行",
-      "summary": "张御看过去，可见前方有一面无边广大，却又澄澈晶莹的琉璃壁，其上映照出一个似水墨散逸，且又轮廓飘渺的道人身影，但是随着墨染相距，庄道人的身影渐渐变得清晰起来，并从中走了出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "summary": "天夏新晋执摄，在此世突破至上境，祭炼法器并赠予法符。",
+      "appearance": [
+        "身影如水墨散逸，轮廓飘渺，后渐渐清晰"
+      ],
+      "personality": [
+        "超然",
+        "谦和"
+      ],
+      "abilities": [
+        "执摄境界",
+        "祭炼法器"
+      ],
+      "equipment": [
+        "金符"
+      ],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "成就执摄，会见三位廷执，赠予法符，并告知将全力祭炼法器。"
+        }
+      ],
       "evidence": [
-        "张御看过去，可见前方有一面无边广大，却又澄澈晶莹的琉璃壁，其上映照出一个似水墨散逸，且又轮廓飘渺的道人身影，但是随着墨染相距，庄道人的身影渐渐变得清晰起来，并从中走了出来",
-        "庄道人还有一礼，道：“三位廷执有礼",
-        "”    庄道人摇头道：“我天夏上下自有其序，我已非是廷执，玄廷具体事机我不便过问，只凭各位廷执决断便可，但若玄廷有需要我出面之处，我当在不搅扰天机的情形之下尽力相助"
+        "庄首执显影与其余几位廷执大为不同，他心下猜测，这很可能是因为以往执摄皆是本来就能得以成就",
+        "庄道人道：“三位廷执有礼。”",
+        "庄道人将法符给了三人之后，未再多言，只是对三人一点头，身影缓缓化作四溢光华散去"
       ],
       "mention_count": 8
     },
     {
-      "name": "武倾墟",
+      "name": "霍衡",
       "aliases": [],
-      "identity": "",
+      "identity": "混沌之道相关人物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二章 符传护道行",
-      "summary": "”    这一次，陈禹、张御、武倾墟三人也都是神容一肃，郑重还礼",
-      "appearance": [],
-      "personality": [],
+      "summary": "与混沌之道相关的人物，张御受命联络他。",
+      "appearance": [
+        "从一团幽气中现身"
+      ],
+      "personality": [
+        "戏谑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    这一次，陈禹、张御、武倾墟三人也都是神容一肃，郑重还礼",
-        "”    武倾墟在旁言道：“如今此事也只有我三人和贵方知悉，便是我天夏诸位廷执，还有其余上尊，亦是不曾告知",
-        "”    武倾墟道：“多谢二位体谅了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "联络对象"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "应张御之邀现身，询问张御是否想通欲入混沌之道。"
+        }
+      ],
+      "evidence": [
+        "不知多久，前方一团幽气散开，霍衡出现在了他身前不远处",
+        "其目光投过来，笑了笑道：“张道友，你想要见我？怎么，道友可是想通了，欲入我混沌之道么？”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "我等",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "天夏道人",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二章 符传护道行",
-      "summary": "第二章 符传护道行    陈禹沉声道：“单道友认为我等可以退让否",
+      "summary": "天夏道人，负责打开门户。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二章 符传护道行    陈禹沉声道：“单道友认为我等可以退让否",
-        "”    陈禹道：“单道友见谅，我等只能说，我天夏自有消息来处，只是涉及一些隐秘，无法告知贵方，还请不要见怪",
-        "对此他也是愿意配合，颔首道：“三位放心，我等知悉事情之轻重，门中有我无我，都是一般，我二人也不急着回去"
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "武倾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 符传护道行",
-      "summary": "”    这一次，陈禹、张御、武倾墟三人也都是神容一肃，郑重还礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    这一次，陈禹、张御、武倾墟三人也都是神容一肃，郑重还礼",
-        "”    武倾墟在旁言道：“如今此事也只有我三人和贵方知悉，便是我天夏诸位廷执，还有其余上尊，亦是不曾告知",
-        "”    武倾墟道：“多谢二位体谅了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "应陈禹召唤，打开门户送三人前往庄道人处。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 符传护道行",
-      "summary": "”    陈禹道：“单道友见谅，我等只能说，我天夏自有消息来处，只是涉及一些隐秘，无法告知贵方，还请不要见怪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    陈禹道：“单道友见谅，我等只能说，我天夏自有消息来处，只是涉及一些隐秘，无法告知贵方，还请不要见怪",
-        "”他一挥袖，光芒荡开，没有撤去围布，只是在这道宫之旁又开辟了一座宫观",
-        "”    庄道人道：“下来我当利用清穹之气全力祭炼法器，期望在与元夏正式攻我之前再多得一件镇道之宝，只是期间怕是无暇顾及外间，三位且收下此符"
+        "明周道人稽首道：“首执，两位廷执，明周这边打开门户。”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "三位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 符传护道行",
-      "summary": "对此他也是愿意配合，颔首道：“三位放心，我等知悉事情之轻重，门中有我无我，都是一般，我二人也不急着回去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "对此他也是愿意配合，颔首道：“三位放心，我等知悉事情之轻重，门中有我无我，都是一般，我二人也不急着回去",
-        "庄道人还有一礼，道：“三位廷执有礼",
-        "”见礼过后，他又言道：“诸位，我成就上境，当已惊动元夏，其也必来探我，三位廷执想是已有准备了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "庄道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 符传护道行",
-      "summary": "陈禹将之拿在了手中，道：“庄道兄已成执摄，我等当是前往一见",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈禹将之拿在了手中，道：“庄道兄已成执摄，我等当是前往一见",
-        "张御看过去，可见前方有一面无边广大，却又澄澈晶莹的琉璃壁，其上映照出一个似水墨散逸，且又轮廓飘渺的道人身影，但是随着墨染相距，庄道人的身影渐渐变得清晰起来，并从中走了出来",
-        "庄道人还有一礼，道：“三位廷执有礼"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "单某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章 符传护道行",
-      "summary": "”    单道人点了点头，此刻他抬起手来，对着陈禹三人再是一礼，郑重无比道：“陈首执，两位廷执，单某身为乘幽执掌，在此许诺，我乘幽派当与天夏共进退",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    单道人点了点头，此刻他抬起手来，对着陈禹三人再是一礼，郑重无比道：“陈首执，两位廷执，单某身为乘幽执掌，在此许诺，我乘幽派当与天夏共进退",
-        "单道人道：“单某还有一些疑问，想要请教几位",
-        "”说着，他呵了一声，“单某倒也是要看看，这元夏使者到底如何，又要说些什么"
-      ],
-      "mention_count": 5
+      "mention_count": 2
     }
   ]
 }

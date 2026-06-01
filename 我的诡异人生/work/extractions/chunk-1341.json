@@ -1,0 +1,253 @@
+{
+  "chunk_id": "chunk-1341",
+  "characters": [
+    {
+      "name": "罗公远",
+      "aliases": [],
+      "identity": "道士",
+      "faction": "道门",
+      "status": "登场",
+      "first_appearance": "第1339章 不空",
+      "summary": "与叶法善对话的道士，对张午前辈有所了解。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "叶法善",
+          "type": "对话者"
+        },
+        {
+          "target": "张午",
+          "type": "对张午有所了解"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与叶法善交谈，讨论张午和‘大汉道士符箓’之事。"
+        }
+      ],
+      "evidence": [
+        "罗公远听到叶法善的话，抬目向叶法善问道。",
+        "罗公远点了点头，沉默了片刻，道：“那位张午……前辈，所作所为皆有深意”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "叶法善",
+      "aliases": [],
+      "identity": "道士",
+      "faction": "道门",
+      "status": "登场",
+      "first_appearance": "第1339章 不空",
+      "summary": "道门中人，准备回茅山商议对策。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "化作剑光飞纵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗公远",
+          "type": "对话者"
+        },
+        {
+          "target": "张午",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与罗公远交谈后离开，化作剑光飞往茅山。"
+        }
+      ],
+      "evidence": [
+        "叶法善站在房门口，看着外面明亮的天光",
+        "叶法善离开了庭院，化作一道剑光飞纵而去。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "张午",
+      "aliases": [
+        "张午前辈"
+      ],
+      "identity": "前辈高人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第1339章 不空",
+      "summary": "被提及的前辈，与‘大汉道士符箓’和厉诡有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗公远",
+          "type": "被罗公远提及"
+        },
+        {
+          "target": "叶法善",
+          "type": "被叶法善提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及已将厉诡呈送禁中。"
+        }
+      ],
+      "evidence": [
+        "那位张午前辈，已将导致雍凉二地旱情的厉诡首先呈送禁中",
+        "那位张午前辈……道门该以何种态度对他？"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "不空",
+      "aliases": [
+        "不空法师",
+        "不空和尚"
+      ],
+      "identity": "兴善寺翻经院的法师，金刚智大师的弟子",
+      "faction": "佛教",
+      "status": "登场",
+      "first_appearance": "第1339章 不空",
+      "summary": "兴善寺翻经院的法师，购买猴子和女童用于某种密法仪式。",
+      "appearance": [
+        "面貌较之金刚智大师要白净一些"
+      ],
+      "personality": [
+        "冷静",
+        "神秘"
+      ],
+      "abilities": [
+        "结跏趺坐，双手结印，头顶飘出十二瓣白玉莲花"
+      ],
+      "equipment": [
+        "十二瓣白玉莲花"
+      ],
+      "relationships": [
+        {
+          "target": "金刚智",
+          "type": "师徒"
+        },
+        {
+          "target": "寿真",
+          "type": "被寿真非议"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在翻经院禅房中接收猴子和女童，准备进行密法仪式。"
+        }
+      ],
+      "evidence": [
+        "不空法师令小厮们将八个陶坛放入他的禅房中",
+        "不空和尚定定地看了她一会儿，便转开了目光。",
+        "不空法师心神寂定，头顶飘转的莲花又徐徐下落，凝在他眉心。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "金刚智",
+      "aliases": [
+        "金刚智大师"
+      ],
+      "identity": "兴善寺翻经院的大师",
+      "faction": "佛教",
+      "status": "提及",
+      "first_appearance": "第1339章 不空",
+      "summary": "不空法师的师父，占据翻经院翻译经卷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "不空",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "今时翻经院已为那位法名作‘金刚智’的大师占据",
+        "金刚智大师最出色弟子‘不空法师’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "寿真",
+      "aliases": [],
+      "identity": "兴善寺的年轻僧侣",
+      "faction": "佛教",
+      "status": "登场",
+      "first_appearance": "第1339章 不空",
+      "summary": "兴善寺的年轻和尚，曾非议不空法师买猴子的行为。",
+      "appearance": [],
+      "personality": [
+        "不耐烦",
+        "知错能改"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "不空",
+          "type": "被不空敲打"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被不空法师敲打后，主动去挑十担水自惩。"
+        }
+      ],
+      "evidence": [
+        "法名作‘寿真’的年轻和尚眉毛跳了跳",
+        "他今日本不需要挑水做工，今下主动挑十担水"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "女童",
+      "aliases": [],
+      "identity": "被贩卖的女童",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第1339章 不空",
+      "summary": "被装在坛中卖给不空法师的女童，惊恐无助。",
+      "appearance": [
+        "女童的脑袋"
+      ],
+      "personality": [
+        "惊恐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "不空",
+          "type": "被不空购买"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被装在坛中送到不空法师禅房，惊恐地看着不空准备仪式。"
+        }
+      ],
+      "evidence": [
+        "那头颅却非是猴头，而是一颗女童的脑袋！",
+        "女童的身子如那些猴儿一般被禁锢在坛子里",
+        "她转头四顾，陡然看到站在背光处的光头和尚，眼神里顿时涌出几分希冀来"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

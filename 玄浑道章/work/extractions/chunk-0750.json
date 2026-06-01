@@ -1,258 +1,465 @@
 {
   "chunk_id": "chunk-0750",
-  "title": "第四十五章 失座复举功",
   "characters": [
     {
-      "name": "伊洛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-        "而这七十余年，伊洛上洲并未再遭受战乱不平，其余上洲皆是人口数倍于浊潮之前，唯独伊洛上洲，人口不过是多了三四千万，这何其可笑",
-        "”    座上廷执都是摇头，伊洛上洲别的不说，这浊潮过后的人口繁衍的确是非常难看，这一点是怎么也洗脱不掉的"
-      ],
-      "mention_count": 18
-    },
-    {
       "name": "钟道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "钟廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第四十五章 失座复举功",
-      "summary": "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
+      "summary": "玄廷廷执，在廷议中为郭缜辩护，但最终未能阻止革去郭缜玄首之位的决议。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "强辩",
+        "沉郁"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-        "钟道人也知道这些事，可他又不得不对郭缜加以维护，只好强辩道：“俗世之事，乃是洲府、军府之事，全然怪罪到郭玄首身上也是不妥吧",
-        "”    钟道人辨道：“青阳上洲造物技艺高明，伊洛上洲造物本无根基，这两者岂可一概而论"
+      "relationships": [
+        {
+          "target": "郭缜",
+          "type": "维护对象"
+        },
+        {
+          "target": "玉素道人",
+          "type": "辩论对手"
+        },
+        {
+          "target": "晁焕",
+          "type": "辩论对手"
+        },
+        {
+          "target": "崇廷执",
+          "type": "盟友"
+        },
+        {
+          "target": "长孙道人",
+          "type": "盟友"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "为郭缜辩护，但被玉素道人和晁焕驳斥。"
+        },
+        {
+          "stage": "廷议后",
+          "event": "回到妙皓道宫，收到裴固寻得霜洲人传讯技艺的消息。"
+        }
+      ],
+      "evidence": [
+        "钟道人之言，却是引来玉素道人冷笑",
+        "钟道人沉着脸，没再去接言。",
+        "钟道人再没出声。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "钟道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-        "钟道人也知道这些事，可他又不得不对郭缜加以维护，只好强辩道：“俗世之事，乃是洲府、军府之事，全然怪罪到郭玄首身上也是不妥吧",
-        "”    钟道人辨道：“青阳上洲造物技艺高明，伊洛上洲造物本无根基，这两者岂可一概而论"
+      "name": "玉素道人",
+      "aliases": [
+        "玉素廷执"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "伊洛上洲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第四十五章 失座复举功",
-      "summary": "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
+      "summary": "玄廷廷执，在廷议中列举伊洛上洲弊病，提议革去郭缜玄首之位。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-        "而这七十余年，伊洛上洲并未再遭受战乱不平，其余上洲皆是人口数倍于浊潮之前，唯独伊洛上洲，人口不过是多了三四千万，这何其可笑",
-        "”    座上廷执都是摇头，伊洛上洲别的不说，这浊潮过后的人口繁衍的确是非常难看，这一点是怎么也洗脱不掉的"
+      "personality": [
+        "冷笑",
+        "据理力争"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "郭缜",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "伊洛上洲当初主要负责抵挡外敌的乃是玄修，可是玄修本来就受压制，处事不利又被郭缜按上罪名责罚，这便弄得心气低落，愈发抵御不力",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "伊洛上洲当初主要负责抵挡外敌的乃是玄修，可是玄修本来就受压制，处事不利又被郭缜按上罪名责罚，这便弄得心气低落，愈发抵御不力",
-        "在浊潮最盛之时，各州分府本就是遭受了重创，郭缜又以此为借口罚过，将各州分府弄一个个名存实亡",
-        "本来似青阳上洲那般，便是玄修势弱，也有造物崛起承担守御之责，可郭缜又不喜造物，这便无人填补上去，以至于洲中处处漏洞"
+      "equipment": [
+        "玉碟"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "裴固",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "”    这是一个难得的好消息，裴固那里居然寻到了霜洲人留下的那门传讯技艺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    这是一个难得的好消息，裴固那里居然寻到了霜洲人留下的那门传讯技艺",
-        "裴固这边他本来以为很难做成，只是试试看罢了，他主要注意力还是放在正清一脉这里，但是没想想到，正清一脉竟是不肯现在到来，反而是裴固这一路有了收获",
-        "”    此时此刻，内层北方荒原之上，裴固所在的那驾飞舟在快要接近翼空上洲的洲域之前，却是被一驾斗战飞舟给拦下了"
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "辩论对手"
+        },
+        {
+          "target": "郭缜",
+          "type": "弹劾对象"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "明校尉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "”    裴固知道又是遇到麻烦了，他忍住气从飞舟里面出来，道：“明校尉，不知你要为何要阻拦我们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    裴固知道又是遇到麻烦了，他忍住气从飞舟里面出来，道：“明校尉，不知你要为何要阻拦我们",
-        "”    明校尉咧嘴一笑，道：“我怀疑你们与霜洲人勾结，所以来查查呗",
-        "”    明校尉奇怪道：“我是怀疑啊，怀疑要什么证据"
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "拿出玉碟记载伊洛上洲弊病，提议革去郭缜玄首之位。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "明校",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "”    裴固知道又是遇到麻烦了，他忍住气从飞舟里面出来，道：“明校尉，不知你要为何要阻拦我们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    裴固知道又是遇到麻烦了，他忍住气从飞舟里面出来，道：“明校尉，不知你要为何要阻拦我们",
-        "”    明校尉咧嘴一笑，道：“我怀疑你们与霜洲人勾结，所以来查查呗",
-        "”    明校尉奇怪道：“我是怀疑啊，怀疑要什么证据"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "却是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十五章 失座复举功    钟道人之言，却是引来玉素道人冷笑，他言道：“当初浊潮未起之时，伊洛上洲人口八亿有余，浊潮过来，只余三亿不到之数",
-        "”    晁焕精神一振，道：“可你当初提议废弃玄法时却是要废尽天下玄法，怎么那时能一体皆言了呢",
-        "武倾墟沉声道：“郭缜以往或许是出于特殊情由才把持洲中内外诸事，可是浊潮退去已久，廷上也曾留意伊洛之事，并发书提醒要他注意分寸，他也是应下了，可如今看来，他却是敷衍塞责，对此没有丝毫改过之意"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "这便",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十五章 失座复举功",
-      "summary": "伊洛上洲当初主要负责抵挡外敌的乃是玄修，可是玄修本来就受压制，处事不利又被郭缜按上罪名责罚，这便弄得心气低落，愈发抵御不力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "伊洛上洲当初主要负责抵挡外敌的乃是玄修，可是玄修本来就受压制，处事不利又被郭缜按上罪名责罚，这便弄得心气低落，愈发抵御不力",
-        "本来似青阳上洲那般，便是玄修势弱，也有造物崛起承担守御之责，可郭缜又不喜造物，这便无人填补上去，以至于洲中处处漏洞",
-        "奈何现在有训天道章，洲中玄修可以随时随地将洲内之事传递出去，这便就遮掩不住了"
+        "玉素道人冷言道",
+        "玉素道人这时又道",
+        "玉素道人再是对光气长河上殿一礼，道：'首执，请去郭缜伊洛上洲玄首之位！'"
       ],
       "mention_count": 5
     },
     {
       "name": "晁焕",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第四十五章 失座复举功",
-      "summary": "”    晁焕戏谑言道：“钟廷执，你此前与崇廷执皆是认为，乃是玄法玄修干涉到了造物，是所谓世间之毒，造物奋扬之牵绊，可是现在看看伊洛上洲，仍还是百年前的光景，怎么，同一件事，换了不同之人，就可以两说么",
+      "summary": "玄廷廷执，在廷议中戏谑钟道人，支持玉素道人的提议。",
+      "appearance": [],
+      "personality": [
+        "戏谑",
+        "精神一振"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "辩论对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "戏谑钟道人，指出其前后矛盾。"
+        }
+      ],
+      "evidence": [
+        "晁焕戏谑言道",
+        "晁焕精神一振，道"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "郭缜",
+      "aliases": [
+        "郭玄首"
+      ],
+      "identity": "伊洛上洲玄首",
+      "faction": "伊洛上洲玄府",
+      "status": "被提及",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "伊洛上洲玄首，因治理不力被玄廷革去职位。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "被维护"
+        },
+        {
+          "target": "玉素道人",
+          "type": "被弹劾"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "被玉素道人弹劾，最终被革去玄首之位。"
+        }
+      ],
+      "evidence": [
+        "郭缜常年执此权柄不放",
+        "革去郭缜伊洛上洲玄首之位"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "武倾墟",
+      "aliases": [],
+      "identity": "玄廷首执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "玄廷首执，主持廷议，最终决定革去郭缜玄首之位。",
+      "appearance": [],
+      "personality": [
+        "沉声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "郭缜",
+          "type": "下令革职"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "发言批评郭缜，并最终宣布革去其玄首之位。"
+        }
+      ],
+      "evidence": [
+        "武倾墟沉声道",
+        "首座道人见此，便道：'既诸位廷执都是赞同，那便革去郭缜伊洛上洲玄首之位'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "风道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "玄廷廷执，在廷议中举出伊洛上洲与青阳上洲筑路差距的例子。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "指出伊洛上洲筑路落后，郭缜当负其责。"
+        }
+      ],
+      "evidence": [
+        "风道人这时亦是出声道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "玄廷廷执，在廷议中发言支持玉素道人的记载，并询问继任人选。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "认为玉素道人的记载可信，并询问郭缜去位后由谁接替。"
+        }
+      ],
+      "evidence": [
+        "陈廷执道：'此事一查便知，玉素廷执既然送上，当不致有假。'",
+        "陈廷执这时道：'敢问首执，郭缜去位，又该以何人替继？'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [],
+      "identity": "玄首",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "一位玄首，秉持出世之道，在廷议中未发言。",
+      "appearance": [],
+      "personality": [
+        "出世"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "摇头未说话。"
+        }
+      ],
+      "evidence": [
+        "竺玄首摇了摇头，没有说话"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "长孙道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "玄廷廷执，与钟道人同为崇廷执的盟友，但未能阻止决议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "朝钟道人看来，但后者摇头。"
+        }
+      ],
+      "evidence": [
+        "长孙道人这时朝钟道人看了过来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "被提及",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "玄廷廷执，钟道人的盟友，但未出席本次廷议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "盟友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    晁焕戏谑言道：“钟廷执，你此前与崇廷执皆是认为，乃是玄法玄修干涉到了造物，是所谓世间之毒，造物奋扬之牵绊，可是现在看看伊洛上洲，仍还是百年前的光景，怎么，同一件事，换了不同之人，就可以两说么",
-        "”    晁焕精神一振，道：“可你当初提议废弃玄法时却是要废尽天下玄法，怎么那时能一体皆言了呢",
-        "他自觉也是有些失策，方才就不应该去和晁焕多说话，这人有理没理都要和你对着来两句，何况现在还占着道理，说得越多对他越不利"
+        "要是崇廷执还在"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "高墨",
+      "aliases": [
+        "高道友"
+      ],
+      "identity": "前玄廷廷执",
+      "faction": "玄廷",
+      "status": "被提及",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "前廷执，被提议去伊洛上洲担任玄首以积累功绩。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议中",
+          "event": "被晁焕提议去伊洛上洲镇守。"
+        }
+      ],
+      "evidence": [
+        "不若就要高道友去伊洛上洲镇守"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "裴固",
+      "aliases": [
+        "裴道修"
+      ],
+      "identity": "玄修",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "玄修，为钟道人寻得霜洲人留下的传讯技艺，在返回途中被巡查校尉拦截。",
+      "appearance": [],
+      "personality": [
+        "忍住气"
+      ],
+      "abilities": [],
+      "equipment": [
+        "飞舟"
+      ],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议后",
+          "event": "护送传讯技艺拓本前往玉京，途中被明校尉拦截检查。"
+        }
+      ],
+      "evidence": [
+        "裴固那里居然寻到了霜洲人留下的那门传讯技艺。",
+        "裴固知道又是遇到麻烦了，他忍住气从飞舟里面出来"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "明校尉",
+      "aliases": [],
+      "identity": "巡查校尉",
+      "faction": "翼空上洲军府",
+      "status": "登场",
+      "first_appearance": "第四十五章 失座复举功",
+      "summary": "翼空上洲的巡查校尉，以怀疑与霜洲人勾结为由拦截裴固的飞舟。",
+      "appearance": [
+        "留着黑色短发",
+        "面上有一股什么都满不在乎的神情"
+      ],
+      "personality": [
+        "满不在乎",
+        "咧嘴笑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "斗战飞舟",
+        "造物灯"
+      ],
+      "relationships": [
+        {
+          "target": "裴固",
+          "type": "拦截对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议后",
+          "event": "拦截裴固的飞舟进行检查，但未发现可疑物品后放行。"
+        }
+      ],
+      "evidence": [
+        "我姓明，是这里的巡查校尉",
+        "明校尉咧嘴一笑",
+        "明校尉嘿了一声"
       ],
       "mention_count": 5
     },
     {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "郑象",
+      "aliases": [
+        "郑师叔"
+      ],
+      "identity": "玄修",
+      "faction": "玄廷",
+      "status": "被提及",
       "first_appearance": "第四十五章 失座复举功",
-      "summary": "伊洛上洲当初主要负责抵挡外敌的乃是玄修，可是玄修本来就受压制，处事不利又被郭缜按上罪名责罚，这便弄得心气低落，愈发抵御不力",
+      "summary": "钟道人的弟子，被派去接应裴固。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "伊洛上洲当初主要负责抵挡外敌的乃是玄修，可是玄修本来就受压制，处事不利又被郭缜按上罪名责罚，这便弄得心气低落，愈发抵御不力",
-        "”    晁焕戏谑言道：“钟廷执，你此前与崇廷执皆是认为，乃是玄法玄修干涉到了造物，是所谓世间之毒，造物奋扬之牵绊，可是现在看看伊洛上洲，仍还是百年前的光景，怎么，同一件事，换了不同之人，就可以两说么",
-        "武倾墟沉声道：“郭缜以往或许是出于特殊情由才把持洲中内外诸事，可是浊潮退去已久，廷上也曾留意伊洛之事，并发书提醒要他注意分寸，他也是应下了，可如今看来，他却是敷衍塞责，对此没有丝毫改过之意"
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "师父"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "廷议后",
+          "event": "被钟道人传命去接应裴固。"
+        }
+      ],
+      "evidence": [
+        "传命下去，便让郑象去接应一下他。"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,256 +1,389 @@
 {
   "chunk_id": "chunk-0898",
-  "title": "第一百九十三章 往来秉正道",
   "characters": [
     {
       "name": "风道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "风使者",
+        "风廷执"
+      ],
+      "identity": "天夏玄尊，廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "风道人进入了这里之后，便被安排在了一座还算宽敞的宫庐之中",
+      "summary": "天夏派往上宸天的使者，在兰原传授知识，并有所悟道。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "风道人进入了这里之后，便被安排在了一座还算宽敞的宫庐之中",
-        "风道人来者不拒，对所有人一视同仁，如此一个月下来，这些孩童和半大少年，渐渐变得懂礼知礼起来",
-        "风道人看着他们欢笑远去的身影，依旧坐在那里"
+      "personality": [
+        "耐心",
+        "有教无类",
+        "坚持正道"
       ],
-      "mention_count": 16
+      "abilities": [
+        "玄尊修为",
+        "化身外出",
+        "推演道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "灵都道人",
+          "type": "谈判对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在上宸天兰原传授知识，后受灵都道人召见议谈。"
+        }
+      ],
+      "evidence": [
+        "风道人进入了这里之后，便被安排在了一座还算宽敞的宫庐之中。",
+        "他判断自己此刻身处之地，应该是依附于上宸天的某一处小天地中",
+        "风道人来者不拒，对所有人一视同仁"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "风道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "灵都道人",
+      "aliases": [
+        "灵都上尊"
+      ],
+      "identity": "上宸天上尊",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "风道人进入了这里之后，便被安排在了一座还算宽敞的宫庐之中",
+      "summary": "上宸天的高层，推动与天夏的议谈，但态度强硬。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "不愿轻易让步"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "风道人进入了这里之后，便被安排在了一座还算宽敞的宫庐之中",
-        "风道人来者不拒，对所有人一视同仁，如此一个月下来，这些孩童和半大少年，渐渐变得懂礼知礼起来",
-        "风道人看着他们欢笑远去的身影，依旧坐在那里"
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "谈判对象"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "召见风道人进行议谈。"
+        }
+      ],
+      "evidence": [
+        "灵都上尊有请。",
+        "灵都道人道：“那只是因为此回议谈未了，依我本意，是不愿和天夏斗战的，这才推动了此事”"
+      ],
+      "mention_count": 6
     },
     {
       "name": "任殷平",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
-        "”    任殷平道：“把他请至日殿",
-        "任殷平又再做了半天推算，这才自台上站起，身上虚气浮动了一下，就出现在了日殿玉台之内"
+      "aliases": [
+        "任山主",
+        "任宣平"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "韦廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元都山掌门（自封）",
+      "faction": "元都山（上宸天）",
       "status": "登场",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
+      "summary": "元都山自封掌门，与天夏使者韦廷执谈判，态度强硬。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "平静",
+        "果断"
+      ],
+      "abilities": [
+        "推算"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "韦廷执",
+          "type": "谈判对象"
+        },
+        {
+          "target": "王道人",
+          "type": "师弟"
+        },
+        {
+          "target": "荀季",
+          "type": "师兄（原掌门）"
+        },
+        {
+          "target": "瞻空",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在攀微台推算，后与韦廷执谈判，出示符信。"
+        }
+      ],
       "evidence": [
-        "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
-        "韦廷执已是在此等了一会儿，见他出现，当下稽首为礼",
-        "任殷平点头回了一礼，道：“韦廷执，对于我上回之言，不知你们可曾考虑清楚了"
+        "元都山门之内，自封掌门的任殷平坐在攀微台上",
+        "任殷平神情平静，吩咐侍立一边的弟子",
+        "任殷平十分平静道：“韦廷执，现在可以谈了么？”"
       ],
       "mention_count": 10
     },
     {
       "name": "韦廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
-        "韦廷执已是在此等了一会儿，见他出现，当下稽首为礼",
-        "任殷平点头回了一礼，道：“韦廷执，对于我上回之言，不知你们可曾考虑清楚了"
+      "aliases": [
+        "韦梁",
+        "韦某"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "灵都",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "”    过有几息，阁门一开，一名素衣弟子来到了他面前，打一稽首，道：“风使者有礼，灵都上尊有请",
+      "summary": "天夏派往元都山的使者，与任殷平谈判定约事宜。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    过有几息，阁门一开，一名素衣弟子来到了他面前，打一稽首，道：“风使者有礼，灵都上尊有请",
-        "”他站了起来，走出了宫庐，见那里有一团灵芝玉云降落在殿前广场之上，他便踏了上去，只觉芝云由此往上而行，很快就到了一座云殿之内，灵都道人正站在此间",
-        "风道人虽未见过这位本人，但见过画影，拱手道：“灵都上尊有礼"
+      "personality": [
+        "严肃",
+        "坚持原则"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "任殷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "任殷平",
+          "type": "谈判对象"
+        },
+        {
+          "target": "荀季",
+          "type": "定约人"
+        },
+        {
+          "target": "瞻空",
+          "type": "定约人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与任殷平谈判，要求原定约人出面，谈判破裂。"
+        }
+      ],
       "evidence": [
-        "”    元都山门之内，自封掌门的任殷平坐在攀微台上，他依旧是在那里用心推算着什么，有弟子来至台上，躬身向禀告道：“掌门，那位天夏的韦廷执又来了",
-        "”    任殷平道：“把他请至日殿",
-        "任殷平又再做了半天推算，这才自台上站起，身上虚气浮动了一下，就出现在了日殿玉台之内"
+        "韦廷执已是在此等了一会儿",
+        "韦廷执沉声道：“任道友，廷上认为，那定约之事，当初乃是荀季、瞻空两位道友与我所定”",
+        "韦廷执暗叹了一声，知道这一刻，事情已经是无法挽回了"
       ],
       "mention_count": 8
     },
     {
       "name": "王道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "王师弟"
+      ],
+      "identity": "元都山道人，任殷平师弟",
+      "faction": "元都山（上宸天）",
       "status": "登场",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "”    过有不久，王道人带着两名年轻弟子来到殿上，稽首道：“师兄，两位师侄都已是唤到了",
+      "summary": "任殷平的师弟，协助处理事务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    过有不久，王道人带着两名年轻弟子来到殿上，稽首道：“师兄，两位师侄都已是唤到了",
-        "”    王道人道一声好，他转向韦梁，指着那一名白衣弟子，道：“韦廷执，这位狄溟，乃是瞻空师兄的嫡传弟子",
-        "”    狄溟对着韦廷执一礼，    王道人又一指另一名少年道人，道：“而这位戚师侄，则乃是我大师兄亲传弟子"
+      "relationships": [
+        {
+          "target": "任殷平",
+          "type": "师兄"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带狄溟、戚未央到殿上，向韦廷执介绍。"
+        }
+      ],
+      "evidence": [
+        "王道人带着两名年轻弟子来到殿上",
+        "王道人道一声好，他转向韦梁"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "上宸天",
+      "name": "狄溟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "瞻空道人的嫡传弟子",
+      "faction": "元都山（上宸天）",
       "status": "登场",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "第一百九十三章 往来秉正道    上宸天，兰原",
-      "appearance": [],
+      "summary": "瞻空道人的弟子，出示符信。",
+      "appearance": [
+        "白衣"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百九十三章 往来秉正道    上宸天，兰原",
-        "不过除了一开始有一位上宸天玄尊出面招呼他外，此后再无人到此来过，似是把他遗忘了",
-        "现在耗不起的不是天夏，而是上宸天"
+      "equipment": [
+        "符信"
       ],
-      "mention_count": 6
+      "relationships": [
+        {
+          "target": "瞻空",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被带到殿上，出示符信。"
+        }
+      ],
+      "evidence": [
+        "王道人指着那一名白衣弟子，道：“韦廷执，这位狄溟，乃是瞻空师兄的嫡传弟子。”",
+        "狄溟，戚未央都是道一声是，各自从袖中取了一枚符信出来。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他也",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "戚未央",
+      "aliases": [
+        "戚师侄"
+      ],
+      "identity": "任殷平大师兄的亲传弟子",
+      "faction": "元都山（上宸天）",
       "status": "登场",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "不过他也不急，对方愿意拖下去的话，他也自当奉陪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过他也不急，对方愿意拖下去的话，他也自当奉陪",
-        "而趁着这个机会，他也是试着观察了一下此间",
-        "可他并不介意，哪怕只有一个愿听，他也愿讲"
+      "summary": "任殷平大师兄的弟子，根基深厚，出示符信。",
+      "appearance": [
+        "少年道人，二十出头"
       ],
-      "mention_count": 5
+      "personality": [],
+      "abilities": [
+        "根基异常厚实"
+      ],
+      "equipment": [
+        "符信"
+      ],
+      "relationships": [
+        {
+          "target": "任殷平",
+          "type": "师叔"
+        },
+        {
+          "target": "荀季",
+          "type": "师父（大师兄）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被带到殿上，出示符信。"
+        }
+      ],
+      "evidence": [
+        "而这位戚师侄，则乃是我大师兄亲传弟子。",
+        "那少年道人看去也就是二十出头，然而身上气机勃发，可见根基异常之厚实"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "教会",
+      "name": "天鸿",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "上宸天之人",
+      "faction": "上宸天",
+      "status": "提及",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "那时候他会去到荒原之上，教会地陆上的生民如何耕种土地，教会他们如何辨别和制作草药，教会他们如何打造更先进的工具，教会他们如何修筑水利，灌溉农田",
+      "summary": "被提及带着不少上宸天之人去往天夏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那时候他会去到荒原之上，教会地陆上的生民如何耕种土地，教会他们如何辨别和制作草药，教会他们如何打造更先进的工具，教会他们如何修筑水利，灌溉农田"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被灵都道人提及已带人去天夏。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "天鸿却是带着不少我上宸天之人去往天夏了。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "灵都道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "荀季",
+      "aliases": [
+        "大师兄"
+      ],
+      "identity": "元都山原掌门",
+      "faction": "元都山（上宸天）",
+      "status": "提及",
       "first_appearance": "第一百九十三章 往来秉正道",
-      "summary": "”他站了起来，走出了宫庐，见那里有一团灵芝玉云降落在殿前广场之上，他便踏了上去，只觉芝云由此往上而行，很快就到了一座云殿之内，灵都道人正站在此间",
+      "summary": "元都山原掌门，与天夏定约，后失踪。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他站了起来，走出了宫庐，见那里有一团灵芝玉云降落在殿前广场之上，他便踏了上去，只觉芝云由此往上而行，很快就到了一座云殿之内，灵都道人正站在此间",
-        "”    灵都道人还有一礼，随后作势一请，道：“风道友请坐",
-        "灵都道人也是坐下，他道：“风道友可知，在过来之时，天鸿却是带着不少我上宸天之人去往天夏了"
+      "relationships": [
+        {
+          "target": "任殷平",
+          "type": "师弟"
+        },
+        {
+          "target": "韦廷执",
+          "type": "定约人"
+        },
+        {
+          "target": "戚未央",
+          "type": "师父"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与天夏定约。"
+        }
+      ],
+      "evidence": [
+        "当初乃是荀季、瞻空两位道友与我所定"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "瞻空",
+      "aliases": [
+        "瞻空师兄",
+        "瞻空道人"
+      ],
+      "identity": "元都山道人",
+      "faction": "元都山（上宸天）",
+      "status": "提及",
+      "first_appearance": "第一百九十三章 往来秉正道",
+      "summary": "元都山道人，与天夏定约，后失踪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "任殷平",
+          "type": "师弟"
+        },
+        {
+          "target": "韦廷执",
+          "type": "定约人"
+        },
+        {
+          "target": "狄溟",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与天夏定约。"
+        }
+      ],
+      "evidence": [
+        "当初乃是荀季、瞻空两位道友与我所定"
+      ],
+      "mention_count": 2
     }
   ]
 }

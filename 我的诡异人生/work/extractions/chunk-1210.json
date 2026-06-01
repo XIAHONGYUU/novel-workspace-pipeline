@@ -1,0 +1,486 @@
+{
+  "chunk_id": "chunk-1210",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "核心人物，召唤阴间主、召集众人，计划打造五副棺材。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "召唤纸人",
+        "书写正气符",
+        "开阴间门",
+        "召唤阴间主",
+        "慧剑斩念"
+      ],
+      "equipment": [
+        "紫黑符纸",
+        "纸人"
+      ],
+      "relationships": [
+        {
+          "target": "心圣元神",
+          "type": "合作"
+        },
+        {
+          "target": "孙吉",
+          "type": "请求打造棺材"
+        },
+        {
+          "target": "孙九",
+          "type": "请求打造棺材"
+        },
+        {
+          "target": "李彘",
+          "type": "求助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒村中召集众人，准备打造五副棺材。"
+        }
+      ],
+      "evidence": [
+        "苏午伸手推那两扇在风中摇晃着的木门",
+        "苏午与众人言语了几句，便取出了几张纸人",
+        "苏午手掐指决，一手抓出一道紫黑符纸"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "心圣元神",
+      "aliases": [
+        "阴间主",
+        "心圣"
+      ],
+      "identity": "阴间主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "阴间主，被苏午召唤而来，帮助苏午解决棺材问题，斩下自己一根手指作为元神碎片。",
+      "appearance": [
+        "披着玄色大氅，穿一身青色交领道袍的俊朗中年人"
+      ],
+      "personality": [],
+      "abilities": [
+        "跨越阴间距离",
+        "元神碎片分离"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "合作"
+        },
+        {
+          "target": "孙吉",
+          "type": "提供帮助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午召唤，商议棺材事宜，并斩下手指作为元神碎片帮助孙氏。"
+        }
+      ],
+      "evidence": [
+        "披着玄色大氅，穿一身青色交领道袍的俊朗中年人沿着这道由引魂棒、招魂幡连成的长路，一步迈出",
+        "心圣元神环顾周遭",
+        "他直接将自己的食指斩了下来"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "孙吉",
+      "aliases": [],
+      "identity": "桃源村木工",
+      "faction": "桃源村孙氏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "桃源村木工，擅长打造棺材，但拒绝为苏午打造五副棺材，后因心圣提供帮助而可能改变。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "重视宗族"
+      ],
+      "abilities": [
+        "木工活计"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被请求打造棺材"
+        },
+        {
+          "target": "孙九",
+          "type": "族叔"
+        },
+        {
+          "target": "心圣元神",
+          "type": "接受帮助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午召唤，拒绝打造五副棺材，后心圣提供元神碎片作为凭恃。"
+        }
+      ],
+      "evidence": [
+        "孙吉听得苏午所言，当场摇了摇手",
+        "老者话未说完，就被苏午摇头打断",
+        "孙吉向心圣躬身行礼"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "孙九",
+      "aliases": [],
+      "identity": "桃源村木工",
+      "faction": "桃源村孙氏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "孙吉的侄子，同样拒绝为苏午打造五副棺材。",
+      "appearance": [],
+      "personality": [
+        "急躁"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "孙吉",
+          "type": "族侄"
+        },
+        {
+          "target": "苏午",
+          "type": "被请求打造棺材"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与孙吉一同被召唤，拒绝打造五副棺材。"
+        }
+      ],
+      "evidence": [
+        "旁边年轻些的孙九已经跳了起来，惊声叫道",
+        "孙九在旁边上蹿下跳，拒绝得甚为干脆"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "李彘",
+      "aliases": [],
+      "identity": "桃源村猎户",
+      "faction": "桃源村李氏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "桃源村猎户，曾为苏午送去无名之诡的气息，被苏午询问桃花树下的物什。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "操弄兵器"
+      ],
+      "equipment": [
+        "柴刀"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被求助"
+        },
+        {
+          "target": "心圣元神",
+          "type": "借刀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午召唤，提及桃花树下的物什，借刀给心圣。"
+        }
+      ],
+      "evidence": [
+        "李彘摇了摇头",
+        "李彘闻言，取下身后背着的柴刀，交到了心圣手中"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "黑傩",
+      "aliases": [],
+      "identity": "鬼梦中的太上爷",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "鬼梦中的太上爷之一，被苏午召唤出来。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被召唤"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午召唤出来，向苏午行礼。"
+        }
+      ],
+      "evidence": [
+        "黑傩、白驹、大成太上爷从雾气中显出身形，向他躬身行礼"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白驹",
+      "aliases": [],
+      "identity": "鬼梦中的太上爷",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "鬼梦中的太上爷之一，被苏午召唤出来。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被召唤"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午召唤出来，向苏午行礼。"
+        }
+      ],
+      "evidence": [
+        "黑傩、白驹、大成太上爷从雾气中显出身形，向他躬身行礼"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "大成太上爷",
+      "aliases": [],
+      "identity": "鬼梦中的太上爷",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "鬼梦中的太上爷之一，被苏午召唤出来，曾教授丁隐拳法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "拳理拳法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被召唤"
+        },
+        {
+          "target": "丁隐",
+          "type": "教授拳法"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午召唤出来，向苏午行礼。"
+        }
+      ],
+      "evidence": [
+        "黑傩、白驹、大成太上爷从雾气中显出身形，向他躬身行礼",
+        "大成太上爷更是每日晨昏皆会显身，与苏午探讨拳理拳法"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "青苗",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被心圣元神目光停留的人物之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "他的目光首先在青苗、秀秀、李虎三人身上停了停"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "秀秀",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被心圣元神目光停留的人物之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "他的目光首先在青苗、秀秀、李虎三人身上停了停"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李虎",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被心圣元神目光停留的人物之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "他的目光首先在青苗、秀秀、李虎三人身上停了停"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钟遂",
+      "aliases": [
+        "素王"
+      ],
+      "identity": "素王",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被苏午提及，曾打算修道，被苏午劝回正途。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被劝诫"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾打算修道，被苏午劝回正途。"
+        }
+      ],
+      "evidence": [
+        "我见他的时候，他竟打算修道，为了让他回到正途，我也是费了一番口舌"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "韩平",
+      "aliases": [
+        "韩老太爷"
+      ],
+      "identity": "韩家人，曾权势日盛",
+      "faction": "桃源村韩氏",
+      "status": "提及（已死）",
+      "first_appearance": "",
+      "summary": "韩家人，曾令钓叟称臣纳贡，后掉入元河被喂鲤鱼。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "权势日盛，令钓叟称臣纳贡，后掉入元河。"
+        }
+      ],
+      "evidence": [
+        "韩老太爷也掉到了元河里，被拿来喂元河鲤"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钓叟",
+      "aliases": [],
+      "identity": "守在元河畔的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "守在元河畔，阻止天地宗长采食鲤鱼，但只关心钓鱼。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "天地宗长",
+          "type": "可能以自身为饵"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "守在元河畔，天地宗长不再采食鲤鱼。"
+        }
+      ],
+      "evidence": [
+        "有位自称为‘钓叟’的人守在元河畔",
+        "钓叟也只关心钓鱼"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "天地宗长",
+      "aliases": [],
+      "identity": "桃源村的神祇或怪物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "桃源村的神祇或怪物，曾采食鲤鱼和宗姓，后因钓叟而改变。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钓叟",
+          "type": "被钓叟影响"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "采食鲤鱼和宗姓，后因钓叟而不再随意吞吃。"
+        }
+      ],
+      "evidence": [
+        "天地宗长采食鲤鱼",
+        "天地宗长方才显身吃人"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

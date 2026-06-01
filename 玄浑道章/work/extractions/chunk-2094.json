@@ -1,258 +1,624 @@
 {
   "chunk_id": "chunk-2094",
-  "title": "第九十四章 洗浊今还清",
   "characters": [
     {
-      "name": "太素",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "因为此刻金庭只剩下了太素道人一人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为此刻金庭只剩下了太素道人一人了",
-        "太素道人看到上面还覆象、裘道人二人之气意，这才知悉这一次联合起来的力量远不止天夏这一边的上境大能",
-        "太素道人点了点头，他此时看向外间，道：“元一天宫那五位来了"
-      ],
-      "mention_count": 20
-    },
-    {
-      "name": "太素道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "因为此刻金庭只剩下了太素道人一人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为此刻金庭只剩下了太素道人一人了",
-        "太素道人看到上面还覆象、裘道人二人之气意，这才知悉这一次联合起来的力量远不止天夏这一边的上境大能",
-        "太素道人点了点头，他此时看向外间，道：“元一天宫那五位来了"
-      ],
-      "mention_count": 15
-    },
-    {
       "name": "太素道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "太素先圣",
+        "太素执摄"
+      ],
+      "identity": "金庭执摄，先天五太之一",
+      "faction": "金庭",
       "status": "登场",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "因为此刻金庭只剩下了太素道人一人了",
+      "summary": "金庭仅存的执摄，与元一天宫五位元圣交涉，并承诺维护道争、补全道名。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为此刻金庭只剩下了太素道人一人了",
-        "太素道人看到上面还覆象、裘道人二人之气意，这才知悉这一次联合起来的力量远不止天夏这一边的上境大能",
-        "太素道人点了点头，他此时看向外间，道：“元一天宫那五位来了"
+      "personality": [
+        "冷静",
+        "坚定"
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "我等",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "太易元圣道：“事机出现了变化，不可由其等继续了，我等必须插手了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "太易元圣道：“事机出现了变化，不可由其等继续了，我等必须插手了",
-        "”    张御道：“元一天宫之力当是胜于我，自不能正面硬抗，我等大不了利用玄浑蝉退去浑黯，再图后计便是",
-        "太易元圣先是道：“太素先圣，方才我等察觉金庭有异，似有反乱，为不使我两家所定道争有变，一番商议下来，决定前来相援"
+      "abilities": [
+        "执拿清穹之气",
+        "同合五位元圣之气"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "金庭",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "因为此刻金庭只剩下了太素道人一人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为此刻金庭只剩下了太素道人一人了",
-        "可看这局势，那些反乱之人似乎不准备这么做，而是准备彻底将金庭推翻，将五位执摄剿杀干净，若真是这样，那局面就完全不同了",
-        "”    其余元圣俱是认同此见，故是气意一转，皆是自元一天宫而出，并往金庭这边落了下来"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "盟友"
+        },
+        {
+          "target": "太易元圣",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太初元圣",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太极元圣",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太始元圣",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太素元圣",
+          "type": "交涉对象"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与元一天宫五位元圣交涉，拒绝其干涉金庭内部事务。"
+        },
+        {
+          "stage": "交涉后",
+          "event": "与张御商议补全道名及应对元一天宫之事。"
+        }
+      ],
+      "evidence": [
+        "太素道人道：“我先去与他们一会。”",
+        "太素道人道：“我知道争必得维护，过后自会有人来承继先天五太之道。”",
+        "太素道人道：“我能察觉到，纵然自己维系，可道念也是不由自主朝着向五太之道偏移。”"
+      ],
+      "mention_count": 18
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "清玄上神",
+        "清玄执摄"
+      ],
+      "identity": "天夏上境大能，执摄",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "他看向张御，道：“敢问清玄上神一句，若是我最后不曾这般做，元一天宫如在最后过来干涉，诸位又打算如何应对呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看向张御，道：“敢问清玄上神一句，若是我最后不曾这般做，元一天宫如在最后过来干涉，诸位又打算如何应对呢",
-        "”    张御道：“元一天宫之力当是胜于我，自不能正面硬抗，我等大不了利用玄浑蝉退去浑黯，再图后计便是",
-        "”    张御也是看了过去，就见金庭上方光华层层散开，有五缕空渺高深的气意到来，随后化作五位元圣形影，其等皆立于一座玉莲之上，并自上方看了下来"
+      "summary": "天夏一方领袖，与太素道人合作推翻金庭旧制，持有玄浑蝉，对抗元一天宫。",
+      "appearance": [
+        "玉袍道人，手持剑器，身外飘绕清气，足踏云芝玉台，背后有两翼若银河横空"
       ],
-      "mention_count": 8
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "执拿清穹之气",
+        "持有玄浑蝉"
+      ],
+      "equipment": [
+        "剑器",
+        "玄浑蝉"
+      ],
+      "relationships": [
+        {
+          "target": "太素道人",
+          "type": "盟友"
+        },
+        {
+          "target": "庄执摄",
+          "type": "同阵营"
+        },
+        {
+          "target": "青朔",
+          "type": "同阵营"
+        },
+        {
+          "target": "白朢",
+          "type": "同阵营"
+        },
+        {
+          "target": "灵瑕",
+          "type": "同阵营"
+        },
+        {
+          "target": "觉霄",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与太素道人商议应对元一天宫，提出退去浑黯等策略。"
+        },
+        {
+          "stage": "交涉后",
+          "event": "考虑补全道名的人选，如烛相映身或裘道人映身。"
+        }
+      ],
+      "evidence": [
+        "张御道：“元一天宫之力当是胜于我，自不能正面硬抗，我等大不了利用玄浑蝉退去浑黯，再图后计便是。”",
+        "便见一名玉袍道人手持剑器，自金庭之中走了出来，其身外飘绕清气，足踏云芝玉台，隐隐可见，其背后似有两翼若银河横空，铺陈开去。",
+        "张御淡声道：“那最后再与元一天宫一论便是。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "元一",
+      "name": "太易元圣",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元一天宫五位元圣之一",
+      "faction": "元一天宫",
       "status": "登场",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
+      "summary": "元一天宫元圣，主张插手金庭内乱，后与太素道人交涉后退去。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
-        "”    其余元圣俱是认同此见，故是气意一转，皆是自元一天宫而出，并往金庭这边落了下来",
-        "他看向张御，道：“敢问清玄上神一句，若是我最后不曾这般做，元一天宫如在最后过来干涉，诸位又打算如何应对呢"
+      "relationships": [
+        {
+          "target": "太素道人",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太初元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太极元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太始元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太素元圣",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与其他元圣一同前往金庭，试图干涉。"
+        }
+      ],
+      "evidence": [
+        "太易元圣道：“事机出现了变化，不可由其等继续了，我等必须插手了。”",
+        "太易元圣先是道：“太素先圣，方才我等察觉金庭有异，似有反乱，为不使我两家所定道争有变，一番商议下来，决定前来相援。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "元一天",
+      "name": "太初元圣",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元一天宫五位元圣之一",
+      "faction": "元一天宫",
       "status": "登场",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
+      "summary": "元一天宫元圣，参与交涉，要求金庭补全道名并查验大混沌。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
-        "”    其余元圣俱是认同此见，故是气意一转，皆是自元一天宫而出，并往金庭这边落了下来",
-        "他看向张御，道：“敢问清玄上神一句，若是我最后不曾这般做，元一天宫如在最后过来干涉，诸位又打算如何应对呢"
+      "relationships": [
+        {
+          "target": "太素道人",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太易元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太极元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太始元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太素元圣",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与其他元圣一同前往金庭，提出查验大混沌的要求。"
+        }
+      ],
+      "evidence": [
+        "太初元圣道：“太素先圣莫怪，照理说这是金庭自家之事，我等自无需过问，不过你我两家乃有定约，必须维护道争，不知此等反乱最后如何处置，特别是那余下道名，又有何人来承继，金庭可能告知否？”",
+        "太初元圣这时道：“还要提醒太素先圣一声，金庭之乱我等可以不过问，但我辈之大敌乃是大混沌，方才我等见混沌像身侵袭金庭，虽已退去，可不容大意，我等此来，也是想检验有无恶秽寄附，不妨请太素执摄放开金庭，让我验看一番。”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "元一天宫",
+      "name": "太极元圣",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元一天宫五位元圣之一",
+      "faction": "元一天宫",
       "status": "登场",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
+      "summary": "元一天宫元圣，参与交涉，强调大混沌之害。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
-        "”    其余元圣俱是认同此见，故是气意一转，皆是自元一天宫而出，并往金庭这边落了下来",
-        "他看向张御，道：“敢问清玄上神一句，若是我最后不曾这般做，元一天宫如在最后过来干涉，诸位又打算如何应对呢"
+      "relationships": [
+        {
+          "target": "太素道人",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太易元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太初元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太始元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太素元圣",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与其他元圣一同前往金庭，要求查验。"
+        }
+      ],
+      "evidence": [
+        "太极元圣言道：“我见方才有不少先圣上神出手，莫非他们都是不愿继此道名么？”",
+        "太极元圣却是摇头道：“大混沌之害不容小视，太素先圣莫要掉以轻心，金庭方是经历内乱，又余先圣一人支撑，如此若有疏漏，或可能会有一些残余恶秽，为保道争稳妥，还是查看一下为妙。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "五位",
+      "name": "太始元圣",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元一天宫五位元圣之一",
+      "faction": "元一天宫",
       "status": "登场",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
+      "summary": "元一天宫元圣，参与交涉，强调道争不容有异。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
-        "可看这局势，那些反乱之人似乎不准备这么做，而是准备彻底将金庭推翻，将五位执摄剿杀干净，若真是这样，那局面就完全不同了",
-        "太素道人点了点头，他此时看向外间，道：“元一天宫那五位来了"
+      "relationships": [
+        {
+          "target": "太素道人",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太易元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太初元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太极元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太素元圣",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与其他元圣一同前往金庭。"
+        }
+      ],
+      "evidence": [
+        "太始元圣颔首道：“那需尽快了，道争之事，不容有异，想必太素先圣是知道的。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "若是",
+      "name": "太素元圣",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元一天宫五位元圣之一",
+      "faction": "元一天宫",
       "status": "登场",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "若是这场攻杀之中，后来人承继了某个执摄的道名，那也罢了，他们也是没有必要露面",
+      "summary": "元一天宫元圣，参与交涉，表示可以出手相助。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "若是这场攻杀之中，后来人承继了某个执摄的道名，那也罢了，他们也是没有必要露面",
-        "他看向张御，道：“敢问清玄上神一句，若是我最后不曾这般做，元一天宫如在最后过来干涉，诸位又打算如何应对呢",
-        "”    太素元圣道：“若是太素先圣做不了此事，那么我元一天宫可以出手相助"
+      "relationships": [
+        {
+          "target": "太素道人",
+          "type": "交涉对象"
+        },
+        {
+          "target": "太易元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太初元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太极元圣",
+          "type": "同僚"
+        },
+        {
+          "target": "太始元圣",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与其他元圣一同前往金庭。"
+        }
+      ],
+      "evidence": [
+        "太素元圣道：“若是太素先圣做不了此事，那么我元一天宫可以出手相助。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "五位元",
+      "name": "庄执摄",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
       "first_appearance": "第九十四章 洗浊今还清",
-      "summary": "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
+      "summary": "金庭执摄之一，在太素道人之后显化，与张御等人一同对峙元一天宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "执拿清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        },
+        {
+          "target": "太素道人",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与张御等人一同显化，对峙五位元圣。"
+        }
+      ],
+      "evidence": [
+        "而在其出现之后，庄执摄、青朔、白朢、灵瑕、觉霄等人形影一个个也都是显化出来，可见各自执都是拿有一部清穹之气，并与五位元圣隐隐形成了对峙之势。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青朔",
+      "aliases": [],
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
+      "first_appearance": "第九十四章 洗浊今还清",
+      "summary": "金庭执摄之一，与张御等人一同对峙元一天宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "执拿清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        },
+        {
+          "target": "太素道人",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与张御等人一同显化，对峙五位元圣。"
+        }
+      ],
+      "evidence": [
+        "而在其出现之后，庄执摄、青朔、白朢、灵瑕、觉霄等人形影一个个也都是显化出来，可见各自执都是拿有一部清穹之气，并与五位元圣隐隐形成了对峙之势。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白朢",
+      "aliases": [],
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
+      "first_appearance": "第九十四章 洗浊今还清",
+      "summary": "金庭执摄之一，与张御等人一同对峙元一天宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "执拿清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        },
+        {
+          "target": "太素道人",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与张御等人一同显化，对峙五位元圣。"
+        }
+      ],
+      "evidence": [
+        "而在其出现之后，庄执摄、青朔、白朢、灵瑕、觉霄等人形影一个个也都是显化出来，可见各自执都是拿有一部清穹之气，并与五位元圣隐隐形成了对峙之势。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "灵瑕",
+      "aliases": [],
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
+      "first_appearance": "第九十四章 洗浊今还清",
+      "summary": "金庭执摄之一，与张御等人一同对峙元一天宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "执拿清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        },
+        {
+          "target": "太素道人",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与张御等人一同显化，对峙五位元圣。"
+        }
+      ],
+      "evidence": [
+        "而在其出现之后，庄执摄、青朔、白朢、灵瑕、觉霄等人形影一个个也都是显化出来，可见各自执都是拿有一部清穹之气，并与五位元圣隐隐形成了对峙之势。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "觉霄",
+      "aliases": [],
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
+      "first_appearance": "第九十四章 洗浊今还清",
+      "summary": "金庭执摄之一，与张御等人一同对峙元一天宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "执拿清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        },
+        {
+          "target": "太素道人",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "与张御等人一同显化，对峙五位元圣。"
+        }
+      ],
+      "evidence": [
+        "而在其出现之后，庄执摄、青朔、白朢、灵瑕、觉霄等人形影一个个也都是显化出来，可见各自执都是拿有一部清穹之气，并与五位元圣隐隐形成了对峙之势。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "裘道人",
+      "aliases": [],
+      "identity": "上境大能",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第九十四章 洗浊今还清",
+      "summary": "天夏一方的大能，其气意出现在金色莲叶上，张御考虑让其映身照落补全道名。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "其气意被太素道人察觉，张御考虑让其映身照落补位。"
+        }
+      ],
+      "evidence": [
+        "太素道人看到上面还覆象、裘道人二人之气意，这才知悉这一次联合起来的力量远不止天夏这一边的上境大能。",
+        "还有一人，那就是可让裘道人将映身照落下来，其本来在天夏并无映身，照落过来，也是合情理的。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "覆象",
+      "aliases": [],
+      "identity": "上境大能",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第九十四章 洗浊今还清",
+      "summary": "其气意出现在金色莲叶上，参与联合推翻金庭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十四章 洗浊今还清    就在太易道人被消杀的时候，元一天宫这处，五位元圣也是有所察觉，这一次他们却是无法坐视了",
-        "”    张御也是看了过去，就见金庭上方光华层层散开，有五缕空渺高深的气意到来，随后化作五位元圣形影，其等皆立于一座玉莲之上，并自上方看了下来",
-        "”    他心念一转，便有一缕气意传出，同样化作形影至五位元圣面前，对着前方一礼，道：“五位元圣有礼了"
+      "timeline": [
+        {
+          "stage": "金庭之乱",
+          "event": "其气意出现在金色莲叶上，表明参与联合。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "太素道人看到上面还覆象、裘道人二人之气意，这才知悉这一次联合起来的力量远不止天夏这一边的上境大能。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "烛相",
+      "aliases": [],
+      "identity": "大能映身",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第九十四章 洗浊今还清",
+      "summary": "其在天夏的映身被张御考虑作为补全道名的人选之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被考虑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "金庭之乱后",
+          "event": "张御考虑让其映身加入金庭补位。"
+        }
+      ],
+      "evidence": [
+        "一个乃是烛相投落在天夏的映身。"
+      ],
+      "mention_count": 1
     }
   ]
 }

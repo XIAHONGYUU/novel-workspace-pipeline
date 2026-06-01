@@ -1,257 +1,418 @@
 {
   "chunk_id": "chunk-1450",
-  "title": "第二十八章 遁空行彼域",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张守正",
+        "廷执"
+      ],
+      "identity": "玄廷廷执，守正",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "张御化身回来之后，他意念一转，通过训天道章，将此消息传递给了事先定下的所有随行修道人，并令他们速作准备，并在接下来三日之内赶来汇合",
+      "summary": "天夏玄廷廷执，负责出使元夏，驾驭主舟，以气意化外身登舟。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御化身回来之后，他意念一转，通过训天道章，将此消息传递给了事先定下的所有随行修道人，并令他们速作准备，并在接下来三日之内赶来汇合",
-        "张御站在殿中，目光透过殿壁看向云海之中，他自身站在原地不动，只是起意一催，袖中就有一缕白皑皑的气雾浮现出来，并向着那一艘舟船之上漂游过去",
-        "少顷，就有一道金光落入舟内，许成通自里现出身来，他这回同样也是以外身到此，此刻见了张御，十分激动的稽首一礼，道：“许成通见过守正"
+      "abilities": [
+        "驾驭伊帕尔技艺飞舟",
+        "运转元都玄图符诏"
       ],
-      "mention_count": 14
+      "equipment": [
+        "金色大舟"
+      ],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "下属"
+        },
+        {
+          "target": "常旸",
+          "type": "下属"
+        },
+        {
+          "target": "严鱼明",
+          "type": "师徒"
+        },
+        {
+          "target": "岳萝",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "通过训天道章传递消息，令随行修道人准备。"
+        },
+        {
+          "stage": "出使前",
+          "event": "以气意化外身登舟，驾驭主舟。"
+        }
+      ],
+      "evidence": [
+        "张御化身回来之后，他意念一转，通过训天道章，将此消息传递给了事先定下的所有随行修道人",
+        "张御站在殿中，目光透过殿壁看向云海之中，他自身站在原地不动，只是起意一催，袖中就有一缕白皑皑的气雾浮现出来",
+        "他通过益木得到了伊帕尔的所有的传继，所以对于伊帕尔的技艺，他在玄廷之中算是除却林廷执最为熟悉的一人"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "一驾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "许成通",
+      "aliases": [
+        "许执事"
+      ],
+      "identity": "玄廷执事",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "而在此刻，清玄道宫前方的云海之上，却是云雾滚滚泛动，一驾外表流畅华美的金色大舟浮现了出来",
+      "summary": "玄廷执事，被张御委以管理舟船事务。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "激动"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在此刻，清玄道宫前方的云海之上，却是云雾滚滚泛动，一驾外表流畅华美的金色大舟浮现了出来",
-        "而此时此刻，内层一十三上洲、四大府洲之中，也是有一驾驾飞舟从各洲玄府腾空飞起，往外层飞渡而来",
-        "一驾从东庭府洲出发的飞舟之中，严鱼明和岳萝正乘坐在主舱之中，他们这次得了张御嘱咐，也是关照被同样前往元夏"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "通过元都玄图符诏现身，受张御委任。"
+        }
+      ],
+      "evidence": [
+        "许成通自里现出身来，他这回同样也是以外身到此，此刻见了张御，十分激动的稽首一礼",
+        "张御微微点头，道：“许执事，今回前往元夏，我舟船之上，玄尊以下大小事机就交给许执事你代为了。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "常旸",
+      "aliases": [
+        "常道友"
+      ],
+      "identity": "天夏修道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二十八章 遁空行彼域",
+      "summary": "张御下属，擅于交涉，被派往元夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "擅于交涉"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "寒臣",
+          "type": "交涉对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "被张御唤上。"
+        },
+        {
+          "stage": "出使后",
+          "event": "拜访寒臣，与之谈话。"
+        }
+      ],
+      "evidence": [
+        "常旸擅于与对面交涉",
+        "常旸，寒道友有礼了。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "严鱼明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "严师兄"
+      ],
+      "identity": "张御弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "一驾从东庭府洲出发的飞舟之中，严鱼明和岳萝正乘坐在主舱之中，他们这次得了张御嘱咐，也是关照被同样前往元夏",
+      "summary": "张御弟子，以外身前往元夏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "一驾从东庭府洲出发的飞舟之中，严鱼明和岳萝正乘坐在主舱之中，他们这次得了张御嘱咐，也是关照被同样前往元夏",
-        "待是飞舟穿渡过了内层之后，严鱼明来到了舱壁之前，看着一驾驾飞舟都在往虚空之中的几驾金色大舟飞驰而去，不禁感叹道：“这次一同去往元夏的人不少啊",
-        "”    严鱼明道：“是啊，不过不要紧，我们只是外身而已，若是有必要，得了老师允许，可以直接弃掉此身，正身自可觉醒过来"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        },
+        {
+          "target": "岳萝",
+          "type": "同门"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "乘飞舟从东庭府洲出发，登主舟见张御。"
+        }
+      ],
+      "evidence": [
+        "严鱼明和岳萝正乘坐在主舱之中，他们这次得了张御嘱咐，也是关照被同样前往元夏。",
+        "严鱼明道：“老师。”"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "同时",
+      "name": "岳萝",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "此所以这么做，是不想让元夏看出太多天夏的底细，同时又不能让元夏太过小视，这样不利于他们探听元夏内部的情况",
+      "summary": "张御弟子，以外身前往元夏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此所以这么做，是不想让元夏看出太多天夏的底细，同时又不能让元夏太过小视，这样不利于他们探听元夏内部的情况",
-        "他上前几步，看着外面浩渺虚空，在主榻之上定坐下来，同时运转元都玄图符诏",
-        "这些外身全部是出自玄廷之手，并且由于上境修道人的法力灌注，同时又不惜宝材，所以这具身躯与他们看起来一模一样，且运转起来其实比本人还更具实力"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        },
+        {
+          "target": "严鱼明",
+          "type": "同门"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "乘飞舟从东庭府洲出发，登主舟见张御。"
+        }
+      ],
+      "evidence": [
+        "严鱼明和岳萝正乘坐在主舱之中",
+        "岳萝也是跟着一礼。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "英颛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "但这只是大致上的区别，实际上的划分并没有这么严格",
+      "summary": "天夏玄尊，驾驭副舟，携幺豆同行。",
       "appearance": [],
       "personality": [],
+      "abilities": [
+        "化黑烟移动",
+        "心光灌入飞舟"
+      ],
+      "equipment": [
+        "副舟"
+      ],
+      "relationships": [
+        {
+          "target": "幺豆",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "登副舟，以心光制约飞舟。"
+        }
+      ],
+      "evidence": [
+        "英颛自里走了出来，他身边的幺豆则是哦呼一声",
+        "他伸手对着一个竖在那里的舱台上一按，随着心光灌入进去，飞舟随之闪烁了一下"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "幺豆",
+      "aliases": [],
+      "identity": "英颛弟子（疑似灵兽）",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二十八章 遁空行彼域",
+      "summary": "英颛的弟子或随从，活泼好动。",
+      "appearance": [],
+      "personality": [
+        "活泼",
+        "沮丧"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "但这只是大致上的区别，实际上的划分并没有这么严格",
-        "张御站在殿中，目光透过殿壁看向云海之中，他自身站在原地不动，只是起意一催，袖中就有一缕白皑皑的气雾浮现出来，并向着那一艘舟船之上漂游过去",
-        "此气出了道宫之后，便进入了飞舟之内，整个盘旋一圈后，就在主舱之中化显出具体的形影来，开始还是面目模糊，只是身形与他有几分相似，不过过去一会儿，随着他的气意逐渐调合，便变得与他一般无二了"
+      "relationships": [
+        {
+          "target": "英颛",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "在副舟上跑来跑去，被英颛告知将教授法门。"
+        }
+      ],
+      "evidence": [
+        "他身边的幺豆则是哦呼一声，迈着小短腿在宽敞的舟船上跑来跑去。",
+        "幺豆一阵沮丧，头顿时垂下，整个人一下变得有气无力起来。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "慕倦安",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏方面负责人",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "慕倦安看到这一幕，道：“看来天夏使团已经准备好了，曲真人，你看这些飞舟如何",
+      "summary": "元夏方面负责接待天夏使团的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "慕倦安看到这一幕，道：“看来天夏使团已经准备好了，曲真人，你看这些飞舟如何",
-        "”    慕倦安笑道：“那也不是毫无可取之处么",
-        "”    慕倦安道：“曲真人，你遣人去回应一声，就说稍候便可启程"
+      "equipment": [
+        "元夏巨舟"
       ],
-      "mention_count": 7
+      "relationships": [
+        {
+          "target": "曲道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "与曲道人评论天夏飞舟，下令启程。"
+        }
+      ],
+      "evidence": [
+        "慕倦安看到这一幕，道：“看来天夏使团已经准备好了，曲真人，你看这些飞舟如何？”",
+        "慕倦安笑了笑，道：“那就走吧。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "看着",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "曲道人",
+      "aliases": [
+        "曲真人"
+      ],
+      "identity": "元夏修道人",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "他上前几步，看着外面浩渺虚空，在主榻之上定坐下来，同时运转元都玄图符诏",
+      "summary": "慕倦安的下属，负责传话。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他上前几步，看着外面浩渺虚空，在主榻之上定坐下来，同时运转元都玄图符诏",
-        "待是飞舟穿渡过了内层之后，严鱼明来到了舱壁之前，看着一驾驾飞舟都在往虚空之中的几驾金色大舟飞驰而去，不禁感叹道：“这次一同去往元夏的人不少啊",
-        "两人知晓这是指引，跟随着这光亮一路前行，来到了主舱之内，见舟舱内空间宽敞，一应摆设经过了精心布置，看着极为舒适"
+      "relationships": [
+        {
+          "target": "慕倦安",
+          "type": "上级"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "出使前",
+          "event": "与慕倦安评论飞舟，后去传话。"
+        }
+      ],
+      "evidence": [
+        "曲道人看了几眼，道：“这些飞舟路数走偏了”",
+        "曲真人应有一声，走了出去，过了一会儿，他回来道：“已是交代好了。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他们",
+      "name": "妘蕞",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏内层法坛人物",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "张御化身回来之后，他意念一转，通过训天道章，将此消息传递给了事先定下的所有随行修道人，并令他们速作准备，并在接下来三日之内赶来汇合",
+      "summary": "元夏内层法坛上的人物，负责传递消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御化身回来之后，他意念一转，通过训天道章，将此消息传递给了事先定下的所有随行修道人，并令他们速作准备，并在接下来三日之内赶来汇合",
-        "此所以这么做，是不想让元夏看出太多天夏的底细，同时又不能让元夏太过小视，这样不利于他们探听元夏内部的情况",
-        "元夏能设法分化瓦解他们，他们也能如此做，若此人这回若能发挥所长，或能带来些许惊喜"
+      "timeline": [
+        {
+          "stage": "出使后",
+          "event": "与烛午江站在内层法坛上放松下来。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "妘蕞、烛午江二人站在内层法坛之上，则是大大放松了下来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "烛午江",
+      "aliases": [],
+      "identity": "元夏内层法坛人物",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第二十八章 遁空行彼域",
+      "summary": "元夏内层法坛上的人物，负责传递消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "出使后",
+          "event": "与妘蕞站在内层法坛上放松下来。"
+        }
+      ],
+      "evidence": [
+        "妘蕞、烛午江二人站在内层法坛之上，则是大大放松了下来"
+      ],
+      "mention_count": 1
     },
     {
       "name": "寒臣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "寒真人"
+      ],
+      "identity": "元夏修道人",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "寒臣看着飞舟离去，也是笑了一下，他同样不喜欢被人盯着，没了头顶之上的压制，他可以做自己的事了",
+      "summary": "元夏修道人，在飞舟离去后回到殿中修持，后接待常旸。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寒臣看着飞舟离去，也是笑了一下，他同样不喜欢被人盯着，没了头顶之上的压制，他可以做自己的事了",
-        "”    寒臣有些意外，他自问这些天和任何一个天夏玄尊都未曾打过交道，对方却偏偏挑在这个时候来寻他，看来也是有所用意",
-        "”    寒臣还有一礼，道：“常道友来此何事"
+      "relationships": [
+        {
+          "target": "常旸",
+          "type": "交涉对象"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "这样",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "此所以这么做，是不想让元夏看出太多天夏的底细，同时又不能让元夏太过小视，这样不利于他们探听元夏内部的情况",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此所以这么做，是不想让元夏看出太多天夏的底细，同时又不能让元夏太过小视，这样不利于他们探听元夏内部的情况",
-        "唯一缺点，就是需要他们将自己的全部身心投入进去，甚至是将一部分意识分离出来，这样才能保持外身的存续和活动，所以正身就无法动弹了，如今都是停留在玄府之中，被玄府中一些同道专门负责保护了起来",
-        "这样可能导致他们正常的功行修持有所缓顿，不过玄廷自然有办法从别的地方补偿他们，所以最后不见得会吃亏，说不定还会得由更多好处"
+      "timeline": [
+        {
+          "stage": "出使后",
+          "event": "回到殿中修持，后接待常旸来访。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "霎时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "他弹指放出一缕气机，整个金舟嗡嗡颤动起来，一阵金光闪烁，霎时从上层跃遁出来，来到了虚空之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他弹指放出一缕气机，整个金舟嗡嗡颤动起来，一阵金光闪烁，霎时从上层跃遁出来，来到了虚空之中",
-        "”    在他下令之后，元夏巨舟缓缓移动，随即骤然一疾，霎时在虚空之壁上撞开了一个缺口，而后没入其中，诸多天夏飞舟也是顺此其打开的缺口，若一道道闪烁光电一般，一驾又一驾朝里穿入进去，很快俱是消失无踪，而那一个虚空气漩也是由此合闭了起来"
+        "寒臣看着飞舟离去，也是笑了一下",
+        "寒臣还有一礼，道：“常道友来此何事？”"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "许成",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十八章 遁空行彼域",
-      "summary": "少顷，就有一道金光落入舟内，许成通自里现出身来，他这回同样也是以外身到此，此刻见了张御，十分激动的稽首一礼，道：“许成通见过守正",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "少顷，就有一道金光落入舟内，许成通自里现出身来，他这回同样也是以外身到此，此刻见了张御，十分激动的稽首一礼，道：“许成通见过守正",
-        "”    许成通精神一振，躬身言道：“是，属下敢不尽心竭力",
-        "”    许成通躬身称是，恭敬一礼后，就退了下去"
-      ],
-      "mention_count": 5
+      "mention_count": 4
     }
   ]
 }

@@ -1,253 +1,299 @@
 {
   "chunk_id": "chunk-0270",
-  "title": "第四十三章 澄心",
   "characters": [
     {
       "name": "恽尘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "少郎",
+        "恽道友"
+      ],
+      "identity": "青阳玄府弟子，竺玄首门下",
+      "faction": "青阳玄府",
       "status": "登场",
       "first_appearance": "第四十三章 澄心",
-      "summary": "第四十三章 澄心    青阳玄府之内，恽尘徐徐将面前飘悬着的一面铜镜拿了过来，他将法力往里一过，见已圆融如意，丝毫无碍，才松了一口气，整理了一下衣衫，自闭关之处起身走了出来",
+      "summary": "青阳玄府弟子，奉师命前往高州协助张御查验魇魔，携有法器澄心镜。",
+      "appearance": [],
+      "personality": [
+        "警惕",
+        "机智"
+      ],
+      "abilities": [
+        "祭炼法器",
+        "飞行遁术"
+      ],
+      "equipment": [
+        "澄心镜"
+      ],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "师徒"
+        },
+        {
+          "target": "明善道人",
+          "type": "同门"
+        },
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出关",
+          "event": "祭炼澄心镜功成，出关见竺玄首。"
+        },
+        {
+          "stage": "途中",
+          "event": "遭遇假扮保护者的道人，将其击杀。"
+        },
+        {
+          "stage": "抵达",
+          "event": "至金台见张御，商议查验魇魔之事。"
+        }
+      ],
+      "evidence": [
+        "恽尘徐徐将面前飘悬着的一面铜镜拿了过来",
+        "恽尘没有选择在这里与他交战，而是身化流光",
+        "恽尘看了他几眼，不觉点了点头。他拿起宝镜"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "明善道人",
+      "aliases": [],
+      "identity": "青阳玄府道人",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "第四十三章 澄心",
+      "summary": "青阳玄府的道人，在恽尘出关时等候并传达玄首指令。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十三章 澄心    青阳玄府之内，恽尘徐徐将面前飘悬着的一面铜镜拿了过来，他将法力往里一过，见已圆融如意，丝毫无碍，才松了一口气，整理了一下衣衫，自闭关之处起身走了出来",
-        "”    恽尘忙是还礼道：“正是",
-        "”    恽尘再是一礼，他来至中间，踩云而上，不多时来至鹤殿之上，见了竺玄首正坐于那处，便躬身一揖，道：“老师"
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "同门"
+        },
+        {
+          "target": "竺玄首",
+          "type": "下属"
+        }
       ],
-      "mention_count": 27
+      "evidence": [
+        "明善道人已是等在那里，冲他打一个稽首",
+        "与明善道人道别之后"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [
+        "老师"
+      ],
+      "identity": "青阳玄府玄首",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "第四十三章 澄心",
+      "summary": "青阳玄府的首领，恽尘的老师，安排恽尘前往高州协助张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "师徒"
+        }
+      ],
+      "evidence": [
+        "竺玄首正坐于那处",
+        "竺玄首道：“宝镜既是已是祭炼功成，那么你今日就可往玄正处去”"
+      ],
+      "mention_count": 4
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄正",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十三章 澄心",
-      "summary": "张御此刻正在静室之中陈明楚送回来的报书，后者只不过用了两天的时间，就把梁中道派的事情完满解决了",
+      "summary": "玄正，负责处理魇魔事务，与恽尘合作查验魇魔。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "理性"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御此刻正在静室之中陈明楚送回来的报书，后者只不过用了两天的时间，就把梁中道派的事情完满解决了",
-        "张御目光下落，妙丹君的真身此刻正蹲坐在他手旁的花台上，尾巴轻轻甩动着，正盯着那些剪影直看，见他望过来，也是仰起小脑袋，冲他喵的叫了一声",
-        "”    张御眸光微动，道：“请他到客室，我马上就过来"
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "合作"
+        },
+        {
+          "target": "陈明楚",
+          "type": "下属"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        }
       ],
-      "mention_count": 19
+      "evidence": [
+        "张御此刻正在静室之中陈明楚送回来的报书",
+        "张御回有一礼，道：“恽道友坐下说话吧。”",
+        "张御一思，果断道：“那事不宜迟”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "有的",
+      "name": "陈明楚",
       "aliases": [],
-      "identity": "",
+      "identity": "张御下属",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第四十三章 澄心",
-      "summary": "方才踏入此间，他便见到妙丹君在这里来回跳跃窜动着，而随着它的动作，身后就会随着运动轨迹留下一长串的虚影，每一个虚影都是一个做出不同动作的妙丹君，有的在跳跃，有的在扑捉，有的在攀爬，有的在打滚",
+      "summary": "张御的下属，被派去解决梁中道派事务，成功完成。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方才踏入此间，他便见到妙丹君在这里来回跳跃窜动着，而随着它的动作，身后就会随着运动轨迹留下一长串的虚影，每一个虚影都是一个做出不同动作的妙丹君，有的在跳跃，有的在扑捉，有的在攀爬，有的在打滚"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 9
+      "evidence": [
+        "陈明楚只是带着派中长老来到梁中道派门前"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "那道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 澄心",
-      "summary": "”    那道人脸上露出苦笑之色，道：“少郎莫要为难我，玄首关照之事，我又岂能违背",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人脸上露出苦笑之色，道：“少郎莫要为难我，玄首关照之事，我又岂能违背",
-        "”    那道人恍然道：“原来如此，”随即他疑问道：“可是万一你这一脉的传人被人在外杀了，莫非师门当真就不闻不问么",
-        "”    那道人面无表情道：“我无心与你作口舌之戏，你不愿意说没关系，既然你发现我了，那我不过是提前一点动手，没有什么关系"
+      "name": "妙丹君",
+      "aliases": [
+        "小豹猫"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "玄正",
-      "aliases": [],
-      "identity": "",
+      "identity": "张御的宠物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十三章 澄心",
-      "summary": "”    竺玄首看他几眼，道：“宝镜既是已是祭炼功成，那么你今日就可往玄正处去，那边已是等你许久，不可再耽搁了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    竺玄首看他几眼，道：“宝镜既是已是祭炼功成，那么你今日就可往玄正处去，那边已是等你许久，不可再耽搁了",
-        "”他再揉了几下妙丹君，就从顶台下来，行至客室内，过去片刻，就见一名年轻道人自外走了进来，看了他一眼，便上来揖礼道：“在下恽尘，见过玄正",
-        "”    恽尘谢过一声，在客位之上坐定，他道：“让玄正久候了，我之前在祭炼查验魇魔的法器，直到今晨方才功成，在禀明老师后，便就立时赶过来了"
+      "summary": "一只小豹猫，拥有灵性力量，能制造虚影。",
+      "appearance": [
+        "小豹猫"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "后者",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 澄心",
-      "summary": "张御此刻正在静室之中陈明楚送回来的报书，后者只不过用了两天的时间，就把梁中道派的事情完满解决了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "活泼",
+        "亲近张御"
+      ],
+      "abilities": [
+        "制造虚影",
+        "灵性运用"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
       "evidence": [
-        "张御此刻正在静室之中陈明楚送回来的报书，后者只不过用了两天的时间，就把梁中道派的事情完满解决了",
-        "”    张御看了恽尘一眼，后者点头道：“那就先去查验这二人"
+        "妙丹君正躲在门背后看着他",
+        "妙丹君在这里来回跳跃窜动着，而随着它的动作，身后就会随着运动轨迹留下一长串的虚影"
       ],
       "mention_count": 6
     },
     {
-      "name": "他看",
+      "name": "李青禾",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的随从",
       "faction": "",
       "status": "登场",
       "first_appearance": "第四十三章 澄心",
-      "summary": "”    恽尘退下去后，稍作收拾了一下，与明善道人道别之后，就自玄府之中走了出来，他看了天空，乘云而起，就往高州方向飞遁",
+      "summary": "张御的随从，通报玄府来人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    恽尘退下去后，稍作收拾了一下，与明善道人道别之后，就自玄府之中走了出来，他看了天空，乘云而起，就往高州方向飞遁",
-        "不过他看得很明白，妙丹君可不是为了什么捕食，而仅仅是利用灵性给自身作画，并且想让他一起观看，于是伸手揉了揉它的脑袋，道：“不错，你要是喜欢就一直留着好了",
-        "”    恽尘不觉点头，他看了看张御，又问：“可若是没有在下带来的这面宝镜呢"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随从"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "脚步从后传来，李青禾走了过来，对他一揖，道：“先生，玄府来人了。”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "就见",
+      "name": "贺猛",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "历州检正司分司负责人",
+      "faction": "检正司",
       "status": "登场",
       "first_appearance": "第四十三章 澄心",
-      "summary": "方才推开室门，就见明善道人已是等在那里，冲他打一个稽首，道：“少郎可是功成了",
+      "summary": "历州检正司分司的负责人，接待张御和恽尘，并告知疑似魇魔沾染者。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方才推开室门，就见明善道人已是等在那里，冲他打一个稽首，道：“少郎可是功成了",
-        "高空之上不断传出一阵阵闷雷般的震响，还有一团团的光芒时不时照亮天穹，很快就见到云穹之中有一道残尸坠落下来，落在了地表之上，并砸出了一个深深的大坑",
-        "他放下报书，拿起案上的清茶饮了一口，这时忽然心有所感，往门口看去，就见妙丹君正躲在门背后看着他"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "贺猛听闻他再次到来，并这回还带了一个人来",
+        "他道：“玄正，还有这位恽道长，根据我们检正司的判断”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "恽道友",
+      "name": "姜敞",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "六如道派派主",
+      "faction": "六如道派",
+      "status": "提及",
       "first_appearance": "第四十三章 澄心",
-      "summary": "”    过了片刻，大气之中扭动了一下，一个相貌寻常的道人自里走了出来，对他稽首一礼，道：“恽道友有礼了",
+      "summary": "六如道派的派主，疑似被魇魔沾染。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    过了片刻，大气之中扭动了一下，一个相貌寻常的道人自里走了出来，对他稽首一礼，道：“恽道友有礼了",
-        "”    那个道人言道：“恽道友莫要生疑，这回是竺玄首怕道友路上有碍，故是命我随后相护",
-        "”    张御回有一礼，道：“恽道友坐下说话吧"
+        "六如道派的派主姜敞和长老何固安都有可能已是沾染了魇魔了"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "那道",
+      "name": "何固安",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "六如道派长老",
+      "faction": "六如道派",
+      "status": "提及",
       "first_appearance": "第四十三章 澄心",
-      "summary": "”    那道人脸上露出苦笑之色，道：“少郎莫要为难我，玄首关照之事，我又岂能违背",
+      "summary": "六如道派的长老，疑似被魇魔沾染。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    那道人脸上露出苦笑之色，道：“少郎莫要为难我，玄首关照之事，我又岂能违背",
-        "”    那道人恍然道：“原来如此，”随即他疑问道：“可是万一你这一脉的传人被人在外杀了，莫非师门当真就不闻不问么",
-        "”    那道人面无表情道：“我无心与你作口舌之戏，你不愿意说没关系，既然你发现我了，那我不过是提前一点动手，没有什么关系"
+        "六如道派的派主姜敞和长老何固安都有可能已是沾染了魇魔了"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "我这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 澄心",
-      "summary": "”    恽尘摇头道：“我也很为难啊，我这一回能装作不识破你，可你若老是跟在我身后，我又岂能自在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    恽尘摇头道：“我也很为难啊，我这一回能装作不识破你，可你若老是跟在我身后，我又岂能自在",
-        "他拿起宝镜，道：“我这澄心镜在一地之地，可照出诸人心神变动，但并非窥望心神，只是于众中窥异"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那我",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 澄心",
-      "summary": "”    那道人面无表情道：“我无心与你作口舌之戏，你不愿意说没关系，既然你发现我了，那我不过是提前一点动手，没有什么关系",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人面无表情道：“我无心与你作口舌之戏，你不愿意说没关系，既然你发现我了，那我不过是提前一点动手，没有什么关系",
-        "”    张御淡声道：“这等自我拷问之事，我通常不作假设，但我可说一句，既然竺玄首等得起四十年，那我一样是等得起的"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

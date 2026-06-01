@@ -1,255 +1,130 @@
 {
   "chunk_id": "chunk-1558",
-  "title": "第一百三十六章 炼气转功关",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
-        "”    张御点了点头，他知道这功法其实是有一线天机可寻的，降火之中若能找对路数，抛却得失，坦然面对己心，或者另有他法相助，则可大大缩短时日",
-        "张御道：“有一事我需与师兄说一声，元夏之事诸修皆知，师兄这里定然也是听说了，然则这元夏或许近日就会来攻打我天夏，这一战不知会迁延多久，但是多半是不会拖延五百载之久的，师兄越早成就越好"
+      "aliases": [
+        "张御",
+        "师弟"
       ],
-      "mention_count": 27
-    },
-    {
-      "name": "桃定符",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏修道人",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
+      "summary": "天夏修道人，与桃定符论道，提出以炼胎之法助桃定符降伏躁火。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "深思熟虑",
+        "乐于助人"
+      ],
+      "abilities": [
+        "神通之法可送人精气神入他方天地",
+        "道法即将成就"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "桃定符",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与桃定符讨论降伏躁火之法，提出以炼胎之法相助。"
+        },
+        {
+          "stage": "五日后",
+          "event": "再次来访，助桃定符完成九转功成。"
+        }
+      ],
       "evidence": [
-        "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
-        "也就是桃定符一路过来就是火性功法之用，所以才能炼就出来，这是他自身的机缘，是不可能去主动放弃的",
-        "桃定符道：“师弟不必为我担忧，我选择此道，自也是有一定把握的，我也有办法对付那躁火"
+        "张御道：“师兄自认修此法需用多久？”",
+        "张御道：“有一事我需与师兄说一声，元夏之事诸修皆知...”",
+        "张御道：“恭喜师兄打通道关。”"
       ],
       "mention_count": 20
     },
     {
-      "name": "桃定",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "桃定符",
+      "aliases": [
+        "桃定符",
+        "师兄"
+      ],
+      "identity": "天夏修道人，火性功法修行者",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
+      "summary": "天夏修道人，修炼降伏躁火之法，在张御帮助下九转功成。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
-        "也就是桃定符一路过来就是火性功法之用，所以才能炼就出来，这是他自身的机缘，是不可能去主动放弃的",
-        "桃定符道：“师弟不必为我担忧，我选择此道，自也是有一定把握的，我也有办法对付那躁火"
+      "personality": [
+        "洒脱",
+        "想得开"
       ],
-      "mention_count": 17
+      "abilities": [
+        "火性功法",
+        "降伏躁火"
+      ],
+      "equipment": [
+        "背后长剑"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师兄弟"
+        },
+        {
+          "target": "丹扶",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御讨论降伏躁火之法，接受张御的提议。"
+        },
+        {
+          "stage": "五日后",
+          "event": "在张御帮助下完成九转功成。"
+        }
+      ],
+      "evidence": [
+        "桃定符道：“师弟不必为我担忧，我选择此道，自也是有一定把握的...”",
+        "桃定符笑道：“已是准备妥当了。”",
+        "桃定符笑了一笑，站起身来，摆了摆双袖，略显唏嘘道：“九转功成，九死一生也。”"
+      ],
+      "mention_count": 18
     },
     {
-      "name": "师兄",
+      "name": "丹扶",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "桃定符的弟子",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "他道：“师兄自认修此法需用多久",
+      "summary": "桃定符的弟子，被桃定符交代事机。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "顺从"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他道：“师兄自认修此法需用多久",
-        "张御道：“有一事我需与师兄说一声，元夏之事诸修皆知，师兄这里定然也是听说了，然则这元夏或许近日就会来攻打我天夏，这一战不知会迁延多久，但是多半是不会拖延五百载之久的，师兄越早成就越好",
-        "张御见他思索，又道：“师兄有没有想过别的办法"
+      "relationships": [
+        {
+          "target": "桃定符",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "张御道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "张御道：“有一事我需与师兄说一声，元夏之事诸修皆知，师兄这里定然也是听说了，然则这元夏或许近日就会来攻打我天夏，这一战不知会迁延多久，但是多半是不会拖延五百载之久的，师兄越早成就越好",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御道：“有一事我需与师兄说一声，元夏之事诸修皆知，师兄这里定然也是听说了，然则这元夏或许近日就会来攻打我天夏，这一战不知会迁延多久，但是多半是不会拖延五百载之久的，师兄越早成就越好",
-        "”    张御道，“若说原本之法门，何止是邪法，更是残恶之法，后来寰阳派则更进一步，不是寄托凡胎，而是寄托修道人之身，而我可将此改动一下，去其残恶，借用一下皮骨，将之化为一门有益之法门",
-        "”    张御道：“具体事机我便不多说了，近来有一方天地将我与天夏契合，我可以神通之法，送师兄毕生修炼的精元神气入内，并以一具外身为载躯，如此师兄可凭此在那里修持"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被桃定符叫进来交代事机。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "师弟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "桃定符道：“师弟不必为我担忧，我选择此道，自也是有一定把握的，我也有办法对付那躁火",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "桃定符道：“师弟不必为我担忧，我选择此道，自也是有一定把握的，我也有办法对付那躁火",
-        "”    桃定符想了想，道：“师弟莫非是说昊界么",
-        "”    桃定符好奇道：“师弟是说，此法可以助我"
+        "桃定符送走他后，就把丹扶唤了进来，把一些事机详细交代了一番"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "原来",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "”    桃定符讶道：“原来还有这个缘故",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    桃定符讶道：“原来还有这个缘故",
-        "不过他也清楚，这终究不是自己身躯，而且到了陌生世域，原来的一些打算未必能够行得通，说不定反会有些妨碍"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "可是任何事都是要看大势的，哪怕是修道人也是存于这方天地之内的，天地有难，又岂能安心修行",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是任何事都是要看大势的，哪怕是修道人也是存于这方天地之内的，天地有难，又岂能安心修行",
-        "此处我也是有过考虑的，可是在那里不过是再过一遍人生罢了，我之功行不得积蓄，亦不得真正降伏躁火，何况心境不同，躁火也是不同，去了那里也是无用",
-        "他再次来到那庐舍之中，见了桃定符，瞧他一个人站在那里，问道：“师兄可是准备好了么"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "师兄可",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "”他看了看桃定符，道：“桃师兄可听说炼胎之法么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他看了看桃定符，道：“桃师兄可听说炼胎之法么",
-        "”    张御道：“具体事机我便不多说了，近来有一方天地将我与天夏契合，我可以神通之法，送师兄毕生修炼的精元神气入内，并以一具外身为载躯，如此师兄可凭此在那里修持",
-        "张御道：“师兄可以慢慢考虑"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "饮了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "所谓降伏躁火，这是一种属于真修的修行道功，也是一些功行独特的修道人，在修持到了一定境界之后才会出现的迹象",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所谓降伏躁火，这是一种属于真修的修行道功，也是一些功行独特的修道人，在修持到了一定境界之后才会出现的迹象",
-        "而更大的难题是，积累深厚之人因为一开始所用年月可能较为长久，这导致后面会拖延更长时间，所以这是一个非常矛盾的选择，到了最后，其转九之功却未必见得有根底浅薄之人求得多",
-        "也就是桃定符一路过来就是火性功法之用，所以才能炼就出来，这是他自身的机缘，是不可能去主动放弃的"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "也是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十六章 炼气转功关",
-      "summary": "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十六章 炼气转功关    张御也是拿起茶杯，对着桃定符一敬，饮了下去",
-        "所谓降伏躁火，这是一种属于真修的修行道功，也是一些功行独特的修道人，在修持到了一定境界之后才会出现的迹象",
-        "降伏次数越多，未来获益也是越多"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

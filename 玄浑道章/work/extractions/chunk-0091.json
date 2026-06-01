@@ -1,254 +1,272 @@
 {
   "chunk_id": "chunk-0091",
-  "title": "第八十九章 章纸论誉",
   "characters": [
     {
       "name": "燕叙伦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十九章 章纸论誉",
-      "summary": "神尉军副尉主燕叙伦坐于华丽的织毯之上，边是喝着香茶，边是翻看着一卷书册",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "神尉军副尉主燕叙伦坐于华丽的织毯之上，边是喝着香茶，边是翻看着一卷书册",
-        "燕叙伦自己的名字是典型的天夏人名，可他其实是一个安夏混血",
-        "”    燕叙伦放下书册，道：“请他进来吧"
+      "aliases": [
+        "燕尉主"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "肖清舒",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "神尉军副尉主",
+      "faction": "神尉军",
       "status": "登场",
       "first_appearance": "第八十九章 章纸论誉",
-      "summary": "”    燕叙伦示意了一下，就有役从将一张事先备好的报纸递给肖清舒，他道：“肖先生，你对这报纸上说的这个人怎么看",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    燕叙伦示意了一下，就有役从将一张事先备好的报纸递给肖清舒，他道：“肖先生，你对这报纸上说的这个人怎么看",
-        "”    肖清舒接过报纸，展开看了几眼，嘿了一声，道：“原来是张参治啊，我知道的这个人，最近我也留意到了，近来凡是有关他消息的文章，都是出自安巡会旗下的报馆，这显然是安巡会在为他造势，想要在明年把推举为‘士’了",
-        "”    肖清舒理所当然道：“若无人阻拦，那是当然的"
+      "summary": "神尉军副尉主，五十九岁但保养极好，安夏混血，对张御成为“士”感到警惕，意图阻止。",
+      "appearance": [
+        "眼睛有神",
+        "鬓角丰满",
+        "皮肤光泽明亮",
+        "脸上皱纹很少",
+        "丰实饱满的肌肉",
+        "表面看去三十出头"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "肖先生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十九章 章纸论誉",
-      "summary": "门庭外有金铃响起，一名役从走了进来，躬身道：“尉主，肖先生来了",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "心思深沉",
+        "警惕"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "肖清舒",
+          "type": "主雇"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "七月三十",
+          "event": "月末休沐，召见肖清舒商议阻止张御成为“士”之事。"
+        }
+      ],
       "evidence": [
-        "门庭外有金铃响起，一名役从走了进来，躬身道：“尉主，肖先生来了",
-        "”    燕叙伦示意了一下，就有役从将一张事先备好的报纸递给肖清舒，他道：“肖先生，你对这报纸上说的这个人怎么看",
-        "”    燕叙伦颌首道：“肖先生看得很准"
+        "神尉军副尉主燕叙伦坐于华丽的织毯之上",
+        "燕叙伦自己的名字是典型的天夏人名，可他其实是一个安夏混血。",
+        "燕叙伦心思深沉，表面上没有显出什么来，可心中却是大生警惕。"
       ],
       "mention_count": 10
     },
     {
-      "name": "燕叙",
-      "aliases": [],
-      "identity": "",
+      "name": "肖清舒",
+      "aliases": [
+        "肖先生"
+      ],
+      "identity": "前司礼衙署撰文，司户主事之弟",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十九章 章纸论誉",
-      "summary": "神尉军副尉主燕叙伦坐于华丽的织毯之上，边是喝着香茶，边是翻看着一卷书册",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "神尉军副尉主燕叙伦坐于华丽的织毯之上，边是喝着香茶，边是翻看着一卷书册",
-        "燕叙伦自己的名字是典型的天夏人名，可他其实是一个安夏混血",
-        "”    燕叙伦放下书册，道：“请他进来吧"
+      "summary": "二十七八岁的年轻男子，擅长编造文章，受燕叙伦雇佣，负责败坏张御名声。",
+      "appearance": [
+        "拿着折扇",
+        "身着直裰",
+        "二十七八岁"
       ],
-      "mention_count": 9
+      "personality": [
+        "善于钻营",
+        "嘴硬"
+      ],
+      "abilities": [
+        "编造文章",
+        "收买威吓"
+      ],
+      "equipment": [
+        "折扇"
+      ],
+      "relationships": [
+        {
+          "target": "燕叙伦",
+          "type": "主雇"
+        },
+        {
+          "target": "陶生",
+          "type": "论战对手"
+        },
+        {
+          "target": "赫连占",
+          "type": "会面"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "七月三十",
+          "event": "被燕叙伦召见，接受任务。"
+        },
+        {
+          "stage": "数日后",
+          "event": "通过收买威吓获取张御路贴文书，并命人搜集大福号经历。"
+        }
+      ],
+      "evidence": [
+        "自外面走进来一个拿着折扇，身着直裰，二十七八岁的年轻男子。",
+        "肖清舒嘿了一声，道：“我曾经打听过此人的经历过往”",
+        "他放下报纸，眼角撇向桌角上那封报馆妙笔寄来的约书，哼了一声，露出不屑一顾之色。"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "肖清",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十九章 章纸论誉",
-      "summary": "”    燕叙伦示意了一下，就有役从将一张事先备好的报纸递给肖清舒，他道：“肖先生，你对这报纸上说的这个人怎么看",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    燕叙伦示意了一下，就有役从将一张事先备好的报纸递给肖清舒，他道：“肖先生，你对这报纸上说的这个人怎么看",
-        "”    肖清舒接过报纸，展开看了几眼，嘿了一声，道：“原来是张参治啊，我知道的这个人，最近我也留意到了，近来凡是有关他消息的文章，都是出自安巡会旗下的报馆，这显然是安巡会在为他造势，想要在明年把推举为‘士’了",
-        "”    肖清舒理所当然道：“若无人阻拦，那是当然的"
+      "name": "张御",
+      "aliases": [
+        "张参治"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "肖先",
-      "aliases": [],
-      "identity": "",
+      "identity": "玄府修士，学宫自荐生",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十九章 章纸论誉",
-      "summary": "门庭外有金铃响起，一名役从走了进来，躬身道：“尉主，肖先生来了",
+      "summary": "玄府修士，因戮夭螈、签邦约、斩神明化身等功绩有望成为“士”，被燕叙伦视为敌手。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "深居简出",
+        "无甚嗜好"
+      ],
+      "abilities": [
+        "戮夭螈",
+        "退万军之敌",
+        "斩杀神明化身"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "燕叙伦",
+          "type": "敌对"
+        },
+        {
+          "target": "肖清舒",
+          "type": "被调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "乘坐大福号，经历语焉不详。"
+        }
+      ],
       "evidence": [
-        "门庭外有金铃响起，一名役从走了进来，躬身道：“尉主，肖先生来了",
-        "”    燕叙伦示意了一下，就有役从将一张事先备好的报纸递给肖清舒，他道：“肖先生，你对这报纸上说的这个人怎么看",
-        "”    燕叙伦颌首道：“肖先生看得很准"
+        "戮夭螈，救一船人性命；签立邦约，于谈笑间退万军之敌；斩杀神明化身，护佑衙署长吏",
+        "他是玄府修士，平日里深居简出，看去无甚嗜好",
+        "张御居然能让土蛮主动提出学习天夏的文字语言"
       ],
       "mention_count": 8
     },
     {
-      "name": "可是",
+      "name": "陶生",
       "aliases": [],
-      "identity": "",
+      "identity": "报纸撰稿人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十九章 章纸论誉",
-      "summary": "可是又要写什么文章么",
+      "summary": "与肖清舒在报纸上论战的对手，擅长引经据典驳斥肖清舒的编造。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "引经据典",
+        "考证"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "肖清舒",
+          "type": "论战对手"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "可是又要写什么文章么",
-        "他仔细研究了一下，发现张御自进入学宫后，就几乎没有任何记录了，唯有在乘坐大福号前出现几个地方，可是那里太过偏僻，很多地方都荒废了，自己根本不可能去调查",
-        "交代过此事后，他就拿起案上一份报纸看了起来，可是才看了两眼，他就咬牙切齿道：“又是这个陶生"
+        "又是这个陶生！",
+        "很多他编造的故事，都被陶生扒的一干二净，而且引经据典，有着详细的考证和出处。"
       ],
-      "mention_count": 6
+      "mention_count": 3
     },
     {
-      "name": "表面",
-      "aliases": [],
-      "identity": "",
+      "name": "赫连占",
+      "aliases": [
+        "赫连"
+      ],
+      "identity": "落魄中年男子",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十九章 章纸论誉",
-      "summary": "眼睛有神，鬓角丰满，皮肤光泽明亮，脸上皱纹也很少见，再加上久经锻炼，丰实饱满的肌肉，表面看去不过三十出头",
-      "appearance": [],
-      "personality": [],
+      "summary": "落魄中年男子，被肖清舒召见，可能提供张御的信息。",
+      "appearance": [
+        "满脸胡须",
+        "看来很是落魄",
+        "无老茧的手",
+        "较白皙的皮肤",
+        "衣服破旧但贴身"
+      ],
+      "personality": [
+        "受宠若惊"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "眼睛有神，鬓角丰满，皮肤光泽明亮，脸上皱纹也很少见，再加上久经锻炼，丰实饱满的肌肉，表面看去不过三十出头",
-        "”    燕叙伦心思深沉，表面上没有显出什么来，可心中却是大生警惕"
+      "relationships": [
+        {
+          "target": "肖清舒",
+          "type": "被召见"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "傍晚",
+          "event": "被肖清舒召见。"
+        }
+      ],
+      "evidence": [
+        "客厅里坐着一个满脸胡须，看来很是落魄的中年男子。",
+        "但从毫无老茧的手和较为白皙的皮肤可以看得出来，这人以前应该也是一个养尊处优的人。",
+        "在下赫连占，肖先生叫我赫连就行了。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "可他",
+      "name": "裘学令",
       "aliases": [],
-      "identity": "",
+      "identity": "学者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十九章 章纸论誉",
-      "summary": "燕叙伦自己的名字是典型的天夏人名，可他其实是一个安夏混血",
+      "summary": "花费二十年整理出安文（安图科人文字）的学者。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "考证古代文字"
+      ],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "燕叙伦",
+          "type": "被请托"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "燕叙伦自己的名字是典型的天夏人名，可他其实是一个安夏混血",
-        "虽然明知道这篇文章过几天就要被驳斥成一文不值的垃圾，可他的心中却有着一股异样的快乐感"
+        "他请裘学令用了二十年时间，从古老树皮书里翻寻并整理出来的一种古代文字。"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "甚至",
+      "name": "苏匡",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "神尉军成员",
+      "faction": "神尉军",
+      "status": "提及",
       "first_appearance": "第八十九章 章纸论誉",
-      "summary": "在神尉军中，现在到处充斥着这样的人，甚至还有很大一部分是不识天夏文字的土蛮，只是取了一个天夏人的名姓，譬如被张御重创的苏匡就是如此",
+      "summary": "被张御重创的神尉军成员。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被重创"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "在神尉军中，现在到处充斥着这样的人，甚至还有很大一部分是不识天夏文字的土蛮，只是取了一个天夏人的名姓，譬如被张御重创的苏匡就是如此",
-        "只他说退了坚爪部落，消弭了一场战事不说，甚至还让这些个土蛮主动来学习天夏文字语言，那些老顽固很可能已对他改变了看法"
+        "被张御重创的苏匡就是如此。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十九章 章纸论誉",
-      "summary": "在神尉军中，现在到处充斥着这样的人，甚至还有很大一部分是不识天夏文字的土蛮，只是取了一个天夏人的名姓，譬如被张御重创的苏匡就是如此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在神尉军中，现在到处充斥着这样的人，甚至还有很大一部分是不识天夏文字的土蛮，只是取了一个天夏人的名姓，譬如被张御重创的苏匡就是如此",
-        "但不可否认，一旦成为“士”，从张御的出身，而今的身份、还有以往所表现出来的对神尉军的态度，这注定了其人必然是他们的敌对方，    这还只是论公，若论私……    总之这样一个注定成为敌手的人，绝不能放任其成长起来",
-        "只是很多他编造的故事，都被陶生扒的一干二净，而且引经据典，有着详细的考证和出处"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他拱",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十九章 章纸论誉",
-      "summary": "”肖清舒精神大振，他拱了拱手，道：“那我就勉为一试了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”肖清舒精神大振，他拱了拱手，道：“那我就勉为一试了",
-        "他拱了拱手，很是客气道：“在下肖清舒，敢问尊驾如何称呼"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

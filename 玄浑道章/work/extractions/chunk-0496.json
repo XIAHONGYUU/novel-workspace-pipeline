@@ -1,256 +1,318 @@
 {
   "chunk_id": "chunk-0496",
-  "title": "第一章 奎宿",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张巡使",
+        "张玄修"
+      ],
+      "identity": "玄廷巡护",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第一章 奎宿",
-      "summary": "张御目光望去，见在那虚空之前，是一团团星雾云团，它们相互融合在一起，璀璨瑰丽，五彩斑斓，几是占据了所有的视界",
+      "summary": "玄廷巡护，以中位修士身份前往奎宿执行秘密任务。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御目光望去，见在那虚空之前，是一团团星雾云团，它们相互融合在一起，璀璨瑰丽，五彩斑斓，几是占据了所有的视界",
-        "”    张御回身过来，道：“请进",
-        "”    张御接过玉简，心力入内一转，见这里面是这一个身份的籍册和过往记述，大致经历可谓平平无奇，倒是名字仍然沿用是他自己的"
+      "personality": [
+        "谨慎",
+        "冷静"
       ],
-      "mention_count": 23
-    },
-    {
-      "name": "飞舟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 奎宿",
-      "summary": "第一章 奎宿    飞舟冲入那旋涡云层之中后，那一片笼罩头顶的光芒散开，瞬时显露出了无边无际的虚空",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一章 奎宿    飞舟冲入那旋涡云层之中后，那一片笼罩头顶的光芒散开，瞬时显露出了无边无际的虚空",
-        "”    他缓缓收回目光，道：“张巡使，再有一会儿，我们就要到天元泊台了，我们在那里已经为巡使准备好了一驾民间飞舟，巡使可以直接乘此去往奎宿",
-        "就在说话之间，飞舟微微震动了一下，顶上的舱壁也是迅速融合，恢复了原来的模样"
+      "abilities": [
+        "心力",
+        "心光"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 奎宿",
-      "summary": "外层景物壮伟多姿，无论看见多少次，我都不觉厌烦，不过我们所有的麻烦也都是来自于那里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "外层景物壮伟多姿，无论看见多少次，我都不觉厌烦，不过我们所有的麻烦也都是来自于那里",
-        "”    他缓缓收回目光，道：“张巡使，再有一会儿，我们就要到天元泊台了，我们在那里已经为巡使准备好了一驾民间飞舟，巡使可以直接乘此去往奎宿",
-        "我们给巡使安排的，是一位一年之前就准备到外层历练的修道人，为了获取修道资粮，此人加入了一个隶属天城军府的组织，但是因为某些事情的延误，直到如今方才启行，这样的修道人在奎宿有不少，不太会引起他人注意"
+      "equipment": [
+        "天寰玉授衣"
       ],
-      "mention_count": 8
+      "relationships": [
+        {
+          "target": "魏高",
+          "type": "接应者"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        },
+        {
+          "target": "青曙",
+          "type": "随从"
+        },
+        {
+          "target": "青曦",
+          "type": "随从"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        },
+        {
+          "target": "白果君",
+          "type": "召唤物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘坐飞舟抵达奎宿，与接应人见面。"
+        }
+      ],
+      "evidence": [
+        "张巡使，魏接引来访。",
+        "我们给巡使安排的，是一位一年之前就准备到外层历练的修道人",
+        "敢问这位可是张玄修么？"
+      ],
+      "mention_count": 20
     },
     {
       "name": "魏高",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 奎宿",
-      "summary": "”    外面舱门一开，魏高走了进来，他也是看到了舱顶上方的景象，口中道：“这便是外层了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    外面舱门一开，魏高走了进来，他也是看到了舱顶上方的景象，口中道：“这便是外层了",
-        "魏高道：“我们已是到了，张巡使可在此间乘坐飞舟去往奎宿",
-        "根据之前和魏高的谈话，他知道那就是玄廷所立通往各星宿的天门所在，要去往奎宿，那里是必经之处"
+      "aliases": [
+        "魏接引"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "尤舟首",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "接引使",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第一章 奎宿",
-      "summary": "尤舟首回到了主舱之内，一名十五六岁，竖着双丫髻的漂亮少女凑上来好奇问道：“叔父，那客人是什么来头啊",
+      "summary": "玄廷接引使，负责安排张御前往奎宿的事宜。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "尤舟首回到了主舱之内，一名十五六岁，竖着双丫髻的漂亮少女凑上来好奇问道：“叔父，那客人是什么来头啊",
-        "”    尤舟首摇头道：“只知道是一名内层来的中位修士",
-        "”    张御穿着大氅遮帽，尤舟首根本没看清他的容貌，他敷衍道：“就那个样子，不管内层外层，都是天夏人，只要不是祖上有过混血，长得和你我都是一样的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "接应"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "尤舟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 奎宿",
-      "summary": "尤舟首回到了主舱之内，一名十五六岁，竖着双丫髻的漂亮少女凑上来好奇问道：“叔父，那客人是什么来头啊",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟中与张御交谈，安排其身份和行程。"
+        }
+      ],
       "evidence": [
-        "尤舟首回到了主舱之内，一名十五六岁，竖着双丫髻的漂亮少女凑上来好奇问道：“叔父，那客人是什么来头啊",
-        "”    尤舟首摇头道：“只知道是一名内层来的中位修士",
-        "”    张御穿着大氅遮帽，尤舟首根本没看清他的容貌，他敷衍道：“就那个样子，不管内层外层，都是天夏人，只要不是祖上有过混血，长得和你我都是一样的"
+        "魏高走了进来，他也是看到了舱顶上方的景象",
+        "魏高道：“我们已是到了，张巡使可在此间乘坐飞舟去往奎宿。”"
       ],
       "mention_count": 6
     },
     {
-      "name": "随着",
+      "name": "李青禾",
       "aliases": [],
-      "identity": "",
+      "identity": "随从",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一章 奎宿",
-      "summary": "”    张御对他点下头，往外走去，一直来到了一座琉璃柱舱之中，随着身后舟门严丝合缝的封闭起来，下方的玉浮碟便承托着他往下沉去",
+      "summary": "张御的随从之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在泊台等候张御，随后跟随其离开。"
+        }
+      ],
       "evidence": [
-        "”    张御对他点下头，往外走去，一直来到了一座琉璃柱舱之中，随着身后舟门严丝合缝的封闭起来，下方的玉浮碟便承托着他往下沉去",
-        "不一会儿，随着一圈圈光芒在飞舟闪烁而过，飞舟便就从泊台之上腾空而起，往远端通天立地的方玉柱飞去"
+        "李青禾和青曙、青曦和妙丹君已是在此等候一会儿了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一章 奎宿",
+      "summary": "张御的随从之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在泊台等候张御，随后跟随其离开。"
+        }
+      ],
+      "evidence": [
+        "李青禾和青曙、青曦和妙丹君已是在此等候一会儿了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青曦",
+      "aliases": [],
+      "identity": "随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一章 奎宿",
+      "summary": "张御的随从之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在泊台等候张御，随后跟随其离开。"
+        }
+      ],
+      "evidence": [
+        "李青禾和青曙、青曦和妙丹君已是在此等候一会儿了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "宠物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一章 奎宿",
+      "summary": "张御的宠物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在泊台等候张御，随后跟随其离开。"
+        }
+      ],
+      "evidence": [
+        "李青禾和青曙、青曦和妙丹君已是在此等候一会儿了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "尤舟首",
+      "aliases": [
+        "尤舟首"
+      ],
+      "identity": "蓝枫号飞舟舟首",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一章 奎宿",
+      "summary": "蓝枫号飞舟的舟首，负责驾驶飞舟送张御前往奎宿。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "承运"
+        },
+        {
+          "target": "少女",
+          "type": "叔侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "驾驶蓝枫号飞舟，途中飞舟异常震动，最终安全抵达奎宿。"
+        }
+      ],
+      "evidence": [
+        "飞舟舟首姓尤，他并不清楚张御的真实身份",
+        "尤舟首要驾驭飞舟，没心思再和自己侄女说话"
       ],
       "mention_count": 5
     },
     {
-      "name": "只是",
+      "name": "少女",
       "aliases": [],
-      "identity": "",
+      "identity": "尤舟首的侄女",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一章 奎宿",
-      "summary": "这一次航程，将会半月时日耗费在路上，这么多天闷在舱室中，或许寻常人会感到枯燥，不过对他一个修道人来说，只是很短的一段时间而已",
-      "appearance": [],
-      "personality": [],
+      "summary": "尤舟首的侄女，对张御的身份感到好奇。",
+      "appearance": [
+        "十五六岁，竖着双丫髻的漂亮少女"
+      ],
+      "personality": [
+        "好奇"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一次航程，将会半月时日耗费在路上，这么多天闷在舱室中，或许寻常人会感到枯燥，不过对他一个修道人来说，只是很短的一段时间而已",
-        "不过如今他至多也只是拥有一些自保之力罢了，所以远不到停下来的时候",
-        "只是一到这里，他略略感到有些不适，却又说不出来问题出在那里，心光微微一放，将全身都是护持住"
+      "relationships": [
+        {
+          "target": "尤舟首",
+          "type": "叔侄"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟中向尤舟首询问张御的来历。"
+        }
+      ],
+      "evidence": [
+        "一名十五六岁，竖着双丫髻的漂亮少女凑上来好奇问道"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "却又",
+      "name": "中年男子",
       "aliases": [],
-      "identity": "",
+      "identity": "接应人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一章 奎宿",
-      "summary": "这些星雾云团仿佛是凝固在那里的，可是不经意间的一撇之间，却又好似是活动着的，仿若那里也有着一个巨大的眼瞳也在看他",
-      "appearance": [],
+      "summary": "魏高安排给张御的接应人，在泊台下等候张御。",
+      "appearance": [
+        "个头不高，身着圆领青袍"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这些星雾云团仿佛是凝固在那里的，可是不经意间的一撇之间，却又好似是活动着的，仿若那里也有着一个巨大的眼瞳也在看他",
-        "只是一到这里，他略略感到有些不适，却又说不出来问题出在那里，心光微微一放，将全身都是护持住"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "接应"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "张巡",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 奎宿",
-      "summary": "正在这个时候，外面有声音传来道：“张巡使，魏接引来访",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正在这个时候，外面有声音传来道：“张巡使，魏接引来访",
-        "”    他缓缓收回目光，道：“张巡使，再有一会儿，我们就要到天元泊台了，我们在那里已经为巡使准备好了一驾民间飞舟，巡使可以直接乘此去往奎宿",
-        "魏高道：“我们已是到了，张巡使可在此间乘坐飞舟去往奎宿"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在泊台下等候张御，并确认其身份。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "张巡使",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 奎宿",
-      "summary": "正在这个时候，外面有声音传来道：“张巡使，魏接引来访",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "正在这个时候，外面有声音传来道：“张巡使，魏接引来访",
-        "”    他缓缓收回目光，道：“张巡使，再有一会儿，我们就要到天元泊台了，我们在那里已经为巡使准备好了一驾民间飞舟，巡使可以直接乘此去往奎宿",
-        "魏高道：“我们已是到了，张巡使可在此间乘坐飞舟去往奎宿"
+        "有一名个头不高，身着圆领青袍的中年男子站在那里",
+        "那中年男子表情微松，随后试着问道"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "巡使",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 奎宿",
-      "summary": "正在这个时候，外面有声音传来道：“张巡使，魏接引来访",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正在这个时候，外面有声音传来道：“张巡使，魏接引来访",
-        "”    他缓缓收回目光，道：“张巡使，再有一会儿，我们就要到天元泊台了，我们在那里已经为巡使准备好了一驾民间飞舟，巡使可以直接乘此去往奎宿",
-        "”    说话之间，他递来一枚玉简，“巡使到了奎宿之后，自会有人接应，不过那接应人并不知道巡使的真正身份"
-      ],
-      "mention_count": 4
+      "mention_count": 3
     }
   ]
 }

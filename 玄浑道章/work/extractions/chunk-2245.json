@@ -1,141 +1,246 @@
 {
   "chunk_id": "chunk-2245",
-  "title": "第两百四十五章 谋身寻后图",
   "characters": [
+    {
+      "name": "兰司议",
+      "aliases": [
+        "兰某"
+      ],
+      "identity": "元夏司议，负责与天夏定约的使者",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第两百四十五章 谋身寻后图",
+      "summary": "元夏派往天夏的定约使者，因担心事后被问罪而主动向天夏提出配合。",
+      "appearance": [],
+      "personality": [
+        "敏锐",
+        "谨慎",
+        "自私"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "谈判对手"
+        },
+        {
+          "target": "万道人",
+          "type": "对头"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风廷执谈判定约，后私下表示愿意配合天夏进攻元夏。"
+        }
+      ],
+      "evidence": [
+        "兰司议道:“风廷执当知，兰某此回是为定约而来”",
+        "兰司议直接道:“贵方是不是不想履约，而是想进攻元夏?”",
+        "兰司议道:“我不如此也不成，若是贵方毁弃约定，那我之前与贵方谈妥的混沌寄身一事定是一并不从，上面必然是要拿我问罪的。”"
+      ],
+      "mention_count": 20
+    },
     {
       "name": "风廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执，负责与元夏谈判",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "风廷执得知他到来，早已等候在了那里，两人多次接触，彼此都是熟悉，见过礼后，兰司议被请到了大阵一处驻地之中",
+      "summary": "天夏廷执，与兰司议多次接触，负责定约谈判。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "风廷执得知他到来，早已等候在了那里，两人多次接触，彼此都是熟悉，见过礼后，兰司议被请到了大阵一处驻地之中",
-        "兰司议道:“风廷执当知，兰某此回是为定约而来，不知贵方何时可以安排",
-        "”    风廷执笑道:“不急，诸位来此，我们自也当是好好招待才是"
+      "relationships": [
+        {
+          "target": "兰司议",
+          "type": "谈判对手"
+        },
+        {
+          "target": "韦廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 24
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与兰司议谈判，后向诸廷执汇报兰司议的提议。"
+        }
+      ],
+      "evidence": [
+        "风廷执得知他到来，早已等候在了那里",
+        "风廷执笑道:“不急，诸位来此，我们自也当是好好招待才是。”",
+        "风廷执回到了阵枢之内，与诸位廷执说了此事"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "兰司议",
+      "name": "韦廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "为了不被天夏拿捏太过，定议之期都是定在了一年轮转之期的前一段时日，所以他们早早派遣出兰司议前往天夏再定事机",
+      "summary": "天夏廷执之一，参与讨论兰司议的提议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "为了不被天夏拿捏太过，定议之期都是定在了一年轮转之期的前一段时日，所以他们早早派遣出兰司议前往天夏再定事机",
-        "兰司议这一次并不是孤身前来的，而是带着不少侍从弟子到此",
-        "风廷执得知他到来，早已等候在了那里，两人多次接触，彼此都是熟悉，见过礼后，兰司议被请到了大阵一处驻地之中"
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 22
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与诸廷执讨论兰司议的提议，提出疑虑。"
+        }
+      ],
+      "evidence": [
+        "韦廷执道:“只是这些，仍不排除此人作伪。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "兰司",
+      "name": "武廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "为了不被天夏拿捏太过，定议之期都是定在了一年轮转之期的前一段时日，所以他们早早派遣出兰司议前往天夏再定事机",
+      "summary": "天夏廷执之一，同意请仇司议推算。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "为了不被天夏拿捏太过，定议之期都是定在了一年轮转之期的前一段时日，所以他们早早派遣出兰司议前往天夏再定事机",
-        "兰司议这一次并不是孤身前来的，而是带着不少侍从弟子到此",
-        "风廷执得知他到来，早已等候在了那里，两人多次接触，彼此都是熟悉，见过礼后，兰司议被请到了大阵一处驻地之中"
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 19
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "同意请仇司议推算兰司议是否作伪。"
+        }
+      ],
+      "evidence": [
+        "武廷执同意道:“可以一试。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "风廷",
+      "name": "钟廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "风廷执得知他到来，早已等候在了那里，两人多次接触，彼此都是熟悉，见过礼后，兰司议被请到了大阵一处驻地之中",
+      "summary": "天夏廷执之一，解释推算结果的可信度。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "风廷执得知他到来，早已等候在了那里，两人多次接触，彼此都是熟悉，见过礼后，兰司议被请到了大阵一处驻地之中",
-        "兰司议道:“风廷执当知，兰某此回是为定约而来，不知贵方何时可以安排",
-        "”    风廷执笑道:“不急，诸位来此，我们自也当是好好招待才是"
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "解释仇司议推算结果的可信度。"
+        }
+      ],
+      "evidence": [
+        "钟廷执先是否定，道:“仇道友动用了镇道之宝推算，对面也要动用镇道之宝加以反制...”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "天夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "仇司议",
+      "aliases": [
+        "仇道友"
+      ],
+      "identity": "天夏司议，擅长推算",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "第两百四十五章 谋身寻后图    元夏这里为了能够稳定推进调和天序之策，自然便需要继续与天夏定约",
+      "summary": "天夏司议，被请来推算兰司议是否作伪。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百四十五章 谋身寻后图    元夏这里为了能够稳定推进调和天序之策，自然便需要继续与天夏定约",
-        "最好是能让天夏安稳待到他们完成取拿宝器之后",
-        "为了不被天夏拿捏太过，定议之期都是定在了一年轮转之期的前一段时日，所以他们早早派遣出兰司议前往天夏再定事机"
+      "abilities": [
+        "推算"
       ],
-      "mention_count": 10
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "推算兰司议没有作伪。"
+        }
+      ],
+      "evidence": [
+        "于是诸廷执安排之下，便请了仇司议过问，问及可否推算，其言:“此却不难。”",
+        "他推算下来，道:“从演算结果上来看，此人倒是没有作伪。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "元夏",
+      "name": "万道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元夏道人，兰司议的对头",
+      "faction": "元夏",
+      "status": "提及",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "第两百四十五章 谋身寻后图    元夏这里为了能够稳定推进调和天序之策，自然便需要继续与天夏定约",
+      "summary": "元夏道人，兰司议的对头，可能落井下石。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "兰司议",
+          "type": "对头"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "第两百四十五章 谋身寻后图    元夏这里为了能够稳定推进调和天序之策，自然便需要继续与天夏定约",
-        "不过这一切其实都是有意做出的姿态，为的就是能在未来某一天掩盖真正的目的，让元夏失去必要的警惕",
-        "元夏为了能够顺利定下此事，只要天夏不太过分，通常都会直接答应下来"
+        "再加上还有万道人这个对头说不定会落井下石"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "只是",
+      "name": "重岸",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏方面人物，提供消息",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "兰司仪一见，这倒是与以往的过程相符，只是不出意料，天夏这次的表现仍是与过去一样，提出了各种苛刻条件，有些条件看着还十分夸张",
+      "summary": "天夏方面人物，曾提供元夏消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -143,20 +248,18 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "兰司仪一见，这倒是与以往的过程相符，只是不出意料，天夏这次的表现仍是与过去一样，提出了各种苛刻条件，有些条件看着还十分夸张",
-        "兰司议为之愕然，不过在风廷执之后，他思虑了良久，便唤来一个弟子，道:“你且传讯回去，就说天夏还如以往一般索要资粮，只是这次想要更多，看去胃口极大，故我还需要一些时候与之周旋",
-        "他还是没有完全信任，只是问道:“兰司议，你为何要如此呢"
+        "实际从重岸的消息看，元夏方面各种各样的猜测很多"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "同时",
+      "name": "混沌修士",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏方面人物，提供消息",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "此回在来到这里之前，他被唤了过去关照了一番，故此身还负观察天夏动向的责任，而这些弟子有些是他支使的，而有些则是背后站着另外一些人，既是负责帮衬他，同时也是负责在他不方便时探看天夏内部",
+      "summary": "天夏方面人物，曾提供元夏消息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -164,95 +267,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "此回在来到这里之前，他被唤了过去关照了一番，故此身还负观察天夏动向的责任，而这些弟子有些是他支使的，而有些则是背后站着另外一些人，既是负责帮衬他，同时也是负责在他不方便时探看天夏内部",
-        "可同时也说明上面已经没有太好办法了，要不然何必做此态",
-        "同时按照他过往的经验，如果真的坐等，什么都不做，那天夏也乐得装聋作哑，这就不利于他们了"
+        "还有一些消息具体是能和重岸和那位混沌修士送过来的相提并论的"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "兰某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "兰司议道:“风廷执当知，兰某此回是为定约而来，不知贵方何时可以安排",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "兰司议道:“风廷执当知，兰某此回是为定约而来，不知贵方何时可以安排",
-        "”    兰司议知道天夏不会马上处置此事，自己再怎么追问也没用，所以他也没继续纠缠这件事，只道:“兰某这次带了不少弟子过来，可否允许四处走动",
-        "”    兰司议点了点头，道:“时日尚早，兰某就在此等着"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "最好是能让天夏安稳待到他们完成取拿宝器之后",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "最好是能让天夏安稳待到他们完成取拿宝器之后",
-        "为了不被天夏拿捏太过，定议之期都是定在了一年轮转之期的前一段时日，所以他们早早派遣出兰司议前往天夏再定事机",
-        "同时按照他过往的经验，如果真的坐等，什么都不做，那天夏也乐得装聋作哑，这就不利于他们了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "提出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "天夏也是不难看出这里的用意，所以会有意识的进行拖延，继而提出更多条件，几乎每年都是如此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天夏也是不难看出这里的用意，所以会有意识的进行拖延，继而提出更多条件，几乎每年都是如此",
-        "天夏为了不过分刺激元夏，一般都很有分寸，提出的条件不外就是一些人力物力，且数量也拿捏的刚刚好，这些东西元夏反正要多少有多少，自也不会牵扯太过",
-        "兰司仪一见，这倒是与以往的过程相符，只是不出意料，天夏这次的表现仍是与过去一样，提出了各种苛刻条件，有些条件看着还十分夸张"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十五章 谋身寻后图",
-      "summary": "兰司议这一次并不是孤身前来的，而是带着不少侍从弟子到此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "兰司议这一次并不是孤身前来的，而是带着不少侍从弟子到此",
-        "直到过去了大半月后，风廷执才又一次出现了，这一次他没有再顾及左右，而是与他们正式谈定约之事",
-        "”    兰司议直接道:“贵方是不是不想履约，而是想进攻元夏"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

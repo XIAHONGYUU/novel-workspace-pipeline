@@ -1,36 +1,85 @@
 {
   "chunk_id": "chunk-0725",
-  "title": "第二十章 藏光云天后",
   "characters": [
     {
-      "name": "边览",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "钟廷执",
+      "aliases": [
+        "钟道人"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第二十章 藏光云天后",
-      "summary": "”    而此刻余玄尊诸弟子所在驻地之中，边览看着手中的一封报书，手指微微颤抖着",
+      "summary": "玄廷廷执，负责安抚风、高二人，推动废玄一事。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "自信"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    而此刻余玄尊诸弟子所在驻地之中，边览看着手中的一封报书，手指微微颤抖着",
-        "边览看着那道人道：“道友说这些话，想来是有什么可指教我们了",
-        "”    边览深深看了他一眼，道：“哦"
+      "relationships": [
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "竺廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与崇廷执商议废玄事宜，并承诺安抚风、高二人。"
+        }
+      ],
+      "evidence": [
+        "钟廷执回到了自己道宫之中后，来至那一面玉石大璧之前，弹指打入一道光芒",
+        "钟道人道：“此事交给我便是，我会安抚好此辈的”"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "崇廷执",
+      "aliases": [
+        "崇道兄"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第二十章 藏光云天后",
-      "summary": "”    钟道人丝毫不见意外，笑了一笑，道：“意料之中，浑修那里当也是想拉拢他们，废玄一事与他们无碍，他们也没有必要拦着，只不过是前次吃了一个大亏，这次大概也不想看着我们能把此事顺利做成",
+      "summary": "玄廷廷执，与钟廷执商议废玄事宜，负责说服首执。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与钟廷执通讯，商议废玄事宜。"
+        }
+      ],
+      "evidence": [
+        "崇廷执道：“我听说近日晁焕去见了那风、高那二位。”",
+        "崇廷执打一个稽首，身影遍即化一团清雾散去了。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "晁焕",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "被提及去见风、高二人的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -38,218 +87,425 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    钟道人丝毫不见意外，笑了一笑，道：“意料之中，浑修那里当也是想拉拢他们，废玄一事与他们无碍，他们也没有必要拦着，只不过是前次吃了一个大亏，这次大概也不想看着我们能把此事顺利做成",
-        "”    安立嘿的笑了一笑，走上前去，道：“单子我交给他们了，小子，我只能帮到你这里了",
-        "不过你给他们看得这些东西不就是你要的那些么，可以说是分毫不差，不会有什么问题吧"
+        "崇廷执道：“我听说近日晁焕去见了那风、高那二位。”"
       ],
-      "mention_count": 11
+      "mention_count": 1
+    },
+    {
+      "name": "风",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "被晁焕拜访的人物之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "崇廷执道：“我听说近日晁焕去见了那风、高那二位。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "高",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "被晁焕拜访的人物之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "崇廷执道：“我听说近日晁焕去见了那风、高那二位。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "中年修士",
+      "aliases": [
+        "上修"
+      ],
+      "identity": "上宸天修士或相关势力人物",
+      "faction": "上宸天（推测）",
+      "status": "登场",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "在昙泉州高台内接见安立，要求安立监视安知之。",
+      "appearance": [],
+      "personality": [
+        "威严",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安立",
+          "type": "上级与下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接见安立，查看单子，要求安立每日汇报安知之的动静。"
+        }
+      ],
+      "evidence": [
+        "一个中年修士正看着手中的单子",
+        "中年修士道：“安师匠。”",
+        "中年修士对他态度颇为满意，道：“那安先生就早些回去吧”"
+      ],
+      "mention_count": 5
     },
     {
       "name": "安立",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "安师匠",
+        "安先生"
+      ],
+      "identity": "师匠，安知之的叔父",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二十章 藏光云天后",
-      "summary": "昙泉州，一座奢华高台之内，一个中年修士正看着手中的单子，看罢之后，对站在下方的安立看有一眼，“这便是你侄儿要的东西么",
+      "summary": "安知之的叔父，受中年修士之命监视安知之。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "忠诚于家族"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "中年修士",
+          "type": "下属"
+        },
+        {
+          "target": "安知之",
+          "type": "叔侄"
+        },
+        {
+          "target": "安嵩",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将单子交给中年修士，并接受监视任务。"
+        }
+      ],
       "evidence": [
-        "昙泉州，一座奢华高台之内，一个中年修士正看着手中的单子，看罢之后，对站在下方的安立看有一眼，“这便是你侄儿要的东西么",
-        "”    安立恭敬道：“是的",
-        "”    安立回道：“我这侄儿脑子活，太多奇思妙想，有时我也不知他在想什么，只从这些造物工具上来，我实在是猜不出来"
+        "安立恭敬道：“是的。”",
+        "安立忙道：“方便方便。庄园里面每日所食所饮都清淡的很”",
+        "安立嘿的笑了一笑，走上前去，道：“单子我交给他们了”"
       ],
       "mention_count": 10
     },
     {
-      "name": "那道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "”    说话那道人手持拂尘，长须飘胸，望去仙风道骨，他道：“诸位，玄廷将过往玄法夺名，或许对其余玄修无有什么太大妨碍，终究那位张玄尊已是辟开了一条道途",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    说话那道人手持拂尘，长须飘胸，望去仙风道骨，他道：“诸位，玄廷将过往玄法夺名，或许对其余玄修无有什么太大妨碍，终究那位张玄尊已是辟开了一条道途",
-        "边览看着那道人道：“道友说这些话，想来是有什么可指教我们了",
-        "”    那道人笑道：“不敢当，我可给诸位指一条明路，既然这里诸位待不下去了，那么为何不去他处呢"
-      ],
-      "mention_count": 9
-    },
-    {
-      "name": "师兄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "而他周围的一些师兄弟也是都露出难以接受的神情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而他周围的一些师兄弟也是都露出难以接受的神情",
-        "”    这时有一个弟子忽然走入了殿内，拱手道：“师兄，军署有数十驾斗战飞舟正往我们这里过来",
-        "边览不禁道：“师兄"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "还缺",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "梁屹摇头道：“还缺一点，我能感觉到，还缺一点东西",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "梁屹摇头道：“还缺一点，我能感觉到，还缺一点东西"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他想",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "”    他想起那药的味道，不禁摇头，那东西，真是又苦又涩，但没办法，据说唯有喝了那药水，自己的真实想法才不会被那些修道人看穿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他想起那药的味道，不禁摇头，那东西，真是又苦又涩，但没办法，据说唯有喝了那药水，自己的真实想法才不会被那些修道人看穿",
-        "他想了想，唤来参事文吏，道：“玄廷已是下令，张玄尊所立之法方是正法，以往玄法已然夺名，你稍候将这消息传报下去",
-        "”    他想了想，又抬起头，试着问道：“师兄，你功行比以为更高了，是不是……”    方才那赤芒一照，居然所有人不伤分毫，这等精微入化的法力驾驭之能绝不是梁屹以前能做到的"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "关照过后，他放好了东西，准备去沐浴一番，走到外面，他看了看那间壮伟的正堂，却是忽然想起送安小郎出来之前族里的那场对话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "关照过后，他放好了东西，准备去沐浴一番，走到外面，他看了看那间壮伟的正堂，却是忽然想起送安小郎出来之前族里的那场对话",
-        "”    他看向诸人，道：“张玄尊作为玄廷认可的正法开道之人，我等敬奉尊位，与老师之尊位并列于一处"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "那道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "”    说话那道人手持拂尘，长须飘胸，望去仙风道骨，他道：“诸位，玄廷将过往玄法夺名，或许对其余玄修无有什么太大妨碍，终究那位张玄尊已是辟开了一条道途",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    说话那道人手持拂尘，长须飘胸，望去仙风道骨，他道：“诸位，玄廷将过往玄法夺名，或许对其余玄修无有什么太大妨碍，终究那位张玄尊已是辟开了一条道途",
-        "边览看着那道人道：“道友说这些话，想来是有什么可指教我们了",
-        "”    那道人笑道：“不敢当，我可给诸位指一条明路，既然这里诸位待不下去了，那么为何不去他处呢"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "上宸天",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "”    那道人笑伸手对外一指，道：“上宸天可为用武之地",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人笑伸手对外一指，道：“上宸天可为用武之地",
-        "”    边览目光凌厉起来，道：“你是上宸天的人",
-        "”    那道人却是一点都不慌，道：“上宸天又如何"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "都是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十章 藏光云天后",
-      "summary": "那些以往不曾来到的廷执，都是如此态度",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那些以往不曾来到的廷执，都是如此态度",
-        "庄园里面每日所食所饮都清淡的很，一点油腥都没有，我都吃不惯，我每日都是出来寻吃食的，那时正好呈报到这里",
-        "族里的人都是认为玄法不行了，造物即将大兴，安小郎这么一个天才后辈，怎么可以在这个时候去亲近一名玄修呢"
-      ],
-      "mention_count": 4
-    },
-    {
       "name": "安知之",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "安小郎"
+      ],
+      "identity": "安立的侄儿，天才后辈",
       "faction": "",
       "status": "登场",
       "first_appearance": "第二十章 藏光云天后",
-      "summary": "”    安知之从座位跳下来，盯着他道：“叔父，你方才出去了",
+      "summary": "安立的侄儿，有奇思妙想，被家族认为应远离玄修，但安嵩支持其亲近玄修。",
+      "appearance": [],
+      "personality": [
+        "聪明",
+        "自信"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安立",
+          "type": "叔侄"
+        },
+        {
+          "target": "安嵩",
+          "type": "祖孙（推测）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "等待叔父回来，询问其去向。"
+        }
+      ],
+      "evidence": [
+        "安知之从座位跳下来，盯着他道：“叔父，你方才出去了？”",
+        "安知之撇嘴道：“他们又不傻，我买的东西他们一查来路就知道”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "安嵩",
+      "aliases": [],
+      "identity": "安立之父",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "安立之父，有远见，认为玄法虽不行但上层玄修仍可依靠。",
+      "appearance": [],
+      "personality": [
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安立",
+          "type": "父子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "而他的父亲安嵩却是痛骂此辈鼠目寸光"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "洪原秋",
+      "aliases": [],
+      "identity": "军务署署主",
+      "faction": "天夏军务署",
+      "status": "登场",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "奎宿地星上方军务署署主，接到玄廷传报，负责颁宣消息并稳住据界面。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "负责"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "参事文吏",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接到玄廷传报，下令传报消息，并调军看住余玄尊门人。"
+        }
+      ],
+      "evidence": [
+        "洪原秋也是接到了玄廷的传报，让他颁宣消息的同时稳住据界面。",
+        "他道：“拿我谕令，调三千正军先看住他们”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "参事文吏",
+      "aliases": [],
+      "identity": "军务署文吏",
+      "faction": "天夏军务署",
+      "status": "登场",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "洪原秋的下属，提醒洪原秋注意余玄尊门人的反应。",
+      "appearance": [],
+      "personality": [
+        "细心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "洪原秋",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提醒洪原秋注意余玄尊门人。"
+        }
+      ],
+      "evidence": [
+        "参事文吏却是提醒道：“署主，其余玄修还好说，可那些余玄尊的门人可还都在昙泉州外”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "边览",
+      "aliases": [
+        "边师弟"
+      ],
+      "identity": "余玄尊弟子",
+      "faction": "余玄尊门下",
+      "status": "登场",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "余玄尊弟子，与上宸天道人对话，后受梁屹责备。",
+      "appearance": [],
+      "personality": [
+        "易动摇",
+        "知错能改"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "梁屹",
+          "type": "师兄"
+        },
+        {
+          "target": "余玄尊",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与上宸天道人对话，被梁屹责备后认错。"
+        }
+      ],
+      "evidence": [
+        "边览看着那道人道：“道友说这些话，想来是有什么可指教我们了？”",
+        "边览一惊，想起了事情的严重，他一躬身，坦然认错道：“是，是小弟的不是”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "上宸天道人",
+      "aliases": [
+        "那道人"
+      ],
+      "identity": "上宸天修士",
+      "faction": "上宸天",
+      "status": "死亡",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "上宸天修士，试图拉拢余玄尊弟子，被梁屹所杀。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "煽动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "劝说余玄尊弟子投靠上宸天，被梁屹击杀。"
+        }
+      ],
+      "evidence": [
+        "那道人笑道：“上宸天又如何？那里修士论及出身，与诸位也算得上是同根同源”",
+        "那道人则是露出惊惧之色，他发现了不对，急于脱身逃遁，可再是方才一转身，身躯便如风化的沙石一般剥离开来"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "梁屹",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "余玄尊弟子，大师兄",
+      "faction": "余玄尊门下",
+      "status": "登场",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "余玄尊大弟子，功力高深，击杀上宸天道人，主张敬奉张玄尊。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "有主见"
+      ],
+      "abilities": [
+        "法力精微入化"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "边览",
+          "type": "师弟"
+        },
+        {
+          "target": "余玄尊",
+          "type": "师父"
+        },
+        {
+          "target": "张玄尊",
+          "type": "敬奉"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击杀上宸天道人，并提议敬奉张玄尊。"
+        }
+      ],
+      "evidence": [
+        "梁屹站在了大殿之内。",
+        "梁屹看了看他，沉声道：“边师弟，你糊涂。”",
+        "梁屹摇头道：“还缺一点，我能感觉到，还缺一点东西。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "余玄尊",
+      "aliases": [],
+      "identity": "玄尊，被玄廷囚押",
+      "faction": "余玄尊门下",
+      "status": "提及",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "被玄廷囚押的玄尊，其法门被夺名。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "边览",
+          "type": "师父"
+        },
+        {
+          "target": "梁屹",
+          "type": "师父"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    安知之从座位跳下来，盯着他道：“叔父，你方才出去了",
-        "”    安知之撇嘴道：“他们又不傻，我买的东西他们一查来路就知道，不过他们要能看出来我要想干什么，那算我输",
-        "”    安知之道：“叔父，每次出去，记得把那药汤喝了"
+        "自家老师被玄廷囚押又是那位开辟道途的张玄尊所为"
       ],
-      "mention_count": 4
+      "mention_count": 3
+    },
+    {
+      "name": "张玄尊",
+      "aliases": [],
+      "identity": "玄尊，开辟玄法上境",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "第二十章 藏光云天后",
+      "summary": "被玄廷认可的正法开道之人，开辟了玄法上境。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "梁屹",
+          "type": "敬奉"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "张玄尊已然开辟了玄法上境",
+        "张玄尊作为玄廷认可的正法开道之人"
+      ],
+      "mention_count": 3
     }
   ]
 }

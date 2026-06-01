@@ -1,256 +1,416 @@
 {
   "chunk_id": "chunk-1158",
-  "title": "第六十章 灵传非释时",
   "characters": [
     {
       "name": "于大匠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 灵传非释时",
-      "summary": "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
-        "于大匠看他片刻，道：“假若上一次便就成功了呢",
-        "于大匠沉声道：“我是说，假若上一次的突破尝试……就已经成功了呢"
+      "aliases": [
+        "于兄"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "龙大匠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天机院大匠",
+      "faction": "天机院",
       "status": "登场",
       "first_appearance": "第六十章 灵传非释时",
-      "summary": "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
+      "summary": "天机院大匠，对玄廷上层持怀疑态度，认为突破尝试被故意阻挠。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
-        "”    龙大匠将肉片放入嘴中，品尝着软嫩的口感和鲜香的酱汁，他缓缓咀嚼咽下，这才放下手中的玉箸，道：“是听说了，但是这可能不大",
-        "”    龙大匠一怔，动作不由一顿"
+      "personality": [
+        "多疑",
+        "激进",
+        "执着"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "赵柔",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 灵传非释时",
-      "summary": "待讲课结束，他走了出来，对着赵柔赞叹不已道：“赵道友这个弟子，聪颖敏慧，东西俱是一教就会，一点就通",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "待讲课结束，他走了出来，对着赵柔赞叹不已道：“赵道友这个弟子，聪颖敏慧，东西俱是一教就会，一点就通",
-        "”    赵柔道：“有劳先生了",
-        "”    赵柔在送走文吏后，却是眉头微蹙"
+      "relationships": [
+        {
+          "target": "龙大匠",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "于大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 灵传非释时",
-      "summary": "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与龙大匠讨论突破尝试的结果，提出玄廷可能故意阻挠的假设。"
+        }
+      ],
       "evidence": [
-        "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
-        "于大匠看他片刻，道：“假若上一次便就成功了呢",
-        "于大匠沉声道：“我是说，假若上一次的突破尝试……就已经成功了呢"
+        "于大匠道：“我只是提出一个假设，”他把声音放低沉了一些，“如果上次本就是极可能成功的一次，但是玄廷有些人却是不愿意看到这等事，并且提前预见到了，所以横插一手，借着引动异神将此事截断，那么不正好将此事掩盖过去了么？”"
       ],
       "mention_count": 8
     },
     {
-      "name": "龙大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "龙大匠",
+      "aliases": [
+        "龙兄"
+      ],
+      "identity": "天机院大匠",
+      "faction": "天机院",
       "status": "登场",
       "first_appearance": "第六十章 灵传非释时",
-      "summary": "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
+      "summary": "天机院大匠，性格较为谨慎，对突破尝试持保守态度。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "务实"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "于大匠",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与于大匠共进午食，讨论突破尝试的结果。"
+        }
+      ],
       "evidence": [
-        "这一日，于大匠在进午食的时候，对着方才准备夹起一块蘸酱肉片的龙大匠道：“龙兄，最近的消息听说了么",
-        "”    龙大匠将肉片放入嘴中，品尝着软嫩的口感和鲜香的酱汁，他缓缓咀嚼咽下，这才放下手中的玉箸，道：“是听说了，但是这可能不大",
-        "”    龙大匠一怔，动作不由一顿"
+        "龙大匠将肉片放入嘴中，品尝着软嫩的口感和鲜香的酱汁，他缓缓咀嚼咽下，这才放下手中的玉箸，道：“是听说了，但是这可能不大。”"
       ],
       "mention_count": 7
     },
     {
-      "name": "假若",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 灵传非释时",
-      "summary": "于大匠看他片刻，道：“假若上一次便就成功了呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "于大匠看他片刻，道：“假若上一次便就成功了呢",
-        "于大匠沉声道：“我是说，假若上一次的突破尝试……就已经成功了呢"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 灵传非释时",
-      "summary": "”    龙大匠抬头道：“可这是没有可能的，而且玄廷要想阻止也很容易，不让我们尝试便是了，何苦做出这等事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    龙大匠抬头道：“可这是没有可能的，而且玄廷要想阻止也很容易，不让我们尝试便是了，何苦做出这等事",
-        "再说上一次后玄廷依旧允许我们尝试，可见他们并没有这等心思",
-        "”    于大匠却是摇头，道：“可是龙兄你应该知道，我们对于上层力量的了解依然有限，这样突破上层的尝试，每一次既需要充分的准备，也要靠一定的运气，而有的时候，需要的仅仅只是一次巧合，不见得能次次都能重复，所以只要坏去最有可能成功的一次就可以"
-      ],
-      "mention_count": 6
-    },
-    {
       "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第六十章 灵传非释时",
-      "summary": "直到诸事大致议定，林廷执才是开口道：“前回我与张廷执为擒捉神异生灵，借用了天机院的造物之躯，但此番无意中使得这造物躯壳迈过了上层关门，此物不知该如何处断",
+      "summary": "玄廷廷执，参与擒捉异神并借用天机院造物躯壳，主张归还造物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "直到诸事大致议定，林廷执才是开口道：“前回我与张廷执为擒捉神异生灵，借用了天机院的造物之躯，但此番无意中使得这造物躯壳迈过了上层关门，此物不知该如何处断",
-        "”    崇廷执道：“林廷执，这本是从天机院那处征用而来的，既然对我无用处，那还不如归还给天机院，许还对造物还有所推动",
-        "”    林廷执考虑了一下，道：“这倒并无不可"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "玉素道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 灵传非释时",
-      "summary": "”    说到这里，他语气越来越肯定，“所以可能是我们这次的突破尝试，可能运气好，又一次趋向成功，而某位本欲故技重施将之破弃，而支持我们的那几位已然有了提防，所以没有让某位得逞，但是毕竟东西让上面征用了，还有借口留着，现在由于上面意见不一，",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上提出归还天机院造物躯壳，并询问诸位廷执意见。"
+        }
+      ],
       "evidence": [
-        "”    说到这里，他语气越来越肯定，“所以可能是我们这次的突破尝试，可能运气好，又一次趋向成功，而某位本欲故技重施将之破弃，而支持我们的那几位已然有了提防，所以没有让某位得逞，但是毕竟东西让上面征用了，还有借口留着，现在由于上面意见不一，",
-        "”    崇廷执道：“林廷执，这本是从天机院那处征用而来的，既然对我无用处，那还不如归还给天机院，许还对造物还有所推动",
-        "张御道：“御以为可以还去，不过这里还有一建言"
+        "林廷执道：“前回我与张廷执为擒捉神异生灵，借用了天机院的造物之躯，但此番无意中使得这造物躯壳迈过了上层关门，此物不知该如何处断？故在此想问一问诸位廷执之见。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "故是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "玄廷廷执，摘取上乘功果的修道人",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第六十章 灵传非释时",
-      "summary": "诸位廷执主要谈及的便是莫契神族之事，现在种种迹象都是表明，这个古老之神正在试图回转，特别灵性预言活跃频繁，故是近来廷议主要都是围绕着此事",
+      "summary": "玄廷廷执，主张归还造物但需加强监管，防止滥用。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "有远见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "诸位廷执主要谈及的便是莫契神族之事，现在种种迹象都是表明，这个古老之神正在试图回转，特别灵性预言活跃频繁，故是近来廷议主要都是围绕着此事",
-        "除了这一个，还有更现实的问题，那就是天夏需要直面各种强敌，造物把力量推升他们这等境地，那不知还要用上多久，故是不可能让其等完全占据下层的"
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上提出归还造物但需派遣修道人监察，并限制宣扬。"
+        }
+      ],
+      "evidence": [
+        "张御道：“而今浊潮频发，更有异神伺机待动，这造物躯壳并无神主，容易为人所趁，故便是送至天机院，也需派遣修道人加以监察，今后无论是尝试驾驭，还是平日观摩，每回皆需向玄廷提前备报，有允执才可使动。”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "林廷",
+      "name": "崇廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第六十章 灵传非释时",
-      "summary": "直到诸事大致议定，林廷执才是开口道：“前回我与张廷执为擒捉神异生灵，借用了天机院的造物之躯，但此番无意中使得这造物躯壳迈过了上层关门，此物不知该如何处断",
+      "summary": "玄廷廷执，主张将造物归还天机院。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "直到诸事大致议定，林廷执才是开口道：“前回我与张廷执为擒捉神异生灵，借用了天机院的造物之躯，但此番无意中使得这造物躯壳迈过了上层关门，此物不知该如何处断",
-        "”    崇廷执道：“林廷执，这本是从天机院那处征用而来的，既然对我无用处，那还不如归还给天机院，许还对造物还有所推动",
-        "”    林廷执考虑了一下，道：“这倒并无不可"
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "玉素道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上支持归还造物，反对毁弃。"
+        }
+      ],
+      "evidence": [
+        "崇廷执道：“林廷执，这本是从天机院那处征用而来的，既然对我无用处，那还不如归还给天机院，许还对造物还有所推动。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "造物",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "玉素道人",
+      "aliases": [
+        "玉素廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第六十章 灵传非释时",
-      "summary": "上一次，上一次可是……”他没能再说下去，因为上回那造物躯壳寄入了异神的灵性，到最后被擒捉到玄廷去了，到现在也没有结果",
+      "summary": "玄廷廷执，主张毁弃造物以绝后患。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上提出毁弃造物，以免后患。"
+        }
+      ],
+      "evidence": [
+        "玉素道人道：“这东西曾得异神污秽，亦是曾有驻影在期中，我以为不若毁弃为好，如此免声后患。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第六十章 灵传非释时",
+      "summary": "玄廷廷执，同意张御的建言。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "上一次，上一次可是……”他没能再说下去，因为上回那造物躯壳寄入了异神的灵性，到最后被擒捉到玄廷去了，到现在也没有结果",
-        "直到诸事大致议定，林廷执才是开口道：“前回我与张廷执为擒捉神异生灵，借用了天机院的造物之躯，但此番无意中使得这造物躯壳迈过了上层关门，此物不知该如何处断",
-        "”    崇廷执道：“林廷执，这本是从天机院那处征用而来的，既然对我无用处，那还不如归还给天机院，许还对造物还有所推动"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上表示同意张御的建言。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "韦廷执出声道：“韦某同意张廷执之见，天机造物仍有不少缺陷，此刻宣扬造物，不是好事。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "风道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第六十章 灵传非释时",
+      "summary": "玄廷廷执，认为宣扬造物不利于修持。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上发言，指出宣扬造物对修持不利。"
+        }
+      ],
+      "evidence": [
+        "风道人也是道：“诸位，人心本惰，若是知悉只需造物加身便可得享上乘，那又何须用心修持？这于我天夏大局不利”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第六十章 灵传非释时",
+      "summary": "玄廷廷执，同意归还造物但不可大肆宣扬。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上表示同意归还造物但不可大肆宣扬。"
+        }
+      ],
+      "evidence": [
+        "陈廷执道：“这造物躯壳可以还给天机总院，但此事不可大肆宣扬。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钟廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第六十章 灵传非释时",
+      "summary": "玄廷廷执，对归还造物无异议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议上未对归还造物提出辩驳。"
+        }
+      ],
+      "evidence": [
+        "钟廷执对此没有任何辩驳。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵柔",
+      "aliases": [
+        "赵道友"
+      ],
+      "identity": "玄府修士，受罚驻守东庭密林",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第六十章 灵传非释时",
+      "summary": "玄府修士，因受罚驻守东庭密林，教授弟子瑶璃。",
+      "appearance": [],
+      "personality": [
+        "负责",
+        "忧虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与文吏交谈后，考虑送弟子瑶璃去东庭学习。"
+        }
+      ],
+      "evidence": [
+        "赵柔道：“有劳先生了。”",
+        "赵柔在送走文吏后，却是眉头微蹙。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "瑶璃",
+      "aliases": [],
+      "identity": "赵柔的弟子",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第六十章 灵传非释时",
+      "summary": "赵柔的弟子，聪颖敏慧，学习能力强。",
+      "appearance": [],
+      "personality": [
+        "聪颖",
+        "听话"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵柔",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受文吏授课，后与赵柔对话表示愿意去东庭。"
+        }
+      ],
+      "evidence": [
+        "瑶璃这时走了过来，抬头看着她道：“是瑶璃哪里做的不好，惹老师不高兴了么？”",
+        "瑶璃想了想，认真回答道：“如果老师要瑶璃去，那里瑶璃就去。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "文吏",
+      "aliases": [
+        "先生"
+      ],
+      "identity": "曾在东庭学宫担任师教的文吏",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第六十章 灵传非释时",
+      "summary": "曾在东庭学宫任教，现为瑶璃授课。",
+      "appearance": [],
+      "personality": [
+        "赞叹"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵柔",
+          "type": "同僚"
+        },
+        {
+          "target": "瑶璃",
+          "type": "师生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为瑶璃授课后，对赵柔称赞瑶璃。"
+        }
+      ],
+      "evidence": [
+        "那文吏笑道：“我是半点不累，如此学生，换一个人过来都能教好的，能教这样的学生，是我这个做先生沾光了。”"
+      ],
+      "mention_count": 2
     }
   ]
 }

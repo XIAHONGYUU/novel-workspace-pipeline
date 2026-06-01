@@ -1,256 +1,315 @@
 {
   "chunk_id": "chunk-0684",
-  "title": "第一百八十九章 传令",
   "characters": [
     {
-      "name": "公孙绍",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
-        "只是若这真是公孙绍一个人或者背后某些人出于查证之意，那么就不怕他真的变成混沌怪物",
-        "他看向公孙绍道：“御能确信，当时的确已是将此二人除灭，没有任何残余留下，亦是不曾受此等侵染"
-      ],
-      "mention_count": 25
-    },
-    {
-      "name": "公孙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
-        "只是若这真是公孙绍一个人或者背后某些人出于查证之意，那么就不怕他真的变成混沌怪物",
-        "他看向公孙绍道：“御能确信，当时的确已是将此二人除灭，没有任何残余留下，亦是不曾受此等侵染"
-      ],
-      "mention_count": 18
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "玄廷巡护",
+      "faction": "玄廷",
       "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "第一百八十九章 传令    张御听他如此问，神情依然平静",
+      "first_appearance": "",
+      "summary": "玄廷巡护，东庭出身，正被公孙绍调查与混沌怪物霍衡相关之事。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "平静",
+        "自信",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百八十九章 传令    张御听他如此问，神情依然平静",
-        "”    张御淡声道：“就凭御为玄廷巡护",
-        "”    张御道：“确有此事，根据东庭玄府查证，这事当是与两名来历尚未确定的修道人有关，当初这庞立所化混沌怪物曾在瑞光城中袭击我身边之人，最后此人被两名修道人带走了，可以看出，这三人之间有着一定关联"
+      "relationships": [
+        {
+          "target": "公孙绍",
+          "type": "调查与被调查"
+        },
+        {
+          "target": "许成通",
+          "type": "同道"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与公孙绍对话后，准备离开东庭前往青阳，被公孙绍拦截。"
+        }
+      ],
+      "evidence": [
+        "张御淡声道：“就凭御为玄廷巡护。”",
+        "张御在公孙邵离开后，也是思忖起来。",
+        "张御在把一切都是收拾妥当之后，便就离了居处，往泊舟天台方向而来"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "那弟子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "”    那弟子接过东西，重重一点头，退了出去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那弟子接过东西，重重一点头，退了出去",
-        "”    那弟子道：“项玄首派人来邀，想与守镇面谈",
-        "在不知过去多久后，那弟子呼唤他的声音又一次响起"
+      "name": "公孙绍",
+      "aliases": [
+        "公孙守镇"
       ],
-      "mention_count": 7
+      "identity": "守镇",
+      "faction": "玉京玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玉京玄府的守镇，受命调查张御与混沌怪物霍衡相关之事，持有玄尊赐予的纸符。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "谨慎",
+        "犹豫"
+      ],
+      "abilities": [],
+      "equipment": [
+        "纸符（玄尊所赐）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "调查者"
+        },
+        {
+          "target": "某玄尊",
+          "type": "受命于"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御对话后，试图拦截张御离开。"
+        }
+      ],
+      "evidence": [
+        "公孙绍目光依旧盯着他，道：“巡护凭何如此自信？”",
+        "没有人知道，他在来到东庭之前，曾被一位玄尊召见过。",
+        "公孙绍神情一变，喝道：“立刻用芒光传讯，封锁泊舟天台，把他们给我拦下来！”"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "倒也",
+      "name": "霍衡",
       "aliases": [],
-      "identity": "",
+      "identity": "混沌怪物",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "”    公孙绍道：“这二人身份巡护也不必避讳，我也知道，此前巡护曾与正清一脉余孽有所遭遇，若是此辈利用那庞立来对付巡护，倒也说得过去，这般不用自己出手，要是成事，也沾染不到自身",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾庇托于青阳上洲大能之下的混沌怪物，实力不明，可能来到东庭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    公孙绍道：“这二人身份巡护也不必避讳，我也知道，此前巡护曾与正清一脉余孽有所遭遇，若是此辈利用那庞立来对付巡护，倒也说得过去，这般不用自己出手，要是成事，也沾染不到自身",
-        "而那位大能在与竺玄首一战后，已是明确被战败了，那么霍衡自然也不会再待在青阳，若是来东庭这个天夏势力不及的偏远之地，倒也说得过去"
+      "relationships": [
+        {
+          "target": "青阳上洲大能",
+          "type": "曾庇托于"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他回",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "”    公孙绍对他打一个稽首，就自里走了出来，他回头看了那居处一眼，不禁摸了摸袖中藏着的一张纸符",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    公孙绍对他打一个稽首，就自里走了出来，他回头看了那居处一眼，不禁摸了摸袖中藏着的一张纸符",
-        "张御这时有所感应，他回头对青曙吩咐了一声，道：“你带所有人先上飞舟"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "那弟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "”    那弟子接过东西，重重一点头，退了出去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那弟子接过东西，重重一点头，退了出去",
-        "”    那弟子道：“项玄首派人来邀，想与守镇面谈",
-        "在不知过去多久后，那弟子呼唤他的声音又一次响起"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "好像",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
-        "只是这位并不像其他混沌怪物那般疯狂，好像一直在沉睡之中，但究竟是真的沉睡还是在摸索什么，他无从得知",
-        "看有许久之后，他身躯微微前倾，目光变得认真了一些，好像捕捉到了什么隐蔽的线索"
+        "凡是涉及到霍衡的事情，都没有那么简单",
+        "公孙绍说这位实力不明，那却也是一个大麻烦"
       ],
       "mention_count": 5
     },
     {
-      "name": "师父",
+      "name": "庞立",
       "aliases": [],
-      "identity": "",
+      "identity": "混沌怪物",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "而就在这个时候，有一个轻轻唤声传来，“师父，师父",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾袭击张御身边之人的混沌怪物，后被两名修道人带走。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "姬守镇的弟子",
+          "type": "相关"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "而就在这个时候，有一个轻轻唤声传来，“师父，师父",
-        "”    那弟子熟悉他的老师，知道这时候是不高兴了，他略略有些不安，可还是定住心神，将手中一封书信递上，道：“师父，一封玄廷来的传书",
-        "”    他退了出去，过了一会儿转了进来，道：“师父，守在那里师弟回报，方才这位张巡护带着役从和弟子从居处离开，还从玄府接了一位玄修，看去是准备都护府了，现在这个时候，当是在去往泊舟天台的路上"
+        "当初这庞立所化混沌怪物曾在瑞光城中袭击我身边之人"
       ],
-      "mention_count": 5
+      "mention_count": 3
     },
     {
-      "name": "若是",
+      "name": "姬守镇的弟子",
       "aliases": [],
-      "identity": "",
+      "identity": "混沌怪物",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "姬守镇的弟子，变成了混沌怪物，曾去找张御。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "姬守镇",
+          "type": "弟子"
+        },
+        {
+          "target": "庞立",
+          "type": "相关"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "公孙绍虽然用词之中说到“我们”，乍一听，好像是背后的玉京玄府在向他询问，可实际上，若是玉京玄府对他状态有所怀疑，那么此刻到来的，就绝不可能是公孙绍一个人了",
-        "”    公孙绍道：“这二人身份巡护也不必避讳，我也知道，此前巡护曾与正清一脉余孽有所遭遇，若是此辈利用那庞立来对付巡护，倒也说得过去，这般不用自己出手，要是成事，也沾染不到自身",
-        "他道：“公孙守镇若只是了解过去情由的，那么我可坦然告知，可若是来查证此事的，甚或想从同道身上查出些什么，那么需得拿出玄廷明敕"
+        "我听闻姬守镇的弟子也是变成了混沌怪物，后来此人又去找了尊驾？"
       ],
-      "mention_count": 4
+      "mention_count": 2
     },
     {
-      "name": "只是",
+      "name": "许成通",
       "aliases": [],
-      "identity": "",
+      "identity": "玄修",
       "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "只是若这真是公孙绍一个人或者背后某些人出于查证之意，那么就不怕他真的变成混沌怪物",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的同道，曾与庞立交手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同道"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "只是若这真是公孙绍一个人或者背后某些人出于查证之意，那么就不怕他真的变成混沌怪物",
-        "他道：“公孙守镇若只是了解过去情由的，那么我可坦然告知，可若是来查证此事的，甚或想从同道身上查出些什么，那么需得拿出玄廷明敕",
-        "我今天只是来问些话而已，张巡护如实说，那么彼此都能留下些情面，可若是这回没能得到什么可靠的结果，那么此事是不会这么轻易了结的，下回来问话之人，怕也没有在下这般好说话了，这想来也不是巡护希望看到的"
+        "巡护身边那位同道，既然曾与那庞立交过手"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "巡护",
+      "name": "青阳上洲大能",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十九章 传令",
-      "summary": "”    公孙绍目光依旧盯着他，道：“巡护凭何如此自信",
+      "identity": "大能",
+      "faction": "青阳上洲",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "堕入混沌之道的大能，曾庇托霍衡，与霜洲有关，被竺玄首战败。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "霍衡",
+          "type": "曾庇托"
+        },
+        {
+          "target": "竺玄首",
+          "type": "被战败"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    公孙绍目光依旧盯着他，道：“巡护凭何如此自信",
-        "”    张御淡声道：“就凭御为玄廷巡护",
-        "”    公孙绍道：“这二人身份巡护也不必避讳，我也知道，此前巡护曾与正清一脉余孽有所遭遇，若是此辈利用那庞立来对付巡护，倒也说得过去，这般不用自己出手，要是成事，也沾染不到自身"
+        "那个霍衡曾经庇托在青阳上洲那位大能之下",
+        "那位大能在与竺玄首一战后，已是明确被战败了"
       ],
-      "mention_count": 4
+      "mention_count": 2
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [],
+      "identity": "玄首",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与青阳上洲大能一战并战败之。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "青阳上洲大能",
+          "type": "战胜"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "那位大能在与竺玄首一战后，已是明确被战败了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "严鱼明",
+      "aliases": [],
+      "identity": "弟子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的弟子，随行前往青阳。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这次他除了带上几名造物役从，还有严鱼明和辛瑶二人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "辛瑶",
+      "aliases": [],
+      "identity": "弟子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的弟子，随行前往青阳。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这次他除了带上几名造物役从，还有严鱼明和辛瑶二人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "役从",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的造物役从，负责带领众人上飞舟。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "役从"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "张御这时有所感应，他回头对青曙吩咐了一声，道：“你带所有人先上飞舟。”"
+      ],
+      "mention_count": 1
     }
   ]
 }

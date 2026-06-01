@@ -1,0 +1,133 @@
+{
+  "chunk_id": "chunk-1062",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "郎君"
+      ],
+      "identity": "阴喜脉中兴之祖",
+      "faction": "阴喜脉",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与王传贞对抗的核心人物，能在人与诡状态间转换，拥有劫力等强大手段。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "人与诡状态转换",
+        "劫力",
+        "诡树根系"
+      ],
+      "equipment": [
+        "方天画戟（可化作大斧）"
+      ],
+      "relationships": [
+        {
+          "target": "王传贞",
+          "type": "敌对"
+        },
+        {
+          "target": "宋宪",
+          "type": "阴喜脉祖师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与王传贞在女娲牌坊世界中激战，毁去人种池。"
+        }
+      ],
+      "evidence": [
+        "苏午自身在人与诡的状态间不断转换",
+        "苏午今下转回人身",
+        "苏午也是阴喜脉弟子，郎君还是阴喜脉中兴之祖"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "王传贞",
+      "aliases": [
+        "传贞"
+      ],
+      "identity": "女娲牌坊世界中的存在，疑似神灵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午敌对，拥有娲皇灵韵，能招引白玉手指，曾点拨阴喜脉祖师宋宪。",
+      "appearance": [
+        "一身青衣，足点绣鞋"
+      ],
+      "personality": [
+        "诡诈狡猾"
+      ],
+      "abilities": [
+        "娲皇灵韵",
+        "招引白玉手指",
+        "化生为人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "宋宪",
+          "type": "点拨者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午激战，人种池被毁，化生为人的计划受阻。"
+        }
+      ],
+      "evidence": [
+        "王传贞一伸手，便似有无形的剪刀从天上裁剪下一片青色来，缝成合身的衣物",
+        "王传贞诡诈狡猾，其所言不能尽信",
+        "如非有王传贞的点拨，就没有宋宪成就‘阴喜灶王爷’的后来"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "宋宪",
+      "aliases": [
+        "阴喜灶王爷"
+      ],
+      "identity": "阴喜脉祖师",
+      "faction": "阴喜脉",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "阴喜脉祖师，曾受王传贞点拨而成就阴喜灶王爷。",
+      "appearance": [],
+      "personality": [
+        "痴迷于鬼狐故事"
+      ],
+      "abilities": [
+        "人初火种"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王传贞",
+          "type": "被点拨者"
+        },
+        {
+          "target": "苏午",
+          "type": "阴喜脉祖师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "受王传贞点拨，成就阴喜灶王爷，开创阴喜脉。"
+        }
+      ],
+      "evidence": [
+        "阴喜脉所谓祖师——‘宋宪’",
+        "如非有王传贞的点拨，就没有宋宪成就‘阴喜灶王爷’的后来"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

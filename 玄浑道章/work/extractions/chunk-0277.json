@@ -1,255 +1,306 @@
 {
   "chunk_id": "chunk-0277",
-  "title": "第五十章 青阳轮",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "青阳玄府玄正",
+      "faction": "青阳玄府",
       "status": "登场",
       "first_appearance": "第五十章 青阳轮",
-      "summary": "第五十章 青阳轮    张御出了学宫之后，一路往东南方向而来，待进入巨州的时候，已然是夜半时分了",
+      "summary": "青阳玄府玄正，前往鹤殿向竺玄首借取至宝青阳轮，并计划探查疑似灵关之地。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五十章 青阳轮    张御出了学宫之后，一路往东南方向而来，待进入巨州的时候，已然是夜半时分了",
-        "”    张御走了上来，在他面前的蒲团坐下，道：“方才我得一名道友告知，在青阳上洲南域，疑似发现了一处‘灵关’",
-        "”    张御道：“故我下来需亲自往去那里一趟，设方确认，不过这个消息怕是隐瞒不住多久，这一处灵关若是为真，那么必然会引来他人觊觎"
+      "personality": [
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 22
-    },
-    {
-      "name": "李摩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十章 青阳轮",
-      "summary": "李摩怀疑霜洲之人极可能是当年遗落两州之人，他也认可这个判断，因为对方明显掌握的本该是天夏才能拥有的造物技艺",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李摩怀疑霜洲之人极可能是当年遗落两州之人，他也认可这个判断，因为对方明显掌握的本该是天夏才能拥有的造物技艺",
-        "与此同时，李摩在离开开阳学宫之后，已是先一步乘坐飞舟回到了位于域外的驻地之中",
-        "李摩神情一沉，道：“丁溟，你这是做什么"
+      "abilities": [
+        "遁光飞行",
+        "使用印信慑服法宝"
       ],
-      "mention_count": 13
+      "equipment": [
+        "青阳轮",
+        "紫金袋",
+        "玄廷印信"
+      ],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "同门上下级"
+        },
+        {
+          "target": "李青禾",
+          "type": "主仆"
+        },
+        {
+          "target": "苏芊",
+          "type": "友人"
+        },
+        {
+          "target": "李摩",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜半",
+          "event": "出学宫前往安寿邑鹤殿见竺玄首"
+        },
+        {
+          "stage": "早食时分",
+          "event": "返回开阳学宫"
+        },
+        {
+          "stage": "返回后",
+          "event": "发现地库中神像热流，吸纳源能"
+        },
+        {
+          "stage": "半天后",
+          "event": "书写申书要求查看失落两州卷宗"
+        }
+      ],
+      "evidence": [
+        "张御出了学宫之后，一路往东南方向而来",
+        "张御走了上来，在他面前的蒲团坐下",
+        "张御在执书上签名落印之后，就将文卷拿了过来"
+      ],
+      "mention_count": 30
     },
     {
       "name": "竺玄首",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "玄首"
+      ],
+      "identity": "青阳玄府玄首",
+      "faction": "青阳玄府",
       "status": "登场",
       "first_appearance": "第五十章 青阳轮",
-      "summary": "他在天中对着竺玄首抬手一礼，而后一振衣袖，把光华散开，就在那鹤殿的平台之上缓缓飘落了下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他在天中对着竺玄首抬手一礼，而后一振衣袖，把光华散开，就在那鹤殿的平台之上缓缓飘落了下来",
-        "竺玄首看了看他，往旁处伸手一请，而后移步去了蒲团之上坐下，道：“玄正夤夜至此，想来是有什么重要之事了",
-        "”    竺玄首听到这句话，也是神情微动，道：“可能确认么"
+      "summary": "青阳玄府玄首，在鹤殿接见张御，借出至宝青阳轮，并承诺处理两府事务。",
+      "appearance": [
+        "遗世独立的身影"
       ],
-      "mention_count": 7
+      "personality": [
+        "沉稳",
+        "深谋远虑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "青阳轮"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同门上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜半",
+          "event": "在鹤殿与张御会面，借出青阳轮"
+        }
+      ],
+      "evidence": [
+        "竺玄首看了看他，往旁处伸手一请",
+        "竺玄首道：“玄正夤夜至此，想来是有什么重要之事了。”",
+        "竺玄首道：“那里若真是‘灵关’，两府那里我会去说”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "灵关",
+      "name": "李青禾",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的侍从",
       "faction": "",
       "status": "登场",
       "first_appearance": "第五十章 青阳轮",
-      "summary": "”    张御走了上来，在他面前的蒲团坐下，道：“方才我得一名道友告知，在青阳上洲南域，疑似发现了一处‘灵关’",
+      "summary": "张御的侍从，负责日常事务，向张御报告苏校尉派人送来古物雕像。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "细心",
+        "尽职"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御走了上来，在他面前的蒲团坐下，道：“方才我得一名道友告知，在青阳上洲南域，疑似发现了一处‘灵关’",
-        "”    张御道：“故我下来需亲自往去那里一趟，设方确认，不过这个消息怕是隐瞒不住多久，这一处灵关若是为真，那么必然会引来他人觊觎",
-        "我青阳玄府若是能掌握一处灵关，那我辈对外交通就无需再依赖两府了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "张御返回后",
+          "event": "向张御禀报温从副送来古物雕像一事"
+        }
+      ],
+      "evidence": [
+        "李青禾道：“正要禀告先生，先生昨日走后不久，苏校尉身边的温从副来了一趟”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "竺玄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "苏芊",
+      "aliases": [
+        "苏校尉"
+      ],
+      "identity": "光烨营校尉",
+      "faction": "光烨营",
+      "status": "提及",
       "first_appearance": "第五十章 青阳轮",
-      "summary": "他在天中对着竺玄首抬手一礼，而后一振衣袖，把光华散开，就在那鹤殿的平台之上缓缓飘落了下来",
+      "summary": "光烨营校尉，派人给张御送来古物雕像，并附信说明来源。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他在天中对着竺玄首抬手一礼，而后一振衣袖，把光华散开，就在那鹤殿的平台之上缓缓飘落了下来",
-        "竺玄首看了看他，往旁处伸手一请，而后移步去了蒲团之上坐下，道：“玄正夤夜至此，想来是有什么重要之事了",
-        "”    竺玄首听到这句话，也是神情微动，道：“可能确认么"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "友人"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "张御离开期间",
+          "event": "派人送来古物雕像"
+        }
+      ],
+      "evidence": [
+        "上面是苏芊的笔迹，说是这些东西光烨营近来负责讨伐的一个神国缴获上来的"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李摩",
+      "aliases": [
+        "李先生"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第五十章 青阳轮",
-      "summary": "他看了下来，忖道：“苏校尉这是直接把神庙里的神像搬来了么",
+      "summary": "玄府修士，怀疑霜洲之人是当年遗落两州之人，返回驻地时发现被霜洲人包围。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看了下来，忖道：“苏校尉这是直接把神庙里的神像搬来了么",
-        "”他看了一下周围，“怎么会有这么多霜洲的人"
+      "personality": [
+        "顽固",
+        "忠诚"
       ],
-      "mention_count": 6
+      "abilities": [],
+      "equipment": [
+        "飞舟"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        },
+        {
+          "target": "丁溟",
+          "type": "同驻地道友"
+        },
+        {
+          "target": "晶玉巨人（女性）",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "张御返回学宫后",
+          "event": "先一步返回域外驻地，发现被霜洲人包围"
+        }
+      ],
+      "evidence": [
+        "李摩在离开开阳学宫之后，已是先一步乘坐飞舟回到了位于域外的驻地之中",
+        "李摩神情一沉，道：“丁溟，你这是做什么？”",
+        "李摩沉默片刻，对方直接在他面前揭露了自己的来历"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "他现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十章 青阳轮",
-      "summary": "他现在上空转有一圈，见驻地之内人来人往，一如平常，心下微微放松，便驾驭飞舟往椭圆形建筑内部的泊台之上缓缓沉入下去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他现在上空转有一圈，见驻地之内人来人往，一如平常，心下微微放松，便驾驭飞舟往椭圆形建筑内部的泊台之上缓缓沉入下去",
-        "”    他很清楚，对方在这么多霜洲人的面前公开把这件事说出来，说明已是完全倒向霜洲了，他现在很是忧心驻地里其他同道的安危"
+      "name": "丁溟",
+      "aliases": [
+        "丁姓修士"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府修士（已倒向霜洲）",
+      "faction": "霜洲",
       "status": "登场",
       "first_appearance": "第五十章 青阳轮",
-      "summary": "”    李摩看着他，道：“我们驻地向来来去自在，从不拘束他人，我去哪里，又与你有什么关系呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    李摩看着他，道：“我们驻地向来来去自在，从不拘束他人，我去哪里，又与你有什么关系呢",
-        "丁姓修士沉默了一会儿，道：“李道友，这两天我们与一众道友商量了一下，已经决定，我们驻地依附霜洲，不知你的意思是什么",
-        "”    随着一声清晰悦耳的语声传来，一名身形纤细的晶玉巨人走了上来，她站在那里，居高临下的言道：“我想李先生应该早就猜到了我们的来历，我们虽然自称霜洲人，可原本我们与你们是一样"
+      "summary": "原玄府修士，现已倒向霜洲，在驻地中带领霜洲人包围李摩。",
+      "appearance": [
+        "双眸幽暗，面目秀美",
+        "衣袍暗沉华美，长发披在身后"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "一路",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十章 青阳轮",
-      "summary": "第五十章 青阳轮    张御出了学宫之后，一路往东南方向而来，待进入巨州的时候，已然是夜半时分了",
-      "appearance": [],
-      "personality": [],
+      "personality": [
+        "阴柔深沉"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "李摩",
+          "type": "同驻地道友（已决裂）"
+        },
+        {
+          "target": "晶玉巨人（女性）",
+          "type": "同盟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "李摩返回驻地时",
+          "event": "带领霜洲人包围李摩"
+        }
+      ],
       "evidence": [
-        "第五十章 青阳轮    张御出了学宫之后，一路往东南方向而来，待进入巨州的时候，已然是夜半时分了",
-        "半天之后，他感觉最后一缕热流进入自己身躯之内，这才起身，自地库之中走了出来，一路回到书房之内"
+        "他面前，则是站着一名双眸幽暗，面目秀美的年轻道人",
+        "丁姓修士没有回答他的问题，反而用幽暗的眸子看着他",
+        "丁姓修士沉默了一会儿，道：“李道友，这两天我们与一众道友商量了一下”"
       ],
       "mention_count": 4
     },
     {
-      "name": "而后",
+      "name": "晶玉巨人（女性）",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "霜洲人首领",
+      "faction": "霜洲",
       "status": "登场",
       "first_appearance": "第五十章 青阳轮",
-      "summary": "他在天中对着竺玄首抬手一礼，而后一振衣袖，把光华散开，就在那鹤殿的平台之上缓缓飘落了下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他在天中对着竺玄首抬手一礼，而后一振衣袖，把光华散开，就在那鹤殿的平台之上缓缓飘落了下来",
-        "竺玄首看了看他，往旁处伸手一请，而后移步去了蒲团之上坐下，道：“玄正夤夜至此，想来是有什么重要之事了",
-        "他把书信收了起来，走上前去，伸手按在了那座最为高大的神像之上，过有片刻，其身上出现了丝丝碎裂痕迹，而后轰然崩塌，落地化为了一堆灰尘"
+      "summary": "霜洲人首领，身形纤细的晶玉巨人，揭露霜洲人原本是天夏人，后被抛弃。",
+      "appearance": [
+        "身形纤细",
+        "晶玉外甲",
+        "赤红色晶目"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "张御道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十章 青阳轮",
-      "summary": "”    张御道：“故我下来需亲自往去那里一趟，设方确认，不过这个消息怕是隐瞒不住多久，这一处灵关若是为真，那么必然会引来他人觊觎",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“故我下来需亲自往去那里一趟，设方确认，不过这个消息怕是隐瞒不住多久，这一处灵关若是为真，那么必然会引来他人觊觎",
-        "”    张御道：“是有此意",
-        "”    张御道：“多谢玄首提醒，我记下了"
+      "personality": [
+        "厌烦"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十章 青阳轮",
-      "summary": "此时他方才看清，这是一只一人高的青色圆轮，此刻在那里转动不休，并时不时轻微的嗡嗡声响，明明是法器，给却给人一种生机旺盛，活力无限之感",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时他方才看清，这是一只一人高的青色圆轮，此刻在那里转动不休，并时不时轻微的嗡嗡声响，明明是法器，给却给人一种生机旺盛，活力无限之感",
-        "”    李青禾道：“正要禀告先生，先生昨日走后不久，苏校尉身边的温从副来了一趟，她送来了许多古物雕像，说这是苏校尉的战利品，自己留着无用，还占地方，又听闻先生喜欢，就给送来了，那些古物雕像之中有不少的确个头很大，厅中放不下，后来我便命人开",
-        "他看了下来，忖道：“苏校尉这是直接把神庙里的神像搬来了么"
+      "equipment": [
+        "晶玉外甲"
       ],
-      "mention_count": 4
+      "relationships": [
+        {
+          "target": "李摩",
+          "type": "敌对"
+        },
+        {
+          "target": "丁溟",
+          "type": "同盟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "李摩返回驻地时",
+          "event": "与丁溟一起包围李摩，并揭露霜洲人来历"
+        }
+      ],
+      "evidence": [
+        "一名身形纤细的晶玉巨人走了上来",
+        "晶玉巨人赤红色的晶目闪烁了一下",
+        "晶玉巨人语声中露出厌烦之意"
+      ],
+      "mention_count": 3
     }
   ]
 }

@@ -1,120 +1,162 @@
 {
   "chunk_id": "chunk-0430",
-  "title": "第两百零一章 内患",
   "characters": [
     {
-      "name": "恽尘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "到了这里之后，却是听说恽尘不久前收到了洲内一封来书，只是留下了几句之后，便就动身回去了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "到了这里之后，却是听说恽尘不久前收到了洲内一封来书，只是留下了几句之后，便就动身回去了",
-        "不过他却隐隐觉得，恽尘此番回去，或许并不是那么简单",
-        "而与此同时，恽尘此时也是回到了安寿郡玄府之中，他见明善道人正在此等候自己，忙是上来一礼，道：“明善师兄，不知这次急唤我回来是为何事"
+      "name": "张御",
+      "aliases": [
+        "张玄正"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "竺玄首",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄正",
+      "faction": "玄府",
       "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "”    恽尘整理了一下袍服，由正门进入台阁之内，而后腾身上了鹤殿，落定之后，一眼便见到竺玄首正端坐在蒲团之上",
+      "first_appearance": "",
+      "summary": "玄正，负责调查造物人事件，行事谨慎周密。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "周密"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "合作"
+        },
+        {
+          "target": "温良",
+          "type": "下属"
+        },
+        {
+          "target": "陈大匠",
+          "type": "询问对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从陈大匠处获得造物人名单，与曹度商议抓捕计划。"
+        }
+      ],
       "evidence": [
-        "”    恽尘整理了一下袍服，由正门进入台阁之内，而后腾身上了鹤殿，落定之后，一眼便见到竺玄首正端坐在蒲团之上",
-        "”    竺玄首道：“唤你回来，是有一事关照你，你仔细听好了",
-        "”    竺玄首抬头看了眼上方的大青榕，道：“我在此处镇守六十余载，是为秉承诺言看住一人，而今其人已然苏醒，我与此人一战势不可免，无论我们谁胜谁负，我必然再无法再回到此间，我已是向玄廷递交了呈书，我离去之后，当由你来承继玄首之位"
+        "张御对温良示意了一下，后者就将此书交到他手里。",
+        "张御拿过之后，稍稍翻了一下，就已全数记下，而后与温良离了牢舟。",
+        "张御思索一下，实际上他身为玄正，拥有先捕后问之权。"
       ],
       "mention_count": 12
     },
     {
-      "name": "张御",
+      "name": "温良",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御的下属",
+      "faction": "玄府",
       "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "第两百零一章 内患    大约半刻之后，温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书，转身递至张御面前，道：“玄正，都在此中了",
+      "first_appearance": "",
+      "summary": "张御的下属，协助执行任务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零一章 内患    大约半刻之后，温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书，转身递至张御面前，道：“玄正，都在此中了",
-        "张御对温良示意了一下，后者就将此书交到他手里",
-        "”    言罢，他就站起，起双手将这册书卷递给了张御"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从陈大匠处提取记忆并制成书卷。"
+        }
+      ],
+      "evidence": [
+        "温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书，转身递至张御面前。"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "竺玄",
+      "name": "陈大匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "大匠",
+      "faction": "天机院",
       "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "”    恽尘整理了一下袍服，由正门进入台阁之内，而后腾身上了鹤殿，落定之后，一眼便见到竺玄首正端坐在蒲团之上",
+      "first_appearance": "",
+      "summary": "提供造物人名单的大匠，对法术感兴趣。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "好奇"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    恽尘整理了一下袍服，由正门进入台阁之内，而后腾身上了鹤殿，落定之后，一眼便见到竺玄首正端坐在蒲团之上",
-        "”    竺玄首道：“唤你回来，是有一事关照你，你仔细听好了",
-        "”    竺玄首抬头看了眼上方的大青榕，道：“我在此处镇守六十余载，是为秉承诺言看住一人，而今其人已然苏醒，我与此人一战势不可免，无论我们谁胜谁负，我必然再无法再回到此间，我已是向玄廷递交了呈书，我离去之后，当由你来承继玄首之位"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被询问"
+        },
+        {
+          "target": "温良",
+          "type": "被提取记忆"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被温良提取记忆，提供造物人名单。"
+        }
+      ],
+      "evidence": [
+        "温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书。",
+        "陈大匠看了看，道：“这个法子倒是十分有趣，可否给老朽也看一眼？”"
+      ],
+      "mention_count": 5
     },
     {
       "name": "曹度",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "张御拿过之后，稍稍翻了一下，就已全数记下，而后与温良离了牢舟，他自己遁光行去，来至主舟之上，稍作通禀，就来至大厅之内，再度见到了曹度",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御拿过之后，稍稍翻了一下，就已全数记下，而后与温良离了牢舟，他自己遁光行去，来至主舟之上，稍作通禀，就来至大厅之内，再度见到了曹度",
-        "”    曹度拿了过来，大致翻了翻，凭借着身上神袍之力，他只是用了半个夏时，便将三千多人全数看了下来",
-        "”    曹度神情凝重，道：“方谕中，他竟然也是造物人么……”    他早就怀疑高层之中有人被造物替代了，他对许多人都怀疑，可没想到，这位大匠本身就是一个造物人"
+      "aliases": [
+        "曹将军"
       ],
-      "mention_count": 9
+      "identity": "将军",
+      "faction": "锐击军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "将军，与张御合作调查造物人事件。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "神袍"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "查看造物人名单，与张御商议抓捕计划。"
+        }
+      ],
+      "evidence": [
+        "曹度拿了过来，大致翻了翻，凭借着身上神袍之力，他只是用了半个夏时，便将三千多人全数看了下来。",
+        "曹度沉声道：“这些人也必须一起找了出来。”"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "弟子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "此刻他感觉气氛肃穆，心下微凛，稍定心绪，上来躬身一拜，道：“弟子拜见老师",
+      "name": "方谕中",
+      "aliases": [
+        "青阳天机院总院主"
+      ],
+      "identity": "青阳天机院总院主",
+      "faction": "天机院",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被怀疑是造物人的天机院高层。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -122,61 +164,130 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "此刻他感觉气氛肃穆，心下微凛，稍定心绪，上来躬身一拜，道：“弟子拜见老师",
-        "”    恽尘神情一肃，俯身言道：“老师请吩咐，弟子在此恭听",
-        "”    恽尘心中既是担忧又是沉重，不过对于自家老师的安排，他心中其实早有准备了，他躬身一拜，无比认真道：“弟子谨遵师命"
+        "据陈大匠交代，此人很可能也是造物人。",
+        "他怀疑此事和本身身为造物人的方谕中脱不了关系。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "恽尘",
+      "aliases": [
+        "少郎"
+      ],
+      "identity": "玄首弟子",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "竺玄首的弟子，被指定为下一任玄首。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "认真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "师徒"
+        },
+        {
+          "target": "明善道人",
+          "type": "同门"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被竺玄首召回，被告知将继承玄首之位。"
+        }
+      ],
+      "evidence": [
+        "恽尘整理了一下袍服，由正门进入台阁之内，而后腾身上了鹤殿。",
+        "竺玄首道：“我在此处镇守六十余载，是为秉承诺言看住一人，而今其人已然苏醒，我与此人一战势不可免，无论我们谁胜谁负，我必然再无法再回到此间，我已是向玄廷递交了呈书，我离去之后，当由你来承继玄首之位。”"
       ],
       "mention_count": 8
     },
     {
-      "name": "竺玄首道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "”    竺玄首道：“唤你回来，是有一事关照你，你仔细听好了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    竺玄首道：“唤你回来，是有一事关照你，你仔细听好了",
-        "”    竺玄首道：“你如今功行尚差了些许，不过你此前积累已是足够，我会传你一门道法，助你炼出元神照影，而此战不管胜负如何，我俱回将青阳轮送了出来，你手持此宝，当可坐稳此位",
-        "”    竺玄首道：“你且来我面前坐下"
+      "name": "竺玄首",
+      "aliases": [
+        "老师"
       ],
-      "mention_count": 6
+      "identity": "玄首",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳上洲玄首，即将与苏醒之人一战，传位给恽尘。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "青阳轮"
+      ],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知恽尘将传位，并助其提升功行。"
+        }
+      ],
+      "evidence": [
+        "竺玄首道：“我在此处镇守六十余载，是为秉承诺言看住一人，而今其人已然苏醒，我与此人一战势不可免。”",
+        "竺玄首道：“你如今功行尚差了些许，不过你此前积累已是足够，我会传你一门道法，助你炼出元神照影。”"
+      ],
+      "mention_count": 9
     },
     {
-      "name": "他躬",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明善道人",
+      "aliases": [
+        "明善师兄"
+      ],
+      "identity": "玄府道人",
+      "faction": "玄府",
       "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "”    恽尘心中既是担忧又是沉重，不过对于自家老师的安排，他心中其实早有准备了，他躬身一拜，无比认真道：“弟子谨遵师命",
+      "first_appearance": "",
+      "summary": "玄府道人，负责传话。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    恽尘心中既是担忧又是沉重，不过对于自家老师的安排，他心中其实早有准备了，他躬身一拜，无比认真道：“弟子谨遵师命",
-        "”    恽尘恍然，他躬身一礼，道：“多谢老师告知，弟子告退"
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "同门"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在安寿郡玄府等候恽尘，告知其玄首召见。"
+        }
+      ],
+      "evidence": [
+        "明善道人正在此等候自己，忙是上来一礼，道：“明善师兄，不知这次急唤我回来是为何事？”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "多谢",
+      "name": "韩时",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "待他清醒过来后，发现自己浑身气息澎湃，似只消稍稍运法，便可得破境关，他站了起来，躬身一拜，道：“多谢老师成全",
+      "identity": "大匠",
+      "faction": "天机院",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与霜洲制院有技艺交流的大匠，涉嫌通敌。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -184,73 +295,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "待他清醒过来后，发现自己浑身气息澎湃，似只消稍稍运法，便可得破境关，他站了起来，躬身一拜，道：“多谢老师成全",
-        "”    恽尘恍然，他躬身一礼，道：“多谢老师告知，弟子告退"
+        "根据之前翁大匠所言，还有陈大匠的交代，这里有一位名唤韩时的大匠，这人经常与霜洲制院有着技艺上的交流。"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "张御拿过之后，稍稍翻了一下，就已全数记下，而后与温良离了牢舟，他自己遁光行去，来至主舟之上，稍作通禀，就来至大厅之内，再度见到了曹度",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御拿过之后，稍稍翻了一下，就已全数记下，而后与温良离了牢舟，他自己遁光行去，来至主舟之上，稍作通禀，就来至大厅之内，再度见到了曹度",
-        "他想了想，道：“曹将军可按原定计议彻查锐击军，我先回洲内一趟，让玄府和检正司配合监察，谨防异动，我会先设法拿捕那些与霜洲有往来的大匠，若能拘捕此辈，或能问出一些东西来，而后再视情形而定",
-        "”    张御从曹度处告辞出来，先是把众修找来交代了一番，而后让万明道人和一些修士留下主持此间之事"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "老师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "此刻他感觉气氛肃穆，心下微凛，稍定心绪，上来躬身一拜，道：“弟子拜见老师",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此刻他感觉气氛肃穆，心下微凛，稍定心绪，上来躬身一拜，道：“弟子拜见老师",
-        "”    恽尘神情一肃，俯身言道：“老师请吩咐，弟子在此恭听",
-        "”    恽尘心中既是担忧又是沉重，不过对于自家老师的安排，他心中其实早有准备了，他躬身一拜，无比认真道：“弟子谨遵师命"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "温良",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零一章 内患",
-      "summary": "第两百零一章 内患    大约半刻之后，温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书，转身递至张御面前，道：“玄正，都在此中了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零一章 内患    大约半刻之后，温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书，转身递至张御面前，道：“玄正，都在此中了",
-        "张御对温良示意了一下，后者就将此书交到他手里",
-        "张御拿过之后，稍稍翻了一下，就已全数记下，而后与温良离了牢舟，他自己遁光行去，来至主舟之上，稍作通禀，就来至大厅之内，再度见到了曹度"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

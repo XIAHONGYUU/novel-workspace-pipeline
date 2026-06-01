@@ -1,256 +1,460 @@
 {
   "chunk_id": "chunk-0471",
-  "title": "第两百四十二章 阻截",
   "characters": [
     {
       "name": "乌制院",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "海岛天机院成员",
+      "faction": "海岛天机院",
       "status": "登场",
       "first_appearance": "第两百四十二章 阻截",
-      "summary": "第两百四十二章 阻截    海岛天机院中，乌制院和金大匠等人眼见恽尘端坐在那里，而乌子午同样也是站着不动，只有外面光芒闪烁不定，他们却是有些看不明白两人的举动了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百四十二章 阻截    海岛天机院中，乌制院和金大匠等人眼见恽尘端坐在那里，而乌子午同样也是站着不动，只有外面光芒闪烁不定，他们却是有些看不明白两人的举动了",
-        "乌制院不由疑惑问道：“魏护卫，这是在做什么",
-        "”    乌制院皱起眉头，道：“魏护卫，你能确定么"
+      "summary": "海岛天机院成员，拄拐杖，对恽尘拖延时间感到担忧。",
+      "appearance": [
+        "拄着拐杖"
       ],
-      "mention_count": 13
+      "personality": [
+        "谨慎",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "拐杖"
+      ],
+      "relationships": [
+        {
+          "target": "金大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "魏护卫",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天机院中观察恽尘与乌子午斗法，提议发传讯给总院派出造物甲士阻截援军。"
+        }
+      ],
+      "evidence": [
+        "乌制院不由疑惑问道：“魏护卫，这是在做什么？是在斗法么？”",
+        "乌制院拄着拐杖站起走来走了几步，神情凝重道：“不妥啊，要是被这么拖下去，万一玄府的援救赶到，怕是事情要出纰漏。”",
+        "乌制院道：“还是有办法的，”他对着魏护卫道：“我们可以发传讯给总院，让他派出造物甲士在玄府四周阻挡来人，能阻挡多久是多久，总是有一些用的。”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "乌制",
+      "name": "金大匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "海岛天机院成员",
+      "faction": "海岛天机院",
       "status": "登场",
       "first_appearance": "第两百四十二章 阻截",
-      "summary": "第两百四十二章 阻截    海岛天机院中，乌制院和金大匠等人眼见恽尘端坐在那里，而乌子午同样也是站着不动，只有外面光芒闪烁不定，他们却是有些看不明白两人的举动了",
+      "summary": "海岛天机院成员，与乌制院一同在场。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百四十二章 阻截    海岛天机院中，乌制院和金大匠等人眼见恽尘端坐在那里，而乌子午同样也是站着不动，只有外面光芒闪烁不定，他们却是有些看不明白两人的举动了",
-        "乌制院不由疑惑问道：“魏护卫，这是在做什么",
-        "”    乌制院皱起眉头，道：“魏护卫，你能确定么"
+      "relationships": [
+        {
+          "target": "乌制院",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天机院中观察恽尘与乌子午斗法。"
+        }
+      ],
+      "evidence": [
+        "海岛天机院中，乌制院和金大匠等人眼见恽尘端坐在那里"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "恽尘",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第两百四十二章 阻截",
+      "summary": "与乌子午斗法，被魏护卫认为是在拖延时间。",
+      "appearance": [
+        "端坐在那里"
+      ],
+      "personality": [],
+      "abilities": [
+        "心光与法力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌子午",
+          "type": "斗法对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天机院中与乌子午比拼心光与法力。"
+        }
+      ],
+      "evidence": [
+        "海岛天机院中，乌制院和金大匠等人眼见恽尘端坐在那里，而乌子午同样也是站着不动",
+        "魏护卫点头道：“是在斗法，这两人是在比拼心光与法力，不过我看得没错的话，这恽尘应该是在拖延时间。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "乌子午",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第两百四十二章 阻截",
+      "summary": "与恽尘斗法，站着不动。",
+      "appearance": [
+        "站着不动"
+      ],
+      "personality": [],
+      "abilities": [
+        "心光与法力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "斗法对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天机院中与恽尘比拼心光与法力。"
+        }
+      ],
+      "evidence": [
+        "乌子午同样也是站着不动"
+      ],
+      "mention_count": 1
     },
     {
       "name": "魏护卫",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "护卫",
+      "faction": "总院",
       "status": "登场",
       "first_appearance": "第两百四十二章 阻截",
-      "summary": "乌制院不由疑惑问道：“魏护卫，这是在做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "乌制院不由疑惑问道：“魏护卫，这是在做什么",
-        "”    魏护卫点头道：“是在斗法，这两人是在比拼心光与法力，不过我看得没错的话，这恽尘应该是在拖延时间",
-        "”    乌制院皱起眉头，道：“魏护卫，你能确定么"
+      "summary": "总院派来的护卫，对斗法有经验，认为恽尘在拖延时间。",
+      "appearance": [
+        "双臂环抱"
       ],
-      "mention_count": 8
+      "personality": [
+        "冷静",
+        "有经验"
+      ],
+      "abilities": [
+        "斗战经验"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌制院",
+          "type": "合作"
+        },
+        {
+          "target": "总院",
+          "type": "隶属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天机院中观察斗法，与乌制院争论是否联络总院。"
+        }
+      ],
+      "evidence": [
+        "魏护卫点头道：“是在斗法，这两人是在比拼心光与法力，不过我看得没错的话，这恽尘应该是在拖延时间。”",
+        "魏护卫双臂环抱，道：“那又能怎么样？我们在这里又做不了什么。”",
+        "魏护卫冷笑道：“这有些不妥吧，总院如果派出这些造物甲士，那就是正式与玄府翻脸了”"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "而后",
+      "name": "女师匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "师匠",
+      "faction": "总院",
       "status": "登场",
       "first_appearance": "第两百四十二章 阻截",
-      "summary": "造物蛟龙一般对这些没有灵性的微小生灵是不会理会的，通常这些东西也不会靠近，早就在它的灵性威慑下离开了，可是这一只小虫却是靠了上来，不过在较远的距离上，其忽然爆出了一阵光亮，而后就化了灰烬",
+      "summary": "随同魏护卫一同到来的女师匠，声称总院早有安排。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "淡漠"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "造物蛟龙一般对这些没有灵性的微小生灵是不会理会的，通常这些东西也不会靠近，早就在它的灵性威慑下离开了，可是这一只小虫却是靠了上来，不过在较远的距离上，其忽然爆出了一阵光亮，而后就化了灰烬",
-        "他将血丹拿了起来，而后一口吞服了下去",
-        "他努力呼吸了几口气，将这股焦躁灼热压了下去，而后将供案收拾了一下，自里走了出来"
+      "relationships": [
+        {
+          "target": "魏护卫",
+          "type": "同行"
+        },
+        {
+          "target": "总院",
+          "type": "隶属"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天机院中出声告知总院早有安排。"
+        }
+      ],
+      "evidence": [
+        "那个随同魏护卫一同到来的女师匠忽然出声道：“你们不必争了，总院对此早有安排了。”",
+        "那个女师匠一脸淡漠道：“是。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "男师匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "师匠",
+      "faction": "总院",
       "status": "登场",
       "first_appearance": "第两百四十二章 阻截",
-      "summary": "我只是想请魏护卫代为联络，是不是选择出手，还在于总院",
+      "summary": "随同魏护卫一同到来的男师匠，对乌制院提出质疑。",
+      "appearance": [],
+      "personality": [
+        "嘲讽"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魏护卫",
+          "type": "同行"
+        },
+        {
+          "target": "总院",
+          "type": "隶属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天机院中笑着质问乌制院。"
+        }
+      ],
+      "evidence": [
+        "那个男师匠笑道：“乌制院，你莫非对总院的安排有什么不同意见？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "唐丰",
+      "aliases": [],
+      "identity": "道观弟子",
+      "faction": "凤湘岭道观",
+      "status": "登场",
+      "first_appearance": "第两百四十二章 阻截",
+      "summary": "白秀的弟子，奉师祖之命服下血丹，准备前往玄府阻截他人。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "决然"
+      ],
+      "abilities": [
+        "血遁之术"
+      ],
+      "equipment": [
+        "血丹"
+      ],
+      "relationships": [
+        {
+          "target": "白秀",
+          "type": "师徒"
+        },
+        {
+          "target": "元童老祖",
+          "type": "师祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在道观中服下血丹，交代道童后前往安寿郡。"
+        }
+      ],
+      "evidence": [
+        "凤湘岭道观，唐丰打坐一夜之后，从蒲团之上站了起来",
+        "他深吸了一口气，道：“血丹。”",
+        "他将血丹拿了起来，而后一口吞服了下去。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "白秀",
+      "aliases": [],
+      "identity": "道观老师",
+      "faction": "凤湘岭道观",
+      "status": "已故",
+      "first_appearance": "第两百四十二章 阻截",
+      "summary": "唐丰的老师，已故，牌位在道观后堂。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我只是想请魏护卫代为联络，是不是选择出手，还在于总院",
-        "只是这里面的拿捏也十分要紧，因为丹精之气什么时候耗尽服丹之人很难感觉到，万一施法太过，一不小心，御法之人就会爆血而亡",
-        "他交代过后，便出了道观，压住丹气，只是挪转自身法力，便驾起一团云雾往安寿郡方向过来"
+      "relationships": [
+        {
+          "target": "唐丰",
+          "type": "师徒"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "已故，留下牌位。"
+        }
+      ],
+      "evidence": [
+        "他对着自家老师白秀的牌位一拜"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "元童老祖",
+      "aliases": [],
+      "identity": "老祖",
+      "faction": "未知",
+      "status": "被擒",
+      "first_appearance": "第两百四十二章 阻截",
+      "summary": "被擒捉的老祖，留下血丹。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "唐丰",
+          "type": "师祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被擒捉，留下血丹。"
+        }
+      ],
+      "evidence": [
+        "这是当年元童老祖被擒捉之后所留下的一枚丹药。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "中年文士",
+      "aliases": [],
+      "identity": "观察使",
+      "faction": "当州",
+      "status": "登场",
+      "first_appearance": "第两百四十二章 阻截",
+      "summary": "当州观察使，关心灵妙玄境之事，请姑母帮忙。",
+      "appearance": [],
+      "personality": [
+        "正直",
+        "洒脱"
+      ],
+      "abilities": [],
+      "equipment": [
+        "折扇"
+      ],
+      "relationships": [
+        {
+          "target": "白衣女子",
+          "type": "姑侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在宅邸中阅读报书，与白衣女子商议，请其去玄境传话。"
+        }
+      ],
+      "evidence": [
+        "当州，一座寻常宅邸内，中年文士神情肃然看着一封封传来的报书",
+        "中年文士思索良久，用折扇敲了敲案几，抬头道：“姑母，小侄想请你帮个忙。”",
+        "中年文士洒脱一笑，道：“那又如何，大不了我这观察使不做，回老家教书就是了。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "白衣女子",
+      "aliases": [],
+      "identity": "修道之人",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第两百四十二章 阻截",
+      "summary": "中年文士的姑母，修道之人，答应帮忙去玄境传话。",
+      "appearance": [
+        "白衣"
+      ],
+      "personality": [
+        "沉稳"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "中年文士",
+          "type": "姑侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在宅邸中与中年文士交谈，答应去玄境传话。"
+        }
+      ],
+      "evidence": [
+        "白衣女子自外面走进来，忙是站起，施了一礼，问道：“姑母，如何了？”",
+        "白衣女子道：“嗯，我明白了，”她站了起来，看了看中年文士，点头道：“这个时候，你才觉得不是当年的小童了，而是有点像兄长了。”"
+      ],
+      "mention_count": 4
     },
     {
       "name": "张御",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府成员",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百四十二章 阻截",
-      "summary": "”    张御这一次全力飞驰，一抹青虹如疾光飞射，遁光过处，轰雷般的声音响彻云霄，只是一个夏时不到，他就已是飞遁入了洲域之内，再下去至多半个夏时就可遁至玄府之中",
+      "summary": "玄府成员，全力飞驰回玄府，途中遭遇造物蛟龙和血色遁光阻截。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御这一次全力飞驰，一抹青虹如疾光飞射，遁光过处，轰雷般的声音响彻云霄，只是一个夏时不到，他就已是飞遁入了洲域之内，再下去至多半个夏时就可遁至玄府之中",
-        "本来张御有玄正印信，蛟龙稍加辨别，便会避让开来，可是现在不知道是何缘故，它们对于印信无法做出准确的判断，故是直接把他当成了入侵青阳上洲的敌人来对待",
-        "张御目光一扫之下，就知道这些造物蛟龙有问题，不过他根本不去理会，因为这些造物蛟龙在他眼里实在太慢了，每见一头上来，把稍稍遁光一疾，就轻易越了过去，只是一眨眼的工夫，那蛟龙就被他甩的不见踪影了"
+      "personality": [
+        "果断"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "魏护",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十二章 阻截",
-      "summary": "乌制院不由疑惑问道：“魏护卫，这是在做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
+      "abilities": [
+        "飞遁",
+        "心光",
+        "剑术"
+      ],
+      "equipment": [
+        "蝉鸣剑"
+      ],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "飞遁回玄府途中，被造物蛟龙追逐，后遭遇血色遁光阻截，掷出飞剑并展开星河双翼。"
+        }
+      ],
       "evidence": [
-        "乌制院不由疑惑问道：“魏护卫，这是在做什么",
-        "”    魏护卫点头道：“是在斗法，这两人是在比拼心光与法力，不过我看得没错的话，这恽尘应该是在拖延时间",
-        "”    乌制院皱起眉头，道：“魏护卫，你能确定么"
+        "张御这一次全力飞驰，一抹青虹如疾光飞射",
+        "张御目光一扫之下，就知道这些造物蛟龙有问题",
+        "张御在掷出飞剑之后，没有再急着往前飞驰，而是停了下来，眸光一转，看向了那血色遁光，与此同时，天穹上方光芒骤亮，一对有若灿烂星河的双翼霎时蔽张百里！"
       ],
       "mention_count": 6
-    },
-    {
-      "name": "总院",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十二章 阻截",
-      "summary": "”    乌制院道：“还是有办法的，”他对着魏护卫道：“我们可以发传讯给总院，让他派出造物甲士在玄府四周阻挡来人，能阻挡多久是多久，总是有一些用的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    乌制院道：“还是有办法的，”他对着魏护卫道：“我们可以发传讯给总院，让他派出造物甲士在玄府四周阻挡来人，能阻挡多久是多久，总是有一些用的",
-        "”    魏护卫冷笑道：“这有些不妥吧，总院如果派出这些造物甲士，那就是正式与玄府翻脸了，而且这是总院交予你们的事情，怎么又去牵扯到总院头上了",
-        "”    乌制院并不放弃，目光灼灼看着他道：“已经到了这一步，总院也不希望看到我们失败吧"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他对",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十二章 阻截",
-      "summary": "”    乌制院道：“还是有办法的，”他对着魏护卫道：“我们可以发传讯给总院，让他派出造物甲士在玄府四周阻挡来人，能阻挡多久是多久，总是有一些用的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    乌制院道：“还是有办法的，”他对着魏护卫道：“我们可以发传讯给总院，让他派出造物甲士在玄府四周阻挡来人，能阻挡多久是多久，总是有一些用的",
-        "凤湘岭道观，唐丰打坐一夜之后，从蒲团之上站了起来，他推门出来，来到了后堂之上，他对着自家老师白秀的牌位一拜，道：“老师，恕弟子无状"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "它们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十二章 阻截",
-      "summary": "各州郡上空有许多这样的造物蛟龙，它们负责洲内天空之上的守御，若是不曾在录册上有载的人或是造物在洲内空域之上飞遁，那么它们就会上前阻截",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "各州郡上空有许多这样的造物蛟龙，它们负责洲内天空之上的守御，若是不曾在录册上有载的人或是造物在洲内空域之上飞遁，那么它们就会上前阻截",
-        "而此时此刻，不止是这里，位于西面空域的数条蛟龙都是遇到了这样的虫豸，不过接下来它们一如既往的在天中巡游着，似乎与往日也没什么不同",
-        "本来张御有玄正印信，蛟龙稍加辨别，便会避让开来，可是现在不知道是何缘故，它们对于印信无法做出准确的判断，故是直接把他当成了入侵青阳上洲的敌人来对待"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "便出",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十二章 阻截",
-      "summary": "上一次在海岛之外，那供案之前有金字照下，告知了他这里有一枚这样的丹丸，让他服下此丹，并到玄府附近等候着，若见玄府外有禁制升起，便出手阻挡任何人靠近此处",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "上一次在海岛之外，那供案之前有金字照下，告知了他这里有一枚这样的丹丸，让他服下此丹，并到玄府附近等候着，若见玄府外有禁制升起，便出手阻挡任何人靠近此处",
-        "他交代过后，便出了道观，压住丹气，只是挪转自身法力，便驾起一团云雾往安寿郡方向过来"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "中年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十二章 阻截",
-      "summary": "当州，一座寻常宅邸内，中年文士神情肃然看着一封封传来的报书，这时他见白衣女子自外面走进来，忙是站起，施了一礼，问道：“姑母，如何了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当州，一座寻常宅邸内，中年文士神情肃然看着一封封传来的报书，这时他见白衣女子自外面走进来，忙是站起，施了一礼，问道：“姑母，如何了",
-        "”    中年文士思索良久，用折扇敲了敲案几，抬头道：“姑母，小侄想请你帮个忙",
-        "”    中年文士道：“虽然我无法插手此间之事，但是姑母却不在此列，故小侄想请姑母出面去往玄境一行，告知那些玄境之内的道长一些事"
-      ],
-      "mention_count": 4
     }
   ]
 }

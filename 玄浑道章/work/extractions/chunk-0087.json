@@ -1,256 +1,338 @@
 {
   "chunk_id": "chunk-0087",
-  "title": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
   "characters": [
     {
-      "name": "许英",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "项淳",
+      "aliases": [
+        "项师兄"
+      ],
+      "identity": "玄府高层",
+      "faction": "玄府",
       "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "”    许英没好气道：“他以为神明化身是路边的野草么",
+      "first_appearance": "",
+      "summary": "玄府高层，负责决策，与许英商议应对姚公府的要求。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    许英没好气道：“他以为神明化身是路边的野草么",
-        "”    许英怒道：“这怎么可以",
-        "”    许英诧异道：“他们"
+      "relationships": [
+        {
+          "target": "许英",
+          "type": "师兄弟"
+        },
+        {
+          "target": "姚公府",
+          "type": "交涉对象"
+        }
       ],
-      "mention_count": 18
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许英商议派遣弟子护卫衙署长吏之事。"
+        }
+      ],
+      "evidence": [
+        "项淳沉声道：“按照他的意思，若是无法保护衙署诸公的安危，那么他就去把神尉军请出来。”",
+        "项淳十分冷静判断着，道：“所以我想来想去，可先让这几年进入玄府的弟子去往各个衙署。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "许英",
+      "aliases": [
+        "许师伯",
+        "师弟"
+      ],
+      "identity": "玄府高层",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府高层，与项淳商议事务，对姚公府的要求不满。",
+      "appearance": [],
+      "personality": [
+        "急躁",
+        "有主见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄弟"
+        },
+        {
+          "target": "张御",
+          "type": "师兄弟"
+        },
+        {
+          "target": "季家少郎",
+          "type": "看重"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与项淳商议，并去密室指点年轻文士。"
+        }
+      ],
+      "evidence": [
+        "许英没好气道：“他以为神明化身是路边的野草么？”",
+        "许英道：“这些师兄你说了算。”"
+      ],
+      "mention_count": 10
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "”    他无所谓项淳给张御多少章印，就算全都给了出去他也不介意，因为一个人一生神元有数，你拿的再多，寻不到玄机也没有任何用处",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他无所谓项淳给张御多少章印，就算全都给了出去他也不介意，因为一个人一生神元有数，你拿的再多，寻不到玄机也没有任何用处",
-        "而且在他看来，张御再怎么修炼，也是比不上季家少郎的",
-        "张御现在越强，对他的计划越有利"
+      "aliases": [
+        "张师弟",
+        "御"
       ],
-      "mention_count": 14
+      "identity": "玄府弟子，司吏衙署从事",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府弟子，已修成真胎之印，斩杀神明化身，现向范澜请教玄机。",
+      "appearance": [
+        "身上有光芒微微闪烁着"
+      ],
+      "personality": [
+        "谨慎",
+        "好学"
+      ],
+      "abilities": [
+        "真胎之印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "范澜",
+          "type": "师兄弟"
+        },
+        {
+          "target": "蒋定易",
+          "type": "同僚"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在司吏衙署后花苑感悟，后返回学宫居处，再往玄府向范澜请教玄机。"
+        }
+      ],
+      "evidence": [
+        "张御站在一条潺潺流淌的溪流旁边，身上有光芒微微闪烁着。",
+        "张御点头道：“也是侥幸，御已然修成真胎之印。”",
+        "张御抬袖而起，双手一合，揖礼道：“敢问范师兄，何谓玄机？”"
+      ],
+      "mention_count": 12
     },
     {
       "name": "范澜",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "他认为这样的感觉绝不会是无缘无故的，故是经过一番考虑后，决定回去玄府，向范澜请教一二",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他认为这样的感觉绝不会是无缘无故的，故是经过一番考虑后，决定回去玄府，向范澜请教一二",
-        "待到了玄府后，他直接就来找寻范澜",
-        "范澜此刻正巧在此指点弟子，他在外等了一会儿，待诸弟子都是离开，才是走了进来"
+      "aliases": [
+        "范师兄"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "项淳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府弟子，指点他人",
+      "faction": "玄府",
       "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "项淳沉声道：“按照他的意思，若是无法保护衙署诸公的安危，那么他就去把神尉军请出来",
+      "first_appearance": "",
+      "summary": "玄府弟子，曾给张御真胎之印，对张御修成感到惊喜。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "热情",
+        "惊喜"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师兄弟"
+        },
+        {
+          "target": "项淳",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄府指点弟子，后与张御交谈，得知其修成真胎之印。"
+        }
+      ],
       "evidence": [
-        "项淳沉声道：“按照他的意思，若是无法保护衙署诸公的安危，那么他就去把神尉军请出来",
-        "项淳十分冷静判断着，道：“所以我想来想去，可先让这几年进入玄府的弟子去往各个衙署",
-        "”    项淳抬目看向他，道：“你我知道，姚公府他不知道，师弟你也说了，神明化身不是那么容易碰到的"
+        "范澜一眼就看到了他身上泛动着光亮，露出了惊讶之色",
+        "范澜惊喜异常，他在交给张御这枚上乘章印的时候，还担心后者会陷入这个深坑中"
       ],
       "mention_count": 6
     },
     {
-      "name": "年轻",
+      "name": "姚公府",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "这里坐着的是一个二十上下的年轻文士，他此时正拿着一卷玉册在翻着什么，只他面上却戴着一个面具，无法见到具体容貌，见到许英进来，他站起来一礼，道：“许师伯",
+      "identity": "都护府官员",
+      "faction": "都护府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "都护府官员，要求玄府派人护卫衙署长吏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这里坐着的是一个二十上下的年轻文士，他此时正拿着一卷玉册在翻着什么，只他面上却戴着一个面具，无法见到具体容貌，见到许英进来，他站起来一礼，道：“许师伯",
-        "”    年轻文士道：“都按照师伯的吩咐做了",
-        "”    年轻文士执礼道：“师侄这里的确有一个疑惑"
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "交涉对象"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向玄府提出护卫要求。"
+        }
+      ],
+      "evidence": [
+        "他收回思绪，道：“姚公府的意思是希望我们能派出更多人护卫各衙署的长吏”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "年轻文",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "这里坐着的是一个二十上下的年轻文士，他此时正拿着一卷玉册在翻着什么，只他面上却戴着一个面具，无法见到具体容貌，见到许英进来，他站起来一礼，道：“许师伯",
+      "name": "蒋定易",
+      "aliases": [
+        "蒋从事"
+      ],
+      "identity": "司吏衙署从事",
+      "faction": "都护府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "司吏衙署从事，被张御保护。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这里坐着的是一个二十上下的年轻文士，他此时正拿着一卷玉册在翻着什么，只他面上却戴着一个面具，无法见到具体容貌，见到许英进来，他站起来一礼，道：“许师伯",
-        "”    年轻文士道：“都按照师伯的吩咐做了",
-        "”    年轻文士执礼道：“师侄这里的确有一个疑惑"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被保护"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已回到衙署，短期内不会外出。"
+        }
+      ],
+      "evidence": [
+        "现在宣讲结束，蒋定易已是回到了衙署中"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的随从，照顾妙丹君。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御报告妙丹君在睡觉。"
+        }
+      ],
+      "evidence": [
+        "李青禾道：“自先生上回离开后，妙丹君就在睡觉，一连睡了好几日了。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "小豹锚（宠物）",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的宠物，处于幼生期，正在睡觉成长。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在高篮上睡觉，已睡了好几日。"
+        }
+      ],
+      "evidence": [
+        "却发现妙丹君正在高篮上睡觉。",
+        "这只小豹锚其实还处于幼生期，本来就该保持着长时期的睡眠。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "年轻文士",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "季家少郎"
+      ],
+      "identity": "玄府弟子，许英的师侄",
+      "faction": "玄府",
       "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "这里坐着的是一个二十上下的年轻文士，他此时正拿着一卷玉册在翻着什么，只他面上却戴着一个面具，无法见到具体容貌，见到许英进来，他站起来一礼，道：“许师伯",
-      "appearance": [],
-      "personality": [],
+      "first_appearance": "",
+      "summary": "许英重点培养的弟子，神元天生盈满，有望观读第二章书。",
+      "appearance": [
+        "二十上下的年轻文士，面上戴着一个面具"
+      ],
+      "personality": [
+        "恭敬",
+        "好学"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "面具"
+      ],
+      "relationships": [
+        {
+          "target": "许英",
+          "type": "师伯师侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在密室中与许英交谈，询问修炼疑惑。"
+        }
+      ],
       "evidence": [
-        "这里坐着的是一个二十上下的年轻文士，他此时正拿着一卷玉册在翻着什么，只他面上却戴着一个面具，无法见到具体容貌，见到许英进来，他站起来一礼，道：“许师伯",
-        "”    年轻文士道：“都按照师伯的吩咐做了",
-        "”    年轻文士执礼道：“师侄这里的确有一个疑惑"
+        "这里坐着的是一个二十上下的年轻文士，他此时正拿着一卷玉册在翻着什么，只他面上却戴着一个面具",
+        "年轻文士道：“师侄近来一直按照师伯关照，接连观读那‘意印”之章”"
       ],
       "mention_count": 6
-    },
-    {
-      "name": "也就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了",
-        "他有些犹豫道：“这，师兄，会不会……”    项淳沉声道：“这是最好的办法了，左右先挺过这段日子，等我们抽调出人手来，也就不用担忧了，况且经过了这一回事，也没有几个都堂官吏会敢随便往外走了，若是真有人出行，只要不出瑞光城，我会亲自盯着的，所"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "玄府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了",
-        "”    玄府中凡是能观读到大道第二章书的修士，有一个算一个，都是玄府的精英，每一人都在关键位置上",
-        "”    神尉军的这次退缩，是他们长期以来的骄横让都护府也感到不满了，所以与玄府联合起来打压，很是被剥夺了一些权柄"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "每一人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "”    玄府中凡是能观读到大道第二章书的修士，有一个算一个，都是玄府的精英，每一人都在关键位置上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    玄府中凡是能观读到大道第二章书的修士，有一个算一个，都是玄府的精英，每一人都在关键位置上",
-        "”    许英道：“以一印之长而窥破玄机，那固然是前人智慧，可也是无奈之下的取巧，是庸人之法，每一人身躯根基不同，打破障碍之后，所得成就自也不同"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "项淳沉声道：“按照他的意思，若是无法保护衙署诸公的安危，那么他就去把神尉军请出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "项淳沉声道：“按照他的意思，若是无法保护衙署诸公的安危，那么他就去把神尉军请出来",
-        "他有些犹豫道：“这，师兄，会不会……”    项淳沉声道：“这是最好的办法了，左右先挺过这段日子，等我们抽调出人手来，也就不用担忧了，况且经过了这一回事，也没有几个都堂官吏会敢随便往外走了，若是真有人出行，只要不出瑞光城，我会亲自盯着的，所",
-        "若是张御真能观读了这些章印，他反而乐于见到"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二章的可能性十分之微小，也就眼下这一阶段能为玄府所用了。",
-      "summary": "何况现在他们还在准备做一件事，那更是不能轻易动用了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "何况现在他们还在准备做一件事，那更是不能轻易动用了",
-        "”    神尉军的这次退缩，是他们长期以来的骄横让都护府也感到不满了，所以与玄府联合起来打压，很是被剥夺了一些权柄",
-        "他们近段日子所付出的努力岂不就是白费了"
-      ],
-      "mention_count": 4
     }
   ]
 }

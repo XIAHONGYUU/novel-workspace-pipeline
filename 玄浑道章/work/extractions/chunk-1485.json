@@ -1,253 +1,170 @@
 {
   "chunk_id": "chunk-1485",
-  "title": "第六十三章 渡星入元空",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张正使"
+      ],
+      "identity": "天夏正使",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十三章 渡星入元空",
-      "summary": "第六十三章 渡星入元空    从元夏飞舟出来后，张御安然回到了自家金舟之上",
+      "summary": "天夏正使，摘取上乘功果的修道人，代表天夏出使元夏元上殿。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十三章 渡星入元空    从元夏飞舟出来后，张御安然回到了自家金舟之上",
-        "张御乃是摘取上乘功果得修道人，自然不至于被一座日星所难住，但是金舟和他手下之人可没有这等本事，若是其单纯用法力遮护，所也能过去，可到时候恐怕是会吃一个暗亏的",
-        "虽然蔡司议和他们没什么特别的交情，可被张御打灭他们心中也是有些不舒服的，故而他们很是乐意看到那般场景"
+      "personality": [
+        "谨慎",
+        "强势",
+        "冷静"
       ],
-      "mention_count": 13
+      "abilities": [
+        "心光遮护",
+        "真虚晷操控"
+      ],
+      "equipment": [
+        "金舟",
+        "真虚晷"
+      ],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "下属"
+        },
+        {
+          "target": "过蝾",
+          "type": "接待者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从元夏飞舟出来，回到自家金舟，随后跟随指引飞舟穿越日星和天壁，抵达元上顶东始天。"
+        }
+      ],
+      "evidence": [
+        "张御乃是摘取上乘功果得修道人",
+        "张御安然回到了自家金舟之上",
+        "张御道：'不知这处是哪里？'"
+      ],
+      "mention_count": 15
     },
     {
-      "name": "金舟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "许成通",
+      "aliases": [
+        "许执事"
+      ],
+      "identity": "金舟上的执事",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十三章 渡星入元空",
-      "summary": "第六十三章 渡星入元空    从元夏飞舟出来后，张御安然回到了自家金舟之上",
+      "summary": "张御手下执事，负责操作真虚晷。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十三章 渡星入元空    从元夏飞舟出来后，张御安然回到了自家金舟之上",
-        "金舟跟随着前面的指引飞舟往虚空深处行去，约是再过一日之后，便见得前方一个巨大的日星，而指引飞舟却是去势不变，直接就往这个熔炉一般日星之中飞驰过去",
-        "金舟亦是随后跟上，但是还未等靠近那座日星，一股无边烘热之气伴随着灼热的光芒就落到了舟身之上"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "应张御吩咐转动真虚晷。"
+        }
+      ],
+      "evidence": [
+        "张御向后吩咐道：'许执事，转动‘真虚晷’。'",
+        "许成通应有一声"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十三章 渡星入元空",
-      "summary": "第六十三章 渡星入元空    从元夏飞舟出来后，张御安然回到了自家金舟之上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十三章 渡星入元空    从元夏飞舟出来后，张御安然回到了自家金舟之上",
-        "他猜测应该元夏上层的态度有所改变，不知道是什么原因，但是能去到元上殿亲自观察一下总是好的",
-        "左右两侧及后方的元夏飞舟之中，那些元上殿司议都是玩味的看着"
+      "name": "过蝾",
+      "aliases": [
+        "过修士"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "似是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元上殿修士，负责接待张御",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第六十三章 渡星入元空",
-      "summary": "张御这时感觉到飞舟沉陷入一片虚无之中，似是下一刻就飘荡起来或是从某处抛离出去，感应到这一点后，他立刻又将真虚晷一拨，将金舟又转至实质一面",
+      "summary": "奉过司议之命前来负责招呼张御一行。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "自傲"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "接待者"
+        },
+        {
+          "target": "过司议",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从指引飞舟下来，上金舟与张御交谈，并引导其下舟换乘飞车。"
+        }
+      ],
       "evidence": [
-        "张御这时感觉到飞舟沉陷入一片虚无之中，似是下一刻就飘荡起来或是从某处抛离出去，感应到这一点后，他立刻又将真虚晷一拨，将金舟又转至实质一面",
-        "半天之后，舟队来到了一处尤为庞大的天岳之前，远望观去，似是点缀着无数细密繁杂的金蓝色光芒",
-        "有此物做为参照，便连舟队此刻急驱向前，感官之中也好似是静止不动的"
+        "在下过蝾，乃奉过司议之命，前来负责招呼张正使一行。",
+        "过修士道：'这里张正使可以称之位元上顶'"
       ],
       "mention_count": 5
     },
     {
-      "name": "那是",
+      "name": "蔡司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "提及",
       "first_appearance": "第六十三章 渡星入元空",
-      "summary": "金舟渡过日星，当中一点滞涩都是没有，真虚之转都是在金舟自身内部完成的，单从外表来看，那是一直没有什么变化的",
+      "summary": "元上殿司议之一，与张御有交情，但被其他司议打灭心中不舒服。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "有交情"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "金舟渡过日星，当中一点滞涩都是没有，真虚之转都是在金舟自身内部完成的，单从外表来看，那是一直没有什么变化的",
-        "他们是清楚的，这日星其实是阵器，他们所驾驭的元夏巨舟同样也是阵器，犹如幼子入母怀，方能显得契合无比，要是陡然来一个外人，那是肯定要排斥的，这无关乎天夏技艺高明与否，只是双方在根源上并不相通",
-        "”    过修士撇了一眼，笑道：“那里啊，那是我元上殿圈养人种之所在"
+        "虽然蔡司议和他们没什么特别的交情，可被张御打灭他们心中也是有些不舒服的"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "在下",
+      "name": "过司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "提及",
       "first_appearance": "第六十三章 渡星入元空",
-      "summary": "所有人都是隐去不见，金舟在下一刻，就进入了那一层热浪之中，但因为虚无一面朝向世间，所以即便未用外力护持，整个飞舟也是无有任何损伤",
+      "summary": "过蝾的上级，负责安排张御一行。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "过蝾",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "所有人都是隐去不见，金舟在下一刻，就进入了那一层热浪之中，但因为虚无一面朝向世间，所以即便未用外力护持，整个飞舟也是无有任何损伤",
-        "这修士来到金舟之前，经通禀之后上得舟来，来到主舱之中，见到张御，便躬身一礼，道：“在下过蝾，乃奉过司议之命，前来负责招呼张正使一行",
-        "”    过修士道：“哪里，哪里，在下也只是奉命行事，下来招呼若有不周，还望张正使莫要见怪"
+        "在下过蝾，乃奉过司议之命"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "过修",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十三章 渡星入元空",
-      "summary": "”    过修士道：“这里张正使可以称之位元上顶，在此最高之处便是诸司议所居之地，元上殿所在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    过修士道：“这里张正使可以称之位元上顶，在此最高之处便是诸司议所居之地，元上殿所在",
-        "”    过修士倒是一点也不避讳，反而带着几分自傲道：“我元上殿乃是元夏中枢，承此名乃是当之无愧",
-        "”    过修士道：“哪里，哪里，在下也只是奉命行事，下来招呼若有不周，还望张正使莫要见怪"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "过修士",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十三章 渡星入元空",
-      "summary": "”    过修士道：“这里张正使可以称之位元上顶，在此最高之处便是诸司议所居之地，元上殿所在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    过修士道：“这里张正使可以称之位元上顶，在此最高之处便是诸司议所居之地，元上殿所在",
-        "”    过修士倒是一点也不避讳，反而带着几分自傲道：“我元上殿乃是元夏中枢，承此名乃是当之无愧",
-        "”    过修士道：“哪里，哪里，在下也只是奉命行事，下来招呼若有不周，还望张正使莫要见怪"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "便见",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十三章 渡星入元空",
-      "summary": "金舟跟随着前面的指引飞舟往虚空深处行去，约是再过一日之后，便见得前方一个巨大的日星，而指引飞舟却是去势不变，直接就往这个熔炉一般日星之中飞驰过去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "金舟跟随着前面的指引飞舟往虚空深处行去，约是再过一日之后，便见得前方一个巨大的日星，而指引飞舟却是去势不变，直接就往这个熔炉一般日星之中飞驰过去"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十三章 渡星入元空",
-      "summary": "金舟跟随着前面的指引飞舟往虚空深处行去，约是再过一日之后，便见得前方一个巨大的日星，而指引飞舟却是去势不变，直接就往这个熔炉一般日星之中飞驰过去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "金舟跟随着前面的指引飞舟往虚空深处行去，约是再过一日之后，便见得前方一个巨大的日星，而指引飞舟却是去势不变，直接就往这个熔炉一般日星之中飞驰过去"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "一股",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十三章 渡星入元空",
-      "summary": "金舟亦是随后跟上，但是还未等靠近那座日星，一股无边烘热之气伴随着灼热的光芒就落到了舟身之上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "金舟亦是随后跟上，但是还未等靠近那座日星，一股无边烘热之气伴随着灼热的光芒就落到了舟身之上",
-        "几乎是与此同时，一股力量落下，将舟身牵引而去，并从另一端喷吐而出，而对面此刻同样又是一个日星，他提先在感应到后，于瞬间又一次转动了真虚晷，舟身重再化入虚黯"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "而在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十三章 渡星入元空",
-      "summary": "而在他顺利穿渡过来之后，诸司议不觉频频投来目光",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在他顺利穿渡过来之后，诸司议不觉频频投来目光",
-        "许久之后，金舟跟随指引飞舟进入到了天城之中，并驶入了一片平原之中，而在此时，本来围在周围的天夏飞舟也都是消失不见了",
-        "”    他笑了一笑，又道：“元上顶之外乃是三十三世道，而在元上顶之内，则有三十三层天陆，按照各方世道实力变化，天陆会呈上下变动之势，不过并不无妨碍诸真人在此存身，如今张正使脚下所站，乃是以东始世道为名的东始天"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }
