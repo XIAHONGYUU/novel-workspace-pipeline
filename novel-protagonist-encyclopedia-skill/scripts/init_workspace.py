@@ -715,10 +715,10 @@ def main() -> None:
     parser.add_argument(
         "--extractor",
         choices=("heuristic", "openai", "deepseek"),
-        default="heuristic",
+        default="deepseek",
         help="Extractor for novel-character-cards pipeline",
     )
-    parser.add_argument("--model", default="gpt-5", help="Model for the OpenAI/DeepSeek extractor")
+    parser.add_argument("--model", default="deepseek-chat", help="Model for the OpenAI/DeepSeek extractor")
     parser.add_argument("--encoding", help="Preferred source encoding")
     parser.add_argument("--max-chars", type=int, default=12000, help="Maximum chunk size")
     parser.add_argument("--limit-chunks", type=int, help="Only process the first N chunks")
