@@ -1,78 +1,170 @@
 {
   "chunk_id": "chunk-0062",
-  "title": "第六十一章 修玄若神明",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张节使"
+      ],
+      "identity": "都护府节使",
+      "faction": "都护府",
       "status": "登场",
       "first_appearance": "第六十一章 修玄若神明",
-      "summary": "第六十一章 修玄若神明    张御不知道詹治同的语言水准到底如何，不过在他看来，其人每回躲在间室内听他讲授的时候，气息呼吸都很惬意自在，这说明其人听得很轻松，那么能力应该不弱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十一章 修玄若神明    张御不知道詹治同的语言水准到底如何，不过在他看来，其人每回躲在间室内听他讲授的时候，气息呼吸都很惬意自在，这说明其人听得很轻松，那么能力应该不弱",
-        "所以张御认为，这个部落的北移，很可能是一种试探",
-        "在晓山镇上召齐所有人手后，张御就翻身上马，就冒着大雨往旦河方向而去"
+      "summary": "都护府派往坚爪部落的节使，负责沟通与交涉。",
+      "appearance": [
+        "身上有灿灿芒光升腾，笼罩在氤氲朦胧的光辉中"
       ],
-      "mention_count": 19
+      "personality": [
+        "谨慎",
+        "知识渊博",
+        "果断"
+      ],
+      "abilities": [
+        "过人的眼力",
+        "了解坚爪部落语言文化"
+      ],
+      "equipment": [
+        "伞",
+        "斗篷"
+      ],
+      "relationships": [
+        {
+          "target": "詹治同",
+          "type": "前任节使"
+        },
+        {
+          "target": "粟筑",
+          "type": "护持者"
+        },
+        {
+          "target": "伍师教",
+          "type": "随行学宫师教"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领二十余人前往坚爪部落，在广遥镇城头观察，随后出发前往坚爪部落营地。"
+        }
+      ],
+      "evidence": [
+        "张御认为，这个部落的北移，很可能是一种试探。",
+        "张御此时目注前方，凭借过人的眼力很快辨认出来，大约数里远的地方，有几个蛮人躲在一个木棚子下面。",
+        "策马行在最前面的那一个人，身上忽有一阵灿灿芒光升腾起来，照亮了雨夜和他的身后随从。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "詹治同",
+      "aliases": [
+        "詹节使"
+      ],
+      "identity": "前任节使",
+      "faction": "都护府",
+      "status": "提及",
       "first_appearance": "第六十一章 修玄若神明",
-      "summary": "他们所膜拜的异神，名为“托洛提”，意即“撕开的喉咙”，代表着杀戮，可谓满身都是血腥气",
+      "summary": "前任都护府节使，被坚爪部落扣留。",
       "appearance": [],
       "personality": [],
+      "abilities": [
+        "语言水准高"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "前任"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被坚爪部落扣留，其随行记录者也被扣留。"
+        }
+      ],
+      "evidence": [
+        "张御不知道詹治同的语言水准到底如何",
+        "詹治同错就错在他身为两个势力沟通的中间人，其本身却并不具备任何武力。",
+        "詹治同身边也同样有这么一人，但是其人亦被扣留住了。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "粟筑",
+      "aliases": [],
+      "identity": "玄府弟子",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第六十一章 修玄若神明",
+      "summary": "玄府派来护持张御的弟子。",
+      "appearance": [],
+      "personality": [
+        "专注职责"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他们所膜拜的异神，名为“托洛提”，意即“撕开的喉咙”，代表着杀戮，可谓满身都是血腥气",
-        "面对他们，纯粹用语言是沟通不了的，还需要更为强硬的东西",
-        "故在他们看来，詹治同即便是都护府派来的，可是因为自身不够强大，所以他说的话就显不出任何分量"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "护持"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随张御前往坚爪部落。"
+        }
+      ],
+      "evidence": [
+        "其中有玄府派出的粟筑和他带来的两名弟子",
+        "自从出发后，就一直跟随在他身边的粟筑只是看了一眼，就不再关注了。"
+      ],
+      "mention_count": 2
     },
     {
       "name": "伍师教",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "伍师教"
+      ],
+      "identity": "学宫师教",
+      "faction": "学宫",
       "status": "登场",
       "first_appearance": "第六十一章 修玄若神明",
-      "summary": "伍师教这时走了过来，他也看了看前方，只觉那里一片漆黑，再加上大雨瓢泼，什么东西都看不到，于是道：“张节使，我们天亮再去那里么",
+      "summary": "学宫派出的师教，负责书面记录。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "好学",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "伍师教这时走了过来，他也看了看前方，只觉那里一片漆黑，再加上大雨瓢泼，什么东西都看不到，于是道：“张节使，我们天亮再去那里么",
-        "”    伍师教请教道：“节使，敢问为何挑在这个时候",
-        "”    伍师教露出佩服之色，道：“节使当真知识渊博，学宫早该派你来此的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随行"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随张御前往坚爪部落，询问为何不天亮出发。"
+        }
+      ],
+      "evidence": [
+        "学宫诸人之中，有一名伍姓师教身份最高，其人是专门负责书面记录的。",
+        "伍师教这时走了过来，他也看了看前方，只觉那里一片漆黑。",
+        "伍师教露出佩服之色，道：“节使当真知识渊博，学宫早该派你来此的。”"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "伍师",
+      "name": "朱安世",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第六十一章 修玄若神明",
-      "summary": "伍师教这时走了过来，他也看了看前方，只觉那里一片漆黑，再加上大雨瓢泼，什么东西都看不到，于是道：“张节使，我们天亮再去那里么",
+      "summary": "被张御引用其言论的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -80,174 +172,79 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "伍师教这时走了过来，他也看了看前方，只觉那里一片漆黑，再加上大雨瓢泼，什么东西都看不到，于是道：“张节使，我们天亮再去那里么",
-        "”    伍师教请教道：“节使，敢问为何挑在这个时候",
-        "”    伍师教露出佩服之色，道：“节使当真知识渊博，学宫早该派你来此的"
+        "正如那日朱安世所说的，只是几句语言的对话，并不能说明所有问题。"
       ],
-      "mention_count": 8
+      "mention_count": 1
     },
     {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 修玄若神明",
-      "summary": "可就算其人了解了坚爪部落的语言文化，甚至到了与他一样的水平，但若以为用语言沟通就可解决所有问题，那就太过于想当然了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可就算其人了解了坚爪部落的语言文化，甚至到了与他一样的水平，但若以为用语言沟通就可解决所有问题，那就太过于想当然了",
-        "当然，还不排除另一个可能，那就是坚爪部落背后或有不怀好意的人在推动",
-        "对付坚爪部落的人他有一定的经验，可要是这些人存在，那就要小心为上了"
+      "name": "广遥镇镇长",
+      "aliases": [
+        "镇长"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "学宫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "广遥镇镇长",
+      "faction": "都护府",
       "status": "登场",
       "first_appearance": "第六十一章 修玄若神明",
-      "summary": "此时他的身后跟随着二十余人，其中有玄府派出的粟筑和他带来的两名弟子，学宫派出的六名协助他的人手，剩下则都是晓山镇提供的民兵卫队",
+      "summary": "广遥镇镇长，接待张御一行。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "此时他的身后跟随着二十余人，其中有玄府派出的粟筑和他带来的两名弟子，学宫派出的六名协助他的人手，剩下则都是晓山镇提供的民兵卫队",
-        "学宫诸人之中，有一名伍姓师教身份最高，其人是专门负责书面记录的",
-        "尽管他听不懂坚爪部落的语言，但却可以将张御说过和翻译过来的话送回去，这不但方便学宫和都堂了解情况，同样也是评判节使功过的佐证"
+      "personality": [
+        "谨慎",
+        "热情"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 修玄若神明",
-      "summary": "所以张御认为，这个部落的北移，很可能是一种试探",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所以张御认为，这个部落的北移，很可能是一种试探",
-        "广遥镇尽管拥数量可观的火铳火炮，足以对付敞原上的一般小部落，但是绝对是挡不住拥有庞大祭祀群的坚爪部落的，更不用说，这个部落还有异神的存在",
-        "张御没有在此停下休息，他撑着伞，直接来到城头之上，这个时候，他胸前的斗篷缝隙里一动，自里探出来一个小脑袋，好奇的看着左右上下"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "接待"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "镇长",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 修玄若神明",
-      "summary": "镇长听说都护府又有节使到了，连忙出迎，不过看到张御随行之人不多，并且没有任何仪仗，不禁生出了许多疑虑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "镇长听说都护府又有节使到了，连忙出迎，不过看到张御随行之人不多，并且没有任何仪仗，不禁生出了许多疑虑",
-        "镇长站在城头上，默默看着一行人冒着雨雾，向着浓重到化解不开的夜中行去，心中暗暗默祝他们此行顺利"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出迎张御，安排马匹，并在城头目送他们离开。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "并且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 修玄若神明",
-      "summary": "镇长听说都护府又有节使到了，连忙出迎，不过看到张御随行之人不多，并且没有任何仪仗，不禁生出了许多疑虑",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "镇长听说都护府又有节使到了，连忙出迎，不过看到张御随行之人不多，并且没有任何仪仗，不禁生出了许多疑虑",
-        "张御此时目注前方，凭借过人的眼力很快辨认出来，大约数里远的地方，有几个蛮人躲在一个木棚子下面，也正打量着这里，并且冲着城墙指指点点，时不时还低声交谈着什么"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "节使",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 修玄若神明",
-      "summary": "尽管他听不懂坚爪部落的语言，但却可以将张御说过和翻译过来的话送回去，这不但方便学宫和都堂了解情况，同样也是评判节使功过的佐证",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "尽管他听不懂坚爪部落的语言，但却可以将张御说过和翻译过来的话送回去，这不但方便学宫和都堂了解情况，同样也是评判节使功过的佐证",
-        "经过了七八个夏时的奔波，他们来到了位于旦河中游沐曦镇，并出示了节使符令，要求镇里安排船只，送他们前往下游",
-        "镇长听说都护府又有节使到了，连忙出迎，不过看到张御随行之人不多，并且没有任何仪仗，不禁生出了许多疑虑"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那就是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十一章 修玄若神明",
-      "summary": "当然，还不排除另一个可能，那就是坚爪部落背后或有不怀好意的人在推动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当然，还不排除另一个可能，那就是坚爪部落背后或有不怀好意的人在推动",
-        "原本这些荒原上的蛮人虽有数万之众，可因为来源于不同部落，彼此又一直互相攻伐，长久以来就是一盘散沙，可是学宫和都堂最担心的，就是坚爪部落到来之后，将他们整合起来，那就是一个大麻烦了"
+        "镇长听说都护府又有节使到了，连忙出迎",
+        "镇长站在城头上，默默看着一行人冒着雨雾，向着浓重到化解不开的夜中行去。"
       ],
       "mention_count": 3
     },
     {
-      "name": "就冒",
+      "name": "小豹猫",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的宠物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六十一章 修玄若神明",
-      "summary": "在晓山镇上召齐所有人手后，张御就翻身上马，就冒着大雨往旦河方向而去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在晓山镇上召齐所有人手后，张御就翻身上马，就冒着大雨往旦河方向而去"
+      "summary": "张御携带的小豹猫，对危险感觉敏锐。",
+      "appearance": [
+        "小脑袋，从斗篷缝隙里探出"
       ],
-      "mention_count": 3
+      "personality": [
+        "好奇"
+      ],
+      "abilities": [
+        "对危险的感觉十分敏锐"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随张御来到城头，好奇地观察周围。"
+        }
+      ],
+      "evidence": [
+        "他伸手揉了一下，这头小豹猫虽然没有什么战斗力，但是对危险的感觉十分敏锐，所以这次他也是一并带上了。"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,258 +1,301 @@
 {
   "chunk_id": "chunk-1523",
-  "title": "第一百零一章 风过余杂声",
   "characters": [
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "负责巡查的修士也是通过训天道章，第一时间将这里情形报到了张御这里，后者原本正在精研道法，收到这个消息后，第一个念头想着是不是下殿动手了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "负责巡查的修士也是通过训天道章，第一时间将这里情形报到了张御这里，后者原本正在精研道法，收到这个消息后，第一个念头想着是不是下殿动手了",
-        "”    张御微微点头，考虑了一下，道：“那个元夏驻使呢",
-        "”    张御道：“知道了，你们继续盯着，有什么事继续报我"
-      ],
-      "mention_count": 26
-    },
     {
       "name": "曾驽",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏玄尊修士",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "第一百零一章 风过余杂声    曾驽看着那墩台好一会儿，心中也是一阵后怕",
+      "summary": "元夏玄尊修士，因墩台爆裂事件投奔天夏，自认能成就上境。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "自信",
+        "谨慎",
+        "有野心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百零一章 风过余杂声    曾驽看着那墩台好一会儿，心中也是一阵后怕",
-        "曾驽咬牙道：“一定是下殿那些人",
-        "”    曾驽沉吟道：“可是他们没有理由害我，不然为什么要把我送出来"
+      "relationships": [
+        {
+          "target": "女修",
+          "type": "同行者"
+        }
       ],
-      "mention_count": 20
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "”    曾驽想了想，有些烦躁道：“所以你叫我去天夏，可是天夏肯接纳我们么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    曾驽想了想，有些烦躁道：“所以你叫我去天夏，可是天夏肯接纳我们么",
-        "”曾驽被她说得斗志昂扬起来，“我们不会去了，这就去寻天夏人",
-        "他问道：“我们没有伤亡吧"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹墩台爆裂后，与女修商议投奔天夏，并成功抵达天夏飞舟。"
+        }
       ],
-      "mention_count": 12
+      "evidence": [
+        "曾驽看着那墩台好一会儿，心中也是一阵后怕。",
+        "曾驽咬牙道：“一定是下殿那些人！”",
+        "曾驽道：“没什么，方才似有人看了我一眼。”"
+      ],
+      "mention_count": 18
     },
     {
       "name": "女修",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏修士，曾驽的同行者",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "他忽然想到了什么，神情一惊，看向那女修，道：“是冲着我来的",
+      "summary": "与曾驽同行的女修，在决策中起引导作用，但人前不替曾驽作主。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "睿智",
+        "低调"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "曾驽",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与曾驽一同投奔天夏。"
+        }
+      ],
       "evidence": [
-        "他忽然想到了什么，神情一惊，看向那女修，道：“是冲着我来的",
-        "”    女修点点头",
-        "”他神情有些复杂看着女修，道：“你是怎么知道的"
+        "女修点点头。",
+        "那女修用清澈的语声说道：“他们不是所有人都是一个想法……”",
+        "那女修轻声道：“既然你能成就上境，那你又怕什么呢？”"
       ],
       "mention_count": 8
     },
     {
-      "name": "那修士",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张正使",
+        "廷执"
+      ],
+      "identity": "天夏廷执，驻使",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "”    那修士道：“回禀廷执，不曾有",
+      "summary": "天夏廷执，负责处理元夏墩台事件及接待投奔者。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那修士道：“回禀廷执，不曾有",
-        "”    那修士回言：“属下方才也是试着问过了，那位驻使恰好也在被炸掉的半边墩台那里，怕是……没能逃掉",
-        "”    那修士道：“属下遵令"
+      "personality": [
+        "冷静",
+        "深思熟虑",
+        "果断"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "”    张御道：“知道了，你们继续盯着，有什么事继续报我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“知道了，你们继续盯着，有什么事继续报我",
-        "卢星介表面却是好脾气，道：“两位，既要见我天夏上层，那便请说说来意吧，上面总不是你们想见就能见到的，换到你们元夏想必也是如此吧",
-        "”    薛道人不满道：“你们这不等于什么都没说么"
+      "abilities": [
+        "分光化影",
+        "训天道章传讯",
+        "元都玄图传讯"
       ],
-      "mention_count": 7
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "晁焕",
+          "type": "同僚"
+        },
+        {
+          "target": "卢星介",
+          "type": "下属"
+        },
+        {
+          "target": "薛道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知墩台爆裂，安排接见投奔者，并与元夏驻使交涉。"
+        }
+      ],
+      "evidence": [
+        "张御微微点头，考虑了一下，道：“那个元夏驻使呢？”",
+        "张御则是以元都玄图传了一个消息，让卢星介、薛道人二人乘坐游星前去接这二人。",
+        "张御化一道分光化影来至元夏飞舟之上与其人相见。"
+      ],
+      "mention_count": 12
     },
     {
       "name": "卢星介",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏修士",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "”    张御则是以元都玄图传了一个消息，让卢星介、薛道人二人乘坐游星前去接这二人",
+      "summary": "天夏修士，奉命接待曾驽二人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "好脾气"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御则是以元都玄图传了一个消息，让卢星介、薛道人二人乘坐游星前去接这二人",
-        "”    两人跟随着飞舟往虚空深处去，大概有一日之后，便停泊到了一座游星之上，两人被接到了大殿之内，卢星介和薛道人两人正奉命等着他们",
-        "卢星介看了两人一眼，稽首一礼，笑着道：“就是两位要来投奔我天夏么"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "薛道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛道人一同接待曾驽二人。"
+        }
+      ],
+      "evidence": [
+        "卢星介看了两人一眼，稽首一礼，笑着道：“就是两位要来投奔我天夏么？”",
+        "卢星介表面却是好脾气，道：“两位，既要见我天夏上层，那便请说说来意吧……”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "驻使",
+      "name": "薛道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏修士",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "”    张御微微点头，考虑了一下，道：“那个元夏驻使呢",
+      "summary": "天夏修士，与卢星介一同接待曾驽，对曾驽二人持怀疑态度。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "不满",
+        "看不起"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御微微点头，考虑了一下，道：“那个元夏驻使呢",
-        "”    那修士回言：“属下方才也是试着问过了，那位驻使恰好也在被炸掉的半边墩台那里，怕是……没能逃掉",
-        "”    而这个时候，因为确认第二任驻使同样亡在了那场爆裂之中，于是元夏又派了一位驻使过来，并通过传讯联络到了张御"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "卢星介",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与卢星介一同接待曾驽二人。"
+        }
+      ],
+      "evidence": [
+        "薛道人心里哼了一声，在他眼中，曾驽二人立场不定，毫无诚义可言，他最是看不起这样的人。",
+        "薛道人不满道：“你们这不等于什么都没说么。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "那修",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "元夏驻使",
+      "aliases": [
+        "驻使"
+      ],
+      "identity": "元夏驻天夏使节",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "”    那修士道：“回禀廷执，不曾有",
+      "summary": "元夏派往天夏的驻使，负责与张御交涉墩台事件及曾驽失踪事宜。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "礼貌",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交涉对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御会面，解释墩台爆裂并非元夏本意，并询问曾驽下落。"
+        }
+      ],
       "evidence": [
-        "”    那修士道：“回禀廷执，不曾有",
-        "”    那修士回言：“属下方才也是试着问过了，那位驻使恰好也在被炸掉的半边墩台那里，怕是……没能逃掉",
-        "”    那修士道：“属下遵令"
+        "驻使道：“请张正使相信，这一次绝非我们所想。”",
+        "驻使感激一礼，道：“多谢张正使支持。”",
+        "驻使犹豫了下，又问道：“张正使，我们走失了一位修道人，不知张正使有没有消息？”"
       ],
       "mention_count": 6
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "晁焕",
+      "aliases": [
+        "晁廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "我们遵守命令，平日不靠近元夏墩台，只是乘坐飞舟在外巡游，爆裂之时有些同道的飞舟稍微受了点冲击，但并无大碍",
+      "summary": "天夏廷执，被张御委托去查检投奔的曾驽。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "饶有兴趣"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "我们遵守命令，平日不靠近元夏墩台，只是乘坐飞舟在外巡游，爆裂之时有些同道的飞舟稍微受了点冲击，但并无大碍",
-        "只是考虑了没有多久，训天道章之中又有感意传来，却是方才禀告的修道人又寻到他这里，他问道：“可还有什么事情",
-        "那么下殿肯定翻过来骑到他们的头上，所以无论也不可能定性为失败，也不存在失败，只是一时的波折罢了，越是出现问题，越是说明他的策略是对的，不然为什么有人拼命反对"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受张御委托，准备查检曾驽。"
+        }
+      ],
+      "evidence": [
+        "不一会儿，晁焕饶有兴趣的声音传来道：“难得有差事，晁某这就走上一趟。”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "他们",
+      "name": "陈首执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "”    曾驽沉吟道：“可是他们没有理由害我，不然为什么要把我送出来",
+      "summary": "天夏首执，张御与其商议后决定让晁焕查检曾驽。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    曾驽沉吟道：“可是他们没有理由害我，不然为什么要把我送出来",
-        "”    那女修用清澈的语声说道：“他们不是所有人都是一个想法，他们或许不愿，可不是说所有人都是这般想的",
-        "天夏若是连你的价值也看不到，那么他们趁早认输罢了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零一章 风过余杂声",
-      "summary": "而且天夏的实力，根本不可能是元夏的对手，去了那里不是自寻死路么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而且天夏的实力，根本不可能是元夏的对手，去了那里不是自寻死路么",
-        "而且看这个模样，剩下的也那一半维持不了多久了",
-        "要不是看这爆裂的模样与上回一般，而且后续没什么动静，反而是一片混乱，他们还以为元夏是故意如此，好挑起征伐天夏的事端"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御商议处理投奔者事宜。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "张御则是以元都玄图传了一个消息，让卢星介、薛道人二人乘坐游星前去接这二人。",
+        "张御则是以元都玄图传了一个消息，让卢星介、薛道人二人乘坐游星前去接这二人。"
+      ],
+      "mention_count": 1
     }
   ]
 }

@@ -1,256 +1,317 @@
 {
   "chunk_id": "chunk-1423",
-  "title": "第一章 元空渡玄机",
   "characters": [
     {
-      "name": "陈禹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 元空渡玄机",
-      "summary": "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
-        "”    陈禹神情郑重起来，道：“张廷执不妨看一看，此玄机为何",
-        "”    陈禹沉声道：“这应该是荀道友设布的遮掩，以免此消息为他人所截"
-      ],
-      "mention_count": 18
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一章 元空渡玄机",
-      "summary": "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
+      "summary": "天夏廷执，收到荀季传递的玄机，得知元夏使者将至。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
-        "但是没想到，此一道玄机并没有传递到元都派那里，而是直接送到了张御这处",
-        "不知这等举动是出于对张御本身的信任，还是说其对元都派内部不放心，所以不愿意绕走一圈"
+      "personality": [
+        "谨慎",
+        "敏锐"
       ],
-      "mention_count": 15
+      "abilities": [],
+      "equipment": [
+        "法符"
+      ],
+      "relationships": [
+        {
+          "target": "荀季",
+          "type": "师徒"
+        },
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        },
+        {
+          "target": "瞻空道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从法符中解读出荀季传递的玄机，得知元夏使者将至。"
+        }
+      ],
+      "evidence": [
+        "张御将那一枚法符取了出来，见果有一缕气机依附其上",
+        "他道：“此是荀师最后见我之时所予法符，平日只是用来转挪之用，而在方才，却似是借此传了一道玄机过来。”",
+        "张御眼眸微凝，他反复查验了下，确认那道玄机之中的确只有这几字，除此并无其他传递"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "陈禹",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一章 元空渡玄机",
-      "summary": "”    他们先前就认为，在庄首执成道之后，假定元夏来袭，那么荀季极可能会提前传递消息给他们，让他们做好防备",
+      "summary": "天夏首执，与张御、武倾墟商议元夏使者之事，决定暂缓告知其他廷执。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他们先前就认为，在庄首执成道之后，假定元夏来袭，那么荀季极可能会提前传递消息给他们，让他们做好防备",
-        "他再是一感，此中与荀师以往教授的心法略有几处微小出入，若是将几处都是改了回来，那么当是会从中得出六个字：    “元夏使者将至",
-        "他目光迎上，道：“首执，武廷执，那玄机确然是荀师传书，他只传告了我一句，此中言……”他语声略略加重，道：“元夏使者将至"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御、武倾墟商议元夏使者之事，决定暂缓告知其他廷执。"
+        }
+      ],
+      "evidence": [
+        "陈禹神情郑重起来，道：“张廷执不妨看一看，此玄机为何。”",
+        "陈禹沉声道：“时机未至，暂缓告知，待元夏使者到来再言。”"
+      ],
+      "mention_count": 8
     },
     {
       "name": "武倾墟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一章 元空渡玄机",
-      "summary": "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
+      "summary": "天夏廷执，参与商议元夏使者之事，主张利用使者拖延时间。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "务实",
+        "冷静"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
-        "张御这一边，则是持符回转到了上层，意念一转，再度回到了先前道宫之所在，随后走入进来，待至殿中，陈禹、武倾墟二人都是看向他，显是在等着他的回音",
-        "”    陈禹和武倾墟二人都神情微凛"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与陈禹、张御商议元夏使者之事，主张利用使者拖延时间。"
+        }
+      ],
+      "evidence": [
+        "武倾墟想了想，道：“首执，武某以为元夏这与我等此前所推测的并不冲突”",
+        "武倾墟点头赞同，道：“元夏派遣使者来，那就让他来，我等也不妨利用这些来者稍作拖延”"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "武倾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "瞻空道人",
+      "aliases": [
+        "瞻空道友"
+      ],
+      "identity": "元都派道人",
+      "faction": "元都派",
       "status": "登场",
       "first_appearance": "第一章 元空渡玄机",
-      "summary": "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
+      "summary": "元都派道人，看守元都玄图，张御借宝时主动回避。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "知礼"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一章 元空渡玄机    张御将那一枚法符取了出来，见果有一缕气机依附其上，他抬起头，见到陈禹、武倾墟二人正看向自己",
-        "张御这一边，则是持符回转到了上层，意念一转，再度回到了先前道宫之所在，随后走入进来，待至殿中，陈禹、武倾墟二人都是看向他，显是在等着他的回音",
-        "”    陈禹和武倾墟二人都神情微凛"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同门"
+        },
+        {
+          "target": "荀季",
+          "type": "同门师兄"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "我等",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 元空渡玄机",
-      "summary": "张廷执自去便是，我等在此等候结果",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张廷执自去便是，我等在此等候结果",
-        "武倾墟想了想，道：“首执，武某以为元夏这与我等此前所推测的并不冲突，这很可能就是元夏为了探查我天夏所做举动，只不过其用明招，而不是暗中窥伺",
-        "此使者即将到来，两位廷执以为，我等该对其采取何等态度"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "张御来借元都玄图时主动回避，后察觉异样。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "瞻空道人正端坐于此地，讶道：“张廷执来此处可是有事？”",
+        "瞻空道人打一个稽首后，身上金光一闪，便即退了出去。"
+      ],
+      "mention_count": 3
     },
     {
       "name": "单道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 元空渡玄机",
-      "summary": "不多时，单道人和毕道人二人联袂来至道宫之内",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不多时，单道人和毕道人二人联袂来至道宫之内",
-        "单道人倒很是非常镇定",
-        "”    单道人打一个稽首，从容坐了下来"
+      "aliases": [
+        "单道友"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "张廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "乘幽派道人",
+      "faction": "乘幽派",
       "status": "登场",
       "first_appearance": "第一章 元空渡玄机",
-      "summary": "”    陈禹神情郑重起来，道：“张廷执不妨看一看，此玄机为何",
+      "summary": "乘幽派道人，与毕道人一同被陈禹请来，得知元夏真相后保持镇定。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    陈禹神情郑重起来，道：“张廷执不妨看一看，此玄机为何",
-        "张廷执自去便是，我等在此等候结果",
-        "瞻空道人正端坐于此地，讶道：“张廷执来此处可是有事"
+      "personality": [
+        "镇定",
+        "从容"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "霎时",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 元空渡玄机",
-      "summary": "”    他从这处道宫之中退了出来，来到了外间云阶之上，心下一唤，霎时一道金光落至身上，持续了一会儿之后，再出现时，已是站在了一个似在无边虚空游荡的广台之上",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他从这处道宫之中退了出来，来到了外间云阶之上，心下一唤，霎时一道金光落至身上，持续了一会儿之后，再出现时，已是站在了一个似在无边虚空游荡的广台之上",
-        "单道人神情严肃了些，这是不落文字，天夏如此谨慎，看来这敌人确然非同小可，他气意上去一感，霎时那符箓化作一缕意念入至心神，霎时便将前后之因由，元夏之来历了解了一个清清楚楚"
+      "relationships": [
+        {
+          "target": "毕道人",
+          "type": "同门师兄弟"
+        },
+        {
+          "target": "陈禹",
+          "type": "盟友"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "持续",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 元空渡玄机",
-      "summary": "”    他从这处道宫之中退了出来，来到了外间云阶之上，心下一唤，霎时一道金光落至身上，持续了一会儿之后，再出现时，已是站在了一个似在无边虚空游荡的广台之上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他从这处道宫之中退了出来，来到了外间云阶之上，心下一唤，霎时一道金光落至身上，持续了一会儿之后，再出现时，已是站在了一个似在无边虚空游荡的广台之上",
-        "”    张御眼眸微凝，他反复查验了下，确认那道玄机之中的确只有这几字，除此并无其他传递，于是收好了此符，金光自身上闪烁，持续了一会儿，便就遁去不见"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与毕道人被陈禹请来，得知元夏真相。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "单道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 元空渡玄机",
-      "summary": "不多时，单道人和毕道人二人联袂来至道宫之内",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "不多时，单道人和毕道人二人联袂来至道宫之内",
-        "单道人倒很是非常镇定",
-        "”    单道人打一个稽首，从容坐了下来"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "陈禹沉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一章 元空渡玄机",
-      "summary": "”    陈禹沉声道：“这应该是荀道友设布的遮掩，以免此消息为他人所截",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    陈禹沉声道：“这应该是荀道友设布的遮掩，以免此消息为他人所截",
-        "”    陈禹沉声道：“张廷执此言与我所思相近，元夏与我无可调和，其来使者非为利我，而为覆我",
-        "陈禹沉思了一会儿，道：“那此事便如此定下"
+        "单道人倒很是非常镇定。",
+        "单道人神情不变",
+        "单道人这时抬起头来，看了看陈禹、张御、武倾墟三人，抬袖行有一礼，认真道：“多谢三位告知此事。”"
       ],
       "mention_count": 5
+    },
+    {
+      "name": "毕道人",
+      "aliases": [
+        "毕明道人"
+      ],
+      "identity": "乘幽派道人",
+      "faction": "乘幽派",
+      "status": "登场",
+      "first_appearance": "第一章 元空渡玄机",
+      "summary": "乘幽派道人，与单道人一同被陈禹请来，得知元夏真相后神情陡变。",
+      "appearance": [],
+      "personality": [
+        "易受冲击"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "单道人",
+          "type": "同门师兄弟"
+        },
+        {
+          "target": "陈禹",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与单道人被陈禹请来，得知元夏真相后神情陡变。"
+        }
+      ],
+      "evidence": [
+        "毕道人却是神情陡变，这消息对他受冲击甚大",
+        "好在他也是成就上乘功果之人，故在片刻之后便恢复了过来"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "荀季",
+      "aliases": [
+        "荀师"
+      ],
+      "identity": "元都派前辈",
+      "faction": "元都派",
+      "status": "提及",
+      "first_appearance": "第一章 元空渡玄机",
+      "summary": "张御之师，通过法符传递玄机，告知元夏使者将至。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        },
+        {
+          "target": "瞻空道人",
+          "type": "同门师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过法符传递玄机给张御。"
+        }
+      ],
+      "evidence": [
+        "他道：“此是荀师最后见我之时所予法符”",
+        "那玄机确然是荀师传书，他只传告了我一句"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "天夏侍者",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一章 元空渡玄机",
+      "summary": "天夏侍者，奉命去请乘幽派两位道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "奉命去请乘幽派两位道人。"
+        }
+      ],
+      "evidence": [
+        "明周道人揖礼而去。"
+      ],
+      "mention_count": 1
     }
   ]
 }

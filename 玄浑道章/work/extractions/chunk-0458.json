@@ -1,255 +1,241 @@
 {
   "chunk_id": "chunk-0458",
-  "title": "第两百二十九章 光州",
   "characters": [
     {
       "name": "袁大匠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "aliases": [
+        "袁大匠"
+      ],
+      "identity": "天机院大匠，造物人制造者",
+      "faction": "天机院",
+      "status": "被拘拿",
       "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁",
-      "appearance": [],
-      "personality": [],
+      "summary": "天机院大匠，负责制造未经造册的造物人，后被张御抓获，供出造物人名单。",
+      "appearance": [
+        "霜白的眉毛"
+      ],
+      "personality": [
+        "激昂",
+        "骄傲",
+        "爽快"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁",
-        "”    张御道：“袁大匠可有证据么",
-        "”    袁大匠摇头道：“那可没有，就算这次把我暴露出来，也未必是他亲自交代，但至少得到了他的默许，不然你们没可能这么快找到我"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "审讯者"
+        },
+        {
+          "target": "谭从",
+          "type": "被其学生鼓动"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御抓获并审讯，供出造物人名单。"
+        },
+        {
+          "stage": "十年前",
+          "event": "被军府抽调去主持打造玄甲。"
+        }
+      ],
+      "evidence": [
+        "袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁？就只有那位了。”",
+        "袁大匠道：“十年前我被军府抽调去主持打造玄甲，军府看管严密，不方便再做此事，这事情就交托出去了”",
+        "袁大匠爽快道：“给我纸笔，我这就给玄正写出来。”"
+      ],
+      "mention_count": 20
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张玄正",
+        "玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百二十九章 光州",
-      "summary": "”    张御道：“袁大匠可有证据么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“袁大匠可有证据么",
-        "”    张御思索片刻，那个人身份更为敏感，仅凭袁大匠一面之词，而没有切实的证据，是不可能拿那个人如何的",
-        "”    张御道：“袁大匠说是早些时候"
+      "summary": "玄府玄正，负责追查造物人事件，审讯袁大匠后前往光州检正司。",
+      "appearance": [
+        "袖袍飘荡，浑身被云雾青光所笼的年轻道人"
       ],
-      "mention_count": 17
+      "personality": [
+        "思索",
+        "果断"
+      ],
+      "abilities": [
+        "遁光飞行"
+      ],
+      "equipment": [
+        "紫星袋中的玄正印信"
+      ],
+      "relationships": [
+        {
+          "target": "袁大匠",
+          "type": "审讯者"
+        },
+        {
+          "target": "时悦",
+          "type": "同僚"
+        },
+        {
+          "target": "薛治",
+          "type": "下属"
+        },
+        {
+          "target": "蒙严",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "审讯袁大匠，获得造物人名单，随后前往光州检正司。"
+        }
+      ],
+      "evidence": [
+        "张御道：“袁大匠可有证据么？”",
+        "张御道：“那便请袁大匠把造物人名单予我。”",
+        "张御吩咐之后，便就在众人目注之下遁光而起，化一道青虹往青阳上洲洲治所在光州而去。"
+      ],
+      "mention_count": 25
     },
     {
-      "name": "袁大",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "时悦",
+      "aliases": [
+        "时道友"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁",
+      "summary": "玄府修士，受张御吩咐押送袁大匠去良州关押。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁",
-        "”    张御道：“袁大匠可有证据么",
-        "”    袁大匠摇头道：“那可没有，就算这次把我暴露出来，也未必是他亲自交代，但至少得到了他的默许，不然你们没可能这么快找到我"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受张御吩咐押送袁大匠去良州关押。"
+        }
+      ],
+      "evidence": [
+        "他道：“时道友，我要去往光州一趟，你们把袁大匠带去良州关押，这个人很重要，不容有失。”",
+        "时悦拱手道：“玄正放心便是。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "薛治",
+      "aliases": [
+        "薛主事"
+      ],
+      "identity": "光州检正司主事",
+      "faction": "检正司",
       "status": "登场",
       "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠回望了一眼张御，沉声道：“我们的初衷很简单，就是想让天机院获得洲中更多的支持，并由此推动造物技艺的进步，摆脱对你们修道人依赖",
+      "summary": "光州检正司主事，负责接待张御并为其通传蒙严。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "肃然"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠回望了一眼张御，沉声道：“我们的初衷很简单，就是想让天机院获得洲中更多的支持，并由此推动造物技艺的进步，摆脱对你们修道人依赖",
-        "我虽被你们拘拿了，可我直到现在也不后悔如此做，如果没有造物技艺长足进步，我们在对抗泰博神怪时，也不可能拿出这么多的玄兵、还有这么多的斗战飞舟和披甲之士",
-        "”    袁大说到这里，抬头看了看自己身边的这个庐棚，道：“可现在却是不同了，我们不必再依靠你们修道人的庇佑，现在哪怕一个普通人手持玄兵，都能发挥出惊天动地的力量，我们已是能够发出自己的声音"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "蒙严",
+          "type": "上级"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接张御，并答应为其通传蒙严。"
+        }
+      ],
+      "evidence": [
+        "主事薛治很快得到了禀告，亲自自衙署里迎了出来",
+        "薛治没有犹豫，肃然言道：“玄正请稍等，我这便寻人通禀。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "玄正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "蒙严",
+      "aliases": [
+        "蒙使君"
+      ],
+      "identity": "检正司上级",
+      "faction": "检正司",
+      "status": "提及",
       "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠点头道：“我事自是清楚的，这么说吧，早些时候大部分不曾登造录册的造物人都是由我经手的，我可以给玄正我所知道的所有名单，但那肯定不是全部",
+      "summary": "检正司上级，张御此行要见的人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠点头道：“我事自是清楚的，这么说吧，早些时候大部分不曾登造录册的造物人都是由我经手的，我可以给玄正我所知道的所有名单，但那肯定不是全部",
-        "不过玄正可要做好一些准备了，那里面有些人可不太好抓",
-        "玄正名单所见到的那些人，他们都是天机院的支持者"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "薛治",
+          "type": "上级"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "张御要见蒙严。"
+        }
+      ],
+      "evidence": [
+        "张御言道：“我此来有要事需见蒙使君，请薛主事代为通传一下。”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "你们",
+      "name": "谭从",
       "aliases": [],
-      "identity": "",
+      "identity": "被抓获者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁",
+      "summary": "被抓获的人，袁大匠的学生受其鼓动。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁",
-        "”    袁大匠摇头道：“那可没有，就算这次把我暴露出来，也未必是他亲自交代，但至少得到了他的默许，不然你们没可能这么快找到我",
-        "”    张御道：“你们是如何让那些造物人去替代原主的"
+      "relationships": [
+        {
+          "target": "袁大匠",
+          "type": "被其学生鼓动"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠爽快道：“给我纸笔，我这就给玄正写出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠爽快道：“给我纸笔，我这就给玄正写出来",
-        "”    薛治没有犹豫，肃然言道：“玄正请稍等，我这便寻人通禀"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已被抓获。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十九章 光州",
-      "summary": "袁大匠霜白的眉毛挑了一下，他拿过笔，只是握到手里的时候似乎不太顺手，嘀咕了一句，随后刷刷落笔，不多时就写了满满一张纸",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "袁大匠霜白的眉毛挑了一下，他拿过笔，只是握到手里的时候似乎不太顺手，嘀咕了一句，随后刷刷落笔，不多时就写了满满一张纸",
-        "写完之后，他习惯性的把笔收入兜内的口袋内，随后将纸递上来，道：“所有我经手的未经造册的造物人都在这里，我在他们每个人的身上都做了记号，玄正按此找寻，就能把他们都找出来了",
-        "站在这里值守甲士们见得这光柱从天而降，不由一惊，随后便见一个袖袍飘荡，浑身被云雾青光所笼的年轻道人自光芒之中走了出来"
+        "袁大匠冷笑一声，“谭从已经被你们抓起来了，还能鼓动我学生下手的人还能是谁？就只有那位了。”"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "到了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠摇头道：“那可没有，就算这次把我暴露出来，也未必是他亲自交代，但至少得到了他的默许，不然你们没可能这么快找到我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠摇头道：“那可没有，就算这次把我暴露出来，也未必是他亲自交代，但至少得到了他的默许，不然你们没可能这么快找到我",
-        "”    说话之间，他语声中逐渐多出了一丝激昂和骄傲，“不止如此，在得到了这些造物替身的支持后，这六十多年，青阳上洲所取得的造物技艺已然在某些方面凌驾在诸洲之上了",
-        "特别我们的外甲技艺，更是堪堪接近到了上位修士的程度，现在只有玉京天工部因为吸收了各洲人才，才稳稳压过我们一头"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "光州",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十九章 光州",
-      "summary": "第两百二十九章 光州    还能有谁",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百二十九章 光州    还能有谁",
-        "他思索良久之后，便把时悦唤过来，道：“时道友，我要去往光州一趟，你们把袁大匠带去良州关押，这个人很重要，不容有失",
-        "”    张御吩咐之后，便就在众人目注之下遁光而起，化一道青虹往青阳上洲洲治所在光州而去"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "但那",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十九章 光州",
-      "summary": "”    袁大匠点头道：“我事自是清楚的，这么说吧，早些时候大部分不曾登造录册的造物人都是由我经手的，我可以给玄正我所知道的所有名单，但那肯定不是全部",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    袁大匠点头道：“我事自是清楚的，这么说吧，早些时候大部分不曾登造录册的造物人都是由我经手的，我可以给玄正我所知道的所有名单，但那肯定不是全部",
-        "莫说有玉京在上面，我们这些大匠也不可能去如此做，不过有一个人的想法可能和我们不同……”    他沉吟了一下，“对于我们这些人而言，想法不同，那么就是根本方向上的不同了，但那就不是我所知道的了，我也不想去知道，至少在他没有妨碍到我之前是如此…"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "立刻",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十九章 光州",
-      "summary": "负责这些甲士队率也是有眼力的，当即认出了来人，立刻回头道：“赶紧通禀主事，是玄府张玄正到了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "负责这些甲士队率也是有眼力的，当即认出了来人，立刻回头道：“赶紧通禀主事，是玄府张玄正到了",
-        "”    他吩咐一下，立刻有甲士抱拳而去"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

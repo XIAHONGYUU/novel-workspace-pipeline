@@ -1,257 +1,428 @@
 {
   "chunk_id": "chunk-0564",
-  "title": "第六十九章 余意",
   "characters": [
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 余意",
-      "summary": "那道人转而看向张御，点头道：“张巡护有礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那道人转而看向张御，点头道：“张巡护有礼",
-        "”    对面所站终究是一位玄尊，张御也是抬手执有一礼，道：“余玄尊有礼",
-        "”    张御对此也没有遮掩，毫不讳言道：“确有不解"
-      ],
-      "mention_count": 31
-    },
-    {
       "name": "余玄尊",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "余意"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十九章 余意",
-      "summary": "”    对面所站终究是一位玄尊，张御也是抬手执有一礼，道：“余玄尊有礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    对面所站终究是一位玄尊，张御也是抬手执有一礼，道：“余玄尊有礼",
-        "”    余玄尊道：“想来张巡护对我方才杀去我那徒儿有所疑虑",
-        "”    余玄尊道：“此中实有缘故，陈乾定便是当真落入巡护手中，巡护也是问不出任何东西来的"
+      "summary": "天夏玄尊，陈乾定的老师，因道法疏漏斩出恶念化为陈乾定，后将其击杀。",
+      "appearance": [
+        "笼罩在金光之中"
       ],
-      "mention_count": 17
+      "personality": [
+        "温和",
+        "深沉"
+      ],
+      "abilities": [
+        "玄尊修为",
+        "金光治疗",
+        "化身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "边览",
+          "type": "师徒"
+        },
+        {
+          "target": "陈乾定",
+          "type": "本体与恶念化身"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "洛乘风",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身击杀陈乾定，与张御对话解释缘由，收走洛乘风。"
+        }
+      ],
+      "evidence": [
+        "余玄尊道：‘陈乾定可以算作我徒，却也不是我徒，或可说，与你等而言有其人，可于我而言，却无此人。’",
+        "余玄尊道：‘当初我虽道法有成，位列玄尊，然而我奋勇精进之时，却也是行事急切了一些，导致某些法门之上有所疏漏。我为成就，只得将此疏漏斩去，寄托世间，陈乾定此人，实是我恶念杂意之所生。’"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "余玄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "巡护",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十九章 余意",
-      "summary": "”    对面所站终究是一位玄尊，张御也是抬手执有一礼，道：“余玄尊有礼",
+      "summary": "天夏巡护，与余玄尊对话后返回居处，安排左道人办事，后前往呈书之地探查丁宣平记忆。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    对面所站终究是一位玄尊，张御也是抬手执有一礼，道：“余玄尊有礼",
-        "”    余玄尊道：“想来张巡护对我方才杀去我那徒儿有所疑虑",
-        "”    余玄尊道：“此中实有缘故，陈乾定便是当真落入巡护手中，巡护也是问不出任何东西来的"
+      "personality": [
+        "谨慎",
+        "多疑",
+        "持己道"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "陈乾定",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 余意",
-      "summary": "”    余玄尊道：“此中实有缘故，陈乾定便是当真落入巡护手中，巡护也是问不出任何东西来的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    余玄尊道：“此中实有缘故，陈乾定便是当真落入巡护手中，巡护也是问不出任何东西来的",
-        "”    余玄尊微微一叹，道：“陈乾定可以算作我徒，却也不是我徒，或可说，与你等而言有其人，可于我而言，却无此人",
-        "我为成就，只得将此疏漏斩去，寄托世间，陈乾定此人，实是我恶念杂意之所生"
+      "abilities": [
+        "心光",
+        "巡护印信"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "巡护",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 余意",
-      "summary": "”    那道人轻轻一摆手，语气温和道：“这里的事我已是知晓了，你先去吧，我有些话与张巡护说",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人轻轻一摆手，语气温和道：“这里的事我已是知晓了，你先去吧，我有些话与张巡护说",
-        "那道人转而看向张御，点头道：“张巡护有礼",
-        "”    余玄尊道：“想来张巡护对我方才杀去我那徒儿有所疑虑"
+      "equipment": [
+        "应星方天庐",
+        "白舟",
+        "惊霄剑"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "那道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 余意",
-      "summary": "”    那道人看他一眼，便有一道金光落下，边览身上干瘪的皮肉立又重新变得饱满光泽起来，本来脱落的眉发也是一同生出",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人看他一眼，便有一道金光落下，边览身上干瘪的皮肉立又重新变得饱满光泽起来，本来脱落的眉发也是一同生出",
-        "”    那道人轻轻一摆手，语气温和道：“这里的事我已是知晓了，你先去吧，我有些话与张巡护说",
-        "那道人转而看向张御，点头道：“张巡护有礼"
+      "relationships": [
+        {
+          "target": "余玄尊",
+          "type": "同僚"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        },
+        {
+          "target": "左道人",
+          "type": "下属"
+        },
+        {
+          "target": "恽尘",
+          "type": "通信"
+        },
+        {
+          "target": "丁宣平",
+          "type": "调查对象"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "陈乾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 余意",
-      "summary": "”    余玄尊道：“此中实有缘故，陈乾定便是当真落入巡护手中，巡护也是问不出任何东西来的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    余玄尊道：“此中实有缘故，陈乾定便是当真落入巡护手中，巡护也是问不出任何东西来的",
-        "”    余玄尊微微一叹，道：“陈乾定可以算作我徒，却也不是我徒，或可说，与你等而言有其人，可于我而言，却无此人",
-        "我为成就，只得将此疏漏斩去，寄托世间，陈乾定此人，实是我恶念杂意之所生"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与余玄尊对话后返回居处，安排左道人，后前往呈书之地探查惊霄剑中丁宣平的记忆。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 余意",
-      "summary": "他看了一下后面的名册，里面多是一些第三章书的修士，四章修士暂且只有杏川道人一人，这位倒也算是一个熟人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他看了一下后面的名册，里面多是一些第三章书的修士，四章修士暂且只有杏川道人一人，这位倒也算是一个熟人",
-        "他看罢之后，便又翻了翻这些天来的报纸，此刻金影一闪，妙丹君跳上了桌案，趴伏在一旁",
-        "他看了看远处那方玉璧，并没有上前呈书，而是直接坐了下来，随后将惊霄剑取了出来"
+        "张御道：‘玄尊既言对此人无可见，不得见，那为何今日又能出手将他杀死？’",
+        "张御没再说什么，对于余玄尊这番解释，其实他心中仍是存疑。",
+        "他伸手按在剑脊之上，寻到那一股意识，就把心神沉定下去。"
       ],
-      "mention_count": 7
+      "mention_count": 30
     },
     {
       "name": "边览",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "余玄尊弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十九章 余意",
-      "summary": "第六十九章 余意    这道人出现在那里后，边览立刻伏拜下来，激动道：“弟子拜见老师",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第六十九章 余意    这道人出现在那里后，边览立刻伏拜下来，激动道：“弟子拜见老师",
-        "”    那道人看他一眼，便有一道金光落下，边览身上干瘪的皮肉立又重新变得饱满光泽起来，本来脱落的眉发也是一同生出",
-        "”    边览恭敬一拜，起身之后，见原来乘过来的那艘飞舟已在地星爆裂之中碎裂了，只能直接驾起遁光往奎宿地星返回"
+      "summary": "余玄尊弟子，被余玄尊治疗恢复。",
+      "appearance": [
+        "干瘪皮肉恢复饱满光泽"
       ],
-      "mention_count": 5
+      "personality": [],
+      "abilities": [
+        "遁光"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余玄尊",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被余玄尊治疗，后驾遁光返回奎宿地星。"
+        }
+      ],
+      "evidence": [
+        "边览立刻伏拜下来，激动道：‘弟子拜见老师。’",
+        "那道人看他一眼，便有一道金光落下，边览身上干瘪的皮肉立又重新变得饱满光泽起来"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "他伸",
+      "name": "陈乾定",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十九章 余意",
-      "summary": "”    他伸手一拿，将应星方天庐摄了回来，收入了星袋之内",
+      "identity": "余玄尊恶念化身",
+      "faction": "天夏（表面）",
+      "status": "已死亡",
+      "first_appearance": "第六十九章 余意（提及）",
+      "summary": "余玄尊斩出的恶念化身，自称余玄尊弟子，曾杀害丁巡护，被余玄尊击杀。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他伸手一拿，将应星方天庐摄了回来，收入了星袋之内",
-        "他伸手按在剑脊之上，寻到那一股意识，就把心神沉定下去"
+      "abilities": [
+        "能借余玄尊心力"
       ],
-      "mention_count": 5
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余玄尊",
+          "type": "恶念化身"
+        },
+        {
+          "target": "丁宣平",
+          "type": "杀害对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "三十年前",
+          "event": "被余玄尊用宝物击杀但未彻底根绝。"
+        },
+        {
+          "stage": "二十年前",
+          "event": "杀害丁巡护。"
+        },
+        {
+          "stage": "当前",
+          "event": "被余玄尊击杀。"
+        }
+      ],
+      "evidence": [
+        "余玄尊道：‘陈乾定此人，实是我恶念杂意之所生。’",
+        "余玄尊道：‘三十年前，我功行略进，感知其在我门下，便祭一宝物予他，并以此宝克杀了他的性命’",
+        "余玄尊道：‘二十年前，他更是用了我之能为害了丁巡护的性命。’"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "左道",
+      "name": "洛乘风",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "余玄尊弟子",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十九章 余意",
-      "summary": "他踏上台阶，回到自己居处之中，对迎来的李青禾关照道：“你往左道友那里去一趟，若他有暇，请他来我这处",
+      "summary": "余玄尊弟子，因参与陈乾定相关事件被余玄尊收走。",
+      "appearance": [
+        "瑟瑟发抖"
+      ],
+      "personality": [
+        "畏惧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余玄尊",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被余玄尊收入金光中带走。"
+        }
+      ],
+      "evidence": [
+        "洛乘风自里显露了出来，他一见余玄尊，不禁瑟瑟发抖起来，伏倒在了那里，道：‘老师，弟子有罪，有罪……’",
+        "余玄尊叹一声，只一招手，就把洛乘风收入了一道金光之中"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御随从",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第六十九章 余意",
+      "summary": "张御的随从，负责传话和收信。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他踏上台阶，回到自己居处之中，对迎来的李青禾关照道：“你往左道友那里去一趟，若他有暇，请他来我这处",
-        "”    张御放下报纸，道：“请左道友上来",
-        "”    不一会儿，左道人走入书房之内，正容抬手一礼，道：“巡护有礼"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接张御归来，告知有内层书信，后请左道人前来。"
+        }
+      ],
+      "evidence": [
+        "李青禾道：‘先生，有从内层寄来的书信，我已是放在先生的书案上了。’",
+        "李青禾进来言道：‘先生，左先生到了。’"
+      ],
+      "mention_count": 3
     },
     {
       "name": "左道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "左先生"
+      ],
+      "identity": "张御下属",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第六十九章 余意",
-      "summary": "”    不一会儿，左道人走入书房之内，正容抬手一礼，道：“巡护有礼",
+      "summary": "张御的下属，刚从傅氏军脱身，受张御委托办事。",
+      "appearance": [],
+      "personality": [
+        "肃声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜访张御，接受委托。"
+        }
+      ],
+      "evidence": [
+        "左道人肃声道：‘巡护请吩咐。’",
+        "左道人离去之后"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "恽尘",
+      "aliases": [],
+      "identity": "通信者",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第六十九章 余意（提及）",
+      "summary": "给张御寄信的人，告知青阳玄府派遣人手到奎宿地星。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    不一会儿，左道人走入书房之内，正容抬手一礼，道：“巡护有礼",
-        "”    左道人到了一边坐下，道：“左某诸般事宜已经稳妥，此番还要多谢巡护替我傅氏军那里分说",
-        "”    左道人肃声道：“巡护请吩咐"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "通信"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "寄信给张御。"
+        }
+      ],
+      "evidence": [
+        "见这是恽尘所寄来的，上面言说青阳玄府近来已是往外层派遣了一批人手"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "杏川道人",
+      "aliases": [],
+      "identity": "四章修士",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第六十九章 余意（提及）",
+      "summary": "青阳玄府派遣到奎宿地星的四章修士，张御的熟人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "熟人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "即将被派遣到奎宿地星。"
+        }
+      ],
+      "evidence": [
+        "四章修士暂且只有杏川道人一人，这位倒也算是一个熟人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "丁宣平",
+      "aliases": [
+        "丁巡护"
+      ],
+      "identity": "已故巡护",
+      "faction": "天夏",
+      "status": "已死亡",
+      "first_appearance": "第六十九章 余意（提及）",
+      "summary": "被陈乾定杀害的巡护，其意识残留在惊霄剑中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑法犀利"
+      ],
+      "equipment": [
+        "惊霄剑"
+      ],
+      "relationships": [
+        {
+          "target": "陈乾定",
+          "type": "被杀害"
+        },
+        {
+          "target": "张御",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "二十年前",
+          "event": "被陈乾定杀害。"
+        },
+        {
+          "stage": "当前",
+          "event": "其记忆被张御在呈书之地探查。"
+        }
+      ],
+      "evidence": [
+        "二十年前，他更是用了我之能为害了丁巡护的性命。",
+        "上次丁宣平寄托在上面的意念他解开了大半"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "张御的宠物（金影）",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十九章 余意",
+      "summary": "张御的宠物，一只金影，跳上桌案趴伏。",
+      "appearance": [
+        "金影"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跳上张御的书案趴伏。"
+        }
+      ],
+      "evidence": [
+        "此刻金影一闪，妙丹君跳上了桌案，趴伏在一旁。"
+      ],
+      "mention_count": 1
     }
   ]
 }

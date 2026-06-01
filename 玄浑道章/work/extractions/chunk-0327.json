@@ -1,258 +1,326 @@
 {
   "chunk_id": "chunk-0327",
-  "title": "第九十九章 潮起",
   "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第九十九章 潮起",
+      "summary": "玄府玄正，正在乘常道派准备应对霜洲人的进攻。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "拥有自身力量，青阳轮被召回后仍不惧"
+      ],
+      "equipment": [
+        "紫星袋",
+        "青阳轮（后被召回）"
+      ],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "同僚"
+        },
+        {
+          "target": "竺玄首",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与恽尘在乘常道派高台观察，青阳轮被竺玄首召回。"
+        }
+      ],
+      "evidence": [
+        "张御和恽尘两人站在乘常道派最高处的高台上",
+        "张御看着其消失之处，心下一思，能唤青阳轮的回去的，那应该只有竺玄首了。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "恽尘",
+      "aliases": [
+        "恽道长"
+      ],
+      "identity": "乘常道派修士",
+      "faction": "乘常道派",
+      "status": "登场",
+      "first_appearance": "第九十九章 潮起",
+      "summary": "乘常道派修士，与张御一同观察敌情。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御在高台交谈，后去接待精诚道派的人。"
+        }
+      ],
+      "evidence": [
+        "张御和恽尘两人站在乘常道派最高处的高台上",
+        "恽尘对张御一拱手，道：“玄正，我先离开片刻。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [],
+      "identity": "玄府玄首",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第九十九章 潮起",
+      "summary": "玄府玄首，召回了青阳轮。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "青阳轮"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "明善道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "召回青阳轮，并告知明善道人“那人醒了”。"
+        }
+      ],
+      "evidence": [
+        "能唤青阳轮的回去的，那应该只有竺玄首了。",
+        "竺玄首背对着他站在那里，身边正漂浮着那闪烁不定的青阳轮"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "明善道人",
+      "aliases": [],
+      "identity": "鹤殿修士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第九十九章 潮起",
+      "summary": "鹤殿修士，用拂尘击杀了两名密谋者，后向竺玄首汇报。",
+      "appearance": [],
+      "personality": [
+        "果断"
+      ],
+      "abilities": [
+        "使用拂尘攻击"
+      ],
+      "equipment": [
+        "拂尘"
+      ],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击杀蒙老和另一人，后到鹤殿见竺玄首。"
+        }
+      ],
+      "evidence": [
+        "明善道人面无表情看着对岸的车马仓皇而去，把方才拂尘收回",
+        "明善道人一怔，随即一惊，不觉抬头往某个方向看去。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "袁并",
+      "aliases": [
+        "袁少郎"
+      ],
+      "identity": "密使",
+      "faction": "不明",
+      "status": "登场",
+      "first_appearance": "第九十九章 潮起",
+      "summary": "前往鹤殿交涉的密使，成功说服对方后返回，目睹同伴被杀后逃离。",
+      "appearance": [],
+      "personality": [
+        "惊恐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "蒙老",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从湖心岛返回，告知事成，随后蒙老和另一人被杀，他逃离。"
+        }
+      ],
+      "evidence": [
+        "袁并脸上露出笑容，对着两人一拱手，道：“两位，幸不辱命。”",
+        "袁并惊恐看着这一幕，他闻着洒到自己身上的那股浓烈血腥味，不禁弯腰吐了出来"
+      ],
+      "mention_count": 4
+    },
     {
       "name": "蒙老",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "密谋者",
+      "faction": "不明",
+      "status": "死亡",
       "first_appearance": "第九十九章 潮起",
-      "summary": "蒙老，你看此事可成么",
+      "summary": "与袁并一同密谋的蒙老，被明善道人击杀。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "蒙老，你看此事可成么",
-        "”    被称作蒙老的人言道：“那位当年欠下的人情非小，那枚玉匕也是那位亲手所赠，不还此承负，那位恐怕道法难成",
-        "”    蒙老沉声道：“那位修的乃是出世之道，何为出世"
+      "relationships": [
+        {
+          "target": "袁并",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在车厢中与袁并交谈，随后被明善道人击杀。"
+        }
+      ],
+      "evidence": [
+        "蒙老对面那人语声之中露出喜色，道：“蒙老，看来是事成了！”",
+        "忽然他的天灵盖砰的一声爆开"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "俊美少年",
+      "aliases": [
+        "左辅国"
+      ],
+      "identity": "霜洲左辅国",
+      "faction": "霜洲",
       "status": "登场",
       "first_appearance": "第九十九章 潮起",
-      "summary": "第九十九章 潮起    张御和恽尘两人站在乘常道派最高处的高台上，看着派内修士一个个驾光飞遁出去，追逐驱赶远空那些忽隐忽现的飞舟",
-      "appearance": [],
-      "personality": [],
+      "summary": "霜洲左辅国，银发金眼，率领霜洲军队准备进攻。",
+      "appearance": [
+        "银色的头发",
+        "金色的眼睛",
+        "俊美",
+        "腰悬佩剑"
+      ],
+      "personality": [
+        "高傲",
+        "孤寂",
+        "坚定"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "佩剑"
+      ],
+      "relationships": [
+        {
+          "target": "方领军",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒原上回忆童年，随后下令出发进攻。"
+        }
+      ],
       "evidence": [
-        "第九十九章 潮起    张御和恽尘两人站在乘常道派最高处的高台上，看着派内修士一个个驾光飞遁出去，追逐驱赶远空那些忽隐忽现的飞舟",
-        "”    张御道：“他们自然是不希望看到玄府整合所有域外道派的，不过外部的敌人并不可怕，关键是那些来自内部的敌人",
-        "”    恽尘对张御一拱手，道：“玄正，我先离开片刻"
+        "俊美少年没有回头，看着前方道：“方领军，你这一生最想做的事是什么？”",
+        "俊美少年金色的眼眸陡然变得凌厉起来，他往自己那艘巨舟走去"
       ],
       "mention_count": 8
     },
     {
       "name": "方领军",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "霜洲领军",
+      "faction": "霜洲",
       "status": "登场",
       "first_appearance": "第九十九章 潮起",
-      "summary": "方领军来到了他的背后，抱拳道：“左辅国",
+      "summary": "霜洲领军，向俊美少年汇报并准备迎接飞舟。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方领军来到了他的背后，抱拳道：“左辅国",
-        "”    俊美少年没有回头，看着前方道：“方领军，你这一生最想做的事是什么",
-        "”    方领军想了一想，谨慎回答道：“或许是更长的一生吧"
+      "relationships": [
+        {
+          "target": "俊美少年",
+          "type": "上级"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "来到俊美少年背后，汇报后去迎接飞舟。"
+        }
+      ],
+      "evidence": [
+        "方领军来到了他的背后，抱拳道：“左辅国。”",
+        "方领军用力一抱拳，就往那些飞舟迎去。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "俊美",
+      "name": "廖和",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "丹庐派派主",
+      "faction": "丹庐派",
       "status": "登场",
       "first_appearance": "第九十九章 潮起",
-      "summary": "苍茫的荒原之上，俊美少年腰悬佩剑，一个人站在这里，衣袂被风不时吹拂着",
+      "summary": "丹庐派派主，决定前往乘常道派支援。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苍茫的荒原之上，俊美少年腰悬佩剑，一个人站在这里，衣袂被风不时吹拂着",
-        "”    俊美少年没有回头，看着前方道：“方领军，你这一生最想做的事是什么",
-        "”    俊美少年点头道：“很实际的想法"
+      "personality": [
+        "果断"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "俊美少",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "苍茫的荒原之上，俊美少年腰悬佩剑，一个人站在这里，衣袂被风不时吹拂着",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苍茫的荒原之上，俊美少年腰悬佩剑，一个人站在这里，衣袂被风不时吹拂着",
-        "”    俊美少年没有回头，看着前方道：“方领军，你这一生最想做的事是什么",
-        "”    俊美少年点头道：“很实际的想法"
+      "equipment": [
+        "锦云"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "俊美少年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "苍茫的荒原之上，俊美少年腰悬佩剑，一个人站在这里，衣袂被风不时吹拂着",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "苍茫的荒原之上，俊美少年腰悬佩剑，一个人站在这里，衣袂被风不时吹拂着",
-        "”    俊美少年没有回头，看着前方道：“方领军，你这一生最想做的事是什么",
-        "”    俊美少年点头道：“很实际的想法"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "归附对象"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "玄正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "恽尘道：“玄正，霜洲人这次来的人恐怕不会少",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "恽尘道：“玄正，霜洲人这次来的人恐怕不会少",
-        "”    恽尘知道他说得什么意思，点头道：“玄正放心，这些天到来的修士，我会用心查验，不会漏过哪怕一人",
-        "”    这时一个弟子走了过来，拱手道：“玄正，恽道长，精诚道派的人到了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞遁途中发现霜洲飞舟，决定继续前往乘常道派帮忙。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "霜洲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "这说明霜洲人即将到来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这说明霜洲人即将到来",
-        "恽尘道：“玄正，霜洲人这次来的人恐怕不会少",
-        "不过这件正好发生在即将准备与霜洲一战的当口，这未免也有些太过巧合了"
+        "丹庐派派主廖和和他的四个弟子",
+        "廖和思考片刻，道：“去！不但要去，还要去帮忙！”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "”    张御道：“他们自然是不希望看到玄府整合所有域外道派的，不过外部的敌人并不可怕，关键是那些来自内部的敌人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“他们自然是不希望看到玄府整合所有域外道派的，不过外部的敌人并不可怕，关键是那些来自内部的敌人",
-        "安寿郡中，停在湖畔的车队之中，有两个身着罩衣，遮住头脸的人藏身在车厢之中，他们透过车窗上的琉璃壁，正看着远处湖心岛上高耸的鹤殿",
-        "”    等了很长一会儿，两人见袁并自湖心岛上乘舟回返，他们按捺住心中激动，等到袁并上了岸，坐回到了车厢之中，这才急急问道：“怎么样"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "方领",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "方领军来到了他的背后，抱拳道：“左辅国",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "方领军来到了他的背后，抱拳道：“左辅国",
-        "”    俊美少年没有回头，看着前方道：“方领军，你这一生最想做的事是什么",
-        "”    方领军想了一想，谨慎回答道：“或许是更长的一生吧"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "这宝物一到外面，那股牵引之力便一下大了数倍不止，其只是稍稍挣扎了一下，随着一道青光绽放，而后再是剧烈一闪，这宝物便就消失不见了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这宝物一到外面，那股牵引之力便一下大了数倍不止，其只是稍稍挣扎了一下，随着一道青光绽放，而后再是剧烈一闪，这宝物便就消失不见了",
-        "”    随着他命令一下，地面之上密密麻麻的飞舟开始绽放光华，而后带着隆隆震动之声开始缓缓升空，并在巨舟带领之下往北方转向，而后一艘接着一艘不断化流光飞去",
-        "廖和这驾云飞遁之时，他若有所觉往远处看了一眼，而后神色一变，伸手在下方锦云之上一按，霎时白色的云气涌动上来，将他与身后的弟子都是笼罩进去"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十九章 潮起",
-      "summary": "”    蒙老不觉大喜，抚须道：“好好，我们走",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    蒙老不觉大喜，抚须道：“好好，我们走",
-        "”    可就“好”这一字的说出口时候，忽然他的天灵盖砰的一声爆开，直到他面带喜色的把“我们走”几个字说出去，整个人才倒了下去",
-        "俊美少年打量着眼前的死寂平原，“那时候我就知道，霜洲与这个世界是格格不入的，我们是没有办法调和到一起的，不是我们毁灭他们，就是他们毁灭我们"
-      ],
-      "mention_count": 5
+      "mention_count": 3
     }
   ]
 }

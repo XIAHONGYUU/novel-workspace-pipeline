@@ -1,258 +1,330 @@
 {
   "chunk_id": "chunk-1515",
-  "title": "第九十三章 执序正法度",
   "characters": [
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "”    张御这时开口道：“御却以为，对于方景凛此人，却是不能不作理会",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御这时开口道：“御却以为，对于方景凛此人，却是不能不作理会",
-        "”    张御抬眼看着陈首执，道：“御之建言，尽快拿下此人",
-        "”    张御道：“这位方上尊说他能让这些云海之中潜修的同道听他安抚，从而顺从玄廷的安排，那么是否可以说，他同样也能让这些同道不服从玄廷的谕令呢"
-      ],
-      "mention_count": 20
-    },
-    {
       "name": "陈首执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "第九十三章 执序正法度    陈首执在行事风格比庄首执强硬的多，当然这也是因为庄首执在位之时的情势与此刻有所不同",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十三章 执序正法度    陈首执在行事风格比庄首执强硬的多，当然这也是因为庄首执在位之时的情势与此刻有所不同",
-        "”    陈首执看向他，道：“张廷执的打算是什么",
-        "”    张御抬眼看着陈首执，道：“御之建言，尽快拿下此人"
+      "aliases": [
+        "陈首执"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "陈首",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏首执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第九十三章 执序正法度",
-      "summary": "第九十三章 执序正法度    陈首执在行事风格比庄首执强硬的多，当然这也是因为庄首执在位之时的情势与此刻有所不同",
+      "summary": "天夏现任首执，行事强硬，主张以对抗元夏为上，严整规序。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十三章 执序正法度    陈首执在行事风格比庄首执强硬的多，当然这也是因为庄首执在位之时的情势与此刻有所不同",
-        "”    陈首执看向他，道：“张廷执的打算是什么",
-        "”    张御抬眼看着陈首执，道：“御之建言，尽快拿下此人"
+      "personality": [
+        "强硬",
+        "果断"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "明周",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "陈首执此刻见武廷执也不反对，便唤了一声，道：“明周",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "庄首执",
+          "type": "前任"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "方景凛",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与武廷执、张御商议处置方景凛之事，下令征召方景凛。"
+        }
+      ],
       "evidence": [
-        "陈首执此刻见武廷执也不反对，便唤了一声，道：“明周",
-        "”    台阶之下光芒一闪，明周道人出现在了那里，稽首一礼，道：“明周到此，请首执吩咐",
-        "”    明周道人打一个稽首，道：“明周遵谕"
+        "陈首执在行事风格比庄首执强硬的多",
+        "天夏内部基本平靖，最大的威胁就是来自于元夏",
+        "传我谕令，征召天夏潜修修士方景凛"
       ],
       "mention_count": 10
     },
     {
-      "name": "张廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "”    陈首执看向他，道：“张廷执的打算是什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    陈首执看向他，道：“张廷执的打算是什么",
-        "陈首执道：“张廷执准备怎么处置此事",
-        "”    陈首执看向武廷执，道：“武廷执，对张廷执此议，你可有建言"
-      ],
-      "mention_count": 8
-    },
-    {
       "name": "武廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "见他态度坚决，武廷执道：“那首执，若是我等回绝他，就就只能先按此前的定策，向所有同道逐个颁宣玄廷的大策了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "见他态度坚决，武廷执道：“那首执，若是我等回绝他，就就只能先按此前的定策，向所有同道逐个颁宣玄廷的大策了",
-        "”    武廷执一怔，看了他一眼，但随后似想到什么，也是在那里沉思",
-        "”    他看向陈首执和武廷执二人，道：“玉素廷执有一句话说得不错，有些人不愿意为天夏出力也还罢了，反还可能成为内患，那还不如扔去镇狱之中为好"
+      "aliases": [
+        "武廷执"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "张廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第九十三章 执序正法度",
-      "summary": "”    陈首执看向他，道：“张廷执的打算是什么",
+      "summary": "玄廷廷执，对张御的提议表示无异议，但倾向于先颁宣大策再针对个人。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    陈首执看向他，道：“张廷执的打算是什么",
-        "陈首执道：“张廷执准备怎么处置此事",
-        "”    陈首执看向武廷执，道：“武廷执，对张廷执此议，你可有建言"
+      "personality": [
+        "沉稳",
+        "谨慎"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "”    他看向陈首执和武廷执二人，道：“玉素廷执有一句话说得不错，有些人不愿意为天夏出力也还罢了，反还可能成为内患，那还不如扔去镇狱之中为好",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他看向陈首执和武廷执二人，道：“玉素廷执有一句话说得不错，有些人不愿意为天夏出力也还罢了，反还可能成为内患，那还不如扔去镇狱之中为好",
-        "”    他看向外面，道：“更何况，长孙廷执那处进展顺利，等到长孙廷执将外身打造成功，到时候我辈便是拿外身去与敌交手，拼的乃是外身之耗了，皆是就算有人有那个心思，也没有那个机会了",
-        "”他看行方道人，“方上尊，这便随我走一趟吧"
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "方景凛",
+          "type": "对立"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "明周道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "”    台阶之下光芒一闪，明周道人出现在了那里，稽首一礼，道：“明周到此，请首执吩咐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    台阶之下光芒一闪，明周道人出现在了那里，稽首一礼，道：“明周到此，请首执吩咐",
-        "”    明周道人打一个稽首，道：“明周遵谕",
-        "殿内光芒一闪，明周道人出现在了下方，稽首言道：“回禀廷执，方上尊拒绝了玄廷的征召"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与商议，对张御的提议表示无异议。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "稽首",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "”    台阶之下光芒一闪，明周道人出现在了那里，稽首一礼，道：“明周到此，请首执吩咐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    台阶之下光芒一闪，明周道人出现在了那里，稽首一礼，道：“明周到此，请首执吩咐",
-        "”    明周道人打一个稽首，道：“明周遵谕",
-        "殿内光芒一闪，明周道人出现在了下方，稽首言道：“回禀廷执，方上尊拒绝了玄廷的征召"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十三章 执序正法度",
-      "summary": "他认为似如这般人，若是进入了玄廷，不止是坏了天夏的规序，反还会给原本运行稳妥的玄廷带来无穷隐患",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他认为似如这般人，若是进入了玄廷，不止是坏了天夏的规序，反还会给原本运行稳妥的玄廷带来无穷隐患",
-        "见他态度坚决，武廷执道：“那首执，若是我等回绝他，就就只能先按此前的定策，向所有同道逐个颁宣玄廷的大策了",
-        "”    说到这里，他稍微停顿了一下，才又言道：“若是我们退让，或许这些潜修同道就会知道对抗玄廷是可以的，只要有这位方上尊带头，那么就能够让玄廷为之妥协，这一次若是成功了，那么下一次或许也是可以，故是此势必须打压下去"
+        "武廷执道：“那首执，若是我等回绝他，就就只能先按此前的定策，向所有同道逐个颁宣玄廷的大策了。”",
+        "武廷执沉声道：“张廷执此法，确实是解决此事的一个途径，武某对此并无异议。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "武廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张廷执",
+        "张御"
+      ],
+      "identity": "玄廷廷执、守正宫守正",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第九十三章 执序正法度",
-      "summary": "见他态度坚决，武廷执道：“那首执，若是我等回绝他，就就只能先按此前的定策，向所有同道逐个颁宣玄廷的大策了",
+      "summary": "玄廷廷执兼守正宫守正，主张尽快拿下方景凛，并亲自前往执行法度。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "坚定"
+      ],
+      "abilities": [
+        "战力高强"
+      ],
+      "equipment": [
+        "飞车"
+      ],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "方景凛",
+          "type": "对立"
+        },
+        {
+          "target": "明周道人",
+          "type": "传讯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议拿下方景凛，获首执同意后，等待两日，得知方拒绝征召，遂前往缉拿。"
+        }
+      ],
+      "evidence": [
+        "张御这时开口道：“御却以为，对于方景凛此人，却是不能不作理会。”",
+        "御之建言，尽快拿下此人！",
+        "我以玄廷廷执，守正宫守正之名，摄拿违命之人方景凛。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "方景凛",
+      "aliases": [
+        "方道人",
+        "方上尊"
+      ],
+      "identity": "天夏潜修修士",
+      "faction": "潜修修士",
+      "status": "登场",
+      "first_appearance": "第九十三章 执序正法度",
+      "summary": "天夏潜修修士，道法高深，曾两次向庄首执要求成为廷执，拒绝玄廷征召，被张御缉拿。",
+      "appearance": [],
+      "personality": [
+        "执念深",
+        "自恃功高"
+      ],
+      "abilities": [
+        "道法高深",
+        "求全道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "庄首执",
+          "type": "曾要求廷执之位"
+        },
+        {
+          "target": "陈首执",
+          "type": "对立"
+        },
+        {
+          "target": "张御",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拒绝玄廷征召，被张御以违命之名缉拿。"
+        }
+      ],
+      "evidence": [
+        "当初方道人两次向庄首执要求成为廷执",
+        "方上尊拒绝了玄廷的征召",
+        "我为玄廷立过大功，连庄首执都不曾拿我，你来拿我？"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "玄廷传讯道人",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第九十三章 执序正法度",
+      "summary": "玄廷的传讯道人，负责传达首执谕令。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "传讯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传达首执征召令，后禀告张御方景凛拒绝征召。"
+        }
+      ],
+      "evidence": [
+        "明周道人出现在了那里，稽首一礼",
+        "明周道人打一个稽首，道：“明周遵谕。”",
+        "殿内光芒一闪，明周道人出现在了下方，稽首言道：“回禀廷执，方上尊拒绝了玄廷的征召。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "庄首执",
+      "aliases": [
+        "庄首执"
+      ],
+      "identity": "天夏前任首执",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "第九十三章 执序正法度",
+      "summary": "天夏前任首执，行事较温和，曾顾念大局未拿方景凛。",
+      "appearance": [],
+      "personality": [
+        "顾全大局",
+        "念旧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "前任"
+        },
+        {
+          "target": "方景凛",
+          "type": "曾容忍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在位时内忧外患，未拿方景凛。"
+        }
+      ],
+      "evidence": [
+        "陈首执在行事风格比庄首执强硬的多",
+        "庄首执顾念大局，又念旧谊，想着方上尊可以放下执念"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "长孙廷执",
+      "aliases": [
+        "长孙廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "第九十三章 执序正法度",
+      "summary": "玄廷廷执，负责打造外身，进展顺利。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "外身打造进展顺利。"
+        }
+      ],
+      "evidence": [
+        "长孙廷执那处进展顺利，等到长孙廷执将外身打造成功"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉素廷执",
+      "aliases": [
+        "玉素廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "第九十三章 执序正法度",
+      "summary": "玄廷廷执，曾说过某些人不愿出力反成内患，应扔去镇狱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "观点被引用"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "见他态度坚决，武廷执道：“那首执，若是我等回绝他，就就只能先按此前的定策，向所有同道逐个颁宣玄廷的大策了",
-        "”    武廷执一怔，看了他一眼，但随后似想到什么，也是在那里沉思",
-        "”    他看向陈首执和武廷执二人，道：“玉素廷执有一句话说得不错，有些人不愿意为天夏出力也还罢了，反还可能成为内患，那还不如扔去镇狱之中为好"
+        "玉素廷执有一句话说得不错，有些人不愿意为天夏出力也还罢了，反还可能成为内患，那还不如扔去镇狱之中为好。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

@@ -1,258 +1,363 @@
 {
   "chunk_id": "chunk-0467",
-  "title": "第两百三十八章 子午",
   "characters": [
-    {
-      "name": "你们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百三十八章 子午",
-      "summary": "”    那温厚声音不疾不徐传来道：“放他进来就是了，你们自修你们的道，别被外物所扰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那温厚声音不疾不徐传来道：“放他进来就是了，你们自修你们的道，别被外物所扰",
-        "魏护卫盯着他道：“你们的复体只有三具，现在就只剩下最后一具了吧",
-        "若是这一具再失败，你们拿什么完成这个计划"
-      ],
-      "mention_count": 13
-    },
-    {
-      "name": "乌子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百三十八章 子午",
-      "summary": "第两百三十八章 子午    乌子巳很快来至藏山之前，在他忆识之中，自己已是来过一次了，故他一句话也没有多说，直接沿着旧路往里而来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百三十八章 子午    乌子巳很快来至藏山之前，在他忆识之中，自己已是来过一次了，故他一句话也没有多说，直接沿着旧路往里而来",
-        "”    乌子巳通过长长通道进来，踏入先前洞窟之中，又一次见到了那背对他而坐的道人",
-        "乌子巳上一次连出手都不来及，身躯就已是被对方所斩，所幸他观想图较为独特，故是还能裹挟着心光和神目一同离去"
-      ],
-      "mention_count": 10
-    },
     {
       "name": "乌子巳",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "造物修士复体",
+      "faction": "乌制院一方",
+      "status": "死亡",
       "first_appearance": "第两百三十八章 子午",
-      "summary": "第两百三十八章 子午    乌子巳很快来至藏山之前，在他忆识之中，自己已是来过一次了，故他一句话也没有多说，直接沿着旧路往里而来",
+      "summary": "乌制院派出的第二个复体，被蓝衫道人斩杀，意识受创后逃至外面死亡。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百三十八章 子午    乌子巳很快来至藏山之前，在他忆识之中，自己已是来过一次了，故他一句话也没有多说，直接沿着旧路往里而来",
-        "”    乌子巳通过长长通道进来，踏入先前洞窟之中，又一次见到了那背对他而坐的道人",
-        "乌子巳上一次连出手都不来及，身躯就已是被对方所斩，所幸他观想图较为独特，故是还能裹挟着心光和神目一同离去"
+      "abilities": [
+        "心光",
+        "神目",
+        "观想图"
       ],
-      "mention_count": 10
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌制院",
+          "type": "制造者"
+        },
+        {
+          "target": "乌子辰",
+          "type": "前一个复体"
+        },
+        {
+          "target": "乌子午",
+          "type": "后一个复体"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入藏山洞窟与蓝衫道人交战，被剑光斩杀，意识逃出后死亡。"
+        }
+      ],
+      "evidence": [
+        "乌子巳很快来至藏山之前",
+        "乌子巳上一次连出手都不来及，身躯就已是被对方所斩",
+        "乌子巳出现在了此间，而后盘膝坐了下来，过去片刻，头颅往自己胸前一垂，便就一动不动了。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "而这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "蓝衫道人",
+      "aliases": [
+        "师兄",
+        "那道人"
+      ],
+      "identity": "藏山一脉的修道高人",
+      "faction": "藏山",
+      "status": "死亡",
       "first_appearance": "第两百三十八章 子午",
-      "summary": "然而这等时候，一道异常锐利剑光升腾了起来，就好像阳芒自天穹刺来，此刻乌制院等人即便隔着光幕，还提前闭上了眼睛，却也是感觉一阵失神",
+      "summary": "藏山一脉的修道高人，坐镇洞窟，以剑光斩杀乌子巳，后与乌子午交手后身死。",
+      "appearance": [
+        "蓝衫"
+      ],
+      "personality": [
+        "执着于自身功行"
+      ],
+      "abilities": [
+        "剑光",
+        "诛心夺魄"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林道人",
+          "type": "师弟"
+        },
+        {
+          "target": "关轩",
+          "type": "师弟"
+        },
+        {
+          "target": "于复",
+          "type": "弟子"
+        },
+        {
+          "target": "楚师弟",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "先后与乌子巳、乌子午交手，最终身死化灰。"
+        }
+      ],
+      "evidence": [
+        "那背对他而坐的道人",
+        "那一道剑光升腾了起来",
+        "身躯顿时化为一堆烟尘，飘散而去，唯余一件空空如也的道袍垂落在地。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "乌子午",
+      "aliases": [],
+      "identity": "造物修士复体（第三具）",
+      "faction": "乌制院一方",
+      "status": "存活",
+      "first_appearance": "第两百三十八章 子午",
+      "summary": "乌制院派出的第三个复体，接收了前两个复体的意识，与蓝衫道人交手后似乎获胜。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "心光",
+        "观想图",
+        "飘渺活物"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "乌制院",
+          "type": "制造者"
+        },
+        {
+          "target": "乌子辰",
+          "type": "前一个复体"
+        },
+        {
+          "target": "乌子巳",
+          "type": "前一个复体"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接收乌子巳意识后进入藏山洞窟，与蓝衫道人交手，之后转身离去。"
+        }
+      ],
       "evidence": [
-        "然而这等时候，一道异常锐利剑光升腾了起来，就好像阳芒自天穹刺来，此刻乌制院等人即便隔着光幕，还提前闭上了眼睛，却也是感觉一阵失神",
-        "而这一次，那剑光在斩入他心光之中时，却似被什么所阻挡，就好像极快的剑刃斩入到了粘稠的水流之中，变得缓顿起来",
-        "而这一回，他意识到对方来历颇不简单，若是不彻底绞杀，恐会还会有后患留下，故是这一次准备不再留有余地"
+        "乌制院上前给其定名“乌子午”",
+        "乌子午在进入洞厅之后，凝视着那道人，未有任何言语，身上心光瞬时绽放出来",
+        "乌子午定定看了那道人一眼，转身向外走去。"
       ],
       "mention_count": 8
     },
     {
       "name": "乌制院",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "计划负责人",
+      "faction": "乌制院一方",
+      "status": "存活",
       "first_appearance": "第两百三十八章 子午",
-      "summary": "然而这等时候，一道异常锐利剑光升腾了起来，就好像阳芒自天穹刺来，此刻乌制院等人即便隔着光幕，还提前闭上了眼睛，却也是感觉一阵失神",
+      "summary": "负责派遣复体执行计划的人物，对复体计划有信心。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "然而这等时候，一道异常锐利剑光升腾了起来，就好像阳芒自天穹刺来，此刻乌制院等人即便隔着光幕，还提前闭上了眼睛，却也是感觉一阵失神",
-        "”    乌制院听了他的判断，低头想了一想，随后一抬头，果断言道：“启动第三具复体",
-        "魏护卫看向乌制院，道：“乌制院倒是一点都不担心"
+      "personality": [
+        "果断"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百三十八章 子午",
-      "summary": "他看着那已然失去气息复体，伸出手去，而这个时候，坐在那里复体似是受到了同源心光的牵引，一只手也是抬升而起，并张开五指向他迎来",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看着那已然失去气息复体，伸出手去，而这个时候，坐在那里复体似是受到了同源心光的牵引，一只手也是抬升而起，并张开五指向他迎来",
-        "他看了看自己手掌，身上同时有一团白色飘渺云光闪动了一下，好似是一个什么活物，可旋即便隐没不见",
-        "等他身影再度落地时，已是来到了前两个复体来过的那处洞窟之内，他看了眼尽头，便一步步走了过来"
+      "equipment": [
+        "拐杖"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "林道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百三十八章 子午",
-      "summary": "”    林道人辨了一下，道：“是有些古怪，连气机也是一般无二，可总有一些地方不太相同",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    林道人辨了一下，道：“是有些古怪，连气机也是一般无二，可总有一些地方不太相同",
-        "”    林道人恭敬道：“是，师兄",
-        "”    林道人、关轩、于复三人本在洞府修持，闻听他声音，立时从赶到这处洞窟之中"
+      "relationships": [
+        {
+          "target": "乌子辰",
+          "type": "制造者"
+        },
+        {
+          "target": "乌子巳",
+          "type": "制造者"
+        },
+        {
+          "target": "乌子午",
+          "type": "制造者"
+        },
+        {
+          "target": "魏护卫",
+          "type": "对话者"
+        },
+        {
+          "target": "金大匠",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与魏护卫、金大匠观察战斗，决定启动第三具复体。"
+        }
+      ],
+      "evidence": [
+        "乌制院听了他的判断，低头想了一想，随后一抬头，果断言道：“启动第三具复体！”",
+        "乌制院沉声道：“不，虽然复体只剩下最后一具，可是我相信我们是不会失败的。”"
+      ],
+      "mention_count": 6
     },
     {
       "name": "魏护卫",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "护卫",
+      "faction": "乌制院一方",
+      "status": "存活",
       "first_appearance": "第两百三十八章 子午",
-      "summary": "魏护卫神情复杂，道：“他失败了",
+      "summary": "在旁观察战斗并质疑乌制院的护卫。",
+      "appearance": [],
+      "personality": [
+        "质疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌制院",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与乌制院讨论复体计划。"
+        }
+      ],
+      "evidence": [
+        "魏护卫神情复杂，道：“他失败了。”",
+        "魏护卫盯着他道：“你们的复体只有三具，现在就只剩下最后一具了吧？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "金大匠",
+      "aliases": [],
+      "identity": "工匠",
+      "faction": "乌制院一方",
+      "status": "存活",
+      "first_appearance": "第两百三十八章 子午",
+      "summary": "负责操作琉璃舱等设备的工匠。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魏护卫神情复杂，道：“他失败了",
-        "”    魏护卫摇头道：“没用了，那名真修似能斩杀对手的意识心神，那复体虽然及时遁离了出去，可是意识已然受到了重创，仅仅也只是能坚持到逃至外面罢了，仍旧护不住自身性命",
-        "魏护卫看向乌制院，道：“乌制院倒是一点都不担心"
+      "relationships": [
+        {
+          "target": "乌制院",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察战斗，执行乌制院的命令。"
+        }
+      ],
+      "evidence": [
+        "金大匠诧异道：“这是怎么了？”",
+        "金大匠马上道了一声是。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "林道人",
+      "aliases": [
+        "林师弟"
+      ],
+      "identity": "藏山一脉的修士",
+      "faction": "藏山",
+      "status": "存活",
+      "first_appearance": "第两百三十八章 子午",
+      "summary": "蓝衫道人的师弟，被托付照拂后辈。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "蓝衫道人",
+          "type": "师兄"
+        },
+        {
+          "target": "关轩",
+          "type": "同门"
+        },
+        {
+          "target": "于复",
+          "type": "师侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被蓝衫道人唤来，接受嘱托。"
+        }
+      ],
+      "evidence": [
+        "林道人辨了一下，道：“是有些古怪”",
+        "林道人、关轩、于复三人本在洞府修持，闻听他声音，立时从赶到这处洞窟之中。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "关轩",
+      "aliases": [],
+      "identity": "藏山一脉的修士",
+      "faction": "藏山",
+      "status": "存活",
+      "first_appearance": "第两百三十八章 子午",
+      "summary": "藏山一脉的修士，对乌子巳的出现感到惊疑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "蓝衫道人",
+          "type": "师兄"
+        },
+        {
+          "target": "林道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被蓝衫道人唤来。"
+        }
+      ],
+      "evidence": [
+        "关轩露出惊疑之色，他在自己洞府之中传声道：“林师兄，此人不是被尹师兄斩杀了么？怎么又再次出现了？”"
+      ],
+      "mention_count": 2
     },
     {
       "name": "于复",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "蓝衫道人的弟子",
+      "faction": "藏山",
+      "status": "存活",
       "first_appearance": "第两百三十八章 子午",
-      "summary": "”    林道人、关轩、于复三人本在洞府修持，闻听他声音，立时从赶到这处洞窟之中",
+      "summary": "蓝衫道人的弟子，天资最好，被嘱托帮衬林道人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    林道人、关轩、于复三人本在洞府修持，闻听他声音，立时从赶到这处洞窟之中",
-        "”    林道人听了此言，大惊失色，道：“师兄，你……”    于复也是吃了一惊，着紧道：“师父",
-        "”    他又唤道：“于复"
+      "relationships": [
+        {
+          "target": "蓝衫道人",
+          "type": "师父"
+        },
+        {
+          "target": "林道人",
+          "type": "师叔"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "林道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百三十八章 子午",
-      "summary": "”    林道人辨了一下，道：“是有些古怪，连气机也是一般无二，可总有一些地方不太相同",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    林道人辨了一下，道：“是有些古怪，连气机也是一般无二，可总有一些地方不太相同",
-        "”    林道人恭敬道：“是，师兄",
-        "”    林道人、关轩、于复三人本在洞府修持，闻听他声音，立时从赶到这处洞窟之中"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被蓝衫道人唤来，接受嘱托。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "身上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百三十八章 子午",
-      "summary": "他没有迟疑犹豫，身上心光刷地展开，霎时撑满洞窟，直接向着那道人压了过去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他没有迟疑犹豫，身上心光刷地展开，霎时撑满洞窟，直接向着那道人压了过去",
-        "他看了看自己手掌，身上同时有一团白色飘渺云光闪动了一下，好似是一个什么活物，可旋即便隐没不见",
-        "他往前方藏山方向望有一眼，身上遁光一闪，便就飞驰而来"
+        "于复也是吃了一惊，着紧道：“师父？”",
+        "于复压住心中情绪，上前一步，拜礼道：“师父，弟子在！”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "魏护",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百三十八章 子午",
-      "summary": "魏护卫神情复杂，道：“他失败了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "魏护卫神情复杂，道：“他失败了",
-        "”    魏护卫摇头道：“没用了，那名真修似能斩杀对手的意识心神，那复体虽然及时遁离了出去，可是意识已然受到了重创，仅仅也只是能坚持到逃至外面罢了，仍旧护不住自身性命",
-        "魏护卫看向乌制院，道：“乌制院倒是一点都不担心"
-      ],
-      "mention_count": 6
+      "mention_count": 3
     }
   ]
 }

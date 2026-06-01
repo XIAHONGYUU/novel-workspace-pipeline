@@ -1,256 +1,293 @@
 {
   "chunk_id": "chunk-1986",
-  "title": "第五百五十三章 乱波余不平",
   "characters": [
     {
-      "name": "两殿",
+      "name": "向司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "两殿司议",
+      "faction": "元夏两殿",
       "status": "登场",
       "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "第五百五十三章 乱波余不平    元上顶中，两殿诸司议正面色肃穆的坐守在青玉莲花座上，各自催发自身法力",
+      "summary": "两殿司议之一，负责镇压天机，对局势有清醒认识。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "善于观察"
+      ],
+      "abilities": [
+        "修道",
+        "利用镇道之宝镇压天机"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "仇司议",
+          "type": "同僚"
+        },
+        {
+          "target": "越司议",
+          "type": "同僚"
+        },
+        {
+          "target": "兰司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上顶中坐守，镇压天机，并观察上三世使者到来。"
+        }
+      ],
+      "evidence": [
+        "向司议这时留意外间，天机失序，如他这般的修道人已经是能隐隐能感觉到什么了",
+        "向司议在旁不说话，他认为要是上三世真的怪责，当不会是派遣这三人过来"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "兰司议",
+      "aliases": [],
+      "identity": "两殿司议",
+      "faction": "元夏两殿",
+      "status": "登场",
+      "first_appearance": "第五百五十三章 乱波余不平",
+      "summary": "两殿司议之一，负责通报上三世来人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百五十三章 乱波余不平    元上顶中，两殿诸司议正面色肃穆的坐守在青玉莲花座上，各自催发自身法力",
-        "而不仅仅是两殿这里，各个世道包括上三世也都在加派人手处置此事",
-        "两殿这里虽然保持着先前的实力，可两殿同样也要需要负责定压调理好归属于两殿的镇道之宝，同时还要维持那些与天夏对峙的镇道之宝的力量，这样一来，能守御稳妥就不错了，根本无力对外做什么"
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通报上三世之人到来。"
+        }
+      ],
+      "evidence": [
+        "兰司议声音响起道：“诸位司议，上三世之人又来了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "管道人",
+      "aliases": [
+        "管某"
+      ],
+      "identity": "上三世使者",
+      "faction": "元夏上三世",
+      "status": "登场",
+      "first_appearance": "第五百五十三章 乱波余不平",
+      "summary": "上三世派遣的传讯使者，负责传达上三世对两殿的不满。",
+      "appearance": [],
+      "personality": [
+        "冷漠",
+        "公事公办"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "越司议",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "奉上三世之命前来传讯，指责两殿未能驱敌。"
+        }
+      ],
+      "evidence": [
+        "管道人等人根本不理会，看都没有多看一眼，直接从车驾上下来",
+        "管某等奉上三世诸位上真之命前来传讯"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "越司议",
+      "aliases": [],
+      "identity": "两殿司议",
+      "faction": "元夏两殿",
+      "status": "登场",
+      "first_appearance": "第五百五十三章 乱波余不平",
+      "summary": "两殿司议之一，主动揽下过错，回应上三世使者。",
+      "appearance": [],
+      "personality": [
+        "主动",
+        "有策略"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "管道人",
+          "type": "对话"
+        },
+        {
+          "target": "向司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "代表两殿回应上三世使者，承认过错并表态。"
+        }
+      ],
+      "evidence": [
+        "越司议回道：“上三世诸位上真说得不错。这次的确是我两殿有负所托”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "仇司议",
+      "aliases": [],
+      "identity": "两殿司议",
+      "faction": "元夏两殿",
+      "status": "提及",
+      "first_appearance": "第五百五十三章 乱波余不平",
+      "summary": "两殿司议之一，被向司议隐晦观察，但表情笃定。",
+      "appearance": [],
+      "personality": [
+        "笃定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被向司议隐晦观察，但脸上无不安表情。"
+        }
+      ],
+      "evidence": [
+        "他隐晦的看了一眼仇司议，只是此人脸上却是没什么不安表情"
+      ],
+      "mention_count": 1
     },
     {
       "name": "武廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执，此战主持之人",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "而在天夏这一边，武廷执首先将元夏之事呈报回去，告知陈首执知晓，同时他也是问询，借此机会，天夏是否可蕴化出合适的镇道之宝",
+      "summary": "天夏廷执，负责主持对元夏的征讨，决定张御不参与此次行动。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在天夏这一边，武廷执首先将元夏之事呈报回去，告知陈首执知晓，同时他也是问询，借此机会，天夏是否可蕴化出合适的镇道之宝",
-        "武廷执则把张御请留下来，问道：“我观张廷执，似乎方才有话要说",
-        "”    武廷执神情郑重起来，问道：“张廷执能寻到此人"
+      "personality": [
+        "果断",
+        "重视张御"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "武廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "而在天夏这一边，武廷执首先将元夏之事呈报回去，告知陈首执知晓，同时他也是问询，借此机会，天夏是否可蕴化出合适的镇道之宝",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将元夏之事呈报陈首执，并召集诸廷执商议策略。"
+        },
+        {
+          "stage": "当前",
+          "event": "决定张御不参与十日后的征讨，让其专心寻道。"
+        }
+      ],
       "evidence": [
-        "而在天夏这一边，武廷执首先将元夏之事呈报回去，告知陈首执知晓，同时他也是问询，借此机会，天夏是否可蕴化出合适的镇道之宝",
-        "武廷执则把张御请留下来，问道：“我观张廷执，似乎方才有话要说",
-        "”    武廷执神情郑重起来，问道：“张廷执能寻到此人"
+        "武廷执首先将元夏之事呈报回去，告知陈首执知晓",
+        "武廷执看着他，郑重道：“张廷执，务必小心！”"
       ],
       "mention_count": 6
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "武廷执则把张御请留下来，问道：“我观张廷执，似乎方才有话要说",
+      "summary": "天夏廷执，需对付一人，疑为背后推动暗手之人，决定在十日内了结此事。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "武廷执则把张御请留下来，问道：“我观张廷执，似乎方才有话要说",
-        "”    张御道：“御需对付一人，疑此前许多暗手，背后皆有此人推动，而且御与其人之间似有承负之缠，若要有求于功果，则此人必要除去，故需与此人一战，以定生死",
-        "”    张御道：“此人乃是由神虚来寻，我亦可由神虚寻去"
+      "personality": [
+        "自信",
+        "果断"
       ],
-      "mention_count": 6
+      "abilities": [
+        "神虚斗战"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向武廷执提出需对付一人，并决定在十日内了结。"
+        },
+        {
+          "stage": "当前",
+          "event": "回到主舟，准备牵引神气。"
+        }
+      ],
+      "evidence": [
+        "张御道：“御需对付一人，疑此前许多暗手，背后皆有此人推动”",
+        "张御略作思索，说实话，到了这一步，元夏就算捱过了这一次天机变乱的大潮"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "上三世",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "而不仅仅是两殿这里，各个世道包括上三世也都在加派人手处置此事",
+      "summary": "天夏廷执，提出集中力量攻击半觉仙的策略。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "有策略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而不仅仅是两殿这里，各个世道包括上三世也都在加派人手处置此事",
-        "因为此前同天夏的斗战，着实从各世道中抽调了不少人，现在恰是一个空缺，许多世道自己已然无能为力，上三世道不得不又派遣出人手去往其余诸世道施援",
-        "就在这么想时，虚空之中，忽然有三团光华闪烁了一下，兰司议声音响起道：“诸位司议，上三世之人又来了"
+      "relationships": [
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "至多",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "所能做的，至多也就是两殿自承之过暂且压下，让两殿来个“戴罪立功”",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "所能做的，至多也就是两殿自承之过暂且压下，让两殿来个“戴罪立功”",
-        "管道人一直面无表情，对这番话没有任何评议，他清楚自己只是充当一个传话之人罢了，至多只是表现出一些该有的态度罢了，他道：“管某会将这番交代如数转告上三世诸位上真"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提出攻击半觉仙的策略，被诸廷执同意。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "上三",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "而不仅仅是两殿这里，各个世道包括上三世也都在加派人手处置此事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "而不仅仅是两殿这里，各个世道包括上三世也都在加派人手处置此事",
-        "因为此前同天夏的斗战，着实从各世道中抽调了不少人，现在恰是一个空缺，许多世道自己已然无能为力，上三世道不得不又派遣出人手去往其余诸世道施援",
-        "就在这么想时，虚空之中，忽然有三团光华闪烁了一下，兰司议声音响起道：“诸位司议，上三世之人又来了"
+        "林廷执认为，先前元夏为破他们阵势，镇道之宝的威能陡然提升了一层"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "只是现在看着天夏那里还没有动静，应该是在没有辨明情况的前提之下不想动，也可能是想等到元夏方面深陷泥潭之后才是出击",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是现在看着天夏那里还没有动静，应该是在没有辨明情况的前提之下不想动，也可能是想等到元夏方面深陷泥潭之后才是出击",
-        "现在这几条真龙只是被波及到了一点，便就外鳞内腑都是支离破碎，若非强横的生命力，早已是倒毙在半途了",
-        "可即便到了这般境地，座上几人都是神情冷漠，对他们不闻不问，也没有任何遮护的意思，在他们看来，不过只是一些驾车的长虫，就算眼前没了，回头换了就是了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "就算",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "两殿上层对此也在商议对策，目前有半觉仙在那里，就算天夏有什么举动，也能挡住，可怕就怕天夏有什么后招，那么这一点被破开，那真是怎么也抵挡不了了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两殿上层对此也在商议对策，目前有半觉仙在那里，就算天夏有什么举动，也能挡住，可怕就怕天夏有什么后招，那么这一点被破开，那真是怎么也抵挡不了了",
-        "可即便到了这般境地，座上几人都是神情冷漠，对他们不闻不问，也没有任何遮护的意思，在他们看来，不过只是一些驾车的长虫，就算眼前没了，回头换了就是了",
-        "所以就算想追究，也没人可以追究"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "向司议",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "向司议这时留意外间，天机失序，如他这般的修道人已经是能隐隐能感觉到什么了，特别亲手利用镇道之宝镇压天机，更能直观感受到天机的变化",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "向司议这时留意外间，天机失序，如他这般的修道人已经是能隐隐能感觉到什么了，特别亲手利用镇道之宝镇压天机，更能直观感受到天机的变化",
-        "”    向司议在旁不说话，他认为要是上三世真的怪责，当不会是派遣这三人过来，而且两殿也不是上三世的下属，所以此来应当只是为此表明自身态度，这等诘难不过是做个样子罢了",
-        "”    向司议抬头看了看，这与他想得有些不同，没想到越司议主动揽下了过错，不过最后一句话说得十分有意思，他暗道：“不错，便是承认错处又如何"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "便就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "现在这几条真龙只是被波及到了一点，便就外鳞内腑都是支离破碎，若非强横的生命力，早已是倒毙在半途了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现在这几条真龙只是被波及到了一点，便就外鳞内腑都是支离破碎，若非强横的生命力，早已是倒毙在半途了",
-        "”    张御点首应下，他与武廷执别过后，便就回到了主舟之中，他吩咐诸人莫来搅扰，随后坐定下来，便试着牵引上那一缕似有若无的神气"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "此前",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百五十三章 乱波余不平",
-      "summary": "因为此前同天夏的斗战，着实从各世道中抽调了不少人，现在恰是一个空缺，许多世道自己已然无能为力，上三世道不得不又派遣出人手去往其余诸世道施援",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为此前同天夏的斗战，着实从各世道中抽调了不少人，现在恰是一个空缺，许多世道自己已然无能为力，上三世道不得不又派遣出人手去往其余诸世道施援",
-        "他环顾一眼，对着座上诸司议先是一礼，待直身之后，便神情一肃，道：“管某等奉上三世诸位上真之命前来传讯，诸位上真言，此前将各世道人手交托给两殿，乃是信重诸位，可是未曾想，两殿并未能驱敌于域外，故对两殿极是失望",
-        "”    张御道：“御需对付一人，疑此前许多暗手，背后皆有此人推动，而且御与其人之间似有承负之缠，若要有求于功果，则此人必要除去，故需与此人一战，以定生死"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

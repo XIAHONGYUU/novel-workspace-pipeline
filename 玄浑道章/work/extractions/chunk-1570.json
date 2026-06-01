@@ -1,245 +1,433 @@
 {
   "chunk_id": "chunk-1570",
-  "title": "第一百四十八章 局中可对争",
   "characters": [
     {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百四十八章 局中可对争",
+      "summary": "天夏玄廷的首执，坐镇中枢，调划布置，主导对抗元夏之战。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在清穹之舟中听取戴廷执复命，并安排后续事宜。"
+        }
+      ],
+      "evidence": [
+        "陈首执颌首道：“劳烦各位了。”",
+        "陈首执看了结果，不禁颔首一下",
+        "陈首执道：“此回胜战，确实值得庆贺，可也需看到，来犯之敌其实势不及我”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [
+        "戴廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百四十八章 局中可对争",
+      "summary": "天夏玄廷的廷执之一，负责束缚岳清泽和邹司议，并回玄廷复命。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岳清泽",
+          "type": "擒捉"
+        },
+        {
+          "target": "邹司议",
+          "type": "擒捉"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "束缚岳清泽和邹司议后回玄廷复命。"
+        }
+      ],
+      "evidence": [
+        "戴廷执束缚了岳清泽和邹司议二人之后，便即回到玄廷之上复命。"
+      ],
+      "mention_count": 1
+    },
+    {
       "name": "岳清泽",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "岳上真"
+      ],
+      "identity": "原元夏修道人，后降顺天夏",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "第一百四十八章 局中可对争    戴廷执束缚了岳清泽和邹司议二人之后，便即回到玄廷之上复命",
+      "summary": "原为元夏修道人，被擒后降顺天夏，并受命劝说丰神常。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "圆滑",
+        "有谋略"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百四十八章 局中可对争    戴廷执束缚了岳清泽和邹司议二人之后，便即回到玄廷之上复命",
-        "他看过之后，便先与韦廷执别过，穿渡云海，来至一处平台之上，并寻到了被暂时拘束此间的岳清泽，道：“岳上真，我奉玄廷之命而来，希望你能劝说那位与你一同到来的上真也是降顺天夏",
-        "”    岳清泽笑道：“这位丰道友可与我不一样，他可是兢兢业业保护元夏司议的……”说着，他又话锋一转，道：“可既然是天夏所委派，岳某一定尽力而为，立求将此事办得妥当"
+      "relationships": [
+        {
+          "target": "邹司议",
+          "type": "擒捉"
+        },
+        {
+          "target": "丰神常",
+          "type": "劝说"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "被戴廷执束缚后，受风道人委托劝说丰神常。"
+        }
+      ],
+      "evidence": [
+        "岳清泽笑道：“这位丰道友可与我不一样，他可是兢兢业业保护元夏司议的……”",
+        "岳清泽道：“丰道友，我只说几句话，说完便走。”",
+        "岳清泽见没能说动他，仔细一想，便知晓了缘故"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "丰神常",
+      "name": "邹司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "被擒",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "偌大一个圆坛，只有丰神常一个人坐在那里，且是闭目不动，便是知晓他来了也不说话",
+      "summary": "元夏司议，被戴廷执束缚擒捉。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "偌大一个圆坛，只有丰神常一个人坐在那里，且是闭目不动，便是知晓他来了也不说话",
-        "’    丰神常还是不说话",
-        "”他也不等丰神常答应，继续道：“我等原来也并非是元夏修道人，只是世域被覆，才为元夏卖命，不过是迫不得己罢了"
+      "relationships": [
+        {
+          "target": "戴廷执",
+          "type": "被擒"
+        },
+        {
+          "target": "岳清泽",
+          "type": "被擒"
+        }
       ],
-      "mention_count": 10
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "被戴廷执和岳清泽擒捉。"
+        }
+      ],
+      "evidence": [
+        "戴廷执束缚了岳清泽和邹司议二人之后",
+        "岳清泽道：“将邹司议擒了献给天夏”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "岳清",
+      "name": "武廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "第一百四十八章 局中可对争    戴廷执束缚了岳清泽和邹司议二人之后，便即回到玄廷之上复命",
+      "summary": "天夏廷执，负责壑界方面的事务，传回结果。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百四十八章 局中可对争    戴廷执束缚了岳清泽和邹司议二人之后，便即回到玄廷之上复命",
-        "他看过之后，便先与韦廷执别过，穿渡云海，来至一处平台之上，并寻到了被暂时拘束此间的岳清泽，道：“岳上真，我奉玄廷之命而来，希望你能劝说那位与你一同到来的上真也是降顺天夏",
-        "”    岳清泽笑道：“这位丰道友可与我不一样，他可是兢兢业业保护元夏司议的……”说着，他又话锋一转，道：“可既然是天夏所委派，岳某一定尽力而为，立求将此事办得妥当"
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "传回壑界方面的结果。"
+        }
       ],
-      "mention_count": 9
+      "evidence": [
+        "而这个时候，武廷执那边也已是有了结果传回。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "天夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张廷执",
+      "aliases": [
+        "张御"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "说是壑界那边主持局面之人非常之谨慎，也可以说是果断，在发现天夏居然直接派人，根本不与武廷执照面，立刻祭动法符，召唤乘青鸿羽，带着自己和一行主要之人离开了",
+      "summary": "天夏廷执，虚空斩敌，参与战后讨论。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "虚空斩敌"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "说是壑界那边主持局面之人非常之谨慎，也可以说是果断，在发现天夏居然直接派人，根本不与武廷执照面，立刻祭动法符，召唤乘青鸿羽，带着自己和一行主要之人离开了",
-        "陈首执看了结果，不禁颔首一下，这般看来，今回所有入侵天夏的元夏来犯之敌不是被击杀擒捉，就是遁逃了，此番危机已解",
-        "天夏诸廷执站在一处，打一个稽首，道：“此回全赖首执坐镇中枢，调划布置，张廷执虚空斩敌，诸廷执倾力用命，我天夏方才得此全胜"
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在玄廷中旁观并思考元夏之战。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "丰神",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "偌大一个圆坛，只有丰神常一个人坐在那里，且是闭目不动，便是知晓他来了也不说话",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "偌大一个圆坛，只有丰神常一个人坐在那里，且是闭目不动，便是知晓他来了也不说话",
-        "’    丰神常还是不说话",
-        "”他也不等丰神常答应，继续道：“我等原来也并非是元夏修道人，只是世域被覆，才为元夏卖命，不过是迫不得己罢了"
+        "张廷执虚空斩敌",
+        "张御在旁看着"
       ],
-      "mention_count": 8
+      "mention_count": 2
     },
     {
       "name": "韦廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "韦廷执道：“首执，此回可以让一众道脉的道友过来，一同商议下对抗元夏之事",
+      "summary": "天夏廷执，受命走访各道脉，商议对抗元夏之事。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "韦廷执道：“首执，此回可以让一众道脉的道友过来，一同商议下对抗元夏之事",
-        "”    陈首执道：“理应如此，不是我一家之事，韦廷执，风廷执，便由你们二位代为走一趟吧",
-        "”    韦廷执和风道人都是一礼应下"
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "与风道人一同走访各道脉。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "韦廷执道：“首执，此回可以让一众道脉的道友过来，一同商议下对抗元夏之事。”",
+        "韦廷执和风道人都是一礼应下。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "如今",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "风道人",
+      "aliases": [
+        "风廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "”    丰神常这时睁开眼睛，讽刺道：“好一个迫不得已，如今也是迫不得已么",
+      "summary": "天夏廷执，与韦廷执一同走访各道脉，并受命劝说岳清泽。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    丰神常这时睁开眼睛，讽刺道：“好一个迫不得已，如今也是迫不得已么",
-        "”    岳清泽也不恼，笑道：“那倒不会了，如今我已把元夏得罪到底，已经没办法改换门庭了",
-        "他看向丰神常，道：“我知道友你的顾虑，虽然元夏给我行了法仪，为我剔除了劫力，可是难知元夏还会有什么手段，不过我以往曾听说，天夏这里亦有办法对抗避劫丹丸，如今一看，果是如此啊"
+      "relationships": [
+        {
+          "target": "岳清泽",
+          "type": "委派"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "走访各道脉后，奉玄廷之命劝说岳清泽。"
+        }
+      ],
+      "evidence": [
+        "风道人心下微微一动，却是训天道章之中传来一个传讯。",
+        "风道人道：“那我便等着岳上真你的消息了。”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "道友",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "韦廷执道：“首执，此回可以让一众道脉的道友过来，一同商议下对抗元夏之事",
+      "summary": "天夏廷执，建议加强虚空世域的守御。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "韦廷执道：“首执，此回可以让一众道脉的道友过来，一同商议下对抗元夏之事",
-        "”    岳清泽笑道：“这位丰道友可与我不一样，他可是兢兢业业保护元夏司议的……”说着，他又话锋一转，道：“可既然是天夏所委派，岳某一定尽力而为，立求将此事办得妥当",
-        "岳清泽走上近前，一挥袖，摆开一方茶案，道：“丰道友，今日我给你带来了一壶好茶，天夏这边的茶也很好喝的很"
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在玄廷中建议加强虚空世域守御。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "林廷执这时道：“首执，这一回若是论功，虚空世域的坚守可谓功不可没”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "陈首执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "丰神常",
+      "aliases": [
+        "丰道友"
+      ],
+      "identity": "原元夏修道人，被俘后未降",
+      "faction": "元夏",
+      "status": "被俘",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "到了清穹之舟中，见到了陈首执，他稽首一礼，道：“首执，得正清镇守、严玄尊还有两位廷执相助之下，此行已将所有人都是擒捉",
+      "summary": "原元夏修道人，被天夏俘获，岳清泽试图劝降他。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "固执"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "到了清穹之舟中，见到了陈首执，他稽首一礼，道：“首执，得正清镇守、严玄尊还有两位廷执相助之下，此行已将所有人都是擒捉",
-        "”    陈首执颌首道：“劳烦各位了",
-        "陈首执看了结果，不禁颔首一下，这般看来，今回所有入侵天夏的元夏来犯之敌不是被击杀擒捉，就是遁逃了，此番危机已解"
+      "relationships": [
+        {
+          "target": "岳清泽",
+          "type": "被劝说"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "被拘束在法坛上，岳清泽前来劝说。"
+        }
+      ],
+      "evidence": [
+        "丰神常还是不说话。",
+        "丰神常这时睁开眼睛，讽刺道：“好一个迫不得已”",
+        "丰神常再次把眼闭上，但是岳清泽知道，这位心中已经有所动了"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "支道人",
+      "aliases": [
+        "支上真"
+      ],
+      "identity": "元夏上真",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "张御在旁看着，其实元夏这回攻打天夏只要多携带一些镇道之宝，哪怕只是一件，结果也是不一样的",
+      "summary": "元夏上真，乘虹归来，向盛司议报告失败。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御在旁看着，其实元夏这回攻打天夏只要多携带一些镇道之宝，哪怕只是一件，结果也是不一样的",
-        "张御微微点头，尽管这一战元夏没有动用全部的力量，可天夏又何尝是如此"
+      "relationships": [
+        {
+          "target": "盛筝",
+          "type": "下属"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "乘虹归来，求见盛司议。"
+        }
+      ],
+      "evidence": [
+        "支道人面上没有显露什么表情，他只道：“别问这么多，我需速寻盛司议说话。”",
+        "支道人吸了口气，便跟随此人而行"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "盛筝",
+      "aliases": [
+        "盛司议"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "倒是那元夏巨舟，不知是因为走得急，还是有意留人下来拖延之故，并没有及时处理掉，包括里面所有余下之人，却都是被全部完整的俘获了，不过想来元夏也不在乎这么一点人",
+      "summary": "元夏司议，在元上殿下殿等候支道人报告。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "倒是那元夏巨舟，不知是因为走得急，还是有意留人下来拖延之故，并没有及时处理掉，包括里面所有余下之人，却都是被全部完整的俘获了，不过想来元夏也不在乎这么一点人",
-        "陈首执看了结果，不禁颔首一下，这般看来，今回所有入侵天夏的元夏来犯之敌不是被击杀擒捉，就是遁逃了，此番危机已解",
-        "”    在场诸廷执回想这一战，也是心里感叹，他们本来以为这一战最多只能对抗元夏，并成功给予一定杀伤，顺带击退来敌便就不差了"
+      "relationships": [
+        {
+          "target": "支道人",
+          "type": "上级"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在殿中等待支道人，并预知失败。"
+        }
+      ],
+      "evidence": [
+        "盛筝已是负袖立于此间等候，他上来一礼，方要开口，盛筝却看了看他，先一步说道：“看来你们此番是失败了？”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "岳某",
+      "name": "严玄尊",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "天夏玄尊",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第一百四十八章 局中可对争",
-      "summary": "”    岳清泽笑道：“这位丰道友可与我不一样，他可是兢兢业业保护元夏司议的……”说着，他又话锋一转，道：“可既然是天夏所委派，岳某一定尽力而为，立求将此事办得妥当",
+      "summary": "天夏玄尊，参与擒捉行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "被戴廷执提及相助擒捉。"
+        }
+      ],
+      "evidence": [
+        "得正清镇守、严玄尊还有两位廷执相助之下，此行已将所有人都是擒捉。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "正清镇守",
+      "aliases": [],
+      "identity": "天夏镇守",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第一百四十八章 局中可对争",
+      "summary": "天夏镇守，参与擒捉行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "被戴廷执提及相助擒捉。"
+        }
+      ],
+      "evidence": [
+        "得正清镇守、严玄尊还有两位廷执相助之下，此行已将所有人都是擒捉。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "凌司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第一百四十八章 局中可对争",
+      "summary": "元夏司议，被提及可能不会受责罚。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -247,11 +435,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    岳清泽笑道：“这位丰道友可与我不一样，他可是兢兢业业保护元夏司议的……”说着，他又话锋一转，道：“可既然是天夏所委派，岳某一定尽力而为，立求将此事办得妥当",
-        "岳清泽见没能说动他，仔细一想，便知晓了缘故，笑道：“岳某明白了，道友小心惯了，而且你又没似我一般得罪元夏，来日元夏若覆天夏，说不定还得解脱",
-        "他微微一笑，站起身来，道：“道友再想想吧，茶我留在这里，道友慢慢品，岳某就先离开了"
+        "元上殿若是找原由，不会怪凌司议"
       ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

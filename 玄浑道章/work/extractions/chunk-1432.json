@@ -1,258 +1,488 @@
 {
   "chunk_id": "chunk-1432",
-  "title": "第十章 渡气得庇佑",
   "characters": [
     {
+      "name": "陈禹",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "天夏首执，执掌清穹之舟",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十章 渡气得庇佑",
+      "summary": "天夏首执，执掌清穹之舟和清穹之气，在议事中主导决策。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "果断"
+      ],
+      "abilities": [
+        "执掌清穹之舟",
+        "执拿清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "同僚"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "议事中",
+          "event": "主持廷议，决定通传元夏之事并安排后续事宜。"
+        },
+        {
+          "stage": "议事结束后",
+          "event": "前往见六位执摄。"
+        }
+      ],
+      "evidence": [
+        "陈禹略作思考，道：“风廷执执拿与外交通之权柄，本来也是负责沟通外派，此事可以交给风廷执来处置。”",
+        "陈禹沉声道：“因为契约是可以被一些独特的镇道之宝所化解的……”",
+        "陈禹站着没动，待众人各自离去后，他目光往前一处，顿有一道光亮在面前绽开，露出了一个漩门来。"
+      ],
+      "mention_count": 10
+    },
+    {
       "name": "风道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十章 渡气得庇佑",
-      "summary": "”    风道人从容执有一礼，道：“风某遵谕",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    风道人从容执有一礼，道：“风某遵谕",
-        "片刻后，风道人从后方过来，来到了他身边，执礼道：“张道友，不知风某可否见一见那烛午江，去见那元夏使者之前，风某有一些话要问一问此人",
-        "风道人亦是随后跟上"
+      "aliases": [
+        "风廷执"
       ],
-      "mention_count": 23
-    },
-    {
-      "name": "风道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执，执掌外交通之权柄",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第十章 渡气得庇佑",
-      "summary": "”    风道人从容执有一礼，道：“风某遵谕",
+      "summary": "玄廷廷执，负责与外派沟通，受命处理元夏使者事宜。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    风道人从容执有一礼，道：“风某遵谕",
-        "片刻后，风道人从后方过来，来到了他身边，执礼道：“张道友，不知风某可否见一见那烛午江，去见那元夏使者之前，风某有一些话要问一问此人",
-        "风道友随我来"
+      "personality": [
+        "从容",
+        "谨慎"
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十章 渡气得庇佑",
-      "summary": "张御走出了道宫，正要转回守正宫，心中忽有所感，便立定在了原处",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御走出了道宫，正要转回守正宫，心中忽有所感，便立定在了原处",
-        "只是如今烛午江的所在地，目前也就陈禹、张御、武倾墟三人知晓",
-        "张御道：“自是可以"
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "烛午江",
+          "type": "询问对象"
+        },
+        {
+          "target": "常旸",
+          "type": "委派任务"
+        }
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "常旸",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十章 渡气得庇佑",
-      "summary": "”    张御道：“此人名为常旸，乃是原来上宸天修道士，过去为了罚过，负责镇守警星，风道友不妨唤他过来一问，是否用他，风道友可自行决定",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "议事中",
+          "event": "接受陈禹委派处理元夏使者。"
+        },
+        {
+          "stage": "议事结束后",
+          "event": "向张御请求见烛午江，并询问元夏使者情况。"
+        },
+        {
+          "stage": "之后",
+          "event": "接受张御推荐，召见常旸并委派任务。"
+        }
+      ],
       "evidence": [
-        "”    张御道：“此人名为常旸，乃是原来上宸天修道士，过去为了罚过，负责镇守警星，风道友不妨唤他过来一问，是否用他，风道友可自行决定",
-        "”    此刻虚空之外，常旸等人正驻守在某处游宿地星之上，既为守御，也是为合力捕捉邪神，这时忽然有一道金光破空落下",
-        "”    薛道人盯着他，心中忿然，似常旸这等只会临阵脱逃，根本没什么诚义的人居然会受到天夏的重视，这世道是怎么了"
+        "风道人从容执有一礼，道：“风某遵谕。”",
+        "风道人从后方过来，来到了他身边，执礼道：“张道友，不知风某可否见一见那烛午江……”",
+        "风道人点了点头，道：“好，常道友，此事交给你去为……”"
       ],
       "mention_count": 12
     },
     {
-      "name": "陈禹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张道友"
+      ],
+      "identity": "守正宫修士",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第十章 渡气得庇佑",
-      "summary": "第十章 渡气得庇佑    陈禹略作思考，道：“风廷执执拿与外交通之权柄，本来也是负责沟通外派，此事可以交给风廷执来处置",
+      "summary": "天夏修士，负责带风道人见烛午江，并推荐常旸协助说服元夏使者。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第十章 渡气得庇佑    陈禹略作思考，道：“风廷执执拿与外交通之权柄，本来也是负责沟通外派，此事可以交给风廷执来处置",
-        "”    陈禹沉声道：“因为契约是可以被一些独特的镇道之宝所化解的，对于一般势力或许能立契以为凭，可是对上拥有镇道之宝的修道世域却未必能稳妥，反而避劫丹丸此物只为元夏所掌握，应是至今无人能破",
-        "”    陈禹颔首道：“通传下去吧，他们迟早要知道的，还有，顺便告知尤道友和严道友一声，明日来让他们我道宫一见"
+      "personality": [
+        "沉稳",
+        "深思熟虑"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "不知",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十章 渡气得庇佑",
-      "summary": "崇廷执道：“崇某有一疑，那烛午江还有两名元夏来使，虽然都是服下了避劫丹丸，但立个誓约也非难事，可元夏似是未曾做此事，不知这里缘由为何",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "崇廷执道：“崇某有一疑，那烛午江还有两名元夏来使，虽然都是服下了避劫丹丸，但立个誓约也非难事，可元夏似是未曾做此事，不知这里缘由为何",
-        "片刻后，风道人从后方过来，来到了他身边，执礼道：“张道友，不知风某可否见一见那烛午江，去见那元夏使者之前，风某有一些话要问一问此人",
-        "”    烛午江想了想，道：“不知在下还有什么可为天夏效力的"
+      "abilities": [
+        "开辟通路",
+        "解除避劫丹丸限制"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "张御道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十章 渡气得庇佑",
-      "summary": "张御道：“自是可以",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御道：“自是可以",
-        "张御道：“道友不妨探查一下",
-        "”    张御道：“这是道友你自己挣来的"
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "同僚"
+        },
+        {
+          "target": "烛午江",
+          "type": "提供庇佑"
+        },
+        {
+          "target": "常旸",
+          "type": "推荐"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "烛午",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第十章 渡气得庇佑",
-      "summary": "崇廷执道：“崇某有一疑，那烛午江还有两名元夏来使，虽然都是服下了避劫丹丸，但立个誓约也非难事，可元夏似是未曾做此事，不知这里缘由为何",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "崇廷执道：“崇某有一疑，那烛午江还有两名元夏来使，虽然都是服下了避劫丹丸，但立个誓约也非难事，可元夏似是未曾做此事，不知这里缘由为何",
-        "片刻后，风道人从后方过来，来到了他身边，执礼道：“张道友，不知风某可否见一见那烛午江，去见那元夏使者之前，风某有一些话要问一问此人",
-        "只不过对于两人的情况他还需要了解更多，那自是要先从烛午江这处下手"
+      "timeline": [
+        {
+          "stage": "议事结束后",
+          "event": "带风道人见烛午江，并给予天夏庇佑。"
+        },
+        {
+          "stage": "之后",
+          "event": "向风道人推荐常旸。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "张御走出了道宫，正要转回守正宫，心中忽有所感，便立定在了原处。",
+        "张御道：“这是道友你自己挣来的。”",
+        "张御道：“我向风道友举荐一人，或能帮助说服此二人。”"
+      ],
+      "mention_count": 10
     },
     {
       "name": "烛午江",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "烛道友"
+      ],
+      "identity": "原元夏使者，后反至天夏",
+      "faction": "天夏（原元夏）",
       "status": "登场",
       "first_appearance": "第十章 渡气得庇佑",
-      "summary": "崇廷执道：“崇某有一疑，那烛午江还有两名元夏来使，虽然都是服下了避劫丹丸，但立个誓约也非难事，可元夏似是未曾做此事，不知这里缘由为何",
+      "summary": "原元夏使者，服下避劫丹丸，后反至天夏，得到天夏庇佑。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谦卑",
+        "感激"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "崇廷执道：“崇某有一疑，那烛午江还有两名元夏来使，虽然都是服下了避劫丹丸，但立个誓约也非难事，可元夏似是未曾做此事，不知这里缘由为何",
-        "片刻后，风道人从后方过来，来到了他身边，执礼道：“张道友，不知风某可否见一见那烛午江，去见那元夏使者之前，风某有一些话要问一问此人",
-        "只不过对于两人的情况他还需要了解更多，那自是要先从烛午江这处下手"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "受庇佑"
+        },
+        {
+          "target": "风道人",
+          "type": "被询问"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清穹之气中养伤，修为有所进展。"
+        },
+        {
+          "stage": "张御到来后",
+          "event": "得到天夏庇佑，避劫丹丸停止消耗。"
+        },
+        {
+          "stage": "之后",
+          "event": "接受风道人询问关于元夏使者的事。"
+        }
+      ],
+      "evidence": [
+        "烛午江此刻正在持坐，他的伤势在清穹之气的滋养之下已是完全恢复了……",
+        "烛午江感觉身上是某种枷锁被卸去了。",
+        "烛午江再是一礼，态度谦卑道：“真人想问什么，在下都当知无不尽。”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "常某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "常旸",
+      "aliases": [
+        "常道友"
+      ],
+      "identity": "原上宸天修道士，现为天夏效力",
+      "faction": "天夏（原上宸天）",
       "status": "登场",
       "first_appearance": "第十章 渡气得庇佑",
-      "summary": "他感得是玄廷相召，便是对卢星介等人打一个稽首，道：“几位道友，玄廷唤我，想要令常某去做什么事情，唉，也不知道为何要选常某，这就先与几位道友别过了",
+      "summary": "原上宸天修道士，因罚过镇守警星，被张御推荐给风道人，负责说服元夏使者。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他感得是玄廷相召，便是对卢星介等人打一个稽首，道：“几位道友，玄廷唤我，想要令常某去做什么事情，唉，也不知道为何要选常某，这就先与几位道友别过了",
-        "”    常旸恭恭敬敬道：“风廷执乃是玄廷廷执，常某又怎么会不认识呢",
-        "”    常旸道：“不知风廷执需常某做何事"
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "被委派任务"
+        },
+        {
+          "target": "张御",
+          "type": "被推荐"
+        },
+        {
+          "target": "卢星介",
+          "type": "同驻守"
+        },
+        {
+          "target": "薛道人",
+          "type": "同驻守（有不满）"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "驻守游宿地星，捕捉邪神。"
+        },
+        {
+          "stage": "被召见后",
+          "event": "接受风道人委派，准备说服元夏使者。"
+        },
+        {
+          "stage": "十几天后",
+          "event": "启用法符前往元夏使者所在道宫。"
+        }
+      ],
+      "evidence": [
+        "常旸等人正驻守在某处游宿地星之上……",
+        "常旸也是努力消化了一下这些消息，过了一会儿，才道：“廷执，常某愿意一试。”",
+        "常旸拿了符书，自去了客阁住下……故他一连等了十多天，这才启用法符……"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "武倾墟",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第十章 渡气得庇佑",
-      "summary": "”    众廷执也没有反对，虽然他们不认为这两个元夏使者会这么简单就倒向天夏，可试上一试也没什么不好，反正也没有什么损失",
+      "summary": "玄廷廷执，受陈禹委派去询问乘幽派两位道友。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    众廷执也没有反对，虽然他们不认为这两个元夏使者会这么简单就倒向天夏，可试上一试也没什么不好，反正也没有什么损失",
-        "”    陈禹颔首道：“通传下去吧，他们迟早要知道的，还有，顺便告知尤道友和严道友一声，明日来让他们我道宫一见",
-        "”    元夏使者到来之时，乘幽派单、毕二人身为天夏友盟，也是一样看到了，只是当时他们是在另一座法坛之上，与诸廷执并不立在一处"
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "议事中",
+          "event": "受命询问乘幽派两位道友。"
+        }
+      ],
+      "evidence": [
+        "陈禹又转首对武倾墟道：“乘幽派两位道友处，劳烦武廷执过去询问一声……”",
+        "武廷执道：“武某稍候就去问询。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "在下",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第十章 渡气得庇佑",
-      "summary": "”    烛午江想了想，道：“不知在下还有什么可为天夏效力的",
+      "summary": "玄廷廷执，建议通传云海之上诸位道友。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    烛午江想了想，道：“不知在下还有什么可为天夏效力的",
-        "”    烛午江再是一礼，态度谦卑道：“真人想问什么，在下都当知无不尽",
-        "”    烛午江道：“真人言重，在下就怕说得不全"
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "议事中",
+          "event": "提出通传云海之上道友的建议。"
+        }
+      ],
+      "evidence": [
+        "林廷执这时道：“首执，元夏之事，云海之上诸位道友处是否要通传一声？”",
+        "林廷执稽首领命。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十章 渡气得庇佑",
+      "summary": "玄廷廷执，提出关于元夏使者未立誓约的疑问。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "议事中",
+          "event": "提出关于元夏使者未立誓约的疑问。"
+        }
+      ],
+      "evidence": [
+        "崇廷执道：“崇某有一疑，那烛午江还有两名元夏来使，虽然都是服下了避劫丹丸，但立个誓约也非难事，可元夏似是未曾做此事，不知这里缘由为何？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "姜道人",
+      "aliases": [],
+      "identity": "元夏使者",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第十章 渡气得庇佑",
+      "summary": "元夏使者之一，与妘蕞一同被常旸拜访。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "妘蕞",
+          "type": "同伴"
+        },
+        {
+          "target": "常旸",
+          "type": "被拜访"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在道宫中等待，被常旸拜访。"
+        }
+      ],
+      "evidence": [
+        "他便顺此而行，须臾就来到了姜道人、妘蕞二人所在道宫之前……"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "妘蕞",
+      "aliases": [],
+      "identity": "元夏使者",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第十章 渡气得庇佑",
+      "summary": "元夏使者之一，与姜道人一同被常旸拜访。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜道人",
+          "type": "同伴"
+        },
+        {
+          "target": "常旸",
+          "type": "被拜访"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在道宫中等待，被常旸拜访。"
+        }
+      ],
+      "evidence": [
+        "他便顺此而行，须臾就来到了姜道人、妘蕞二人所在道宫之前……"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "薛道人",
+      "aliases": [],
+      "identity": "天夏修士，与常旸同驻守",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第十章 渡气得庇佑",
+      "summary": "与常旸一同驻守的修士，对常旸有不满。",
+      "appearance": [],
+      "personality": [
+        "忿然"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "常旸",
+          "type": "同驻守（有不满）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与常旸一同驻守，对常旸受重视感到不满。"
+        }
+      ],
+      "evidence": [
+        "薛道人盯着他，心中忿然，似常旸这等只会临阵脱逃，根本没什么诚义的人居然会受到天夏的重视……"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "卢星介",
+      "aliases": [],
+      "identity": "天夏修士，与常旸同驻守",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第十章 渡气得庇佑",
+      "summary": "与常旸一同驻守的修士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "常旸",
+          "type": "同驻守"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与常旸一同驻守。"
+        }
+      ],
+      "evidence": [
+        "他感得是玄廷相召，便是对卢星介等人打一个稽首……"
+      ],
+      "mention_count": 1
     }
   ]
 }

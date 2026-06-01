@@ -1,0 +1,312 @@
+{
+  "chunk_id": "chunk-1090",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "明王",
+        "小哥儿",
+        "小哥"
+      ],
+      "identity": "修行者，疑似三阳会首领",
+      "faction": "三阳会",
+      "status": "登场",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "强大的修行者，控制卖货郎，审问伪人鲍保，探查清廷伪人势力。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "有同情心"
+      ],
+      "abilities": [
+        "八识心王",
+        "劫力",
+        "符咒"
+      ],
+      "equipment": [
+        "货单册子",
+        "纸鹤"
+      ],
+      "relationships": [
+        {
+          "target": "卖货郎",
+          "type": "控制"
+        },
+        {
+          "target": "吴文远",
+          "type": "下属"
+        },
+        {
+          "target": "鲍保",
+          "type": "审问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "查看货单，放出纸鹤通知吴文远，烧掉神灵画像，未叫醒守夜者，驾骡车接上豆娘等人，后进入阴影世界审问鲍保。"
+        }
+      ],
+      "evidence": [
+        "苏午看着货单上的印章，顿时恍然。",
+        "苏午站在火塘边，拿出先前在野庙中揭下来的那张神灵画像，把画像展开",
+        "苏午坐在车沿处，向躲在棚子里的豆娘母子、老婆婆出声问道"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "卖货郎",
+      "aliases": [
+        "卖货郎神灵"
+      ],
+      "identity": "神灵/诡异存在",
+      "faction": "",
+      "status": "被控制",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "被苏午控制的神灵，本体是货单册子，去三清之肠进货。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "寄托依附于纸张",
+        "进货"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "去三清之肠进货，留下货单。"
+        }
+      ],
+      "evidence": [
+        "卖货郎拿了他付出的代价，便去三清之肠中给他‘进货’了",
+        "卖货郎的本形，其实就是苏午留下焦糊掌印的那道货单册子。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "吴文远",
+      "aliases": [],
+      "identity": "三阳会众",
+      "faction": "三阳会",
+      "status": "登场",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "三阳会成员，苏午的下属，驱赶马车。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到纸鹤消息后与苏午汇合，驱赶马车。"
+        }
+      ],
+      "evidence": [
+        "纸鹤前往几里外的野庙，向吴文远等人传递消息",
+        "吴文远坐在车头，驱赶着马车"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "豆娘",
+      "aliases": [
+        "大姐"
+      ],
+      "identity": "普通妇人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "与老婆婆同行的妇人，前往郸城。",
+      "appearance": [],
+      "personality": [
+        "感激"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "老婆婆",
+          "type": "同行"
+        },
+        {
+          "target": "苏午",
+          "type": "被帮助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与老婆婆请求苏午载一程，告知前往郸城。"
+        }
+      ],
+      "evidence": [
+        "豆娘与老婆婆相视一眼",
+        "豆娘有些高兴地道：“我也是往郸城去哩。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "老婆婆",
+      "aliases": [
+        "婆婆",
+        "老婶娘"
+      ],
+      "identity": "普通老妇人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "与豆娘同行的老妇人，前往镛城，热心为苏午介绍婚事。",
+      "appearance": [],
+      "personality": [
+        "热心",
+        "感激"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "豆娘",
+          "type": "同行"
+        },
+        {
+          "target": "苏午",
+          "type": "被帮助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "请求苏午载一程，并想为苏午介绍婚事。"
+        }
+      ],
+      "evidence": [
+        "老婆婆转过脸，向坐在车沿的苏午期期艾艾地道",
+        "老婆婆也笑着道：“我往镛城去”",
+        "婆婆给你介绍几个好人家的女子啊？"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "鲍保",
+      "aliases": [
+        "奴才"
+      ],
+      "identity": "八旗子弟，伪人（过渡中）",
+      "faction": "清廷",
+      "status": "被囚禁审问",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "修习地狱变的八旗子弟，正在向伪人过渡，被苏午审问。",
+      "appearance": [],
+      "personality": [
+        "惶恐",
+        "顺从"
+      ],
+      "abilities": [
+        "地狱变法门"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被审问"
+        },
+        {
+          "target": "苏努",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午沉入劫影审问，交代伪人情况。"
+        }
+      ],
+      "evidence": [
+        "鲍保四肢浸没入劫影之中，被劫影禁锢着，无法动弹。",
+        "鲍保垂下头去，低声道：“奴才身份低微”",
+        "鲍保回道：“凡是八旗子弟，皆须修行‘地狱变’”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "苏努",
+      "aliases": [
+        "苏努大人"
+      ],
+      "identity": "镶红旗满洲都统，皇族",
+      "faction": "清廷",
+      "status": "提及",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "八阿哥身边红人，力荐八阿哥为太子，信奉大秦教，可能是伪人高层。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "八阿哥",
+          "type": "支持"
+        },
+        {
+          "target": "鲍保",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被鲍保提及为接触到的最高身份伪人。"
+        }
+      ],
+      "evidence": [
+        "今下被皇上有意立为太子的‘八阿哥’身边红人，镶红旗满洲都统‘苏努’大人。",
+        "朝中大臣确有一名为‘苏努’者，一直力荐其做皇太子。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "八阿哥",
+      "aliases": [
+        "八贤王"
+      ],
+      "identity": "皇子，贝勒",
+      "faction": "清廷",
+      "status": "提及",
+      "first_appearance": "第1089章 衮衮诸公，皆为魔类",
+      "summary": "康熙之子，被苏努支持立为太子，后来被雍正幽禁改名。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏努",
+          "type": "被支持"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为可能被立为太子。"
+        }
+      ],
+      "evidence": [
+        "今下被皇上有意立为太子的‘八阿哥’身边红人"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

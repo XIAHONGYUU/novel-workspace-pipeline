@@ -1,258 +1,275 @@
 {
   "chunk_id": "chunk-0456",
-  "title": "第两百二十七章 书信",
   "characters": [
     {
-      "name": "明校尉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十七章 书信",
-      "summary": "”    莫若华道：“明校尉昨天来过这里，他现在在哪里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    莫若华道：“明校尉昨天来过这里，他现在在哪里",
-        "明校尉的从副早就看到了她，走了上来抱拳道：“莫校尉，有什么事情么",
-        "”    过了一会儿，明校尉自里走了出来，道：“莫校尉啊，这个时候找我什么事啊"
-      ],
-      "mention_count": 41
-    },
-    {
-      "name": "明校",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十七章 书信",
-      "summary": "”    莫若华道：“明校尉昨天来过这里，他现在在哪里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    莫若华道：“明校尉昨天来过这里，他现在在哪里",
-        "明校尉的从副早就看到了她，走了上来抱拳道：“莫校尉，有什么事情么",
-        "”    过了一会儿，明校尉自里走了出来，道：“莫校尉啊，这个时候找我什么事啊"
-      ],
-      "mention_count": 32
-    },
-    {
       "name": "莫若华",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "莫校尉"
+      ],
+      "identity": "锐击军校尉，负责看守霜洲俘虏",
+      "faction": "锐击军",
       "status": "登场",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "在原本密州西南方向上，有一座垒砌的土丘，搭建一片可以容纳百来人的坚固营垒，莫若华带着亲卫驻守此地",
+      "summary": "锐击军校尉，负责看守霜洲俘虏，与张御有联系，试图联合明校尉试探外甲大匠。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在原本密州西南方向上，有一座垒砌的土丘，搭建一片可以容纳百来人的坚固营垒，莫若华带着亲卫驻守此地",
-        "莫若华却感觉对方的用意并不在此，而且曹度向来治军严谨，这种决定怎么看都透着一丝古怪",
-        "”    莫若华心思一转，她在域外内认识的人其实并不多，除了开阳学宫的一些同学，也就是一同从东庭到来的旧识了"
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 31
+      "abilities": [
+        "飞行",
+        "使用外甲"
+      ],
+      "equipment": [
+        "外甲",
+        "甲囊"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "旧识"
+        },
+        {
+          "target": "明校尉",
+          "type": "同袍"
+        },
+        {
+          "target": "曹度",
+          "type": "主帅"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到张御寄来的玉简和信纸，随后找明校尉商议写信给外甲大匠。"
+        }
+      ],
+      "evidence": [
+        "莫若华带着亲卫驻守此地。",
+        "她立刻意识到这是张御寄来的东西。",
+        "莫若华道：“明校尉，那些造物人现在已经混入了两府之中……”"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "莫若",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明校尉",
+      "aliases": [
+        "明校尉"
+      ],
+      "identity": "锐击军校尉",
+      "faction": "锐击军",
       "status": "登场",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "在原本密州西南方向上，有一座垒砌的土丘，搭建一片可以容纳百来人的坚固营垒，莫若华带着亲卫驻守此地",
+      "summary": "锐击军校尉，临墨学宫出身，性格懒散但聪明，与莫若华合作写信给外甲大匠。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在原本密州西南方向上，有一座垒砌的土丘，搭建一片可以容纳百来人的坚固营垒，莫若华带着亲卫驻守此地",
-        "莫若华却感觉对方的用意并不在此，而且曹度向来治军严谨，这种决定怎么看都透着一丝古怪",
-        "”    莫若华心思一转，她在域外内认识的人其实并不多，除了开阳学宫的一些同学，也就是一同从东庭到来的旧识了"
+      "personality": [
+        "懒散",
+        "聪明",
+        "玩世不恭"
       ],
-      "mention_count": 24
+      "abilities": [
+        "使用外甲"
+      ],
+      "equipment": [
+        "外甲"
+      ],
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "同袍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与莫若华会面，同意一起写信给外甲大匠。"
+        }
+      ],
+      "evidence": [
+        "明校尉玩味道：“我为什么要帮你？”",
+        "明校尉得意道：“我好歹也是临墨学宫出来的。”",
+        "明校尉道：“行，就冲你这句话，这封信我和你一起写了。”"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "从副",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "从副（莫若华）",
+      "aliases": [
+        "从副"
+      ],
+      "identity": "莫若华的副官",
+      "faction": "锐击军",
       "status": "登场",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "”    从副唤了一声，“域内有东西寄来，指名送到你这里",
+      "summary": "莫若华的从副，负责通报和传令。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    从副唤了一声，“域内有东西寄来，指名送到你这里",
-        "待在把里面的内容看完之后，她认真思考了一会儿，便自营帐中走了出来    从副道：“校尉，有什么吩咐么",
-        "”    从副一怔，想了一想，才回道：“此刻应该还在南面营地之中"
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "下属"
+        }
       ],
-      "mention_count": 17
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向莫若华通报有域内寄来的东西。"
+        }
+      ],
+      "evidence": [
+        "从副唤了一声，“域内有东西寄来，指名送到你这里。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "莫若华道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十七章 书信",
-      "summary": "”    莫若华道：“明校尉昨天来过这里，他现在在哪里",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    莫若华道：“明校尉昨天来过这里，他现在在哪里",
-        "”    莫若华道：“你在这里守着，我出去一趟",
-        "”    莫若华道：“我有事找他"
+      "name": "从副（明校尉）",
+      "aliases": [
+        "从副"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "校尉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "明校尉的副官",
+      "faction": "锐击军",
       "status": "登场",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "“校尉",
+      "summary": "明校尉的从副，负责传话和协助。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "abilities": [
+        "使用外甲"
+      ],
+      "equipment": [
+        "外甲"
+      ],
+      "relationships": [
+        {
+          "target": "明校尉",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向明校尉通报莫若华来访，并随后追去询问帮忙事宜。"
+        }
+      ],
       "evidence": [
-        "“校尉",
-        "待在把里面的内容看完之后，她认真思考了一会儿，便自营帐中走了出来    从副道：“校尉，有什么吩咐么",
-        "”    莫若华道：“明校尉昨天来过这里，他现在在哪里"
+        "明校尉的从副早就看到了她，走了上来抱拳道：“莫校尉，有什么事情么？校尉正在午睡。”",
+        "从副道：“校尉真的要帮么？”"
       ],
       "mention_count": 8
     },
     {
-      "name": "我们",
+      "name": "张御",
       "aliases": [],
-      "identity": "",
+      "identity": "莫若华的旧识",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "”    莫若华道：“我们身上这件外甲是天机院打造的",
+      "summary": "莫若华的旧识，寄来玉简和信纸。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    莫若华道：“我们身上这件外甲是天机院打造的",
-        "”    莫若华平静言道：“外甲之中应该留有能控制我们的手段",
-        "”他很是无所谓道：“现在没有人能替代我们，他们就不会拿我们如何，况且我们又没犯军规……嗯，莫校尉，你想做什么"
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "旧识"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "寄给莫若华玉简和信纸。"
+        }
+      ],
+      "evidence": [
+        "她立刻意识到这是张御寄来的东西"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "他们",
+      "name": "曹度",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "锐击军主帅",
+      "faction": "锐击军",
+      "status": "提及",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "”他很是无所谓道：“现在没有人能替代我们，他们就不会拿我们如何，况且我们又没犯军规……嗯，莫校尉，你想做什么",
+      "summary": "锐击军主帅，治军严谨。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "严谨"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "主帅"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”他很是无所谓道：“现在没有人能替代我们，他们就不会拿我们如何，况且我们又没犯军规……嗯，莫校尉，你想做什么",
-        "莫若华认真言道：“明校尉，那些造物人现在已经混入了两府之中，若是正常的两府，是不会有人对我们如何的，因为他们必须守规矩",
-        "他们本身就不是什么规则内的产物，他们一定不会按照正常的路数来做事，反而最有可能利用我们的力量，你愿意把自身的安危寄托在这些行事不确定的造物人身上么"
+        "曹度身边的一位参事却是寻了她一次",
+        "曹度向来治军严谨"
       ],
-      "mention_count": 7
+      "mention_count": 2
     },
     {
-      "name": "我这",
+      "name": "参事（曹度身边）",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "曹度身边的参事",
+      "faction": "锐击军",
+      "status": "提及",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "”    那从副道：“请莫校尉稍等，我这就进去通禀",
+      "summary": "曹度身边的参事，曾要求莫若华夸大霜洲俘虏暴乱程度。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    那从副道：“请莫校尉稍等，我这就进去通禀",
-        "”    莫若华道：“我这次来找明校尉，是想请你帮一个忙",
-        "我这就去"
+        "曹度身边的一位参事却是寻了她一次，要她稍稍夸大霜洲俘虏暴乱的程度"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "从副道",
+      "name": "信使（莫若华的专属信使）",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "莫若华的专属信使",
+      "faction": "锐击军",
       "status": "登场",
       "first_appearance": "第两百二十七章 书信",
-      "summary": "待在把里面的内容看完之后，她认真思考了一会儿，便自营帐中走了出来    从副道：“校尉，有什么吩咐么",
+      "summary": "莫若华的专属信使，负责送信。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "肃然"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "待在把里面的内容看完之后，她认真思考了一会儿，便自营帐中走了出来    从副道：“校尉，有什么吩咐么",
-        "”    那从副道：“请莫校尉稍等，我这就进去通禀",
-        "”    从副道：“校尉真的要帮么"
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "下属"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "莫校尉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十七章 书信",
-      "summary": "明校尉的从副早就看到了她，走了上来抱拳道：“莫校尉，有什么事情么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "明校尉的从副早就看到了她，走了上来抱拳道：“莫校尉，有什么事情么",
-        "”    那从副道：“请莫校尉稍等，我这就进去通禀",
-        "”    过了一会儿，明校尉自里走了出来，道：“莫校尉啊，这个时候找我什么事啊"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受莫若华交付的书信，承诺安全送达。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "那信使肃然道：“校尉放心，我会送到的。”"
+      ],
+      "mention_count": 1
     }
   ]
 }

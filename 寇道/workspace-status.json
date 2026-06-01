@@ -10,45 +10,54 @@
   "source_estimated_chars": 2418368,
   "is_long_novel": true,
   "available_layers": [
+    "chapter-distillation",
     "opening",
     "protagonist",
+    "supporting-cast",
     "outline",
     "highlight"
   ],
   "completed_layers": [
+    "chapter-distillation",
     "opening",
     "protagonist",
     "outline",
     "highlight"
   ],
-  "incomplete_layers": [],
+  "incomplete_layers": [
+    "supporting-cast"
+  ],
   "last_run_layer": "highlight",
   "last_validator_result": {
+    "chapter-distillation": "章节骨架已形成",
     "opening": "开篇抓力已明确",
     "protagonist": "体系闭环完成（主干闭环版）",
+    "supporting-cast": "重要配角 Top10 仍不足",
     "outline": "共性标准已覆盖",
     "highlight": "高光桥段已明确"
   },
-  "recommended_next_layer": "chapter-distillation",
-  "recommended_skill": "novel-chapter-distillation",
-  "recommended_mode": "extend-existing",
-  "recommended_next_step": "所有主要后层已成立；如需增强校准稳定性，建议回补 章节蒸馏层。",
-  "optional_backfill_layers": [
-    "chapter-distillation"
-  ],
-  "updated_at": "2026-05-13T22:55:17",
+  "recommended_next_layer": "supporting-cast",
+  "recommended_skill": "novel-supporting-cast-analysis",
+  "recommended_mode": "repair-existing",
+  "recommended_next_step": "优先修复 重要配角层，因为该层已存在但尚未达标。",
+  "optional_backfill_layers": [],
+  "updated_at": "2026-05-24T12:26:53",
   "layer_status": {
     "chapter-distillation": {
       "layer": "chapter-distillation",
       "label": "章节蒸馏层",
-      "exists": false,
-      "validated": false,
+      "exists": true,
+      "validated": true,
       "has_placeholders": false,
-      "completion_label": "章节骨架仍不足",
+      "completion_label": "章节骨架已形成",
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/寇道/README.md",
-        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-13.md",
+        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
+        "manifest": "/home/zuoky/project/寇道/chapter-distillation-manifest.json",
+        "chapter_skeleton": "/home/zuoky/project/寇道/寇道-章节蒸馏骨架.md",
+        "stage_skeleton": "/home/zuoky/project/寇道/寇道-阶段骨架与换挡草图.md",
+        "calibration_anchors": "/home/zuoky/project/寇道/寇道-校准与验证锚点.md",
         "validator_report": "/home/zuoky/project/寇道/寇道-章节蒸馏校验报告.md"
       },
       "checks": {
@@ -63,75 +72,43 @@
           "reason": "ok"
         },
         "manifest": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok",
+          "chapter_count": 2
         },
         "chapter_skeleton": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok",
+          "chapter_sections": 8
         },
         "stage_skeleton": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         },
         "calibration_anchors": {
-          "exists": false,
-          "content_ok": false,
-          "reason": "missing"
+          "exists": true,
+          "content_ok": true,
+          "reason": "ok"
         }
       },
       "validator_report": "/home/zuoky/project/寇道/寇道-章节蒸馏校验报告.md",
       "validator_summary": {
         "novel_name": "寇道",
-        "skeleton_status": "章节骨架仍不足",
-        "calibration_status": "校准锚点仍不足",
-        "existing_count": 2,
-        "content_ok_count": 2,
-        "required_core_ok_count": 2
+        "skeleton_status": "章节骨架已形成",
+        "calibration_status": "校准锚点已可用",
+        "existing_count": 6,
+        "content_ok_count": 6,
+        "required_core_ok_count": 6
       },
-      "failed_checks": [
-        {
-          "check": "manifest",
-          "label": "章节蒸馏 manifest",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "chapter_skeleton",
-          "label": "章节蒸馏骨架",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "stage_skeleton",
-          "label": "阶段骨架与换挡草图",
-          "reason": "missing",
-          "file": null
-        },
-        {
-          "check": "calibration_anchors",
-          "label": "校准与验证锚点",
-          "reason": "missing",
-          "file": null
-        }
-      ],
-      "repair_targets": [
-        "补齐 `章节蒸馏 manifest`，至少先从缺失补到可校验骨架。",
-        "补齐 `章节蒸馏骨架`，至少先从缺失补到可校验骨架。",
-        "补齐 `阶段骨架与换挡草图`，至少先从缺失补到可校验骨架。",
-        "补齐 `校准与验证锚点`，至少先从缺失补到可校验骨架。"
-      ],
+      "failed_checks": [],
+      "repair_targets": [],
       "quality": {
-        "score": 55,
-        "ok": false,
-        "issues": [
-          "章节蒸馏骨架文件缺失",
-          "具体锚定密度过低 (0.0/千字)",
-          "分析深度不足，因果推理密度 0.0%"
-        ]
+        "score": 100,
+        "ok": true,
+        "issues": []
       }
     },
     "opening": {
@@ -144,7 +121,7 @@
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/寇道/README.md",
-        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-13.md",
+        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
         "total_judgment": "/home/zuoky/project/寇道/寇道-黄金前三章总判断.md",
         "chapter_1": "/home/zuoky/project/寇道/寇道-第一章拆解.md",
         "chapter_2": "/home/zuoky/project/寇道/寇道-第二章拆解.md",
@@ -207,15 +184,9 @@
       "failed_checks": [],
       "repair_targets": [],
       "quality": {
-        "score": 51,
-        "ok": false,
-        "issues": [
-          "第1章拆解分析深度不足",
-          "第2章拆解分析深度不足",
-          "第3章拆解具体锚定密度不足 (7.1/千字)",
-          "第3章拆解分析深度不足",
-          "开篇修改建议可操作性不足（缺少具体章节目标和可执行方案）"
-        ]
+        "score": 100,
+        "ok": true,
+        "issues": []
       }
     },
     "protagonist": {
@@ -228,7 +199,7 @@
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/寇道/README.md",
-        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-13.md",
+        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
         "startup_checklist": "/home/zuoky/project/寇道/寇道-项目启动清单.md",
         "anchor": "/home/zuoky/project/寇道/寇道-主角锚点与骨架.md",
         "stage_outline": "/home/zuoky/project/寇道/寇道-整书粗阶段划分.md",
@@ -297,7 +268,7 @@
         "required_system_ok_count": 2,
         "files": {
           "project_entry": "/home/zuoky/project/寇道/README.md",
-          "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-13.md",
+          "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
           "startup_checklist": "/home/zuoky/project/寇道/寇道-项目启动清单.md",
           "anchor": "/home/zuoky/project/寇道/寇道-主角锚点与骨架.md",
           "stage_outline": "/home/zuoky/project/寇道/寇道-整书粗阶段划分.md",
@@ -310,12 +281,175 @@
       "failed_checks": [],
       "repair_targets": [],
       "quality": {
-        "score": 65,
-        "ok": false,
-        "issues": [
-          "主角锚点文件结构不完整",
-          "全书精华总结因果推理密度不足"
-        ]
+        "score": 100,
+        "ok": true,
+        "issues": []
+      }
+    },
+    "supporting-cast": {
+      "layer": "supporting-cast",
+      "label": "重要配角层",
+      "exists": true,
+      "validated": false,
+      "has_placeholders": false,
+      "completion_label": "重要配角 Top10 仍不足",
+      "reason": "validator",
+      "files": {
+        "project_entry": "/home/zuoky/project/寇道/README.md",
+        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
+        "top10_table": "/home/zuoky/project/寇道/寇道-重要配角Top10总表.md",
+        "relation_map": "/home/zuoky/project/寇道/寇道-重要配角与主角关系图.md",
+        "stage_distribution": "/home/zuoky/project/寇道/寇道-重要配角阶段作用分布.md",
+        "profiles": "/home/zuoky/project/寇道/supporting-cast",
+        "validator_report": "/home/zuoky/project/寇道/寇道-重要配角层校验报告.md"
+      },
+      "checks": {
+        "project_entry": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "handoff": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "candidate_pool": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "ai_review": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "top10_table": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "relation_map": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "stage_distribution": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "keywords_missing"
+        },
+        "index": {
+          "exists": false,
+          "content_ok": false,
+          "reason": "missing"
+        },
+        "profiles": {
+          "exists": true,
+          "content_ok": false,
+          "reason": "profile_quality_insufficient"
+        }
+      },
+      "validator_report": "/home/zuoky/project/寇道/寇道-重要配角层校验报告.md",
+      "validator_summary": {
+        "novel_name": "寇道",
+        "top10_status": "重要配角 Top10 仍不足",
+        "ai_review_status": "AI 复核结论仍不足",
+        "relation_status": "配角与主角关系仍不足",
+        "stage_status": "配角阶段作用层仍不足",
+        "profile_count": 10,
+        "profile_failures": [
+          "五灵子-配角分析.md:keywords_missing",
+          "岳武霍-配角分析.md:too_short",
+          "林显师-配角分析.md:keywords_missing",
+          "林素娥-配角分析.md:keywords_missing",
+          "罗严宗-配角分析.md:keywords_missing",
+          "赵教习-配角分析.md:keywords_missing",
+          "邓明-配角分析.md:keywords_missing",
+          "郑宝儿-配角分析.md:keywords_missing",
+          "郑老铁-配角分析.md:keywords_missing",
+          "黄公子-配角分析.md:keywords_missing"
+        ],
+        "files": {
+          "project_entry": "/home/zuoky/project/寇道/README.md",
+          "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
+          "top10_table": "/home/zuoky/project/寇道/寇道-重要配角Top10总表.md",
+          "relation_map": "/home/zuoky/project/寇道/寇道-重要配角与主角关系图.md",
+          "stage_distribution": "/home/zuoky/project/寇道/寇道-重要配角阶段作用分布.md",
+          "profiles": "/home/zuoky/project/寇道/supporting-cast"
+        }
+      },
+      "failed_checks": [
+        {
+          "check": "project_entry",
+          "label": "project_entry",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/寇道/README.md"
+        },
+        {
+          "check": "handoff",
+          "label": "handoff",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/寇道/工作状态-2026-05-23.md"
+        },
+        {
+          "check": "candidate_pool",
+          "label": "candidate_pool",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "ai_review",
+          "label": "ai_review",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "top10_table",
+          "label": "重要配角Top10总表",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/寇道/寇道-重要配角Top10总表.md"
+        },
+        {
+          "check": "relation_map",
+          "label": "重要配角与主角关系图",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/寇道/寇道-重要配角与主角关系图.md"
+        },
+        {
+          "check": "stage_distribution",
+          "label": "重要配角阶段作用分布",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/寇道/寇道-重要配角阶段作用分布.md"
+        },
+        {
+          "check": "index",
+          "label": "配角分析索引",
+          "reason": "missing",
+          "file": null
+        },
+        {
+          "check": "profiles",
+          "label": "Top10 配角分析文件",
+          "reason": "profile_quality_insufficient",
+          "file": "/home/zuoky/project/寇道/supporting-cast"
+        }
+      ],
+      "repair_targets": [
+        "补齐 `project_entry` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `handoff` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `candidate_pool`，至少先从缺失补到可校验骨架。",
+        "补齐 `ai_review`，至少先从缺失补到可校验骨架。",
+        "补齐 `重要配角Top10总表` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `重要配角与主角关系图` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `重要配角阶段作用分布` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `配角分析索引`，至少先从缺失补到可校验骨架。",
+        "检查并修复 `Top10 配角分析文件`，当前原因：`profile_quality_insufficient`。"
+      ],
+      "quality": {
+        "score": 100,
+        "ok": true,
+        "issues": []
       }
     },
     "outline": {
@@ -328,7 +462,7 @@
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/寇道/README.md",
-        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-13.md",
+        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
         "protagonist_layer": "/home/zuoky/project/寇道/寇道-主角锚点与骨架.md",
         "core_supporting_relations": "/home/zuoky/project/寇道/寇道-核心配角与主角关系.md",
         "overview": "/home/zuoky/project/寇道/寇道-大纲总览.md",
@@ -409,7 +543,7 @@
         "feature_items": [],
         "files": {
           "project_entry": "/home/zuoky/project/寇道/README.md",
-          "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-13.md",
+          "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
           "protagonist_layer": "/home/zuoky/project/寇道/寇道-主角锚点与骨架.md",
           "core_supporting_relations": "/home/zuoky/project/寇道/寇道-核心配角与主角关系.md",
           "overview": "/home/zuoky/project/寇道/寇道-大纲总览.md",
@@ -424,12 +558,9 @@
       "failed_checks": [],
       "repair_targets": [],
       "quality": {
-        "score": 65,
-        "ok": false,
-        "issues": [
-          "大纲总览分析深度不足",
-          "结构修改建议可操作性不足"
-        ]
+        "score": 100,
+        "ok": true,
+        "issues": []
       }
     },
     "highlight": {
@@ -442,7 +573,7 @@
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/寇道/README.md",
-        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-13.md",
+        "handoff": "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
         "top10_table": "/home/zuoky/project/寇道/寇道-最吸引人的十个剧情细节总表.md",
         "mechanism": "/home/zuoky/project/寇道/寇道-剧情吸引力机制分析.md",
         "top10_breakdown": "/home/zuoky/project/寇道/寇道-Top10细节逐条拆解.md",
@@ -505,19 +636,100 @@
       "failed_checks": [],
       "repair_targets": [],
       "quality": {
-        "score": 85,
-        "ok": false,
-        "issues": [
-          "吸引力机制分析因果推理密度不足"
-        ]
+        "score": 100,
+        "ok": true,
+        "issues": []
       }
     }
   },
-  "repair_plan": null,
+  "repair_plan": {
+    "required": true,
+    "target_layer": "supporting-cast",
+    "target_label": "重要配角层",
+    "mode": "repair-existing",
+    "reason": "project_entry -> keywords_missing；handoff -> keywords_missing；candidate_pool -> missing；ai_review -> missing",
+    "failed_checks": [
+      {
+        "check": "project_entry",
+        "label": "project_entry",
+        "reason": "keywords_missing",
+        "file": "/home/zuoky/project/寇道/README.md"
+      },
+      {
+        "check": "handoff",
+        "label": "handoff",
+        "reason": "keywords_missing",
+        "file": "/home/zuoky/project/寇道/工作状态-2026-05-23.md"
+      },
+      {
+        "check": "candidate_pool",
+        "label": "candidate_pool",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "ai_review",
+        "label": "ai_review",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "top10_table",
+        "label": "重要配角Top10总表",
+        "reason": "keywords_missing",
+        "file": "/home/zuoky/project/寇道/寇道-重要配角Top10总表.md"
+      },
+      {
+        "check": "relation_map",
+        "label": "重要配角与主角关系图",
+        "reason": "keywords_missing",
+        "file": "/home/zuoky/project/寇道/寇道-重要配角与主角关系图.md"
+      },
+      {
+        "check": "stage_distribution",
+        "label": "重要配角阶段作用分布",
+        "reason": "keywords_missing",
+        "file": "/home/zuoky/project/寇道/寇道-重要配角阶段作用分布.md"
+      },
+      {
+        "check": "index",
+        "label": "配角分析索引",
+        "reason": "missing",
+        "file": null
+      },
+      {
+        "check": "profiles",
+        "label": "Top10 配角分析文件",
+        "reason": "profile_quality_insufficient",
+        "file": "/home/zuoky/project/寇道/supporting-cast"
+      }
+    ],
+    "repair_targets": [
+      "补齐 `project_entry` 的关键判断字段，避免只有摘要没有结论。",
+      "补齐 `handoff` 的关键判断字段，避免只有摘要没有结论。",
+      "补齐 `candidate_pool`，至少先从缺失补到可校验骨架。",
+      "补齐 `ai_review`，至少先从缺失补到可校验骨架。",
+      "补齐 `重要配角Top10总表` 的关键判断字段，避免只有摘要没有结论。",
+      "补齐 `重要配角与主角关系图` 的关键判断字段，避免只有摘要没有结论。",
+      "补齐 `重要配角阶段作用分布` 的关键判断字段，避免只有摘要没有结论。",
+      "补齐 `配角分析索引`，至少先从缺失补到可校验骨架。",
+      "检查并修复 `Top10 配角分析文件`，当前原因：`profile_quality_insufficient`。"
+    ],
+    "context_files": [
+      "/home/zuoky/project/寇道/README.md",
+      "/home/zuoky/project/寇道/工作状态-2026-05-23.md",
+      "/home/zuoky/project/寇道/work/merged/characters.json",
+      "/home/zuoky/project/寇道/work/cards/index.md",
+      "/home/zuoky/project/寇道/寇立-词条总索引.md",
+      "/home/zuoky/project/寇道/寇立-最终人物卡.md"
+    ],
+    "suggested_context_file": "/home/zuoky/project/寇道/workspace-context-supporting-cast.md",
+    "suggested_repair_note": "/home/zuoky/project/寇道/workspace-repair-plan.md"
+  },
   "quality_gate": {
-    "overall_score": 64.2,
-    "is_quality_pass": false,
-    "issue_count": 13,
+    "overall_score": 100.0,
+    "is_quality_pass": true,
+    "issue_count": 0,
     "cross_layer_conflicts": 0
   }
 }

@@ -1,0 +1,205 @@
+{
+  "chunk_id": "chunk-0829",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "核心人物，经历死劫后逃脱，与李彘互动，获得玉佩，后与钓叟交易钓鱼，突破至第一阶。",
+      "appearance": [
+        "浑身染血",
+        "遍布血红裂痕的面孔"
+      ],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "元皇皮",
+        "影诡",
+        "黑地藏",
+        "符箓"
+      ],
+      "equipment": [
+        "玉佩",
+        "纸钱",
+        "鱼钩"
+      ],
+      "relationships": [
+        {
+          "target": "李彘",
+          "type": "盟友"
+        },
+        {
+          "target": "精莲",
+          "type": "敌对"
+        },
+        {
+          "target": "钓叟",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李彘相助逃脱精莲追杀，后与钓叟交易钓鱼，获得赤金珠子，突破至第一阶符箓。"
+        }
+      ],
+      "evidence": [
+        "苏午接过那件玉佩，向李彘郑重承诺。",
+        "苏午的元皇皮扛住了大掌印数个呼吸的碾磨，便尽数龟裂，影诡缩回他的脉轮之中！",
+        "苏午点了点头，已知‘钓叟’确实就是此意。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "李彘",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "帮助苏午的盟友，以箭术对抗精莲，最终牺牲。",
+      "appearance": [
+        "木讷的面孔"
+      ],
+      "personality": [
+        "木讷",
+        "坚定"
+      ],
+      "abilities": [
+        "箭术",
+        "劫影箭矢"
+      ],
+      "equipment": [
+        "弓",
+        "箭"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "盟友"
+        },
+        {
+          "target": "孙九",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为苏午垫高台阶，射箭对抗精莲，最终化作墓碑被大掌印淹没。"
+        }
+      ],
+      "evidence": [
+        "李彘又在口袋里一阵翻找，找出了一个包着一层泥壳的玉佩，递给了苏午",
+        "李彘木讷的面孔上浮现一抹笑意。",
+        "李彘转回身，猛地推了苏午一把——"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "精莲",
+      "aliases": [
+        "精莲化生大士",
+        "忿怒莲师"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "强大的敌对存在，追杀苏午，拥有莲师六相等能力。",
+      "appearance": [
+        "形容干瘦黑黄的面孔"
+      ],
+      "personality": [],
+      "abilities": [
+        "莲师六相",
+        "七相大掌印",
+        "白光大手印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "追杀苏午，被李彘的箭矢定住六相，后追上但苏午已逃脱。"
+        }
+      ],
+      "evidence": [
+        "精莲化生大士面露笑意，他取代了天中央的佛面，看着苏午",
+        "今世的精莲后脚就追了上来。",
+        "精莲立在山丘上，五大化相于身后虚空中若隐若现。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "钓叟",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "神秘存在，通过纸钱交易提供鱼钩钓鱼。",
+      "appearance": [
+        "枯瘦的手臂",
+        "掌心生有浑浊老眼"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "鱼钩",
+        "鱼线"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午交易，提供鱼钩钓鱼。"
+        }
+      ],
+      "evidence": [
+        "那手臂张开五指，掌心对着苏午，一只浑浊老眼从掌心里生出",
+        "苏午点了点头，已知‘钓叟’确实就是此意。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "孙九",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "李彘的同伴，被提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李彘",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我和孙九他们，只有一个要求。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

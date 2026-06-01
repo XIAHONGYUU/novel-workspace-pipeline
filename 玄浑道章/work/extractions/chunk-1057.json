@@ -1,256 +1,589 @@
 {
   "chunk_id": "chunk-1057",
-  "title": "第三百五十二章 烈黯过潜幽",
   "characters": [
     {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "若是他们不亡，就能源源不断的借取劫阳的力量为己用，若是败亡，那么他们的一切都会成为助长劫阳燃烧的柴薪",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "若是他们不亡，就能源源不断的借取劫阳的力量为己用，若是败亡，那么他们的一切都会成为助长劫阳燃烧的柴薪",
-        "“元乘变”之术是最不在意御主用何方法破敌，只要能击败对手，无论用手段办法都是可以，若是对手持剑，那么就能化用剑上神通之变",
-        "”    孤阳子道：“当还不至于，如今他们付出了这许多，却什么都未得到，定然是不甘心的，特别是寰阳派以侵夺为上，若是折损之后不设法弥补回来，也不合他们之道念，现在不需要我等去说，他们自家就会主动破除阻障"
-      ],
-      "mention_count": 7
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张守正"
+      ],
+      "identity": "天夏玄尊，镇守大阵",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "第三百五十二章 烈黯过潜幽    张御清晰目睹了虞清蓉的消亡过程",
+      "summary": "天夏玄尊，负责镇守大阵，与寰阳派修士交战，并获取了陈白宵的玉匕首。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三百五十二章 烈黯过潜幽    张御清晰目睹了虞清蓉的消亡过程",
-        "而在两界通道另一端，关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象，也倒映着张御的身影，不过他并没有走出去，面上也没有什么挫败之色",
-        "所以二人虽是输在了张御手中，但实际上也都是亡在了劫阳之力下，这同样可称得上是一场祭炼，这无疑也加快了破开虚空之壁的力量"
+      "personality": [
+        "谨慎",
+        "冷静"
       ],
-      "mention_count": 6
+      "abilities": [
+        "心光",
+        "飞剑",
+        "空勿劫珠",
+        "紫炁砂"
+      ],
+      "equipment": [
+        "玉匕首",
+        "空勿劫珠",
+        "紫炁砂"
+      ],
+      "relationships": [
+        {
+          "target": "虞清蓉",
+          "type": "敌对"
+        },
+        {
+          "target": "陈白宵",
+          "type": "敌对"
+        },
+        {
+          "target": "关朝昇",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹虞清蓉消亡，与陈白宵、虞清蓉交战，获取玉匕首，返回阵枢坐镇。"
+        }
+      ],
+      "evidence": [
+        "张御清晰目睹了虞清蓉的消亡过程。",
+        "他一转身，化一道星光回到大阵之中",
+        "他先是放出了空勿劫珠，令此物继续在那里蓄势。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "此人",
+      "name": "虞清蓉",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "寰阳派修士，摘取虚实相生功果",
+      "faction": "寰阳派",
+      "status": "死亡",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "只他能够感觉到，此人在世之身其实并非是倒在清穹之气冲击之下，而是受到了某种力量的反夺，先一步自我消融了",
+      "summary": "寰阳派修士，与张御交战，最终被劫阳之力反噬而消亡。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "法力",
+        "劫阳之气"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "关朝昇",
+          "type": "同门"
+        },
+        {
+          "target": "陈白宵",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御击败，遭劫阳之力反噬而消亡。"
+        }
+      ],
       "evidence": [
-        "只他能够感觉到，此人在世之身其实并非是倒在清穹之气冲击之下，而是受到了某种力量的反夺，先一步自我消融了",
-        "到那最后一刻，此人身躯之中的法力生机几乎全部爆发了出来，整个人似乎成了一团燃烧的烈阳",
-        "他意念一动，双柄飞剑直接遁去神虚所在，本来他是准备设法攻灭神气之寄托，将此人彻底斩杀，可是随即发现，不必他去这般做了，因为虞清蓉寄托之神气，也是遭受了反吞，被那一股灼烈光芒所侵，正在自我消散"
+        "张御清晰目睹了虞清蓉的消亡过程。",
+        "此人……先一步自我消融了。",
+        "那神气……终是熄灭了下去，半分也是不存。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陈白宵",
+      "aliases": [],
+      "identity": "寰阳派修士，摘取虚实相生功果",
+      "faction": "寰阳派",
+      "status": "死亡",
+      "first_appearance": "第三百五十二章 烈黯过潜幽",
+      "summary": "寰阳派修士，与张御交战，留下玉匕首，被劫阳之力反噬而亡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "元乘变",
+        "剑上生神之术",
+        "劫阳之气"
+      ],
+      "equipment": [
+        "玉匕首"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "关朝昇",
+          "type": "同门"
+        },
+        {
+          "target": "虞清蓉",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御击败，留下玉匕首，遭劫阳之力反噬而亡。"
+        }
+      ],
+      "evidence": [
+        "将那一柄陈白宵留下的玉匕首捉了过来",
+        "陈白宵、虞清蓉二人虽然身死",
+        "陈白宵其最大之期愿，就是将三十六剑上生神之术聚集"
       ],
       "mention_count": 6
     },
     {
       "name": "关朝昇",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "寰阳派玄尊，领军人物",
+      "faction": "寰阳派",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "而在两界通道另一端，关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象，也倒映着张御的身影，不过他并没有走出去，面上也没有什么挫败之色",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在两界通道另一端，关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象，也倒映着张御的身影，不过他并没有走出去，面上也没有什么挫败之色",
-        "关朝昇心思一转，虽然折了两个摘取虚实相生功果的同门，确实有些可惜，可是只要向劫阳送去足够多的祭献，还是能推动本门修道人去试着摘取功果的",
-        "关朝昇这时又看向远端虹霓之处，道：“李道友，你那边可是成功了么"
+      "summary": "寰阳派玄尊，站在两界通道另一端，指挥同门，与披发老道合作放出服幽虫。",
+      "appearance": [
+        "丹凤眼"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "诸位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "他言道：“诸位同门，若得入世，立功为上者，当得宿主之位",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他言道：“诸位同门，若得入世，立功为上者，当得宿主之位",
-        "他一转身，化一道星光回到大阵之中，抬头对那些看着他的玄尊言道：“诸位",
-        "这两派虽是暂退，可与此辈背后的门派势力而言，尚不算动了根本，两界通道也还在扩大，诸位还需谨慎"
+      "personality": [
+        "冷静"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "而在两界通道另一端，关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象，也倒映着张御的身影，不过他并没有走出去，面上也没有什么挫败之色",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "藤座"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "虞清蓉",
+          "type": "同门"
+        },
+        {
+          "target": "陈白宵",
+          "type": "同门"
+        },
+        {
+          "target": "披发老道",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察张御，与披发老道合作放出服幽虫，返回藤座。"
+        }
+      ],
       "evidence": [
-        "而在两界通道另一端，关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象，也倒映着张御的身影，不过他并没有走出去，面上也没有什么挫败之色",
-        "他一转身，化一道星光回到大阵之中，抬头对那些看着他的玄尊言道：“诸位"
+        "关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象",
+        "关朝昇这时又看向远端虹霓之处",
+        "关朝昇再看了外间一眼，就又回到了自身藤座之上靠座了下来"
       ],
       "mention_count": 5
     },
     {
-      "name": "此虫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "披发老道",
+      "aliases": [
+        "李道友"
+      ],
+      "identity": "寰阳派玄尊",
+      "faction": "寰阳派",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "”    韦廷执沉吟片刻，道：“方才所引动的动静很是微小，此虫便能过来，也绝对不会太多",
-      "appearance": [],
+      "summary": "寰阳派玄尊，与关朝昇合作，放出服幽虫。",
+      "appearance": [
+        "披发"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    韦廷执沉吟片刻，道：“方才所引动的动静很是微小，此虫便能过来，也绝对不会太多",
-        "试想一下，要是寰阳派再次试图入世，或还会以此虫自后攻击张守正驻守的大阵，而我等攻打上宸天，此虫也可能来我这处袭扰，也需重视",
-        "”    竺廷执想了想，道：“此虫固然有此危害，但其既然靠吞夺外物为壮，那也需吞养之时，我等只需快些拿下上宸天，它便不及来扰我，待把上宸天攻破，回头再处置此物好了，倒是张守正那边，还需提醒一声"
+      "relationships": [
+        {
+          "target": "关朝昇",
+          "type": "同门"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与关朝昇合作，放出服幽虫。"
+        }
+      ],
+      "evidence": [
+        "披发老道言道：“已是放了一丝出去。”",
+        "披发老道只是一个稽首。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "可是",
+      "name": "天鸿道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "上宸天修士",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "他意念一动，双柄飞剑直接遁去神虚所在，本来他是准备设法攻灭神气之寄托，将此人彻底斩杀，可是随即发现，不必他去这般做了，因为虞清蓉寄托之神气，也是遭受了反吞，被那一股灼烈光芒所侵，正在自我消散",
+      "summary": "上宸天修士，观察寰阳派与天夏的战况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他意念一动，双柄飞剑直接遁去神虚所在，本来他是准备设法攻灭神气之寄托，将此人彻底斩杀，可是随即发现，不必他去这般做了，因为虞清蓉寄托之神气，也是遭受了反吞，被那一股灼烈光芒所侵，正在自我消散",
-        "关朝昇心思一转，虽然折了两个摘取虚实相生功果的同门，确实有些可惜，可是只要向劫阳送去足够多的祭献，还是能推动本门修道人去试着摘取功果的",
-        "关朝昇这时又看向远端虹霓之处，道：“李道友，你那边可是成功了么"
+      "relationships": [
+        {
+          "target": "孤阳子",
+          "type": "同门"
+        },
+        {
+          "target": "灵都道人",
+          "type": "同门"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与孤阳子、灵都道人讨论战况。"
+        }
+      ],
+      "evidence": [
+        "天鸿道人收回目光，道：“寰阳派这回看来又被天夏堵回去了。”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "关朝",
+      "name": "孤阳子",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "上宸天修士",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "而在两界通道另一端，关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象，也倒映着张御的身影，不过他并没有走出去，面上也没有什么挫败之色",
+      "summary": "上宸天修士，与天鸿道人、灵都道人讨论战况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在两界通道另一端，关朝昇站在气珥之上，他一双丹凤眼目之中反照着对面的景象，也倒映着张御的身影，不过他并没有走出去，面上也没有什么挫败之色",
-        "关朝昇心思一转，虽然折了两个摘取虚实相生功果的同门，确实有些可惜，可是只要向劫阳送去足够多的祭献，还是能推动本门修道人去试着摘取功果的",
-        "关朝昇这时又看向远端虹霓之处，道：“李道友，你那边可是成功了么"
+      "relationships": [
+        {
+          "target": "天鸿道人",
+          "type": "同门"
+        },
+        {
+          "target": "灵都道人",
+          "type": "同门"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与天鸿道人、灵都道人讨论战况。"
+        }
+      ],
+      "evidence": [
+        "孤阳子看着前方代表上宸天的气数枝节"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "披发",
+      "name": "灵都道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "上宸天修士",
+      "faction": "上宸天",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "”    披发老道言道：“已是放了一丝出去",
+      "summary": "上宸天修士，与天鸿道人、孤阳子讨论战况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    披发老道言道：“已是放了一丝出去",
-        "”    披发老道只是一个稽首"
+      "relationships": [
+        {
+          "target": "天鸿道人",
+          "type": "同门"
+        },
+        {
+          "target": "孤阳子",
+          "type": "同门"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与天鸿道人、孤阳子讨论战况。"
+        }
+      ],
+      "evidence": [
+        "灵都道人这时道：“此番寰阳受挫，会否动摇其信心？”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "方才",
+      "name": "钟廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "”    方才关朝昇放出劫阳烈气之时，他也是趁此机会，放了一些服幽虫过去，所以表面看上去关朝昇只是向虞清蓉施以援手，可暗地里他们也是顺势下了一步棋的",
+      "summary": "玄廷廷执，在悬天道宫参与讨论，发现服幽虫踪迹。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    方才关朝昇放出劫阳烈气之时，他也是趁此机会，放了一些服幽虫过去，所以表面看上去关朝昇只是向虞清蓉施以援手，可暗地里他们也是顺势下了一步棋的",
-        "其实在他看来，这方才是最有价值的一部分",
-        "他将玉匕首收起，思索了一下，方才与两人相斗，他又有了不少新的心得体会，当先好好梳理一遍了"
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "韦廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "竺廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "首座道人",
+          "type": "同僚"
+        },
+        {
+          "target": "风道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在悬天道宫与众廷执讨论，指出有东西遁入虚空。"
+        }
+      ],
+      "evidence": [
+        "钟廷执这时对座上打一个稽首，道：“首执，诸位廷执，钟某方才观得一丝气机变化，似有东西自那两界通道之中遁入虚空之中了。”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "他们",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第三百五十二章 烈黯过潜幽",
-      "summary": "若是他们不亡，就能源源不断的借取劫阳的力量为己用，若是败亡，那么他们的一切都会成为助长劫阳燃烧的柴薪",
+      "summary": "玄廷廷执，参与讨论，分析服幽虫，后受命亲去阵中督促攻阵。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "若是他们不亡，就能源源不断的借取劫阳的力量为己用，若是败亡，那么他们的一切都会成为助长劫阳燃烧的柴薪",
-        "”    方才关朝昇放出劫阳烈气之时，他也是趁此机会，放了一些服幽虫过去，所以表面看上去关朝昇只是向虞清蓉施以援手，可暗地里他们也是顺势下了一步棋的",
-        "要是此宝也是穿渡来过，那他们无论如何也是挡不住的，只能第一时刻往回撤走，他们能做的，也就是尽量阻拦延缓这个过程，给玄廷那边攻伐上宸天争取到更多时间"
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "韦廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "竺廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "首座道人",
+          "type": "同僚"
+        },
+        {
+          "target": "风道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在悬天道宫讨论，后受命亲去阵中督促攻阵。"
+        }
+      ],
+      "evidence": [
+        "林廷执郑重道：“诸位廷执且不可小看此物”",
+        "林廷执凛然应命，他自座上起身，一个稽首之后，便从道宫之中出来"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百五十二章 烈黯过潜幽",
+      "summary": "玄廷廷执，参与讨论。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "竺廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "首座道人",
+          "type": "同僚"
+        },
+        {
+          "target": "风道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在悬天道宫参与讨论。"
+        }
+      ],
+      "evidence": [
+        "韦廷执沉吟片刻，道：“方才所引动的动静很是微小”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "竺廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百五十二章 烈黯过潜幽",
+      "summary": "玄廷廷执，参与讨论，提出先攻上宸天再处置服幽虫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "韦廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "首座道人",
+          "type": "同僚"
+        },
+        {
+          "target": "风道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在悬天道宫参与讨论。"
+        }
+      ],
+      "evidence": [
+        "竺廷执想了想，道：“此虫固然有此危害，但其既然靠吞夺外物为壮，那也需吞养之时”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "首座道人",
+      "aliases": [],
+      "identity": "玄廷首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百五十二章 烈黯过潜幽",
+      "summary": "玄廷首执，主持讨论，下令提醒张御并加速攻阵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "下属"
+        },
+        {
+          "target": "林廷执",
+          "type": "下属"
+        },
+        {
+          "target": "韦廷执",
+          "type": "下属"
+        },
+        {
+          "target": "竺廷执",
+          "type": "下属"
+        },
+        {
+          "target": "风道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在悬天道宫主持讨论，下令提醒张御并加速攻阵。"
+        }
+      ],
+      "evidence": [
+        "首座道人道：“风廷执，你告知张守正那里，让他对此多加留意。”",
+        "首座道人又转向林廷执，道：“林廷执，攻阵之事不必太过拖延”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三百五十二章 烈黯过潜幽",
+      "summary": "玄廷廷执，受命告知张御留意服幽虫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "首座道人",
+          "type": "上级"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受命告知张御留意服幽虫。"
+        }
+      ],
+      "evidence": [
+        "风道人立刻一个稽首。"
+      ],
+      "mention_count": 1
     }
   ]
 }

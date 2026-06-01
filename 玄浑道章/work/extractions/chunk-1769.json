@@ -1,257 +1,353 @@
 {
   "chunk_id": "chunk-1769",
-  "title": "第三百三十六章 御外心内异",
   "characters": [
     {
-      "name": "蒲鹿",
+      "name": "血衣道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "阴箓宗掌门",
+      "faction": "阴箓宗",
       "status": "登场",
       "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "玄宫之内，张御也是看到了两人到来，他便把蒲鹿唤过来，道：“如今有外敌来攻，我会将山门大阵交给你来守持",
+      "summary": "阴箓宗掌门，迎接上宗冲离真人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "冲离真人",
+          "type": "师叔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在赤崖上等候并迎接冲离真人。"
+        }
+      ],
+      "evidence": [
+        "血衣道人一礼，道：“见过冲离师叔。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "冲离真人",
+      "aliases": [
+        "冲离"
+      ],
+      "identity": "赤仙教元神真人",
+      "faction": "赤仙教",
+      "status": "登场",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "赤仙教派来的元神真人，全权处置秘境事务。",
+      "appearance": [
+        "神容森冷",
+        "身上披着大氅，脸面和衣物之上勾画了无数道符血纹"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "血衣道人",
+          "type": "师叔侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抵达阴箓宗，听取秘境情况。"
+        }
+      ],
+      "evidence": [
+        "冲理真人道：“收到你们的书信，教主派我前来全权处置”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "银袍道人",
+      "aliases": [],
+      "identity": "观金山掌门",
+      "faction": "观金山",
+      "status": "提及",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "观金山掌门，同样迎来了上宗修士。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玄宫之内，张御也是看到了两人到来，他便把蒲鹿唤过来，道：“如今有外敌来攻，我会将山门大阵交给你来守持",
-        "”    蒲鹿这半年来除了修炼，也是听何休给他讲述了许多修道人的常识，同样也是知悉了阵法的作用",
-        "”    蒲鹿见老师如此说，也是认真道了一声，道：“是，弟子会守御好山门的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观金山中迎来上宗派遣的修士。"
+        }
       ],
-      "mention_count": 20
+      "evidence": [
+        "观金山中，银袍道人这里同样迎来了上宗派遣过来的修士"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "散墨道人",
+      "aliases": [],
+      "identity": "重地观掌门",
+      "faction": "重地观",
+      "status": "登场",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "重地观掌门，与元神老祖商议后决定不参与秘境之事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "重地观元神真人",
+          "type": "老祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在密殿中与元神老祖对话，决定不参与秘境。"
+        }
+      ],
+      "evidence": [
+        "散墨道人也是在与门中的元神真人说话"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "重地观元神真人",
+      "aliases": [
+        "老祖"
+      ],
+      "identity": "重地观元神真人",
+      "faction": "重地观",
+      "status": "登场",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "重地观的元神真人，认为秘境有问题，决定不参与。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "散墨道人",
+          "type": "老祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与散墨道人对话，决定不参与秘境。"
+        }
+      ],
+      "evidence": [
+        "那元神真人道：“我在这里立派许多载了，那片荒原我也是曾经去过不少次，可从来没有感受过那里有什么秘境，其中或有问题。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "冲理真人",
+      "aliases": [
+        "冲理"
+      ],
+      "identity": "阴箓宗上宗元神真人",
+      "faction": "阴箓宗上宗",
+      "status": "登场",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "来自阴箓宗上宗的元神真人，与孤霞真人联手攻破秘境。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "看不起荒洲本土修士"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "孤霞真人",
+          "type": "同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与孤霞真人一同来到秘境，尝试攻破大阵未果后离去。"
+        }
+      ],
+      "evidence": [
+        "冲理真人并不在意这些，道：“这么荒僻的地方，我不想多待，早些处置掉这方秘境，也好早些回去。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "孤霞真人",
+      "aliases": [
+        "落霞真人"
+      ],
+      "identity": "观金山上宗元神真人",
+      "faction": "观金山上宗",
+      "status": "登场",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "来自观金山上宗的元神真人，与冲理真人联手攻破秘境。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "冲理真人",
+          "type": "同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与冲理真人一同来到秘境，尝试攻破大阵未果后离去。"
+        }
+      ],
+      "evidence": [
+        "孤霞真人笑了笑，道：“看来这位重地观的道友不愿参与此事，那么只能由我二人出手破境了。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "秘境主人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "秘境玄宫之主，将山门大阵交给弟子蒲鹿守持。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "蒲鹿",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄宫中看到外敌到来，将牌符交给蒲鹿。"
+        }
+      ],
+      "evidence": [
+        "玄宫之内，张御也是看到了两人到来，他便把蒲鹿唤过来"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "蒲鹿",
+      "aliases": [],
+      "identity": "张御弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三百三十六章 御外心内异",
+      "summary": "张御的弟子，被授予牌符守持山门大阵。",
+      "appearance": [],
+      "personality": [
+        "虚心"
+      ],
+      "abilities": [],
+      "equipment": [
+        "牌符"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        },
+        {
+          "target": "坞冒",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受老师张御的牌符，与坞冒一同守御大阵，击退外敌后被坞冒抢走牌符。"
+        }
+      ],
+      "evidence": [
+        "蒲鹿见老师如此说，也是认真道了一声，道：“是，弟子会守御好山门的。”"
+      ],
+      "mention_count": 8
     },
     {
       "name": "坞冒",
       "aliases": [],
-      "identity": "",
+      "identity": "修道人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "”    那修士看了看他，退后一步，还有一礼，道：“在下坞冒",
+      "summary": "一名懂阵法的修道人，协助蒲鹿守阵，但最终抢走牌符。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那修士看了看他，退后一步，还有一礼，道：“在下坞冒",
-        "”    “好好，”坞冒十分热情，道：“我一定尽力相助",
-        "坞冒看到那牌符的时候，却是目光闪烁了一下"
+      "personality": [
+        "热情",
+        "心怀不轨"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "而另一家重地观的密殿之内，散墨道人也是在与门中的元神真人说话、“    “老祖，我们不插手这件事么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而另一家重地观的密殿之内，散墨道人也是在与门中的元神真人说话、“    “老祖，我们不插手这件事么",
-        "这个秘境极不简单，我们不比那两派还有本宗撑着，有什么问题还有本宗来解决，此事我们不参与",
-        "在走出来之后，他告知弟子，道：“回告阴箓宗和观金山的两位道友，我们对于所得已经满意，这次就不与他们一道了"
+      "abilities": [
+        "懂阵法"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "冲理",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "冲理真人道：“收到你们的书信，教主派我前来全权处置，你们将所有关于那处秘境的情形都是告知，不许有所遗漏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冲理真人道：“收到你们的书信，教主派我前来全权处置，你们将所有关于那处秘境的情形都是告知，不许有所遗漏",
-        "”    此刻冲理真人和来自观金山上宗的孤霞真人正在等候重地观回讯，然而却是等到了拒绝的消息",
-        "”    冲理真人并不在意这些，道：“这么荒僻的地方，我不想多待，早些处置掉这方秘境，也好早些回去"
+      "relationships": [
+        {
+          "target": "蒲鹿",
+          "type": "合作后背叛"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "两人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "”    说实话，两人内心都是有些看不起这些荒洲本土的修道人，荒洲之所以名为荒洲，就体现在修道环境太过恶劣，且本土宗派也不像他们这样的大宗传承有序",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    说实话，两人内心都是有些看不起这些荒洲本土的修道人，荒洲之所以名为荒洲，就体现在修道环境太过恶劣，且本土宗派也不像他们这样的大宗传承有序",
-        "两人拿定主意之后，就着门中弟子引路，不久就来到了那一处平阔青原之上，冲理道人扫了几眼，冷声道：“就是这里么",
-        "”    两人并不觉得这阵法能阻挡他们"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "协助蒲鹿守御大阵，后抢走牌符。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "冲理真",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "冲理真人道：“收到你们的书信，教主派我前来全权处置，你们将所有关于那处秘境的情形都是告知，不许有所遗漏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "冲理真人道：“收到你们的书信，教主派我前来全权处置，你们将所有关于那处秘境的情形都是告知，不许有所遗漏",
-        "”    此刻冲理真人和来自观金山上宗的孤霞真人正在等候重地观回讯，然而却是等到了拒绝的消息",
-        "”    冲理真人并不在意这些，道：“这么荒僻的地方，我不想多待，早些处置掉这方秘境，也好早些回去"
+        "坞冒双目一闪，道：“不客气。”说话之间，他突然出手，一把将蒲鹿掌中的牌符抢到了手中！"
       ],
       "mention_count": 6
     },
     {
-      "name": "冲理真人",
+      "name": "何休",
       "aliases": [],
-      "identity": "",
+      "identity": "藤蔓精怪",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "冲理真人道：“收到你们的书信，教主派我前来全权处置，你们将所有关于那处秘境的情形都是告知，不许有所遗漏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冲理真人道：“收到你们的书信，教主派我前来全权处置，你们将所有关于那处秘境的情形都是告知，不许有所遗漏",
-        "”    此刻冲理真人和来自观金山上宗的孤霞真人正在等候重地观回讯，然而却是等到了拒绝的消息",
-        "”    冲理真人并不在意这些，道：“这么荒僻的地方，我不想多待，早些处置掉这方秘境，也好早些回去"
+      "summary": "一株藤蔓，能说话，帮助蒲鹿和坞冒前往阵枢。",
+      "appearance": [
+        "一株藤蔓"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "可是现在非但得不了好处，反可能给自己找个敌人，那他们自是不愿意的",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是现在非但得不了好处，反可能给自己找个敌人，那他们自是不愿意的",
-        "可是由于过长的距离，再加上各派之间还要先行谈妥如何瓜分战果，所以等到准备出手的时候，已是半载之后了",
-        "”    元神真人道：“话虽如此，可是你到了我这个境界便就明白了，世上一些事情并不是真的毫无痕迹可寻的"
+      "abilities": [
+        "凭空生长",
+        "带人传送"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "都是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "阴箓宗，赤崖之上，血衣道人和门中一众长老正在此等候着，忽见远空一道铺天盖地的赤光漫来，像是浓郁的血流在空中翻涌，所有人见状，都是精神振作起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "阴箓宗，赤崖之上，血衣道人和门中一众长老正在此等候着，忽见远空一道铺天盖地的赤光漫来，像是浓郁的血流在空中翻涌，所有人见状，都是精神振作起来",
-        "冲理真人道：“收到你们的书信，教主派我前来全权处置，你们将所有关于那处秘境的情形都是告知，不许有所遗漏",
-        "阴箓宗和观金山的上宗可都是来人了"
+      "relationships": [
+        {
+          "target": "蒲鹿",
+          "type": "侍从"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "其中",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "这秘境再是如何了得，也只是一座遗府而已，里面或许有元神真人残留下来的力量，但并没有真正的元神真人坐镇，只要集中多个宗派的力量，或者请上乘修士到来将此处攻破，那么不难夺取其中的修道资粮和秘传功法了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这秘境再是如何了得，也只是一座遗府而已，里面或许有元神真人残留下来的力量，但并没有真正的元神真人坐镇，只要集中多个宗派的力量，或者请上乘修士到来将此处攻破，那么不难夺取其中的修道资粮和秘传功法了",
-        "当然荒洲之上，本土的宗派无疑是最多的，其中也不乏一些厉害宗门，但从底蕴上来说，比之名洲宗派就所不足了",
-        "”    那元神真人道：“我在这里立派许多载了，那片荒原我也是曾经去过不少次，可从来没有感受过那里有什么秘境，其中或有问题"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "应蒲鹿召唤，带二人前往阵枢。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这个",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "第三百三十六章 御外心内异    诸派一开始愿意用遵守秘境的方式进入，这是因为这个方法最简单，也最易得利",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第三百三十六章 御外心内异    诸派一开始愿意用遵守秘境的方式进入，这是因为这个方法最简单，也最易得利",
-        "”    元神真人道：“话虽如此，可是你到了我这个境界便就明白了，世上一些事情并不是真的毫无痕迹可寻的",
-        "这个秘境极不简单，我们不比那两派还有本宗撑着，有什么问题还有本宗来解决，此事我们不参与"
+        "蒲鹿唤了一声，道：“何休？”顿时一株藤蔓凭空长了出来"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "就是这",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百三十六章 御外心内异",
-      "summary": "两人拿定主意之后，就着门中弟子引路，不久就来到了那一处平阔青原之上，冲理道人扫了几眼，冷声道：“就是这里么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "两人拿定主意之后，就着门中弟子引路，不久就来到了那一处平阔青原之上，冲理道人扫了几眼，冷声道：“就是这里么",
-        "”    弟子恭敬道：“回禀真人，就是这里"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

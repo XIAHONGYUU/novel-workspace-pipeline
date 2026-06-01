@@ -1,0 +1,299 @@
+{
+  "chunk_id": "chunk-1345",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，拥有强大实力，揭露不空和尚罪行，与法智和尚对峙。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "强势",
+        "冷静"
+      ],
+      "abilities": [
+        "真言神通",
+        "因果留影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丹加",
+          "type": "同伴"
+        },
+        {
+          "target": "不空",
+          "type": "敌对"
+        },
+        {
+          "target": "法智",
+          "type": "对峙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在兴善寺揭露不空罪行，与法智和尚对峙。"
+        }
+      ],
+      "evidence": [
+        "苏午摇了摇头，他旋而与兴善寺外等候的丹加等人传递消息",
+        "苏午将挡在身前的金刚智和尚推开，迈步走出了禅房",
+        "苏午看向在被自己手掌按住头颅的一瞬间，即被自身压制住的法智和尚"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "金刚智",
+      "aliases": [],
+      "identity": "兴善寺僧人",
+      "faction": "佛门",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "兴善寺僧人，被苏午指责破戒，心神震骇。",
+      "appearance": [],
+      "personality": [
+        "恐惧",
+        "心虚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "对峙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午指责破戒，性灵受创。"
+        }
+      ],
+      "evidence": [
+        "金刚智神色更加骇恐",
+        "他喃喃低语，试图抗辩",
+        "他心神剧震，鲜血从眼耳口鼻之中流淌而下"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "法智",
+      "aliases": [
+        "法智禅师"
+      ],
+      "identity": "嵩山寺住持，长安释门领头人",
+      "faction": "佛门（北禅宗）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "北禅宗首寺嵩山寺住持，佛门领袖，与苏午对峙。",
+      "appearance": [
+        "脑袋微大"
+      ],
+      "personality": [
+        "决然",
+        "善辩"
+      ],
+      "abilities": [
+        "第十二地修所成地"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "对峙"
+        },
+        {
+          "target": "神秀",
+          "type": "宣称亲见"
+        },
+        {
+          "target": "不空",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为不空辩护，被苏午质问，最终选择尝试死而复生。"
+        }
+      ],
+      "evidence": [
+        "法智与苏午相视",
+        "法智僧以退为进，唇枪舌剑",
+        "法智和尚嘴唇嗫嚅着...神色渐渐转为决然"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "不空",
+      "aliases": [
+        "不空和尚"
+      ],
+      "identity": "兴善寺僧人",
+      "faction": "佛门",
+      "status": "已死（被苏午摧杀）",
+      "first_appearance": "",
+      "summary": "兴善寺僧人，为修一字佛顶法杀害猴儿，被苏午杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "一字佛顶法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被杀死"
+        },
+        {
+          "target": "法智",
+          "type": "被辩护"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "修一字佛顶法，以猴儿和女童为祭品。"
+        },
+        {
+          "stage": "当前",
+          "event": "被苏午摧杀。"
+        }
+      ],
+      "evidence": [
+        "不空和尚修持恶法之事",
+        "不空为修‘一字佛顶法’，将佛眼开在无辜生灵头顶",
+        "苏午...将不空拖到禅房外"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "丹加",
+      "aliases": [],
+      "identity": "苏午的同伴",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午的同伴，在兴善寺外等候。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午传令抓捕人牙子。"
+        }
+      ],
+      "evidence": [
+        "苏午...与兴善寺外等候的丹加等人传递消息"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女童",
+      "aliases": [
+        "童儿"
+      ],
+      "identity": "被不空用作祭品的孩童",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被不空用作一字佛顶法祭品的女童，被苏午救出。",
+      "appearance": [
+        "未着衣衫，遍是污垢"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被救"
+        },
+        {
+          "target": "不空",
+          "type": "被用作祭品"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被不空用作一字佛顶法祭品，经历死而复生。"
+        },
+        {
+          "stage": "当前",
+          "event": "被苏午抱出，指认不空罪行。"
+        }
+      ],
+      "evidence": [
+        "在第八个陶坛内沉沉睡着的女童",
+        "苏午...抱起了坛中孩童",
+        "她指出了不空和尚所为"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "神秀",
+      "aliases": [
+        "神秀僧"
+      ],
+      "identity": "已故高僧",
+      "faction": "佛门（北禅宗）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "已故高僧，传说中死而复生，法智宣称亲见其显真。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "法智",
+          "type": "被宣称显真"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "死而复生传言。"
+        }
+      ],
+      "evidence": [
+        "神秀僧死而复生之传言",
+        "法智和尚在嵩山深山之中修行...亲见神秀显真"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "善无畏",
+      "aliases": [],
+      "identity": "兴善寺住持",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "兴善寺住持，当前未出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "未看到兴善寺住持‘善无畏’的踪迹"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

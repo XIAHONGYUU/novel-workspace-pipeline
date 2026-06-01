@@ -1,0 +1,294 @@
+{
+  "chunk_id": "chunk-0662",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "师父"
+      ],
+      "identity": "闾山派高人，七个弟子的师父",
+      "faction": "闾山派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "闾山派高人，带领弟子在凤山遭遇怨神，试图脱离险境。",
+      "appearance": [
+        "肩后两条漆黑手臂持握黑地藏",
+        "衣襟上有模糊血字'冤魂索命'"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "阴影世界穿梭",
+        "使用黑地藏增幅影诡力量",
+        "雷火焚烧尸体",
+        "智拳印与六天故鬼真瞳结合"
+      ],
+      "equipment": [
+        "黑地藏",
+        "鬼匠缝线",
+        "愿力金钱",
+        "猊兽旺财"
+      ],
+      "relationships": [
+        {
+          "target": "闾山七子",
+          "type": "师徒"
+        },
+        {
+          "target": "五通神",
+          "type": "敌对"
+        },
+        {
+          "target": "旺财",
+          "type": "宠物/伙伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告诫弟子后潜入阴影世界救援五通神，随后带领弟子下山，遭遇怨神杀人规律标记和自然灾害。"
+        }
+      ],
+      "evidence": [
+        "苏午为七个弟子留下了一番告诫",
+        "苏午看着衣襟上浮现出的模糊血字，神色平静地说道",
+        "苏午吩咐了众人一句，就此立在山阶上"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "五通神",
+      "aliases": [],
+      "identity": "愿望意识凝聚的神灵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被怨神追杀的神灵，被苏午救下后又被旺财控制。",
+      "appearance": [
+        "模糊人形",
+        "浑身写满'冤魂索命，厉诡缠身'血字"
+      ],
+      "personality": [
+        "绝望",
+        "求生欲强",
+        "狡猾"
+      ],
+      "abilities": [
+        "编织大道纹韵组成庙系",
+        "控制虺神长发"
+      ],
+      "equipment": [
+        "虺神长发",
+        "五通神庙系"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对后被救"
+        },
+        {
+          "target": "怨神",
+          "type": "被追杀"
+        },
+        {
+          "target": "旺财",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被怨神追杀，被苏午救出，但被旺财控制，最终又被虺神长发束缚。"
+        }
+      ],
+      "evidence": [
+        "五通神完全沦入绝望的心神",
+        "五通神是成功组成了庙系，自身跻身其中，暂时脱离危险",
+        "它浑身写满'冤魂索命，厉诡缠身'的血字"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "旺财",
+      "aliases": [
+        "猊兽"
+      ],
+      "identity": "苏午的宠物/伙伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的猊兽，协助控制五通神。",
+      "appearance": [
+        "暗金色的前爪",
+        "巨大的狗头",
+        "暗金眼仁"
+      ],
+      "personality": [
+        "忠诚",
+        "凶猛"
+      ],
+      "abilities": [
+        "潜伏",
+        "控制目标"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主人"
+        },
+        {
+          "target": "五通神",
+          "type": "控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "按住了五通神，将其带入庙系。"
+        }
+      ],
+      "evidence": [
+        "一双暗金色的前爪搭在了它模糊人形的肩膀上",
+        "一颗巨大的狗头就在它脖颈一侧"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "闾山七子",
+      "aliases": [
+        "七个弟子"
+      ],
+      "identity": "苏午的弟子",
+      "faction": "闾山派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的七个弟子，跟随师父在凤山遭遇怨神。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随苏午下山，遭遇暴雨和地质灾害。"
+        }
+      ],
+      "evidence": [
+        "苏午为七个弟子留下了一番告诫",
+        "闾山七子走在湿滑的山阶下"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "显直",
+      "aliases": [],
+      "identity": "闾山七子之一",
+      "faction": "闾山派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的弟子，恢复神智后指出苏午衣襟上的血字。",
+      "appearance": [],
+      "personality": [
+        "细心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "恢复神智后惊叫指出苏午衣襟上的血字。"
+        }
+      ],
+      "evidence": [
+        "已经恢复神智、脱离乩童状态的显直，忽然惊叫了一声"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "怨神",
+      "aliases": [],
+      "identity": "厉诡",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拥有杀人规律的厉诡，能增强其他厉诡能力，标记目标后逐步杀死。",
+      "appearance": [
+        "怨神菩萨仪仗",
+        "诡韵"
+      ],
+      "personality": [
+        "狡猾",
+        "欺软怕硬"
+      ],
+      "abilities": [
+        "杀人规律：在衣衫上写'冤魂索命，厉诡缠身'，额顶至下巴写七个'怨'字",
+        "增强其他厉诡能力",
+        "影响环境带来灾晦"
+      ],
+      "equipment": [
+        "增损二将"
+      ],
+      "relationships": [
+        {
+          "target": "五通神",
+          "type": "追杀"
+        },
+        {
+          "target": "苏午",
+          "type": "标记"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "追杀五通神，标记苏午，后因无法杀死五通神而离去。"
+        }
+      ],
+      "evidence": [
+        "怨神的诡韵竟未继续纠缠五通神以及苏午，在此瞬俱远去了",
+        "看来这怨神杀人规律的显兆，便是在人衣衫上写满'冤魂索命，厉诡缠身'的字迹"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "鼎灵",
+      "aliases": [],
+      "identity": "被猖兵看顾的昏迷者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被猖兵看顾在中间，仍旧昏迷着。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "昏迷中被猖兵看顾。"
+        }
+      ],
+      "evidence": [
+        "看了看被猖兵看顾在中间，仍旧昏迷着的鼎灵"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

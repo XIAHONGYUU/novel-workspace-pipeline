@@ -1,254 +1,496 @@
 {
   "chunk_id": "chunk-0741",
-  "title": "第三十六章 星挪宿位移",
   "characters": [
     {
-      "name": "苍芦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "钟廷执",
+      "aliases": [
+        "钟道人",
+        "钟廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "到了廷议之末，首座道人拿过一份呈书，道：“张守正送来呈书，言称西穹天娄宿镇守苍芦，镇守娄宿一百六十三载，不合再坐于此位之上，谏言挪位，诸位廷执以为如何",
+      "summary": "玄廷廷执，关注张御呈书，并收到正清一脉回信。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "关注其呈书"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "长孙道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "参与廷议，附从决议，关注张御呈书。"
+        },
+        {
+          "stage": "廷议后",
+          "event": "回到妙皓道宫，收到徐冲送来的正清一脉回信。"
+        }
+      ],
+      "evidence": [
+        "钟廷执再次来至廷上。",
+        "钟道人一听是张御呈书，顿便留意了起来。",
+        "钟道人回到了自家妙皓道宫之内，见门下弟子侍立一旁，他心下一动，道：“下面有回音了？”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "首座道人",
+      "aliases": [
+        "首座道人"
+      ],
+      "identity": "玄廷首座",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷首座，主持廷议，处理苍芦挪位事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张守正",
+          "type": "收到其呈书"
+        },
+        {
+          "target": "苍芦",
+          "type": "下令其卸职"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "拿出张守正呈书，提议讨论苍芦挪位。"
+        }
+      ],
+      "evidence": [
+        "首座道人拿过一份呈书，道：“张守正送来呈书……”",
+        "首座道人抚须一思，道：“此举也算妥当……”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "张守正",
+      "aliases": [
+        "张御",
+        "张守正"
+      ],
+      "identity": "守正",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "守正，向玄廷呈书建议苍芦挪位，后受命斥问苍芦。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有决断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "两件法器"
+      ],
+      "relationships": [
+        {
+          "target": "苍芦",
+          "type": "怀疑其有问题，奉命斥问"
+        },
+        {
+          "target": "明周道人",
+          "type": "向其取法器"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议后",
+          "event": "收到玄廷回书，得知廷议通过。"
+        },
+        {
+          "stage": "两日后",
+          "event": "得知苍芦拒绝卸职，收到玄廷谕书，决定前往斥问。"
+        },
+        {
+          "stage": "前往道场",
+          "event": "进入苍芦道场，与苍芦对话。"
+        }
+      ],
+      "evidence": [
+        "张御在守正宫中很快收到了玄廷回书",
+        "张御在收到玄廷谕书之后，不禁考虑了一下",
+        "他飘身向前，最后落至那一座立于大地之中道宫门前"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [
+        "玉素道人",
+        "玉素廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷廷执，支持苍芦挪位。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "发言支持苍芦挪位。"
+        }
+      ],
       "evidence": [
-        "到了廷议之末，首座道人拿过一份呈书，道：“张守正送来呈书，言称西穹天娄宿镇守苍芦，镇守娄宿一百六十三载，不合再坐于此位之上，谏言挪位，诸位廷执以为如何",
-        "玉素道人出声道：“苍芦镇守一百六十余载，委实时日过长了，若是按照规矩，早该挪位了，我以为此议可过",
-        "”    甚少在廷上发言的风道人这时附和道：“玉素廷执说得是，寻常镇守，便是守个一百载也是过了，而苍芦镇守这许久，以往更是曾立有不少功绩，到如今却还是外宿镇守，不得拔擢，这委实有些说不过去"
+        "玉素道人出声道：“苍芦镇守一百六十余载，委实时日过长了……”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风道人",
+        "风廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷廷执，附和玉素道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "附和玉素道人，支持苍芦挪位。"
+        }
+      ],
+      "evidence": [
+        "甚少在廷上发言的风道人这时附和道：“玉素廷执说得是……”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "晁道人",
+      "aliases": [
+        "晁道人",
+        "晁廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷廷执，认为苍芦脾气坏，适合原处。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "发言认为苍芦脾气坏，适合原处。"
+        }
+      ],
+      "evidence": [
+        "晁道人道：“我看这也没什么不妥吧？他这个人脾气甚坏……”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "武廷执",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷廷执，主张按规序办事，认为苍芦可升任廷执。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "发言主张按规序，认为苍芦可升任廷执。"
+        }
+      ],
+      "evidence": [
+        "武廷执这时沉声道：“玄廷自有规序，岂容他自家意愿？”",
+        "武廷执缓缓道：“以苍芦过往的功劳，足可升任为廷执。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "陈廷执",
+      "aliases": [
+        "陈廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷廷执，提议安排苍芦去其他洲宿。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "发言询问其他洲宿合适去处。"
+        }
+      ],
+      "evidence": [
+        "陈廷执道：“那就只有安排他去其他洲宿镇守了……”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [
+        "韦廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷廷执，提及玉京有位置。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "发言提及玉京有位置。"
+        }
+      ],
+      "evidence": [
+        "韦廷执道：“玉京那里倒是有一个……”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [
+        "戴廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "玄廷廷执，反对苍芦去玉京。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "发言反对苍芦去玉京，因其杀性多、不与同道和睦。"
+        }
+      ],
+      "evidence": [
+        "戴廷执这时摇头道：“不妥，苍芦这人杀性太多……”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "苍芦",
+      "aliases": [
+        "苍芦",
+        "苍镇守",
+        "苍道友"
+      ],
+      "identity": "西穹天娄宿镇守",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第三十六章 星挪宿位移",
+      "summary": "娄宿镇守一百六十三载，拒绝玄廷卸职命令，被张御斥问，承认毁去娄宿驻地。",
+      "appearance": [
+        "道髻散开，身上是蓝灰色道袍",
+        "双目漆黑，眸中有无数细小眼珠眨动"
+      ],
+      "personality": [
+        "脾气坏",
+        "杀性大",
+        "孤僻",
+        "不近人情"
+      ],
+      "abilities": [
+        "极罡烈煞之术",
+        "长于祭器"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被其怀疑并斥问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议后两日",
+          "event": "拒绝离开镇守之位，引发玄廷不满。"
+        },
+        {
+          "stage": "张御到访",
+          "event": "在道场中等待张御，承认毁去娄宿驻地。"
+        }
+      ],
+      "evidence": [
+        "苍芦拒绝离开镇守之位",
+        "苍芦性情孤僻，又不近人情",
+        "他双目赫然已是漆黑一片，而令人惊悚的是，在那一双眸子之中，竟还有无数细小的眼珠正在那里眨动着。"
       ],
       "mention_count": 12
     },
     {
-      "name": "钟道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明周道人",
+      "aliases": [
+        "明周道人"
+      ],
+      "identity": "张御身边的道人",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "”    钟道人一听是张御呈书，顿便留意了起来",
+      "summary": "张御向其取来两件法器。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟道人一听是张御呈书，顿便留意了起来",
-        "钟道人这时发声道：“我不看不如这样，先令苍镇守从镇守之位上卸职，待有合适之位时，再安排这一位上去，期间功俸不裁，诸位以为如何",
-        "钟道人回到了自家妙皓道宫之内，见门下弟子侍立一旁，他心下一动，道：“下面有回音了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "为其提供法器"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "张御准备斥问前",
+          "event": "张御唤来明周道人，取来两件法器。"
+        }
+      ],
+      "evidence": [
+        "他考虑了一下，唤来明周道人，问其拿来了两件法器。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "玄廷",
+      "name": "徐冲",
       "aliases": [],
-      "identity": "",
+      "identity": "送信人",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "”    武廷执这时沉声道：“玄廷自有规序，岂容他自家意愿",
+      "summary": "为钟道人送来正清一脉的回信。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    武廷执这时沉声道：“玄廷自有规序，岂容他自家意愿",
-        "他若不愿受玄廷安排也可，那边辞了位职，回去潜修便是",
-        "”    一百六十年实在太长了，换一个星宿的话，那早便换人了，也就是娄宿情形特殊，时时刻刻都有斗战，死伤甚重，而这么多年又未曾出事，非常之安稳，再加上苍芦本人缘故，玄廷也就没有做出什么改变"
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "送信"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "廷议后",
+          "event": "徐冲送来书信，用赤书。"
+        }
+      ],
+      "evidence": [
+        "徐冲送来的书信，用的是赤书"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "玉京那",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "崇廷执",
+      "aliases": [
+        "崇廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "提及",
       "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "”    韦廷执道：“玉京那里倒是有一个……”    戴廷执这时摇头道：“不妥，苍芦这人杀性太多，又与同道不甚和睦，我在奎宿之时，一直负责支援娄宿事宜，可是每回传声过去，这位都不作理会",
+      "summary": "仍在受罚，未出席廷议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    韦廷执道：“玉京那里倒是有一个……”    戴廷执这时摇头道：“不妥，苍芦这人杀性太多，又与同道不甚和睦，我在奎宿之时，一直负责支援娄宿事宜，可是每回传声过去，这位都不作理会",
-        "别处还罢了，到了玉京那里，怕是更难以同道相处，玉京那里可是守御要地，戴某以为，不可交给这位",
-        "”    在座廷执都是点头，玉京那里三位玄尊虽然各自分镇一裂隙，可彼此唯有互相援结，才能安稳守持住，这么一个只会得罪人和令同道难堪的人，无论如何也不适合去那里"
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "仍在受罚，未出席。"
+        }
+      ],
+      "evidence": [
+        "崇廷执仍在受罚"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "长孙道人",
+      "aliases": [
+        "长孙道人"
+      ],
+      "identity": "玄廷道人",
+      "faction": "玄廷",
+      "status": "提及",
       "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "”    钟道人一听是张御呈书，顿便留意了起来",
+      "summary": "在潜修中，未出席廷议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟道人一听是张御呈书，顿便留意了起来",
-        "”    另一边，张御在守正宫中很快收到了玄廷回书，说是他所呈之言已然过了廷议，稍候玄廷将会令苍芦卸脱守镇之位，令其化身归返正身",
-        "这一次玄廷再未客气，命人将廷谕送到了守正宫这里，让张御携旨上门斥问其人，若是苍芦仍是不肯遵从玄廷安排，那么就直接将其人正身拿下"
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "钟道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "”    钟道人一听是张御呈书，顿便留意了起来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟道人一听是张御呈书，顿便留意了起来",
-        "钟道人这时发声道：“我不看不如这样，先令苍镇守从镇守之位上卸职，待有合适之位时，再安排这一位上去，期间功俸不裁，诸位以为如何",
-        "钟道人回到了自家妙皓道宫之内，见门下弟子侍立一旁，他心下一动，道：“下面有回音了"
+      "timeline": [
+        {
+          "stage": "十月中廷议",
+          "event": "在潜修中。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "此举",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "”    “此举不合适",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    “此举不合适",
-        "”    首座道人抚须一思，道：“此举也算妥当，苍道友为娄宿镇守百六十载，功劳不小，依旧算其功俸，待有适合，待再作安排吧"
+        "长孙道人一如既往在潜修之中"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "”    此言一出，立遭下面的廷执出声反对，不是一位廷执，而是多数都是如此，显见所有人都知道苍芦的脾性，同时也能看出这位的人缘有多差",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    此言一出，立遭下面的廷执出声反对，不是一位廷执，而是多数都是如此，显见所有人都知道苍芦的脾性，同时也能看出这位的人缘有多差",
-        "”    韦廷执道：“玉京那里倒是有一个……”    戴廷执这时摇头道：“不妥，苍芦这人杀性太多，又与同道不甚和睦，我在奎宿之时，一直负责支援娄宿事宜，可是每回传声过去，这位都不作理会",
-        "别处还罢了，到了玉京那里，怕是更难以同道相处，玉京那里可是守御要地，戴某以为，不可交给这位"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "然则两日之后，却是又传来消息，说是苍芦拒绝离开镇守之位，    而其人拒绝之言，却是引发了玄廷的不满，随后又连发了两次宣召，并斥责了其人，要其立刻交托卸职，然而苍芦却是全然不接",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "然则两日之后，却是又传来消息，说是苍芦拒绝离开镇守之位，    而其人拒绝之言，却是引发了玄廷的不满，随后又连发了两次宣召，并斥责了其人，要其立刻交托卸职，然而苍芦却是全然不接",
-        "此刻他举目一望，便见整个天地全都是一片荒寂，天上云气沉沉压坠，大地空旷平坦，不起褶皱，连一丝砂砾尘埃都是没有，云中偶有闪电闪过，随后一声沉闷雷音在云中响起，似便这里唯一的声响"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "其人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "他思索了一下，苍芦从若从守镇之位上退下去，那么不管其人有什么问题，也可慢慢查，不至于动荡奎宿了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他思索了一下，苍芦从若从守镇之位上退下去，那么不管其人有什么问题，也可慢慢查，不至于动荡奎宿了",
-        "然则两日之后，却是又传来消息，说是苍芦拒绝离开镇守之位，    而其人拒绝之言，却是引发了玄廷的不满，随后又连发了两次宣召，并斥责了其人，要其立刻交托卸职，然而苍芦却是全然不接",
-        "这一次玄廷再未客气，命人将廷谕送到了守正宫这里，让张御携旨上门斥问其人，若是苍芦仍是不肯遵从玄廷安排，那么就直接将其人正身拿下"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "且近",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "这一次廷议，长孙道人一如既往在潜修之中，而崇廷执仍在受罚，他知自己一人说话也是无用，且近来也无有什么大事，故他全程不发一言，只是附从了廷上的决议",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一次廷议，长孙道人一如既往在潜修之中，而崇廷执仍在受罚，他知自己一人说话也是无用，且近来也无有什么大事，故他全程不发一言，只是附从了廷上的决议"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "首座",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 星挪宿位移",
-      "summary": "到了廷议之末，首座道人拿过一份呈书，道：“张守正送来呈书，言称西穹天娄宿镇守苍芦，镇守娄宿一百六十三载，不合再坐于此位之上，谏言挪位，诸位廷执以为如何",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "到了廷议之末，首座道人拿过一份呈书，道：“张守正送来呈书，言称西穹天娄宿镇守苍芦，镇守娄宿一百六十三载，不合再坐于此位之上，谏言挪位，诸位廷执以为如何",
-        "”    首座道人言道：“那么诸位廷执便议一议，这事情该是如何安排",
-        "”    首座道人抚须一思，道：“此举也算妥当，苍道友为娄宿镇守百六十载，功劳不小，依旧算其功俸，待有适合，待再作安排吧"
-      ],
-      "mention_count": 3
+      "mention_count": 2
     }
   ]
 }

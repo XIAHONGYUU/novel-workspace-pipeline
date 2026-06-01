@@ -1,258 +1,383 @@
 {
   "chunk_id": "chunk-1531",
-  "title": "第一百零九章 化障待争启",
   "characters": [
     {
-      "name": "诸位",
+      "name": "段司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏上殿司议",
+      "faction": "元夏上殿",
       "status": "登场",
       "first_appearance": "第一百零九章 化障待争启",
-      "summary": "”    黄司议道：“自是有事，先说其一，诸位不知是否发现，我等所立下的天序近来虽无动摇，可代替天道之演却是停滞不前了",
+      "summary": "元夏上殿司议，参与元上殿议事，对下殿动向保持警惕。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "公允"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    黄司议道：“自是有事，先说其一，诸位不知是否发现，我等所立下的天序近来虽无动摇，可代替天道之演却是停滞不前了",
-        "再说天道何其玄妙，哪怕只余一点，也比前面九成更难进拓，不然早就摘取终道了，此事也早有公论，就为这点事，用得着把诸位司议唤来特意一说么",
-        "黄司议这时道：“不管真假如何，一载余确实不长，此事黄某只是提醒诸位司议一声，今日所言，此只其一罢了"
+      "relationships": [
+        {
+          "target": "黄司议",
+          "type": "同殿司议"
+        },
+        {
+          "target": "兰司议",
+          "type": "同殿司议"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿参与议事，指出下殿异常，建议查探。"
+        }
+      ],
+      "evidence": [
+        "段司议左右看了一眼，朝着一位身着金袍的司议问了一句",
+        "段司议想了下，较为公允的说道",
+        "段司议在其离开后，却是忽然道"
+      ],
+      "mention_count": 6
     },
     {
       "name": "黄司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏上殿司议",
+      "faction": "元夏上殿",
       "status": "登场",
       "first_appearance": "第一百零九章 化障待争启",
-      "summary": "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
-      "appearance": [],
-      "personality": [],
+      "summary": "元夏上殿司议，召集议事，提及天序停滞和下殿沟通事宜。",
+      "appearance": [
+        "身着金袍"
+      ],
+      "personality": [
+        "谨慎",
+        "负责"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
-        "”    黄司议道：“自是有事，先说其一，诸位不知是否发现，我等所立下的天序近来虽无动摇，可代替天道之演却是停滞不前了",
-        "黄司议这时道：“不管真假如何，一载余确实不长，此事黄某只是提醒诸位司议一声，今日所言，此只其一罢了"
+      "relationships": [
+        {
+          "target": "段司议",
+          "type": "同殿司议"
+        },
+        {
+          "target": "童司议",
+          "type": "下殿司议"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零九章 化障待争启",
-      "summary": "虽然天道在我元夏进逼之下被侵夺了不少，可那只是我元夏能力可以企及的地方，余下不及，不是我等不往，而是无法到达",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然天道在我元夏进逼之下被侵夺了不少，可那只是我元夏能力可以企及的地方，余下不及，不是我等不往，而是无法到达",
-        "而且这件事张正使恰恰没有宣扬，而是我等通过别的途径获知的",
-        "说明他本人并没有把这一点太过放在心上，而是一直在尽心尽力做事，这还不够说明问题么"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "召集上殿司议，提出天序停滞和下殿沟通两件事。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "段司议",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零九章 化障待争启",
-      "summary": "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
-        "”    段司议想了下，较为公允的说道：“这件事还是当注意的，我元夏之序还不到停滞不前之时，可有这番变化，不会无由，这许是两界关门开启之故",
-        "”    段司议道：“童司议也太小看我上殿了，此事绝无可能是天夏那边故意泄露的"
+        "黄司议道：“自是有事，先说其一”",
+        "黄司议这时道：“不管真假如何，一载余确实不长”",
+        "黄司议正色道：“此乃是我之职责”"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "黄司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零九章 化障待争启",
-      "summary": "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
-        "”    黄司议道：“自是有事，先说其一，诸位不知是否发现，我等所立下的天序近来虽无动摇，可代替天道之演却是停滞不前了",
-        "黄司议这时道：“不管真假如何，一载余确实不长，此事黄某只是提醒诸位司议一声，今日所言，此只其一罢了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "此辈",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零九章 化障待争启",
-      "summary": "万道人出声道：“黄司议，下殿一直是期望动手的，我们不反对此事，但是要尽量削弱敌人之后再动手，此辈太过激进，这与我之根本相悖",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "万道人出声道：“黄司议，下殿一直是期望动手的，我们不反对此事，但是要尽量削弱敌人之后再动手，此辈太过激进，这与我之根本相悖",
-        "段司议在其离开后，却是忽然道：“下殿忽然要与我们说话，还这般咄咄逼人，一定有问题，需去查一查，此辈近来是否做了什么",
-        "有人忽然一惊，道：“墩台那里会不会……”    兰司议道：“诸位请放心，墩台那里经过这一次重筑，并且没有人可以把阵器带至中心所在，且我们已是造了第二座墩台，两边相距甚远，此辈无可能同时袭击两座"
-      ],
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "name": "兰司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏上殿司议",
+      "faction": "元夏上殿",
       "status": "登场",
       "first_appearance": "第一百零九章 化障待争启",
-      "summary": "”    兰司议看了眼万道人，才道：“那便请下殿司议过来一见吧",
+      "summary": "元夏上殿司议，主导议事，下令查探下殿动向。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    兰司议看了眼万道人，才道：“那便请下殿司议过来一见吧",
-        "”兰司议道：“黄司议说你下殿有话与我们说，今次诸位司议都在这里了，有什么可以敞开一谈",
-        "”    兰司议道：“慕司议所言正是兰某想要说的，墩台之事对于张正使那边妨碍甚大，可即便如此，张正使也不是没有作为，他扳倒了挡在路上一个强硬派，这意味着什么，诸位想必知晓吧"
+      "relationships": [
+        {
+          "target": "段司议",
+          "type": "同殿司议"
+        },
+        {
+          "target": "万道人",
+          "type": "同殿司议"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "同意召见下殿司议，后下令查探下殿异常。"
+        }
+      ],
+      "evidence": [
+        "兰司议看了眼万道人，才道：“那便请下殿司议过来一见吧。”",
+        "兰司议立刻自外间唤进来一名修士，令其下去查探"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "段司",
+      "name": "万道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏上殿司议",
+      "faction": "元夏上殿",
       "status": "登场",
       "first_appearance": "第一百零九章 化障待争启",
-      "summary": "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
+      "summary": "元夏上殿司议，反对下殿激进主张。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "保守"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "段司议左右看了一眼，朝着一位身着金袍的司议问了一句：“近来似无要事，不知黄司议召集我等过来做什么",
-        "”    段司议想了下，较为公允的说道：“这件事还是当注意的，我元夏之序还不到停滞不前之时，可有这番变化，不会无由，这许是两界关门开启之故",
-        "”    段司议道：“童司议也太小看我上殿了，此事绝无可能是天夏那边故意泄露的"
+      "relationships": [
+        {
+          "target": "黄司议",
+          "type": "同殿司议"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在议事中表达对下殿激进主张的反对。"
+        }
+      ],
+      "evidence": [
+        "万道人出声道：“黄司议，下殿一直是期望动手的，我们不反对此事，但是要尽量削弱敌人之后再动手”"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "我们",
+      "name": "童司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏下殿司议",
+      "faction": "元夏下殿",
       "status": "登场",
       "first_appearance": "第一百零九章 化障待争启",
-      "summary": "万道人出声道：“黄司议，下殿一直是期望动手的，我们不反对此事，但是要尽量削弱敌人之后再动手，此辈太过激进，这与我之根本相悖",
+      "summary": "元夏下殿司议，代表下殿与上殿议事，主张积极行动。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "激进",
+        "咄咄逼人"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "万道人出声道：“黄司议，下殿一直是期望动手的，我们不反对此事，但是要尽量削弱敌人之后再动手，此辈太过激进，这与我之根本相悖",
-        "”兰司议道：“黄司议说你下殿有话与我们说，今次诸位司议都在这里了，有什么可以敞开一谈",
-        "我们就这么坐视不动下去，坐看天夏慢慢做好与我对抗的准备么"
+      "relationships": [
+        {
+          "target": "黄司议",
+          "type": "上殿司议"
+        },
+        {
+          "target": "兰司议",
+          "type": "上殿司议"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "代表下殿与上殿议事，质疑分化天夏的进展。"
+        }
+      ],
+      "evidence": [
+        "童司议道：“那童某便明言了，你们与那位天夏正使说定”",
+        "那下殿童司议冷笑道：“你们所说的那些，焉知不是他让你们知晓的？”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "兰司",
+      "name": "蔡司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏上殿司议，出身东始世道",
+      "faction": "元夏上殿",
       "status": "登场",
       "first_appearance": "第一百零九章 化障待争启",
-      "summary": "”    兰司议看了眼万道人，才道：“那便请下殿司议过来一见吧",
+      "summary": "元夏上殿司议，出身东始世道，为张正使辩护。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    兰司议看了眼万道人，才道：“那便请下殿司议过来一见吧",
-        "”兰司议道：“黄司议说你下殿有话与我们说，今次诸位司议都在这里了，有什么可以敞开一谈",
-        "”    兰司议道：“慕司议所言正是兰某想要说的，墩台之事对于张正使那边妨碍甚大，可即便如此，张正使也不是没有作为，他扳倒了挡在路上一个强硬派，这意味着什么，诸位想必知晓吧"
+      "relationships": [
+        {
+          "target": "童司议",
+          "type": "下殿司议"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在议事中为张正使的进展辩护。"
+        }
+      ],
+      "evidence": [
+        "出身东始世道的蔡司议道：“这事下殿诸位莫非不知道么？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "张正使",
+      "aliases": [
+        "张御"
+      ],
+      "identity": "天夏正使",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第一百零九章 化障待争启",
+      "summary": "天夏正使，在元夏内部进行分化工作，被元夏上殿视为合作对象。",
+      "appearance": [],
+      "personality": [
+        "尽心尽力"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "兰司议",
+          "type": "合作"
+        },
+        {
+          "target": "蔡司议",
+          "type": "被辩护"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及扳倒强硬派，元夏上殿计划让其配合剿杀叛逃者。"
+        }
+      ],
+      "evidence": [
+        "他扳倒了挡在路上一个强硬派",
+        "我们可以让张正使配合剿杀"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百零九章 化障待争启",
+      "summary": "天夏首执，主持廷议，决定为演化天地敞开上境门户。",
+      "appearance": [],
+      "personality": [
+        "沉稳"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同朝廷执"
+        },
+        {
+          "target": "风道人",
+          "type": "廷执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中提出为演化天地敞开上境门户。"
+        }
+      ],
+      "evidence": [
+        "陈首执沉声道：“天机不当满，而当留有余裕”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "风道人",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百零九章 化障待争启",
+      "summary": "天夏廷执，在廷议中提出疑问。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "首执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中询问为何不继续等待更多修道人触及上层。"
+        }
+      ],
+      "evidence": [
+        "风道人这时一礼，道：“首执，风某见那方天地之中虽有不少人能触及上层”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "竺廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百零九章 化障待争启",
+      "summary": "天夏廷执，在廷议中提出化开障阻后元夏可能发现天地的担忧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "首执"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中发言，指出化开障阻意味着与元夏对抗开始。"
+        }
+      ],
+      "evidence": [
+        "竺廷执这时道：“要是化开障阻，便意味着元夏那边也可以发现此方天地了”"
+      ],
+      "mention_count": 1
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张正使"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零九章 化障待争启",
-      "summary": "虚宇之内，张御意识落于化身之中，观察这方天地的变化",
+      "summary": "天夏廷执，意识落于化身观察演化天地，后参与廷议。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "洞察"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虚宇之内，张御意识落于化身之中，观察这方天地的变化",
-        "张御看着下方，按照当下情势，或许很快便可以化开屏障，让此方天地之人尝试突破上境了",
-        "张御也是微微颔首，实际上那道盟若无虚空之上到来的一次次冲击，这等情形可能来的更早，也就是因为面对外敌，不得不奋而抗争，不得不加快传继道法，以求有更多人可以站出来"
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "首执"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零九章 化障待争启",
-      "summary": "”    黄司议正色道：“此乃是我之职责，我上殿是与下殿本为一体，自需相互说话，消解矛盾的，诸位平日不理会这些，可都是黄某在应付，别的不说，若是沟通畅达，又怎么会出现墩台两度崩塌之事呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    黄司议正色道：“此乃是我之职责，我上殿是与下殿本为一体，自需相互说话，消解矛盾的，诸位平日不理会这些，可都是黄某在应付，别的不说，若是沟通畅达，又怎么会出现墩台两度崩塌之事呢",
-        "”    话是如此说，诸人还是不放心，因为下殿若是精心准备，仍是可能被其得手的，这就真成笑话了",
-        "他知道这里面的意思，这方天地的事机是这方天地的修道人自己要应付的局面，若是能挺过去，那么证明他们之前的路数是对的，若是挺不过去，那么就留下火种，等待另一次崛起"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察演化天地，后化身入议殿参与廷议。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "虚宇之内，张御意识落于化身之中，观察这方天地的变化。",
+        "张御也是微微颔首"
+      ],
+      "mention_count": 3
     }
   ]
 }

@@ -1,254 +1,220 @@
 {
   "chunk_id": "chunk-1778",
-  "title": "第三百四十五章 渡洲过星虹",
   "characters": [
     {
       "name": "蒲鹿",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "蒲鹿",
+        "掌门师兄",
+        "清元宗宗主"
+      ],
+      "identity": "清元宗掌门，元神真人",
+      "faction": "清元宗",
       "status": "登场",
       "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "第三百四十五章 渡洲过星虹    清元派中，蒲鹿出得关来，他有些遗憾，寄虚之境十分难成，他本待这次闭关有所收获，然而最后仍是未成",
+      "summary": "清元宗掌门，未成寄虚，但持有张御所留法器，前往名洲探索上乘秘境。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三百四十五章 渡洲过星虹    清元派中，蒲鹿出得关来，他有些遗憾，寄虚之境十分难成，他本待这次闭关有所收获，然而最后仍是未成",
-        "”    蒲鹿点头，欣慰言道：“奉师弟，你这成就很是及时",
-        "蒲鹿道：“师弟可是知晓了，我打算前往名洲一行，探一探名洲的上乘秘境，本来我还有些担心门内之事，如今师弟成就，我就可以放心交托给你了"
+      "personality": [
+        "谨慎",
+        "有担当",
+        "对师弟欣慰"
       ],
-      "mention_count": 24
+      "abilities": [
+        "元神修为",
+        "持有法器"
+      ],
+      "equipment": [
+        "法器飞舟",
+        "牌符"
+      ],
+      "relationships": [
+        {
+          "target": "奉成",
+          "type": "师弟"
+        },
+        {
+          "target": "张御",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出关后得知奉成成就玄尊，将山门托付给奉成，前往名洲秘境。"
+        }
+      ],
+      "evidence": [
+        "清元派中，蒲鹿出得关来，他有些遗憾，寄虚之境十分难成",
+        "蒲鹿点头，欣慰言道：“奉师弟，你这成就很是及时。”",
+        "蒲鹿感觉身上邀书微微发热，知晓其人自有办法探出自己来历，便点头道：“有劳。”"
+      ],
+      "mention_count": 20
     },
     {
       "name": "奉成",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "奉师弟",
+        "奉成"
+      ],
+      "identity": "清元宗弟子，玄修玄尊",
+      "faction": "清元宗",
       "status": "登场",
       "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "不过令他欣慰的，在出关的一瞬间，他便察觉到了一股熟悉无比的厚实气机落驻在门内一处山峰之上，显然他一直寄予厚望的师弟奉成修就了玄尊了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过令他欣慰的，在出关的一瞬间，他便察觉到了一股熟悉无比的厚实气机落驻在门内一处山峰之上，显然他一直寄予厚望的师弟奉成修就了玄尊了",
-        "奉成不善言辞，道：“小弟只是按部就班修行",
-        "奉成肃然道：“小弟听说了，师兄若是离去，小弟会为谨守好山门的"
+      "summary": "蒲鹿的师弟，第一个成就玄尊的玄修，性格实诚，按部就班修行。",
+      "appearance": [
+        "外表憨厚"
       ],
-      "mention_count": 7
+      "personality": [
+        "不善言辞",
+        "实诚",
+        "心定"
+      ],
+      "abilities": [
+        "玄尊修为",
+        "玄法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "蒲鹿",
+          "type": "师兄"
+        },
+        {
+          "target": "张御",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "成就玄尊，被蒲鹿托付山门，并与蒲鹿切磋。"
+        }
+      ],
+      "evidence": [
+        "奉成不善言辞，道：“小弟只是按部就班修行。”",
+        "奉成抬头看了他一眼，默默接了过来。",
+        "奉成双手一揖，道：“是，请掌门师兄赐教。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "张御",
+      "aliases": [
+        "老师"
+      ],
+      "identity": "清元宗前辈，传法者",
+      "faction": "清元宗",
+      "status": "提及",
       "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "”    这位师弟是以玄法成道，也是此世第一个玄修玄尊",
+      "summary": "蒲鹿和奉成的老师，留下了法器和道路。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "蒲鹿",
+          "type": "弟子"
+        },
+        {
+          "target": "奉成",
+          "type": "弟子"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    这位师弟是以玄法成道，也是此世第一个玄修玄尊",
-        "那声音又道：“这位同道好似不以为然",
-        "”    蒲鹿笑了一笑，回言道：“这位同道，蒲某并无这等想法"
+        "都靠了老师的传法和师兄的指点。",
+        "实在不成，凭着张御留给他的法器，他也能设法遁走。"
       ],
-      "mention_count": 5
+      "mention_count": 3
     },
     {
-      "name": "而且",
+      "name": "接引道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "名洲接引修士",
+      "faction": "名洲",
       "status": "登场",
       "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "因为他听老师说过，玄修乃是天夏独有的道传，而且玄修只要出现一个攀升上境，那么后续就会越来越多人随之跟上，且玄修数目越多，玄法也越是强盛",
+      "summary": "负责接引蒲鹿等人进入宇内的修士。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "客气"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "因为他听老师说过，玄修乃是天夏独有的道传，而且玄修只要出现一个攀升上境，那么后续就会越来越多人随之跟上，且玄修数目越多，玄法也越是强盛",
-        "但是他也知道，玄修真正与众不同之处，是因为训天道章的存在，所有玄修都是可以私下里相互交通的，而且无论相隔多远都是可以",
-        "要说名洲修士有礼是真的，因为名洲的大多数秘境都层顶层瓜分了，而且散修相对较少，不像荒洲一样，散修众多，而且你争我夺，终日不歇"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接引蒲鹿等人换乘飞舟，并告知鉴别要求。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "上面出来一个名修道人，执有一礼，客气道：“我等奉上层之命，前来接应诸位真人往宇内而去”",
+        "那名接引道人忙是欠身道：“想必几位真人也是听说了，因为疑有外世修道人入我界中”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "某元神真人",
+      "aliases": [
+        "那位道友"
+      ],
+      "identity": "荒洲元神真人",
+      "faction": "荒洲",
       "status": "登场",
       "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "奉成不善言辞，道：“小弟只是按部就班修行",
+      "summary": "在飞舟上与蒲鹿对话的元神真人，对名洲修士有偏见。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "直率",
+        "好斗"
+      ],
+      "abilities": [
+        "元神修为"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "奉成不善言辞，道：“小弟只是按部就班修行",
-        "照理说，天夏修士应该也有训天道章的，只是不知道是天地阻隔还是其他缘故，如今还并不能联络到天夏",
-        "只是因为要考虑到蒲鹿报复的后果有的宗门这个时候反而不敢多做什么，但是一些散修却就没那么多顾忌了，大不了抢了就走，就算是能追杀他们，指不定那个时候他们已经成就玄尊了呢"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟上批评名洲修士，与蒲鹿对话。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "然而这个时候，却有一个声音哼了一声，道：“名洲这些人只会假惺惺”",
+        "那声音又道：“这位同道好似不以为然？”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "就是",
+      "name": "两名修士（观相台）",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "名洲鉴别修士",
+      "faction": "名洲",
       "status": "登场",
       "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "他感觉自己距离那个境关，就是差了一点，可就是这么一点，却是怎么也没法跨了过去",
+      "summary": "在观相台上通过法器打量蒲鹿，负责鉴别外来修士。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他感觉自己距离那个境关，就是差了一点，可就是这么一点，却是怎么也没法跨了过去",
-        "”    他的修炼方法很简单，就是老老实实按照张御留下来的道路行走，当中从没有想过自己成是不成的事情，到了两年前，便就这么自然而然的突破了",
-        "倒是这一路之上见到了苍茫大地，叫跟在身边的弟子也是大开眼界，他们有的人修炼了数十上百年，还从未见过洲外的景象，其实就是本洲，他们也了解一小片地界而已，从未想过，天地竟然如此广阔"
+      "personality": [
+        "警惕"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "玄法",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "”    这位师弟是以玄法成道，也是此世第一个玄修玄尊",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    这位师弟是以玄法成道，也是此世第一个玄修玄尊",
-        "因为他听老师说过，玄修乃是天夏独有的道传，而且玄修只要出现一个攀升上境，那么后续就会越来越多人随之跟上，且玄修数目越多，玄法也越是强盛",
-        "蒲鹿点点头，道：“师弟你修的是玄法，既有所成就，为兄也想要看看师弟你的功行如何"
+      "equipment": [
+        "法器"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "小弟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "奉成不善言辞，道：“小弟只是按部就班修行",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "奉成不善言辞，道：“小弟只是按部就班修行",
-        "奉成肃然道：“小弟听说了，师兄若是离去，小弟会为谨守好山门的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察蒲鹿，准备鉴别。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "都靠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "都靠了老师的传法和师兄的指点",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "都靠了老师的传法和师兄的指点"
+        "而在这个时候，位于地陆之上一座观相台上，两名修士正在通过法器打量着蒲鹿。",
+        "另一名修士目光紧紧盯着蒲鹿，道：“那需要仔细鉴别了。”"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "只是因为要考虑到蒲鹿报复的后果有的宗门这个时候反而不敢多做什么，但是一些散修却就没那么多顾忌了，大不了抢了就走，就算是能追杀他们，指不定那个时候他们已经成就玄尊了呢",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是因为要考虑到蒲鹿报复的后果有的宗门这个时候反而不敢多做什么，但是一些散修却就没那么多顾忌了，大不了抢了就走，就算是能追杀他们，指不定那个时候他们已经成就玄尊了呢",
-        "可他们注定失望了，在蒲鹿走后的同一天，一股气机从清原之中爆发出来，众修愕然发现，这竟然又是一名真人，不觉又是羡慕又是惊异",
-        "倒是这一路之上见到了苍茫大地，叫跟在身边的弟子也是大开眼界，他们有的人修炼了数十上百年，还从未见过洲外的景象，其实就是本洲，他们也了解一小片地界而已，从未想过，天地竟然如此广阔"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "飞舟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "蒲鹿试过奉成功行之后，已是彻底放心，准备几日之后，便他带着一行弟子乘坐法器飞舟，出了清元宗，往宇内名洲而来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "蒲鹿试过奉成功行之后，已是彻底放心，准备几日之后，便他带着一行弟子乘坐法器飞舟，出了清元宗，往宇内名洲而来",
-        "蒲鹿驱策飞舟离开宗门后，这一路过来诸人见到是元神真人的座驾行渡云空，都是纷纷避道一旁",
-        "飞舟行途有一月之后，来到了宇内荒洲的鹭洲之中，在这里见到了一条横贯天宇的壮阔天隙出现眼前，可见隙内乃是星幻迷离的云雾"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "那声音",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三百四十五章 渡洲过星虹",
-      "summary": "那声音又道：“这位同道好似不以为然",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那声音又道：“这位同道好似不以为然",
-        "”    那声音对他的回答有些不满意，故是轻哼了一声，不再说话了"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

@@ -1,0 +1,326 @@
+{
+  "chunk_id": "chunk-0465",
+  "characters": [
+    {
+      "name": "源赖朝",
+      "aliases": [],
+      "identity": "源氏鬼武士首领",
+      "faction": "源氏",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "源氏首领，目睹堂兄源赖经被酒吞童子杀死，发誓复仇。",
+      "appearance": [],
+      "personality": [
+        "愤怒",
+        "孤独",
+        "复仇心切"
+      ],
+      "abilities": [],
+      "equipment": [
+        "童子切（折断）",
+        "胁差"
+      ],
+      "relationships": [
+        {
+          "target": "源赖经",
+          "type": "堂兄"
+        },
+        {
+          "target": "井上烛照",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "酒吞童子事件后",
+          "event": "发现源赖经尸体，发誓复仇。"
+        }
+      ],
+      "evidence": [
+        "源赖朝僵立在供台上",
+        "源赖朝凝视着手中的太刀",
+        "源赖朝喃喃低语。'井上烛照……'"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "源赖经",
+      "aliases": [],
+      "identity": "源氏堂兄",
+      "faction": "源氏",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "源赖朝的堂兄，被酒吞童子杀死。",
+      "appearance": [
+        "尸体破烂，冰锥穿透躯体"
+      ],
+      "personality": [
+        "宽仁温厚"
+      ],
+      "abilities": [],
+      "equipment": [
+        "半函鬼甲"
+      ],
+      "relationships": [
+        {
+          "target": "源赖朝",
+          "type": "堂弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "酒吞童子事件",
+          "event": "被酒吞童子杀死。"
+        }
+      ],
+      "evidence": [
+        "堂兄源赖经尸体破烂",
+        "一根根冰锥穿透其躯体"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "酒吞童子",
+      "aliases": [],
+      "identity": "厉诡",
+      "faction": "",
+      "status": "复苏中",
+      "first_appearance": "",
+      "summary": "被剥去神衣后复苏的恐怖厉诡，杀死源赖经及众多源氏武士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "散发恐怖诡韵",
+        "冻结血液"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "离开神殿",
+          "event": "散发气息封冻源赖朝，杀死源赖经。"
+        }
+      ],
+      "evidence": [
+        "酒吞童子被剥去神衣以后，竟然恐怖到了这种程度",
+        "随身散发的气息将源赖朝这个鬼武士封冻"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "井上烛照",
+      "aliases": [],
+      "identity": "仇敌",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "源赖朝的仇敌，被源赖朝咒骂。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "源赖朝",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "井上烛照！井上烛照！井上烛照！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "鉴真影子",
+      "aliases": [
+        "鉴真"
+      ],
+      "identity": "僧侣虚影",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "元兴门下的鉴真影子，指导苏午，并与另一道影子融合对抗月读。",
+      "appearance": [
+        "一袭血色袈裟"
+      ],
+      "personality": [],
+      "abilities": [
+        "限制月读力量",
+        "发四弘誓愿"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "指导者"
+        },
+        {
+          "target": "女僧人皮",
+          "type": "妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "苏午穿过元兴门后",
+          "event": "与另一道影子融合，对抗月读。"
+        }
+      ],
+      "evidence": [
+        "鉴真影子立在元兴门门柱下",
+        "鉴真影子双手合十，以发四弘誓愿"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "修行者",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "穿过元兴门，受鉴真影子指导。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鉴真影子",
+          "type": "受指导者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "穿过元兴门",
+          "event": "带着平灵子等人穿过元兴门。"
+        }
+      ],
+      "evidence": [
+        "苏午点了点头",
+        "苏午点头回礼，带着平灵子、安纲、井上家四武士等人"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "平灵子",
+      "aliases": [],
+      "identity": "随从",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "随苏午穿过元兴门。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "带着平灵子、安纲、井上家四武士等人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "安纲",
+      "aliases": [],
+      "identity": "随从",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "随苏午穿过元兴门。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "带着平灵子、安纲、井上家四武士等人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "井上家四武士",
+      "aliases": [],
+      "identity": "随从",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "随苏午穿过元兴门。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "带着平灵子、安纲、井上家四武士等人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女僧人皮",
+      "aliases": [],
+      "identity": "鉴真影子的妻",
+      "faction": "",
+      "status": "死亡（仅剩人皮）",
+      "first_appearance": "",
+      "summary": "鉴真影子的妻子，仅剩人皮，被发丝充塞，协助鉴真影子。",
+      "appearance": [
+        "美貌的女僧"
+      ],
+      "personality": [],
+      "abilities": [
+        "翩翩起舞",
+        "唱歌",
+        "张口吸纳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鉴真影子",
+          "type": "妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "对抗月读",
+          "event": "被鉴真影子召唤，协助吸纳月读力量。"
+        }
+      ],
+      "evidence": [
+        "那是一个'女僧'的人皮",
+        "女僧的皮囊骤然撑展开"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "土御门晴明",
+      "aliases": [],
+      "identity": "阴阳师",
+      "faction": "源氏",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "源氏阵营的阴阳师，被酒吞童子杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "锦服狩衣",
+        "式神令牌"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "酒吞童子事件",
+          "event": "被酒吞童子杀死。"
+        }
+      ],
+      "evidence": [
+        "土御门晴明的锦服狩衣，甚至未被酒吞童子完全嚼烂"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

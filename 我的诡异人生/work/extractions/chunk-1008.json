@@ -1,0 +1,408 @@
+{
+  "chunk_id": "chunk-1008",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "核心人物，与王梦龙交谈，关心江莺莺下落，后与旺财互动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "八识心王"
+      ],
+      "equipment": [
+        "酒坛",
+        "尺庙"
+      ],
+      "relationships": [
+        {
+          "target": "王梦龙",
+          "type": "交谈对象"
+        },
+        {
+          "target": "江莺莺",
+          "type": "故人"
+        },
+        {
+          "target": "旺财",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与王梦龙交谈，得知江莺莺失踪；获得酒坛和尺庙；旺财现身。"
+        }
+      ],
+      "evidence": [
+        "苏午应了王梦龙一声，微微皱眉。",
+        "苏午神色沉重，点了点头。",
+        "苏午拍了拍那匍匐在他身前旺财的脑袋。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "王梦龙",
+      "aliases": [
+        "前辈"
+      ],
+      "identity": "鬼梦世界中的存在",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午交谈，告知江莺莺失踪原因，并给予酒坛。",
+      "appearance": [
+        "矮壮中年人"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "交谈对象"
+        },
+        {
+          "target": "麻仙姑",
+          "type": "相关"
+        },
+        {
+          "target": "心圣",
+          "type": "友人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午交谈，解释江莺莺失踪原因。"
+        }
+      ],
+      "evidence": [
+        "王梦龙大笑了一声",
+        "王梦龙观察着苏午的神色",
+        "王梦龙取出了那只镂空的酒坛"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "江莺莺",
+      "aliases": [
+        "江氏女"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午的故人，性魂脱离鬼梦世界，下落不明。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "故人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被王梦龙封藏在东圣酒厂酒窖压窖石中。"
+        },
+        {
+          "stage": "当前",
+          "event": "性魂脱离鬼梦世界，可能寄托在他人身上。"
+        }
+      ],
+      "evidence": [
+        "可是江莺莺？",
+        "江莺莺被‘三清之肠’的死劫规律记录",
+        "江莺莺的念头便被聚集在一坛酒浆中"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "旺财",
+      "aliases": [
+        "犬神爷",
+        "犬神爷爷"
+      ],
+      "identity": "猊兽，鬼梦世界中的‘爷爷’",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午养的猊兽，在鬼梦中成为‘犬神爷’，掌管尺庙壑。",
+      "appearance": [
+        "被毛乌黑",
+        "四爪暗黄",
+        "体型如狮虎"
+      ],
+      "personality": [],
+      "abilities": [
+        "可大可小",
+        "能养在心神诸窍中",
+        "乘风而走"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从鬼梦中现身，被苏午安排看顾村子。"
+        }
+      ],
+      "evidence": [
+        "这位‘犬神爷爷’，就是自己的‘旺财’！",
+        "旺财身形倏忽化雾气消散",
+        "以后由旺财看顾咱们村子。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "李黑虎",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "旁观者，与羊大全交谈，对旺财感到震惊。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "背篓"
+      ],
+      "relationships": [
+        {
+          "target": "羊大全",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "看到旺财从雾气中走出，感到震惊。"
+        }
+      ],
+      "evidence": [
+        "李黑虎只能看到苏午与一个矮壮中年人交谈着",
+        "李黑虎听着身后背篓里羊大全猛吸凉气的声音",
+        "李黑虎震惊地低声自语"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "羊大全",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在李黑虎背篓中，对旺财进行解释。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李黑虎",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在李黑虎背篓中，解释旺财是猊兽。"
+        }
+      ],
+      "evidence": [
+        "背篓里的羊大全小声地回应他",
+        "羊大全正说着话"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "黑傩",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与白驹一同被苏午询问引荐。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白驹",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与白驹相视一眼，被苏午询问。"
+        }
+      ],
+      "evidence": [
+        "黑傩、白驹二者相视一眼。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白驹",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "向苏午解释尺庙和犬神爷，并奉上尺庙。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黑傩",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向苏午解释尺庙壑和犬神爷，奉上尺庙。"
+        }
+      ],
+      "evidence": [
+        "白驹朝前一步，向苏午行礼过后",
+        "白驹适时奉上了一座石庙。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "麻仙姑",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "残余意识被王梦龙提及，与发诡失控有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王梦龙",
+          "type": "相关"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "残余意识被王梦龙尝试修复但失败。"
+        }
+      ],
+      "evidence": [
+        "麻仙姑残余意识所剩无多",
+        "我亦无法再以她的残余意识来过多驾驭发诡"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "心圣",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "王梦龙的友人，残余意识在鬼梦中恢复。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "八识心王"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王梦龙",
+          "type": "友人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "残余意识在鬼梦中恢复缓慢。"
+        }
+      ],
+      "evidence": [
+        "心圣前辈的残余意识",
+        "心圣虽只有残余意识留在鬼梦里"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "昭道师",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与麻仙姑一同被提及，可能与眼诡有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "容纳眼诡全过程被读书人目睹。"
+        }
+      ],
+      "evidence": [
+        "麻仙姑……昭道师……你看看能不能结识他们两个罢。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "读书人",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾与昭道师同游，目睹眼诡容纳过程。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "昭道师",
+          "type": "同游"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与昭道师同游，目睹眼诡容纳。"
+        }
+      ],
+      "evidence": [
+        "那人曾与昭道师同游，亲眼见到了昭道师容纳眼诡的全过程"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

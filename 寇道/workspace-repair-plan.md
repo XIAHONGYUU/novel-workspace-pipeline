@@ -1,31 +1,39 @@
 # 《寇道》Repair Plan
 
 - 工作区：`/home/zuoky/project/寇道`
-- 目标层：`outline` / `整书大纲层`
+- 目标层：`supporting-cast` / `重要配角层`
 - 模式：`repair-existing`
-- 原因：主线支线与冲突地图 -> keywords_missing；核心冲突点与爆发点 -> keywords_missing；时间与地点转折 -> keywords_missing；高潮节奏与收束诊断 -> keywords_missing
+- 原因：project_entry -> keywords_missing；handoff -> keywords_missing；candidate_pool -> missing；ai_review -> missing
 
 ## 修复动作
 
-- 补齐 `主线支线与冲突地图` 的关键判断字段，避免只有摘要没有结论。
-- 补齐 `核心冲突点与爆发点` 的关键判断字段，避免只有摘要没有结论。
-- 补齐 `时间与地点转折` 的关键判断字段，避免只有摘要没有结论。
-- 补齐 `高潮节奏与收束诊断` 的关键判断字段，避免只有摘要没有结论。
-- 补齐 `结构问题与修改建议` 的关键判断字段，避免只有摘要没有结论。
+- 补齐 `project_entry` 的关键判断字段，避免只有摘要没有结论。
+- 补齐 `handoff` 的关键判断字段，避免只有摘要没有结论。
+- 补齐 `candidate_pool`，至少先从缺失补到可校验骨架。
+- 补齐 `ai_review`，至少先从缺失补到可校验骨架。
+- 补齐 `重要配角Top10总表` 的关键判断字段，避免只有摘要没有结论。
+- 补齐 `重要配角与主角关系图` 的关键判断字段，避免只有摘要没有结论。
+- 补齐 `重要配角阶段作用分布` 的关键判断字段，避免只有摘要没有结论。
+- 补齐 `配角分析索引`，至少先从缺失补到可校验骨架。
+- 检查并修复 `Top10 配角分析文件`，当前原因：`profile_quality_insufficient`。
 
 ## 失败检查项
 
-- `主线支线与冲突地图`：`keywords_missing`；文件：`寇道-主线支线与冲突地图.md`
-- `核心冲突点与爆发点`：`keywords_missing`；文件：`寇道-核心冲突点与爆发点.md`
-- `时间与地点转折`：`keywords_missing`；文件：`寇道-时间与地点转折.md`
-- `高潮节奏与收束诊断`：`keywords_missing`；文件：`寇道-高潮节奏与收束诊断.md`
-- `结构问题与修改建议`：`keywords_missing`；文件：`寇道-结构问题与修改建议.md`
+- `project_entry`：`keywords_missing`；文件：`README.md`
+- `handoff`：`keywords_missing`；文件：`工作状态-2026-05-23.md`
+- `candidate_pool`：`missing`
+- `ai_review`：`missing`
+- `重要配角Top10总表`：`keywords_missing`；文件：`寇道-重要配角Top10总表.md`
+- `重要配角与主角关系图`：`keywords_missing`；文件：`寇道-重要配角与主角关系图.md`
+- `重要配角阶段作用分布`：`keywords_missing`；文件：`寇道-重要配角阶段作用分布.md`
+- `配角分析索引`：`missing`
+- `Top10 配角分析文件`：`profile_quality_insufficient`；文件：`supporting-cast`
 
 ## 推荐先读
 
 - `README.md`
-- `工作状态-2026-05-13.md`
+- `工作状态-2026-05-23.md`
+- `characters.json`
+- `index.md`
 - `寇立-词条总索引.md`
 - `寇立-最终人物卡.md`
-- `寇立-核心体系总览.md`
-- `寇道-全书精华总结.md`

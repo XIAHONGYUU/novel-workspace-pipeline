@@ -1,257 +1,531 @@
 {
   "chunk_id": "chunk-0555",
-  "title": "第六十章 内应",
   "characters": [
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "齐玄修",
+      "aliases": [
+        "齐道友",
+        "老齐"
+      ],
+      "identity": "镇军三位守镇之一",
+      "faction": "镇军",
       "status": "登场",
       "first_appearance": "第六十章 内应",
-      "summary": "张御从洪原秋的署厅出来之后，便踏上飞玉碟落去下方，正待离开此处，却见对面走过来两名修士，其中一人对他一拱手，道：“可是张行走么",
+      "summary": "镇军守镇之一，玄修，怀疑牛道人是内应并设局揭露。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "敏锐",
+        "面无表情"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御从洪原秋的署厅出来之后，便踏上飞玉碟落去下方，正待离开此处，却见对面走过来两名修士，其中一人对他一拱手，道：“可是张行走么",
-        "”    张御停下脚步，点首道：“是我",
-        "”    张御道：“你们是余玄尊门下"
+      "relationships": [
+        {
+          "target": "牛道人",
+          "type": "同僚，怀疑对象"
+        },
+        {
+          "target": "苗司马",
+          "type": "上级，未被怀疑"
+        }
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 内应",
-      "summary": "他凝视片刻，而后缓缓伸出手，按在另一边的石壁之上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他凝视片刻，而后缓缓伸出手，按在另一边的石壁之上",
-        "”    齐玄修这时伸手在石壁上一按，嵌在里间的石柜顿时往后一退，而后便沿着后方的滑轨缓缓移了出去",
-        "牛道人看着他背影，而后又看了一眼那嵌有小剑碎片的地方，一挥袖，金属大门又重新合拢起来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在冰室中留下气机印痕，后在飞舟上揭露牛道人内应身份。"
+        }
       ],
-      "mention_count": 15
+      "evidence": [
+        "镇军三位守镇之一的齐玄修面无表情的走了进来。",
+        "齐玄修面无表情道：苗司马一直对你信任有加...",
+        "齐玄修凝视着他，道：你做了什么？"
+      ],
+      "mention_count": 12
     },
     {
       "name": "牛道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 内应",
-      "summary": "这个时候，他似发现了什么，转身过去，见同为守镇之一的牛道人此刻正站在门口，对方目光看过来，道：“齐道友，你来这里做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个时候，他似发现了什么，转身过去，见同为守镇之一的牛道人此刻正站在门口，对方目光看过来，道：“齐道友，你来这里做什么",
-        "”    牛道人看了一眼，道：“齐队率么",
-        "”    牛道人道：“说得也是"
+      "aliases": [
+        "牛道友"
       ],
-      "mention_count": 13
-    },
-    {
-      "name": "陈乾定",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "镇军三位守镇之一",
+      "faction": "镇军（实为内应）",
       "status": "登场",
       "first_appearance": "第六十章 内应",
-      "summary": "陈乾定坐在蒲团之上，他的面前摆放出一排竹筹，看去正在摆布着什么，此刻瘦小道人走入了进来，道：“师兄，我方才听到一个消息，军务署准备把丁卯的尸身运回来，并且交由他师门处置",
+      "summary": "镇军守镇之一，实为内应，在飞舟上试图毁灭证据并召唤邪神，被师延辛幻术所困。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "狡猾",
+        "玩味"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "齐玄修",
+          "type": "同僚，被其怀疑"
+        },
+        {
+          "target": "苗司马",
+          "type": "上级，被信任"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在冰室与齐玄修相遇，后在飞舟上试图毁灭丁宣平尸身并召唤邪神，被师延辛幻术困住。"
+        }
+      ],
       "evidence": [
-        "陈乾定坐在蒲团之上，他的面前摆放出一排竹筹，看去正在摆布着什么，此刻瘦小道人走入了进来，道：“师兄，我方才听到一个消息，军务署准备把丁卯的尸身运回来，并且交由他师门处置",
-        "”    陈乾定放下一个竹筹，神情从容道：“你在担心什么",
-        "”    陈乾定点头道：“若是能找到合适的人，这确然是有几分可能的，不过我料此事必然是军务署放出的消息，就等着我们送上门去"
+        "牛道人此刻正站在门口，对方目光看过来，道：齐道友，你来这里做什么？",
+        "牛道人无所谓道：只是在飞舟里面放了一具邪神雕像...",
+        "他骇然往外看去，便见一个年轻道人悬浮在虚空之中，正平静看着自己，他面色一僵，道：你是……师延辛？"
       ],
       "mention_count": 10
     },
     {
-      "name": "齐玄修",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张行走"
+      ],
+      "identity": "巡护，行走",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第六十章 内应",
-      "summary": "这时候，冰室的金属大门无声无息的移开，镇军三位守镇之一的齐玄修面无表情的走了进来",
+      "summary": "巡护张御，负责调查霜星事件，已上报玄廷并设局。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这时候，冰室的金属大门无声无息的移开，镇军三位守镇之一的齐玄修面无表情的走了进来",
-        "”    齐玄修道：“这次军务署重新安排人手，我也要跟着一同回去了，我的一名侄孙这次阵亡在此，我打算把他的尸身一同带回去",
-        "”    齐玄修道：“虽然一同任事，你是真修，我是玄修，我们并不熟"
+      "personality": [
+        "冷静",
+        "果断",
+        "不卑不亢"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "牛道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 内应",
-      "summary": "这个时候，他似发现了什么，转身过去，见同为守镇之一的牛道人此刻正站在门口，对方目光看过来，道：“齐道友，你来这里做什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个时候，他似发现了什么，转身过去，见同为守镇之一的牛道人此刻正站在门口，对方目光看过来，道：“齐道友，你来这里做什么",
-        "”    牛道人看了一眼，道：“齐队率么",
-        "”    牛道人道：“说得也是"
+      "abilities": [
+        "心力"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "齐玄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 内应",
-      "summary": "这时候，冰室的金属大门无声无息的移开，镇军三位守镇之一的齐玄修面无表情的走了进来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这时候，冰室的金属大门无声无息的移开，镇军三位守镇之一的齐玄修面无表情的走了进来",
-        "”    齐玄修道：“这次军务署重新安排人手，我也要跟着一同回去了，我的一名侄孙这次阵亡在此，我打算把他的尸身一同带回去",
-        "”    齐玄修道：“虽然一同任事，你是真修，我是玄修，我们并不熟"
+      "equipment": [
+        "白舟",
+        "巡护印信"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "那年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第六十章 内应",
-      "summary": "”    那年轻修士侧过一步，道：“我师兄想见一见张行走，还望张行走移步",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那年轻修士侧过一步，道：“我师兄想见一见张行走，还望张行走移步",
-        "”    那年轻修士略带一丝倨傲道：“正是，寻常修士又岂可上得这天城修道",
-        "那年轻修士不禁为之愕然"
+      "relationships": [
+        {
+          "target": "左道人",
+          "type": "协助者"
+        },
+        {
+          "target": "洪原秋",
+          "type": "同僚"
+        },
+        {
+          "target": "余玄尊门下",
+          "type": "不睦"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从天城返回霜星，上报玄廷，举荐左道人。"
+        }
+      ],
+      "evidence": [
+        "张御从洪原秋的署厅出来之后，便踏上飞玉碟落去下方",
+        "张御淡声道：我现在无暇，贵师兄若要见我，那便让他自己来。",
+        "张御来至那冰坑之前，将巡护印信托出，任由其沉落在冰坑之内"
+      ],
+      "mention_count": 10
     },
     {
       "name": "左道人",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "左道友"
+      ],
+      "identity": "修士，协助张御",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六十章 内应",
-      "summary": "过有片刻，便见一道熟悉遁光飞来，待落下之后，左道人自里步出，对他拱手一礼，略带欣喜道：“我方才见到白舟经空，就猜测是道友归来了，却不知事机如何了",
+      "summary": "协助张御传递书信的修士，被张御举荐。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "欣喜",
+        "恭敬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "协助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在霜星等候张御，收到举荐。"
+        }
+      ],
       "evidence": [
-        "过有片刻，便见一道熟悉遁光飞来，待落下之后，左道人自里步出，对他拱手一礼，略带欣喜道：“我方才见到白舟经空，就猜测是道友归来了，却不知事机如何了",
-        "”    左道人点头道：“我送出道友交托给我的奏书后，为怕那背后之人发现我的行踪，故是这些天来一直在此修持",
-        "”    左道人道：“这是左右理所应为之事"
+        "左道人自里步出，对他拱手一礼，略带欣喜道：我方才见到白舟经空，就猜测是道友归来了",
+        "左道人点头道：我送出道友交托给我的奏书后...",
+        "左道人露出一丝惊喜，他压住心中激动情绪，拱手道：多谢巡护。"
       ],
       "mention_count": 6
     },
     {
-      "name": "他收",
+      "name": "师延辛",
       "aliases": [],
-      "identity": "",
+      "identity": "年轻道人，实力高深",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六十章 内应",
-      "summary": "做完此事后，他收回收来，迈步向门口走来，这个过程中根本不去看牛道人，就直接就走了出去",
+      "summary": "设下幻术困住牛道人的神秘修士。",
+      "appearance": [
+        "年轻"
+      ],
+      "personality": [
+        "平静"
+      ],
+      "abilities": [
+        "幻术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "牛道人",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟上用幻术困住牛道人。"
+        }
+      ],
+      "evidence": [
+        "师延辛无比平静的站在那里，王姓文吏和齐玄修则站在其人身后",
+        "师延辛对王姓文吏平静言道：王参事，这里交给你了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "王姓文吏",
+      "aliases": [
+        "王参事"
+      ],
+      "identity": "文吏，参事",
+      "faction": "军务署",
+      "status": "登场",
+      "first_appearance": "第六十章 内应",
+      "summary": "军务署参事，负责拿下牛道人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "师延辛",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟上听从师延辛指令拿下牛道人。"
+        }
+      ],
       "evidence": [
-        "做完此事后，他收回收来，迈步向门口走来，这个过程中根本不去看牛道人，就直接就走了出去",
-        "他收回目光，转头看向等候在一旁左道人，道：“我已将道友举荐了上去，不久之后，当就有回信到来，道友回去静候便是"
+        "王姓文吏走到近前，冷然对着牛道人一挥手，道：拿下！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "陈乾定",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "修士，幕后策划者之一",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第六十章 内应",
+      "summary": "与瘦小道人商议应对军务署调查，计划除去张御。",
+      "appearance": [],
+      "personality": [
+        "从容",
+        "深沉"
+      ],
+      "abilities": [],
+      "equipment": [
+        "竹筹"
+      ],
+      "relationships": [
+        {
+          "target": "瘦小道人",
+          "type": "师弟"
+        },
+        {
+          "target": "张御",
+          "type": "障碍，欲除去"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与瘦小道人商议，认为军务署放出消息是诱饵，已有安排。"
+        }
+      ],
+      "evidence": [
+        "陈乾定坐在蒲团之上，他的面前摆放出一排竹筹",
+        "陈乾定点头道：若是能找到合适的人，这确然是有几分可能的，不过我料此事必然是军务署放出的消息，就等着我们送上门去。",
+        "陈乾定目光一闪，道：此人是个麻烦，必须除去，但不能在奎宿星上"
       ],
       "mention_count": 5
     },
     {
-      "name": "左道",
-      "aliases": [],
-      "identity": "",
+      "name": "瘦小道人",
+      "aliases": [
+        "师弟"
+      ],
+      "identity": "修士，陈乾定的师弟",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六十章 内应",
-      "summary": "过有片刻，便见一道熟悉遁光飞来，待落下之后，左道人自里步出，对他拱手一礼，略带欣喜道：“我方才见到白舟经空，就猜测是道友归来了，却不知事机如何了",
-      "appearance": [],
-      "personality": [],
+      "summary": "向陈乾定报告军务署消息，担忧张御调查。",
+      "appearance": [
+        "瘦小"
+      ],
+      "personality": [
+        "焦急"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "过有片刻，便见一道熟悉遁光飞来，待落下之后，左道人自里步出，对他拱手一礼，略带欣喜道：“我方才见到白舟经空，就猜测是道友归来了，却不知事机如何了",
-        "”    左道人点头道：“我送出道友交托给我的奏书后，为怕那背后之人发现我的行踪，故是这些天来一直在此修持",
-        "”    张御道：“此回多亏左道友代我传递书信，才让消息得以被奎宿军务署知晓，却要多谢道友了"
+      "relationships": [
+        {
+          "target": "陈乾定",
+          "type": "师兄"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向陈乾定报告军务署将运送丁宣平尸身，并表达对张御的担忧。"
+        }
+      ],
+      "evidence": [
+        "瘦小道人走入了进来，道：师兄，我方才听到一个消息，军务署准备把丁卯的尸身运回来",
+        "瘦小道人神情放松道：原来师兄早有定算，却是小弟多事了。"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "陈乾",
-      "aliases": [],
-      "identity": "",
+      "name": "高髻道人",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "余玄尊门下，修士",
+      "faction": "余玄尊门下",
+      "status": "登场",
+      "first_appearance": "第六十章 内应",
+      "summary": "余玄尊门下，不愿见张御，给了徐姓修士东西后便打发其离开。",
+      "appearance": [
+        "高髻",
+        "身着淡紫衣道袍"
+      ],
+      "personality": [
+        "怕麻烦",
+        "慵懒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "徐姓修士",
+          "type": "师弟"
+        },
+        {
+          "target": "张御",
+          "type": "不愿见面"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天城清幽山谷中，让贺师弟去请张御未果，给了徐姓修士东西后打发其离开。"
+        }
+      ],
+      "evidence": [
+        "一名高髻道人身着淡紫衣道袍，以臂枕首，斜卧在大树虬根之下",
+        "高髻道人道：徐师弟，你知道我是一个怕麻烦的人，既然他不愿见我，那我也自无法替你们和解"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "徐姓修士",
+      "aliases": [
+        "徐师弟"
+      ],
+      "identity": "修士，与张御有隙",
       "faction": "",
       "status": "登场",
       "first_appearance": "第六十章 内应",
-      "summary": "陈乾定坐在蒲团之上，他的面前摆放出一排竹筹，看去正在摆布着什么，此刻瘦小道人走入了进来，道：“师兄，我方才听到一个消息，军务署准备把丁卯的尸身运回来，并且交由他师门处置",
+      "summary": "与张御有矛盾的修士，从高髻道人处得到东西后离开。",
+      "appearance": [],
+      "personality": [
+        "沉着脸"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高髻道人",
+          "type": "师兄"
+        },
+        {
+          "target": "张御",
+          "type": "有矛盾"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天城请高髻道人帮忙，得到东西后离开。"
+        }
+      ],
+      "evidence": [
+        "徐姓修士道：那是一定的，要不然当日也不会驳贾师兄的脸面了。",
+        "徐姓修士再是一礼，就从里退了出来，他站在门口站了一会儿，就沉着脸离开了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "贺师弟",
+      "aliases": [
+        "年轻修士"
+      ],
+      "identity": "余玄尊门下，修士",
+      "faction": "余玄尊门下",
+      "status": "登场",
+      "first_appearance": "第六十章 内应",
+      "summary": "余玄尊门下年轻修士，奉命去请张御但被拒绝。",
+      "appearance": [
+        "年轻"
+      ],
+      "personality": [
+        "略带倨傲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高髻道人",
+          "type": "师兄"
+        },
+        {
+          "target": "张御",
+          "type": "请见被拒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天城请张御去见高髻道人，被张御拒绝。"
+        }
+      ],
+      "evidence": [
+        "那年轻修士略带一丝倨傲道：正是，寻常修士又岂可上得这天城修道？",
+        "那年轻修士不禁为之愕然。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "洪原秋",
+      "aliases": [],
+      "identity": "署厅官员",
+      "faction": "军务署",
+      "status": "提及",
+      "first_appearance": "第六十章 内应",
+      "summary": "张御从洪原秋的署厅出来，张御通传洪原秋准备布置。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "张御从其署厅出来，并通传其准备布置。"
+        }
+      ],
+      "evidence": [
+        "张御从洪原秋的署厅出来之后",
+        "这是通传洪原秋，让其准备开始布置。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "苗司马",
+      "aliases": [],
+      "identity": "司马",
+      "faction": "镇军",
+      "status": "提及",
+      "first_appearance": "第六十章 内应",
+      "summary": "镇军司马，信任牛道人，未怀疑其内应身份。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "牛道人",
+          "type": "被信任"
+        },
+        {
+          "target": "齐玄修",
+          "type": "下属"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "陈乾定坐在蒲团之上，他的面前摆放出一排竹筹，看去正在摆布着什么，此刻瘦小道人走入了进来，道：“师兄，我方才听到一个消息，军务署准备把丁卯的尸身运回来，并且交由他师门处置",
-        "”    陈乾定放下一个竹筹，神情从容道：“你在担心什么",
-        "”    陈乾定点头道：“若是能找到合适的人，这确然是有几分可能的，不过我料此事必然是军务署放出的消息，就等着我们送上门去"
+        "苗司马一直对你信任有加，任何事情都倚重于你",
+        "他从来没有怀疑过你，一直把你当作挚友"
       ],
-      "mention_count": 5
+      "mention_count": 2
+    },
+    {
+      "name": "丁宣平",
+      "aliases": [
+        "丁卯",
+        "齐队率"
+      ],
+      "identity": "阵亡士卒，齐玄修的侄孙",
+      "faction": "镇军",
+      "status": "已故",
+      "first_appearance": "第六十章 内应",
+      "summary": "阵亡的队率，齐玄修的侄孙，尸身被牛道人毁灭。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "齐玄修",
+          "type": "侄孙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "尸身被牛道人在飞舟上毁灭。"
+        }
+      ],
+      "evidence": [
+        "我的一名侄孙这次阵亡在此，我打算把他的尸身一同带回去。",
+        "齐队率么？原来他是你的侄孙",
+        "牛道人这时伸手出去，飞快无比的对着那石柜之中的丁宣平遗躯一按"
+      ],
+      "mention_count": 3
     }
   ]
 }

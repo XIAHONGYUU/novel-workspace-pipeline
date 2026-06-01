@@ -1,257 +1,294 @@
 {
   "chunk_id": "chunk-0203",
-  "title": "第一百九十九章 神国",
   "characters": [
     {
-      "name": "邓明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "邓明青",
+      "aliases": [
+        "尉主"
+      ],
+      "identity": "神尉军尉主",
+      "faction": "神尉军",
       "status": "登场",
       "first_appearance": "第一百九十九章 神国",
-      "summary": "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
+      "summary": "神尉军尉主，沉稳冷静，谋划东廷神国之事。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "冷静",
+        "善于谋划"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
-        "”    邓明青睁开眼睛，锐光一闪而逝，他神情没有太多变化，好似一切都在预料之中，口中道：“知道了，把消息送到姚幕公那里去吧",
-        "”    邓明青看了看他，道：“怎么样，没受什么伤吧"
+      "relationships": [
+        {
+          "target": "朱阙",
+          "type": "下属"
+        },
+        {
+          "target": "姚弘义",
+          "type": "合作"
+        }
       ],
-      "mention_count": 18
-    },
-    {
-      "name": "姚弘义",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 神国",
-      "summary": "姚氏庄园中，幕公姚弘义听着底下人的禀告，又确认朱阙的确已自外返回，他不觉精神振奋起来，好像一瞬间年轻了许多岁，他道：“文震",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姚氏庄园中，幕公姚弘义听着底下人的禀告，又确认朱阙的确已自外返回，他不觉精神振奋起来，好像一瞬间年轻了许多岁，他道：“文震",
-        "”    姚弘义道：“我需往都堂去见柳府公，你去把这个消息带给诸公",
-        "”    姚弘义关照过后，就步出宅院，乘上一辆早已准备好的车马，就往瑞光城而来"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在神尉军驻地接见朱阙，安排其前往安都尉处。"
+        }
       ],
-      "mention_count": 17
+      "evidence": [
+        "神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神。",
+        "邓明青道：没事就好，戚毖一死，玄府已是不足为虑，但我们的对手有不止一个，神尉军下来还需要你继续出力。"
+      ],
+      "mention_count": 10
     },
     {
       "name": "朱阙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "朱军候",
+        "上军候"
+      ],
+      "identity": "神尉军上军候",
+      "faction": "神尉军",
       "status": "登场",
       "first_appearance": "第一百九十九章 神国",
-      "summary": "过了一会儿，朱阙大踏步走了进来，来至他面前，抱拳道：“尉主，朱阙回来复命",
+      "summary": "神尉军上军候，忠诚于邓明青，拥有影身力量。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "忠诚",
+        "随意"
+      ],
+      "abilities": [
+        "影身力量",
+        "远古神力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邓明青",
+          "type": "上级"
+        },
+        {
+          "target": "朱阙的兄弟",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "返回神尉军驻地复命，告知兄弟已死。"
+        }
+      ],
+      "evidence": [
+        "朱阙大踏步走了进来，来至他面前，抱拳道：尉主，朱阙回来复命。",
+        "朱阙道：没有，只是我兄弟死了。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "姚弘义",
+      "aliases": [
+        "姚幕公",
+        "幕公"
+      ],
+      "identity": "幕公",
+      "faction": "都护府",
+      "status": "登场",
+      "first_appearance": "第一百九十九章 神国",
+      "summary": "都护府幕公，支持神尉军与诸神合作，推动东廷神国建立。",
+      "appearance": [],
+      "personality": [
+        "兴奋",
+        "冷酷"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "过了一会儿，朱阙大踏步走了进来，来至他面前，抱拳道：“尉主，朱阙回来复命",
-        "”    朱阙道：“没有，只是我兄弟死了",
-        "”    朱阙爽快道：“尉主吩咐就好"
+      "relationships": [
+        {
+          "target": "柳奉全",
+          "type": "同僚"
+        },
+        {
+          "target": "邓明青",
+          "type": "合作"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知朱阙返回后，前往都堂见柳奉全，递上谏书。"
+        }
+      ],
+      "evidence": [
+        "姚氏庄园中，幕公姚弘义听着底下人的禀告，又确认朱阙的确已自外返回，他不觉精神振奋起来。",
+        "姚弘义道：我需往都堂去见柳府公，你去把这个消息带给诸公。"
+      ],
+      "mention_count": 8
     },
     {
       "name": "柳奉全",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "柳府公",
+        "柳公府",
+        "府公"
+      ],
+      "identity": "署公",
+      "faction": "都护府",
       "status": "登场",
       "first_appearance": "第一百九十九章 神国",
-      "summary": "到了城中后，一路行至治署之前，无需禀告，他直接行到事务大堂之前，开口直言求见柳奉全",
+      "summary": "都护府署公，反对神尉军与诸神合作，但被迫妥协。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "愤怒",
+        "无奈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "到了城中后，一路行至治署之前，无需禀告，他直接行到事务大堂之前，开口直言求见柳奉全",
-        "少顷，柳奉全自里迎出来，抬袖一礼，道：“姚幕公怎么来了",
-        "柳奉全身为署公，自是不希望有人来干涉自己做事，而且他心里面也并不喜欢姚弘义这个人，所以一向对其不冷不淡"
+      "relationships": [
+        {
+          "target": "姚弘义",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在治署接见姚弘义，得知戚毖已死及神国计划，愤怒但被迫考虑。"
+        }
+      ],
+      "evidence": [
+        "柳奉全自里迎出来，抬袖一礼，道：姚幕公怎么来了？",
+        "柳奉全顿时感觉到一股深重的冷意将自己从头到脚包裹住。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "姚弘",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 神国",
-      "summary": "姚氏庄园中，幕公姚弘义听着底下人的禀告，又确认朱阙的确已自外返回，他不觉精神振奋起来，好像一瞬间年轻了许多岁，他道：“文震",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "姚氏庄园中，幕公姚弘义听着底下人的禀告，又确认朱阙的确已自外返回，他不觉精神振奋起来，好像一瞬间年轻了许多岁，他道：“文震",
-        "”    姚弘义道：“我需往都堂去见柳府公，你去把这个消息带给诸公",
-        "”    姚弘义关照过后，就步出宅院，乘上一辆早已准备好的车马，就往瑞光城而来"
+      "name": "戚毖",
+      "aliases": [
+        "玄首"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府玄首",
+      "faction": "玄府",
+      "status": "已死",
       "first_appearance": "第一百九十九章 神国",
-      "summary": "”    朱阙道：“没有，只是我兄弟死了",
+      "summary": "玄府玄首，被朱阙约战杀死，其死导致玄府失势。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    朱阙道：“没有，只是我兄弟死了",
-        "”    他试着站了起来，只是坐久了血脉有些不畅，身形微微一晃，似要跌回去，朱阙立刻走上来将他搀扶住",
-        "”    幕公实际上只是一个荣显之职，名份上是与署公并列，但并不掌握什么权力，平时只有重要事宜才会请来议事"
+      "relationships": [
+        {
+          "target": "朱阙",
+          "type": "对手"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "柳奉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 神国",
-      "summary": "到了城中后，一路行至治署之前，无需禀告，他直接行到事务大堂之前，开口直言求见柳奉全",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "到了城中后，一路行至治署之前，无需禀告，他直接行到事务大堂之前，开口直言求见柳奉全",
-        "少顷，柳奉全自里迎出来，抬袖一礼，道：“姚幕公怎么来了",
-        "柳奉全身为署公，自是不希望有人来干涉自己做事，而且他心里面也并不喜欢姚弘义这个人，所以一向对其不冷不淡"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被朱阙约战杀死。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "神尉军",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 神国",
-      "summary": "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
-        "”    邓明青道：“没事就好，戚毖一死，玄府已是不足为虑，但我们的对手有不止一个，神尉军下来还需要你继续出力",
-        "”    姚弘义回道：“就在今天早上，神尉军上军候朱阙约战玄府玄首戚毖，过程我便不说了，最后的结果府公已经知道了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "柳公府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 神国",
-      "summary": "”    柳公府眉头一皱，道：“姚幕公，有什么话说清楚",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    柳公府眉头一皱，道：“姚幕公，有什么话说清楚",
-        "”    柳公府看他一眼，侧开一步，道：“请",
-        "”    姚弘义一点头，走入了内堂，柳公府也是走了进来，他来到主位之上坐下，等着姚弘义也是落座，这才道：“这里无人，什么事情，姚幕公可以明言了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "神尉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百九十九章 神国",
-      "summary": "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
-        "”    邓明青道：“没事就好，戚毖一死，玄府已是不足为虑，但我们的对手有不止一个，神尉军下来还需要你继续出力",
-        "”    姚弘义回道：“就在今天早上，神尉军上军候朱阙约战玄府玄首戚毖，过程我便不说了，最后的结果府公已经知道了"
+        "戚毖一死，玄府已是不足为虑",
+        "戚毖已死。"
       ],
       "mention_count": 4
     },
     {
-      "name": "尉主",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "托洛提",
+      "aliases": [
+        "杀戮之神"
+      ],
+      "identity": "杀戮之神",
+      "faction": "血阳诸神",
       "status": "登场",
       "first_appearance": "第一百九十九章 神国",
-      "summary": "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
+      "summary": "杀戮之神，曾附身信徒来瑞光城，现因力量消失而能深入内城。",
+      "appearance": [
+        "身形高大雄健"
+      ],
+      "personality": [
+        "不是无脑屠夫"
+      ],
+      "abilities": [
+        "神性",
+        "神力"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在瑞光城中行走，前往都尉军营。"
+        }
+      ],
+      "evidence": [
+        "他是杀戮之神托洛提，以前他也曾把意识附身在信徒上来过瑞光城",
+        "他分辨了一下方向，就慢慢在位于瑞光城中都尉军营地步去。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "玄府成员（推测）",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百九十九章 神国",
+      "summary": "在安山深处行走，持有玄玉，感知到章印。",
       "appearance": [],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "玄玉"
+      ],
+      "relationships": [
+        {
+          "target": "莫队率",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在安山深处行走一天一夜，发现玄玉上的章印。"
+        }
+      ],
       "evidence": [
-        "第一百九十九章 神国    神尉军驻地之中，尉主邓明青正坐在竹榻之上闭目养神",
-        "亲信侍从满脸喜色的跑过来，躬身揖礼道：“尉主，朱军候回来了",
-        "过了一会儿，朱阙大踏步走了进来，来至他面前，抱拳道：“尉主，朱阙回来复命"
+        "张御已是在一片灰蒙蒙的地界上走了一天一夜了",
+        "他从衣兜之中将玄玉拿了出来，辨别了一下，立时知道那是什么了。"
       ],
       "mention_count": 4
     },
     {
-      "name": "亲信侍",
+      "name": "莫队率",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "队率",
+      "faction": "未知",
       "status": "登场",
       "first_appearance": "第一百九十九章 神国",
-      "summary": "亲信侍从满脸喜色的跑过来，躬身揖礼道：“尉主，朱军候回来了",
+      "summary": "跟随张御的队率，恭敬服从。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "亲信侍从满脸喜色的跑过来，躬身揖礼道：“尉主，朱军候回来了",
-        "”    亲信侍从躬身回应一声，便立刻退下去了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "跟随"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随张御在安山行走。"
+        }
+      ],
+      "evidence": [
+        "莫队率恭敬道：是。"
+      ],
+      "mention_count": 2
     }
   ]
 }

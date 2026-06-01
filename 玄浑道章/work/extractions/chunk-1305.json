@@ -1,258 +1,455 @@
 {
   "chunk_id": "chunk-1305",
-  "title": "第两百零七章 观域皆有得",
   "characters": [
     {
-      "name": "先生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "第两百零七章 观域皆有得    丘原城域的中心大台上，班岚正在案台后处理公务，何礼走了进来，道：“先生，方才，那一位‘桃实’先生又来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零七章 观域皆有得    丘原城域的中心大台上，班岚正在案台后处理公务，何礼走了进来，道：“先生，方才，那一位‘桃实’先生又来了",
-        "何礼道：“先生高明，如此这位可是被安抚住了",
-        "这时他想了想，道：“对了，先生，烈王却是去找这位攀谈，这……”    班岚道：“不要去干涉，烈王已经回不去了，随便他做什么"
+      "name": "班岚",
+      "aliases": [
+        "先生"
       ],
-      "mention_count": 14
-    },
-    {
-      "name": "李青禾",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "丘原城域管理者，天夏玄修",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "待是在外进过早食后，他一个人回到了工坊之中，准备继续奋战，却见李青禾正站在那里笑吟吟等着他",
+      "summary": "丘原城域的实际掌控者，负责处理公务并设法安抚上境修士桃实。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "善于谋划"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "何礼",
+          "type": "下属"
+        },
+        {
+          "target": "桃实",
+          "type": "监视与被监视"
+        },
+        {
+          "target": "烈王",
+          "type": "观察对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在丘原城域处理公务，并关注桃实和烈王的动向。"
+        }
+      ],
       "evidence": [
-        "待是在外进过早食后，他一个人回到了工坊之中，准备继续奋战，却见李青禾正站在那里笑吟吟等着他",
-        "”    李青禾笑着将一枚玉简交给他，道：“是啊，这是先生让我交给你的，”他郑重关照了一句，“先生说了，这里面得东西，只有小郎你能观",
-        "”    李青禾道：“不妨事，只要你以意观之，自能望见"
+        "丘原城域的中心大台上，班岚正在案台后处理公务",
+        "班岚早就留意到这位“桃实”也是来到了道化之世中",
+        "班岚道：“不要去干涉，烈王已经回不去了，随便他做什么。”"
       ],
       "mention_count": 10
     },
     {
-      "name": "班岚",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "第两百零七章 观域皆有得    丘原城域的中心大台上，班岚正在案台后处理公务，何礼走了进来，道：“先生，方才，那一位‘桃实’先生又来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零七章 观域皆有得    丘原城域的中心大台上，班岚正在案台后处理公务，何礼走了进来，道：“先生，方才，那一位‘桃实’先生又来了",
-        "”    班岚的动作微顿，而后若无其事道：“这位又去看盛剧了么",
-        "”    班岚道：“那好，多推动一些盛剧，尽量让这位满意"
-      ],
-      "mention_count": 9
-    },
-    {
-      "name": "安知之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "东庭府洲，安知之小郎君从造物工坊里走了出来，迎着清晨的光芒伸展了几下，昨日他又是在造物工坊打造了一夜，不过仍是精神奕奕",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "东庭府洲，安知之小郎君从造物工坊里走了出来，迎着清晨的光芒伸展了几下，昨日他又是在造物工坊打造了一夜，不过仍是精神奕奕",
-        "安知之活动了下身躯后，又是站着调息了一会儿",
-        "”    安知之看着这玉简，挠了挠脑袋，道：“这，我没有神异之能，也看不了这玉简啊"
-      ],
-      "mention_count": 9
-    },
-    {
       "name": "何礼",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "班岚的下属",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "第两百零七章 观域皆有得    丘原城域的中心大台上，班岚正在案台后处理公务，何礼走了进来，道：“先生，方才，那一位‘桃实’先生又来了",
+      "summary": "班岚的下属，负责汇报桃实和烈王的情况。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百零七章 观域皆有得    丘原城域的中心大台上，班岚正在案台后处理公务，何礼走了进来，道：“先生，方才，那一位‘桃实’先生又来了",
-        "”    何礼道：“这位近来天天来看",
-        "何礼道：“先生高明，如此这位可是被安抚住了"
+      "relationships": [
+        {
+          "target": "班岚",
+          "type": "上级"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向班岚汇报桃实和烈王的情况。"
+        }
+      ],
+      "evidence": [
+        "何礼走了进来，道：“先生，方才，那一位‘桃实’先生又来了。”",
+        "何礼心中跳了两下，被一位玄尊盯上，他也是心头发虚"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "魏山",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "玉京的天机造物总院，宗匠魏山此刻心绪激荡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玉京的天机造物总院，宗匠魏山此刻心绪激荡",
-        "”    魏山心中一怒，气的一拍案，道：“为什么不许",
-        "”    魏山向外用力一挥手，愤愤言道：“我会上书的，造物兴盛乃是世之大势，某些人是阻挡不住的"
+      "name": "桃实",
+      "aliases": [
+        "桃实先生"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "李青",
-      "aliases": [],
-      "identity": "",
+      "identity": "上境修士（玄尊）",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "待是在外进过早食后，他一个人回到了工坊之中，准备继续奋战，却见李青禾正站在那里笑吟吟等着他",
+      "summary": "一位上境修士，化名桃实出现在道化之世中，被班岚设法安抚。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "待是在外进过早食后，他一个人回到了工坊之中，准备继续奋战，却见李青禾正站在那里笑吟吟等着他",
-        "”    李青禾笑着将一枚玉简交给他，道：“是啊，这是先生让我交给你的，”他郑重关照了一句，“先生说了，这里面得东西，只有小郎你能观",
-        "”    李青禾道：“不妨事，只要你以意观之，自能望见"
+      "relationships": [
+        {
+          "target": "班岚",
+          "type": "监视对象"
+        },
+        {
+          "target": "烈王",
+          "type": "攀谈对象"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "”    班岚的动作微顿，而后若无其事道：“这位又去看盛剧了么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    班岚的动作微顿，而后若无其事道：“这位又去看盛剧了么",
-        "”    何礼道：“这位近来天天来看",
-        "”    班岚道：“那好，多推动一些盛剧，尽量让这位满意"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "频繁观看盛剧，并与烈王攀谈。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他的",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "实际上自昨日之后，他的心情就不曾有过丝毫平静",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "实际上自昨日之后，他的心情就不曾有过丝毫平静",
-        "他的对此事的担忧很快成了现实，过午之后，却是自愿尚台来了一个天礼部的年轻官吏，并向他道：“魏宗匠，传玄廷谕命，所有从另一世获取来的造物技艺悉数封存，不经廷上允许，不得随意探研",
-        "”    年轻官吏没有去接他的话，只道：“下吏话已带到，告辞了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "何礼道：“先生高明，如此这位可是被安抚住了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "何礼道：“先生高明，如此这位可是被安抚住了",
-        "他连夜看过了这些造物技艺，虽然有些不足以直接用在如今世上，可是其中方向和道路却是可以借鉴的，有些还给了他这个宗匠无数的启发",
-        "并且他还反复问过了，确认这些东西的存都在是经过了数百年时间验证的，这就更为珍贵了，虽然世域道机不同，可是一些东西也是可以从另外的方向上去突破的"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "可以",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "现在的盛剧，可谓部部都是投其所好，但也并不是一味讨好，他也会刻意加入一些矛盾的东西，同时他也总是设法在训天道章中挑起各种矛盾和话题，可以说大多数道章上的争端都是他在背后有意推动，令这位整日沉迷于此，无暇来寻他麻烦",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "现在的盛剧，可谓部部都是投其所好，但也并不是一味讨好，他也会刻意加入一些矛盾的东西，同时他也总是设法在训天道章中挑起各种矛盾和话题，可以说大多数道章上的争端都是他在背后有意推动，令这位整日沉迷于此，无暇来寻他麻烦",
-        "他连夜看过了这些造物技艺，虽然有些不足以直接用在如今世上，可是其中方向和道路却是可以借鉴的，有些还给了他这个宗匠无数的启发",
-        "并且他还反复问过了，确认这些东西的存都在是经过了数百年时间验证的，这就更为珍贵了，虽然世域道机不同，可是一些东西也是可以从另外的方向上去突破的"
+        "方才，那一位‘桃实’先生又来了",
+        "班岚早就留意到这位“桃实”也是来到了道化之世中",
+        "他又唤出训天道章，重新看了一遍桃实对南北战局的判断"
       ],
       "mention_count": 5
     },
     {
       "name": "烈王",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "北疆皇厅的王爷，疑似烈皇的化身",
+      "faction": "昊族",
+      "status": "提及",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "出现在丘原城域的烈王，与北疆的烈皇并非同一人，被六派渗透。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "桃实",
+          "type": "攀谈"
+        },
+        {
+          "target": "班岚",
+          "type": "被观察"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与桃实攀谈，同时北疆的烈皇仍在皇厅活动。"
+        }
+      ],
+      "evidence": [
+        "烈王却是去找这位攀谈",
+        "烈王从来就没有离开过北疆，一直就在皇厅之内",
+        "皇帝是烈皇，但烈皇却不见得是他"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "魏山",
+      "aliases": [
+        "魏宗匠"
+      ],
+      "identity": "玉京天机造物总院宗匠",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百零七章 观域皆有得",
-      "summary": "这时他想了想，道：“对了，先生，烈王却是去找这位攀谈，这……”    班岚道：“不要去干涉，烈王已经回不去了，随便他做什么",
+      "summary": "天机造物总院的宗匠，对道化之世带来的造物技艺极为兴奋，但遭到玄廷封存命令。",
+      "appearance": [],
+      "personality": [
+        "激愤",
+        "执着"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻官吏",
+          "type": "传令者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "研究道化之世带来的造物技艺，并收到玄廷封存谕令，决定上书陈言。"
+        }
+      ],
+      "evidence": [
+        "玉京的天机造物总院，宗匠魏山此刻心绪激荡",
+        "魏山心中一怒，气的一拍案",
+        "魏山向外用力一挥手，愤愤言道：“我会上书的”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "年轻官吏",
+      "aliases": [],
+      "identity": "天礼部官吏",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "天礼部派来向魏山传达玄廷谕令的年轻官吏。",
+      "appearance": [],
+      "personality": [
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魏山",
+          "type": "传令对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向魏山传达玄廷封存造物技艺的谕令。"
+        }
+      ],
+      "evidence": [
+        "自愿尚台来了一个天礼部的年轻官吏",
+        "年轻官吏冷静道：“魏宗匠，这是自玄廷下传的谕令”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "安知之",
+      "aliases": [
+        "安小郎",
+        "小郎"
+      ],
+      "identity": "张御的学生，造物工坊的玄修弟子",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "张御的学生，在造物工坊中勤奋工作，学习呼吸法，并收到张御的玉简。",
+      "appearance": [],
+      "personality": [
+        "勤奋",
+        "惊喜"
+      ],
+      "abilities": [
+        "呼吸法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "老师"
+        },
+        {
+          "target": "李青禾",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在造物工坊工作一夜后，收到李青禾带来的张御的玉简。"
+        }
+      ],
+      "evidence": [
+        "安知之小郎君从造物工坊里走了出来",
+        "安知之看着这玉简，挠了挠脑袋",
+        "安知之眼前一亮，接了过来，道：“那要多谢老师了”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "李青禾",
+      "aliases": [
+        "李师兄"
+      ],
+      "identity": "张御的弟子",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "张御的弟子，负责给安知之送玉简，并计划前往泰阳学宫见另一位学生。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安知之",
+          "type": "师兄"
+        },
+        {
+          "target": "张御",
+          "type": "老师"
+        },
+        {
+          "target": "青曙",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给安知之送玉简，随后与青曙前往泰阳学宫。"
+        }
+      ],
+      "evidence": [
+        "李青禾笑着将一枚玉简交给他",
+        "李青禾道：“先生只是在这里教授了这个学生半月古夏语”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "李青禾的同伴",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "与李青禾一同行动，询问下一步去向。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李青禾",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李青禾一起离开工坊，前往泰阳学宫。"
+        }
+      ],
+      "evidence": [
+        "等在那里的青曙迎了上来，道：“事情妥当了？”",
+        "青曙感兴趣道：“先生又收学生了？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "老师",
+        "先生"
+      ],
+      "identity": "玄廷廷执，清玄道宫主人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "玄廷廷执，已求全道法，在清玄道宫中潜修，并安排李青禾送玉简给安知之。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "道法变化"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安知之",
+          "type": "学生"
+        },
+        {
+          "target": "李青禾",
+          "type": "弟子"
+        },
+        {
+          "target": "风道人",
+          "type": "支持者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清玄道宫中潜修道法，并参加月中廷议。"
+        }
+      ],
+      "evidence": [
+        "清玄道宫之中，张御在安排了一些事宜后，就继续潜修道法变化",
+        "他振袖起身，往光芒之中走去",
+        "他的出现，也是引得其他廷执多看了几眼"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "风道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "玄廷廷执，对张御道行提升感到高兴，认为玄法地位更稳固。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "支持者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中看到张御，感到高兴。"
+        }
+      ],
+      "evidence": [
+        "在座之人，要说最高兴的，莫过于风道人了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "首座道人",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "玄廷首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "玄廷的首座道人，主持廷议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这时他想了想，道：“对了，先生，烈王却是去找这位攀谈，这……”    班岚道：“不要去干涉，烈王已经回不去了，随便他做什么",
-        "”    从最近北方得来的消息看，烈王从来就没有离开过北疆，一直就在皇厅之内，前几日还有在那里的玄修看到烈王和自己的诸多王妃一并游园散心，看着心情很是不错，一点也没有因为前线的战事紧迫而受影响，这还引来了一片夸赞",
-        "不过这也从侧面证实了自己这里这位烈王的猜想，皇帝是烈皇，但烈皇却不见得是他"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在廷议中，与诸廷执见礼。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "首座道人出现在了上端，道：“诸位廷执有礼。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百零七章 观域皆有得",
+      "summary": "玄廷廷执，在廷议中提出呈议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中敲磬并站起提出呈议。"
+        }
+      ],
+      "evidence": [
+        "崇廷执拿起玉槌，一敲玉磬，而后站起，道：“首执，诸位廷执，崇某这处有一呈议。”"
+      ],
+      "mention_count": 1
     }
   ]
 }

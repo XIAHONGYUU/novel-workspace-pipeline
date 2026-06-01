@@ -1,255 +1,372 @@
 {
   "chunk_id": "chunk-2058",
-  "title": "第五十八章 破固生变转",
   "characters": [
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十八章 破固生变转",
-      "summary": "五位执摄先前认为张御屡屡提出不同意见，总是不愿意遵从金庭的谕令，所以并不合他们之意，只是经历过此事之后再看，发现这未必见得完全是坏事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "五位执摄先前认为张御屡屡提出不同意见，总是不愿意遵从金庭的谕令，所以并不合他们之意，只是经历过此事之后再看，发现这未必见得完全是坏事",
-        "元夏的变化他们也是能够看到的，上境大能被斩杀，导致下层产生了变动，这无形中增加了天夏道争的胜算",
-        "出现这样的结果，他们倒是觉得较为能够接受了"
-      ],
-      "mention_count": 13
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "清玄上神",
+        "张御"
+      ],
+      "identity": "天夏执摄",
+      "faction": "金庭",
       "status": "登场",
       "first_appearance": "第五十八章 破固生变转",
-      "summary": "五位执摄先前认为张御屡屡提出不同意见，总是不愿意遵从金庭的谕令，所以并不合他们之意，只是经历过此事之后再看，发现这未必见得完全是坏事",
+      "summary": "天夏执摄，善于斗战，主张斩杀上境大能，推动道争变化。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "善于斗战",
+        "有主见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "五位执摄先前认为张御屡屡提出不同意见，总是不愿意遵从金庭的谕令，所以并不合他们之意，只是经历过此事之后再看，发现这未必见得完全是坏事",
-        "可是现在，有张御、白朢这些善于斗战的执摄，若是有再度搅扰道争之人，却是可以考虑使用另一种做法了",
-        "可以说张御的此番作为，也是令五位执摄改变了原来的一些固有看法，这也是因为他们乃是金庭，上下奉行变化，要是元一天宫的话，可是没这么容易接受改变的，反而会是拼命固守，抗拒这一切变机"
+      "relationships": [
+        {
+          "target": "五位执摄",
+          "type": "同僚但意见不合"
+        },
+        {
+          "target": "庄执摄、青朔、白朢",
+          "type": "盟友"
+        },
+        {
+          "target": "弥祖道人",
+          "type": "来访者"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在清玄道宫持坐，梳理消化此番所得。"
+        },
+        {
+          "stage": "战后",
+          "event": "接见弥祖道人，与之论道。"
+        }
+      ],
+      "evidence": [
+        "张御自归来之后，便是一直持坐，梳理消化着此番所得。",
+        "张御接连斩却这六位大能，上层为之动荡",
+        "张御认为这很正常，同时也是必然的。"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "弥祖",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "五位执摄",
+      "aliases": [
+        "五位元圣"
+      ],
+      "identity": "金庭最高统治者",
+      "faction": "金庭",
+      "status": "提及",
       "first_appearance": "第五十八章 破固生变转",
-      "summary": "那气意到了清穹道宫之中，落下化为一个身着幽袍，黑发黑须的年轻道人，对着自殿内走出来的张御打一个稽首，道：“弥祖见过清玄上神了，冒昧来访，不知可曾打搅尊驾",
+      "summary": "金庭的五位执摄，奉行变化之道，但维持上层不变。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "善于权衡",
+        "保守"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那气意到了清穹道宫之中，落下化为一个身着幽袍，黑发黑须的年轻道人，对着自殿内走出来的张御打一个稽首，道：“弥祖见过清玄上神了，冒昧来访，不知可曾打搅尊驾",
-        "”    张御回有一礼，道：“无妨，弥祖先圣还请入殿说话",
-        "”说着，侧步一请，弥祖道人再是一礼，举步上前，随他一同进入殿中"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚但意见不合"
+        },
+        {
+          "target": "庄执摄、青朔、白朢",
+          "type": "下属或盟友"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "反思张御的作为，考虑平衡策略。"
+        }
+      ],
+      "evidence": [
+        "五位执摄先前认为张御屡屡提出不同意见，总是不愿意遵从金庭的谕令",
+        "五位执摄感觉到，这几人如此抱团，无疑是他们都是从天夏上来的缘故",
+        "五位执摄也是感觉到，如今他们也并不是掌握完全的话语权了"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "可是",
+      "name": "庄执摄",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
       "first_appearance": "第五十八章 破固生变转",
-      "summary": "虽然这一次斗战导致天道变化剧烈，可是元夏那边，却是实打实的少了三人问对元空，从长远来看，其实反而是有利的",
+      "summary": "站在张御一边的执摄之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "盟友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "虽然这一次斗战导致天道变化剧烈，可是元夏那边，却是实打实的少了三人问对元空，从长远来看，其实反而是有利的",
-        "可是现在，有张御、白朢这些善于斗战的执摄，若是有再度搅扰道争之人，却是可以考虑使用另一种做法了",
-        "可以说张御的此番作为，也是令五位执摄改变了原来的一些固有看法，这也是因为他们乃是金庭，上下奉行变化，要是元一天宫的话，可是没这么容易接受改变的，反而会是拼命固守，抗拒这一切变机"
+        "庄执摄、青朔、白朢等人俱是站在了张御一边"
       ],
-      "mention_count": 7
+      "mention_count": 1
     },
     {
-      "name": "元夏",
+      "name": "青朔",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
       "first_appearance": "第五十八章 破固生变转",
-      "summary": "元夏的变化他们也是能够看到的，上境大能被斩杀，导致下层产生了变动，这无形中增加了天夏道争的胜算",
+      "summary": "站在张御一边的执摄之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "盟友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "元夏的变化他们也是能够看到的，上境大能被斩杀，导致下层产生了变动，这无形中增加了天夏道争的胜算",
-        "虽然这一次斗战导致天道变化剧烈，可是元夏那边，却是实打实的少了三人问对元空，从长远来看，其实反而是有利的",
-        "元夏，元都玄图的一缕宝气之内，荀季正端坐于其中"
+        "庄执摄、青朔、白朢等人俱是站在了张御一边"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "便是",
+      "name": "白朢",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
       "first_appearance": "第五十八章 破固生变转",
-      "summary": "在这般前提之下，他们是不可能亲身去与人搏杀的，清穹之气更是不能随意动用的，所以多数时候采取的便是容忍策略",
+      "summary": "站在张御一边的执摄之一。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "盟友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "在这般前提之下，他们是不可能亲身去与人搏杀的，清穹之气更是不能随意动用的，所以多数时候采取的便是容忍策略",
-        "可是这一等便是许久，久久不见回应到来",
-        "清玄道宫之内，张御自归来之后，便是一直持坐，梳理消化着此番所得"
+        "庄执摄、青朔、白朢等人俱是站在了张御一边"
       ],
-      "mention_count": 6
+      "mention_count": 1
     },
     {
-      "name": "却是",
+      "name": "太素执摄",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "金庭执摄",
+      "faction": "金庭",
+      "status": "提及",
       "first_appearance": "第五十八章 破固生变转",
-      "summary": "虽然这一次斗战导致天道变化剧烈，可是元夏那边，却是实打实的少了三人问对元空，从长远来看，其实反而是有利的",
+      "summary": "提议支持张御的执摄。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "支持者"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "虽然这一次斗战导致天道变化剧烈，可是元夏那边，却是实打实的少了三人问对元空，从长远来看，其实反而是有利的",
-        "可是现在，有张御、白朢这些善于斗战的执摄，若是有再度搅扰道争之人，却是可以考虑使用另一种做法了",
-        "他们本来不在乎底下之人的意见，因为他们掌握了绝对的力量，可是现在因为张御等人表现出来的能力，势必会带来越来越重的话语权，这却是不得不考虑平衡策略了，比如引入那些大能加入金庭，那么或能对张御等人有所制衡"
+        "还有一定原因是这里有太素执摄的提议"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "荀季",
+      "aliases": [],
+      "identity": "元都派修士，在元夏有另一身份",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五十八章 破固生变转",
+      "summary": "元都派修士，通过宝气感应到覆象道人的传意。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "元都玄图的一缕宝气"
+      ],
+      "relationships": [
+        {
+          "target": "覆象道人",
+          "type": "传意者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "端坐于元都玄图宝气内，感应到覆象道人的传意。"
+        }
+      ],
+      "evidence": [
+        "荀季正端坐于其中。他在天夏是荀季，可在元夏则有着另一个身份",
+        "他通过这一缕宝气，忽然感受到了自上层传递下来的意念，那是覆象道人的传意"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "覆象道人",
+      "aliases": [],
+      "identity": "元夏上境大能",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第五十八章 破固生变转",
+      "summary": "向荀季传意的上境大能。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "荀季",
+          "type": "传意者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "那是覆象道人的传意"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "裘道人",
+      "aliases": [],
+      "identity": "元夏求全道人",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五十八章 破固生变转",
+      "summary": "元夏求全道人，曾试图踏出上境一步但迟疑。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "坚定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在明觉世道中，因迟疑而错过踏出上境的机会。"
+        }
+      ],
+      "evidence": [
+        "裘道人神情凝重，其实方才他已然要踏出那一步了，可是临了总感觉哪里有些不对劲，所以缓了一缓。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "全司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五十八章 破固生变转",
+      "summary": "元上殿司议，与向司议讨论元夏天序。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "与向司议讨论元夏天序对上行的影响。"
+        }
+      ],
+      "evidence": [
+        "全司议对着向司议道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "向司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五十八章 破固生变转",
+      "summary": "元上殿司议，主持大局之人，认为需耐心撕开天序破口。",
+      "appearance": [],
+      "personality": [
+        "有耐心",
+        "善于谋划"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "全司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "与全司议讨论，认为需耐心撕开天序破口。"
+        }
+      ],
+      "evidence": [
+        "向司议点头，他可不会莽撞行事",
+        "他笑了笑，心下暗想着"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "弥祖道人",
+      "aliases": [
+        "弥祖先圣"
+      ],
+      "identity": "幽城背后的上境大能",
+      "faction": "幽城",
+      "status": "登场",
+      "first_appearance": "第五十八章 破固生变转",
+      "summary": "幽城背后的上境大能，前来拜访张御并论道。",
+      "appearance": [
+        "身着幽袍，黑发黑须的年轻道人"
+      ],
+      "personality": [
+        "善于观察",
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "来访者，论道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "拜访张御，与之论道。"
+        }
+      ],
+      "evidence": [
+        "弥祖见过清玄上神了，冒昧来访",
+        "弥祖道人欣然道：既是来此，自当与道友论道。"
       ],
       "mention_count": 5
-    },
-    {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十八章 破固生变转",
-      "summary": "虽然这一次斗战导致天道变化剧烈，可是元夏那边，却是实打实的少了三人问对元空，从长远来看，其实反而是有利的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "虽然这一次斗战导致天道变化剧烈，可是元夏那边，却是实打实的少了三人问对元空，从长远来看，其实反而是有利的",
-        "明觉世道中，裘道人神情凝重，其实方才他已然要踏出那一步了，可是临了总感觉哪里有些不对劲，所以缓了一缓",
-        "当然，还有一个可能存在的，那就是五位执摄其实尝试过这一遍这等做法了，现在这批先天之灵已然乃是后来才成就的"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "可是现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十八章 破固生变转",
-      "summary": "可是现在，有张御、白朢这些善于斗战的执摄，若是有再度搅扰道争之人，却是可以考虑使用另一种做法了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是现在，有张御、白朢这些善于斗战的执摄，若是有再度搅扰道争之人，却是可以考虑使用另一种做法了",
-        "他们本来不在乎底下之人的意见，因为他们掌握了绝对的力量，可是现在因为张御等人表现出来的能力，势必会带来越来越重的话语权，这却是不得不考虑平衡策略了，比如引入那些大能加入金庭，那么或能对张御等人有所制衡"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十八章 破固生变转",
-      "summary": "当然，还有一定原因是这里有太素执摄的提议，不然金庭不会这么轻易应下此事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "当然，还有一定原因是这里有太素执摄的提议，不然金庭不会这么轻易应下此事",
-        "当然，还有一个可能存在的，那就是五位执摄其实尝试过这一遍这等做法了，现在这批先天之灵已然乃是后来才成就的"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "只要",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十八章 破固生变转",
-      "summary": "其实与五位执摄之对抗，关键还是在那清穹之舟，只要清穹之舟还是整个天夏的上层根本，那么天夏所尊奉的依旧五位执摄所立的金庭，道亦不会迁变",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其实与五位执摄之对抗，关键还是在那清穹之舟，只要清穹之舟还是整个天夏的上层根本，那么天夏所尊奉的依旧五位执摄所立的金庭，道亦不会迁变",
-        "其实他对于这些上境大能的要求也不高，只要不来干涉他便好，不过若是愿意自己这一边来，他自也是乐于接纳的"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "弥祖道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五十八章 破固生变转",
-      "summary": "”说着，侧步一请，弥祖道人再是一礼，举步上前，随他一同进入殿中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”说着，侧步一请，弥祖道人再是一礼，举步上前，随他一同进入殿中",
-        "两人分主客坐下后，弥祖道人与他叙了一些客套之言，才是感慨道：“清玄上神接连斩却这六位大能，上层为之动荡，我以为这非是结束，乃是开始",
-        "弥祖道人道：“故我以为，上层要么不变，若有一点变化，那便会引动无穷变化"
-      ],
-      "mention_count": 4
     }
   ]
 }

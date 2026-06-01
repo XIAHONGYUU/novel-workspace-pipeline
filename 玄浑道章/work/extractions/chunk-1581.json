@@ -1,255 +1,371 @@
 {
   "chunk_id": "chunk-1581",
-  "title": "第一百五十九章 诸法皆为用",
   "characters": [
     {
-      "name": "风道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "”风道人一怔，“为何请晁廷执来此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”风道人一怔，“为何请晁廷执来此",
-        "”    风道人知道他话语中的意思，毫不迟疑道：“自然不是在那里歌功颂德，光是谈论玄法之妙又何用",
-        "”    风道人恍然，他笑道：“这么说，若能请来这位，倒是我等占便宜了"
-      ],
-      "mention_count": 11
-    },
-    {
-      "name": "风道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "”风道人一怔，“为何请晁廷执来此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”风道人一怔，“为何请晁廷执来此",
-        "张御道：“风道友是希望这场论道只谈好事还是只谈坏事",
-        "”    风道人知道他话语中的意思，毫不迟疑道：“自然不是在那里歌功颂德，光是谈论玄法之妙又何用"
-      ],
-      "mention_count": 9
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张道友"
+      ],
+      "identity": "玄法玄尊，守正宫成员",
+      "faction": "玄法",
       "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "张御道：“风道友是希望这场论道只谈好事还是只谈坏事",
+      "first_appearance": "",
+      "summary": "玄法玄尊，主张论道请晁廷执到场以指出错漏，认为与元夏之战必须胜利。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "理性",
+        "务实"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "道友"
+        },
+        {
+          "target": "晁廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "焦尧",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风道人商议论道事宜，并提及元夏战事和寄虚人选。"
+        }
+      ],
       "evidence": [
-        "张御道：“风道友是希望这场论道只谈好事还是只谈坏事",
-        "”    张御道：“那么晁廷执就是最为合适的人选了",
-        "”    张御道：“也可如此说，另外，晁廷执在玄廷之上负责监察内外一众人等，我等论道之会，请他到场也不算突兀"
+        "张御道：“风道友是希望这场论道只谈好事还是只谈坏事？”",
+        "张御道：“那么晁廷执就是最为合适的人选了。”",
+        "张御道：“与元夏之战，正好各方可借机验证自身之法。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风道友",
+        "风某"
+      ],
+      "identity": "玄法玄尊",
+      "faction": "玄法",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄法玄尊，与张御商议论道事宜，赞同请晁廷执，并决定修书邀请同道。",
+      "appearance": [],
+      "personality": [
+        "务实",
+        "开放"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        },
+        {
+          "target": "晁廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御下棋并讨论论道、元夏战事及寄虚人选。"
+        }
+      ],
+      "evidence": [
+        "风道人一怔，“为何请晁廷执来此？”",
+        "风道人恍然，他笑道：“这么说，若能请来这位，倒是我等占便宜了？”",
+        "风道人道：“风某再修书几封，看有没有同道愿来。”"
       ],
       "mention_count": 8
     },
     {
-      "name": "只是",
+      "name": "晁廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "”    他对晁廷执本人倒并无偏见，只是这一位又不懂玄法，而且说话行事向来喜欢挑刺，有这位在场，谈论道法可未必能顺利进行下去啊",
+      "identity": "玄廷廷执，负责监察内外",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄廷廷执，虽不懂玄法但道行高，能指出众人错漏，适合作为论道监督。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他对晁廷执本人倒并无偏见，只是这一位又不懂玄法，而且说话行事向来喜欢挑刺，有这位在场，谈论道法可未必能顺利进行下去啊",
-        "虽然如今因为玄廷的支持，真修玄修之间的冲突减少了，可玄法真法的矛盾不能说就不存在了，只是被更大的矛盾所掩盖罢了",
-        "真法、造物，都是如此，只是我们并没有输掉再来过的机会，故这一战必须要胜，也不得不胜"
+      "personality": [
+        "挑剔"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "张御道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "张御道：“风道友是希望这场论道只谈好事还是只谈坏事",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御道：“风道友是希望这场论道只谈好事还是只谈坏事",
-        "”    张御道：“那么晁廷执就是最为合适的人选了",
-        "”    张御道：“也可如此说，另外，晁廷执在玄廷之上负责监察内外一众人等，我等论道之会，请他到场也不算突兀"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "风道人",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "安小郎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "安小郎一个人没法做主，他寻到了武泽，道：“武大匠，现在天工部向天机院都在召集人手，不过上面并没有写我的名字，想来是对上次的事还有芥蒂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
       "timeline": [],
       "evidence": [
-        "安小郎一个人没法做主，他寻到了武泽，道：“武大匠，现在天工部向天机院都在召集人手，不过上面并没有写我的名字，想来是对上次的事还有芥蒂",
-        "”    安小郎真心实意对武泽一礼，道：“多谢武大匠了",
-        "不止这样，据说还在有意栽培一些年轻后辈，努力让他们成为先成为大匠，这样最后就算不得不授予安小郎名位，最年轻大匠的头衔也落不到其头上了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "武大匠",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "安小郎一个人没法做主，他寻到了武泽，道：“武大匠，现在天工部向天机院都在召集人手，不过上面并没有写我的名字，想来是对上次的事还有芥蒂",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "安小郎一个人没法做主，他寻到了武泽，道：“武大匠，现在天工部向天机院都在召集人手，不过上面并没有写我的名字，想来是对上次的事还有芥蒂",
-        "”    安小郎真心实意对武泽一礼，道：“多谢武大匠了",
-        "武大匠眼镜背后颇有意味的目光，道：“其实这一次也是一个机会，他们做他们的，我们也可以做我们的么，看一看谁先突破看了，少郎你拥有更多他人所不知道的技艺，这是你的优势，如果你能走在前面，恐怕能将大匠名位一并解决了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "再加",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "”    安小郎眼前一亮，他一拳砸在掌心，斗志满满道：“对啊，我们东庭的灵菌如今在各洲宿可是首屈一指，再加上老师交托给我的技艺，我却不信比不过天工部那些人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    安小郎眼前一亮，他一拳砸在掌心，斗志满满道：“对啊，我们东庭的灵菌如今在各洲宿可是首屈一指，再加上老师交托给我的技艺，我却不信比不过天工部那些人",
-        "再加上东庭府洲和玄府的支持，所以东庭天机工坊并不缺乏深研造物的基础"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "不过按照首执的说法，我们也并非无有优势，与元夏之战乃是践道而行，越是与此辈交手，越能得道法之助，故是我们只要不败，便得愈战愈强，风某以为，玄法经此磨砺，过后想必能更上一层",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过按照首执的说法，我们也并非无有优势，与元夏之战乃是践道而行，越是与此辈交手，越能得道法之助，故是我们只要不败，便得愈战愈强，风某以为，玄法经此磨砺，过后想必能更上一层",
-        "真法、造物，都是如此，只是我们并没有输掉再来过的机会，故这一战必须要胜，也不得不胜",
-        "武大匠眼镜背后颇有意味的目光，道：“其实这一次也是一个机会，他们做他们的，我们也可以做我们的么，看一看谁先突破看了，少郎你拥有更多他人所不知道的技艺，这是你的优势，如果你能走在前面，恐怕能将大匠名位一并解决了"
+        "他对晁廷执本人倒并无偏见，只是这一位又不懂玄法，而且说话行事向来喜欢挑刺",
+        "张御道：“那么晁廷执就是最为合适的人了。”",
+        "张御道：“另外，晁廷执在玄廷之上负责监察内外一众人等”"
       ],
       "mention_count": 5
     },
     {
-      "name": "安小",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "安小郎一个人没法做主，他寻到了武泽，道：“武大匠，现在天工部向天机院都在召集人手，不过上面并没有写我的名字，想来是对上次的事还有芥蒂",
+      "name": "焦尧",
+      "aliases": [
+        "老龙"
+      ],
+      "identity": "摘取上乘功果的龙族",
+      "faction": "守正宫（半隶属）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "一头老龙，摘取上乘功果，寿岁极长，见多识广，半落在守正宫中。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "安小郎一个人没法做主，他寻到了武泽，道：“武大匠，现在天工部向天机院都在召集人手，不过上面并没有写我的名字，想来是对上次的事还有芥蒂",
-        "”    安小郎真心实意对武泽一礼，道：“多谢武大匠了",
-        "不止这样，据说还在有意栽培一些年轻后辈，努力让他们成为先成为大匠，这样最后就算不得不授予安小郎名位，最年轻大匠的头衔也落不到其头上了"
+        "张御道：“我会把焦尧道友请来。”",
+        "风道人一转念，这也好，这头老龙现在算半落在守正宫中",
+        "这位可是摘取了上乘功果的，寿岁也极长，可谓见多识广"
       ],
-      "mention_count": 5
+      "mention_count": 2
     },
     {
-      "name": "而且",
+      "name": "陈首执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏首执",
+      "faction": "玄廷",
       "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "”    他对晁廷执本人倒并无偏见，只是这一位又不懂玄法，而且说话行事向来喜欢挑刺，有这位在场，谈论道法可未必能顺利进行下去啊",
+      "first_appearance": "",
+      "summary": "天夏首执，与几位执摄沟通后决定继续炼造镇道之宝，并命韦廷执推动玄兵突破。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "深思熟虑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "韦廷执",
+          "type": "下属"
+        },
+        {
+          "target": "周道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从光幕中走出，思考镇道之宝和玄兵事宜，并下令。"
+        }
+      ],
       "evidence": [
-        "”    他对晁廷执本人倒并无偏见，只是这一位又不懂玄法，而且说话行事向来喜欢挑刺，有这位在场，谈论道法可未必能顺利进行下去啊",
-        "而且许多真修从云海之中直接被拉出来做事，肯定有一些人心中是有所不满的，有些人甚至还认为是玄修在弄事",
-        "”    风道人一转念，这也好，这头老龙现在算半落在守正宫中，但又不完全算是守正宫的人，而且这位可是摘取了上乘功果的，寿岁也极长，可谓见多识广，这人若能说上几句修道上的经验之谈，也对众人不无裨益"
+        "陈首执从光幕之中走了出来，他方才已经是与几位执摄沟通过了",
+        "陈首执思考过后，就命周道人唤了韦廷执到此",
+        "陈首执道：“元夏几番进攻我时，都是用了阵器冲撞破阵。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "风某",
+      "name": "韦廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
       "status": "登场",
-      "first_appearance": "第一百五十九章 诸法皆为用",
-      "summary": "他道：“风某再修书几封，看有没有同道愿来",
+      "first_appearance": "",
+      "summary": "玄廷廷执，受陈首执之命与天工部沟通玄兵突破事宜。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈首执唤来，接受推动玄兵突破的任务。"
+        }
+      ],
+      "evidence": [
+        "陈首执思考过后，就命周道人唤了韦廷执到此",
+        "韦廷执应下道：“韦某会与几位大摄沟通一下”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "高墨",
+      "aliases": [
+        "高墨道友"
+      ],
+      "identity": "玄法玄尊",
+      "faction": "玄法",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄法玄尊，功行道法与风道人相仿，被认为可能成就寄虚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "同道"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "他道：“风某再修书几封，看有没有同道愿来",
-        "不过按照首执的说法，我们也并非无有优势，与元夏之战乃是践道而行，越是与此辈交手，越能得道法之助，故是我们只要不败，便得愈战愈强，风某以为，玄法经此磨砺，过后想必能更上一层",
-        "”    风道人欣喜道：“道友所思，与风某想法一般"
+        "张御道：“我以为，这位当是应在高墨道友、施呈道友、万明道友这三人身上”",
+        "高墨且不说，功行道法都是与他相仿。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "施呈",
+      "aliases": [
+        "施呈道友"
+      ],
+      "identity": "玄法玄尊",
+      "faction": "玄法",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄法玄尊，曾与风道人等一同成为玄尊，未担任廷执，资质极好，可能成就寄虚。",
+      "appearance": [],
+      "personality": [
+        "低调"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "同道"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "施呈当年可是与他们一并成为玄尊的，只是没有担任廷执之位罢了",
+        "这位性情不算张扬，很少与除他们之外的修道人结交"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "万明",
+      "aliases": [
+        "万明道友"
+      ],
+      "identity": "玄法玄尊",
+      "faction": "玄法",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄法玄尊，沿张御之路成就玄尊，被认为是第二位玄法玄尊，可能成就寄虚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "后辈"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "万明也不简单，沿着张御开辟之路成就玄尊",
+        "若不算他们这些借机上境之人，那么其人真正算得上是第二位成就玄法玄尊之人了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "安小郎",
+      "aliases": [
+        "少郎"
+      ],
+      "identity": "东庭天机工坊师匠",
+      "faction": "东庭府洲",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "东庭天机工坊的年轻师匠，拥有伊帕尔神族技艺，因未交出技艺而未获大匠头衔，但受东庭礼遇。",
+      "appearance": [],
+      "personality": [
+        "自负",
+        "专注技艺"
+      ],
+      "abilities": [
+        "掌握伊帕尔及莫契神族技艺"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "武泽",
+          "type": "同事/师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到天工部召集文书，与武泽商议后决定留守工坊。"
+        }
+      ],
+      "evidence": [
+        "安小郎一个人没法做主，他寻到了武泽",
+        "安小郎倒不在乎这些事，他在乎的只有真正的技艺",
+        "安小郎眼前一亮，他一拳砸在掌心，斗志满满"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "武泽",
+      "aliases": [
+        "武大匠"
+      ],
+      "identity": "东庭天机工坊大匠",
+      "faction": "东庭府洲",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "东庭天机工坊的大匠，决定代替安小郎前往玉京参加天工部召集，并鼓励安小郎自行突破。",
+      "appearance": [],
+      "personality": [
+        "支持后辈"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安小郎",
+          "type": "同事/师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安小郎商议后决定独自前往玉京。"
+        }
+      ],
+      "evidence": [
+        "武泽道：“这事武某去就好了。”",
+        "武大匠眼镜背后颇有意味的目光",
+        "武大匠看着手中的传书，道：“天工部催的很急”"
       ],
       "mention_count": 4
     }

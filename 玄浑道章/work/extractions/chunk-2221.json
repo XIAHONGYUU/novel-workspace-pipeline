@@ -1,258 +1,446 @@
 {
   "chunk_id": "chunk-2221",
-  "title": "第两百二十一章 先和为后战",
   "characters": [
     {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "风廷执",
+      "aliases": [
+        "风廷执"
+      ],
+      "identity": "天夏廷执，负责与元夏使者议谈",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "第两百二十一章 先和为后战    数位大司议都是意见一致，认为若是天夏不顾一切来攻，那对谁都没有好处，必须要与天夏有所沟通，避免这等事发生",
+      "summary": "天夏廷执，负责与元夏使者兰司议会谈，后回复元夏条件。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百二十一章 先和为后战    数位大司议都是意见一致，认为若是天夏不顾一切来攻，那对谁都没有好处，必须要与天夏有所沟通，避免这等事发生",
-        "」    他严肃看向风廷执，道：「可如今不同了，若是我元夏若觉得眼下所持之器无法守稳我之空域，那么我元夏也不会因此而避讳，当会拿出更多宝器与贵方争抗，只是这样做，对我两家都没有好处，后果想来也不是贵方想要看到的",
-        "」    他这话算是说得很明白了，意思也很清楚，若是天夏为争一时之利，那么非但得不到什么，损失可能会到自身也无法接受"
+      "relationships": [
+        {
+          "target": "兰司议",
+          "type": "谈判对手"
+        }
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "故在议定之后，他们让两殿派遣兰司议前往天夏议事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "故在议定之后，他们让两殿派遣兰司议前往天夏议事",
-        "天夏这边正等着元夏来攻，但没想到攻击没有等到，却是等来了元夏的使者，他们也想听听元夏方面的说辞，于是便将其请了进来",
-        "他们根本没有任何负罪之感，他们认为这是争道的必要过程"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与元夏使者兰司议会面，并回复元夏条件。"
+        }
       ],
-      "mention_count": 10
+      "evidence": [
+        "正回负责议谈的主要是风廷执",
+        "风廷执道：「那我天夏并不拒绝任何交通往来...」",
+        "风廷执，你可回复那元夏来使，言我可答应暂时不动征伐"
+      ],
+      "mention_count": 8
     },
     {
       "name": "兰司议",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "兰司议",
+        "兰某"
+      ],
+      "identity": "元夏使者，负责与天夏沟通",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "故在议定之后，他们让两殿派遣兰司议前往天夏议事",
+      "summary": "元夏两殿派遣的使者，多次与天夏沟通，此次前来传达元夏意图。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "谈判对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "奉两殿之命前往天夏议事，提出问询和告诫。"
+        }
+      ],
       "evidence": [
-        "故在议定之后，他们让两殿派遣兰司议前往天夏议事",
-        "兰司议也是算是天夏熟悉之人，此前数次往来都是他负责与天夏沟通，由其前往正是合适",
-        "」    兰司议正容道：「此回兰某奉两殿之命前来面见天夏诸位上尊，一是想问询天夏一事，二是想告诫贵方一事"
+        "他们让两殿派遣兰司议前往天夏议事",
+        "兰司议也是算是天夏熟悉之人",
+        "兰司议正容道：「此回兰某奉两殿之命前来面见天夏诸位上尊...」"
       ],
       "mention_count": 10
     },
     {
-      "name": "风廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "尤老道",
+      "aliases": [
+        "尤老道"
+      ],
+      "identity": "天夏强硬派人物",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "正回负责议谈的主要是风廷执，但因为还不知道元夏要做什么，所以尤老道这位强硬派自然也是要出面的",
+      "summary": "天夏强硬派，参与与元夏使者的会面。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "强硬"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正回负责议谈的主要是风廷执，但因为还不知道元夏要做什么，所以尤老道这位强硬派自然也是要出面的",
-        "双方在阵内一处殿阁之中会面，在见礼之后，风廷执主动发问，道：「使者来此，敢问是为何事",
-        "」    风廷执道：「那我天夏并不拒绝任何交通往来，贵方有什么不解，风某愿意在此代天夏为贵方解说，贵方有什么想说的，风某也可将贵方的意思准确传递给诸位廷执"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风廷执一同会见元夏使者。"
+        }
       ],
-      "mention_count": 10
+      "evidence": [
+        "尤老道这位强硬派自然也是要出面的"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "风廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "邓廷执",
+      "aliases": [
+        "邓廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "正回负责议谈的主要是风廷执，但因为还不知道元夏要做什么，所以尤老道这位强硬派自然也是要出面的",
+      "summary": "天夏廷执之一，对元夏意图发表看法。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正回负责议谈的主要是风廷执，但因为还不知道元夏要做什么，所以尤老道这位强硬派自然也是要出面的",
-        "双方在阵内一处殿阁之中会面，在见礼之后，风廷执主动发问，道：「使者来此，敢问是为何事",
-        "」    风廷执道：「那我天夏并不拒绝任何交通往来，贵方有什么不解，风某愿意在此代天夏为贵方解说，贵方有什么想说的，风某也可将贵方的意思准确传递给诸位廷执"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷议谈中发言，分析元夏意图。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "邓廷执呵了一声，道：「元夏的意思是让我们不要将半觉仙攻破...」"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "韦廷执",
+      "aliases": [
+        "韦廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "兰司议执有一礼，道：「那就有劳了",
+      "summary": "天夏廷执，对元夏威胁表示凝重。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "凝重"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "兰司议执有一礼，道：「那就有劳了",
-        "」    崇廷执道：「诸位，他们愿意拖延，那就先拖延，拖过一旬，宝器得以祭炼成功，那么再如何选择，就在我等手里了",
-        "可是对阵元夏，若是不能保持进取之势，那就只能退守，可那容易将主动权拱手让人"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷议谈中发言，认为元夏威胁非诓骗。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "韦廷执倒是神情凝重道：「这倒不是诓骗之言...」"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "兰司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "崇廷执",
+      "aliases": [
+        "崇廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "故在议定之后，他们让两殿派遣兰司议前往天夏议事",
+      "summary": "天夏廷执，主张拖延时间以祭炼宝器。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "故在议定之后，他们让两殿派遣兰司议前往天夏议事",
-        "兰司议也是算是天夏熟悉之人，此前数次往来都是他负责与天夏沟通，由其前往正是合适",
-        "」    兰司议正容道：「此回兰某奉两殿之命前来面见天夏诸位上尊，一是想问询天夏一事，二是想告诫贵方一事"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "建议拖延一旬，待宝器祭炼成功。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "崇廷执道：「诸位，他们愿意拖延，那就先拖延，拖过一旬，宝器得以祭炼成功...」"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "玉素廷执",
+      "aliases": [
+        "玉素廷执"
+      ],
+      "identity": "天夏廷执，激进强硬派",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "故而他没有在这点之上争执，只道：「但是贵方当也知道，我元夏无论底蕴亦或是镇道之宝都在天夏之上，只是不愿天序崩毁，所以并没有去抽调更多的宝器与复方对抗",
+      "summary": "天夏廷执中的激进强硬派，主张不妥协。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "激进",
+        "强硬"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "故而他没有在这点之上争执，只道：「但是贵方当也知道，我元夏无论底蕴亦或是镇道之宝都在天夏之上，只是不愿天序崩毁，所以并没有去抽调更多的宝器与复方对抗",
-        "」    他严肃看向风廷执，道：「可如今不同了，若是我元夏若觉得眼下所持之器无法守稳我之空域，那么我元夏也不会因此而避讳，当会拿出更多宝器与贵方争抗，只是这样做，对我两家都没有好处，后果想来也不是贵方想要看到的",
-        "只是元夏同样也有极大损失，这也是元夏一方不想见到的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷议谈中发言，认为不必畏惧元夏。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "玉素廷执冷然道：「其实何须畏惧元夏解脱更多宝器？...」"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "贵方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "俞廷执",
+      "aliases": [
+        "俞廷执"
+      ],
+      "identity": "天夏廷执，激进强硬派",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "」    兰司议正容道：「此回兰某奉两殿之命前来面见天夏诸位上尊，一是想问询天夏一事，二是想告诫贵方一事",
+      "summary": "天夏廷执中的激进强硬派，支持玉素廷执的观点。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "激进",
+        "强硬"
+      ],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "」    兰司议正容道：「此回兰某奉两殿之命前来面见天夏诸位上尊，一是想问询天夏一事，二是想告诫贵方一事",
-        "」    风廷执道：「那我天夏并不拒绝任何交通往来，贵方有什么不解，风某愿意在此代天夏为贵方解说，贵方有什么想说的，风某也可将贵方的意思准确传递给诸位廷执",
-        "「    兰司议道：「贵方应当是拿取镇道之宝了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷议谈中发言，认为元夏可能内乱。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "俞廷执也道：「元夏这些求全上真，都是想着如何去到上层...」"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "戴廷执",
+      "aliases": [
+        "戴廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "天夏这边正等着元夏来攻，但没想到攻击没有等到，却是等来了元夏的使者，他们也想听听元夏方面的说辞，于是便将其请了进来",
+      "summary": "天夏廷执，提出利用纯灵生灵对抗元夏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天夏这边正等着元夏来攻，但没想到攻击没有等到，却是等来了元夏的使者，他们也想听听元夏方面的说辞，于是便将其请了进来",
-        "正回负责议谈的主要是风廷执，但因为还不知道元夏要做什么，所以尤老道这位强硬派自然也是要出面的",
-        "」    兰司议不是来此争论此战之是非的，再说是元夏挑起的又如何"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷议谈中发言，强调宝器可催动纯灵生灵。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "戴廷执此刻道：「诸位，戴某以为，我们不当忽略一事，那宝器不仅仅是宝器，还有催动驾御纯灵生灵之能。」"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "这样",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "竺廷执",
+      "aliases": [
+        "竺廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "」    他严肃看向风廷执，道：「可如今不同了，若是我元夏若觉得眼下所持之器无法守稳我之空域，那么我元夏也不会因此而避讳，当会拿出更多宝器与贵方争抗，只是这样做，对我两家都没有好处，后果想来也不是贵方想要看到的",
+      "summary": "天夏廷执，提出先稳住元夏，定立短期约契。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "」    他严肃看向风廷执，道：「可如今不同了，若是我元夏若觉得眼下所持之器无法守稳我之空域，那么我元夏也不会因此而避讳，当会拿出更多宝器与贵方争抗，只是这样做，对我两家都没有好处，后果想来也不是贵方想要看到的",
-        "邓廷执呵了一声，道：「元夏的意思是让我们不要将半觉仙攻破，维持眼前的局势就好，这样他们也不必解脱天序，只是其话语之中隐含威胁，好似笃定只要我们攻破半觉仙，就一定能是能将我们驱赶出去的",
-        "」    众廷执点头，这样一来，事情灵活许多了，他们能有更多时间来进行调整准备"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "建议先不做明确回答，答应短时内不攻伐元夏。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "竺廷执出声道：「可先不做明确回答，并答应短时内不会利用此宝器攻伐元夏，先将之稳住再说。」"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "陈首执",
+      "aliases": [
+        "陈首执"
+      ],
+      "identity": "天夏首执，最高决策者",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百二十一章 先和为后战",
-      "summary": "邓廷执呵了一声，道：「元夏的意思是让我们不要将半觉仙攻破，维持眼前的局势就好，这样他们也不必解脱天序，只是其话语之中隐含威胁，好似笃定只要我们攻破半觉仙，就一定能是能将我们驱赶出去的",
+      "summary": "天夏首执，做出最后决断，同意暂时不动征伐但要求元夏补偿。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "邓廷执呵了一声，道：「元夏的意思是让我们不要将半觉仙攻破，维持眼前的局势就好，这样他们也不必解脱天序，只是其话语之中隐含威胁，好似笃定只要我们攻破半觉仙，就一定能是能将我们驱赶出去的",
-        "戴廷执此刻道：「诸位，戴某以为，我们不当忽略一事，那宝器不仅仅是宝器，还有催动驾御纯灵生灵之能",
-        "我们便不用此宝器攻敌，也有无数的纯灵生灵可以利用"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "听取众廷执意见后，做出决断，回复元夏条件。"
+        }
       ],
-      "mention_count": 6
+      "evidence": [
+        "陈首执看向诸人，沉声道：「风廷执，你可回复那元夏来使，言我可答应暂时不动征伐，但需元夏给予偿补...」"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "向司议",
+      "aliases": [
+        "向司议"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 先和为后战",
+      "summary": "元夏司议，被三位大司议唤来询问对天夏条件的看法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被三位大司议唤来，分析天夏拖延意图。"
+        }
+      ],
+      "evidence": [
+        "向司议道：「天夏此举倒像是在拖延时间...」"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "万道人",
+      "aliases": [
+        "万道人"
+      ],
+      "identity": "元夏人物",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 先和为后战",
+      "summary": "元夏人物，认为此刻是攻击天夏的最好时机。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被三位大司议唤来，提出攻击天夏的建议。"
+        }
+      ],
+      "evidence": [
+        "万道人看出三人的意思，但是他并没有顺此附和，而是道：「万某认为，天夏不攻，应是在消化此回收获，此刻或许是攻击天夏最好的时机了...」"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "越司议",
+      "aliases": [
+        "越司议"
+      ],
+      "identity": "元夏大司议之一",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 先和为后战",
+      "summary": "元夏三位大司议之一，参与决策。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与全司议、过司议商议后，决定答应天夏条件。"
+        }
+      ],
+      "evidence": [
+        "全司议对越司议二人道：「还是让兰司议往天夏去一趟，说我们答应他们的条件。」越司议点头道：「便就如此。」"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "全司议",
+      "aliases": [
+        "全司议"
+      ],
+      "identity": "元夏大司议之一",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 先和为后战",
+      "summary": "元夏三位大司议之一，参与决策。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与越司议、过司议商议后，决定答应天夏条件。"
+        }
+      ],
+      "evidence": [
+        "全司议对越司议二人道：「还是让兰司议往天夏去一趟，说我们答应他们的条件。」"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "过司议",
+      "aliases": [
+        "过司议"
+      ],
+      "identity": "元夏大司议之一",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第两百二十一章 先和为后战",
+      "summary": "元夏三位大司议之一，参与决策。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与越司议、全司议商议，反对万道人的建议。"
+        }
+      ],
+      "evidence": [
+        "过司议道：「纵然天夏空虚，可未得此宝之前我们不能拿下，得了此宝我们便能拿下了不成？此言不必再提。」"
+      ],
+      "mention_count": 1
     }
   ]
 }

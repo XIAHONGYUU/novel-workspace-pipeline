@@ -1,0 +1,125 @@
+{
+  "chunk_id": "chunk-1347",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "尊者"
+      ],
+      "identity": "修行者，掌握元皇法门",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "核心人物，为长安诸僧施以灌顶，并复活季行舟。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "灌顶大法",
+        "元皇法门",
+        "轮回之肠"
+      ],
+      "equipment": [
+        "中天元皇无上诏旨经箓",
+        "元皇脸",
+        "泥皮",
+        "渺渺之发"
+      ],
+      "relationships": [
+        {
+          "target": "法智",
+          "type": "对话者"
+        },
+        {
+          "target": "季行舟",
+          "type": "复活并控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与法智约定三日后灌顶，随后复活季行舟并询问元皇之事。"
+        }
+      ],
+      "evidence": [
+        "苏午点点头。",
+        "苏午开口与季行舟说道。",
+        "苏午首先说道：“阁下尊‘元皇’为圣，不知阁下可曾亲眼见过‘元皇本形’？”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "法智",
+      "aliases": [],
+      "identity": "佛门僧人",
+      "faction": "佛门",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午对话，约定三日后在铁佛寺请苏午为长安诸僧灌顶。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午约定三日后在铁佛寺灌顶。"
+        }
+      ],
+      "evidence": [
+        "法智神色变幻良久，终于道：“三日之后，长安诸僧聚集于‘铁佛寺’中，请尊者为长安诸僧施以‘灌顶’大法！”",
+        "法智再向苏午躬身行礼，随后转身而去。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "季行舟",
+      "aliases": [],
+      "identity": "元皇法修行者，曾被囚于元皇庙",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被苏午从元皇庙中复活，成为苏午的影子，受轮回之肠控制。",
+      "appearance": [
+        "披散长发"
+      ],
+      "personality": [
+        "激动",
+        "顺从"
+      ],
+      "abilities": [
+        "不空境色法",
+        "元皇法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被复活并控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午复活，并接受轮回之肠控制。"
+        }
+      ],
+      "evidence": [
+        "季行舟闻言，神色顿时变得激动起来",
+        "季行舟披散在脑后的头发尽皆张开",
+        "季行舟低眉顺眼"
+      ],
+      "mention_count": 10
+    }
+  ]
+}

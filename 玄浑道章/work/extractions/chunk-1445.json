@@ -1,256 +1,433 @@
 {
   "chunk_id": "chunk-1445",
-  "title": "第二十三章 托身以载神",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "第二十三章 托身以载神    陈禹听得张御推举焦尧，问道：“张廷执为何选择此人",
+      "first_appearance": "",
+      "summary": "天夏廷执，主导对元夏使团事务，推荐焦尧为使，并祭炼外身。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "善于用人"
+      ],
+      "abilities": [],
+      "equipment": [
+        "外身"
+      ],
+      "relationships": [
+        {
+          "target": "焦尧",
+          "type": "推荐其为使"
+        },
+        {
+          "target": "陈禹",
+          "type": "下属"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        },
+        {
+          "target": "长孙迁",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月后",
+          "event": "在清玄道宫定坐修持，后应长孙迁之请前往易常道宫查验外身。"
+        },
+        {
+          "stage": "查验外身后",
+          "event": "回到清玄道宫，召见焦尧，说服其担任使节。"
+        }
+      ],
+      "evidence": [
+        "张御道：“此前我与尤道友一同将姜役招引入世后，问了他一些关于元夏之事”",
+        "张御道：“焦尧道友虽然十分着紧自己的性命……可真正把事压到他身上，他却俱能做成”",
+        "张御点了点头，道：“我相信焦道友能做好此事的。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "陈禹",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏首执，决策对元夏使团人选。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "决断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月前",
+          "event": "询问张御为何推举焦尧，并最终同意。"
+        }
+      ],
+      "evidence": [
+        "陈禹听得张御推举焦尧，问道：“张廷执为何选择此人？”",
+        "陈禹沉声道：“那便先如此定下，其余人手随后再是拟定”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "武倾墟",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，赞同张御推举焦尧。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二十三章 托身以载神    陈禹听得张御推举焦尧，问道：“张廷执为何选择此人",
-        "”    张御道：“此前我与尤道友一同将姜役招引入世后，问了他一些关于元夏之事，这人所知远比妘、烛两位道友来的多",
-        "”    张御道：“焦尧道友虽然十分着紧自己的性命，平日也是一直藏避躲事，不愿承担重责，可真正把事压到他身上，他却俱能做成，似这等只要他去和一些同类修道人打交道，探听事机之事，他足以胜任的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "陈禹",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 36
+      "timeline": [
+        {
+          "stage": "两月前",
+          "event": "表示焦尧合适一同前往元夏。"
+        }
+      ],
+      "evidence": [
+        "武倾墟道：“首执，若是如此，焦尧此人的确合适与我辈一同前往。”"
+      ],
+      "mention_count": 2
     },
     {
       "name": "焦尧",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "第二十三章 托身以载神    陈禹听得张御推举焦尧，问道：“张廷执为何选择此人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二十三章 托身以载神    陈禹听得张御推举焦尧，问道：“张廷执为何选择此人",
-        "而焦尧道友自身乃是真龙成就，他若与我同行，或能用他与此世有所沟通",
-        "”    陈禹道：“张廷执，焦尧可得胜任么"
+      "aliases": [
+        "焦道友"
       ],
-      "mention_count": 24
+      "identity": "真龙修士，摘取上乘功果的修道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真龙修士，被张御推荐为使节，起初推辞，后同意以化身前往。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "惜命",
+        "能做事"
+      ],
+      "abilities": [
+        "真龙成就"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被推荐为使"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月后",
+          "event": "被张御召见，对弈后同意担任使节。"
+        }
+      ],
+      "evidence": [
+        "焦尧道友虽然十分着紧自己的性命，平日也是一直藏避躲事，不愿承担重责，可真正把事压到他身上，他却俱能做成",
+        "焦尧知道这回逃不掉，只得道：“原来如此，焦某虽然能力浅薄，但既然玄廷看重，焦某也只有勉力为之了。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "焦某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "”    焦尧小心翼翼挪了上来，在张御对面坐定下来，道：“此也焦某闲暇时胡乱琢磨几下，实在称不上擅长",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    焦尧小心翼翼挪了上来，在张御对面坐定下来，道：“此也焦某闲暇时胡乱琢磨几下，实在称不上擅长",
-        "焦尧不知为何，忽然有些心慌，口中道：“是，那一驾飞舟停在虚空之中，焦某也是见到了",
-        "”    焦尧心里咯噔一下，硬着头皮道：“这个，焦某恐怕，不能胜任了"
+      "name": "长孙迁",
+      "aliases": [
+        "长孙廷执"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "焦道友",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "”    张御伸手一请，道：“听闻焦道友也擅棋技，不妨与我对弈一番",
+      "first_appearance": "",
+      "summary": "天夏廷执，负责打造外身。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御伸手一请，道：“听闻焦道友也擅棋技，不妨与我对弈一番",
-        "”    张御道：“无碍，御也不擅此事，正和焦道友可以有番切磋",
-        "”    张御语声随意道：“我天夏亦是要往元夏遣使，焦道友可是愿意担任使者么"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "长孙",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "陈禹沉声道：“那便先如此定下，其余人手随后再是拟定，此去为使，仍是要看长孙廷执那里能打造多少外身，待那里有具体消息之后再议",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈禹沉声道：“那便先如此定下，其余人手随后再是拟定，此去为使，仍是要看长孙廷执那里能打造多少外身，待那里有具体消息之后再议",
-        "这日他正定坐之际，明周道人在旁现身出来，道：“廷执，长孙廷执相请",
-        "长孙廷执此刻正站在道宫门前相迎，在外相互见礼过后，他将二人迎入内殿之中，并撤去了外间的阵势遮护"
+      "timeline": [
+        {
+          "stage": "两月后",
+          "event": "邀请张御和林廷执查验外身。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "这个时候他们是不会主动去出面干预的，反而很耐心的在等，而且他们心中也希望如此，试问若能只靠几句言语，几封回书，就能瓦解天夏上层，那又是何等省力之事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这个时候他们是不会主动去出面干预的，反而很耐心的在等，而且他们心中也希望如此，试问若能只靠几句言语，几封回书，就能瓦解天夏上层，那又是何等省力之事",
-        "事后论功，他们身为使者，也是有大功劳的",
-        "就算出问题，他们也不怕"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "长孙廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "陈禹沉声道：“那便先如此定下，其余人手随后再是拟定，此去为使，仍是要看长孙廷执那里能打造多少外身，待那里有具体消息之后再议",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈禹沉声道：“那便先如此定下，其余人手随后再是拟定，此去为使，仍是要看长孙廷执那里能打造多少外身，待那里有具体消息之后再议",
-        "这日他正定坐之际，明周道人在旁现身出来，道：“廷执，长孙廷执相请",
-        "长孙廷执此刻正站在道宫门前相迎，在外相互见礼过后，他将二人迎入内殿之中，并撤去了外间的阵势遮护"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "长孙廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "陈禹沉声道：“那便先如此定下，其余人手随后再是拟定，此去为使，仍是要看长孙廷执那里能打造多少外身，待那里有具体消息之后再议",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "陈禹沉声道：“那便先如此定下，其余人手随后再是拟定，此去为使，仍是要看长孙廷执那里能打造多少外身，待那里有具体消息之后再议",
-        "这日他正定坐之际，明周道人在旁现身出来，道：“廷执，长孙廷执相请",
-        "长孙廷执此刻正站在道宫门前相迎，在外相互见礼过后，他将二人迎入内殿之中，并撤去了外间的阵势遮护"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "焦道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "”    张御伸手一请，道：“听闻焦道友也擅棋技，不妨与我对弈一番",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御伸手一请，道：“听闻焦道友也擅棋技，不妨与我对弈一番",
-        "”    张御道：“无碍，御也不擅此事，正和焦道友可以有番切磋",
-        "”    张御语声随意道：“我天夏亦是要往元夏遣使，焦道友可是愿意担任使者么"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "张御道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "”    张御道：“此前我与尤道友一同将姜役招引入世后，问了他一些关于元夏之事，这人所知远比妘、烛两位道友来的多",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“此前我与尤道友一同将姜役招引入世后，问了他一些关于元夏之事，这人所知远比妘、烛两位道友来的多",
-        "”    张御道：“焦尧道友虽然十分着紧自己的性命，平日也是一直藏避躲事，不愿承担重责，可真正把事压到他身上，他却俱能做成，似这等只要他去和一些同类修道人打交道，探听事机之事，他足以胜任的",
-        "”    张御道：“请他入殿"
+        "长孙廷执此刻正站在道宫门前相迎",
+        "长孙迁这时道：“这外身与法器一般，起初与寄托之人并不相融，需要回去自行祭炼，才能相互合契。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "元夏",
+      "name": "林廷执",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "”    张御道：“此前我与尤道友一同将姜役招引入世后，问了他一些关于元夏之事，这人所知远比妘、烛两位道友来的多",
+      "first_appearance": "",
+      "summary": "天夏廷执，与张御一同查验外身。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“此前我与尤道友一同将姜役招引入世后，问了他一些关于元夏之事，这人所知远比妘、烛两位道友来的多",
-        "”    他顿了下，“据其言，在元夏三十三世道之中，有一家世道很是特殊，其中占据道法上层的乃是真龙，其次才是人身修道士",
-        "”    要是能从内部这条线与此元夏真龙牵上线，说不定能使元夏内部更生罅隙"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "长孙迁",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "两月后",
+          "event": "与张御一同前往易常道宫查验外身。"
+        }
+      ],
+      "evidence": [
+        "林廷执也是将一缕气意渡入其中，查验过后，点头道：“长孙廷执这所造代身并无问题。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "彼此",
+      "name": "慕倦安",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏使者",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元夏使者，耐心等待天夏回应。",
+      "appearance": [],
+      "personality": [
+        "耐心",
+        "善于推卸责任"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曲道人",
+          "type": "同僚"
+        },
+        {
+          "target": "寒臣",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月间",
+          "event": "与曲道人等待天夏回应，不主动干预。"
+        }
+      ],
+      "evidence": [
+        "慕倦安和曲道人也无有任何催促，反而愈发认定天夏因为元夏威慑，故是意见迟迟难以统一。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "曲道人",
+      "aliases": [],
+      "identity": "元夏使者",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元夏使者，与慕倦安一同等待。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "慕倦安",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月间",
+          "event": "与慕倦安等待天夏回应。"
+        }
+      ],
+      "evidence": [
+        "慕倦安和曲道人也无有任何催促"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "寒臣",
+      "aliases": [],
+      "identity": "元夏负责事机之人",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元夏具体负责事机者，将妘、烛两人消息报上去，并揽功。",
+      "appearance": [],
+      "personality": [
+        "功利",
+        "专注于修炼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "慕倦安",
+          "type": "下属"
+        },
+        {
+          "target": "曲道人",
+          "type": "下属"
+        },
+        {
+          "target": "妘、烛",
+          "type": "利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月间",
+          "event": "放手让妘、烛探问，将消息报上去。"
+        }
+      ],
+      "evidence": [
+        "而此刻具体负责事机的寒臣，在经过上次那拒之事就不管事了，彻底放手让妘、烛两人去探问，而后将两人得来的消息原封不动的报上去，并将之全数揽成自己的功劳。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "妘、烛",
+      "aliases": [
+        "妘道友",
+        "烛道友"
+      ],
+      "identity": "元夏探子",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元夏派出的探子，负责探听天夏消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寒臣",
+          "type": "被利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月间",
+          "event": "探听天夏消息并报给寒臣。"
+        }
+      ],
+      "evidence": [
+        "妘、烛两人去探问，而后将两人得来的消息原封不动的报上去"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "明周道人",
+      "aliases": [],
+      "identity": "张御身边的道人",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第二十三章 托身以载神",
-      "summary": "三十三世道并不是和睦抱团的，彼此也是有矛盾的，似这一世道，因是真龙修士处于强势之位，这就与其余人身修士为主流的世道有些格格不入，彼此还时有争执",
+      "first_appearance": "",
+      "summary": "张御身边的道人，负责传话。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "侍从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两月后",
+          "event": "现身告知张御长孙迁相请。"
+        },
+        {
+          "stage": "查验外身后",
+          "event": "被张御派去请焦尧。"
+        }
+      ],
+      "evidence": [
+        "明周道人在旁现身出来，道：“廷执，长孙廷执相请。”",
+        "同时吩咐明周道人道：“明周道友，劳烦你去将焦尧道友请来。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "神人值司",
+      "aliases": [],
+      "identity": "天夏值司",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "通报焦尧到来的值司。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "三十三世道并不是和睦抱团的，彼此也是有矛盾的，似这一世道，因是真龙修士处于强势之位，这就与其余人身修士为主流的世道有些格格不入，彼此还时有争执"
+      "timeline": [
+        {
+          "stage": "两月后",
+          "event": "通报焦尧已至。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "神人值司来报，道：“焦上尊已至。”"
+      ],
+      "mention_count": 1
     }
   ]
 }

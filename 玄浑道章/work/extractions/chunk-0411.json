@@ -1,258 +1,423 @@
 {
   "chunk_id": "chunk-0411",
-  "title": "第一百八十二章 壁垒",
   "characters": [
     {
+      "name": "何峻",
+      "aliases": [
+        "何师弟"
+      ],
+      "identity": "真修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百八十二章 壁垒",
+      "summary": "真修之一，与万明道人约定两月后斗战。",
+      "appearance": [],
+      "personality": [
+        "自信"
+      ],
+      "abilities": [
+        "神通可延续两月不败"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万明道人",
+          "type": "约定斗战"
+        },
+        {
+          "target": "关轩",
+          "type": "同门"
+        },
+        {
+          "target": "林道人",
+          "type": "同门"
+        },
+        {
+          "target": "楚道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "同意将斗战延后两月"
+        }
+      ],
+      "evidence": [
+        "何峻等人从荒原之中返回之后，却是听弟子来报，说是玄府那边的万明道人前来拜访。",
+        "何峻虽然更希望在近日斗战，及早拿回本该属于他们的东西，不过稍延片刻也没什么妨碍。",
+        "他之神通莫说延续两月时日，便是持续经年也没问题，只是在此期间不能有一场败战罢了"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "万明道人",
+      "aliases": [
+        "万明"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百八十二章 壁垒",
+      "summary": "奉张御之命与何峻等人约定斗战日期。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "何峻",
+          "type": "约定斗战"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜访何峻等人，传达张御之意"
+        }
+      ],
+      "evidence": [
+        "万明道人走了进来，看了众人一眼，抬手一礼，言道：“我奉玄正之命而来”",
+        "万明道人离开之后，便回了驻地向张御复命"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "关轩",
+      "aliases": [],
+      "identity": "真修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百八十二章 壁垒",
+      "summary": "真修之一，对延期斗战表示不满。",
+      "appearance": [],
+      "personality": [
+        "急躁"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "何峻",
+          "type": "同门"
+        },
+        {
+          "target": "林道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "质疑延期决定"
+        }
+      ],
+      "evidence": [
+        "关轩不满道：“那也拖得太久了。”",
+        "关轩却是道：“诸位师兄为何应他？谁知道两月过后他们又会不会拿什么借口来推三阻四”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "林道人",
+      "aliases": [],
+      "identity": "真修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百八十二章 壁垒",
+      "summary": "真修中功行最高、年岁最长者，主张缓和态度。",
+      "appearance": [],
+      "personality": [
+        "圆滑",
+        "稳重"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "何峻",
+          "type": "同门"
+        },
+        {
+          "target": "关轩",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "打圆场，同意延期"
+        }
+      ],
+      "evidence": [
+        "林道人打圆场道：“如此也好，而今正在征伐霜洲之中，无论谁受损伤都是不妥”",
+        "他在这里年岁最长，功行最高"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "楚道人",
+      "aliases": [],
+      "identity": "真修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百八十二章 壁垒",
+      "summary": "真修之一，沉默寡言。",
+      "appearance": [],
+      "personality": [
+        "沉默"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "何峻",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "站在一边没有说话"
+        }
+      ],
+      "evidence": [
+        "楚道人则是一直没有说话，站在一边不知在想着什么。"
+      ],
+      "mention_count": 1
+    },
+    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百八十二章 壁垒",
-      "summary": "万明道人离开之后，便回了驻地向张御复命，说是已是同意把斗战之日定在两月之后",
+      "summary": "玄府领袖，率修士前往密州前沿壁垒。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "万明道人离开之后，便回了驻地向张御复命，说是已是同意把斗战之日定在两月之后",
-        "张御一点头，对站在一旁的曹方定道：“曹道友，你这些时日尽可能盯着此辈，我猜测此事背后另有文章，若有异动，你速来报知我",
-        "”    张御让两人离去后，他自己坐下调息，过了一日后，他便按照与曹度定下的计议，让万明道人带着一部分修士留在此地，自己则带领大部分修驾驭遁光离开了大舰队，往位于西北方向的密州前沿壁垒而来"
+      "relationships": [
+        {
+          "target": "万明道人",
+          "type": "下属"
+        },
+        {
+          "target": "曹方定",
+          "type": "下属"
+        },
+        {
+          "target": "曹度",
+          "type": "合作"
+        },
+        {
+          "target": "池渠",
+          "type": "相识"
+        },
+        {
+          "target": "时悦",
+          "type": "下属"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "派万明道人传话，后率修士前往密州前沿壁垒"
+        }
+      ],
+      "evidence": [
+        "张御一点头，对站在一旁的曹方定道：“曹道友，你这些时日尽可能盯着此辈”",
+        "张御让两人离去后，他自己坐下调息，过了一日后，他便按照与曹度定下的计议，让万明道人带着一部分修士留在此地，自己则带领大部分修驾驭遁光离开了大舰队"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "曹方定",
+      "aliases": [
+        "曹道友"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百八十二章 壁垒",
-      "summary": "”    池军候哈哈一笑，道：“我就知道将军还记得老池我，张玄正，我们也别在外面说话了，诸位还是先到军垒中来为好，现在独州那边每日都来袭扰我等，不知道什么时候对面的玄兵的就落下来了",
+      "summary": "受张御之命监视何峻等人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    池军候哈哈一笑，道：“我就知道将军还记得老池我，张玄正，我们也别在外面说话了，诸位还是先到军垒中来为好，现在独州那边每日都来袭扰我等，不知道什么时候对面的玄兵的就落下来了",
-        "池军候道：“现在大军还未曾到来，我们驻守在这里的人只能依靠这些从后方赶来的造物守御和干扰对面的斗战飞舟了，休看眼下这么多尸骸，稍候玄兵一落，一切俱化尘埃，倒也无需清理了",
-        "堂中一名霜洲参事此时言道：“将军，我们的舰队出去后就遭遇到了修士阻截，不过短短半个夏时的时间，我们就损失四十余驾斗战飞舟，这样的折损我们可经不起多少次"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受监视任务"
+        }
+      ],
+      "evidence": [
+        "张御一点头，对站在一旁的曹方定道：“曹道友，你这些时日尽可能盯着此辈”",
+        "曹方定一揖，郑重道：“曹某会尽量小心。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "池军候",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "池渠",
+      "aliases": [
+        "池军候",
+        "老池"
+      ],
+      "identity": "军候",
+      "faction": "青阳军方",
       "status": "登场",
       "first_appearance": "第一百八十二章 壁垒",
-      "summary": "”    张御还有一礼，道：“原来尊驾就是池军候，曹将军和我说起过你",
+      "summary": "密州前沿壁垒的军候，性格直率。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "暴躁",
+        "豪爽"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御还有一礼，道：“原来尊驾就是池军候，曹将军和我说起过你",
-        "”    池军候哈哈一笑，道：“我就知道将军还记得老池我，张玄正，我们也别在外面说话了，诸位还是先到军垒中来为好，现在独州那边每日都来袭扰我等，不知道什么时候对面的玄兵的就落下来了",
-        "池军候道：“现在大军还未曾到来，我们驻守在这里的人只能依靠这些从后方赶来的造物守御和干扰对面的斗战飞舟了，休看眼下这么多尸骸，稍候玄兵一落，一切俱化尘埃，倒也无需清理了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "相识"
+        },
+        {
+          "target": "曹度",
+          "type": "旧识"
+        },
+        {
+          "target": "从副",
+          "type": "下属"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接张御等人，抱怨两府"
+        }
+      ],
+      "evidence": [
+        "池军候哈哈一笑，道：“我就知道将军还记得老池我”",
+        "池军候还在那里骂骂咧咧，把两府诸人骂了一个遍"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "池军",
+      "name": "时悦",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百八十二章 壁垒",
-      "summary": "”    张御还有一礼，道：“原来尊驾就是池军候，曹将军和我说起过你",
+      "summary": "张御的随行修士，负责安排守御。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御还有一礼，道：“原来尊驾就是池军候，曹将军和我说起过你",
-        "”    池军候哈哈一笑，道：“我就知道将军还记得老池我，张玄正，我们也别在外面说话了，诸位还是先到军垒中来为好，现在独州那边每日都来袭扰我等，不知道什么时候对面的玄兵的就落下来了",
-        "池军候道：“现在大军还未曾到来，我们驻守在这里的人只能依靠这些从后方赶来的造物守御和干扰对面的斗战飞舟了，休看眼下这么多尸骸，稍候玄兵一落，一切俱化尘埃，倒也无需清理了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 11
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "按张御吩咐安排修士守御"
+        }
+      ],
+      "evidence": [
+        "张御对着时悦吩咐了一下，后者一点头，过了去片刻，所有随他到此的四章修士俱是分开"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "齐礼",
+      "aliases": [
+        "将军"
+      ],
+      "identity": "独州将军",
+      "faction": "霜洲",
+      "status": "登场",
+      "first_appearance": "第一百八十二章 壁垒",
+      "summary": "霜洲独州将军，负责军务，得右辅国支持。",
+      "appearance": [],
+      "personality": [
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "右辅国",
+          "type": "支持者"
+        },
+        {
+          "target": "从副",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "决定放出辟国神蛟以对抗修士"
+        }
+      ],
+      "evidence": [
+        "而今负责具体军务的，是独州将军齐礼。",
+        "齐礼却是摇头道：“若是让那些修士挡在那里，我们的斗战飞舟对青阳军垒就毫无威胁了”"
+      ],
+      "mention_count": 4
     },
     {
       "name": "从副",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "齐礼的从副",
+      "faction": "霜洲",
       "status": "登场",
       "first_appearance": "第一百八十二章 壁垒",
-      "summary": "”    从副道：“军候，这总比拿士卒上前填来的好",
+      "summary": "齐礼的副手，对放出神蛟有疑虑。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    从副道：“军候，这总比拿士卒上前填来的好",
-        "从副不由得拉了他一下，他嚷道：“拉我干嘛",
-        "”    从副很无奈，池军候资格很老，按理说早该提校尉了，即便不是实权统军的，军阶也该提上去了，可就是因为这张破嘴，老是得罪人，所以这么多年了只能做个军候"
+      "relationships": [
+        {
+          "target": "齐礼",
+          "type": "下属"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "过了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十二章 壁垒",
-      "summary": "”    林道人摇头道：“不可如此说，之前直接上门索讨那些收缴已是有些过了，眼下若是再要坚持，那就显得我辈咄咄逼人了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    林道人摇头道：“不可如此说，之前直接上门索讨那些收缴已是有些过了，眼下若是再要坚持，那就显得我辈咄咄逼人了",
-        "”    张御让两人离去后，他自己坐下调息，过了一日后，他便按照与曹度定下的计议，让万明道人带着一部分修士留在此地，自己则带领大部分修驾驭遁光离开了大舰队，往位于西北方向的密州前沿壁垒而来",
-        "过了许久，便见一处地下军垒之中飞出几名披甲军士，其中一人隔远看了看，最后来至张御面前，对他一抱拳道：“是张玄正吧"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提出反对意见"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "老子",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十二章 壁垒",
-      "summary": "虽然这些都是造物，可都是钱啊，每日这么大耗费，老子看着都心疼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "虽然这些都是造物，可都是钱啊，每日这么大耗费，老子看着都心疼",
-        "”    池军候道：“道理是没错，可偌大一个霜洲，地界和人口至少也可比拟洲内六七州之地了，却告诉老子说以往数十年居然未曾发觉这处地界，堂上诸公都是吃干饭的么",
-        "我告诉你，老子我今天就是要说，两府之中有奸贼"
+        "齐礼的从副这时出声道：“现在抱怨这些有什么用？将军要的是你们解决眼前的问题。”",
+        "从副皱眉道：“那神蛟用来拿来对付随后的青阳舰队的……”"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十二章 壁垒",
-      "summary": "他之神通莫说延续两月时日，便是持续经年也没问题，只是在此期间不能有一场败战罢了，不然先前获得的优势都会消散的干干净净",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他之神通莫说延续两月时日，便是持续经年也没问题，只是在此期间不能有一场败战罢了，不然先前获得的优势都会消散的干干净净",
-        "只是你需小心，这些真修修剑，自身感应十分敏锐，你无需盯得太紧，只要留神是否与可疑之辈有所接触便好",
-        "只是因为畏惧青阳方面可能埋伏在后的舰队，所以他们每次都不敢太过深入，也不敢停留在外多久，投掷下玄兵后立刻就会转回"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "诸位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十二章 壁垒",
-      "summary": "万明道人走了进来，看了众人一眼，抬手一礼，言道：“我奉玄正之命而来，近几日玄正需率我辈去往前独州前沿，且此刻是战时，故是斗战之事，需得压后，待攻下霜洲之后，再与诸位印证",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "万明道人走了进来，看了众人一眼，抬手一礼，言道：“我奉玄正之命而来，近几日玄正需率我辈去往前独州前沿，且此刻是战时，故是斗战之事，需得压后，待攻下霜洲之后，再与诸位印证",
-        "”    万明道人看向他，道：“再长也不过两月时日罢了，诸位不会连这两月时间也等不了吧",
-        "关轩却是道：“诸位师兄为何应他"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "可以",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十二章 壁垒",
-      "summary": "不过半日飞遁，就视线之中就出现了一片满目疮痍的大地，可以看得出来，这是玄兵反复轰爆的结果",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过半日飞遁，就视线之中就出现了一片满目疮痍的大地，可以看得出来，这是玄兵反复轰爆的结果",
-        "站于此间可以看到，远远有几道弧形的白色壁垒，再往后去还有更多",
-        "池军候还在那里骂骂咧咧，把两府诸人骂了一个遍，就在这时，忽见对面护垒之中浮起一点点白光，可以看见，那是一艘艘腹下绘有霜花的飞舟，望去足有百余艘之多"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "齐礼",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十二章 壁垒",
-      "summary": "而今负责具体军务的，是独州将军齐礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而今负责具体军务的，是独州将军齐礼",
-        "”    齐礼道：“你的建议是什么",
-        "”    齐礼的从副这时出声道：“现在抱怨这些有什么用"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "万明",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百八十二章 壁垒",
-      "summary": "第一百八十二章 壁垒    何峻等人从荒原之中返回之后，却是听弟子来报，说是玄府那边的万明道人前来拜访",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百八十二章 壁垒    何峻等人从荒原之中返回之后，却是听弟子来报，说是玄府那边的万明道人前来拜访",
-        "万明道人走了进来，看了众人一眼，抬手一礼，言道：“我奉玄正之命而来，近几日玄正需率我辈去往前独州前沿，且此刻是战时，故是斗战之事，需得压后，待攻下霜洲之后，再与诸位印证",
-        "”    万明道人看向他，道：“再长也不过两月时日罢了，诸位不会连这两月时间也等不了吧"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

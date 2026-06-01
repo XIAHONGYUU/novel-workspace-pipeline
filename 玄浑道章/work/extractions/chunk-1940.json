@@ -1,257 +1,326 @@
 {
   "chunk_id": "chunk-1940",
-  "title": "第五百零七章 问算审功疑",
   "characters": [
     {
-      "name": "辛道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张上真"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "辛道人在一旁，见诸司议对他态度冷淡了许多，几乎无人来与他言语，知是自己认输保全了性命，卞司议却是败亡了，这使得两殿之人对自己很是看不惯",
+      "first_appearance": "",
+      "summary": "天夏主力修士，与正清道人一同归来，后进入训天道章与卞司议照影交流。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "辛道人在一旁，见诸司议对他态度冷淡了许多，几乎无人来与他言语，知是自己认输保全了性命，卞司议却是败亡了，这使得两殿之人对自己很是看不惯",
-        "”    辛道人点点头，随手给出一瓶丹丸，便就走了进去，并在帷幕之前落座下来，执有一礼，道：“穆司议，有礼了",
-        "”    辛道人道：“我今日来不是来问什么为难之事，而只是有一些个人修行上的疑难，我有些不解，想请穆司议解疑"
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "同阵营"
+        },
+        {
+          "target": "卞司议",
+          "type": "敌对后被斩杀"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回到主舟，进入训天道章参悟功行。"
+        }
+      ],
+      "evidence": [
+        "张御回到了主舟之上后不久",
+        "张御点点头，这些照影用不着他去刻意驾驭"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "穆司议",
+      "name": "正清道人",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏修士",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
+      "first_appearance": "",
+      "summary": "天夏主力修士，与张御一同归来，与辛道人交手后引发辛道人的疑虑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        },
+        {
+          "target": "辛道人",
+          "type": "敌对交手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同归来，与辛道人论道交手。"
+        }
+      ],
+      "evidence": [
+        "张御和正清道人二人胜战",
+        "正清道人从天夏那里得到了什么帮衬"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏主舟指挥",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏主舟中的指挥者，下令防备元夏。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传声令诸人防备元夏。"
+        }
+      ],
       "evidence": [
-        "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
-        "他没有去仇司议那里，而先是朝着穆司驻殿走来，对门外弟子道了一声，道：“我欲见一见穆司议，有几个疑难想要请教，不知穆司议可是方便见辛某",
-        "”    那弟子回道：“穆司议在，还请辛上真请入内"
+        "武廷执待得张御和正清道人两人顺利归来，便向着诸人传声道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "全司议",
+      "aliases": [],
+      "identity": "元夏两殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏两殿司议之一，与过司议商议攻势。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "过司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与过司议商议是否继续攻势。"
+        }
+      ],
+      "evidence": [
+        "全司议看着对面天夏铺陈开来的灵光，道：“如今局势僵持，是否……”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "过司议",
+      "aliases": [],
+      "identity": "元夏两殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏两殿司议之一，主张继续进攻。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "全司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回应全司议，主张再攻一次。"
+        }
+      ],
+      "evidence": [
+        "过司议沉声道：“现在还不到时候，且再攻上一次，不能让天夏这般从容。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "辛道人",
+      "aliases": [
+        "辛上真"
+      ],
+      "identity": "元夏修士",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏修士，与正清道人交手后心生疑虑，先后拜访穆司议和仇司议寻求解答。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "不愿冒险"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "敌对交手"
+        },
+        {
+          "target": "穆司议",
+          "type": "咨询"
+        },
+        {
+          "target": "仇司议",
+          "type": "咨询"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与正清道人交手后，因心有所感而拜访穆司议和仇司议。"
+        }
+      ],
+      "evidence": [
+        "辛道人见诸司议对他态度冷淡了许多",
+        "辛道人道：“我方才忽然心有所感，觉得自身似有不妥”"
       ],
       "mention_count": 12
     },
     {
-      "name": "辛道",
+      "name": "卞司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "辛道人在一旁，见诸司议对他态度冷淡了许多，几乎无人来与他言语，知是自己认输保全了性命，卞司议却是败亡了，这使得两殿之人对自己很是看不惯",
+      "identity": "元夏两殿司议（已败亡）",
+      "faction": "元夏",
+      "status": "已败亡",
+      "first_appearance": "",
+      "summary": "元夏司议，被张御斩杀，但其照影出现在训天道章中，且身影恍惚不定，似有一丝生机。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "辛道人在一旁，见诸司议对他态度冷淡了许多，几乎无人来与他言语，知是自己认输保全了性命，卞司议却是败亡了，这使得两殿之人对自己很是看不惯",
-        "”    辛道人点点头，随手给出一瓶丹丸，便就走了进去，并在帷幕之前落座下来，执有一礼，道：“穆司议，有礼了",
-        "”    辛道人道：“我今日来不是来问什么为难之事，而只是有一些个人修行上的疑难，我有些不解，想请穆司议解疑"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被斩杀"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御斩杀，照影出现在训天道章中。"
+        }
+      ],
+      "evidence": [
+        "正是那方才败亡未久的卞司议",
+        "却见他的身影恍惚不定，这等情况很少见，意味着似还有一丝生机在"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "张御",
+      "name": "穆司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏两殿司议，擅长推算",
+      "faction": "元夏",
       "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "第五百零七章 问算审功疑    天夏主舟之中，武廷执待得张御和正清道人两人顺利归来，便向着诸人传声道：“诸位，需防备元夏再度来袭，不可稍有松懈",
+      "first_appearance": "",
+      "summary": "元夏司议，擅长推算，但不愿直接回答辛道人的问题。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第五百零七章 问算审功疑    天夏主舟之中，武廷执待得张御和正清道人两人顺利归来，便向着诸人传声道：“诸位，需防备元夏再度来袭，不可稍有松懈",
-        "他们所有人清楚的很，元夏方面此次邀战的目的，不外乎就是看到张御、正清道人二人乃是他们这里的主力，所以想要将之清除",
-        "此前对阵元夏，几乎都没怎么吃亏，张御和正清道人二人胜战，更是振奋鼓舞了下方众弟子"
+      "personality": [
+        "谨慎"
       ],
-      "mention_count": 8
+      "abilities": [
+        "推算"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "辛道人",
+          "type": "被咨询"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "辛道人前来咨询，但穆司议表示不能说。"
+        }
+      ],
+      "evidence": [
+        "穆司议缓缓道：“穆某能见，但穆某不能说。”"
+      ],
+      "mention_count": 4
     },
     {
       "name": "仇司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏两殿司议，擅长推算",
+      "faction": "元夏",
       "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
+      "first_appearance": "",
+      "summary": "元夏司议，擅长推算，愿意为辛道人指点迷津，但要求回报。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
-        "他没有去仇司议那里，而先是朝着穆司驻殿走来，对门外弟子道了一声，道：“我欲见一见穆司议，有几个疑难想要请教，不知穆司议可是方便见辛某",
-        "他又往仇司议这边过来"
+      "personality": [
+        "精明"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "穆司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
-        "他没有去仇司议那里，而先是朝着穆司驻殿走来，对门外弟子道了一声，道：“我欲见一见穆司议，有几个疑难想要请教，不知穆司议可是方便见辛某",
-        "”    那弟子回道：“穆司议在，还请辛上真请入内"
+      "abilities": [
+        "推算"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他心",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "”    辛道人眼神动了动，都是修道人，有些话说得不必太明白，得此一点醒，他心中已是有数了，也知道该是如何解决了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    辛道人眼神动了动，都是修道人，有些话说得不必太明白，得此一点醒，他心中已是有数了，也知道该是如何解决了",
-        "到了外面，他心中寻思着，仇司议方才提醒了他，他乃是因为见到了正清道人，才是出现了这等事，也就是说，只要复盘一下当时所见情况，或者所说之言语，当就能再度发现这里的端倪",
-        "在盘算了许久后，他心中便有了一个计较了"
+      "relationships": [
+        {
+          "target": "辛道人",
+          "type": "被咨询"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "可是他并没有与人拼命的心思，他想求的稳妥的胜利，而不是冒险搏命，不然他先前费什么那功夫干什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是他并没有与人拼命的心思，他想求的稳妥的胜利，而不是冒险搏命，不然他先前费什么那功夫干什么",
-        "可是没有发现，才是最大的问题",
-        "他没有去仇司议那里，而先是朝着穆司驻殿走来，对门外弟子道了一声，道：“我欲见一见穆司议，有几个疑难想要请教，不知穆司议可是方便见辛某"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "辛道人前来咨询，仇司议给出提示。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "仇司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "而这里正好有两位擅长推算之人，一位乃是之前给他们建言的仇司议，还一位乃是那位语焉不详的穆司议",
-        "他没有去仇司议那里，而先是朝着穆司驻殿走来，对门外弟子道了一声，道：“我欲见一见穆司议，有几个疑难想要请教，不知穆司议可是方便见辛某",
-        "他又往仇司议这边过来"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "他想",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "可是他并没有与人拼命的心思，他想求的稳妥的胜利，而不是冒险搏命，不然他先前费什么那功夫干什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是他并没有与人拼命的心思，他想求的稳妥的胜利，而不是冒险搏命，不然他先前费什么那功夫干什么",
-        "他想了想，虽然观望到的景象前后出现了差异，可也不见得是算计失错，因为很可能是正清道人从天夏那里得到了什么帮衬",
-        "“不过也不是没有方法进行验证……”    他想了想，往后殿走去"
+        "仇司议倒不似穆司议那般谨慎，上下看了看他，直接言道",
+        "仇司议可以给一个回言，此事上真可去寻当时之人"
       ],
       "mention_count": 5
     },
     {
-      "name": "他又",
+      "name": "盛筝",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏修士",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "不过想到这里，他又皱了皱眉，感觉自己好像忽略了什么",
+      "first_appearance": "",
+      "summary": "天夏修士，在训天道章中与张御对话。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过想到这里，他又皱了皱眉，感觉自己好像忽略了什么",
-        "他又往仇司议这边过来"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "到了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第五百零七章 问算审功疑",
-      "summary": "他想了想，虽然观望到的景象前后出现了差异，可也不见得是算计失错，因为很可能是正清道人从天夏那里得到了什么帮衬",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他想了想，虽然观望到的景象前后出现了差异，可也不见得是算计失错，因为很可能是正清道人从天夏那里得到了什么帮衬",
-        "到了外间，他神情微沉，不能说，那就是的确有问题了，而且这问题还牵扯很大，所以不愿冒着风向说出来",
-        "到了外面，他心中寻思着，仇司议方才提醒了他，他乃是因为见到了正清道人，才是出现了这等事，也就是说，只要复盘一下当时所见情况，或者所说之言语，当就能再度发现这里的端倪"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在训天道章中与张御交谈。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "盛筝在旁边看着，道：“我早便说过，卞司议会是与我们站到一处的。”"
+      ],
+      "mention_count": 1
     }
   ]
 }

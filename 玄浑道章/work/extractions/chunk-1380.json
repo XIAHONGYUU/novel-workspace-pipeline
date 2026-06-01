@@ -1,257 +1,406 @@
 {
   "chunk_id": "chunk-1380",
-  "title": "第两百八十一章 诸法俱有渡",
   "characters": [
     {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
-        "张御对邓景之言表示赞同之后，风道人随后立刻跟上",
-        "随后他转向张御，道：“张廷执，你那边如何了"
-      ],
-      "mention_count": 9
-    },
-    {
       "name": "陈禹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
+      "summary": "天夏首执，主持玄廷议事，行事风格直接，负责备战事宜。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "直接"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
-        "陈禹拟定此事，便又开始商议余下事机，其总体方向，都是落在备战之上，并令诸廷执督促各方，尽快调整，以应变机",
-        "众廷执经过两次廷执，也是知晓陈禹的行事风格了，其与庄首执不同，不是容得诸人提议，而后再引导调和"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "廷执"
+        },
+        {
+          "target": "武倾墟",
+          "type": "廷执"
+        },
+        {
+          "target": "邓景",
+          "type": "廷执"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主持玄廷议事，布置备战任务。"
+        }
+      ],
+      "evidence": [
+        "陈禹见邓景先询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视。”",
+        "陈禹拟定此事，便又开始商议余下事机，其总体方向，都是落在备战之上",
+        "陈禹道：“张廷执、武廷执还有邓廷执三位暂请留步，其余诸位廷执先行回返吧。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执，执掌守正宫权柄",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "可是首执所表现出来的对这位重视明显还在这个界限之上，这里应该另有原因",
+      "summary": "天夏廷执，负责追查旧派下落，并将在后续战斗中上阵。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是首执所表现出来的对这位重视明显还在这个界限之上，这里应该另有原因",
-        "上宸、寰阳、神昭诸派虽然被重挫，可是门中主要人物和镇道之宝仍是存在，若是真的找到了，要剿灭干净也是需天夏尽力而为的",
-        "可是她自己想不到，也不知她是真的找到了道法之间的共通点，还是她本就适合这法门，居然在法门之上进展极快，特因为她成绩斐然，故是宗派决定推举她去天外六派修习更高深的道法"
+      "personality": [
+        "谨慎",
+        "认真"
       ],
-      "mention_count": 6
+      "abilities": [],
+      "equipment": [
+        "牌符"
+      ],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执与廷执"
+        },
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        },
+        {
+          "target": "邓景",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向陈禹汇报追查进展，预计两月内给出答复。"
+        }
+      ],
+      "evidence": [
+        "张御回道：“正在追查之中，已是有了些许线索”",
+        "张御和武倾墟郑重应下。",
+        "张御离了光气长河，回了清玄道宫"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "岳萝",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "邓景",
+      "aliases": [
+        "邓廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "岳萝正在一座舱室之内认真翻阅着宗派给予她的秘法道册",
+      "summary": "天夏廷执，被委任督促真修诸事，擅长管束修道人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "有把握"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "岳萝正在一座舱室之内认真翻阅着宗派给予她的秘法道册",
-        "”    岳萝看到，虽然这女子表现的很关心自己，可是她能看到对方眼神后面有着一丝隐藏的很好的嫉妒和得意，方才并不是什么巧合，而是故意来打乱她的“感悟”",
-        "”    岳萝看着她匆匆离去，轻哼一声，正要再翻道册，训天道章之中传来一声唤，她怔了下，惊喜道：“老师，你出关了"
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执与廷执"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "张廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
-        "待诸事议毕，陈禹道：“张廷执、武廷执还有邓廷执三位暂请留步，其余诸位廷执先行回返吧",
-        "随后他转向张御，道：“张廷执，你那边如何了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中赞同张御意见，并接受督促真修的任务。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视。”",
+        "邓景到上层这些天后虽然没有去拜访谁人，可也不是对什么东西都不知道",
+        "他道：“邓某既然在廷上说了，自不会有负玄廷之重托。”"
+      ],
+      "mention_count": 8
     },
     {
       "name": "武倾墟",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "”    武倾墟的神情也都是严肃起来",
+      "summary": "天夏廷执，负责与长孙廷执沟通寄物之事。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "陈禹",
+          "type": "首执与廷执"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "长孙迁",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向陈禹汇报长孙廷执的寄物研究进展。"
+        }
+      ],
       "evidence": [
-        "”    武倾墟的神情也都是严肃起来",
-        "”    武倾墟道：“是，长孙廷执仍在尽力探研",
-        "武倾墟道：“如今已有一些即将寿尽的修道人愿意用此寄物，若能突破，又有修道之望，不过便是不成功，也不会危害其性命，”    张御思忖了一下，道：“不知此事需用多少时日"
+        "武倾墟道：“是，长孙廷执仍在尽力探研。”",
+        "武倾墟道：“武某已是问过了，长孙廷执回应，在这两月之中便可有一个大致的结论。”"
       ],
       "mention_count": 5
     },
     {
-      "name": "并且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "其余廷执见勇于邓景任事，并且言诺必能做成事机，自也没有反对的意思，故是此议很快便定了下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其余廷执见勇于邓景任事，并且言诺必能做成事机，自也没有反对的意思，故是此议很快便定了下来",
-        "他到底也是随着天夏渡来此世，并且经历诸多风浪之人，心中明白天夏可能又有危机将至，玄廷这是在为此做着准备",
-        "那么这一战作为执掌守正宫权柄，并且负责此事的廷执，他是一定会上阵的"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "故是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "其余廷执见勇于邓景任事，并且言诺必能做成事机，自也没有反对的意思，故是此议很快便定了下来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其余廷执见勇于邓景任事，并且言诺必能做成事机，自也没有反对的意思，故是此议很快便定了下来",
-        "故而还有一个可能，”顿了下，“外敌之势，可能已是超脱我辈之能为，故是难以定算",
-        "可是她自己想不到，也不知她是真的找到了道法之间的共通点，还是她本就适合这法门，居然在法门之上进展极快，特因为她成绩斐然，故是宗派决定推举她去天外六派修习更高深的道法"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "特别是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "不过这也是因为陈禹此前表露出来的消息，令诸廷执知晓天夏局势可能会又有变动，特别是上宸、寰阳等派若是寻到，免不得又是一场大战，所以愿意配合",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过这也是因为陈禹此前表露出来的消息，令诸廷执知晓天夏局势可能会又有变动，特别是上宸、寰阳等派若是寻到，免不得又是一场大战，所以愿意配合",
-        "不过他明白，若是在战时，特别是面对极是很难战胜的敌人时，一切有用的东西都要用上，一切潜力都要压榨出来，因为若是失败，那将什么东西都不会剩下"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "张廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百八十一章 诸法俱有渡    邓景见陈禹先是询问张御的意见，不由暗道：“看来陈禹对张廷执尤为重视",
-        "待诸事议毕，陈禹道：“张廷执、武廷执还有邓廷执三位暂请留步，其余诸位廷执先行回返吧",
-        "随后他转向张御，道：“张廷执，你那边如何了"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "钟廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "钟廷执、崇廷执二人离席之后，行在一处，后者言道：“这几日钟道兄可曾算出什么来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "钟廷执、崇廷执二人离席之后，行在一处，后者言道：“这几日钟道兄可曾算出什么来",
-        "”    钟廷执沉吟片刻，道：“钟某几日推算下来，天机如常，虽有险兆，却能被大势抚平，实在看不出有何危及我天夏之事",
-        "”    钟廷执神情凝重道：“首执不会无缘无故行此紧迫事宜，看来这次所要面对之敌，是以为从未见过的"
-      ],
-      "mention_count": 4
-    },
-    {
       "name": "钟廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "钟道兄"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第两百八十一章 诸法俱有渡",
-      "summary": "钟廷执、崇廷执二人离席之后，行在一处，后者言道：“这几日钟道兄可曾算出什么来",
+      "summary": "天夏廷执，擅长推算天机。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "推算天机"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与崇廷执讨论天机推算结果。"
+        }
+      ],
+      "evidence": [
+        "钟廷执沉吟片刻，道：“钟某几日推算下来，天机如常”",
+        "钟廷执神情凝重道：“首执不会无缘无故行此紧迫事宜”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [
+        "崇某"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百八十一章 诸法俱有渡",
+      "summary": "天夏廷执，与钟廷执一同推算天机。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与钟廷执讨论天机推算结果。"
+        }
+      ],
+      "evidence": [
+        "崇廷执道：“崇某这里亦无收获。”",
+        "崇廷执沉声道：“就算是上宸天搅乱天机，也是有迹可寻的”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "岳萝",
+      "aliases": [
+        "岳师妹"
+      ],
+      "identity": "天夏修道人，俞瑞卿的弟子",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百八十一章 诸法俱有渡",
+      "summary": "天夏修道人，在道化之世中修炼，因成绩斐然被推举去天外六派修习更高深道法。",
+      "appearance": [],
+      "personality": [
+        "机敏",
+        "坚韧"
+      ],
+      "abilities": [
+        "修炼进展快"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "俞瑞卿",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟中翻阅道册，被师姐打断感悟，后收到老师传讯。"
+        }
+      ],
+      "evidence": [
+        "岳萝正在一座舱室之内认真翻阅着宗派给予她的秘法道册。",
+        "她感觉很神奇，人还是那个人，可是一旦放开心绪，却是能够做到自己之前完全想象不到的事",
+        "训天道章之中传来一声唤，她怔了下，惊喜道：“老师，你出关了？”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "俞瑞卿",
+      "aliases": [
+        "老师"
+      ],
+      "identity": "岳萝的老师",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第两百八十一章 诸法俱有渡",
+      "summary": "岳萝的老师，曾建议岳萝尝试多种修行功法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岳萝",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出关并联系岳萝。"
+        }
+      ],
+      "evidence": [
+        "这与她老师的俞瑞卿曾经的一番话有关",
+        "训天道章之中传来一声唤，她怔了下，惊喜道：“老师，你出关了？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "美貌女子",
+      "aliases": [
+        "师姐"
+      ],
+      "identity": "岳萝的同门师姐",
+      "faction": "未知门派",
+      "status": "登场",
+      "first_appearance": "第两百八十一章 诸法俱有渡",
+      "summary": "岳萝的师姐，对岳萝心怀嫉妒，故意打断其感悟。",
+      "appearance": [
+        "美貌"
+      ],
+      "personality": [
+        "嫉妒",
+        "虚伪"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岳萝",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "打断岳萝的感悟，被岳萝识破。"
+        }
+      ],
+      "evidence": [
+        "一个美貌女子好似关切的看着她，道：“岳师妹，你没事吧？”",
+        "她能看到对方眼神后面有着一丝隐藏的很好的嫉妒和得意"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "长孙迁",
+      "aliases": [
+        "长孙廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第两百八十一章 诸法俱有渡",
+      "summary": "天夏廷执，负责利用神异生灵寄托入修道人身躯的研究。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进行寄物研究，预计两月内得出大致结论。"
+        }
+      ],
+      "evidence": [
+        "武倾墟道：“是，长孙廷执仍在尽力探研。”",
+        "这里面说得是长孙迁现下之所为，也即是利用神异生灵寄托入修道人身躯之中"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "关朝昇",
+      "aliases": [],
+      "identity": "旧派人物",
+      "faction": "旧派",
+      "status": "提及",
+      "first_appearance": "第两百八十一章 诸法俱有渡",
+      "summary": "旧派人物，被张御追查，留下气机。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "钟廷执、崇廷执二人离席之后，行在一处，后者言道：“这几日钟道兄可曾算出什么来",
-        "”    钟廷执沉吟片刻，道：“钟某几日推算下来，天机如常，虽有险兆，却能被大势抚平，实在看不出有何危及我天夏之事",
-        "”    钟廷执神情凝重道：“首执不会无缘无故行此紧迫事宜，看来这次所要面对之敌，是以为从未见过的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御通过牌符感应到气机。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "白朢那里又生感应，却是找到了一缕关朝昇留下的气机"
+      ],
+      "mention_count": 1
     }
   ]
 }

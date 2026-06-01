@@ -1,257 +1,379 @@
 {
   "chunk_id": "chunk-2095",
-  "title": "第九十五章 上下鸣同音",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "清玄执摄"
+      ],
+      "identity": "执摄",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏执摄，主导上层事务，处理大混沌、邪神童子及元一天宫遗留问题。",
+      "appearance": [],
+      "personality": [
+        "警惕",
+        "冷静",
+        "善于调和"
+      ],
+      "abilities": [
+        "御中之力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "太素道人",
+          "type": "同僚"
+        },
+        {
+          "target": "邪神童子",
+          "type": "可交流对象"
+        },
+        {
+          "target": "青朔",
+          "type": "下属"
+        },
+        {
+          "target": "白朢",
+          "type": "下属"
+        },
+        {
+          "target": "觉霄道人",
+          "type": "下属"
+        },
+        {
+          "target": "擎虹道人",
+          "type": "救助对象"
+        },
+        {
+          "target": "陈首执",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "处理大混沌、邪神童子及元一天宫遗留问题，召见青朔、白朢、觉霄，与擎虹道人对话，通知天夏下层。"
+        }
+      ],
+      "evidence": [
+        "张御对大混沌虽也警惕，可是并没有太素道人那么忌惮",
+        "张御此时看向元空，又看了眼浑黯所在。",
+        "张御先是唤了青朔、白朢二人至前"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "太素道人",
+      "aliases": [
+        "太素执摄"
+      ],
+      "identity": "执摄",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "第九十五章 上下鸣同音    张御对于大混沌虽也警惕，可是并没有太素道人那么忌惮，大混沌也是一样在大道之中，是有其道理可循的",
+      "first_appearance": "",
+      "summary": "执摄之一，对大混沌极为忌惮，提醒张御警惕大混沌。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "忌惮大混沌"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提醒张御警惕大混沌，后同意张御通知天夏下层。"
+        }
+      ],
+      "evidence": [
+        "太素道人轻轻松了口气，道：“若是如此，那我便也放心了。”",
+        "太素道人知道，他虽说的同道乃是指天夏下层，便道：“清玄执摄说得是。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "邪神童子",
+      "aliases": [],
+      "identity": "先天之灵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "先天之灵，尝试走出不惧大混沌的道路，已驻落元空。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第九十五章 上下鸣同音    张御对于大混沌虽也警惕，可是并没有太素道人那么忌惮，大混沌也是一样在大道之中，是有其道理可循的",
-        "”    张御此时看向元空，又看了眼浑黯所在",
-        "张御先是唤了青朔、白朢二人至前，道：“劳烦两位道友将那两人驱走至天道下游，至于那位掣虹先圣，可放他归来"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "可交流对象"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已驻落元空，与张御成功配合。"
+        }
+      ],
+      "evidence": [
+        "邪神童子已然驻落在了元空之中",
+        "这一次的成功配合就是一个例子"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "青朔",
+      "aliases": [
+        "青朔道人"
+      ],
+      "identity": "执摄或大能",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受张御之命驱赶两位大能至天道下游。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受命驱赶两位大能。"
+        }
+      ],
+      "evidence": [
+        "张御先是唤了青朔、白朢二人至前，道：“劳烦两位道友将那两人驱走至天道下游”",
+        "青朔道人毫不犹豫道：“我这便去。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白朢",
+      "aliases": [
+        "白朢道人"
+      ],
+      "identity": "执摄或大能",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受张御之命驱赶两位大能至天道下游。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受命驱赶两位大能。"
+        }
+      ],
+      "evidence": [
+        "张御先是唤了青朔、白朢二人至前",
+        "白朢道人拂尘一摆，微笑道：“谨遵谕令。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "觉霄道人",
+      "aliases": [
+        "觉霄"
+      ],
+      "identity": "大能",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受张御之命说服其主身不要随意沟通。",
+      "appearance": [],
+      "personality": [
+        "爽快"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "其主身",
+          "type": "化身与本尊"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受命说服主身。"
+        }
+      ],
+      "evidence": [
+        "张御随后又把觉霄道人唤了过来",
+        "觉霄拍着胸脯道：“有什么事，交给我便是。”",
+        "觉霄爽快道：“此事容易。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "擎虹道人",
+      "aliases": [
+        "擎虹先圣"
+      ],
+      "identity": "先圣",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被张御等人从浑黯中救出，道法为“用恒用存，据今而守”，欲报元一天宫之仇。",
+      "appearance": [],
+      "personality": [
+        "知恩"
+      ],
+      "abilities": [
+        "用恒用存，据今而守"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "救助者"
+        },
+        {
+          "target": "元一天宫",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被救出浑黯，决定暂留金庭。"
+        }
+      ],
+      "evidence": [
+        "便见一道气意从浑黯之中出来，落入到元空之中，随即一位道人化身而出",
+        "擎虹道人正容道：“那却不同，终究是诸位带我出了浑黯”",
+        "擎虹道人点点头，又摇摇头，道：“此辈数度蔽我去了浑黯，此仇我必报之”"
+      ],
+      "mention_count": 6
     },
     {
       "name": "陈首执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "清穹云海深处，清穹天舟中枢所在，陈首执一直坐于此间等待",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "清穹云海深处，清穹天舟中枢所在，陈首执一直坐于此间等待",
-        "”    陈首执沉声道：“立唤诸位廷执到此",
-        "陈首执看着诸人，沉声道：“诸位廷执，上层有所变动，烦请你等随我一同前去拜见诸位执摄"
+      "aliases": [
+        "陈禹"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "便见",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷首执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "张御这时等了一会儿，便见一道气意从浑黯之中出来，落入到了元空之中，随即一位道人化身而出，其人面上神情复杂，似是没想到自己有朝一日还能归来",
+      "first_appearance": "",
+      "summary": "天夏玄廷首执，坐镇清穹天舟，得知上层变动后召集廷执拜见执摄。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御这时等了一会儿，便见一道气意从浑黯之中出来，落入到了元空之中，随即一位道人化身而出，其人面上神情复杂，似是没想到自己有朝一日还能归来",
-        "这时他忽有所感，抬头看去，便见一束金光落下，随后一道金色法符飘落了下来，他站起身来，目注其上，并没有立刻去拿",
-        "陈首执这时一挥袖，便见前方忽然生出了空洞，无数微光向着他们冲来，再是将诸人一并簇拥向前，随后轰然一震，诸形散开，便见了一方无边广大的玉璧出现在了前方"
+      "personality": [
+        "沉稳"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "陈首",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "清穹云海深处，清穹天舟中枢所在，陈首执一直坐于此间等待",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "清穹云海深处，清穹天舟中枢所在，陈首执一直坐于此间等待",
-        "”    陈首执沉声道：“立唤诸位廷执到此",
-        "陈首执看着诸人，沉声道：“诸位廷执，上层有所变动，烦请你等随我一同前去拜见诸位执摄"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        },
+        {
+          "target": "明周道人",
+          "type": "下属"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "只是诸多先天之灵从元空之中诞生出来后，就寻到了自我，就攀道之可能，可一旦遭受遭受大混沌的侵染，自身道法就变化成了混沌大道，失去了自我，自是对大混沌无比忌惮",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是诸多先天之灵从元空之中诞生出来后，就寻到了自我，就攀道之可能，可一旦遭受遭受大混沌的侵染，自身道法就变化成了混沌大道，失去了自我，自是对大混沌无比忌惮",
-        "只是眼前看来，只要懂得方法，一样可以使之为我所用",
-        "本来五位执摄是想处理完事机后将之再度逐出的，只是没能存身到那一刻，故而现在只能由他们来处置了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "感知上层变动，接获法符后召集廷执拜见执摄。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "其实",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "似邪神童子之流，其实便就可视为作出了某种尝试",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "似邪神童子之流，其实便就可视为作出了某种尝试",
-        "”    张御道：“以擎虹先圣的道法，只要出了浑黯，其实归来也是容易",
-        "”    这位的道法不是“用恒用存，据今而守”，所以哪怕被逼入浑黯之中，不靠邪神童子的气意，其实也能够自己寻回来"
+        "清穹云海深处，清穹天舟中枢所在，陈首执一直坐于此间等待。",
+        "陈首执沉声道：“立唤诸位廷执到此。”",
+        "陈首执这时对着这玉璧稽首一礼，道：“玄廷首执陈禹，携玄廷诸位廷执，来此拜见众位执摄。”"
       ],
       "mention_count": 6
     },
     {
-      "name": "张御道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "道人",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "”    张御道：“道友可设法说服你那位主身，让他不要随意与其余大能沟通，若有什么事，除了寻你之外，也可以来寻我，这般元空之中不至于轻起波澜",
+      "first_appearance": "",
+      "summary": "陈首执的传令者。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“道友可设法说服你那位主身，让他不要随意与其余大能沟通，若有什么事，除了寻你之外，也可以来寻我，这般元空之中不至于轻起波澜",
-        "”    张御道：“以擎虹先圣的道法，只要出了浑黯，其实归来也是容易",
-        "”    张御道：“我知道友心意，伱还要去寻元一天宫的麻烦么"
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受陈首执之命唤诸位廷执。"
+        }
+      ],
+      "evidence": [
+        "金光一闪，明周道人出现在跟前，稽首道：“首执有何吩咐。”",
+        "明周再是一礼，领命而去。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "庄执摄",
+      "aliases": [
+        "庄首执"
+      ],
+      "identity": "执摄",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "”    邪神童子已然驻落在了元空之中，还有那位三位大能仍在设法归来",
+      "first_appearance": "",
+      "summary": "执摄之一，在玉璧上出现，安抚廷执。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    邪神童子已然驻落在了元空之中，还有那位三位大能仍在设法归来",
-        "”    张御道：“还有那些镇道之宝，过后也当以清穹之气冲刷一遍",
-        "陈首执看了过去，在他印象之中，除了最早的五位执摄，还有后来张御、庄首执、青朔、白朢等人成为执摄，执拿上层权柄的，共是九位"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "对于那邪神童子，他认为实际上是可以交流的，这一次的成功配合就是一个例子，只是以往邪神童子与诸执摄之间不存在这种沟通",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "对于那邪神童子，他认为实际上是可以交流的，这一次的成功配合就是一个例子，只是以往邪神童子与诸执摄之间不存在这种沟通",
-        "而且他事先就对这二人说得很清楚，可以给他们一个归来的机会，但是无论敌我双方谁解决事情，仍旧是要把他们逐走的，这一点在引动他们二人的时候他们也是答应了",
-        "擎虹道人正容道：“那却不同，终究是诸位带我出了浑黯，不走这一步，我万难重返元空"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玉璧上对廷执发言。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "其人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "张御这时等了一会儿，便见一道气意从浑黯之中出来，落入到了元空之中，随即一位道人化身而出，其人面上神情复杂，似是没想到自己有朝一日还能归来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "张御这时等了一会儿，便见一道气意从浑黯之中出来，落入到了元空之中，随即一位道人化身而出，其人面上神情复杂，似是没想到自己有朝一日还能归来",
-        "他放出了一缕气意，往金庭而来，张御没有阻拦，放了他进来，其人在此间化出身影，便对着他一礼，郑重道：“多谢阁下和诸位先圣上神助我解脱，擎虹会铭记此番恩情的"
+        "居于张御的右侧庄执摄开口道：“诸位廷执，上层虽有变化，但无需惊慌”"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "擎虹",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "他放出了一缕气意，往金庭而来，张御没有阻拦，放了他进来，其人在此间化出身影，便对着他一礼，郑重道：“多谢阁下和诸位先圣上神助我解脱，擎虹会铭记此番恩情的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他放出了一缕气意，往金庭而来，张御没有阻拦，放了他进来，其人在此间化出身影，便对着他一礼，郑重道：“多谢阁下和诸位先圣上神助我解脱，擎虹会铭记此番恩情的",
-        "”    张御道：“以擎虹先圣的道法，只要出了浑黯，其实归来也是容易",
-        "擎虹道人正容道：“那却不同，终究是诸位带我出了浑黯，不走这一步，我万难重返元空"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第九十五章 上下鸣同音",
-      "summary": "”    张御随后又把觉霄道人唤了过来，道：“道友，有一事，不得不劳烦你来做了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御随后又把觉霄道人唤了过来，道：“道友，有一事，不得不劳烦你来做了",
-        "这时他忽有所感，抬头看去，便见一束金光落下，随后一道金色法符飘落了下来，他站起身来，目注其上，并没有立刻去拿",
-        "他在原地走了几步，随后一抬头，道：“明周"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

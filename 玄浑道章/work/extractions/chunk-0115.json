@@ -1,202 +1,275 @@
 {
   "chunk_id": "chunk-0115",
-  "title": "第一百一十二章 六印章书",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张师弟"
+      ],
+      "identity": "玄府玄修，已入灵明之章",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "第一百一十二章 六印章书    玄府的竹苑精舍之内，张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”",
+      "summary": "玄府玄修，正在选择章印并挑选弟子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "有主见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十二章 六印章书    玄府的竹苑精舍之内，张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”",
-        "张御也是直到现在才知道，以往自己所观读的那些章印是从一个名唤“玄玉”的东西上拓照出来的，这枚东西是玄府的根本所在，现在就掌握在玄首手中",
-        "”    张御明白他的意思，玄修到了第二章书后，要是有些事情不是太紧要，那就不必再由自己亲自出面了，还可以交给手底下的人去办"
+      "relationships": [
+        {
+          "target": "范澜",
+          "type": "师兄"
+        },
+        {
+          "target": "严鱼明",
+          "type": "未来弟子"
+        }
       ],
-      "mention_count": 15
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在竹苑精舍翻看六印章书，选择章印，并决定收严鱼明为弟子。"
+        }
+      ],
+      "evidence": [
+        "张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”。",
+        "他思考了一下，这样的助手还是需要的，因为他接着要去做的一件事，就需要几个帮手。",
+        "张御道：“就他一人便可。”"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "玄府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "范澜",
+      "aliases": [
+        "范师兄"
+      ],
+      "identity": "玄府玄修，张御的师兄",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "第一百一十二章 六印章书    玄府的竹苑精舍之内，张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”",
+      "summary": "张御的师兄，协助张御处理事务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将六印章书带给张御，并推荐弟子人选。"
+        }
+      ],
       "evidence": [
-        "第一百一十二章 六印章书    玄府的竹苑精舍之内，张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”",
-        "按照玄府的规矩，这是唯有观读到“灵明之章”，且具备六印俱见的玄修才有资格观看的东西",
-        "之所以并不是玄府所有的章印都在其中，倒不是对他刻意隐瞒，而是有些隐秘章印只有专注于某一正印路线的人才能观读，章印也只有在他们手里才能发挥出更大效用和威能，且无端泄露了出去的话，就可能提前被防备和针对"
+        "张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”。",
+        "范澜收起他的签册，道：“张师弟，你既入‘灵明’，有些事情，大可不必你再去亲力亲为了。”"
       ],
       "mention_count": 6
     },
     {
-      "name": "这样",
+      "name": "严鱼明",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府年轻玄修，曾犯错",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "实则对他来说，能看到这些已是足够了，不用再像之前一样，玄府给他什么，他就只能观读什么，而是可以有选择的观读章印，这样目的不但更为明确，章印之间也能形成一个较为妥帖的配合",
+      "summary": "张御选中的弟子，曾在闻祈广场未能保护好郭尚等人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "实则对他来说，能看到这些已是足够了，不用再像之前一样，玄府给他什么，他就只能观读什么，而是可以有选择的观读章印，这样目的不但更为明确，章印之间也能形成一个较为妥帖的配合",
-        "当然，这只是他的假定，或许事实并不是这样，可能里面还有更复杂的原因",
-        "但这样的举动，势必耗费更多的神元，所以不是迫切需要的话，走其他正印路线的玄修未必会这么做，因为等修为上去后，会有更多选择，而飞遁之印也不是只有“青虹”这么一枚"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "未来师父"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在闻祈广场未能保护好郭尚等人，被召回。"
+        },
+        {
+          "stage": "当前",
+          "event": "被张御选为弟子。"
+        }
+      ],
+      "evidence": [
+        "严鱼明。这是当日他在闻祈广场遇到的那个没能保护好郭尚等人的年轻玄修",
+        "张御道：“就他了。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "之印",
+      "name": "桃定符",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "譬如眼前他想要选择的“青虹”之印，这枚飞遁章印就涉及到“身”、“意”二印",
+      "summary": "张御想起桃定符所要找寻的素阳前辈。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "譬如眼前他想要选择的“青虹”之印，这枚飞遁章印就涉及到“身”、“意”二印",
-        "但这样的举动，势必耗费更多的神元，所以不是迫切需要的话，走其他正印路线的玄修未必会这么做，因为等修为上去后，会有更多选择，而飞遁之印也不是只有“青虹”这么一枚",
-        "此时他提笔起来，先在“青虹”之印上画打了一个勾，随后又在“明眠”、和“守诚”这两个印上各自圈了下"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "张御想起桃定符要找素阳前辈。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "不过由此他倒是想起来，桃定符所要找寻的那位素阳前辈。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
+      "name": "素阳",
+      "aliases": [
+        "素阳前辈"
+      ],
+      "identity": "未知前辈",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "此时他提笔起来，先在“青虹”之印上画打了一个勾，随后又在“明眠”、和“守诚”这两个印上各自圈了下",
+      "summary": "桃定符所要找寻的前辈，位于安山内陆。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "桃定符",
+          "type": "被找寻"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "此时他提笔起来，先在“青虹”之印上画打了一个勾，随后又在“明眠”、和“守诚”这两个印上各自圈了下",
-        "”    张御点了点头，再是一礼，将摆放章印的玉匣收起，与范澜别过，从偏殿出来，回竹苑精舍拿上了玄府交给他的一些东西，随后就出得玄府，往居处回返"
+        "桃定符所要找寻的那位素阳前辈。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "范澜",
+      "name": "阿尔莫泰",
       "aliases": [],
-      "identity": "",
+      "identity": "对手",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "第一百一十二章 六印章书    玄府的竹苑精舍之内，张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”",
+      "summary": "张御之前对战过的对手。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十二章 六印章书    玄府的竹苑精舍之内，张御坐在榻上，正翻看着范澜从事务堂回来带给的“六印章书”",
-        "用范澜的话说，这是因为现在大部分的通向第三道章的道路都是失传了，唯有玄首掌握了唯一一门章法",
-        "在决定好之后，他就将此交给了范澜，由后者府中取出拓照玉简，在又是一番签名落印后，才将章印拿取到手"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对手"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与张御对战。"
+        }
+      ],
+      "evidence": [
+        "之前在对战阿尔莫泰之时，他曾感觉到感官的重要性"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "灵明",
+      "name": "许英",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府玄修",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "按照玄府的规矩，这是唯有观读到“灵明之章”，且具备六印俱见的玄修才有资格观看的东西",
+      "summary": "闻德、闻过两兄弟的师父。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "闻德",
+          "type": "师父"
+        },
+        {
+          "target": "闻过",
+          "type": "师父"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "按照玄府的规矩，这是唯有观读到“灵明之章”，且具备六印俱见的玄修才有资格观看的东西",
-        "也是因为如此，玄府现在凡是观读到了“灵明之章”的玄修，若想要进窥下一章书，现阶段也只能自行摸索了",
-        "到了“灵明之章”，最大的好处是除了玄首，没人可以直接他命令行事，他可以选择，也可以拒绝，相对自由了一些"
+        "这二人是许英的弟子"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "章印",
+      "name": "闻德",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府玄修，许英弟子",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "不过六印章书里面只是罗列了摆在明面上的章印，自每一正印上衍生出九印，恰好是五十四枚",
+      "summary": "曾与张御同行的玄修。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "许英",
+          "type": "师父"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "不过六印章书里面只是罗列了摆在明面上的章印，自每一正印上衍生出九印，恰好是五十四枚",
-        "之所以并不是玄府所有的章印都在其中，倒不是对他刻意隐瞒，而是有些隐秘章印只有专注于某一正印路线的人才能观读，章印也只有在他们手里才能发挥出更大效用和威能，且无端泄露了出去的话，就可能提前被防备和针对",
-        "实则对他来说，能看到这些已是足够了，不用再像之前一样，玄府给他什么，他就只能观读什么，而是可以有选择的观读章印，这样目的不但更为明确，章印之间也能形成一个较为妥帖的配合"
+        "这二人是许英的弟子，但双方之间并没有传统师徒情谊"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "实则",
+      "name": "闻过",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府玄修，许英弟子",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "实则对他来说，能看到这些已是足够了，不用再像之前一样，玄府给他什么，他就只能观读什么，而是可以有选择的观读章印，这样目的不但更为明确，章印之间也能形成一个较为妥帖的配合",
+      "summary": "曾与张御同行的玄修。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "许英",
+          "type": "师父"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "实则对他来说，能看到这些已是足够了，不用再像之前一样，玄府给他什么，他就只能观读什么，而是可以有选择的观读章印，这样目的不但更为明确，章印之间也能形成一个较为妥帖的配合",
-        "所以玄府拿六印章书给他观看，实则就是让他还有一个为玄府出力的动力"
+        "这二人是许英的弟子"
       ],
-      "mention_count": 4
+      "mention_count": 1
     },
     {
-      "name": "他就",
+      "name": "郭尚",
       "aliases": [],
-      "identity": "",
+      "identity": "未知",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十二章 六印章书",
-      "summary": "实则对他来说，能看到这些已是足够了，不用再像之前一样，玄府给他什么，他就只能观读什么，而是可以有选择的观读章印，这样目的不但更为明确，章印之间也能形成一个较为妥帖的配合",
+      "summary": "严鱼明未能保护好的人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -204,51 +277,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "实则对他来说，能看到这些已是足够了，不用再像之前一样，玄府给他什么，他就只能观读什么，而是可以有选择的观读章印，这样目的不但更为明确，章印之间也能形成一个较为妥帖的配合",
-        "在决定好之后，他就将此交给了范澜，由后者府中取出拓照玉简，在又是一番签名落印后，才将章印拿取到手"
+        "没能保护好郭尚等人"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "那就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 六印章书",
-      "summary": "那就是前人留在府中的道册",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那就是前人留在府中的道册",
-        "”    张御明白他的意思，玄修到了第二章书后，要是有些事情不是太紧要，那就不必再由自己亲自出面了，还可以交给手底下的人去办",
-        "”    那助役恭敬道：“好，那就按张玄修的意思"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "就他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 六印章书",
-      "summary": "他考虑了一下，用手点了点，道：“就他了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他考虑了一下，用手点了点，道：“就他了",
-        "”    张御道：“就他一人便可"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

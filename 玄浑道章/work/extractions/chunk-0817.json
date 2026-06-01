@@ -1,258 +1,422 @@
 {
   "chunk_id": "chunk-0817",
-  "title": "第一百一十二章 寻图照影现",
   "characters": [
     {
-      "name": "孟嬛真",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "甘柏",
+      "aliases": [
+        "甘柏玄尊"
+      ],
+      "identity": "幽城玄尊",
+      "faction": "幽城",
       "status": "登场",
       "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "孟嬛真站在舟首之上看着这片地陆，她尚是第一次来到这里，不过此回是有事而来，她也顾不上欣赏这里的风光，直接往玄府而来",
+      "summary": "幽城玄尊，喜欢指点玄修、看盛剧，对权力争斗不感兴趣。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "神清气爽",
+        "不喜争斗"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "孟嬛真站在舟首之上看着这片地陆，她尚是第一次来到这里，不过此回是有事而来，她也顾不上欣赏这里的风光，直接往玄府而来",
-        "”    孟嬛真万福一礼，道：“璃玉天宫孟嬛真见过道友，此回到此，是为彻查天工部大匠遇袭一事",
-        "”    孟嬛真道：“我并非为此而来，我等在追查时，那嫌疑之人颜子全已然渡海而出，我追他到了海上，一时失了踪迹，故是想得到东庭府洲这边的帮衬"
+      "relationships": [
+        {
+          "target": "班岚",
+          "type": "想教训的对象"
+        },
+        {
+          "target": "岳萝",
+          "type": "提及"
+        },
+        {
+          "target": "显定上尊",
+          "type": "被拉拢"
+        },
+        {
+          "target": "金郅行",
+          "type": "被暗示取代"
+        }
       ],
-      "mention_count": 19
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从训天道章退出，收到显定上尊书信，准备看新排的盛剧。"
+        }
+      ],
+      "evidence": [
+        "幽城之内，甘柏从训天道章里退出来",
+        "他撇了撇嘴，别以为他看不明白，所谓扶持，就是显定上人给一个空头许诺",
+        "新的盛剧都排好了。还请玄尊赏阅。"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "孟嬛",
+      "name": "班岚",
       "aliases": [],
-      "identity": "",
+      "identity": "玄修",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "孟嬛真站在舟首之上看着这片地陆，她尚是第一次来到这里，不过此回是有事而来，她也顾不上欣赏这里的风光，直接往玄府而来",
+      "summary": "被甘柏提及，据说在内层讲道，甘柏想教训他。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "孟嬛真站在舟首之上看着这片地陆，她尚是第一次来到这里，不过此回是有事而来，她也顾不上欣赏这里的风光，直接往玄府而来",
-        "”    孟嬛真万福一礼，道：“璃玉天宫孟嬛真见过道友，此回到此，是为彻查天工部大匠遇袭一事",
-        "”    孟嬛真道：“我并非为此而来，我等在追查时，那嫌疑之人颜子全已然渡海而出，我追他到了海上，一时失了踪迹，故是想得到东庭府洲这边的帮衬"
+      "relationships": [
+        {
+          "target": "甘柏",
+          "type": "被甘柏惦记教训"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被甘柏提及有一段时间没冒头，据说在内层讲道。"
+        }
+      ],
+      "evidence": [
+        "那个叫班岚的家伙有一段时间没冒头了，据说是在内层讲道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "岳萝",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十二章 寻图照影现",
+      "summary": "被甘柏想起，提及东庭之事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "甘柏",
+          "type": "被甘柏想起"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被甘柏想到其所说的东庭之事。"
+        }
+      ],
+      "evidence": [
+        "他也是不由想到岳萝所说的东庭那件事"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "显定上尊",
+      "aliases": [
+        "显定上人"
+      ],
+      "identity": "上尊",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十二章 寻图照影现",
+      "summary": "给甘柏送信，暗示可取代金郅行。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "甘柏",
+          "type": "拉拢甘柏"
+        },
+        {
+          "target": "金郅行",
+          "type": "对金郅行不满"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送书信给甘柏，老一套说辞。"
+        }
+      ],
+      "evidence": [
+        "显定上尊送来的书信",
+        "这位显定上尊似乎有扶持他的意思，又隐隐暗示可让他取代金郅行的位置"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "金郅行",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十二章 寻图照影现",
+      "summary": "被显定上尊暗示可被甘柏取代的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "显定上尊",
+          "type": "被显定上尊不满"
+        },
+        {
+          "target": "甘柏",
+          "type": "被暗示取代"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被显定上尊在信中提及。"
+        }
+      ],
+      "evidence": [
+        "又隐隐暗示可让他取代金郅行的位置"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "孟嬛真",
+      "aliases": [
+        "孟道友"
+      ],
+      "identity": "璃玉天宫门下",
+      "faction": "璃玉天宫",
+      "status": "登场",
+      "first_appearance": "第一百一十二章 寻图照影现",
+      "summary": "璃玉天宫修士，为追查颜子全来到东庭，得张御指点。",
+      "appearance": [],
+      "personality": [
+        "惭愧",
+        "偏狭后改正"
+      ],
+      "abilities": [],
+      "equipment": [
+        "浑素抄"
+      ],
+      "relationships": [
+        {
+          "target": "陈嵩",
+          "type": "同行道友"
+        },
+        {
+          "target": "张御",
+          "type": "求助对象"
+        },
+        {
+          "target": "颜子全",
+          "type": "追查对象"
+        },
+        {
+          "target": "闻奇",
+          "type": "借缘法"
+        },
+        {
+          "target": "杨璎",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到达东庭，与陈嵩交涉，见闻奇借缘法，用浑素抄照见颜子全所在，求见张御，得符纸指引。"
+        }
+      ],
+      "evidence": [
+        "璃玉天宫孟嬛真见过道友",
+        "孟嬛真万福一礼，道：璃玉天宫孟嬛真见过道友",
+        "孟嬛真接过纸符，收好之后，万福一礼，诚心致谢道：多谢张玄首。"
+      ],
+      "mention_count": 15
     },
     {
       "name": "陈嵩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "陈道友"
+      ],
+      "identity": "东廷玄府巡查",
+      "faction": "东庭",
       "status": "登场",
       "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "只是方至半途，她便见一个两鬓略显霜白的中年道人阻拦在了前方，对她一拱手，问道：“这位道友，在下陈嵩，乃是东廷玄府巡查，不知道友从何处来",
-      "appearance": [],
-      "personality": [],
+      "summary": "东庭玄府巡查，协助孟嬛真，并建议其求助张御。",
+      "appearance": [
+        "两鬓略显霜白的中年道人"
+      ],
+      "personality": [
+        "严肃",
+        "诚恳"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是方至半途，她便见一个两鬓略显霜白的中年道人阻拦在了前方，对她一拱手，问道：“这位道友，在下陈嵩，乃是东廷玄府巡查，不知道友从何处来",
-        "陈嵩严肃看了那印信几眼，这才神情缓和下来，他道：“关于此次飞舟遇袭一事的详细记述，我东庭当已是送至玉京了，道友还有什么要查证的么",
-        "陈嵩道：“此事我做不了主，需得禀明玄首"
+      "relationships": [
+        {
+          "target": "孟嬛真",
+          "type": "协助"
+        },
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阻拦孟嬛真，查验印信，沟通玄首后带其见闻奇，建议求助张御，后与孟嬛真同行追查。"
+        }
+      ],
+      "evidence": [
+        "一个两鬓略显霜白的中年道人阻拦在了前方",
+        "在下陈嵩，乃是东廷玄府巡查",
+        "陈嵩诚恳言道：不如我们去见一见张玄首"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "道友",
+      "name": "颜子全",
       "aliases": [],
-      "identity": "",
+      "identity": "嫌疑之人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十二章 寻图照影现",
+      "summary": "袭击飞舟的嫌疑人，逃至海上岛屿，被孟嬛真追查。",
+      "appearance": [
+        "戴着遮帽的修道人"
+      ],
+      "personality": [],
+      "abilities": [
+        "有上乘手段遮蔽"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "孟嬛真",
+          "type": "被追查"
+        },
+        {
+          "target": "闻奇",
+          "type": "有缘法牵连"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被浑素抄照见藏身海岛洞窟。"
+        }
+      ],
+      "evidence": [
+        "那嫌疑之人颜子全已然渡海而出",
+        "浮现出一个戴着遮帽的修道人，其人坐在一个洞窟之中"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "闻奇",
+      "aliases": [],
+      "identity": "璃玉天宫相关人物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "只是方至半途，她便见一个两鬓略显霜白的中年道人阻拦在了前方，对她一拱手，问道：“这位道友，在下陈嵩，乃是东廷玄府巡查，不知道友从何处来",
+      "summary": "被孟嬛真借缘法以追查颜子全，正设法洗脱嫌疑。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "只是方至半途，她便见一个两鬓略显霜白的中年道人阻拦在了前方，对她一拱手，问道：“这位道友，在下陈嵩，乃是东廷玄府巡查，不知道友从何处来",
-        "”    孟嬛真万福一礼，道：“璃玉天宫孟嬛真见过道友，此回到此，是为彻查天工部大匠遇袭一事",
-        "陈嵩严肃看了那印信几眼，这才神情缓和下来，他道：“关于此次飞舟遇袭一事的详细记述，我东庭当已是送至玉京了，道友还有什么要查证的么"
+      "relationships": [
+        {
+          "target": "孟嬛真",
+          "type": "被借缘法"
+        },
+        {
+          "target": "颜子全",
+          "type": "有缘法牵连"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄府驻阁内同意借缘法给孟嬛真。"
+        }
+      ],
+      "evidence": [
+        "在一间驻阁内见得闻奇，并向其问询可愿借缘法于她找寻颜子全",
+        "闻奇如今正要设法洗脱身上的嫌疑，自是忙不迭的答应"
+      ],
+      "mention_count": 2
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "她抬首看去，见张御正坐于崖台之上，身上星光玉雾，灿烂夺目，而他身后，则是壮阔的海天高峰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "她抬首看去，见张御正坐于崖台之上，身上星光玉雾，灿烂夺目，而他身后，则是壮阔的海天高峰",
-        "”    张御点首道：“孟道友，许久不见了",
-        "”    孟嬛真此刻微觉惭愧，上次杨璎拿着她交给张御信物拜托到她这里，她却没能帮上忙，虽她也知，以张御如今的身份，可能并不在意这点小事，可她心中却是十分过意不去"
+      "aliases": [
+        "张玄首"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "甘柏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "东庭玄府玄首",
+      "faction": "东庭",
       "status": "登场",
       "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "第一百一十二章 寻图照影现    幽城之内，甘柏从训天道章里退出来，最近一段时间，好像玄修越来越多了，而且讨论道法的人也更多了，他方才一连指点了十来个人，当真是神清气爽",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十二章 寻图照影现    幽城之内，甘柏从训天道章里退出来，最近一段时间，好像玄修越来越多了，而且讨论道法的人也更多了，他方才一连指点了十来个人，当真是神清气爽",
-        "”    甘柏伸手接了过来，现在那些会说话的恼人飞书不知为何见不到了，往来都是正常的书信，就是传递慢了些，他打开一看，发现又是老一套的说辞，这样的书信近来他已是收到三四封了",
-        "”    甘柏唔了一声，双手展了下童衣一般的袖袍，兴致满满的站了起来，负手而立道：“不错，这便开始吧"
+      "summary": "东庭玄首，坐镇启山山巅，为孟嬛真指点颜子全所在。",
+      "appearance": [
+        "身上星光玉雾，灿烂夺目"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "孟嬛真站在舟首之上看着这片地陆，她尚是第一次来到这里，不过此回是有事而来，她也顾不上欣赏这里的风光，直接往玄府而来",
-      "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "孟嬛真站在舟首之上看着这片地陆，她尚是第一次来到这里，不过此回是有事而来，她也顾不上欣赏这里的风光，直接往玄府而来",
-        "孟嬛真得他同意，感应到“浑素抄”微微一震，就知缘法已得，她也没有隐瞒，当着陈嵩直面，直接将这法器打开",
-        "”    孟嬛真没有犹豫，直接将“浑素抄”递了上去"
+      "abilities": [
+        "能感应玄尊欲寻之地"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "让他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "唯一不痛快的是，那个叫班岚的家伙有一段时间没冒头了，据说是在内层讲道，让他一直找不到机会教训其人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "孟嬛真",
+          "type": "被求助"
+        },
+        {
+          "target": "陈嵩",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在启山山巅接见孟嬛真，查看浑素抄后给出符纸指引。"
+        }
+      ],
       "evidence": [
-        "唯一不痛快的是，那个叫班岚的家伙有一段时间没冒头了，据说是在内层讲道，让他一直找不到机会教训其人",
-        "这位显定上尊似乎有扶持他的意思，又隐隐暗示可让他取代金郅行的位置",
-        "让他管管幽城，看看盛剧，在训天道章内逛逛还好，让他出去打生打死，那是想也别想"
+        "张御正坐于崖台之上，身上星光玉雾，灿烂夺目",
+        "张御点首道：孟道友，许久不见了。",
+        "他一弹指，一道光华灿灿的符纸便即飘下"
       ],
       "mention_count": 5
     },
     {
-      "name": "孟道友",
+      "name": "杨璎",
       "aliases": [],
       "identity": "",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "”    陈嵩想了想，却是喊住她道：“孟道友，容陈某说一句，汪洋无边，知晓颜子全在一个海岛之上，但道友恐怕依旧无法凭此找到其人吧",
+      "summary": "被孟嬛真想起，曾拿着张御的信物拜托她。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    陈嵩想了想，却是喊住她道：“孟道友，容陈某说一句，汪洋无边，知晓颜子全在一个海岛之上，但道友恐怕依旧无法凭此找到其人吧",
-        "”    张御点首道：“孟道友，许久不见了",
-        "”    张御点头道：“孟道友无需如此言，此等叛逆，越早查出越好，那副图画何在"
+      "relationships": [
+        {
+          "target": "孟嬛真",
+          "type": "曾拜托孟嬛真"
+        },
+        {
+          "target": "张御",
+          "type": "持有其信物"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "这个人……    只是想到这里，他忽然发现不对劲，自己一个幽城的人，去操心天夏的事干什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这个人……    只是想到这里，他忽然发现不对劲，自己一个幽城的人，去操心天夏的事干什么",
-        "只是方至半途，她便见一个两鬓略显霜白的中年道人阻拦在了前方，对她一拱手，问道：“这位道友，在下陈嵩，乃是东廷玄府巡查，不知道友从何处来",
-        "只是随着他的目注，这图画也很快在消失之中，但这却无碍，这等图景，他看过一眼便可记住"
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾拿着张御的信物拜托孟嬛真。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "显定",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "”那弟子躬身一拜，双手呈递上一封书信，道：“玄尊，显定上尊送来的书信",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”那弟子躬身一拜，双手呈递上一封书信，道：“玄尊，显定上尊送来的书信",
-        "这位显定上尊似乎有扶持他的意思，又隐隐暗示可让他取代金郅行的位置",
-        "他撇了撇嘴，别以为他看不明白，所谓扶持，就是显定上人给一个空头许诺，然而后躲在后面看他与金郅相互撕咬，对此他可没这个兴趣"
+        "上次杨璎拿着她交给张御信物拜托到她这里"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "孟道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十二章 寻图照影现",
-      "summary": "”    陈嵩想了想，却是喊住她道：“孟道友，容陈某说一句，汪洋无边，知晓颜子全在一个海岛之上，但道友恐怕依旧无法凭此找到其人吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    陈嵩想了想，却是喊住她道：“孟道友，容陈某说一句，汪洋无边，知晓颜子全在一个海岛之上，但道友恐怕依旧无法凭此找到其人吧",
-        "”    张御点首道：“孟道友，许久不见了",
-        "”    张御点头道：“孟道友无需如此言，此等叛逆，越早查出越好，那副图画何在"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

@@ -1,254 +1,298 @@
 {
   "chunk_id": "chunk-0036",
-  "title": "第三十五章 壶黎神像",
   "characters": [
     {
       "name": "杨璎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十五章 壶黎神像",
-      "summary": "第三十五章 壶黎神像    杨璎气呼呼出了学宫后，就来到了毗邻大都督府一处庄园内，她走进来时，两旁护卫纷纷抱拳行礼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三十五章 壶黎神像    杨璎气呼呼出了学宫后，就来到了毗邻大都督府一处庄园内，她走进来时，两旁护卫纷纷抱拳行礼",
-        "”    杨璎吓了一跳，不自觉放低了声音",
-        "杨璎见到他，规规矩矩一礼，道：“姚先生"
+      "aliases": [
+        "杨卫尉"
       ],
-      "mention_count": 21
-    },
-    {
-      "name": "段摩",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "卫尉，大都督之姐",
+      "faction": "都护府",
       "status": "登场",
       "first_appearance": "第三十五章 壶黎神像",
-      "summary": "瑞光东城，一座占地十余亩的豪宅大院内，宏整华丽的主楼之中，段摩带着眼镜，正翻看着今天的报纸",
+      "summary": "大都督的姐姐，性格直率，关心弟弟，在学宫学习坚爪语。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "关心家人",
+        "有些急躁"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "杨都护",
+          "type": "姐弟"
+        },
+        {
+          "target": "姚先生",
+          "type": "师生"
+        },
+        {
+          "target": "张御",
+          "type": "师生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从学宫回到庄园，与姚先生交谈，后与弟弟互动。"
+        }
+      ],
       "evidence": [
-        "瑞光东城，一座占地十余亩的豪宅大院内，宏整华丽的主楼之中，段摩带着眼镜，正翻看着今天的报纸",
-        "”    段摩来到窗边，就见一辆马车从宅子外驶入进来，从上面下来一个圆滚滚的小胖子，不过没有朝主楼来，而是直奔厨房而去",
-        "”    段摩笑道：“没事，知道饿，这就是动脑了"
+        "杨璎气呼呼出了学宫后，就来到了毗邻大都督府一处庄园内",
+        "杨璎见到他，规规矩矩一礼，道：“姚先生。”",
+        "杨璎重重嗯了一声。"
       ],
       "mention_count": 20
     },
     {
-      "name": "小童",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十五章 壶黎神像",
-      "summary": "冲到内堂，见一个十岁左右的清秀小童坐在上面，单眼皮，眼眸略带金色，身穿彰显威仪的大都督服，头上戴着垂着璎珞的辟域冠，一副小大人的模样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冲到内堂，见一个十岁左右的清秀小童坐在上面，单眼皮，眼眸略带金色，身穿彰显威仪的大都督服，头上戴着垂着璎珞的辟域冠，一副小大人的模样",
-        "小童见到时她，放下手里的东西，站起身来一礼，道：“阿姐",
-        "”    小童惊愕睁大眼，随即急道：“阿姐，先生是自己要走的，我也拦不住啊"
-      ],
-      "mention_count": 16
-    },
-    {
       "name": "姚先生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "姚先生"
+      ],
+      "identity": "都护府先生，教授都护学问",
+      "faction": "都护府",
       "status": "登场",
       "first_appearance": "第三十五章 壶黎神像",
-      "summary": "”    役从赶忙回道：“姚先生来了，好像在教授都护什么学问",
-      "appearance": [],
-      "personality": [],
+      "summary": "七旬老者，因家父身体不适向都护告假，不再授课。",
+      "appearance": [
+        "七旬年纪老者",
+        "神容沉静",
+        "双眼仿佛浸透了世事"
+      ],
+      "personality": [
+        "沉静",
+        "平和"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    役从赶忙回道：“姚先生来了，好像在教授都护什么学问",
-        "”    “姚先生",
-        "杨璎见到他，规规矩矩一礼，道：“姚先生"
+      "relationships": [
+        {
+          "target": "杨都护",
+          "type": "师生"
+        },
+        {
+          "target": "杨璎",
+          "type": "师生"
+        },
+        {
+          "target": "姚老公府",
+          "type": "父子"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向都护告假，离开庄园。"
+        }
+      ],
+      "evidence": [
+        "从内堂中缓步走出来一位七旬年纪老者",
+        "姚先生道：“非是，都护很好，我是来向都护告个假的”",
+        "姚先生平静道：“自开春以来就一直咳嗽”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "姚先",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "杨都护",
+      "aliases": [
+        "都护",
+        "小弟",
+        "胞弟"
+      ],
+      "identity": "大都督，十岁左右小童",
+      "faction": "都护府",
       "status": "登场",
       "first_appearance": "第三十五章 壶黎神像",
-      "summary": "”    役从赶忙回道：“姚先生来了，好像在教授都护什么学问",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    役从赶忙回道：“姚先生来了，好像在教授都护什么学问",
-        "”    “姚先生",
-        "杨璎见到他，规规矩矩一礼，道：“姚先生"
+      "summary": "十岁左右的大都督，杨璎的弟弟，聪明好学。",
+      "appearance": [
+        "十岁左右的清秀小童",
+        "单眼皮",
+        "眼眸略带金色",
+        "身穿大都督服",
+        "头戴辟域冠"
       ],
-      "mention_count": 11
+      "personality": [
+        "聪明",
+        "好学",
+        "有礼貌"
+      ],
+      "abilities": [],
+      "equipment": [
+        "大都督服",
+        "辟域冠"
+      ],
+      "relationships": [
+        {
+          "target": "杨璎",
+          "type": "姐弟"
+        },
+        {
+          "target": "姚先生",
+          "type": "师生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在内堂学习，后与姐姐交谈。"
+        }
+      ],
+      "evidence": [
+        "见一个十岁左右的清秀小童坐在上面",
+        "小童见到时她，放下手里的东西，站起身来一礼",
+        "小童惊愕睁大眼，随即急道：“阿姐，先生是自己要走的”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "先生",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "先生",
+        "陶生"
+      ],
+      "identity": "泰阳学宫辅教，教授坚爪语",
+      "faction": "泰阳学宫",
       "status": "登场",
       "first_appearance": "第三十五章 壶黎神像",
-      "summary": "”    役从赶忙回道：“姚先生来了，好像在教授都护什么学问",
+      "summary": "泰阳学宫的辅教，负责教授坚爪语，同时以笔名‘陶生’在翰墨报馆发表文章。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    役从赶忙回道：“姚先生来了，好像在教授都护什么学问",
-        "”    “姚先生",
-        "杨璎见到他，规规矩矩一礼，道：“姚先生"
+      "personality": [
+        "严谨",
+        "善于观察"
       ],
-      "mention_count": 9
+      "abilities": [
+        "教授坚爪语",
+        "写作"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李青禾",
+          "type": "主仆"
+        },
+        {
+          "target": "杨璎",
+          "type": "师生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回到居处，翻阅报纸，并让李青禾留意小报。"
+        }
+      ],
+      "evidence": [
+        "张御此刻也已是回到了居处内",
+        "他想了想，就把李青禾叫了进来",
+        "见下面的署名是“陶生”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "阿姐",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "李青禾",
+      "aliases": [
+        "青禾"
+      ],
+      "identity": "张御的侍从",
+      "faction": "张御",
       "status": "登场",
       "first_appearance": "第三十五章 壶黎神像",
-      "summary": "小童见到时她，放下手里的东西，站起身来一礼，道：“阿姐",
+      "summary": "张御的侍从，负责处理杂务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "小童见到时她，放下手里的东西，站起身来一礼，道：“阿姐",
-        "”    小童惊愕睁大眼，随即急道：“阿姐，先生是自己要走的，我也拦不住啊",
-        "小童走到她身边，小心翼翼问道：“阿姐，你没事吧"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御叫来询问报纸来源。"
+        }
+      ],
+      "evidence": [
+        "他想了想，就把李青禾叫了进来",
+        "李青禾回道：“先生，是夹在某一份报纸中的”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "段摩",
+      "aliases": [
+        "衙君"
+      ],
+      "identity": "武库衙君",
+      "faction": "都护府",
       "status": "登场",
       "first_appearance": "第三十五章 壶黎神像",
-      "summary": "”    杨璎踌躇了一下，道：“可，可是，我舅舅那里，舅舅他……”    姚先生平静道：“都尉同意了",
+      "summary": "武库衙君，负责调拨武器，关注异神教徒事件。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "重视天夏子民性命"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    杨璎踌躇了一下，道：“可，可是，我舅舅那里，舅舅他……”    姚先生平静道：“都尉同意了",
-        "”    小童这次却是反驳道：“可是姚先生讲的东西，阿姐有时还记不住，但这位先生讲的阿姐都能背下来啊",
-        "不止如此，现在许多天夏人也有这个习惯，虽然都护府屡下禁令，可是效果不大，究其原因，是这个神像具备驱逐鼠蛇毒虫的作用"
+      "relationships": [
+        {
+          "target": "段少郎",
+          "type": "父子"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在家中看报纸，后决定给司寇衙门调拨火铳。"
+        }
+      ],
+      "evidence": [
+        "段摩带着眼镜，正翻看着今天的报纸",
+        "段摩拿下眼镜，皱眉道：“上个月方才给了他们一百支”",
+        "段摩沉声道：“不多，武器坏了可在再打造，人没了就什么都没了”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "不然",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "段少郎",
+      "aliases": [
+        "少郎"
+      ],
+      "identity": "段摩之子",
+      "faction": "段摩",
       "status": "登场",
       "first_appearance": "第三十五章 壶黎神像",
-      "summary": "半晌，她哼了一声，恼道：“一定是小弟把先生气的，不然先生怎么会走",
-      "appearance": [],
-      "personality": [],
+      "summary": "段摩的儿子，刚从外面回来，直奔厨房。",
+      "appearance": [
+        "圆滚滚的小胖子"
+      ],
+      "personality": [
+        "贪吃"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "半晌，她哼了一声，恼道：“一定是小弟把先生气的，不然先生怎么会走",
-        "他想了想，这个名字之前从没听说过，心里猜测对方应该是泰阳学宫的师教或者学令，不然也不可能登载在瀚墨报馆的报纸上"
+      "relationships": [
+        {
+          "target": "段摩",
+          "type": "父子"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "一副",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十五章 壶黎神像",
-      "summary": "冲到内堂，见一个十岁左右的清秀小童坐在上面，单眼皮，眼眸略带金色，身穿彰显威仪的大都督服，头上戴着垂着璎珞的辟域冠，一副小大人的模样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "冲到内堂，见一个十岁左右的清秀小童坐在上面，单眼皮，眼眸略带金色，身穿彰显威仪的大都督服，头上戴着垂着璎珞的辟域冠，一副小大人的模样"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从外面回来，直奔厨房。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "他想",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十五章 壶黎神像",
-      "summary": "他想了想，就把李青禾叫了进来，问道：“这张报纸是在哪里买的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他想了想，就把李青禾叫了进来，问道：“这张报纸是在哪里买的",
-        "他想了想，这个名字之前从没听说过，心里猜测对方应该是泰阳学宫的师教或者学令，不然也不可能登载在瀚墨报馆的报纸上"
+        "从上面下来一个圆滚滚的小胖子",
+        "不过没有朝主楼来，而是直奔厨房而去"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "衙君",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十五章 壶黎神像",
-      "summary": "正想看看这文章有些什么门道，听得一阵清铃声传来，门外有侍从提醒道：“衙君，少郎回来了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "正想看看这文章有些什么门道，听得一阵清铃声传来，门外有侍从提醒道：“衙君，少郎回来了",
-        "等了好一会儿，一门三十多的役从走上来，有些尴尬道：“衙君恕罪，少郎他也是饿坏了，一路上吃了不少东西，还是嚷着饿",
-        "”    那管事一揖，道：“衙君，司寇衙门请求武库调拨一百支火铳"
-      ],
-      "mention_count": 4
+      "mention_count": 2
     }
   ]
 }

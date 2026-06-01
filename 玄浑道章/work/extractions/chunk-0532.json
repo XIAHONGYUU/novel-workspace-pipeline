@@ -1,253 +1,218 @@
 {
   "chunk_id": "chunk-0532",
-  "title": "第三十七章 得印",
   "characters": [
     {
-      "name": "唐显尊",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十七章 得印",
-      "summary": "第三十七章 得印    张御离开大堂后，回到了唐显尊给他准备的豪奢居处之内",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三十七章 得印    张御离开大堂后，回到了唐显尊给他准备的豪奢居处之内",
-        "他心中清楚，唐显尊把他们叫到一起，明显是要让他们彼此竞争，拿出最好的本事来完善章印",
-        "对于守御之印他知晓的其实并不少，毕竟他记下了青阳玄府大多数大小章印，还从折毅那处见到过诸多观想图，对此也颇有自己的见解，不然也不可能在先前论法之中得到唐显尊的认可"
-      ],
-      "mention_count": 24
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "张道友"
+      ],
+      "identity": "玄修",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十七章 得印",
-      "summary": "第三十七章 得印    张御离开大堂后，回到了唐显尊给他准备的豪奢居处之内",
+      "summary": "玄修，与唐显尊交换章印，推演能力出众。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三十七章 得印    张御离开大堂后，回到了唐显尊给他准备的豪奢居处之内",
-        "唐显尊得报之后，不觉有些惊讶，先前张御说只需三日，他还以为只是一个给他人压力的策略，可没想到，三天未过，当真已是拿出了章印",
-        "他也是来至大堂之中，与张御见礼之后，有些谨慎的接过玉简，意念入内一转，不由眼神一动，待他认真看了下来之后，不禁抬起头，道：“道友所推演的章印我看过了，不过此中怎还有小印"
+      "personality": [
+        "谨慎",
+        "深思熟虑"
       ],
-      "mention_count": 19
+      "abilities": [
+        "观知之印",
+        "大道浑章",
+        "推演章印"
+      ],
+      "equipment": [
+        "玉简",
+        "章印"
+      ],
+      "relationships": [
+        {
+          "target": "唐显尊",
+          "type": "交易对象"
+        },
+        {
+          "target": "宫绥",
+          "type": "潜在冲突"
+        },
+        {
+          "target": "年轻女修",
+          "type": "同辈修士"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与唐显尊交换章印，获得遁法和困法两枚章印。"
+        }
+      ],
+      "evidence": [
+        "张御离开大堂后，回到了唐显尊给他准备的豪奢居处之内。",
+        "他通过观知之印察看此印，用了半日时间，迅速知晓了里间运转关窍，并很快掌握了这一个缺印。",
+        "张御看向他道：“我可与道友立一道契。”"
+      ],
+      "mention_count": 30
     },
     {
-      "name": "唐显",
-      "aliases": [],
-      "identity": "",
+      "name": "唐显尊",
+      "aliases": [
+        "唐道友"
+      ],
+      "identity": "庄园主人，玄修",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十七章 得印",
-      "summary": "第三十七章 得印    张御离开大堂后，回到了唐显尊给他准备的豪奢居处之内",
+      "summary": "邀请张御等人完善章印，最终选择张御的章印，并交换遁法和困法。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三十七章 得印    张御离开大堂后，回到了唐显尊给他准备的豪奢居处之内",
-        "他心中清楚，唐显尊把他们叫到一起，明显是要让他们彼此竞争，拿出最好的本事来完善章印",
-        "对于守御之印他知晓的其实并不少，毕竟他记下了青阳玄府大多数大小章印，还从折毅那处见到过诸多观想图，对此也颇有自己的见解，不然也不可能在先前论法之中得到唐显尊的认可"
+      "personality": [
+        "城府深",
+        "谨慎"
       ],
-      "mention_count": 15
+      "abilities": [
+        "锁拿之术"
+      ],
+      "equipment": [
+        "玉匣",
+        "玉简"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交易对象"
+        },
+        {
+          "target": "宫绥",
+          "type": "不满"
+        },
+        {
+          "target": "年轻女修",
+          "type": "邀请对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到张御的章印，决定交换神通。"
+        }
+      ],
+      "evidence": [
+        "唐显尊得报之后，不觉有些惊讶，先前张御说只需三日，他还以为只是一个给他人压力的策略。",
+        "唐显尊看向张御，“我观览下来，唯有张道友所演化的章印是我所需，今次我之神通当交换给张道友。”",
+        "唐显尊将张御请到了自己书房之中，待坐下之后，就拿过一只玉匣，打开之后，里面露出了两枚玉简。"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "宫绥",
+      "aliases": [
+        "宫道友",
+        "宫姓修士"
+      ],
+      "identity": "宫氏族人，玄修",
+      "faction": "宫氏",
       "status": "登场",
       "first_appearance": "第三十七章 得印",
-      "summary": "这等手段说不定这位以前做过不止一次，只是看情形，恐怕所得结果都未能令其如愿",
+      "summary": "宫氏族人，推演章印粗劣，对唐显尊的选择不满。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这等手段说不定这位以前做过不止一次，只是看情形，恐怕所得结果都未能令其如愿",
-        "只是他现下看了看，自己所知晓的那些章印多是不如此印的，哪怕这只是一枚缺印",
-        "这一步并不难，换了任何一个同辈修士过来，都是可以做到，只是耗用时间的长短有所区别而已"
+      "personality": [
+        "骄狂",
+        "气定神闲"
       ],
-      "mention_count": 9
+      "abilities": [],
+      "equipment": [
+        "玉简"
+      ],
+      "relationships": [
+        {
+          "target": "唐显尊",
+          "type": "交易对象，不满"
+        },
+        {
+          "target": "张御",
+          "type": "潜在冲突"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提交粗劣章印，被唐显尊拒绝。"
+        }
+      ],
+      "evidence": [
+        "宫姓修士当即取出一枚玉简，随手交给了身旁役从。",
+        "唐显尊接来看过之后，眉头微微一皱。这枚章印委实太过粗劣，也就是在他那枚残印稍稍修改了一些。",
+        "宫姓修士一听此言，不由眼神一厉，凝定在唐显尊脸上。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "道友",
-      "aliases": [],
-      "identity": "",
+      "name": "年轻女修",
+      "aliases": [
+        "姚道友"
+      ],
+      "identity": "玄修",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十七章 得印",
-      "summary": "他也是来至大堂之中，与张御见礼之后，有些谨慎的接过玉简，意念入内一转，不由眼神一动，待他认真看了下来之后，不禁抬起头，道：“道友所推演的章印我看过了，不过此中怎还有小印",
-      "appearance": [],
+      "summary": "受邀推演章印，但未能完成。",
+      "appearance": [
+        "着一身葛布道袍，身后背后一柄长剑"
+      ],
       "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他也是来至大堂之中，与张御见礼之后，有些谨慎的接过玉简，意念入内一转，不由眼神一动，待他认真看了下来之后，不禁抬起头，道：“道友所推演的章印我看过了，不过此中怎还有小印",
-        "”    张御道：“我观道友此印，多是用来守御某件灵活易变法器，只是大印沉而厚重，而小印在仓促之时催动更快，故是顺手推演了出来",
-        "不过他城府较深，面上并没有显露出来什么，将那玉简放到一边，道：“还需道友等上两日，那两位道友也言五日之内必会给我一个答复，我需到时再做一个比较"
+      "equipment": [
+        "长剑"
       ],
-      "mention_count": 5
+      "relationships": [
+        {
+          "target": "唐显尊",
+          "type": "邀请对象"
+        },
+        {
+          "target": "张御",
+          "type": "同辈修士"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "未能推演章印，告辞离开。"
+        }
+      ],
+      "evidence": [
+        "那年轻女修摇头道：“唐道友，抱歉了，时间太短，我推演不出来。”",
+        "那年轻女修是站了起来，道：“那我也不留在这里啦。”她对着唐显尊和张御两人一礼，便也是走了出去。",
+        "却见那年轻女修着一身葛布道袍，身后背后一柄长剑，一个人站在那里，看去似在等人。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "不过他",
+      "name": "妙丹君",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的宠物或灵兽",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第三十七章 得印",
-      "summary": "不过他却有一个较为取巧的办法",
+      "summary": "张御喂养的灵兽。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不过他却有一个较为取巧的办法",
-        "不过他的用意却不在此",
-        "不过他城府较深，面上并没有显露出来什么，将那玉简放到一边，道：“还需道友等上两日，那两位道友也言五日之内必会给我一个答复，我需到时再做一个比较"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "便就",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十七章 得印",
-      "summary": "知道这一点后，下来便就好办了，只要朝着这个方向努力便就可以",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "知道这一点后，下来便就好办了，只要朝着这个方向努力便就可以",
-        "他在深思片刻之后，便就试着用自己以往所知所学试着将此印改良了一下",
-        "”    他在告辞出来后，便就回去入定打坐"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "张御给它喂丹散。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "不由",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十七章 得印",
-      "summary": "他也是来至大堂之中，与张御见礼之后，有些谨慎的接过玉简，意念入内一转，不由眼神一动，待他认真看了下来之后，不禁抬起头，道：“道友所推演的章印我看过了，不过此中怎还有小印",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他也是来至大堂之中，与张御见礼之后，有些谨慎的接过玉简，意念入内一转，不由眼神一动，待他认真看了下来之后，不禁抬起头，道：“道友所推演的章印我看过了，不过此中怎还有小印",
-        "”    宫姓修士一听此言，不由眼神一厉，凝定在唐显尊脸上，可后者却是笑容如常，似是丝毫未曾感觉到，他哼了一声，站了起来，沉声道：“既然唐道友已是做出了选择，那在下也不便在此久留了，告辞了"
+        "他给妙丹君喂了一些丹散"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "那年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十七章 得印",
-      "summary": "唐显尊看向那年轻女修，道：“姚道友，不知你推演的如何了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "唐显尊看向那年轻女修，道：“姚道友，不知你推演的如何了",
-        "”    那年轻女修摇头道：“唐道友，抱歉了，时间太短，我推演不出来",
-        "”    那年轻女修是站了起来，道：“那我也不留在这里啦"
-      ],
-      "mention_count": 4
-    },
-    {
-      "name": "对此",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十七章 得印",
-      "summary": "对此他其实也是理解的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "对此他其实也是理解的",
-        "对于守御之印他知晓的其实并不少，毕竟他记下了青阳玄府大多数大小章印，还从折毅那处见到过诸多观想图，对此也颇有自己的见解，不然也不可能在先前论法之中得到唐显尊的认可"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十七章 得印",
-      "summary": "寻常玄修的神元如何使用每一分必须慎重思考，因为现在的选择很可能就关系到日后的道途，若是有志于攀登上境的，那么怎么谨慎都不为过，用一点小手段其实也不算什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寻常玄修的神元如何使用每一分必须慎重思考，因为现在的选择很可能就关系到日后的道途，若是有志于攀登上境的，那么怎么谨慎都不为过，用一点小手段其实也不算什么",
-        "而且此人也没有逼迫谁人，若是不愿交换，那自可离去"
-      ],
-      "mention_count": 3
-    },
-    {
-      "name": "用一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十七章 得印",
-      "summary": "寻常玄修的神元如何使用每一分必须慎重思考，因为现在的选择很可能就关系到日后的道途，若是有志于攀登上境的，那么怎么谨慎都不为过，用一点小手段其实也不算什么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "寻常玄修的神元如何使用每一分必须慎重思考，因为现在的选择很可能就关系到日后的道途，若是有志于攀登上境的，那么怎么谨慎都不为过，用一点小手段其实也不算什么"
-      ],
-      "mention_count": 3
+      "mention_count": 1
     }
   ]
 }

@@ -1,257 +1,377 @@
 {
   "chunk_id": "chunk-0044",
-  "title": "第四十三章 定使持节",
   "characters": [
     {
-      "name": "杨璎",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "张御",
+      "aliases": [
+        "张先生",
+        "先生"
+      ],
+      "identity": "泰阳学宫老师，玄府弟子",
+      "faction": "玄府",
+      "status": "已离开学宫",
       "first_appearance": "第四十三章 定使持节",
-      "summary": "杨璎因为身份极为特殊，她忍住没有参与进去，不过还是一把拉过安初儿，道：“初儿，你是怎么想的",
+      "summary": "泰阳学宫老师，玄府弟子，原为出使坚爪部落的合适人选，但被詹治同取代，现已离开学宫。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "严厉",
+        "毫不在意"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "杨璎因为身份极为特殊，她忍住没有参与进去，不过还是一把拉过安初儿，道：“初儿，你是怎么想的",
-        "”杨璎想了想，却是一阵头疼，她感觉自己的脑袋承受那么复杂的东西，她哼哼两声，道：“我不管，先生不能走",
-        "”她虽然出身卑微，可与杨璎其实也有一点淡薄的血缘关系，要不然也不会被安排进来"
+      "relationships": [
+        {
+          "target": "安初儿",
+          "type": "师生"
+        },
+        {
+          "target": "杨璎",
+          "type": "师生"
+        },
+        {
+          "target": "詹治同",
+          "type": "竞争对手"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "离开学宫，出使任务被詹治同取代。"
+        }
+      ],
+      "evidence": [
+        "只有自己的老师才是出使坚爪部落的最好人选",
+        "张御今后不会再管学堂之事了",
+        "他记得张御离去之时那毫不在意的样子"
+      ],
+      "mention_count": 12
     },
     {
       "name": "詹治同",
       "aliases": [],
-      "identity": "",
+      "identity": "节使，出使坚爪部落的使者",
       "faction": "",
-      "status": "登场",
+      "status": "被任命为节使",
       "first_appearance": "第四十三章 定使持节",
-      "summary": "由于此时再没有比詹治同更为合适的人选了，所以学宫上层一致同意由他担任节使，出使坚爪部落，负责双方的沟通交流，随后就向治署递交了呈书",
+      "summary": "被学宫上层一致同意担任节使，出使坚爪部落，视张御为仕途障碍。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "不甘",
+        "有野心"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "竞争对手"
+        },
+        {
+          "target": "詹公",
+          "type": "父子"
+        },
+        {
+          "target": "伊察",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被任命为节使，准备出使坚爪部落。"
+        }
+      ],
       "evidence": [
-        "由于此时再没有比詹治同更为合适的人选了，所以学宫上层一致同意由他担任节使，出使坚爪部落，负责双方的沟通交流，随后就向治署递交了呈书",
-        "随后更不好的消息传来，说是张御今后不会再管学堂之事了，反而有可能让那个詹治同来教他们，这让他们感到更加难以接受",
-        "能坐在这里的学子，许多人的背景来头相当大，这些人立时聚成一堆，商量着怎么回去鼓动家里人给都堂施压，赶走詹治同，让自己的老师重新回来"
+        "学宫上层一致同意由他担任节使",
+        "他之前一直视张御为自己迈向仕途的障碍",
+        "他记得张御离去之时那毫不在意的样子"
       ],
       "mention_count": 10
     },
     {
-      "name": "詹公",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 定使持节",
-      "summary": "”詹公出现在了书房门口，看了看他，道：“还在想白天的事",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”詹公出现在了书房门口，看了看他，道：“还在想白天的事",
-        "”    詹公厉声道：“你是为了赢谁么",
-        "”    詹公看他渐渐恢复常态，语气也是缓和了下来，安抚他道：“其实玄府不算什么，他们哪里懂得权力的好处"
+      "name": "杨璎",
+      "aliases": [
+        "杨卫尉"
       ],
-      "mention_count": 10
-    },
-    {
-      "name": "詹治",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "都护府卫尉，掌管五千亲卫军",
+      "faction": "都护府",
+      "status": "被罚禁闭",
       "first_appearance": "第四十三章 定使持节",
-      "summary": "由于此时再没有比詹治同更为合适的人选了，所以学宫上层一致同意由他担任节使，出使坚爪部落，负责双方的沟通交流，随后就向治署递交了呈书",
+      "summary": "张御的学生，性格冲动，试图通过弟弟和舅舅让张御回来，但被舅舅训斥并罚禁闭。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冲动",
+        "直率"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师生"
+        },
+        {
+          "target": "安初儿",
+          "type": "姐妹（有淡薄血缘）"
+        },
+        {
+          "target": "小童（都护）",
+          "type": "姐弟"
+        },
+        {
+          "target": "英武男子（舅舅）",
+          "type": "舅甥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为张御之事找弟弟和舅舅，被舅舅训斥并罚禁闭十日。"
+        }
+      ],
       "evidence": [
-        "由于此时再没有比詹治同更为合适的人选了，所以学宫上层一致同意由他担任节使，出使坚爪部落，负责双方的沟通交流，随后就向治署递交了呈书",
-        "随后更不好的消息传来，说是张御今后不会再管学堂之事了，反而有可能让那个詹治同来教他们，这让他们感到更加难以接受",
-        "能坐在这里的学子，许多人的背景来头相当大，这些人立时聚成一堆，商量着怎么回去鼓动家里人给都堂施压，赶走詹治同，让自己的老师重新回来"
+        "杨璎因为身份极为特殊",
+        "她当即迈着大步出了学堂",
+        "现在我罚你禁闭十日"
       ],
       "mention_count": 8
     },
     {
+      "name": "安初儿",
+      "aliases": [
+        "初儿"
+      ],
+      "identity": "张御的学生",
+      "faction": "",
+      "status": "在学宫",
+      "first_appearance": "第四十三章 定使持节",
+      "summary": "张御的学生，与杨璎有淡薄血缘关系，认为张御不争可能有自己的理由。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "善解人意"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师生"
+        },
+        {
+          "target": "杨璎",
+          "type": "姐妹（有淡薄血缘）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与杨璎讨论张御离开之事。"
+        }
+      ],
+      "evidence": [
+        "安初儿想到张御之前的嘱咐",
+        "她道：“我想，先生不是那么软弱的人”"
+      ],
+      "mention_count": 3
+    },
+    {
       "name": "小童",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 定使持节",
-      "summary": "“    座上的小童有些懵，好一会儿才理顺思绪，问道：“阿姐，你想换人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "“    座上的小童有些懵，好一会儿才理顺思绪，问道：“阿姐，你想换人",
-        "“    小童想了想，道：“阿姐，你要我做事，也要告诉我这事是谁定下的啊",
-        "”    小童一脸无奈，他想了想，道：“阿姐，如果是治署下的令，那就是新来的徐先生决定的，我就算都护，也没办法夺回先生的制令"
+      "aliases": [
+        "都护"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "都护",
+      "faction": "都护府",
+      "status": "在位",
       "first_appearance": "第四十三章 定使持节",
-      "summary": "在将近两个月的相处中，他们对张御这位严厉的老师已是相当信服了，并且都是认为，只有自己的老师才是出使坚爪部落的最好人选，可现在此事却被一个谁都不认识的人抢去了，试问他们又怎么会服气",
+      "summary": "杨璎的弟弟，都护，但无法干预治署的决定。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在将近两个月的相处中，他们对张御这位严厉的老师已是相当信服了，并且都是认为，只有自己的老师才是出使坚爪部落的最好人选，可现在此事却被一个谁都不认识的人抢去了，试问他们又怎么会服气",
-        "更关键的是，作为张御的学生，两者某种意义上是一体的，老师被排挤出去了，那他们身为学生，还有脸坐在这里吗",
-        "随后更不好的消息传来，说是张御今后不会再管学堂之事了，反而有可能让那个詹治同来教他们，这让他们感到更加难以接受"
+      "personality": [
+        "无奈",
+        "勉强镇定"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "你是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 定使持节",
-      "summary": "杨璎因为身份极为特殊，她忍住没有参与进去，不过还是一把拉过安初儿，道：“初儿，你是怎么想的",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "杨璎因为身份极为特殊，她忍住没有参与进去，不过还是一把拉过安初儿，道：“初儿，你是怎么想的",
-        "”    杨璎不满道：“你是都护，下个命令都不行么",
-        "”    詹公厉声道：“你是为了赢谁么"
+      "relationships": [
+        {
+          "target": "杨璎",
+          "type": "姐弟"
+        },
+        {
+          "target": "英武男子（舅舅）",
+          "type": "舅甥"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 定使持节",
-      "summary": "”    他看着杨璎，目光严厉，道：“杨卫尉，你手下掌握五千都护府亲卫军，危机时刻，需要你随时站出来卫护都护的安危，可你又去过军营几次",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他看着杨璎，目光严厉，道：“杨卫尉，你手下掌握五千都护府亲卫军，危机时刻，需要你随时站出来卫护都护的安危，可你又去过军营几次",
-        "”他看向杨璎，“但这件事不能不罚，杨卫尉，现在我罚你禁闭十日，没我准许，不准出来，听到了么",
-        "”    詹公道：“现在的机会正好，张御不在，没人来碍事，他的学生也就懂一点皮毛，都护府只能依靠你，所以你无论想做什么，他们也只能选择相信，对了……”    他看着自己儿子，“那个什么伊察安排好了么"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被杨璎要求下令让张御回来，但表示无能为力。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "父亲",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 定使持节",
-      "summary": "”    詹治同半转身过来，道：“父亲，儿子只是没想到，他竟然是玄府的人，这样小儿真的算是赢了他么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    詹治同半转身过来，道：“父亲，儿子只是没想到，他竟然是玄府的人，这样小儿真的算是赢了他么",
-        "”    詹治同微微低着头慢慢抬了起来，缓缓道：“父亲，我知道了",
-        "”    詹治同知道没有这么简单，几十年前那一战，都护府高层也都一样上战场了，就算他的父亲，也一样去过，只是当时是负责处理的是后勤，后又受了重伤昏迷，这才侥幸活着回来，可不管如何，这番话也是给了他一点安慰"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "你手",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第四十三章 定使持节",
-      "summary": "”    他看着杨璎，目光严厉，道：“杨卫尉，你手下掌握五千都护府亲卫军，危机时刻，需要你随时站出来卫护都护的安危，可你又去过军营几次",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他看着杨璎，目光严厉，道：“杨卫尉，你手下掌握五千都护府亲卫军，危机时刻，需要你随时站出来卫护都护的安危，可你又去过军营几次",
-        "你手下的营管你认识几个"
+        "座上的小童有些懵",
+        "我就算都护，也没办法夺回先生的制令"
       ],
       "mention_count": 5
     },
     {
-      "name": "都护府",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "英武男子",
+      "aliases": [
+        "舅舅",
+        "都尉"
+      ],
+      "identity": "都尉，杨璎的舅舅",
+      "faction": "都护府",
+      "status": "在场",
       "first_appearance": "第四十三章 定使持节",
-      "summary": "”    他看着杨璎，目光严厉，道：“杨卫尉，你手下掌握五千都护府亲卫军，危机时刻，需要你随时站出来卫护都护的安危，可你又去过军营几次",
-      "appearance": [],
-      "personality": [],
+      "summary": "杨璎的舅舅，都尉，严厉训斥杨璎并罚其禁闭。",
+      "appearance": [
+        "头戴鹖冠，身着黑红武尉衣",
+        "形貌英武，仪态威严，不苟言笑"
+      ],
+      "personality": [
+        "严厉",
+        "威严"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "杨璎",
+          "type": "舅甥"
+        },
+        {
+          "target": "小童",
+          "type": "舅甥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "训斥杨璎并罚其禁闭。"
+        }
+      ],
       "evidence": [
-        "”    他看着杨璎，目光严厉，道：“杨卫尉，你手下掌握五千都护府亲卫军，危机时刻，需要你随时站出来卫护都护的安危，可你又去过军营几次",
-        "瑞光城詹府书房内，詹治同看着都护府送来的使节衣冠，此刻却根本就没有胜利的感觉",
-        "说是超脱世外，可是东廷都护府建立这一百年来，玄府还没有一个真正能长生超脱的，还不是都死在战场上了"
+        "一个身着头戴鹖冠，身着黑红武尉衣的中年男子出现在了大堂门口",
+        "英武男子走了进来，面无表情道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "詹公",
+      "aliases": [],
+      "identity": "詹治同的父亲",
+      "faction": "",
+      "status": "在家",
+      "first_appearance": "第四十三章 定使持节",
+      "summary": "詹治同的父亲，为儿子谋划仕途，用尽人情促成出使任务。",
+      "appearance": [],
+      "personality": [
+        "严厉",
+        "有谋略"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹治同",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与詹治同谈话，鼓励他抓住机会。"
+        }
+      ],
+      "evidence": [
+        "詹公出现在了书房门口",
+        "今次我豁出这张老脸，几乎用尽了人情才促成了此事"
       ],
       "mention_count": 5
     },
     {
-      "name": "张御",
+      "name": "伊察",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "酋首，手下七八十人",
+      "faction": "坚爪部落（自称）",
+      "status": "在詹府",
       "first_appearance": "第四十三章 定使持节",
-      "summary": "第四十三章 定使持节    就在张御与蔡蕹等人向着前方驻屯镇赶去的时候，他并不知道，在自己离开后，泰阳学宫却也并没有因此平静下来",
+      "summary": "詹治同在南域遇到的酋首，手下只有七八十人，被詹治同父子利用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹治同",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被詹治同安排，白天在堂上下跪。"
+        }
+      ],
+      "evidence": [
+        "那个什么伊察安排好了么？",
+        "这个人是詹治同暗中去往南域时试图与坚爪部落沟通时遇上的"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "柳奉全",
+      "aliases": [],
+      "identity": "治署署公",
+      "faction": "治署",
+      "status": "新上任",
+      "first_appearance": "第四十三章 定使持节",
+      "summary": "新上任的治署署公，批准了詹治同的节使任命。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第四十三章 定使持节    就在张御与蔡蕹等人向着前方驻屯镇赶去的时候，他并不知道，在自己离开后，泰阳学宫却也并没有因此平静下来",
-        "在将近两个月的相处中，他们对张御这位严厉的老师已是相当信服了，并且都是认为，只有自己的老师才是出使坚爪部落的最好人选，可现在此事却被一个谁都不认识的人抢去了，试问他们又怎么会服气",
-        "更关键的是，作为张御的学生，两者某种意义上是一体的，老师被排挤出去了，那他们身为学生，还有脸坐在这里吗"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "批准了詹治同的节使任命。"
+        }
       ],
-      "mention_count": 5
+      "evidence": [
+        "这月方才上任的治署署公柳奉全没有任何拖延，立刻就将准许批了下来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "蔡蕹",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "与张御同行",
+      "first_appearance": "第四十三章 定使持节",
+      "summary": "与张御一同向驻屯镇赶去的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同向驻屯镇赶去。"
+        }
+      ],
+      "evidence": [
+        "就在张御与蔡蕹等人向着前方驻屯镇赶去的时候"
+      ],
+      "mention_count": 1
     }
   ]
 }

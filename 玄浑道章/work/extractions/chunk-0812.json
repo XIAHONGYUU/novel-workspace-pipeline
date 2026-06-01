@@ -1,257 +1,520 @@
 {
   "chunk_id": "chunk-0812",
-  "title": "第一百零七章 陆海生疑影",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张先生",
+        "玄首"
+      ],
+      "identity": "玄尊，东庭府洲玄首",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "第一百零七章 陆海生疑影    张御派下查问的令谕后，就在守正宫中修持炼丹",
+      "first_appearance": "第001章 穿越",
+      "summary": "东庭府洲玄首，正在调查毕明相关线索，并处理郭樱遇袭事件。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "冷静"
+      ],
+      "abilities": [
+        "心光",
+        "玄浑蝉观想图",
+        "分光剑影"
+      ],
+      "equipment": [
+        "玄浑蝉"
+      ],
+      "relationships": [
+        {
+          "target": "安知之",
+          "type": "师生"
+        },
+        {
+          "target": "项淳",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "派下查问令谕后修持炼丹，收到许成通文书，派玄浑蝉下界查探毕明踪迹。"
+        },
+        {
+          "stage": "当前",
+          "event": "得知郭樱遇袭，弹指发出分光剑影。"
+        }
+      ],
+      "evidence": [
+        "张御派下查问的令谕后，就在守正宫中修持炼丹。",
+        "他心意一动，身上心光一闪，玄浑蝉观想图已是自身躯之中飞遁出来",
+        "他目光一注，霎时一道分光剑影跃跳出来，而后伸指一弹"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "许成通",
+      "aliases": [],
+      "identity": "查问人员",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "负责查问陆归之子池高，发现陆巢遗留文书并上报张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从何礼处得到池高下落，找到池高，发现陆巢文书并整理上报。"
+        }
+      ],
+      "evidence": [
+        "根据许成通的描述，事情其实还算顺利。",
+        "许成通在查验过后，发现这些文书涉及到了一桩隐秘，他不敢擅自作主，就将这些东西整理成册，全部送呈了上来。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "何礼",
+      "aliases": [],
+      "identity": "提供线索者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "提供了陆归之子池高的下落。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百零七章 陆海生疑影    张御派下查问的令谕后，就在守正宫中修持炼丹",
-        "张御把这些送呈到此文书的看了下来，发现上面俱是隐隐指向了某一处地界",
-        "在东庭建立天机院分院不是小事，为了事机顺利，需得有足够得力的人物来主持，也需要与张御这位玄首打好关系"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向许成通提供池高下落。"
+        }
       ],
-      "mention_count": 9
+      "evidence": [
+        "在从何礼那处得到了陆归之子池高的下落后"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陆归",
+      "aliases": [],
+      "identity": "池高之父，外层征战者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "池高的父亲，离去前与池高见了一面，但未留下特殊交代。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "池高",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "因要去外层征战，以亲生父亲身份见池高一面。"
+        }
+      ],
+      "evidence": [
+        "陆归之子池高",
+        "陆归离去前与其见有一面，实际上也没有交代什么东西，只是因为要去外层征战"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "池高",
+      "aliases": [],
+      "identity": "陆归之子，寻常人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "陆归之子，自小寄养他人，与陆归感情淡薄，保留有祖陆巢的文书。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陆归",
+          "type": "父子"
+        },
+        {
+          "target": "陆巢",
+          "type": "祖孙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被许成通找到，提供陆巢文书。"
+        }
+      ],
+      "evidence": [
+        "池高却只是一个寻常人",
+        "池高手边，至今还保留着其祖陆巢早年留下来的大量文书"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "陆巢",
+      "aliases": [],
+      "identity": "池高之祖，毕明的学生？",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "池高的祖父，留下大量文书，其中涉及毕明相关线索。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "池高",
+          "type": "祖孙"
+        },
+        {
+          "target": "毕明",
+          "type": "师生？"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "根据毕明留下的线索找寻老师下落。"
+        }
+      ],
+      "evidence": [
+        "其祖陆巢早年留下来的大量文书",
+        "陆巢其实也不知道毕明想做什么，只是根据毕明早前留下的线索"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "毕明",
+      "aliases": [],
+      "identity": "正清一脉相关人物，与朱凤、元童同行",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "两百多年前与朱凤、元童离开天夏，与正清三人论法后深入荒原，后独自离去。",
+      "appearance": [
+        "身形瘦长，身着大氅，两只大袖如同羽翼一般"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱凤",
+          "type": "同行者"
+        },
+        {
+          "target": "元童",
+          "type": "同行者"
+        },
+        {
+          "target": "陆巢",
+          "type": "老师？"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两百多年前",
+          "event": "与朱凤、元童在正清一脉驻地论法后深入荒原，后独自离去。"
+        }
+      ],
+      "evidence": [
+        "朱凤、元童、毕明三人",
+        "最后一人，身形瘦长，身着大氅，两只大袖如同羽翼一般，当便就是毕明了",
+        "最后只余下毕明一人"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "朱凤",
+      "aliases": [],
+      "identity": "与毕明、元童同行者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "两百多年前与毕明、元童离开天夏，后与毕明分开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "毕明",
+          "type": "同行者"
+        },
+        {
+          "target": "元童",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两百多年前",
+          "event": "与毕明、元童在正清一脉驻地论法后深入荒原，后与毕明分开。"
+        }
+      ],
+      "evidence": [
+        "朱凤、元童、毕明三人",
+        "元童第一个离去，下来那毕明又与朱凤说了些什么，后者只是摇头，过不许久也是飞遁离去"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "元童",
+      "aliases": [],
+      "identity": "与毕明、朱凤同行者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "两百多年前与毕明、朱凤离开天夏，后第一个离去。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "毕明",
+          "type": "同行者"
+        },
+        {
+          "target": "朱凤",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两百多年前",
+          "event": "与毕明、朱凤在正清一脉驻地论法后深入荒原，第一个离去。"
+        }
+      ],
+      "evidence": [
+        "朱凤、元童、毕明三人",
+        "元童第一个离去"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "岑传",
+      "aliases": [],
+      "identity": "玄尊，坐镇昌合府洲",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "本段",
+      "summary": "昌合府洲的玄尊，以化身坐镇，感应到玄浑蝉但未理会。",
+      "appearance": [],
+      "personality": [
+        "冷笑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "坐于玄府中，感应到玄浑蝉但以为是玄廷察观，未理会。"
+        }
+      ],
+      "evidence": [
+        "岑传此刻正坐于玄府之中",
+        "他心中忽有生出了些许感应，但是默察了片刻，却是什么都没有发现",
+        "冷笑一声，也没有多去理会"
+      ],
+      "mention_count": 2
     },
     {
       "name": "安知之",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "随着舱门旋开，安知之带着自己的随从卫山自里走了出来，他站在泊台之上，睁大眼睛看去壮阔的大陆和更远处那灰蓝色的绵长山影，惊呼道：“这是老师所在府洲了，哇，好高的山峰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着舱门旋开，安知之带着自己的随从卫山自里走了出来，他站在泊台之上，睁大眼睛看去壮阔的大陆和更远处那灰蓝色的绵长山影，惊呼道：“这是老师所在府洲了，哇，好高的山峰",
-        "安知之大声道：“我决定了，我以后就留在内层了",
-        "安知之年龄虽小，身份可不低"
+      "aliases": [
+        "小郎"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "玄浑蝉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御的学生，天工部师匠",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "于是他心意一动，身上心光一闪，玄浑蝉观想图已是自身躯之中飞遁出来，绕着他飞旋一圈后，灿烂双翼一振，便已是遁去了下界",
+      "first_appearance": "本段",
+      "summary": "张御的学生，随郭樱来东庭建立天机院分院，先一步到达东庭。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "于是他心意一动，身上心光一闪，玄浑蝉观想图已是自身躯之中飞遁出来，绕着他飞旋一圈后，灿烂双翼一振，便已是遁去了下界",
-        "内层地陆某处，光芒一闪，玄浑蝉出现在了半空之中，在它的前方，可以见到一座壮伟得城池，而四周围则是一道道形如飞虹的长桥，只是周围湖泊水气弥漫，使得城桥轮廓若隐若现",
-        "玄浑蝉此刻身上裹了一层幽气，遮掩去了原先灿灿光芒，在府洲之外飞旋了一会儿，这才离了此间，往西面荒原深处飞遁而去"
+      "personality": [
+        "得意",
+        "好奇"
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "可从文书之中残留的记述，还有里面大量的疑问语句来看，陆巢其实也不知道毕明想做什么，只是根据毕明早前留下的线索，还有只言片语所以在试着找寻自己老师的下落",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可从文书之中残留的记述，还有里面大量的疑问语句来看，陆巢其实也不知道毕明想做什么，只是根据毕明早前留下的线索，还有只言片语所以在试着找寻自己老师的下落",
-        "而接下来，还有大批移民要迁来东庭，要是知晓路上不安全，那难免会生出极大波折，甚至可能使得东庭扩府之事生出一定的变数"
+      "abilities": [
+        "打造飞舟"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "安知",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "随着舱门旋开，安知之带着自己的随从卫山自里走了出来，他站在泊台之上，睁大眼睛看去壮阔的大陆和更远处那灰蓝色的绵长山影，惊呼道：“这是老师所在府洲了，哇，好高的山峰",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着舱门旋开，安知之带着自己的随从卫山自里走了出来，他站在泊台之上，睁大眼睛看去壮阔的大陆和更远处那灰蓝色的绵长山影，惊呼道：“这是老师所在府洲了，哇，好高的山峰",
-        "安知之大声道：“我决定了，我以后就留在内层了",
-        "安知之年龄虽小，身份可不低"
+      "equipment": [
+        "小型飞舟"
       ],
-      "mention_count": 7
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师生"
+        },
+        {
+          "target": "郭樱",
+          "type": "师生"
+        },
+        {
+          "target": "卫山",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘飞舟到达东庭府洲旦港，准备拜见张御。"
+        }
+      ],
+      "evidence": [
+        "安知之带着自己的随从卫山自里走了出来",
+        "安知之年龄虽小，身份可不低",
+        "安知之道：'先去拜见老师。'"
+      ],
+      "mention_count": 6
     },
     {
       "name": "卫山",
       "aliases": [],
-      "identity": "",
+      "identity": "安知之的随从",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "随着舱门旋开，安知之带着自己的随从卫山自里走了出来，他站在泊台之上，睁大眼睛看去壮阔的大陆和更远处那灰蓝色的绵长山影，惊呼道：“这是老师所在府洲了，哇，好高的山峰",
+      "first_appearance": "本段",
+      "summary": "安知之的随从，陪同安知之前来东庭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随着舱门旋开，安知之带着自己的随从卫山自里走了出来，他站在泊台之上，睁大眼睛看去壮阔的大陆和更远处那灰蓝色的绵长山影，惊呼道：“这是老师所在府洲了，哇，好高的山峰",
-        "卫山深吸了一口气，道：“小郎，这里没有虚空外邪，呼吸好像也顺畅了许多",
-        "”    卫山张了张嘴，可犹豫了一下，最后什么话也没说"
+      "relationships": [
+        {
+          "target": "安知之",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随安知之到达东庭。"
+        }
+      ],
+      "evidence": [
+        "安知之带着自己的随从卫山自里走了出来",
+        "卫山深吸了一口气"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "他看",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "他看了一下，根据许成通的描述，事情其实还算顺利",
+      "name": "郭樱",
+      "aliases": [
+        "郭大匠"
+      ],
+      "identity": "天工部大匠，宗匠门下",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "天工部大匠，负责东庭天机院分院建立，在海上遇袭。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看了一下，根据许成通的描述，事情其实还算顺利",
-        "他看过之后，不觉点了下头",
-        "他看着这些光芒，不知道为什么，心里有种不安的感觉生出"
+      "relationships": [
+        {
+          "target": "安知之",
+          "type": "师生"
+        },
+        {
+          "target": "张御",
+          "type": "合作"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在来东庭的海上遇袭。"
+        }
+      ],
+      "evidence": [
+        "郭樱大匠等那人的飞舟在过来东庭的海上遇到了袭击",
+        "此次负责此事的大匠乃是郭樱"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "却是",
+      "name": "项淳",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "张御的下属",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "本来线索到此可能就断了，可随着继续深入问下去，却是又有了意外收获",
+      "first_appearance": "本段",
+      "summary": "向张御报告郭樱遇袭消息。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "肃容"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "本来线索到此可能就断了，可随着继续深入问下去，却是又有了意外收获",
-        "这个时候，他心中忽有生出了些许感应，但是默察了片刻，却是什么都没有发现，    他料到必然是与自己同层次人的手段，但只以为这是玄廷在察观自己，冷笑一声，也没有多去理会，继续定坐不动",
-        "”    这是他第一次来内层，虽然外层地星上也有各种奇特地貌和奇景，可他年纪小，荒陆不常去，所到的地方多是人烟密集的地州，却是从来没有见过这么雄伟壮阔的景象"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "遁光至洞府前向张御报告郭樱遇袭。"
+        }
+      ],
+      "evidence": [
+        "项淳遁光来至洞府前，对着站在此间的张御拱手一礼",
+        "项淳肃容道：'也是传告了。'"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "玄浑",
+      "name": "陈师弟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "于是他心意一动，身上心光一闪，玄浑蝉观想图已是自身躯之中飞遁出来，绕着他飞旋一圈后，灿烂双翼一振，便已是遁去了下界",
+      "identity": "项淳的师弟",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "本段",
+      "summary": "被项淳派去处理郭樱遇袭事件。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "于是他心意一动，身上心光一闪，玄浑蝉观想图已是自身躯之中飞遁出来，绕着他飞旋一圈后，灿烂双翼一振，便已是遁去了下界",
-        "内层地陆某处，光芒一闪，玄浑蝉出现在了半空之中，在它的前方，可以见到一座壮伟得城池，而四周围则是一道道形如飞虹的长桥，只是周围湖泊水气弥漫，使得城桥轮廓若隐若现",
-        "玄浑蝉此刻身上裹了一层幽气，遮掩去了原先灿灿光芒，在府洲之外飞旋了一会儿，这才离了此间，往西面荒原深处飞遁而去"
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄弟"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "在从何礼那处得到了陆归之子池高的下落后，他们很快便找到了此人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "在从何礼那处得到了陆归之子池高的下落后，他们很快便找到了此人",
-        "根据朱凤说法，他们三人当初是在当地一座最高山峰之上分道扬镳的，可现在见得到却只是一座土丘，这并不奇怪，由于浊潮的影响，内层一直在扩大膨胀之中，地形改变是很常见的事情",
-        "”    因为东庭这里没有通向外层的出入门户，所以他们这一次是从外层穿渡到青阳上洲，而后再渡海而来的，一路上感觉都很舒服，似乎卸去了什么重担一般"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被项淳派去处理郭樱遇袭。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "他判断五六天之内当是会有结果，不过只是三天过去，传报文书就由神人值司送到了他案上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他判断五六天之内当是会有结果，不过只是三天过去，传报文书就由神人值司送到了他案上",
-        "只是随后便发现，作为陆归的子嗣，池高却只是一个寻常人，平日与修道人也没有什么交集",
-        "至于陆归离去前与其见有一面，实际上也没有交代什么东西，只是因为要去外层征战，故是以其亲生父亲的身份来见他一面"
+        "我已是让陈师弟他先一步赶去了"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "内层",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零七章 陆海生疑影",
-      "summary": "内层地陆某处，光芒一闪，玄浑蝉出现在了半空之中，在它的前方，可以见到一座壮伟得城池，而四周围则是一道道形如飞虹的长桥，只是周围湖泊水气弥漫，使得城桥轮廓若隐若现",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "内层地陆某处，光芒一闪，玄浑蝉出现在了半空之中，在它的前方，可以见到一座壮伟得城池，而四周围则是一道道形如飞虹的长桥，只是周围湖泊水气弥漫，使得城桥轮廓若隐若现",
-        "根据朱凤说法，他们三人当初是在当地一座最高山峰之上分道扬镳的，可现在见得到却只是一座土丘，这并不奇怪，由于浊潮的影响，内层一直在扩大膨胀之中，地形改变是很常见的事情",
-        "”    这是他第一次来内层，虽然外层地星上也有各种奇特地貌和奇景，可他年纪小，荒陆不常去，所到的地方多是人烟密集的地州，却是从来没有见过这么雄伟壮阔的景象"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

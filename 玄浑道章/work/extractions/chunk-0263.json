@@ -1,258 +1,382 @@
 {
   "chunk_id": "chunk-0263",
-  "title": "第三十六章 波澜",
   "characters": [
     {
-      "name": "温仪",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张士君",
+        "张玄正",
+        "张道友"
+      ],
+      "identity": "青阳上洲玄正",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第三十六章 波澜",
-      "summary": "晨光亮起未久，温仪脚步轻快的来到了苏芊的舱房之内，苏芊正在沉睡之中，她修长的双腿搁在前方，整个人躺在软椅之中",
+      "summary": "新任青阳上洲玄正，原东庭都护府人士，在学宫闭关后前往玄府。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "祭炼法器",
+        "蝉光剑"
+      ],
+      "equipment": [
+        "飞舟",
+        "蝉光剑",
+        "三件法器"
+      ],
+      "relationships": [
+        {
+          "target": "蒙严",
+          "type": "合作"
+        },
+        {
+          "target": "苏芊",
+          "type": "被支持"
+        },
+        {
+          "target": "惠元武",
+          "type": "被投奔"
+        },
+        {
+          "target": "齐羽",
+          "type": "被观望"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闭关半月祭炼法器后出关，前往玄府途中遭遇刺杀，反杀刺客。"
+        }
+      ],
+      "evidence": [
+        "玄廷既授予这位以玄正之职",
+        "张御没有去理会外面变化，依旧是在学宫之中闭关",
+        "就在刹那间之间，一道剑光已是从同时旋开的舱门之中飞了出去"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "蒙严",
+      "aliases": [
+        "监御使"
+      ],
+      "identity": "青阳上洲监御使",
+      "faction": "洲府",
+      "status": "登场",
+      "first_appearance": "第三十六章 波澜",
+      "summary": "青阳上洲监御使，对张御成为玄正感到感慨，决定配合张御行事。",
+      "appearance": [],
+      "personality": [
+        "感慨",
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        },
+        {
+          "target": "薛治",
+          "type": "下属"
+        },
+        {
+          "target": "郑纠",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知张御成为玄正后，命薛治和郑纠配合张御。"
+        }
+      ],
+      "evidence": [
+        "监御使蒙严也是很快得知了这个消息",
+        "他思考许久之后，就命人把薛治和郑纠都是找了过来"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "薛治",
+      "aliases": [],
+      "identity": "检正司人员",
+      "faction": "检正司",
+      "status": "提及",
+      "first_appearance": "第三十六章 波澜",
+      "summary": "检正司人员，被蒙严召见要求配合张御。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "晨光亮起未久，温仪脚步轻快的来到了苏芊的舱房之内，苏芊正在沉睡之中，她修长的双腿搁在前方，整个人躺在软椅之中",
-        "温仪来到她身边，轻声唤道：“校尉",
-        "”    苏芊眼帘一开，警惕的醒了过来，她漆黑有神的眸子在看到温仪后，目光才又柔和了下来，揉了一下额角，道：“我睡了多久了"
+      "relationships": [
+        {
+          "target": "蒙严",
+          "type": "下属"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被蒙严召见，受命配合张御。"
+        }
+      ],
+      "evidence": [
+        "就命人把薛治和郑纠都是找了过来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "郑纠",
+      "aliases": [],
+      "identity": "检正司人员",
+      "faction": "检正司",
+      "status": "提及",
+      "first_appearance": "第三十六章 波澜",
+      "summary": "检正司人员，被蒙严召见要求配合张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "蒙严",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被蒙严召见，受命配合张御。"
+        }
+      ],
+      "evidence": [
+        "就命人把薛治和郑纠都是找了过来"
+      ],
+      "mention_count": 1
     },
     {
       "name": "苏芊",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "校尉"
+      ],
+      "identity": "光烨营校尉",
+      "faction": "光烨营",
       "status": "登场",
       "first_appearance": "第三十六章 波澜",
-      "summary": "晨光亮起未久，温仪脚步轻快的来到了苏芊的舱房之内，苏芊正在沉睡之中，她修长的双腿搁在前方，整个人躺在软椅之中",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "晨光亮起未久，温仪脚步轻快的来到了苏芊的舱房之内，苏芊正在沉睡之中，她修长的双腿搁在前方，整个人躺在软椅之中",
-        "”    苏芊眼帘一开，警惕的醒了过来，她漆黑有神的眸子在看到温仪后，目光才又柔和了下来，揉了一下额角，道：“我睡了多久了",
-        "”    苏芊蹙眉道：“你应该早点叫醒我的"
+      "summary": "光烨营校尉，得知张御成为玄正后感到高兴，决定送古物给张御。",
+      "appearance": [
+        "修长的双腿",
+        "漆黑有神的眸子"
       ],
-      "mention_count": 14
+      "personality": [
+        "警惕",
+        "温柔"
+      ],
+      "abilities": [
+        "呼吸法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "温仪",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "被支持"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟中醒来，阅读后方报书，得知张御成为玄正。"
+        }
+      ],
+      "evidence": [
+        "苏芊正在沉睡之中",
+        "她眼眸一亮，道：“张士君？玄正？”",
+        "她把我们在战场上收缴的那些东西，挑些给张玄正送过去"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "他们",
+      "name": "温仪",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "苏芊的下属",
+      "faction": "光烨营",
       "status": "登场",
       "first_appearance": "第三十六章 波澜",
-      "summary": "以往检正司来查验，他们还能用玄修不受洲府管束来拒绝，或者干脆抬出玄首的名头来庇佑自己，而且这同样做也是受到玄首默许的",
+      "summary": "苏芊的下属，负责传递文书和礼物。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "温柔"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "以往检正司来查验，他们还能用玄修不受洲府管束来拒绝，或者干脆抬出玄首的名头来庇佑自己，而且这同样做也是受到玄首默许的",
-        "可若是一洲玄正来查验他们，那完全就是名正言顺了，且因为这是玄廷所授予的权责，连玄首都没有办法说什么",
-        "而当这位玄正与检正司联合在一起之后，他们又当拿什么名义去对抗"
+      "relationships": [
+        {
+          "target": "苏芊",
+          "type": "下属"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 波澜",
-      "summary": "他之前对张御的了解其实并不多，送上呈书拓玉的时候，也并未指望玄廷真能有所回应，就如他自己所言，只是以备万一的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他之前对张御的了解其实并不多，送上呈书拓玉的时候，也并未指望玄廷真能有所回应，就如他自己所言，只是以备万一的",
-        "”    温仪只是温柔的笑了笑",
-        "可他目光一落，发现这仍是原来那一股灵性力量的具现，只是看去变得更为凝实，更为真实了一些，乍一看去，已与原来的身躯没什么区别了，不过真正的妙丹君，此刻还在竹篮里长睡，但看来就快要醒来了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "叫醒苏芊并递上后方报书。"
+        }
       ],
-      "mention_count": 7
+      "evidence": [
+        "温仪脚步轻快的来到了苏芊的舱房之内",
+        "温仪双手递上一份文书"
+      ],
+      "mention_count": 3
     },
     {
       "name": "惠元武",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "老武"
+      ],
+      "identity": "玄修",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十六章 波澜",
-      "summary": "”    而另一边，同样得知了消息的惠元武也是为之振奋不已",
+      "summary": "玄修，得知张御成为玄正后想投奔，但被齐羽劝阻。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "振奋",
+        "直率"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    而另一边，同样得知了消息的惠元武也是为之振奋不已",
-        "”    惠元武不解道：“为什么",
-        "”    惠元武皱眉道：“所以老齐你不看好张道友能做成此事"
+      "relationships": [
+        {
+          "target": "齐羽",
+          "type": "朋友"
+        },
+        {
+          "target": "张御",
+          "type": "想投奔"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "青阳",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 波澜",
-      "summary": "第三十六章 波澜    青阳上洲之中，玄廷传诏只在五六十年前才有过一两回，且这两次是为对抗外敌而颁，可这一次，却是直接颁给一个人，故这一回，这引发的影响可谓极大",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三十六章 波澜    青阳上洲之中，玄廷传诏只在五六十年前才有过一两回，且这两次是为对抗外敌而颁，可这一次，却是直接颁给一个人，故这一回，这引发的影响可谓极大",
-        "青阳上洲洲治光州之中，监御使蒙严也是很快得知了这个消息，他闻听之后，心下一时感慨万端",
-        "”    青阳上洲北方域外，某处临时搭建泊舟天台上，通体亮银色的云母号飞舟正静静的停靠在这里"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知张御成为玄正后想投奔，但被齐羽劝阻。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "目光",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 波澜",
-      "summary": "”    苏芊眼帘一开，警惕的醒了过来，她漆黑有神的眸子在看到温仪后，目光才又柔和了下来，揉了一下额角，道：“我睡了多久了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    苏芊眼帘一开，警惕的醒了过来，她漆黑有神的眸子在看到温仪后，目光才又柔和了下来，揉了一下额角，道：“我睡了多久了",
-        "可他目光一落，发现这仍是原来那一股灵性力量的具现，只是看去变得更为凝实，更为真实了一些，乍一看去，已与原来的身躯没什么区别了，不过真正的妙丹君，此刻还在竹篮里长睡，但看来就快要醒来了",
-        "目光望去，见地下躺着一具无头残尸，其人衣饰十分寻常，从上到下看不出具体来历，只是手心之中却是抓着一个闪着乌光的东西"
+        "惠元武也是为之振奋不已",
+        "不如直接去投奔张道友如何？"
       ],
-      "mention_count": 6
+      "mention_count": 3
     },
     {
       "name": "齐羽",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "老齐"
+      ],
+      "identity": "玄修",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十六章 波澜",
-      "summary": "他晃了晃手中书信，兴冲冲的对齐羽言道：“老齐，张道友成了玄正，那他下来一定会着手料理那些道派，那么我也不必去找明道友了，也不必费心思建立什么道派了，不如直接去投奔张道友如何",
+      "summary": "玄修，对张御成为玄正持观望态度，认为局势复杂。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他晃了晃手中书信，兴冲冲的对齐羽言道：“老齐，张道友成了玄正，那他下来一定会着手料理那些道派，那么我也不必去找明道友了，也不必费心思建立什么道派了，不如直接去投奔张道友如何",
-        "”    齐羽却是摇头，道：“现在不妥，我们还需再观望一二，我以为，我们原来的打算并不需要改变",
-        "”    齐羽看去很是冷静，道：“张道友现在虽是得了玄正之职，可是我们玄修终究还是要看修为说话的"
+      "relationships": [
+        {
+          "target": "惠元武",
+          "type": "朋友"
+        },
+        {
+          "target": "张御",
+          "type": "观望"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "劝阻惠元武立即投奔张御，建议先观望。"
+        }
+      ],
+      "evidence": [
+        "齐羽却是摇头，道：“现在不妥”",
+        "齐羽看去很是冷静"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "玄廷",
+      "name": "李青禾",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的侍从",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十六章 波澜",
-      "summary": "第三十六章 波澜    青阳上洲之中，玄廷传诏只在五六十年前才有过一两回，且这两次是为对抗外敌而颁，可这一次，却是直接颁给一个人，故这一回，这引发的影响可谓极大",
+      "summary": "张御的侍从，负责处理来访和请假事宜。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "认真"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第三十六章 波澜    青阳上洲之中，玄廷传诏只在五六十年前才有过一两回，且这两次是为对抗外敌而颁，可这一次，却是直接颁给一个人，故这一回，这引发的影响可谓极大",
-        "可若是一洲玄正来查验他们，那完全就是名正言顺了，且因为这是玄廷所授予的权责，连玄首都没有办法说什么",
-        "他之前对张御的了解其实并不多，送上呈书拓玉的时候，也并未指望玄廷真能有所回应，就如他自己所言，只是以备万一的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "侍从"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御汇报闭关期间情况。"
+        }
+      ],
+      "evidence": [
+        "把李青禾找来，询问了下外面情形",
+        "李青禾认真道：“青禾明白。”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "可是",
+      "name": "妙丹君",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的灵性力量具现",
       "faction": "",
       "status": "登场",
       "first_appearance": "第三十六章 波澜",
-      "summary": "蒙严认为，如果玄廷之前派遣一名玄正到来，或许就能解决此事了，可是不知出于什么原因，玄廷一直不曾做过如此选择",
-      "appearance": [],
+      "summary": "张御的灵性力量具现，形似猫，变得更为凝实。",
+      "appearance": [
+        "金光一闪",
+        "凝实"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "蒙严认为，如果玄廷之前派遣一名玄正到来，或许就能解决此事了，可是不知出于什么原因，玄廷一直不曾做过如此选择",
-        "可是渐渐的，开阳学宫却是变成向青阳军府提供人才了",
-        "可是这些年来，优秀学子全都是奔着青阳军府而去，只有剩下一些无处可去的学子才会到光烨营来"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "校尉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 波澜",
-      "summary": "温仪来到她身边，轻声唤道：“校尉",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "温仪来到她身边，轻声唤道：“校尉",
-        "”    温仪双手递上一份文书，道：“后方传来的报书，校尉看了或许会很高兴",
-        "”    温仪点头道：“好的，校尉，我会送到的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在张御出关时跃到近前。"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第三十六章 波澜",
-      "summary": "”她唇角微弯，道：“看来当初我们请对了人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”她唇角微弯，道：“看来当初我们请对了人",
-        "”    温仪微笑道：“听说张玄正在学宫能很受学子的欢迎，我们光烨营今年想来可以挑选到更多更优秀的学子了",
-        "她想了想，道：”张玄正特别喜好古物，你把我们在战场上收缴的那些东西，挑些给张玄正送过去"
+        "眼前金光一闪，却是妙丹君跃到了近前"
       ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

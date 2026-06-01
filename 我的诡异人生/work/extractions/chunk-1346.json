@@ -1,0 +1,224 @@
+{
+  "chunk_id": "chunk-1346",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "尊者"
+      ],
+      "identity": "修行者，掌控轮回诡韵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "强大的修行者，能操控轮回诡韵，使法智经历生死轮回。",
+      "appearance": [
+        "高大青年"
+      ],
+      "personality": [
+        "冷静",
+        "果断",
+        "洞察力强"
+      ],
+      "abilities": [
+        "操控轮回诡韵",
+        "性意覆淹",
+        "故始祭目"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "法智",
+          "type": "对峙后引导"
+        },
+        {
+          "target": "不空",
+          "type": "敌对"
+        },
+        {
+          "target": "善无畏",
+          "type": "怀疑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在兴善寺内与法智对峙，展示轮回诡韵能力。"
+        },
+        {
+          "stage": "当前",
+          "event": "前往善无畏圆寂的佛堂，验看佛骨舍利。"
+        },
+        {
+          "stage": "当前",
+          "event": "在深巷中与法智对话，暗示善无畏之死有蹊跷。"
+        }
+      ],
+      "evidence": [
+        "苏午点了点头，一缕缕轮回诡韵从他体内播散而出",
+        "苏午无声地笑了笑，道：“看来你亦不知内情，便莽撞地替人出头，如今却是被当枪使了。”",
+        "苏午张开故始祭目，观察那僧所捧锦盒中的所谓‘佛骨舍利’"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "法智",
+      "aliases": [
+        "和尚"
+      ],
+      "identity": "高僧，受邀至兴善寺",
+      "faction": "佛教",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一位高僧，被苏午以轮回诡韵经历生死轮回后，对苏午产生敬畏，并寻求解惑。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "求知"
+      ],
+      "abilities": [
+        "修行在身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被引导者"
+        },
+        {
+          "target": "善无畏",
+          "type": "师叔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午以轮回诡韵经历生死轮回。"
+        },
+        {
+          "stage": "当前",
+          "event": "带领群僧跟随苏午，后前往善无畏圆寂的佛堂。"
+        },
+        {
+          "stage": "当前",
+          "event": "在深巷中向苏午请教兴善寺之事。"
+        }
+      ],
+      "evidence": [
+        "法智摇摇晃晃地站在他身畔，良久才稳住身形，其无比骇恐地看向身旁的苏午",
+        "法智闻言，心神微动。",
+        "法智向苏午恭敬合十行礼，乃道：“尊者对善无畏师叔之圆寂，乃至兴善寺内种种事情，似乎知之甚深。不知能否为弟子解惑？”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "善无畏",
+      "aliases": [
+        "善无畏大师",
+        "善无畏上师"
+      ],
+      "identity": "兴善寺高僧，已圆寂",
+      "faction": "佛教",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "兴善寺的高僧，被提及已圆寂，留下佛骨舍利，疑似与不空和尚及弥勒内院有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "修行绝高，已至无垢无漏之境"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "不空",
+          "type": "同伙（疑似）"
+        },
+        {
+          "target": "法智",
+          "type": "师叔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被宣布圆寂，留下佛骨舍利。"
+        }
+      ],
+      "evidence": [
+        "善无畏上师圆寂了！",
+        "上师寿命灭已，已证无余依涅槃。",
+        "上师已证无余涅槃，只在人间留下了一颗佛骨舍利"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "不空",
+      "aliases": [
+        "不空法师",
+        "不空和尚"
+      ],
+      "identity": "法师，已故",
+      "faction": "佛教",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "被提及的已故法师，曾修持一字佛顶法，与善无畏及弥勒内院有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "善无畏",
+          "type": "同伙（疑似）"
+        },
+        {
+          "target": "苏午",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "被苏午逼杀。"
+        }
+      ],
+      "evidence": [
+        "甚至连深具法性，有望摘得佛果的不空法师，都被那佛敌逼杀",
+        "他倏忽回想起不空和尚性灵破灭之际，那朵自其顶门中飘转而出的十二瓣白玉莲花。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "善无畏弟子",
+      "aliases": [],
+      "identity": "善无畏的弟子",
+      "faction": "佛教",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "善无畏的弟子，向群僧通报善无畏圆寂的消息，并展示佛骨舍利。",
+      "appearance": [],
+      "personality": [
+        "庄严"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "善无畏",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通报善无畏圆寂，并带领群僧前往佛堂。"
+        }
+      ],
+      "evidence": [
+        "几个僧侣神色肃穆",
+        "善无畏弟子们神色庄严，为首者摇了摇头：“上师寿命灭已，已证无余依涅槃。”",
+        "那僧神色庄严，捧着锦盒中的物什"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

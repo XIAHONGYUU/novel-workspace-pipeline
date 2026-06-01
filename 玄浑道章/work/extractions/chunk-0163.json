@@ -1,242 +1,388 @@
 {
   "chunk_id": "chunk-0163",
-  "title": "第一百六十章 乌云",
   "characters": [
     {
-      "name": "项淳",
+      "name": "张御",
+      "aliases": [
+        "张师弟"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百六十章 乌云",
+      "summary": "玄府修士，擅长古代文字，曾在安山之东游历。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "善于思考"
+      ],
+      "abilities": [
+        "熟悉古代文字"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        },
+        {
+          "target": "项淳",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在学宫居处翻看前人记述，思考玄修配合与复神会之事。"
+        }
+      ],
+      "evidence": [
+        "学宫居处之内，张御坐于顶层平台上，正翻看着玄府前人的记述文册。",
+        "项淳道：'我决定把这件事交给张师弟。他曾经在安山之东游历过一段时日，对那里情况熟悉，而且他熟悉古代文字'"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "妙丹君",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的宠物",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百六十章 乌云",
-      "summary": "玄府事务堂中，项淳神情在看完一份呈书后，神情变得十分凝重，他站了起来，皱着眉头在堂中走来步去，好像在慎重考虑着什么",
+      "summary": "张御的宠物，一只会捕捉蝴蝶的动物。",
       "appearance": [],
       "personality": [],
+      "abilities": [
+        "灵性"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "捕捉雨棚上的蝴蝶。"
+        }
+      ],
+      "evidence": [
+        "妙丹君则蹲在一旁，盯着雨棚上一只翅膀微微扇动的蝴蝶。",
+        "妙丹君这时一窜一扑，却是将顶棚上的蝴蝶扑捉了下来，落在他的身旁。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "项淳",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "玄府事务堂负责人",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百六十章 乌云",
+      "summary": "玄府事务堂的负责人，负责处理玄府事务，对神尉军动向保持警惕。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "玄府事务堂中，项淳神情在看完一份呈书后，神情变得十分凝重，他站了起来，皱着眉头在堂中走来步去，好像在慎重考虑着什么",
-        "”    项淳道：“稍候片刻，等王师弟来了再说",
-        "项淳看了看，道：“你想说什么"
+      "relationships": [
+        {
+          "target": "许英",
+          "type": "师弟"
+        },
+        {
+          "target": "王恭",
+          "type": "师弟"
+        },
+        {
+          "target": "张御",
+          "type": "师弟"
+        }
       ],
-      "mention_count": 21
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "看完呈书后神情凝重，召集许英和王恭商议神尉军动向。"
+        }
+      ],
+      "evidence": [
+        "玄府事务堂中，项淳神情在看完一份呈书后，神情变得十分凝重",
+        "项淳道：'我决定把这件事交给张师弟。'"
+      ],
+      "mention_count": 10
     },
     {
       "name": "许英",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十章 乌云",
-      "summary": "”    许英自外走了进来，道：“师兄你唤我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    许英自外走了进来，道：“师兄你唤我",
-        "”    许英这时欲言又止",
-        "”    许英上前两步，道：“师兄，你知道我想问什么，这都又要过去两个月了，老师什么时候出关"
+      "aliases": [
+        "许师弟"
       ],
-      "mention_count": 17
-    },
-    {
-      "name": "神尉军",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百六十章 乌云",
-      "summary": "他翻下来后，发现里面内容着实不多，因为之前对抗超常力量一直是神尉军在做",
+      "summary": "玄府修士，关心季师侄的修行，对神尉军动向感到担忧。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他翻下来后，发现里面内容着实不多，因为之前对抗超常力量一直是神尉军在做",
-        "按照安一的说法，在东廷都护府有人在支持他们，他怀疑很可能就是神尉军和颠覆派的一些人",
-        "项淳沉声道：“神尉军这两日前派出人手，往安山之北去了，而这回负责带队的人是右军候庞巩，但是左军候赫疆两日之前以军务交替之名被唤到了洪河隘口附近，这么一来，加上原来就在那里驻守的下军候齐巅，神尉军有三位军候将会汇聚于北方"
+      "personality": [
+        "焦躁"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "而且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十章 乌云",
-      "summary": "其实都护府建立之后，初期并没有遇到什么像样的对手，而且多数情况下，都护府都是用货物交易的方式和四面交流，能不动用武力就不动用武力，再加上都护府自身实力很强，所以冲突较少",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "其实都护府建立之后，初期并没有遇到什么像样的对手，而且多数情况下，都护府都是用货物交易的方式和四面交流，能不动用武力就不动用武力，再加上都护府自身实力很强，所以冲突较少",
-        "只是玄首那时候的修为放在同辈之中也不算高，而且有些地方遮遮掩掩，应该是被弟子删改过的，现在至多只能算一个事件记录，特别有价值的地方不多",
-        "不过他留意到了一个有意思的地方，那时候玄修出手，往往是两个人一起配合的，而且两个人之间一个主攻，一个主辅，辅助的人那人负责观察、感应，以及掩护之责，使主攻的一方能够全身心投入战斗"
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄"
+        },
+        {
+          "target": "王恭",
+          "type": "同门"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "神尉",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十章 乌云",
-      "summary": "他翻下来后，发现里面内容着实不多，因为之前对抗超常力量一直是神尉军在做",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他翻下来后，发现里面内容着实不多，因为之前对抗超常力量一直是神尉军在做",
-        "按照安一的说法，在东廷都护府有人在支持他们，他怀疑很可能就是神尉军和颠覆派的一些人",
-        "项淳沉声道：“神尉军这两日前派出人手，往安山之北去了，而这回负责带队的人是右军候庞巩，但是左军候赫疆两日之前以军务交替之名被唤到了洪河隘口附近，这么一来，加上原来就在那里驻守的下军候齐巅，神尉军有三位军候将会汇聚于北方"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被项淳唤来商议神尉军之事。"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "师兄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十章 乌云",
-      "summary": "”    许英自外走了进来，道：“师兄你唤我",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    许英自外走了进来，道：“师兄你唤我",
-        "”    许英上前两步，道：“师兄，你知道我想问什么，这都又要过去两个月了，老师什么时候出关",
-        "此时王恭走入了事务堂中，他看了许英一眼，随后对着项淳拱手一揖，道：师兄有事寻我"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十章 乌云",
-      "summary": "按照安一的说法，在东廷都护府有人在支持他们，他怀疑很可能就是神尉军和颠覆派的一些人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "按照安一的说法，在东廷都护府有人在支持他们，他怀疑很可能就是神尉军和颠覆派的一些人",
-        "项淳语声沉重道：“这正是我要说的事，我怀疑，他们很可能是为了寻找那个地方",
-        "”    许英开始没有反应过来，可随即似想到了什么，大惊道：“他们知道那地方在哪里了"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百六十章 乌云",
-      "summary": "第一百六十章 乌云    学宫居处之内，张御坐于顶层平台上，正翻看着玄府前人的记述文册",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百六十章 乌云    学宫居处之内，张御坐于顶层平台上，正翻看着玄府前人的记述文册",
-        "张御看了一眼，顺手揉捏了一下妙丹君的脑袋，就又收回目光，他从案上又拿过一本册子，这里面记录的是玄府所有有关复神会的记载"
+        "许英自外走了进来，道：'师兄你唤我？怎么了？出什么事了么？'",
+        "许英不禁有些失望，他焦躁道：'可是这样太耽误了季师侄修行了。'"
       ],
       "mention_count": 6
     },
     {
-      "name": "这么",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "王恭",
+      "aliases": [
+        "王师弟"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第一百六十章 乌云",
-      "summary": "项淳沉声道：“神尉军这两日前派出人手，往安山之北去了，而这回负责带队的人是右军候庞巩，但是左军候赫疆两日之前以军务交替之名被唤到了洪河隘口附近，这么一来，加上原来就在那里驻守的下军候齐巅，神尉军有三位军候将会汇聚于北方",
+      "summary": "玄府修士，参与项淳召集的会议。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "严肃"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "项淳沉声道：“神尉军这两日前派出人手，往安山之北去了，而这回负责带队的人是右军候庞巩，但是左军候赫疆两日之前以军务交替之名被唤到了洪河隘口附近，这么一来，加上原来就在那里驻守的下军候齐巅，神尉军有三位军候将会汇聚于北方",
-        "”    许英睁大眼着，道：“这么说来，神尉军拿到了一份半密卷，可是现在不是六十年前了，没几个人能读懂上面的文字了，就算能懂，他们没有我们手中的那一份，想要找到那个地方，怕也是不可能的事吧"
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄"
+        },
+        {
+          "target": "许英",
+          "type": "同门"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被项淳唤来商议神尉军之事。"
+        }
+      ],
+      "evidence": [
+        "此时王恭走入了事务堂中，他看了许英一眼，随后对着项淳拱手一揖，道：师兄有事寻我？"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "这方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "戚毖",
+      "aliases": [
+        "玄首"
+      ],
+      "identity": "玄府前任玄首",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第一百六十章 乌云",
-      "summary": "这可能是因为主修章印不同才造成的，似如以“耳、鼻、眼、口”等印为主修的修士，在正面战斗中肯定是不如主修“身、意”两印的修士的，所以如白擎青这样的修士，立功多是在“察、知”这方面",
+      "summary": "玄府前任玄首，留有斗战记载，推测为辅助位玄修。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这可能是因为主修章印不同才造成的，似如以“耳、鼻、眼、口”等印为主修的修士，在正面战斗中肯定是不如主修“身、意”两印的修士的，所以如白擎青这样的修士，立功多是在“察、知”这方面",
-        "他曾经在安山之东游历过一段时日，对那里情况熟悉，而且他熟悉古代文字，这方面都护府现在能和他比肩的也没有几人，若是他能解读出密卷的内容，那么还是有可能做到此事的"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被研究"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "百年前",
+          "event": "与异神交手，留有记载。"
+        }
+      ],
+      "evidence": [
+        "倒是他发现，戚毖那时候的记载中，曾有几次提到自己熟悉的同伴不在",
+        "所以他大胆推测，玄首当时很可能是一位处于辅助位置的玄修。"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "他看",
+      "name": "白擎青",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第一百六十章 乌云",
-      "summary": "他看向远处海面之上那乌沉沉的云团",
+      "summary": "玄府修士，以'察、知'见长。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "察、知"
+      ],
       "equipment": [],
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "他看向远处海面之上那乌沉沉的云团",
-        "此时王恭走入了事务堂中，他看了许英一眼，随后对着项淳拱手一揖，道：师兄有事寻我"
+        "所以如白擎青这样的修士，立功多是在'察、知'这方面。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "项淳道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "庞巩",
+      "aliases": [
+        "右军候"
+      ],
+      "identity": "神尉军右军候",
+      "faction": "神尉军",
+      "status": "提及",
       "first_appearance": "第一百六十章 乌云",
-      "summary": "”    项淳道：“稍候片刻，等王师弟来了再说",
+      "summary": "神尉军右军候，带队往安山之北。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带队往安山之北。"
+        }
+      ],
+      "evidence": [
+        "神尉军这两日前派出人手，往安山之北去了，而这回负责带队的人是右军候庞巩"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赫疆",
+      "aliases": [
+        "左军候"
+      ],
+      "identity": "神尉军左军候",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "第一百六十章 乌云",
+      "summary": "神尉军左军候，被调往洪河隘口附近。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以军务交替之名被唤到洪河隘口附近。"
+        }
+      ],
+      "evidence": [
+        "左军候赫疆两日之前以军务交替之名被唤到了洪河隘口附近"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "齐巅",
+      "aliases": [
+        "下军候"
+      ],
+      "identity": "神尉军下军候",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "第一百六十章 乌云",
+      "summary": "神尉军下军候，原在洪河隘口驻守。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在洪河隘口驻守。"
+        }
+      ],
+      "evidence": [
+        "加上原来就在那里驻守的下军候齐巅"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "燕叙伦",
+      "aliases": [
+        "神尉军副尉主"
+      ],
+      "identity": "神尉军副尉主",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "第一百六十章 乌云",
+      "summary": "神尉军副尉主，曾负责火烧文修院一案。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "负责火烧文修院一案。"
+        }
+      ],
+      "evidence": [
+        "做这件事情的就是神尉军副尉主燕叙伦。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "杨宣",
+      "aliases": [
+        "前任大都督"
+      ],
+      "identity": "东廷都护府前任大都督",
+      "faction": "东廷都护府",
+      "status": "提及",
+      "first_appearance": "第一百六十章 乌云",
+      "summary": "东廷都护府前任大都督，将半份密卷藏于文修院。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "将半份密卷藏于文修院。"
+        }
+      ],
+      "evidence": [
+        "这是前任大都督杨宣所为"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "安一",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百六十章 乌云",
+      "summary": "提供复神会线索的人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -244,11 +390,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    项淳道：“稍候片刻，等王师弟来了再说",
-        "”    项淳道：“两位师弟，坐下说吧",
-        "”    项淳道：“之前张师弟参与士议时，曾提出重审火烧文修院一案，做这件事情的就是神尉军副尉主燕叙伦"
+        "按照安一的说法，在东廷都护府有人在支持他们"
       ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

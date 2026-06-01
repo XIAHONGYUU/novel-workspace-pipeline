@@ -1,255 +1,348 @@
 {
   "chunk_id": "chunk-0383",
-  "title": "第一百五十四章 准备",
   "characters": [
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
       "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "第一百五十四章 准备    张御看向竺玄首，道：“我有一事想请教玄首，元童老祖此回出现，依玄首所见，究竟是其自身之意愿，还是背后有人推动",
+      "first_appearance": "",
+      "summary": "玄府玄正，正在调查元童老祖和金梁鼎遗失之事，并准备征伐霜洲。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "坚定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "上下级"
+        },
+        {
+          "target": "白秀上人",
+          "type": "怀疑对象"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        },
+        {
+          "target": "青曦",
+          "type": "随从"
+        },
+        {
+          "target": "曹度",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向竺玄首询问元童老祖之事，未果后离开玄府，返回开阳学宫，再回方台驻地，闭关至二月，出关后与曹度会面。"
+        }
+      ],
+      "evidence": [
+        "张御看向竺玄首，道：“我有一事想请教玄首，元童老祖此回出现，依玄首所见，究竟是其自身之意愿，还是背后有人推动？”",
+        "张御离了玄府后，就往开阳学宫而去",
+        "张御在学宫之中待了半天，顺便品尝了依稀青曦新学的菜式，到了第二日，就又动身返回了方台驻地。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [
+        "竺玄首"
+      ],
+      "identity": "玄府玄首",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄首，似乎知道白秀上人背后之事，但不愿明说，以云纱相赠张御。",
+      "appearance": [],
+      "personality": [
+        "深沉",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "炼绝天纱"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        },
+        {
+          "target": "白秀上人",
+          "type": "曾为其师"
+        },
+        {
+          "target": "明善道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御对话，驱逐云纱血秽后赠予张御，但张御未接受。"
+        }
+      ],
+      "evidence": [
+        "竺玄首道：“我知玄正想说何事，但有些事情背后牵扯甚多，玄正若是能再往上走，自是能明白的。”",
+        "他伸手一拨，此物便向张御飘来，并道：“这其中血秽恶浊之气我已驱逐干净，前次我收了青阳轮回来，玄正手中想也无有趁手法宝，此物多少有些威能，不妨拿去一用。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "明善道人",
+      "aliases": [],
+      "identity": "玄府道人",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "竺玄首的下属，被派去传话。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百五十四章 准备    张御看向竺玄首，道：“我有一事想请教玄首，元童老祖此回出现，依玄首所见，究竟是其自身之意愿，还是背后有人推动",
-        "他伸手一拨，此物便向张御飘来，并道：“这其中血秽恶浊之气我已驱逐干净，前次我收了青阳轮回来，玄正手中想也无有趁手法宝，此物多少有些威能，不妨拿去一用",
-        "”    张御顿时明白，这是不想让他追问下去了，所以干脆以此物相赠"
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "下属"
+        }
       ],
-      "mention_count": 25
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向竺玄首禀报张御离去，并受命去传话。"
+        }
+      ],
+      "evidence": [
+        "明善道人走了上来，稽首道：“玄首，玄正已经离去了。”",
+        "竺玄首淡声道：“你代我走一趟，去告诉他一声，有些事可做，有些事情不可做，做得太过，就算他老师的情面也护不住他。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的随从，负责照顾学宫事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        },
+        {
+          "target": "青曦",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在开阳学宫迎接张御，汇报青曙情况。"
+        }
+      ],
+      "evidence": [
+        "李青禾这时也是自里出来，喜道：“先生回来了。”",
+        "李青禾回道：“回禀先生，近来都好，尤其是青曙，得了先生传授后，剑技愈发出众，已被是学宫请去当辅教了。”"
+      ],
+      "mention_count": 3
     },
     {
       "name": "青曦",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的随从",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "青曦听到声音，自里匆匆出来",
+      "first_appearance": "",
+      "summary": "张御的随从，擅长烹饪。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "青曦听到声音，自里匆匆出来",
-        "”    青曦也是道：“青曦也很好，最近又学了不少菜式，稍候还要请先生品尝，就是先生一直不在，青曦好想先生",
-        "”    青曦嗯嗯点头"
+      "personality": [
+        "欣喜"
       ],
-      "mention_count": 8
+      "abilities": [
+        "烹饪"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        },
+        {
+          "target": "李青禾",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在开阳学宫迎接张御，并展示新菜式。"
+        }
+      ],
+      "evidence": [
+        "青曦听到声音，自里匆匆出来。见到张御，满脸欣喜，万福一礼，“先生安好。”",
+        "青曦也是道：“青曦也很好，最近又学了不少菜式，稍候还要请先生品尝，就是先生一直不在，青曦好想先生。”"
+      ],
+      "mention_count": 3
     },
     {
       "name": "曹度",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "张御让那弟子下去，走到内堂之中，将摆在案台上的贴书拿起，打开看了一看，见拜帖名讳所在之处写了“曹度”二字，他心念一转，立便知晓了这位的身份",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "张御让那弟子下去，走到内堂之中，将摆在案台上的贴书拿起，打开看了一看，见拜帖名讳所在之处写了“曹度”二字，他心念一转，立便知晓了这位的身份",
-        "而曹度则是有锐击将军，统领“锐击军”全军，麾下有两万余精锐军士",
-        "”    曹将军上来抬手一礼，正容道：“在下曹度，玄正有礼了"
+      "aliases": [
+        "曹将军",
+        "锐击将军"
       ],
-      "mention_count": 8
+      "identity": "青阳军府锐击将军",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "锐击军统领，负责征伐霜洲的具体战事，对张御态度恭敬。",
+      "appearance": [
+        "面容清雅，留着胡须，身着一身青衫，皮肤略显粗糙，手指关节粗大，腰间悬挂一柄挂着赤色穗子的长锏"
+      ],
+      "personality": [
+        "客气",
+        "恭敬",
+        "严厉"
+      ],
+      "abilities": [],
+      "equipment": [
+        "长锏"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        },
+        {
+          "target": "柴安",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜访张御未遇，留下拜帖；后与张御会面，商议袭扰霜洲之事。"
+        }
+      ],
+      "evidence": [
+        "曹度则是有锐击将军，统领“锐击军”全军，麾下有两万余精锐军士。",
+        "曹将军上来抬手一礼，正容道：“在下曹度，玄正有礼了。”",
+        "曹度忙道：“多谢玄正了。”"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "玄正",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "柴安",
+      "aliases": [
+        "柴教长"
+      ],
+      "identity": "锐击军军候",
+      "faction": "青阳军府",
       "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "竺玄首道：“我知玄正想说何事，但有些事情背后牵扯甚多，玄正若是能再往上走，自是能明白的",
+      "first_appearance": "",
+      "summary": "原开阳学宫教长，贺穆的老师，后重归锐击军任军候。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "竺玄首道：“我知玄正想说何事，但有些事情背后牵扯甚多，玄正若是能再往上走，自是能明白的",
-        "他伸手一拨，此物便向张御飘来，并道：“这其中血秽恶浊之气我已驱逐干净，前次我收了青阳轮回来，玄正手中想也无有趁手法宝，此物多少有些威能，不妨拿去一用",
-        "再是一会儿之后，明善道人走了上来，稽首道：“玄首，玄正已经离去了"
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "旧识"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在军府驻地迎接张御，并介绍曹度。"
+        }
+      ],
+      "evidence": [
+        "这位柴教长就是贺穆的老师柴安，张御记得他原本就是锐击军的军候，后来违反了军规才被开革出来到了开阳学宫任教长。",
+        "柴安感叹道：“是啊，这回也多亏了曹将军，我才能重归军中。”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "先生",
+      "name": "鲁军候",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "锐击军军候",
+      "faction": "青阳军府",
       "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "李青禾这时也是自里出来，喜道：“先生回来了",
+      "first_appearance": "",
+      "summary": "一名年轻军候，对曹度对张御的恭敬态度不满。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "冲动"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "李青禾这时也是自里出来，喜道：“先生回来了",
-        "见到张御，满脸欣喜，万福一礼，“先生安好",
-        "”    李青禾回道：“回禀先生，近来都好，尤其是青曙，得了先生传授后，剑技愈发出众，已被是学宫请去当辅教了"
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在曹度送走张御后，质疑曹度的态度。"
+        }
+      ],
+      "evidence": [
+        "这时一名年轻军候上来一抱拳，道：“将军，属下有一事不解，方才将军为何对那玄府玄正这般客气，近乎，近乎……“",
+        "年轻军校一咬牙，道：“将军对此人之态度，近乎谄媚！”"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "你们",
+      "name": "妙丹君",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的宠物猫",
       "faction": "",
       "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "”    张御道：“这次我只是回来看一看，方台那处还有事需要解决，需待此事了结后，方就能转回，你们自己多加小心，有什么事可来书告我知晓",
+      "first_appearance": "",
+      "summary": "张御养的一头小豹猫。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    张御道：“这次我只是回来看一看，方台那处还有事需要解决，需待此事了结后，方就能转回，你们自己多加小心，有什么事可来书告我知晓",
-        "他回到大厅后，却见有几名军校站在那里，诧异道：“你们有事",
-        "他态度平和道：“我如何做事，自有我的道理，你们身为下属，只需照着做就行了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "这一位既做过那位上修的弟子，也曾在竺玄首座下学法，只是后来被竺玄首赶了出去，竺玄首多半是知道一些什么的",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一位既做过那位上修的弟子，也曾在竺玄首座下学法，只是后来被竺玄首赶了出去，竺玄首多半是知道一些什么的",
-        "只是半刻之后，他便回到了开阳学宫，并在自己那处金台之前落身下来",
-        "”    张御道：“这次我只是回来看一看，方台那处还有事需要解决，需待此事了结后，方就能转回，你们自己多加小心，有什么事可来书告我知晓"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在开阳学宫迎接张御。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "竺玄首",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "第一百五十四章 准备    张御看向竺玄首，道：“我有一事想请教玄首，元童老祖此回出现，依玄首所见，究竟是其自身之意愿，还是背后有人推动",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "第一百五十四章 准备    张御看向竺玄首，道：“我有一事想请教玄首，元童老祖此回出现，依玄首所见，究竟是其自身之意愿，还是背后有人推动",
-        "这一位既做过那位上修的弟子，也曾在竺玄首座下学法，只是后来被竺玄首赶了出去，竺玄首多半是知道一些什么的",
-        "竺玄首道：“我知玄正想说何事，但有些事情背后牵扯甚多，玄正若是能再往上走，自是能明白的"
+        "却见妙丹君蹲坐在一旁楠木架上，对他喵的叫了一声，再是跳了下来，竖着尾巴来到他脚下"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "直接",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "他转念过后，拱手一礼，根本没有去接那个云纱，直接转身便就下了鹤殿",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他转念过后，拱手一礼，根本没有去接那个云纱，直接转身便就下了鹤殿",
-        "不过元童老祖既除，那么这里当没有玄府什么事，他也没去多理会，直接就转回内室了"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "方才",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "那元童老祖和金梁鼎遗失之事是否涉及白秀上人，他是一定要查清楚的，方才不接那云纱，其实就是表明了他的态度",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那元童老祖和金梁鼎遗失之事是否涉及白秀上人，他是一定要查清楚的，方才不接那云纱，其实就是表明了他的态度",
-        "方才推门走进来，却见妙丹君蹲坐在一旁楠木架上，对他喵的叫了一声，再是跳了下来，竖着尾巴来到他脚下，他俯身伸手揉了一下，发现这么多日子不见，这头小豹猫倒是稍稍长大了一点了",
-        "”    两人谈论了大约半个夏时后，张御就起身告辞，曹度亲自相送，一直送到了军府驻地门口方才折回"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "再是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "再是一会儿之后，明善道人走了上来，稽首道：“玄首，玄正已经离去了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "再是一会儿之后，明善道人走了上来，稽首道：“玄首，玄正已经离去了",
-        "方才推门走进来，却见妙丹君蹲坐在一旁楠木架上，对他喵的叫了一声，再是跳了下来，竖着尾巴来到他脚下，他俯身伸手揉了一下，发现这么多日子不见，这头小豹猫倒是稍稍长大了一点了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "因他",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百五十四章 准备",
-      "summary": "这一日他自外归返，负责守御内堂的弟子过来禀告，说是军府的一位将军前几日曾来拜访，因他不在，所以留下了一封拜望贴书",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一日他自外归返，负责守御内堂的弟子过来禀告，说是军府的一位将军前几日曾来拜访，因他不在，所以留下了一封拜望贴书",
-        "因他往军府驻地过来之前，事先有芒光传讯传出，所以他在步出驰道之后，军府之人就已是先一步等在那里相迎了"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

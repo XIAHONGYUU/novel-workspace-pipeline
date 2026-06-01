@@ -1,254 +1,226 @@
 {
   "chunk_id": "chunk-1524",
-  "title": "第一百零二章 法深气未足",
   "characters": [
     {
-      "name": "曾驽",
+      "name": "张御",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零二章 法深气未足",
-      "summary": "游星之上，曾驽在空旷的宫观之内一连等了数日，每日除了打坐修持，就是与女修霓宝下棋，举目望去，外面除了几个什么问不出来的修道人，就是深邃无尽的虚空",
+      "summary": "通过分身观察天地演化，并传授生人知识。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
+      "personality": [
+        "冷静",
+        "善于观察"
+      ],
+      "abilities": [
+        "分身",
+        "观察天地演化"
+      ],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "游星之上，曾驽在空旷的宫观之内一连等了数日，每日除了打坐修持，就是与女修霓宝下棋，举目望去，外面除了几个什么问不出来的修道人，就是深邃无尽的虚空",
-        "”    曾驽道：“我倒不是为此担心，而是……”说到这里，他摇了摇头",
-        "卢星介通过一面水镜，看着曾驽那患得患失的样子，面上微微笑着"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察分身所在天地，并思考天地演化规律。"
+        }
       ],
-      "mention_count": 20
+      "evidence": [
+        "张御在望过去的时候，他分身的忆识也是随之进入了心神之中",
+        "他看到在某一处部族之中，化身正坐在一方平整的大石之上"
+      ],
+      "mention_count": 5
     },
     {
-      "name": "晁焕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "曾驽",
+      "aliases": [
+        "曾某",
+        "少郎"
+      ],
+      "identity": "元夏玄尊，天道应机之人",
+      "faction": "元夏（原属），投奔天夏",
       "status": "登场",
       "first_appearance": "第一百零二章 法深气未足",
-      "summary": "晁焕此刻正负袖站在那里等候，见两人进来，看向他们道：“两位有什么紧要之事，可以直接说了",
+      "summary": "元夏玄尊，自称天道应机之人，投奔天夏，与女修霓宝同行。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "傲气",
+        "坦诚",
+        "患得患失"
+      ],
+      "abilities": [
+        "天道应机之人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "霓宝",
+          "type": "同行女修"
+        },
+        {
+          "target": "晁焕",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在游星宫观等待，后与霓宝前往地星道宫见晁焕。"
+        }
+      ],
+      "evidence": [
+        "曾驽在空旷的宫观之内一连等了数日",
+        "我是天道应机之人！",
+        "曾驽想要反驳，女修霓宝拉了一下他的手"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "霓宝",
+      "aliases": [
+        "女修霓宝"
+      ],
+      "identity": "女修",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第一百零二章 法深气未足",
+      "summary": "与曾驽同行的女修，安慰曾驽并陪同见晁焕。",
+      "appearance": [],
+      "personality": [
+        "温柔",
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "晁焕此刻正负袖站在那里等候，见两人进来，看向他们道：“两位有什么紧要之事，可以直接说了",
-        "”    他觉得晁焕修为只是寄虚之境，怀疑这位真能做得了主么",
-        "晁焕玩味看了看他，道：“你好像对我不满意"
+      "relationships": [
+        {
+          "target": "曾驽",
+          "type": "同行"
+        }
       ],
-      "mention_count": 12
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与曾驽一起等待，后一同前往地星道宫。"
+        }
+      ],
+      "evidence": [
+        "女修霓宝看他有些心神不宁，出声安慰道",
+        "霓宝在后面轻轻了拉他"
+      ],
+      "mention_count": 5
     },
     {
       "name": "卢星介",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零二章 法深气未足",
-      "summary": "卢星介通过一面水镜，看着曾驽那患得患失的样子，面上微微笑着",
+      "summary": "天夏玄尊，负责接待曾驽，主张晾一晾曾驽以打压其傲气。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "有心计",
+        "善于摆弄手段"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "水镜"
+      ],
+      "relationships": [
+        {
+          "target": "薛道人",
+          "type": "同僚"
+        },
+        {
+          "target": "曾驽",
+          "type": "接待"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过水镜观察曾驽，与薛道人商议，后收到玄廷文书。"
+        }
+      ],
       "evidence": [
-        "卢星介通过一面水镜，看着曾驽那患得患失的样子，面上微微笑着",
-        "”    卢星介微微一笑，道：“想当初我们在虚空之中待了多久",
-        "”    卢星介道：“我这是替天夏打压他的傲气，不然到了上层那里，他依旧是要吃亏的，他懂些道理，对天夏对他都好"
+        "卢星介通过一面水镜，看着曾驽那患得患失的样子",
+        "卢星介微微一笑，道：“想当初我们在虚空之中待了多久？他这才待了几日？”"
       ],
       "mention_count": 6
-    },
-    {
-      "name": "来到",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零二章 法深气未足",
-      "summary": "”    曾驽在得知天夏上层的人终于肯见自己后，心里也是一松，他与霓宝乘上飞舟，在虚空横渡半日之后，来到了一座地星之上",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    曾驽在得知天夏上层的人终于肯见自己后，心里也是一松，他与霓宝乘上飞舟，在虚空横渡半日之后，来到了一座地星之上",
-        "两人跟随接引修士一路朝里而行，来到了大殿之内"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "心里",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零二章 法深气未足",
-      "summary": "他看到这里，心里转了转念，再等上半月，或许就能看到另一番气象了，那个时候，更多同道当能进入此间，继续此世的推动了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看到这里，心里转了转念，再等上半月，或许就能看到另一番气象了，那个时候，更多同道当能进入此间，继续此世的推动了",
-        "”    曾驽在得知天夏上层的人终于肯见自己后，心里也是一松，他与霓宝乘上飞舟，在虚空横渡半日之后，来到了一座地星之上"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零二章 法深气未足",
-      "summary": "女修霓宝看他有些心神不宁，出声安慰道：“少郎莫要焦急，既然他们收留了我们，应该是有诚意的，我们在别人地界上，就耐心等等吧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "女修霓宝看他有些心神不宁，出声安慰道：“少郎莫要焦急，既然他们收留了我们，应该是有诚意的，我们在别人地界上，就耐心等等吧",
-        "”    卢星介微微一笑，道：“想当初我们在虚空之中待了多久",
-        "他将文书递给薛道人，道：“薛道友若是无有问题，那我们就把人送过去吧"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "天夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零二章 法深气未足",
-      "summary": "而在传授的同时，他同时又教导了一些天夏的道理道念",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而在传授的同时，他同时又教导了一些天夏的道理道念",
-        "按照玄廷的吩咐，这世上之人，所有生灵，不分内外高低，都必须和天夏拥有一般道念，所有人都需奉行天夏的道理",
-        "他倒也是知道的，只要是大势力，除非是重要之事，一般上层的反应都很慢，都是需要一定时间的，天夏在不知他底细的情况下这是正常反应"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "薛道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零二章 法深气未足",
-      "summary": "薛道人冷眼瞅着他，不屑道：“摆弄这些不痛不痒的小手段有意思么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "薛道人冷眼瞅着他，不屑道：“摆弄这些不痛不痒的小手段有意思么",
-        "”    薛道人道：“你当初不情愿，想必他也是不情愿的",
-        "”    薛道人讥讽道：“那他可真要多谢道友了"
-      ],
-      "mention_count": 5
     },
     {
       "name": "薛道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零二章 法深气未足",
-      "summary": "薛道人冷眼瞅着他，不屑道：“摆弄这些不痛不痒的小手段有意思么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "薛道人冷眼瞅着他，不屑道：“摆弄这些不痛不痒的小手段有意思么",
-        "”    薛道人道：“你当初不情愿，想必他也是不情愿的",
-        "”    薛道人讥讽道：“那他可真要多谢道友了"
+      "aliases": [
+        "薛道友"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "自有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "天夏玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零二章 法深气未足",
-      "summary": "生命每一步的进展都是十分合理的，自有着一股自然协调的韵律之美，且深入观望到细处，却又有着一股精雕细琢的惊艳之感",
+      "summary": "天夏玄尊，与卢星介一同负责曾驽事宜，对卢星介的手段不以为然。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "直率",
+        "不屑于小手段"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "卢星介",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与卢星介一起观察曾驽，并收到玄廷文书。"
+        }
+      ],
       "evidence": [
-        "生命每一步的进展都是十分合理的，自有着一股自然协调的韵律之美，且深入观望到细处，却又有着一股精雕细琢的惊艳之感",
-        "”    曾驽站直身躯，底气十足说道，不错，自有气运护持，这一次墩台爆裂贵方也是看到了吧，若不是气运护持，又怎么会逃得出来"
+        "薛道人冷眼瞅着他，不屑道：“摆弄这些不痛不痒的小手段有意思么？”",
+        "薛道人讥讽道：“那他可真要多谢道友了。”"
       ],
       "mention_count": 4
     },
     {
-      "name": "可是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "晁焕",
+      "aliases": [
+        "晁廷执"
+      ],
+      "identity": "天夏玄尊，负责监察玄廷之下玄尊",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第一百零二章 法深气未足",
-      "summary": "可是现在看起来，这却是有失偏颇了，或许应该是说，下层有可能变成上层，似是在那里周而复始，不断循环",
+      "summary": "天夏玄尊，负责接见曾驽，言语间打压曾驽的傲气。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "玩味",
+        "强势",
+        "善于言辞"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是现在看起来，这却是有失偏颇了，或许应该是说，下层有可能变成上层，似是在那里周而复始，不断循环",
-        "可事实证明，这些生人虽然身体弱小，但无疑极具智慧，总能找到自己的生存之道，并且极为坚韧，最惨烈的时候，整个地陆之上，全部生人的数目加起来几乎不足两千之数，可是在此之后依旧能重新繁衍崛起",
-        "”    曾驽怔了怔，应机之人是曾驽最为自傲的身份，以往哪怕别人不喜欢他，听说此事之后也是一样是十分吃惊的，至少态度前后绝然不一样，可是现在晁焕一副满不在乎的样子，让他感觉仿佛一拳打在了空处"
+      "relationships": [
+        {
+          "target": "曾驽",
+          "type": "接见"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "可是现",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百零二章 法深气未足",
-      "summary": "可是现在看起来，这却是有失偏颇了，或许应该是说，下层有可能变成上层，似是在那里周而复始，不断循环",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可是现在看起来，这却是有失偏颇了，或许应该是说，下层有可能变成上层，似是在那里周而复始，不断循环",
-        "”    曾驽怔了怔，应机之人是曾驽最为自傲的身份，以往哪怕别人不喜欢他，听说此事之后也是一样是十分吃惊的，至少态度前后绝然不一样，可是现在晁焕一副满不在乎的样子，让他感觉仿佛一拳打在了空处"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在地星道宫大殿等候并接见曾驽与霓宝。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "晁焕此刻正负袖站在那里等候",
+        "晁焕玩味看了看他，道：“你好像对我不满意？”",
+        "晁廷执笑了笑，道：“你这话说得不对”"
+      ],
+      "mention_count": 8
     }
   ]
 }

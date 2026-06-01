@@ -1,256 +1,359 @@
 {
   "chunk_id": "chunk-1597",
-  "title": "第一百七十五章 击敌未尽时",
   "characters": [
     {
-      "name": "元夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "张上真",
+        "张廷执"
+      ],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "第一百七十五章 击敌未尽时    正如张御和玄廷方面判断的一样，过去没有多久，元夏开始了新一轮的进攻，无数阵器铺天盖地而来，并且往壑界和屹界施加了绝大压力",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，多次参与对抗元夏的战役，是重要的战力与决策者。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "玉素道人",
+          "type": "同僚"
+        },
+        {
+          "target": "金郅行",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中建议提早反击元夏。"
+        }
+      ],
+      "evidence": [
+        "张御思索了一下，他执玉槌敲了一下玉磬",
+        "张御看向诸位廷执，道：“诸位，我们能打退元夏一次，那么也能打退第二次，故御以为，当是抓紧时机反击此敌。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "天夏玄廷首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷首执，主持廷议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "戴廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主持廷议，讨论是否反击元夏。"
+        }
+      ],
+      "evidence": [
+        "陈首执道：“元夏一方自攻袭我等始，已然持续了四月余，今寻廷议，是欲议一议，此刻是否该是发动反击，还是继续等待。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [
+        "玉素廷执"
+      ],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，主张立即反击元夏。",
+      "appearance": [],
+      "personality": [
+        "激进"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中主张立即反击元夏。"
+        }
+      ],
+      "evidence": [
+        "玉素道人对着上座言道：“首执，那乌金壁垒主体已然差不多完成，我们也应该是动手了，需将之一扫而尽”",
+        "玉素道人此时一敲玉磬，振声言道：“张廷执说得极是！”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，主张积蓄力量再反击。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中提出等待积蓄更多力量再反击。"
+        }
+      ],
+      "evidence": [
+        "崇廷执想了想，道：“玉素廷执，崇某有一言，我天夏既然有能力攻破此间，为何不等积蓄更多力量再做此事呢？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [],
+      "identity": "天夏玄廷廷执，守御虚空世域",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，负责守御虚空世域。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中报告虚空世域坚守情况。"
+        }
+      ],
+      "evidence": [
+        "戴廷执道：“首执，域内诸位道友众志成城，上下一心，目前倒还坚守的住”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "风廷执",
+      "aliases": [],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，支持张御的建议。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百七十五章 击敌未尽时    正如张御和玄廷方面判断的一样，过去没有多久，元夏开始了新一轮的进攻，无数阵器铺天盖地而来，并且往壑界和屹界施加了绝大压力",
-        "还有元夏修道人外身乘飞舟而至，反复进行冲阵，在被消杀去了之后，随后又是不停出现，好像要将这些时日积蓄下来的力量全部宣泄出去",
-        "而元夏这里，除了损失大量的外身和阵器，并没有取到应有的效果"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中敲玉磬表示支持张御。"
+        }
       ],
-      "mention_count": 9
+      "evidence": [
+        "风廷执也于随后敲了下玉磬。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钟廷执",
+      "aliases": [],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，提醒注意元夏可能增援。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在廷议中提醒注意元夏可能增援。"
+        }
+      ],
+      "evidence": [
+        "钟廷执这时抬头发声道：“首执，诸位廷执，钟某这里说一句，元夏那边损折许多，这些时日虽未攻我，那或可能是有增援的”"
+      ],
+      "mention_count": 1
     },
     {
       "name": "传司议",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏下殿司议",
+      "faction": "元夏",
       "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "传司议看着虚空之中，这一次，双方好像又回到了两月前开战之时，看去与那时没什么差别，但他知道，其实大不一样",
+      "first_appearance": "",
+      "summary": "元夏下殿司议，参与对天夏的进攻决策。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "传司议看着虚空之中，这一次，双方好像又回到了两月前开战之时，看去与那时没什么差别，但他知道，其实大不一样",
-        "”    传司议想了想，道：“虽然看似我等付出多了一些，但是天夏方面为了救援一具外身，却是暴露了一件镇道之宝，我们却不吃亏",
-        "”    传司议明白了，张御就像是一个标杆，有一个不败的标杆竖立在那里，此对提振士气是有极大好处的"
+      "relationships": [
+        {
+          "target": "盛筝",
+          "type": "同僚"
+        },
+        {
+          "target": "高良岳",
+          "type": "上级"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "第一百七十五章 击敌未尽时    正如张御和玄廷方面判断的一样，过去没有多久，元夏开始了新一轮的进攻，无数阵器铺天盖地而来，并且往壑界和屹界施加了绝大压力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百七十五章 击敌未尽时    正如张御和玄廷方面判断的一样，过去没有多久，元夏开始了新一轮的进攻，无数阵器铺天盖地而来，并且往壑界和屹界施加了绝大压力",
-        "”    传司议明白了，张御就像是一个标杆，有一个不败的标杆竖立在那里，此对提振士气是有极大好处的",
-        "以天夏目前的情形看，这么长时间肯定又有一批后辈因此成长起来，那么张御作为一个精神象征，种种所为一定会被人反复称道，并引领诸多人物因此奋进的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与盛司议讨论战况，并准备安抚高良岳。"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "传司",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "传司议看着虚空之中，这一次，双方好像又回到了两月前开战之时，看去与那时没什么差别，但他知道，其实大不一样",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "传司议看着虚空之中，这一次，双方好像又回到了两月前开战之时，看去与那时没什么差别，但他知道，其实大不一样",
-        "”    传司议想了想，道：“虽然看似我等付出多了一些，但是天夏方面为了救援一具外身，却是暴露了一件镇道之宝，我们却不吃亏",
-        "”    传司议明白了，张御就像是一个标杆，有一个不败的标杆竖立在那里，此对提振士气是有极大好处的"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "”    传司议想了想，道：“虽然看似我等付出多了一些，但是天夏方面为了救援一具外身，却是暴露了一件镇道之宝，我们却不吃亏",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    传司议想了想，道：“虽然看似我等付出多了一些，但是天夏方面为了救援一具外身，却是暴露了一件镇道之宝，我们却不吃亏",
-        "”    盛司议摇头道：“未必是如此，天夏方面之所以千方百计把人接应回去，这是向我们，还有向他们内部表明，他们想做的事情就一定能做成，哪怕是外身也一样会救",
-        "摘取终道之前，我们都是瞧不见的，唯有覆灭天夏，才能臻至大道"
+        "传司议看着虚空之中，这一次，双方好像又回到了两月前开战之时",
+        "传司议道：“也好，我去安抚一下此人”"
       ],
       "mention_count": 6
     },
     {
-      "name": "他们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "元夏倒也不没有收获，通过这次进攻，他们倒是修补好了原先的壁垒，同时又将一段突出驻垒延伸入了天夏虚空之内",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "元夏倒也不没有收获，通过这次进攻，他们倒是修补好了原先的壁垒，同时又将一段突出驻垒延伸入了天夏虚空之内",
-        "这一次进攻消耗了他们大量的宝材和积蓄，还因为人手不足，镇道之宝被牵制，并没有能取得多少战果",
-        "可他们是不得不反动进攻，因为元夏从来都是赢家，什么时候被人打上门来还没有任何反应的"
-      ],
-      "mention_count": 5
-    },
-    {
       "name": "盛筝",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "盛司议"
+      ],
+      "identity": "元夏下殿司议",
+      "faction": "元夏",
       "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "”    盛筝却是不以为然，道：“大道",
+      "first_appearance": "",
+      "summary": "元夏下殿司议，负责对天夏作战的指挥。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "果断",
+        "不以为然"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "变知鱼"
+      ],
+      "relationships": [
+        {
+          "target": "传司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接收镇道之宝“变知鱼”，并决定暂时不追究高良岳。"
+        }
+      ],
       "evidence": [
-        "”    盛筝却是不以为然，道：“大道",
-        "不久之后，便见一道金光远处飞来，盛筝举手一接，便见一条游鱼落到了掌心之中，并在那里活泼跳跃不停，此便是那镇道之宝“变知鱼”",
-        "盛筝无所谓道：“也没什么，下回再争取机会便是，现在我们还缺人手，等到齐全，就可再发动一轮攻势了"
+        "盛筝举手一接，便见一条游鱼落到了掌心之中，并在那里活泼跳跃不停，此便是那镇道之宝“变知鱼”。",
+        "盛筝无所谓道：“也没什么，下回再争取机会便是”"
       ],
       "mention_count": 5
     },
     {
-      "name": "还有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "还有元夏修道人外身乘飞舟而至，反复进行冲阵，在被消杀去了之后，随后又是不停出现，好像要将这些时日积蓄下来的力量全部宣泄出去",
+      "name": "高良岳",
+      "aliases": [
+        "高道人"
+      ],
+      "identity": "元夏求全道法之人",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元夏的求全道法之人，未能完成阻拦张御的任务。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "还有元夏修道人外身乘飞舟而至，反复进行冲阵，在被消杀去了之后，随后又是不停出现，好像要将这些时日积蓄下来的力量全部宣泄出去",
-        "”    盛司议摇头道：“未必是如此，天夏方面之所以千方百计把人接应回去，这是向我们，还有向他们内部表明，他们想做的事情就一定能做成，哪怕是外身也一样会救",
-        "另外，御在来廷议之前，收得了金郅行金执事的传报，还有此前深入机枢之中所见，可以确认，此回攻我之人，大多数乃是下殿之人"
+      "relationships": [
+        {
+          "target": "传司议",
+          "type": "下属"
+        },
+        {
+          "target": "盛筝",
+          "type": "下属"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因未能阻拦张御而被追究，但暂时被允许戴罪立功。"
+        }
+      ],
+      "evidence": [
+        "高道人完全没有起到阻拦张御的作用。",
+        "传司议道：“高良岳打算盛司议打算如何处置？”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "这一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "这一次攻袭的持续时间的较长，足足延续两个多月方才停息，但其声势虽然不小，进展却是不大，天夏方面顶住了这一轮攻袭",
+      "name": "金郅行",
+      "aliases": [
+        "金执事"
+      ],
+      "identity": "天夏执事",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏执事，向张御传报信息。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一次攻袭的持续时间的较长，足足延续两个多月方才停息，但其声势虽然不小，进展却是不大，天夏方面顶住了这一轮攻袭",
-        "传司议看着虚空之中，这一次，双方好像又回到了两月前开战之时，看去与那时没什么差别，但他知道，其实大不一样",
-        "这一次进攻消耗了他们大量的宝材和积蓄，还因为人手不足，镇道之宝被牵制，并没有能取得多少战果"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "这一次",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "这一次攻袭的持续时间的较长，足足延续两个多月方才停息，但其声势虽然不小，进展却是不大，天夏方面顶住了这一轮攻袭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一次攻袭的持续时间的较长，足足延续两个多月方才停息，但其声势虽然不小，进展却是不大，天夏方面顶住了这一轮攻袭",
-        "传司议看着虚空之中，这一次，双方好像又回到了两月前开战之时，看去与那时没什么差别，但他知道，其实大不一样",
-        "这一次进攻消耗了他们大量的宝材和积蓄，还因为人手不足，镇道之宝被牵制，并没有能取得多少战果"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御传报关于元夏进攻的信息。"
+        }
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "天夏方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "这一次攻袭的持续时间的较长，足足延续两个多月方才停息，但其声势虽然不小，进展却是不大，天夏方面顶住了这一轮攻袭",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "这一次攻袭的持续时间的较长，足足延续两个多月方才停息，但其声势虽然不小，进展却是不大，天夏方面顶住了这一轮攻袭",
-        "”    传司议想了想，道：“虽然看似我等付出多了一些，但是天夏方面为了救援一具外身，却是暴露了一件镇道之宝，我们却不吃亏",
-        "”    盛司议摇头道：“未必是如此，天夏方面之所以千方百计把人接应回去，这是向我们，还有向他们内部表明，他们想做的事情就一定能做成，哪怕是外身也一样会救"
+        "御在来廷议之前，收得了金郅行金执事的传报"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "便见",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十五章 击敌未尽时",
-      "summary": "不久之后，便见一道金光远处飞来，盛筝举手一接，便见一条游鱼落到了掌心之中，并在那里活泼跳跃不停，此便是那镇道之宝“变知鱼”",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "不久之后，便见一道金光远处飞来，盛筝举手一接，便见一条游鱼落到了掌心之中，并在那里活泼跳跃不停，此便是那镇道之宝“变知鱼”"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

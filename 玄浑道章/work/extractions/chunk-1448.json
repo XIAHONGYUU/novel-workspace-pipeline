@@ -1,258 +1,495 @@
 {
   "chunk_id": "chunk-1448",
-  "title": "第二十六章 拟名用册传",
   "characters": [
     {
-      "name": "慕倦安",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十六章 拟名用册传",
-      "summary": "”    慕倦安看了他一眼，道：“那又如何，大事要紧",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    慕倦安看了他一眼，道：“那又如何，大事要紧",
-        "”    曲道人心中不以为然，不过他没办法和慕倦安强辩，一阵沉默后，只得言道：“慕上真说得有道理，这件事是曲某急切了",
-        "”    慕倦安见他服软，满意点头，又道：“那人如何"
-      ],
-      "mention_count": 18
-    },
-    {
       "name": "曲道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "曲真人",
+        "曲某"
+      ],
+      "identity": "元夏修道人",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十六章 拟名用册传",
-      "summary": "第二十六章 拟名用册传    曲道人仍是有些不甘心，他被姜道人骂的余怒未消，偏偏此人还从他手底下逃走了，他冷声道：“这回就便宜此人了",
+      "summary": "元夏修道人，与慕倦安一同出使天夏，对白朢道人逃走一事耿耿于怀。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "不甘心",
+        "急切"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二十六章 拟名用册传    曲道人仍是有些不甘心，他被姜道人骂的余怒未消，偏偏此人还从他手底下逃走了，他冷声道：“这回就便宜此人了",
-        "”    曲道人心中不以为然，不过他没办法和慕倦安强辩，一阵沉默后，只得言道：“慕上真说得有道理，这件事是曲某急切了",
-        "”    曲道人知他问的是白朢道人，沉吟了一下道：‘这人应该是摘取了上乘功果的修道人，似也是求全了道法了的"
+      "relationships": [
+        {
+          "target": "慕倦安",
+          "type": "同僚"
+        },
+        {
+          "target": "姜道人",
+          "type": "被骂"
+        },
+        {
+          "target": "白朢道人",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 14
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与慕倦安讨论白朢道人逃走一事，后提议论法被拒。"
+        }
+      ],
+      "evidence": [
+        "曲道人仍是有些不甘心，他被姜道人骂的余怒未消",
+        "曲道人心中不以为然，不过他没办法和慕倦安强辩",
+        "曲道人道：‘我们以前使者都有论法之前例，不若……’"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "慕倦",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "慕倦安",
+      "aliases": [
+        "慕上真"
+      ],
+      "identity": "元夏上真",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十六章 拟名用册传",
-      "summary": "”    慕倦安看了他一眼，道：“那又如何，大事要紧",
+      "summary": "元夏上真，出使天夏的使者首领，主张大局为重。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "以大局为重"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    慕倦安看了他一眼，道：“那又如何，大事要紧",
-        "”    曲道人心中不以为然，不过他没办法和慕倦安强辩，一阵沉默后，只得言道：“慕上真说得有道理，这件事是曲某急切了",
-        "”    慕倦安见他服软，满意点头，又道：“那人如何"
+      "relationships": [
+        {
+          "target": "曲道人",
+          "type": "同僚"
+        },
+        {
+          "target": "武倾墟",
+          "type": "交涉对象"
+        },
+        {
+          "target": "风道人",
+          "type": "交涉对象"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与曲道人商议，接收天夏使团名册，并传送回元夏。"
+        }
+      ],
+      "evidence": [
+        "慕倦安看了他一眼，道：‘那又如何，大事要紧。’",
+        "慕倦安若有所思，道：‘又是一个。’",
+        "慕倦安则是转入了自家密舱之内，在半刻之后，一道金光射入虚宇"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "曲道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "name": "白朢道人",
+      "aliases": [
+        "那人"
+      ],
+      "identity": "天夏修道人，摘取上乘功果",
+      "faction": "天夏",
+      "status": "提及",
       "first_appearance": "第二十六章 拟名用册传",
-      "summary": "第二十六章 拟名用册传    曲道人仍是有些不甘心，他被姜道人骂的余怒未消，偏偏此人还从他手底下逃走了，他冷声道：“这回就便宜此人了",
+      "summary": "天夏修道人，摘取上乘功果，从曲道人手下逃走，被慕倦安认为是强硬派。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第二十六章 拟名用册传    曲道人仍是有些不甘心，他被姜道人骂的余怒未消，偏偏此人还从他手底下逃走了，他冷声道：“这回就便宜此人了",
-        "”    曲道人心中不以为然，不过他没办法和慕倦安强辩，一阵沉默后，只得言道：“慕上真说得有道理，这件事是曲某急切了",
-        "”    曲道人知他问的是白朢道人，沉吟了一下道：‘这人应该是摘取了上乘功果的修道人，似也是求全了道法了的"
+      "abilities": [
+        "摘取上乘功果",
+        "求全了道法"
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "天夏",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十六章 拟名用册传",
-      "summary": "天夏内部如今分作两派，说不定是有人想借此举破坏使者去往我元夏，曲真人，大局为重",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天夏内部如今分作两派，说不定是有人想借此举破坏使者去往我元夏，曲真人，大局为重",
-        "”又言道：“此人看来对我等不甚友善，应该就是那些天夏之中的强硬派了，这才是我们的大敌",
-        "他寻思了下，若是这四人中并不包括之前见到的那白衣道人和武廷执，那么天夏至少有六位摘取上乘功果的修道人了"
+      "relationships": [
+        {
+          "target": "曲道人",
+          "type": "敌对"
+        }
       ],
-      "mention_count": 8
-    },
-    {
-      "name": "曲真人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十六章 拟名用册传",
-      "summary": "天夏内部如今分作两派，说不定是有人想借此举破坏使者去往我元夏，曲真人，大局为重",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天夏内部如今分作两派，说不定是有人想借此举破坏使者去往我元夏，曲真人，大局为重",
-        "慕倦安待他们走后，道：“曲真人，你说他们会选择选择方式前往",
-        "慕倦安道：“曲真人说得是，若不用替代之身，那些心向我元夏之人就可趁此机会直接投我元夏了，天夏是不会犯这个错的"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被曲道人提及，已从曲道人手下逃走。"
+        }
       ],
-      "mention_count": 8
+      "evidence": [
+        "曲道人知他问的是白朢道人，沉吟了一下道：‘这人应该是摘取了上乘功果的修道人，似也是求全了道法了的。’",
+        "慕倦安若有所思，道：‘又是一个。’又言道：‘此人看来对我等不甚友善，应该就是那些天夏之中的强硬派了’"
+      ],
+      "mention_count": 3
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
       "status": "登场",
       "first_appearance": "第二十六章 拟名用册传",
-      "summary": "清穹道宫之中，张御站在殿上，而下方则站着一个与他有着数分相似，但却面目模糊的身影，这些时日过去，他早已是将一具外身祭炼成功",
+      "summary": "天夏廷执，祭炼外身，拟定使团名册。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "祭炼外身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明周道人",
+          "type": "下属"
+        },
+        {
+          "target": "长孙廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "严鱼明",
+          "type": "学生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "祭炼外身成功，拟定名册并交予首执。"
+        }
+      ],
+      "evidence": [
+        "清穹道宫之中，张御站在殿上，而下方则站着一个与他有着数分相似，但却面目模糊的身影",
+        "张御将呈书递给他，道：‘把此书交给首执。’",
+        "张御接过，目光一扫，上面罗列了从上到下此回出行的所有人"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周道友"
+      ],
+      "identity": "天夏道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "张御的下属，负责传递文书。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "清穹道宫之中，张御站在殿上，而下方则站着一个与他有着数分相似，但却面目模糊的身影，这些时日过去，他早已是将一具外身祭炼成功",
-        "张御这时意念一转，那一具化身化为一阵飘渺烟雾，落入了他袖袍之中，他来至案前，拿起了一份呈书",
-        "”    张御将呈书递给他，道：“把此书交给首执"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受张御之命传递呈书，并带回首执批复。"
+        }
+      ],
+      "evidence": [
+        "明周道人随声出现在了他身边，道：‘请廷执吩咐。’",
+        "明周道人稽首而去，只是片刻之后，其又转了回来"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "武倾墟",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "天夏廷执，与风道人一同前往元夏飞舟递交文书。",
+      "appearance": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "同僚"
+        },
+        {
+          "target": "慕倦安",
+          "type": "交涉对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风道人一同递交使团请书给慕倦安。"
+        }
+      ],
+      "evidence": [
+        "武廷执和风道人再次来到了元夏飞舟之上。",
+        "武倾墟道：‘那就劳烦慕真人了。’他也不多留，执礼过后，与风道人二人告辞离去。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "风道人",
+      "aliases": [],
+      "identity": "天夏道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "天夏道人，与武倾墟一同递交文书。",
+      "appearance": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "武倾墟",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与武倾墟一同递交使团请书。"
+        }
+      ],
+      "evidence": [
+        "武廷执和风道人再次来到了元夏飞舟之上。",
+        "风道人将文书递上"
+      ],
+      "mention_count": 2
     },
     {
       "name": "寒臣",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏驻留人员",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十六章 拟名用册传",
-      "summary": "还有，劳烦曲真人去把寒臣和两位副使唤来",
+      "summary": "元夏驻留天夏的人员，与妘蕞、烛午江一同被召见。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "还有，劳烦曲真人去把寒臣和两位副使唤来",
-        "寒臣收到了消息，寻到妘蕞、烛午江两人，就往元夏巨舟过来，登到了舟上，被带到了慕倦安两人面前",
-        "”    寒臣同样也不太情愿，在这里他只要安心修炼就行了，有什么事让妘、烛二人去做便好，过去时候他们三人可是配合无间啊"
+      "personality": [
+        "违心"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "曲真",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十六章 拟名用册传",
-      "summary": "天夏内部如今分作两派，说不定是有人想借此举破坏使者去往我元夏，曲真人，大局为重",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "天夏内部如今分作两派，说不定是有人想借此举破坏使者去往我元夏，曲真人，大局为重",
-        "慕倦安待他们走后，道：“曲真人，你说他们会选择选择方式前往",
-        "慕倦安道：“曲真人说得是，若不用替代之身，那些心向我元夏之人就可趁此机会直接投我元夏了，天夏是不会犯这个错的"
+      "relationships": [
+        {
+          "target": "妘蕞",
+          "type": "同僚"
+        },
+        {
+          "target": "烛午江",
+          "type": "同僚"
+        },
+        {
+          "target": "慕倦安",
+          "type": "上级"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十六章 拟名用册传",
-      "summary": "”又言道：“此人看来对我等不甚友善，应该就是那些天夏之中的强硬派了，这才是我们的大敌",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”又言道：“此人看来对我等不甚友善，应该就是那些天夏之中的强硬派了，这才是我们的大敌",
-        "曲道人抬头道：“曲上真，我们等待之中，或能做些什么",
-        "”    曲道人道：“我们以前使者都有论法之前例，不若……”    以往元夏往他世派遣出使者，有时候会试着提出与当世修道人论法一场"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被慕倦安召见，询问去留，后领取避劫丹丸服下。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "若是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十六章 拟名用册传",
-      "summary": "他已是试过了，此身平常大致能发挥他七八成的实力，若是他意图发挥全力，那么此外身或有崩散之可能",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他已是试过了，此身平常大致能发挥他七八成的实力，若是他意图发挥全力，那么此外身或有崩散之可能",
-        "他寻思了下，若是这四人中并不包括之前见到的那白衣道人和武廷执，那么天夏至少有六位摘取上乘功果的修道人了",
-        "他收起文册，笑着道：“我稍候会将这份名册传递回去，若是得了元夏批许，届时会带着诸位使者一同去往元夏，只是用时需会很长，还请贵方耐心等待"
+        "寒臣收到了消息，寻到妘蕞、烛午江两人，就往元夏巨舟过来",
+        "寒臣同样也不太情愿，在这里他只要安心修炼就行了",
+        "寒臣一把拿住，摊开手心，这是一枚似是由光气凝聚的丹丸"
       ],
       "mention_count": 5
     },
     {
-      "name": "应该",
+      "name": "妘蕞",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "元夏驻留人员",
+      "faction": "元夏",
       "status": "登场",
       "first_appearance": "第二十六章 拟名用册传",
-      "summary": "”    曲道人知他问的是白朢道人，沉吟了一下道：‘这人应该是摘取了上乘功果的修道人，似也是求全了道法了的",
+      "summary": "元夏驻留天夏的人员，与寒臣、烛午江一同被召见。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "吞吞吐吐"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "寒臣",
+          "type": "同僚"
+        },
+        {
+          "target": "烛午江",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被慕倦安召见，询问去留，后领取避劫丹丸服下。"
+        }
+      ],
       "evidence": [
-        "”    曲道人知他问的是白朢道人，沉吟了一下道：‘这人应该是摘取了上乘功果的修道人，似也是求全了道法了的",
-        "”又言道：“此人看来对我等不甚友善，应该就是那些天夏之中的强硬派了，这才是我们的大敌",
-        "在最上面乃是四人，毫无疑问都应该是摘取上乘功果之人，至于底下之人，他直接忽略不去看了"
+        "妘蕞、烛午江二人自然是不愿意回去的",
+        "妘蕞却是有些吞吞吐吐道：‘这个，我等避劫丹丸的效力将过’"
       ],
       "mention_count": 4
+    },
+    {
+      "name": "烛午江",
+      "aliases": [],
+      "identity": "元夏驻留人员",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "元夏驻留天夏的人员，与寒臣、妘蕞一同被召见。",
+      "appearance": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寒臣",
+          "type": "同僚"
+        },
+        {
+          "target": "妘蕞",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被慕倦安召见，询问去留，后领取避劫丹丸服下。"
+        }
+      ],
+      "evidence": [
+        "妘蕞、烛午江二人自然是不愿意回去的",
+        "烛午江二人见慕倦安和曲道人都是望着自己，也只能熄了带回去的心思"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "长孙廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "天夏廷执，负责祭炼外身。",
+      "appearance": [],
+      "abilities": [
+        "祭炼外身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "陆续祭炼了十一具外身。"
+        }
+      ],
+      "evidence": [
+        "这段时日以来，长孙廷执那里又是陆续祭炼了十一具外身。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "严鱼明",
+      "aliases": [],
+      "identity": "张御的学生",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "张御的学生，名列使团名册。",
+      "appearance": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被列入使团名册。"
+        }
+      ],
+      "evidence": [
+        "他的学生严鱼明，还有俞瑞卿的弟子岳萝都是名列其上"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "岳萝",
+      "aliases": [],
+      "identity": "俞瑞卿的弟子",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "俞瑞卿的弟子，名列使团名册。",
+      "appearance": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "俞瑞卿",
+          "type": "老师"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被列入使团名册。"
+        }
+      ],
+      "evidence": [
+        "他的学生严鱼明，还有俞瑞卿的弟子岳萝都是名列其上"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "姜道人",
+      "aliases": [
+        "姜役"
+      ],
+      "identity": "天夏修道人",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第二十六章 拟名用册传",
+      "summary": "天夏修道人，曾骂过曲道人。",
+      "appearance": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曲道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被曲道人提及，曾骂过曲道人。"
+        }
+      ],
+      "evidence": [
+        "他被姜道人骂的余怒未消",
+        "慕倦安似笑非笑看了他一眼，道：‘看来方才姜役之事，曲真人还是不甘心啊。’"
+      ],
+      "mention_count": 2
     }
   ]
 }

@@ -1,257 +1,329 @@
 {
   "chunk_id": "chunk-0518",
-  "title": "第二十三章 寻印",
   "characters": [
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "玄修，玄廷行走",
+      "faction": "玄修",
+      "status": "登场",
+      "first_appearance": "第二十三章 寻印",
+      "summary": "玄修，入驻开阳子殿，正在完善玄浑蝉观想图，对真玄论法不感兴趣。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "低调"
+      ],
+      "abilities": [
+        "玄浑蝉观想图",
+        "剑印",
+        "言印",
+        "大道浑章"
+      ],
+      "equipment": [
+        "天寰天授衣"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在开阳子殿观摩玄柱章印，并完善自身章印。"
+        }
+      ],
+      "evidence": [
+        "张御跟随着那役侍而去，在沿着明光长廊行走了半刻后，便来到了开阳子殿之内",
+        "当初他以剑印和言印为自己的核心章印，并以此为依托炼就了玄浑蝉观想图",
+        "他可没忘了自己‘玄廷行走’的身份"
+      ],
+      "mention_count": 10
+    },
     {
       "name": "岳萝",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "摇光子殿道人的弟子",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第二十三章 寻印",
-      "summary": "岳萝在一名修士的带领下小心走入此间，她对着这道人一个万福，道：“老师",
+      "summary": "摇光子殿道人的弟子，曾受张御指点，炼出心光。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "岳萝在一名修士的带领下小心走入此间，她对着这道人一个万福，道：“老师",
-        "”    岳萝好奇看了一眼那副画，很快收回目光，道：“回老师，弟子只是服用了一枚精力丹丸",
-        "”    岳萝不解道：“可是食五谷之浊，不会污秽道躯么"
+      "personality": [
+        "纯真"
       ],
-      "mention_count": 11
+      "abilities": [
+        "心光"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "摇光子殿道人",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "受其指点"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜访老师，提及路上遇到张御并得到玉简。"
+        }
+      ],
+      "evidence": [
+        "岳萝在一名修士的带领下小心走入此间",
+        "岳萝这时一低头，从袖兜里拿出一枚玉简，递上道：‘那是那位玄修留给弟子的。’"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "那道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "摇光子殿道人",
+      "aliases": [
+        "俞道友"
+      ],
+      "identity": "摇光子殿主人，真修",
+      "faction": "真修",
       "status": "登场",
       "first_appearance": "第二十三章 寻印",
-      "summary": "”    那道人随意言道：“不必多礼，徒儿，可是用过晚食了么",
-      "appearance": [],
-      "personality": [],
+      "summary": "岳萝的老师，潇洒英俊的三旬道人，对张御的指点表示感激。",
+      "appearance": [
+        "潇洒英俊"
+      ],
+      "personality": [
+        "随和",
+        "有品味"
+      ],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "equipment": [
+        "画卷"
+      ],
+      "relationships": [
+        {
+          "target": "岳萝",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "欠其人情"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与岳萝交谈，得知张御的指点，并派人打听。"
+        }
+      ],
       "evidence": [
-        "”    那道人随意言道：“不必多礼，徒儿，可是用过晚食了么",
-        "”    那道人摇头道：“哎，品味美食乃是人生之欢，不可轻弃，你如今年岁尚小，尚还无需辟谷",
-        "”    那道人摇头道：“身在天地这大染缸中，又有何物不秽呢"
+        "摇光子殿之中，一名潇洒英俊的三旬道人半靠在榻上",
+        "那道人摇头道：‘为师可是欠了这位同道一个人情。’"
       ],
       "mention_count": 8
     },
     {
-      "name": "那道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 寻印",
-      "summary": "”    那道人随意言道：“不必多礼，徒儿，可是用过晚食了么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    那道人随意言道：“不必多礼，徒儿，可是用过晚食了么",
-        "”    那道人摇头道：“哎，品味美食乃是人生之欢，不可轻弃，你如今年岁尚小，尚还无需辟谷",
-        "”    那道人摇头道：“身在天地这大染缸中，又有何物不秽呢"
-      ],
-      "mention_count": 7
-    },
-    {
       "name": "师延辛",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 寻印",
-      "summary": "而同一时刻，那名年轻修士再次来至天枢上宫之中，对着正在与另一名修士下棋的师延辛道：“师道兄，人已是到了",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而同一时刻，那名年轻修士再次来至天枢上宫之中，对着正在与另一名修士下棋的师延辛道：“师道兄，人已是到了",
-        "”    师延辛凝视着棋盘，道：“不知来的是哪几位道友",
-        "”    师延辛本欲按子，听到这句话，手中动作微微一顿，语声平静道：“看来他们是志在必得了"
+      "aliases": [
+        "师道兄"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "玄修",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄修，参与真玄论法",
+      "faction": "玄修",
       "status": "登场",
       "first_appearance": "第二十三章 寻印",
-      "summary": "他不禁点头，有此物在，不管是玄修提炼神元还是真修调理气息，都可事半功倍，关键是此刻还能抵御虚空外邪，立于此间，他便不必再去时不时维持天寰天授衣了",
+      "summary": "玄修，与年轻修士讨论真玄论法，考虑派俞道友出战。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他不禁点头，有此物在，不管是玄修提炼神元还是真修调理气息，都可事半功倍，关键是此刻还能抵御虚空外邪，立于此间，他便不必再去时不时维持天寰天授衣了",
-        "玄修修法向来以六正印为持，并以六印为完满，所以他至少还需有四枚章印填入进来，以此充当核心，进而才能完成那观想图由死转生这一步",
-        "岳萝这时一低头，从袖兜里拿出一枚玉简，递上道：“那是那位玄修留给弟子的"
+      "personality": [
+        "平静",
+        "深思熟虑"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "那年",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 寻印",
-      "summary": "那年轻道人神情凝肃道：“余下不论，但领头二人是沈若丘与聂殷",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那年轻道人神情凝肃道：“余下不论，但领头二人是沈若丘与聂殷",
-        "”    那年轻修士考虑了一下，道：“摇光子殿的俞道友颇为合适，这两天诸位道友私下论法，少有能胜过他之人，我们或者可让这位试上一试",
-        "”    那年轻修士拱手一揖，道：“我这就去"
+      "relationships": [
+        {
+          "target": "年轻修士",
+          "type": "同修"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "也是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 寻印",
-      "summary": "对于这里的精雅布置他并没有去多看，而是穿庭过廊，直接来到了子殿之前空地之上，这里果然也是立有一根玄柱",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与年轻修士讨论真玄论法，决定请俞道友出战。"
+        }
+      ],
       "evidence": [
-        "对于这里的精雅布置他并没有去多看，而是穿庭过廊，直接来到了子殿之前空地之上，这里果然也是立有一根玄柱",
-        "而这里就不同了，能入驻这上宫之中的，定然是玄合境修士，且俱是此境之中的英秀，故而哪怕是缺印，也是相对完整的，甚至放在三章修士之中可以直接拿去用了",
-        "现在要进一步完善这观想图，他就需要填入更多核心章印用以支撑，这也是随着他道行修为提升之后所必然要进行的过程"
+        "师延辛凝视着棋盘",
+        "师延辛缓缓放下手中棋子"
       ],
       "mention_count": 5
     },
     {
-      "name": "老师",
+      "name": "年轻修士",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄修，师延辛的同修",
+      "faction": "玄修",
       "status": "登场",
       "first_appearance": "第二十三章 寻印",
-      "summary": "岳萝在一名修士的带领下小心走入此间，她对着这道人一个万福，道：“老师",
+      "summary": "玄修，向师延辛通报真修到来，并建议请俞道友出战。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "岳萝在一名修士的带领下小心走入此间，她对着这道人一个万福，道：“老师",
-        "”    岳萝好奇看了一眼那副画，很快收回目光，道：“回老师，弟子只是服用了一枚精力丹丸",
-        "我辈何时超脱出这方天地，方能谈一方清净，这是你老师我尚未达到的境地，你还无需争着去做"
+      "personality": [
+        "凝肃"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "师延",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 寻印",
-      "summary": "而同一时刻，那名年轻修士再次来至天枢上宫之中，对着正在与另一名修士下棋的师延辛道：“师道兄，人已是到了",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而同一时刻，那名年轻修士再次来至天枢上宫之中，对着正在与另一名修士下棋的师延辛道：“师道兄，人已是到了",
-        "”    师延辛凝视着棋盘，道：“不知来的是哪几位道友",
-        "”    师延辛本欲按子，听到这句话，手中动作微微一顿，语声平静道：“看来他们是志在必得了"
+      "relationships": [
+        {
+          "target": "师延辛",
+          "type": "同修"
+        }
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第二十三章 寻印",
-      "summary": "他再是看了一会儿，便挥了挥手，就让役侍退下，而后往台阶之下走去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向师延辛通报沈若丘与聂殷到来，并建议请俞道友出战。"
+        }
+      ],
       "evidence": [
-        "他再是看了一会儿，便挥了挥手，就让役侍退下，而后往台阶之下走去",
-        "他在此站了一夜，到了天明时分，方才回到大厅之中坐定，而后陷入了长久的思考之中",
-        "而今日受诸多章印的触动和启发，他心中却是灵思起伏，跃动不止，许久之后，他眸光一亮，霎时浑光一闪，大道浑章已是显于面前，而后他伸指一点，一枚章印便在上面显现了出来"
+        "那名年轻修士再次来至天枢上宫之中",
+        "那年轻修士神情凝肃道：‘余下不论，但领头二人是沈若丘与聂殷。’"
       ],
       "mention_count": 4
     },
     {
-      "name": "而是",
+      "name": "沈若丘",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "真修，真玄论法领头人之一",
+      "faction": "真修",
+      "status": "提及",
       "first_appearance": "第二十三章 寻印",
-      "summary": "对于这里的精雅布置他并没有去多看，而是穿庭过廊，直接来到了子殿之前空地之上，这里果然也是立有一根玄柱",
+      "summary": "真修，与聂殷一同前来参加真玄论法。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "对于这里的精雅布置他并没有去多看，而是穿庭过廊，直接来到了子殿之前空地之上，这里果然也是立有一根玄柱",
-        "除非是有必要，或者面对避不开的敌手，他是没心思去与人动手的，更何况人前斗法极易显露自身道术神通，需知这可不是在内层，而是在外层，需小心提防上宸天修士的窥视"
+      "relationships": [
+        {
+          "target": "聂殷",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与聂殷一同来到垂星宫庐参加真玄论法。"
+        }
+      ],
+      "evidence": [
+        "但领头二人是沈若丘与聂殷"
+      ],
+      "mention_count": 2
     },
     {
-      "name": "霎时",
+      "name": "聂殷",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "真修，真玄论法领头人之一",
+      "faction": "真修",
+      "status": "提及",
+      "first_appearance": "第二十三章 寻印",
+      "summary": "真修，与沈若丘一同前来参加真玄论法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈若丘",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与沈若丘一同来到垂星宫庐参加真玄论法。"
+        }
+      ],
+      "evidence": [
+        "但领头二人是沈若丘与聂殷"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "中年玄修",
+      "aliases": [],
+      "identity": "玄修，垂星宫庐接待者",
+      "faction": "玄修",
       "status": "登场",
       "first_appearance": "第二十三章 寻印",
-      "summary": "他来至近前，伸手按了上去，霎时眼前闪烁出来一枚枚流转不息的章印",
+      "summary": "玄修，带领弟子迎接真修到来。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他来至近前，伸手按了上去，霎时眼前闪烁出来一枚枚流转不息的章印",
-        "而今日受诸多章印的触动和启发，他心中却是灵思起伏，跃动不止，许久之后，他眸光一亮，霎时浑光一闪，大道浑章已是显于面前，而后他伸指一点，一枚章印便在上面显现了出来",
-        "”    师延辛缓缓放下手中棋子，在一子落定之后，整个棋盘霎时破碎消散，而坐在他对面的玄修遗憾一叹，也是化作金光散去，只留下一个空荡荡的静室"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领弟子迎接沈若丘等真修。"
+        }
       ],
-      "mention_count": 4
+      "evidence": [
+        "立刻有一名中年玄修带着许多弟子自里迎出"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "役侍",
+      "aliases": [],
+      "identity": "侍从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二十三章 寻印",
+      "summary": "张御的役侍，引导张御前往开阳子殿。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "侍从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "引导张御至开阳子殿。"
+        }
+      ],
+      "evidence": [
+        "张御跟随着那役侍而去"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "役从",
+      "aliases": [],
+      "identity": "侍从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二十三章 寻印",
+      "summary": "摇光子殿道人的役从，负责打听消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "摇光子殿道人",
+          "type": "侍从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被道人派去打听张御的消息。"
+        }
+      ],
+      "evidence": [
+        "他对身旁一名役从关照了一下"
+      ],
+      "mention_count": 1
     }
   ]
 }

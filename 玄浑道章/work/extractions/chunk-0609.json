@@ -1,245 +1,454 @@
 {
   "chunk_id": "chunk-0609",
-  "title": "第一百一十四章 寄望",
   "characters": [
     {
-      "name": "老道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十四章 寄望",
-      "summary": "那一直与梁屹接触的老道人正等候在这里，看他走进来，道：“事情办妥了么",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那一直与梁屹接触的老道人正等候在这里，看他走进来，道：“事情办妥了么",
-        "”    老道人很是沉稳，问道：“什么意外",
-        "”    老道人锐利目光看来，道：“你们是怎么处置的"
-      ],
-      "mention_count": 16
-    },
-    {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "张巡护",
+        "玄正"
+      ],
+      "identity": "玄廷巡护",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "第一百一十四章 寄望    张御在演化的场景之中接连重演出了数个过去曾经遇到过的敌手，若是他使动方才那等手段，几乎都是可以被他一指点死",
+      "summary": "玄廷巡护，正在寻求上境，关注观察者事件。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十四章 寄望    张御在演化的场景之中接连重演出了数个过去曾经遇到过的敌手，若是他使动方才那等手段，几乎都是可以被他一指点死",
-        "张御私下猜测，这里很可能是元童老祖曾为上境修士的缘故，而神异何在，以他现在的境界，恐怕还弄不明白，于是也便不再深究下去，心思一动，面前景物化散开来，意识也是从中退出",
-        "”    说实话，在从梁屹口中得知了虢星那一战的真正经过之后，他对张御也是异常佩服和敬畏"
+      "personality": [
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 15
+      "abilities": [
+        "演化场景",
+        "神通领悟"
+      ],
+      "equipment": [
+        "大道玄章",
+        "玉符"
+      ],
+      "relationships": [
+        {
+          "target": "元童老祖",
+          "type": "对手"
+        },
+        {
+          "target": "白果君",
+          "type": "同伴"
+        },
+        {
+          "target": "梁屹",
+          "type": "需要询问的对象"
+        },
+        {
+          "target": "南宫漱",
+          "type": "关注对象"
+        },
+        {
+          "target": "李青禾",
+          "type": "下属"
+        },
+        {
+          "target": "徐亥",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在演化场景中重演对手，思考神通领悟，决定去下层界，并处理南宫漱之事。"
+        },
+        {
+          "stage": "当前",
+          "event": "写信给边览等人，然后进入洪乙层界。"
+        },
+        {
+          "stage": "当前",
+          "event": "在洪乙层界与贺乘帆、徐亥交谈，然后前往邪神信众区域。"
+        }
+      ],
+      "evidence": [
+        "张御在演化的场景之中接连重演出了数个过去曾经遇到过的敌手",
+        "他自我判断，在接下来一段时间内，随着自身道行再进，便将会逐渐有所领悟。",
+        "张御点头回礼道：原来是徐道友，你身上的疑难可是解决了么？"
+      ],
+      "mention_count": 20
     },
     {
-      "name": "黑衣",
-      "aliases": [],
-      "identity": "",
+      "name": "元童老祖",
+      "aliases": [
+        "元童"
+      ],
+      "identity": "上境修士",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "而另一边，黑衣道人在拿定了南宫漱后，便与白发道人分开，来至一处隐蔽洞窟之内",
+      "summary": "张御过去遇到的对手，曾是上境修士，在演化场景中能提前躲避张御的手段。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而另一边，黑衣道人在拿定了南宫漱后，便与白发道人分开，来至一处隐蔽洞窟之内",
-        "”    黑衣道人言道：“人是找到了，但是出了一点意外",
-        "”    黑衣道人言道：“那人……是玄廷行走"
+      "abilities": [
+        "提前躲避"
       ],
-      "mention_count": 12
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与张御斗战。"
+        }
+      ],
+      "evidence": [
+        "在与元童老祖对战之时，他还没有唤醒白果君",
+        "可每当他使出手段，这位却总能提前躲避了过去"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "黑衣道",
-      "aliases": [],
-      "identity": "",
+      "name": "白果君",
+      "aliases": [
+        "白果"
+      ],
+      "identity": "张御的同伴",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "而另一边，黑衣道人在拿定了南宫漱后，便与白发道人分开，来至一处隐蔽洞窟之内",
+      "summary": "张御的同伴，能解释演化场景中的现象。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同伴"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "而另一边，黑衣道人在拿定了南宫漱后，便与白发道人分开，来至一处隐蔽洞窟之内",
-        "”    黑衣道人言道：“人是找到了，但是出了一点意外",
-        "”    黑衣道人言道：“那人……是玄廷行走"
+        "白果也说不清这里是什么原因，只能直言结果就是如此。"
       ],
-      "mention_count": 12
+      "mention_count": 1
+    },
+    {
+      "name": "南宫漱",
+      "aliases": [],
+      "identity": "被黑衣道人控制的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十四章 寄望",
+      "summary": "向张御提及观察者背后有势力推动，后被黑衣道人拿住并改换忆识。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "提供信息者"
+        },
+        {
+          "target": "黑衣道人",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被黑衣道人拿住并改换忆识。"
+        }
+      ],
+      "evidence": [
+        "可从南宫漱所言之语中可以看出，今次不定是有一个势力在背后推动此事",
+        "黑衣道人言道：我们商量下来，觉得还是将其人忆识改换为好"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "梁屹",
+      "aliases": [
+        "梁道友"
+      ],
+      "identity": "张御的熟人，曾推荐观察者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十四章 寄望",
+      "summary": "曾向张御推荐观察者，后四处宣扬此物，被老道人认为可能向张御透露计划。",
+      "appearance": [],
+      "personality": [
+        "舍身忘死"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "熟人"
+        },
+        {
+          "target": "老道人",
+          "type": "被防备"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被老道人计划请到别处，避免与张御见面。"
+        }
+      ],
+      "evidence": [
+        "在陆宣和斗战之时，此人舍身忘死，绝非那等阴私鬼祟之辈",
+        "老道人言道：我会设法把梁道友请到别处，不让他们两个人见面交流"
+      ],
+      "mention_count": 4
     },
     {
       "name": "黑衣道人",
       "aliases": [],
-      "identity": "",
+      "identity": "与老道人同谋的修道者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "而另一边，黑衣道人在拿定了南宫漱后，便与白发道人分开，来至一处隐蔽洞窟之内",
+      "summary": "拿住南宫漱并改换其忆识，计划迷惑张御。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "而另一边，黑衣道人在拿定了南宫漱后，便与白发道人分开，来至一处隐蔽洞窟之内",
-        "”    黑衣道人言道：“人是找到了，但是出了一点意外",
-        "”    黑衣道人言道：“那人……是玄廷行走"
+      "personality": [
+        "谨慎",
+        "敬畏张御"
       ],
-      "mention_count": 12
-    },
-    {
-      "name": "老道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十四章 寄望",
-      "summary": "那一直与梁屹接触的老道人正等候在这里，看他走进来，道：“事情办妥了么",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那一直与梁屹接触的老道人正等候在这里，看他走进来，道：“事情办妥了么",
-        "”    老道人很是沉稳，问道：“什么意外",
-        "”    老道人锐利目光看来，道：“你们是怎么处置的"
+      "relationships": [
+        {
+          "target": "老道人",
+          "type": "同谋"
+        },
+        {
+          "target": "南宫漱",
+          "type": "控制者"
+        },
+        {
+          "target": "张御",
+          "type": "忌惮对象"
+        }
       ],
-      "mention_count": 11
-    },
-    {
-      "name": "这位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十四章 寄望",
-      "summary": "照理说对方这化影现在已是较他为弱，可每当他使出手段，这位却总能提前躲避了过去，白果也说不清这里是什么原因，只能直言结果就是如此",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "照理说对方这化影现在已是较他为弱，可每当他使出手段，这位却总能提前躲避了过去，白果也说不清这里是什么原因，只能直言结果就是如此",
-        "这位之前也曾向他推荐过观察者，并认为玄修或可凭此壮大兴盛，他当时则认为眼下时机尚不成熟，却不想这位如今在四处宣扬此物",
-        "只目前不知道这位现在何处，他想了想，重新来至案前，执笔写了一封书信，随后把李青禾人送来，让其先寄去边览等人所在"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拿住南宫漱，与老道人商议对策。"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百一十四章 寄望",
-      "summary": "在与元童老祖对战之时，他还没有唤醒白果君，不过凭借回忆依旧可以将之返照出来，但这仅仅只是识忆中那位元童老祖，未必见得完全重演了这一位与他斗战时的全部实力",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "在与元童老祖对战之时，他还没有唤醒白果君，不过凭借回忆依旧可以将之返照出来，但这仅仅只是识忆中那位元童老祖，未必见得完全重演了这一位与他斗战时的全部实力",
-        "只是这里一定还是需要更多心力来支撑的，他寻思了一会儿，下来当是需尽快往下层一行了",
-        "”    黑衣道人言道：“我们也问出来了，他虽与那位张巡护说了不少关于我们的事，但都是流于表面，深一些东西他并没有查到，只是那位张巡护下来很可能会去找寻梁道友"
+        "黑衣道人拿定了南宫漱后，便与白发道人分开",
+        "黑衣道人言道：我们商量下来，觉得还是将其人忆识改换为好"
       ],
       "mention_count": 6
     },
     {
-      "name": "可见",
-      "aliases": [],
-      "identity": "",
+      "name": "老道人",
+      "aliases": [
+        "黎公"
+      ],
+      "identity": "与黑衣道人同谋的修道者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "这一路之上，可见大量的被摧毁的军营和驻地，看留下的痕迹，这应该己方几修道人所为",
+      "summary": "与黑衣道人策划对付张御，计划用成道事物分散张御注意力。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "沉稳",
+        "老谋深算"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "黑衣道人",
+          "type": "同谋"
+        },
+        {
+          "target": "梁屹",
+          "type": "被防备"
+        },
+        {
+          "target": "张御",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与黑衣道人商议，计划用成道事物分散张御注意力。"
+        }
+      ],
       "evidence": [
-        "这一路之上，可见大量的被摧毁的军营和驻地，看留下的痕迹，这应该己方几修道人所为",
-        "行有一日之后，他来到了一座断崖之下，往上看去，金色的阳光照耀之下，可见上面矗立着一座白石神庙"
+        "老道人言道：我会设法把梁道友请到别处",
+        "老道人沉声道：你别多想了，你我都没这缘法。"
       ],
       "mention_count": 5
     },
     {
-      "name": "若是",
+      "name": "白发道人",
       "aliases": [],
-      "identity": "",
+      "identity": "与黑衣道人同行的修道者",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "第一百一十四章 寄望    张御在演化的场景之中接连重演出了数个过去曾经遇到过的敌手，若是他使动方才那等手段，几乎都是可以被他一指点死",
+      "summary": "与黑衣道人一起行动，后分开。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百一十四章 寄望    张御在演化的场景之中接连重演出了数个过去曾经遇到过的敌手，若是他使动方才那等手段，几乎都是可以被他一指点死",
-        "是单纯涉及观察者一事，他也不打算多去过问，因为观察者一念便可除去，也构不成什么太大威胁，若是做不到这一点，那也没有修士会用",
-        "”    老道人道：“你说此时若是有涉及成道的事物摆在他面前，他会如何选择"
+      "relationships": [
+        {
+          "target": "黑衣道人",
+          "type": "同伴"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与黑衣道人分开。"
+        }
+      ],
+      "evidence": [
+        "黑衣道人拿定了南宫漱后，便与白发道人分开"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "那一",
+      "name": "贺乘帆",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "青阳玄府弟子",
+      "faction": "青阳玄府",
       "status": "登场",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "那一直与梁屹接触的老道人正等候在这里，看他走进来，道：“事情办妥了么",
+      "summary": "在洪乙层界军垒中迎接张御的年轻弟子。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "惊喜"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那一直与梁屹接触的老道人正等候在这里，看他走进来，道：“事情办妥了么",
-        "以梁道友的为人，他不定会对那位张巡护坦然言说我们的计划，只是那个张巡护一直敌视造物，他若知晓了此事，那一定会千方百计阻止我辈，那事情就不好办了",
-        "”    说实话，在从梁屹口中得知了虢星那一战的真正经过之后，他对张御也是异常佩服和敬畏"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
       ],
-      "mention_count": 4
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御汇报军垒情况。"
+        }
+      ],
+      "evidence": [
+        "一名年轻弟子走了过来，见到是他，露出惊喜之色，上来恭敬一礼，道：青阳玄府贺乘帆见过玄正。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "我会",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "徐亥",
+      "aliases": [
+        "徐道友"
+      ],
+      "identity": "余玄尊名下弟子",
+      "faction": "玄廷",
       "status": "登场",
       "first_appearance": "第一百一十四章 寄望",
-      "summary": "”    老道人言道：“梁道友没有你想得那么耿直，但我们也的确不得不防，我会设法把梁道友请到别处，不让他们两个人见面交流，你尽快让那个南宫漱打消那位的疑虑",
+      "summary": "余玄尊弟子，因观想图问题被张御指点，后自愿镇守洪乙层界。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "受指点者"
+        },
+        {
+          "target": "余玄尊",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "因观想图被张御连斩数次，后听建言寻师延辛。"
+        },
+        {
+          "stage": "当前",
+          "event": "在洪乙层界镇守，与张御交谈。"
+        }
+      ],
+      "evidence": [
+        "来人正是余玄尊名下弟子徐亥",
+        "徐亥道：还是多亏了张巡护的指点，不破不立，我现在已是重再炼合了观想图"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的下属",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十四章 寄望",
+      "summary": "张御写信后将其唤来，让其寄信。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤来寄信。"
+        }
+      ],
+      "evidence": [
+        "随后把李青禾人送来，让其先寄去边览等人所在。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "边览",
+      "aliases": [],
+      "identity": "张御的收信人之一",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十四章 寄望",
+      "summary": "张御写信的对象之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "收信人"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "让其先寄去边览等人所在。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "左道人",
+      "aliases": [],
+      "identity": "绘制舆图的修道者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十四章 寄望",
+      "summary": "与其他人一起绘制了洪乙层界的舆图。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -247,11 +456,35 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "”    老道人言道：“梁道友没有你想得那么耿直，但我们也的确不得不防，我会设法把梁道友请到别处，不让他们两个人见面交流，你尽快让那个南宫漱打消那位的疑虑",
-        "”    黑衣道人答应道：“我会的",
-        "”    黑衣道人连忙保证道：“我会尽量不让南宫漱与那位张巡护接触，书信往来想来这位也不会惹来怀疑"
+        "他从徐亥那里得到了一份舆图，这是左道人等人用了很长时间绘制了一张舆图"
       ],
-      "mention_count": 4
+      "mention_count": 1
+    },
+    {
+      "name": "杏川道人",
+      "aliases": [],
+      "identity": "修道者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第一百一十四章 寄望",
+      "summary": "用飞剑攻破邪神信众城池的修道者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "飞剑"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "攻破邪神信众城池。"
+        }
+      ],
+      "evidence": [
+        "看痕迹无疑是被飞剑攻破的，这应该杏川道人所留"
+      ],
+      "mention_count": 1
     }
   ]
 }

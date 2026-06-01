@@ -1,256 +1,341 @@
 {
   "chunk_id": "chunk-0476",
-  "title": "第两百四十七章 暴露",
   "characters": [
     {
-      "name": "魏护卫",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "张御",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百四十七章 暴露",
-      "summary": "”    归州天机院地下驻站之内，魏护卫与两个同行的师匠从驰车之内走了出来，并沿着舱道往前方走去",
+      "summary": "玄府玄正，负责调查海上飞舟事件，并下令拦截魏护卫等人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有远见"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    归州天机院地下驻站之内，魏护卫与两个同行的师匠从驰车之内走了出来，并沿着舱道往前方走去",
-        "魏护卫警惕的看了一眼四周，回了洲域之中后，他总是觉得有些心神不宁",
-        "”    魏护卫道：“归州的行军酒听闻十分有名，我之前路过归州的时候来不及品尝，你们这里有么"
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "对话对象"
+        },
+        {
+          "target": "白秀",
+          "type": "猜测其与功法泄露有关"
+        },
+        {
+          "target": "竺玄首",
+          "type": "猜测其纵容白秀"
+        },
+        {
+          "target": "温良",
+          "type": "同僚，受命拦截"
+        },
+        {
+          "target": "曹道友",
+          "type": "同僚，受命拦截"
+        }
       ],
-      "mention_count": 23
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从正殿回到居处，回忆与恽尘的对话，收到海上急报后下令拦截。"
+        }
+      ],
+      "evidence": [
+        "张御自正殿之中出来后，就回到了自己在玄府之中的居处",
+        "张御猜测，这或许和白秀有关。",
+        "他对送信的修士道：“传讯温道友和曹道友，让他设法将此辈拦截下来。”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "魏护",
+      "name": "恽尘",
       "aliases": [],
-      "identity": "",
+      "identity": "玄法修士，师祖留下青阳轮功法",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第两百四十七章 暴露",
-      "summary": "”    归州天机院地下驻站之内，魏护卫与两个同行的师匠从驰车之内走了出来，并沿着舱道往前方走去",
+      "summary": "与张御对话，透露青阳轮中所藏之法是一门玄法，可一瞬间成就上境但有后患。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对话对象"
+        },
+        {
+          "target": "恽尘师祖",
+          "type": "师祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御对话，解释青阳轮功法。"
+        }
+      ],
+      "evidence": [
+        "根据恽尘的说法，那青阳轮中所藏之法，正是一门玄法",
+        "恽尘师祖留下这门功法，只是让弟子可以在前路走不通的情形下还可以试着再往上攀行。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "白秀",
+      "aliases": [],
+      "identity": "曾在竺玄首门下修行",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第两百四十七章 暴露",
+      "summary": "张御猜测其与青阳轮功法泄露有关，可能是在竺玄首门下时得知。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "半个弟子"
+        },
+        {
+          "target": "张御",
+          "type": "被猜测对象"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    归州天机院地下驻站之内，魏护卫与两个同行的师匠从驰车之内走了出来，并沿着舱道往前方走去",
-        "魏护卫警惕的看了一眼四周，回了洲域之中后，他总是觉得有些心神不宁",
-        "”    魏护卫道：“归州的行军酒听闻十分有名，我之前路过归州的时候来不及品尝，你们这里有么"
+        "张御猜测，这或许和白秀有关。",
+        "白秀曾在竺玄首门下修行，算得上是竺玄首半个弟子"
       ],
-      "mention_count": 16
+      "mention_count": 2
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [],
+      "identity": "玄府玄首",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第两百四十七章 暴露",
+      "summary": "白秀的师父，张御认为其纵容白秀，可能涉及上层利益交换。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白秀",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "白秀曾在竺玄首门下修行",
+        "要说竺玄首完全不知情是不可能的，甚至在某种程度上还纵容了其人。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "魏护卫",
+      "aliases": [
+        "魏护卫"
+      ],
+      "identity": "护卫，披甲军士",
+      "faction": "未知势力（与飞舟相关）",
+      "status": "登场",
+      "first_appearance": "第两百四十七章 暴露",
+      "summary": "护送两名师匠返回光州总院，途中遭遇温良等人拦截，陷入幻境。",
+      "appearance": [
+        "披上神袍玄甲后变成丈许高的金属巨人"
+      ],
+      "personality": [
+        "警惕",
+        "享受美食美酒",
+        "怀疑自身是否为造物"
+      ],
+      "abilities": [
+        "披甲战斗",
+        "灵性力量"
+      ],
+      "equipment": [
+        "神袍玄甲"
+      ],
+      "relationships": [
+        {
+          "target": "男师匠",
+          "type": "同行"
+        },
+        {
+          "target": "女师匠",
+          "type": "同行"
+        },
+        {
+          "target": "温良",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从归州天机院地下驻站出发，乘坐驰车前往光州总院，在珠县驻站遭遇温良等人拦截。"
+        }
+      ],
+      "evidence": [
+        "魏护卫与两个同行的师匠从驰车之内走了出来",
+        "他眉心一闪，幽金色玄甲霎时覆盖全身，眨眼间变成了一个丈许高的金属巨人。",
+        "他心中没来由一阵惶恐，狂吼一声，再次向着天中冲去……"
+      ],
+      "mention_count": 15
     },
     {
       "name": "男师匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "工匠师匠",
+      "faction": "未知（与飞舟相关）",
       "status": "登场",
       "first_appearance": "第两百四十七章 暴露",
-      "summary": "”    魏护卫看了看对面，那男师匠笑道：“魏护卫自便便是，我们是工匠，要保持清醒头脑，不沾酒",
+      "summary": "与魏护卫同行的师匠之一，在女师匠欲杀他时反杀女师匠，并愿意配合温良。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    魏护卫看了看对面，那男师匠笑道：“魏护卫自便便是，我们是工匠，要保持清醒头脑，不沾酒",
-        "男师匠看了看他，笑道：“魏护卫，我很好奇，披上了神袍玄甲，激发了灵性之后，还需要用一般的食物来补充体力么",
-        "”    男师匠问道：“魏护卫认为，维护这些很重要么"
+      "personality": [
+        "冷静",
+        "求生欲强"
       ],
-      "mention_count": 11
+      "abilities": [],
+      "equipment": [
+        "火铳"
+      ],
+      "relationships": [
+        {
+          "target": "魏护卫",
+          "type": "同行"
+        },
+        {
+          "target": "女师匠",
+          "type": "同行后被其反杀"
+        },
+        {
+          "target": "温良",
+          "type": "愿意配合"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在驰车中与女师匠对峙，反杀女师匠后表示愿意配合温良。"
+        }
+      ],
+      "evidence": [
+        "男师匠笑了笑，也是拿出了一把火铳",
+        "男师匠看着尸身，目光之中露出歉意",
+        "他站了起来，道：“我愿意配合你们。”"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "男师",
+      "name": "女师匠",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "工匠师匠，造物人",
+      "faction": "未知（与飞舟相关）",
+      "status": "死亡",
       "first_appearance": "第两百四十七章 暴露",
-      "summary": "”    魏护卫看了看对面，那男师匠笑道：“魏护卫自便便是，我们是工匠，要保持清醒头脑，不沾酒",
+      "summary": "与魏护卫同行的师匠之一，冷静冷漠，欲杀男师匠灭口，反被男师匠枪杀。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    魏护卫看了看对面，那男师匠笑道：“魏护卫自便便是，我们是工匠，要保持清醒头脑，不沾酒",
-        "男师匠看了看他，笑道：“魏护卫，我很好奇，披上了神袍玄甲，激发了灵性之后，还需要用一般的食物来补充体力么",
-        "”    男师匠问道：“魏护卫认为，维护这些很重要么"
+      "personality": [
+        "冷静",
+        "冷漠"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "张御",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十七章 暴露",
-      "summary": "第两百四十七章 暴露    张御自正殿之中出来后，就回到了自己在玄府之中的居处，他坐下之后，不禁回忆起方才与恽尘的那番对话",
-      "appearance": [],
-      "personality": [],
       "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第两百四十七章 暴露    张御自正殿之中出来后，就回到了自己在玄府之中的居处，他坐下之后，不禁回忆起方才与恽尘的那番对话",
-        "张御猜测，这或许和白秀有关",
-        "”    张御道：“拿进来"
+      "equipment": [
+        "火铳"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "他伸",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十七章 暴露",
-      "summary": "他伸手一舱门之上一搭，同时道：“两位，总院的消息不容泄露，情形若有万一，你们知道该怎么做，希望不要我来帮你们",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他伸手一舱门之上一搭，同时道：“两位，总院的消息不容泄露，情形若有万一，你们知道该怎么做，希望不要我来帮你们",
-        "”    说完这句话后，他伸手一拉，将舱门强行拉了开来，现在正是上午，外面稍显刺眼的阳光的顿时照了进来",
-        "对付这样的人，只需要以神通克制便好，于是他伸手向前一指"
+      "relationships": [
+        {
+          "target": "男师匠",
+          "type": "同行后被其反杀"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "而后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十七章 暴露",
-      "summary": "”    他身上灵性光芒霎时亮起，而后微微向下一矮身，就轰然飞跃而起，向着天空之中冲去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    他身上灵性光芒霎时亮起，而后微微向下一矮身，就轰然飞跃而起，向着天空之中冲去",
-        "魏护卫能感觉三名道人之中以温良的实力最高，他跃起之后，只一瞬间就冲到了其人的面前，而后裹满灵性力量的拳头猛然挥下",
-        "男师匠缓缓拿起火铳对着自己，可就在他要扣动扳机的时候，忽然转过铳口对准了女师匠，轰地一声鸣响，后者好像被一柄巨锤砸在了脑袋上，整个被带动着向一旁飞了出去，而后就倒在地上一动不动了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在驰车中拿出火铳欲杀男师匠，反被男师匠枪杀。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "甚至",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十七章 暴露",
-      "summary": "而白秀的种种举动，要说竺玄首完全不知情是不可能的，甚至在某种程度上还纵容了其人",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "而白秀的种种举动，要说竺玄首完全不知情是不可能的，甚至在某种程度上还纵容了其人",
-        "甚至他有时候也是开始怀疑自身，怀疑自己的记忆是不是假的，怀疑自己是不是一个造物人",
-        "但是缺乏变化始终是这些人的软肋，像明校尉那样可以变化为灵性巨人的只是属于极少数，甚至只此一例"
+        "女师匠这时冷静的从自己随身携带的行李之中里拿出一柄火铳",
+        "女师匠看了他一眼，点点头，将火铳放下",
+        "后者好像被一柄巨锤砸在了脑袋上，整个被带动着向一旁飞了出去，而后就倒在地上一动不动了。"
       ],
       "mention_count": 5
     },
     {
-      "name": "落在",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十七章 暴露",
-      "summary": "他深心中对这样的举动其实并不认可，往往上层看去一些无关紧要的事情，落在下层的时候，就可能会引发一场极大动荡",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他深心中对这样的举动其实并不认可，往往上层看去一些无关紧要的事情，落在下层的时候，就可能会引发一场极大动荡",
-        "同时天中一名道人飘身而下，落在地上，向着他们这里走过来"
+      "name": "温良",
+      "aliases": [
+        "温道友"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "只是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府修士",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百四十七章 暴露",
-      "summary": "只是这么做不是没有后患的，而且今后的道途也就到此为止了",
+      "summary": "受张御之命拦截魏护卫等人，使用幻境神通困住魏护卫。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
+      "abilities": [
+        "幻境神通"
+      ],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "受命"
+        },
+        {
+          "target": "魏护卫",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在珠县驻站上空拦截魏护卫，使用幻境将其困住。"
+        }
+      ],
       "evidence": [
-        "只是这么做不是没有后患的，而且今后的道途也就到此为止了",
-        "恽尘师祖留下这门功法，只是让弟子可以在前路走不通的情形下还可以试着再往上攀行",
-        "看到这里，他眸光微动，原本他吩咐众修士多留意海上动静也只是抱着试试看的心思，毕竟谁也不能保证那艘飞舟出去之后就一定会回来，可没想到这才过去半天便就有了线索"
+        "温良站在天空之中",
+        "他伸手向前一指。",
+        "这无疑是落入了某种幻境之中。"
       ],
       "mention_count": 4
     },
     {
-      "name": "归州",
+      "name": "曹道友",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第两百四十七章 暴露",
-      "summary": "张御拿来打开一看，报书上说是海上发现了一艘归来的隐匿飞舟，看去极像是之前出海的那一艘，其在归州一处十分隐蔽的泊台停下，并通过一条暗藏的地下驰道往西北方去了",
+      "summary": "受张御之命与温良一同拦截魏护卫等人。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "受命"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "张御拿来打开一看，报书上说是海上发现了一艘归来的隐匿飞舟，看去极像是之前出海的那一艘，其在归州一处十分隐蔽的泊台停下，并通过一条暗藏的地下驰道往西北方去了",
-        "芒光传讯是非常快的，从传讯到此至多只有一刻，若是加上海上的往返时间，应该不超过一个夏时，若是驰道的话，此辈此刻应该还未走出归州",
-        "”    归州天机院地下驻站之内，魏护卫与两个同行的师匠从驰车之内走了出来，并沿着舱道往前方走去"
+        "传讯温道友和曹道友，让他设法将此辈拦截下来。"
       ],
-      "mention_count": 4
-    },
-    {
-      "name": "随后",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百四十七章 暴露",
-      "summary": "随后等候在车厢内的女侍立刻走了上来，对他万福一礼，用轻柔声音问道：“客人有什么吩咐",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "随后等候在车厢内的女侍立刻走了上来，对他万福一礼，用轻柔声音问道：“客人有什么吩咐",
-        "女师匠这时冷静的从自己随身携带的行李之中里拿出一柄火铳，迅速装上了铳子，随后对着男师匠脑袋一指，冷漠道：“逃不掉了，要我帮你么"
-      ],
-      "mention_count": 4
+      "mention_count": 1
     }
   ]
 }

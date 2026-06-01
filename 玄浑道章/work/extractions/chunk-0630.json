@@ -1,258 +1,350 @@
 {
   "chunk_id": "chunk-0630",
-  "title": "第一百三十五章 暗策",
   "characters": [
     {
-      "name": "青曙",
-      "aliases": [],
-      "identity": "",
+      "name": "黎老道",
+      "aliases": [
+        "黎公"
+      ],
+      "identity": "老道人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "”    青曙这时殿门外出现，他站在那里抱拳道：“先生，人带到了",
+      "summary": "一位老道人，与黑衣道人密谋，对张御有所图谋。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎",
+        "多虑"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    青曙这时殿门外出现，他站在那里抱拳道：“先生，人带到了",
-        "”    青曙站在那里招了招手，便见一个中年男子带着一个十二三岁，面孔稚嫩，却是大人穿着的少年人走了进来，只是走路姿势略微有些不自然",
-        "”    安立此刻看了一眼站在张御身后的青曙，他之前听传闻说张御敌视造物，他很容易就信了，因为他觉得，既然是修道人，那么一定是不喜造物的，可现在想想，这似乎又很没有道理"
+      "relationships": [
+        {
+          "target": "黑衣道人",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "算计对象"
+        }
       ],
-      "mention_count": 21
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "与黑衣道人商议，担心张御可能成法。"
+        }
+      ],
+      "evidence": [
+        "黎老道言道：“怎么样了？”",
+        "黎老道沉吟道：“我曾以为任何事都可在我们的把握中，但有些人却不在其列。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "黑衣道人",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 暗策",
+      "summary": "黎老道的下属，负责打探消息。",
+      "appearance": [
+        "黑衣"
+      ],
+      "personality": [
+        "吹捧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黎老道",
+          "type": "上司"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "向黎老道汇报张御得章印的消息。"
+        }
+      ],
+      "evidence": [
+        "黑衣道人道：“黎公，我方才从讲法之地回来，那人已是得了玄尊所赐章印。”"
+      ],
+      "mention_count": 5
     },
     {
       "name": "张御",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "巡护",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "黑衣道人吹捧了一句，道：“黎公计策高明，似张御这般求道心切之人，乍然遇到这般机缘，下来时日定是会抛开一切苦求道法",
+      "summary": "一位巡护，得了玄尊所赐章印，被多方关注。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "黑衣道人吹捧了一句，道：“黎公计策高明，似张御这般求道心切之人，乍然遇到这般机缘，下来时日定是会抛开一切苦求道法",
-        "”    张御宫庐之内又是等了一日，只他能感觉到，从昨日听道结束后，就一直有窥觊的目光看着他所居之地，心湖之中波澜可谓此起彼伏",
-        "”    张御眸光微动，道：“我知道了，劳烦许执事了"
+      "personality": [
+        "冷静"
       ],
-      "mention_count": 20
+      "abilities": [],
+      "equipment": [
+        "铜匣",
+        "白舟"
+      ],
+      "relationships": [
+        {
+          "target": "安知之",
+          "type": "师父"
+        },
+        {
+          "target": "青曙",
+          "type": "随从"
+        },
+        {
+          "target": "许成通",
+          "type": "下属"
+        },
+        {
+          "target": "黎老道",
+          "type": "被算计对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "在宫庐内吸摄热流，准备回返奎宿。"
+        }
+      ],
+      "evidence": [
+        "张御宫庐之内又是等了一日",
+        "张御淡声道：“只要他们没什么动作，那就不要理会。”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "安知之",
-      "aliases": [],
-      "identity": "",
+      "name": "许成通",
+      "aliases": [
+        "许执事"
+      ],
+      "identity": "执事",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "”    安知之低着头，嗯了一声",
+      "summary": "张御的下属，负责查问消息。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    安知之低着头，嗯了一声",
-        "”    安知之忽然抬头，大声道：“我想把我打造的东西一起带走，还有我的随从，也要带走",
-        "”    许成通在旁看着，他感觉这安知之年纪虽小，心眼倒是不少、    这小子无非就是怕到了这里之后不让他再研修造物，所以方才那句话其实是一个试探，若是允许他带走东西，那就说明很可能没有这个打算"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上司"
+        }
       ],
-      "mention_count": 13
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "向张御汇报沈道友的消息。"
+        }
+      ],
+      "evidence": [
+        "许成通自外走到他身边，执礼道：“巡护，我又去查问了一下，的确有疑似那位沈道友的人出现过”"
+      ],
+      "mention_count": 3
     },
     {
-      "name": "黎老道",
+      "name": "青曙",
       "aliases": [],
-      "identity": "",
+      "identity": "随从",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "”    黎老道言道：“怎么样了",
+      "summary": "张御的随从，负责安排安知之。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    黎老道言道：“怎么样了",
-        "”    黎老道一抚须，似是放下了什么心事，表情也是松了下来",
-        "”    黎老道默默点头，过了一会儿，他又说了一句，道：“最好如此"
+      "personality": [
+        "严厉"
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "我们",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十五章 暗策",
-      "summary": "”    黎老道沉吟道：“我曾以为任何事都可在我们的把握中，但有些人却不在其列",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    黎老道沉吟道：“我曾以为任何事都可在我们的把握中，但有些人却不在其列",
-        "需知平常人得了缘法，无外乎是舍弃和入执两个结果，可此人不能常理来揣度，他若得此，却是不排除成法的可能，要是如此，我们恐怕就弄巧成拙了……”    黑衣道人顿时吃了一惊，他犹疑道：“这……不太可能吧，黎公或许多虑了",
-        "”    黎老道点头道：“梁道友还是知道大局的，知道什么最重要，我们的事可以慢慢推进，尽量不出岔子就好"
+      "abilities": [
+        "以柳条劈开案台"
       ],
-      "mention_count": 9
+      "equipment": [
+        "柳条"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        },
+        {
+          "target": "安知之",
+          "type": "教导者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "带安知之下去学习呼吸法。"
+        }
+      ],
+      "evidence": [
+        "青曙这时殿门外出现，他站在那里抱拳道：“先生，人带到了。”",
+        "青曙拿了一根柳枝在手上，在手心拍了两下"
+      ],
+      "mention_count": 8
     },
     {
       "name": "安立",
       "aliases": [],
-      "identity": "",
+      "identity": "中年男子，安知之的叔伯辈",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "那中年男子到了跟前，朝座上一礼，道：“安立见过巡护，见过这位道长",
+      "summary": "带安知之来见张御的人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "恭敬"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "那中年男子到了跟前，朝座上一礼，道：“安立见过巡护，见过这位道长",
-        "安立忙是一揖，道：“小侄就劳烦巡护看顾了，若是他不老实，要打要骂全凭巡护",
-        "”    安立道：“是啊，不想巡护也听说过我们的名声"
+      "relationships": [
+        {
+          "target": "安知之",
+          "type": "叔侄"
+        },
+        {
+          "target": "张御",
+          "type": "拜访者"
+        }
       ],
-      "mention_count": 9
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "带安知之前来拜师。"
+        }
+      ],
+      "evidence": [
+        "安立见过巡护，见过这位道长。”",
+        "安立马上道：“在下回去后，立刻命把人和东西送来”"
+      ],
+      "mention_count": 4
     },
     {
-      "name": "安知",
+      "name": "安知之",
       "aliases": [],
-      "identity": "",
+      "identity": "少年师匠",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "”    安知之低着头，嗯了一声",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    安知之低着头，嗯了一声",
-        "”    安知之忽然抬头，大声道：“我想把我打造的东西一起带走，还有我的随从，也要带走",
-        "”    许成通在旁看着，他感觉这安知之年纪虽小，心眼倒是不少、    这小子无非就是怕到了这里之后不让他再研修造物，所以方才那句话其实是一个试探，若是允许他带走东西，那就说明很可能没有这个打算"
+      "summary": "十二三岁的少年，擅长造物，被祖父送来给张御做弟子。",
+      "appearance": [
+        "面孔稚嫩",
+        "大人穿着"
       ],
-      "mention_count": 9
+      "personality": [
+        "不情愿",
+        "不服气",
+        "聪明"
+      ],
+      "abilities": [
+        "打造造物"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师父"
+        },
+        {
+          "target": "安立",
+          "type": "叔侄"
+        },
+        {
+          "target": "青曙",
+          "type": "教导者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "被带来给张御做弟子，学习呼吸法。"
+        }
+      ],
+      "evidence": [
+        "一个中年男子带着一个十二三岁，面孔稚嫩，却是大人穿着的少年人走了进来",
+        "安知之低着头，嗯了一声。"
+      ],
+      "mention_count": 8
     },
     {
-      "name": "黎老",
-      "aliases": [],
-      "identity": "",
+      "name": "曹道人",
+      "aliases": [
+        "曹师"
+      ],
+      "identity": "道人",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "”    黎老道言道：“怎么样了",
+      "summary": "在地州府邸内，关注张御动向，并派人跟踪。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "谨慎"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    黎老道言道：“怎么样了",
-        "”    黎老道一抚须，似是放下了什么心事，表情也是松了下来",
-        "”    黎老道默默点头，过了一会儿，他又说了一句，道：“最好如此"
+      "relationships": [
+        {
+          "target": "常迩",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "监视对象"
+        }
       ],
-      "mention_count": 7
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "得知张御离开宫庐，命常迩盯紧并清除碍事者。"
+        }
+      ],
+      "evidence": [
+        "曹道人正在一株挺拔雪松之下走动着。",
+        "曹道人道：“盯紧了。”"
+      ],
+      "mention_count": 3
     },
     {
       "name": "常迩",
       "aliases": [],
-      "identity": "",
+      "identity": "曹道人的下属",
       "faction": "",
       "status": "登场",
       "first_appearance": "第一百三十五章 暗策",
-      "summary": "常迩匆匆过来，揖礼道：“曹师，方才传来消息，那位已是离开了宫庐，正在往泊舟天台那里过去，看来是准备回转奎宿了，但不确定这一次走得是哪一座天门",
+      "summary": "向曹道人汇报消息并执行命令。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "常迩匆匆过来，揖礼道：“曹师，方才传来消息，那位已是离开了宫庐，正在往泊舟天台那里过去，看来是准备回转奎宿了，但不确定这一次走得是哪一座天门",
-        "”    常迩道：“我们还得到一个消息，这次讲道过后，有两个人得了‘缘法’，这位张巡护就是其中之一",
-        "”    常迩点头道：“有"
+      "relationships": [
+        {
+          "target": "曹道人",
+          "type": "上司"
+        }
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "这些",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十五章 暗策",
-      "summary": "他看着那些在眼前晃动的葫芦，这些葫芦个头较小，淡青的色泽，一只只光润致致，玉嫩可爱，而周围的葫芦叶也是清翠，看着分外养眼",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "他看着那些在眼前晃动的葫芦，这些葫芦个头较小，淡青的色泽，一只只光润致致，玉嫩可爱，而周围的葫芦叶也是清翠，看着分外养眼",
-        "这些小葫芦似有生命一般，随着他的走过，也是摇晃了起来",
-        "”    黎老道言道：“这些人没什么可指望的，以这位的本事，此辈毫无威胁，连添麻烦都算不上"
+      "timeline": [
+        {
+          "stage": "讲道之会后",
+          "event": "汇报张御动向，并受命引开或清除跟踪者。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "黎公",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十五章 暗策",
-      "summary": "他收回目光，发现花廊已是到了尽头，一名老道人正站在那里等着他，赶忙上前一礼，道：“黎公",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "他收回目光，发现花廊已是到了尽头，一名老道人正站在那里等着他，赶忙上前一礼，道：“黎公",
-        "”    黑衣道人道：“黎公，我方才从讲法之地回来，那人已是得了玄尊所赐章印",
-        "黑衣道人吹捧了一句，道：“黎公计策高明，似张御这般求道心切之人，乍然遇到这般机缘，下来时日定是会抛开一切苦求道法"
+        "常迩匆匆过来，揖礼道：“曹师，方才传来消息”",
+        "常迩一拱手，重重应声道：“是！”"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "黑衣",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百三十五章 暗策",
-      "summary": "第一百三十五章 暗策    在讲道之会过去半日后，某处距离神赦宫庐不远的宅院之内，一名黑衣道人穿过爬满葫芦藤的花廊，往一片清幽的竹林中行去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第一百三十五章 暗策    在讲道之会过去半日后，某处距离神赦宫庐不远的宅院之内，一名黑衣道人穿过爬满葫芦藤的花廊，往一片清幽的竹林中行去",
-        "”    黑衣道人道：“黎公，我方才从讲法之地回来，那人已是得了玄尊所赐章印",
-        "黑衣道人吹捧了一句，道：“黎公计策高明，似张御这般求道心切之人，乍然遇到这般机缘，下来时日定是会抛开一切苦求道法"
-      ],
-      "mention_count": 6
+      "mention_count": 3
     }
   ]
 }

@@ -1,0 +1,166 @@
+{
+  "chunk_id": "chunk-1089",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在翻阅货单并思考其中信息的主角。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于思考"
+      ],
+      "abilities": [],
+      "equipment": [
+        "货单",
+        "粗布包袱（内装纸铜钱、纸元宝、纸衣裳、纸鞋子、纸人）"
+      ],
+      "relationships": [
+        {
+          "target": "卖货郎",
+          "type": "交易对象"
+        },
+        {
+          "target": "黑虎",
+          "type": "传法者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "翻阅货单，思考中黄太乙之血等货物信息，并与卖货郎交易张五郎残肢。"
+        }
+      ],
+      "evidence": [
+        "苏午一直不停往下翻页。",
+        "苏午盯着货单看了一阵，最终长叹了一口气。",
+        "苏午在画有‘翻坛倒洞张五郎之残肢’的书页之上，留下了一个指印。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "卖货郎",
+      "aliases": [],
+      "identity": "货郎",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一个羸弱但拥有奇异货物的货郎，与三清之肠有关联。",
+      "appearance": [
+        "青白脸儿",
+        "挑着扁担"
+      ],
+      "personality": [
+        "惧怕苏午"
+      ],
+      "abilities": [],
+      "equipment": [
+        "扁担",
+        "箩筐",
+        "货单"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身与苏午交易，收取纸衣裳鞋子作为代价。"
+        }
+      ],
+      "evidence": [
+        "卖货郎的身影出现在了现实里，它挑着扁担，站在苏午身侧。",
+        "卖货郎纹丝不动。",
+        "五体投地的卖货郎在苏午支付了‘成本价’以后，麻溜地从地上爬起来，挑起扁担，直接在他眼前消失无踪。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "中黄太乙",
+      "aliases": [
+        "中黄太一",
+        "故始人皇",
+        "神上完人"
+      ],
+      "identity": "凌驾于诸神之上的人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "货单最后一页记载的货物，疑似先秦至汉时道门尊奉的至高正神。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "中黄太乙之血。",
+        "故始人皇，神上完人……",
+        "中黄太乙究竟是谁？今下无从明了。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "张五郎",
+      "aliases": [
+        "翻坛倒洞张五郎"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "货单上的一件货物，其残肢被苏午购买。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黑虎",
+          "type": "传法者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "翻坛倒洞张五郎之残肢",
+        "当时为黑虎传下法门的仙人，便自称为‘张五郎仙人’"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "黑虎",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午的传法对象，曾受张五郎仙人传法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "传法者"
+        },
+        {
+          "target": "张五郎",
+          "type": "受法者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "当时为黑虎传下法门的仙人，便自称为‘张五郎仙人’"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

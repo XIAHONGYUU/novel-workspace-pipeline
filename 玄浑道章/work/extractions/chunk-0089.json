@@ -1,256 +1,216 @@
 {
   "chunk_id": "chunk-0089",
-  "title": "第八十七章 祭祀原书",
   "characters": [
     {
       "name": "詹治同",
-      "aliases": [],
-      "identity": "",
+      "aliases": [
+        "詹少郎"
+      ],
+      "identity": "落魄贵族子弟，翻译者",
       "faction": "",
       "status": "登场",
       "first_appearance": "第八十七章 祭祀原书",
-      "summary": "”    詹治同脸上的眼罩被拿了下来，这里是一间狭小阴暗的木屋，对面摆着木桌椅，后面是一堵墙壁，在木案的上方有一个翻板",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    詹治同脸上的眼罩被拿了下来，这里是一间狭小阴暗的木屋，对面摆着木桌椅，后面是一堵墙壁，在木案的上方有一个翻板",
-        "詹治同也没多问，走前两步，就在那张椅子上坐了下来",
-        "”    詹治同抬头看了眼，前方还是那堵墙，对方人应该是躲在后面与自己说话，他道：“需要翻译什么东西"
+      "summary": "因偷学张御学问被罚，家道中落，现靠翻译为生，偶然接触到天平之神的献祭原书。",
+      "appearance": [
+        "眼窝深陷",
+        "下巴上是久未修剪的胡茬",
+        "原本俊美的脸上满是沧桑"
       ],
-      "mention_count": 25
+      "personality": [
+        "记忆力出众",
+        "谨慎",
+        "有底线"
+      ],
+      "abilities": [
+        "精通土著语翻译",
+        "过目不忘"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹公",
+          "type": "父子"
+        },
+        {
+          "target": "张御",
+          "type": "旧识"
+        },
+        {
+          "target": "裘学令",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被蒙眼带到木屋翻译树皮书，后默写内容并交给张御。"
+        }
+      ],
+      "evidence": [
+        "詹治同脸上的眼罩被拿了下来",
+        "他把宅子和古物都卖了，才勉强凑齐",
+        "他对着这张纸看了许久，最后将之拿起放在衣兜里，就推门出去了"
+      ],
+      "mention_count": 30
     },
     {
       "name": "张御",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府玄修",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第八十七章 祭祀原书",
-      "summary": "这一次詹公虽然主动揽下了大部分罪过，可是因为裘学令的揭露，他偷学张御学问的事情被暴露了出来，虽然都堂最后没有收押他们父子，可却是罚了他们一笔数额巨大的财物",
+      "summary": "玄府成员，正在积蓄神元观读真胎之印，收到詹治同的信后前往其住处获取献祭原书信息。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "这一次詹公虽然主动揽下了大部分罪过，可是因为裘学令的揭露，他偷学张御学问的事情被暴露了出来，虽然都堂最后没有收押他们父子，可却是罚了他们一笔数额巨大的财物",
-        "张御自玄府回来后，因为司吏衙署那里基本已是无事，内奸也都在上回被一同指认了出来，所以他这几天一直在居处积蓄神元，用以观读真胎之印",
-        "”    张御拿过打开，将信纸出来抽了出来一看，却发现是一门土著语书写的，后面还附着了几条明显祭祀用的语式，他心下一动，考虑了一下，道：“我出去一趟"
+      "personality": [
+        "谨慎",
+        "果断"
       ],
-      "mention_count": 20
+      "abilities": [
+        "玄修",
+        "观读真胎之印"
+      ],
+      "equipment": [
+        "夏剑",
+        "斗篷"
+      ],
+      "relationships": [
+        {
+          "target": "詹治同",
+          "type": "旧识"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到詹治同的信，前往其住处获取献祭原书信息。"
+        }
+      ],
+      "evidence": [
+        "张御自玄府回来后，因为司吏衙署那里基本已是无事",
+        "他拿上夏剑，披上斗篷，出门后一路步出学宫",
+        "张御拿过来翻了翻，道：“天平之神么……”"
+      ],
+      "mention_count": 12
     },
     {
-      "name": "詹治",
+      "name": "李青禾",
       "aliases": [],
-      "identity": "",
+      "identity": "张御的随从",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十七章 祭祀原书",
-      "summary": "”    詹治同脸上的眼罩被拿了下来，这里是一间狭小阴暗的木屋，对面摆着木桌椅，后面是一堵墙壁，在木案的上方有一个翻板",
+      "summary": "张御的随从，负责传递书信。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    詹治同脸上的眼罩被拿了下来，这里是一间狭小阴暗的木屋，对面摆着木桌椅，后面是一堵墙壁，在木案的上方有一个翻板",
-        "詹治同也没多问，走前两步，就在那张椅子上坐了下来",
-        "”    詹治同抬头看了眼，前方还是那堵墙，对方人应该是躲在后面与自己说话，他道：“需要翻译什么东西"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
       ],
-      "mention_count": 16
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "呈上书信给张御。"
+        }
+      ],
+      "evidence": [
+        "李青禾迎了上来，双手呈上一封信"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "詹少",
+      "name": "詹公",
       "aliases": [],
-      "identity": "",
+      "identity": "詹治同的父亲",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十七章 祭祀原书",
-      "summary": "第八十七章 祭祀原书    “詹少郎，可以睁开眼睛了",
-      "appearance": [],
+      "summary": "詹治同的父亲，因罪卧床不起。",
+      "appearance": [
+        "卧床不起"
+      ],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第八十七章 祭祀原书    “詹少郎，可以睁开眼睛了",
-        "“詹少郎，请在此先安坐，我家先生稍候就到",
-        "就在他默默坐在那里时，对面忽然传来一个闷闷的声响，道：“詹少郎"
+      "relationships": [
+        {
+          "target": "詹治同",
+          "type": "父子"
+        }
       ],
-      "mention_count": 8
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "卧床不起，由詹治同照料。"
+        }
+      ],
+      "evidence": [
+        "先是给卧床不起的詹公喂了点米粥"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "詹少郎",
+      "name": "裘学令",
       "aliases": [],
-      "identity": "",
+      "identity": "都护府官员",
       "faction": "",
-      "status": "登场",
+      "status": "提及",
       "first_appearance": "第八十七章 祭祀原书",
-      "summary": "第八十七章 祭祀原书    “詹少郎，可以睁开眼睛了",
+      "summary": "揭露詹治同偷学张御学问的人。",
       "appearance": [],
       "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第八十七章 祭祀原书    “詹少郎，可以睁开眼睛了",
-        "“詹少郎，请在此先安坐，我家先生稍候就到",
-        "就在他默默坐在那里时，对面忽然传来一个闷闷的声响，道：“詹少郎"
+      "abilities": [
+        "精通盖如文"
       ],
-      "mention_count": 8
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹治同",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "揭露詹治同偷学张御学问。"
+        }
+      ],
+      "evidence": [
+        "因为裘学令的揭露，他偷学张御学问的事情被暴露了出来"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "可以",
+      "name": "范澜",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府成员",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第八十七章 祭祀原书",
-      "summary": "第八十七章 祭祀原书    “詹少郎，可以睁开眼睛了",
+      "summary": "提及秘传章法的人物。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "第八十七章 祭祀原书    “詹少郎，可以睁开眼睛了",
-        "”    詹治同道：“可以，我需要纸笔",
-        "用了近一个夏时，他才停下动作，将树皮书还有那写好的纸张往前一推，道：“可以了"
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "范澜所说的秘传章法，则还未见到有什么消息。"
+        }
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "过了",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 祭祀原书",
-      "summary": "”    詹治同身躯前倾，把树皮书拿过，认真翻了起来，可过了一会儿，他的手微微一顿，随后又若无其事翻下去",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    詹治同身躯前倾，把树皮书拿过，认真翻了起来，可过了一会儿，他的手微微一顿，随后又若无其事翻下去",
-        "过了一会儿，那人道：“詹少郎，准确么",
-        "过了一会儿，詹治同伸手出来，将眼罩扯下，这是城西一个荒僻的街角，与他现在住的地方相隔不远，对方很显然知道他住在那里，这或许是一种警告"
+        "至于范澜所说的秘传章法，则还未见到有什么消息"
       ],
-      "mention_count": 6
-    },
-    {
-      "name": "对方",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 祭祀原书",
-      "summary": "”    詹治同抬头看了眼，前方还是那堵墙，对方人应该是躲在后面与自己说话，他道：“需要翻译什么东西",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    詹治同抬头看了眼，前方还是那堵墙，对方人应该是躲在后面与自己说话，他道：“需要翻译什么东西",
-        "过了一会儿，詹治同伸手出来，将眼罩扯下，这是城西一个荒僻的街角，与他现在住的地方相隔不远，对方很显然知道他住在那里，这或许是一种警告",
-        "他看着这张纸，这么一份重要的东西，对方居然就这么放心给他看了"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "墙壁",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 祭祀原书",
-      "summary": "”    詹治同脸上的眼罩被拿了下来，这里是一间狭小阴暗的木屋，对面摆着木桌椅，后面是一堵墙壁，在木案的上方有一个翻板",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    詹治同脸上的眼罩被拿了下来，这里是一间狭小阴暗的木屋，对面摆着木桌椅，后面是一堵墙壁，在木案的上方有一个翻板",
-        "”    墙壁上那个盖板翻开，一本树皮书被送了出来，里面人道：“这上面的文字，请你翻译一遍",
-        "墙壁后的那个人一直在等待着，见他始终不出声，问道：“怎么样"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "这上",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 祭祀原书",
-      "summary": "”    墙壁上那个盖板翻开，一本树皮书被送了出来，里面人道：“这上面的文字，请你翻译一遍",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    墙壁上那个盖板翻开，一本树皮书被送了出来，里面人道：“这上面的文字，请你翻译一遍",
-        "这上面详细记载着，如何与一个名叫天平之神的异神沟通的办法，包括怎么献祭，怎么给其找寻寄托用的分身"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "并且",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 祭祀原书",
-      "summary": "”    然而他被人带了下来，有个人一直站在他背后，并且把手搭在他的肩膀上，等到马车走远，这才松开了手",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    然而他被人带了下来，有个人一直站在他背后，并且把手搭在他的肩膀上，等到马车走远，这才松开了手",
-        "并且在最后一页上，还有如何运用献祭力量壮大自己，进而获得超凡力量的办法"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "这是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第八十七章 祭祀原书",
-      "summary": "过了一会儿，詹治同伸手出来，将眼罩扯下，这是城西一个荒僻的街角，与他现在住的地方相隔不远，对方很显然知道他住在那里，这或许是一种警告",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "过了一会儿，詹治同伸手出来，将眼罩扯下，这是城西一个荒僻的街角，与他现在住的地方相隔不远，对方很显然知道他住在那里，这或许是一种警告",
-        "”    张御走了进来，这是一个杂草丛生的前院，角落里有一个鸡窝，有蚊蝇时不时飞过",
-        "”    他又转过身，从柜子里拿出一小袋金元，递给张御，“这是他们给我的，我知道玄府有很多匪夷所思的手段，你们或许可以有什么办法通过这个找到线索"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

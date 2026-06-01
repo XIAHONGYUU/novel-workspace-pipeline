@@ -1,257 +1,471 @@
 {
   "chunk_id": "chunk-0875",
-  "title": "第一百七十章 论功定半分",
   "characters": [
     {
+      "name": "张御",
+      "aliases": [
+        "张守正"
+      ],
+      "identity": "守正兼东庭玄首",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏守正兼东庭玄首，因镇灭异神而立功，玄廷讨论其功绩归属。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "武倾墟",
+          "type": "被其查验功绩"
+        },
+        {
+          "target": "晁焕",
+          "type": "被其支持"
+        },
+        {
+          "target": "钟廷执",
+          "type": "被其质疑"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "四月",
+          "event": "玄廷廷议讨论其立功褒奖之事"
+        }
+      ],
+      "evidence": [
+        "武倾墟先是在座上言道：……得张守正及时将之镇灭",
+        "张守正此言，诸位廷执如何看？",
+        "张守正既是守正，又为玄首，那么此一功可嘉张守正守正之功"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "武倾墟",
+      "aliases": [
+        "武某"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，查验异神气机并确认张御的功绩。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "认可其功绩"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "发言支持张御的功绩"
+        }
+      ],
+      "evidence": [
+        "武倾墟先是在座上言道：……得张守正及时将之镇灭",
+        "武某已是将那两名异神的气机查看过了"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "风道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，在廷议中出示张御的玉符。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "代为传达其言"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "拿出张御的玉符给众廷执过目"
+        }
+      ],
+      "evidence": [
+        "风道人这时敲了一下玉磬，站起言道：……他拿出一枚玉符"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "首座道人",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "玄廷首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷首执，主持廷议并最终定议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "询问众廷执对张御之言的看法，并最终定议"
+        }
+      ],
+      "evidence": [
+        "首座道人道：张守正此言，诸位廷执如何看？",
+        "首座道人这时见一个人还未发声，索性看向其人"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，支持将张御的功绩算在玄首之职上。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "发言支持张御的功绩论在玄首之职上"
+        }
+      ],
+      "evidence": [
+        "玉素道人一敲玉磬，在座上发声言道：张守正之言，颇合情理"
+      ],
+      "mention_count": 2
+    },
+    {
       "name": "钟廷执",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "”    钟廷执见此，也是敲动玉磬，起身言道：“首执，钟某还是上回之言，要是把守正之功算在玄首之位上，对镇守诸洲的其余玄首实属不公",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执见此，也是敲动玉磬，起身言道：“首执，钟某还是上回之言，要是把守正之功算在玄首之位上，对镇守诸洲的其余玄首实属不公",
-        "”    他说完之后，场中一下沉默下来，随后一个声音不出意料的响起道：“钟廷执，你这话不对",
-        "钟廷执面上无甚表情的看过去，便见晁焕坐在座上，冲着他言道：“要是张守正这次是在别处剿灭这异神，那自是无话可说，可此番却是在东庭行事的，而东庭乃是张守正镇守之地，他清除自家辖界之下的祸患，怎么能不算在玄首镇功之上呢"
+      "aliases": [
+        "钟某"
       ],
-      "mention_count": 20
-    },
-    {
-      "name": "钟廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "”    钟廷执见此，也是敲动玉磬，起身言道：“首执，钟某还是上回之言，要是把守正之功算在玄首之位上，对镇守诸洲的其余玄首实属不公",
+      "first_appearance": "",
+      "summary": "玄廷廷执，反对将张御的功绩全算在玄首之位上，并提议再立一个守正之位。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执见此，也是敲动玉磬，起身言道：“首执，钟某还是上回之言，要是把守正之功算在玄首之位上，对镇守诸洲的其余玄首实属不公",
-        "”    他说完之后，场中一下沉默下来，随后一个声音不出意料的响起道：“钟廷执，你这话不对",
-        "钟廷执面上无甚表情的看过去，便见晁焕坐在座上，冲着他言道：“要是张守正这次是在别处剿灭这异神，那自是无话可说，可此番却是在东庭行事的，而东庭乃是张守正镇守之地，他清除自家辖界之下的祸患，怎么能不算在玄首镇功之上呢"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "质疑其功绩归属"
+        },
+        {
+          "target": "晁焕",
+          "type": "廷议中对立"
+        },
+        {
+          "target": "梅商",
+          "type": "推荐其为守正"
+        }
       ],
-      "mention_count": 15
-    },
-    {
-      "name": "朱凤",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "”他抖了抖袖，站了起身，对上打一个稽首，道：“晁某在此推荐朱凤朱玄尊为守正",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”他抖了抖袖，站了起身，对上打一个稽首，道：“晁某在此推荐朱凤朱玄尊为守正",
-        "”    钟廷执皱眉道：“晁廷执，朱玄尊方才归回天夏，过去一片模糊……”    晁焕却是理直气壮道：“既然梅商可以，凭什么朱凤不行",
-        "朱凤可没有被驱逐之前例，此前上宸天入侵，朱玄尊也是暗中提醒于张守正，这才使我及时发现敌踪，这不早已是证明了其自身么"
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "反对将张御的功绩算在玄首之位上，并提议再立守正"
+        }
       ],
-      "mention_count": 9
-    },
-    {
-      "name": "众人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "”    他拿出一枚玉符，往一下抛，此符落至光气长河之中，就飘至各人座上，众人拿了过来一看，有人暗暗点头，有人则是面无表情",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
       "evidence": [
-        "”    他拿出一枚玉符，往一下抛，此符落至光气长河之中，就飘至各人座上，众人拿了过来一看，有人暗暗点头，有人则是面无表情",
-        "”    众人都不吭声，俱是在那里等着下文",
-        "”    众人思量下来，不觉点头"
+        "钟廷执见此，也是敲动玉磬，起身言道：……对镇守诸洲的其余玄首实属不公",
+        "钟廷执这时与晁廷执交换了一个眼神，便对上方一礼，道：……钟某提议，不妨再立一个守正之位"
       ],
       "mention_count": 8
     },
     {
-      "name": "钟某",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "”    钟廷执见此，也是敲动玉磬，起身言道：“首执，钟某还是上回之言，要是把守正之功算在玄首之位上，对镇守诸洲的其余玄首实属不公",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    钟廷执见此，也是敲动玉磬，起身言道：“首执，钟某还是上回之言，要是把守正之功算在玄首之位上，对镇守诸洲的其余玄首实属不公",
-        "”    钟廷执缓声道：“钟某已是说过，恐是引得诸洲玄首非议",
-        "我天夏疆域广大，再加上上宸天不久之后极可能来攻我，如此怕是张守正一个人顾不过来，故钟某提议，不妨再立一个守正之位，也好应对此事"
-      ],
-      "mention_count": 7
-    },
-    {
-      "name": "首座",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "首座道人道：“张守正此言，诸位廷执如何看",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "首座道人道：“张守正此言，诸位廷执如何看",
-        "”    首座道人颔首道：“若诸位无异见，那便照此议褒奖张守正",
-        "”    首座道人这时见一个人还未发声，索性看向其人，道：“晁廷执以为呢"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "首座道",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "首座道人道：“张守正此言，诸位廷执如何看",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "首座道人道：“张守正此言，诸位廷执如何看",
-        "”    首座道人颔首道：“若诸位无异见，那便照此议褒奖张守正",
-        "”    首座道人这时见一个人还未发声，索性看向其人，道：“晁廷执以为呢"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "首座道人",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "首座道人道：“张守正此言，诸位廷执如何看",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "首座道人道：“张守正此言，诸位廷执如何看",
-        "”    首座道人颔首道：“若诸位无异见，那便照此议褒奖张守正",
-        "”    首座道人这时见一个人还未发声，索性看向其人，道：“晁廷执以为呢"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "诸位",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "风道人这时敲了一下玉磬，站起言道：“我就此事问过张守正，他却有一言在此，还请首执和诸位廷执过目",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "风道人这时敲了一下玉磬，站起言道：“我就此事问过张守正，他却有一言在此，还请首执和诸位廷执过目",
-        "首座道人道：“张守正此言，诸位廷执如何看",
-        "崇廷执这时却是站起，朝上一礼，道：“首执，诸位廷执，晁廷执所言也有几分道理"
-      ],
-      "mention_count": 6
-    },
-    {
-      "name": "而是",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "可张御的功劳虽然没有问题，但这件事的争议却不在此，而是在于以何名义给他叙功",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "可张御的功劳虽然没有问题，但这件事的争议却不在此，而是在于以何名义给他叙功",
-        "因为在他看来，现在的形势，再立一守正也是有必要的，钟廷执并非是胡乱提议，而是看准时机，认为玄廷确然有此需要才是提出的"
-      ],
-      "mention_count": 5
-    },
-    {
       "name": "晁焕",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "aliases": [
+        "晁廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "钟廷执面上无甚表情的看过去，便见晁焕坐在座上，冲着他言道：“要是张守正这次是在别处剿灭这异神，那自是无话可说，可此番却是在东庭行事的，而东庭乃是张守正镇守之地，他清除自家辖界之下的祸患，怎么能不算在玄首镇功之上呢",
+      "first_appearance": "",
+      "summary": "玄廷廷执，支持张御的功绩算在玄首镇功之上，并推荐朱凤为守正。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "言辞犀利"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "钟廷执面上无甚表情的看过去，便见晁焕坐在座上，冲着他言道：“要是张守正这次是在别处剿灭这异神，那自是无话可说，可此番却是在东庭行事的，而东庭乃是张守正镇守之地，他清除自家辖界之下的祸患，怎么能不算在玄首镇功之上呢",
-        "”    晁焕嗤了一声道：“他们自己不行，还怪他人立功太多不成",
-        "虽如晁焕所言，自己不成不能怪别人立功太多，可全然追赶不上，也不是什么好事，或许本来有心上进之人，见到这回争位已无是无望，那或许干脆就坐守不动了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "支持其功绩"
+        },
+        {
+          "target": "钟廷执",
+          "type": "廷议中对立"
+        },
+        {
+          "target": "朱凤",
+          "type": "推荐其为守正"
+        }
       ],
-      "mention_count": 5
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "反驳钟廷执，支持张御的功绩，并推荐朱凤为守正"
+        }
+      ],
+      "evidence": [
+        "晁焕坐在座上，冲着他言道：……怎么能不算在玄首镇功之上呢？",
+        "晁焕却是道：我以为可以啊，不过情势如此严峻，一个守正又怎么够？不妨再立一个。"
+      ],
+      "mention_count": 6
     },
     {
-      "name": "晁廷",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
+      "name": "崇廷执",
+      "aliases": [
+        "崇某"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
       "status": "登场",
-      "first_appearance": "第一百七十章 论功定半分",
-      "summary": "莫非他们都把书信递到晁廷执这里了",
+      "first_appearance": "",
+      "summary": "玄廷廷执，提出将张御的功绩分开看待，既嘉守正之功又嘉玄首镇守之功。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
       "relationships": [],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "提出折中方案"
+        }
+      ],
+      "evidence": [
+        "崇廷执这时却是站起，朝上一礼，道：……此一功可嘉张守正守正之功，同时也可嘉其玄首镇守之功。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，支持再立守正之位，并提议将朱凤列入补序之人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "支持再立守正，并提议朱凤列入补序"
+        }
+      ],
+      "evidence": [
+        "陈廷执抚须点头，道：钟廷执之言到也切合实际",
+        "陈廷执道：……既然晁廷执举荐了朱凤，那便让她列入补序之人中"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，赞同崇廷执的折中方案。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "表示赞同崇廷执的提议"
+        }
+      ],
+      "evidence": [
+        "陈廷执这时看了韦廷执一眼，后者便即出声道：此事也算公允，韦某以为此议可行。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "戴恭瀚",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，询问钟廷执属意谁人担任守正。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "询问钟廷执推荐谁为守正"
+        }
+      ],
+      "evidence": [
+        "戴恭瀚这时向钟廷执问道：钟廷执既然有此提议，却不知属意谁人呢？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "梅商",
+      "aliases": [
+        "梅道友",
+        "梅玄尊"
+      ],
+      "identity": "正清一脉修士，被推荐为守正",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "正清一脉修士，曾被驱逐三百载，现回归天夏，被钟廷执推荐为守正。",
+      "appearance": [],
+      "personality": [
+        "诚谨"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟廷执",
+          "type": "被其推荐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "四月廷议",
+          "event": "被钟廷执推荐为守正"
+        }
+      ],
+      "evidence": [
+        "钟廷执推荐一人，乃是梅商梅道友。",
+        "梅商道友虽是正清一脉，可被驱逐三百载"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "朱凤",
+      "aliases": [
+        "朱玄尊"
+      ],
+      "identity": "女修，被推荐为守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "女修，被晁焕推荐为守正，后接受此职。",
+      "appearance": [],
+      "personality": [
+        "心气较高"
+      ],
+      "abilities": [
+        "护持神通"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "晁焕",
+          "type": "被其推荐"
+        },
+        {
+          "target": "张御",
+          "type": "曾暗中提醒其上宸天入侵"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "四月廷议后",
+          "event": "被明周道人询问意愿，接受守正之位"
+        }
+      ],
+      "evidence": [
+        "晁焕在此推荐朱凤朱玄尊为守正。",
+        "朱凤这些时日来一直在道场之内修持",
+        "朱凤一转眸，轻笑道：我为何要推却呢？"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周道友"
+      ],
+      "identity": "玄廷使者",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷使者，奉命前往朱凤道场询问其是否愿意担任守正。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱凤",
+          "type": "传达玄廷之意"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "四月廷议后",
+          "event": "前往朱凤道场询问其意愿"
+        }
+      ],
+      "evidence": [
+        "明周道人则是奉命往朱凤道场过来",
+        "明周道人便将廷上之事一说"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "岑传",
+      "aliases": [],
+      "identity": "正清一脉修士",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "正清一脉修士，被提及曾与朱凤有过冲突。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱凤",
+          "type": "曾与之冲突"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "莫非他们都把书信递到晁廷执这里了",
-        "我倒不知，晁廷执什么时候去帮韦廷执分担事责了",
-        "崇廷执这时却是站起，朝上一礼，道：“首执，诸位廷执，晁廷执所言也有几分道理"
+        "当年岑传也没能拿她如何。"
       ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }

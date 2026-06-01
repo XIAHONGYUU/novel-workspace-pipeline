@@ -1,202 +1,455 @@
 {
   "chunk_id": "chunk-0204",
-  "title": "第两百章 玄首",
   "characters": [
     {
-      "name": "项淳",
+      "name": "张御",
       "aliases": [],
-      "identity": "",
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百章 玄首",
+      "summary": "在密林中获得言印，正设法走出密林。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "观读章印",
+        "使用心力"
+      ],
+      "equipment": [
+        "大道玄章",
+        "言印"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄玉中发现言印并观读，随后与莫队率继续前往密林。"
+        }
+      ],
+      "evidence": [
+        "张御此时发现，这玄玉之中藏匿的，却是一枚第三道章的章印",
+        "他当即唤出大道玄章，意念落注其上，开始观读此印。",
+        "在这里休息了一会儿，他与莫队率再次启程，往密林所在的方向走去。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "莫队率",
+      "aliases": [],
+      "identity": "队率",
       "faction": "",
       "status": "登场",
       "first_appearance": "第两百章 玄首",
-      "summary": "项淳此刻正在批阅文书，忽然感到有异，他手中之笔一停，缓缓抬起头来，看见站在自己面前的是陈嵩，他目光不禁有些复杂，叹道：“陈师弟，你……”    陈嵩走到他面前坐下，道：“师兄，我没死，只是……”他流露出了一丝黯然之色，“老师故去了……”  ",
+      "summary": "与张御同行，前往密林。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "项淳此刻正在批阅文书，忽然感到有异，他手中之笔一停，缓缓抬起头来，看见站在自己面前的是陈嵩，他目光不禁有些复杂，叹道：“陈师弟，你……”    陈嵩走到他面前坐下，道：“师兄，我没死，只是……”他流露出了一丝黯然之色，“老师故去了……”  ",
-        "”    项淳看着他道：“那么，玄府下来该如何走，你清楚么",
-        "”    项淳点了点头，他站了起来，绕过桌案，来到陈嵩身边，把手放在了他的肩膀上，面无表情道：“陈师弟，对不起了"
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同行"
+        }
       ],
-      "mention_count": 23
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一起启程前往密林。"
+        }
+      ],
+      "evidence": [
+        "他与莫队率再次启程，往密林所在的方向走去。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "窦昌",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百章 玄首",
+      "summary": "在洪河隘口驻守，发现神尉军与异神勾结。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "齐武",
+          "type": "师兄弟"
+        },
+        {
+          "target": "范澜",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在洪河隘口发现神尉军军候与异神出现，下令传书求援。"
+        }
+      ],
+      "evidence": [
+        "窦昌、齐武、范澜等人仍是在这里驻守着。",
+        "窦昌语声凝重道：“神尉军看来果是和异神勾结到一处了，齐师弟，立刻传书，事情紧急，让项师兄和都护府尽快派遣人手过来，越快越好！”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "齐武",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百章 玄首",
+      "summary": "窦昌的师弟，在洪河隘口驻守。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "窦昌",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受窦昌之命传书求援。"
+        }
+      ],
+      "evidence": [
+        "齐武立刻道：“师兄，我马上去。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "范澜",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第两百章 玄首",
+      "summary": "在洪河隘口驻守的玄修之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "窦昌",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在洪河隘口驻守。"
+        }
+      ],
+      "evidence": [
+        "窦昌、齐武、范澜等人仍是在这里驻守着。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "齐巅",
+      "aliases": [],
+      "identity": "神尉军上军候",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百章 玄首",
+      "summary": "与异神勾结，出现在洪河对岸。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赫疆",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赫疆及异神一同出现在洪河对岸。"
+        }
+      ],
+      "evidence": [
+        "那竟然是十数个散发着神性光芒的土著异神，而其中有两人，竟然是神尉军的两位军候，上军候齐巅、左军候赫疆！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赫疆",
+      "aliases": [],
+      "identity": "神尉军左军候",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "第两百章 玄首",
+      "summary": "与异神勾结，出现在洪河对岸。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "齐巅",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与齐巅及异神一同出现在洪河对岸。"
+        }
+      ],
+      "evidence": [
+        "那竟然是十数个散发着神性光芒的土著异神，而其中有两人，竟然是神尉军的两位军候，上军候齐巅、左军候赫疆！"
+      ],
+      "mention_count": 1
     },
     {
       "name": "陈嵩",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府玄首继承人",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百章 玄首",
-      "summary": "”    瑞光城中，陈嵩脚步沉重的往事务堂走去，他一路走来，却没有一个人对他投去哪怕一眼，似乎根本没有发现有这么一个人存在",
+      "summary": "假死归来，被老师指定为玄首继承人，但被项淳暗算。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    瑞光城中，陈嵩脚步沉重的往事务堂走去，他一路走来，却没有一个人对他投去哪怕一眼，似乎根本没有发现有这么一个人存在",
-        "项淳此刻正在批阅文书，忽然感到有异，他手中之笔一停，缓缓抬起头来，看见站在自己面前的是陈嵩，他目光不禁有些复杂，叹道：“陈师弟，你……”    陈嵩走到他面前坐下，道：“师兄，我没死，只是……”他流露出了一丝黯然之色，“老师故去了……”  ",
-        "”他看向抬头陈嵩，“老师在临行之前说过，若是他不回来，会有人来接替玄首之位，我想就应该就是陈师弟你了"
+      "personality": [
+        "心软",
+        "坚凝"
       ],
-      "mention_count": 16
+      "abilities": [
+        "心光"
+      ],
+      "equipment": [
+        "玄玉"
+      ],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄弟"
+        },
+        {
+          "target": "戚毖",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回到事务堂，告知项淳老师故去，被项淳用丹水压制并夺走玄玉。"
+        }
+      ],
+      "evidence": [
+        "陈嵩脚步沉重的往事务堂走去",
+        "陈嵩走到他面前坐下，道：“师兄，我没死，只是……老师故去了……”",
+        "项淳伸手一拿，一枚玄玉已是从陈嵩身上飞了出来"
+      ],
+      "mention_count": 10
     },
     {
-      "name": "玄府",
+      "name": "项淳",
       "aliases": [],
-      "identity": "",
-      "faction": "",
+      "identity": "玄府事务堂负责人",
+      "faction": "玄府",
       "status": "登场",
       "first_appearance": "第两百章 玄首",
-      "summary": "”    项淳看着他道：“那么，玄府下来该如何走，你清楚么",
+      "summary": "长期处理玄府事务，因不满老师将玄首之位传给陈嵩而暗算陈嵩，并计划让玄府走自己的路。",
       "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "personality": [
+        "权力欲重",
+        "深沉"
+      ],
+      "abilities": [
+        "心光"
+      ],
+      "equipment": [
+        "丹水"
+      ],
+      "relationships": [
+        {
+          "target": "陈嵩",
+          "type": "师兄弟"
+        },
+        {
+          "target": "戚毖",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在事务堂用丹水压制陈嵩，夺走玄玉，并表达对玄府未来的计划。"
+        }
+      ],
       "evidence": [
-        "”    项淳看着他道：“那么，玄府下来该如何走，你清楚么",
-        "”    陈嵩想了想，目光中流出坚凝之色，道：“玄府没了老师坐镇，接下来一段时间，可能会受一段时间压制，我们只有尽力忍耐了，实在不成，我去求英师弟回来，”他露出诚恳之色，“师兄，我们无论如何也要坚持下去，坚持到浊潮消退，坚持到烽火重燃，师兄",
-        "有五十多年了吧，自从老师闭关之后，一直是我跟随在他的身边，负责处理内外事务，玄府的上下所有人的名字都我叫的出来"
+        "项淳此刻正在批阅文书",
+        "项淳看着他道：“没有用的，事务堂周围早已涂上了丹水”",
+        "项淳看向窗外，沉声道：“玄府维护了都护府六十载，都护府却利用玄府对抗神尉军以维系平衡，现在，玄府该走自己的路了。”"
       ],
       "mention_count": 12
     },
     {
-      "name": "师兄",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百章 玄首",
-      "summary": "窦昌语声凝重道：“神尉军看来果是和异神勾结到一处了，齐师弟，立刻传书，事情紧急，让项师兄和都护府尽快派遣人手过来，越快越好",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "窦昌语声凝重道：“神尉军看来果是和异神勾结到一处了，齐师弟，立刻传书，事情紧急，让项师兄和都护府尽快派遣人手过来，越快越好",
-        "”    齐武立刻道：“师兄，我马上去",
-        "项淳此刻正在批阅文书，忽然感到有异，他手中之笔一停，缓缓抬起头来，看见站在自己面前的是陈嵩，他目光不禁有些复杂，叹道：“陈师弟，你……”    陈嵩走到他面前坐下，道：“师兄，我没死，只是……”他流露出了一丝黯然之色，“老师故去了……”  "
+      "name": "戚毖",
+      "aliases": [
+        "老师"
       ],
-      "mention_count": 7
-    },
-    {
-      "name": "老师",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄府前任玄首",
+      "faction": "玄府",
+      "status": "已故",
       "first_appearance": "第两百章 玄首",
-      "summary": "这一战，显然是他的老师输了",
+      "summary": "玄府前任玄首，已故，指定陈嵩为继承人。",
       "appearance": [],
-      "personality": [],
+      "personality": [
+        "仁慈"
+      ],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
+      "relationships": [
+        {
+          "target": "陈嵩",
+          "type": "师徒"
+        },
+        {
+          "target": "项淳",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与朱阙决战，失败身亡。"
+        }
+      ],
       "evidence": [
-        "这一战，显然是他的老师输了",
-        "项淳此刻正在批阅文书，忽然感到有异，他手中之笔一停，缓缓抬起头来，看见站在自己面前的是陈嵩，他目光不禁有些复杂，叹道：“陈师弟，你……”    陈嵩走到他面前坐下，道：“师兄，我没死，只是……”他流露出了一丝黯然之色，“老师故去了……”  ",
-        "”他看向抬头陈嵩，“老师在临行之前说过，若是他不回来，会有人来接替玄首之位，我想就应该就是陈师弟你了"
+        "老师故去了……",
+        "老师视你如亲子"
       ],
       "mention_count": 6
     },
     {
-      "name": "我们",
+      "name": "朱阙",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "神尉军上军候",
+      "faction": "神尉军",
+      "status": "提及",
       "first_appearance": "第两百章 玄首",
-      "summary": "”    陈嵩想了想，目光中流出坚凝之色，道：“玄府没了老师坐镇，接下来一段时间，可能会受一段时间压制，我们只有尽力忍耐了，实在不成，我去求英师弟回来，”他露出诚恳之色，“师兄，我们无论如何也要坚持下去，坚持到浊潮消退，坚持到烽火重燃，师兄",
+      "summary": "与戚毖决战并获胜，已回到神尉军驻地。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    陈嵩想了想，目光中流出坚凝之色，道：“玄府没了老师坐镇，接下来一段时间，可能会受一段时间压制，我们只有尽力忍耐了，实在不成，我去求英师弟回来，”他露出诚恳之色，“师兄，我们无论如何也要坚持下去，坚持到浊潮消退，坚持到烽火重燃，师兄",
-        "”    陈嵩挣扎了一下，苦劝道：“师兄，停手吧，我们不能再内耗了"
+      "relationships": [
+        {
+          "target": "戚毖",
+          "type": "对手"
+        }
       ],
-      "mention_count": 6
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与戚毖决战，获胜。"
+        }
+      ],
+      "evidence": [
+        "神尉军上军候朱阙已然回到了神尉军驻地。",
+        "这一战，显然是他的老师输了。"
+      ],
+      "mention_count": 1
     },
     {
-      "name": "你以为",
+      "name": "英师弟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第两百章 玄首",
-      "summary": "”    陈嵩摇头道：“不，你以为老师你不知道你做了些什么么",
+      "summary": "曾受老师信任，后因陈嵩假死而担恶名，陈嵩想请他回来。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "陈嵩",
+          "type": "师兄弟"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "”    陈嵩摇头道：“不，你以为老师你不知道你做了些什么么",
-        "你以为老师不知道你做的事情么"
+        "我去求英师弟回来",
+        "英师弟，他本来才是最受老师信任的那个"
       ],
-      "mention_count": 6
+      "mention_count": 3
     },
     {
-      "name": "只是",
+      "name": "林师弟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第两百章 玄首",
-      "summary": "只是这么一来，他更加确认这章印不简单，现在既已是观读了，那么此中玄妙可以在出去密林的这段时间内慢慢摸索",
+      "summary": "因项淳的排斥而断臂，无法修道。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "被排斥"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "只是这么一来，他更加确认这章印不简单，现在既已是观读了，那么此中玄妙可以在出去密林的这段时间内慢慢摸索",
-        "他不知道今后局势会往哪个方向去，只是按照戚毖临去时的嘱托，他此刻必须站出来扛起责任",
-        "项淳此刻正在批阅文书，忽然感到有异，他手中之笔一停，缓缓抬起头来，看见站在自己面前的是陈嵩，他目光不禁有些复杂，叹道：“陈师弟，你……”    陈嵩走到他面前坐下，道：“师兄，我没死，只是……”他流露出了一丝黯然之色，“老师故去了……”  "
+        "当年林师弟天资不差，可是他为什么陷在异神教徒的包围中？消息发出去了却没人去救？致使断了一条手臂"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "可是",
+      "name": "和师弟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第两百章 玄首",
-      "summary": "可是当他们看到那些个坐在蜘蛛之上的身影后，呼吸却是为之一顿，那竟然是十数个散发着神性光芒的土著异神，而其中有两人，竟然是神尉军的两位军候，上军候齐巅、左军候赫疆",
+      "summary": "因项淳的排斥而叛出玄府。",
       "appearance": [],
       "personality": [],
       "abilities": [],
       "equipment": [],
-      "relationships": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "被排斥"
+        }
+      ],
       "timeline": [],
       "evidence": [
-        "可是当他们看到那些个坐在蜘蛛之上的身影后，呼吸却是为之一顿，那竟然是十数个散发着神性光芒的土著异神，而其中有两人，竟然是神尉军的两位军候，上军候齐巅、左军候赫疆",
-        "”    陈嵩立刻意识到不对，身上心光迸发出来，可是随即，那光芒又被一点一点压了回去",
-        "”    项淳叹道：“我本来不想这么做的，可是没想到老师如此偏心，他居然把玄首位置留给了你"
+        "和师弟，一样天资纵横，可他后来为什么叛出玄府？"
       ],
-      "mention_count": 5
+      "mention_count": 1
     },
     {
-      "name": "这是",
+      "name": "许师弟",
       "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "提及",
       "first_appearance": "第两百章 玄首",
-      "summary": "这是两个比当日疯神更为强大的异神",
+      "summary": "提出‘秀林之策’以掩护府内奇才。",
       "appearance": [],
       "personality": [],
       "abilities": [],
@@ -204,52 +457,9 @@
       "relationships": [],
       "timeline": [],
       "evidence": [
-        "这是两个比当日疯神更为强大的异神",
-        "这是他假死之后，第一次回到这里",
-        "”    陈嵩点了点头，道：“是的，这是老师临行之前交代的"
+        "我听说许师弟弄了一个什么‘秀林之策’"
       ],
-      "mention_count": 5
-    },
-    {
-      "name": "他一",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百章 玄首",
-      "summary": "”    瑞光城中，陈嵩脚步沉重的往事务堂走去，他一路走来，却没有一个人对他投去哪怕一眼，似乎根本没有发现有这么一个人存在",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "”    瑞光城中，陈嵩脚步沉重的往事务堂走去，他一路走来，却没有一个人对他投去哪怕一眼，似乎根本没有发现有这么一个人存在",
-        "”    陈嵩叹道：“原来师兄你早有布置，”他一抬头，“师兄，你想干什么",
-        "”    项淳沉声道：“那是因为比起我，他更信任你，一众师兄弟里，只有你与他的修行路数最相近，我知道，他一直把你当成真正的传人"
-      ],
-      "mention_count": 5
-    },
-    {
-      "name": "所有",
-      "aliases": [],
-      "identity": "",
-      "faction": "",
-      "status": "登场",
-      "first_appearance": "第两百章 玄首",
-      "summary": "有五十多年了吧，自从老师闭关之后，一直是我跟随在他的身边，负责处理内外事务，玄府的上下所有人的名字都我叫的出来",
-      "appearance": [],
-      "personality": [],
-      "abilities": [],
-      "equipment": [],
-      "relationships": [],
-      "timeline": [],
-      "evidence": [
-        "有五十多年了吧，自从老师闭关之后，一直是我跟随在他的身边，负责处理内外事务，玄府的上下所有人的名字都我叫的出来",
-        "所有的分府都是我去负责重建的，所有的人事都是我去亲手安排的，所有规矩是我帮忙立下的"
-      ],
-      "mention_count": 5
+      "mention_count": 1
     }
   ]
 }
