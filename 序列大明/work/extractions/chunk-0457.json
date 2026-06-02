@@ -1,0 +1,252 @@
+{
+  "chunk_id": "chunk-0457",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [
+        "阎君百户"
+      ],
+      "identity": "锦衣卫百户，武序",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "锦衣卫百户，武序修行者，与白玛（四臂大黑天）激战。",
+      "appearance": [
+        "赤膊上身，贲张肌肉上缠满青筋"
+      ],
+      "personality": [
+        "凶悍",
+        "冷静",
+        "轻蔑"
+      ],
+      "abilities": [
+        "洞见五神",
+        "蛰官法",
+        "列缺伐步",
+        "八极拳劲",
+        "见龙卸甲"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "白玛",
+          "type": "敌对"
+        },
+        {
+          "target": "范无咎",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在未央长街与白玛化身的四臂大黑天激战，最终击杀白玛。"
+        }
+      ],
+      "evidence": [
+        "李钧的身影出现在十丈之外，抬眼打量着眼前这具‘死而复生’的佛门恶神。",
+        "李钧咧嘴一笑：“但除此之外，千万别跟武夫靠的太近！”",
+        "锦衣卫人群中，一脸疲惫的李钧迈步走出，抬手揉了揉眉心，笑道：“你这个道士反应还挺快，可惜了啊”"
+      ],
+      "mention_count": 35
+    },
+    {
+      "name": "白玛",
+      "aliases": [
+        "四臂大黑天",
+        "恶神",
+        "女僧"
+      ],
+      "identity": "佛门修行者，化身四臂大黑天",
+      "faction": "佛门",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "佛门修行者，化身四臂大黑天与李钧战斗，最终被击杀。",
+      "appearance": [
+        "四臂恶神",
+        "青面獠牙",
+        "后变为美貌女僧"
+      ],
+      "personality": [
+        "冷漠",
+        "魅惑",
+        "恼羞成怒"
+      ],
+      "abilities": [
+        "佛国幻境",
+        "度化佛音",
+        "四臂大黑天之躯"
+      ],
+      "equipment": [
+        "骷髅碗",
+        "月形刀",
+        "三叉戟",
+        "人骨念珠"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在未央长街与李钧战斗，被李钧击杀。"
+        }
+      ],
+      "evidence": [
+        "四臂恶神仰天咆哮，抓着人骨骷髅碗的手臂挥动砸下。",
+        "白玛四臂合十身前：“而这，也将是你命中注定的归宿。”",
+        "白玛全身骨断筋折，在坑底扭曲成一个怪异的姿势。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "范无咎",
+      "aliases": [],
+      "identity": "锦衣卫成员",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "锦衣卫成员，与龙虎山道序对峙。",
+      "appearance": [],
+      "personality": [
+        "冷笑",
+        "强硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阳谷",
+          "type": "对峙"
+        },
+        {
+          "target": "李钧",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在未央长街与龙虎山道序阳谷对峙。"
+        }
+      ],
+      "evidence": [
+        "范无咎冷笑道：“很简单，要么你们老老实实继续在这儿呆着，大家相安无事。要么就接茬论，我继续操练操练你们这群身娇肉贵的道老爷！”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "阳谷",
+      "aliases": [],
+      "identity": "龙虎山道序",
+      "faction": "龙虎山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "龙虎山道序，与范无咎对峙。",
+      "appearance": [],
+      "personality": [
+        "愤怒",
+        "茫然"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "范无咎",
+          "type": "对峙"
+        },
+        {
+          "target": "阳龙",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在未央长街与范无咎对峙，被阳龙制止。"
+        }
+      ],
+      "evidence": [
+        "阳谷被眼前宛如怒狮的阳龙吓了一跳，还没反应发生了过来，就被对方一把攥住衣领，生生给拽到了后面。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "阳龙",
+      "aliases": [],
+      "identity": "龙虎山道序",
+      "faction": "龙虎山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "龙虎山道序，制止阳谷与范无咎的冲突。",
+      "appearance": [],
+      "personality": [
+        "暴怒",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阳谷",
+          "type": "同门"
+        },
+        {
+          "target": "李钧",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在未央长街制止阳谷，并向李钧行礼。"
+        }
+      ],
+      "evidence": [
+        "龙虎山道序阳龙，见过阎君百户。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [],
+      "identity": "提及人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，曾在桑烟寺力战而死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "那名在袁明妃口中，在桑烟寺力战而死的独行武序。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "张清律",
+      "aliases": [],
+      "identity": "提及人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的已死亡人物，曾与李钧有相似经历。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "似曾相识的一幕，让李钧不禁想起了已经死亡的张清律。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

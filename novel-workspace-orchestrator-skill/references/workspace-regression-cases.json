@@ -1,7 +1,34 @@
 [
   {
-    "name": "demo-outline-repair",
-    "workspace": "fixtures/demo-outline-repair",
+    "name": "刀笼",
+    "workspace": "刀笼",
+    "expected_mode": "repair-existing",
+    "expected_next_layer": "outline",
+    "expected_completed_layers": ["opening", "protagonist", "highlight"],
+    "expected_incomplete_layers": ["outline"],
+    "expected_repair_target": "outline"
+  },
+  {
+    "name": "寇道",
+    "workspace": "寇道",
+    "expected_mode": "repair-existing",
+    "expected_next_layer": "protagonist",
+    "expected_completed_layers": [],
+    "expected_incomplete_layers": ["protagonist", "outline"],
+    "expected_repair_target": "protagonist"
+  },
+  {
+    "name": "巫师世界",
+    "workspace": "巫师世界",
+    "expected_mode": "repair-existing",
+    "expected_next_layer": "protagonist",
+    "expected_completed_layers": [],
+    "expected_incomplete_layers": ["protagonist", "outline"],
+    "expected_repair_target": "protagonist"
+  },
+  {
+    "name": "序列大明",
+    "workspace": "序列大明",
     "expected_mode": "repair-existing",
     "expected_next_layer": "outline",
     "expected_completed_layers": ["protagonist"],
@@ -9,12 +36,30 @@
     "expected_repair_target": "outline"
   },
   {
-    "name": "demo-opening-missing",
-    "workspace": "fixtures/demo-opening-missing",
+    "name": "我的诡异人生",
+    "workspace": "我的诡异人生",
+    "expected_mode": "repair-existing",
+    "expected_next_layer": "protagonist",
+    "expected_completed_layers": [],
+    "expected_incomplete_layers": ["protagonist", "outline"],
+    "expected_repair_target": "protagonist"
+  },
+  {
+    "name": "永恒剑主",
+    "workspace": "永恒剑主",
     "expected_mode": "extend-existing",
     "expected_next_layer": "opening",
     "expected_completed_layers": ["protagonist", "outline"],
     "expected_incomplete_layers": [],
     "expected_repair_target": null
+  },
+  {
+    "name": "玄浑道章",
+    "workspace": "玄浑道章",
+    "expected_mode": "repair-existing",
+    "expected_next_layer": "protagonist",
+    "expected_completed_layers": [],
+    "expected_incomplete_layers": ["protagonist", "outline"],
+    "expected_repair_target": "protagonist"
   }
 ]

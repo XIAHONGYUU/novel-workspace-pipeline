@@ -1,0 +1,247 @@
+{
+  "chunk_id": "chunk-0710",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄尊",
+        "张守正"
+      ],
+      "identity": "玄尊，新任守正",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第五章 守道正乱行",
+      "summary": "玄尊，被授予守正之职，负责斗战与外敌清剿，拥有自主权。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "冷静",
+        "有远见"
+      ],
+      "abilities": [
+        "心光深厚",
+        "能开辟道场"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玉素道人",
+          "type": "同僚"
+        },
+        {
+          "target": "明周道人",
+          "type": "随侍"
+        },
+        {
+          "target": "龙淮",
+          "type": "擒获对象"
+        },
+        {
+          "target": "朱鹚",
+          "type": "追捕对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "深入混沌晦乱之地探索，后返回回天崖，接受守正诏旨。"
+        }
+      ],
+      "evidence": [
+        "张御在深入那一片混沌晦乱之地后，身外感到的压力成倍增长了起来",
+        "玉素道人手中托着一份挂着星袋的卷书，道：‘张玄尊，有玄廷诏旨。’",
+        "玉素道人认真道：‘正是守正。’"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [
+        "玉素"
+      ],
+      "identity": "玄廷使者",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第五章 守道正乱行",
+      "summary": "玄廷使者，前来授予张御守正之职，并解释守正职责。",
+      "appearance": [],
+      "personality": [
+        "认真",
+        "随意"
+      ],
+      "abilities": [],
+      "equipment": [
+        "卷书（诏旨）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在回天崖向张御传达玄廷诏旨，授予守正之职。"
+        }
+      ],
+      "evidence": [
+        "玉素道人自里现身出来，他手中托着一份挂着星袋的卷书",
+        "玉素道人认真道：‘正是守正。’"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "随侍道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第五章 守道正乱行",
+      "summary": "张御的随侍道人，负责通报和协助。",
+      "appearance": [],
+      "personality": [
+        "恭敬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随侍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在回天崖迎接张御归来，并告知玉素道人到来。"
+        }
+      ],
+      "evidence": [
+        "明周道人在旁现身出来，对他打一个稽首，道：‘恭贺张玄尊平安归来。’"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "龙淮",
+      "aliases": [],
+      "identity": "被擒捉之人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第五章 守道正乱行",
+      "summary": "此前被张御擒捉，曾将记忆刻于拓板，与朱鹚有关联。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被擒获"
+        },
+        {
+          "target": "朱鹚",
+          "type": "曾拜访"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被张御擒捉，临行前曾寻朱鹚。"
+        }
+      ],
+      "evidence": [
+        "此前被道友擒捉的龙淮，经我等查证下来，此人在去往开辟内外阶层的门户之前，曾将身记忆刻于拓板之上，而他在临行之前，便曾去寻过朱鹚"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "朱鹚",
+      "aliases": [],
+      "identity": "被追捕之人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第五章 守道正乱行",
+      "summary": "与龙淮有关联，可能持有龙淮的拓板，是张御追捕的对象。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龙淮",
+          "type": "被拜访"
+        },
+        {
+          "target": "张御",
+          "type": "追捕对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "龙淮临行前曾寻他。"
+        }
+      ],
+      "evidence": [
+        "此前被道友擒捉的龙淮，经我等查证下来，此人在去往开辟内外阶层的门户之前，曾将身记忆刻于拓板之上，而他在临行之前，便曾去寻过朱鹚，我们怀疑托板就在其手中"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "沈敖",
+      "aliases": [],
+      "identity": "与甘柏有牵连之人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第五章 守道正乱行",
+      "summary": "与甘柏有牵连，但未提供更多信息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "甘柏",
+          "type": "有牵连"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "与沈敖有所牵连之人名唤甘柏"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "甘柏",
+      "aliases": [],
+      "identity": "逃遁之人",
+      "faction": "疑似上宸天",
+      "status": "提及",
+      "first_appearance": "第五章 守道正乱行",
+      "summary": "与沈敖有牵连，已逃遁，疑似投靠上宸天。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈敖",
+          "type": "有牵连"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "逃遁离去，疑似投去上宸天。"
+        }
+      ],
+      "evidence": [
+        "与沈敖有所牵连之人名唤甘柏，此人已然逃遁离去了，疑似已是投去了上宸天"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

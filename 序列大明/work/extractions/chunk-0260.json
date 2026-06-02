@@ -1,0 +1,229 @@
+{
+  "chunk_id": "chunk-0260",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [
+        "锦衣卫"
+      ],
+      "identity": "锦衣卫",
+      "faction": "新东林党",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "锦衣卫成员，实力为序六，正在追杀荒世集团成员。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "嘲讽"
+      ],
+      "abilities": [
+        "分筋错骨手",
+        "体魄强度增幅"
+      ],
+      "equipment": [
+        "黑色雨伞（可变为绣春刀）",
+        "无常簿指环"
+      ],
+      "relationships": [
+        {
+          "target": "根本三郎",
+          "type": "敌对"
+        },
+        {
+          "target": "山童",
+          "type": "敌对"
+        },
+        {
+          "target": "木魅",
+          "type": "敌对"
+        },
+        {
+          "target": "墨晋",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在镇海楼顶层与荒世集团成员战斗，击杀山童、木魅，擒获根本三郎，后遭遇爆炸。"
+        }
+      ],
+      "evidence": [
+        "李钧冷哼一声，只见他手腕抖动，分筋错骨的劲力沿着伞骨漫延向前。",
+        "李钧没有使用楚乌弹影，单靠体魄强度增幅的原始速度，便在两把武士刀交织而成的寒光中闲庭信步。",
+        "李钧握着黑伞缓缓走出废墟，身上的飞鱼服不断沁出细密的水珠，濯洗着身上沾染的灰烬。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "根本三郎",
+      "aliases": [
+        "镰鼬"
+      ],
+      "identity": "荒世集团成员，兵道序七",
+      "faction": "荒世集团",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "荒世集团的倭民成员，兵道序七，械心名为镰鼬，被李钧击败并审问。",
+      "appearance": [],
+      "personality": [
+        "狂热",
+        "死忠",
+        "恐惧"
+      ],
+      "abilities": [
+        "超频"
+      ],
+      "equipment": [
+        "武士刀",
+        "械心（镰鼬）"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "墨晋",
+          "type": "被出卖"
+        },
+        {
+          "target": "山童",
+          "type": "同伴"
+        },
+        {
+          "target": "木魅",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧战斗，被击败后遭审问，后因爆炸生死不明。"
+        }
+      ],
+      "evidence": [
+        "根本三郎咬着牙道：“荒世集团绝对不会出卖朋友！”",
+        "根本三郎瞳孔扩散，口鼻之中不断涌出白色的仿生血液，手中的武士刀哐当一声掉落在地。",
+        "根本三郎第一次经历这种吊诡的情况，惊慌失措之际，不计后果的疯狂催动械心，直接进入超频状态！"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "山童",
+      "aliases": [],
+      "identity": "荒世集团成员，兵道序七",
+      "faction": "荒世集团",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "荒世集团的倭民成员，械心名为山童，被李钧击杀。",
+      "appearance": [],
+      "personality": [
+        "疯狂"
+      ],
+      "abilities": [
+        "超频"
+      ],
+      "equipment": [
+        "长刀",
+        "械心（山童）"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "根本三郎",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧战斗，被绣春刀洞穿眉心而死。"
+        }
+      ],
+      "evidence": [
+        "先前眉心中刀的‘山童’虽然因为脑组织损伤，导致身体灵活性和协调性大受影响。",
+        "‘山童’用倭语疯狂的嚎叫着，两条因为超频而变得粗壮无比的手臂奋力挥舞着长刀，试图拖延住李钧。",
+        "伞尖在被拔出眉心的瞬间，黑云般的伞面消失无踪，取而代之的一把寒光凛冽的绣春刀！"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "木魅",
+      "aliases": [],
+      "identity": "荒世集团成员，兵道序七",
+      "faction": "荒世集团",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "荒世集团的倭民成员，械心名为木魅，被李钧击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "超频"
+      ],
+      "equipment": [
+        "武士刀",
+        "械心（木魅）"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "根本三郎",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧战斗，被分筋错骨手击杀。"
+        }
+      ],
+      "evidence": [
+        "李钧抬脚将根本三郎踹飞出去，闪身贴近还在竭力拖回抛飞长刀的‘木魅’，左手五指探出，直接扣住对方的面门，抖碎全身的机械关节。",
+        "李钧提着死蛇一般的‘木魅’，按在绣春刀刃口上狠狠一抹。随着一阵金属撕裂的刺耳声响，一颗头颅直接被切了下来。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "墨晋",
+      "aliases": [],
+      "identity": "荒世集团成员",
+      "faction": "荒世集团",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "荒世集团成员，出卖了根本三郎等人，被李钧追查。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "根本三郎",
+          "type": "出卖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧追查去向。"
+        }
+      ],
+      "evidence": [
+        "“根本你快走，这个人根本不是序七，而是序六！我们都被墨晋卖了！”",
+        "“说吧，墨晋往哪里逃的？”"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

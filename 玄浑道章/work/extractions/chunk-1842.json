@@ -1,0 +1,176 @@
+{
+  "chunk_id": "chunk-1842",
+  "characters": [
+    {
+      "name": "重岸",
+      "aliases": [],
+      "identity": "天夏修士，伪装成无面道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第409章 聚识借解丸",
+      "summary": "天夏修士，伪装成无面道人潜入元夏，吞化无面道人分身，获取其忆识和神通，最终返回天夏。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "善于应变"
+      ],
+      "abilities": [
+        "吞化分身",
+        "伪装"
+      ],
+      "equipment": [
+        "小鼎",
+        "金舟",
+        "符令"
+      ],
+      "relationships": [
+        {
+          "target": "无面道人",
+          "type": "伪装对象"
+        },
+        {
+          "target": "黄司议",
+          "type": "利用对象"
+        },
+        {
+          "target": "姚驻使",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "吞化所有分身，返回天夏"
+        }
+      ],
+      "evidence": [
+        "重岸做出决定之后，立刻根据忆识里存在的各个分身据点发出传令",
+        "重岸学着无面道人的说话风格",
+        "重岸将丹水取出，道：“喝下去。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "无面道人",
+      "aliases": [],
+      "identity": "元夏修士，拥有分身能力",
+      "faction": "元夏",
+      "status": "已死（被重岸取代）",
+      "first_appearance": "第409章 聚识借解丸",
+      "summary": "元夏修士，拥有多个分身，被重岸吞化取代。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "多疑"
+      ],
+      "abilities": [
+        "分身术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "重岸",
+          "type": "被取代"
+        },
+        {
+          "target": "黄司议",
+          "type": "后台"
+        },
+        {
+          "target": "姚驻使",
+          "type": "有联系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "分身被重岸吞化"
+        }
+      ],
+      "evidence": [
+        "无面道人还有自己不知道的分身存在",
+        "他继承了无面道人对分身的驾驭控制",
+        "从无面道人的忆识中"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "黄司议",
+      "aliases": [],
+      "identity": "元夏司议，无面道人的后台",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第409章 聚识借解丸",
+      "summary": "元夏司议，为无面道人提供欲毒解药，性格偏狭但自认为大度。",
+      "appearance": [],
+      "personality": [
+        "偏狭",
+        "自以为大度",
+        "随心散漫"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "无面道人",
+          "type": "后台"
+        },
+        {
+          "target": "重岸",
+          "type": "被利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "来访重岸，给予符令"
+        }
+      ],
+      "evidence": [
+        "黄司议来了",
+        "黄司议打量了他几眼",
+        "黄司议皱眉道：“真是会给我找麻烦。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "姚驻使",
+      "aliases": [],
+      "identity": "元夏驻天夏使者，姚氏旁系子弟",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第409章 聚识借解丸",
+      "summary": "元夏驻天夏使者，三上世姚氏旁系，与无面道人有交易。",
+      "appearance": [],
+      "personality": [
+        "不耐烦",
+        "阴沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "无面道人",
+          "type": "有交易"
+        },
+        {
+          "target": "重岸",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天夏墩台等待重岸"
+        }
+      ],
+      "evidence": [
+        "姚驻使来了",
+        "姚驻使眯了眯眼",
+        "姚驻使道：“阁下别忘了对我的承诺”"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

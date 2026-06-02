@@ -1,0 +1,260 @@
+{
+  "chunk_id": "chunk-1854",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，负责与霓宝对话，处理其身份问题。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "通情达理"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "霓宝",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接见霓宝，询问其来历并给予承诺。"
+        }
+      ],
+      "evidence": [
+        "张御待霓宝执礼过后，也是抬袖起来，在座上回有一礼",
+        "张御微微点头，道：“原来道友担心此事”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "霓宝",
+      "aliases": [
+        "霓道友",
+        "妾身"
+      ],
+      "identity": "天地异宝化灵，曾为常旸认定的宝器，现为天夏治下之民",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天地异宝化灵，因畏惧元夏天序而分化二灵，一灵在天夏，一灵在元夏，请求天夏帮助救回另一灵。",
+      "appearance": [],
+      "personality": [
+        "聪慧",
+        "谨慎"
+      ],
+      "abilities": [
+        "身具上境层次",
+        "能编织宝衣"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对话者"
+        },
+        {
+          "target": "曾驽",
+          "type": "少郎"
+        },
+        {
+          "target": "明周",
+          "type": "相识"
+        },
+        {
+          "target": "古邙",
+          "type": "另一灵所在的上真"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御坦白身份，请求救回另一灵。"
+        }
+      ],
+      "evidence": [
+        "妾身本是天地间一桩异宝",
+        "为躲避元夏天序，不得分化二灵",
+        "妾身在此恳请，天夏能将另一个姐妹救出"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "明周",
+      "aliases": [],
+      "identity": "天夏人士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在场人物，霓宝见到他后稍感安心。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "霓宝",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "微笑立于一旁。"
+        }
+      ],
+      "evidence": [
+        "霓宝这时看了眼旁处，见明周微笑立于一旁"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "曾驽",
+      "aliases": [
+        "少郎"
+      ],
+      "identity": "霓宝的少郎",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "霓宝的少郎，对霓宝的真实身份不知情。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "霓宝",
+          "type": "少郎"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "只这一切与少郎无关，我之出身……他实是不知情的"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "古邙",
+      "aliases": [
+        "古邙上真"
+      ],
+      "identity": "外世修士",
+      "faction": "外世",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "外世修士，霓宝的另一灵在其处为弟子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "霓宝的另一灵",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "她此世当在某位上真处为弟子，那上真道名‘古邙’，乃是一名外世修士"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "裘少郎",
+      "aliases": [],
+      "identity": "世道弟子",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏世道弟子，因约议结束不得不离开虚空壁垒。",
+      "appearance": [],
+      "personality": [
+        "不情愿"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "离开虚空壁垒，返回元夏。"
+        }
+      ],
+      "evidence": [
+        "裘少郎等人再是如何不情愿，也不得不离开此间了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "胡道人",
+      "aliases": [
+        "胡前辈"
+      ],
+      "identity": "元夏退位司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏退位司议，前来接应世道弟子，因资质不成被逼退位。",
+      "appearance": [],
+      "personality": [
+        "冷峻",
+        "易怒"
+      ],
+      "abilities": [
+        "寄虚之境"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "世道弟子",
+          "type": "训斥对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接应世道弟子，训斥其言论。"
+        }
+      ],
+      "evidence": [
+        "胡道人冷言道：“又是一个不明道理之人”",
+        "被逼退位是他心中之痛"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，站在殿台前观察金舟离去。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "看着金舟进入两界通道。"
+        }
+      ],
+      "evidence": [
+        "戴廷执站在殿台之前，看着金舟进入两界通道之中"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

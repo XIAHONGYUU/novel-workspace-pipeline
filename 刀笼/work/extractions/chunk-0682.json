@@ -1,0 +1,340 @@
+{
+  "chunk_id": "chunk-0682",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "夜昼国主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "夜昼国主，正在与不周对话，了解上古秘辛，并思考如何击败朱太后。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "善于思考"
+      ],
+      "abilities": [],
+      "equipment": [
+        "刀（疑似《托天圣灵碑》相关）"
+      ],
+      "relationships": [
+        {
+          "target": "不周",
+          "type": "对话者"
+        },
+        {
+          "target": "分身",
+          "type": "本体与分身"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与不周讨论如来、波旬、夜行游女等秘辛，并思考如何击败朱太后。"
+        }
+      ],
+      "evidence": [
+        "戚笼的第一反应是荒谬",
+        "戚笼也抽了抽嘴角",
+        "戚笼眯眼，盯着天空上的那具人形"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "不周",
+      "aliases": [
+        "本公子"
+      ],
+      "identity": "上古柱子化形，曾为如来掌管魔境",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "上古存在，曾跟随如来，后成为柱子，现在与戚笼合作对付夜行游女。",
+      "appearance": [],
+      "personality": [
+        "神秘",
+        "爱笑",
+        "装模作样"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        },
+        {
+          "target": "如来",
+          "type": "曾跟随"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向戚笼解释如来、波旬、夜行游女等秘辛。"
+        }
+      ],
+      "evidence": [
+        "不周笑眯眯道",
+        "不周耸了耸肩",
+        "不周干咳一声"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "如来",
+      "aliases": [
+        "如来佛祖",
+        "如来魔帝",
+        "如来大人"
+      ],
+      "identity": "佛门至强者，原为上古魔门魔帝",
+      "faction": "佛门（原魔门）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "上古魔帝，后化魔为佛，成为如来佛祖，曾吸收五大魔祖，横霸数个上古纪元。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "化魔为佛",
+        "斩出化身",
+        "轰碎大破灭执念"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "波旬",
+          "type": "由执念碎片诞生"
+        },
+        {
+          "target": "不周",
+          "type": "曾跟随"
+        },
+        {
+          "target": "五大魔祖",
+          "type": "吸收"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "上古",
+          "event": "成为魔门最强大帝，吸收五大魔祖。"
+        },
+        {
+          "stage": "上古之后",
+          "event": "化魔为佛，斩出化身，导尽魔气，轰碎大破灭执念。"
+        }
+      ],
+      "evidence": [
+        "如来是后天魔帝",
+        "如来大人分头击破，一一吸收",
+        "当年的如来魔帝摇身一变，化身普渡众生的如来佛祖"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "波旬",
+      "aliases": [],
+      "identity": "如来的大破灭执念碎片所生",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "由如来轰碎的大破灭执念碎片落入大雷音寺各处诞生，在不同时期有不同面孔。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "如来",
+          "type": "由执念碎片诞生"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "波旬和如来到底什么关系",
+        "那碎裂的执念四散，落入大雷音寺各个地方，然后借此诞生的便是波旬"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "夜行游女",
+      "aliases": [],
+      "identity": "上古某尊人皇的戾气所化",
+      "faction": "夜族",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "上古某尊人皇的戾气所化，记仇，欲抹灭夜族的一切。",
+      "appearance": [],
+      "personality": [
+        "记仇",
+        "戾气重"
+      ],
+      "abilities": [
+        "调动上古人道投影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "照家人皇",
+          "type": "由戾气所化"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "为了对付那只夜行游女",
+        "夜行游女在上古是什么身份",
+        "某尊姓照的人皇"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "朱太后",
+      "aliases": [],
+      "identity": "夜昼国太后",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戚笼需要击败的对象，与夜行游女有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "参悟出这一点，便是你击败朱太后的关键"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "诸葛侯",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾与戚笼说过业位之分。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "曾告知信息"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他又想到了之前诸葛侯跟他说的业位之分"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "虞老道",
+      "aliases": [],
+      "identity": "道祖",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "道祖，曾参与天帝之力争夺。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "居然让戚笼想到虞老道，也不知那位道祖大人现在安好不"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "照家人皇",
+      "aliases": [
+        "照家那位老祖宗"
+      ],
+      "identity": "上古某尊人皇",
+      "faction": "照家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "上古某尊人皇，戾气张扬毕显，其戾气化为夜行游女。",
+      "appearance": [],
+      "personality": [
+        "戾气张扬毕显"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "夜行游女",
+          "type": "戾气所化"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "某尊姓照的人皇",
+        "照家那位老祖宗便是最后一种"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "五大魔祖",
+      "aliases": [],
+      "identity": "先天魔帝",
+      "faction": "魔门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "因大破灭而诞生的五尊盖世魔头，妄想夺五帝之位，后被如来吸收。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "如来",
+          "type": "被吸收"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "上古",
+          "event": "被如来分头击破并吸收。"
+        }
+      ],
+      "evidence": [
+        "五大魔祖则是先天魔帝",
+        "被如来大人分头击破，一一吸收"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "分身",
+      "aliases": [
+        "那具分身"
+      ],
+      "identity": "戚笼的分身",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戚笼的分身，已进入大千人道，修炼《托天圣灵碑》。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "本体与分身"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "你那具分身这时进入大千人道"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

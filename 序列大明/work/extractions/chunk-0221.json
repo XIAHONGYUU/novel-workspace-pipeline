@@ -1,0 +1,186 @@
+{
+  "chunk_id": "chunk-0221",
+  "characters": [
+    {
+      "name": "金生火",
+      "aliases": [
+        "风将"
+      ],
+      "identity": "川渝赌会风将",
+      "faction": "川渝赌会",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "川渝赌会的风将，在洪崖山铜楼安全屋中被李钧击杀。",
+      "appearance": [
+        "肥胖",
+        "仿生皮肤",
+        "绸缎衣裳"
+      ],
+      "personality": [
+        "谄媚",
+        "狡猾",
+        "识时务"
+      ],
+      "abilities": [
+        "兵道序列",
+        "械心"
+      ],
+      "equipment": [
+        "械心"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "赫藏甲",
+          "type": "提及"
+        },
+        {
+          "target": "赵通",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在安全屋中被李钧质问并击杀。"
+        }
+      ],
+      "evidence": [
+        "金生火此刻根本不敢稍动，生怕自己一丁点的异动都会激怒身后之人。",
+        "金生火恍然大悟，只听他笑问道：“你看要不咱们面对面聊？背对着客人，可没什么礼貌啊。”",
+        "李钧从身下的坑洞中拔出一个扭曲干瘪的脑袋，粘腻着白色液体的脊椎下，挂着一颗炸着火花的机械心脏。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "李爷"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "闯入金生火安全屋的强者，序七实力，击杀金生火。",
+      "appearance": [],
+      "personality": [
+        "淡定",
+        "从容",
+        "果断"
+      ],
+      "abilities": [
+        "序七"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金生火",
+          "type": "敌对"
+        },
+        {
+          "target": "赵通",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闯入安全屋质问并击杀金生火。"
+        }
+      ],
+      "evidence": [
+        "李钧淡淡道：“既然是个识时务的俊才，那为什么要做过河拆桥这种蠢事？”",
+        "李钧将脑袋提放在眼前。",
+        "李钧闻声转头看去，只见许久未见的王谢正蹲在阁楼窗棂上。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "王谢",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "出现在阁楼窗棂上，与李钧相识。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在阁楼窗棂上，与李钧对话。"
+        }
+      ],
+      "evidence": [
+        "李钧闻声转头看去，只见许久未见的王谢正蹲在阁楼窗棂上，用一副恨铁不成钢的表情看着自己。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵通",
+      "aliases": [
+        "脱将赵通"
+      ],
+      "identity": "脱将",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，曾问李钧一个问题。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧提及曾问问题。"
+        }
+      ],
+      "evidence": [
+        "就在我下线之前，脱将赵通问了我一个问题。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赫藏甲",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，曾描述金生火。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金生火",
+          "type": "提及"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "伱这副模样，可跟赫藏甲口中那位颐指气使的风将不太一样啊。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

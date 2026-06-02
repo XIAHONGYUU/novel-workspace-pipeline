@@ -1,0 +1,244 @@
+{
+  "chunk_id": "chunk-0102",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张先生"
+      ],
+      "identity": "玄修，杨璎的先生",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修，斩杀瘟疫之神，准备突破真胎之印，前往乞格里斯峰修行。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [
+        "封禁之金"
+      ],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "玄府上级"
+        },
+        {
+          "target": "杨璎",
+          "type": "师生"
+        },
+        {
+          "target": "燕叙伦",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "取得秘传章法，准备出外修行"
+        },
+        {
+          "stage": "当前",
+          "event": "应邀前往都府与杨璎会面"
+        },
+        {
+          "stage": "当前",
+          "event": "离开瑞光城，前往乞格里斯峰"
+        }
+      ],
+      "evidence": [
+        "张御离开闻祈广场后，先是去了一趟玄府，将秘传章法取得",
+        "他之所以向项淳要求出外修行，主要是这一次收获颇大",
+        "张御离开瑞光城出发后，由东边无边旷野进入了安山"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "杨璎",
+      "aliases": [
+        "杨卫尉"
+      ],
+      "identity": "都护府卫尉，张御的学生",
+      "faction": "都护府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "都护府卫尉，张御的学生，邀请张御到都府做客。",
+      "appearance": [],
+      "personality": [
+        "热情",
+        "有主见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师生"
+        },
+        {
+          "target": "小童",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "邀请张御到都府做客"
+        }
+      ],
+      "evidence": [
+        "杨璎以他学生的名义想邀请他这位先生去自家宅邸坐一坐",
+        "杨璎早早在门前等候，见他到来，喜道：'先生，你来了。'"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "小童",
+      "aliases": [],
+      "identity": "杨璎的弟弟",
+      "faction": "都护府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "杨璎的弟弟，对张御斩杀异神的事迹感到崇拜。",
+      "appearance": [],
+      "personality": [
+        "崇拜英雄"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨璎",
+          "type": "姐弟"
+        },
+        {
+          "target": "张御",
+          "type": "崇拜对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在花楼门后偷看张御，表达崇拜"
+        }
+      ],
+      "evidence": [
+        "小童自里走了出来，他小脸上满是崇拜道：'阿姐，那就是张先生么？'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "燕叙伦",
+      "aliases": [
+        "尉主"
+      ],
+      "identity": "神尉军尉主",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "神尉军尉主，对玄府和天夏持敌对态度，决心对付张御。",
+      "appearance": [],
+      "personality": [
+        "深沉",
+        "果断",
+        "恐惧天夏"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安尔莫泰",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知张御出城，决定派安尔莫泰对付他"
+        }
+      ],
+      "evidence": [
+        "燕叙伦眼神深沉，上一次他没有选择对张御动手，结果就给玄府翻了盘",
+        "他道：'去把安尔莫泰请来。'"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "安尔莫泰",
+      "aliases": [
+        "宁昆仑"
+      ],
+      "identity": "神尉军四大军候之一",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "神尉军军候，安人，俊美强大，忠于安人复兴理想。",
+      "appearance": [
+        "俊伟",
+        "雕塑般的俊美脸庞",
+        "五官和体型近乎完美"
+      ],
+      "personality": [
+        "自信",
+        "坚定",
+        "理想主义"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "燕叙伦",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被燕叙伦召见，接受对付张御的任务"
+        }
+      ],
+      "evidence": [
+        "自外面走进来的俊伟男子身穿神尉军袍服，他比常人高出一头有余，有着雕塑般的俊美脸庞",
+        "他是安尔莫泰，天夏名宁昆仑，神尉军四大军候之一"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "项淳",
+      "aliases": [],
+      "identity": "玄府上级",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄府上级，对张御表现出亲和，但未带其见玄首。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传下秘传章法给张御"
+        }
+      ],
+      "evidence": [
+        "他之所以向项淳要求出外修行",
+        "项淳这次虽然对他表现出了足够的亲和和友善，并还传下了秘传章法"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

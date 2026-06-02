@@ -1,0 +1,201 @@
+{
+  "chunk_id": "chunk-0213",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "准备进行精神力液化冲击的巫师，与南希确立关系。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "占有欲强"
+      ],
+      "abilities": [
+        "精神力液化",
+        "配置药剂",
+        "秘法印记"
+      ],
+      "equipment": [
+        "猎杀巨树药剂",
+        "水晶叶种子"
+      ],
+      "relationships": [
+        {
+          "target": "小精灵",
+          "type": "交易伙伴"
+        },
+        {
+          "target": "丽丝佩尔",
+          "type": "交易伙伴"
+        },
+        {
+          "target": "南希",
+          "type": "主人/恋人"
+        },
+        {
+          "target": "罗西斯",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "准备冲击精神力液化，送还丽丝佩尔的资源，与南希确立关系。"
+        }
+      ],
+      "evidence": [
+        "安格列开始在家中调整状态，准备进行晋级的冲击。",
+        "安格列轻轻伸出手臂，将南希的腰部一揽。",
+        "安格列盘膝坐在地面中心。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "小精灵",
+      "aliases": [],
+      "identity": "交易伙伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "为安格列提供药剂和信息的交易伙伴。",
+      "appearance": [],
+      "personality": [
+        "精明",
+        "善于暗示"
+      ],
+      "abilities": [],
+      "equipment": [
+        "水晶药剂瓶"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "交易伙伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送来药剂，并提醒安格列关于丽丝佩尔资源减少的消息。"
+        }
+      ],
+      "evidence": [
+        "小精灵抛了抛手上的水晶药剂瓶",
+        "小精灵脸上泛起一丝微笑"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "南希",
+      "aliases": [],
+      "identity": "安格列的护卫/恋人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的护卫，与安格列确立恋人关系。",
+      "appearance": [
+        "金色长发",
+        "白色露腰抹胸和短热裤",
+        "修长的大腿",
+        "纤细雪白的腰身",
+        "褐色鹿皮长靴"
+      ],
+      "personality": [
+        "顺从",
+        "忠诚"
+      ],
+      "abilities": [
+        "剑技"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主人/恋人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列要求更换着装，并确立关系。"
+        }
+      ],
+      "evidence": [
+        "一身剑士服，正在练习剑技锻炼身体的南希从门外走进来。",
+        "南希脸颊一红，顿时明白了他的意思",
+        "南希踮起脚在安格列脸上轻轻亲了口"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "丽丝佩尔",
+      "aliases": [
+        "佩尔"
+      ],
+      "identity": "交易伙伴",
+      "faction": "琼斯家族",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的交易伙伴，近期资源减少。",
+      "appearance": [],
+      "personality": [
+        "单纯"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "交易伙伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及资源减少，但送出的资源份额未变。"
+        }
+      ],
+      "evidence": [
+        "最近怎么丽丝佩尔在找人借资源了？",
+        "佩尔是个很单纯的人"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "罗西斯",
+      "aliases": [],
+      "identity": "下属",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的下属，负责搬运资源。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列要求来领回送还的箱子。"
+        }
+      ],
+      "evidence": [
+        "让罗西斯过来领。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

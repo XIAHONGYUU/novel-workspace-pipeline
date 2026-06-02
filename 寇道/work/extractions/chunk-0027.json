@@ -1,0 +1,419 @@
+{
+  "chunk_id": "chunk-0027",
+  "characters": [
+    {
+      "name": "寇立",
+      "aliases": [
+        "寇师兄"
+      ],
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "烧身武馆的核心人物，拳术天赋极高，正在磨练五行拳和火药劲。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "疯狂",
+        "坚韧"
+      ],
+      "abilities": [
+        "丹变",
+        "象形拳",
+        "五行拳劈拳",
+        "火药劲",
+        "六重竹节劲",
+        "爆炸刀"
+      ],
+      "equipment": [
+        "刀"
+      ],
+      "relationships": [
+        {
+          "target": "罗墩子",
+          "type": "师兄弟"
+        },
+        {
+          "target": "黄公子",
+          "type": "合作/被庇护"
+        },
+        {
+          "target": "狼公子",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "飞鸟崖",
+          "event": "在险峻山壁上练拳，悟出火药劲。"
+        },
+        {
+          "stage": "鹰愁涧",
+          "event": "反杀埋伏的拳师，与断臂中年人交手。"
+        }
+      ],
+      "evidence": [
+        "寇立一脸冷厉的甩了甩刀身，脚步重重踩入水中，溅出无数白浪水花，上爆下爆，爆炸刀！",
+        "寇立的身法在融合龙形精髓后，已经渐渐有种‘不识庐山真面目，只缘云雾漫山中’的飘渺气质",
+        "寇立眉头一皱，他虽然不认识对方，但看对方的风格，明显是血杆子中杀手的风格"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "罗墩子",
+      "aliases": [
+        "罗师兄",
+        "罗严宗"
+      ],
+      "identity": "烧身武馆四师兄",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "烧身武馆的四师兄，精通大摔碑手和开闸劲。",
+      "appearance": [],
+      "personality": [
+        "老实",
+        "精明"
+      ],
+      "abilities": [
+        "大摔碑手",
+        "开闸劲"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "飞鸟崖",
+          "event": "劝寇立不要练拳以免吓到其他人。"
+        }
+      ],
+      "evidence": [
+        "罗墩子闻言老脸一红，挠头道：不是这样的，五行拳跟八式不同",
+        "罗墩子一半是被求，另一半也是心中自愿，探腰拔臂，通背发力，双臂猛的通红",
+        "罗墩子佩服道：我也只是听人说过，师弟练了一路便练出精要了"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "断臂中年人",
+      "aliases": [],
+      "identity": "血杆子杀手，前两湘大拳师",
+      "faction": "血杆子",
+      "status": "登场",
+      "first_appearance": "第099章 虎狼斗（四）",
+      "summary": "断臂的杀手，曾与小王无敌王侯爷交手，擅长暗杀剑术。",
+      "appearance": [
+        "断臂"
+      ],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "暗杀剑——慧星袭月",
+        "弹簧剑机关"
+      ],
+      "equipment": [
+        "断剑",
+        "淬毒磷火剑"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对/传信"
+        },
+        {
+          "target": "黄公子",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "鹰愁涧",
+          "event": "埋伏寇立，交手后传达黄公子的信息。"
+        }
+      ],
+      "evidence": [
+        "断臂中年人很有名气，至少在断臂前很有名气，乃是两湘打行的大拳师",
+        "暗杀剑——慧星袭月",
+        "我是黄公子的人，断臂男面无表情的道。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "狼公子",
+      "aliases": [],
+      "identity": "水龙帮公子",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第101章 虎狼斗（六）",
+      "summary": "水龙帮的公子，策划埋伏烧身武馆，与寇立敌对。",
+      "appearance": [
+        "锦衣裘服",
+        "火狐狸皮毛"
+      ],
+      "personality": [
+        "阴测",
+        "果断",
+        "狠辣"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "独眼狼",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "鹰愁涧后",
+          "event": "查看埋伏现场，决定放狼兵追杀。"
+        }
+      ],
+      "evidence": [
+        "狼公子一身锦衣裘服，裹在肩上的，是上等的火狐狸皮毛",
+        "狼公子面色不愉，几乎没人敢说话",
+        "放狼兵吧，尽快找到他们，然后，杀掉他们，狼公子毫不犹豫的道"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "独眼狼",
+      "aliases": [],
+      "identity": "水龙帮八狼之一",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第101章 虎狼斗（六）",
+      "summary": "狼公子的下属，有智狼之称。",
+      "appearance": [
+        "独眼"
+      ],
+      "personality": [
+        "谨慎",
+        "有智谋"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "狼公子",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "鹰愁涧后",
+          "event": "向狼公子汇报埋伏情况。"
+        }
+      ],
+      "evidence": [
+        "独眼狼犹豫了下，道：公子，这件事毕竟是各方人马商量好的",
+        "独眼狼在八狼中一贯有智狼的称谓"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "黄公子",
+      "aliases": [],
+      "identity": "皇城贵人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第099章 虎狼斗（四）",
+      "summary": "与寇立有合作关系的贵人，能调动血杆子杀手。",
+      "appearance": [
+        "绝美的脸蛋"
+      ],
+      "personality": [
+        "严肃",
+        "认真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "合作/庇护"
+        },
+        {
+          "target": "断臂中年人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夏城官驿",
+          "event": "审阅名单，准备应对倭奴国使节。"
+        }
+      ],
+      "evidence": [
+        "黄公子绝美的脸蛋上，透着十分的严肃和认真",
+        "我是黄公子的人，断臂男面无表情的道。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "江伢子",
+      "aliases": [],
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第098章 狼虎斗（三）",
+      "summary": "烧身武馆学徒，擅长猴形拳。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "猴形爬杆",
+        "鞭腿"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "飞鸟崖",
+          "event": "攀爬险崖。"
+        }
+      ],
+      "evidence": [
+        "猴形的爬杆和鞭腿，看来是那只野猴子动的手"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "姜水源",
+      "aliases": [],
+      "identity": "烧身武馆学徒",
+      "faction": "烧身武馆",
+      "status": "登场",
+      "first_appearance": "第098章 狼虎斗（三）",
+      "summary": "烧身武馆学徒，被寇立练拳的动静吓到。",
+      "appearance": [],
+      "personality": [
+        "胆小"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗墩子",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "飞鸟崖",
+          "event": "被寇立练拳的爆炸声吓到，请求罗墩子劝阻。"
+        }
+      ],
+      "evidence": [
+        "姜水源被吓的下盘一抖，差点从巴掌大的凸岩上滑落下去",
+        "姜水源羡慕的道：开闸劲"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "咏春拳师",
+      "aliases": [],
+      "identity": "埋伏拳师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第099章 虎狼斗（四）",
+      "summary": "埋伏寇立的拳师之一，咏春拳已入化境。",
+      "appearance": [],
+      "personality": [
+        "贪婪"
+      ],
+      "abilities": [
+        "咏春拳",
+        "二字钳羊马",
+        "凤眼拳",
+        "铁指寸劲"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "鹰愁涧",
+          "event": "被寇立以鞭神击杀。"
+        }
+      ],
+      "evidence": [
+        "那练咏春拳的拳师反应最为敏感，背部忽的一凉，下意识的张开二字钳羊马架子",
+        "就冲这份指劲，对方的咏春拳已经入化了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "侠拳拳师",
+      "aliases": [],
+      "identity": "埋伏拳师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第099章 虎狼斗（四）",
+      "summary": "埋伏寇立的拳师之一，被断臂中年人灭口。",
+      "appearance": [],
+      "personality": [
+        "贪婪"
+      ],
+      "abilities": [
+        "侠拳"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "鹰愁涧",
+          "event": "被断臂中年人用磷火剑杀死。"
+        }
+      ],
+      "evidence": [
+        "兄弟，我们一起拖住他，等人——那侠拳拳师刚说了一句，忽然身形一颤"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "孔门拳拳师",
+      "aliases": [],
+      "identity": "埋伏拳师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第099章 虎狼斗（四）",
+      "summary": "埋伏寇立的拳师之一，被寇立斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "孔门拳",
+        "丁字拐"
+      ],
+      "equipment": [
+        "丁字拐"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "鹰愁涧",
+          "event": "被寇立用爆炸刀斩杀。"
+        }
+      ],
+      "evidence": [
+        "孔门拳拳师大惊，两口丁字同时向上架去。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

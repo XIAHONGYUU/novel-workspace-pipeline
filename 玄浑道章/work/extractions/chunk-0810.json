@@ -1,0 +1,390 @@
+{
+  "chunk_id": "chunk-0810",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "守正"
+      ],
+      "identity": "天夏守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "天夏守正，从曜光道宫出来后尝试炼丹，并调查毕明失踪之事。",
+      "appearance": [],
+      "personality": [
+        "求人不如求己",
+        "谨慎"
+      ],
+      "abilities": [
+        "炼丹"
+      ],
+      "equipment": [
+        "丹炉"
+      ],
+      "relationships": [
+        {
+          "target": "玉素道人",
+          "type": "请教对象"
+        },
+        {
+          "target": "晁焕",
+          "type": "同僚"
+        },
+        {
+          "target": "朱凤",
+          "type": "故旧"
+        },
+        {
+          "target": "毕明",
+          "type": "调查对象"
+        },
+        {
+          "target": "陆巢",
+          "type": "毕明弟子"
+        },
+        {
+          "target": "何礼",
+          "type": "陆巢弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "四月下旬",
+          "event": "炼出第一炉丹丸"
+        },
+        {
+          "stage": "七月份",
+          "event": "炼出五枚丹丸"
+        },
+        {
+          "stage": "十日后",
+          "event": "赴朱凤宴席"
+        }
+      ],
+      "evidence": [
+        "张御这一回在玉素道人这里也书了解到",
+        "张御从曜光道宫出来后，却没有再寻去晁焕处",
+        "待回到守正宫后，他就让明周道人把丹药祭炼的秘典都是送来"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [],
+      "identity": "古法派炼丹修士",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "掌握古法派炼丹术的一脉，向张御介绍古法派和今法派的区别。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "炼丹"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被请教"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "张御这一回在玉素道人这里也书了解到",
+        "玉素道人也就只祭炼出了三枚丹丸"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "晁焕",
+      "aliases": [],
+      "identity": "今法派修士",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "自诩今法派，但也会古法派手段。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "古法派炼丹"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "晁焕便是自诩今法派，可实际上他也是会古法派的手段"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "朱凤",
+      "aliases": [
+        "朱玄尊"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "张御的故旧，开辟道场后邀请张御赴宴，曾告知张御关于毕明之事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "故旧"
+        },
+        {
+          "target": "毕明",
+          "type": "曾同行"
+        },
+        {
+          "target": "元童",
+          "type": "曾同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十天之后",
+          "event": "宴请张御"
+        }
+      ],
+      "evidence": [
+        "朱凤已然将自身道场开辟完成，故是邀他与几位故旧一同前往做客",
+        "朱凤言及此事后，他又特意去翻了一些记述"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "毕明",
+      "aliases": [],
+      "identity": "玄尊",
+      "faction": "未知",
+      "status": "失踪",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "一位玄尊，曾与元童、朱凤离开正清驻地，两年后彻底消失。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱凤",
+          "type": "曾同行"
+        },
+        {
+          "target": "元童",
+          "type": "曾同行"
+        },
+        {
+          "target": "陆巢",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两年前",
+          "event": "与元童、朱凤离开正清驻地"
+        },
+        {
+          "stage": "两年后",
+          "event": "彻底消失"
+        }
+      ],
+      "evidence": [
+        "毕明自与元童、朱凤二人离开正清驻地之后，其实还显露过一些行迹，但在此两年之后，此人便就彻底消失了"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "陆巢",
+      "aliases": [],
+      "identity": "毕明弟子",
+      "faction": "未知",
+      "status": "疑似战死",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "毕明早年收的弟子，后来转修浑章，百多年前疑似战死在外层。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "毕明",
+          "type": "师父"
+        },
+        {
+          "target": "何礼",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "百多年前",
+          "event": "疑似战死在外层"
+        }
+      ],
+      "evidence": [
+        "毕明道友早年曾收过一个弟子名叫陆巢",
+        "这人早在百多年前就疑似战死在了外层了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "何礼",
+      "aliases": [],
+      "identity": "陆巢弟子",
+      "faction": "天夏",
+      "status": "在世",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "陆巢的弟子，至今还在，在伊洛上洲修道。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陆巢",
+          "type": "师父"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "陆巢有两个弟子，其中一个同样在外层失踪，而另一个至今还在，其人名唤何礼，如今正在伊洛上洲修道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "金郅行",
+      "aliases": [],
+      "identity": "浑章玄尊",
+      "faction": "幽城",
+      "status": "登场",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "幽城中的浑章玄尊，得到一枚残印，试图寻找内层裂隙。",
+      "appearance": [],
+      "personality": [
+        "忧心"
+      ],
+      "abilities": [
+        "运用目印残印"
+      ],
+      "equipment": [
+        "目印残印"
+      ],
+      "relationships": [
+        {
+          "target": "显定道人",
+          "type": "上级"
+        },
+        {
+          "target": "甘柏",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在幽城中凝望内层，寻找裂隙"
+        }
+      ],
+      "evidence": [
+        "金郅行此刻凝望着被天夏所占据的内层",
+        "自从得到这一枚章印后，他就在揣摩此中的运用之法"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "显定道人",
+      "aliases": [],
+      "identity": "幽城首领",
+      "faction": "幽城",
+      "status": "提及",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "幽城中的首领，金郅行的上级。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "下属"
+        },
+        {
+          "target": "甘柏",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "显定那里我上次虽是应付了过去",
+        "显定除了他没人可以依靠"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "甘柏",
+      "aliases": [],
+      "identity": "浑章玄尊",
+      "faction": "幽城",
+      "status": "提及",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "幽城新来的浑章玄尊，可能替代金郅行。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "显定道人",
+          "type": "下属"
+        },
+        {
+          "target": "金郅行",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "幽城之中多了一个甘柏"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "元童",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第一百零五章 入世皆有痕",
+      "summary": "曾与毕明、朱凤同行。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "毕明",
+          "type": "曾同行"
+        },
+        {
+          "target": "朱凤",
+          "type": "曾同行"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "毕明自与元童、朱凤二人离开正清驻地"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "chunk_id": "chunk-0635",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "拥有始祖印记的强者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，身负纱缦印记，前往地底寻找暗夜母树解决印记问题。",
+      "appearance": [
+        "全身泛着浓郁的红光，红光中隐约有火红小鱼游弋"
+      ],
+      "personality": [
+        "冷静",
+        "果断",
+        "直接"
+      ],
+      "abilities": [
+        "红光护体",
+        "与暗夜母树交易"
+      ],
+      "equipment": [
+        "空间镜",
+        "黑红卷轴"
+      ],
+      "relationships": [
+        {
+          "target": "暗夜母树",
+          "type": "交易对象"
+        },
+        {
+          "target": "魔物",
+          "type": "随从"
+        },
+        {
+          "target": "兰蒂斯",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与暗夜母树交易，暂时缓解印记，得知需要寻找丝分蕾拉守护者。"
+        }
+      ],
+      "evidence": [
+        "安格列面色平静地坐在凸出的白树杈上，全身泛着浓郁的红光",
+        "安格列直接坦白问出这次的目的",
+        "安格列知道她在担心什么，也不点破"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "暗夜母树",
+      "aliases": [],
+      "identity": "地底世界的古老存在，博学的母树",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "地底世界的巨大树木，拥有智慧和知识，与安格列交易缓解其印记。",
+      "appearance": [
+        "通体白色，仿佛白色石料雕刻的雕塑，树身上有巨大人脸"
+      ],
+      "personality": [
+        "谨慎",
+        "精明"
+      ],
+      "abilities": [
+        "控制绿色液体",
+        "识别印记",
+        "缓解印记"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列交易，为其缓解纱缦印记。"
+        }
+      ],
+      "evidence": [
+        "巨树高达数十米，通体白色，仿佛白色石料雕刻而成的雕塑。树身上有着一张巨大人脸",
+        "暗夜母树沉默了会儿",
+        "暗夜母树也不多说，分出一股绿色液体将东西包住"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "魔物",
+      "aliases": [],
+      "identity": "安格列的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "跟随安格列的魔物，负责开路和拍马屁。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "谄媚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随安格列进入地底，后一同返回。"
+        }
+      ],
+      "evidence": [
+        "魔物从白色大树上跳下来，恭敬道",
+        "魔物赶紧送上一记马屁"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "兰蒂斯",
+      "aliases": [],
+      "identity": "暗夜精灵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与安格列同行的暗夜精灵，后趁机逃离。",
+      "appearance": [],
+      "personality": [
+        "紧张",
+        "警惕"
+      ],
+      "abilities": [
+        "瞬间移动"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列一同从地底出口出现，后逃离。"
+        }
+      ],
+      "evidence": [
+        "兰蒂斯站在一边紧张地盯着安格列",
+        "兰蒂斯身形一闪，瞬间消失在原地"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "极夜之主",
+      "aliases": [
+        "纱缦"
+      ],
+      "identity": "远古始祖",
+      "faction": "极夜世界",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "远古始祖，创立极夜世界，曾对抗光之祖，重伤后不知所踪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "创立极夜世界",
+        "施加纱缦印记"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "印记施加者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "远古",
+          "event": "盘踞巫师世界边缘，创立极夜世界，后重伤失踪。"
+        }
+      ],
+      "evidence": [
+        "极夜之主，远古时期盘踞在巫师世界边缘的始祖之一",
+        "纱缦印记与其说是惩罚，不如说是一种世界守护者的强制征召"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "丝分蕾拉守护者",
+      "aliases": [],
+      "identity": "守护者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "擅长解除印记的守护者，安格列需要寻找她彻底解决印记。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "解除印记"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "去找丝分蕾拉守护者，她对于这类印记的接触非常熟练"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

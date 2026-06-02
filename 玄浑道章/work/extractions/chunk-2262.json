@@ -1,0 +1,403 @@
+{
+  "chunk_id": "chunk-2262",
+  "characters": [
+    {
+      "name": "息道人",
+      "aliases": [
+        "息折",
+        "宗长",
+        "息宗长"
+      ],
+      "identity": "离占世道宗长",
+      "faction": "离占世道",
+      "status": "已投天夏",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "离占世道宗长，与上境大能为至交，主动联系天夏并率世道投降。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "有远见",
+        "信赖下属"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "上境大能",
+          "type": "至交好友"
+        },
+        {
+          "target": "风廷执",
+          "type": "通过魔神传讯"
+        },
+        {
+          "target": "林廷执",
+          "type": "投降后接洽"
+        },
+        {
+          "target": "武廷执",
+          "type": "投降后接洽"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "投降前",
+          "event": "通过魔神向天夏传递消息，表达合作意愿。"
+        },
+        {
+          "stage": "投降时",
+          "event": "率离占世道上下投靠天夏。"
+        },
+        {
+          "stage": "投降后",
+          "event": "主动提出替天夏劝降其他世道。"
+        }
+      ],
+      "evidence": [
+        "息道人道：“稍候天夏当会来攻，我自会率领各位做该做之事。”",
+        "息折见过两位，离占世道上下愿投天夏。",
+        "息某愿意将功补过，息某自认为与诸世道的宗长都有几分交情，愿意替天夏劝降。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "风廷执",
+      "aliases": [
+        "风廷执"
+      ],
+      "identity": "玄廷执事，玄修",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "天夏玄廷执事，负责总摄魔神相关事务，通过魔神与息道人沟通。",
+      "appearance": [],
+      "personality": [
+        "认真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "息道人",
+          "type": "通过魔神传讯"
+        },
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "收到消息",
+          "event": "从魔神处得知离占世道宗长主动传讯。"
+        },
+        {
+          "stage": "商议",
+          "event": "与陈首执等讨论后，决定发劝降书。"
+        }
+      ],
+      "evidence": [
+        "风廷执心中忽然有所感应，这是魔神自训天道章那里传来一些值得关注的消息。",
+        "风廷执，你通过魔神，将我等可以接应消息传回去，须用劝降语气。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陈首执",
+      "aliases": [
+        "陈首执"
+      ],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "天夏首执，决策层核心，决定对离占世道采取劝降策略。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风廷执",
+          "type": "下属"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "商议",
+          "event": "与诸廷执讨论后，决定发劝降书。"
+        }
+      ],
+      "evidence": [
+        "陈首执沉声道：“风廷执，你通过魔神，将我等可以接应消息传回去，须用劝降语气。”",
+        "陈首执颔首道：“也如此。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "林廷执",
+      "aliases": [
+        "林廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "天夏廷执，参与对离占世道的决策，后与武廷执一同迎接息道人投降。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "息道人",
+          "type": "接洽"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "商议",
+          "event": "建议对离占世道采取行动。"
+        },
+        {
+          "stage": "投降时",
+          "event": "与武廷执一同迎接息道人。"
+        }
+      ],
+      "evidence": [
+        "林廷执道：“首执，我们可以对此世道动一动了。”",
+        "林廷执此刻道：“此无关系，息宗长此番能来投我天夏，在我等看来，却是胜过一件宝器。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "武廷执",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "天夏廷执，与林廷执一同迎接息道人投降，并商议下一步攻占目标。",
+      "appearance": [],
+      "personality": [
+        "沉声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "息道人",
+          "type": "接洽"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "投降时",
+          "event": "与林廷执一同迎接息道人。"
+        },
+        {
+          "stage": "投降后",
+          "event": "告知息道人下一个攻占目标为涵周或莱原世道。"
+        }
+      ],
+      "evidence": [
+        "武廷执沉声道：“涵周、亦或莱原世道。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [
+        "韦廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "天夏廷执，在讨论中提出息道人可能因元夏监察而无法直接联络。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "商议",
+          "event": "分析息道人传讯的意图。"
+        }
+      ],
+      "evidence": [
+        "韦廷执道：“首执，这位应当是希望与天夏合作，但又不方便明言。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张御"
+      ],
+      "identity": "上境大能",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "成就上境后，将魔神相关事务交给玄廷处理。",
+      "appearance": [],
+      "personality": [
+        "考虑长远"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "布设魔神相关事务。"
+        }
+      ],
+      "evidence": [
+        "张御在成就上境之后，因为不好直接干涉下层之事，他也是将有关魔神的那一部分交给了玄廷。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "裘道人",
+      "aliases": [
+        "裘道人"
+      ],
+      "identity": "上境大能",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "息道人的至交好友，上境大能，若天夏胜利可复活息道人等人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "息道人",
+          "type": "至交好友"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他有一个至交好友是上境大能，只要这位大能愿意施援，大能所站的那一边能够赢下此战，那么一切都不是问题。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "荀季",
+      "aliases": [
+        "荀季"
+      ],
+      "identity": "覆象道人弟子",
+      "faction": "涵周世道",
+      "status": "提及",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "借助元都玄图进驻涵周世道的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "此世道就是荀季借助元都玄图进驻之所在，由覆象道人所立。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "覆象道人",
+      "aliases": [
+        "覆象道人"
+      ],
+      "identity": "涵周世道创立者",
+      "faction": "涵周世道",
+      "status": "提及",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "涵周世道的创立者，其弟子支撑该世道。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "此世道就是荀季借助元都玄图进驻之所在，由覆象道人所立。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "裘颂",
+      "aliases": [
+        "裘颂"
+      ],
+      "identity": "世道宗长",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "世道宗长，未主动提出劝降。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "裘颂、慕倦安这等人虽也是宗长，可都没有主动提出此事。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "慕倦安",
+      "aliases": [
+        "慕倦安"
+      ],
+      "identity": "世道宗长",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第两百六十二章 神传已知意",
+      "summary": "世道宗长，未主动提出劝降。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "裘颂、慕倦安这等人虽也是宗长，可都没有主动提出此事。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

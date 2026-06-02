@@ -1,0 +1,256 @@
+{
+  "chunk_id": "chunk-0094",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "冒险者，敢死队成员",
+      "faction": "葛家堡一方",
+      "status": "登场",
+      "first_appearance": "第九十四章 枪",
+      "summary": "主角，拥有龙煞分身和赤金佛身，参与烧毁吕阀攻城器具的行动。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "龙煞分身",
+        "赤金佛身",
+        "刀术"
+      ],
+      "equipment": [
+        "荧惑大刀",
+        "五杆小旗"
+      ],
+      "relationships": [
+        {
+          "target": "洪小四",
+          "type": "同伴"
+        },
+        {
+          "target": "薛白练",
+          "type": "同伴"
+        },
+        {
+          "target": "董成",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与洪小四、薛白练潜入吕阀军阵，烧毁攻城器具后试图撤离，遭遇双枪将董成。"
+        }
+      ],
+      "evidence": [
+        "戚笼眼中煞光一闪，‘昼眼’忽然跳出眼眶",
+        "戚笼的赤金佛身有种种神妙",
+        "戚笼也吐了口气，道：‘你还有一口枪呢？’"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "洪小四",
+      "aliases": [],
+      "identity": "关外军将世家子弟",
+      "faction": "葛家堡一方",
+      "status": "登场",
+      "first_appearance": "第九十四章 枪",
+      "summary": "戚笼的同伴，熟悉军阵和法阵，负责带路。",
+      "appearance": [],
+      "personality": [
+        "经验丰富"
+      ],
+      "abilities": [
+        "避毒手段",
+        "阵势知识"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        },
+        {
+          "target": "薛白练",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领戚笼和薛白练在军阵中寻找出路。"
+        }
+      ],
+      "evidence": [
+        "洪小四说过，屠城之后，赶尸道人会把气血旺盛者炼成尸兵",
+        "武平军府常年对抗陈国五大阀，洪小四经验十足",
+        "虽然洪小四带着二人到处乱转，有时候还绕回了原路"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "薛白练",
+      "aliases": [
+        "薛白"
+      ],
+      "identity": "内家拳武者",
+      "faction": "葛家堡一方",
+      "status": "登场",
+      "first_appearance": "第九十四章 枪",
+      "summary": "戚笼的同伴，内家拳高手，能闭气避毒。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "内家拳童子功",
+        "闭气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        },
+        {
+          "target": "洪小四",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼、洪小四一起行动，发现活人气息。"
+        }
+      ],
+      "evidence": [
+        "薛白练的内家拳童子功，可以在短时间内闭气",
+        "薛白忽然抬头，鼻子嗅了嗅，诧异道：‘活人的气息。’"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "董成",
+      "aliases": [
+        "白面骑将",
+        "白面小将",
+        "双枪将"
+      ],
+      "identity": "吕阀十将之一",
+      "faction": "吕阀",
+      "status": "登场",
+      "first_appearance": "第九十四章 枪",
+      "summary": "吕阀将领，擅长枪术，拥有武状元枪法，骑乘神血马。",
+      "appearance": [
+        "白面",
+        "骑小母驹"
+      ],
+      "personality": [
+        "自信",
+        "不屑偷袭"
+      ],
+      "abilities": [
+        "武状元枪",
+        "双枪术",
+        "十马之力"
+      ],
+      "equipment": [
+        "马上枪（纯钢制）",
+        "龙胆亮银枪",
+        "神血马"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "葛大胡子",
+          "type": "敌对（击败）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在吕阀军阵中与戚笼相遇，认出对方。"
+        }
+      ],
+      "evidence": [
+        "白面骑将骑着那只小母驹，缓缓出现在了三人眼前",
+        "吕阀十将，双枪将，董成！",
+        "对方出枪，用时轻描淡写，刺出来却有十马之力"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "葛大胡子",
+      "aliases": [
+        "大胡子武将",
+        "车轮将军"
+      ],
+      "identity": "葛家堡武将",
+      "faction": "葛家堡",
+      "status": "登场",
+      "first_appearance": "第九十四章 枪",
+      "summary": "葛家堡的宿将，擅长双刀，被董成一枪击败。",
+      "appearance": [
+        "大胡子"
+      ],
+      "personality": [
+        "勇猛"
+      ],
+      "abilities": [
+        "车轮烈火斩"
+      ],
+      "equipment": [
+        "两口大刀"
+      ],
+      "relationships": [
+        {
+          "target": "董成",
+          "type": "敌对（被击败）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领敢死队烧毁攻城器具，被董成击败。"
+        }
+      ],
+      "evidence": [
+        "大胡子武将低吼一声，敢死队准备已久的燃具四面乱丢",
+        "葛大胡子也是宿将，知道这时候只能进不能退",
+        "大胡子虎口直接崩裂，一股猛力直接把自己挑飞当场"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "赶尸道人",
+      "aliases": [],
+      "identity": "赶尸道人",
+      "faction": "吕阀",
+      "status": "提及",
+      "first_appearance": "第九十四章 枪",
+      "summary": "吕阀的赶尸道人，操控尸兵和飞尸，但未直接现身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "赶尸术",
+        "操控飞尸"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "操控尸兵和飞尸与戚笼的龙煞分身交战。"
+        }
+      ],
+      "evidence": [
+        "可惜昼眼目光乱扫，并没有找到赶尸道人的踪影",
+        "赶尸道人果真有些门道"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

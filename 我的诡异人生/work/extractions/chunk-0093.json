@@ -1,0 +1,328 @@
+{
+  "chunk_id": "chunk-0093",
+  "characters": [
+    {
+      "name": "黄道士",
+      "aliases": [
+        "黄道长"
+      ],
+      "identity": "道士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第92章 链条",
+      "summary": "一位老道士，带着徒弟谢云清，在龙山集协助村民应对诡异事件。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "有经验"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与村长等人商议失踪事件，尝试联系外界未果。"
+        }
+      ],
+      "evidence": [
+        "黄道士内心咯噔一声",
+        "黄道士点了点头",
+        "黄道士闻言沉默了一下"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "谢云清",
+      "aliases": [],
+      "identity": "黄道士的徒弟",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第92章 链条",
+      "summary": "黄道士的徒弟，负责与外界联系。",
+      "appearance": [],
+      "personality": [
+        "担忧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黄道士",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "尝试联系对策组和苏午，但电话未打通。"
+        }
+      ],
+      "evidence": [
+        "谢云清在一旁忍不住道",
+        "谢云清点了点头，眼中忧色更浓"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "魏和",
+      "aliases": [
+        "村长"
+      ],
+      "identity": "龙山集村长",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第92章 链条",
+      "summary": "龙山集的村长，矮胖老头，组织村民应对危机。",
+      "appearance": [
+        "矮胖"
+      ],
+      "personality": [
+        "果断",
+        "有领导力"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议将村民聚集起来集中照管。"
+        }
+      ],
+      "evidence": [
+        "村长魏和脸色凝重",
+        "村长魏和直接道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "李会计",
+      "aliases": [
+        "会计"
+      ],
+      "identity": "龙山集会计",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第92章 链条",
+      "summary": "村里的会计，协助村长处理事务。",
+      "appearance": [],
+      "personality": [
+        "沉稳"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "小虎",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "汇报失踪情况，儿子小虎也失踪了。"
+        }
+      ],
+      "evidence": [
+        "村里的会计沉声道",
+        "李会计眉宇间忧色极重"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "朱老太",
+      "aliases": [
+        "朱老太婆"
+      ],
+      "identity": "村民",
+      "faction": "",
+      "status": "失踪",
+      "first_appearance": "第92章 链条",
+      "summary": "最先失踪的村民，去五郎庙上香后未归。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周瘸子",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在五郎庙上香后失踪。"
+        }
+      ],
+      "evidence": [
+        "朱老太婆和其他几个老太婆去村口的五郎庙里上香。其他几个人都回来了。她没回来，不见了。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "周瘸子",
+      "aliases": [
+        "周叔"
+      ],
+      "identity": "村民，朱老太的儿子",
+      "faction": "",
+      "status": "失踪",
+      "first_appearance": "第92章 链条",
+      "summary": "左脚畸形的拾荒者，朱老太的儿子，在寻找母亲时失踪。",
+      "appearance": [
+        "左脚畸形",
+        "背着编织袋"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "编织袋"
+      ],
+      "relationships": [
+        {
+          "target": "朱老太",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在竹林边看到泥胎塑像后，走下矮坡时消失。"
+        }
+      ],
+      "evidence": [
+        "一只脚不正常地向内崴着的男人背着个编织袋",
+        "周瘸子失踪了"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "小虎",
+      "aliases": [],
+      "identity": "李会计的儿子",
+      "faction": "",
+      "status": "失踪",
+      "first_appearance": "第92章 链条",
+      "summary": "李会计的儿子，负责通知村民集合，在途中失踪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李会计",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通知周瘸子后，在跑向下一家时消失。"
+        }
+      ],
+      "evidence": [
+        "小虎跑出小路，奔上水泥路...跑出没多远，就无声无息地消失无踪。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "盼盼",
+      "aliases": [],
+      "identity": "村民的女儿",
+      "faction": "",
+      "status": "失踪",
+      "first_appearance": "第92章 链条",
+      "summary": "一个女孩，在广场上捡到泥胎塑像后与母亲一同消失。",
+      "appearance": [],
+      "personality": [
+        "天真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "盼盼的母亲",
+          "type": "母女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在广场东北角捡到泥胎塑像，随后与母亲一同消失。"
+        }
+      ],
+      "evidence": [
+        "女儿将‘玩偶’抱到小毯子上",
+        "两人的身影都渐渐变淡。无声无息地消失了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "盼盼的母亲",
+      "aliases": [
+        "妇人"
+      ],
+      "identity": "村民",
+      "faction": "",
+      "status": "失踪",
+      "first_appearance": "第92章 链条",
+      "summary": "盼盼的母亲，因女儿捡回泥胎塑像而一同消失。",
+      "appearance": [
+        "三十多岁"
+      ],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "盼盼",
+          "type": "母女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将泥胎塑像丢到草丛后，与女儿一同消失。"
+        }
+      ],
+      "evidence": [
+        "一个三十多岁的妇人把地面打扫干净",
+        "她与‘盼盼’说着话，两人的身影都渐渐变淡。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "对策组人员",
+      "faction": "对策组",
+      "status": "提及",
+      "first_appearance": "第92章 链条",
+      "summary": "上面派来的对策组成员，但电话无法接通。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "谢云清尝试联系苏午，但电话未打通。"
+        }
+      ],
+      "evidence": [
+        "和上面专门派过来的对策组、苏午都又打了电话，但是电话都没有打通。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

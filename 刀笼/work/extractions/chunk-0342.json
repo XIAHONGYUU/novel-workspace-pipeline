@@ -1,0 +1,330 @@
+{
+  "chunk_id": "chunk-0342",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "大武行体系修行者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与重明儿对话，了解照灯笼的极端倾向，并达成初步合作。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于权衡"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "重明儿",
+          "type": "合作者"
+        },
+        {
+          "target": "照灯笼",
+          "type": "潜在对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与重明儿交谈，得知照灯笼可能走上极端，并同意合作。"
+        }
+      ],
+      "evidence": [
+        "戚笼咧了咧嘴，如果是这样的话，便就意味着他和照灯笼，会在未来的某一日站在对立面上。",
+        "戚笼思索一二，也点了点头，道：“可以。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "重明儿",
+      "aliases": [],
+      "identity": "姑姑的侄女，与戚笼合作",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "向戚笼透露照灯笼的极端倾向和龙脉真相，提出合作。",
+      "appearance": [],
+      "personality": [
+        "柔弱外表下煞气腾腾",
+        "狡黠"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        },
+        {
+          "target": "照灯笼",
+          "type": "怀疑对象"
+        },
+        {
+          "target": "姑姑",
+          "type": "亲属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼交谈，透露照灯笼的极端倾向和龙脉陷阱。"
+        }
+      ],
+      "evidence": [
+        "重明儿一反柔弱姿态，变的煞气腾腾，“一旦他炼化，便只能成为我们的傀儡。”",
+        "重明儿突然嘻嘻一笑，眼神中闪过一丝狡黠，“我需要跟封神榜之主做交易。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "照灯笼",
+      "aliases": [
+        "大先生"
+      ],
+      "identity": "照家后人，可能继承照敦煌人皇传承",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被怀疑走上极端，试图砸断修行路，实现‘众生平等’。",
+      "appearance": [],
+      "personality": [
+        "极端"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "潜在对立"
+        },
+        {
+          "target": "重明儿",
+          "type": "被怀疑"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及可能因阴人道影响而癫狂。"
+        }
+      ],
+      "evidence": [
+        "他居然派人刺杀我，所以我怀疑，他跟当年的照敦煌一样，已经走上了某种极端。",
+        "最纯粹的绝地天通，一切妖魔鬼怪、精魅魍魉都要诛杀，乃至于武道，最后都将不存。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "大杀僧",
+      "aliases": [],
+      "identity": "佛门僧人，从小千世界走出",
+      "faction": "佛门",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "离开钟吾古地后力量衰退，被外魔围攻，最终以杀生念重铸佛躯。",
+      "appearance": [
+        "雄厚的金身缓缓开裂、崩解"
+      ],
+      "personality": [
+        "坚定"
+      ],
+      "abilities": [
+        "一苇渡江",
+        "杀生念"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大师兄",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "离开钟吾古地，力量衰退，被外魔围攻，后得大师兄相助以杀生念重铸佛躯。"
+        }
+      ],
+      "evidence": [
+        "大杀僧沉默了片刻，直接施展一苇渡江的身法，步入往海洋深处。",
+        "杀生念重新凝出大杀僧的影像，微微一笑，轻轻颔首，“大师兄，好久不见了。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "大师兄",
+      "aliases": [],
+      "identity": "大杀僧的师兄，魔神般的存在",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "以红莲法台消灭外魔，帮助大杀僧重铸佛躯。",
+      "appearance": [
+        "一尊比起一众外魔还要庞大的魔神幻影"
+      ],
+      "personality": [],
+      "abilities": [
+        "无上魔气"
+      ],
+      "equipment": [
+        "红莲法台"
+      ],
+      "relationships": [
+        {
+          "target": "大杀僧",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现并帮助大杀僧以杀生念重铸佛躯。"
+        }
+      ],
+      "evidence": [
+        "天空忽然变成了红色，一座红莲法台落下，光芒照射之处，一切外魔全被吸收一空。",
+        "一尊比起一众外魔还要庞大的魔神幻影出现在了虚空之中。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "邪龙皇",
+      "aliases": [
+        "龙皇陛下"
+      ],
+      "identity": "龙庭之主，替代天星主",
+      "faction": "龙庭",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与血麒麟一同寻找道真天师，试图说服其加入龙庭。",
+      "appearance": [],
+      "personality": [
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "血麒麟",
+          "type": "同伴"
+        },
+        {
+          "target": "道真天师",
+          "type": "试图说服"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与血麒麟找到被封印的道真天师，试图说服其加入。"
+        }
+      ],
+      "evidence": [
+        "邪龙皇不答，只是一道恐怖的龙影从脚下探出，钻入地底。",
+        "邪龙皇鲜红的唇口咧开，“您是否可以考虑一下？”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "血麒麟",
+      "aliases": [],
+      "identity": "邪龙皇的同伴",
+      "faction": "龙庭",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与邪龙皇一同行动，对邪龙皇的策略提出质疑。",
+      "appearance": [],
+      "personality": [
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邪龙皇",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与邪龙皇找到道真天师，并质疑其放出亡国七灾的策略。"
+        }
+      ],
+      "evidence": [
+        "血麒麟拔起地上一根杂草，塞入嘴里，感受着其中的金属锈味。",
+        "血麒麟意味深长的道：“您怎么知道，现在一些狠角色，一旦成长起来，就不如过去的七灾呢。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "道真天师",
+      "aliases": [],
+      "identity": "旧朝神官，被封印的真神",
+      "faction": "旧朝",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被封印在钢铁之城中，拒绝邪龙皇的邀请。",
+      "appearance": [],
+      "personality": [
+        "固执"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邪龙皇",
+          "type": "被邀请"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被邪龙皇找到并邀请，但拒绝。"
+        }
+      ],
+      "evidence": [
+        "不管你们龙庭背后是哪一位，我道真是旧朝的神官，新朝廷的法度，可指使不了老夫。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "老祖宗",
+      "aliases": [],
+      "identity": "戚笼的长辈",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被戚笼夹在肋下，吃糖炒栗子，调侃重明儿。",
+      "appearance": [],
+      "personality": [
+        "幽默"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "祖孙"
+        },
+        {
+          "target": "重明儿",
+          "type": "被调侃为孙媳妇"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼同行，调侃重明儿。"
+        }
+      ],
+      "evidence": [
+        "老祖宗被戚笼夹在肋下，一边往嘴里塞着糖炒栗子，一边还含糊不清道：“乖孙媳妇真是个好人。”"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

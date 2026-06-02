@@ -1,0 +1,347 @@
+{
+  "chunk_id": "chunk-0500",
+  "characters": [
+    {
+      "name": "傅庸",
+      "aliases": [
+        "傅庸"
+      ],
+      "identity": "傅氏军首领",
+      "faction": "傅氏军",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "傅氏军的首领，谨慎多谋，试图通过培养自家修士来稳固势力。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "多谋",
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "傅错",
+          "type": "父子"
+        },
+        {
+          "target": "左玄修",
+          "type": "倚仗"
+        },
+        {
+          "target": "张御",
+          "type": "拜访"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与儿子傅错讨论对张玄修的看法，并计划培养自家修士。"
+        }
+      ],
+      "evidence": [
+        "傅庸淡声道：“你看不出来么，我非是真请，只是与他照个面，打个招呼罢了。”",
+        "傅庸道：“修士许多都是小心眼之人，而且记性偏偏挺好，你今日不来，他或许就以为你瞧不起他，日后寻到机会，不定会找我们的麻烦。”",
+        "傅庸道：“左玄修是左玄修，我们是我们，若是真与一位同辈修士起冲突，你看着吧，他未必会为我出头。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "傅错",
+      "aliases": [
+        "错儿"
+      ],
+      "identity": "傅庸之子",
+      "faction": "傅氏军",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "傅庸的儿子，对父亲的做法有些不以为然，但缺乏远见。",
+      "appearance": [],
+      "personality": [
+        "自负",
+        "缺乏远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "傅庸",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与父亲讨论张玄修，并质疑父亲的谨慎。"
+        }
+      ],
+      "evidence": [
+        "傅错道：“这位张玄修看着颇为不凡，但是我辈看中的是实力，再说，我们军中已有左玄修了，功行修为都比这位强出不知多少，恕儿子愚钝，阿父为什么要来请这一位呢？”",
+        "傅错昂然道：“我们傅氏军有左玄修坐镇，怕个什么？”",
+        "傅错却是不以为然，道：“阿父，你是不是想太多了？”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄修",
+        "先生"
+      ],
+      "identity": "玄修（中位修士）",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "一位中位修士，奉玄廷之命监察奎宿，并寻找突破上境的机缘。接受了卫灵英的延请，成为卫氏军的坐镇修士。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "自主",
+        "有主见"
+      ],
+      "abilities": [
+        "玄浑蝉观想图"
+      ],
+      "equipment": [
+        "蝉鸣剑",
+        "惊霄剑"
+      ],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "延请与被延请"
+        },
+        {
+          "target": "傅庸",
+          "type": "被拜访"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        },
+        {
+          "target": "青曙",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受卫灵英的延请，准备前往卫氏军驻地定契立约。"
+        }
+      ],
+      "evidence": [
+        "张御道：“你去卫氏驻地走一趟，寻到昨天来的两位淑女，告诉她们，我答应她们的延请了，明日我会为他们驻地一行，定契立约。”",
+        "张御看着外面洒进来的阳光，他定下接受卫灵英等人延揽，是因为后卫氏军中没有其他修士，而且相对势弱，他可以拥有极大的自主权。",
+        "他此回到外层，除了尊奉玄廷之命监察奎宿之外，最重要的，就是要寻找突破上境的机缘。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "卫灵英",
+      "aliases": [
+        "卫灵英"
+      ],
+      "identity": "卫氏军首领",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "卫氏军的首领，在卫氏军主力溃散后勉强支撑，成功延请张御坐镇。",
+      "appearance": [],
+      "personality": [
+        "坚韧",
+        "有决断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "延请"
+        },
+        {
+          "target": "靳小柏",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "成功延请张御，并带众人迎接。"
+        }
+      ],
+      "evidence": [
+        "卫灵英昨日拜访过张御，心里一直患得患失，没想到才隔一天听说了张御答应延请之事，她起初还不敢相信，反复确认之后，止不住的喜悦从心里涌出，如今一早就带着众人等在外面，翘首相盼。",
+        "在契书定下之后，卫灵英一众军中伍首总算放下心来，在送走军务署的查事官后，她立刻把卫氏军中如今所有人都是喊过来拜见张御。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "李青禾",
+      "aliases": [
+        "青禾"
+      ],
+      "identity": "张御的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "张御的随从，负责处理事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "奉张御之命去卫氏驻地传话。"
+        }
+      ],
+      "evidence": [
+        "张御道：“青禾。”",
+        "李青禾走了过来，躬身道：“先生有何吩咐？”",
+        "张御道：“你去卫氏驻地走一趟，寻到昨天来的两位淑女，告诉她们，我答应她们的延请了，明日我会为他们驻地一行，定契立约。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "青曙",
+      "aliases": [
+        "青曙"
+      ],
+      "identity": "张御的随从，造物人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "张御的随从，是一名造物人，擅长剑法。",
+      "appearance": [
+        "下巴有金属条"
+      ],
+      "personality": [
+        "沉默寡言",
+        "坦然"
+      ],
+      "abilities": [
+        "剑法"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与卫氏军的楚关比试剑法。"
+        }
+      ],
+      "evidence": [
+        "青曙平静道：“是。”",
+        "在修持剑法的过程中，他逐渐领悟到剑士首先要坦然面对自身，而后才能做到从容挥剑，所以并不避讳自己原来的出身。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "楚关",
+      "aliases": [
+        "楚关"
+      ],
+      "identity": "卫氏军伍首",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "卫氏军的一名伍首，年轻好胜，向青曙挑战剑法。",
+      "appearance": [],
+      "personality": [
+        "好胜",
+        "年轻气盛"
+      ],
+      "abilities": [],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向青曙挑战剑法。"
+        }
+      ],
+      "evidence": [
+        "楚关的目光中洋溢对他的好奇，同时也有一股年轻人特有的不服输的劲头。",
+        "楚关在稍稍试探两步之后，就大喝一声，冲身进击，同时身上腾跃一道刺目光芒。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "靳小柏",
+      "aliases": [],
+      "identity": "卫灵英的同伴",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第五章 选择",
+      "summary": "与卫灵英一同迎接张御的淑女之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与卫灵英一同迎接张御。"
+        }
+      ],
+      "evidence": [
+        "卫灵英喜道：“张玄修来了！”便就和靳小柏一同带着众人迎了上来。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "左玄修",
+      "aliases": [
+        "左玄修"
+      ],
+      "identity": "傅氏军中的修士",
+      "faction": "傅氏军",
+      "status": "提及",
+      "first_appearance": "第五章 选择",
+      "summary": "傅氏军中的修士，功行修为比张御强，但傅庸认为他未必会为傅氏出头。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "傅庸",
+          "type": "被倚仗"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "傅错道：“这位张玄修看着颇为不凡，但是我辈看中的是实力，再说，我们军中已有左玄修了，功行修为都比这位强出不知多少”",
+        "傅庸摇头道：“左玄修是左玄修，我们是我们，若是真与一位同辈修士起冲突，你看着吧，他未必会为我出头。”"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

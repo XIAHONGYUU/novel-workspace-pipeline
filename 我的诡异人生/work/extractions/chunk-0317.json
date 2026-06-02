@@ -1,0 +1,237 @@
+{
+  "chunk_id": "chunk-0317",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "人皮纸持有者，模拟者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第316章 解析诡文",
+      "summary": "正在解析人皮纸上诡文和日记的主角。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "善于思考"
+      ],
+      "abilities": [],
+      "equipment": [
+        "人皮纸"
+      ],
+      "relationships": [
+        {
+          "target": "江莺莺",
+          "type": "相识"
+        },
+        {
+          "target": "青年男人",
+          "type": "可能是同一人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阅读人皮纸上的日记，推测自己可能是烙印掌纹的人。"
+        }
+      ],
+      "evidence": [
+        "苏午站起身，将人皮纸拿在手中",
+        "苏午猜测，先前出现的那篇较简短的日记，其实是人皮纸本有的某个‘意识’所书写",
+        "难道说，那个在人皮纸上烙印下掌纹的人，其实是自己？？"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "读书人",
+      "aliases": [
+        "日记主人",
+        "余"
+      ],
+      "identity": "妻子亡故的读书人/戏曲家/小说家",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第316章 解析诡文",
+      "summary": "日记作者，妻子亡故后立志研究厉诡化生之秘，游历各地，研究诡文。",
+      "appearance": [],
+      "personality": [
+        "执着",
+        "善于观察",
+        "敢于思考"
+      ],
+      "abilities": [
+        "腹蛊",
+        "研究诡文"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "草鬼婆",
+          "type": "侍奉"
+        },
+        {
+          "target": "昭道师",
+          "type": "相识"
+        },
+        {
+          "target": "少年道人",
+          "type": "赠予人皮纸"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "妻亡后",
+          "event": "前往湘西侍奉草鬼婆，学习腹蛊。"
+        },
+        {
+          "stage": "游历",
+          "event": "见证天王观道士以锦鸡将军制万目诡。"
+        },
+        {
+          "stage": "研究",
+          "event": "开始研究厉诡文字，得‘罸’字真意。"
+        }
+      ],
+      "evidence": [
+        "自妻亡故以后，余立志追究厉诡化生之秘",
+        "余曾前往湘西毒瘴之地，侍奉一位‘草鬼婆’至终老",
+        "余即开始研究此‘厉诡文字’"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "草鬼婆",
+      "aliases": [],
+      "identity": "湘西驭诡老妪",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第316章 解析诡文",
+      "summary": "湘西的驭诡者，传下腹蛊之法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "腹蛊"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "读书人",
+          "type": "传授腹蛊"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被读书人侍奉至终老，传授腹蛊。"
+        }
+      ],
+      "evidence": [
+        "她老人家传我‘腹蛊’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "昭道师",
+      "aliases": [
+        "天王观道士"
+      ],
+      "identity": "天王观道士",
+      "faction": "天王观",
+      "status": "提及",
+      "first_appearance": "第316章 解析诡文",
+      "summary": "天王观道士，以锦鸡将军制万目诡，性情温厚。",
+      "appearance": [],
+      "personality": [
+        "温厚"
+      ],
+      "abilities": [
+        "天王锁诡锤"
+      ],
+      "equipment": [
+        "锦鸡将军"
+      ],
+      "relationships": [
+        {
+          "target": "读书人",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "以锦鸡将军牵制万目诡，并告知读书人个中缘由。"
+        }
+      ],
+      "evidence": [
+        "那位道人性情温厚，见我对其怀中公鸡牵制厉诡的法子颇感兴趣",
+        "自称自身所学的驭诡之法，乃是天王观真传法门——‘天王锁诡锤’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "江莺莺",
+      "aliases": [],
+      "identity": "豢养公鸡‘应急罐头’的女子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第316章 解析诡文",
+      "summary": "苏午认识的人，豢养一只名为‘应急罐头’的大公鸡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "应急罐头"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "可能还在每日以药汤喂养‘应急罐头’。"
+        }
+      ],
+      "evidence": [
+        "江莺莺还在每日以药汤喂养‘应急罐头’么？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "少年道人",
+      "aliases": [],
+      "identity": "道观中得授五品符箓的少年",
+      "faction": "道观",
+      "status": "提及",
+      "first_appearance": "第316章 解析诡文",
+      "summary": "赠予读书人人皮纸的少年道人，慧心通明。",
+      "appearance": [],
+      "personality": [
+        "慧心通明",
+        "处事有度"
+      ],
+      "abilities": [
+        "五品符箓"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "读书人",
+          "type": "赠予人皮纸"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "将一张仿似皮革的纸送给了读书人。"
+        }
+      ],
+      "evidence": [
+        "有一少年人来寻我玩耍，将一张仿似皮革的纸送给了我",
+        "那道人虽是弱冠之年，但已经得授‘五品符箓’"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

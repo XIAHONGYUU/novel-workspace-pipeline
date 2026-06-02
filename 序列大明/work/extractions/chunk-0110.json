@@ -1,0 +1,247 @@
+{
+  "chunk_id": "chunk-0110",
+  "characters": [
+    {
+      "name": "钱海",
+      "aliases": [
+        "顾府总管",
+        "老人",
+        "老夫"
+      ],
+      "identity": "顾府总管",
+      "faction": "儒家",
+      "status": "登场",
+      "first_appearance": "第108章不止困境，更是死局",
+      "summary": "顾府总管，向李钧分析成都府局势，指出道门才是最强势力，并提议合作。",
+      "appearance": [],
+      "personality": [
+        "自信",
+        "戏谑",
+        "老谋深算"
+      ],
+      "abilities": [
+        "拥有玉扳指，可产生肉眼不可见的涟漪"
+      ],
+      "equipment": [
+        "玉扳指"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对话对象，提议合作"
+        },
+        {
+          "target": "顾家",
+          "type": "所属家族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧交谈，分析局势并提议合作。"
+        }
+      ],
+      "evidence": [
+        "钱海缓缓说道",
+        "钱海语出惊人",
+        "钱海闻言自信一笑"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "李部长"
+      ],
+      "identity": "蜀道物流部长",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "第108章不止困境，更是死局",
+      "summary": "蜀道物流部长，武八实力，正面临成都府的困境，被钱海点明处境。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "愤怒",
+        "警惕"
+      ],
+      "abilities": [
+        "武八序列"
+      ],
+      "equipment": [
+        "息蜓郎（类似玉扳指的功能）"
+      ],
+      "relationships": [
+        {
+          "target": "钱海",
+          "type": "对话对象，被分析局势"
+        },
+        {
+          "target": "余寇",
+          "type": "怀疑对方允许自己存在"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与钱海交谈，得知成都府道门最强，自己身处死局。"
+        }
+      ],
+      "evidence": [
+        "李钧确实也曾经思考过",
+        "李钧舔了舔干涩的嘴唇",
+        "李钧深吸了一口气"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "余寇",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "道门（推测）",
+      "status": "提及",
+      "first_appearance": "第108章不止困境，更是死局",
+      "summary": "被李钧怀疑是允许自己存在的人，可能与青城集团内部势力争斗有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "怀疑对象"
+        },
+        {
+          "target": "顾家",
+          "type": "可能敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧怀疑为允许他存在的人。"
+        }
+      ],
+      "evidence": [
+        "那个允许自己存在的人，恐怕就是余寇"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "吴锦丰",
+      "aliases": [],
+      "identity": "序八实力者",
+      "faction": "吴家（儒家）",
+      "status": "提及",
+      "first_appearance": "第108章不止困境，更是死局",
+      "summary": "吴家成员，序八实力，曾动手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "序八"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴家",
+          "type": "所属家族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾动手。"
+        }
+      ],
+      "evidence": [
+        "可动手的吴锦丰、石成峰、顾甲这些人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "石成峰",
+      "aliases": [],
+      "identity": "序八实力者",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第108章不止困境，更是死局",
+      "summary": "序八实力者，曾动手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "序八"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾动手。"
+        }
+      ],
+      "evidence": [
+        "可动手的吴锦丰、石成峰、顾甲这些人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "顾甲",
+      "aliases": [],
+      "identity": "序八实力者",
+      "faction": "顾家（儒家）",
+      "status": "提及",
+      "first_appearance": "第108章不止困境，更是死局",
+      "summary": "顾家成员，序八实力，曾动手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "序八"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾家",
+          "type": "所属家族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾动手。"
+        }
+      ],
+      "evidence": [
+        "可动手的吴锦丰、石成峰、顾甲这些人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "叁条",
+      "aliases": [],
+      "identity": "被李钧捅穿的人",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第108章不止困境，更是死局",
+      "summary": "被李钧捅穿的人，实力可能较强。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被其捅穿"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被李钧捅穿。"
+        }
+      ],
+      "evidence": [
+        "那个被自己捅穿的‘叁条’"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

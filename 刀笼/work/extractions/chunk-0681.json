@@ -1,0 +1,318 @@
+{
+  "chunk_id": "chunk-0681",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "夜昼国主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "夜昼国主，正在与不周对话，了解如来、波旬、夜行游女等秘辛，并计划对付朱太后。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "那口刀"
+      ],
+      "relationships": [
+        {
+          "target": "不周",
+          "type": "对话者"
+        },
+        {
+          "target": "那口刀",
+          "type": "持有"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与不周讨论如来、波旬、夜行游女等秘辛，得知自己的刀进入大千人道，并计划对付朱太后。"
+        }
+      ],
+      "evidence": [
+        "戚笼的第一反应是荒谬",
+        "戚笼也抽了抽嘴角",
+        "戚笼眯眼，盯着天空上的那具人形"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "不周",
+      "aliases": [
+        "本公子"
+      ],
+      "identity": "曾为如来掌管魔境，后成为柱子，现为戚笼的对话者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "曾为如来大人掌管魔境，后成为柱子，现在与戚笼对话，透露如来、波旬、夜行游女等秘辛。",
+      "appearance": [],
+      "personality": [
+        "笑眯眯",
+        "古怪",
+        "神神秘秘"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "如来",
+          "type": "曾为其掌管魔境"
+        },
+        {
+          "target": "戚笼",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向戚笼解释如来、波旬、夜行游女等秘辛，并告知戚笼的刀进入大千人道。"
+        }
+      ],
+      "evidence": [
+        "不周笑眯眯道",
+        "不周耸了耸肩",
+        "不周干咳一声，做出神神秘秘的姿态"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "如来",
+      "aliases": [
+        "如来魔帝",
+        "如来佛祖",
+        "如来大人"
+      ],
+      "identity": "佛门至强者，原为上古魔门魔帝，后化魔为佛",
+      "faction": "佛门（原魔门）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "原为上古魔门魔帝，后化魔为佛，成为佛门至强者，曾吸收五大魔祖，斩出化身，导尽魔气，但留下大破灭执念，后轰碎执念诞生波旬。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "化魔为佛",
+        "吸收五大魔祖",
+        "斩出化身",
+        "导尽魔气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "波旬",
+          "type": "由大破灭执念轰碎后诞生"
+        },
+        {
+          "target": "不周",
+          "type": "曾为其掌管魔境"
+        },
+        {
+          "target": "五大魔祖",
+          "type": "被其吸收"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "上古",
+          "event": "成为魔门有史以来最强大帝，吸收五大魔祖。"
+        },
+        {
+          "stage": "后来",
+          "event": "化魔为佛，斩出化身，导尽魔气，轰碎大破灭执念诞生波旬。"
+        }
+      ],
+      "evidence": [
+        "如来是后天魔帝",
+        "如来大人化魔为佛",
+        "如来大人终于找到了一个法子，将大破灭执念轰碎"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "波旬",
+      "aliases": [],
+      "identity": "由如来大破灭执念轰碎后诞生的存在，是大雷音寺的阴影、如来的魔念、古佛的一道执念分身",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "由如来大破灭执念轰碎后四散落入大雷音寺各处而诞生，在不同时期有不同面孔，未来可能成为弥勒佛或灭佛之魔。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "如来",
+          "type": "由如来大破灭执念轰碎后诞生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被不周提及与如来的关系。"
+        }
+      ],
+      "evidence": [
+        "波旬和如来到底什么关系",
+        "借此诞生的便是波旬",
+        "它是大雷音寺的阴影，又是如来的魔念"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "夜行游女",
+      "aliases": [],
+      "identity": "上古某个人族的图腾，某尊人皇的戾气所化",
+      "faction": "夜族",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "上古某尊姓照的人皇的戾气所化，记仇，欲调动所有‘上古人道投影’之力抹灭夜族的一切。",
+      "appearance": [],
+      "personality": [
+        "记仇",
+        "戾气重"
+      ],
+      "abilities": [
+        "调动上古人道投影之力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "照家人皇",
+          "type": "由其戾气所化"
+        },
+        {
+          "target": "夜族",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被不周提及将调动上古人道投影之力对付夜族。"
+        }
+      ],
+      "evidence": [
+        "为了对付那只夜行游女",
+        "夜行游女在上古是什么身份",
+        "上古某个人族的图腾，某尊人皇的戾气所化"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "诸葛侯",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾与戚笼说过业位之分。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "曾告知业位之分"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "跟戚笼说业位之分。"
+        }
+      ],
+      "evidence": [
+        "他又想到了之前诸葛侯跟他说的业位之分"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "虞老道",
+      "aliases": [],
+      "identity": "道祖",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "道祖，曾参与天帝之力的争夺。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被戚笼想起"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戚笼想起，不知是否安好。"
+        }
+      ],
+      "evidence": [
+        "居然让戚笼想到虞老道",
+        "那位道祖大人现在安好不"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "朱太后",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戚笼需要击败的目标。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被不周提及为戚笼需要击败的对象。"
+        }
+      ],
+      "evidence": [
+        "参悟出这一点，便是你击败朱太后的关键"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "夜真宗",
+      "aliases": [],
+      "identity": "此间龙脉",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "夜昼国的龙脉。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "夜行游女",
+          "type": "关系玄妙"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "夜真宗是此间龙脉"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

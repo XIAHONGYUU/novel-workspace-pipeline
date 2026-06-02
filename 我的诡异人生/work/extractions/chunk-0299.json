@@ -1,0 +1,380 @@
+{
+  "chunk_id": "chunk-0299",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "灶班子师父",
+      "faction": "阴喜脉",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灶班子师父，正在培养寻诡犬，为阴喜脉增加底蕴。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有计划"
+      ],
+      "abilities": [
+        "培养寻诡犬",
+        "熬制药汤"
+      ],
+      "equipment": [
+        "模拟器"
+      ],
+      "relationships": [
+        {
+          "target": "大彘",
+          "type": "主从"
+        },
+        {
+          "target": "旺财",
+          "type": "宠物"
+        },
+        {
+          "target": "方元",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在宅院中熬制药汤，询问大彘关于犬只的信息。"
+        }
+      ],
+      "evidence": [
+        "苏午自己的旺财还在外面和方元轮流驾驭白棺，与‘恶神’厉诡周旋",
+        "苏午侧身背对着大彘，从模拟器里兑换了一碗雄血汤、些许药材"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "大彘",
+      "aliases": [],
+      "identity": "孩童",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一个孩童，为苏午提供本地信息，认识王太爷。",
+      "appearance": [],
+      "personality": [
+        "活泼",
+        "热心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主从"
+        },
+        {
+          "target": "想娣",
+          "type": "母子"
+        },
+        {
+          "target": "崔太玉",
+          "type": "本家伯伯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午对话，提供犬只信息，带苏午去牛头山。"
+        }
+      ],
+      "evidence": [
+        "大彘脸色微微一黯：“就是我本家的伯伯。”",
+        "大彘眼里闪动着期待的光芒。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "想娣",
+      "aliases": [
+        "想娣大嫂子"
+      ],
+      "identity": "农妇，大彘的母亲",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一位农妇，因担心崔大善人家收丧仪而惶恐。",
+      "appearance": [
+        "二十多岁的年纪，看起来却像是四十岁的妇人"
+      ],
+      "personality": [
+        "悲伤",
+        "惶恐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大彘",
+          "type": "母子"
+        },
+        {
+          "target": "崔大善人",
+          "type": "同宗"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从外回返，向青苗和珠儿诉说崔大善人亲娘病重，担心被收丧仪。"
+        }
+      ],
+      "evidence": [
+        "想娣脸色不对，眼眶就红了",
+        "想娣悲痛地、絮絮叨叨地说着"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "李珠儿",
+      "aliases": [
+        "珠儿"
+      ],
+      "identity": "灶班子弟子",
+      "faction": "阴喜脉",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灶班子弟子，已过诡关，身上出现黑火能力。",
+      "appearance": [],
+      "personality": [
+        "忧虑",
+        "谨慎"
+      ],
+      "abilities": [
+        "掌心涌出黑火，能烤干衣物而不烧坏"
+      ],
+      "equipment": [
+        "铜镯"
+      ],
+      "relationships": [
+        {
+          "target": "青苗",
+          "type": "师姐妹"
+        },
+        {
+          "target": "苏午",
+          "type": "师徒"
+        },
+        {
+          "target": "秀秀",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与青苗在小溪边洗衣，谈论自身变化，决定先与大师兄商量。"
+        }
+      ],
+      "evidence": [
+        "她张开手掌，手掌心忽然涌动一团漆黑的火苗",
+        "珠儿向青苗师姐倾诉着"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "青苗",
+      "aliases": [
+        "青苗师姐"
+      ],
+      "identity": "灶班子弟子",
+      "faction": "阴喜脉",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灶班子弟子，已过诡关，身体力量增强。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "体贴"
+      ],
+      "abilities": [
+        "力量增强，能独自拧干大件衣物"
+      ],
+      "equipment": [
+        "顶针"
+      ],
+      "relationships": [
+        {
+          "target": "李珠儿",
+          "type": "师姐妹"
+        },
+        {
+          "target": "苏午",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与珠儿洗衣，建议珠儿先与大师兄商量。"
+        }
+      ],
+      "evidence": [
+        "青苗捡起李珠儿洗好的衣裳，用力一拧，衣裳里的水分就不住地往外低落",
+        "青苗向师妹给出了自己的意见"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "崔大善人",
+      "aliases": [
+        "崔大哥",
+        "崔大仁"
+      ],
+      "identity": "镇上富户，同宗地主",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "镇上富户，养有打手，其亲娘病重，可能向同宗收取丧仪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "想娣",
+          "type": "同宗"
+        },
+        {
+          "target": "大彘",
+          "type": "本家伯伯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其亲娘病重，可能去世后向同宗收丧仪。"
+        }
+      ],
+      "evidence": [
+        "崔大哥便是镇上的崔大善人",
+        "他亲娘近日若死了，到时候他必定要差人挨个到我们这些同姓同宗的人家来，收一份丧仪的"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "王太爷",
+      "aliases": [],
+      "identity": "养狗人，住在牛头山",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "住在牛头山，养有大狗，要价较高，狗未卖出。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "今天牵着狗上街卖，未卖出。"
+        }
+      ],
+      "evidence": [
+        "王太爷也养了好几只大狗——今天我还看到他牵着狗上街去卖呢"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "崔太玉",
+      "aliases": [],
+      "identity": "大彘的本家伯伯，养狗",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "大彘的本家伯伯，家里养了好几条大狗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大彘",
+          "type": "本家伯伯"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我知道崔太玉家里养了好几条大狗"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "秀秀",
+      "aliases": [],
+      "identity": "灶班子弟子",
+      "faction": "阴喜脉",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾给珠儿送衣裳。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李珠儿",
+          "type": "同门"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "还是秀秀给我送来的衣裳穿"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "方元",
+      "aliases": [],
+      "identity": "苏午的同伴",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与苏午的旺财轮流驾驭白棺，与恶神厉诡周旋。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "苏午自己的旺财还在外面和方元轮流驾驭白棺"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "旺财",
+      "aliases": [],
+      "identity": "苏午的狗",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午的狗，正在外面与方元驾驭白棺。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "苏午自己的旺财还在外面和方元轮流驾驭白棺"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

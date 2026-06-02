@@ -1,0 +1,492 @@
+{
+  "chunk_id": "chunk-0416",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄正，正在独州参与战事，并准备与何峻约战。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于思考"
+      ],
+      "abilities": [
+        "心力",
+        "神通",
+        "剑术"
+      ],
+      "equipment": [
+        "蝉鸣剑"
+      ],
+      "relationships": [
+        {
+          "target": "沈参事",
+          "type": "对话"
+        },
+        {
+          "target": "曹度",
+          "type": "合作"
+        },
+        {
+          "target": "竺玄首",
+          "type": "上级"
+        },
+        {
+          "target": "何峻",
+          "type": "约战对手"
+        },
+        {
+          "target": "曹方定",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "飞遁回独州，与曹方定交谈后返回居处调息。"
+        }
+      ],
+      "evidence": [
+        "张御正在往独州方向飞遁",
+        "张御在考虑下来之后，觉得可以在某些方面进行合作",
+        "张御在了解到了这些之后，知道在攻破地面护垒之前，自己已不必要再参与接下来的战事了"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "青阳军府将军",
+      "faction": "青阳军府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "青阳军府将军，察觉造物人问题，计划借战事清理军中造物人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "准备借战事清理造物人，并希望得到玄府帮助。"
+        }
+      ],
+      "evidence": [
+        "曹度也是同样察觉到了青阳两府之中有不少造物人存在",
+        "他准备借悬于域外的战事之机，先理清军中的造物人",
+        "曹度对于这些人也是一概答应下来"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "沈参事",
+      "aliases": [],
+      "identity": "参事",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与张御对话的参事，告知曹度的情况。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御对话，告知曹度的情况。"
+        }
+      ],
+      "evidence": [
+        "按照沈参事的说法，曹度也是同样察觉到了青阳两府之中有不少造物人存在"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [],
+      "identity": "玄首",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄府玄首，任期将至。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "任期将至，可能由恽尘接任。"
+        }
+      ],
+      "evidence": [
+        "从竺玄首的只言片语之中可以看出，这件事情可能涉及到某些玄府上层",
+        "说来竺玄首也是任期将至"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "曹方定",
+      "aliases": [
+        "曹道友"
+      ],
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修，受张御之命监视真修。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御报告异常气息，并受命监视楚功。"
+        }
+      ],
+      "evidence": [
+        "曹方定走了进来，对他一拱手",
+        "前些时日玄正关照我盯着那几名真修",
+        "曹方定肃然应下"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "何峻",
+      "aliases": [
+        "何师叔"
+      ],
+      "identity": "真修，元神照影",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真修，与张御约战，持有万归鉴。",
+      "appearance": [],
+      "personality": [
+        "自信"
+      ],
+      "abilities": [],
+      "equipment": [
+        "万归鉴"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "约战对手"
+        },
+        {
+          "target": "关轩",
+          "type": "师兄弟"
+        },
+        {
+          "target": "林道人",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与关轩谈论约战之事。"
+        }
+      ],
+      "evidence": [
+        "何峻向他发出斗贴",
+        "何峻和关轩二人正站在一处看着远方",
+        "何峻点头道：这是自然"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "关轩",
+      "aliases": [
+        "关师弟"
+      ],
+      "identity": "真修",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真修，与何峻关系好，负责值守北面。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "何峻",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与何峻一起观察战况，催促何峻早日约战。"
+        }
+      ],
+      "evidence": [
+        "关轩道：师兄你与那位张玄正的一战也可履约了吧？",
+        "那一处正是关轩所负责值守的地界"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "林道人",
+      "aliases": [
+        "林师伯",
+        "林伯然"
+      ],
+      "identity": "真修，元神照影",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真修，与于复谈论西北狂风和玄府事务。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "于复",
+          "type": "师叔侄"
+        },
+        {
+          "target": "何峻",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与于复谈论西北狂风和玄首继任之事。"
+        }
+      ],
+      "evidence": [
+        "林道人则是和于复站在一处谈论着",
+        "林道人道：前几日西北方向狂风忽涌",
+        "林道人点了点头"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "于复",
+      "aliases": [
+        "于师侄"
+      ],
+      "identity": "真修",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真修，与林道人一起谈论。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林道人",
+          "type": "师叔侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林道人谈论西北狂风和万归鉴。"
+        }
+      ],
+      "evidence": [
+        "于复想了想，道：师伯怀疑是那人的手段么？",
+        "于复看了看他"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "楚功",
+      "aliases": [],
+      "identity": "真修，元神照影",
+      "faction": "真修",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "真修，负责值守南面。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御怀疑可能与背后之人有关，被曹方定监视。"
+        }
+      ],
+      "evidence": [
+        "守御南面的是谁人？曹方定道：是楚功。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "高冠老者",
+      "aliases": [],
+      "identity": "霜洲高层",
+      "faction": "霜洲",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "霜洲高层，与晶石中的高大人影对话，负责安排熔池回归。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高大人影",
+          "type": "下属"
+        },
+        {
+          "target": "齐婕",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向高大人影报告独州战况，并受命安排齐婕回归熔池。"
+        }
+      ],
+      "evidence": [
+        "那高冠老者再一次跨过泊泊翻腾的熔岩",
+        "高冠老者道：最长不过十来天，最短也就五六日。",
+        "高冠老者躬身道：我回去之后，就为正国安排。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "高大人影",
+      "aliases": [
+        "正国"
+      ],
+      "identity": "霜洲高层，晶石中的人物",
+      "faction": "霜洲",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "霜洲高层，存在于幽蓝晶石中，指挥高冠老者。",
+      "appearance": [],
+      "personality": [
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高冠老者",
+          "type": "上级"
+        },
+        {
+          "target": "齐婕",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指示高冠老者让有潜力的回归熔池，并安排齐婕回归。"
+        }
+      ],
+      "evidence": [
+        "那高大人影语声里面没有一点波澜",
+        "高大人影道：那便让有潜力的都回归熔池吧",
+        "高大人影这时忽然问道：齐婕在哪里？"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "齐婕",
+      "aliases": [
+        "右辅国"
+      ],
+      "identity": "霜洲右辅国",
+      "faction": "霜洲",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "霜洲右辅国，已完成生命晋升，被高大人影要求回归熔池。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高大人影",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "躲在殿室中，被高大人影要求回归熔池。"
+        }
+      ],
+      "evidence": [
+        "齐婕在哪里？",
+        "这些天来右辅国一直躲在殿室之中没有动静",
+        "既然她已完成了生命晋升，那么就拿她来补足"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "恽尘",
+      "aliases": [],
+      "identity": "玄府成员",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "可能接任下一任玄首。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "未来",
+          "event": "可能接任玄首。"
+        }
+      ],
+      "evidence": [
+        "恽尘道友极可能接任手下一任玄首"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

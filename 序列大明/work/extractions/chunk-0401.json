@@ -1,0 +1,315 @@
+{
+  "chunk_id": "chunk-0401",
+  "characters": [
+    {
+      "name": "许准",
+      "aliases": [
+        "许老",
+        "老吏许准",
+        "下官"
+      ],
+      "identity": "老吏，辅佐杨白泽的官员",
+      "faction": "儒序",
+      "status": "登场",
+      "first_appearance": "第399章一张皮",
+      "summary": "一位经验丰富的老吏，曾从京城夫子庙街东头打到西头，对儒序和武序的关系有深刻认识，辅佐杨白泽在倭区任职。",
+      "appearance": [
+        "白发苍苍"
+      ],
+      "personality": [
+        "谨慎",
+        "务实",
+        "豪迈"
+      ],
+      "abilities": [
+        "能打",
+        "经验丰富"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "辅佐对象"
+        },
+        {
+          "target": "裴行俭",
+          "type": "上级或朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与杨白泽讨论锦衣卫和鸿鹄镰仓王的事宜"
+        }
+      ],
+      "evidence": [
+        "许准苦笑道：'我知道您和那位阎君百户以前在成都府的时候有过往来'",
+        "许准白发苍苍，动作却异常灵巧",
+        "许准冷声道：'把自己的身家性命赌在别人的义气上'"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "杨白泽",
+      "aliases": [
+        "大人",
+        "少年杨白泽"
+      ],
+      "identity": "官员，裴行俭的学生",
+      "faction": "儒序",
+      "status": "登场",
+      "first_appearance": "第399章一张皮",
+      "summary": "一位年轻官员，裴行俭的学生，被派往倭区任职，对鸿鹄镰仓王有独到见解。",
+      "appearance": [
+        "清秀俊朗"
+      ],
+      "personality": [
+        "自信",
+        "有主见",
+        "飞扬"
+      ],
+      "abilities": [
+        "善于分析"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "许准",
+          "type": "下属/辅佐者"
+        },
+        {
+          "target": "裴行俭",
+          "type": "老师"
+        },
+        {
+          "target": "阎君",
+          "type": "朋友/有往来"
+        },
+        {
+          "target": "苏策",
+          "type": "信任"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许准讨论锦衣卫和鸿鹄镰仓王，提出镰仓王只是一层皮的观点"
+        }
+      ],
+      "evidence": [
+        "杨白泽问道：'许老，你是这个意思，对吧？'",
+        "杨白泽面色平静道：'但我相信苏千户不是那样的人，阎君也不是。'",
+        "杨白泽沉声道：'我不觉得在倭区这么小的区域内，有一个鸿鹄列王能够存在这么多年'"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "苏策",
+      "aliases": [
+        "苏千户"
+      ],
+      "identity": "倭区锦衣卫千户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第399章一张皮",
+      "summary": "倭区锦衣卫千户，传闻打算将阎君列为接班人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阎君",
+          "type": "上级/打算培养"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被许准提及，担心其对儒序怀有仇恨"
+        }
+      ],
+      "evidence": [
+        "我听闻如今锦衣卫内部有传闻，苏策已经打定主意要把阎君列为接班人啊",
+        "万一苏策要是心中还对儒序怀有仇恨"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "阎君",
+      "aliases": [
+        "阎君百户"
+      ],
+      "identity": "锦衣卫百户",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第399章一张皮",
+      "summary": "锦衣卫百户，与杨白泽有往来，被苏策列为接班人。",
+      "appearance": [],
+      "personality": [
+        "爱憎分明"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "朋友/有往来"
+        },
+        {
+          "target": "苏策",
+          "type": "被培养对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及作为锦衣卫百户，可能协助杨白泽"
+        }
+      ],
+      "evidence": [
+        "我知道您和那位阎君百户以前在成都府的时候有过往来",
+        "这才是苏策和阎君会做的事情"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "楚客",
+      "aliases": [],
+      "identity": "鸿鹄首领",
+      "faction": "鸿鹄",
+      "status": "已死（提及）",
+      "first_appearance": "第399章一张皮",
+      "summary": "组织参与'江户之乱'的两名鸿鹄首领之一，已被锦衣卫斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已被锦衣卫斩杀"
+        }
+      ],
+      "evidence": [
+        "组织参与'江户之乱'的两名鸿鹄首领楚客和水村五斗已经被锦衣卫所斩杀"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "水村五斗",
+      "aliases": [],
+      "identity": "鸿鹄首领",
+      "faction": "鸿鹄",
+      "status": "已死（提及）",
+      "first_appearance": "第399章一张皮",
+      "summary": "组织参与'江户之乱'的两名鸿鹄首领之一，已被锦衣卫斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已被锦衣卫斩杀"
+        }
+      ],
+      "evidence": [
+        "组织参与'江户之乱'的两名鸿鹄首领楚客和水村五斗已经被锦衣卫所斩杀"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "槐国",
+      "aliases": [],
+      "identity": "鸿鹄首领",
+      "faction": "鸿鹄",
+      "status": "在逃（提及）",
+      "first_appearance": "第399章一张皮",
+      "summary": "鸿鹄首领之一，与镰仓一起在逃。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在逃，预计将落网"
+        }
+      ],
+      "evidence": [
+        "就剩下一个槐国和罪首镰仓还在逃"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "镰仓",
+      "aliases": [
+        "镰仓王",
+        "罪首镰仓"
+      ],
+      "identity": "鸿鹄王侯",
+      "faction": "鸿鹄",
+      "status": "在逃（提及）",
+      "first_appearance": "第399章一张皮",
+      "summary": "鸿鹄列王之一，被称为镰仓王，但杨白泽认为其只是一层皮，并非真实人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "善于藏匿"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在逃，但被认为只是一层皮"
+        }
+      ],
+      "evidence": [
+        "这个所谓的镰仓王明显只是一层皮而已",
+        "所谓的镰仓王只是一个名号，根本就不是一个确切的人物"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "裴行俭",
+      "aliases": [
+        "裴公"
+      ],
+      "identity": "杨白泽的老师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第399章一张皮",
+      "summary": "杨白泽的老师，看重杨白泽并派许准辅佐他。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "老师"
+        },
+        {
+          "target": "许准",
+          "type": "朋友或上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及，是杨白泽的老师"
+        }
+      ],
+      "evidence": [
+        "这也是老师的意思",
+        "裴公吹嘘了"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

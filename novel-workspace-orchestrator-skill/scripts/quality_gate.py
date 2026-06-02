@@ -36,6 +36,7 @@ LAYER_ORDER = (
     "chapter-distillation",
     "opening",
     "protagonist",
+    "supporting-cast",
     "outline",
     "highlight",
 )
@@ -44,6 +45,7 @@ LAYER_LABELS = {
     "chapter-distillation": "章节蒸馏层",
     "opening": "黄金前三章层",
     "protagonist": "主角百科层",
+    "supporting-cast": "重要配角层",
     "outline": "整书大纲层",
     "highlight": "剧情高光层",
 }
@@ -711,6 +713,67 @@ def quality_check_protagonist(workspace: Path, novel_name: str) -> dict[str, Any
     }
 
 
+def quality_check_supporting_cast(workspace: Path, novel_name: str) -> dict[str, Any]:
+    """重要配角层的质量检查。"""
+    checks = {}
+    issues = []
+
+    top10_path = workspace / f"{novel_name}-重要配角Top10总表.md"
+    top10_text = read_text(top10_path)
+    if top10_text:
+        specificity = check_specificity_density(top10_text)
+        checks["top10_specificity"] = specificity
+        if not specificity["ok"]:
+            issues.append(f"重要配角 Top10 总表具体锚定密度不足 ({specificity['density_per_1000_chars']:.1f}/千字)")
+    else:
+        issues.append("重要配角 Top10 总表缺失")
+
+    relation_path = workspace / f"{novel_name}-重要配角与主角关系图.md"
+    relation_text = read_text(relation_path)
+    if relation_text:
+        relation_depth = check_analytical_depth(relation_text)
+        checks["relation_depth"] = relation_depth
+        if not relation_depth["ok"]:
+            issues.append("配角与主角关系图因果推理密度不足")
+    else:
+        issues.append("重要配角与主角关系图缺失")
+
+    stage_path = workspace / f"{novel_name}-重要配角阶段作用分布.md"
+    stage_text = read_text(stage_path)
+    if stage_text:
+        stage_specificity = check_specificity_density(stage_text)
+        checks["stage_specificity"] = stage_specificity
+        if not stage_specificity["ok"]:
+            issues.append("重要配角阶段作用分布的具体锚定密度不足")
+    else:
+        issues.append("重要配角阶段作用分布缺失")
+
+    profile_files = sorted((workspace / "supporting-cast").glob("*-配角分析.md"))
+    checks["profile_count"] = {"ok": len(profile_files) >= 10, "count": len(profile_files)}
+    if len(profile_files) < 10:
+        issues.append(f"重要配角分析文件不足 10 份（当前 {len(profile_files)}）")
+
+    score = 100
+    if not checks.get("top10_specificity", {}).get("ok", False):
+        score -= 20
+    if not checks.get("relation_depth", {}).get("ok", False):
+        score -= 15
+    if not checks.get("stage_specificity", {}).get("ok", False):
+        score -= 15
+    if not checks["profile_count"]["ok"]:
+        score -= 20
+    score = max(0, min(100, score))
+
+    return {
+        "layer": "supporting-cast",
+        "label": LAYER_LABELS["supporting-cast"],
+        "score": score,
+        "issues": issues,
+        "ok": len(issues) == 0,
+        "details": checks,
+    }
+
+
 def quality_check_outline(workspace: Path, novel_name: str) -> dict[str, Any]:
     """整书大纲层的质量检查。"""
     checks = {}
@@ -840,6 +903,8 @@ def run_quality_gate(workspace: Path, novel_name: str, target_layer: str | None 
             layer_results[layer] = quality_check_opening(workspace, novel_name)
         elif layer == "protagonist":
             layer_results[layer] = quality_check_protagonist(workspace, novel_name)
+        elif layer == "supporting-cast":
+            layer_results[layer] = quality_check_supporting_cast(workspace, novel_name)
         elif layer == "outline":
             layer_results[layer] = quality_check_outline(workspace, novel_name)
         elif layer == "highlight":
@@ -894,7 +959,7 @@ def render_quality_report(result: dict[str, Any]) -> str:
         f"# 《{novel_name}》质量门报告",
         "",
         f"- 工作区：`{result['workspace']}`",
-        f"- 目标层：`{result['target_layer'] or '全部五层'}`",
+        f"- 目标层：`{result['target_layer'] or '全部六层'}`",
         f"- **综合质量评分：{overall}/100** {'✅ 通过' if passed else '⚠️ 未通过'}",
         f"- 问题总数：{result['issue_count']}",
         "",
@@ -967,6 +1032,16 @@ def render_quality_report(result: dict[str, Any]) -> str:
             card_spec = details.get("card_specificity", {})
             if card_spec:
                 lines.append(f"- 主角卡具体密度：{card_spec.get('density_per_1000_chars', 'N/A')}/千字")
+        elif layer == "supporting-cast":
+            top10_spec = details.get("top10_specificity", {})
+            if top10_spec:
+                lines.append(f"- Top10 总表具体密度：{top10_spec.get('density_per_1000_chars', 'N/A')}/千字")
+            relation_depth = details.get("relation_depth", {})
+            if relation_depth:
+                lines.append(f"- 关系图因果密度：{relation_depth.get('causal_ratio', 'N/A')}")
+            profile_count = details.get("profile_count", {})
+            if profile_count:
+                lines.append(f"- 配角分析文件数：{profile_count.get('count', 'N/A')}")
         elif layer == "outline":
             ov_depth = details.get("overview_depth", {})
             if ov_depth:
@@ -1017,7 +1092,7 @@ def main() -> int:
     )
     parser.add_argument("--workspace", required=True, help="工作区目录路径")
     parser.add_argument("--novel-name", help="小说名（自动检测）")
-    parser.add_argument("--layer", help="只检查指定层（chapter-distillation/opening/protagonist/outline/highlight）")
+    parser.add_argument("--layer", help="只检查指定层（chapter-distillation/opening/protagonist/supporting-cast/outline/highlight）")
     parser.add_argument("--json", action="store_true", help="输出 JSON 格式")
     parser.add_argument("--no-write-report", action="store_true", help="不写入质量门报告文件")
     args = parser.parse_args()

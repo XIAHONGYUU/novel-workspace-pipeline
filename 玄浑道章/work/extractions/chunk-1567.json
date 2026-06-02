@@ -1,0 +1,489 @@
+{
+  "chunk_id": "chunk-1567",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，受命前往除灭元夏驾驭镇道之宝之人。",
+      "appearance": [
+        "大袖飘扬的年轻道人"
+      ],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "大道目印",
+        "正御中天",
+        "清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "上下级"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "凌成明",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清玄道宫收拾气机，后受陈首执召见，奉命除灭元夏镇道之宝驾驭者。"
+        },
+        {
+          "stage": "当前",
+          "event": "从清穹之舟深处出发，以清穹之气直击元夏巨舟，与凌成明交手。"
+        }
+      ],
+      "evidence": [
+        "张御目光落下，微微点首道：'我这便前往。'",
+        "张御振声言道：'御自当奉命。'",
+        "张御望着前方的凌成明，他一振衣袖，随后向前伸出一指，'正御中天'倏然发动"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "陈首执",
+      "aliases": [
+        "陈首执"
+      ],
+      "identity": "玄廷首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷首执，主持当前战局，授予张御任务。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "离空闪（镇道之宝）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与武廷执、张御商议战局，决定让张御除灭元夏镇道之宝驾驭者。"
+        }
+      ],
+      "evidence": [
+        "陈首执也是正容回有一礼，而后道：'张廷执，如今元夏虽主攻壑界……'",
+        "陈首执这时一抬手，显示出掌心之中一团光亮，道：'我方才已是取到了诸位执摄送来的镇道之宝'"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "武廷执",
+      "aliases": [
+        "武廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，参与战局讨论。",
+      "appearance": [],
+      "personality": [
+        "沉声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与陈首执、张御商议战局，主张尽快出手。"
+        }
+      ],
+      "evidence": [
+        "武廷执沉声道：'若是久拖下去，此机未必可得……'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "传令道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "负责传令的道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "奉陈首执之命传召张御，后又去传命给正清镇守和严道友。"
+        }
+      ],
+      "evidence": [
+        "明周道人自里化显出来，他来到张御面前，对着阶上打一个稽首，道：'张廷执，陈首执有请。'",
+        "明周道人一个稽首，金光一闪，便去传命了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "凌成明",
+      "aliases": [
+        "凌司议"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏方面驾驭镇道之宝的司议，被困于天夏虚空世域。",
+      "appearance": [],
+      "personality": [
+        "焦躁",
+        "自信"
+      ],
+      "abilities": [
+        "根本道法'万笏奉一'"
+      ],
+      "equipment": [
+        "化机翎羽",
+        "天岁针（镇道之宝）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "邹司议",
+          "type": "同僚"
+        },
+        {
+          "target": "卫司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元夏巨舟中试图破开虚空裂隙，被张御以清穹之气直击。"
+        }
+      ],
+      "evidence": [
+        "凌成明站在主台上端，他凝视着虚空裂隙，每次他欲要投入化机翎羽的时候，那封绝两界的屏障就提前消失不见",
+        "凌成明此刻正待拿定天岁针之际，可这时他心下却是猛然一悸",
+        "他之道法名为'万笏奉一'"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "岳清泽",
+      "aliases": [
+        "岳"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "虚空世域阵法内的天夏修士，安抚邹、卫二人。",
+      "appearance": [],
+      "personality": [
+        "笃定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丰神常",
+          "type": "同僚"
+        },
+        {
+          "target": "邹司议",
+          "type": "敌对"
+        },
+        {
+          "target": "卫司议",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在虚空世域阵法内与丰神常一同围困邹、卫二人。"
+        }
+      ],
+      "evidence": [
+        "岳清泽看出了他的惶惑，他倒是很笃定，笑道：'便不相信我等，也当相信凌司议……'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "丰神常",
+      "aliases": [
+        "丰"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "虚空世域阵法内的天夏修士，与岳清泽一同围困邹、卫二人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岳清泽",
+          "type": "同僚"
+        },
+        {
+          "target": "邹司议",
+          "type": "敌对"
+        },
+        {
+          "target": "卫司议",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在虚空世域阵法内与岳清泽一同围困邹、卫二人。"
+        }
+      ],
+      "evidence": [
+        "岳清泽、丰神常二人和邹、卫两名司议等了许久"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "邹司议",
+      "aliases": [
+        "邹"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被困于虚空世域阵法内的元夏司议，情绪焦躁。",
+      "appearance": [],
+      "personality": [
+        "焦躁"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫司议",
+          "type": "同僚"
+        },
+        {
+          "target": "岳清泽",
+          "type": "敌对"
+        },
+        {
+          "target": "丰神常",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被困于虚空世域阵法内，试图突围。"
+        }
+      ],
+      "evidence": [
+        "邹司议心中虽是有些焦躁，甚至有一种想要发怒的感觉"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "卫司议",
+      "aliases": [
+        "卫"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被困于虚空世域阵法内的元夏司议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹司议",
+          "type": "同僚"
+        },
+        {
+          "target": "岳清泽",
+          "type": "敌对"
+        },
+        {
+          "target": "丰神常",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被困于虚空世域阵法内。"
+        }
+      ],
+      "evidence": [
+        "岳清泽、丰神常二人和邹、卫两名司议等了许久"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "正清道人",
+      "aliases": [
+        "正清镇守"
+      ],
+      "identity": "天夏镇守",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "奉首执之命前来支援虚空世域的天夏镇守。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "严若菡",
+          "type": "同僚"
+        },
+        {
+          "target": "戴廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与严若菡一同出现在戴廷执所在阵台，协助封闭阵门。"
+        }
+      ],
+      "evidence": [
+        "正清道人和严若菡二人都是出现在了戴廷执所在阵台之上。",
+        "正清道人打一个稽首，道：'戴廷执，我等奉首执之谕令前来相援。'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "严若菡",
+      "aliases": [
+        "严道友",
+        "严上尊"
+      ],
+      "identity": "天夏上尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "奉首执之命前来支援虚空世域的天夏上尊。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "清穹之气"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "同僚"
+        },
+        {
+          "target": "戴廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与正清道人一同出现在戴廷执所在阵台，协助封闭阵门。"
+        }
+      ],
+      "evidence": [
+        "正清道人和严若菡二人都是出现在了戴廷执所在阵台之上。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "戴廷执",
+      "aliases": [
+        "戴恭瀚"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "虚空世域阵台的主持廷执。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "同僚"
+        },
+        {
+          "target": "严若菡",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在虚空世域阵台上与正清、严若菡商议。"
+        }
+      ],
+      "evidence": [
+        "戴廷执回有一礼，道：'正清镇守、严上尊，有劳两位了。'"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "chunk_id": "chunk-1657",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏方面的领导者，负责与元夏交涉及指挥战事。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "缠道人",
+          "type": "收服"
+        },
+        {
+          "target": "商道人",
+          "type": "收服"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与缠、商二人交谈，安排他们祭炼外身；接见元夏使臣向司议，提出和谈条件。"
+        }
+      ],
+      "evidence": [
+        "张御道：“两位之意我已是明了，不过两位不用急切，我天夏不会随意驱驭同道，两位可先祭炼几具合用外身，待得有护身之机后再是上阵。”",
+        "张御听了此番言语，微微点头，他道：“两位，既入我天夏，你们自也是天夏人了，不必分出彼此。”",
+        "张御示意了一下，底下之人便取了一份文书递给了他，并言：“这是我天夏所提之条件。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "缠道人",
+      "aliases": [
+        "缠"
+      ],
+      "identity": "原元夏外世修道人，后投靠天夏",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "原元夏外世修道人，与商道人一同投靠天夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被收服"
+        },
+        {
+          "target": "商道人",
+          "type": "同伴"
+        },
+        {
+          "target": "辽余",
+          "type": "不熟悉"
+        },
+        {
+          "target": "庞削",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与商道人一同投靠天夏，向张御说明情况。"
+        }
+      ],
+      "evidence": [
+        "缠道人道：“回禀张廷执，这两位与我们不是一路，那位辽余底细我们不清楚，以前也未见过这人，而且其人肩负监察我等的职责，看起来更受元夏的信任。”",
+        "缠、商二人对此也是理解的，俱是道：“我等愿听张廷执的安排。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "商道人",
+      "aliases": [
+        "商"
+      ],
+      "identity": "原元夏外世修道人，后投靠天夏",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "原元夏外世修道人，与缠道人一同投靠天夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被收服"
+        },
+        {
+          "target": "缠道人",
+          "type": "同伴"
+        },
+        {
+          "target": "庞削",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与缠道人一同投靠天夏，向张御说明情况。"
+        }
+      ],
+      "evidence": [
+        "商道人道：“从庞道友为人来说，算得上是一个正直之人，然而他不可能摆脱元夏的制束，也只会听从元夏的吩咐行事，不过其余，故而将来只会是贵方的敌人。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "辽余",
+      "aliases": [],
+      "identity": "元夏外世修道人，负责监察",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元夏外世修道人，与缠、商二人不是一路，负责监察他们。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "缠道人",
+          "type": "监察"
+        },
+        {
+          "target": "商道人",
+          "type": "监察"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "那位辽余底细我们不清楚，以前也未见过这人，而且其人肩负监察我等的职责，看起来更受元夏的信任。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "庞削",
+      "aliases": [
+        "庞道友"
+      ],
+      "identity": "元夏外世修道人",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元夏外世修道人，因门人弟子和同族在元夏而无法背叛。",
+      "appearance": [],
+      "personality": [
+        "正直"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "缠道人",
+          "type": "认识"
+        },
+        {
+          "target": "商道人",
+          "type": "认识"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "另一位乃名庞削，这位庞道友么，他有他的牵挂，他的门人弟子，他的同世同族，都在元夏，哪怕为此牺牲自己，他也甘心情愿，也是他的道法所凭，故他是不可能和我们走的",
+        "从庞道友为人来说，算得上是一个正直之人"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "万道人",
+      "aliases": [
+        "万某"
+      ],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元上殿司议，反对继续抽调镇道之宝。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿议事中提出不可再抽调镇道之宝。"
+        }
+      ],
+      "evidence": [
+        "万道人道：“上三世那里，也没有回音么？”",
+        "万道人转向上首，道：“过司议，万某以为，不可再抽调镇道之宝了，若是频频挪用镇道之宝，难免会使天序出现缺口”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "过司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元上殿司议，主持议事，决定派向司议去和谈。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与全司议商议和谈条件，修改条文。"
+        }
+      ],
+      "evidence": [
+        "过司议看向对面，道：“向司议，你颇有主意，你的意思如何，不妨说说。”",
+        "过司议见下面没有人提出反对，与全司议相互看了一眼，便出声道：“向司议，那就劳你再往天夏阵中一行”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "兰司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元上殿司议，主张早日驱逐天夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在议事中发言。"
+        }
+      ],
+      "evidence": [
+        "兰司议道：“诸位司议，此回根源还是在天夏之上，我们还是要早些把天夏驱逐了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "向司议",
+      "aliases": [
+        "向丞"
+      ],
+      "identity": "元上殿司议，使臣",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元上殿司议，多次作为使臣前往天夏谈判。",
+      "appearance": [],
+      "personality": [
+        "有主意"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "全司议",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在议事中提出和谈建议；奉命前往天夏递交和谈条件；再次前往天夏修改条件。"
+        }
+      ],
+      "evidence": [
+        "向司议看向上首的全司议，后者点了点头，他便笑了笑，道：“既然全司议让我说，那我谈一谈便是是了。”",
+        "向司议得了谕令，便从大殿之中退了出来，又是在驻殿寻到了金郅行，道上来意。",
+        "向司议这次也未再多言，对他执有一个道礼，便是告辞离去，并很快转回了元上殿"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "全司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元上殿司议，与过司议共同决策和谈事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与过司议商议和谈条件，修改条文。"
+        }
+      ],
+      "evidence": [
+        "全司议拿来看过，令向司议在此等候，自己去寻了过司议，将此书递去",
+        "全司议道：“只怕天夏不答应。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "金郅行",
+      "aliases": [],
+      "identity": "驻殿人员",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元上殿驻殿人员，负责为向司议开辟通路。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "他往来多次，也算是熟脸了，故此金郅行也没有多等待，接过其人符诏，辟开通路，直接便来到了天夏阵前。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -25,10 +25,6 @@ Use this reference when you want a stable machine-readable view of a novel works
 - `recommended_mode`
 - `recommended_next_step`
 - `optional_backfill_layers`
-- `suggested_context_file`
-- `suggested_ai_fill_brief`
-- `suggested_prompt_template`
-- `suggested_target_files`
 - `repair_plan`
 - `updated_at`
 - `layer_status`
@@ -63,11 +59,6 @@ Present when the current workspace should enter `repair-existing`.
 - `failed_checks`
 - `repair_targets`
 - `context_files`
-- `target_files`
-- `validator_focus`
-- `read_first_files`
-- `prompt_template`
-- `suggested_ai_fill_brief`
 - `suggested_context_file`
 - `suggested_repair_note`
 
@@ -86,4 +77,3 @@ Present when the current workspace should enter `repair-existing`.
 - `has_placeholders` flags likely unfinished files.
 - `recommended_next_layer` is the orchestration recommendation, not an irreversible truth.
 - `optional_backfill_layers` exists for cases where a later layer is already valid but an earlier calibration layer is still worth补.
-- `suggested_context_file` and `suggested_ai_fill_brief` are workflow aids for the next AI-writing pass.

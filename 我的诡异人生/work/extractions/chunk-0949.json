@@ -1,0 +1,150 @@
+{
+  "chunk_id": "chunk-0949",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "苏局"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与壮汉同行，能帮助墙上人找回失物，获得寻人甲，并收到东圣酒厂员工张双国的赠酒。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "从容"
+      ],
+      "abilities": [],
+      "equipment": [
+        "寻人甲",
+        "私藏东圣酒"
+      ],
+      "relationships": [
+        {
+          "target": "熊骏",
+          "type": "下属"
+        },
+        {
+          "target": "壮汉",
+          "type": "同行者"
+        },
+        {
+          "target": "张双国",
+          "type": "通信者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在深巷中帮助墙上人，获得寻人甲；从邮筒中取出东圣酒和信笺；与壮汉前往红砖洋楼。"
+        }
+      ],
+      "evidence": [
+        "苏午看着围拢过来的墙上人，神色平静",
+        "苏午浑身贴满了‘寻人启事’，那一张张寻人启事在他的衣衫上重叠，竟然变成了一件纸甲般的东西！",
+        "苏午点了点头，一边拆开那封信笺，一边道：‘先前从寻人墙边过的时候，正好帮助了一个墙上人。’"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "壮汉",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午同行，对东圣酒和寻人甲有了解，恐惧红洋楼。",
+      "appearance": [],
+      "personality": [
+        "恐惧",
+        "礼数多"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午同行，目睹苏午获得寻人甲和东圣酒，告知苏午红洋楼的情况。"
+        }
+      ],
+      "evidence": [
+        "壮汉听得耳畔越来越近的声音，浑身止不住地颤抖着",
+        "壮汉看着聚集在苏午周围的纸人纷纷散去，看着苏午身上披覆的纸甲，一时间目瞪口呆",
+        "壮汉怀抱着那坛酒，闻言却连连摇头：‘那不行！’"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "熊骏",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被伪人死劫规律取代身体，只剩模糊人影，听从苏午安排。",
+      "appearance": [
+        "只剩一道模糊人影"
+      ],
+      "personality": [
+        "感激",
+        "听从"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午告知身体已被取代，答应在东圣酒厂做工。"
+        }
+      ],
+      "evidence": [
+        "那道模糊人影愣愣地看着苏午，半晌后才道：‘苏局……我听您的。’",
+        "只剩一道模糊人影的熊骏连连点头，人影面部，显出了熊骏清晰的五官，他流着泪，向苏午说道：‘谢谢您，苏局！’"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张双国",
+      "aliases": [],
+      "identity": "东圣酒厂员工",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "东圣酒厂员工，通过邮筒给苏午寄来私藏东圣酒和信笺，愿意与苏午见面。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "通信者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回复苏午信件，赠送私藏东圣酒。"
+        }
+      ],
+      "evidence": [
+        "张双国在信里回复他，愿意和他见上一面，并对他提供半份记忆的事情表示了感谢，直接将自身珍藏的整瓶东圣酒相赠。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -216,17 +216,15 @@ def _extraction_is_valid(path: Path) -> bool:
         data = json.loads(path.read_text(encoding="utf-8"))
         chars = data.get("characters", [])
         if not chars:
-            return True
-        first = chars[0]
-        has_fields = bool(first.get("identity") or first.get("faction") or first.get("personality"))
-        return has_fields or len(chars) >= 3
+            return True  # Empty characters is valid (no people in chunk)
+        # A real AI extraction has at least one character with identity or personality filled
+        has_real_content = any(
+            c.get("identity") or c.get("faction") or c.get("personality")
+            for c in chars
+        )
+        return has_real_content
     except Exception:
         return False
-
-
-def _load_character_count(path: Path) -> int:
-    data = json.loads(path.read_text(encoding="utf-8"))
-    return len(data.get("characters", []))
 
 
 def write_extractions(
@@ -246,14 +244,29 @@ def write_extractions(
         chunk_path = extraction_dir / f"{chunk.chunk_id}.json"
         if skip_existing and _extraction_is_valid(chunk_path):
             skipped += 1
-            manifest.append({"chunk_id": chunk.chunk_id, "character_count": _load_character_count(chunk_path)})
             continue
-        if extractor_mode == "openai":
-            payload = extract_with_openai(chunk, model=model, prompt_path=prompt_path)
-        elif extractor_mode == "deepseek":
-            payload = extract_with_deepseek(chunk, model=model, prompt_path=prompt_path)
-        else:
-            payload = heuristic_extract(chunk)
+        payload = None
+        for attempt in range(3):
+            try:
+                if extractor_mode == "openai":
+                    payload = extract_with_openai(chunk, model=model, prompt_path=prompt_path)
+                elif extractor_mode == "deepseek":
+                    payload = extract_with_deepseek(chunk, model=model, prompt_path=prompt_path)
+                else:
+                    payload = heuristic_extract(chunk)
+                break  # success
+            except Exception as exc:
+                if attempt < 2:
+                    import time
+                    time.sleep(2)
+                    continue
+                print(f"warning: chunk {chunk.chunk_id} extraction failed after 3 attempts: {exc}", flush=True)
+                if extractor_mode in {"openai", "deepseek"}:
+                    payload = None  # skip this chunk, don't write fallback
+                    break
+                payload = heuristic_extract(chunk)
+        if payload is None:
+            continue  # skip chunk entirely, can retry later with --resume
         chunk_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         manifest.append({"chunk_id": chunk.chunk_id, "character_count": len(payload["characters"])})
 

@@ -1,0 +1,316 @@
+{
+  "chunk_id": "chunk-1159",
+  "characters": [
+    {
+      "name": "韦廷执",
+      "aliases": [],
+      "identity": "玄廷官员",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "亲自安排将造物躯壳送回天机总院。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "八月中旬廷议后",
+          "event": "安排使者将造物躯壳送回天机总院。"
+        }
+      ],
+      "evidence": [
+        "韦廷执亲自安排之下，派遣了一名使者将那一具造物躯壳重新送回了天机总院。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "连副部主",
+      "aliases": [],
+      "identity": "天工部副部主",
+      "faction": "天工部",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与魏山一同被唤去，接受玄廷谕旨。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "魏山",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "八月中旬廷议后",
+          "event": "与魏山一同被唤去，接受玄廷谕旨。"
+        }
+      ],
+      "evidence": [
+        "天工部的连副部主与魏山一同被唤了去"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "魏山",
+      "aliases": [
+        "魏宗匠"
+      ],
+      "identity": "天机总院宗匠",
+      "faction": "天机总院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天机总院宗匠，主导造物突破层限之事。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "连副部主",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "八月中旬廷议后",
+          "event": "与连副部主一同接受玄廷谕旨。"
+        },
+        {
+          "stage": "半日后",
+          "event": "召集参与此事的大匠，告知谕旨内容。"
+        }
+      ],
+      "evidence": [
+        "魏山与连副部主交谈了许久",
+        "魏山道：“不必理会，我们自做我们的事”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "于大匠",
+      "aliases": [
+        "于兄"
+      ],
+      "identity": "天机总院大匠",
+      "faction": "天机总院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "参与造物突破层限的大匠，对玄廷归还造物持乐观态度。",
+      "appearance": [],
+      "personality": [
+        "乐观",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龙大匠",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "半日后",
+          "event": "与龙大匠在工坊内讨论玄廷归还造物之事。"
+        }
+      ],
+      "evidence": [
+        "于大匠言道：“龙兄，怎么样？我早便说过了吧？这一次尝试是成功的”",
+        "于大匠道：“龙兄，你把事情想得太简单了”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "龙大匠",
+      "aliases": [
+        "龙兄"
+      ],
+      "identity": "天机总院大匠",
+      "faction": "天机总院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "参与造物突破层限的大匠，对玄廷归还造物持谨慎态度。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "于大匠",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "半日后",
+          "event": "与于大匠在工坊内讨论玄廷归还造物之事。"
+        }
+      ],
+      "evidence": [
+        "龙大匠道：“可是于兄，玄廷还是将造物归还给我们了”",
+        "龙大匠没再与他争辩下去"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "岑传",
+      "aliases": [
+        "岑道兄"
+      ],
+      "identity": "修道者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在昌合府洲观台上与崇廷执讨论造物之事，反对造物发展。",
+      "appearance": [],
+      "personality": [
+        "固执",
+        "警惕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崇廷执",
+          "type": "道友"
+        },
+        {
+          "target": "正清",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "八月中旬后",
+          "event": "在观台上与崇廷执化影对话，透露造物突破层限消息。"
+        }
+      ],
+      "evidence": [
+        "岑传正在观台上站着，负袖看着下面",
+        "岑传冷笑一声，道：“玄法还是修道之法，造物算什么？”"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [
+        "崇道兄"
+      ],
+      "identity": "玄廷官员",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "擅长天机推演，与岑传讨论造物气运，主张顺势而为。",
+      "appearance": [],
+      "personality": [
+        "理性",
+        "善于说服"
+      ],
+      "abilities": [
+        "天机推演"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岑传",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "八月中旬后",
+          "event": "化影出现在岑传观台上，与之讨论造物之事。"
+        }
+      ],
+      "evidence": [
+        "崇廷执的化影出现在了其中",
+        "崇廷执道：“岑道兄，天数流转，小节可改，大势不可变”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "瑶璃",
+      "aliases": [],
+      "identity": "天夏混血少女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "乘载运飞舟前往安州，近期常做奇怪的梦。",
+      "appearance": [],
+      "personality": [
+        "好奇",
+        "独立"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵柔",
+          "type": "朋友"
+        },
+        {
+          "target": "沈瑾妍",
+          "type": "同乘者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "最近",
+          "event": "乘载运飞舟往安州方向去。"
+        }
+      ],
+      "evidence": [
+        "瑶璃乘上了一驾每月往来运送补给的载运飞舟，正往安州方向而去",
+        "最近一段时日来她总是做梦"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "沈瑾妍",
+      "aliases": [],
+      "identity": "土著女子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在飞舟上与瑶璃交谈的土著女子，渴望成为天夏人。",
+      "appearance": [
+        "相貌秀丽",
+        "嘴唇涂着一抹殷红",
+        "身上穿着天夏袍服"
+      ],
+      "personality": [
+        "羡慕天夏人",
+        "积极"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "瑶璃",
+          "type": "同乘者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "飞舟上",
+          "event": "与瑶璃交谈，表示自己两年后可成为天夏人。"
+        }
+      ],
+      "evidence": [
+        "土著女子道：“我的天夏名叫沈瑾妍”",
+        "土著女子道：“最多再有两年，等我会教会了十个能写天夏字，能说天夏语的土著，那我就是天夏人了。”"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

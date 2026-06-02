@@ -1,0 +1,292 @@
+{
+  "chunk_id": "chunk-0926",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张守正",
+        "守正"
+      ],
+      "identity": "玄廷守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷守正，修为高深，负责追剿上宸天阴谋。",
+      "appearance": [
+        "神气煊赫，周身裹绕星光玉雾的年轻道人，行走时有飘渺仙音相随"
+      ],
+      "personality": [
+        "冷静",
+        "果断",
+        "从容不迫"
+      ],
+      "abilities": [
+        "运转目印",
+        "心光",
+        "杀灭混沌怪物"
+      ],
+      "equipment": [
+        "训天道章"
+      ],
+      "relationships": [
+        {
+          "target": "瞻空道人",
+          "type": "道友"
+        },
+        {
+          "target": "荀季",
+          "type": "荀师弟子"
+        },
+        {
+          "target": "赢冲",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问瞻空下落，发现迷雾，上报玄廷，前往救援并杀灭祈道人，随后被瞻空送往符诏所指之地。"
+        }
+      ],
+      "evidence": [
+        "张御问道：“瞻空道友如今落在哪里？”",
+        "张御走前两步，借由守正宫舆图往明周所指之处看去",
+        "张御看了一眼，混沌怪物他过去也是接触过"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "瞻空道人",
+      "aliases": [
+        "瞻空",
+        "瞻空玄尊",
+        "瞻空道友"
+      ],
+      "identity": "元都玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元都一脉玄尊，荀季的师弟，坚定站在天夏一方。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "感恩"
+      ],
+      "abilities": [
+        "元都玄图权柄"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        },
+        {
+          "target": "荀季",
+          "type": "师兄"
+        },
+        {
+          "target": "祈道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在北穹天虚宿内被迷雾遮掩，与祈道人对抗，被张御所救，后用元都玄图送张御前往符诏所指之地。"
+        }
+      ],
+      "evidence": [
+        "瞻空道人察觉到来者是张御，也并不觉的太过意外",
+        "瞻空道人道：“原来如此，师兄原来是将那符诏做了这等安排。”",
+        "瞻空道人肃容道：“还请守正将那符诏取出。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "祈道人",
+      "aliases": [
+        "此人",
+        "混沌怪物"
+      ],
+      "identity": "上宸天玄尊（新晋）",
+      "faction": "上宸天",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "上宸天派来缠住瞻空道人的玄尊，被大混沌侵染，最终被张御杀灭。",
+      "appearance": [
+        "整个人扩散为一团融入虚空的黑气"
+      ],
+      "personality": [],
+      "abilities": [
+        "大混沌之力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "瞻空道人",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "赢冲",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与瞻空道人对抗，被张御心光压迫至极限后彻底消失。"
+        }
+      ],
+      "evidence": [
+        "祈道人见到张御到来，虽不认识，但能确定后者必是来自天夏的玄尊",
+        "他整个人扩散为一团融入虚空的黑气",
+        "整个虚空之中，只剩下了一片灿烂耀眼的清光。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "赢冲",
+      "aliases": [],
+      "identity": "上宸天高层",
+      "faction": "上宸天",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "上宸天一方谋划者，站在荒星上观察内层方向。",
+      "appearance": [],
+      "personality": [
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏盏",
+          "type": "同行"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "站在荒星上等待结果，发现元都玄图清光，认出张御。"
+        }
+      ],
+      "evidence": [
+        "赢冲仍是站在站在荒星之上看着内层方向",
+        "赢冲抬头看去，却是平静言道：“走不掉了。”",
+        "赢冲神情微凝，道：“玄廷守正，张御。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "苏盏",
+      "aliases": [],
+      "identity": "上宸天弟子",
+      "faction": "上宸天",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "赢冲身旁的弟子，提醒赢冲回避。",
+      "appearance": [],
+      "personality": [
+        "警觉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赢冲",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "站在赢冲身旁，发现元都玄图后建议回避。"
+        }
+      ],
+      "evidence": [
+        "苏盏一直站在他身旁",
+        "苏盏也是心中一跳，他急忙道：“前辈，这是元都玄图”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周"
+      ],
+      "identity": "守正宫道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "守正宫中负责探查的道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "探查"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "探查瞻空道人下落，报告给张御。"
+        }
+      ],
+      "evidence": [
+        "明周道人探查片刻，道：“回禀守正，瞻空玄尊正在北穹天虚宿之内”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "荀季",
+      "aliases": [
+        "荀师",
+        "师兄"
+      ],
+      "identity": "元都一脉玄尊",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御之师，瞻空道人的师兄，已留书安排符诏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        },
+        {
+          "target": "瞻空道人",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "留书将符诏安排给张御。"
+        }
+      ],
+      "evidence": [
+        "他将荀季留书之事大致一说",
+        "师兄原来是将那符诏做了这等安排"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

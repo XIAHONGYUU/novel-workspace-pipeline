@@ -1,0 +1,368 @@
+{
+  "chunk_id": "chunk-1519",
+  "characters": [
+    {
+      "name": "金郅行",
+      "aliases": [
+        "金真人",
+        "金执事"
+      ],
+      "identity": "天夏驻元夏使节，张御亲信",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "张御的亲信，被派往元夏担任驻使，负责传递消息，善于吹捧元夏以获取信任。",
+      "appearance": [],
+      "personality": [
+        "善于逢迎",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "章印（张御所赐）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "过修士",
+          "type": "接待者"
+        },
+        {
+          "target": "兰司议",
+          "type": "元夏司议"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抵达元夏，与过修士会面，商议修筑墩台事宜，并传递消息给张御。"
+        }
+      ],
+      "evidence": [
+        "金郅行倒是觉得这个驻使倒也认真负责",
+        "金郅行呵呵一笑，道：“这便是我辈修道人将来欲行之礼，又怎能不学好啊？”",
+        "他满口答应下来，装模作样令身边人带着一封书信送传回去。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "过修士",
+      "aliases": [
+        "过真人"
+      ],
+      "identity": "元夏修士，接待金郅行",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "元夏方面负责接待金郅行的修士，对金郅行的态度满意，并协助其修筑墩台。",
+      "appearance": [],
+      "personality": [
+        "和蔼",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "接待与被接待"
+        },
+        {
+          "target": "兰司议",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接金郅行，与其交谈，并汇报给兰司议。"
+        }
+      ],
+      "evidence": [
+        "过修士微笑着回了一礼",
+        "过修士又是一笑，他对金郅行很满意",
+        "过修士金郅行一番谈论下来后，大体上对他是满意的"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "兰司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "元夏的司议，负责与天夏的联络，关注上境大能变动。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "过修士",
+          "type": "下属"
+        },
+        {
+          "target": "万道人",
+          "type": "同僚"
+        },
+        {
+          "target": "金郅行",
+          "type": "间接联系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与过修士商议，后接到金符，赶往正殿见万道人。"
+        }
+      ],
+      "evidence": [
+        "兰司议道：“看来是上次墩台爆裂之事让张正使过于担忧了啊”",
+        "兰司议接了过来，面上笑容敛去",
+        "兰司议想了想，道：“张正使派来的亲信驻使金真人已是到了”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "万道人",
+      "aliases": [
+        "万司议"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "元夏司议，在正殿与兰司议交谈，提及几位大司议的指示。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "兰司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在正殿青玉莲花座上，告知兰司议几位大司议的指示。"
+        }
+      ],
+      "evidence": [
+        "万道人一个人站在青玉莲花座上",
+        "万道人道：“方才几位大司议来过了。”",
+        "万道人沉吟一下，道：“应是天夏上境大能之间的争端”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张正使",
+        "廷执"
+      ],
+      "identity": "天夏廷执，正使",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "天夏廷执，派遣金郅行为驻使，赐予章印，并收到金郅行的传讯。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "上级"
+        },
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清玄道宫琢磨道法，收到金郅行传讯，后应陈首执之召前往清穹之舟。"
+        }
+      ],
+      "evidence": [
+        "张御正定坐在清玄道宫之中琢磨道法",
+        "张御听到是涉及上境大能，若有所思",
+        "张御收了训天道章，从座上起身"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "天夏首执，召集张御和武廷执，告知寰阳派三位祖师不再干涉天夏事机。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清穹之舟深处阶台，告知张御和武廷执六位执摄的消息。"
+        }
+      ],
+      "evidence": [
+        "陈首执沉声道：“唤两位来，是因为方才六位执摄告知我”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "天夏廷执，应陈首执之召前来。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈首执",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同见陈首执。"
+        }
+      ],
+      "evidence": [
+        "光影一闪，武廷执也是自外走了进来"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "元夏驻使",
+      "aliases": [],
+      "identity": "元夏驻天夏使节",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "元夏驻天夏的使节，负责送金郅行上飞舟，但名字未知。",
+      "appearance": [],
+      "personality": [
+        "认真负责"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "接待"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送金郅行上元夏飞舟。"
+        }
+      ],
+      "evidence": [
+        "元夏驻使见金郅行急着欲行，也没有坚持",
+        "这位驻使一直将他送到了舟上这才离去",
+        "金郅行倒是觉得这个驻使倒也认真负责"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "接引使者",
+      "aliases": [],
+      "identity": "元夏接引使者",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "元夏的接引使者，负责引导金郅行进入元夏境内。",
+      "appearance": [],
+      "personality": [
+        "附和"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "引导"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "引导金郅行进入元夏，并告知过修士到来。"
+        }
+      ],
+      "evidence": [
+        "那接引使者道：“金真人，我已到了元夏境内。”",
+        "那接引使者只得附和道：“嗯，对，是啊，是啊。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "明周道人",
+      "aliases": [],
+      "identity": "天夏道人，传讯者",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九十七章 知传上机变",
+      "summary": "在张御殿中出现，传达陈首执的召见。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "传讯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在张御殿中，告知首执有请。"
+        }
+      ],
+      "evidence": [
+        "明周道人出现在了阶下，对他一个稽首，道：“廷执，首执有请。”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

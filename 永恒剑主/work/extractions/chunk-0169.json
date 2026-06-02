@@ -1,0 +1,197 @@
+{
+  "chunk_id": "chunk-0169",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [
+        "红花"
+      ],
+      "identity": "练气士，松林剑派弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与普度生在幽府交易，用灵玉换取炼体功法和高等材料，同时思念亡妻萧玲玲。",
+      "appearance": [
+        "白发夹杂双鬓，面容显出中年男人样子"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "重情"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "普度生",
+          "type": "交易对象"
+        },
+        {
+          "target": "萧玲玲",
+          "type": "亡妻"
+        },
+        {
+          "target": "林新媛",
+          "type": "妹妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "幽府交易",
+          "event": "与普度生谈判，约定半个月后在吴申谷交易灵玉和典籍。"
+        },
+        {
+          "stage": "现实醒来",
+          "event": "清晨醒来，发现林新媛准备了早餐，回忆起萧玲玲。"
+        }
+      ],
+      "evidence": [
+        "林新伸出一根手指。",
+        "林新微笑起来，却是不答。",
+        "林新站起身，走到房间角落。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "普度生",
+      "aliases": [],
+      "identity": "双面国高层，位高权重",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与林新在幽府交易，用炼体功法和高等材料换取灵玉。",
+      "appearance": [],
+      "personality": [
+        "精明",
+        "渴求灵玉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "幽府交易",
+          "event": "与林新谈判，约定半个月后在吴申谷交易。"
+        }
+      ],
+      "evidence": [
+        "那人面色一冷。",
+        "对方眼神一沉，死死盯住他。",
+        "普度生临走时给了他一个小香囊。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "林新媛",
+      "aliases": [
+        "媛媛"
+      ],
+      "identity": "林新的妹妹",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林新的妹妹，管理山庄，照顾林新生活。",
+      "appearance": [
+        "二十出头的样子，黑发披肩，肤白俏鼻，面容娇俏，身段前凸后翘，喜欢穿紧身劲装"
+      ],
+      "personality": [
+        "体贴",
+        "坦荡"
+      ],
+      "abilities": [
+        "管理能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "兄妹"
+        },
+        {
+          "target": "萧玲玲",
+          "type": "朋友/托付"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "现实清晨",
+          "event": "为林新准备早餐，转达萧玲玲的遗言。"
+        }
+      ],
+      "evidence": [
+        "林新媛走进来，看到他起床了，微微露出笑容。",
+        "我答应过玲玲姐，要好好照顾你。",
+        "玲玲姐说了，若是有她的消息，请你一定要去把她接过来。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "萧玲玲",
+      "aliases": [
+        "玲玲",
+        "玲玲姐"
+      ],
+      "identity": "林新的亡妻",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "林新的妻子，已去世，生前托付林新媛照顾林新。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "夫妻"
+        },
+        {
+          "target": "林新媛",
+          "type": "朋友/托付"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "去世，留下遗言让林新去找安颖。"
+        }
+      ],
+      "evidence": [
+        "被褥里还残留着萧玲玲的身体余香",
+        "我答应过玲玲姐，要好好照顾你",
+        "玲玲姐说了，若是有她的消息，请你一定要去把她接过来。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "安颖",
+      "aliases": [],
+      "identity": "金玉宗弟子",
+      "faction": "金玉宗",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被萧玲玲提及，林新想去找她。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "林新想找她"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "她一直试图在找安颖姑娘",
+        "听说她在某个地方隐秘闭关"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

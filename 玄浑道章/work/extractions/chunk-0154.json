@@ -1,0 +1,314 @@
+{
+  "chunk_id": "chunk-0154",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张君",
+        "陶生"
+      ],
+      "identity": "夏士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在士议上提出重审文修院一案，与中年壮汉交谈后返回宿处修炼。",
+      "appearance": [],
+      "personality": [
+        "大度",
+        "冷静"
+      ],
+      "abilities": [
+        "打坐吐纳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "中年壮汉",
+          "type": "民询中相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "从大议堂出来，遇到中年壮汉并交谈。"
+        },
+        {
+          "stage": "士议期间",
+          "event": "回到宿处打坐吐纳，收到燕氏父子被拘拿的报书。"
+        }
+      ],
+      "evidence": [
+        "张御自大议堂中走出来时，却是在外堂廊停的门口遇到了一人",
+        "张御道：“没什么，尊驾问的都是该问之言”",
+        "他来到窗口边，看向外面"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "中年壮汉",
+      "aliases": [
+        "老敖家"
+      ],
+      "identity": "民询人选，码头工人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "来自北方大蒲镇，因天灾逃难到瑞光城，在旦港码头卖力气，准备回乡种田。",
+      "appearance": [
+        "中年壮汉"
+      ],
+      "personality": [
+        "羞惭",
+        "感激",
+        "公心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "民询中相识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "向张御道歉并告别，准备返回北方。"
+        }
+      ],
+      "evidence": [
+        "中年壮汉上来一礼，面现羞惭道：“张君，之前的民询，当真是多有得罪了”",
+        "中年壮汉道：“我是北方大蒲镇的人”",
+        "中年壮汉很是认真的对他行了一个夏礼"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "燕叙伦",
+      "aliases": [
+        "燕副尉主"
+      ],
+      "identity": "神尉军副尉主",
+      "faction": "神尉军",
+      "status": "被拘拿",
+      "first_appearance": "",
+      "summary": "燕氏父子之一，在拘拿过程中放弃抵抗，被捉回审问。",
+      "appearance": [],
+      "personality": [
+        "控制欲望极强",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "燕竺",
+          "type": "父子"
+        },
+        {
+          "target": "裘学令",
+          "type": "曾控制并利用其解读密卷"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "被都府拘拿，放弃抵抗。"
+        }
+      ],
+      "evidence": [
+        "燕叙伦则是放弃了抵抗，如今已经被捉了回来",
+        "燕叙伦是个控制欲望极强的人，也是个十分谨慎的人"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "燕竺",
+      "aliases": [],
+      "identity": "燕叙伦之子",
+      "faction": "神尉军",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "燕氏父子之一，在拘拿过程中试图反抗，被当场击毙。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "燕叙伦",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "在拘拿过程中试图反抗，被当场击毙。"
+        }
+      ],
+      "evidence": [
+        "燕竺在拘拿过程中试图反抗，所以被当场击毙"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "项淳",
+      "aliases": [],
+      "identity": "玄府主事人",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府事务堂内，收到报呈，对张御的士议行动感到可惜又庆幸。",
+      "appearance": [],
+      "personality": [
+        "深思"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同属玄府"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "在玄府事务堂内收到报呈，思考文修院之事。"
+        }
+      ],
+      "evidence": [
+        "玄府事务堂内，项淳也受到了报呈",
+        "他可惜的是，若是神尉军当真为了燕叙伦而反抗",
+        "他脸上露出了凝重之色，随后抚须深思起来"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "裘学令",
+      "aliases": [
+        "裘学令"
+      ],
+      "identity": "学令",
+      "faction": "",
+      "status": "被转移",
+      "first_appearance": "",
+      "summary": "被神尉军控制，曾为燕叙伦解读密卷，后因密卷内容被转移给林队率。",
+      "appearance": [],
+      "personality": [
+        "聪明",
+        "刻意表现"
+      ],
+      "abilities": [
+        "记忆密卷内容"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "燕叙伦",
+          "type": "曾被其控制"
+        },
+        {
+          "target": "林队率",
+          "type": "被其救出并合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "被林队率等人从昏沉中唤醒，转移到树林。"
+        },
+        {
+          "stage": "士议期间",
+          "event": "声称自己已记下全部密卷内容。"
+        }
+      ],
+      "evidence": [
+        "裘学令眼前的蒙布被解开",
+        "裘学令稍稍活动了一下酸麻的手脚",
+        "裘学令此刻觉得自己血脉已是顺畅了"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "林队率",
+      "aliases": [
+        "林队率"
+      ],
+      "identity": "神尉军队率",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "神尉军队率，飘悬在空中，救出裘学令并希望获取密卷内容。",
+      "appearance": [
+        "离地三尺，飘悬在半空中"
+      ],
+      "personality": [
+        "傲色",
+        "感兴趣"
+      ],
+      "abilities": [
+        "飘悬"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裘学令",
+          "type": "救出并合作"
+        },
+        {
+          "target": "燕叙伦",
+          "type": "下属或同僚，但对其生死无所谓"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "与燕姓役从一起将裘学令转移到树林，询问密卷内容。"
+        }
+      ],
+      "evidence": [
+        "其中一个离地三尺，飘悬在半空中，满脸傲色",
+        "林队率看着他道：“看来我们费力把救你出来是正确的”",
+        "林队率无所谓道：“燕叙伦？就让他去死好了。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "燕姓役从",
+      "aliases": [],
+      "identity": "燕叙伦的役从",
+      "faction": "神尉军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "燕叙伦的役从，曾监视裘学令，后与林队率一起转移裘学令。",
+      "appearance": [],
+      "personality": [
+        "质疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "燕叙伦",
+          "type": "役从"
+        },
+        {
+          "target": "林队率",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "与林队率一起将裘学令转移到树林，质疑裘学令的记忆。"
+        }
+      ],
+      "evidence": [
+        "那燕姓役从道：“林队率，就算有了裘学令”",
+        "那燕姓役从却是嚷道：“不可能！”"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

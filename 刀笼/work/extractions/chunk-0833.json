@@ -1,0 +1,298 @@
+{
+  "chunk_id": "chunk-0833",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "老九"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与魔女对峙，利用斩仙葫芦破开鼎底逃生，被提及为老九。",
+      "appearance": [],
+      "personality": [
+        "坚定",
+        "冷静"
+      ],
+      "abilities": [
+        "先天五行无量遁法",
+        "斩仙葫芦"
+      ],
+      "equipment": [
+        "补天石",
+        "五遁神桩",
+        "斩仙葫芦"
+      ],
+      "relationships": [
+        {
+          "target": "五行魔女",
+          "type": "敌对"
+        },
+        {
+          "target": "诸葛侯",
+          "type": "被提及为老九"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在鼎中与魔女对峙，用斩仙葫芦破开鼎底逃生。"
+        }
+      ],
+      "evidence": [
+        "戚笼心中一动，手掌摩梭着补天石",
+        "戚笼咧嘴一笑，露出一嘴白牙，道：'不，我拒绝。'",
+        "戚笼自然不是在找死"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "五行魔女",
+      "aliases": [
+        "魔女",
+        "大姐"
+      ],
+      "identity": "魔母宗残党，道果级强者",
+      "faction": "魔母宗",
+      "status": "死亡后复活",
+      "first_appearance": "",
+      "summary": "与戚笼在鼎中争斗，被仙火烧死，后被魔母精气复活，与诸葛侯对话。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "怨恨"
+      ],
+      "abilities": [
+        "魔母精气复活"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "诸葛侯",
+          "type": "姐弟（大姐与老四）"
+        },
+        {
+          "target": "血神君",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被仙火烧死，后被魔母精气复活，与诸葛侯对话。"
+        }
+      ],
+      "evidence": [
+        "魔女诱惑道",
+        "魔女色变：'你疯了！你想和我同归于尽！'",
+        "一道魔光忽然从魔母精气中亮起，变成了另一个五行魔女。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "诸葛侯",
+      "aliases": [
+        "老四"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "出现在第三十一层，与复活后的魔女对话，提及转生和开天元识。",
+      "appearance": [],
+      "personality": [
+        "微笑",
+        "从容"
+      ],
+      "abilities": [],
+      "equipment": [
+        "开天元识"
+      ],
+      "relationships": [
+        {
+          "target": "五行魔女",
+          "type": "姐弟（老四与大姐）"
+        },
+        {
+          "target": "戚笼",
+          "type": "被提及为老九"
+        },
+        {
+          "target": "老三",
+          "type": "兄弟"
+        },
+        {
+          "target": "老六",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在第三十一层抓住魔女的手，与之对话。"
+        }
+      ],
+      "evidence": [
+        "诸葛侯微笑道：'大姐虽然化身亿万，但却是缘悭一面。'",
+        "诸葛侯躬身道：'长者为尊，这点规矩我还是懂的。'",
+        "诸葛侯笑着摇头：'我知道，但我不能告诉你。'"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "血神君",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被魔女提及，可能在第三十层与晚辈争夺帝剑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "五行魔女",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及在第三十层争夺帝剑。"
+        }
+      ],
+      "evidence": [
+        "血神君现在在哪里？",
+        "恐怕在第三十层，跟他那些晚辈在争那套帝剑呢。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "圆道人",
+      "aliases": [
+        "圆老鬼"
+      ],
+      "identity": "大峨派前辈",
+      "faction": "大峨派",
+      "status": "提及（已故）",
+      "first_appearance": "",
+      "summary": "遗蜕所在被提及，拥有大峨派最深层次心法和剑术。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "人间无敌的剑法"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "圆道人遗蜕在第十层，但魔女谎称在第三十一层。"
+        }
+      ],
+      "evidence": [
+        "相传那是圆道人遗蜕所在",
+        "圆老鬼的剑术"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "老三",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被诸葛侯和魔女提及，弃刀用剑，绝情绝性，曾重伤老九。",
+      "appearance": [],
+      "personality": [
+        "绝情绝性"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "诸葛侯",
+          "type": "兄弟（三哥与老四）"
+        },
+        {
+          "target": "戚笼",
+          "type": "曾重伤老九"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "弃刀用剑，重伤老九。"
+        }
+      ],
+      "evidence": [
+        "老三弃刀用剑",
+        "当年老九被打的重伤转世，差点殒落，里面有老三的手笔？"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "老六",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及已出世，与诸葛侯一起将五太演化放在下面。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "诸葛侯",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已出世。"
+        }
+      ],
+      "evidence": [
+        "老六都出世了么",
+        "我和老六把它放在下面了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "老五",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被魔女提及，问其身份和所在。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "诸葛侯",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "老五也来了，他是谁，现在在哪里？"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

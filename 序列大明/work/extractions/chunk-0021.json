@@ -1,0 +1,203 @@
+{
+  "chunk_id": "chunk-0021",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [
+        "李爷"
+      ],
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第20章儒教门阀",
+      "summary": "锦衣卫总旗，被余寇发展为线人，接近顾邕以对付顾氏门阀。",
+      "appearance": [],
+      "personality": [
+        "敏锐",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余寇",
+          "type": "上线"
+        },
+        {
+          "target": "乌鸦华",
+          "type": "医患关系"
+        },
+        {
+          "target": "顾邕",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与乌鸦华交谈，得知余寇的真实意图和顾氏门阀的信息。"
+        }
+      ],
+      "evidence": [
+        "李钧敏锐察觉到对方话语中对自己称呼的改变",
+        "余寇是锦衣卫总旗，而且还有道教的身份。他派你去接近顾邕",
+        "李钧此刻的心绪略显沉重"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "乌鸦华",
+      "aliases": [
+        "乌鸦华",
+        "老头"
+      ],
+      "identity": "鬼街医生",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第20章儒教门阀",
+      "summary": "鬼街医生，孙女乌鸦朵朵，经历两朝帝王，明哲保身。",
+      "appearance": [
+        "嘴唇上凌乱的白须"
+      ],
+      "personality": [
+        "谨慎",
+        "果决"
+      ],
+      "abilities": [
+        "改造身体",
+        "尝试过多种序列"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌鸦朵朵",
+          "type": "孙女"
+        },
+        {
+          "target": "李钧",
+          "type": "医患关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向李钧透露余寇的身份和顾氏门阀的信息。"
+        }
+      ],
+      "evidence": [
+        "乌鸦华将还在昏迷的乌鸦朵朵妥善安置好",
+        "乌鸦华字字铿锵，振聋发聩",
+        "乌鸦华脸上露出伱果然发现了的神情"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "余寇",
+      "aliases": [
+        "余寇"
+      ],
+      "identity": "锦衣卫总旗、道教从序者",
+      "faction": "锦衣卫、道教",
+      "status": "提及",
+      "first_appearance": "第20章儒教门阀",
+      "summary": "锦衣卫总旗，同时也是道教从序者，派李钧接近顾邕以对付顾氏门阀。",
+      "appearance": [
+        "一身肥肉"
+      ],
+      "personality": [],
+      "abilities": [
+        "使用雕版符篆",
+        "驱魂咒"
+      ],
+      "equipment": [
+        "雕版符咒"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "上线"
+        },
+        {
+          "target": "顾邕",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被乌鸦华揭露身份和计划。"
+        }
+      ],
+      "evidence": [
+        "余寇是锦衣卫总旗，而且还有道教的身份",
+        "余寇可是货真价实的从序者",
+        "余寇的计划已经清晰"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "乌鸦朵朵",
+      "aliases": [],
+      "identity": "乌鸦华的孙女",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第20章儒教门阀",
+      "summary": "乌鸦华的孙女，昏迷中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "乌鸦华",
+          "type": "孙女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "昏迷，被乌鸦华安置。"
+        }
+      ],
+      "evidence": [
+        "乌鸦华将还在昏迷的乌鸦朵朵妥善安置好",
+        "再看了一眼还在昏睡的乌鸦朵朵"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "顾邕",
+      "aliases": [],
+      "identity": "益州顾氏支房子嗣、成都府十大杰出青年、蜀道物流集团老板",
+      "faction": "儒教门阀（益州顾氏）",
+      "status": "提及",
+      "first_appearance": "第20章儒教门阀",
+      "summary": "益州顾氏支房子嗣，成都府十大杰出青年，蜀道物流集团老板，是余寇和李钧的目标。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余寇",
+          "type": "目标"
+        },
+        {
+          "target": "李钧",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为余寇的目标。"
+        }
+      ],
+      "evidence": [
+        "余寇让你接近的那个人，不止是清水袍哥，他还是成都府十大杰出青年，蜀道物流集团的老板",
+        "他还是益州顾氏的支房子嗣"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

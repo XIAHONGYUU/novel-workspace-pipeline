@@ -1,0 +1,166 @@
+{
+  "chunk_id": "chunk-0249",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张学令",
+        "张先生"
+      ],
+      "identity": "开阳学宫教长",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第二十二章 天煞",
+      "summary": "开阳学宫教长，古代博物学专修，击败邪修并救下叶思兰。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于思考"
+      ],
+      "abilities": [
+        "吸摄源能"
+      ],
+      "equipment": [
+        "神像"
+      ],
+      "relationships": [
+        {
+          "target": "叶思兰",
+          "type": "救命恩人"
+        },
+        {
+          "target": "鲁老",
+          "type": "请教对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击败邪修，与叶思兰、鲁老交谈，获取天煞将军神像信息。"
+        }
+      ],
+      "evidence": [
+        "我名张御，忝为开阳学宫的教长。",
+        "张御知道，这是因为邪修修法也不是随便什么人都会拿来用的。",
+        "张御将那个雕像拿了出来，道：这是我从那个邪修身上发现的。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "叶思兰",
+      "aliases": [
+        "思兰"
+      ],
+      "identity": "延台学宫师教",
+      "faction": "延台学宫",
+      "status": "登场",
+      "first_appearance": "第二十二章 天煞",
+      "summary": "延台学宫师教，跟随鲁老找寻古物，被邪修袭击后被张御所救。",
+      "appearance": [],
+      "personality": [
+        "紧张",
+        "感激"
+      ],
+      "abilities": [],
+      "equipment": [
+        "纯白（造物）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被救者"
+        },
+        {
+          "target": "鲁老",
+          "type": "长辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被邪修袭击，被张御所救，后引荐张御与鲁老认识。"
+        }
+      ],
+      "evidence": [
+        "思兰想了想，走藏身之地里走了出来，随后也是见到了张御的身影正朝自己走来。",
+        "我名叶思兰，不知尊驾如何称呼？",
+        "叶思兰道：对，他姓鲁，是一位古物学的大家。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "鲁老",
+      "aliases": [
+        "鲁老"
+      ],
+      "identity": "古物学大家",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二十二章 天煞",
+      "summary": "古物学大家，知识广博，认出天煞将军神像，并告知张御关于失落边州的信息。",
+      "appearance": [],
+      "personality": [
+        "知识广博",
+        "感激"
+      ],
+      "abilities": [],
+      "equipment": [
+        "名刺"
+      ],
+      "relationships": [
+        {
+          "target": "叶思兰",
+          "type": "长辈"
+        },
+        {
+          "target": "张御",
+          "type": "被请教者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御交谈，辨认出天煞将军神像，并提及失落边州之事。"
+        }
+      ],
+      "evidence": [
+        "鲁老道：这应该是天煞将军。",
+        "鲁老道：先生没听过不奇怪，因为这个称呼以往也只在青阳上洲这里才有。",
+        "鲁老道：这两个州最早是玉京设立两个驻守军镇。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "邪修",
+      "aliases": [
+        "那道人",
+        "那个修士"
+      ],
+      "identity": "邪修",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第二十二章 天煞",
+      "summary": "袭击叶思兰的邪修，被张御击败，身上带有天煞将军神像。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "邪法"
+      ],
+      "equipment": [
+        "天煞将军神像"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "袭击叶思兰，被张御击败并杀死。"
+        }
+      ],
+      "evidence": [
+        "刚才那人应该一个邪修，袭击你们，许看中了你们的精血，想要用来修炼邪法。",
+        "张御就将那个雕像拿了出来，道：这是我从那个邪修身上发现的。"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

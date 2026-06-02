@@ -1,0 +1,395 @@
+{
+  "chunk_id": "chunk-0433",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正",
+        "张先生"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄正，负责检正司，行事果断，不受两府管束。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱错",
+          "type": "对立"
+        },
+        {
+          "target": "曹方定",
+          "type": "下属"
+        },
+        {
+          "target": "苏芊",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在检正司接见朱错，并下令将其请走。"
+        }
+      ],
+      "evidence": [
+        "张御看着前面义正辞严，一脸正气的朱错",
+        "张御道：“请这位朱从事回去。”",
+        "苏芊道：“我是光烨营披甲校尉苏芊，与张先生是旧识”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "朱错",
+      "aliases": [
+        "朱从事"
+      ],
+      "identity": "决曹司从事",
+      "faction": "洲府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "决曹司年轻从事，被背后之人当刀子用，指责张御抓费大匠坏了规矩。",
+      "appearance": [],
+      "personality": [
+        "亢奋",
+        "不太聪明"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对立"
+        },
+        {
+          "target": "阿姐",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到检正司质问张御，被请走。"
+        }
+      ],
+      "evidence": [
+        "朱错情绪很是亢奋",
+        "朱错见此，先是一愣，随后面孔陡然涨红",
+        "暗暗发誓道：“玄府和检正司如此目无规序，我回去之后，一定要把这件事告知阿姐！”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "杏川道人",
+      "aliases": [
+        "杏川道友"
+      ],
+      "identity": "玄修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修，与唐丰对战一天平手，受张御关照需将公孙泯尸身交给白秀。",
+      "appearance": [],
+      "personality": [
+        "性子直",
+        "做事爽快",
+        "有迷惑性"
+      ],
+      "abilities": [
+        "斗战经验丰富"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "唐丰",
+          "type": "对手"
+        },
+        {
+          "target": "司武彰",
+          "type": "同伴"
+        },
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与唐丰对战一天平手，后至玉璧龙泉与司武彰会合。"
+        }
+      ],
+      "evidence": [
+        "杏川道人与唐丰两人对战一天，最后却是以平手告终。",
+        "杏川道人将剑一收，归入背后鞘中",
+        "杏川道人道：“我自不会忘，只是玄正关照过，需将公孙泯尸身交给白秀”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "唐丰",
+      "aliases": [
+        "唐道友"
+      ],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与杏川道人斗战的修士，法力修为可能高于杏川，但斗战经验不足。",
+      "appearance": [],
+      "personality": [
+        "阴沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杏川道人",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与杏川道人斗战一天平手。"
+        }
+      ],
+      "evidence": [
+        "唐丰阴沉着脸",
+        "从法力修为上，杏川道人倒未必见得是他对手"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "司武彰",
+      "aliases": [],
+      "identity": "原乘常道派长老",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "原乘常道派长老，与杏川道人一同行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杏川道人",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玉璧龙泉等待杏川道人。"
+        }
+      ],
+      "evidence": [
+        "原来乘常道派的长老司武彰正在这里等着他"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "曹方定",
+      "aliases": [
+        "曹玄修"
+      ],
+      "identity": "玄府玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄修，奉张御之命追剿范大匠，为人谨慎自傲。",
+      "appearance": [],
+      "personality": [
+        "冷言淡言",
+        "自傲",
+        "谨慎"
+      ],
+      "abilities": [
+        "伏余观想图"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "公孙泯",
+          "type": "曾被其法力遮掩心窍"
+        },
+        {
+          "target": "苏芊",
+          "type": "偶遇"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒原上追索范尚，遇到光烨营舰队，与苏芊交谈后离去。"
+        }
+      ],
+      "evidence": [
+        "曹方定正在往北方荒原之上飞驰。",
+        "他心中早已是打定主意，这回哪怕是追到玉京，也要将范大匠给捕拿了回来。",
+        "曹方定是个谨慎之人"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "苏芊",
+      "aliases": [
+        "女校尉"
+      ],
+      "identity": "光烨营披甲校尉",
+      "faction": "光烨营",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "光烨营披甲校尉，与张御是旧识，曾见过范尚。",
+      "appearance": [
+        "英气勃勃，有着修长双腿"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "旧识"
+        },
+        {
+          "target": "曹方定",
+          "type": "偶遇"
+        },
+        {
+          "target": "阿姐",
+          "type": "姐妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒原上遇到曹方定，告知范尚位置。"
+        }
+      ],
+      "evidence": [
+        "一名英气勃勃，有着修长双腿的女校尉",
+        "我是光烨营披甲校尉苏芊，与张先生是旧识",
+        "我在三日前曾见过这一位，现在他就停留在前面庚子军堡之中。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "范尚",
+      "aliases": [
+        "范大匠",
+        "范尚"
+      ],
+      "identity": "大匠",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被追剿的大匠，曾在天工部挂名，现逃往北方。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被曹方定追索，三日前被苏芊在庚子军堡见过。"
+        }
+      ],
+      "evidence": [
+        "这次主动申求追剿范大匠。",
+        "我在三日前曾见过这一位，现在他就停留在前面庚子军堡之中。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "公孙泯",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "已死之人，其尸身需交给白秀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "法力遮掩心窍"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹方定",
+          "type": "曾用法力遮掩其心窍"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "已死，尸身被杏川道人持有。"
+        }
+      ],
+      "evidence": [
+        "上次他被公孙泯用法力遮掩了心窍，后来公孙泯一死，他也是恢复了过来",
+        "需将公孙泯尸身交给白秀"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白秀",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "公孙泯尸身的接收者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙泯",
+          "type": "接收其尸身"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "需将公孙泯尸身交给白秀"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "费大匠",
+      "aliases": [],
+      "identity": "大匠",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被张御抓捕的大匠，在天工部挂名。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "需知费大匠身为大匠，在玉京天工部上挂名"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

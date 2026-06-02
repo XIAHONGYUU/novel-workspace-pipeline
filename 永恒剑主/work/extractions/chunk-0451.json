@@ -1,0 +1,267 @@
+{
+  "chunk_id": "chunk-0451",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [],
+      "identity": "人族强者，拥有虫群控制能力",
+      "faction": "人族",
+      "status": "重伤后恢复",
+      "first_appearance": "",
+      "summary": "林新与幻光族欢乐神及其手下激战，击杀两名幻光族高手，后重伤逃脱，并下令追杀欢乐神。",
+      "appearance": [
+        "浑身是血，脖子断掉一半，胸口两个大洞，双臂折断"
+      ],
+      "personality": [
+        "狂笑",
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "蚕明白月剑",
+        "三阴罗剑召唤三头狮身孔雀尾怪物",
+        "虫群控制",
+        "恐怖恢复力"
+      ],
+      "equipment": [
+        "蚕明白月剑",
+        "三阴罗剑",
+        "牙哭魔书"
+      ],
+      "relationships": [
+        {
+          "target": "欢乐神",
+          "type": "敌对"
+        },
+        {
+          "target": "幻光族高手",
+          "type": "击杀"
+        },
+        {
+          "target": "女妖蜂后",
+          "type": "控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邪神庙战斗",
+          "event": "与欢乐神及其手下激战，击杀两名幻光族高手，重伤后逃脱。"
+        }
+      ],
+      "evidence": [
+        "林新狂笑起来，身形快如鬼魅，一眨眼便已出现在另一名幻光族人身后，一剑刺去。",
+        "林新尽管被重创，但他杀死两名幻光族高手，却是从他们的记忆里得到了大量以前完全没有接触过的道意感悟。",
+        "林新眼中缓缓泛起红光，通过灵魂契约，他大面积的命令自己麾下的三十多万所有虫子；以及女妖蜂后产出的绝大部分人面蜂，全数出击，追杀欢乐神。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "欢乐神",
+      "aliases": [],
+      "identity": "幻光族强者",
+      "faction": "幻光族",
+      "status": "重伤后逃离",
+      "first_appearance": "",
+      "summary": "幻光族强者，与林新和邪神庙中的存在交战，最终被击退。",
+      "appearance": [
+        "浑身蓝色光点不断散落"
+      ],
+      "personality": [
+        "暴怒"
+      ],
+      "abilities": [
+        "蓝色光点遁法",
+        "掌心黑洞喷涌黑风",
+        "无形力量攻击"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "邪神分念",
+          "type": "敌对"
+        },
+        {
+          "target": "哈鲁斯",
+          "type": "族人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邪神庙战斗",
+          "event": "与林新激战，后与邪神分念交手，被击退。"
+        }
+      ],
+      "evidence": [
+        "欢乐神彻底暴怒了，放弃布布罗迪，身体骤然炸开化为蓝光点，瞬间在林新身侧凝聚而出。",
+        "欢乐神居然头也不回，转身便化为蓝光消失在远处。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "邪神分念",
+      "aliases": [],
+      "identity": "邪神庙中的存在",
+      "faction": "奴役哈族",
+      "status": "击退欢乐神",
+      "first_appearance": "",
+      "summary": "邪神庙中的强大存在，击退了欢乐神。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "控制雷电",
+        "释放长条形影子"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "欢乐神",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邪神庙战斗",
+          "event": "击退欢乐神。"
+        }
+      ],
+      "evidence": [
+        "一个狂暴的女子声音冲天而起。",
+        "邪神分念，好手段！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "哈鲁斯",
+      "aliases": [],
+      "identity": "幻光族高手",
+      "faction": "幻光族",
+      "status": "被牙哭魔书吞噬",
+      "first_appearance": "",
+      "summary": "幻光族高手，被牙哭魔书吞噬。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "欢乐神",
+          "type": "族人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邪神庙战斗",
+          "event": "被牙哭魔书吞噬。"
+        }
+      ],
+      "evidence": [
+        "最后一名属下，正被牙哭魔书拽在手心，高高举起，往嘴里一塞。",
+        "哈鲁斯！！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "牙哭魔书",
+      "aliases": [],
+      "identity": "怪物或武器",
+      "faction": "",
+      "status": "活跃",
+      "first_appearance": "",
+      "summary": "林新使用的武器或召唤物，吞噬了一名幻光族高手。",
+      "appearance": [
+        "狼牙棒"
+      ],
+      "personality": [],
+      "abilities": [
+        "挥砸",
+        "吞噬"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "持有"
+        },
+        {
+          "target": "哈鲁斯",
+          "type": "吞噬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邪神庙战斗",
+          "event": "吞噬哈鲁斯。"
+        }
+      ],
+      "evidence": [
+        "牙哭魔书的狼牙棒挥砸",
+        "最后一名属下，正被牙哭魔书拽在手心，高高举起，往嘴里一塞。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "女妖蜂后",
+      "aliases": [],
+      "identity": "林新控制的生物",
+      "faction": "",
+      "status": "被迫产卵",
+      "first_appearance": "",
+      "summary": "被林新控制，正在产卵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "产卵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邪神庙战斗后",
+          "event": "被迫产卵。"
+        }
+      ],
+      "evidence": [
+        "扫了眼还在被迫产卵的女妖蜂后"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "布布罗迪",
+      "aliases": [],
+      "identity": "被欢乐神攻击的目标",
+      "faction": "",
+      "status": "被放弃",
+      "first_appearance": "",
+      "summary": "欢乐神原本攻击的目标，后被放弃。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "欢乐神",
+          "type": "被攻击"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邪神庙战斗",
+          "event": "被欢乐神放弃攻击。"
+        }
+      ],
+      "evidence": [
+        "欢乐神彻底暴怒了，放弃布布罗迪"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

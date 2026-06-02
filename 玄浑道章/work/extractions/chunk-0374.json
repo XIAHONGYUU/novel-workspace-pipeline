@@ -1,0 +1,139 @@
+{
+  "chunk_id": "chunk-0374",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正",
+        "张道友"
+      ],
+      "identity": "玄府统领",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府统领，与莫光辰交战并将其击杀。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "淡然"
+      ],
+      "abilities": [
+        "心光",
+        "剑术"
+      ],
+      "equipment": [
+        "蝉鸣剑"
+      ],
+      "relationships": [
+        {
+          "target": "莫光辰",
+          "type": "交战"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在方台驻地接见莫光辰，后与莫光辰交战并将其击杀。"
+        }
+      ],
+      "evidence": [
+        "张御一转念，方才报上来的呈书中就有提到",
+        "张御淡然看着，似是丝毫未觉意外，身侧的蝉鸣剑也是应意而出",
+        "张御一人在大台之上持剑而立"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "莫光辰",
+      "aliases": [
+        "莫道友",
+        "莫某"
+      ],
+      "identity": "灵妙玄境真修",
+      "faction": "灵妙玄境",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "灵妙玄境真修，被元童老祖用移魂珠控制后与张御交战，最终自爆身亡。",
+      "appearance": [
+        "白衫道人，身上清光净纯，不染纤尘，背后背有一把长剑，黑红两色的穗子飘荡不已"
+      ],
+      "personality": [
+        "坦然",
+        "刚烈"
+      ],
+      "abilities": [
+        "剑术",
+        "追索之术"
+      ],
+      "equipment": [
+        "长剑（黑红剑穗）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交战"
+        },
+        {
+          "target": "元童老祖",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜访张御，询问霜洲信息，后受控与张御交战，自爆身亡。"
+        }
+      ],
+      "evidence": [
+        "在下灵妙玄境莫光辰",
+        "莫光辰对他释然一笑，轰地一声，整个人轰然炸成了一团灰烬",
+        "昨夜他用了一些手段把莫光辰引到了一众邪修的聚集之地"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "元童老祖",
+      "aliases": [],
+      "identity": "邪修老祖",
+      "faction": "邪修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "邪修老祖，暗中操控莫光辰袭击张御，并收集血精炼制法器。",
+      "appearance": [],
+      "personality": [
+        "歹毒",
+        "算计"
+      ],
+      "abilities": [
+        "移魂珠祭炼",
+        "血精收集"
+      ],
+      "equipment": [
+        "移魂珠",
+        "血精"
+      ],
+      "relationships": [
+        {
+          "target": "莫光辰",
+          "type": "控制"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用移魂珠控制莫光辰袭击张御，并观察战斗，后收集血精炼制法器。"
+        }
+      ],
+      "evidence": [
+        "昨夜他用了一些手段把莫光辰引到了一众邪修的聚集之地",
+        "他通过移魂珠的意识沟通看到了方才那一战",
+        "他把手一握，无数血精飘飞出来，并在半空之中缓缓凝聚出一物来"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

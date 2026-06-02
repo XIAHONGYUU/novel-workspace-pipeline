@@ -1,0 +1,289 @@
+{
+  "chunk_id": "chunk-0429",
+  "characters": [
+    {
+      "name": "阴影尸巫",
+      "aliases": [
+        "尸巫"
+      ],
+      "identity": "死灵系巫师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "阴影尸巫，死灵系巫师，曾夺走毁灭之眼浓液，后被幽灵骑士杀死。",
+      "appearance": [
+        "惨白的男子面孔",
+        "双眼燃烧着两团虚弱无比的绿色萤火"
+      ],
+      "personality": [
+        "谨慎",
+        "诡计多端"
+      ],
+      "abilities": [
+        "腐蛆之刃",
+        "黑雾",
+        "符阵"
+      ],
+      "equipment": [
+        "腐蛆之刃",
+        "黑色圆形扣子（保命药粉）"
+      ],
+      "relationships": [
+        {
+          "target": "幽灵骑士",
+          "type": "敌对"
+        },
+        {
+          "target": "神秘女人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被幽灵骑士杀死，头颅被取走。"
+        }
+      ],
+      "evidence": [
+        "赫然是夺走毁灭之眼浓液的阴影尸巫。",
+        "这是他阴影尸巫最强的攻击手段，腐蛆之刃。",
+        "幽灵骑士在溶洞中策马冲向洞穴出口，他脖子上端正的放着一个惨白人头，正是阴影尸巫的脑袋。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "幽灵骑士",
+      "aliases": [
+        "幽灵骑士",
+        "加麦"
+      ],
+      "identity": "骑士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "幽灵骑士，与阴影尸巫敌对，获得了毁灭之眼秘宝，后被安格列拦截。",
+      "appearance": [
+        "蓝色半透明的身体",
+        "光秃秃的脖子"
+      ],
+      "personality": [
+        "一根筋",
+        "得意",
+        "幸灾乐祸"
+      ],
+      "abilities": [],
+      "equipment": [
+        "巨马",
+        "白色眼球（秘宝）"
+      ],
+      "relationships": [
+        {
+          "target": "阴影尸巫",
+          "type": "敌对"
+        },
+        {
+          "target": "琳达",
+          "type": "同伴"
+        },
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "杀死阴影尸巫，获得秘宝，冲出墓穴后被安格列拦截。"
+        }
+      ],
+      "evidence": [
+        "幽灵骑士一身蓝光俯身朝他冲过来",
+        "幽灵骑士在溶洞中策马冲向洞穴出口，他脖子上端正的放着一个惨白人头，正是阴影尸巫的脑袋。",
+        "幽灵骑士加麦顿时浑身微微一颤"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "穆拉",
+      "aliases": [],
+      "identity": "三级巫师",
+      "faction": "",
+      "status": "重伤濒死",
+      "first_appearance": "",
+      "summary": "穆拉，三级巫师，被幽灵骑士和安格列的力量所伤，处于濒死状态。",
+      "appearance": [
+        "身体冰冷，体表泛起白霜",
+        "左侧大腿皮肤隆起一个半透明大水泡",
+        "嘴唇泛着紫黑色"
+      ],
+      "personality": [],
+      "abilities": [
+        "强大精神力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "艾丽缇",
+          "type": "爱人"
+        },
+        {
+          "target": "艾丽娅",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "重伤濒死，在密室中托付艾丽娅带走树根。"
+        }
+      ],
+      "evidence": [
+        "穆拉此时的情况已经糟得不能再糟。",
+        "现在的穆拉已经除开强大精神力外，完全就是一个体质极度虚弱的普通人",
+        "穆拉强睁着双眼，却已经看不到什么东西了"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "艾丽娅",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "艾丽娅，与穆拉同行，受穆拉托付带走树根。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "穿透石壁"
+      ],
+      "equipment": [
+        "黄褐色方形木盒"
+      ],
+      "relationships": [
+        {
+          "target": "穆拉",
+          "type": "同伴"
+        },
+        {
+          "target": "艾丽缇",
+          "type": "姐妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受穆拉托付，带着树根离开密室。"
+        }
+      ],
+      "evidence": [
+        "身边是手拿着黄褐色方形木盒的艾丽娅。",
+        "艾丽娅沉默地看着靠着墙壁半躺的穆拉",
+        "嗤的一声轻响，艾丽娅彻底穿透石壁，消失不见。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列，在墓穴外拦截幽灵骑士，杀死了琳达。",
+      "appearance": [
+        "披着及腰暗红色长发",
+        "面孔模糊"
+      ],
+      "personality": [],
+      "abilities": [
+        "无形热量扭曲燃烧"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "幽灵骑士",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在墓穴外杀死琳达，拦截幽灵骑士。"
+        }
+      ],
+      "evidence": [
+        "一个阴暗的修长人影从一颗大树背后走出来，声音平静异常。这人背后披着及腰暗红色长发，面孔模糊，声音正是刚才在墓穴中的安格列。",
+        "安格列走出来的同时，身边的雾气也开始缓缓消散，一股股无形的热量在他身边扭曲燃烧着。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "琳达",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "琳达，幽灵骑士的同伴，被安格列杀死。",
+      "appearance": [
+        "金发"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "幽灵骑士",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列杀死，尸体钉在树上。"
+        }
+      ],
+      "evidence": [
+        "大树树干上，一把黑铲将一名美女的脸从中横切成两半，分成上下两边，钉在树干上。",
+        "这名女子一头金发，双目紧闭"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "神秘女人",
+      "aliases": [
+        "那女人"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "神秘女人，实力恐怖，曾攻击阴影尸巫并夺取毁灭之眼浓液。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "眼神闪烁起紫黑色光晕，压制精神力",
+        "制造幻觉"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阴影尸巫",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "攻击阴影尸巫，夺取毁灭之眼浓液。"
+        }
+      ],
+      "evidence": [
+        "居然遇到了一个实力极度恐怖的女人，一见面二话不说直接动手，只是眼神闪烁起紫黑色光晕，就直接压制了他起码三分之一的精神力。",
+        "没想到……仅仅只是一眼，就让我陷入了幻觉，还自己动用自己最强能力自杀。"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "chunk_id": "chunk-0174",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "佛子"
+      ],
+      "identity": "佛子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "佛子，修成《鹏王摩日大法》第五重次第，为救下仆丹加与戒律长老康雄、经纶长老康智对峙。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "言辞犀利",
+        "果断"
+      ],
+      "abilities": [
+        "六字大明咒",
+        "意之能量"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "敌对"
+        },
+        {
+          "target": "康智",
+          "type": "敌对"
+        },
+        {
+          "target": "沛旺",
+          "type": "主仆"
+        },
+        {
+          "target": "丹加",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在戒律院质问康雄，诵念六字大明咒震慑有罪僧侣。"
+        }
+      ],
+      "evidence": [
+        "方才苏午展现《鹏王摩日大法》第五重次第，头顶燃烧大日的情景",
+        "苏午直接将六字大明咒诵念了出来",
+        "苏午的意萦绕于无形之中"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "康雄",
+      "aliases": [
+        "戒律长老"
+      ],
+      "identity": "戒律长老",
+      "faction": "戒律院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戒律长老，指使手下抓捕佛子下仆丹加，与佛子苏午对峙。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "狡诈"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "康智",
+          "type": "盟友"
+        },
+        {
+          "target": "广言",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被佛子质问，试图以剖心剜眼之法刁难。"
+        }
+      ],
+      "evidence": [
+        "康雄在旁勾着嘴角浅笑",
+        "康雄一脸无辜，对于佛子非要给自己‘泼脏水’这件事，很是无可奈何",
+        "康雄眼中掠过一丝慌张之色"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "康智",
+      "aliases": [
+        "经纶长老"
+      ],
+      "identity": "经纶长老",
+      "faction": "经纶院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "经纶长老，因佛子锋芒太盛而心生危机，与康雄联手对抗佛子。",
+      "appearance": [],
+      "personality": [
+        "虚伪",
+        "善辩"
+      ],
+      "abilities": [],
+      "equipment": [
+        "念珠"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "康雄",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带经纶僧众支援康雄，与佛子辩驳。"
+        }
+      ],
+      "evidence": [
+        "康智领着一众经纶僧，分开人群，走到了场中",
+        "康智亦是怒声斥责",
+        "康智手中盘绕的念珠崩断了绳索"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "沛旺",
+      "aliases": [],
+      "identity": "佛子下仆",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "佛子的仆人，目睹丹加被抓走，向佛子报告。",
+      "appearance": [],
+      "personality": [
+        "胆小"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主仆"
+        },
+        {
+          "target": "丹加",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被佛子叫到前面作证，差点被剖心剜眼。"
+        }
+      ],
+      "evidence": [
+        "沛旺则逃了回来，向我报告此事",
+        "沛旺蜷缩着肩膀",
+        "小仆人心中猛地一沉"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "丹加",
+      "aliases": [],
+      "identity": "佛子下仆",
+      "faction": "",
+      "status": "被提及",
+      "first_appearance": "",
+      "summary": "佛子的仆人，被戒律院僧人抓走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主仆"
+        },
+        {
+          "target": "沛旺",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戒律院僧人抓走。"
+        }
+      ],
+      "evidence": [
+        "仆人丹加被抓走了"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "广言",
+      "aliases": [],
+      "identity": "戒律院红袍僧侣",
+      "faction": "戒律院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "康雄座下僧侣，负责抓捕佛子下仆，向康智报信。",
+      "appearance": [],
+      "personality": [
+        "阴毒",
+        "谄媚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提出剖心剜眼之法，被佛子六字大明咒震慑跪倒。"
+        }
+      ],
+      "evidence": [
+        "广言乃是康雄座下僧侣",
+        "广言面露谄媚笑意",
+        "广言在人群里出声道"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "广喻",
+      "aliases": [],
+      "identity": "戒律院僧侣",
+      "faction": "戒律院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戒律院僧侣，被佛子言语蛊惑，触康雄霉头。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被佛子六字大明咒震慑跪倒。"
+        }
+      ],
+      "evidence": [
+        "广喻、广言乃至一些知悉内情的戒律院红衣僧侣、黄衣僧侣，都慌张了起来"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

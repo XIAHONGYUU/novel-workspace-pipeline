@@ -1,0 +1,241 @@
+{
+  "chunk_id": "chunk-0198",
+  "characters": [
+    {
+      "name": "老余",
+      "aliases": [
+        "中年汉子"
+      ],
+      "identity": "雇佣兵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百九十四章 诸神",
+      "summary": "一名受雇于天平之神信徒的雇佣兵，谨慎冷静，发现行动可能涉及神明后迅速离开。",
+      "appearance": [
+        "戴着斗笠",
+        "携带刀剑弩箭"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "刀剑",
+        "弩箭",
+        "水囊",
+        "铁牌"
+      ],
+      "relationships": [
+        {
+          "target": "矮小老头",
+          "type": "熟人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往天平之神信徒营地，得知神明将参与进攻驻屯镇，随即离开。"
+        }
+      ],
+      "evidence": [
+        "一人戴着斗笠的中年汉子正在荒野上策马驰骋着",
+        "中年汉子从胸口夹缝里摸出一块铁牌，上面有一个天平的符号",
+        "他随手击倒了两个人，就翻身上鞍，很快出了营地，一路纵马远去了。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "矮小老头",
+      "aliases": [],
+      "identity": "天平之神信徒",
+      "faction": "天平之神",
+      "status": "登场",
+      "first_appearance": "第一百九十四章 诸神",
+      "summary": "天平之神的信徒，负责召集人手，对神明复活充满激动。",
+      "appearance": [
+        "矮小"
+      ],
+      "personality": [
+        "激动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "老余",
+          "type": "熟人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在营地中与老余交谈，告知天平之神复活并将参与行动。"
+        }
+      ],
+      "evidence": [
+        "一个矮小的老头冲着他打招呼",
+        "矮小老头低声道：“怎么来这么晚？”",
+        "矮小老头脸上全是激动之色，“那可是神明啊。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "埃库鲁",
+      "aliases": [
+        "艾承坚"
+      ],
+      "identity": "坚爪部落大酋首",
+      "faction": "坚爪部落",
+      "status": "登场",
+      "first_appearance": "第一百九十四章 诸神",
+      "summary": "坚爪部落的大酋首，接受了东廷文化，拒绝复神会的合作，认为部落不需要神明。",
+      "appearance": [],
+      "personality": [
+        "开明",
+        "坚定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戴面具的女人",
+          "type": "谈判对象"
+        },
+        {
+          "target": "喀莫祭祀",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接待复神会使者，拒绝合作，并表明自己已接受天夏名。"
+        }
+      ],
+      "evidence": [
+        "大酋首埃库鲁正在接待一个戴着面着面具的女人",
+        "埃库鲁摇头道：“可我并不觉得，而且我也不觉得你说的是对的。”",
+        "埃库鲁道：“我觉的东廷人有句话说得很好，我们不需要神明，因为我们自己就是神明。”"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "戴面具的女人",
+      "aliases": [
+        "复神会使者"
+      ],
+      "identity": "复神会成员",
+      "faction": "复神会",
+      "status": "登场",
+      "first_appearance": "第一百九十四章 诸神",
+      "summary": "复神会的使者，试图说服埃库鲁合作，被拒绝后转而寻找托洛提的祭祀。",
+      "appearance": [
+        "戴着面具"
+      ],
+      "personality": [
+        "冷静",
+        "执着"
+      ],
+      "abilities": [],
+      "equipment": [
+        "铜牌"
+      ],
+      "relationships": [
+        {
+          "target": "埃库鲁",
+          "type": "谈判对象"
+        },
+        {
+          "target": "老祭祀",
+          "type": "合作对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拜访坚爪部落大酋首埃库鲁，劝说其合作未果；随后前往托洛提祭祀处达成合作。"
+        }
+      ],
+      "evidence": [
+        "一个戴着面着面具的女人",
+        "女人道：“让万物都在神明的统御之下，这才是世界本该存在的秩序，这也是我们复神会所追求的”",
+        "戴面具的女人离开坚爪驻地之后，骑马往南方奔走"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "喀莫祭祀",
+      "aliases": [
+        "喀莫"
+      ],
+      "identity": "坚爪部落祭祀",
+      "faction": "坚爪部落",
+      "status": "登场",
+      "first_appearance": "第一百九十四章 诸神",
+      "summary": "坚爪部落的祭祀，对拒绝神明感到担忧，但服从大酋首的决定。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "忠诚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "埃库鲁",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在埃库鲁与复神会使者交谈时在场，并表达担忧。"
+        }
+      ],
+      "evidence": [
+        "坐在一边一直没有吭声的喀莫祭祀露出担忧神色",
+        "喀莫小心翼翼道：“可是神明毕竟庇护了我们……”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "老祭祀",
+      "aliases": [
+        "托洛提的祭祀"
+      ],
+      "identity": "托洛提（杀戮之神）的祭祀",
+      "faction": "托洛提",
+      "status": "登场",
+      "first_appearance": "第一百九十四章 诸神",
+      "summary": "托洛提的祭祀，得到神谕后同意与复神会合作。",
+      "appearance": [
+        "年老"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戴面具的女人",
+          "type": "合作对象"
+        },
+        {
+          "target": "托洛提",
+          "type": "侍奉的神明"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与复神会使者会面，表示得到神谕愿意合作。"
+        }
+      ],
+      "evidence": [
+        "棚屋门帘一掀，走出来一个年老的祭祀",
+        "老祭祀说道：“我得到了托洛提的神谕，会吩咐我能控制部众，按照你们的想法来做。”"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

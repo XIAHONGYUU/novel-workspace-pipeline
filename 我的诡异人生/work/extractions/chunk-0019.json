@@ -1,0 +1,123 @@
+{
+  "chunk_id": "chunk-0019",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "模拟者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第18章 应急罐头",
+      "summary": "在模拟中不断尝试破解灯笼诡的规则，试图救下抱鸡女孩但失败，最终死于灯笼诡。",
+      "appearance": [
+        "身材较高",
+        "体型匀称"
+      ],
+      "personality": [
+        "紧张",
+        "兴奋",
+        "歉疚",
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "抱鸡女孩",
+          "type": "间接导致其死亡"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "抢走女孩的大公鸡，导致女孩被灯笼诡杀死，自己随后也死亡。"
+        }
+      ],
+      "evidence": [
+        "苏午一声大喝，喝住了低着头往街对面走的女孩。",
+        "苏午歉疚地向天上的美人头承诺着。",
+        "他摇了摇头，丢下了这只渐渐失温的死公鸡。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "抱鸡女孩",
+      "aliases": [],
+      "identity": "宠物主人",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第18章 应急罐头",
+      "summary": "夜晚抱着大公鸡出现在十字路口的女孩，被苏午抢走公鸡后，被灯笼诡杀死。",
+      "appearance": [
+        "姣好的面容",
+        "长发"
+      ],
+      "personality": [
+        "紧张",
+        "瑟缩"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "应急罐头",
+          "type": "宠物"
+        },
+        {
+          "target": "苏午",
+          "type": "被其抢走宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "被苏午抢走大公鸡，随后被灯笼诡杀死。"
+        }
+      ],
+      "evidence": [
+        "女孩半是惊讶半是紧张地转头来看",
+        "她小声地喊着大公鸡的名字：'应急罐头，应急罐头……'",
+        "她死了。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "应急罐头",
+      "aliases": [],
+      "identity": "宠物公鸡",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第18章 应急罐头",
+      "summary": "女孩怀中的大公鸡，被苏午抢走后不久死亡。",
+      "appearance": [
+        "羽色鲜艳",
+        "有七八斤重"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "抱鸡女孩",
+          "type": "主人"
+        },
+        {
+          "target": "苏午",
+          "type": "被其抢夺"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "被苏午抢走，随后死亡。"
+        }
+      ],
+      "evidence": [
+        "怀里那只羽色鲜艳的公鸡",
+        "它没有挣扎，只是叫了几声，就脑袋一歪，脖颈软软地耷拉了下去。",
+        "他摇了摇头，丢下了这只渐渐失温的死公鸡。"
+      ],
+      "mention_count": 8
+    }
+  ]
+}

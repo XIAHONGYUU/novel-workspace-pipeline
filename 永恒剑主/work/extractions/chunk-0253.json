@@ -1,0 +1,224 @@
+{
+  "chunk_id": "chunk-0253",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在经历幽府考验的修行者，拥有青鱼灯宝物。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "警觉"
+      ],
+      "abilities": [],
+      "equipment": [
+        "红花剑",
+        "青鱼灯"
+      ],
+      "relationships": [
+        {
+          "target": "红叶剑主",
+          "type": "引导者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "幽府考验",
+          "event": "在篝火边抵御诱惑，坚持不离开火堆。"
+        }
+      ],
+      "evidence": [
+        "林新拿着青鱼灯，正要往篝火中丢进去，忽然感觉一种莫名的别扭涌上心头。",
+        "他索性笃定的坐在火堆边，对一切声音都充耳不闻。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "红叶剑主",
+      "aliases": [
+        "红叶"
+      ],
+      "identity": "剑主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "实力高深的剑主，化身万千，每日清醒时间只有两个时辰。",
+      "appearance": [],
+      "personality": [
+        "神经质",
+        "面无表情"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "引导者"
+        },
+        {
+          "target": "老人",
+          "type": "交易对象"
+        },
+        {
+          "target": "白雀",
+          "type": "被其吃掉"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与老人交易碧真果，用一滴精血交换。"
+        }
+      ],
+      "evidence": [
+        "红叶剑主的声音陡然从黑暗中传进来。",
+        "红叶剑主缓缓问。",
+        "我发疯的时候，她没来得及跑。被我吃了。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "老人",
+      "aliases": [],
+      "identity": "被丝线捆住的老者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被白色丝线捆着脖子挂在树间的老人，与红叶剑主交易。",
+      "appearance": [
+        "白发苍苍",
+        "浑身衣袍脏兮兮"
+      ],
+      "personality": [],
+      "abilities": [
+        "能催生碧真果树"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "红叶剑主",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与红叶剑主交易碧真果。"
+        }
+      ],
+      "evidence": [
+        "老人身体被大量的白色丝线捆着脖子，挂在五棵树中间",
+        "老人闭目低沉道。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "白雀",
+      "aliases": [],
+      "identity": "剑主",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "被红叶剑主吃掉的剑主。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "红叶剑主",
+          "type": "被其吃掉"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被红叶剑主吃掉。"
+        }
+      ],
+      "evidence": [
+        "我发疯的时候，她没来得及跑。被我吃了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "秋水剑主",
+      "aliases": [
+        "秋水"
+      ],
+      "identity": "剑主",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "另一位剑主，负责看着另一个有潜力的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "另一个，是秋水看着。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黄檀",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "上次死去的剑主。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "死亡。"
+        }
+      ],
+      "evidence": [
+        "上次，只有黄檀死了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女子",
+      "aliases": [],
+      "identity": "幽府中的幻象",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在篝火边出现的诡异女子，带着孩子，试图引诱林新离开火堆。",
+      "appearance": [
+        "穿着厚厚的类似雨衣一样的黑衣服",
+        "低着头戴着兜帽",
+        "惨白没有血色的面孔",
+        "凸出的眼珠子"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现并恳求烤火，被林新拒绝后消失。"
+        }
+      ],
+      "evidence": [
+        "那女人猛地抬起头，一张惨白没有血色的面孔上，有些凸出的眼珠子笔直的盯着他。",
+        "那女人带着她的孩子已经消失不见。"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

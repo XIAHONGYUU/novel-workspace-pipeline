@@ -1,0 +1,393 @@
+{
+  "chunk_id": "chunk-0645",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "卓杰"
+      ],
+      "identity": "道门修行者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与鼎灵在凤山八角亭中交谈，询问怨神仪仗和枉眼夫人的细节。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于思考"
+      ],
+      "abilities": [
+        "观相图法",
+        "阴影能力"
+      ],
+      "equipment": [
+        "改良型五内罐"
+      ],
+      "relationships": [
+        {
+          "target": "鼎灵",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与鼎灵在八角亭中交谈，询问怨神仪仗和枉眼夫人的来历。"
+        }
+      ],
+      "evidence": [
+        "苏午心中念头转动着，引着鼎灵到了一座八角亭中",
+        "苏午看着鼎灵，认真地出声问道",
+        "苏午闻言笑了笑。他脚下阴影沸腾，一道阴影蟒蛇人立而起，张口吐出了一个做成大头老虎造型的罐子。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "鼎灵",
+      "aliases": [
+        "女师公"
+      ],
+      "identity": "天威道坛门人，容纳枉眼夫人的女子",
+      "faction": "天威道坛",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午在八角亭中交谈，讲述怨神仪仗和枉眼夫人的来历，以及高祖奶奶的故事。",
+      "appearance": [],
+      "personality": [
+        "警惕",
+        "犹豫",
+        "喜爱小物件"
+      ],
+      "abilities": [
+        "容纳枉眼夫人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        },
+        {
+          "target": "枉眼夫人",
+          "type": "体内容纳的厉诡"
+        },
+        {
+          "target": "高祖奶奶",
+          "type": "祖先"
+        },
+        {
+          "target": "开坛祖师",
+          "type": "高祖奶奶的道侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午在八角亭中交谈，讲述怨神仪仗和枉眼夫人的来历。"
+        }
+      ],
+      "evidence": [
+        "鼎灵听到苏午如此称呼其身上容纳的厉诡，苏午心思微动",
+        "鼎灵把玩着手里胖墩墩的大头老虎罐子，心里对这个东西颇为喜爱",
+        "鼎灵捧着改良版五内罐，组织了一下语言，轻声说道"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "枉眼夫人",
+      "aliases": [],
+      "identity": "六天故鬼序列的厉诡，真形为女相",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "鼎灵体内容纳的厉诡，从娘胎里带来，血脉中天生就有。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鼎灵",
+          "type": "被容纳"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "鼎灵容纳的‘枉眼夫人’，乃是从‘娘胎里带来的’，是‘血脉中天生就有的’厉诡",
+        "鼎灵则干脆在出生时就容纳了‘枉眼夫人’"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "卓杰",
+      "aliases": [],
+      "identity": "苏午曾顶替的身份",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾容纳尸林怙主，后被苏午顶替。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被顶替"
+        },
+        {
+          "target": "尸林怙主",
+          "type": "容纳"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "卓杰生父殒命后，尸林怙主驱使身躯前往无想尊能寺寻卓杰。"
+        }
+      ],
+      "evidence": [
+        "那时的‘卓杰’，已经为苏午所顶替",
+        "当时的苏午－亦是卓杰，根本无法承受尸林怙主的依附，因而殒命"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "卓杰生父",
+      "aliases": [],
+      "identity": "卓杰的父亲",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "容纳尸林怙主，殒命后尸林怙主驱使身躯寻卓杰。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卓杰",
+          "type": "父子"
+        },
+        {
+          "target": "尸林怙主",
+          "type": "容纳"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "卓杰生父殒命，尸林怙主驱使身躯前往无想尊能寺。"
+        }
+      ],
+      "evidence": [
+        "卓杰生父殒命以后，尸林怙主第一时间便驱使着卓杰生父的身躯，前往无想尊能寺去寻卓杰的影踪"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "尸林怙主",
+      "aliases": [],
+      "identity": "厉诡",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "卓杰及其生父血脉中天生就有的厉诡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卓杰",
+          "type": "被容纳"
+        },
+        {
+          "target": "卓杰生父",
+          "type": "被容纳"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "尸林怙主就是二者血脉里天生就有的厉诡"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "高祖奶奶",
+      "aliases": [],
+      "identity": "鼎灵的高祖辈女性祖先，天威道坛开坛祖师的道侣",
+      "faction": "普庵坛（原属）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "原为普庵坛师公，与开坛祖师斗法落败后成为其道侣，后因祖师移情别恋而怨愤跳崖而死。",
+      "appearance": [
+        "身穿红衣，衣衫上写满字迹"
+      ],
+      "personality": [
+        "怨愤"
+      ],
+      "abilities": [],
+      "equipment": [
+        "地藏王菩萨塑像"
+      ],
+      "relationships": [
+        {
+          "target": "开坛祖师",
+          "type": "道侣"
+        },
+        {
+          "target": "鼎灵",
+          "type": "祖先"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "因开坛祖师移情别恋，身穿红衣跳崖而死。"
+        }
+      ],
+      "evidence": [
+        "高祖奶奶因为开坛祖师后来移情于一个年轻女子，自在凤山偏僻处建了一座小庙",
+        "她因此怨愤交加，某个夜里，身穿一身红衣，在衣衫上写满了‘冤鬼缠身，冤魂索命’等等字迹，抱着那尊地藏王菩萨塑像跳崖而死"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "开坛祖师",
+      "aliases": [],
+      "identity": "天威道坛开坛祖师",
+      "faction": "天威道坛",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与高祖奶奶结为道侣，后移情别恋，在高祖奶奶死后立愿神庙，最终吊颈而死。",
+      "appearance": [
+        "身穿金红道袍，写满字迹"
+      ],
+      "personality": [
+        "愧疚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高祖奶奶",
+          "type": "道侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "立愿神庙，终老于愿神庙中。"
+        },
+        {
+          "stage": "过去",
+          "event": "在愿神庙中吊颈而死，身上道袍写满字迹。"
+        }
+      ],
+      "evidence": [
+        "开坛祖师着弟子将她从山底下背上来以后，或因心中愧疚，良心发现，在凤山上于高祖奶奶诞生之日，修建了‘愿神庙’",
+        "他在夜里不知为何嚎啕大哭，悲伤不已，进而悬绳于小庙的梁上，吊颈而死。他死以后，身上穿着的金红道袍之上，就写满了‘冤魂索命，冤鬼缠身’的字迹"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "怨神",
+      "aliases": [],
+      "identity": "由怨望形成的厉诡",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "由高祖奶奶的怨气形成，通过怨神仪仗降临。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "怨神仪仗",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "愿通怨，愿望难成，即成怨望，想来这便是‘怨神’最初的由来",
+        "让我确认怨神确实存在的，正是‘开坛祖师’本人"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "怨神仪仗",
+      "aliases": [
+        "苍白诡影"
+      ],
+      "identity": "怨神的随从或前兆",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "依附于天威道观门人身上的苍白诡影，汇集一处可能引来怨神降临。",
+      "appearance": [
+        "苍白诡影"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "怨神",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "那些降附于天威道观门人身上的苍白诡影，你称它们为‘怨神仪仗’",
+        "若让怨神仪仗汇集于一处，就有可能引来‘怨神’降临"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "鉴真",
+      "aliases": [],
+      "identity": "东渡东流岛的高僧",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "东渡东流岛以避大明寺显世的鬼佛，与愿力有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "东渡东流岛，留下偈语和魔念。"
+        }
+      ],
+      "evidence": [
+        "鉴真东渡东流岛，以避大明寺显世的鬼佛",
+        "自身在东流岛铸就‘十灭度刀’，集九大矿脉的核心铸成"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "玉藻前",
+      "aliases": [],
+      "identity": "灾级或劫级厉诡",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "由杀生石中生出，与愿力有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "众生演化的‘杀生石’中，生出的‘玉藻前’，同样与愿力有着难以分割的关系"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

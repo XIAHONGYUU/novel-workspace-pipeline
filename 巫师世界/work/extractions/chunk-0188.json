@@ -1,0 +1,153 @@
+{
+  "chunk_id": "chunk-0188",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "穿越者，拥有芯片辅助，正在逃离遗迹岛屿。",
+      "appearance": [
+        "灰色长袍",
+        "头发湿漉漉"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "好奇"
+      ],
+      "abilities": [
+        "金属操控",
+        "芯片分析"
+      ],
+      "equipment": [
+        "黑色钥匙串"
+      ],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "逃离途中",
+          "event": "在船上遭遇巨浪，使用金属细丝固定自己。"
+        },
+        {
+          "stage": "逃离途中",
+          "event": "发现黑色钥匙的异常，尝试分析。"
+        }
+      ],
+      "evidence": [
+        "安格列站在船头，手挡着脸防止水冲进双眼，周身延伸出无数金属银色细丝黏在周围甲板上。",
+        "安格列抛了抛手上的钥匙，正准备收回挂到腰带上。忽然黑光一闪。",
+        "安格列轻轻拿起钥匙，这一次他可不敢像刚才那样抛起来了。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "丽丝佩尔",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与安格列一同逃离遗迹的女性巫术师，追随者已损失。",
+      "appearance": [
+        "湿漉漉",
+        "饱满惹火的曲线"
+      ],
+      "personality": [
+        "低落",
+        "任性"
+      ],
+      "abilities": [
+        "寒冰冻结范围巫术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同行者"
+        },
+        {
+          "target": "玛格丽特",
+          "type": "追随者（已故？）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "逃离途中",
+          "event": "施展寒冰冻结巫术保护船只。"
+        },
+        {
+          "stage": "逃离途中",
+          "event": "向安格列讲述遗迹中的遭遇。"
+        }
+      ],
+      "evidence": [
+        "丽丝佩尔从船尾走出来，她的脚下不断放射着十字形的蓝色光图。",
+        "丽丝佩尔点点头，浑身上下也是湿漉漉的，凸显出饱满惹火的曲线。",
+        "丽丝佩尔沉默了下，才又开口说。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "玛格丽特",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "丽丝佩尔的追随者，已不在身边。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "玛格丽特，帮我把……她忽然顿住了。这才发觉自己身边一个人也没有。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "零号",
+      "aliases": [],
+      "identity": "安格列的芯片辅助系统",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列脑海中的辅助系统，提供分析和警示功能。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "分析",
+        "警示"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "宿主"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "零号，刚才我受伤怎么没有警示？",
+        "未发现任何威胁性来源。零号冰冷的反馈音传来。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -65,10 +65,29 @@ Do not treat these as final success conditions:
 - many character files were generated
 - a merged character list exists
 - `work/cards/index.md` exists
-- the heuristic extractor produced lots of names
+- the first-pass extractor produced lots of names
 - the workspace was initialized successfully
 
 Those are only diagnostic or helper layers.
+
+## 质量标准（Quality Requirements）
+
+**禁止的泛化话术：**
+- ❌ "主角在本书中经历了巨大的成长" → 没说从什么成长到什么
+- ❌ "主角性格复杂多面" → 没说具体的性格维度
+- ❌ "主角的核心驱动力是变强" → 没说为什么变强、变强的具体指向
+- ❌ "终局状态令人满意" → 没有具体描述终局状态
+
+**正确的分析写法：**
+- ✅ 主角锚点必须写明**根本矛盾**（主角的内部冲突是什么）、**核心驱动**（不只是"变强"）、**终局落点**（与开篇形成有意义的对照）
+- ✅ 人物卡必须包含**具体的成长阶段划分**，每个阶段有明确的触发事件和变化结果
+- ✅ 词条必须**有层级**、**有交叉引用**，不能是一级词条的简单罗列
+- ✅ "全书精华总结"必须给出**一句话定性**，且能在整书语境下成立
+
+**两轮精炼：**
+1. 第一轮：建立主角骨架和一级词条
+2. 第二轮：自检——锚点是否抓住了根本矛盾？成长阶段是否有因果逻辑？一词条是否有实质内容还是仅罗列名字？
+3. 重写不合格部分后再判定 `骨架完成` / `体系闭环完成`
 
 ## Workflow
 
@@ -124,8 +143,8 @@ The first-pass outcome must answer:
 
 Prefer existing local tools:
 
-- `<repo-root>/text2markdown`
-- `<repo-root>/novel-character-cards`
+- `/home/zuoky/project/text2markdown`
+- `/home/zuoky/project/novel-character-cards`
 
 But do not let `novel-character-cards` redefine the workflow into a full-cast project.
 
@@ -339,9 +358,30 @@ It is not successful merely because it created:
 - a noisy card index
 - only the first-pass workspace
 
-## Script
+## Scripts
 
-- `python3 scripts/init_workspace.py --novel-name "<小说名>" [--source "<原始文本路径>"]`
-- `python3 scripts/init_workspace.py --novel-name "<小说名>" --source "<原始文本路径>" [--focus-name "<主角名>"] [--focus-alias "<别名>"] [--limit-chunks N] [--extractor heuristic|openai]`
+### init_workspace.py
 
-This is the default executable entry for starting a new novel project with this skill.
+`python3 scripts/init_workspace.py --novel-name "<小说名>" --source "<原始文本路径>" [--focus-name "<主角名>"] [--extractor openai|deepseek]`
+
+**角色**：唯一能做自动化工作的脚本——chunk 蒸馏、人物抽取、focus 追踪。但它不写词条内容、不填人物卡、不生成分析。生成的词条文件是框架，需要你读原文来填充具体内容。
+
+注意：用于 `work/merged/characters.json` 的全角色抽取应使用 AI extractor，不应把 heuristic 提取当作当前 workflow 的正式上游。
+
+### validate_protagonist_outputs.py
+
+`python3 scripts/validate_protagonist_outputs.py --workspace <项目名> --novel-name <小说名>`
+
+### Validator 关键词速查表
+
+Validator 通过 `has_keywords()` 检查每个文件是否包含特定关键词。请在填充内容时确保覆盖以下关键词（概念覆盖即可，不需要逐字照搬）：
+
+| 文件 | 需覆盖的关键词 | minimum | min_chars |
+|---|---|---|---|
+| `<小说名>-项目启动清单.md` | 体系闭环 Checklist、当前已达到、首轮执行顺序 | 3 | 180 |
+| `<小说名>-主角锚点与骨架.md` | 主角锚点、骨架、身份、成长 | 3 | 220 |
+| `<小说名>-整书粗阶段划分.md` | 阶段、主角状态、主要矛盾、地点 | 3 | 220 |
+| `<主角名>-最终人物卡.md` | 基本信息、身份概述、核心能力、成长阶段、最终结论 | 4 | 320 |
+| `<主角名>-词条总索引.md` | 当前判定、推荐阅读顺序、一级词条、已完成的核心二级词条 | 4 | 400 |
+| `<主角名>-核心体系总览.md` | 核心体系、总判断、最终结论、主干词条 | 3 | 260 |
+| `<小说名>-全书精华总结.md` | 一句话定性、最核心写的是什么、精华、最终结论 | 3 | 260 |

@@ -1,0 +1,256 @@
+{
+  "chunk_id": "chunk-0814",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "玄首",
+        "守正"
+      ],
+      "identity": "东庭玄府玄首，玄廷守正",
+      "faction": "东庭玄府",
+      "status": "登场",
+      "first_appearance": "第一百零九章 金书传讯光",
+      "summary": "东庭玄府玄首，负责处理天工部遇袭事件，并发出金书传讯给玉京三位镇守。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "深思熟虑"
+      ],
+      "abilities": [
+        "感应笼罩整个都护府海陆",
+        "意念叩问人心",
+        "发出金书传讯"
+      ],
+      "equipment": [
+        "符纸",
+        "玄文书纸",
+        "玄首印信",
+        "守正之印"
+      ],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "下属"
+        },
+        {
+          "target": "陈嵩",
+          "type": "下属"
+        },
+        {
+          "target": "闻奇",
+          "type": "审问对象"
+        },
+        {
+          "target": "米海",
+          "type": "已死真修"
+        },
+        {
+          "target": "玉航道人",
+          "type": "同僚（玉京镇守）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "听取项淳和陈嵩汇报，处理天工部遇袭事件，发出金书传讯。"
+        }
+      ],
+      "evidence": [
+        "张御负袖站在望台之前",
+        "张御也是点头",
+        "张御思索片刻，他意念一转，面前凭空出现了一枚符纸"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "项淳",
+      "aliases": [
+        "项师兄"
+      ],
+      "identity": "东庭玄府成员",
+      "faction": "东庭玄府",
+      "status": "登场",
+      "first_appearance": "第一百零九章 金书传讯光",
+      "summary": "张御的下属，负责汇报天工部遇袭情况。",
+      "appearance": [],
+      "personality": [
+        "沉痛",
+        "严肃"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御汇报天工部遇袭情况。"
+        }
+      ],
+      "evidence": [
+        "项淳则是立在他身后禀告道",
+        "项淳语气沉沉",
+        "项淳肃然应命道"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "陈嵩",
+      "aliases": [
+        "陈师兄"
+      ],
+      "identity": "东庭玄府成员",
+      "faction": "东庭玄府",
+      "status": "登场",
+      "first_appearance": "第一百零九章 金书传讯光",
+      "summary": "张御的下属，负责调查天工部遇袭事件。",
+      "appearance": [],
+      "personality": [
+        "细致",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "闻奇",
+          "type": "审问者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御汇报调查结果，并奉命唤醒闻奇。"
+        }
+      ],
+      "evidence": [
+        "陈嵩言道",
+        "陈嵩继续言道",
+        "陈嵩将纸符接了过来"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "米海",
+      "aliases": [],
+      "identity": "真修",
+      "faction": "未知（被操控）",
+      "status": "已死",
+      "first_appearance": "第一百零九章 金书传讯光",
+      "summary": "最早动手的真修，自绝而亡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "闻奇",
+          "type": "同谋"
+        },
+        {
+          "target": "张御",
+          "type": "被调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟上率先动手，后自绝身亡。"
+        }
+      ],
+      "evidence": [
+        "最早动手是一名名唤米海的真修",
+        "米海此人的尸身已是找到了，看去其人是自绝而亡"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "闻奇",
+      "aliases": [
+        "闻道友"
+      ],
+      "identity": "真修",
+      "faction": "未知（被操控）",
+      "status": "昏迷",
+      "first_appearance": "第一百零九章 金书传讯光",
+      "summary": "另一名动手的真修，昏迷后被救醒。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "米海",
+          "type": "同谋"
+        },
+        {
+          "target": "陈嵩",
+          "type": "被审问者"
+        },
+        {
+          "target": "张御",
+          "type": "被调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在飞舟上动手，后昏迷，被陈嵩唤醒。"
+        }
+      ],
+      "evidence": [
+        "另一名真修名唤闻奇",
+        "闻奇至今昏迷不醒",
+        "据那闻奇回忆"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "玉航道人",
+      "aliases": [],
+      "identity": "玉京盛日峰镇守",
+      "faction": "玉京",
+      "status": "登场",
+      "first_appearance": "第一百零九章 金书传讯光",
+      "summary": "玉京三位镇守之一，收到张御的金书传讯后开始调查。",
+      "appearance": [
+        "一身白袍，手持拂尘，盘膝坐于芒光辉耀的峰巅之上"
+      ],
+      "personality": [
+        "谨慎",
+        "公私分明"
+      ],
+      "abilities": [],
+      "equipment": [
+        "拂尘"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚（曾为对手）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到张御的金书传讯，下令调查。"
+        }
+      ],
+      "evidence": [
+        "玉航道人一身白袍，手持拂尘，正盘膝坐于芒光辉耀的峰巅之上",
+        "玉航道人把书信递过"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

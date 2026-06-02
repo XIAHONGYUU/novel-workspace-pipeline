@@ -1,0 +1,204 @@
+{
+  "chunk_id": "chunk-0429",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第两百章 交代",
+      "summary": "与陈大匠对话，询问造物人相关事宜。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于询问"
+      ],
+      "abilities": [],
+      "equipment": [
+        "紫星袋"
+      ],
+      "relationships": [
+        {
+          "target": "陈大匠",
+          "type": "询问者"
+        },
+        {
+          "target": "温良",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从紫星袋取出晶玉交给陈大匠，询问造物人信息。"
+        }
+      ],
+      "evidence": [
+        "张御自紫星袋中取出了那枚霜洲正国留下来的晶玉，并送去了陈大匠处。",
+        "张御道：“尊驾可先从造物人说起。”",
+        "张御道：“我需道友助我将一人的记忆拓下。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "陈大匠",
+      "aliases": [
+        "陈大匠"
+      ],
+      "identity": "霜洲制院前主持大匠",
+      "faction": "霜洲",
+      "status": "被关押",
+      "first_appearance": "第两百章 交代",
+      "summary": "霜洲制院前主持，向张御交代造物人相关内情。",
+      "appearance": [],
+      "personality": [
+        "克制",
+        "略带讥嘲",
+        "坦诚"
+      ],
+      "abilities": [
+        "打造造物人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被询问者"
+        },
+        {
+          "target": "洪昭",
+          "type": "前上司"
+        },
+        {
+          "target": "方谕中",
+          "type": "共同打造"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "主持霜洲制院，打造三千两百一十二个造物人。"
+        },
+        {
+          "stage": "六十八年前",
+          "event": "与洪昭及五位外洲大匠合力打造造物人大匠方谕中。"
+        },
+        {
+          "stage": "当前",
+          "event": "被关押，向张御交代造物人信息。"
+        }
+      ],
+      "evidence": [
+        "陈大匠道：“好，那便先说我霜洲这边，在我主持制院之时，我共是奉上命打造了三千两百一十二个造物人。”",
+        "陈大匠道：“大概是在六十八年前，我记得五月初三那天，青阳天机院中来了五个外洲大匠。当时的青阳天机院院主，是即将卸任的洪昭，而我则是他的副手，我们二人与被唤了过去，用了整整一年时间，与这几位大匠一同合力打造了一个造物人。”",
+        "陈大匠道：“他就是现如今青阳上洲天机总院的正院主方谕中。”"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "温良",
+      "aliases": [
+        "温良道友"
+      ],
+      "identity": "道友",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第两百章 交代",
+      "summary": "被张御唤来拓印陈大匠记忆的道友。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "记忆拓印神通"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤来，对陈大匠施展记忆拓印。"
+        }
+      ],
+      "evidence": [
+        "张御道：“我需道友助我将一人的记忆拓下。”",
+        "张御对温良点了下头，后者走上前去，对陈大匠道一声得罪了，就将手放在了其人额头之上。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "洪昭",
+      "aliases": [],
+      "identity": "前青阳天机院院主",
+      "faction": "青阳",
+      "status": "提及",
+      "first_appearance": "第两百章 交代",
+      "summary": "陈大匠的前上司，曾参与打造造物人大匠方谕中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈大匠",
+          "type": "前上司"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "六十八年前",
+          "event": "作为青阳天机院院主，与陈大匠及五位外洲大匠合力打造造物人大匠。"
+        }
+      ],
+      "evidence": [
+        "当时的青阳天机院院主，是即将卸任的洪昭，而我则是他的副手"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "方谕中",
+      "aliases": [],
+      "identity": "青阳上洲天机总院正院主",
+      "faction": "青阳",
+      "status": "提及",
+      "first_appearance": "第两百章 交代",
+      "summary": "由陈大匠、洪昭及五位外洲大匠合力打造的造物人大匠，现任青阳天机总院正院主。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "造物人大匠"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈大匠",
+          "type": "共同打造"
+        },
+        {
+          "target": "洪昭",
+          "type": "共同打造"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "六十八年前",
+          "event": "被陈大匠等人合力打造。"
+        },
+        {
+          "stage": "当前",
+          "event": "担任青阳上洲天机总院正院主。"
+        }
+      ],
+      "evidence": [
+        "他就是现如今青阳上洲天机总院的正院主方谕中。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "chunk_id": "chunk-0241",
+  "characters": [
+    {
+      "name": "周游",
+      "aliases": [
+        "哥"
+      ],
+      "identity": "兵九",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第239章 还命",
+      "summary": "周生之兄，兵九，因弟弟被黄梁鬼取代而痛苦，最终自爆械心杀死黄梁鬼，自己也死亡。",
+      "appearance": [],
+      "personality": [
+        "悲伤",
+        "愤怒",
+        "自欺欺人",
+        "决绝"
+      ],
+      "abilities": [
+        "兵九"
+      ],
+      "equipment": [
+        "械体",
+        "械心"
+      ],
+      "relationships": [
+        {
+          "target": "周生",
+          "type": "兄弟"
+        },
+        {
+          "target": "黄梁鬼",
+          "type": "仇敌"
+        },
+        {
+          "target": "赫老大",
+          "type": "欠债"
+        },
+        {
+          "target": "钧哥",
+          "type": "背叛"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "煮皮蛋瘦肉粥，与假周生对话，最终自爆械心杀死黄梁鬼。"
+        }
+      ],
+      "evidence": [
+        "哥，你现在是兵九，那你以后给我当护法神好不好？",
+        "你要自爆械心？你是不是疯了？！快停下啊！",
+        "钧哥，周游背叛了你，所以这条命我现在还给你。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "周生",
+      "aliases": [
+        "阿生"
+      ],
+      "identity": "周游之弟，曾在罗汉寺佛国",
+      "faction": "",
+      "status": "已死（被黄梁鬼取代）",
+      "first_appearance": "第239章 还命",
+      "summary": "周游的弟弟，曾在罗汉寺佛国生活，后被黄梁鬼取代，灵魂可能已无法回归。",
+      "appearance": [],
+      "personality": [
+        "天真",
+        "憧憬"
+      ],
+      "abilities": [
+        "慧根（自称天生）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "兄弟"
+        },
+        {
+          "target": "黄梁鬼",
+          "type": "被取代"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在罗汉寺佛国生活，开发慧根。"
+        },
+        {
+          "stage": "当前",
+          "event": "被黄梁鬼取代，与周游对话。"
+        }
+      ],
+      "evidence": [
+        "其实这些年我在罗汉寺的佛国里过得挺好的",
+        "在佛国的这些年，我的慧根已经被开发出来了",
+        "哥，我很想伱。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "黄梁鬼",
+      "aliases": [
+        "假周生",
+        "隆图隐藏的佛国主机"
+      ],
+      "identity": "佛国主机，黄梁鬼",
+      "faction": "隆图",
+      "status": "死亡（被周游杀死）",
+      "first_appearance": "第239章 还命",
+      "summary": "伪装成周生的黄梁鬼，实为隆图隐藏的佛国主机，试图度化周游，最终被周游自爆械心杀死。",
+      "appearance": [],
+      "personality": [
+        "诡异",
+        "狡猾",
+        "嘲讽"
+      ],
+      "abilities": [
+        "伪装",
+        "度化"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "度化对象"
+        },
+        {
+          "target": "周生",
+          "type": "取代"
+        },
+        {
+          "target": "隆图",
+          "type": "所属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "伪装成周生与周游对话，试图度化，最终被杀死。"
+        }
+      ],
+      "evidence": [
+        "不，你是用来度化我的黄梁鬼，是隆图隐藏的佛国主机！",
+        "为什么，为什么我还是没能度化他.",
+        "当听到这句话后，周生脸上的惊恐如潮退般褪去，眼眸之中泛起诡异的笑意。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "赫老大",
+      "aliases": [],
+      "identity": "周游的债主",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第239章 还命",
+      "summary": "周游欠其钱，被提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "债主"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "赫老大，我对不起你，以后我不能再帮你看场了，欠你的钱我只能下辈子当牛做马再还给你了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钧哥",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第239章 还命",
+      "summary": "周游背叛的对象，被提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "周游",
+          "type": "被背叛"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "钧哥，周游背叛了你，所以这条命我现在还给你。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

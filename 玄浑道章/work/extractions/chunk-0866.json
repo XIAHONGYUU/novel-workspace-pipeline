@@ -1,0 +1,263 @@
+{
+  "chunk_id": "chunk-0866",
+  "characters": [
+    {
+      "name": "道人",
+      "aliases": [
+        "天夏神明"
+      ],
+      "identity": "天夏神明，玄尊层次",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百六十一章 万化渡神异",
+      "summary": "一位来自天夏的道人，修为至少玄尊层次，携小童前来金宫，持有至宝万化玄机图，欲擒获神王神后以获取至高石板。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "自信",
+        "从容"
+      ],
+      "abilities": [
+        "万化玄机图",
+        "玄尊层次修为"
+      ],
+      "equipment": [
+        "万化玄机图"
+      ],
+      "relationships": [
+        {
+          "target": "小童",
+          "type": "师徒"
+        },
+        {
+          "target": "伊鲁库加",
+          "type": "临时合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在金宫前与伊鲁库加对话，随后进入金宫，与神王神后交战。"
+        }
+      ],
+      "evidence": [
+        "道人看着伊鲁库加，冷笑一声",
+        "那道人至少也是达到了玄尊层次",
+        "道人一抬手，自袖中取了出来一幅长卷，哗啦一抖，长卷便自展开"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "小童",
+      "aliases": [
+        "徒儿"
+      ],
+      "identity": "道人的徒弟",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百六十一章 万化渡神异",
+      "summary": "道人的徒弟，跟随师父前来金宫，身上有玉佩护持，对局势有敏锐观察。",
+      "appearance": [],
+      "personality": [
+        "聪明",
+        "好奇"
+      ],
+      "abilities": [],
+      "equipment": [
+        "玉佩"
+      ],
+      "relationships": [
+        {
+          "target": "道人",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随师父进入金宫，旁观战斗并提问。"
+        }
+      ],
+      "evidence": [
+        "小童想了想，道：“里面有厉害的人”",
+        "小童这时在旁悄悄躲到道人身后",
+        "小童兴奋言道：“师父，是不是该收网了？”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "伊鲁库加",
+      "aliases": [
+        "伊鲁库"
+      ],
+      "identity": "异神",
+      "faction": "异神",
+      "status": "登场",
+      "first_appearance": "第一百六十一章 万化渡神异",
+      "summary": "一位异神，与神王神后敌对，试图利用道人对付神王神后，以获取至高石板。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "微笑",
+        "善于利用"
+      ],
+      "abilities": [
+        "神性力量",
+        "剑矛"
+      ],
+      "equipment": [
+        "剑矛"
+      ],
+      "relationships": [
+        {
+          "target": "道人",
+          "type": "临时合作"
+        },
+        {
+          "target": "伊鲁斯",
+          "type": "敌对"
+        },
+        {
+          "target": "伊切",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在金宫前与道人对话，随后进入金宫，观战并后退。"
+        }
+      ],
+      "evidence": [
+        "伊鲁库加微微一笑，道：“是的，我不否认自己的用意”",
+        "伊鲁库加观战至此，神情不复之前轻松模样",
+        "伊鲁库加神情微变，捏紧了剑矛，暗暗往后退去"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "伊鲁斯",
+      "aliases": [
+        "神王"
+      ],
+      "identity": "神王",
+      "faction": "异神",
+      "status": "登场",
+      "first_appearance": "第一百六十一章 万化渡神异",
+      "summary": "神王，与神后伊切一同从方石中现身，拥有被至高祝福的神性，能适应外在变化。",
+      "appearance": [
+        "健壮魁梧的男子，五官如同雕塑，冷硬无比，肌肉线条兼具力量和美感"
+      ],
+      "personality": [],
+      "abilities": [
+        "神性力量",
+        "适应变化",
+        "长矛"
+      ],
+      "equipment": [
+        "长矛"
+      ],
+      "relationships": [
+        {
+          "target": "伊切",
+          "type": "神后"
+        },
+        {
+          "target": "伊鲁库加",
+          "type": "敌对"
+        },
+        {
+          "target": "道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从方石中走出，与道人交战，被万化玄机图压制后爆发更强力量。"
+        }
+      ],
+      "evidence": [
+        "从那坚固冷硬的黑色石块上透出一团银白色的光芒",
+        "是一个健壮魁梧的男子",
+        "神人男女身上忽然爆发出强烈至极的光芒"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "伊切",
+      "aliases": [
+        "神后"
+      ],
+      "identity": "神后",
+      "faction": "异神",
+      "status": "登场",
+      "first_appearance": "第一百六十一章 万化渡神异",
+      "summary": "神后，与神王伊鲁斯一同现身，拥有被至高祝福的神性，能适应外在变化。",
+      "appearance": [
+        "体态匀称，高挑强健，金蓝色头发垂至脚跟，眼角向上挑起，妩媚中带着冷酷"
+      ],
+      "personality": [],
+      "abilities": [
+        "神性力量",
+        "适应变化",
+        "长矛"
+      ],
+      "equipment": [
+        "长矛"
+      ],
+      "relationships": [
+        {
+          "target": "伊鲁斯",
+          "type": "神王"
+        },
+        {
+          "target": "伊鲁库加",
+          "type": "敌对"
+        },
+        {
+          "target": "道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从方石中走出，与道人交战，被万化玄机图压制后爆发更强力量。"
+        }
+      ],
+      "evidence": [
+        "另一个方石之中，也是出来是一个体态匀称，却同样堪称高挑强健的女子",
+        "金蓝色的头发垂至脚跟",
+        "神人男女身上忽然爆发出强烈至极的光芒"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "天夏守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百六十一章 万化渡神异",
+      "summary": "天夏守正，从裂隙中走出，望向金宫，察觉到道人的存在，随后走向金宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从裂隙中走出，望向金宫，察觉道人后走向金宫。"
+        }
+      ],
+      "evidence": [
+        "张御自里踏步出来",
+        "他眸光一扫，看向了那十分醒目的金宫",
+        "他思索片刻，便心意一转，待身形再出现时，已然立在金宫门口"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chunk_id": "chunk-0584",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师/血脉者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在研究海利亚的厄运天平血脉，并阻止教会骑士干扰海利亚的质变。",
+      "appearance": [
+        "黑色丝袍",
+        "黑色斗篷"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "自信"
+      ],
+      "abilities": [
+        "火焰化",
+        "黑雾凝聚",
+        "力场操控"
+      ],
+      "equipment": [
+        "手套"
+      ],
+      "relationships": [
+        {
+          "target": "海利亚",
+          "type": "研究对象/合作者"
+        },
+        {
+          "target": "芙瑞拉",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "治疗黑衣女子后，外出拦截教会骑士雷须。"
+        }
+      ],
+      "evidence": [
+        "安格列站在一边，等到大茧彻底停滞动静，这才走到蒙面女子身边，眼中蓝光一闪，仔细检查起来。",
+        "安格列缓缓取下手套。",
+        "树林中，安格列一身黑色丝袍缓缓走出来，双手藏在长袍中，脸上带着微妙的笑意。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "海利亚",
+      "aliases": [],
+      "identity": "血脉者（厄运天平血脉）",
+      "faction": "",
+      "status": "质变中",
+      "first_appearance": "",
+      "summary": "因姐姐重伤而激发血脉质变，使用万物天平治愈姐姐后自身化为绿色大茧。",
+      "appearance": [
+        "漆黑短发变银白",
+        "双眼绿光",
+        "眼角延伸绿色线条"
+      ],
+      "personality": [
+        "颓废",
+        "仇恨",
+        "冷漠（质变后）"
+      ],
+      "abilities": [
+        "万物天平（厄运天平）",
+        "治愈"
+      ],
+      "equipment": [
+        "灰白色岩石天平"
+      ],
+      "relationships": [
+        {
+          "target": "黑衣女子",
+          "type": "姐弟"
+        },
+        {
+          "target": "安格列",
+          "type": "合作/研究对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "使用万物天平治愈姐姐后化为绿色大茧，正在进行血脉质变。"
+        }
+      ],
+      "evidence": [
+        "海利亚缓缓站起身，声音变成一种冷漠而阴沉的嗓音。",
+        "他抬起双手，手中浮现出一座灰白色岩石组成的小巧天平。",
+        "海利亚陡然喷出一口鲜血，跪倒在地。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "黑衣女子",
+      "aliases": [
+        "海利亚的姐姐"
+      ],
+      "identity": "海利亚的姐姐",
+      "faction": "",
+      "status": "重伤后被治愈",
+      "first_appearance": "",
+      "summary": "被圣力锁定重伤，后被海利亚用万物天平治愈。",
+      "appearance": [
+        "黑衣",
+        "蒙面"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "海利亚",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被圣力重伤，后经海利亚治愈。"
+        }
+      ],
+      "evidence": [
+        "一条整齐的红色切口清晰的从肚脐部位横着切开。",
+        "女子身上的伤口开始迅速愈合，里面的内脏伤口也一样快速愈合着。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "芙瑞拉",
+      "aliases": [],
+      "identity": "安格列的下属",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "守在治疗室，因看到血腥场面而脸色惨白。",
+      "appearance": [],
+      "personality": [
+        "胆小"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "守在治疗室，安格列外出前嘱托她。"
+        }
+      ],
+      "evidence": [
+        "芙瑞拉也知道是关键时候，没有多问，刚才海利亚两人的伤势她也看到了，现在脸色都还一片惨白。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "雷须",
+      "aliases": [],
+      "identity": "教会骑士",
+      "faction": "教会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "教会骑士，独自追击安格列，被安格列拦截。",
+      "appearance": [
+        "月白色铠甲",
+        "下巴有白色肉须",
+        "背有弯月回旋刃"
+      ],
+      "personality": [
+        "自信",
+        "轻蔑"
+      ],
+      "abilities": [
+        "白色火焰"
+      ],
+      "equipment": [
+        "回旋刃",
+        "月白铠甲"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "独自追击安格列，在树林中被安格列拦截。"
+        }
+      ],
+      "evidence": [
+        "骑士正是离开队伍独自前进的雷须。",
+        "雷须脸上带着一丝森冷。",
+        "他浑身燃起刺目的白色火焰，张开嘴，口中吞吐着闪烁不定耀眼白光。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "女首领骑士",
+      "aliases": [],
+      "identity": "教会骑士队长",
+      "faction": "教会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "带领一队骑士追击血脉者，被引开。",
+      "appearance": [
+        "淡金色全身铠"
+      ],
+      "personality": [
+        "谨慎",
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [
+        "弯刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领骑士追击血脉者，被引开方向。"
+        }
+      ],
+      "evidence": [
+        "带头的是一名身穿淡金色全身铠的年轻女人。",
+        "女首领扬起手，顿时队伍里所有声音全部安静下来。",
+        "骑士女首领锵的一声拔出腰间弯刀，高举大吼。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "米林",
+      "aliases": [],
+      "identity": "骑士",
+      "faction": "教会",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "女首领队伍中的男骑士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "身后的一名男骑士瓮声回答。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "马斯克",
+      "aliases": [],
+      "identity": "骑士",
+      "faction": "教会",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的骑士，上次比赛获胜者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "上次要不是被抢了头筹，怎么也轮不到马斯克你赢！"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

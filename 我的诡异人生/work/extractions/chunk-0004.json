@@ -1,0 +1,180 @@
+{
+  "chunk_id": "chunk-0004",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "租客，父母故去，有存款和房产",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第3章 罡洞",
+      "summary": "主角，正在为应对影子诡做准备，购买红外夜视仪和骨笛，并主动出钱修理楼道声控灯。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "有行动力"
+      ],
+      "abilities": [],
+      "equipment": [
+        "红外夜视仪",
+        "罡洞（骨笛）"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "思考影子诡的应对方法，购买红外夜视仪和骨笛，联系房东和五金工具修理声控灯。"
+        }
+      ],
+      "evidence": [
+        "苏午很快想到，那个‘影子诡’可以从各种物体产生的影子里钻出来",
+        "苏午编辑了一条信息：“各位老哥姐姐，有人出红外夜视仪吗？",
+        "苏午又在APP里一顿操作，以三千的价格买下一根据说是牦牛骨的‘罡洞’。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "房东",
+      "aliases": [
+        "大哥"
+      ],
+      "identity": "平安花苑7栋房东",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第3章 罡洞",
+      "summary": "平安花苑7栋的房东，酗酒打老婆，拖延修理声控灯。",
+      "appearance": [],
+      "personality": [
+        "懒惰",
+        "蛮横"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "房东与租客"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在群中回应苏午关于声控灯的询问，同意苏午出钱修理。"
+        }
+      ],
+      "evidence": [
+        "房东不用工作，在家里除了酗酒打老婆，就是玩手机刷某音。",
+        "房东巴不得省下几块钱，见状以消息来不及撤回的速度回复道：“好好好，你修你修”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "清雨",
+      "aliases": [],
+      "identity": "租客",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第3章 罡洞",
+      "summary": "平安花苑7栋的租客，在群中质疑房东。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在群中回复房东“两个月前你也是这么说的……”"
+        }
+      ],
+      "evidence": [
+        "租客‘清雨’跳出来道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "小羊佩奇",
+      "aliases": [],
+      "identity": "租客",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第3章 罡洞",
+      "summary": "平安花苑7栋的租客，在群中附和清雨。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在群中回复“确实该修修了，晚上不拿手机都看不见楼梯台阶。”"
+        }
+      ],
+      "evidence": [
+        "租客‘小羊佩奇’道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "户外钓鱼佬装备大全",
+      "aliases": [],
+      "identity": "户外装备卖家",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第3章 罡洞",
+      "summary": "售卖红外夜视仪的卖家，与苏午在同一城市，安排送货上门。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "卖家与买家"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "加苏午好友，发送红外夜视仪链接，最终以五千八成交并安排送货。"
+        }
+      ],
+      "evidence": [
+        "一个名叫‘户外钓鱼佬装备大全’的群友就加了苏午的好友。",
+        "最终以五千八的价格购入一台二手单筒头戴式红外夜视仪。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "五金工具",
+      "aliases": [],
+      "identity": "声控灯卖家兼安装工",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第3章 罡洞",
+      "summary": "在租客群中提供声控灯销售和安装服务的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "卖家与买家"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在群中回应苏午，提供声控灯并同意安装。"
+        }
+      ],
+      "evidence": [
+        "一个名为‘五金工具’的人就出声道：“我这里有各种类型的声控灯，可以找我买，我也可以帮忙安装。”"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

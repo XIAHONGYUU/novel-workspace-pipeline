@@ -1,0 +1,605 @@
+{
+  "chunk_id": "chunk-0092",
+  "characters": [
+    {
+      "name": "泥佛子",
+      "aliases": [
+        "泥佛子",
+        "小僧"
+      ],
+      "identity": "小雷音寺佛子",
+      "faction": "佛门",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "小雷音寺佛子，因追查恶僧转世而被拖入阴间，向寇立求助。",
+      "appearance": [],
+      "personality": [
+        "可怜巴巴",
+        "狡猾"
+      ],
+      "abilities": [
+        "过去燃灯术",
+        "如来金身",
+        "六种大乘神通"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "求助对象"
+        },
+        {
+          "target": "杀僧",
+          "type": "师兄"
+        },
+        {
+          "target": "度恶",
+          "type": "被追查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被拖入阴间，向寇立求助，以三颗佛舍利换取帮助。"
+        }
+      ],
+      "evidence": [
+        "此人正是杀僧大师的师弟，如今的恶僧，当年的无相寺度恶",
+        "泥佛子苦笑一声，缓缓说出当年的因果。",
+        "泥佛子可怜巴巴的道"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "寇立",
+      "aliases": [
+        "寇佛子",
+        "寇施主",
+        "师叔哥哥"
+      ],
+      "identity": "佛门佛子，人仙武者",
+      "faction": "左道",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "佛门佛子，人仙武者，与泥佛子交易后进入天尸墓，遭遇青面僵尸等强敌。",
+      "appearance": [],
+      "personality": [
+        "幸灾乐祸",
+        "贪婪",
+        "谨慎"
+      ],
+      "abilities": [
+        "斗战胜拳",
+        "纯阳真光",
+        "纯阳拳意",
+        "玄阴七鬼阵",
+        "卦象逆转"
+      ],
+      "equipment": [
+        "玄阴炼鬼幡"
+      ],
+      "relationships": [
+        {
+          "target": "泥佛子",
+          "type": "交易对象"
+        },
+        {
+          "target": "蛊小玉",
+          "type": "同伴"
+        },
+        {
+          "target": "豸剑子",
+          "type": "同伴"
+        },
+        {
+          "target": "红帝",
+          "type": "敌人"
+        },
+        {
+          "target": "紫气子",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与泥佛子交易，进入天尸墓，与青面僵尸战斗，引发剑气破阵。"
+        }
+      ],
+      "evidence": [
+        "寇立虽然依旧幸灾乐祸，但也觉的对方实在倒霉",
+        "寇立面色不变，心中却微微一动",
+        "寇立最后走到一尊猱形披发、浑身开裂，裂缝处燃烧着黄火的神祇面前"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "度恶",
+      "aliases": [
+        "恶僧"
+      ],
+      "identity": "无相寺僧人，后成恶僧",
+      "faction": "佛门（后叛）",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "杀僧的师弟，曾发宏愿不成，后成恶僧，被霸僧和杀僧联手轰杀，但疑似转世。",
+      "appearance": [],
+      "personality": [
+        "偏激",
+        "滥杀"
+      ],
+      "abilities": [
+        "佛法高强",
+        "魔佛合一"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杀僧",
+          "type": "师兄"
+        },
+        {
+          "target": "霸僧",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被霸僧和杀僧联手轰杀，但疑似转世。"
+        }
+      ],
+      "evidence": [
+        "此人正是杀僧大师的师弟，如今的恶僧，当年的无相寺度恶",
+        "当初霸僧和杀僧才联手，大战一场，将对方彻底轰杀。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "杀僧",
+      "aliases": [
+        "杀僧大师"
+      ],
+      "identity": "佛门高僧",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "度恶的师兄，曾与霸僧联手轰杀度恶。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "度恶",
+          "type": "师弟"
+        },
+        {
+          "target": "霸僧",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与霸僧联手轰杀度恶。"
+        }
+      ],
+      "evidence": [
+        "此人正是杀僧大师的师弟",
+        "当初霸僧和杀僧才联手，大战一场，将对方彻底轰杀。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "霸僧",
+      "aliases": [],
+      "identity": "佛门高僧",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "曾与杀僧联手轰杀度恶。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杀僧",
+          "type": "盟友"
+        },
+        {
+          "target": "度恶",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与杀僧联手轰杀度恶。"
+        }
+      ],
+      "evidence": [
+        "当初霸僧和杀僧才联手，大战一场，将对方彻底轰杀。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "红帝",
+      "aliases": [
+        "红帝"
+      ],
+      "identity": "上古神人，万年僵尸",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "被正阳子斩杀的上古神人，其万年僵尸身被镇于天尸墓，留有九天都罗结界。",
+      "appearance": [
+        "浑身筋肉干枯，皮肤上像是被火焰烤焦了般，高达三千丈"
+      ],
+      "personality": [],
+      "abilities": [
+        "旱魃真火"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正阳子",
+          "type": "斩杀者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被正阳子斩杀，其万年僵尸身被镇于天尸墓。"
+        }
+      ],
+      "evidence": [
+        "红帝遗蜕，当初正阳子将红帝斩杀之后，将其万年僵尸身镇于此地",
+        "虎死威尤在，哪怕死了将近千年，对方气势依旧没有消退"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "正阳子",
+      "aliases": [],
+      "identity": "紫宵派掌教，正道第一人",
+      "faction": "正道",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "紫宵派掌教，正道第一人，曾斩杀红帝，留下强大剑气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑术第十层"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "红帝",
+          "type": "斩杀者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "斩杀红帝，留下剑气封印。"
+        }
+      ],
+      "evidence": [
+        "这就是正道第一人，正阳子的实力么",
+        "当年诛杀西南六煞的紫宵派掌教"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "豸剑子",
+      "aliases": [],
+      "identity": "五毒门大师兄",
+      "faction": "左道",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "五毒门大师兄，与寇立、蛊小玉同行，被青面僵尸所伤。",
+      "appearance": [],
+      "personality": [
+        "自我怀疑"
+      ],
+      "abilities": [
+        "人剑合一",
+        "五毒灵剑"
+      ],
+      "equipment": [
+        "五毒剑"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同伴"
+        },
+        {
+          "target": "蛊小玉",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立、蛊小玉同行，遭遇青面僵尸，后随寇立脱离阵势。"
+        }
+      ],
+      "evidence": [
+        "豸剑子率先收了人剑合一的状态，浑身青烟滚滚",
+        "豸剑子长叹一声"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "蛊小玉",
+      "aliases": [
+        "小玉"
+      ],
+      "identity": "五毒门弟子，蛊王神孙女",
+      "faction": "左道",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "五毒门弟子，蛊王神孙女，与寇立、豸剑子同行，擅长蛊术。",
+      "appearance": [
+        "齐肩短发，长成齐腰长发，娇俏可爱，多了一丝魅意"
+      ],
+      "personality": [
+        "天真",
+        "狡猾"
+      ],
+      "abilities": [
+        "蛊植术",
+        "万毒虫王身",
+        "天阴尸鳖"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "同伴（暗恋）"
+        },
+        {
+          "target": "豸剑子",
+          "type": "同伴"
+        },
+        {
+          "target": "蛊王神",
+          "type": "爷爷"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立、豸剑子同行，用蛊术对抗青面僵尸，后随寇立脱离阵势。"
+        }
+      ],
+      "evidence": [
+        "蛊小玉也是小脸皱起",
+        "蛊小玉这才露出狡猾的笑容",
+        "蛊小玉忽然裹的像颗虫卵"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "青面僵尸",
+      "aliases": [],
+      "identity": "地心宫余孽，飞僵",
+      "faction": "地心宫",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "地心宫余孽，炼成飞僵，与寇立等人战斗后遁走。",
+      "appearance": [
+        "青面"
+      ],
+      "personality": [
+        "面无表情"
+      ],
+      "abilities": [
+        "尸气拳",
+        "旱魃神火",
+        "飞僵恢复"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "红帝",
+          "type": "疑似关联"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立、豸剑子、蛊小玉战斗，后遁走。"
+        }
+      ],
+      "evidence": [
+        "青面僵尸无神的瞳孔微微一动",
+        "青面僵尸冷冷的看了三人一眼，一言不发，踏入虚空之中。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "紫气子",
+      "aliases": [],
+      "identity": "左道剑仙",
+      "faction": "左道",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "左道剑仙，与寇立有过交手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑术高超"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与寇立交手。"
+        }
+      ],
+      "evidence": [
+        "紫气子感慨道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "心宗圣女",
+      "aliases": [
+        "圣女"
+      ],
+      "identity": "心宗圣女",
+      "faction": "魔道",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "心宗圣女，出现在天尸墓中，与寇立对话后离开。",
+      "appearance": [],
+      "personality": [
+        "清冷",
+        "魅惑"
+      ],
+      "abilities": [
+        "心宗功法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "对话对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在天尸墓中，与寇立对话，告知九天都罗结界所在。"
+        }
+      ],
+      "evidence": [
+        "心宗圣女，果然是你。",
+        "心宗圣女将九天都罗结界的所在告诉寇立"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "小人",
+      "aliases": [],
+      "identity": "未知存在，模拟寇立拳术",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "本章",
+      "summary": "能模拟寇立拳术的未知存在，被寇立封印。",
+      "appearance": [
+        "与寇立一模一样的小人，浑身裂缝"
+      ],
+      "personality": [],
+      "abilities": [
+        "模拟拳术",
+        "毁灭拳意"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "被封印对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与寇立战斗，被封印。"
+        }
+      ],
+      "evidence": [
+        "小人面无表情，血气连爆，毁灭拳意打出",
+        "一道小小身影突起，化作跟寇立一模一样的小人"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "黑山老鬼",
+      "aliases": [],
+      "identity": "鬼物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "被寇立轰碎的鬼物，身上有佛的气息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "被击败者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被寇立轰碎。"
+        }
+      ],
+      "evidence": [
+        "突然在那黑山老鬼身上感受到了佛的气息"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "寇佛子",
+      "aliases": [],
+      "identity": "佛门佛子",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "泥佛子对寇立的称呼，实为同一人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "寇佛子，你若不度小僧，谁来度小僧"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉儿",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "本章（提及）",
+      "summary": "与紫气子对话的人物，身份不明。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "紫气子",
+          "type": "对话对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与紫气子对话。"
+        }
+      ],
+      "evidence": [
+        "紫气子和玉儿这才显出身形"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "chunk_id": "chunk-0505",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "联盟巫师",
+      "faction": "联盟",
+      "status": "逃离中",
+      "first_appearance": "",
+      "summary": "联盟巫师，在战斗中保存实力，后与碧姬一同逃离。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "冷静"
+      ],
+      "abilities": [
+        "熔岩球",
+        "化身为暗红火焰"
+      ],
+      "equipment": [
+        "蓝色小晶石"
+      ],
+      "relationships": [
+        {
+          "target": "碧姬",
+          "type": "搭档"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与碧姬缩在平台一角，做样子战斗。"
+        },
+        {
+          "stage": "逃离",
+          "event": "在永眠序曲被破后，化身为火焰逃离。"
+        }
+      ],
+      "evidence": [
+        "安格列带着碧姬缩在平台的一角，和两头黑色巨鹰纠缠着。",
+        "安格列没有说话，从腰囊中摸出一把蓝色小晶石，握在手中。",
+        "安格列来不及看其他人情况，果断身体一转，化为暗红火焰消失。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "碧姬",
+      "aliases": [],
+      "identity": "联盟巫师",
+      "faction": "联盟",
+      "status": "逃离中",
+      "first_appearance": "",
+      "summary": "安格列的搭档，跟随安格列行动。",
+      "appearance": [],
+      "personality": [
+        "冷笑",
+        "愤怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "搭档"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "飞身上去挡在一头巨鹰的扑击路线上。"
+        },
+        {
+          "stage": "逃离",
+          "event": "白光一闪，出现在安格列身边。"
+        }
+      ],
+      "evidence": [
+        "碧姬在身后冷笑起来。",
+        "她不由自主地飞身上去挡在一头巨鹰的扑击路线上。",
+        "碧姬也白光一闪，出现在他身边。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "恩娜",
+      "aliases": [],
+      "identity": "联盟巫师首领",
+      "faction": "联盟",
+      "status": "逃离中",
+      "first_appearance": "",
+      "summary": "联盟巫师首领，使用永眠序曲秘宝，后被迫逃离。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "永眠序曲",
+        "化身为白雾"
+      ],
+      "equipment": [
+        "书本"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "使用永眠序曲，后被爱丽丝破掉。"
+        },
+        {
+          "stage": "逃离",
+          "event": "化为白雾消失。"
+        }
+      ],
+      "evidence": [
+        "恩娜突然在天空中狂吼一声，手中书本往头顶一丢，顿时纷纷扬扬的飘落下大量淡黄书页。",
+        "恩娜一个踉跄从隐形状态浮现出来，脸色苍白，面露惊愕地盯着突然破掉永眠序曲的布娃娃。",
+        "她猛地大叫一声，身形陡然化为一团白雾，消失在原地。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "西曼",
+      "aliases": [],
+      "identity": "联盟巫师",
+      "faction": "联盟",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "联盟巫师，被安奴拉偷袭杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "被安奴拉偷袭，头部被洞穿摔落。"
+        }
+      ],
+      "evidence": [
+        "西曼被对手一束红光狠狠射中，从头部瞬间洞穿一个血孔，啪的一下摔落在地。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "安奴拉",
+      "aliases": [],
+      "identity": "黑巫塔巫师（叛徒）",
+      "faction": "黑巫塔",
+      "status": "追击中",
+      "first_appearance": "",
+      "summary": "原联盟巫师，实为黑巫塔内应，偷袭西曼后加入追击。",
+      "appearance": [],
+      "personality": [
+        "冷笑",
+        "大大咧咧"
+      ],
+      "abilities": [
+        "白色十字架"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "偷袭西曼，并攻击恩娜。"
+        },
+        {
+          "stage": "追击",
+          "event": "主动请缨追击杂鱼。"
+        }
+      ],
+      "evidence": [
+        "不远处的安奴拉面带冷笑的收回手。",
+        "安奴拉丝毫没有停手的意思，手中再度凝聚出一个巨大白色十字架，对准正在和对手缠斗的恩娜。",
+        "这是我的荣幸。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "爱丽丝",
+      "aliases": [],
+      "identity": "黑巫塔首领",
+      "faction": "黑巫塔",
+      "status": "指挥中",
+      "first_appearance": "",
+      "summary": "黑巫塔首领，以布娃娃形态出现，破掉永眠序曲。",
+      "appearance": [
+        "小巧可爱的金发白色布娃娃"
+      ],
+      "personality": [
+        "诡秘"
+      ],
+      "abilities": [
+        "尖叫破掉永眠序曲"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "从红色气球中跳出，破掉永眠序曲。"
+        },
+        {
+          "stage": "指挥",
+          "event": "下令分批解决逃离的巫师。"
+        }
+      ],
+      "evidence": [
+        "里面跳出来一个小巧可爱的金发白色布娃娃",
+        "布娃娃脸上泛起一丝诡秘的微笑。",
+        "我是爱丽丝，你们跑不了的！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "贾斯汀",
+      "aliases": [],
+      "identity": "联盟巫师",
+      "faction": "联盟",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "联盟巫师，与安格列一同行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "向安格列喊话提醒永眠序曲。"
+        }
+      ],
+      "evidence": [
+        "身边的贾斯汀冲安格列狂喊着"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "米雷",
+      "aliases": [],
+      "identity": "联盟巫师",
+      "faction": "联盟",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "联盟巫师，受伤后与姐姐米蕾一同逃离。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "白色金边的沉重铠甲"
+      ],
+      "relationships": [
+        {
+          "target": "米蕾",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "被巫师偷袭受伤。"
+        },
+        {
+          "stage": "逃离",
+          "event": "与米蕾、艾弥娅一同逃离。"
+        }
+      ],
+      "evidence": [
+        "米雷上半身全是血污，看样子伤得不轻。",
+        "米雷苦笑一声。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "米蕾",
+      "aliases": [
+        "马尾女子"
+      ],
+      "identity": "联盟巫师",
+      "faction": "联盟",
+      "status": "逃离中",
+      "first_appearance": "",
+      "summary": "米雷的姐姐，使用黄铜小盾和黄金飞刀。",
+      "appearance": [
+        "马尾"
+      ],
+      "personality": [],
+      "abilities": [
+        "珍珠露",
+        "黄铜小盾",
+        "黄金飞刀"
+      ],
+      "equipment": [
+        "黄铜小盾",
+        "黄金飞刀"
+      ],
+      "relationships": [
+        {
+          "target": "米雷",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "守护艾弥娅，反射巫术。"
+        },
+        {
+          "stage": "逃离",
+          "event": "与安格列交换印记后分头逃离。"
+        }
+      ],
+      "evidence": [
+        "那名马尾女子则是守在艾弥娅身前，强撑着用一面黄铜小盾反射着对手的巫术。",
+        "我叫米蕾，是这家伙的姐姐"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "艾弥娅",
+      "aliases": [],
+      "identity": "联盟巫师",
+      "faction": "联盟",
+      "status": "昏迷",
+      "first_appearance": "",
+      "summary": "联盟巫师，被永眠序曲催眠后昏迷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "被永眠序曲催眠倒地。"
+        }
+      ],
+      "evidence": [
+        "其中艾弥娅居然已经歪倒在地沉沉睡去。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "烟雾人形",
+      "aliases": [],
+      "identity": "黑巫塔巫师",
+      "faction": "黑巫塔",
+      "status": "追击中",
+      "first_appearance": "",
+      "summary": "黑巫塔巫师，以青烟凝聚的人形出现，主动请缨追击安格列等人。",
+      "appearance": [
+        "青烟凝聚的人形"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "追击",
+          "event": "主动请缨追击安格列等人。"
+        }
+      ],
+      "evidence": [
+        "一团团灰色烟雾也跟着落到平台上，形成三个人形。",
+        "我去吧。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "chunk_id": "chunk-0874",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张守正",
+        "张道友"
+      ],
+      "identity": "东庭玄首兼守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "东庭玄首兼守正，正在祭炼双剑以护持寄虚之地，并关注玄廷对其功绩的论功争议。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "思虑周全"
+      ],
+      "abilities": [
+        "祭炼法器",
+        "心光映照",
+        "玄浑蝉观想图"
+      ],
+      "equipment": [
+        "蝉鸣剑",
+        "惊霄剑",
+        "玄浑蝉观想图"
+      ],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "道友"
+        },
+        {
+          "target": "钟廷执",
+          "type": "廷上争议对象"
+        },
+        {
+          "target": "玉素道人",
+          "type": "廷上争议对象"
+        },
+        {
+          "target": "岑传",
+          "type": "潜在竞争对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阅读玄廷道书，决定祭炼双剑护持寄虚之地，并得知玄廷对其功绩的争议。"
+        }
+      ],
+      "evidence": [
+        "张御留意到这些玄廷道书之上，谈及护持寄虚之地的法器时，前人所留下的注释无不是写明，此事绝不可假托他人之手。",
+        "他心意一转之间，周围景物换变，眨眼已是落到了自家所开辟的道场之中。",
+        "风道人言道：‘现下尚未有定论，不过看廷上却是倾向于钟廷执等人之意。’"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风道友"
+      ],
+      "identity": "玄廷中人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷中人，负责向张御传递廷上消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知张御玄廷对其功绩的争议。"
+        }
+      ],
+      "evidence": [
+        "风道人言道：‘现下尚未有定论，不过看廷上却是倾向于钟廷执等人之意。’"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "钟廷执",
+      "aliases": [
+        "钟唯吾"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄廷廷执，反对将张御的功绩算作玄首之功，主张按守正之功赐玄粮。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "廷上争议对象"
+        },
+        {
+          "target": "岑传",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷上反对将张御的功绩算作玄首之功，并提议增加一名守正。"
+        }
+      ],
+      "evidence": [
+        "钟廷执提出，玄首未得准备，不可远离自身之辖界，而道友却是仗着守正之职四处扫荡敌手。",
+        "钟唯吾认为，如今外有强敌，内有异患，不能让此人一人专功，他言有意上书玄廷，说服廷上再增一名守正。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄廷廷执，认为张御的功绩应算作玄首之功，不当赐玄粮。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "廷上争议对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷上主张张御的功绩应算作玄首之功。"
+        }
+      ],
+      "evidence": [
+        "而认为不当赐玄粮的却是玉素道人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "岑传",
+      "aliases": [
+        "岑师兄"
+      ],
+      "identity": "玄首",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "某洲玄首，视张御为竞争对手，与钟唯吾商议增加守正以分薄张御功劳。",
+      "appearance": [],
+      "personality": [
+        "有野心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "梅商",
+          "type": "师弟"
+        },
+        {
+          "target": "钟唯吾",
+          "type": "合作者"
+        },
+        {
+          "target": "张御",
+          "type": "竞争对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与师弟梅商商议，有意让梅商担任守正以分薄张御功劳。"
+        }
+      ],
+      "evidence": [
+        "岑传道：‘本来我想师弟助我对抗，但是钟唯吾言如今天夏与往日不同。’",
+        "岑传言道：‘正是如此，这人如今称得上是功劳赫赫，关键是名声也是不小，若要争廷执之位，我未必能争过他。’"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "梅商",
+      "aliases": [
+        "梅道人",
+        "梅师弟"
+      ],
+      "identity": "修道者，岑传师弟",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "岑传的师弟，被岑传劝说担任守正。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "岑传",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与岑传商议，同意担任守正。"
+        }
+      ],
+      "evidence": [
+        "梅道人道：‘敢问师兄，不知是何事？’",
+        "梅道人稍作思虑，便打一个稽首，道：‘既如此，小弟一切听师兄的安排。’"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

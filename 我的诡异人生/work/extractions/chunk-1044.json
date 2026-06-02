@@ -1,0 +1,229 @@
+{
+  "chunk_id": "chunk-1044",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "真人"
+      ],
+      "identity": "符箓修为高深的道门修行者，疑似醒觉宿慧",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与王梦龙对话，得知江莺莺被麻仙姑所救；与麻仙姑商议治疗发诡之事。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "深思熟虑"
+      ],
+      "abilities": [
+        "容纳鬼梦",
+        "掌握真武道韵",
+        "劫影长河"
+      ],
+      "equipment": [
+        "黑傩",
+        "白驹太上爷",
+        "丹丸"
+      ],
+      "relationships": [
+        {
+          "target": "王梦龙",
+          "type": "对话者"
+        },
+        {
+          "target": "江莺莺",
+          "type": "故人"
+        },
+        {
+          "target": "麻仙姑",
+          "type": "治疗对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与王梦龙交谈，得知江莺莺下落；与麻仙姑商议治疗发诡。"
+        }
+      ],
+      "evidence": [
+        "苏午顿了顿，道：“我心中大约有些猜测，但还未能验证自己的猜测是否准确。”",
+        "苏午回到中堂那边，与众人闲谈。",
+        "苏午手掌摊开，一道竖痕直接悬浮于他掌心之上，大道神韵交织于那道竖痕之上。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "王梦龙",
+      "aliases": [],
+      "identity": "受缚于鬼梦的知情者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "告知苏午粉衣女子是江莺莺，并建议苏午容纳第三位太上爷。",
+      "appearance": [],
+      "personality": [
+        "神秘",
+        "乐于助人"
+      ],
+      "abilities": [
+        "了解历史",
+        "举荐太上爷"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午交谈，告知江莺莺下落，并建议容纳大成太上爷。"
+        }
+      ],
+      "evidence": [
+        "王梦龙笑了笑，“那个为麻仙姑所救的粉衣女子，就是你的故人——江莺莺。”",
+        "王梦龙又道：“今下时空尽被绝断在十字劫下……”",
+        "王梦龙将联络‘大成太上爷’的法子教给了苏午，便又隐入鬼梦之中。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "江莺莺",
+      "aliases": [
+        "小河",
+        "粉衣女子"
+      ],
+      "identity": "苏午的故人，性魂有伤",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被麻仙姑所救，化名小河，性魂沉寂，神智未复苏。",
+      "appearance": [
+        "粉衣"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "故人"
+        },
+        {
+          "target": "麻仙姑",
+          "type": "被救者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被麻仙姑所救，在素珏道姑处休息。"
+        }
+      ],
+      "evidence": [
+        "那个为麻仙姑所救的粉衣女子，就是你的故人——江莺莺。",
+        "小河在屋里休息着，她性魂有伤，精力不济。",
+        "她因见到阁下而生出触动，这可能是她昏沉的性魂将醒的预兆。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "麻仙姑",
+      "aliases": [
+        "素珏",
+        "素珏道姑",
+        "道长"
+      ],
+      "identity": "道门修行者，全真体系或三山符箓体系弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "收留江莺莺，自身容纳发诡，与苏午商议治疗发诡。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "恭敬"
+      ],
+      "abilities": [
+        "演天太极",
+        "容纳发诡"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被治疗者"
+        },
+        {
+          "target": "江莺莺",
+          "type": "救助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午会面，商议释放并重新容纳发诡。"
+        }
+      ],
+      "evidence": [
+        "素珏道姑已经在她居处的院落里等候苏午。",
+        "素珏道姑虽是道门中人，但她自身并未修行符箓。",
+        "真人当面，弟子不敢妄称‘道长’。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "大成太上爷",
+      "aliases": [],
+      "identity": "鬼梦中的亡者意识，精通诸家拳法",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "王梦龙举荐的第三位太上爷，精通拳法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "精通诸家拳法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王梦龙",
+          "type": "举荐者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我可以为你举荐一位‘太上爷’，此人精通诸家拳法，尊名作‘大成太上爷’。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "邹庆功",
+      "aliases": [],
+      "identity": "邹家主人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "邹家主人，午宴未露面。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "午宴未露面。"
+        }
+      ],
+      "evidence": [
+        "席间邹庆功未有露面。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

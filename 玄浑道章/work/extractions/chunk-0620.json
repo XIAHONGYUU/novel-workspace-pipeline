@@ -1,0 +1,217 @@
+{
+  "chunk_id": "chunk-0620",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "巡护"
+      ],
+      "identity": "天夏巡护",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏巡护，受戴玄尊法符相助，进入幽城破坏阵枢。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "心力",
+        "玄兵操控"
+      ],
+      "equipment": [
+        "白舟",
+        "星袋",
+        "戴玄尊法符"
+      ],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "合作"
+        },
+        {
+          "target": "展子寂",
+          "type": "敌对"
+        },
+        {
+          "target": "于步航",
+          "type": "接洽"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入幽城，与许成通一同前往阵枢和库藏。"
+        }
+      ],
+      "evidence": [
+        "张御以往就曾听说过，说是幽城之人喜爱搜集奇珍异宝",
+        "张御看向许成通，道：“许执事，你可知阵枢何在么？”",
+        "张御这时想了想，从展子寂留下的星袋中取出了一枚玉符"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "许成通",
+      "aliases": [
+        "许执事"
+      ],
+      "identity": "幽城执事",
+      "faction": "幽城",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "幽城执事，为张御提供幽城内部信息，协助破坏阵枢。",
+      "appearance": [],
+      "personality": [
+        "配合",
+        "知无不言"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        },
+        {
+          "target": "展子寂",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指引张御前往阵枢和库藏。"
+        }
+      ],
+      "evidence": [
+        "许成通道：“世上没有那么多奇珍异宝，有许多其实是打着这等名目四处抢夺宝药宝材，用来供给自身修行的。”",
+        "许成通赶忙回道：“城中确有一处阵枢，只是最主要的地方掌握在展子寂手中”",
+        "许成通应了一声，将此符接了过来，走上前去，往某一个凹槽之中放入进去"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "展子寂",
+      "aliases": [],
+      "identity": "幽城修士（已故）",
+      "faction": "幽城",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "幽城修士，原本即将调往主城，因追捕张御任务而滞留，最终被张御所杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "星袋",
+        "玉符"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "许成通",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已死，其星袋被张御获得。"
+        }
+      ],
+      "evidence": [
+        "展子寂在死之前，明明还有一丝余力，可他并没有将自己星袋化去，反而将之留了下来",
+        "本来再有半载就可调去主城了，但是此前却是忽然传出巡护身上有道印的消息"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "于步航",
+      "aliases": [
+        "于道人"
+      ],
+      "identity": "备卫军守镇修士",
+      "faction": "备卫军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "备卫军守镇修士，奉厉校尉之命前来拜见张御，请求从内部破坏幽城禁阵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "接洽"
+        },
+        {
+          "target": "厉校尉",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "登舟拜见张御，请求破坏阵枢。"
+        }
+      ],
+      "evidence": [
+        "在下是背卫军守镇修士于步航，得厉校尉之命前来拜见巡护。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "厉校尉",
+      "aliases": [],
+      "identity": "备卫军校尉",
+      "faction": "备卫军",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "备卫军校尉，派遣于步航与张御接洽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "于步航",
+          "type": "上级"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "得厉校尉之命前来拜见巡护。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戴玄尊",
+      "aliases": [],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏玄尊，赐予张御法符以通过幽城禁阵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "支持"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "因有戴玄尊那张法符相助",
+        "回头还要请戴玄尊出手"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

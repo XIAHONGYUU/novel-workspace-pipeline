@@ -1,0 +1,244 @@
+{
+  "chunk_id": "chunk-0927",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "调查员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第926章 伪人",
+      "summary": "调查员，负责处理活尸事件，拥有特殊能力。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "敏锐"
+      ],
+      "abilities": [
+        "诸色光轮窥察心念",
+        "脑后铺散渺渺之发",
+        "血河翻腾"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱玉明活尸",
+          "type": "观察与关押"
+        },
+        {
+          "target": "清人活尸（张双国）",
+          "type": "审问与关押"
+        },
+        {
+          "target": "熊骏",
+          "type": "同事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在观察间审问活尸，后将活尸投入诡狱关押。"
+        }
+      ],
+      "evidence": [
+        "苏午看着它，诸色光轮盘转之间，已然窥察不到它的丝毫心念波动",
+        "苏午脑后铺散瀑布般的渺渺之发，那根根发丝穿透了透明隔间",
+        "血河翻腾而来，缓缓浸没这十具活尸。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "朱玉明活尸",
+      "aliases": [
+        "朱玉明"
+      ],
+      "identity": "活尸",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第926章 伪人",
+      "summary": "一具具备模仿他人并取代他人能力的活尸，曾取代王富盈和周家三公子。",
+      "appearance": [],
+      "personality": [
+        "恶意"
+      ],
+      "abilities": [
+        "模仿他人并取代",
+        "将被取代者变成随身物件"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被观察与关押"
+        },
+        {
+          "target": "王富盈",
+          "type": "被取代"
+        },
+        {
+          "target": "周家三公子",
+          "type": "被取代"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "站在透明隔间内失去意识，后被苏午关入诡狱。"
+        }
+      ],
+      "evidence": [
+        "它具备某种模仿他者，进而彻底变作‘他者’，取代真正的‘他者’的能力。",
+        "被它取代的那些活人，譬如‘王富盈’，譬如‘周家三公子’，都会变成它随身的物件。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "清人活尸",
+      "aliases": [
+        "张双国"
+      ],
+      "identity": "活尸",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第926章 伪人",
+      "summary": "一具自称张双国的活尸，拥有模仿他人并最终取代他人的能力，被苏午识破并关押。",
+      "appearance": [
+        "留着长辫子、戴瓜皮帽、穿着一身灰扑扑袍子的矮个男人"
+      ],
+      "personality": [
+        "善于观察",
+        "求生欲强",
+        "恶意"
+      ],
+      "abilities": [
+        "模仿他人动作举止",
+        "通过模仿变成他人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被审问与关押"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在隔间内与苏午对话，后被苏午识破并关入诡狱。"
+        }
+      ],
+      "evidence": [
+        "最不正常的地方，就是我很善于观察隔间外行走的人。",
+        "我有种预感，只要持续观察某个人，越来越能模仿他的动作、举止，我最终就能变成那个人！",
+        "它紧紧盯着苏午，问道：不送我去做无害化处理吗？你要带我去哪里？！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "熊骏",
+      "aliases": [],
+      "identity": "工作人员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第926章 伪人",
+      "summary": "白水村的工作人员，被活尸模仿取代。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "胸牌"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同事"
+        },
+        {
+          "target": "模仿熊骏的活尸",
+          "type": "被取代"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "下午五点走出工作车间，回到居处。"
+        }
+      ],
+      "evidence": [
+        "下午五点，‘熊骏’走出了工作车间。",
+        "他与其他同事打过招呼，没有和其他同事一起往办公楼那边走，而是先回了自己的居处。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "模仿熊骏的活尸",
+      "aliases": [],
+      "identity": "活尸",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第926章 伪人",
+      "summary": "一具模仿熊骏的活尸，能通过捏脸改变外貌，并将胸牌变成被取代者。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "疑惑"
+      ],
+      "abilities": [
+        "捏脸改变外貌",
+        "将胸牌变成被取代者"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "熊骏",
+          "type": "模仿对象"
+        },
+        {
+          "target": "苏午",
+          "type": "被怀疑"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回到居处后对着镜子捏脸调整外貌，并将胸牌变成另一个熊骏。"
+        }
+      ],
+      "evidence": [
+        "他一边捏，一边对照旁边胸牌上自己的照片。",
+        "一张不过巴掌大的胸牌，在他的抖动下，伴随着阵阵难以言喻的恶意，竟直接变作了一个‘人’！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "陈睿",
+      "aliases": [],
+      "identity": "工作人员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第926章 伪人",
+      "summary": "白水村的工作人员，与熊骏同住。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "熊骏",
+          "type": "同事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与熊骏一起回到居处。"
+        }
+      ],
+      "evidence": [
+        "‘熊骏’推开屋院的不锈钢门，‘陈睿’匆匆跟了上来。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

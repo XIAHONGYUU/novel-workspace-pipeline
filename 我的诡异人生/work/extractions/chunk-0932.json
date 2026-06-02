@@ -1,0 +1,369 @@
+{
+  "chunk_id": "chunk-0932",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "审问伪人的修行者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "审问伪人，通过剥离其皮肤获取记忆，发现伪人与清朝宫廷及眼诡有关。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "专注",
+        "果断"
+      ],
+      "abilities": [
+        "八识心王",
+        "六天鬼眼",
+        "口发真言"
+      ],
+      "equipment": [
+        "剪刀",
+        "钳子",
+        "缚诡索"
+      ],
+      "relationships": [
+        {
+          "target": "朱玉明活尸",
+          "type": "审问对象"
+        },
+        {
+          "target": "伪人",
+          "type": "审问对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在刑罚室中审问伪人，剥离其皮肤获取记忆。"
+        }
+      ],
+      "evidence": [
+        "苏午看着门板上血肉模糊的尸体，喃喃低语。",
+        "苏午眉心六天鬼眼猛然张开！",
+        "他一手捏着剪刀，一手捏着钳子，将剪刀探入那果冻质般半透明的伪人‘皮肤’下"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "伪人",
+      "aliases": [
+        "朱玉明伪人",
+        "朱玉明活尸"
+      ],
+      "identity": "被审问的伪人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "被苏午审问的伪人，寄附在朱玉明尸身上，通过剥离皮肤可获取其记忆，最终自毁。",
+      "appearance": [
+        "果冻质般半透明的身躯",
+        "灰白色皮肤",
+        "黑白色女子头颅"
+      ],
+      "personality": [
+        "冰冷",
+        "充满恶意"
+      ],
+      "abilities": [
+        "融化消失",
+        "自毁",
+        "轮回"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "审问者"
+        },
+        {
+          "target": "朱玉明",
+          "type": "寄附对象"
+        },
+        {
+          "target": "眼诡",
+          "type": "可能源头"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "曾渗入清朝宫廷，与皇族接触。"
+        },
+        {
+          "stage": "当前",
+          "event": "被苏午审问，最终自毁。"
+        }
+      ],
+      "evidence": [
+        "那个伪人留下一句冰冷机械的声音，其果冻质般的‘身躯’就在门板镣铐上‘融化’了，消失无踪！",
+        "它已经‘死’去！",
+        "那黑白色的女子头颅在这猛烈颤动中遍布裂缝，倏忽崩散，消失无踪！"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "朱玉明",
+      "aliases": [
+        "朱玉明活尸"
+      ],
+      "identity": "被伪人寄附的尸体",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "被伪人寄附的尸体，被苏午用于审问伪人。",
+      "appearance": [
+        "几无人形",
+        "尸体腐烂，流出红绿脓水"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "伪人",
+          "type": "寄附对象"
+        },
+        {
+          "target": "苏午",
+          "type": "审问对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午用于审问伪人。"
+        }
+      ],
+      "evidence": [
+        "缚诡索拖拽着被折磨得几无人形的‘朱玉明活尸’，将之禁锢在了门板之上。",
+        "朱玉明活尸已经脱落去了数个被模仿者的过往回忆"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "被模仿者（清朝卖包子者）",
+      "aliases": [],
+      "identity": "清朝时期在宫苑卖包子的人",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "伪人记忆中的被模仿者，在清朝宫苑中卖包子，实际已被伪人取代。",
+      "appearance": [
+        "面容模糊"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "排子车",
+        "厚棉被",
+        "马扎",
+        "油纸"
+      ],
+      "relationships": [
+        {
+          "target": "伪人",
+          "type": "被模仿者"
+        },
+        {
+          "target": "清朝宫廷太监",
+          "type": "交易对象"
+        },
+        {
+          "target": "清朝朝廷大员",
+          "type": "顾客"
+        },
+        {
+          "target": "清朝嫔妃",
+          "type": "目击者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "清朝时期",
+          "event": "在宫苑中卖包子，被伪人取代。"
+        }
+      ],
+      "evidence": [
+        "那在宫苑里卖包子的人，哪里是什么‘被模仿者’？它已经就是伪人了！",
+        "被模仿者拉着车，走进了那恢宏庄严的宫殿群里。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "清朝太监",
+      "aliases": [],
+      "identity": "清朝宫廷太监",
+      "faction": "清朝宫廷",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "伪人记忆中的太监，与被模仿者交易放行。",
+      "appearance": [
+        "面容模糊",
+        "揣着一柄拂尘",
+        "衣衫较为考究"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "拂尘"
+      ],
+      "relationships": [
+        {
+          "target": "被模仿者（清朝卖包子者）",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "清朝时期",
+          "event": "与被模仿者交易，放其进入宫苑。"
+        }
+      ],
+      "evidence": [
+        "尖细的声音在‘苏午’耳畔响起。",
+        "面容模糊、揣着一柄拂尘、衣衫较为考究的太监站在那里。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "清朝朝廷大员",
+      "aliases": [],
+      "identity": "清朝参与朝会的官员",
+      "faction": "清朝朝廷",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "伪人记忆中的朝廷大员，购买被模仿者的包子。",
+      "appearance": [
+        "头戴顶戴花翎",
+        "身着禽兽官补子朝服"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "被模仿者（清朝卖包子者）",
+          "type": "顾客"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "清朝时期",
+          "event": "在宫苑中购买包子。"
+        }
+      ],
+      "evidence": [
+        "许多头戴‘顶戴花翎’、一身盛装的男人们在对侧正门前下了轿子，结伴步入了宫苑内",
+        "这些头戴顶戴花翎，身着禽兽官补子朝服、以斑斓花纹的绸缎做成箭袖的人们，其身份不言而喻，皆是参与朝会的朝廷大员们！"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "清朝嫔妃",
+      "aliases": [],
+      "identity": "清朝宫廷嫔妃",
+      "faction": "清朝宫廷",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "伪人记忆中的嫔妃，与被模仿者（伪人）面对面。",
+      "appearance": [
+        "美艳明丽的面孔"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "被模仿者（清朝卖包子者）",
+          "type": "目击者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "清朝时期",
+          "event": "在轿辇中与被模仿者（伪人）面对面。"
+        }
+      ],
+      "evidence": [
+        "一张美艳明丽的面孔出现在车窗里"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "红毛国画师",
+      "aliases": [],
+      "identity": "红毛国画师",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "伪人记忆中的画师，正在为公主的西施犬画像。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公主",
+          "type": "服务对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "为公主的西施犬画像。"
+        }
+      ],
+      "evidence": [
+        "浏览过一段‘红毛国画师’的残缺记忆，他正在为某位公主的西施犬画像"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "街头乞丐",
+      "aliases": [],
+      "identity": "街头乞丐",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "伪人记忆中的乞丐，因抢夺富商呕吐物而与其他乞丐殴斗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "因抢夺富商呕吐物而与其他乞丐殴斗。"
+        }
+      ],
+      "evidence": [
+        "浏览过一段街头乞丐的记忆，他因抢夺一位富商大醉后的呕吐物，而与其他乞丐互相殴斗"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "妓女",
+      "aliases": [],
+      "identity": "妓女",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第931章 ‘伪人回忆’",
+      "summary": "伪人记忆中的妓女。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "浏览过一段妓丨女的记忆"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

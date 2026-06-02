@@ -1,0 +1,259 @@
+{
+  "chunk_id": "chunk-1578",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "天夏修道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修道人，道法高深，能克制支道人的根本道法。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "正御中天",
+        "言印（敕、镇）",
+        "心光",
+        "蝉鸣剑"
+      ],
+      "equipment": [
+        "蝉鸣剑"
+      ],
+      "relationships": [
+        {
+          "target": "支道人",
+          "type": "敌对"
+        },
+        {
+          "target": "陈首执",
+          "type": "同阵营"
+        },
+        {
+          "target": "林廷执",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击败支道人及其外身，斩杀怪物须奴，收走梭舟。"
+        }
+      ],
+      "evidence": [
+        "张御道法一击破毁支道人外身",
+        "张御看着过来数人，把袖一挥，一道浩浩荡荡的清气荡开",
+        "张御意念一动，将蝉鸣剑收了回来"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "支道人",
+      "aliases": [],
+      "identity": "元夏修道人，对下殿最忠诚",
+      "faction": "元夏",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "元夏修道人，求全道法，是三人中最弱的一个，被派遣攻打壑界。",
+      "appearance": [],
+      "personality": [
+        "警惕",
+        "决绝"
+      ],
+      "abilities": [
+        "根本道法（被正御中天克制）",
+        "外身",
+        "阵器（梭舟）"
+      ],
+      "equipment": [
+        "梭舟",
+        "丹丸"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "三名寄虚修道人",
+          "type": "下属"
+        },
+        {
+          "target": "须奴",
+          "type": "法契牵连"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "外身被破，吞服丹丸试图破坏屹界，被张御言印压制后剑杀，形神俱灭。"
+        }
+      ],
+      "evidence": [
+        "支道人站在梭舟之中，露出了惊异之色",
+        "支道人此刻也是意识到了这一点",
+        "支道人则是神情变得难看无比"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "三名寄虚修道人",
+      "aliases": [],
+      "identity": "元夏寄虚修士",
+      "faction": "元夏",
+      "status": "外身被灭",
+      "first_appearance": "",
+      "summary": "支道人调用的三名修士外身，境界低于支道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "法器"
+      ],
+      "relationships": [
+        {
+          "target": "支道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "外身被张御清气荡灭。"
+        }
+      ],
+      "evidence": [
+        "他又对左右三名寄虚修道人言道",
+        "那三个道人的外身直接消失不见"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏首执，祭出离空闪隔绝乘青鸿羽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "离空闪"
+      ],
+      "equipment": [
+        "离空闪"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "祭出离空闪隔绝乘青鸿羽。"
+        }
+      ],
+      "evidence": [
+        "却是陈首执祭出了“离空闪”，将“乘青鸿羽”隔绝了去"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "林廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，与张御讨论梭舟。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "来到法坛与张御见面，查看梭舟。"
+        }
+      ],
+      "evidence": [
+        "林廷执来到了此间",
+        "林廷执看了几眼，若有所思道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "须奴",
+      "aliases": [],
+      "identity": "怪物",
+      "faction": "元夏",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "一头水蛭状怪物，与支道人有法契牵连，被张御一指击杀。",
+      "appearance": [
+        "水蛭状"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "支道人",
+          "type": "法契牵连"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御一指化显并碎裂，坠入屹界。"
+        }
+      ],
+      "evidence": [
+        "那一头趴伏在屹界之上的水蛭状怪物竟是从虚无之中化显出来",
+        "其身上同时出现了无数裂纹"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "明周道人",
+      "aliases": [],
+      "identity": "天夏道人",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御唤来的道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤来关照一声。"
+        }
+      ],
+      "evidence": [
+        "唤来明周道人关照了一声"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

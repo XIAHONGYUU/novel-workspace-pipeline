@@ -1,0 +1,273 @@
+{
+  "chunk_id": "chunk-0430",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "黑巫塔",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "与幽灵骑士加麦战斗后受伤，正在用铜火树心治疗寒系伤势。",
+      "appearance": [
+        "红发",
+        "浑身白色冰霜",
+        "嘴唇发白",
+        "皮肤惨白"
+      ],
+      "personality": [
+        "谨慎",
+        "冷静"
+      ],
+      "abilities": [
+        "变身火焰",
+        "毁灭之眼",
+        "芯片辅助"
+      ],
+      "equipment": [
+        "白色眼球",
+        "铜火树心"
+      ],
+      "relationships": [
+        {
+          "target": "加麦",
+          "type": "敌人"
+        },
+        {
+          "target": "薇薇",
+          "type": "支持者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在尼斯湖畔别墅烤火疗伤。"
+        }
+      ],
+      "evidence": [
+        "安格列浑身白色冰霜，缓缓从这片区域中走出来",
+        "安格列坐在壁炉边，腿上搭着一块红色毛毯，静静烤着火。他浑身不断冒着寒气",
+        "安格列双眼中不断闪烁着蓝色光点"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "加麦",
+      "aliases": [
+        "幽灵骑士"
+      ],
+      "identity": "幽灵骑士",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "与安格列战斗的幽灵骑士，被安格列杀死。",
+      "appearance": [
+        "巨马",
+        "黑色铠甲"
+      ],
+      "personality": [
+        "愤怒",
+        "咆哮"
+      ],
+      "abilities": [
+        "寒系秘法",
+        "瞬间移动"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌人"
+        },
+        {
+          "target": "莱茵姒",
+          "type": "后辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "被安格列杀死。"
+        }
+      ],
+      "evidence": [
+        "幽灵骑士疯狂的咆哮着，连人带马，轰的一声，瞬间消失在原地",
+        "幽灵骑士眼前一黑，彻底陷入黑暗中",
+        "幽灵骑士加麦最后这一下，爆发的这种寒意攻击"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "莱茵姒",
+      "aliases": [],
+      "identity": "女子",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被安格列用黑铲和昏睡药粉定在树上，后被加麦提及为后辈。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "加麦",
+          "type": "后辈"
+        },
+        {
+          "target": "安格列",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗前",
+          "event": "被安格列定在树上。"
+        }
+      ],
+      "evidence": [
+        "这把黑铲是我从附近田地里找来的顺手武器，随便丢出去，没想到她也不躲开，很简单就被定在树上了",
+        "你杀死了我唯一的后辈！！！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "穆拉",
+      "aliases": [],
+      "identity": "弱者",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "身中三种巫术，可能被活埋在墓穴中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "墓穴垮塌时",
+          "event": "可能被活埋。"
+        }
+      ],
+      "evidence": [
+        "出来时没人想起身中三种巫术的穆拉，这就是弱者的悲哀"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "艾丽娅",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "与穆拉一起，可能被活埋在墓穴中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "墓穴垮塌时",
+          "event": "可能被活埋。"
+        }
+      ],
+      "evidence": [
+        "他忽然想起那个穆拉和艾丽娅，不知道是被活埋在底下，还是已经逃出来了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "塔芽",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被提及为女童的复仇对象。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "女童",
+          "type": "复仇对象"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "塔芽，我一定会为你报仇的……"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女童",
+      "aliases": [],
+      "identity": "复仇者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "身体庞大黑色铠甲，头部是小女孩，为塔芽报仇。",
+      "appearance": [
+        "双眼无神的长发小女孩",
+        "灰白长发",
+        "黑色巨叉"
+      ],
+      "personality": [
+        "愤怒"
+      ],
+      "abilities": [
+        "融化阴影",
+        "瞬间移动"
+      ],
+      "equipment": [
+        "黑色巨叉"
+      ],
+      "relationships": [
+        {
+          "target": "塔芽",
+          "type": "复仇"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "出现在黑渊峡谷，发誓报仇。"
+        }
+      ],
+      "evidence": [
+        "身体是庞大威武的巨型黑色铠甲，头部却是双眼无神的长发小女孩",
+        "塔芽，我一定会为你报仇的……",
+        "无声无息间，女童瞬间融化成一摊阴影，消失在原地"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "薇薇",
+      "aliases": [],
+      "identity": "支持者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "对安格列的材料资源支持几乎无限量。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "支持者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "薇薇对于他的材料资源上的支持，几乎是无限量的"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

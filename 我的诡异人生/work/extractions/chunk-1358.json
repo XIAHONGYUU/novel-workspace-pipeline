@@ -1,0 +1,188 @@
+{
+  "chunk_id": "chunk-1358",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "进入大雁塔探索，最终在塔底见到纯金老僧，被漆出金身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "法性",
+        "空境"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陶祖",
+          "type": "得到其符箓援助"
+        },
+        {
+          "target": "纯金老僧",
+          "type": "被其漆出金身"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "再探大雁塔，从第一层走到第十层，最终进入塔底门户，被纯金老僧漆出金身。"
+        }
+      ],
+      "evidence": [
+        "苏午在雁塔前并未等候太久，陶祖便放了一道符箓过来，贴在了大雁塔上。",
+        "苏午早知雁塔内会有异变，对此般情形亦有心理准备。",
+        "苏午仰头看着那纯金铸就的高瘦老僧，他的身形一刹那亦变得宏伟庄严起来。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "陶祖",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "在雁塔外放符箓监视雁塔，为苏午提供援助。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "符箓"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "提供符箓援助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "放符箓贴在大雁塔上，监视雁塔。"
+        }
+      ],
+      "evidence": [
+        "陶祖便放了一道符箓过来，贴在了大雁塔上。",
+        "他以这道符箓监视雁塔，假若雁塔再生变故，他可以在瞬间施以援手。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "纯金老僧",
+      "aliases": [
+        "玄奘法性化身",
+        "本源神灵"
+      ],
+      "identity": "替大乘天看护门户的僧侣",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "纯金铸就的高瘦老僧，面貌与老年玄奘一模一样，在塔底门户内为苏午漆出金身。",
+      "appearance": [
+        "纯金铸就",
+        "高瘦",
+        "黄澄澄的色泽"
+      ],
+      "personality": [],
+      "abilities": [
+        "漆出金身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "为其漆出金身"
+        },
+        {
+          "target": "玄奘",
+          "type": "具有玄奘的法性"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在塔底门户内等待苏午，为其漆出金身。"
+        }
+      ],
+      "evidence": [
+        "那门户内，高瘦的僧人被苏午周身寂静无色的光，映照出一身黄澄澄的色泽——这俨然是纯金铸就的高瘦老僧。",
+        "你非玄奘，但却具有玄奘的法性。",
+        "吾替‘大乘天’看护门户，寻佛法真乘之衣钵。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "玄奘",
+      "aliases": [
+        "玄奘法师"
+      ],
+      "identity": "高僧",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "大雁塔的建造者，其法性留存在塔中，但已消无。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "纯金老僧",
+          "type": "其法性被纯金老僧具有"
+        },
+        {
+          "target": "普光",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "翻阅贝叶经书，将性识留在经书中。"
+        }
+      ],
+      "evidence": [
+        "这些经书曾被玄奘法师一遍一遍地翻阅过，以至于那时候尚还年轻的玄奘法师，将自身的些丝性识都留在了经书之中。",
+        "你非玄奘，但却具有玄奘的法性。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "普光",
+      "aliases": [
+        "普光和尚"
+      ],
+      "identity": "玄奘弟子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄奘弟子，其舍利曾显化投影，但今已消散。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玄奘",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "舍利显化投影，为苏午传授因明学说，后化光消散。"
+        }
+      ],
+      "evidence": [
+        "雁塔第三层，存放着玄奘弟子－‘普光’和尚的舍利。",
+        "此舍利先前显化出普光和尚投影，要为苏午传授‘因明学说’。",
+        "不过普光后来观见苏午在‘十七地’中进境，比自己又胜出了不知多少筹，便直接化光消散。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "chunk_id": "chunk-0010",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "安格列·里奥"
+      ],
+      "identity": "乡下贵族次子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "乡下贵族次子，故事前期的核心人物。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "恐惧"
+      ],
+      "abilities": [
+        "剑术基础",
+        "芯片辅助"
+      ],
+      "equipment": [
+        "短弓",
+        "白羽箭",
+        "铁剑"
+      ],
+      "relationships": [
+        {
+          "target": "迪斯",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在树林中遭遇黑衣刺客迪斯的袭击，凭借芯片提示多次躲过攻击，最终迪斯因中毒撤退。"
+        }
+      ],
+      "evidence": [
+        "安格列拿着弓箭，直接往树林深处走去。",
+        "安格列只觉得头皮一阵发麻。一种从未有过的危险感涌上心头。",
+        "安格列猛地一震，右手闪电般拔剑。竖在眼前。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "迪斯",
+      "aliases": [
+        "黑衣刺客"
+      ],
+      "identity": "刺客",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第009章 险境",
+      "summary": "袭击安格列的黑衣刺客，因中毒而撤退。",
+      "appearance": [
+        "黑披风",
+        "黑色面罩",
+        "金色眉毛"
+      ],
+      "personality": [
+        "阴狠",
+        "暴躁"
+      ],
+      "abilities": [
+        "锁链攻击"
+      ],
+      "equipment": [
+        "锁链",
+        "黑色卡片"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在树林中袭击安格列，因右臂中毒而撤退。"
+        }
+      ],
+      "evidence": [
+        "一个浑身裹着黑披风的中年男子，他带着黑色的面罩，眉毛是罕见的金色。",
+        "迪斯紧捂着右臂快步走在树林里。",
+        "箭头有毒！这个该死的小杂种！！"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "麦琪",
+      "aliases": [],
+      "identity": "女仆",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第009章 险境",
+      "summary": "城堡中的女仆，负责照顾安格列。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "询问安格列是否需要热水。"
+        }
+      ],
+      "evidence": [
+        "少爷，您还需要热水么？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "克瑞",
+      "aliases": [],
+      "identity": "骑士之子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第009章 险境",
+      "summary": "奥迪斯骑士的儿子，有骑士天赋。",
+      "appearance": [],
+      "personality": [
+        "傲慢"
+      ],
+      "abilities": [
+        "骑士天赋"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "表面恭敬，实际不尊重"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "与奥迪斯在室内对练。"
+        }
+      ],
+      "evidence": [
+        "克瑞属于后者，有着骑士天赋的他，对于安格列也只是表面地恭敬，但实际上眼里丝毫没有半点尊重。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "奥迪斯",
+      "aliases": [
+        "奥迪斯大人"
+      ],
+      "identity": "骑士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第009章 险境",
+      "summary": "城堡中的骑士，克瑞的父亲。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "克瑞",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "与克瑞在室内对练。"
+        }
+      ],
+      "evidence": [
+        "刚刚奥迪斯大人和克瑞大人才离开。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

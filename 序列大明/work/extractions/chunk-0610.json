@@ -1,0 +1,305 @@
+{
+  "chunk_id": "chunk-0610",
+  "characters": [
+    {
+      "name": "巫祠夏",
+      "aliases": [
+        "巫祠"
+      ],
+      "identity": "刺客",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第608章赌梦搏命",
+      "summary": "刺杀邹四九的刺客，实为巫祠的分身人格，在梦境中被邹四九一方围杀。",
+      "appearance": [
+        "红发如火的俏丽女郎"
+      ],
+      "personality": [
+        "凶悍",
+        "不甘"
+      ],
+      "abilities": [
+        "武序种子",
+        "刀法精湛"
+      ],
+      "equipment": [
+        "朵颜卫",
+        "利刃"
+      ],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "刺杀目标"
+        },
+        {
+          "target": "赵梦泽",
+          "type": "梦境对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第一场梦境",
+          "event": "刺杀邹四九失败，被围杀身亡。"
+        }
+      ],
+      "evidence": [
+        "巫祠夏眼中泛起凶光，左手从铁骑侧面抽出一把弹夹狭长的朵颜卫",
+        "巫祠夏站在一片残肢断臂之中，举刀直指前方。",
+        "随着一声暴烈枪声响起。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "邹爷"
+      ],
+      "identity": "天阙帮主",
+      "faction": "天阙",
+      "status": "登场",
+      "first_appearance": "第608章赌梦搏命",
+      "summary": "新安城内黑帮天阙的帮主，赵梦泽的筹码，在梦境中享受权势。",
+      "appearance": [
+        "一件厚重的貂袍罩着西装革履的挺拔身躯",
+        "油亮的背头下是一张飞扬跋扈的面孔"
+      ],
+      "personality": [
+        "飞扬跋扈",
+        "得意"
+      ],
+      "abilities": [],
+      "equipment": [
+        "鎏金权杖"
+      ],
+      "relationships": [
+        {
+          "target": "巫祠夏",
+          "type": "被刺杀"
+        },
+        {
+          "target": "赵梦泽",
+          "type": "梦境盟友"
+        },
+        {
+          "target": "李钧",
+          "type": "手下"
+        },
+        {
+          "target": "陈乞生",
+          "type": "手下"
+        },
+        {
+          "target": "沈笠",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第一场梦境",
+          "event": "被巫祠夏刺杀，但成功反杀。"
+        },
+        {
+          "stage": "梦境结束",
+          "event": "恢复记忆，与赵梦泽对话。"
+        }
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "赵梦泽",
+      "aliases": [
+        "老赵"
+      ],
+      "identity": "梦主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第608章赌梦搏命",
+      "summary": "经验丰富的老梦主，与巫祠进行梦境博弈，构筑第一层梦境。",
+      "appearance": [],
+      "personality": [
+        "老练",
+        "果断"
+      ],
+      "abilities": [
+        "造梦",
+        "精神强度高"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "梦境盟友"
+        },
+        {
+          "target": "巫祠",
+          "type": "梦境对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第一场梦境",
+          "event": "构筑梦境，让邹四九占据优势。"
+        },
+        {
+          "stage": "第二场梦境开始前",
+          "event": "用寿数抢庄，开始第二场梦境。"
+        }
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "巫祠",
+      "aliases": [],
+      "identity": "四命一体",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第608章赌梦搏命",
+      "summary": "拥有‘新黄梁’技术法门，四命一体，实力强于一般序三，与赵梦泽进行梦境博弈。",
+      "appearance": [
+        "四色鲜明的衣裳"
+      ],
+      "personality": [
+        "冷傲",
+        "自信"
+      ],
+      "abilities": [
+        "四命一体",
+        "新黄梁"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵梦泽",
+          "type": "梦境对手"
+        },
+        {
+          "target": "巫祠夏",
+          "type": "分身"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第一场梦境",
+          "event": "故意输掉第一场，试探赵梦泽手段。"
+        },
+        {
+          "stage": "第二场梦境开始前",
+          "event": "准备抢庄，但被赵梦泽用寿数压制。"
+        }
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "老李"
+      ],
+      "identity": "邹四九手下",
+      "faction": "天阙",
+      "status": "登场",
+      "first_appearance": "第608章赌梦搏命",
+      "summary": "邹四九的手下，负责撑伞，在梦境中为邹四九服务。",
+      "appearance": [
+        "眉眼冷峻"
+      ],
+      "personality": [
+        "恭敬"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑伞"
+      ],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第一场梦境",
+          "event": "为邹四九撑伞，提议亲自处理巫祠夏。"
+        }
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "乞生"
+      ],
+      "identity": "邹四九手下剑客",
+      "faction": "天阙",
+      "status": "登场",
+      "first_appearance": "第608章赌梦搏命",
+      "summary": "邹四九手下的剑客，在梦境中与巫祠夏交手并斩断其右臂。",
+      "appearance": [
+        "手持长剑的年轻男人"
+      ],
+      "personality": [
+        "轻蔑",
+        "自信"
+      ],
+      "abilities": [
+        "剑术高超"
+      ],
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第一场梦境",
+          "event": "与巫祠夏战斗，斩断其右臂。"
+        }
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "沈笠",
+      "aliases": [
+        "小沈"
+      ],
+      "identity": "邹四九手下炮手",
+      "faction": "天阙",
+      "status": "登场",
+      "first_appearance": "第608章赌梦搏命",
+      "summary": "邹四九的手下，使用火龙出水，在梦境中击杀巫祠夏。",
+      "appearance": [
+        "满脸狞笑"
+      ],
+      "personality": [
+        "愤怒",
+        "残忍"
+      ],
+      "abilities": [
+        "使用火龙出水"
+      ],
+      "equipment": [
+        "炮"
+      ],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "手下"
+        },
+        {
+          "target": "巫祠夏",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "第一场梦境",
+          "event": "用火龙出水炸伤巫祠夏，最后开枪将其击杀。"
+        }
+      ],
+      "mention_count": 4
+    }
+  ]
+}

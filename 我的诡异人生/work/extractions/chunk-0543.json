@@ -1,0 +1,187 @@
+{
+  "chunk_id": "chunk-0543",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "阴喜脉弟子",
+      "faction": "灶王神教",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "阴喜脉弟子，跟随玄照老道在晦诡鬼蜮中前行，遭遇意外后脱险。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "独钴印",
+        "红宝帐怙主六臂大黑天护法",
+        "大威德金刚",
+        "薪火"
+      ],
+      "equipment": [
+        "大红莲胎藏"
+      ],
+      "relationships": [
+        {
+          "target": "玄照老道",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在晦诡鬼蜮中过河时遭遇意外，水菩萨失控，落水后得金光神咒加持脱险。"
+        }
+      ],
+      "evidence": [
+        "苏午神色平静，摇了摇头",
+        "苏午于心中默诵大黑天心咒",
+        "苏午在黑暗中感觉到有一双双冰凉的手掌攥住了自己的手脚"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "玄照老道",
+      "aliases": [
+        "玄照",
+        "老道"
+      ],
+      "identity": "茅山巫道士",
+      "faction": "茅山巫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "茅山巫道士，对晦诡鬼蜮有所了解，带领苏午前行。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "博学"
+      ],
+      "abilities": [],
+      "equipment": [
+        "桃木剑",
+        "符带"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同行者"
+        },
+        {
+          "target": "贞景师伯祖",
+          "type": "师门长辈"
+        },
+        {
+          "target": "三师姐",
+          "type": "师姐"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领苏午在晦诡鬼蜮中前行，讲述厉诡残缺与完整之分。"
+        }
+      ],
+      "evidence": [
+        "老道捋着颌下胡须，停住脚步",
+        "玄照老道对此间已经渐渐熟悉起来",
+        "玄照老道将桃木剑系在符带上，直接抛向了河中间的苏午"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "水菩萨",
+      "aliases": [],
+      "identity": "厉诡",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被苏午以护法道转化的厉诡，在过河时意外恢复杀人规律，试图挣脱束缚。",
+      "appearance": [
+        "泥胎菩萨塑像"
+      ],
+      "personality": [],
+      "abilities": [
+        "水过之处逐渐变改一切",
+        "水液浸润生灵使其形销骨立"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被束缚者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在苏午过河时显化并恢复杀人规律，导致苏午落水。"
+        }
+      ],
+      "evidence": [
+        "簇拥他周身的火焰轮中，渐渐出现一尊被烈火熏黑的泥胎菩萨塑像——‘水菩萨’在此时显化在了火焰轮中",
+        "水菩萨恢复了自己先前的杀人规律",
+        "开始试图挣脱‘大黑天护法道’的束缚"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "晦诡",
+      "aliases": [],
+      "identity": "厉诡",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "一个残缺厉诡，其灾晦诡韵能招来其他厉诡，并移转山川地势。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "散发灾晦诡韵",
+        "移转山川地势"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其鬼蜮中发生意外，导致苏午落水。"
+        }
+      ],
+      "evidence": [
+        "晦诡已经在数十年的岁月里，渐渐移转了此间的山川地势",
+        "它的灾晦诡韵，可能招来其他厉诡"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "贞景师伯祖",
+      "aliases": [],
+      "identity": "茅山巫前辈",
+      "faction": "茅山巫",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "茅山巫的前辈，曾将晦诡带入阴间。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玄照老道",
+          "type": "师门长辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "将晦诡带入阴间。"
+        }
+      ],
+      "evidence": [
+        "贞景师伯祖将晦诡带入阴间之时"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

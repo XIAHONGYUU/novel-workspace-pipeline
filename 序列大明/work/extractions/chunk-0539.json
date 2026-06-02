@@ -1,0 +1,366 @@
+{
+  "chunk_id": "chunk-0539",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "独行武序",
+      "faction": "武序",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "独行武序，实力强劲，与刘途合作后反杀，最终杀死刘途。",
+      "appearance": [
+        "着甲武夫",
+        "虎头肩甲"
+      ],
+      "personality": [
+        "凶狠",
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "四品锻体后土体魄",
+        "饕餮摄取",
+        "万里关山（锻体武功）"
+      ],
+      "equipment": [
+        "短刀"
+      ],
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "合作后反目，杀死对方"
+        },
+        {
+          "target": "张长风",
+          "type": "敌对，杀死对方"
+        },
+        {
+          "target": "苏策",
+          "type": "为其报仇"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在狮子山道观与张长风、刘途激战，最终杀死刘途"
+        }
+      ],
+      "evidence": [
+        "李钧再次举拳，直奔心脏。",
+        "李钧走到刘途面前，手臂微抬。",
+        "李钧笑道：'从大家第一次见面开始，心里起的都是与虎谋皮的主意'"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "刘途",
+      "aliases": [
+        "儒序"
+      ],
+      "identity": "刘阀大少爷，儒序官员",
+      "faction": "儒序门阀",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "刘阀大少爷，儒序，与李钧合作后反目，最终被李钧杀死。",
+      "appearance": [
+        "儒衫书生"
+      ],
+      "personality": [
+        "不甘",
+        "沮丧",
+        "有野心"
+      ],
+      "abilities": [
+        "儒序序列"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "合作后反目，被对方杀死"
+        },
+        {
+          "target": "刘谨勋",
+          "type": "父子"
+        },
+        {
+          "target": "刘典",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在狮子山与李钧交谈后被杀"
+        }
+      ],
+      "evidence": [
+        "刘途憋着一口气，目不转睛的盯着前方",
+        "刘途气急败坏，毫不掩饰眼中的不甘",
+        "刘途仰天长叹：'我真是不甘心啊。'"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "张长风",
+      "aliases": [],
+      "identity": "门派武序，四品锻体",
+      "faction": "门派武序",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "门派武序，被刘途控制，与李钧激战后被杀。",
+      "appearance": [
+        "破碎甲胄",
+        "糜烂血肉"
+      ],
+      "personality": [
+        "悍勇",
+        "癫狂"
+      ],
+      "abilities": [
+        "两门淬炼武功",
+        "儒家六艺礼乐"
+      ],
+      "equipment": [
+        "双刀"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对，被对方杀死"
+        },
+        {
+          "target": "刘途",
+          "type": "被控制利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在道观中与李钧激战，最终被杀"
+        }
+      ],
+      "evidence": [
+        "张长风背靠着神像残存的双脚，箕坐在一片血泊之中",
+        "张长风口中低吼阵阵，硬生生折断透掌的短刀",
+        "张长风高举交架的双刀立时崩碎"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "刘谨勋",
+      "aliases": [],
+      "identity": "刘阀阀主",
+      "faction": "儒序门阀",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "刘阀阀主，刘途和刘典的父亲，与天阙有冲突。",
+      "appearance": [],
+      "personality": [
+        "震怒",
+        "老谋深算"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘途",
+          "type": "父子"
+        },
+        {
+          "target": "刘典",
+          "type": "父子"
+        },
+        {
+          "target": "天阙",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在刘氏宅楼中与天阙二人争吵"
+        }
+      ],
+      "evidence": [
+        "震怒的骂声从那间对整个刘阀意义重大的书房中传出",
+        "刘谨勋：'老夫现在已经坐在这里了'"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "刘典",
+      "aliases": [],
+      "identity": "刘谨勋小儿子",
+      "faction": "儒序门阀",
+      "status": "存活（提及）",
+      "first_appearance": "",
+      "summary": "刘谨勋的小儿子，被父亲偏爱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘谨勋",
+          "type": "父子"
+        },
+        {
+          "target": "刘途",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "刘谨勋：'但刘典不能死。'",
+        "刘途：'就让我的亲弟弟下来陪我吧。'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "郭丘",
+      "aliases": [],
+      "identity": "青衣道人",
+      "faction": "道观",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "青衣道人，被道祖法器透支，自爆身亡。",
+      "appearance": [
+        "青衣"
+      ],
+      "personality": [],
+      "abilities": [
+        "道祖法器"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被道祖法器透支，自爆"
+        }
+      ],
+      "evidence": [
+        "已经快被道祖法器榨干的青衣道人垂着头颅",
+        "郭丘被道祖法器透支，自爆的威力不够"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "顾玺",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被李钧提及的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "我之前听顾玺提到过"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "苏策",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及（已故）",
+      "first_appearance": "",
+      "summary": "李钧为其报仇的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被报仇"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "你来金陵真就是只是为了替苏策报仇？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "卢宁",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被天阙提及的人物，曾死儿子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "难道他卢宁能死儿子，你就不能死？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "马爷",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "李钧对话中提及的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "马爷，你说为什么当年门派武序会输的这么惨？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "天阙二人",
+      "aliases": [
+        "两个老不死"
+      ],
+      "identity": "天阙成员",
+      "faction": "天阙",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "天阙的两位老者，潜入刘阀与刘谨勋争吵。",
+      "appearance": [],
+      "personality": [
+        "强硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘谨勋",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "潜入刘阀与刘谨勋争吵"
+        }
+      ],
+      "evidence": [
+        "你们两个老不死如此不要脸潜进我刘阀",
+        "我们这些老骨头当一回柴禾那是理所当然"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

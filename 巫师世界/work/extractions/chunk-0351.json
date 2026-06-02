@@ -1,0 +1,427 @@
+{
+  "chunk_id": "chunk-0351",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "海茵"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与莱茵姒一同行动，拥有克苏拉之手巫术，与海茵共生，计划配置万影球。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "克苏拉之手"
+      ],
+      "equipment": [
+        "右臂圆环"
+      ],
+      "relationships": [
+        {
+          "target": "海茵",
+          "type": "共生体"
+        },
+        {
+          "target": "莱茵姒",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与莱茵姒截杀绿袍人，后前往西格尼方向。"
+        }
+      ],
+      "evidence": [
+        "安格列站在后边，还是第一次见到二级巫师的正式交手",
+        "安格列平静的收回手，看了眼不远处一片焦黑的四具尸体。",
+        "安格列也不反驳，大步朝着刚才波动闷响的方向走去。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "莱茵姒",
+      "aliases": [],
+      "identity": "二级巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的下属，擅长熔岩球攻击，左手戴有四枚红色指环。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "熔岩球"
+      ],
+      "equipment": [
+        "红色指环（四枚）"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列一起截杀绿袍人，击败对手。"
+        }
+      ],
+      "evidence": [
+        "莱茵姒面色微变，轻轻摸了下左手的一枚红色指环。",
+        "莱茵姒淡淡的手指向不远处的绿袍头领。",
+        "莱茵姒放下左手，小指的指环上，红光缓缓消退。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "海茵",
+      "aliases": [],
+      "identity": "与安格列共生的存在",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与安格列共生，曾帮助安格列成为薇薇的儿子，与安格列有仇怨。",
+      "appearance": [],
+      "personality": [
+        "冰冷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "共生体"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列对话，提及报仇和万影球。"
+        }
+      ],
+      "evidence": [
+        "海茵冷笑。“还有，别以为我不知道你怪模怪样的留长头发是为了什么。”",
+        "海茵同样声音冰冷。",
+        "海茵嘿嘿笑起来，“要是他们知道我和那个老家伙还活着，肯定不会放过身为共生体的你们。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "西格尼",
+      "aliases": [],
+      "identity": "三级巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "抱着妹妹黛儿，被两拨人围住，实力强悍，从一级晋升到三级。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黛儿",
+          "type": "兄妹"
+        },
+        {
+          "target": "诺森德",
+          "type": "敌对"
+        },
+        {
+          "target": "欧斯卡",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在黑渊峡谷被围，与欧斯卡对峙。"
+        }
+      ],
+      "evidence": [
+        "西格尼抱着妹妹黛儿站在一起，前后都围着两拨人。",
+        "西格尼面色阴沉，站在原地一言不发。",
+        "想不到他居然到了三级……"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "黛儿",
+      "aliases": [],
+      "identity": "西格尼的妹妹",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被西格尼抱着，与半身蜥蜴有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "西格尼",
+          "type": "兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被西格尼抱着，被欧斯卡要求交出半身蜥蜴。"
+        }
+      ],
+      "evidence": [
+        "西格尼抱着妹妹黛儿站在一起",
+        "交出半身蜥蜴吧，黛儿"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "诺森德",
+      "aliases": [],
+      "identity": "乌诺迪家族追兵",
+      "faction": "乌诺迪家族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "绿袍人，被西格尼震慑，不知如何回答。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "西格尼",
+          "type": "敌对"
+        },
+        {
+          "target": "欧斯卡",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与西格尼对峙，被欧斯卡解围。"
+        }
+      ],
+      "evidence": [
+        "左侧的诺森德面色苍白",
+        "诺森德，他就是你说的雪特曼家族的欧斯卡？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "欧斯卡",
+      "aliases": [],
+      "identity": "雪特曼家族成员，自称代表巫师公会",
+      "faction": "雪特曼家族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "白袍男子，拦截西格尼，声称背后是巫师公会。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [
+        "强势"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "西格尼",
+          "type": "敌对"
+        },
+        {
+          "target": "诺森德",
+          "type": "合作"
+        },
+        {
+          "target": "雷林楠",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与西格尼对峙，要求交出半身蜥蜴。"
+        }
+      ],
+      "evidence": [
+        "欧斯卡淡淡地说。“交出半身蜥蜴吧，黛儿",
+        "欧斯卡淡淡地说。“说实话，虽然我打不过你，但是，我的身后是巫师公会",
+        "欧斯卡，你说你的背后是巫师公会？"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "雷林楠",
+      "aliases": [],
+      "identity": "巫师公会成员",
+      "faction": "巫师公会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "金色短发俊美男子，与希曼同行，质疑欧斯卡冒充巫师公会。",
+      "appearance": [
+        "金色短发",
+        "俊美"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "欧斯卡",
+          "type": "敌对"
+        },
+        {
+          "target": "希曼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与希曼一同出现，质问欧斯卡。"
+        }
+      ],
+      "evidence": [
+        "一个金色短发的俊美男子快步走向这边。正是雷林楠",
+        "雷林楠，又是你！",
+        "我还说是谁这么大的胆子，居然敢冒充我巫师公会的名头。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "希曼",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与雷林楠同行。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "雷林楠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与雷林楠一同出现。"
+        }
+      ],
+      "evidence": [
+        "雷林楠，他的一边是希曼。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "伦比亚",
+      "aliases": [],
+      "identity": "白色皮甲剑士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "从欧斯卡身后走出，与雷林楠有旧怨。",
+      "appearance": [
+        "高大"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "白色皮甲"
+      ],
+      "relationships": [
+        {
+          "target": "雷林楠",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从欧斯卡身后走出，与雷林楠对话。"
+        }
+      ],
+      "evidence": [
+        "欧斯卡身后，白色皮甲剑士中，一个高大男子缓缓走出来，冷冷地盯着远处的几人",
+        "伦比亚。我还说是谁这么大的胆子"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "绿袍头领",
+      "aliases": [],
+      "identity": "绿袍人首领",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "使用深渊之口巫术，被莱茵姒的熔岩球击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "冰雪鸷鸟",
+        "深渊之口"
+      ],
+      "equipment": [
+        "绿色圆环",
+        "白色石雕小鸟",
+        "白色宝石项链"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与莱茵姒战斗，使用底牌后仍被击杀。"
+        }
+      ],
+      "evidence": [
+        "绿袍头领低声喊了句，退后站在三人身后",
+        "绿袍头领咬牙一把扯下项链。",
+        "头领猛地往前大张嘴巴。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "三名绿袍",
+      "aliases": [],
+      "identity": "绿袍人下属",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "跟随绿袍头领，被熔岩球击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "绿袍头领",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被熔岩球击杀。"
+        }
+      ],
+      "evidence": [
+        "三名绿袍早已支持不住",
+        "三名绿袍顿时往后被震退数步。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

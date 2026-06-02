@@ -1,0 +1,124 @@
+{
+  "chunk_id": "chunk-0015",
+  "characters": [
+    {
+      "name": "老道士",
+      "aliases": [],
+      "identity": "云龙观的道士",
+      "faction": "云龙观",
+      "status": "登场",
+      "first_appearance": "第14章 遇午而退",
+      "summary": "云龙观的老道士，钓鱼爱好者，因徒弟将帝钟借给苏午而意识到谶言应验，决定下山暂避。",
+      "appearance": [
+        "盘着发髻",
+        "穿藏青色道袍",
+        "七八十岁"
+      ],
+      "personality": [
+        "和蔼",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "电动车",
+        "塑料桶",
+        "长条形包裹",
+        "道经",
+        "字条"
+      ],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "傍晚",
+          "event": "钓鱼归来，与徒弟吃晚饭，得知帝钟被借给苏午。"
+        },
+        {
+          "stage": "晚饭后",
+          "event": "回房翻出道经中的谶言，决定下山暂避。"
+        }
+      ],
+      "evidence": [
+        "盘着发髻的老者穿一身藏青色道袍，将电动车骑到道观门口扎下",
+        "老道士擦了擦额头上并不存在的汗水",
+        "老道士匆匆奔入房中，径自爬上床，打开床脚靠墙放着的一个大木箱"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "谢云清",
+      "aliases": [
+        "云清"
+      ],
+      "identity": "云龙观的年轻道士",
+      "faction": "云龙观",
+      "status": "登场",
+      "first_appearance": "第14章 遇午而退",
+      "summary": "老道士的徒弟，性格直率，将师父的帝钟借给了苏午。",
+      "appearance": [
+        "年轻",
+        "两手锅灰"
+      ],
+      "personality": [
+        "直率",
+        "热心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "老道士",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "傍晚",
+          "event": "在灶屋做饭，与师父吃晚饭，告知师父将帝钟借给苏午。"
+        }
+      ],
+      "evidence": [
+        "两手锅灰的年轻道士从灶屋里迎出来",
+        "名为‘谢云清’的道士不假思索地应声",
+        "谢云清不明所以，扒饭扒得飞快"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "钓鱼爱好者，向谢云清借帝钟的人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第14章 遇午而退",
+      "summary": "钓鱼爱好者，向谢云清借了帝钟，名字中的‘午’应了老道士的谶言。",
+      "appearance": [],
+      "personality": [
+        "幽默"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "借物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当天",
+          "event": "向谢云清借了帝钟，并建议他们下山住一段时间。"
+        }
+      ],
+      "evidence": [
+        "名字挺好记，叫苏午，午时已到的那个午！",
+        "那人挺幽默的，和我一个道士说咱们这道观风水不好，阴森森的，让我们下山住一段时间。"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

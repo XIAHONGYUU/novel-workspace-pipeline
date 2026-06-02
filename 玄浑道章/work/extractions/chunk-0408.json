@@ -1,0 +1,457 @@
+{
+  "chunk_id": "chunk-0408",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄正，实力高绝，正在追查造物人线索。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "日月重光之术",
+        "元正宝尺"
+      ],
+      "equipment": [
+        "元正宝尺",
+        "紫星袋",
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "同僚"
+        },
+        {
+          "target": "卢军候",
+          "type": "合作"
+        },
+        {
+          "target": "翁大匠",
+          "type": "审问"
+        },
+        {
+          "target": "龚大匠",
+          "type": "审问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "截杀庞余、赵问二人，获得血晶，返回军垒。"
+        }
+      ],
+      "evidence": [
+        "张御心中仔细思忖了一下",
+        "张御走到了这一行人的近前",
+        "张御点头道：'我自是知晓此事与诸位无关'"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "卢军候",
+      "aliases": [],
+      "identity": "锐击军军候",
+      "faction": "锐击军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "锐击军军候，负责与张御沟通，解释军中有人欲袭击张御之事。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "恭敬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        },
+        {
+          "target": "曹度",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御解释队率异常举动，后带军卒离去。"
+        }
+      ],
+      "evidence": [
+        "卢军候抱拳道：'张玄正言重了'",
+        "卢军候闻言心下放松",
+        "卢军候抱拳道：'在下还有军务在身，就此告辞了'"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "翁大匠",
+      "aliases": [],
+      "identity": "霜洲制院大匠",
+      "faction": "霜洲制院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "霜洲制院大匠，与青阳天机院有交往，主要研造神袍玄甲。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龚大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "审问对象"
+        },
+        {
+          "target": "陈通",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御审问，交代与天机院交往及造物人计划。"
+        }
+      ],
+      "evidence": [
+        "翁大匠这回没有遮掩，坦然承认道：'我的确是与洲内天机院的人有交往'",
+        "翁大匠小心言道：'据我所知，是有的。霜洲曾经打造了一批造物人送入青阳洲中'"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "龚大匠",
+      "aliases": [],
+      "identity": "霜洲制院大匠",
+      "faction": "霜洲制院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "霜洲制院大匠，与翁大匠一同被张御审问。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "翁大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "审问对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御审问，提及陈大匠知晓更多隐秘。"
+        }
+      ],
+      "evidence": [
+        "龚大匠此刻也道：'是如此，听说陈大匠和霜洲上层关系很好'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "庞道人",
+      "aliases": [
+        "庞余"
+      ],
+      "identity": "邪修",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "邪修，被张御斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵道人",
+          "type": "同伙"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御斩杀，星袋被张御收取。"
+        }
+      ],
+      "evidence": [
+        "方才庞道人身死的地方，就有一个星袋飞了过来"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "赵道人",
+      "aliases": [
+        "赵问"
+      ],
+      "identity": "邪修",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "邪修，被张御以日月重光之术击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "庞道人",
+          "type": "同伙"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御以日月重光之术击杀，化为灰烬。"
+        }
+      ],
+      "evidence": [
+        "赵道人那里，中了他的'日月重光'之术，不但是自己，连带身上所携之物自也是一并化为灰烬了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "于复",
+      "aliases": [],
+      "identity": "灵妙玄境真修",
+      "faction": "灵妙玄境",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灵妙玄境真修，与同门等待楚师叔归来。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楚道人",
+          "type": "师叔侄"
+        },
+        {
+          "target": "林师伯",
+          "type": "师伯侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在军垒中等待楚师叔归来，并为其开脱。"
+        }
+      ],
+      "evidence": [
+        "于复道：'林师伯，那庞、莫二人狡猾无比'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "楚道人",
+      "aliases": [
+        "楚师叔"
+      ],
+      "identity": "灵妙玄境真修",
+      "faction": "灵妙玄境",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灵妙玄境真修，追击庞余、赵问二人但未能击杀，后与公孙泯密谋。",
+      "appearance": [],
+      "personality": [
+        "狡猾"
+      ],
+      "abilities": [
+        "明泽剑",
+        "追光剑"
+      ],
+      "equipment": [
+        "明泽剑",
+        "追光剑"
+      ],
+      "relationships": [
+        {
+          "target": "公孙泯",
+          "type": "合作"
+        },
+        {
+          "target": "于复",
+          "type": "师叔侄"
+        },
+        {
+          "target": "林师伯",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "追击庞余、赵问未果，后与公孙泯密谋夺取血晶。"
+        }
+      ],
+      "evidence": [
+        "楚道人情绪似乎不高，摇头一叹，道：'惭愧，我那两人大战了一场，虽然这两人被我重创，但最后却还是让他们走脱了。'",
+        "楚道人一路回了自己的临时居处",
+        "楚道人对他一个稽首，道：'公孙道友有礼了'"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "中年道人",
+      "aliases": [
+        "林师伯"
+      ],
+      "identity": "灵妙玄境真修",
+      "faction": "灵妙玄境",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灵妙玄境真修，楚道人的师兄，负责主持事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楚道人",
+          "type": "师兄弟"
+        },
+        {
+          "target": "于复",
+          "type": "师伯侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在军垒中等待楚道人归来，并安抚众人。"
+        }
+      ],
+      "evidence": [
+        "中年道人抚须点头，道：'倒也是，那我们就在这里等候他的消息便好。'",
+        "中年道人点点头，也不再提此事"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "公孙泯",
+      "aliases": [
+        "公孙道友"
+      ],
+      "identity": "黑衣道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "黑衣道人，与楚道人密谋夺取血晶。",
+      "appearance": [
+        "黑衣"
+      ],
+      "personality": [
+        "深沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楚道人",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与楚道人密谋，提出主意夺取张御手中的血晶。"
+        }
+      ],
+      "evidence": [
+        "公孙泯还有一礼，而后沉声言道：'楚道友，事情出了一点变故，我未能拿下这二人。'",
+        "公孙泯看着他道：'这两人本是贵方的目标'"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陈通",
+      "aliases": [
+        "陈大匠"
+      ],
+      "identity": "独州制院大匠",
+      "faction": "独州制院",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "独州制院大匠，知晓造物人计划更多隐秘。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "翁大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "龚大匠",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "要说青阳洲内的接触，其实独州的陈通陈大匠知道的最多",
+        "听说陈大匠和霜洲上层关系很好，有许多隐秘或许只有他才知道。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "将军",
+      "faction": "锐击军",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "锐击军将军，张御和卢军候的上级。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "卢军候",
+          "type": "上级"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "此事我回去之后自会和曹将军说清楚。",
+        "曹度之前可是反复言说，不要和玄府之间发生什么矛盾"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

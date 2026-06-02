@@ -1,0 +1,295 @@
+{
+  "chunk_id": "chunk-0501",
+  "characters": [
+    {
+      "name": "楚关",
+      "aliases": [],
+      "identity": "卫氏军成员",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第六章 军敕",
+      "summary": "与青曙比剑落败的卫氏军成员。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "青曙",
+          "type": "比剑对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与青曙比剑，被击败。"
+        }
+      ],
+      "evidence": [
+        "楚关一惊，却发现对面的剑刃已经架在自己脖子上了。",
+        "他心悦诚服道：“我输了。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "张御的亲近随从",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第六章 军敕",
+      "summary": "张御的随从，剑术高超。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楚关",
+          "type": "比剑对手"
+        },
+        {
+          "target": "张御",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与楚关比剑获胜。"
+        }
+      ],
+      "evidence": [
+        "青曙方才每一剑自己都看得很清楚，一剑就是一剑，可谓朴实无华，可他偏偏就是挡不住。",
+        "青曙收剑回来，退后一步，执礼道：“承让。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "卫灵英",
+      "aliases": [
+        "卫姐"
+      ],
+      "identity": "卫氏军军主",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第六章 军敕",
+      "summary": "卫氏军的领导者，负责指挥军队。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "延请的修士"
+        },
+        {
+          "target": "靳小柏",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到军署敕传，安排出征事宜。"
+        }
+      ],
+      "evidence": [
+        "卫灵英接了过来，她脸上的笑容一下消失，代之而起的一份严肃。",
+        "卫灵英点了点头，蹙眉道：“原本因为我们卫氏军受损，军府通融我们一年时间休整，可是现在，却是说月底之前有军契委派给我们。”",
+        "卫灵英道：“好的，林叔。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "靳小柏",
+      "aliases": [],
+      "identity": "卫氏军成员",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第六章 军敕",
+      "summary": "卫氏军中负责与张御沟通的成员。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "细心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "同伴"
+        },
+        {
+          "target": "张御",
+          "type": "协作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问张御所擅法门，安排军务。"
+        }
+      ],
+      "evidence": [
+        "靳小柏轻声道：“卫姐，什么事？”",
+        "靳小柏小心道：“张玄修，你若是有意，我们可以先用军中过往积蓄为先生换买来一些章印的。”"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄修",
+        "张先生"
+      ],
+      "identity": "中位修士",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第六章 军敕",
+      "summary": "被卫氏军延请的中位修士，擅长剑法。",
+      "appearance": [],
+      "personality": [
+        "简洁",
+        "果断"
+      ],
+      "abilities": [
+        "剑法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "青曙",
+          "type": "随从"
+        },
+        {
+          "target": "卫灵英",
+          "type": "被延请"
+        },
+        {
+          "target": "靳小柏",
+          "type": "协作"
+        },
+        {
+          "target": "小隆",
+          "type": "向导"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "加入卫氏军，准备出征。"
+        }
+      ],
+      "evidence": [
+        "张御颌首道：“自当尽力。”",
+        "张御回答却是十分简单，道：“我擅剑法。”",
+        "张御否道：“不必如此，我观你们而今军器有缺，你们若有积蓄，可先换一些神袍外甲和造物载舟。”"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "小隆",
+      "aliases": [],
+      "identity": "卫氏军中的少年",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第六章 军敕",
+      "summary": "被靳小柏安排给张御做向导的机灵少年。",
+      "appearance": [],
+      "personality": [
+        "机灵"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "向导"
+        },
+        {
+          "target": "靳小柏",
+          "type": "被安排"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领张御参观军垒。"
+        }
+      ],
+      "evidence": [
+        "他叫小隆，张玄修在此有什么吩咐关照他便可。",
+        "小隆人虽小，看着却很机灵，到了跟前，对着张御规规矩一礼，道：“见过玄修。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "成玄修",
+      "aliases": [
+        "成道友"
+      ],
+      "identity": "已故修士",
+      "faction": "卫氏军（前）",
+      "status": "已故",
+      "first_appearance": "第六章 军敕",
+      "summary": "卫氏军以前的修士，已故，曾在高台留下奇怪图形。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "半年前身故，生前在高台画奇怪图形。"
+        }
+      ],
+      "evidence": [
+        "这是成玄修以前住的地方。",
+        "成玄修没有弟子，身后物都送去内层的亲眷处了",
+        "成玄修身故半年前，每天都在这里画这些东西，听人说是在画符。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林叔",
+      "aliases": [
+        "林姓伍首"
+      ],
+      "identity": "卫氏军年长伍首",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第六章 军敕",
+      "summary": "卫氏军中的年长伍首，提出送贴书的建议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "查看表敕，建议送贴书给另一支军伍。"
+        }
+      ],
+      "evidence": [
+        "这时一名看来四十余的年长伍首翻了翻表敕，诧异道：“咦，这次委托不只有我们卫士一家么？”",
+        "林姓伍首想了想，看向卫灵英道：“军主，那就按惯例，出发之前送一封贴书过去。”"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

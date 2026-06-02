@@ -1,0 +1,557 @@
+{
+  "chunk_id": "chunk-0719",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [
+        "老李",
+        "李钧"
+      ],
+      "identity": "独行武序，叛军匪首",
+      "faction": "独行武序",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "独行武序的核心人物，反抗朱家位业，最终突破至序二，击败朱彝焰。",
+      "appearance": [
+        "墨甲残破不堪，身躯伤痕累累",
+        "浑身染血的武夫"
+      ],
+      "personality": [
+        "不羁",
+        "豪迈",
+        "坚韧",
+        "重情义"
+      ],
+      "abilities": [
+        "独行武序能力：瞒天、克敌、锋劲、崩势",
+        "序二仪轨：反抗"
+      ],
+      "equipment": [
+        "墨骑鲸（坐骑）"
+      ],
+      "relationships": [
+        {
+          "target": "马王爷",
+          "type": "战友"
+        },
+        {
+          "target": "朱平煦",
+          "type": "敌人"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌人"
+        },
+        {
+          "target": "张峰岳",
+          "type": "盟友/知己"
+        },
+        {
+          "target": "赵青侠",
+          "type": "师兄弟"
+        },
+        {
+          "target": "杨白泽",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "与朱平煦、朱彝焰等激战，最终突破并击杀朱彝焰。"
+        }
+      ],
+      "evidence": [
+        "李钧眼中霎时幻象横生，一身本就消耗殆尽的劲力被压制的动弹不得",
+        "李钧昂首大笑，“你要这么说，那我也有两条腿。”",
+        "李钧缓缓抬起右手，血肉在白骨间飞速生长，顷刻间便恢复原状。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "朱平煦",
+      "aliases": [],
+      "identity": "序二强者，巨神操控者",
+      "faction": "朱家位业",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "朱家位业的强者，操控青铜巨神与李钧战斗，最终被李钧击杀。",
+      "appearance": [
+        "空荡荡的眼眶",
+        "一身械骨"
+      ],
+      "personality": [],
+      "abilities": [
+        "操控青铜巨神",
+        "械骨"
+      ],
+      "equipment": [
+        "青铜巨矛"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌人"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "与李钧激战，被李钧的锋劲斩碎械骨，心脏炸碎而死。"
+        }
+      ],
+      "evidence": [
+        "朱平煦从地面撑坐起来，指尖慢慢摩挲过胸膛上一条巨大的裂缝",
+        "朱平煦抬脚重踏，一根古朴的青铜巨矛从流动的熔岩中升起",
+        "堆积如山的械体碎片中，一颗宛如黄金浇筑的心脏急速震颤。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "朱彝焰",
+      "aliases": [
+        "年轻的帝王"
+      ],
+      "identity": "大明皇帝，朱家位业之主",
+      "faction": "朱家位业",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "大明皇帝，掌控纵横位业，最终被李钧击杀。",
+      "appearance": [
+        "一袭明黄的龙袍",
+        "披头散发，状若疯魔"
+      ],
+      "personality": [
+        "冷漠",
+        "凶戾",
+        "自负"
+      ],
+      "abilities": [
+        "纵横位业"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌人"
+        },
+        {
+          "target": "朱平煦",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "以纵横位业压制李钧，最终被李钧突破并击杀。"
+        }
+      ],
+      "evidence": [
+        "一袭明黄的龙袍悬停在巨神头顶，头颅微垂，冷漠的目光直插朱平煦空荡荡的眼眶",
+        "朱彝焰笑道：“确实与你无干。”",
+        "心怀雄图伟业的万疆君主，消散在旧都上空的风中。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "马王爷",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "李钧的战友",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "李钧的战友，性格幽默，在决战中与李钧互相打气。",
+      "appearance": [],
+      "personality": [
+        "幽默",
+        "乐观"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "与李钧对话，鼓励他。"
+        }
+      ],
+      "evidence": [
+        "马王爷打趣的笑声在李钧耳边响起",
+        "马王爷‘嘿’了一声，“你小子还年轻”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "张老头"
+      ],
+      "identity": "老人，李钧的盟友",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "一位老人，与李钧有深厚交情，最终在决战结束后去世。",
+      "appearance": [],
+      "personality": [
+        "睿智",
+        "豁达"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "盟友/知己"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "结局",
+          "event": "与李钧对话后去世。"
+        }
+      ],
+      "evidence": [
+        "老人笑道：“不过现在看来，我这口气终于可以咽下去了。”",
+        "张峰岳眼眸中光芒行将散去",
+        "张峰岳双眼精光乍现，昂头远望，一声长啸"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "赵青侠",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "李钧的师弟",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "李钧的师弟，在决战中决心留下。",
+      "appearance": [
+        "泪流满面"
+      ],
+      "personality": [
+        "重情义"
+      ],
+      "abilities": [],
+      "equipment": [
+        "袖珍长剑"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "站在墨骑鲸背上，决心不离开。"
+        }
+      ],
+      "evidence": [
+        "站在他背上的赵青侠早已经泪流满面",
+        "赵青侠抬手抹了把脸，轻声开口：“告诉那些老头，这次我不走了。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "杨白泽",
+      "aliases": [],
+      "identity": "李钧的战友",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "李钧的战友，在决战中站起身来。",
+      "appearance": [
+        "苍白面容"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "放下老人尸体，站起身来。"
+        }
+      ],
+      "evidence": [
+        "杨白泽抬起的苍白面容被夜色淹没",
+        "杨白泽咧嘴一笑，轻轻放下怀中老人的尸体"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张嗣源",
+      "aliases": [],
+      "identity": "旁观者",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "在金陵城中目睹决战的人。",
+      "appearance": [],
+      "personality": [
+        "绝望"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "目睹李钧被击落，感到绝望。"
+        }
+      ],
+      "evidence": [
+        "张嗣源眼神怔怔发直，颤栗的瞳孔中弥漫着枯寂和绝望。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "沈笠",
+      "aliases": [],
+      "identity": "天阙武夫",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "天阙武夫，在决战中迈步向前。",
+      "appearance": [
+        "浑身散发着极度危险的气息"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "迈开脚步，留下血色脚印。"
+        }
+      ],
+      "evidence": [
+        "沈笠浑身散发着极度危险的气息，迈开的脚步在地面留下一个个血色的脚印。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "墨骑鲸",
+      "aliases": [],
+      "identity": "李钧的坐骑",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "李钧的坐骑，在决战中怒鸣。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "坐骑"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "在天幕火海中昂首怒鸣。"
+        }
+      ],
+      "evidence": [
+        "墨骑鲸昂首怒鸣"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵鼎",
+      "aliases": [],
+      "identity": "李钧的战友（声音）",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "在李钧心底响起的声音之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "呼唤李钧站起来。"
+        }
+      ],
+      "evidence": [
+        "赵鼎、燕八荒、苏策、陈乞生、邹四九、袁明妃"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "燕八荒",
+      "aliases": [],
+      "identity": "李钧的战友（声音）",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "在李钧心底响起的声音之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "呼唤李钧站起来。"
+        }
+      ],
+      "evidence": [
+        "赵鼎、燕八荒、苏策、陈乞生、邹四九、袁明妃"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "苏策",
+      "aliases": [],
+      "identity": "李钧的战友（声音）",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "在李钧心底响起的声音之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "呼唤李钧站起来。"
+        }
+      ],
+      "evidence": [
+        "赵鼎、燕八荒、苏策、陈乞生、邹四九、袁明妃"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [],
+      "identity": "李钧的战友（声音）",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "在李钧心底响起的声音之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "呼唤李钧站起来。"
+        }
+      ],
+      "evidence": [
+        "赵鼎、燕八荒、苏策、陈乞生、邹四九、袁明妃"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "邹四九",
+      "aliases": [],
+      "identity": "李钧的战友（声音）",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "在李钧心底响起的声音之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "呼唤李钧站起来。"
+        }
+      ],
+      "evidence": [
+        "赵鼎、燕八荒、苏策、陈乞生、邹四九、袁明妃"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [],
+      "identity": "李钧的战友（声音）",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "在李钧心底响起的声音之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "呼唤李钧站起来。"
+        }
+      ],
+      "evidence": [
+        "赵鼎、燕八荒、苏策、陈乞生、邹四九、袁明妃"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

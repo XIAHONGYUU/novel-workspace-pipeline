@@ -1,0 +1,299 @@
+{
+  "chunk_id": "chunk-0640",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "玄廷巡护",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第一百四十五章 寻源",
+      "summary": "玄廷巡护，负责调查伍军候通敌事件，拥有神通'诸恒常易'。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "诸恒常易"
+      ],
+      "equipment": [
+        "巡护之印",
+        "白舟"
+      ],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "下属"
+        },
+        {
+          "target": "伍军候",
+          "type": "审问者"
+        },
+        {
+          "target": "狄校尉",
+          "type": "交涉对象"
+        },
+        {
+          "target": "少年道人",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "擒获伍军候，审问后送归军务署，随后前往极北之地呈书玄廷。"
+        }
+      ],
+      "evidence": [
+        "张御道：'这非是许执事之过，其人神通确有独到之处，与那位越执事颇有几分相似。'",
+        "张御道：'狄校尉，此事我已是在洪署主那里有过通报了。'",
+        "张御道：'伍军候，既然你自言没有做过对不起军务署的事，那么我问你一些事。'"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "许成通",
+      "aliases": [
+        "许执事"
+      ],
+      "identity": "执事",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百四十五章 寻源",
+      "summary": "张御的下属，协助擒获伍军候。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "善于奉承"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "伍军候",
+          "type": "审问者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同审问伍军候，后奉命送伍军候回军务署。"
+        }
+      ],
+      "evidence": [
+        "许成通马上道：'巡护当真是洞若观火。'",
+        "许成通大义凛然的质问道：'伍军候，你为什么要通敌？'",
+        "许成通道：'交给许某就好。'"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "伍军候",
+      "aliases": [],
+      "identity": "军候",
+      "faction": "军务署",
+      "status": "登场",
+      "first_appearance": "第一百四十五章 寻源",
+      "summary": "被指控通敌的军候，曾接受不明修士的支援，协助处理造物人。",
+      "appearance": [
+        "外甲满是裂纹"
+      ],
+      "personality": [
+        "沉默",
+        "倔强"
+      ],
+      "abilities": [],
+      "equipment": [
+        "外甲"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "审问对象"
+        },
+        {
+          "target": "许成通",
+          "type": "审问者"
+        },
+        {
+          "target": "狄校尉",
+          "type": "上级"
+        },
+        {
+          "target": "不明修士",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "去年七月",
+          "event": "被一名修道人联系，答应配合安排。"
+        },
+        {
+          "stage": "一个多月前",
+          "event": "接应造物人。"
+        },
+        {
+          "stage": "当前",
+          "event": "被张御擒获并审问，后默写书信内容。"
+        }
+      ],
+      "evidence": [
+        "伍军候喘着气，他坚持着没有解开身上的外甲。",
+        "伍军候道：'我说过了，是一些修士，具体是谁我不知道。'",
+        "伍军候道：'去年七月的时候，有一名修道人寻到了我。'"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "狄光",
+      "aliases": [
+        "狄校尉"
+      ],
+      "identity": "校尉",
+      "faction": "军务署",
+      "status": "登场",
+      "first_appearance": "第一百四十五章 寻源",
+      "summary": "伍军候的上级，要求张御出具书状后同意带走伍军候。",
+      "appearance": [
+        "金属巨人"
+      ],
+      "personality": [
+        "严肃",
+        "讲规矩"
+      ],
+      "abilities": [],
+      "equipment": [
+        "军衣"
+      ],
+      "relationships": [
+        {
+          "target": "伍军候",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "交涉对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前来质问张御等人，后接受张御的令符后离去。"
+        }
+      ],
+      "evidence": [
+        "狄校尉有些意外，随即他扬眉道：'就算张巡护，那要拿人之前，也要出示凭证。'",
+        "狄校尉严肃看了他一会儿，他沉吟片刻，道：'巡护可以把人带走，但却需给狄某出一份书状。'"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "少年道人",
+      "aliases": [],
+      "identity": "玄廷高层",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第一百四十五章 寻源",
+      "summary": "玄廷中的少年道人，张御呈书的对象，能识别玄尊所赐之宝。",
+      "appearance": [
+        "手持拂尘"
+      ],
+      "personality": [
+        "洒然",
+        "自信"
+      ],
+      "abilities": [
+        "时间回溯（修复玉珠）"
+      ],
+      "equipment": [
+        "拂尘"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接见张御，查看玉珠后认出其来源。"
+        }
+      ],
+      "evidence": [
+        "那位少年道人手持拂尘，站在那里。",
+        "少年道人哂笑一下，一挥拂尘，那爆裂开来的玉珠碎片居然霎时凝定，而后又还退回去。",
+        "他伸手将玉珠拿入手中，不由冷笑一声，道：'原来是这一位。'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "侍从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百四十五章 寻源",
+      "summary": "张御的侍从，负责递送纸笔等事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为伍军候送上纸笔，后呈递书信给张御。"
+        }
+      ],
+      "evidence": [
+        "张御示意了一下，青曙并将纸笔送了上来。",
+        "待他落笔之后，青曙上前拿过纸张，呈递了张御案前。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "四名年轻修士",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百四十五章 寻源",
+      "summary": "许成通从囚牢中提出的人手，协助押送伍军候。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随许成通一同押送伍军候。"
+        }
+      ],
+      "evidence": [
+        "这时数道遁光从空落下，显现出来四名年轻修士。",
+        "除了他们之外，那伍军候也是身在其列。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

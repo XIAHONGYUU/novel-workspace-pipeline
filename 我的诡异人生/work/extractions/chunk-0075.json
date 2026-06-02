@@ -1,0 +1,133 @@
+{
+  "chunk_id": "chunk-0075",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拥有利用阴影进行攻击和躲藏的能力，能使用神灵语，与心诡及其手下对抗。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "机智",
+        "谨慎"
+      ],
+      "abilities": [
+        "阴影操控",
+        "神灵语"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林光远",
+          "type": "敌对"
+        },
+        {
+          "target": "医生",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林光远和医生用伥尸和绿鬼眼制造的有光无影环境逼出，假装被蛊惑，识破协议并反击。"
+        }
+      ],
+      "evidence": [
+        "苏午被‘逼迫’得从黑暗里显出身形",
+        "苏午一拳砸到他脸上，将他的脑袋都轰得稀巴烂！",
+        "你怎会认识神灵语？"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "林光远",
+      "aliases": [],
+      "identity": "心诡的手下",
+      "faction": "心诡",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "心诡的手下，拥有蛊惑人心的能力，试图与苏午签订友好协议。",
+      "appearance": [],
+      "personality": [
+        "阴沉",
+        "屈辱",
+        "恼怒"
+      ],
+      "abilities": [
+        "蛊惑人心"
+      ],
+      "equipment": [
+        "友好协议文件夹"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "医生",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与医生合作制造有光无影环境，试图蛊惑苏午签订协议，被苏午识破并击杀一具身体。"
+        }
+      ],
+      "evidence": [
+        "林光远的声音响起，带着一种蛊惑人心的力量",
+        "林光远站在旁边，看他浑浑噩噩的神色里，尤有一丝迟疑，更加大了力度",
+        "苏午一拳砸到他脸上，将他的脑袋都轰得稀巴烂！"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "医生",
+      "aliases": [
+        "阿文"
+      ],
+      "identity": "心诡的士兵",
+      "faction": "心诡",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "心诡的士兵，拥有操纵伥尸和绿鬼眼的能力，制造有光无影环境。",
+      "appearance": [
+        "身穿脏污白大褂"
+      ],
+      "personality": [],
+      "abilities": [
+        "操纵伥尸",
+        "绿鬼眼",
+        "心相"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林光远",
+          "type": "同伙"
+        },
+        {
+          "target": "苏午",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林光远合作，用伥尸和绿鬼眼制造有光无影环境，牵制苏午。"
+        }
+      ],
+      "evidence": [
+        "一具身穿脏污白大褂的伥尸面皮蠕动变化着，须臾间换了一副面孔。变成了苏午在模拟器里正面交手过的‘医生’。",
+        "医生站在苏午对面几步外，却是没有动作。此时，其将全部心力都投入到了运用‘心相’之中",
+        "阿文，不要再牵制他了。快把文件夹夺过来，他想抢我们的位置！"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

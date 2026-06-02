@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import subprocess
 from pathlib import Path
 
 PLACEHOLDER_TOKENS = (
@@ -168,6 +169,7 @@ def main() -> int:
     parser.add_argument("--novel-name", required=True, help="Novel name used in file naming.")
     parser.add_argument("--json", action="store_true", help="Emit JSON instead of a markdown report.")
     parser.add_argument("--no-write-report", action="store_true", help="Do not persist the markdown report.")
+    parser.add_argument("--skip-quality-gate", action="store_true", help="Skip quality gate assessment (runs by default).")
     args = parser.parse_args()
 
     workspace = Path(args.workspace).expanduser().resolve()
@@ -222,6 +224,48 @@ def main() -> int:
     report_text = markdown_report(args.novel_name, workspace, result)
     report_path = workspace / f"{args.novel_name}-章节蒸馏校验报告.md"
     result["report_path"] = str(report_path)
+
+    # 质量门评估（默认开启）
+    quality_gate_script = (
+        Path(__file__).resolve().parents[2]
+        / "novel-workspace-orchestrator-skill/scripts/quality_gate.py"
+    )
+    if not args.skip_quality_gate and quality_gate_script.exists():
+        qg_cmd = [
+            "python3", str(quality_gate_script),
+            "--workspace", str(workspace),
+            "--novel-name", args.novel_name,
+            "--layer", "chapter-distillation",
+            "--json",
+            "--no-write-report",
+        ]
+        qg_proc = subprocess.run(qg_cmd, capture_output=True, text=True, check=False)
+        if qg_proc.returncode == 0 and qg_proc.stdout.strip():
+            try:
+                qg = json.loads(qg_proc.stdout)
+                lr = qg.get("layer_results", {}).get("chapter-distillation", {})
+                if lr:
+                    score = lr.get("score", "N/A")
+                    issues = lr.get("issues", [])
+                    quality_section = [
+                        "",
+                        "---",
+                        "",
+                        "## 质量门评估（Quality Gate）",
+                        "",
+                        f"- 本层质量评分：**{score}/100** {'✅ 通过' if lr.get('ok') else '⚠️ 未通过'}",
+                    ]
+                    if issues:
+                        quality_section.append("")
+                        quality_section.append("### 质量问题")
+                        for issue in issues:
+                            quality_section.append(f"- ⚠️ {issue}")
+                    quality_section.append("")
+                    quality_section.append("*质量门由 `quality_gate.py` 自动评估*")
+                    report_text = report_text.rstrip() + "\n" + "\n".join(quality_section) + "\n"
+            except (json.JSONDecodeError, KeyError):
+                pass
+
     if not args.no_write_report:
         report_path.write_text(report_text, encoding="utf-8")
 

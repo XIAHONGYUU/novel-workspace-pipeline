@@ -1,0 +1,228 @@
+{
+  "chunk_id": "chunk-1085",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "明王"
+      ],
+      "identity": "修行者，拥有劫影等能力",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拥有强大力量，正在调查长生牌坊相关线索，抓住鲍保并收走诡画。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "温和"
+      ],
+      "abilities": [
+        "八识心王",
+        "劫影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鲍保",
+          "type": "审问者"
+        },
+        {
+          "target": "吴文远",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在破庙中审问鲍保，收走卖货郎诡画，离开庙宇。"
+        }
+      ],
+      "evidence": [
+        "苏午听得鲍保所言，蓦然间联想到了湾山长生牌坊下的八重石轮",
+        "苏午看着趴倒在地的鲍保，接着道",
+        "苏午转头踏上神台，将庙墙上张贴的这道神灵画像完完整整地撕扯下"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "鲍保",
+      "aliases": [
+        "奴才"
+      ],
+      "identity": "伪人，曾为满清王公服务",
+      "faction": "",
+      "status": "被俘",
+      "first_appearance": "",
+      "summary": "一个伪人，利用官差转移地狱之刑，试图轮入天神六道，被苏午抓住审问。",
+      "appearance": [],
+      "personality": [
+        "恐惧",
+        "绝望"
+      ],
+      "abilities": [
+        "地狱变"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被审问者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午劫影控制，交代卖货郎诡画的信息。"
+        }
+      ],
+      "evidence": [
+        "鲍保口中的‘天神六道’，显然不同于今下人普遍以为的‘六道’",
+        "鲍保四肢无力地趴在地上，放弃了任何挣扎的念头",
+        "鲍保声音木然地回应着"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "老婆婆",
+      "aliases": [
+        "老婶娘",
+        "老人家"
+      ],
+      "identity": "普通老妇人，与豆娘同行",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "向卖货郎诡画许愿，后得到苏午安慰。",
+      "appearance": [],
+      "personality": [
+        "忐忑",
+        "迷信"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "豆娘",
+          "type": "同行者"
+        },
+        {
+          "target": "苏午",
+          "type": "被安慰者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向卖货郎许愿，被苏午询问后得到安慰。"
+        }
+      ],
+      "evidence": [
+        "老婆婆也想到了自己先前做了些甚么，忐忑不安地向苏午回答道",
+        "老婆子神色慌张，不知该如何应对",
+        "老人家此时倒回过了魂儿来，向苏午连连点头"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "豆娘",
+      "aliases": [
+        "大姐"
+      ],
+      "identity": "普通妇人，带着孩子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与老婆婆同行，关心老婆婆的安危。",
+      "appearance": [],
+      "personality": [
+        "关心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "老婆婆",
+          "type": "同行者"
+        },
+        {
+          "target": "苏午",
+          "type": "被帮助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在破庙中，想询问苏午关于老婆婆许愿的事。"
+        }
+      ],
+      "evidence": [
+        "豆娘低头思索着，忽地想起老婶娘先前拜这间野庙中的神灵时，说过的那些话",
+        "豆娘抱着怀里的孩儿，看了看旁边失魂落魄的老婆婆，犹豫着想要同苏午询问几句"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "吴文远",
+      "aliases": [],
+      "identity": "三阳会弟子",
+      "faction": "三阳会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午的弟子，带领三阳会众跟随苏午。",
+      "appearance": [],
+      "personality": [
+        "忠诚",
+        "自知"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拦下其他三阳会众，向苏午行礼遵命。"
+        }
+      ],
+      "evidence": [
+        "吴文远有心追随，却更知自己在明王身边，亦不过是个累赘而已",
+        "他拦下了其余三个想说话的三阳会众，向苏午躬身行礼"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "丁胖子",
+      "aliases": [],
+      "identity": "车队的负责人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "将豆娘母子、老婆婆赶出车队，并威胁其他乘客。",
+      "appearance": [],
+      "personality": [
+        "粗暴",
+        "自私",
+        "迷信"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "赶走豆娘等人，并威胁其他乘客。"
+        }
+      ],
+      "evidence": [
+        "丁胖子看着豆娘母子、老婆婆被他手下车老板推搡着走出这块地界，他狠狠地啐了一口唾沫",
+        "丁胖子言语中隐有所指"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

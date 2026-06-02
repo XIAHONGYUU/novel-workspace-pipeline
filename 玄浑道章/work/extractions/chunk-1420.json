@@ -1,0 +1,178 @@
+{
+  "chunk_id": "chunk-1420",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，负责处理治纪道人事宜，主张以天夏律法约束其法门。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "理性",
+        "公正"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "青朔道人",
+          "type": "化身/道友"
+        },
+        {
+          "target": "焦尧",
+          "type": "下属"
+        },
+        {
+          "target": "治纪道人",
+          "type": "监管对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传唤焦尧监视治纪道人，与青朔道人讨论约束法门，派青朔道人送契书。"
+        }
+      ],
+      "evidence": [
+        "张御看着治纪道人退了下去，便又传命守正宫中的神人值司，令其把焦尧自外唤了进来",
+        "张御道：“焦道友，还需劳烦你一事。”",
+        "张御身上忽有青气一缕飘散出来，落地之后，青朔道人自里现出身来"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "治纪道人",
+      "aliases": [],
+      "identity": "修炼养神炼神之法的道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "修炼养神炼神之法的道人，被张御要求立约，试图用外神身份蒙混但被识破。",
+      "appearance": [],
+      "personality": [
+        "阴郁",
+        "狡猾",
+        "不甘"
+      ],
+      "abilities": [
+        "养神炼神之法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被监管"
+        },
+        {
+          "target": "焦尧",
+          "type": "被监视"
+        },
+        {
+          "target": "青朔道人",
+          "type": "被识破"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御要求立约，试图用外神身份蒙混但被青朔道人识破。"
+        }
+      ],
+      "evidence": [
+        "治纪道人元神归回到了正身之上，并且知悉了所有一切，他神情阴郁",
+        "治纪道人道：“贫道思量了两日，愿遵从张廷执的条件。”",
+        "他并不是真正的治纪道人。……现在的他，只是一个获得了治纪道人一切经验和记忆的外神。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "焦尧",
+      "aliases": [
+        "焦道友",
+        "焦上尊"
+      ],
+      "identity": "神人值司/道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被张御派去监视治纪道人的道人。",
+      "appearance": [],
+      "personality": [
+        "无奈",
+        "老神在在"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "治纪道人",
+          "type": "监视对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤来监视治纪道人，并传递其回复。"
+        }
+      ],
+      "evidence": [
+        "张御看着治纪道人退了下去，便又传命守正宫中的神人值司，令其把焦尧自外唤了进来",
+        "焦尧道：“廷执有事，尽可吩咐。”",
+        "焦尧在外看到了他这番举动，可只要其人不逃走就是"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "青朔道人",
+      "aliases": [],
+      "identity": "张御的化身/道友",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的化身之一，与张御既是一人又非一人，可自行修持。",
+      "appearance": [],
+      "personality": [
+        "认真",
+        "严肃"
+      ],
+      "abilities": [
+        "高深道法"
+      ],
+      "equipment": [
+        "玉尺"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "化身/道友"
+        },
+        {
+          "target": "治纪道人",
+          "type": "识破其伪装"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从张御身上现出，讨论约束法门，后去送契书并识破治纪道人伪装。"
+        }
+      ],
+      "evidence": [
+        "张御身上忽有青气一缕飘散出来，落地之后，青朔道人自里现出身来",
+        "青朔道人道：“那道友又准备如何约束呢？”",
+        "青朔道人接来看了眼，却是抖手再度将此契书抛下"
+      ],
+      "mention_count": 8
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "chunk_id": "chunk-0124",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "刀魔",
+        "前赤身魁首",
+        "五阀掠夺者"
+      ],
+      "identity": "疑似宗师级强人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，被薛家老祖宗看好的男人，拥有昼眼能力，修炼《龟鳖行气法》。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "敏锐"
+      ],
+      "abilities": [
+        "昼眼",
+        "龟鳖行气法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛家老祖宗",
+          "type": "被看好"
+        },
+        {
+          "target": "洪小四",
+          "type": "同伴"
+        },
+        {
+          "target": "薛沉舟",
+          "type": "潜在敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在烟雨亭中修炼龟鳖行气法，感知到高手杀意。"
+        }
+      ],
+      "evidence": [
+        "刀魔、前赤身魁首、五阀掠夺者、疑似宗师级强人。",
+        "戚笼昼眼渐渐扩散到二十里，可依旧没什么发现。",
+        "戚笼身子不动，好似坐在椅子上小憩，内里却在炼气。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "洪小四",
+      "aliases": [
+        "洪爷"
+      ],
+      "identity": "关外七大都督府成员",
+      "faction": "武平军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戚笼的同伴，来自关外七大都督府，了解古国历史。",
+      "appearance": [],
+      "personality": [
+        "话多"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼交谈，提及御皇子。"
+        }
+      ],
+      "evidence": [
+        "升官发财死老婆，有生之年能完成一项，洪爷你也足慰平生了。",
+        "戚笼一句话就把洪小四堵的没气了",
+        "你们关外七大都督府，继承了大部分古国遗产"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "薛沉舟",
+      "aliases": [],
+      "identity": "血练一脉武人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "对戚笼有敌意的高手，忍辱负重炼拳十载，拥有血呼吸能力。",
+      "appearance": [
+        "刚硬、傲气十足的面孔",
+        "两道剑眉"
+      ],
+      "personality": [
+        "傲气",
+        "小心谨慎"
+      ],
+      "abilities": [
+        "血呼吸",
+        "血练一道秘术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "潜在敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "伪装成卖瓜农民监视戚笼，后离开。"
+        }
+      ],
+      "evidence": [
+        "此人正是薛沉舟，虽然为防打草惊蛇，昨夜并未出现在天女阁中",
+        "他忍辱负重，炼拳十载，不能在最后关头出差错。",
+        "薛沉舟拉了拉斗笠，推动小推车，不动声色的离开了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "小阎佛",
+      "aliases": [
+        "阎佛"
+      ],
+      "identity": "和尚",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与圆大护法一同出现，意图了结因果。",
+      "appearance": [],
+      "personality": [
+        "慈悲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "圆大护法",
+          "type": "同伴"
+        },
+        {
+          "target": "戚笼",
+          "type": "潜在敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与圆大护法避开戚笼感知，出现在小巷中。"
+        }
+      ],
+      "evidence": [
+        "两道人影便从小巷中出现，正是那小阎佛和圆大护法。",
+        "阎佛一脸慈悲：'我佛慈悲，我不入地狱，谁入地狱，就让小僧我，了结这段因果吧。'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "圆大护法",
+      "aliases": [],
+      "identity": "和尚",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与小阎佛一同出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "小阎佛",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与小阎佛出现在小巷中。"
+        }
+      ],
+      "evidence": [
+        "两道人影便从小巷中出现，正是那小阎佛和圆大护法。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "南老叔公",
+      "aliases": [],
+      "identity": "薛家七老中最老的一位",
+      "faction": "薛家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "掌管藏经阁，半枯半荣的养身行家，邀请戚笼搭手。",
+      "appearance": [
+        "鹤发童颜",
+        "手持木拐"
+      ],
+      "personality": [
+        "调皮"
+      ],
+      "abilities": [
+        "内家拳养身功夫"
+      ],
+      "equipment": [
+        "木拐"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "搭手较量"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入烟雨亭，邀请戚笼搭手。"
+        }
+      ],
+      "evidence": [
+        "此人正是薛家七老中，最老的一位南老叔公。",
+        "南老叔公嘿嘿直笑，活像逗小孩的恶劣老头。",
+        "藏经阁可是我管的，你说当不当真？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "陈万道",
+      "aliases": [],
+      "identity": "上一代武道之神",
+      "faction": "八难组织",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "成为尸武人，是八难中的‘地狱难’。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗武皇",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "成为尸武人，被罗武皇效仿。"
+        }
+      ],
+      "evidence": [
+        "上一代武道之神陈万道成了‘尸武人’，而且是八难中的‘地狱难’。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "罗武皇",
+      "aliases": [],
+      "identity": "宗师级武人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "三十多年未出世，以宗师之姿登场，夺下屠魔令部分权力，公开罗家秘传拳法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈万道",
+          "type": "师徒"
+        },
+        {
+          "target": "戚笼",
+          "type": "被一拳轰退"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "夺下屠魔令部分权力，公开拳法。"
+        }
+      ],
+      "evidence": [
+        "三十多年都未出世的罗武皇，以宗师之姿悍然登场",
+        "戚笼一拳轰退罗武皇的战绩"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "御皇子",
+      "aliases": [
+        "平天御齐亲王"
+      ],
+      "identity": "古国皇子，武平军府第一任大都督",
+      "faction": "武平军府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "古国晚期皇子，率领族人北遁建立武平都督府，自称皇族正统。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戾王",
+          "type": "父子"
+        },
+        {
+          "target": "神眼公主",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "古国晚期",
+          "event": "率领部分族人北遁，建立武平都督府。"
+        }
+      ],
+      "evidence": [
+        "这位御皇子，便率领着部分族人一路北遁，在关外另辟皇土，也就是如今的武平都督府。",
+        "御皇子在担任第一任大都督的同时，自称平天御齐亲王，对外宣称皇族正统。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "神眼公主",
+      "aliases": [
+        "皇长姐",
+        "重明儿"
+      ],
+      "identity": "古国皇长姐",
+      "faction": "古国皇室",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "戾王的大女儿，小名重明儿，又称神眼公主，死于亡国之时。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戾王",
+          "type": "父女"
+        },
+        {
+          "target": "御皇子",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "古国晚期",
+          "event": "死于亡国之时。"
+        }
+      ],
+      "evidence": [
+        "戾王有一个大女儿，也就是皇长姐，小名重明儿，又称神眼公主。",
+        "这位皇长姐倒是死在了亡国之时。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "薛文海",
+      "aliases": [],
+      "identity": "薛家分支掌权者",
+      "faction": "薛家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "薛家族内的奢遮人物，掌握薛家一大分支。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被比较"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "文海叔固然也是族内的奢遮人物，掌握薛家一大分支，但跟对方一比，貌似有些不够看啊。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈无极",
+      "aliases": [],
+      "identity": "陈家子弟",
+      "faction": "陈家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "以身试法尸武人失败，被陈家族长亲手毙杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈家族长",
+          "type": "被毙杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "以身试法尸武人失败，被族长毙杀。"
+        }
+      ],
+      "evidence": [
+        "陈家陈无极以身试法失败，被陈家族长亲手毙杀。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

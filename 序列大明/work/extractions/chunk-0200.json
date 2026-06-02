@@ -1,0 +1,306 @@
+{
+  "chunk_id": "chunk-0200",
+  "characters": [
+    {
+      "name": "曹仓",
+      "aliases": [],
+      "identity": "械体受损的武者",
+      "faction": "蜚流阁",
+      "status": "受伤",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "浑身浴血闯入蜚流阁，带回龚青鸿的一条手臂，与袁明妃争执。",
+      "appearance": [
+        "浑身浴血",
+        "断臂"
+      ],
+      "personality": [
+        "倔强",
+        "冷漠",
+        "不服软"
+      ],
+      "abilities": [],
+      "equipment": [
+        "械心"
+      ],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "上下级"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "仇敌"
+        },
+        {
+          "target": "李钧",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闯入蜚流阁，报告追杀龚青鸿的结果。"
+        }
+      ],
+      "evidence": [
+        "浑身是血的曹仓依靠在墙边",
+        "曹仓虽然没有回答袁明妃的问题，可说出的话却已经承认了一切。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [
+        "燕百户",
+        "燕大人"
+      ],
+      "identity": "蜚流阁首领",
+      "faction": "蜚流阁",
+      "status": "登场",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "蜚流阁的女首领，性格豪放暴躁，对曹仓追杀龚青鸿一事愤怒且担忧。",
+      "appearance": [
+        "身着红衣",
+        "红袖"
+      ],
+      "personality": [
+        "暴躁",
+        "豪放",
+        "担忧"
+      ],
+      "abilities": [],
+      "equipment": [
+        "烟杆"
+      ],
+      "relationships": [
+        {
+          "target": "曹仓",
+          "type": "上下级"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "下属（曾）"
+        },
+        {
+          "target": "李钧",
+          "type": "怀疑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在蜚流阁审问曹仓。"
+        }
+      ],
+      "evidence": [
+        "袁明妃红袖一甩",
+        "袁明妃一脸烦躁，从袖中抽出一根烟杆叼在嘴角"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "龚青鸿",
+      "aliases": [],
+      "identity": "鸿鹄成员",
+      "faction": "鸿鹄",
+      "status": "被追杀（未出场）",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "原属蜚流阁，后加入鸿鹄，被曹仓追杀并断一臂。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "半只脚踏进纵横七"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹仓",
+          "type": "仇敌"
+        },
+        {
+          "target": "袁明妃",
+          "type": "前下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被曹仓追杀，断一臂。"
+        }
+      ],
+      "evidence": [
+        "龚青鸿那孙子的警惕心太高",
+        "我阴了他一下，却也只能带回一条手臂。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "独夫李钧"
+      ],
+      "identity": "独夫",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "与曹仓合作，提供龚青鸿的踪迹。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹仓",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为消息来源。"
+        }
+      ],
+      "evidence": [
+        "龚青鸿的踪迹，是李钧告诉你的？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "张汝贞",
+      "aliases": [],
+      "identity": "杂家",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "一个阴柔的男人，在楼上作画，与燕八荒对话。",
+      "appearance": [
+        "清秀面容",
+        "阴柔"
+      ],
+      "personality": [
+        "阴柔",
+        "善于言辞"
+      ],
+      "abilities": [
+        "绘画"
+      ],
+      "equipment": [
+        "毛笔",
+        "油彩"
+      ],
+      "relationships": [
+        {
+          "target": "燕八荒",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在铜楼之上作画，与燕八荒交谈。"
+        }
+      ],
+      "evidence": [
+        "男人转过头，露出一张清秀至极的面容",
+        "男人笑容阴柔"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "燕八荒",
+      "aliases": [
+        "燕百户",
+        "燕大人"
+      ],
+      "identity": "百户",
+      "faction": "北镇抚司（可能）",
+      "status": "登场",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "一位百户，与张汝贞对话，主张严刑峻法。",
+      "appearance": [
+        "玄色长袍",
+        "雪白虬须",
+        "虎纹铜头腰带"
+      ],
+      "personality": [
+        "刚硬",
+        "固执"
+      ],
+      "abilities": [],
+      "equipment": [
+        "虎纹铜头腰带"
+      ],
+      "relationships": [
+        {
+          "target": "张汝贞",
+          "type": "对话"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在铜楼之上与张汝贞交谈。"
+        }
+      ],
+      "evidence": [
+        "玄色长袍，雪白虬须，左手扣着腰间那根虎纹铜头腰带。",
+        "燕八荒语气生硬道"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "金生火",
+      "aliases": [
+        "胖子"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "被曹仓提及，与袁明妃有关。",
+      "appearance": [
+        "胖"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "你和金生火那个胖子是不敢知道吧？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "邹神棍",
+      "aliases": [
+        "姓邹的"
+      ],
+      "identity": "神棍",
+      "faction": "和平饭店",
+      "status": "提及",
+      "first_appearance": "第198章铜楼之上",
+      "summary": "和平饭店的人物，被袁明妃怀疑与龚青鸿有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "可能有关联"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他进过和平饭店，肯定是跟那个姓邹的神棍混在一起了！"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

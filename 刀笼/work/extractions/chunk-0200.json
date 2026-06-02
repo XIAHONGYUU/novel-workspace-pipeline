@@ -1,0 +1,493 @@
+{
+  "chunk_id": "chunk-0200",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "死神僧",
+        "烛龙使者"
+      ],
+      "identity": "死神僧，烛龙使者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被贪狼偷袭重伤，但实力强大，与贪狼战斗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "阎浮大千印",
+        "人皮杵",
+        "金身变化"
+      ],
+      "equipment": [
+        "人皮袈裟",
+        "人皮杵",
+        "降龙木"
+      ],
+      "relationships": [
+        {
+          "target": "贪狼",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与贪狼战斗，被偷袭重伤后反击。"
+        }
+      ],
+      "evidence": [
+        "然而被偷袭重伤的‘死神僧’单手捏法印，巨大的佛影剖江而起，同时手持降龙木，巨木猛的定在逆流的江河之上",
+        "戚笼踏江而来，单手使出阎浮大千印"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "贪狼",
+      "aliases": [
+        "贪狼兄",
+        "戚天王"
+      ],
+      "identity": "三凶星之一，扮演戚天王",
+      "faction": "贪狼煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "三凶星之一，扮演戚天王，与血麒麟合作，试图封印大元帅。",
+      "appearance": [],
+      "personality": [
+        "焦急",
+        "有算计"
+      ],
+      "abilities": [
+        "九气御皇道",
+        "鱼化龙（蜃龙）",
+        "大破灭之影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "血麒麟",
+          "type": "合作"
+        },
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "横天都部大元帅",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与血麒麟合作，与戚笼战斗。"
+        }
+      ],
+      "evidence": [
+        "贪狼煞中，‘戚天王’每一刀斩出，都像极了‘斩天刀寇’",
+        "贪狼感觉脑袋被重重锤了一下。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "血麒麟",
+      "aliases": [
+        "麒麟"
+      ],
+      "identity": "大元帅的坐骑，半神级麒麟",
+      "faction": "龙庭",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大元帅的坐骑，半神级麒麟，与贪狼合作，有自己的算计。",
+      "appearance": [],
+      "personality": [
+        "有算计"
+      ],
+      "abilities": [
+        "神刀血饮麒麟",
+        "血武红麟"
+      ],
+      "equipment": [
+        "神刀血饮麒麟"
+      ],
+      "relationships": [
+        {
+          "target": "贪狼",
+          "type": "合作"
+        },
+        {
+          "target": "横天都部大元帅",
+          "type": "坐骑"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与贪狼合作，反戈一击攻击大元帅。"
+        }
+      ],
+      "evidence": [
+        "血麒麟目光一闪，祂做为大元帅的坐骑",
+        "血麒麟面色一变，知道对方不是在虚张声势后，毫不犹豫的反戈一击"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "横天都部大元帅",
+      "aliases": [
+        "大元帅"
+      ],
+      "identity": "古国第一高手，横天度部大元帅",
+      "faction": "古国",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "古国第一高手，道武合一巅峰，被封印九成实力，与六王战斗。",
+      "appearance": [
+        "面容古朴刚硬，给人的感觉就像是一根擎天之柱"
+      ],
+      "personality": [
+        "宁折不弯"
+      ],
+      "abilities": [
+        "道武合一",
+        "国运为刀",
+        "精神为刃",
+        "四大传说刀境合一"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "血麒麟",
+          "type": "坐骑"
+        },
+        {
+          "target": "六王",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被六王围攻，封印减弱后反击。"
+        }
+      ],
+      "evidence": [
+        "横天度部大元帅正是这道武合一的巅峰",
+        "这位大元帅的脑袋从阴影中解放出来，只见他面容古朴刚硬"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "赤罗刹",
+      "aliases": [],
+      "identity": "六王之一，拥有罗刹血脉",
+      "faction": "贪狼煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "六王之一，悍不畏死，拥有罗刹血脉，可快速恢复伤势。",
+      "appearance": [
+        "罗刹面具"
+      ],
+      "personality": [
+        "悍不畏死",
+        "悲伤"
+      ],
+      "abilities": [
+        "罗刹血脉",
+        "化斧为刀",
+        "化刀为翼"
+      ],
+      "equipment": [
+        "两口雪花大斧"
+      ],
+      "relationships": [
+        {
+          "target": "戚天王",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与横天都部大元帅战斗，被炸断大腿。"
+        }
+      ],
+      "evidence": [
+        "赤罗刹则是悍不畏死，两口雪花大斧举重若轻",
+        "赤罗刹拥有真正的罗刹血脉"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "撼天王",
+      "aliases": [],
+      "identity": "六王之一",
+      "faction": "贪狼煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "六王之一，拳掌爪炮无所不通。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "拳掌爪炮"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "撼天王拳掌爪炮，无所不通，像是一本拳术活字典。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "贾天王",
+      "aliases": [
+        "贾似道"
+      ],
+      "identity": "六王之一，幻术高手",
+      "faction": "贪狼煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "六王之一，擅长幻术。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "幻术",
+        "偷梁换柱"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "使用幻术帮助鸟天王。"
+        }
+      ],
+      "evidence": [
+        "贾天王幻术加持，手掌每转动一下，便有无数人影移形换位",
+        "同时贾似道的幻术‘偷梁换柱’使出。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "炮天王",
+      "aliases": [],
+      "identity": "六王之一",
+      "faction": "贪狼煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "六王之一，拳法刚猛如炮。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "劈崩钻炮横合一"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "炮天王劈崩钻炮横合一，每一拳轰出，就像是有一门巨炮迎面爆开"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "鸟天王",
+      "aliases": [],
+      "identity": "六王之一，宗师级身法",
+      "faction": "贪狼煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "六王之一，身法极快，手持短刀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "宗师级别身法"
+      ],
+      "equipment": [
+        "短刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接住被大元帅攻击的赤罗刹。"
+        }
+      ],
+      "evidence": [
+        "鸟天王手持短刀，宗师级别身法展露无遗"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "薛继武",
+      "aliases": [],
+      "identity": "地军成员，气炼一脉高手",
+      "faction": "地军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "十年未出手，将《天罡气》推演至更高层，一拳轰退大元帅。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "天罡气",
+        "三十六星附身",
+        "天罡神拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛沉舟",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "十年后首次出手，使用天罡神拳攻击大元帅。"
+        }
+      ],
+      "evidence": [
+        "薛继武收敛气血，观想星空十载，居然硬生生把气炼一脉的绝学，《天罡气》的最顶层，先天罡气再往上推演一层",
+        "薛继武十年磨一拳，这一拳轰出，威力大到了极点。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "薛沉舟",
+      "aliases": [],
+      "identity": "地军成员，血炼高手",
+      "faction": "地军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "血炼五道贯通四道，继承枯荣掌。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "血炼五道",
+        "枯荣掌"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛继武",
+          "type": "同门"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "薛沉舟眼中血光闪动，他和薛继武可以说是走了两条路，他花了偌大的精力，将血炼五道中的四道贯通，并继承了气炼一道的枯荣掌"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "阎佛",
+      "aliases": [],
+      "identity": "地军成员",
+      "faction": "地军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "从红光中跃出，参与围攻大元帅。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "红光闪过，阎佛、薛继武、薛沉舟、红度母等人一一从红光之中跃出。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "红度母",
+      "aliases": [],
+      "identity": "地军成员",
+      "faction": "地军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "从红光中跃出，参与围攻大元帅。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "红光闪过，阎佛、薛继武、薛沉舟、红度母等人一一从红光之中跃出。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "薛补庭",
+      "aliases": [],
+      "identity": "皇家血脉",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及与死神僧实力相近，在历史中被围杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "皇极逆龙道"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "死神僧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "历史",
+          "event": "被围杀，临死拉了一个巨神将垫背。"
+        }
+      ],
+      "evidence": [
+        "正常的历史之中，薛补庭被围杀，临死还拉了一个巨神将垫背"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "洪小四",
+      "aliases": [],
+      "identity": "被提及的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被血麒麟提及，学习皇家武道‘天将战神决’。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "天将战神决"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "也不知道洪小四学了皇家武道‘天将战神决’，能得到这个时期的古神将几分本事"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "神侯",
+      "aliases": [],
+      "identity": "龙脉之子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及为预定的龙脉之子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "除了神侯是预定好的龙脉之子，可以无视外"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

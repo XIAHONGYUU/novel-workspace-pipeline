@@ -1,0 +1,203 @@
+{
+  "chunk_id": "chunk-0422",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "军府玄正，负责处理霜洲事务，与陈大匠交涉获取情报。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "神通道法",
+        "心光笼罩"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴安乘",
+          "type": "道友"
+        },
+        {
+          "target": "曹度",
+          "type": "同僚"
+        },
+        {
+          "target": "陈大匠",
+          "type": "审讯者与被审讯者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与吴安乘前往牢舟，审问陈大匠，获取融池和源念情报。"
+        }
+      ],
+      "evidence": [
+        "张御与吴安乘出了驻地，腾身往天中来，最后落到了一驾双层飞舟之上。",
+        "张御道：“吴道友，你且在此等候，别让他人挨近。”",
+        "张御则是将心光笼罩住了整个牢舟，若有舟上有人此刻有所异动，他立刻便会出手。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "吴安乘",
+      "aliases": [
+        "吴道友"
+      ],
+      "identity": "修士",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的道友，协助看守牢舟。",
+      "appearance": [],
+      "personality": [
+        "忠诚",
+        "可靠"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随张御前往牢舟，奉命看守囚牢。"
+        }
+      ],
+      "evidence": [
+        "张御与吴安乘出了驻地，腾身往天中来，最后落到了一驾双层飞舟之上。",
+        "吴安乘肃容应下。",
+        "吴安乘道：“玄正放心，无论这里人是生是死，吴某保证，玄正不允许，一个都出不去。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "穆通",
+      "aliases": [
+        "陈大匠"
+      ],
+      "identity": "大匠师",
+      "faction": "霜洲",
+      "status": "被囚禁",
+      "first_appearance": "",
+      "summary": "原青阳制院师匠，实为霜洲大匠陈大匠，掌握替换身躯之术和融池秘密。",
+      "appearance": [
+        "矮小老者"
+      ],
+      "personality": [
+        "谨慎",
+        "精明",
+        "有野心"
+      ],
+      "abilities": [
+        "替换身躯之术",
+        "师匠技艺"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "审讯者与被审讯者"
+        },
+        {
+          "target": "正国",
+          "type": "霜洲同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御审问，交代融池和源念情报，提出交换条件。"
+        }
+      ],
+      "evidence": [
+        "靠墙的床榻之上坐着一个矮小老者，正是之前制院之内唯一留下的师匠穆通。",
+        "穆通闻听此言，怔了一怔，苦笑道：“先生说什么笑话呢，我非是什么陈大匠，只是一个卑微年老的师匠罢了。”",
+        "陈大匠道：“我做过不少事情，也知道不少东西，那么尊驾想知道什么呢？”"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "将军",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "军府将军，负责指挥行动，与张御合作处理霜洲事务。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到张御传讯后下令封闭牢舟，并与张御商议下一步行动。"
+        }
+      ],
+      "evidence": [
+        "曹将军传命，所有人自此刻起，不得他本人亲笔署令，不得擅离飞舟。",
+        "待到了大厅之内，见曹度已是屏退诸人，一个人等在这里。",
+        "曹度点头，道：“是该如此，我们在与看不见的敌人交手，怎么小心也不为过。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "正国",
+      "aliases": [],
+      "identity": "霜洲首领",
+      "faction": "霜洲",
+      "status": "未登场（提及）",
+      "first_appearance": "",
+      "summary": "霜洲的实际掌控者，掌握源念，躲藏在融池之中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "掌握源念"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈大匠",
+          "type": "霜洲同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈大匠提及，躲藏在融池中。"
+        }
+      ],
+      "evidence": [
+        "你们之前应该抓到了那个正国了？想必你们也能看出那只是一个假货了吧？",
+        "源念之于我等，就好比生机之于凡人，不过源念除了这些，还有很多神异的作用，有许多至今我也没弄明白。这东西现在就掌握在正国手中，而这位正国，此刻就躲藏在融池之中。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

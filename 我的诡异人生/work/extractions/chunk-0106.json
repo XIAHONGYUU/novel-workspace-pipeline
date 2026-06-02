@@ -1,0 +1,309 @@
+{
+  "chunk_id": "chunk-0106",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "苏小友"
+      ],
+      "identity": "拥有鬼手能力的特殊人物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拥有鬼手能力，能操控阴影，正在调查龙山集诡事，试图搬运原始天尊神像镇压诡物。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "鬼手（可分裂出舌头，能倒拔垂杨柳、扫塌楼房）",
+        "阴影穿梭"
+      ],
+      "equipment": [
+        "背包（内有一根金条）"
+      ],
+      "relationships": [
+        {
+          "target": "黄道士",
+          "type": "同伴"
+        },
+        {
+          "target": "沈愿愿",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与黄道士进入云龙观正殿，尝试搬运神像。"
+        }
+      ],
+      "evidence": [
+        "苏午皱了皱眉。",
+        "苏午当机立断，腋下鬼手骤然生长而出，分裂出十余个舌头，皆绷直了身躯，把覆在他身上的无形重压往上顶！",
+        "苏午点了点头。确实，这塑像本来不是当代之物，不认得纸钞也是正常的。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "黄道士",
+      "aliases": [
+        "老道士",
+        "黄道长",
+        "道长"
+      ],
+      "identity": "云龙观道士，火中大有命格",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "云龙观的老道士，师父为丐师父，被算出火中大有命格，负责看守云龙观和原始天尊神像。",
+      "appearance": [],
+      "personality": [
+        "释然",
+        "笑呵呵",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "钥匙",
+        "火柴"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        },
+        {
+          "target": "丐师父",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午进入云龙观正殿，尝试搬运神像。"
+        }
+      ],
+      "evidence": [
+        "黄道士也是大口大口地喘着气，被苏午直接拉拽着狂奔进道观内",
+        "黄道士走到了苏午潜身的阴影旁边，笼罩苏午藏身阴影的强大诡韵倏忽散去",
+        "黄道士点了点头。会不会它不接受纸钞呢？只接受黄金、白银一类的贵金属？"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "沈愿愿",
+      "aliases": [],
+      "identity": "与苏午同行的人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "目睹肖锦荣死亡，感到震惊和恐惧。",
+      "appearance": [],
+      "personality": [
+        "恐惧",
+        "震惊"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        },
+        {
+          "target": "肖锦荣",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午塞回阴影中。"
+        }
+      ],
+      "evidence": [
+        "沈愿愿浑身止不住地颤抖着",
+        "沈愿愿亲眼看到诡狱只拖了一根手指回去。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "肖锦荣",
+      "aliases": [],
+      "identity": "诡狱服刑人员",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被井底的诡杀死，只剩一根手指被诡狱拖回。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈愿愿",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被井底诡杀死，只剩一根手指被诡狱拖回。"
+        }
+      ],
+      "evidence": [
+        "肖锦荣，被井底的诡杀死了，只剩一根手指被诡狱拖回去",
+        "沈愿愿亲眼看到诡狱只拖了一根手指回去。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "眼诡",
+      "aliases": [],
+      "identity": "井中的诡物之一",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与发诡一同对抗诡狱锁链，未受伤害。",
+      "appearance": [
+        "戴瓜皮帽的老者，仰着惨白的脸，死灰色的眼睛"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "发诡",
+          "type": "同伴"
+        },
+        {
+          "target": "诡狱",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与发诡一同对抗诡狱锁链。"
+        }
+      ],
+      "evidence": [
+        "井底，戴瓜皮帽的老者与大家闺秀般的女人都仰着惨白的脸，死灰色的眼睛没有情绪地注视着朝他们望来的苏午。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "发诡",
+      "aliases": [],
+      "identity": "井中的诡物之一",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与眼诡一同对抗诡狱锁链，未受伤害。",
+      "appearance": [
+        "大家闺秀般的女人，仰着惨白的脸，死灰色的眼睛"
+      ],
+      "personality": [],
+      "abilities": [
+        "发丝操控（能封锁道观）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "眼诡",
+          "type": "同伴"
+        },
+        {
+          "target": "诡狱",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与眼诡一同对抗诡狱锁链，并封锁道观。"
+        }
+      ],
+      "evidence": [
+        "收缩回井中的发丝瞬间如黑泉般喷薄而出，把两扇门死死封锁，在道观四周院墙上空也织造出发丝之网，盖压而下，把整个道观封得水泄不通！"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "丐师父",
+      "aliases": [],
+      "identity": "黄道士的师父，已故",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "为黄道士算命，算出火中大有命格，留下谶言。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黄道士",
+          "type": "师父"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "丐师父是这么给我算的命。",
+        "那谶言的最后四字是‘得金而寂’。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "昭道师",
+      "aliases": [],
+      "identity": "已故人物",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "与麻仙姑同时期的人物，死后出现原始天尊神像。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "麻仙姑",
+          "type": "同时期人物"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这座神像自昭道师、麻仙姑两人死后就出现了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "麻仙姑",
+      "aliases": [],
+      "identity": "已故人物",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "与昭道师同时期的人物，死后出现原始天尊神像。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "昭道师",
+          "type": "同时期人物"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这座神像自昭道师、麻仙姑两人死后就出现了"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "chunk_id": "chunk-0010",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "模拟者，拥有模拟器",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第9章 诡手",
+      "summary": "主角，通过模拟器进行诡异模拟，拥有冷静天赋和锦鲤附体天赋，在模拟中与影诡、灯笼诡等诡异对抗。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于分析"
+      ],
+      "abilities": [
+        "冷静（蓝色）",
+        "锦鲤附体（绿色）"
+      ],
+      "equipment": [
+        "罡洞",
+        "帝钟"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "模拟结算",
+          "event": "获得乙下评分，奖励元玉和天赋升级符咒，兑换并升级天赋。"
+        },
+        {
+          "stage": "新模拟",
+          "event": "在单元楼前遭遇影诡，使用罡洞和帝钟，但手骨异变，与自身连接。"
+        }
+      ],
+      "evidence": [
+        "苏午内心思忖着，被红灯笼摘下头颅而升起的挫败感，因为这次丰厚的结算奖励而消散不少。",
+        "他消耗一张天赋升级符咒（蓝色），将冷静天赋提升到了蓝色品质。",
+        "罡洞吹响的瞬间，大量赤气从孔洞里涌出，一条人骨手臂缠绕着筋脉从赤气里显现，猛然间划开了影诡的包裹！"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "影诡",
+      "aliases": [],
+      "identity": "诡异",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第9章 诡手",
+      "summary": "一种诡异，能从阴影中显现杀人，被强光手电照射出的阴影会吸引它。",
+      "appearance": [
+        "人形轮廓",
+        "黑膜"
+      ],
+      "personality": [],
+      "abilities": [
+        "从阴影中显现",
+        "包裹目标"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "被罡洞撕开裂缝，后被手骨再次撕开并扯下黑膜。"
+        }
+      ],
+      "evidence": [
+        "影诡百分百从被照射出来的阴影中显现，杀死影子旁边的人！",
+        "刚被撕开一道巨大裂缝的影诡，弥合了身形，化作一个人形轮廓，一瞬间越过数步距离，覆盖向苏午！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "灯笼诡",
+      "aliases": [],
+      "identity": "诡异",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第9章 诡手",
+      "summary": "一种覆盖明州市的诡异，以红灯笼形式出现，能让人身首分离。",
+      "appearance": [
+        "红灯笼"
+      ],
+      "personality": [],
+      "abilities": [
+        "让灯光明灭",
+        "红光杀人"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "模拟结算后思考",
+          "event": "苏午分析灯笼诡的特性。"
+        }
+      ],
+      "evidence": [
+        "出现在小区外、能在悄无声息间让人身首分离的红灯笼，暂且称为‘灯笼诡’。",
+        "不同于影诡，灯笼诡覆盖了大半甚至全部的明州市，危害程度与影诡根本不在同一个级别！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "小年轻",
+      "aliases": [],
+      "identity": "模拟中的路人",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第9章 诡手",
+      "summary": "在模拟中试图出逃，使用强光手电杀死家人后自杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "强光手电"
+      ],
+      "relationships": [
+        {
+          "target": "父母",
+          "type": "杀害"
+        },
+        {
+          "target": "妹妹",
+          "type": "杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "使用强光手电杀死父母和妹妹，最后自杀。"
+        }
+      ],
+      "evidence": [
+        "那小年轻就通过这种方式，杀死了他的父母、妹妹，最后才搞死自己。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

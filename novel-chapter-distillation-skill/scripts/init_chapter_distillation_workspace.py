@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
 import re
 import shutil
 import subprocess
@@ -13,7 +12,6 @@ from pathlib import Path
 
 TEXT_ENCODINGS = ("utf-8", "utf-8-sig", "gb18030", "gbk")
 CHAPTER_RE = re.compile(r"^(?:##\s*)?第[0-9０-９零一二三四五六七八九十百千万两]+[章节回卷部集篇幕].*$")
-REPO_ROOT = Path(__file__).resolve().parents[2]
 
 
 @dataclass
@@ -31,9 +29,9 @@ def write_file(path: Path, content: str, force: bool) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-def run_cmd(cmd: list[str], env: dict[str, str] | None = None) -> bool:
+def run_cmd(cmd: list[str]) -> bool:
     try:
-        subprocess.run(cmd, check=True, env=env)
+        subprocess.run(cmd, check=True)
         return True
     except (subprocess.CalledProcessError, FileNotFoundError):
         return False
@@ -90,20 +88,17 @@ def convert_source(copied_source: Path, force: bool) -> Path | None:
     if md_target.exists() and not force:
         return md_target
 
-    text2markdown_src = REPO_ROOT / "text2markdown" / "src"
-    if text2markdown_src.exists():
-        env = os.environ.copy()
-        env["PYTHONPATH"] = str(text2markdown_src)
+    tool_script = Path("/home/zuoky/project/text2markdown/scripts/txt_to_markdown.py")
+    if tool_script.exists():
         ok = run_cmd(
             [
                 "python3",
-                "-m",
-                "text2markdown.cli",
+                str(tool_script),
+                "--input",
                 str(copied_source),
-                "-o",
+                "--output",
                 str(md_target),
-            ],
-            env=env,
+            ]
         )
         if ok and md_target.exists():
             return md_target
@@ -370,6 +365,8 @@ def readme_md(
   阶段换挡的第一版草图
 - `{novel_name}-校准与验证锚点.md`
   后续 skill 用来检查漂移和回看的锚点
+- `work/chapter-distillation/`
+  章节蒸馏的中间续跑状态、批次缓存和备份目录
 - `工作状态-{date.today().isoformat()}.md`
   当前项目级交接文件
 
@@ -385,6 +382,7 @@ def readme_md(
 
 - 当前已识别章节数：`{len(chapters)}`
 - 当前工作区刚初始化完成，以上蒸馏文件默认只是占位骨架，不代表章节蒸馏已完成。
+- 后续批量蒸馏时，中间进度和备份应落在 `work/chapter-distillation/`，不要把 `.distill_progress` 或 `.bak` 直接堆在工作区根目录。
 {mode_line}- 这一层默认应先于主角层、开篇层、整书层和高光层使用。
 
 ## 已探测到的可复用上下文文件

@@ -1,0 +1,220 @@
+{
+  "chunk_id": "chunk-0843",
+  "characters": [
+    {
+      "name": "噶布",
+      "aliases": [
+        "噶布头人"
+      ],
+      "identity": "头人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第842章 生死草",
+      "summary": "当地头人，试图强卖劣质玉石料给马帮，后与马帮达成交易。",
+      "appearance": [],
+      "personality": [
+        "贪婪",
+        "欺软怕硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马帮青年",
+          "type": "交易对手"
+        },
+        {
+          "target": "马锅头",
+          "type": "交易对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "强卖石头给马帮，最终以二十匹蜀锦成交。"
+        }
+      ],
+      "evidence": [
+        "噶布头人，这块石头有何稀奇之处？",
+        "噶布在旁捋着胡须，指着石头上的一道石缝，对马帮青年继续说道",
+        "噶布看着四周人的目光，故作沉吟之色。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "马帮青年",
+      "aliases": [],
+      "identity": "马帮成员",
+      "faction": "马帮",
+      "status": "登场",
+      "first_appearance": "第842章 生死草",
+      "summary": "马帮中负责与头人交涉的青年，谨慎隐忍。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "隐忍"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "噶布",
+          "type": "交易对手"
+        },
+        {
+          "target": "马锅头",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与噶布头人交涉石头买卖，后向马锅头汇报。"
+        }
+      ],
+      "evidence": [
+        "青年人目视周围，四周的头人们皆皮笑肉不笑地看向他。",
+        "马帮青年转回身，脸色凝重地匆匆走向商队。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "马锅头",
+      "aliases": [
+        "锅头"
+      ],
+      "identity": "马帮首领",
+      "faction": "马帮",
+      "status": "登场",
+      "first_appearance": "第842章 生死草",
+      "summary": "马帮首领，身材魁梧，果断勇猛，以武力威慑头人达成交易。",
+      "appearance": [
+        "黑黢黢的身形如铁塔般压过来"
+      ],
+      "personality": [
+        "果断",
+        "勇猛",
+        "有谋略"
+      ],
+      "abilities": [],
+      "equipment": [
+        "环首阔背大刀",
+        "漆皮甲胄"
+      ],
+      "relationships": [
+        {
+          "target": "噶布",
+          "type": "交易对手"
+        },
+        {
+          "target": "马帮青年",
+          "type": "上下级"
+        },
+        {
+          "target": "东主",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与噶布头人谈判，以武力威慑和赠锦方式解决纠纷。"
+        }
+      ],
+      "evidence": [
+        "马锅头目光瞥向噶布头人那边。",
+        "马锅头岿然不惧。",
+        "几步外的马锅头猛然抽出了腰间的刀子！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "东主",
+      "aliases": [],
+      "identity": "商队主人",
+      "faction": "马帮",
+      "status": "登场",
+      "first_appearance": "第842章 生死草",
+      "summary": "马帮商队的东主，坐在马车中，声音怪异，主张妥协。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "马锅头",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与马锅头商议应对头人讹诈，提议用令牌或妥协。"
+        }
+      ],
+      "evidence": [
+        "马车里沉默了一阵。",
+        "一个有些怪异的声音跟着响起",
+        "实在不行，那就给吧。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "路人/旁观者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第842章 生死草",
+      "summary": "旁观马帮与头人交易的汉人，会说汉话，想购买兵刃。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "旁观交易，后拉住马帮商人询问购买兵刃。"
+        }
+      ],
+      "evidence": [
+        "苏午带着旦增一家挤进人群里，拉住了一个马帮商人。",
+        "他开口言语：“我想购买几件好兵刃。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "旦增",
+      "aliases": [],
+      "identity": "路人/旁观者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第842章 生死草",
+      "summary": "与苏午同行的当地人，曾向苏午询问情况。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向苏午询问马帮青年神色凝重的原因。"
+        }
+      ],
+      "evidence": [
+        "旦增看到了那唐人面上的神色，转而向苏午低声问道：“这是怎么了？”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

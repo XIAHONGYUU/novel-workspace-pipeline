@@ -1,0 +1,247 @@
+{
+  "chunk_id": "chunk-0456",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "凤凰大人"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一位实力强大的巫师，被眼魔和骨魔邀请赴宴。",
+      "appearance": [
+        "暗红色瞳孔"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "扫描评估实力",
+        "飞行"
+      ],
+      "equipment": [
+        "黑色金属小笼子（降临器）"
+      ],
+      "relationships": [
+        {
+          "target": "眼魔",
+          "type": "盟友/被邀请"
+        },
+        {
+          "target": "骨魔",
+          "type": "盟友/被邀请"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到达魔眼族领地，受到眼魔和骨魔的邀请，最终选择前往骨魔的浮空台。"
+        }
+      ],
+      "evidence": [
+        "安格列皱了皱眉：“你是巡逻卫兵么？带我去见眼魔。”",
+        "安格列扫了眼面前恭敬的骑士。做出一副随意的姿态问道。",
+        "安格列轻轻一纵身，飞向骨魔所在的浮空台。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "眼球骑士",
+      "aliases": [
+        "飞龙骑士"
+      ],
+      "identity": "巡逻卫兵",
+      "faction": "魔眼族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "魔眼族的巡逻士兵，实力约一级巫师，负责引路和传讯。",
+      "appearance": [
+        "整个脑袋包裹在头盔中，居然只是一颗人头大小的白色眼球"
+      ],
+      "personality": [],
+      "abilities": [
+        "驾驭飞龙"
+      ],
+      "equipment": [
+        "飞龙"
+      ],
+      "relationships": [
+        {
+          "target": "眼魔",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为安格列引路，并回答关于部队的问题。"
+        }
+      ],
+      "evidence": [
+        "飞龙骑士迅速降落下来，身体俯在飞龙背上以示恭敬。",
+        "眼球骑士抬起头拍拍飞龙，连人带龙朝着远处的浮空台方向飞去。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "眼魔",
+      "aliases": [
+        "眼魔王"
+      ],
+      "identity": "魔眼族首领",
+      "faction": "魔眼族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "魔眼族的王，与骨魔有利益冲突，试图拉拢安格列。",
+      "appearance": [
+        "一身紫黑色连衣裙，打扮得如同公主一样清纯神秘，脸上有紫色面纱，白皙肌肤"
+      ],
+      "personality": [
+        "妩媚",
+        "有心计"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "骨魔",
+          "type": "竞争对手"
+        },
+        {
+          "target": "安格列",
+          "type": "被邀请者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "设宴邀请安格列，但安格列选择了骨魔。"
+        }
+      ],
+      "evidence": [
+        "眼魔，打扮得如同公主一样清纯神秘，正妩媚的端着一杯血酒遥遥朝他致敬",
+        "眼魔的脸色微微沉了下来，遥遥看了骨魔一眼，端着酒杯静静离开平台边缘。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "骨魔",
+      "aliases": [
+        "骨头",
+        "骨魔王"
+      ],
+      "identity": "不死生物首领",
+      "faction": "不死族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "不死生物的首领，带领庞大尸骨军团，与眼魔有矛盾。",
+      "appearance": [
+        "高大强悍的男子"
+      ],
+      "personality": [
+        "豪爽",
+        "狡猾"
+      ],
+      "abilities": [
+        "敲鼓产生震撼效果"
+      ],
+      "equipment": [
+        "巨鼓"
+      ],
+      "relationships": [
+        {
+          "target": "眼魔",
+          "type": "竞争对手"
+        },
+        {
+          "target": "安格列",
+          "type": "朋友/被邀请者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "敲鼓欢迎安格列，并设宴招待。"
+        }
+      ],
+      "evidence": [
+        "骨魔随手丢开鼓锤，转身望向安格列，脸上泛起豪爽的大笑。",
+        "骨头几口吞下肉块，脸上扯出一个狡猾的笑容。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "飞龙骑士长",
+      "aliases": [],
+      "identity": "巡逻队长",
+      "faction": "魔眼族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一队飞龙骑士的队长，负责迎接安格列。",
+      "appearance": [
+        "一身黑红色铠甲，手持一根巨型龙枪"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "飞龙",
+        "龙枪"
+      ],
+      "relationships": [
+        {
+          "target": "眼魔",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领骑士队迎接安格列赴宴。"
+        }
+      ],
+      "evidence": [
+        "带头的眼球骑士一身黑红色铠甲，手持一根巨型龙枪，声音异常低沉。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "幽灵女妖",
+      "aliases": [
+        "女妖"
+      ],
+      "identity": "不死生物",
+      "faction": "骨魔麾下",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一种恐怖的不死生物，每头相当于黎明巫师级别，环绕浮空台飞行。",
+      "appearance": [
+        "半透明淡蓝，水母般，全身赤裸，长发如同触角飞舞的妖艳女子"
+      ],
+      "personality": [],
+      "abilities": [
+        "相当于黎明巫师实力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "骨魔",
+          "type": "所属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在骨魔的浮空台周围。"
+        }
+      ],
+      "evidence": [
+        "一头半透明的淡蓝浮游生物，水母般从安格列身边飞过。",
+        "这些女妖一部分环绕着安格列飞行，其余大部分都围绕浮空台飞行着"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

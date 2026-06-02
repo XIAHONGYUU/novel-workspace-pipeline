@@ -1,0 +1,325 @@
+{
+  "chunk_id": "chunk-1242",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "陶先生"
+      ],
+      "identity": "修道人",
+      "faction": "眠麓城域",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "斩杀了林老道，在眠麓城域中扮演重要角色。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "剑术高超",
+        "能化出持剑化影",
+        "能留下寄物追踪"
+      ],
+      "equipment": [
+        "紫炁砂"
+      ],
+      "relationships": [
+        {
+          "target": "林老道",
+          "type": "敌对"
+        },
+        {
+          "target": "朱宗护",
+          "type": "盟友"
+        },
+        {
+          "target": "阴奂庭",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "斩杀林老道，获得玉板，与朱宗护等人商议熹王之事。"
+        }
+      ],
+      "evidence": [
+        "张御这一剑快若迅光，完全超越了其人之感知",
+        "张御抬头看去，那一团赤色红雾仍然盘旋在王舟之中。",
+        "张御道：“来犯大军尽数覆灭，唯有一人逃脱。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "林老道",
+      "aliases": [
+        "林长老"
+      ],
+      "identity": "修道人，大阵主阵者",
+      "faction": "敌对势力",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "以取巧之法成就功果，将神气寄托于大阵，试图反算张御但被斩杀。",
+      "appearance": [],
+      "personality": [
+        "自信",
+        "狡猾"
+      ],
+      "abilities": [
+        "大阵操控",
+        "祭献之术"
+      ],
+      "equipment": [
+        "玉板（主阵寄物）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "卫道人",
+          "type": "侵夺其精元血气"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御斩杀，神气散灭。"
+        }
+      ],
+      "evidence": [
+        "林老道头颅掉落在地，在台阶上滚了两圈，脸上还带着微笑。",
+        "林老道在见到张御与卫道人对抗过后，见连卫道人也胜不了张御",
+        "林老道根本没想到，自己之为最大的倚仗，居然就这么简单被张御从双方对抗中被剥离了出去"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "朱宗护",
+      "aliases": [
+        "宗护"
+      ],
+      "identity": "眠麓城域领袖",
+      "faction": "眠麓城域",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "眠麓城域的主事者，关心熹王和万灵所玉符的下落。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "关切"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "盟友"
+        },
+        {
+          "target": "阴奂庭",
+          "type": "下属"
+        },
+        {
+          "target": "熹王",
+          "type": "叔祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御、阴奂庭商议熹王之事。"
+        }
+      ],
+      "evidence": [
+        "朱宗护主动从诸人遮掩中走了出来，看了看张御，关切道",
+        "朱宗护低下头，他似乎想到了一点什么",
+        "朱宗护想了想，也道：“以我对这位叔祖的了解，他是不会完全信任一个人”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "阴奂庭",
+      "aliases": [
+        "阴先生"
+      ],
+      "identity": "眠麓城域谋士",
+      "faction": "眠麓城域",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在眠麓城域中为朱宗护出谋划策。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于分析"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱宗护",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与朱宗护、张御商议。"
+        }
+      ],
+      "evidence": [
+        "阴奂庭这时道：“宗护，是陶先生，不然进不来阵域之内。”",
+        "阴奂庭琢磨了下，道：“这么看来，正如陶先生所言，熹王早有安排了。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "熹王",
+      "aliases": [],
+      "identity": "朱宗护的叔祖，大军首领",
+      "faction": "敌对势力",
+      "status": "疑似未死（借尸还魂）",
+      "first_appearance": "",
+      "summary": "被林老道所杀，但神魂另有寄托，可能借尸还魂。",
+      "appearance": [],
+      "personality": [
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱宗护",
+          "type": "叔祖"
+        },
+        {
+          "target": "林老道",
+          "type": "被其所杀"
+        },
+        {
+          "target": "造物炼士（未命名）",
+          "type": "信任"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被林老道所杀，但神魂可能已转移。"
+        }
+      ],
+      "evidence": [
+        "熹王已被那位林长老所杀，但我以为，他神魂似是另有寄托。",
+        "熹王并不似修道人炼就元神，也不是那些造物炼士能灵性凝聚，他身躯确然已是坏去，但未必不能借尸还魂。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "卫道人",
+      "aliases": [],
+      "identity": "修道人",
+      "faction": "敌对势力",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "曾与张御对抗，后被林老道侵夺精元血气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "林老道",
+          "type": "被其侵夺"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被林老道侵夺全部精元血气。"
+        }
+      ],
+      "evidence": [
+        "林老道在见到张御与卫道人对抗过后，见连卫道人也胜不了张御",
+        "他方才在侵夺了卫道人全部精元血气后"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "王道人",
+      "aliases": [],
+      "identity": "眠麓城域成员",
+      "faction": "眠麓城域",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在眠麓城域中负责警戒，对张御保持警惕。",
+      "appearance": [],
+      "personality": [
+        "警惕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱宗护",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "盟友（起初怀疑）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "掩护朱宗护，询问阵中情形。"
+        }
+      ],
+      "evidence": [
+        "王道人此时往前一步，掩护在朱宗护之前，并以警惕的目光看着他",
+        "王道人神情一紧，道：“这么说来，熹王并没有亡？”",
+        "王道人闻言精神一振，可转而一想，又是冷静下来"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "造物炼士（未命名）",
+      "aliases": [],
+      "identity": "造物炼士，熹王信任之人",
+      "faction": "敌对势力",
+      "status": "逃脱",
+      "first_appearance": "",
+      "summary": "受熹王信任，在关键时刻逃脱，可能负责熹王换躯事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "信任"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "逃脱，身上被张御留下紫炁砂寄物。"
+        }
+      ],
+      "evidence": [
+        "倒是走了一位造物炼士。",
+        "我这位叔祖身边有一个格外受信任的造物炼士，我不知他名字为何，想来就是这一位了。",
+        "那造物炼士虽走，然而我在他身上留下了一枚寄物"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

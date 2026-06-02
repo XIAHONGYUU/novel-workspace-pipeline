@@ -1,0 +1,342 @@
+{
+  "chunk_id": "chunk-0242",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "薛保侯"
+      ],
+      "identity": "刺杀程天凶的刺客，伪装成薛保侯",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "刺杀程天凶后伪装成薛保侯，在承天堡中活动，拥有龙脉和神道兵。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "不喜欢被掌控的感觉"
+      ],
+      "abilities": [
+        "龙脉修补大法",
+        "九气御皇道",
+        "铸器大师"
+      ],
+      "equipment": [
+        "皇道九州金座神道兵",
+        "百鬼夜行戒"
+      ],
+      "relationships": [
+        {
+          "target": "程天凶",
+          "type": "刺杀对象"
+        },
+        {
+          "target": "月姬",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在承天堡中修复龙脉，解析神道兵，并赴大公子宴。"
+        }
+      ],
+      "evidence": [
+        "戚笼双膝盘坐，身前一道又一道龙影浮现",
+        "戚笼伸出右手，手臂上诡异扭曲的佛经一一浮出",
+        "戚笼推开门，天空稍显灰暗"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "程天凶",
+      "aliases": [
+        "程堡主"
+      ],
+      "identity": "承天堡堡主",
+      "faction": "承天堡",
+      "status": "已死",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "承天堡堡主，被戚笼刺杀，对外宣称重伤养伤。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "虎噬刀"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被刺杀"
+        },
+        {
+          "target": "程三楼",
+          "type": "长子"
+        },
+        {
+          "target": "程啸天",
+          "type": "三子"
+        },
+        {
+          "target": "程肆然",
+          "type": "六子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已死，消息在小范围内传播。"
+        }
+      ],
+      "evidence": [
+        "伴随着程天凶之死，全力运转起来",
+        "程天凶死去的消息，依旧在小范围内传播"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "薛保侯",
+      "aliases": [],
+      "identity": "侯爷，被戚笼伪装",
+      "faction": "",
+      "status": "被冒充",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "侯爷，戚笼伪装成他的身份在承天堡活动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被伪装"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "戚笼在床上复制了另一个‘薛保侯’",
+        "侯爷，我家公子有请"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "程三楼",
+      "aliases": [
+        "大公子"
+      ],
+      "identity": "程天凶长子",
+      "faction": "承天堡",
+      "status": "登场",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "程天凶长子，体弱多病，气血不到二流，但邀请戚笼饮茶。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "程天凶",
+          "type": "父亲"
+        },
+        {
+          "target": "程啸天",
+          "type": "三弟"
+        },
+        {
+          "target": "程肆然",
+          "type": "六弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "邀请戚笼赴宴饮茶。"
+        }
+      ],
+      "evidence": [
+        "程三楼是不二人选",
+        "这位嫡长子实在是没什么实力，气血还不到二流",
+        "大公子有请"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "程啸天",
+      "aliases": [
+        "三公子"
+      ],
+      "identity": "程天凶三子",
+      "faction": "承天堡",
+      "status": "提及",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "程天凶三子，巅峰宗师级战力，军中人脉深厚，是堡主有力竞争者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "巅峰宗师"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "程天凶",
+          "type": "父亲"
+        },
+        {
+          "target": "程三楼",
+          "type": "大哥"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "三公子程啸天，巅峰宗师级的战力，军中人脉深厚"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "百媚夫人",
+      "aliases": [],
+      "identity": "程天凶的夫人，六公子程肆然之母",
+      "faction": "承天堡",
+      "status": "登场",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "程天凶的夫人，背后有刑五官背景，支持六子程肆然继承堡主。",
+      "appearance": [],
+      "personality": [
+        "有野心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "程肆然",
+          "type": "儿子"
+        },
+        {
+          "target": "刑五官",
+          "type": "背后势力"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天香阁中指导程肆然修炼。"
+        }
+      ],
+      "evidence": [
+        "百媚夫人娇笑道",
+        "百媚夫人背后，隐隐有着亡国七灾中，刑五官的背景"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "程肆然",
+      "aliases": [
+        "六公子"
+      ],
+      "identity": "程天凶六子",
+      "faction": "承天堡",
+      "status": "登场",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "程天凶六子，在百媚夫人帮助下炼出刀罡，拥有龙脉和神道兵虎噬。",
+      "appearance": [],
+      "personality": [
+        "不自信"
+      ],
+      "abilities": [
+        "刀罡"
+      ],
+      "equipment": [
+        "虎噬刀"
+      ],
+      "relationships": [
+        {
+          "target": "百媚夫人",
+          "type": "母亲"
+        },
+        {
+          "target": "程天凶",
+          "type": "父亲"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在天香阁演练刀术，炼出刀罡。"
+        }
+      ],
+      "evidence": [
+        "六公子程肆然正在演练一套刀术",
+        "我竟真炼出了刀罡",
+        "一道龙影从其背后暴起"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "月姬",
+      "aliases": [
+        "三夫人"
+      ],
+      "identity": "程天凶的三夫人",
+      "faction": "承天堡",
+      "status": "提及",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "程天凶的三夫人，精神修为高，在戚笼刺杀程天凶时表现奇怪，可能与长公主重明儿有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "精神修为高"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "程天凶",
+          "type": "丈夫"
+        },
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "那位三夫人在他刺杀程天凶的过程中，表现的也很奇怪",
+        "以她展现的精神修为，绝不在戚笼之下"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "草原公主",
+      "aliases": [],
+      "identity": "草原公主",
+      "faction": "草原",
+      "status": "登场",
+      "first_appearance": "第十五章 赴宴",
+      "summary": "一位草原公主，在戚笼屋外演练刀术，刀术凶悍，杀气重。",
+      "appearance": [],
+      "personality": [
+        "杀气重"
+      ],
+      "abilities": [
+        "刀术二流，爆发能斩一流高手"
+      ],
+      "equipment": [
+        "弯刀"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在戚笼屋外演练刀术。"
+        }
+      ],
+      "evidence": [
+        "这位草原公主正手持弯刀，演练着一套凶悍的刀术",
+        "这草原公主身上的杀气很重"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "chunk_id": "chunk-1514",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，与武廷执一同受邀与方道人会谈，主张天夏与修道者互利共存。",
+      "appearance": [],
+      "personality": [
+        "善于辩论",
+        "坚持原则"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "方道人",
+          "type": "谈判对象"
+        },
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与武廷执一同会见方道人，讨论修道者出山之事。"
+        }
+      ],
+      "evidence": [
+        "张御听了方道人这一番话，却是道：“方上尊说错了。”",
+        "张御道：“天夏并非是一味要求诸位同道付出，亦是有所回报...”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "方道人",
+      "aliases": [
+        "方上尊",
+        "方上真"
+      ],
+      "identity": "潜修道人",
+      "faction": "天夏潜修派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "潜修道人，与众多同道交好，曾立下功劳，但多次向玄廷索要廷执之位未果。",
+      "appearance": [],
+      "personality": [
+        "善于交际",
+        "执着于权位"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "谈判对象"
+        },
+        {
+          "target": "武廷执",
+          "type": "谈判对象"
+        },
+        {
+          "target": "庄首执",
+          "type": "曾向其索要廷执之位被拒"
+        },
+        {
+          "target": "陈首执",
+          "type": "向其索要廷执之位"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "邀请张御和武廷执会谈，提出以解决修道者出山问题换取廷执之位。"
+        },
+        {
+          "stage": "过去",
+          "event": "曾两次向庄首执索要廷执之位被拒，后因拒绝征召被罚没玄粮。"
+        }
+      ],
+      "evidence": [
+        "方道人笑道：“哦？错在哪里？”",
+        "方道人道：“玄廷要许我一个廷执之位。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "武廷执",
+      "aliases": [
+        "武倾墟"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，与张御一同受邀与方道人会谈，对方道人的提议持谨慎态度。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "方道人",
+          "type": "谈判对象"
+        },
+        {
+          "target": "陈首执",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同会见方道人，并提议先回去商议。"
+        }
+      ],
+      "evidence": [
+        "武廷执道：“既是受方上真之邀到此，那便是为了一听方上真的建言的。”",
+        "武廷执沉默着没有回答，只是他向张御传声道：“张廷执，这件事另有源头，我们不如今次先回去商议？”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "玄廷首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄廷首执，负责决断廷执之位等重大事务。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "坚持原则"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "武廷执",
+          "type": "下属"
+        },
+        {
+          "target": "方道人",
+          "type": "被索要廷执之位"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "听取张御和武廷执汇报，表示拒绝方道人的要求。"
+        }
+      ],
+      "evidence": [
+        "陈首执道：“武廷执如何想的？”",
+        "陈首执沉声道：“以往庄首执曾拒绝此人两次，若是问我，我之回答亦是回绝...”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "庄首执",
+      "aliases": [],
+      "identity": "前任玄廷首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "前任玄廷首执，曾两次拒绝方道人的廷执之位要求。",
+      "appearance": [],
+      "personality": [
+        "坚持规矩"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "方道人",
+          "type": "曾拒绝其要求"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "两次拒绝方道人的廷执之位要求，并因方道人拒绝征召而罚没其玄粮。"
+        }
+      ],
+      "evidence": [
+        "武廷执道：“当初我天夏渡来此世时，这位曾经一度活跃...不过庄首执却是没有答应他...”",
+        "庄首执论功之时，因这位还是立下功劳的，所以没有忘了，故是对其赐予玄粮以作补偿..."
+      ],
+      "mention_count": 3
+    }
+  ]
+}

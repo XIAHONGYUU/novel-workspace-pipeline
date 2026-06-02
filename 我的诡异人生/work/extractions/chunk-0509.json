@@ -1,0 +1,243 @@
+{
+  "chunk_id": "chunk-0509",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "苏午",
+        "午"
+      ],
+      "identity": "民俗学者",
+      "faction": "宗事局",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与云霓裳一同前往玉竹观考察的民俗学者，曾与谢云清共度龙山集困境。",
+      "appearance": [],
+      "personality": [
+        "和煦"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "云霓裳",
+          "type": "同行者"
+        },
+        {
+          "target": "谢云清",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与云霓裳前往玉竹观，遇到谢云清，请求画符和五雷法坛权柄。"
+        }
+      ],
+      "evidence": [
+        "苏午与云霓裳穿过三道门楼牌坊时",
+        "苏午看着年轻道士，面色和煦",
+        "苏午笑着摇了摇头，终于说起了别的话题"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "云霓裳",
+      "aliases": [
+        "云霓裳"
+      ],
+      "identity": "民俗学者",
+      "faction": "宗事局",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午一同前往玉竹观的民俗学者，曾与谢云清相识。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同行者"
+        },
+        {
+          "target": "谢云清",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午前往玉竹观，遇到谢云清。"
+        }
+      ],
+      "evidence": [
+        "苏午与云霓裳穿过三道门楼牌坊时",
+        "云霓裳当时亦在现场",
+        "云霓裳在旁说话"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "谢云清",
+      "aliases": [
+        "谢道长",
+        "谢云清",
+        "小道长"
+      ],
+      "identity": "玉竹观道士",
+      "faction": "玉竹观",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "年轻道士，曾与苏午、云霓裳在龙山集共度困境，现于玉竹观修行，师从黄道长。",
+      "appearance": [
+        "模样清秀，头上盘着一个混元髻，手里撑着一根竹棍"
+      ],
+      "personality": [
+        "风趣",
+        "真诚"
+      ],
+      "abilities": [
+        "掌心雷",
+        "五雷法",
+        "画符",
+        "念咒"
+      ],
+      "equipment": [
+        "竹棍"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "旧识"
+        },
+        {
+          "target": "云霓裳",
+          "type": "旧识"
+        },
+        {
+          "target": "黄道长",
+          "type": "师父"
+        },
+        {
+          "target": "住持师伯",
+          "type": "师伯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "下山迎接苏午和云霓裳，引二人入道观。"
+        }
+      ],
+      "evidence": [
+        "道士模样清秀，头上盘着一个混元髻，手里撑着一根竹棍",
+        "谢云清看着苏午、又看看云霓裳，连连摇头",
+        "谢云清连连点头，引二人往道观山门里走"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "黄道长",
+      "aliases": [
+        "老道长",
+        "师父"
+      ],
+      "identity": "谢云清的师父",
+      "faction": "玉竹观",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "谢云清的师父，带谢云清投奔玉竹观，当天去村里给猪看病。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "去村里给猪看病，预计下午回来。"
+        }
+      ],
+      "evidence": [
+        "师父今天一早就到下面那个村子里啦",
+        "我师父寻思投奔这里比较方便，就带着我来了"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "住持师伯",
+      "aliases": [
+        "住持"
+      ],
+      "identity": "玉竹观住持",
+      "faction": "玉竹观",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玉竹观的住持，谢云清的师伯，应宗事局要求接待苏午等人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "师伯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "应在三清殿等候苏午等人。"
+        }
+      ],
+      "evidence": [
+        "住持师伯也住在那里",
+        "住持师伯应该也在殿里等着呢"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "老道长",
+      "aliases": [
+        "大胡须的道人"
+      ],
+      "identity": "玉竹观道士",
+      "faction": "玉竹观",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "头发斑白的老道长，在居室内窥视苏午，后绕路前往三清殿。",
+      "appearance": [
+        "头发斑白",
+        "大胡须",
+        "穿着黑色戒衣"
+      ],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "牛栏山二锅头",
+        "花生米"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在居室内窥视苏午，后绕路前往三清殿。"
+        }
+      ],
+      "evidence": [
+        "头发斑白的老道长连忙收回了目光",
+        "大胡须的道人出了门",
+        "沿着石阶一路往最顶上的庙殿走去"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

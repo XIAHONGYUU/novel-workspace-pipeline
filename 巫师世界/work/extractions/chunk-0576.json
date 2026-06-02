@@ -1,0 +1,338 @@
+{
+  "chunk_id": "chunk-0576",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "乡下贵族次子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "穿越者，拥有扫描能力，对绿眼男子和短棍感兴趣。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "观察力强"
+      ],
+      "abilities": [
+        "扫描能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "芙瑞拉",
+          "type": "同行者"
+        },
+        {
+          "target": "海利亚",
+          "type": "跟随对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "加入私人车队，观察绿眼男子和海利亚。"
+        }
+      ],
+      "evidence": [
+        "安格列没有回答这句莫名其妙的话语，他感觉到这人的双眼确确实实有股莫名的强大力量",
+        "安格列对这根棒子有种极度危险的感觉",
+        "安格列隐隐感觉到，无论是绿眼男子还是后面来的那个‘少女’，都是冲着海利亚而来。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "绿眼男子",
+      "aliases": [
+        "恩伯"
+      ],
+      "identity": "未知",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "手持黑色短棍的虚弱男子，灵魂与短棍对抗，被追杀。",
+      "appearance": [
+        "绿眼",
+        "惨白面孔",
+        "瘦弱"
+      ],
+      "personality": [
+        "坚韧",
+        "疯狂"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑色短棒"
+      ],
+      "relationships": [
+        {
+          "target": "海利亚",
+          "type": "跟随"
+        },
+        {
+          "target": "黑斗篷盗贼",
+          "type": "被追杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牛车上与安格列对话，后加入私人车队，被黑斗篷袭击。"
+        }
+      ],
+      "evidence": [
+        "绿眼男子的声音很嘶哑，目光炯炯地看着安格列",
+        "绿眼男子手中紧紧握住的那根黑短棒",
+        "恩伯，终于又找到你了。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "海利亚",
+      "aliases": [],
+      "identity": "失忆的佣兵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "失忆的中年男子，拥有始祖血脉，被绿眼男子和漂亮男子关注。",
+      "appearance": [],
+      "personality": [
+        "迷惘",
+        "挣扎"
+      ],
+      "abilities": [
+        "剑术不错"
+      ],
+      "equipment": [
+        "银灰直刀"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被跟随"
+        },
+        {
+          "target": "绿眼男子",
+          "type": "被跟随"
+        },
+        {
+          "target": "漂亮男子",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "离开商队加入私人车队，与盗贼战斗。"
+        }
+      ],
+      "evidence": [
+        "海利亚莫名其妙地提出离开商队",
+        "海利亚跳下车厢，提着一把银灰直刀冲了过去",
+        "加上海利亚身上的始祖血脉对他有着莫名的吸引力"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "芙瑞拉",
+      "aliases": [
+        "小瑞拉"
+      ],
+      "identity": "少女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与安格列同行的少女，曾试图作弄安格列未果。",
+      "appearance": [],
+      "personality": [
+        "气鼓鼓",
+        "胆小",
+        "冲动"
+      ],
+      "abilities": [],
+      "equipment": [
+        "锯子剑"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列一起加入私人车队，遭遇盗贼时意外击倒一名盗贼。"
+        }
+      ],
+      "evidence": [
+        "小芙瑞拉气鼓鼓地问",
+        "芙瑞拉不知道什么时候提着那把锯子剑",
+        "芙瑞拉两眼呆滞，根本没弄清楚发生什么事。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "漂亮男子",
+      "aliases": [
+        "少女"
+      ],
+      "identity": "未知",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "比女人还漂亮的男子，与海利亚同行，实力强大但未出手。",
+      "appearance": [
+        "比女人还漂亮"
+      ],
+      "personality": [
+        "冷笑"
+      ],
+      "abilities": [
+        "实力强大"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "海利亚",
+          "type": "同行"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与海利亚一起加入私人车队，在盗贼袭击时旁观。"
+        }
+      ],
+      "evidence": [
+        "海利亚莫名其妙地提出离开商队，身边不知道什么时候多出了那个貌似少女的漂亮男子",
+        "以那人那天晚上展露出来的实力，杀掉这些盗贼绰绰有余，此刻却丝毫没有动手的迹象，只是站在一边冷笑观看。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "黑斗篷盗贼头目",
+      "aliases": [],
+      "identity": "盗贼头目",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "率领黑斗篷盗贼袭击车队，目标为绿眼男子。",
+      "appearance": [
+        "黑色斗篷",
+        "红皮裤"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "银白弯刀"
+      ],
+      "relationships": [
+        {
+          "target": "绿眼男子",
+          "type": "追杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "袭击车队，与海利亚战斗。"
+        }
+      ],
+      "evidence": [
+        "恩伯，终于又找到你了。",
+        "两人弯刀互击，绕着大树互有来往。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "老妇人",
+      "aliases": [],
+      "identity": "路人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在牛车上提醒安格列绿眼男子是疯子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牛车上与安格列说话。"
+        }
+      ],
+      "evidence": [
+        "一边的木板上一个老妇人低声提醒"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "年轻男人",
+      "aliases": [],
+      "identity": "路人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在牛车上附和老妇人，提到绿眼男子发疯。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在牛车上说话。"
+        }
+      ],
+      "evidence": [
+        "另一个远一些的年轻男人也跟着说"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "黑衣贵妇",
+      "aliases": [],
+      "identity": "私人车队主人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "私人车队的贵妇，优雅地招待海利亚和漂亮男子。",
+      "appearance": [
+        "美丽丰满",
+        "黑色长发盘起",
+        "额头戴银色圆环"
+      ],
+      "personality": [
+        "高雅",
+        "优雅"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "海利亚",
+          "type": "招待"
+        },
+        {
+          "target": "漂亮男子",
+          "type": "招待"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在车厢内与海利亚和漂亮男子共进午餐。"
+        }
+      ],
+      "evidence": [
+        "餐桌对面，坐着一个举止高雅有礼的黑衣贵妇"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "chunk_id": "chunk-0061",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "驭诡者，破限者",
+      "faction": "",
+      "status": "被麻翻推走",
+      "first_appearance": "第60章 诡异的咒印",
+      "summary": "拥有尸陀鬼之手天赋的驭诡者，被医生麻翻后推至负三层。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "镇静"
+      ],
+      "abilities": [
+        "阴暗之触",
+        "尸陀鬼之手（驭诡者）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "被麻翻对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被医生注射麻醉剂后推至负三层"
+        }
+      ],
+      "evidence": [
+        "这是由‘阴暗之触’此项天赋，为苏午带来的增幅效果。",
+        "他如今与尸陀鬼之手的契合度已经达到百分之百，可以完整驱使一只诡异的力量，是真正的‘驭诡者’。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "医生",
+      "aliases": [],
+      "identity": "研究员，老板的追随者",
+      "faction": "",
+      "status": "活跃",
+      "first_appearance": "第60章 诡异的咒印",
+      "summary": "穿着白大褂，头发乱如野草的青年男人，对老板有特殊情感，身上有诡异咒印。",
+      "appearance": [
+        "套着白大褂",
+        "头发乱如野草"
+      ],
+      "personality": [
+        "精神状态不对劲",
+        "偏执"
+      ],
+      "abilities": [
+        "拥有诡异咒印"
+      ],
+      "equipment": [
+        "麻醉剂",
+        "针头",
+        "试管",
+        "钥匙"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "麻翻对象"
+        },
+        {
+          "target": "老板",
+          "type": "追随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "麻翻苏午并推至负三层"
+        }
+      ],
+      "evidence": [
+        "一个套着白大褂，头发乱如野草的青年男人从房门闪了进来。",
+        "只有我是踏踏实实在做研究的，只有我是真心实意爱老板的。",
+        "大量紫红色的纹络从他皮下浮现出来，遍布其整张面孔，以及裸露在外的脖颈、手掌。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "药师",
+      "aliases": [],
+      "identity": "团队成员",
+      "faction": "",
+      "status": "可能被麻翻",
+      "first_appearance": "第60章 诡异的咒印",
+      "summary": "住在甬道旁的房间，可能已被医生麻翻。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "同团队"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "可能被医生麻翻"
+        }
+      ],
+      "evidence": [
+        "先前自己观察过，确定药师也住在甬道两旁的某一间房内。",
+        "药师已经被‘医生’用同样的手段麻翻了？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "老板",
+      "aliases": [],
+      "identity": "投资方，癌症末期患者",
+      "faction": "",
+      "status": "被提及",
+      "first_appearance": "第60章 诡异的咒印",
+      "summary": "医生为其工作，目的是延长其生命。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "被追随"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我们给老板做事，主要研究方向是为了延长老板的生命，让他在癌症终末期也可以焕发生机，接续寿命……"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

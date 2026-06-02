@@ -1,0 +1,407 @@
+{
+  "chunk_id": "chunk-0427",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与楚道人斗剑，并设计擒拿公孙泯，最终斩杀公孙泯。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "剑术",
+        "飞剑"
+      ],
+      "equipment": [
+        "剑鞘",
+        "飞剑"
+      ],
+      "relationships": [
+        {
+          "target": "楚道人",
+          "type": "斗剑对手"
+        },
+        {
+          "target": "公孙泯",
+          "type": "敌对"
+        },
+        {
+          "target": "万明道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受楚道人斗书，与之斗剑，并安排众修围堵公孙泯，最终斩杀公孙泯。"
+        }
+      ],
+      "evidence": [
+        "张御点头道",
+        "张御目光一落，斗书已是飞了过来",
+        "张御负袖站在天中，那剑光一闪，眨眼归入他的剑鞘之中"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "楚道人",
+      "aliases": [
+        "楚道友",
+        "楚师弟"
+      ],
+      "identity": "道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受公孙泯胁迫与张御斗剑，但实际与张御合作设计公孙泯。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有原则"
+      ],
+      "abilities": [
+        "剑术",
+        "传声"
+      ],
+      "equipment": [
+        "飞剑"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "斗剑对手/合作者"
+        },
+        {
+          "target": "公孙泯",
+          "type": "被胁迫者"
+        },
+        {
+          "target": "林道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御下斗书，斗剑中与张御合作，诱使公孙泯出手。"
+        }
+      ],
+      "evidence": [
+        "楚道人言道",
+        "楚道人这时又自袖中取出一信贴书",
+        "楚道人摇头道"
+      ],
+      "mention_count": 9
+    },
+    {
+      "name": "公孙泯",
+      "aliases": [
+        "公孙道友"
+      ],
+      "identity": "道人",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "潜伏在侧，企图用霹雳雷珠暗算张御，反被设计围杀。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "狠辣"
+      ],
+      "abilities": [],
+      "equipment": [
+        "星袋",
+        "霹雳雷珠",
+        "拂尘"
+      ],
+      "relationships": [
+        {
+          "target": "楚道人",
+          "type": "胁迫者"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "白秀上人",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "潜伏观察，祭出雷珠被收，被围后企图自尽，被张御斩杀。"
+        }
+      ],
+      "evidence": [
+        "公孙泯自楚道人到来后，便潜伏于一旁",
+        "公孙泯一见此景，神色一僵",
+        "公孙泯站立在那里，两眼犹自露出不可置信的神色"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "林道人",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "剑修之一，与于复、关轩等人一同围堵公孙泯。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楚道人",
+          "type": "同门"
+        },
+        {
+          "target": "于复",
+          "type": "同门"
+        },
+        {
+          "target": "关轩",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与于复、关轩围堵公孙泯，并与之对话。"
+        }
+      ],
+      "evidence": [
+        "林道人看了一眼，道",
+        "林道人此时言道",
+        "林道人皱了下眉"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "于复",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "剑修，使用万归鉴收去雷珠。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "万归鉴"
+      ],
+      "equipment": [
+        "万归鉴"
+      ],
+      "relationships": [
+        {
+          "target": "林道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用万归鉴收去公孙泯的雷珠。"
+        }
+      ],
+      "evidence": [
+        "于复这时一伸手，将那道收去雷珠的亮光一召"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "关轩",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "剑修，参与围堵公孙泯。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "林道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林道人、于复一同围堵公孙泯。"
+        }
+      ],
+      "evidence": [
+        "关轩则是毫不客气道",
+        "关轩背后长剑发出一声清亮长鸣"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "万明道人",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的属下，带领众玄修前来支援。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与时悦、温良等玄修出现在天穹，围住公孙泯。"
+        }
+      ],
+      "evidence": [
+        "万明道人、时悦、温良、田江、杏川等玄修一一出现在了天穹上空"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "时悦",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修之一，随万明道人前来支援。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在天穹上空围堵公孙泯。"
+        }
+      ],
+      "evidence": [
+        "万明道人、时悦、温良、田江、杏川等玄修一一出现在了天穹上空"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "温良",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修之一，随万明道人前来支援。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在天穹上空围堵公孙泯。"
+        }
+      ],
+      "evidence": [
+        "万明道人、时悦、温良、田江、杏川等玄修一一出现在了天穹上空"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "田江",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修之一，随万明道人前来支援。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在天穹上空围堵公孙泯。"
+        }
+      ],
+      "evidence": [
+        "万明道人、时悦、温良、田江、杏川等玄修一一出现在了天穹上空"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "杏川",
+      "aliases": [],
+      "identity": "玄修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修之一，随万明道人前来支援。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在天穹上空围堵公孙泯。"
+        }
+      ],
+      "evidence": [
+        "万明道人、时悦、温良、田江、杏川等玄修一一出现在了天穹上空"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白秀上人",
+      "aliases": [],
+      "identity": "上人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "公孙泯的师父，被提及但未出场。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙泯",
+          "type": "师父"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我师父必会来寻诸位讨一个结果",
+        "白秀上人"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

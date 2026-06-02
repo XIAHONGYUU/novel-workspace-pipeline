@@ -1,0 +1,484 @@
+{
+  "chunk_id": "chunk-0110",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张御"
+      ],
+      "identity": "泰阳学宫讲师",
+      "faction": "玄府（守旧派）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "泰阳学宫讲师，击杀瘟疫之神阿尔莫泰，是守旧派的重要人物。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余名扬",
+          "type": "师生"
+        },
+        {
+          "target": "柳光",
+          "type": "同僚"
+        },
+        {
+          "target": "李青禾",
+          "type": "仆从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参加布拍市会，家访学生余名扬，后回学宫见柳光。"
+        }
+      ],
+      "evidence": [
+        "张御走到下方广场的时候，有守候在此的银署役从递过来一封布拍的邀贴",
+        "张御道：“是我，张御。”",
+        "张御自余名扬家中出来后，就回了学宫居所。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "余名扬",
+      "aliases": [],
+      "identity": "张御的学生",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的学生，住在简陋屋巷，曾在坚爪部落行商。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "感激"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师生"
+        },
+        {
+          "target": "中年汉子",
+          "type": "同住"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在家中接待张御家访。"
+        }
+      ],
+      "evidence": [
+        "余名扬带着惊喜的神情出现在门后，他道：“先生？你怎么来了？”",
+        "余名扬道：“很好，先生虽然不在，可是余威犹在，那些蛮人没有敢为难学生的”",
+        "余名扬惋惜道：“可惜大兄方才不在，不然就可以与先生见上一面了。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "柳光",
+      "aliases": [
+        "柳先生"
+      ],
+      "identity": "学宫人员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受迟学监之托来请张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "迟学监",
+          "type": "受命"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "来访张御，传达迟学监的邀请。"
+        }
+      ],
+      "evidence": [
+        "李青禾走了进来，揖礼道：“先生，柳先生来访。”",
+        "柳光正在客室内来回踱着步子，见他出来，马上一拱手，肃容道：“张兄，我知你方回来，不该这时候来打扰，不过有一件重要之事与你有关，所以迟学监一听说你回来，就特意让我来请你走一回。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的仆从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的仆从，负责日常事务。",
+      "appearance": [],
+      "personality": [
+        "恭敬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接张御回学宫，通报柳光来访。"
+        }
+      ],
+      "evidence": [
+        "李青禾见他回来，恭敬一礼，道：“先生，你回来了。”",
+        "李青禾走了进来，揖礼道：“先生，柳先生来访。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "尚姓学令",
+      "aliases": [],
+      "identity": "临治学宫学令",
+      "faction": "临治学宫",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "临治学宫的一位学令，新娶了巨贾之女。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尚姓学令夫人",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这位是临治学宫的一位尚姓学令新娶的夫人，听说是一位巨贾之女"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "尚姓学令夫人",
+      "aliases": [],
+      "identity": "巨贾之女，尚姓学令新娶的夫人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "五十上下，衣着艳丽，被护卫簇拥。",
+      "appearance": [
+        "衣着艳丽"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尚姓学令",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "一名五十上下，衣着艳丽的中年妇人被围在当中"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "阿尔莫泰",
+      "aliases": [],
+      "identity": "神尉军左军候",
+      "faction": "神尉军",
+      "status": "提及（已死）",
+      "first_appearance": "",
+      "summary": "神尉军左军候，被张御杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "迟授",
+          "type": "曾对决"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被张御杀死。"
+        }
+      ],
+      "evidence": [
+        "虽然阿尔莫泰被他杀死了"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "迟授",
+      "aliases": [],
+      "identity": "神尉军军候候选人",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾败给阿尔莫泰，但实际战力不弱，是替代阿尔莫泰的合适人选。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阿尔莫泰",
+          "type": "曾对决"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "比如之前那位败给阿尔莫泰的迟授，就是合适的人选。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "范澜",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与张御讨论过神尉军军候实力的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "讨论对象"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "之前他和范澜讨论过神尉军四大军候的实力"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "庞巩",
+      "aliases": [],
+      "identity": "神尉军右军候",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "神尉军右军候，露面最多但很少动手，实力难以判断。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "右军候庞巩，在人前露面的次数最多，最喜欢与人打交道，出入各种场所的次数最多，可偏偏很少见到此人动手，对此人难以有一个准确判断。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "齐颠",
+      "aliases": [],
+      "identity": "神尉军下军候",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "神尉军下军候，战力强大，常年镇守洪河隘口与异神交战。",
+      "appearance": [],
+      "personality": [
+        "漠不关心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "下军候齐颠，是公认的战力强大之人，不过这个人不参与神尉军的具体事务，对于玄府和神尉军之间的争斗也漠不关心，只对修炼感兴趣，所以常年镇守在洪河隘口，与那些异神及异神祭祀交战，以此磨练自己。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "朱阙",
+      "aliases": [],
+      "identity": "神尉军上军候",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "神尉军上军候，实力不明，传闻已彻底化合神袍，对玄府威胁最大。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "彻底化合身上神袍"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "上军候朱阙，实力不明。但有传闻说，其人已经彻底化合身上神袍，达到了那一层境地，对玄府威胁最大的，也就是这一位了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "姚弘义",
+      "aliases": [],
+      "identity": "治署幕公",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "六十年前主持建立临治学宫等学宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "六十年前",
+          "event": "主持建立一大二小三家学宫。"
+        }
+      ],
+      "evidence": [
+        "在现在治署幕公姚弘义主持下，又另行建立了一大二小三家学宫。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "忘川",
+      "aliases": [],
+      "identity": "学宫幼学先生",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "余名扬幼学时的先生，教导过关于土著的道理。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余名扬",
+          "type": "师生"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "是一个名叫‘忘川’的先生。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "中年汉子",
+      "aliases": [],
+      "identity": "余名扬的同住者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "余名扬的同住者，对张御感到敬畏。",
+      "appearance": [],
+      "personality": [
+        "敬畏"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余名扬",
+          "type": "同住"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在余名扬家中出现，询问张御来访情况。"
+        }
+      ],
+      "evidence": [
+        "中年汉子这时正好走了进来，看了台上的茶杯一眼，道：“刚才有谁来过了么？”",
+        "中年汉子神色微微一变，下意识往外退了几步，往四面看了看，道：“斩杀异神的那一位？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "肖清舒",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及（已故）",
+      "first_appearance": "",
+      "summary": "张御的朋友，已下葬，张御打算去祭拜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已下葬。"
+        }
+      ],
+      "evidence": [
+        "他想起肖清舒这个时候应该下葬了吧"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "迟学监",
+      "aliases": [],
+      "identity": "学宫学监",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "委托柳光请张御过去。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "柳光",
+          "type": "委托"
+        },
+        {
+          "target": "张御",
+          "type": "邀请"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "迟学监一听说你回来，就特意让我来请你走一回。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

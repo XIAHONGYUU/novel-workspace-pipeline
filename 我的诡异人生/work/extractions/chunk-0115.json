@@ -1,0 +1,165 @@
+{
+  "chunk_id": "chunk-0115",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "模拟器使用者，龙山集村民的带领者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，通过模拟器进行模拟，获得天赋升级和咒印，带领村民离开龙山集。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "尸陀鬼之手",
+        "说话的艺术（已升级为唇枪舌剑）",
+        "天蓬肃杀咒印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "云霓裳",
+          "type": "协助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进行模拟后获得紫色天赋唇枪舌剑和丙之咒印天蓬肃杀，随后带领村民通过阴影离开龙山集。"
+        }
+      ],
+      "evidence": [
+        "苏午身处于黑暗里，只能看到半空中浮现的巨大表盘。",
+        "苏午又进行了一次模拟，以确保自己带所有村民，从村东口离开龙山集，不会出现意外。",
+        "苏午看了云霓裳一眼，低沉道：“出发了。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "云霓裳",
+      "aliases": [],
+      "identity": "协助苏午的人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "帮助苏午抵御影诡的追杀，并协助村民转移。",
+      "appearance": [],
+      "personality": [
+        "担忧",
+        "顺从"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绣线"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "协助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在苏午模拟中帮助抵御影诡，现实中协助村民进入阴影。"
+        }
+      ],
+      "evidence": [
+        "云霓裳在旁看着村民们鱼贯走入阴影里，眼神仍忍不住担忧地看向苏午",
+        "云霓裳连忙应声，靠近了苏午。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "影诡",
+      "aliases": [],
+      "identity": "诡异存在",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "在模拟中追杀苏午，但被云霓裳协助击退，状态有些奇怪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "模拟中",
+          "event": "追杀苏午，被云霓裳协助击退。"
+        }
+      ],
+      "evidence": [
+        "因为过度动用尸陀鬼之手的力量，而引来了影诡的追杀",
+        "尽管最后影诡的状态有些奇怪，但它还是被击退了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "戴瓜皮帽的老人",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "出现在云龙观，牵着一位女子，行为诡异。",
+      "appearance": [
+        "戴瓜皮帽"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大家闺秀似的女子",
+          "type": "牵着"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "走进云龙观正殿，影子发生变化后消散。"
+        }
+      ],
+      "evidence": [
+        "戴瓜皮帽的老人牵着大家闺秀似的女子，小小地挪动着步子。走进了道观里。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "大家闺秀似的女子",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被戴瓜皮帽的老人牵着，出现在云龙观。",
+      "appearance": [
+        "大家闺秀似的"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戴瓜皮帽的老人",
+          "type": "被牵着"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与老人一起走进云龙观正殿。"
+        }
+      ],
+      "evidence": [
+        "戴瓜皮帽的老人牵着大家闺秀似的女子，小小地挪动着步子。走进了道观里。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

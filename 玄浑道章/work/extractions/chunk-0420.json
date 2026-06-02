@@ -1,0 +1,213 @@
+{
+  "chunk_id": "chunk-0420",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳军府的玄正，负责调查制院并发现地下隧道和霜洲人藏身处。",
+      "appearance": [
+        "浑身玉雾云光环绕的年轻道人"
+      ],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "心光扩展",
+        "身化虹光",
+        "感应"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "詹校尉",
+          "type": "合作"
+        },
+        {
+          "target": "刘同",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "搜查制院，发现地道，追踪至湖底，抓获霜洲人。"
+        }
+      ],
+      "evidence": [
+        "张御看了眼四下，心光向外扩展出去，霎时将整个制院都是遮住。",
+        "张御能感应到这井道很深，且后方似有着更为广大的空间。",
+        "张御扫了所有人一眼，道：“谁是这里的主事？”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "詹校尉",
+      "aliases": [
+        "詹校尉"
+      ],
+      "identity": "校尉",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳军府的校尉，协助张御搜查制院。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "陪同张御搜查制院，下令搜查工坊。"
+        }
+      ],
+      "evidence": [
+        "詹校尉立刻唤来亲卫，道：“听到了么，到那边工坊里去，给我里里外外再搜查一遍。”",
+        "詹校尉道：“张玄正，不知这些尸身该如何处置？”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "刘同",
+      "aliases": [
+        "刘营管"
+      ],
+      "identity": "持戈营营管",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳军府持戈营营管，驻守在大湖旁，协助张御抓捕霜洲人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "驻守湖边，被张御调集人手抓捕霜洲人。"
+        }
+      ],
+      "evidence": [
+        "那为首之人是一个营管，他却是认得张御的，忙是上来一抱拳，道：“原来是张玄正，持戈营营管刘同见过玄正。”",
+        "刘同肯定道：“绝然未有。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "韦图",
+      "aliases": [
+        "大匠韦图"
+      ],
+      "identity": "大匠",
+      "faction": "霜洲",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "霜洲人大匠，在湖底藏身处被张御抓获，愿意投降。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在湖底藏身处被张御抓获，表示愿意投降。"
+        }
+      ],
+      "evidence": [
+        "过了一会儿，一名老者站了出来，勉强维持着镇定的神色，朝上一拱手，道：“我是大匠韦图，可以代这里之人说话。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "楚功",
+      "aliases": [
+        "楚道友"
+      ],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与公孙泯密谈的修士，其师弟与张御约战失败。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "元神照影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙泯",
+          "type": "论友"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与公孙泯密谈，商议对付张御。"
+        }
+      ],
+      "evidence": [
+        "楚功来至一处无人所在，站定不动，而后身上光芒一闪，元神照影已然飞驰了出去。",
+        "楚功还了一礼，叹道：“道友料准了，我师弟昨日与那位一场约战，只是……他却是战败了，东西看来也是无法取回了。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "公孙泯",
+      "aliases": [
+        "公孙道友"
+      ],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与楚功密谈的修士，主张对付张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "元神照影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楚功",
+          "type": "论友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与楚功密谈，暗示楚功已被监视。"
+        }
+      ],
+      "evidence": [
+        "公孙泯道：“我早便说过，要及早下手为好，只是东西必须拿回，看来我们要另行设法了。”",
+        "公孙泯失笑一下，道：“好歹你我论友，我怎会做这等事情呢？”"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

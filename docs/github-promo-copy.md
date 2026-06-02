@@ -1,53 +1,68 @@
-# GitHub Promotion Copy
+# GitHub 推广文案模板
 
-Use this file as a starting point when you want to present `Novel Workspace Pipeline` outside the repository itself. The goal is to help readers understand that this is not a one-off summary repo, but a reusable workflow for long-novel analysis.
+这份文案是给 `Novel Workspace Pipeline` 用的，目的是让别人一眼看懂这不是普通读后总结仓库，而是一套可复用的小说分析工作流。
 
-## One-Line Intro
+## 一句话介绍
 
-Turn long-novel analysis from one-off chat outputs into a replayable, validator-backed workspace pipeline with an explicit AI-writing loop.
+把长篇小说分析从一次性问答，做成可续跑、可校验、可交接的 workspace pipeline。
 
-## Repository Subtitle
+## 仓库副标题
 
-A layered workflow for long-novel analysis with orchestration, validation, gap reports, and reusable workspace state.
+一个面向长篇小说分析的分层工作区流水线，支持五层分析、状态判断、缺口报告和回归校验。
 
-## Short Description
+## 简短介绍
 
-`Novel Workspace Pipeline` turns each novel into its own workspace instead of producing a single summary that cannot be extended. The workflow moves through five layers: chapter distillation, opening analysis, protagonist knowledge, outline analysis, and highlight-scene extraction. An orchestrator inspects workspace state, recommends the next step, runs layer init, refreshes validators and handoff artifacts, and then hands the scaffold to an AI fill pass that writes the actual analysis.
+我把长篇小说分析整理成了一套可复用的工作区流水线。它不是只生成一份总结，而是把每本小说做成独立 workspace，按章节蒸馏、开篇分析、主角百科、整书大纲、剧情高光五层持续推进，并通过 orchestrator 判断下一步、补状态、跑校验。
 
-## Social Post
+## 社群 / 朋友圈短文案
 
-I open-sourced a project called `Novel Workspace Pipeline`.
+最近把自己做小说分析的方法整理成了一个公开仓库：`Novel Workspace Pipeline`。  
+它不是普通的“读后总结”，而是把每本小说当成一个 workspace，按五层分析持续推进，并且有状态判断、gap report、repair plan 和回归校验。  
+如果你也在做网文拆解、小说研究、AI 辅助内容分析，可能会有参考价值。  
 
-It is not a simple “novel summary” repo. Each novel becomes a structured workspace that can be extended, validated, repaired, and handed off across multiple analysis layers.
+## GitHub / 论坛稍长文案
 
-If you work on web novel breakdowns, AI-assisted literary analysis, or reusable content workflows, this may be useful.
+我公开了一个自己在用的小说分析 workflow：`Novel Workspace Pipeline`。
 
-## Longer GitHub Or Forum Post
+这个项目想解决的不是“怎么快速生成一份总结”，而是“怎么把长篇小说分析做成一个可以反复推进、可以校验、可以交接的工作区系统”。
 
-I published a workflow called `Novel Workspace Pipeline` for turning long-novel analysis into a reusable workspace system.
+核心做法是把每本小说拆成独立 workspace，再按固定五层推进：
 
-The main problem it tries to solve is that most novel analysis either stops at a single summary or collapses into an unstructured pile of notes. This repo takes a different approach: each novel becomes its own workspace, and the workspace moves through a fixed five-layer pipeline:
+- chapter-distillation：逐章蒸馏骨架
+- opening：分析黄金前三章
+- protagonist：建立主角知识主干
+- outline：判断整书结构和冲突升级
+- highlight：提炼最强剧情高光
 
-- `chapter-distillation`
-- `opening`
-- `protagonist`
-- `outline`
-- `highlight`
+此外还有一个 orchestrator 负责判断当前模式、推荐下一层、调用脚本、重跑 validator，并写回状态文件。
 
-On top of that, an orchestrator decides whether a workspace is in `fresh`, `extend-existing`, `repair-existing`, or `validate-only` mode, recommends the next layer, runs init, reruns validators, writes back status plus handoff artifacts, and makes the AI fill step explicit instead of pretending scaffolding equals analysis.
+这个仓库更适合下面几类人：
 
-This repo may be relevant if you care about:
+- 做长篇网文拆解的人
+- 做小说知识整理和结构研究的人
+- 想把 AI 文学分析做成可复用流程的人
+- 对内容工程、知识工程、workspace workflow 感兴趣的人
 
-- long-form novel analysis
-- AI-assisted literary research
-- reusable content workflows
-- knowledge-structured reading systems
-
-Repository:
+仓库地址：
 
 `https://github.com/XIAHONGYUU/novel-workspace-pipeline`
 
-## Suggested Topics
+## 英文简版
+
+I open-sourced a workflow called `Novel Workspace Pipeline`.
+
+Instead of generating one-off novel summaries, it turns each long novel into a structured workspace with layered analysis, validator-backed status checks, gap reports, repair plans, and an orchestrator that recommends the next step.
+
+If you work on web novel analysis, AI-assisted literary research, or reusable content workflows, this repo may be useful.
+
+## 适合发帖时搭配的标题
+
+- 我把长篇小说分析做成了一套可复用的 workspace pipeline
+- 一个不是“读后总结”，而是可续跑小说分析系统的 GitHub 仓库
+- 用五层分析 + orchestrator 管理长篇小说工作区
+- 把网文拆解流程工程化：Novel Workspace Pipeline
+
+## 建议补充的仓库 Topics
 
 - `novel-analysis`
 - `workflow`
@@ -58,9 +73,9 @@ Repository:
 - `text-analysis`
 - `writing-tools`
 
-## Suggested Post Titles
+## 发布时建议一起做的事
 
-- Turning long-novel analysis into a reusable workspace pipeline
-- A GitHub repo for layered novel analysis instead of one-off summaries
-- Managing long-fiction analysis with orchestrated workspaces
-- Structuring web novel breakdowns as a repeatable workflow
+- 在 `README.md` 顶部放一句话价值说明
+- 在首屏展示五层模型，而不是先讲内部细节
+- 发帖时附一张工作区结构图或示例目录截图
+- 选 1 到 2 个代表性样例，展示输入和最终产物长什么样

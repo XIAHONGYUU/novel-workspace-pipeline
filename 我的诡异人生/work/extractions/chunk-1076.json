@@ -1,0 +1,162 @@
+{
+  "chunk_id": "chunk-1076",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与秦横对话，询问真空家乡会事宜，怀疑明尊派立场，赠予秦横盘缠、符咒和丹丸，并传法门。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "秦横",
+          "type": "救助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问秦横关于真空家乡会宝书经卷的参修机会，分析明尊派与红哀会的关系，赠予秦横盘缠、符咒和丹丸，并传火神身法门。"
+        }
+      ],
+      "evidence": [
+        "苏午目光微凝，向秦横问道：“如何能够得到机会，参修、聆听真空家乡会中的宝书、经卷？”",
+        "苏午点了点头，看着说完话后，情绪一时有些消沉的秦横，出声劝道：“你今时既然能大难不死，便是天意使然...”",
+        "苏午又嘱咐了秦横一番，接着便拿一些铜钱阴兵出来，交给秦横作为盘缠，随后又把一些符咒给了秦横防身、日用，最后交给了他一颗丹丸。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "秦横",
+      "aliases": [],
+      "identity": "黄稻会首领",
+      "faction": "黄稻会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "黄稻会首领，被明尊派堂主胡镜星欺骗，率众前往上古镇遭遇红哀会袭击，损失惨重。后得苏午救助，获赠盘缠、符咒和法门。",
+      "appearance": [],
+      "personality": [
+        "愤恨",
+        "消沉",
+        "重情义"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被救助者"
+        },
+        {
+          "target": "胡镜星",
+          "type": "旧友兼欺骗者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向苏午讲述被明尊派堂主胡镜星欺骗的经过，接受苏午的盘缠、符咒和丹丸，并承诺前往郸城汇合。"
+        }
+      ],
+      "evidence": [
+        "秦横面色愤恨，眼眶都微微发红，“那人从前与我私交甚笃...”",
+        "秦横还在旁边不断说着：“近段时间以来，忽然沦丧于红哀会之手的白莲教派支，其实已有不少...”",
+        "秦横低沉地应了一声，眼中隐约流露凶光。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "胡镜星",
+      "aliases": [],
+      "identity": "明尊派堂主",
+      "faction": "明尊派",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "明尊派堂主，与秦横有私交，但设计诱骗黄稻会众前往上古镇，导致其遭遇红哀会袭击。",
+      "appearance": [],
+      "personality": [
+        "背叛"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "秦横",
+          "type": "旧友兼欺骗者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被秦横提及，称其假传消息诱骗黄稻会众。"
+        }
+      ],
+      "evidence": [
+        "正是明尊派的这位堂主，在半个多月以前向我传来消息。",
+        "但这个‘胡镜星’与我乃是多年老友，过命的交情，他邀请我，我一时间就放下了戒心，他却引红哀会对我手下一班兄弟，下如此毒手！"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "袁梅红哀",
+      "aliases": [],
+      "identity": "红哀会成员",
+      "faction": "红哀会",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "红哀会成员，在上古镇袭击黄稻会众，导致其全军覆没。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被秦横提及，称其在上古镇袭击黄稻会众。"
+        }
+      ],
+      "evidence": [
+        "直至他在上古镇碰着了‘袁梅红哀’，方才明白，自家黄稻会的‘栽稻成仙术’，只能用来应付应付小诡..."
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "阴喜脉祖师",
+      "aliases": [],
+      "identity": "疑似阴喜脉祖师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被劫力推送至苏午身畔的红线人形，疑似阴喜脉祖师。",
+      "appearance": [
+        "浑身缠满红线"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午从劫影中提出，红线蓬松，散溢出紫红怨火。"
+        }
+      ],
+      "evidence": [
+        "苏午一手将被劫力推送而来的、疑似是‘阴喜脉祖师’的红线人形提出了自身的劫影。",
+        "没有汹汹劫力的压制，这道横陈在他脚边的人形之上，根根红线纷纷蓬松，发散！",
+        "散乱的红线之下，散溢出一团团阴冷的紫红怨火！"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

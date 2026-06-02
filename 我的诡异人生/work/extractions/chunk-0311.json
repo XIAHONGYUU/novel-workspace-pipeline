@@ -1,0 +1,129 @@
+{
+  "chunk_id": "chunk-0311",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "跟随老道参与过阴仪式的青年，胸口贴有人皮纸，能转译神秘文字。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "能通过人皮纸转译神秘文字"
+      ],
+      "equipment": [
+        "人皮纸",
+        "雷霆都司铁印"
+      ],
+      "relationships": [
+        {
+          "target": "老道",
+          "type": "跟随者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与过阴仪式，按手印、盖铁印，黄纸化为灯笼。"
+        }
+      ],
+      "evidence": [
+        "苏午看到那些文字，双目顿时一阵刺痛。",
+        "他胸口处贴着的那张人皮纸上，亦跟着浮现出一行行汉字。",
+        "苏午立刻取出那枚本是王端公所有，被老道分给自己的‘雷霆都司’铁印，哐地一声盖在那张黄纸上。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "老道",
+      "aliases": [
+        "老道士"
+      ],
+      "identity": "道士",
+      "faction": "上清法坛",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主持过阴仪式的道士，掌握多种法术，能与厉诡沟通。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "强硬"
+      ],
+      "abilities": [
+        "设坛作法",
+        "使用镇坛木、金钱剑、桃木剑",
+        "炼将抬棺背诡过河"
+      ],
+      "equipment": [
+        "镇坛木",
+        "金钱剑",
+        "桃木剑",
+        "帝钟",
+        "褡裢袋"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "引导者"
+        },
+        {
+          "target": "四个马脚",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主持过阴仪式，与厉诡交涉，最终打开阴间路。"
+        }
+      ],
+      "evidence": [
+        "老道放在镇坛木，转而从褡裢袋里取出一道金钱剑。",
+        "老道士看着黄纸上浮现的一列列诡异文字，面上皱纹挤在一起，颌下的胡须都颤抖起来，他霎时厉声喝骂！",
+        "老道有一门炼将抬棺，背诡过河的手法。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "四个马脚",
+      "aliases": [
+        "马脚"
+      ],
+      "identity": "马脚（民间神职人员）",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "参与过阴仪式的四个马脚，负责起僵发僵，后交出傩神面具。",
+      "appearance": [],
+      "personality": [
+        "恐惧",
+        "犹豫"
+      ],
+      "abilities": [],
+      "equipment": [
+        "傩神面具"
+      ],
+      "relationships": [
+        {
+          "target": "老道",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与过阴仪式，按手印，后交出傩神面具。"
+        }
+      ],
+      "evidence": [
+        "几个马脚腿肚子都在打颤！",
+        "较年长的马脚苦着脸道。",
+        "四个马脚闻言犹豫了片刻，叹了口气，把四副面具拿出来，交给了老道。"
+      ],
+      "mention_count": 8
+    }
+  ]
+}

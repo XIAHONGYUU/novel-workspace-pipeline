@@ -1,0 +1,219 @@
+{
+  "chunk_id": "chunk-0262",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "安格列·里奥"
+      ],
+      "identity": "总领队",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "在云蜂袭击中幸存，并救助其他巫师。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有同情心"
+      ],
+      "abilities": [
+        "巫术",
+        "使用恶念弯刀"
+      ],
+      "equipment": [
+        "恶念弯刀",
+        "药水",
+        "药粉"
+      ],
+      "relationships": [
+        {
+          "target": "巴隆",
+          "type": "敌人"
+        },
+        {
+          "target": "黑衣男子",
+          "type": "同伴"
+        },
+        {
+          "target": "希曼",
+          "type": "同伴"
+        },
+        {
+          "target": "茉伊拉",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "云蜂袭击后",
+          "event": "被云蜂压住，后脱困并治疗伤口。"
+        },
+        {
+          "stage": "云蜂袭击后",
+          "event": "救助黑衣男子、希曼和茉伊拉。"
+        },
+        {
+          "stage": "云蜂袭击后",
+          "event": "检查船只情况。"
+        }
+      ],
+      "evidence": [
+        "安格列本想要翻身起来，但却根本没什么气力",
+        "安格列也算是逃过一劫",
+        "安格列连忙从腰囊里摸出一支微黑色的药水试管"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "巴隆",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被云蜂尾针刺穿，冻僵死亡。",
+      "appearance": [
+        "尖尖的耳朵",
+        "瘦长的面孔"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "云蜂袭击中",
+          "event": "被黑色尾针刺穿，冻僵死亡。"
+        }
+      ],
+      "evidence": [
+        "他睁大着双眼，全身都被冻僵成一具白色尸体，肩上被一根黑色尾针狠狠刺穿，钉在甲板上。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "黑衣男子",
+      "aliases": [],
+      "identity": "男巫",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "被云蜂尾针刺中，被安格列所救。",
+      "appearance": [
+        "浑身黑衣"
+      ],
+      "personality": [
+        "现实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "云蜂袭击后",
+          "event": "被安格列从云蜂尸体下救出。"
+        }
+      ],
+      "evidence": [
+        "正是船上那名和他一起夹击巴隆的男巫。",
+        "他右大腿被一根尾针扎穿"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "希曼",
+      "aliases": [],
+      "identity": "女药剂师",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "被云蜂尾针擦伤，被安格列所救。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "药剂学"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "云蜂袭击后",
+          "event": "被安格列用云蜂脓液救治。"
+        }
+      ],
+      "evidence": [
+        "另一人则是希曼。这个女药剂师趴在地上，黑色尾针擦着她的脖子钉在地面上"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "茉伊拉",
+      "aliases": [],
+      "identity": "白袍女巫",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "",
+      "summary": "被云蜂尾针刺中，被安格列所救。",
+      "appearance": [
+        "一头长长的齐腰黑发"
+      ],
+      "personality": [
+        "情绪激动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "云蜂袭击后",
+          "event": "被安格列用云蜂脓液救治。"
+        }
+      ],
+      "evidence": [
+        "另一人是个陌生女巫，一头长长的齐腰黑发，她的左手掌被黑色尾针刺穿钉在地面上",
+        "我是……茉伊拉，很感谢您的解救恩情。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "雷林楠",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "未知",
+      "first_appearance": "",
+      "summary": "在房间休息，未在袭击中出场。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "雷林楠应该还在房间里休息。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

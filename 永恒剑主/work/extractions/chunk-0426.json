@@ -1,0 +1,172 @@
+{
+  "chunk_id": "chunk-0426",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [
+        "林新"
+      ],
+      "identity": "炼丹师、铸剑师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，正在铸造红花剑并尝试开发新火焰杀招。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "好奇",
+        "专注"
+      ],
+      "abilities": [
+        "炼丹",
+        "铸剑",
+        "道意运用"
+      ],
+      "equipment": [
+        "红花剑",
+        "五把剑器",
+        "储物戒指"
+      ],
+      "relationships": [
+        {
+          "target": "火神童子",
+          "type": "支持者"
+        },
+        {
+          "target": "昆季",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在火神宫铸造红花剑，成功召唤三阴罗，随后离开前往梵净山。"
+        }
+      ],
+      "evidence": [
+        "林新眼中闪过一丝失望，拿出一个小本子记录下数据。",
+        "林新缓缓起身，眼中闪过一丝疲惫。",
+        "林新记得当初产生麒麟前，火焰就是出现这样的变化的。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "火神童子",
+      "aliases": [],
+      "identity": "火神宫主人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "支持林新炼丹和铸剑的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "支持者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "火神童子才是越来越看重林新。各种材料地火随便他用，全力支持。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "昆季",
+      "aliases": [
+        "妖皇昆季"
+      ],
+      "identity": "妖皇",
+      "faction": "妖族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "妖族首领，被林新击伤，正在养伤并防备林新报复。",
+      "appearance": [
+        "胸膛上有着一个巨大的空洞"
+      ],
+      "personality": [
+        "恼怒",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌人"
+        },
+        {
+          "target": "宏龟",
+          "type": "受其委托"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在梵净山养伤，命令下属监控周围。"
+        }
+      ],
+      "evidence": [
+        "昆季胸膛上有着一个巨大的空洞，那是被林新一击打穿的伤势",
+        "昆季脸上闪过一丝恼怒。",
+        "他隐隐有种直觉，感觉那林新应该绝不会就此善罢甘休"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "宏龟",
+      "aliases": [
+        "宏龟老儿"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "委托昆季杀死林新的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "昆季",
+          "type": "委托人"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "宏龟老儿要直接消耗我一个人情，请我出手杀死他"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "半透明人影",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与昆季对话的神秘人物。",
+      "appearance": [
+        "半透明"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "昆季",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "一个盘膝坐在边上的半透明人影忽然开口道"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

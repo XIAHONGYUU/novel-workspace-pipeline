@@ -1,0 +1,335 @@
+{
+  "chunk_id": "chunk-0400",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄府玄正，夏士",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "青阳军府的玄正，与一众修士观察玄兵轰击，吟诗抒怀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "站在冲击气浪中观察玄兵威势，吟诗。"
+        }
+      ],
+      "evidence": [
+        "张御与一众修士站在狂猛的冲击气浪之中",
+        "他看着下方那惊天威势，口中不觉吟道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "高冠老者",
+      "aliases": [
+        "相国"
+      ],
+      "identity": "霜洲相国",
+      "faction": "霜洲",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "霜洲的相国，躲在地下堡垒中指挥防御，怀疑内部有内鬼。",
+      "appearance": [
+        "高冠",
+        "金色眸子"
+      ],
+      "personality": [
+        "阴沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在地堡中听取战况，怀疑有内鬼。"
+        }
+      ],
+      "evidence": [
+        "高冠老者早在青阳舰队上升之际就已经躲入了地下堡垒之中",
+        "他面无表情的正坐在榻上，袍袖放在两侧，腰板挺得笔直，只有金色的眸子还始终带着一点锐利的光亮"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "青阳军府将军",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "青阳舰队主舟中的将军，指挥玄兵轰击，怀疑副从游终是内鬼。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "游终",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指挥舰队轰击霜洲地面护垒，下令继续攻击。"
+        }
+      ],
+      "evidence": [
+        "曹度正在向一名军校询问这次轰击后下方的具体情况",
+        "曹度道：“继续，今次携带的玄兵不打光，就不许给我停下。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "游终",
+      "aliases": [
+        "游从副",
+        "游敖"
+      ],
+      "identity": "曹度的从副",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "曹度的副从，被怀疑是内鬼，后被制服并发现是造物人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被派去取秘贴，遭亲卫和军士制服，被放入金属片。"
+        }
+      ],
+      "evidence": [
+        "游终，你代我去取来。",
+        "那个军士忽然伸出去，上来一把将他双手手腕都是握住",
+        "亲卫把游从副下巴一捏，迫使他张开口了嘴，随后又拿出一枚金属片，放置入了其人的舌下"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "中年参事",
+      "aliases": [],
+      "identity": "青阳军府参事",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "与曹度讨论内鬼问题，建议获得玄府支持。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "严肃"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与曹度讨论游终的嫌疑和后续计划。"
+        }
+      ],
+      "evidence": [
+        "中年参事肃容言道：“将军，他的嫌疑是最大，我们不能冒险”",
+        "中年参事谨慎言道：“曹将军看好那位张玄正？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "亲卫",
+      "aliases": [],
+      "identity": "曹度的亲卫",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "执行制服游终的任务，并报告结果。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "制服游终，放置金属片，后报告结果。"
+        }
+      ],
+      "evidence": [
+        "站在他身后的那个亲卫忽然上前一步，一掌切在了他的颈脖之上",
+        "那个亲卫转了回来，他手中拿着一个泛着赤色的金属薄片"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "军士",
+      "aliases": [],
+      "identity": "青阳军府军士",
+      "faction": "青阳军府",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "配合亲卫制服游终的军士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与亲卫一起制服游终。"
+        }
+      ],
+      "evidence": [
+        "那个军士忽然伸出去，上来一把将他双手手腕都是握住",
+        "那个军士上前，一把将他扶住"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "役从",
+      "aliases": [],
+      "identity": "高冠老者的役从",
+      "faction": "霜洲",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "高冠老者的役从，因爆炸声太大未及时回应。",
+      "appearance": [],
+      "personality": [
+        "惶恐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高冠老者",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被高冠老者召唤，解释未听到的原因。"
+        }
+      ],
+      "evidence": [
+        "一个役从换慌张张自外跑了进来，惶恐道：“相国，方才声音太大，小的到现在脑袋还嗡嗡作响”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "亲信侍从",
+      "aliases": [],
+      "identity": "高冠老者的亲信侍从",
+      "faction": "霜洲",
+      "status": "登场",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "向高冠老者报告战况，指出有内鬼。",
+      "appearance": [],
+      "personality": [
+        "严肃"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高冠老者",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "报告东南等出入口被重点轰击，怀疑有内鬼。"
+        }
+      ],
+      "evidence": [
+        "一名亲信侍从走了进来，他上来一拱手，神情严肃道：“相国，东南、东北还有西南等几处出入口遭到了着重轰击”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "武泽",
+      "aliases": [],
+      "identity": "青阳军府人员（推测）",
+      "faction": "青阳军府",
+      "status": "提及",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "张御从他那里了解到玄兵威能受限的原因。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "提供信息"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他从武泽那里了解到，这其实不是技艺达不到，而是由于浊潮的影响。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "贾衣",
+      "aliases": [],
+      "identity": "未知",
+      "faction": "霜洲（推测）",
+      "status": "提及",
+      "first_appearance": "第一百七十一章 内部",
+      "summary": "高冠老者期望其能早点动手，可能是霜洲方面的关键人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高冠老者",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "只能指望‘贾衣’能早点动手了。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

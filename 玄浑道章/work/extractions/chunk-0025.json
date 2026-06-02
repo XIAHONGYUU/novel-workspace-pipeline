@@ -1,0 +1,436 @@
+{
+  "chunk_id": "chunk-0025",
+  "characters": [
+    {
+      "name": "年轻文士",
+      "aliases": [
+        "衙君"
+      ],
+      "identity": "都堂官员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "瑞光城东南大宅院的主座文士，主持士议，对张御感兴趣。",
+      "appearance": [
+        "剑眉飞扬，英气勃发，三旬左右，身着圆领青衫袍，姿容端正，面色严肃"
+      ],
+      "personality": [
+        "严肃",
+        "有威仪",
+        "善于谋划"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "小武",
+          "type": "主仆"
+        },
+        {
+          "target": "张御",
+          "type": "赏识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "在宅院中与众士子商议如何利用神尉军闯入泰阳学宫一事。"
+        }
+      ],
+      "evidence": [
+        "主座上是一名剑眉飞扬，英气勃发，三旬左右的年轻文士，他身着圆领青衫袍，姿容端正，面色严肃，看着极具威仪。",
+        "年轻文士放下帖子，道：“那我们就议一议，该如何利用好此事。”",
+        "年轻文士道：“这样的人才，埋没在玄府中，实在太过可惜了。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "小武",
+      "aliases": [],
+      "identity": "年轻文士的役从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "年轻文士的贴身役从，负责打探消息和安排事务。",
+      "appearance": [],
+      "personality": [
+        "忠诚",
+        "细心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻文士",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "向年轻文士汇报苏匡和张御的信息。"
+        }
+      ],
+      "evidence": [
+        "役从躬身回道：“衙君，这是神尉军里的后起之秀...”",
+        "役从道：“衙君，还有一件事，也是关于那位张君子的。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "苏匡",
+      "aliases": [],
+      "identity": "神尉军后起之秀",
+      "faction": "神尉军",
+      "status": "被擒",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "神尉军成员，擅长窥探隐私和隐匿藏身，闯入泰阳学宫被擒。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "擅长窥探隐私和隐匿藏身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "庞军候",
+          "type": "受器重"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "闯入泰阳学宫被玄府擒获。"
+        }
+      ],
+      "evidence": [
+        "这是神尉军里的后起之秀，极为其人擅长窥探隐私和隐匿藏身，很受庞军候的器重。",
+        "抓捕苏匡的那二位，其中有一个张君子"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张君子",
+        "张师弟"
+      ],
+      "identity": "玄府弟子",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "玄府弟子，曾斩杀夭螈，阻止神尉军阴谋，被年轻文士和项淳看重。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "知晓安山以东土著语言和秘辛",
+        "拥有法器剑"
+      ],
+      "equipment": [
+        "法器剑"
+      ],
+      "relationships": [
+        {
+          "target": "年轻文士",
+          "type": "被赏识"
+        },
+        {
+          "target": "项淳",
+          "type": "同门"
+        },
+        {
+          "target": "范澜",
+          "type": "同门"
+        },
+        {
+          "target": "辛师妹",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "在泰阳学宫杂库阻止神尉军阴谋，擒获苏匡。"
+        }
+      ],
+      "evidence": [
+        "抓捕苏匡的那二位，其中有一个张君子，莫不就是此前斩杀夭螈的那位么？",
+        "张师弟是怎么发现这件事的？",
+        "张师弟说自己在安山之东游历那几年，见过类似的东西"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "项淳",
+      "aliases": [
+        "项主事",
+        "师兄"
+      ],
+      "identity": "玄府主事",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "玄府事务堂主事，主导对神尉军事件的应对，对张御有利用之意。",
+      "appearance": [],
+      "personality": [
+        "深沉",
+        "有谋略"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "范澜",
+          "type": "同门"
+        },
+        {
+          "target": "许英",
+          "type": "同门"
+        },
+        {
+          "target": "张御",
+          "type": "同门"
+        },
+        {
+          "target": "白擎青",
+          "type": "同门"
+        },
+        {
+          "target": "季师侄",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "在事务堂与范澜、许英商议如何处理苏匡及张御之事。"
+        }
+      ],
+      "evidence": [
+        "项淳缓缓点头",
+        "项淳沉声道：“好好看着，别让他死了”",
+        "项淳摆手道：“那也没什么，张师弟是夏子”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "范澜",
+      "aliases": [
+        "范师弟"
+      ],
+      "identity": "玄府弟子",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "玄府弟子，负责调查神尉军事件，向项淳汇报。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "同门"
+        },
+        {
+          "target": "张御",
+          "type": "同门"
+        },
+        {
+          "target": "辛师妹",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "向项淳汇报调查结果，提及张御发现疫病阴谋。"
+        }
+      ],
+      "evidence": [
+        "范澜道：“师兄，已是查清楚了”",
+        "范澜道：“张师弟说自己在安山之东游历那几年，见过类似的东西”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "许英",
+      "aliases": [],
+      "identity": "玄府弟子",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "玄府弟子，与项淳讨论张御的剑器和秀林之策。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "在事务堂与项淳讨论张御的剑器和秀林之策。"
+        }
+      ],
+      "evidence": [
+        "许英已是从偏厅里走了出来，道：“那个张御，他的剑不一般，很可能是件法器。”",
+        "许英似想到了什么，惊讶道：“看师兄的意思，莫非也是想找那个东西么？”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "白擎青",
+      "aliases": [],
+      "identity": "玄府弟子",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "玄府弟子，被选为秀林之策的前台人物之一，进取心和资质较高。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "同门"
+        },
+        {
+          "target": "张御",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "被项淳和许英讨论作为秀林之策的前台人物。"
+        }
+      ],
+      "evidence": [
+        "从进取心和资质来看，那个白擎青应该更高一筹",
+        "白擎青若是出了问题，还需由他顶上去"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "季师侄",
+      "aliases": [],
+      "identity": "玄府弟子",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "玄府真正的俊才，需要白擎青和张御做掩护。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "同门"
+        },
+        {
+          "target": "许英",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "被提及作为需要保护的对象。"
+        }
+      ],
+      "evidence": [
+        "只要能为真正的俊才做好掩护便可。",
+        "等季师侄成长起来，一切都会好转的。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "辛师妹",
+      "aliases": [],
+      "identity": "玄府弟子",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "玄府女弟子，与张御一同阻止神尉军阴谋。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同门"
+        },
+        {
+          "target": "范澜",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "与张御一起阻止神尉军阴谋。"
+        }
+      ],
+      "evidence": [
+        "这次阻止神尉军阴谋的张师弟和辛师妹"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "杨大",
+      "aliases": [],
+      "identity": "力役",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "神尉军安排的棋子，负责在士议期间破坏玄府声望。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "士议期间",
+          "event": "被查实为神尉军棋子。"
+        }
+      ],
+      "evidence": [
+        "那个叫杨大的力役，当就是神尉军安排的棋子了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "庞军候",
+      "aliases": [],
+      "identity": "神尉军军候",
+      "faction": "神尉军",
+      "status": "提及",
+      "first_appearance": "第二十四章 堂下之议",
+      "summary": "神尉军将领，器重苏匡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏匡",
+          "type": "器重"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "很受庞军候的器重"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

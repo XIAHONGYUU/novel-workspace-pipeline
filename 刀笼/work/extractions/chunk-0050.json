@@ -1,0 +1,287 @@
+{
+  "chunk_id": "chunk-0050",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "龙煞骷髅化身，刀客",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与纸人（明空纪）激战，后进入奇异世界与不周对话。",
+      "appearance": [
+        "龙煞骷髅五官喷出烈火",
+        "眼中绿火大亮",
+        "呈透明色"
+      ],
+      "personality": [
+        "冷静",
+        "果断",
+        "警惕"
+      ],
+      "abilities": [
+        "风水演化刀术",
+        "无刀胜有刀",
+        "龙煞化身"
+      ],
+      "equipment": [
+        "荧惑刀",
+        "五根令旗"
+      ],
+      "relationships": [
+        {
+          "target": "虞老道",
+          "type": "同伴"
+        },
+        {
+          "target": "纸人（明空纪）",
+          "type": "敌人"
+        },
+        {
+          "target": "不周",
+          "type": "对话者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与纸人激战，后与不周对话。"
+        }
+      ],
+      "evidence": [
+        "戚笼所化的龙煞骷髅五官喷出烈火，手中荧惑刀更是亮成一团金光",
+        "戚笼眼中绿火大亮，拔刀出鞘",
+        "戚笼恢复了人身，呈透明色"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "虞老道",
+      "aliases": [
+        "虞道人",
+        "老道"
+      ],
+      "identity": "道士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与戚笼一同对抗纸人，认出明空纪，后呼唤监察者。",
+      "appearance": [],
+      "personality": [
+        "胆小",
+        "能苟就苟",
+        "关键时刻决然"
+      ],
+      "abilities": [
+        "法术",
+        "使用龙锏"
+      ],
+      "equipment": [
+        "龙锏"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        },
+        {
+          "target": "纸人（明空纪）",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼联手对抗纸人，龙锏被毁。"
+        }
+      ],
+      "evidence": [
+        "虞老道讪讪一笑",
+        "虞老道率先迎了上去，手中龙锏发出耀眼的光芒",
+        "虞道人也不作声，他仿佛在看一盘棋"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "纸人（明空纪）",
+      "aliases": [
+        "纸人",
+        "窥秘者",
+        "明空纪"
+      ],
+      "identity": "窥秘者，明空纪化身",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与戚笼和虞老道激战，后被监察者惊走，重化作剪纸。",
+      "appearance": [
+        "纸人",
+        "没有五官",
+        "纸掌",
+        "白玉般纤细优雅的手"
+      ],
+      "personality": [
+        "神秘",
+        "强大"
+      ],
+      "abilities": [
+        "一指毁龙锏",
+        "鬼神莫测的手法",
+        "无变化无破绽"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌人"
+        },
+        {
+          "target": "虞老道",
+          "type": "敌人"
+        },
+        {
+          "target": "监察者",
+          "type": "被镇压对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼和虞老道激战，后消失。"
+        }
+      ],
+      "evidence": [
+        "纸人一拳轰出，直接轰毙了蚊三、蝇四",
+        "纸人没有五官，但戚笼感觉对方在笑",
+        "纸人重又化作一张剪纸"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "不周",
+      "aliases": [],
+      "identity": "钟吾古地的外来客",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在奇异世界中与戚笼对话，看好戚笼有承天命的可能。",
+      "appearance": [
+        "身影缓缓浮现，像水一般在天地间荡起层层涟漪"
+      ],
+      "personality": [
+        "神秘",
+        "深不可测"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "对话者"
+        },
+        {
+          "target": "监察者",
+          "type": "被其镇压"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在奇异世界中与戚笼对话。"
+        }
+      ],
+      "evidence": [
+        "一道身影缓缓浮现，像水一般在天地间荡起层层涟漪",
+        "你可以称呼我为，不周",
+        "所以我看好你，你有承天命的可能"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "监察者",
+      "aliases": [],
+      "identity": "镇压一切的存在",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被虞老道呼唤，白光显现后又消失。",
+      "appearance": [
+        "白光"
+      ],
+      "personality": [],
+      "abilities": [
+        "镇压"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "纸人（明空纪）",
+          "type": "镇压对象"
+        },
+        {
+          "target": "不周",
+          "type": "镇压者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被虞老道呼唤，白光显现后又消失。"
+        }
+      ],
+      "evidence": [
+        "忽见东北方向一道白光亮起，那白光是无穷无尽的镇压之势",
+        "顿时知道监察者已然下凡"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "蚊三",
+      "aliases": [],
+      "identity": "都督府来的邪道人",
+      "faction": "都督府",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被纸人一拳轰毙。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被纸人轰毙。"
+        }
+      ],
+      "evidence": [
+        "纸人一拳轰出，直接轰毙了蚊三、蝇四这两位从都督府来的邪道人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "蝇四",
+      "aliases": [],
+      "identity": "都督府来的邪道人",
+      "faction": "都督府",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被纸人一拳轰毙。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被纸人轰毙。"
+        }
+      ],
+      "evidence": [
+        "纸人一拳轰出，直接轰毙了蚊三、蝇四这两位从都督府来的邪道人"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

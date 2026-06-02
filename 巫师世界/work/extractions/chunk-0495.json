@@ -1,0 +1,133 @@
+{
+  "chunk_id": "chunk-0495",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "元能之手成员",
+      "faction": "元能之手",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "实力强大的巫师，与白甲女子有旧怨，在峡谷战斗中击败对方。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "残忍"
+      ],
+      "abilities": [
+        "高速移动",
+        "灼热光环",
+        "幻影能力"
+      ],
+      "equipment": [
+        "石弓",
+        "匕首"
+      ],
+      "relationships": [
+        {
+          "target": "白甲女子",
+          "type": "敌人"
+        },
+        {
+          "target": "维斯",
+          "type": "下属"
+        },
+        {
+          "target": "妖龙殿下",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在峡谷中与白甲女子战斗并击杀对方。"
+        }
+      ],
+      "evidence": [
+        "安格列倒提着石弓，远远望着远处天空落下的红色箭雨。",
+        "安格列平静地注视着前方地面。",
+        "安格列目光渐渐阴沉下来。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "白甲女子",
+      "aliases": [],
+      "identity": "白甲部队首领",
+      "faction": "白甲部队",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "与安格列有旧怨的白甲女子，在峡谷战斗中被安格列击败并杀死。",
+      "appearance": [
+        "身材纤细",
+        "皮肤雪白",
+        "清秀漂亮"
+      ],
+      "personality": [
+        "怨恨",
+        "疯狂",
+        "冲动"
+      ],
+      "abilities": [
+        "概念武装",
+        "箭术",
+        "审判之光"
+      ],
+      "equipment": [
+        "白弓",
+        "黑色匕首",
+        "白色斩刀",
+        "概念武装圆盘"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列战斗，最终被击杀。"
+        }
+      ],
+      "evidence": [
+        "女子同时也看到了飞来的他，双眼顿时微红。",
+        "白甲女子面带疯狂地不断拉弓射箭",
+        "女子脸上不知不觉的流下两行泪水。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "维斯",
+      "aliases": [],
+      "identity": "安格列的下属",
+      "faction": "元能之手",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的下属之一，负责汇报战况。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向安格列汇报收缴情况。"
+        }
+      ],
+      "evidence": [
+        "维斯等三团黑雾一时间都不敢出声。",
+        "维斯的声音缓缓响起。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

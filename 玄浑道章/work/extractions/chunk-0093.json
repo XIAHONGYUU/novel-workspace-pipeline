@@ -1,0 +1,241 @@
+{
+  "chunk_id": "chunk-0093",
+  "characters": [
+    {
+      "name": "林妙笔",
+      "aliases": [],
+      "identity": "瀚墨报馆的笔吏",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第九十一章 拂晓刺杀",
+      "summary": "好赌好酒好吹嘘的笔吏，受肖清舒指使撰写污蔑张御的报稿，后被中年汉子杀害。",
+      "appearance": [],
+      "personality": [
+        "好赌",
+        "好酒",
+        "好吹嘘"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "肖清舒",
+          "type": "受其指使"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "与王薄在醉鹤酒馆饮酒，透露受肖清舒指使污蔑张御，并展示报稿。"
+        },
+        {
+          "stage": "夜晚",
+          "event": "被中年汉子从酒馆带走，推入臭水沟杀害。"
+        }
+      ],
+      "evidence": [
+        "林妙笔从肖宅里走出来，摸了摸衣兜里晃荡的金元，一股去赌两把，顺带喝两杯的念头就冒了出来。",
+        "我告诉你啊，有人要对付他！所以，托我去办。",
+        "中年汉子起指在林妙笔脖子某处按了片刻，然后往水沟里一推。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "王薄",
+      "aliases": [
+        "王少郎"
+      ],
+      "identity": "少年郎，余名扬的朋友",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第九十一章 拂晓刺杀",
+      "summary": "偶遇林妙笔并套取情报，后将报稿交给余名扬报信。",
+      "appearance": [
+        "十六七的少年郎，手中拿着把折扇，神情有些轻佻"
+      ],
+      "personality": [
+        "爱打听小道消息"
+      ],
+      "abilities": [],
+      "equipment": [
+        "折扇"
+      ],
+      "relationships": [
+        {
+          "target": "余名扬",
+          "type": "朋友"
+        },
+        {
+          "target": "林妙笔",
+          "type": "酒友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "在醉鹤酒馆与林妙笔饮酒，套取情报并偷走报稿。"
+        },
+        {
+          "stage": "夜晚",
+          "event": "前往余名扬家中报信，将报稿交给他。"
+        }
+      ],
+      "evidence": [
+        "王薄今天只是出来逛逛夜市，遇到认识的朋友也是高兴。",
+        "王薄能感觉出来他心里藏着事，他可是最爱打听小道消息的人。",
+        "他贴身放好后，就慢悠悠走出雅间，对着店家吩咐了一句别去打扰里面的客人，就往外去。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "余名扬",
+      "aliases": [
+        "名扬"
+      ],
+      "identity": "张御的学生，学宫弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第九十一章 拂晓刺杀",
+      "summary": "王薄的朋友，张御的学生，收到报稿后准备去学宫交给张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王薄",
+          "type": "朋友"
+        },
+        {
+          "target": "张御",
+          "type": "学生"
+        },
+        {
+          "target": "郑瑜",
+          "type": "朋友"
+        },
+        {
+          "target": "段能",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "在家中接待王薄，得知有人要对付老师张御，决定去学宫报信。"
+        }
+      ],
+      "evidence": [
+        "余名扬披衣走了出来，讶道：“王兄，你怎么来了？”",
+        "余名扬一惊，道：“什么？哪个老师？”",
+        "余名扬赶忙接过来，道：“对，这就去学宫一趟，把这个交给先生。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "中年汉子",
+      "aliases": [],
+      "identity": "杀手",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第九十一章 拂晓刺杀",
+      "summary": "偷听王薄与余名扬对话后，杀害林妙笔，并在次日清晨用弩箭射杀肖清舒。",
+      "appearance": [
+        "中年汉子"
+      ],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "攀爬",
+        "弩箭射击"
+      ],
+      "equipment": [
+        "弩弓",
+        "斗笠"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "偷听王薄与余名扬对话，后去酒馆带走林妙笔并杀害。"
+        },
+        {
+          "stage": "次日清晨",
+          "event": "在高楼上用弩箭射杀正在宣讲的肖清舒。"
+        }
+      ],
+      "evidence": [
+        "一个中年汉子在隔壁把两人的对话听得清清楚楚。",
+        "中年汉子起指在林妙笔脖子某处按了片刻，然后往水沟里一推。",
+        "中年汉子神情平静的将背后弩弓拿了下来，用脚踏住顶环，缓缓拉开弩弦。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "肖清舒",
+      "aliases": [],
+      "identity": "司户衙署肖主事的亲弟弟",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第九十一章 拂晓刺杀",
+      "summary": "指使林妙笔污蔑张御，计划在闻祈广场宣讲，被中年汉子射杀。",
+      "appearance": [
+        "二十七八岁的年轻文士，身着直裰，拿着折扇"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "折扇"
+      ],
+      "relationships": [
+        {
+          "target": "林妙笔",
+          "type": "指使者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "次日清晨",
+          "event": "在闻祈广场宣讲时被弩箭射杀。"
+        }
+      ],
+      "evidence": [
+        "肖清舒，肖清舒知道么？他连连拍着案，砰砰直响。",
+        "从里面走出来一个身着直裰，拿着折扇，二十七八岁的年轻文士。",
+        "嗤的一声，脖子上蓦然多出了一根两面对穿的弩箭！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张参治",
+        "张师教"
+      ],
+      "identity": "学宫师教，都堂官吏",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第九十一章 拂晓刺杀",
+      "summary": "被林妙笔和肖清舒计划污蔑的对象，余名扬的老师。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余名扬",
+          "type": "学生"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "张参治，张御啊。就是之前那个斩杀夭螈，又在城门口斩杀神明化身的那个张御。",
+        "有人要对付你老师。",
+        "交给张师教，他肯定知道怎么做。"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

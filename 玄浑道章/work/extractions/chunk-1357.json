@@ -1,0 +1,196 @@
+{
+  "chunk_id": "chunk-1357",
+  "characters": [
+    {
+      "name": "安小郎",
+      "aliases": [
+        "安氏小儿"
+      ],
+      "identity": "东庭工匠，张御弟子",
+      "faction": "东庭",
+      "status": "登场",
+      "first_appearance": "第两百五十八章 内灵拒外侵",
+      "summary": "张御的弟子，一位技艺高超的工匠，打造了观察者“心狐”，并与叔书比试造物技艺。",
+      "appearance": [],
+      "personality": [
+        "心大",
+        "谨慎",
+        "自信"
+      ],
+      "abilities": [
+        "造物技艺"
+      ],
+      "equipment": [
+        "张御给的玉符",
+        "观察者心狐"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        },
+        {
+          "target": "叔书",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "遭遇神人显像，被玉符清光所救。"
+        },
+        {
+          "stage": "夜晚",
+          "event": "打造观察者“心狐”。"
+        },
+        {
+          "stage": "次日",
+          "event": "游览翠湖，遇到叔书挑衅，接受比试。"
+        },
+        {
+          "stage": "三天后",
+          "event": "与叔书比试平局，叔书坦诚相告并愿投靠东庭。"
+        }
+      ],
+      "evidence": [
+        "安小郎把带来的东西整理了下",
+        "他伸手一拿，将张御给的玉符拿了出来",
+        "安小郎满意点头，很好，这个观察者很顺从"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "老师"
+      ],
+      "identity": "清穹道宫修士，安小郎的老师",
+      "faction": "清穹道宫",
+      "status": "提及",
+      "first_appearance": "第两百五十八章 内灵拒外侵",
+      "summary": "安小郎的老师，给予安小郎法符护身，在清穹道宫中关注虚空探寻。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安小郎",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜晚",
+          "event": "察觉安小郎法符被触动，但未干涉。"
+        }
+      ],
+      "evidence": [
+        "清穹道宫之中，张御往下看了一眼",
+        "他察觉到了放在安小郎身上的法符受到了某种触动"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "于大匠",
+      "aliases": [],
+      "identity": "天机总院的大匠",
+      "faction": "玉京天机总院",
+      "status": "提及",
+      "first_appearance": "第两百五十八章 内灵拒外侵",
+      "summary": "天机总院的大匠，安排师匠设计让安小郎展现技艺。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "师匠",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "白天",
+          "event": "在琉璃墙后观察安小郎，安排师匠设计赌斗。"
+        }
+      ],
+      "evidence": [
+        "于大匠站在琉璃墙后，在远处看着他",
+        "于大匠道：‘交给你们了，我只要结果。’"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "师匠",
+      "aliases": [],
+      "identity": "天机总院的师匠",
+      "faction": "玉京天机总院",
+      "status": "提及",
+      "first_appearance": "第两百五十八章 内灵拒外侵",
+      "summary": "于大匠的下属，负责具体安排赌斗事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "于大匠",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "白天",
+          "event": "向于大匠汇报安排。"
+        }
+      ],
+      "evidence": [
+        "身后的师匠回道：‘就是他。’",
+        "师匠回道：‘安排好了’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "叔书",
+      "aliases": [
+        "叔兄"
+      ],
+      "identity": "玉京天机总院的年轻工匠",
+      "faction": "玉京天机总院",
+      "status": "登场",
+      "first_appearance": "第两百五十八章 内灵拒外侵",
+      "summary": "被于大匠安排与安小郎比试的年轻人，后坦诚相告并愿投靠东庭。",
+      "appearance": [],
+      "personality": [
+        "坦诚",
+        "佩服"
+      ],
+      "abilities": [
+        "造物技艺"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安小郎",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "白天",
+          "event": "在露天工坊高谈阔论，贬讽东庭。"
+        },
+        {
+          "stage": "三天后",
+          "event": "与安小郎比试平局，坦诚相告并表达投靠意愿。"
+        }
+      ],
+      "evidence": [
+        "他遇到了一个名叫叔书的年轻人正在高谈阔论",
+        "叔书笑了笑，道：‘因为我以前以为’"
+      ],
+      "mention_count": 8
+    }
+  ]
+}

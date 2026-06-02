@@ -1,0 +1,217 @@
+{
+  "chunk_id": "chunk-0058",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "戚天王",
+        "戚神匠"
+      ],
+      "identity": "赤身党第一天王",
+      "faction": "赤身党",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "赤身党第一天王，正在修炼蛇拳，试图在战争结束前取代薛保侯或李慑。",
+      "appearance": [
+        "皮肤带赤铜色",
+        "双眼平静冷淡，深处有热情和执念"
+      ],
+      "personality": [
+        "冷静",
+        "冷淡",
+        "有执念"
+      ],
+      "abilities": [
+        "龙劲",
+        "蛇劲",
+        "身化须弥山",
+        "一苇渡江"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵勇",
+          "type": "同伴"
+        },
+        {
+          "target": "赵公子",
+          "type": "被赵勇杀死"
+        },
+        {
+          "target": "薛保侯",
+          "type": "潜在对手"
+        },
+        {
+          "target": "李慑",
+          "type": "潜在对手"
+        },
+        {
+          "target": "赵黑",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在江边修炼蛇拳，被群蛇环绕，赵勇杀死赵公子后，三日后在烂泥林中继续修炼。"
+        }
+      ],
+      "evidence": [
+        "这可是赤身党第一天王啊！",
+        "戚笼方一落坐，便就坐出了个颇为奇异的姿势",
+        "戚笼的每一次吞咽，就有一块‘金箔’散去"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "赵勇",
+      "aliases": [
+        "勇哥儿",
+        "拳霸"
+      ],
+      "identity": "拳霸，嗜赌如命",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拳霸，天赋异禀，嗜赌如命，跟随戚笼，杀死了赵公子。",
+      "appearance": [],
+      "personality": [
+        "嗜赌",
+        "勇敢",
+        "冲动"
+      ],
+      "abilities": [
+        "天赋异禀，骨头硬"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        },
+        {
+          "target": "赵公子",
+          "type": "被其杀死"
+        },
+        {
+          "target": "陈天雷",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼一起过江，杀死赵公子，三日后在烂泥林中。"
+        }
+      ],
+      "evidence": [
+        "赵勇瞪大眼珠盯了一会儿",
+        "于是他毫不犹豫的从背后锁住赵公子，在对方惊讶的表情中，扭断了对方的脖子。",
+        "他找了块石头坐了下去，张开手掌，全是血痂"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "赵公子",
+      "aliases": [],
+      "identity": "世家子",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "世家子，装死过江，意图控制戚笼，被赵勇杀死。",
+      "appearance": [
+        "风度翩翩的公子哥姿态"
+      ],
+      "personality": [
+        "狡猾",
+        "贪婪"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵勇",
+          "type": "被其杀死"
+        },
+        {
+          "target": "戚笼",
+          "type": "意图控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "装死过江，找到戚笼和赵勇，被赵勇扭断脖子。"
+        }
+      ],
+      "evidence": [
+        "赵公子虽然狼狈的像个逃兵，但气质不减",
+        "只要想办法把这条大鱼弄到餐桌上",
+        "于是他毫不犹豫的从背后锁住赵公子，在对方惊讶的表情中，扭断了对方的脖子。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陈天雷",
+      "aliases": [
+        "炮天王"
+      ],
+      "identity": "炮天王",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "炮天王，天赋比赵勇还高，拳头比骨头硬。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "拳头比骨头硬"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵勇",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "三天前",
+          "event": "与赵勇交手，击败赵勇。"
+        }
+      ],
+      "evidence": [
+        "他三天前撞上了炮天王陈天雷，那个比自己天赋还要高的怪物"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵黑",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "阴森诡谲的人物，戚笼演化蛇拳至少五成是为了对付他。",
+      "appearance": [
+        "阴森诡谲"
+      ],
+      "personality": [
+        "阴森",
+        "诡谲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "潜在对手"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "赵黑这老货阴森诡谲的身影一闪而过"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

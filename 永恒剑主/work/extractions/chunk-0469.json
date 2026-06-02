@@ -1,0 +1,446 @@
+{
+  "chunk_id": "chunk-0469",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [
+        "林新庄主"
+      ],
+      "identity": "筑基期修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被四大元景老祖包围的中心人物，似乎隐藏着秘密。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "似笑非笑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "花神曦",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "被四大元景老祖包围，成为全场中心。"
+        }
+      ],
+      "evidence": [
+        "林新面容似笑非笑，环顾四周，几乎周围所有气息都集中在他一人身上。",
+        "林新不是只是筑基期修士么？怎么突然变成被四大元景包围的中心人物？"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "太昆真人",
+      "aliases": [
+        "太昆",
+        "太昆道友"
+      ],
+      "identity": "松林剑派掌门",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "松林剑派掌门，被大弟子太素偷袭重创，面临众派逼迫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "太素",
+          "type": "师徒（被背叛）"
+        },
+        {
+          "target": "雨竹仙子",
+          "type": "弟子"
+        },
+        {
+          "target": "独孤霖",
+          "type": "弟子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "被太素偷袭重创，众派逼迫交出铭心真君。"
+        }
+      ],
+      "evidence": [
+        "太素的手狠狠从正面印在太昆胸腹之间。",
+        "太昆跌坐在座椅上，身后弟子纷纷焦急上前，为其服药。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "太素",
+      "aliases": [
+        "太素真人",
+        "卢三喜"
+      ],
+      "identity": "空剑洞卢三喜假扮",
+      "faction": "空剑洞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "假扮太昆真人大弟子太素，偷袭重创太昆。",
+      "appearance": [],
+      "personality": [
+        "阴冷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "太昆真人",
+          "type": "师徒（假扮）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "偷袭太昆真人，暴露真实身份。"
+        }
+      ],
+      "evidence": [
+        "太素的手狠狠从正面印在太昆胸腹之间。",
+        "一把捏住自己面皮，狠狠扯下来。只是短短片刻，便从太素真人变换成另外一个气质完全不同的阴冷道人。",
+        "你是……空剑洞卢三喜！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "花神曦",
+      "aliases": [
+        "花兄"
+      ],
+      "identity": "花家修士",
+      "faction": "花家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与林新有仇，试图在寿宴上揭露林新。",
+      "appearance": [],
+      "personality": [
+        "充满杀意"
+      ],
+      "abilities": [],
+      "equipment": [
+        "刀"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "拔刀指向林新，但发现气氛不对。"
+        }
+      ],
+      "evidence": [
+        "花神曦果然正面色平静的盯着自己，眼底满是杀意。",
+        "花神曦此时却是站起身，缓缓拔刀，眼眸看向林新，满是浓烈的刺骨杀意。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "东斜真人",
+      "aliases": [],
+      "identity": "御风宗修士",
+      "faction": "御风宗",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "牵头逼迫松林剑派交出铭心真君。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "与上阳真主等人一起逼迫太昆真人。"
+        }
+      ],
+      "evidence": [
+        "东斜真人声音低沉道。",
+        "东斜真人大笑起身。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "上阳真主",
+      "aliases": [],
+      "identity": "朱雀圣庭修士",
+      "faction": "朱雀圣庭",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "参与逼迫松林剑派，但似乎有所忌惮。",
+      "appearance": [],
+      "personality": [
+        "闪烁不定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "与东斜真人一起逼迫太昆真人。"
+        }
+      ],
+      "evidence": [
+        "上阳真主也是起身。",
+        "上阳真主眼神移开，却是有些闪烁不定。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "梅花天女",
+      "aliases": [
+        "天女道友"
+      ],
+      "identity": "元景老祖",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "原本站在松林一边，却倒向御风宗一方。",
+      "appearance": [],
+      "personality": [
+        "淡然"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "倒向御风宗，视线落在林新身上。"
+        }
+      ],
+      "evidence": [
+        "梅花天女居然也出声平静道。",
+        "梅花天女面色淡然，却是视线笔直落在另外一个方向上。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "雨竹仙子",
+      "aliases": [],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "太昆真人的弟子，守护在太昆身边。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "太昆真人",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "与独孤霖一起守护太昆。"
+        }
+      ],
+      "evidence": [
+        "雨竹仙子等人围在太昆身边，和着独孤霖一起守住四方。",
+        "雨竹仙子神色微动，低声传音道。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "独孤霖",
+      "aliases": [],
+      "identity": "松林剑派弟子",
+      "faction": "松林剑派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "太昆真人的弟子，守护在太昆身边。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "太昆真人",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "与雨竹仙子一起守护太昆。"
+        }
+      ],
+      "evidence": [
+        "雨竹仙子等人围在太昆身边，和着独孤霖一起守住四方。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "金玉宗赵玉峰",
+      "aliases": [
+        "赵玉峰"
+      ],
+      "identity": "金玉宗修士",
+      "faction": "金玉宗",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "参与逼迫松林剑派。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "朗声要求太昆交出铭心真君。"
+        }
+      ],
+      "evidence": [
+        "金玉宗赵玉峰朗声道。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "铭心真君",
+      "aliases": [],
+      "identity": "松林剑派真君",
+      "faction": "松林剑派",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被指控陷害同道，成为众派逼迫松林剑派的焦点。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "铭心真君大错铸成，陷害同道，使其死于虫母之手",
+        "老实说出铭心真君的下落"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "空剑洞卢三喜",
+      "aliases": [
+        "卢三喜"
+      ],
+      "identity": "空剑洞修士",
+      "faction": "空剑洞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "假扮太素偷袭太昆真人。",
+      "appearance": [],
+      "personality": [
+        "阴冷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "假扮太素偷袭太昆，暴露身份。"
+        }
+      ],
+      "evidence": [
+        "你是……空剑洞卢三喜！",
+        "空剑洞卢三喜冷笑起来。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "陈岳生",
+      "aliases": [],
+      "identity": "宾客",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林新身边的宾客，感觉气氛不对后离开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "与萧叶一起急急忙忙离开林新身边。"
+        }
+      ],
+      "evidence": [
+        "他身边的陈岳生，萧叶等人都是感觉气氛不对劲，赶紧起身急急忙忙离开。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "萧叶",
+      "aliases": [],
+      "identity": "宾客",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林新身边的宾客，感觉气氛不对后离开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴",
+          "event": "与陈岳生一起急急忙忙离开林新身边。"
+        }
+      ],
+      "evidence": [
+        "他身边的陈岳生，萧叶等人都是感觉气氛不对劲，赶紧起身急急忙忙离开。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "池中年轻人",
+      "aliases": [
+        "门主"
+      ],
+      "identity": "某门派门主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在殷墟洞中水池里修炼的神秘人物，似乎与寿宴事件有关。",
+      "appearance": [
+        "身披红光",
+        "头顶浮现三朵虚幻白莲花"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "寿宴期间",
+          "event": "在殷墟洞中修炼，感知到前山爆炸。"
+        }
+      ],
+      "evidence": [
+        "一个身披红光的年轻人影，正缓缓从水池站起身。",
+        "水池中年轻人头顶缓缓浮现三朵虚幻白莲花"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

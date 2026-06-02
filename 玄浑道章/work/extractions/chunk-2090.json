@@ -1,0 +1,274 @@
+{
+  "chunk_id": "chunk-2090",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "清玄上神",
+        "清玄执摄"
+      ],
+      "identity": "人身修士，天夏一方领袖",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九十章 上名非我名",
+      "summary": "天夏人身修士领袖，主导对抗五位执摄的行动，拒绝登上太极之位。",
+      "appearance": [],
+      "personality": [
+        "坚定",
+        "果断",
+        "信任同道"
+      ],
+      "abilities": [
+        "一剑斩杀太极道人",
+        "气意交流"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "太极道人",
+          "type": "斩杀"
+        },
+        {
+          "target": "太初道人",
+          "type": "敌对"
+        },
+        {
+          "target": "太始道人",
+          "type": "敌对"
+        },
+        {
+          "target": "太易道人",
+          "type": "敌对"
+        },
+        {
+          "target": "太素道人",
+          "type": "敌对"
+        },
+        {
+          "target": "真余道人",
+          "type": "同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "斩杀太极道人后，与四位执摄气意交流，拒绝登上太极之位，转而攻击太初道人。"
+        }
+      ],
+      "evidence": [
+        "张御一剑斩杀了太极道人",
+        "清玄执摄，你可愿登此位否？",
+        "今日我辈出手，乃为彰天夏之道，岂可弃己而求上，背道而求名？故此举，我不为也！"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "太极道人",
+      "aliases": [
+        "太极"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "元夏",
+      "status": "已死亡",
+      "first_appearance": "第九十章 上名非我名",
+      "summary": "五位执摄之一，被张御一剑斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被斩杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御斩杀。"
+        }
+      ],
+      "evidence": [
+        "张御一剑斩杀了太极道人"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "太初道人",
+      "aliases": [
+        "太初"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十章 上名非我名",
+      "summary": "五位执摄之一，被真余道人缠住，后遭张御攻击。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "真余道人",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被真余道人缠住，张御前来攻击。"
+        }
+      ],
+      "evidence": [
+        "太初道人与太极道人两人本是一同对付真余道人",
+        "张御气意退了出来，眸中神光一闪，伸手一持剑，却是直奔太初道人而去"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "太始道人",
+      "aliases": [
+        "太始"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十章 上名非我名",
+      "summary": "五位执摄之一，主张剿杀张御等人。",
+      "appearance": [],
+      "personality": [
+        "冷漠",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御气意交流，后主张剿杀。"
+        }
+      ],
+      "evidence": [
+        "太始道人接着言道：道强者胜，道弱者败，这乃是至理",
+        "太始道人毫不犹豫道：自当剿杀之！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "太易道人",
+      "aliases": [
+        "太易"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十章 上名非我名",
+      "summary": "五位执摄之一，参与气意交流。",
+      "appearance": [],
+      "personality": [
+        "沉声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御气意交流。"
+        }
+      ],
+      "evidence": [
+        "太易道人言道：清玄上神推动此番事机之缘由，我等也不多问了",
+        "太易道人沉声道：眼下顾不得这些了"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "太素道人",
+      "aliases": [
+        "太素"
+      ],
+      "identity": "五位执摄之一",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第九十章 上名非我名",
+      "summary": "五位执摄之一，对张御拒绝感到复杂。",
+      "appearance": [],
+      "personality": [
+        "复杂",
+        "叹息"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御气意交流，后叹息。"
+        }
+      ],
+      "evidence": [
+        "太素道人接着道：清玄执摄不用怕失去己我",
+        "太素道人目光最为复杂，不由叹息了一声"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "真余道人",
+      "aliases": [
+        "真余"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第九十章 上名非我名",
+      "summary": "天夏修士，缠住太初道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "太初道人",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "缠住太初道人。"
+        }
+      ],
+      "evidence": [
+        "真余道人不用张御吩咐，此刻也是死死拖住了这位"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

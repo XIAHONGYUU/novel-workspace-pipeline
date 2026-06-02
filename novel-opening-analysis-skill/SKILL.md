@@ -59,7 +59,12 @@ Use this when the user already has a novel workspace and wants an opening-layer 
 Default execution shape:
 
 - read the workspace first
-- detect reusable context such as protagonist card, index, or outline files
+- **开始前必读以下文件（如存在）**：
+  - `<主角名>-最终人物卡.md` → 了解主角身份、关系、能力体系
+  - `<主角名>-词条总索引.md` → 了解主角知识库全貌
+  - `<小说名>-主角锚点与骨架.md` → 了解主角的身份底座和成长引擎
+  - `<小说名>-整书粗阶段划分.md` → 了解全书五阶段结构
+  - `<小说名>-章节蒸馏骨架.md`（如有）→ 逐章校验前三章的事件细节
 - initialize opening-analysis files in the existing workspace
 - write the first-three-chapter analysis file set
 - run validator
@@ -138,7 +143,7 @@ Use when the novel already has a workspace and opening analysis should be added 
 
 Rules:
 
-- treat existing protagonist or outline files as context, not duplication targets
+- **开始前必读（如存在）**：`<主角名>-最终人物卡.md`、`<小说名>-主角锚点与骨架.md`、`<小说名>-整书粗阶段划分.md`
 - new files should stay focused on the opening, not rewrite the whole-book analysis
 
 ### `repair-existing`
@@ -156,9 +161,23 @@ Rules:
 Use the bundled scripts when the task is starting a durable opening-analysis workspace or when you need deterministic completion checks.
 
 - `scripts/init_opening_workspace.py`
-  Use when a new opening-analysis workspace needs starter files, or when an existing novel workspace needs opening-analysis files added in place.
+  **角色**：搭脚手架，不写分析。此脚本只生成文件框架和字段模板——你需要读前三章原文来填充内容。脚本运行后，如果文件里全是占位符，那不是脚本的问题，是你还没执行填充步骤。
+
 - `scripts/validate_opening_outputs.py`
   Use before closing the task when you want a repeatable check of file coverage and content coverage. The validator rejects placeholders and writes a persistent markdown report back into the workspace by default.
+
+### Validator 关键词速查表
+
+Validator 通过 `has_keywords()` 检查每个文件是否包含特定关键词。请在填充内容时确保覆盖以下关键词（内容上覆盖即可，不需要逐字照搬，但关键词对应的概念必须有）：
+
+| 文件 | 需覆盖的关键词（minimum ≥4） | min_chars |
+|---|---|---|
+| `<小说名>-黄金前三章总判断.md` | 开篇钩子、主角亮相、冲突、结构、继续阅读 | 120 |
+| `<小说名>-第一章拆解.md` | 本章在开篇结构中的作用、钩子、主角、信息释放、结尾拉力 | 120 |
+| `<小说名>-第二章拆解.md` | 本章在开篇结构中的作用、钩子、主角、信息释放、结尾拉力 | 120 |
+| `<小说名>-第三章拆解.md` | 本章在开篇结构中的作用、钩子、主角、信息释放、结尾拉力 | 120 |
+| `<小说名>-开篇钩子与读者承诺.md` | 立即钩子、题材承诺、主角承诺、情绪、结尾拉力 | 120 |
+| `<小说名>-开篇问题与修改建议.md` | 最强、最弱、分章问题、第一优先修改项、轻修建议 | 120 |
 
 ## Common Output Standard
 
@@ -201,6 +220,24 @@ Must include:
 Must not be:
 
 - a plot recap only
+
+**质量标准（Quality Requirements）：**
+
+**禁止的泛化话术：**
+- ❌ "主角在本章中的表现基本合格" → 没说为什么合格
+- ❌ "冲突在此启动，但力度不够" → 没说哪里不够、怎么改
+- ❌ "信息释放节奏尚可" → 没有具体判断依据
+- ❌ "结尾拉力一般" → 没有说明拉力是什么、为什么弱
+
+**正确的分析写法：**
+- ✅ 每次判断必须有**具体章节证据**（引述原文片段或精确描述场景）
+- ✅ 修改建议必须包含**可执行方案**（具体章节目标、具体改写方向、改到什么程度算达标）
+- ✅ "第一优先修改项"必须是**单一明确的**（不能列 3-5 条都叫"最优先"）
+
+**两轮精炼：**
+1. 第一轮：生成三章拆解初稿
+2. 第二轮：逐章自检——每个判断是否有原文证据？修改建议是否可执行？钩子判断是否具体到"读者会想知道什么"？
+3. 重写不合格部分后再提交 validator
 
 ### `<小说名>-第一章拆解.md` / `第二章拆解.md` / `第三章拆解.md`
 
@@ -273,7 +310,7 @@ If an existing workspace already exists and the goal is to add opening analysis 
 
 If the source is `.txt` or messy plain text, use local conversion tools before analysis:
 
-- `<repo-root>/text2markdown`
+- `/home/zuoky/project/text2markdown`
 
 Do not silently accept undecodable text.
 

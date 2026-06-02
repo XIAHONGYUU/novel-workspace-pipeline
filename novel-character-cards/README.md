@@ -27,16 +27,16 @@ novel-character-cards/
 
 ```bash
 PYTHONPATH=src python3 -m novel_character_cards.cli pipeline \
-  ./example.txt \
-  --workdir ./demo-run
+  /home/zuoky/project/巫师世界/WUSHISHIJIE.txt \
+  --workdir /home/zuoky/project/巫师世界/novel-run
 ```
 
 Run a small sample first:
 
 ```bash
 PYTHONPATH=src python3 -m novel_character_cards.cli pipeline \
-  ./example.txt \
-  --workdir ./demo-run \
+  /home/zuoky/project/巫师世界/WUSHISHIJIE.txt \
+  --workdir /home/zuoky/project/novel-run-sample \
   --limit-chunks 5
 ```
 
@@ -44,8 +44,8 @@ Use the AI extractor when `OPENAI_API_KEY` is available:
 
 ```bash
 PYTHONPATH=src OPENAI_API_KEY=... python3 -m novel_character_cards.cli pipeline \
-  ./example.txt \
-  --workdir ./demo-run-ai \
+  /home/zuoky/project/巫师世界/WUSHISHIJIE.txt \
+  --workdir /home/zuoky/project/novel-run-ai \
   --extractor openai \
   --model gpt-5 \
   --limit-chunks 5

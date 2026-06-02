@@ -1,0 +1,65 @@
+{
+  "chunk_id": "chunk-0189",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三章",
+      "summary": "正在阅读修行记载的修士，推测记载为颜彰的修行经历。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "颜彰",
+          "type": "推测其修行经历"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阅读意识中的修行记载，思考如何迈入阐真之章。"
+        }
+      ],
+      "evidence": [
+        "张御猜测，这很可能就是颜彰自己的修行经历",
+        "张御看下来，认为这很可能才是这缕意识真正想要给后来人看的东西"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "颜彰",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第三章",
+      "summary": "修行记载的主人，曾塑造四个神异器官并进入阐真之章。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "其修行经历被张御推测"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "塑造四个神异器官，成功进入阐真之章。"
+        }
+      ],
+      "evidence": [
+        "张御猜测，这很可能就是颜彰自己的修行经历",
+        "其人所用的修行章法及章印是完全契合自身的"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

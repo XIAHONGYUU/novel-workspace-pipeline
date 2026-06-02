@@ -1,0 +1,251 @@
+{
+  "chunk_id": "chunk-0750",
+  "characters": [
+    {
+      "name": "菩提僧",
+      "aliases": [
+        "小和尚",
+        "小僧"
+      ],
+      "identity": "东华山弟子，鬼庙主持",
+      "faction": "东华山",
+      "status": "登场",
+      "first_appearance": "第九十八章 六道梵印",
+      "summary": "一个精通佛理的和尚，被勾上生死谱后进入鬼庙，后跟随冥圣女学习六道梵印。",
+      "appearance": [
+        "俊俏",
+        "精瘦",
+        "镀金色上衣（金身）",
+        "胸口有裂痕"
+      ],
+      "personality": [
+        "冷静",
+        "从容",
+        "坚韧"
+      ],
+      "abilities": [
+        "金刚印",
+        "如来印",
+        "阿修罗印",
+        "六道梵印"
+      ],
+      "equipment": [
+        "上古菩提木"
+      ],
+      "relationships": [
+        {
+          "target": "百灵子",
+          "type": "被交易"
+        },
+        {
+          "target": "红莲僧",
+          "type": "同类"
+        },
+        {
+          "target": "幽圣女",
+          "type": "被拜访"
+        },
+        {
+          "target": "冥圣女",
+          "type": "教导与被教导"
+        },
+        {
+          "target": "五殿之主",
+          "type": "有过一面之缘"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "被勾上生死谱后",
+          "event": "被白无常带入鬼庙，成为鬼庙主持"
+        },
+        {
+          "stage": "七日七夜",
+          "event": "闭目修行，拒绝幽圣女拜访"
+        },
+        {
+          "stage": "七日后",
+          "event": "跟随冥圣女前往生死之间"
+        },
+        {
+          "stage": "十日内",
+          "event": "被冥圣女以实战教导六道梵印，多次被击倒"
+        }
+      ],
+      "evidence": [
+        "菩提僧被勾上生死谱之后，就被一个白无常带入了一座鬼庙之中",
+        "菩提僧坐定莲台，一手捏金刚印，一手捏如来印",
+        "菩提僧被揍的很惨，整整十日，都在这位冥圣女的攻击之下痛不欲生"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "冥圣女",
+      "aliases": [
+        "冥神女"
+      ],
+      "identity": "五官府的圣女",
+      "faction": "五官府",
+      "status": "登场",
+      "first_appearance": "第九十八章 六道梵印",
+      "summary": "五官府的圣女，负责传授菩提僧六道梵印，实力强大，性格尖酸刻薄。",
+      "appearance": [
+        "妙目流转"
+      ],
+      "personality": [
+        "尖酸刻薄",
+        "不怀好意"
+      ],
+      "abilities": [
+        "鬼道神通",
+        "六道梵印"
+      ],
+      "equipment": [
+        "生死簿（其中一本）"
+      ],
+      "relationships": [
+        {
+          "target": "菩提僧",
+          "type": "教导与被教导"
+        },
+        {
+          "target": "五殿之主",
+          "type": "师傅"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "七日后",
+          "event": "拜访菩提僧并带其前往生死之间"
+        },
+        {
+          "stage": "十日内",
+          "event": "以实战方式教导菩提僧六道梵印"
+        }
+      ],
+      "evidence": [
+        "冥圣女看着对方俊俏的模样，妙目流转，觉的很是有趣",
+        "冥圣女冷哼一声，道：也不瞒你，这位便是上一任五官府的府主，也是我的师傅",
+        "冥圣女毫不留手，黑光再现"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "幽圣女",
+      "aliases": [],
+      "identity": "圣女（具体不明）",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第九十八章 六道梵印",
+      "summary": "一位圣女，曾拜访菩提僧但被拒。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "生死谱（其中一本）"
+      ],
+      "relationships": [
+        {
+          "target": "菩提僧",
+          "type": "拜访被拒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "菩提僧闭目七日期间",
+          "event": "前来拜访菩提僧，被挡出"
+        }
+      ],
+      "evidence": [
+        "期间幽圣女前来拜访，被菩提僧让人挡了出去"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "五殿之主",
+      "aliases": [],
+      "identity": "上一任五官府府主",
+      "faction": "五官府（前任）",
+      "status": "提及",
+      "first_appearance": "第九十八章 六道梵印",
+      "summary": "冥圣女的师傅，因龌龊事反出门外，曾在钟吾界与菩提僧有一面之缘。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "阎罗法门"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "冥圣女",
+          "type": "师傅"
+        },
+        {
+          "target": "菩提僧",
+          "type": "有过一面之缘"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在钟吾界与菩提僧相遇"
+        }
+      ],
+      "evidence": [
+        "这一位施展的，似乎也是阎罗法门",
+        "这位便是上一任五官府的府主，也是我的师傅，后来因为一些龌龊事，反出门外"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "百灵子",
+      "aliases": [
+        "老鬼"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第九十八章 六道梵印",
+      "summary": "菩提僧怀疑其拿自己做了交易。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "菩提僧",
+          "type": "被怀疑交易"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "百灵子这老鬼绝对拿我做了交易"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "红莲僧",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第九十八章 六道梵印",
+      "summary": "曾从孙姑神手上逃走，菩提僧以之为榜样。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "菩提僧",
+          "type": "被提及作为榜样"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "当年红莲僧能从孙姑神手上逃走，贫僧一定也可以"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

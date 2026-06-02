@@ -1,0 +1,238 @@
+{
+  "chunk_id": "chunk-0112",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "沉默寡言、清秀周正的驭诡者，行事果断狠辣，利用诡狱锁链拖拽神像，并收服沈愿愿为伥尸。",
+      "appearance": [
+        "清秀周正"
+      ],
+      "personality": [
+        "沉默寡言",
+        "冷静",
+        "果断",
+        "狠辣",
+        "疯子"
+      ],
+      "abilities": [
+        "驭诡",
+        "观想解龙环铭文",
+        "使用鬼手（尸陀鬼之手）",
+        "暴食之口"
+      ],
+      "equipment": [
+        "诡狱锁链",
+        "心诡纸页",
+        "木盒",
+        "背包"
+      ],
+      "relationships": [
+        {
+          "target": "沈愿愿",
+          "type": "控制者"
+        },
+        {
+          "target": "肖锦荣",
+          "type": "杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抓住诡狱锁链，拖拽元始天尊神像，迫使沈愿愿在心诡纸页上按手印，将其转化为伥尸。"
+        }
+      ],
+      "evidence": [
+        "苏午伸出手臂，同样的，一把抓住了刚从井口脱离的诡狱锁链！",
+        "他把肖锦荣丢到井里，就是为了‘杀鸡给猴看’！",
+        "苏午将心诡纸页对着僵立在原地的‘沈愿愿’，她就化作一股血流冲入纸页中，消失无踪。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "沈愿愿",
+      "aliases": [],
+      "identity": "驭诡者（原），后转化为伥尸",
+      "faction": "",
+      "status": "转化为伥尸",
+      "first_appearance": "",
+      "summary": "原为驭诡者，被苏午胁迫在心诡纸页上按手印，转化为伥尸，其体内的血婴被心诡吞噬。",
+      "appearance": [
+        "干瘪",
+        "肤色惨白",
+        "眼神呆滞"
+      ],
+      "personality": [
+        "恐惧",
+        "求生欲强"
+      ],
+      "abilities": [
+        "驭诡（原）",
+        "阴影之蟒（原）"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被控制"
+        },
+        {
+          "target": "肖锦荣",
+          "type": "同被苏午控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午胁迫按手印，转化为伥尸，血婴被心诡吞噬。"
+        }
+      ],
+      "evidence": [
+        "沈愿愿看到苏午一把抓住诡狱延伸出的锁链，反应简直比看到肖锦荣惨死还激烈！",
+        "她眼神瑟缩着，手臂颤抖着，在苏午的注视下，于暗红纸张上暗下了手印",
+        "她的躯体内涌出大量的尸水，散发着强烈腐败味道的尸水浇灌进了心诡纸页当中！"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "肖锦荣",
+      "aliases": [],
+      "identity": "驭诡者（已死）",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被苏午丢入深井中杀害，作为杀鸡儆猴的牺牲品。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午丢入井中惨死。"
+        }
+      ],
+      "evidence": [
+        "肖锦荣惨死",
+        "他把肖锦荣丢到井里，就是为了‘杀鸡给猴看’！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "血婴",
+      "aliases": [],
+      "identity": "伥鬼",
+      "faction": "",
+      "status": "被心诡吞噬",
+      "first_appearance": "",
+      "summary": "沈愿愿体内的血婴，被心诡纸页中的血河诡韵拖拽吞噬。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沈愿愿",
+          "type": "寄生于其体内"
+        },
+        {
+          "target": "心诡",
+          "type": "被吞噬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被心诡纸页吞噬，发出惨叫声。"
+        }
+      ],
+      "evidence": [
+        "她腹部裂开，被她身体容纳的那只血婴则被血河诡韵拴缚着，拖进了心诡纸页当中。",
+        "其中不时传出婴儿咿呀咿呀的惨叫声"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "心诡",
+      "aliases": [],
+      "identity": "诡",
+      "faction": "",
+      "status": "活跃",
+      "first_appearance": "",
+      "summary": "寄宿于暗红纸页中的诡，要求苏午为其带来五个伥尸，会给予奖赏但会导致伥尸化。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "转化伥尸",
+        "诡韵灌输"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "契约者"
+        },
+        {
+          "target": "沈愿愿",
+          "type": "转化为伥尸"
+        },
+        {
+          "target": "血婴",
+          "type": "吞噬"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受沈愿愿和血婴作为伥尸，纸页数字变为3。"
+        }
+      ],
+      "evidence": [
+        "心诡要求苏午为它带来五个伥尸",
+        "纸页上，一行行蛇虫文字的最末尾，显出一个淡白色的数字‘3’。",
+        "其上忽然涌出一股诡韵集聚的血流，向着他的鼻孔灌输而来！"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "元始天尊",
+      "aliases": [],
+      "identity": "神像",
+      "faction": "",
+      "status": "被拖拽",
+      "first_appearance": "",
+      "summary": "道观中的神像，被苏午用诡狱锁链拖拽出正殿，用于焚烧诡韵。",
+      "appearance": [
+        "金红火光"
+      ],
+      "personality": [],
+      "abilities": [
+        "激发火光"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午用锁链拖拽出正殿，沿路焚烧诡韵。"
+        }
+      ],
+      "evidence": [
+        "元始天尊神像不断激发着熊熊火光",
+        "苏午用锁链拽着神像，将之拽到了老槐树下的井口旁。"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

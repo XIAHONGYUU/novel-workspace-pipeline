@@ -1,0 +1,216 @@
+{
+  "chunk_id": "chunk-1251",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "道友"
+      ],
+      "identity": "修道人，与熹王合作",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与熹王合作，负责处理阳都战事，并审问范道人等三人。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "深思熟虑"
+      ],
+      "abilities": [
+        "阵机操控",
+        "分身术"
+      ],
+      "equipment": [
+        "移方圭板"
+      ],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "合作"
+        },
+        {
+          "target": "范道人",
+          "type": "审问者"
+        },
+        {
+          "target": "包道人",
+          "type": "审问者"
+        },
+        {
+          "target": "另一名道人",
+          "type": "审问者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在阳都阵中审问范道人三人，后前往光都布置阵法等待六派。"
+        }
+      ],
+      "evidence": [
+        "张御心中已有决定，阳都这里之事可以暂且不管",
+        "张御看着他们道",
+        "张御点了点头，道"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "范道人",
+      "aliases": [
+        "范道人"
+      ],
+      "identity": "常生派长老",
+      "faction": "六派联盟",
+      "status": "被囚禁",
+      "first_appearance": "",
+      "summary": "被张御擒获并囚禁在阵中，接受审问。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "敬畏"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被审问"
+        },
+        {
+          "target": "包道人",
+          "type": "同门"
+        },
+        {
+          "target": "另一名道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御审问，回答关于昊族和修道人的问题。"
+        }
+      ],
+      "evidence": [
+        "范道人吸了口气，执有一礼，道",
+        "范道人正色道",
+        "范道人迟疑了下，才道"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "包道人",
+      "aliases": [
+        "包道长"
+      ],
+      "identity": "常生派长老，擅长推算",
+      "faction": "六派联盟",
+      "status": "被囚禁",
+      "first_appearance": "",
+      "summary": "常生派长老，以推算闻名，认为道机变化有利于修道人。",
+      "appearance": [],
+      "personality": [
+        "自信",
+        "善于辩解"
+      ],
+      "abilities": [
+        "推算"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被审问"
+        },
+        {
+          "target": "范道人",
+          "type": "同门"
+        },
+        {
+          "target": "另一名道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御解释道机变化和修道人优势。"
+        }
+      ],
+      "evidence": [
+        "包道人这时叹道",
+        "包道人正容道",
+        "包道人又转向张御，道"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "另一名道人",
+      "aliases": [],
+      "identity": "六派联盟长老",
+      "faction": "六派联盟",
+      "status": "被囚禁",
+      "first_appearance": "",
+      "summary": "与范道人、包道人一同被囚禁，接受张御审问。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被审问"
+        },
+        {
+          "target": "范道人",
+          "type": "同门"
+        },
+        {
+          "target": "包道人",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回答张御关于上层功果的问题。"
+        }
+      ],
+      "evidence": [
+        "另一名道人苦笑道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "熹王",
+      "aliases": [],
+      "identity": "昊族势力首领",
+      "faction": "昊族",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与张御合作，负责攻打光都，提供通行玉符和印信。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "安排飞舟送张御回光都。"
+        }
+      ],
+      "evidence": [
+        "熹王能占下中域",
+        "有着熹王给予的通行玉符",
+        "利用熹王给予的印信"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

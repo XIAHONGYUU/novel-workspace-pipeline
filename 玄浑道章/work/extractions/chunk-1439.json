@@ -1,0 +1,299 @@
+{
+  "chunk_id": "chunk-1439",
+  "characters": [
+    {
+      "name": "年轻道人",
+      "aliases": [
+        "元夏正使"
+      ],
+      "identity": "元夏使者",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第十七章 递传未识真",
+      "summary": "元夏派来的年轻道人，身着金色道衣，头戴翘冠，面容俊美但缺乏自然感，态度随意，是元夏使团的主事者之一。",
+      "appearance": [
+        "身着金色道衣",
+        "头戴翘冠",
+        "面容俊美，五官精致，但有一种虚假的不真实感"
+      ],
+      "personality": [
+        "态度随意",
+        "傲慢"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曲道人",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘坐巨舟抵达天夏虚空，与曲道人讨论天夏阵势，并召见妘蕞和烛午江。"
+        }
+      ],
+      "evidence": [
+        "在舟中主位之上，坐着一名身着金色道衣，头戴翘冠的年轻道人",
+        "年轻道人比起他来，却是态度随意多了",
+        "年轻道人道：“哦？我还以为是天夏知我元夏将至，出于畏惧，所以才立起了一道阵势以作屏护。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "曲道人",
+      "aliases": [
+        "曲焕"
+      ],
+      "identity": "元夏使者，道行极高",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第十七章 递传未识真",
+      "summary": "元夏使团中的另一位道人，眸光深沉，行事谨慎，对天夏情况持怀疑态度。",
+      "appearance": [],
+      "personality": [
+        "深沉",
+        "谨慎",
+        "敏锐"
+      ],
+      "abilities": [
+        "道行极高"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻道人",
+          "type": "同行者"
+        },
+        {
+          "target": "妘蕞",
+          "type": "审问者"
+        },
+        {
+          "target": "烛午江",
+          "type": "审问者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与年轻道人一同抵达，审问妘蕞和烛午江，并察觉二人有异。"
+        }
+      ],
+      "evidence": [
+        "而那名曲道人则是坐在另一边，眸光深沉，不知道在想些什么。",
+        "曲道人这时往虚空深处望了几眼，感觉这里有一股邪秽之气侵扰",
+        "曲道人看了看他们两个，冷然道：“妘蕞、烛午江，你二人可知罪么？”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "妘蕞",
+      "aliases": [],
+      "identity": "元夏派往天夏的使者，后投靠天夏",
+      "faction": "天夏（实际）",
+      "status": "登场",
+      "first_appearance": "第十七章 递传未识真",
+      "summary": "原为元夏使者，后受天夏拉拢，与烛午江一同为天夏传递假情报。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "忠诚于天夏"
+      ],
+      "abilities": [],
+      "equipment": [
+        "风道人给予的符箓"
+      ],
+      "relationships": [
+        {
+          "target": "烛午江",
+          "type": "同伴"
+        },
+        {
+          "target": "风道人",
+          "type": "天夏联络人"
+        },
+        {
+          "target": "张御",
+          "type": "天夏真人"
+        },
+        {
+          "target": "年轻道人",
+          "type": "元夏上级"
+        },
+        {
+          "target": "曲道人",
+          "type": "元夏上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与烛午江一同被元夏使者召见，谎报天夏情况，后返回向张御和风道人汇报。"
+        }
+      ],
+      "evidence": [
+        "烛午江、妘蕞二人接到传报，倒未料想后方使团居然来得这般快",
+        "妘蕞抬头道：“回禀曲上真，根据我们探查，天夏这数百年四处剿灭域内势力...”",
+        "妘蕞、烛午江二人道了一声是，躬身一礼，就弯腰倒退着出了飞舟。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "烛午江",
+      "aliases": [],
+      "identity": "元夏派往天夏的使者，后投靠天夏",
+      "faction": "天夏（实际）",
+      "status": "登场",
+      "first_appearance": "第十七章 递传未识真",
+      "summary": "原为元夏使者，后受天夏拉拢，与妘蕞一同为天夏传递假情报。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "忠诚于天夏"
+      ],
+      "abilities": [],
+      "equipment": [
+        "风道人给予的符箓"
+      ],
+      "relationships": [
+        {
+          "target": "妘蕞",
+          "type": "同伴"
+        },
+        {
+          "target": "风道人",
+          "type": "天夏联络人"
+        },
+        {
+          "target": "张御",
+          "type": "天夏真人"
+        },
+        {
+          "target": "年轻道人",
+          "type": "元夏上级"
+        },
+        {
+          "target": "曲道人",
+          "type": "元夏上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与妘蕞一同被元夏使者召见，谎报天夏情况，后返回向张御和风道人汇报。"
+        }
+      ],
+      "evidence": [
+        "烛午江、妘蕞二人接到传报，倒未料想后方使团居然来得这般快",
+        "烛午江也道：“是的，天夏暴虐，不得人心...”",
+        "妘蕞、烛午江二人道了一声是，躬身一礼，就弯腰倒退着出了飞舟。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十七章 递传未识真",
+      "summary": "天夏廷执，负责与元夏使者交涉，给予妘蕞和烛午江护身符箓。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有谋略"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "妘蕞",
+          "type": "天夏联络人"
+        },
+        {
+          "target": "烛午江",
+          "type": "天夏联络人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提前得知元夏到来，给予妘蕞和烛午江符箓，后与武廷执一同前往元夏飞舟。"
+        }
+      ],
+      "evidence": [
+        "风道人方才提前从张御那里得知了元夏到来，已然有了准备",
+        "他朝两人各是递过去一张符箓",
+        "到了第三日，武廷执和风道人二人从上层穿渡而下，往元夏飞舟而来。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "天夏真人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十七章 递传未识真",
+      "summary": "天夏真人，与风道人一同处理元夏使团事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风道人一同在法坛等待妘蕞和烛午江返回，并安排后续会见。"
+        }
+      ],
+      "evidence": [
+        "见张御、风道人正在此等着他们",
+        "张御看了眼那艘飞舟，道：“时日和会见之人玄廷会有所安排”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十七章 递传未识真",
+      "summary": "天夏廷执，与风道人一同前往元夏飞舟谈判。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风道人一同前往元夏飞舟。"
+        }
+      ],
+      "evidence": [
+        "到了第三日，武廷执和风道人二人从上层穿渡而下，往元夏飞舟而来。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

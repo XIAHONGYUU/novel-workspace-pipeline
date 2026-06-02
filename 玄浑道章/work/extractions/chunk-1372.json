@@ -1,0 +1,197 @@
+{
+  "chunk_id": "chunk-1372",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，与五位执摄及首执对话，了解天夏与元夏对抗的局势，并同意将所辟道化世域化为下层。",
+      "appearance": [],
+      "personality": [
+        "深思",
+        "郑重"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "荀季",
+          "type": "老师"
+        },
+        {
+          "target": "首执",
+          "type": "同僚"
+        },
+        {
+          "target": "五位执摄",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与五位执摄对话后，又与首执会面，得知首执将卸任并渡去上层。"
+        }
+      ],
+      "evidence": [
+        "张御有些意外，暗道：“荀师原来去了那里？”",
+        "张御顿时了然，难怪诸位执摄此前甚少触及世间",
+        "张御不觉释然，难怪诸执摄认为断斩此世不可行"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "荀季",
+      "aliases": [
+        "荀师"
+      ],
+      "identity": "张御的老师",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的老师，被五位执摄派往元夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "学生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被五位执摄派往元夏，可能传回消息。"
+        }
+      ],
+      "evidence": [
+        "张御有些意外，暗道：“荀师原来去了那里？”",
+        "五位执摄又唤得他老师荀季去了元夏"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "五位执摄",
+      "aliases": [
+        "执摄"
+      ],
+      "identity": "天夏的上层大能",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏的五位执摄，法力超迈世域，不轻易干涉世间，但为天夏打下基础。",
+      "appearance": [],
+      "personality": [
+        "诚恳",
+        "赞许"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下级"
+        },
+        {
+          "target": "荀季",
+          "type": "派遣"
+        },
+        {
+          "target": "首执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御对话，告知元夏之事，并计划将道化世域化为下层。"
+        }
+      ],
+      "evidence": [
+        "居中那位执摄缓缓言道：“不到万不得已，我辈是不会出手的。”",
+        "五位执摄虽不愿自己之认知被覆去，可说到底，无论两边输赢如何，他们仍是在那里。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "首执",
+      "aliases": [],
+      "identity": "天夏首执，即将卸任渡去上层",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "执掌玄廷近四百载，认为天夏之敌在内不在外，即将卸任并渡去上层成为执摄。",
+      "appearance": [
+        "黑发乌簪，身着浅灰道袍"
+      ],
+      "personality": [
+        "自信",
+        "肃然"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "五位执摄",
+          "type": "同僚"
+        },
+        {
+          "target": "陈廷执",
+          "type": "继任者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御会面，告知将卸任并渡去上层。"
+        }
+      ],
+      "evidence": [
+        "首执黑发乌簪，身着浅灰道袍，正立在那恒平一线之上",
+        "首执看着他道：“张廷执今次既与五位执摄见面，想必也是知晓我天夏所需面对的大敌了。”",
+        "再有一月，便是二月了，届时月中廷议之上，我当会卸去首执之位"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "陈廷执",
+      "aliases": [],
+      "identity": "天夏廷执，首执的继任者",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "首执卸任后将接掌首执之位。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "首执",
+          "type": "继任"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "未来",
+          "event": "将接任首执之位。"
+        }
+      ],
+      "evidence": [
+        "我当会卸去首执之位，将此交托给陈廷执执掌"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

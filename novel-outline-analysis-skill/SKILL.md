@@ -48,36 +48,63 @@ Prefer a file set when the user wants durable results.
 
 Unless the user clearly says otherwise, assume this skill is being used after a protagonist-centered workspace already exists.
 
-In other words, the default starting point is not:
+### 开始前必读文件（按文件名直接打开）
 
-- no context
-- no protagonist layer
-- no prior project files
+不要凭记忆或猜测——以下文件名是固定的，按模板替换 `<小说名>` 和 `<主角名>` 即可定位：
 
-The default starting point is:
+| 优先级 | 文件名 | 从中获取的信息 |
+|---|---|---|
+| P0 | `<小说名>-主角锚点与骨架.md` | 主角身份底座、成长引擎、质变路线、高位结构 |
+| P0 | `<主角名>-最终人物卡.md` | 主角身份变化序列、核心关系网、力量体系 |
+| P1 | `<主角名>-词条总索引.md` | 全部一级/二级词条的全貌和完成状态 |
+| P1 | `<小说名>-整书粗阶段划分.md` | 全书五阶段划分和每阶段核心推进 |
+| P2 | `<小说名>-黄金前三章总判断.md`（如有） | 开篇抓力和读者承诺体系 |
+| P2 | `<小说名>-章节蒸馏骨架.md`（如有） | 逐章原文校验底稿 |
 
-- a novel workspace already exists
-- the workspace often already contains protagonist files
-- this skill should extend that workspace into a whole-book outline layer
+**读取方式**：打开文件直接读，不要靠记忆。读完后，你写大纲总览和阶段拆分时引用的主角信息应该能从上述文件中找到出处。
 
-This means the first move is usually:
+## 质量标准（Quality Requirements）
 
-- read the workspace
-- understand the existing protagonist layer
-- then build the outline layer on top of it
+**禁止的泛化话术：**
+- ❌ "中段扩张有效" → 没说为什么有效、依据是什么
+- ❌ "主线清晰" → 没说主线是什么、如何判断的
+- ❌ "高潮成立" → 没说为什么成立、高潮的具体效果
+- ❌ "收束完整" → 没说收束了什么、收束得怎样
 
-not:
+**正确的分析写法：**
+- ✅ 阶段划分必须有**明确的边界依据**（具体章节/事件/转折，而非模糊范围）
+- ✅ 主线/支线判断必须有**具体的剧情证据链**
+- ✅ 结构问题必须附带**可执行的修改方案**（压缩哪些章节、前移哪个事件、扩写哪个段落）
+- ✅ "单书特性"必须是**真实的、可验证的结构驱动力**，而非泛化标签
 
-- regenerate the protagonist workflow from scratch
+**两轮精炼：**
+1. 第一轮：生成大纲初稿
+2. 第二轮：逐文件自检——阶段边界是否有依据？主线判断是否有证据？修改建议是否可执行？
+3. 重写不合格部分后再提交 validator
 
 ## Scripts
 
 Use the bundled scripts when the task is starting a fresh workspace or when you need a deterministic completion check.
 
 - `scripts/init_outline_workspace.py`
-  Use when a new novel needs a durable outline-analysis workspace with starter files.
+  **角色**：搭脚手架，不写分析。此脚本只生成文件框架和字段模板——你需要读取已有上下文和原文来填充内容。脚本运行后，如果文件里全是占位符，那不是脚本的问题，是你还没执行填充步骤。
+
 - `scripts/validate_outline_outputs.py`
   Use before closing the task when you want a repeatable check of file coverage and content coverage.
+
+### Validator 关键词速查表
+
+Validator 通过 `has_keywords()` 检查每个文件是否包含特定关键词。请在填充内容时确保覆盖以下关键词（内容上覆盖即可，概念对应即可）：
+
+| 文件 | 需覆盖的关键词（minimum ≥4） | min_chars |
+|---|---|---|
+| `<小说名>-大纲总览.md` | 核心 premise、结构类型、全书主线一句话、整书总判断 | 260 |
+| `<小说名>-阶段与篇章拆分.md` | 阶段、阶段边界成立原因、阶段主冲突、主要时间 / 地点转折 | 260 |
+| `<小说名>-主线支线与冲突地图.md` | 核心主线、重要支线、桥接线、主线支线总判断 | 240 |
+| `<小说名>-核心冲突点与爆发点.md` | 根本主冲突、阶段性冲突、关键爆发点、冲突层总判断 | 180 |
+| `<小说名>-时间与地点转折.md` | 时间转折、地点转折、联合判断 | 180 |
+| `<小说名>-高潮节奏与收束诊断.md` | 开篇判断、中段判断、高潮判断、结尾判断、总诊断 | 240 |
+| `<小说名>-结构问题与修改建议.md` | 结构优点、结构问题、第一优先修改项、轻修建议、总建议 | 220 |
 
 ## Common Output Standard
 
@@ -212,7 +239,7 @@ If this is a fresh project and the user wants durable results, initialize the wo
 
 If the source is `.txt` or messy plain text, use local conversion tools before analysis:
 
-- `<repo-root>/text2markdown`
+- `/home/zuoky/project/text2markdown`
 
 If the novel is very long, do not try to reason from raw memory.
 

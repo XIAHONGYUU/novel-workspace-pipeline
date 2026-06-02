@@ -1,0 +1,363 @@
+{
+  "chunk_id": "chunk-0149",
+  "characters": [
+    {
+      "name": "龚青鸿",
+      "aliases": [
+        "老大"
+      ],
+      "identity": "川渝赌会某系老大",
+      "faction": "川渝赌会",
+      "status": "登场",
+      "first_appearance": "第147章旧怨",
+      "summary": "川渝赌会某系老大，因手下叁条被杀而一心报仇，目标锁定李钧。",
+      "appearance": [],
+      "personality": [
+        "冷峻",
+        "执着",
+        "重情义"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "叁条",
+          "type": "手下"
+        },
+        {
+          "target": "幺鸡",
+          "type": "手下"
+        },
+        {
+          "target": "贰条",
+          "type": "手下"
+        },
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在重庆府谋划追杀李钧，利用赵青侠引出李钧。"
+        }
+      ],
+      "evidence": [
+        "龚青鸿沉声道：我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府。",
+        "龚青鸿一字一顿道：所以，李钧只能死在我们手上。",
+        "龚青鸿这是将叁条的死全部归咎到了自己身上，无时无刻不在想着如何报仇。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "幺鸡",
+      "aliases": [],
+      "identity": "龚青鸿手下",
+      "faction": "川渝赌会",
+      "status": "登场",
+      "first_appearance": "第147章旧怨",
+      "summary": "龚青鸿手下，性格轻浮，消息灵通，负责打探情报。",
+      "appearance": [],
+      "personality": [
+        "轻浮",
+        "话多",
+        "消息灵通"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "老大"
+        },
+        {
+          "target": "贰条",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向龚青鸿汇报戴徙徒被杀的消息，并讨论牌系与骰系的冲突。"
+        }
+      ],
+      "evidence": [
+        "幺鸡空洞失神的双眼蓦然凝聚精光，横躺在沙发中的身体蹭的一声弹了起来。",
+        "幺鸡信誓旦旦：是真的！连动手的浮光掠影都被人传上去了！",
+        "幺鸡嬉笑道：不过我打听到一些内幕消息，据说是戴徙徒先派人到赫藏甲的地盘开赌局"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "贰条",
+      "aliases": [],
+      "identity": "龚青鸿手下",
+      "faction": "川渝赌会",
+      "status": "登场",
+      "first_appearance": "第147章旧怨",
+      "summary": "龚青鸿手下，性格稳重，刀疤脸，对情报持怀疑态度。",
+      "appearance": [
+        "刀疤脸"
+      ],
+      "personality": [
+        "稳重",
+        "谨慎",
+        "木讷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "老大"
+        },
+        {
+          "target": "幺鸡",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与幺鸡讨论戴徙徒被杀事件，并参与追杀李钧的谋划。"
+        }
+      ],
+      "evidence": [
+        "长着一张刀疤脸贰条不屑地哼一声：那上面的东西也能相信？",
+        "贰条皱着眉头：只是这重庆府说大不大，说小也不小，光靠人力的话恐怕是大海捞针啊。",
+        "贰条脸色蓦然阴沉了下去：一个独夫，可不太好杀啊。"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "戴徙徒",
+      "aliases": [
+        "一点"
+      ],
+      "identity": "骰系成员",
+      "faction": "川渝赌会骰系",
+      "status": "已死",
+      "first_appearance": "第147章旧怨",
+      "summary": "骰系成员，在铁楼老巢被赫藏甲杀死，引发牌系与骰系冲突。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赫藏甲",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被赫藏甲杀死。"
+        }
+      ],
+      "evidence": [
+        "骰子的‘一点’戴徙徒居然在铁楼的老巢里被人宰了！",
+        "现在他们抛出来的证据全是指向戴徙徒的不是，是他自己踩过界在先"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "赫藏甲",
+      "aliases": [
+        "虎头"
+      ],
+      "identity": "牌九文牌虎头",
+      "faction": "川渝赌会牌系",
+      "status": "登场",
+      "first_appearance": "第147章旧怨",
+      "summary": "牌系成员，因戴徙徒踩过界而将其杀死，做事滴水不漏。",
+      "appearance": [],
+      "personality": [
+        "嚣张",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戴徙徒",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "杀死戴徙徒，引发牌系与骰系冲突。"
+        }
+      ],
+      "evidence": [
+        "是牌九的文牌虎头，赫藏甲！",
+        "据说是戴徙徒先派人到赫藏甲的地盘开赌局，结果吃相太难看，把别人的金主惹火了，所以赫藏甲才去找他的麻烦。",
+        "不过这个赫藏甲嚣张归嚣张，做事可是滴水不漏。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "叁条",
+      "aliases": [],
+      "identity": "龚青鸿手下（已故）",
+      "faction": "川渝赌会",
+      "status": "已死",
+      "first_appearance": "第147章旧怨",
+      "summary": "龚青鸿手下，在成都府被杀，龚青鸿为其报仇。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龚青鸿",
+          "type": "老大"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在成都府被杀。"
+        }
+      ],
+      "evidence": [
+        "叁条的仇还没报。",
+        "叁条还有一家子人等着要养，那贰仟伍佰万的花红，是属于叁条的抚恤"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "被救者",
+      "faction": "",
+      "status": "受伤逃亡",
+      "first_appearance": "第147章旧怨",
+      "summary": "被墨家从序者所救，被余沧海斩了一剑，逃往重庆府，是龚青鸿的追杀目标。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵青侠",
+          "type": "救命恩人"
+        },
+        {
+          "target": "余沧海",
+          "type": "仇敌"
+        },
+        {
+          "target": "龚青鸿",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被余沧海所伤，逃往重庆府，被龚青鸿追杀。"
+        }
+      ],
+      "evidence": [
+        "当时救李钧的墨家从序者可是被余沧海斩了一剑。",
+        "以他们的实力，伤势恐怕极重，带着李钧绝对不可能跑太远，恐怕能逃到重庆府就是极限了",
+        "所以，李钧只能死在我们手上。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "赵青侠",
+      "aliases": [],
+      "identity": "墨家天志会成员",
+      "faction": "墨家天志会",
+      "status": "躲藏中",
+      "first_appearance": "第147章旧怨",
+      "summary": "墨家天志会成员，救了李钧，躲在重庆府，被龚青鸿盯上。",
+      "appearance": [],
+      "personality": [
+        "讲义气"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "救命恩人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "躲在重庆府，被龚青鸿利用来引出李钧。"
+        }
+      ],
+      "evidence": [
+        "我已经从墨家天志会内部得到了确切的消息，那个叫赵青侠的成员就躲在重庆府。",
+        "他不是很讲义气吗？那就看看他愿不愿意拿自己的命，来换救命恩人的命了！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "余沧海",
+      "aliases": [],
+      "identity": "武道序列强者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第147章旧怨",
+      "summary": "武道序列强者，曾斩伤墨家从序者，使用赤龙剑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [
+        "赤龙"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在成都府斩伤墨家从序者，重伤李钧。"
+        }
+      ],
+      "evidence": [
+        "当时救李钧的墨家从序者可是被余沧海斩了一剑。",
+        "别着急，余沧海那把‘赤龙’可是吃人的，他的伤势可没那么容易好。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "道七金丹客",
+      "aliases": [],
+      "identity": "武道序列强者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第147章旧怨",
+      "summary": "武道序列强者，曾一剑穿胸杀死某人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "一剑穿胸杀死某人。"
+        }
+      ],
+      "evidence": [
+        "老大，那孙子被道七金丹客一剑穿胸，恐怕当场就死了。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

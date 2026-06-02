@@ -1,0 +1,378 @@
+{
+  "chunk_id": "chunk-0373",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "玄府玄正，负责追查邪修事务，行事谨慎。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "时悦",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到邪修撤离的消息，并接见时悦和灵妙玄境修士。"
+        }
+      ],
+      "evidence": [
+        "张御收到了底下递交上来的呈报",
+        "时悦过来禀报的时候说道：“玄正，最近自灵妙玄境来了一名的姓莫的同道”",
+        "张御是在第二天清晨收到消息的"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "时悦",
+      "aliases": [],
+      "identity": "玄府下属",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "玄府成员，向张御禀报灵妙玄境修士来访。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御禀报灵妙玄境修士来访。"
+        }
+      ],
+      "evidence": [
+        "时悦过来禀报的时候说道：“玄正，最近自灵妙玄境来了一名的姓莫的同道”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "莫光辰",
+      "aliases": [
+        "莫道友",
+        "姓莫的同道"
+      ],
+      "identity": "灵妙玄境修士",
+      "faction": "灵妙玄境",
+      "status": "登场",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "灵妙玄境修士，追杀邪修，与邪修激战后被元童老祖追踪。",
+      "appearance": [
+        "白衫道人，背后一把玉剑，浑身灵光通透，如披明耀月光"
+      ],
+      "personality": [],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [
+        "玉剑"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "请求协助"
+        },
+        {
+          "target": "庞道人",
+          "type": "敌对"
+        },
+        {
+          "target": "元童老祖",
+          "type": "被追踪"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在邪修洞窟与庞道人等激战，后追出。"
+        }
+      ],
+      "evidence": [
+        "最近自灵妙玄境来了一名的姓莫的同道",
+        "白衫道人，背后一把玉剑，浑身灵光通透，如披明耀月光",
+        "莫光辰！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "庞道人",
+      "aliases": [
+        "庞道友",
+        "庞师兄"
+      ],
+      "identity": "邪修，妄殊山门下",
+      "faction": "邪修",
+      "status": "登场",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "邪修头目，计划前往霜洲进行血祭，与元童老祖和莫光辰冲突。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "能屈能伸"
+      ],
+      "abilities": [],
+      "equipment": [
+        "拂尘",
+        "玉盘"
+      ],
+      "relationships": [
+        {
+          "target": "赵道人",
+          "type": "师弟"
+        },
+        {
+          "target": "白秀",
+          "type": "合作"
+        },
+        {
+          "target": "元童老祖",
+          "type": "敌对"
+        },
+        {
+          "target": "莫光辰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赵道人商议血精不足，计划前往霜洲。"
+        },
+        {
+          "stage": "当前",
+          "event": "与元童老祖对峙，后与莫光辰激战。"
+        }
+      ],
+      "evidence": [
+        "庞道人看着案台上玉盘之内的血色砂砾",
+        "庞道人面无表情看了看他",
+        "庞道人言道：“我们这些年来为白秀出力”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "赵道人",
+      "aliases": [
+        "赵师弟",
+        "赵道友"
+      ],
+      "identity": "邪修，庞道人师弟",
+      "faction": "邪修",
+      "status": "登场",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "邪修，庞道人的师弟，参与血祭计划。",
+      "appearance": [],
+      "personality": [
+        "抱怨",
+        "私藏"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "庞道人",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向庞道人抱怨血精不足，赞同前往霜洲。"
+        }
+      ],
+      "evidence": [
+        "站在他身后的赵道人抱怨道",
+        "赵道人也道：“是极是极，多得些人手，才是稳妥。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "元童老祖",
+      "aliases": [
+        "元童老祖",
+        "老魔"
+      ],
+      "identity": "邪修老祖，神魂化身",
+      "faction": "邪修",
+      "status": "登场",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "五十余年前已死的邪修老祖，以神魂化身出现，意图夺取血精。",
+      "appearance": [
+        "红睛白肤的少年人，穿着芍药纹团绣道袍"
+      ],
+      "personality": [
+        "不讲道理",
+        "狡猾"
+      ],
+      "abilities": [
+        "神魂化身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "庞道人",
+          "type": "敌对"
+        },
+        {
+          "target": "莫光辰",
+          "type": "利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在邪修洞窟，声称要夺取血精，后引莫光辰前来。"
+        },
+        {
+          "stage": "当前",
+          "event": "离开洞窟，追踪莫光辰。"
+        }
+      ],
+      "evidence": [
+        "一个红睛白肤的少年人站在上空，身上穿着芍药纹团绣道袍",
+        "元童老祖看了过来，负手道：“没想到还有后辈识得我”",
+        "元童老祖离了洞窟之后，趁着夜色来至上空"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "白秀",
+      "aliases": [],
+      "identity": "邪修合作者",
+      "faction": "未知",
+      "status": "提及",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "暗中帮助邪修传递消息的人物，庞道人等为其出力。",
+      "appearance": [],
+      "personality": [
+        "心思深沉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "庞道人",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "暗中帮助邪修，传递消息。"
+        }
+      ],
+      "evidence": [
+        "这些年若是没有白秀伸手照拂和暗中传递的消息",
+        "我们这些年来为白秀出力"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "司武彰",
+      "aliases": [],
+      "identity": "玄府巡查人员",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "玄府成员，负责巡查荒原，发现邪修洞窟。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现邪修洞窟，并上报张御。"
+        }
+      ],
+      "evidence": [
+        "司武彰等人很快寻了过来，并发现了这一处位于地下的邪修洞窟"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "杏川道人",
+      "aliases": [],
+      "identity": "玄府成员",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "与司武彰一同前往洞府搜寻邪修。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "司武彰",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与司武彰前往洞府搜寻邪修。"
+        }
+      ],
+      "evidence": [
+        "司武彰和杏川道人前往早前查到的洞府搜寻邪修"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "合渊道友",
+      "aliases": [],
+      "identity": "邪修，庞道人师父",
+      "faction": "邪修",
+      "status": "提及",
+      "first_appearance": "第一百四十四章 邪祟",
+      "summary": "庞道人的师父，已故或失踪，与元童老祖有旧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "庞道人",
+          "type": "师父"
+        },
+        {
+          "target": "元童老祖",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "晚辈是‘妄殊山’门下",
+        "原来合渊道友的弟子"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

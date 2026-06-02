@@ -1,240 +1,155 @@
 # Novel Workspace Pipeline
 
-A reusable workflow for turning long-novel analysis into a structured, replayable workspace instead of a one-off chat output.
+把长篇小说分析从一次性问答，变成可续跑、可校验、可交接的工作区流水线。
 
-## Why This Exists
+## 这个项目解决什么问题
 
-Most novel analysis workflows break down in one of two ways:
+大多数小说分析有两个常见问题：
 
-- they produce a single summary that cannot be extended cleanly
-- they create a pile of notes with no validation, no layering, and no stable next step
+- 只产出一份总结，后续很难继续扩展
+- 笔记很多，但没有层次、没有校验、也没有明确下一步
 
-This repository takes a different approach. Each novel becomes its own workspace, and the workspace moves through a fixed analysis pipeline with validators, handoff files, an orchestration layer, and an explicit AI-writing step between scaffolding and final validation.
+这个仓库的目标不是“再写一份读后感”，而是把每本小说做成一个独立 workspace，让分析过程可以反复推进、回看、修补和交接。
 
-## What You Get
+## 核心思路
 
-- A five-layer analysis model for long novels
-- An orchestrator that inspects workspace state and recommends the next step
-- Layer init scripts that scaffold missing outputs
-- A documented AI fill step that turns scaffold files into real analysis
-- Validators that distinguish real progress from placeholders
-- An optional quality gate that scores analysis quality above basic validator checks
-- Status, gap-report, and repair-plan generation
-- Local helpers for `.txt -> .md` conversion and character extraction
-
-## Pipeline Overview
+每本小说都按固定分析层推进：
 
 ```text
-source text
+原文
   -> chapter-distillation
   -> opening
   -> protagonist
+  -> supporting-cast
   -> outline
   -> highlight
-  -> reusable workspace state + handoff files
+  -> workspace status / gap report / repair plan / handoff files
 ```
 
-### Layers
+六层能力分别负责：
 
 1. `chapter-distillation`
-   Compress each chapter into structural skeletons and stage-change anchors.
+   逐章压骨架，固定每章推进、状态变化、结构功能和章末钩子。
 2. `opening`
-   Judge the first three chapters for hook, promise, launch quality, and chapter-end pull.
+   分析前三章的抓力、承诺、冲突启动和章末拉力。
 3. `protagonist`
-   Build the protagonist-centered knowledge backbone.
-4. `outline`
-   Judge stage structure, conflict escalation, side lines, climax, and closure.
-5. `highlight`
-   Extract the most memorable scenes and the mechanisms that make them attractive.
+   建立主角知识主干、关系网、成长路线和核心体系。
+4. `supporting-cast`
+   从全角色 AI 抽取结果里筛出最重要的 10 个配角，并建立配角压力、关系和阶段作用层。
+5. `outline`
+   判断整书阶段结构、主线支线、冲突升级和高潮收束。
+6. `highlight`
+   提炼最强记忆点，分析高光场景为什么有效。
 
-### Orchestrator
+总控层是 [`novel-workspace-orchestrator-skill`](novel-workspace-orchestrator-skill/SKILL.md)，负责：
 
-`novel-workspace-orchestrator-skill` is the control layer. It can:
+- 识别当前 workspace 状态
+- 判断 `fresh / extend-existing / repair-existing / validate-only`
+- 推荐下一层
+- 调用对应层脚本
+- 重跑 validator
+- 写回状态文件和交接产物
 
-- inspect a workspace
-- choose `fresh`, `extend-existing`, `repair-existing`, or `validate-only`
-- recommend the next layer
-- run layer init scripts
-- refresh validators and handoff artifacts after init
-- rerun validators
-- write back status and handoff artifacts
-
-## Repository Layout
-
-```text
-.
-├── README.md
-├── WORKFLOW.md
-├── CONTRIBUTING.md
-├── docs/
-├── novel-workspace-orchestrator-skill/
-├── novel-chapter-distillation-skill/
-├── novel-opening-analysis-skill/
-├── novel-protagonist-encyclopedia-skill/
-├── novel-outline-analysis-skill/
-├── novel-highlight-scenes-analysis-skill/
-├── text2markdown/
-└── novel-character-cards/
-```
-
-## Quick Start
-
-### 1. Prepare a workspace
-
-Create a directory for a novel and place source files under `source/`.
-
-```text
-your-workspace/
-└── source/
-    └── YourNovel.txt
-```
-
-### 2. Inspect the current state
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/refresh_workspace_status.py \
-  --workspace ./your-workspace \
-  --novel-name "Your Novel"
-```
-
-### 3. Generate a gap report
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/workspace-gap-report.py \
-  --workspace ./your-workspace
-```
-
-### 4. Ask the orchestrator for the next move
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py \
-  --workspace ./your-workspace
-```
-
-### 5. Run layer init and refresh workflow state
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py \
-  --workspace ./your-workspace \
-  --execute
-```
-
-What this actually does:
-
-- runs the target layer's init/scaffolding command
-- refreshes workspace status
-- reruns validators when available
-- writes handoff and gap-report artifacts
-
-What this does not do by itself:
-
-- read the novel like a human analyst
-- fill analysis sections with evidence-backed conclusions
-- convert placeholders into final content
-
-### 6. Fill the target layer with AI
-
-After `--execute`, open the generated context file and the scaffold files for the target layer, then use your AI assistant to write the actual analysis content.
-
-The standard loop is:
-
-1. `--execute` to scaffold the layer and refresh status.
-2. Open `workspace-context-<layer>.md` plus the target layer files.
-3. Ask the AI to read the source text and fill the target files with concrete evidence, names, events, and conclusions.
-4. Rerun validators and inspect `workspace-gap-report.md`.
-5. Repair anything still marked as placeholder-heavy or incomplete.
-
-See [docs/ai-fill-step.md](docs/ai-fill-step.md) for the standard prompt shape and review loop.
-
-Optional shortcut:
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/prepare_ai_fill.py \
-  --workspace ./your-workspace
-```
-
-This writes both `workspace-context-<layer>.md` and `workspace-ai-fill-<layer>.md` for the current target layer.
-
-## Common Workflows
-
-Initialize protagonist scaffolding only:
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py \
-  --workspace ./your-workspace \
-  --target-layer protagonist \
-  --execute
-```
-
-This initializes protagonist-layer files and refreshes reports. It does not replace the later AI fill pass.
-
-Run validators and persist reports:
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py \
-  --workspace ./your-workspace \
-  --persist-validator-reports
-```
-
-Run the quality gate after validator cleanup:
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/quality_gate.py \
-  --workspace ./your-workspace
-```
-
-Run regression with your own fixtures:
-
-```bash
-python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py \
-  --cases ./docs/regression-cases.example.json
-```
-
-## Documentation
+## 这个仓库里有什么
 
 - [WORKFLOW.md](WORKFLOW.md)
-  High-level operating model and workflow conventions.
-- [LICENSE](LICENSE)
-  MIT license for reuse, modification, and redistribution.
-- [SECURITY.md](SECURITY.md)
-  Security reporting policy for the public repository.
-- [CHANGELOG.md](CHANGELOG.md)
-  Release-oriented change history for the public repository.
-- [docs/getting-started.md](docs/getting-started.md)
-  First-run setup and a minimal end-to-end path.
-- [docs/workspace-lifecycle.md](docs/workspace-lifecycle.md)
-  How a workspace moves from empty to layered.
-- [docs/ai-fill-step.md](docs/ai-fill-step.md)
-  The standard scaffold -> AI fill -> validator repair loop.
-- [docs/prompt-templates/](docs/prompt-templates)
-  Layer-specific prompt starters for the AI fill pass.
-- [docs/repository-map.md](docs/repository-map.md)
-  What each top-level directory is responsible for.
-- [docs/regression-cases.example.json](docs/regression-cases.example.json)
-  Example shape for custom regression cases.
+  面向人的整体工作流说明。
+- [CURRENT_STATUS.md](CURRENT_STATUS.md)
+  当前主项目、活跃状态和恢复上下文入口。
+- [novel-workspace-orchestrator-skill](novel-workspace-orchestrator-skill/SKILL.md)
+  总控层和调度脚本。
+- [novel-chapter-distillation-skill](novel-chapter-distillation-skill/SKILL.md)
+  章节蒸馏层。
+- [novel-opening-analysis-skill](novel-opening-analysis-skill/SKILL.md)
+  黄金前三章层。
+- [novel-protagonist-encyclopedia-skill](novel-protagonist-encyclopedia-skill/SKILL.md)
+  主角百科层。
+- [novel-supporting-cast-analysis-skill](novel-supporting-cast-analysis-skill/SKILL.md)
+  重要配角 Top10 分析层。
+- [novel-outline-analysis-skill](novel-outline-analysis-skill/SKILL.md)
+  整书大纲层。
+- [novel-highlight-scenes-analysis-skill](novel-highlight-scenes-analysis-skill/SKILL.md)
+  剧情高光层。
 - [docs/github-promo-copy.md](docs/github-promo-copy.md)
-  Reusable copy for GitHub, forums, and community posts.
-- [fixtures/README.md](fixtures/README.md)
-  Public synthetic workspaces for demos and regression.
-- [CONTRIBUTING.md](CONTRIBUTING.md)
-  Practical contribution rules for keeping the repo clean.
+  可直接复用的 GitHub/社群推广文案。
 
-## Design Principles
+示例工作区：
 
-- Prefer durable workspace state over one-shot summaries
-- Treat validators as guardrails, not decorations
-- Keep the AI writing step explicit instead of pretending scaffolding equals analysis
-- Separate reusable workflow code from private novel content
-- Make the next step explicit after every run
-- Keep generated outputs out of the public repository by default
+- `刀笼`
+- `寇道`
+- `巫师世界`
+- `序列大明`
+- `我的诡异人生`
+- `永恒剑主`
+- `玄浑道章`
 
-## Scope And Boundaries
+## 为什么这个仓库值得看
 
-This repository is the workflow layer. It is not intended to be:
+- 它不是单次输出，而是可持续推进的 workspace 系统
+- 它不是纯文档堆积，而是带有状态判断、校验和回归
+- 它不是“想到哪写到哪”，而是固定六层分析模型
+- 它已经在多本长篇小说上反复使用，而不是空壳设计
 
-- a public dump of full raw novels
-- a giant archive of generated workspace artifacts
-- a fully autonomous writing agent
-- a promise that `--execute` alone completes the analysis layer
+如果你做的是：
 
-It is best understood as a structured analysis pipeline with orchestration, validation, and repeatable workspace management.
+- 长篇网文拆解
+- 小说研究笔记体系化
+- AI 辅助文学分析工作流
+- 可复用的知识工程 / 内容流水线
+
+这个仓库就有可参考价值。
+
+## 快速开始
+
+先看仓库当前状态：
+
+```bash
+git status --short
+python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py
+```
+
+查看某个工作区当前做到哪一步：
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/refresh_workspace_status.py --workspace 刀笼 --json
+python3 novel-workspace-orchestrator-skill/scripts/workspace-gap-report.py --workspace 刀笼
+```
+
+让总控推荐下一步：
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py --workspace 刀笼
+```
+
+让总控实际执行目标层：
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py --workspace 刀笼 --execute
+```
+
+## 当前边界
+
+这套 pipeline 现在已经能做：
+
+- 工作区识别
+- 真实 validator 校验
+- 推荐下一层
+- 生成 `workspace-status.json`
+- 生成 `workspace-gap-report.md`
+- 生成 `workspace-repair-plan.md`
+- 跑固定样书回归
+
+它暂时还不能完全自动做：
+
+- 语义级正文补写
+- 高质量 `repair-existing` 内容重构
+
+所以它现在更接近一个可用的小说分析 workflow，而不是全自动写作代理。
+
+## 建议阅读顺序
+
+1. [WORKFLOW.md](WORKFLOW.md)
+2. [CURRENT_STATUS.md](CURRENT_STATUS.md)
+3. 目标小说目录下的最新 `workspace-status.json`
+4. 目标小说目录下的 `workspace-gap-report.md` 或 `workspace-repair-plan.md`
+5. [docs/github-promo-copy.md](docs/github-promo-copy.md)

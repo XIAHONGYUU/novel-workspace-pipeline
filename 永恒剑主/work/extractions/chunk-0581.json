@@ -1,0 +1,277 @@
+{
+  "chunk_id": "chunk-0581",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [
+        "林摄日",
+        "摄日公子"
+      ],
+      "identity": "林家宗家高手",
+      "faction": "林家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林家宗家高手，带领林又可等人前往青云岛执行任务。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "奔雷剑法",
+        "红花剑"
+      ],
+      "equipment": [
+        "红花剑"
+      ],
+      "relationships": [
+        {
+          "target": "林又可",
+          "type": "下属"
+        },
+        {
+          "target": "林传",
+          "type": "下属"
+        },
+        {
+          "target": "金马",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "抵达青云岛，发现岛上异常，与金马对峙并追击。"
+        }
+      ],
+      "evidence": [
+        "林新站在船头，一头二十多米的巨大妖将轰然被斩成两片",
+        "林新面色冷厉下来。'上岛。'",
+        "林新神色一厉。'对我诛世会动手，就是勾结妖灵！凡勾结妖灵者，杀无赦！！'"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "林又可",
+      "aliases": [],
+      "identity": "林家下属",
+      "faction": "林家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林新的下属，服用丹药后实力提升，即将突破奔雷剑法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "奔雷剑法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随林新前往青云岛，服用丹药后感觉良好。"
+        }
+      ],
+      "evidence": [
+        "林又可稳住身体走到他身边轻声道。'公子，我们和船队分开已经两天了，差不多也快到青云岛了。'",
+        "'效果很好！'提起丹药，林又可顿时露出惊喜兴奋之色。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林传",
+      "aliases": [],
+      "identity": "林家下属",
+      "faction": "林家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "林新的下属，随行前往青云岛。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随林新上岛，被林新拦住下船。"
+        }
+      ],
+      "evidence": [
+        "林传等到舟船靠岸停下，率先正要下船。却被林新抬手拦住。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "金马",
+      "aliases": [],
+      "identity": "散修（伪装），实为元景高手",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "伪装成散修的元景高手，与诛世会敌对，灭掉了宫商世家的驻守点。",
+      "appearance": [
+        "中年儒生"
+      ],
+      "personality": [
+        "阴险",
+        "隐忍"
+      ],
+      "abilities": [
+        "元景修为"
+      ],
+      "equipment": [
+        "玉盘"
+      ],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        },
+        {
+          "target": "宫商雾",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在青云岛伪装成散修，被林新识破并追击。"
+        }
+      ],
+      "evidence": [
+        "金马睁开眼睛，缓缓转动身体，'原来是林家摄日公子当面，在下一介散修金马'",
+        "金马心头憋屈至极。他根本不想这么早对林摄日动手",
+        "他堂堂元景高手，居然被一个毛头小子追得落荒而逃。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "宫商雾",
+      "aliases": [],
+      "identity": "宫商世家家主",
+      "faction": "宫商世家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "宫商世家家主，被金马击败但未死，试图为金马辩解。",
+      "appearance": [
+        "狼狈不堪"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金马",
+          "type": "敌对"
+        },
+        {
+          "target": "林新",
+          "type": "同属诛世会"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在青云岛，试图阻止林新攻击金马。"
+        }
+      ],
+      "evidence": [
+        "宫商雾，他身上狼狈不堪，脸上还带着一丝焦急。'公子误会啊！误会！金马先生出手及时救了我等'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "断青龙",
+      "aliases": [],
+      "identity": "诛世会成员",
+      "faction": "诛世会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "诛世会成员，被金马击败后躲藏，对林新抱有希望。",
+      "appearance": [
+        "一边脸肿了，一条手臂断掉"
+      ],
+      "personality": [
+        "有底线"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑色短剑"
+      ],
+      "relationships": [
+        {
+          "target": "孔心",
+          "type": "同伴"
+        },
+        {
+          "target": "林新",
+          "type": "希望其存活"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "躲藏在浅海，观察林新上岛。"
+        }
+      ],
+      "evidence": [
+        "断青龙一边脸肿了，像是馒头一样红肿得不行，一条手臂也不知道什么时候断掉了。",
+        "'是林摄日，林家宗家的高手，肯定已经被那怪物发觉了。'"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "孔心",
+      "aliases": [],
+      "identity": "诛世会成员",
+      "faction": "诛世会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "诛世会成员，被金马击败后失去一条腿，对金马充满恨意。",
+      "appearance": [
+        "一条腿没了，用木杖支撑"
+      ],
+      "personality": [
+        "有恨意",
+        "不甘"
+      ],
+      "abilities": [],
+      "equipment": [
+        "木杖"
+      ],
+      "relationships": [
+        {
+          "target": "断青龙",
+          "type": "同伴"
+        },
+        {
+          "target": "金马",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与断青龙一起躲藏，想抢林新的船但被阻止。"
+        }
+      ],
+      "evidence": [
+        "孔心一条腿没了，只能用木杖支撑起身体，看向岛屿深处的眼神充满恨意。",
+        "孔心此时看向岸边停靠的小舟船，眼中露出一丝意动。"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

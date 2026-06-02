@@ -1,0 +1,361 @@
+{
+  "chunk_id": "chunk-0389",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄正",
+      "faction": "玄修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄修正与真修交涉，并安排其驻地。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "于复",
+          "type": "道友"
+        },
+        {
+          "target": "温良",
+          "type": "下属"
+        },
+        {
+          "target": "恽尘",
+          "type": "道友"
+        },
+        {
+          "target": "莫光辰",
+          "type": "曾相助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接待真修，与于复密谈，得知可能有真修来找麻烦。"
+        }
+      ],
+      "evidence": [
+        "张御往于复身后望了一眼",
+        "张御心下一转念，顿时明白了。",
+        "张御对一旁的温良吩咐几声"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "于复",
+      "aliases": [
+        "于道友"
+      ],
+      "identity": "真修",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真修代表，前来感谢张御并提醒可能有同门找麻烦。",
+      "appearance": [],
+      "personality": [
+        "郑重",
+        "知恩"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        },
+        {
+          "target": "莫光辰",
+          "type": "师叔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "率真修前来，与张御密谈提醒。"
+        }
+      ],
+      "evidence": [
+        "于复却是抬袖端手，郑重道",
+        "于复这时靠过来一步，道：“玄正，借一步说话？”",
+        "于复提醒过后，也没多留，就告辞离去了。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "温良",
+      "aliases": [],
+      "identity": "张御下属",
+      "faction": "玄修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的属下，负责安排真修住宿。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "受张御吩咐安排真修宿处，后向张御表达对真修意图的怀疑。"
+        }
+      ],
+      "evidence": [
+        "张御对一旁的温良吩咐几声",
+        "温良也是点应下。",
+        "温良走了进来，拱手道：“玄正，都已经安排稳妥了”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "恽尘",
+      "aliases": [
+        "恽道友"
+      ],
+      "identity": "竺玄首弟子",
+      "faction": "玄修",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "竺玄首的弟子，带队前来协助张御。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        },
+        {
+          "target": "竺玄首",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带队到达，与张御交谈，提及灵妙玄境同道和军府征战。"
+        }
+      ],
+      "evidence": [
+        "这一次是恽尘亲自带队到此",
+        "恽尘笑道：“小事耳。”",
+        "恽尘此刻往外看了一眼，道：“军府可是快要发动征战了？”"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "鲁罡英",
+      "aliases": [
+        "鲁军候"
+      ],
+      "identity": "军候",
+      "faction": "军府",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "军府军候，因煽动军心被莫若华正法。",
+      "appearance": [
+        "薄唇隆额，身形瘦高"
+      ],
+      "personality": [
+        "冲动",
+        "好斗"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "刘军候",
+          "type": "同僚"
+        },
+        {
+          "target": "明校尉",
+          "type": "被羞辱"
+        },
+        {
+          "target": "莫若华",
+          "type": "被斩杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与同僚议论修士，后去找明校尉被拒，再找莫若华时被斩杀。"
+        }
+      ],
+      "evidence": [
+        "鲁军候站在一边看去没什么情绪，道：“是又怎么样？”",
+        "鲁军候的脸孔顿时涨得通红，拳头也是攥得死紧",
+        "鲁罡英于战前煽动军心，用意险恶，现我以军府授我临战专断之权予以正法。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "明校尉",
+      "aliases": [
+        "明校尉"
+      ],
+      "identity": "封号披甲校尉",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "军府校尉，有临战专断之权，拒绝鲁军候的请求并羞辱之。",
+      "appearance": [],
+      "personality": [
+        "直率",
+        "毒舌"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鲁罡英",
+          "type": "被请求后羞辱"
+        },
+        {
+          "target": "从副",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拒绝鲁军候的请求，并开玩笑认干儿子。"
+        }
+      ],
+      "evidence": [
+        "明校尉十分惊奇的看着他们",
+        "明校尉嗤了一声，“火气还挺大的么”",
+        "明校尉摆摆手，无所谓道：“我方才只是开个玩笑”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "莫若华",
+      "aliases": [
+        "莫校尉"
+      ],
+      "identity": "封号披甲校尉",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "军府女校尉，重视荣誉，以临战专断之权斩杀鲁罡英。",
+      "appearance": [
+        "身披军校大氅，手按佩剑"
+      ],
+      "personality": [
+        "果断",
+        "严厉"
+      ],
+      "abilities": [],
+      "equipment": [
+        "佩剑"
+      ],
+      "relationships": [
+        {
+          "target": "鲁罡英",
+          "type": "斩杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接见鲁军候等人，以煽动军心为由斩杀鲁罡英。"
+        }
+      ],
+      "evidence": [
+        "莫若华身披军校大氅，手按佩剑站在那里",
+        "莫若华一点头，忽然拔剑出鞘",
+        "她平静的还剑归鞘，道：“鲁罡英于战前煽动军心，用意险恶，现我以军府授我临战专断之权予以正法。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "刘军候",
+      "aliases": [
+        "刘军候"
+      ],
+      "identity": "军候",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "军府军候，挑动鲁军候等人去找校尉出头。",
+      "appearance": [
+        "薄唇隆额，身形瘦高"
+      ],
+      "personality": [
+        "阴险",
+        "煽动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "鲁罡英",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在观台上煽动其他军候去找校尉出头。"
+        }
+      ],
+      "evidence": [
+        "刘军候朝远处一座军垒一努嘴",
+        "刘军候看向鲁军候，道：“鲁军候，你说呢？”",
+        "刘军候看着他们离去的身影，玩味一笑。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "从副",
+      "aliases": [],
+      "identity": "明校尉的从副",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "明校尉的从副，提醒明校尉玩笑可能带来的后果。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明校尉",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提醒明校尉玩笑可能被当真。"
+        }
+      ],
+      "evidence": [
+        "从副这时道：“校尉，你刚才不能那么说……”",
+        "从副却是提醒道：“校尉，可要是方才那人不要脸，索性来个顺势退舟，当场认了校尉做义父呢？”"
+      ],
+      "mention_count": 2
+    }
+  ]
+}
