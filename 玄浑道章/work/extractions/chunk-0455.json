@@ -1,0 +1,365 @@
+{
+  "chunk_id": "chunk-0455",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳上洲玄正，修为高深，与竺玄首、恽尘等人有交集，正在调查袁大匠之事。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "心光送渡",
+        "遁光飞行"
+      ],
+      "equipment": [
+        "玄正玉章"
+      ],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "同僚"
+        },
+        {
+          "target": "恽尘",
+          "type": "同僚"
+        },
+        {
+          "target": "明善道人",
+          "type": "同僚"
+        },
+        {
+          "target": "曹定",
+          "type": "下属"
+        },
+        {
+          "target": "温良",
+          "type": "下属"
+        },
+        {
+          "target": "时悦",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往青阳玄府见证玄首交接，后返回良州庄园，翻看道书，并安排调查袁大匠。"
+        }
+      ],
+      "evidence": [
+        "张御处置完事情之后，便自内堂出来",
+        "张御见状，略微已是猜到了竺玄首请自己过来的用意",
+        "张御思考了一下，曹度这个判断十分有道理。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "明善道人",
+      "aliases": [
+        "明善"
+      ],
+      "identity": "道人",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳玄府的道人，陪同张御前往鹤殿。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "竺玄首",
+          "type": "下属"
+        },
+        {
+          "target": "恽尘",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同前往青阳玄府，见证玄首交接。"
+        }
+      ],
+      "evidence": [
+        "明善道人打一个稽首，道：“玄正请。”",
+        "明善道人这时对恽尘打一个稽首，道：“见过玄首。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [
+        "竺玄首"
+      ],
+      "identity": "青阳玄府玄首",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳玄府现任玄首，即将与强敌交手，将玄首之位传给弟子恽尘。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "有担当"
+      ],
+      "abilities": [],
+      "equipment": [
+        "玄首章印",
+        "金色帛书",
+        "玉简"
+      ],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "明善道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在鹤殿将玄首之位传给恽尘，并赠予张御道书玉简。"
+        }
+      ],
+      "evidence": [
+        "竺玄首此刻正站在那里，而恽尘则是规规矩矩立他的身后。",
+        "竺玄首道：“今请张玄正来此，是因为不日我将与一位久已潜匿不出的大敌交手”",
+        "竺玄首摇头道：“这并不是什么珍奇的东西”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "恽尘",
+      "aliases": [
+        "恽道友"
+      ],
+      "identity": "青阳玄府新任玄首（代）",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "竺玄首的弟子，接任玄首之位，修为与张御在同一层次。",
+      "appearance": [
+        "气机充盈，两目有神"
+      ],
+      "personality": [
+        "恭敬",
+        "严肃"
+      ],
+      "abilities": [
+        "元神照影"
+      ],
+      "equipment": [
+        "玄首章印"
+      ],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "明善道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在鹤殿接受玄首之位，成为代玄首。"
+        }
+      ],
+      "evidence": [
+        "恽尘则是规规矩矩立他的身后。",
+        "恽尘收起玄首章印，退后一步，肃容言道：“恽尘必当牢记。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "曹定",
+      "aliases": [
+        "曹玄修"
+      ],
+      "identity": "玄修",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，负责传递书信。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "曹度",
+          "type": "亲属（推测）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从曹度处带回书信交给张御。"
+        }
+      ],
+      "evidence": [
+        "曹定进入了书房，对他一礼之后，就将一封书信呈上"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "将军",
+      "faction": "军府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "军府将军，与张御有书信往来，提供袁大匠的线索。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "通信"
+        },
+        {
+          "target": "曹定",
+          "type": "亲属（推测）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回信给张御，告知袁大匠可能在营州军垒。"
+        }
+      ],
+      "evidence": [
+        "曹度在信中言及这位袁大匠在大战之前一直在营州之中"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "温良",
+      "aliases": [],
+      "identity": "张御下属",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，参与讨论调查袁大匠的计划。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "时悦",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御、时悦讨论调查袁大匠的计划。"
+        }
+      ],
+      "evidence": [
+        "温良思考片刻，道：“玄正，这个想法是可行的”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "时悦",
+      "aliases": [],
+      "identity": "张御下属",
+      "faction": "青阳玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，参与讨论调查袁大匠的计划。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        },
+        {
+          "target": "温良",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御、温良讨论调查袁大匠的计划。"
+        }
+      ],
+      "evidence": [
+        "时悦也道：“军府内部对神异力量防范也很严密”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "袁大匠",
+      "aliases": [],
+      "identity": "大匠",
+      "faction": "军府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "军府的大匠，张御正在调查其下落。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "据曹度推测，可能在营州军垒。"
+        }
+      ],
+      "evidence": [
+        "曹度在信中言及这位袁大匠在大战之前一直在营州之中"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

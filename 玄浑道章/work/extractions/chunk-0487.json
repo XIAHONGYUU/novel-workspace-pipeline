@@ -1,0 +1,471 @@
+{
+  "chunk_id": "chunk-0487",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄正，负责处理造物人事件，与蒙严、万明道人等商议事务。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "公正"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万明道人",
+          "type": "下属"
+        },
+        {
+          "target": "蒙严",
+          "type": "同僚"
+        },
+        {
+          "target": "齐羽",
+          "type": "间接关联"
+        },
+        {
+          "target": "惠元武",
+          "type": "处置对象"
+        },
+        {
+          "target": "恽尘",
+          "type": "下属"
+        },
+        {
+          "target": "郑瑜",
+          "type": "学生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "与万明道人商议灵关替换及惠元武处置，与蒙严赏花品茶，拟文书召恽尘。"
+        }
+      ],
+      "evidence": [
+        "张御道：“从天机部交代的情况来看，惠道友身上的确有改换他意识的后手存在”",
+        "张御否道：“此事惠道友也有知悉之权，我们不该瞒着他”",
+        "张御将名单放下，道：“名单我看过了，就按万明道友的安排”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "万明道人",
+      "aliases": [
+        "万明道友"
+      ],
+      "identity": "道人",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御下属，负责带领修士前往灵关替换范澜、齐武等人。",
+      "appearance": [],
+      "personality": [
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "齐羽",
+          "type": "助手"
+        },
+        {
+          "target": "惠元武",
+          "type": "关注对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "向张御请示惠元武处置，并接受前往灵关的任务。"
+        }
+      ],
+      "evidence": [
+        "万明道人趁张御看名单的时候，出声言道：“齐羽道友托我问一下玄正，会如何处置惠元武？”",
+        "万明道人道：“我明白了。”",
+        "万明道人道：“在下记下了。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "蒙严",
+      "aliases": [
+        "蒙监御使",
+        "蒙使君"
+      ],
+      "identity": "监御使",
+      "faction": "两府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "监御使，年过百岁，即将回玉京述职并颐养天年。",
+      "appearance": [],
+      "personality": [
+        "感慨",
+        "放松"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "洲牧",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "邀请张御赏花，告知两府议书已出，将亲往玉京呈报。"
+        }
+      ],
+      "evidence": [
+        "蒙严在一个间精致的石亭之中坐着，望见张御，起身见礼，道：“张玄正。”",
+        "蒙严看着满园金黄的桂花树，感慨道：“一转四十多年，这些桂花树还是检正司初立之时我亲手栽种的”",
+        "蒙严道：“再有半月时日，洲牧会稍晚一些，恐要等我上报奏书之后，玉京的新任洲牧到来，方才会离任。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "齐羽",
+      "aliases": [
+        "齐羽道友"
+      ],
+      "identity": "修士",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "万明道人的重要助手，关心惠元武的处置。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万明道人",
+          "type": "助手"
+        },
+        {
+          "target": "惠元武",
+          "type": "关心"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "万明道人趁张御看名单的时候，出声言道：“齐羽道友托我问一下玄正，会如何处置惠元武？”",
+        "万明道人道：“齐羽道友还拜托我请问玄正，惠道友一直不知他自身是造物人”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "惠元武",
+      "aliases": [
+        "惠道友"
+      ],
+      "identity": "造物人修士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被天机部控制的造物人修士，后意识后手被销毁，将被派往域外。",
+      "appearance": [],
+      "personality": [
+        "心志坚定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "处置对象"
+        },
+        {
+          "target": "齐羽",
+          "type": "被关心"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "张御决定告知其造物人身份，并安排其守域外。"
+        }
+      ],
+      "evidence": [
+        "张御道：“从天机部交代的情况来看，惠道友身上的确有改换他意识的后手存在”",
+        "张御否道：“此事惠道友也有知悉之权，我们不该瞒着他”",
+        "他心志坚定，我信他能守住己心"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "范澜",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "在灵关的修士，将被万明道人替换。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "万明道人在张御安排之下，拣选了百名修士和两百名弟子，准备率领这些人前往灵关，替换范澜、齐武等人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "齐武",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "在灵关的修士，将被万明道人替换。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "万明道人在张御安排之下，拣选了百名修士和两百名弟子，准备率领这些人前往灵关，替换范澜、齐武等人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "恽尘",
+      "aliases": [],
+      "identity": "玄府人员",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的下属，被召来商议奏书事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "张御拟文书命人送去玄府，让恽尘尽快赶来。"
+        }
+      ],
+      "evidence": [
+        "张御回去之后，立刻拟了一封文书命人送去玄府，让恽尘尽快赶来。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "段能",
+      "aliases": [
+        "连连",
+        "段兄"
+      ],
+      "identity": "郎君",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的旧识，与王薄、郑瑜在连山居聚会。",
+      "appearance": [
+        "身量富态",
+        "眉清目秀",
+        "皮肤白",
+        "穿大红福团衣"
+      ],
+      "personality": [
+        "贪吃",
+        "乐观"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王薄",
+          "type": "朋友"
+        },
+        {
+          "target": "郑瑜",
+          "type": "朋友"
+        },
+        {
+          "target": "余兄",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "与王薄、郑瑜在连山居聚餐，谈论余兄得子。"
+        }
+      ],
+      "evidence": [
+        "段能满满的把自己塞在座椅里，自东庭到青阳已是过去三年有余，他身量非但未减，看去还富态了一大圈",
+        "段能使劲把自己从座位里挤出来，他回了一下礼，随后努力踮起脚，用手比划了一下自己与郑瑜的个头",
+        "段能一把抓过书信一看，睁大眼道：“还真是，咦，余兄这儿子怀胎十八个月才生，倒是有些玄异啊。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "王薄",
+      "aliases": [
+        "王兄"
+      ],
+      "identity": "郎君",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的旧识，与段能、郑瑜聚会，提及余兄得子。",
+      "appearance": [
+        "唇上蓄起胡须",
+        "稳重"
+      ],
+      "personality": [
+        "稳重"
+      ],
+      "abilities": [],
+      "equipment": [
+        "折扇"
+      ],
+      "relationships": [
+        {
+          "target": "段能",
+          "type": "朋友"
+        },
+        {
+          "target": "郑瑜",
+          "type": "朋友"
+        },
+        {
+          "target": "余兄",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "与段能、郑瑜在连山居聚餐，拿出余兄书信。"
+        }
+      ],
+      "evidence": [
+        "王薄则是坐的对面，三年多的历练，原本眉宇间的轻佻已经不见，而且他唇上蓄起了胡须，看着颇是稳重了许多。",
+        "王薄拿折扇一点他，笑道：“我看段兄是馋这里的一桌好菜了吧？”",
+        "王薄道：“是啊。余兄现在是都护府的‘置农史’了”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "郑瑜",
+      "aliases": [
+        "郑兄",
+        "郑郎君",
+        "郑瑜小郎君"
+      ],
+      "identity": "郎君",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的学生，与段能、王薄聚会，答应代为向张御请求为余兄之子起名。",
+      "appearance": [
+        "个头高"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "段能",
+          "type": "朋友"
+        },
+        {
+          "target": "王薄",
+          "type": "朋友"
+        },
+        {
+          "target": "张御",
+          "type": "学生"
+        },
+        {
+          "target": "余兄",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "赴段能、王薄之约，答应代为向张御请求为余兄之子起名。"
+        }
+      ],
+      "evidence": [
+        "郑瑜小郎君已是自外走了进来，见到两人，他面上露出欣喜之色，拱手道：“段兄、王兄，上次一别已是长远，可还好么？”",
+        "郑瑜想了想，道：“我过后正好要和一位同门一同去拜见张先生，这事就交给我吧。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "余兄",
+      "aliases": [],
+      "identity": "置农史",
+      "faction": "都护府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的学生，在都护府任置农史，喜得麟儿。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "学生"
+        },
+        {
+          "target": "段能",
+          "type": "朋友"
+        },
+        {
+          "target": "王薄",
+          "type": "朋友"
+        },
+        {
+          "target": "郑瑜",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "别宴",
+          "event": "喜得麟儿，托王薄请郑瑜代为向张御请求起名。"
+        }
+      ],
+      "evidence": [
+        "余兄现在是都护府的‘置农史’了",
+        "余兄上月来的书信，他喜得了一个麟儿。",
+        "余兄对他儿子可是寄予厚望。"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

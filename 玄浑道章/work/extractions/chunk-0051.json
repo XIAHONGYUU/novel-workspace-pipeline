@@ -1,0 +1,123 @@
+{
+  "chunk_id": "chunk-0051",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "师弟"
+      ],
+      "identity": "玄修，旧修老师的学生",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "冷静理智的玄修，正在被追杀，与桃定符有旧。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "有智"
+      ],
+      "abilities": [
+        "剑术",
+        "使用弩机"
+      ],
+      "equipment": [
+        "夏剑",
+        "弩机",
+        "弩箭",
+        "骨哨"
+      ],
+      "relationships": [
+        {
+          "target": "桃定符",
+          "type": "师兄"
+        },
+        {
+          "target": "蔡蕹",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被追杀，与桃定符交谈后继续东行。"
+        }
+      ],
+      "evidence": [
+        "张御策马离开了驻地后，很快感觉到身后有人追了上来",
+        "张御问道：“方才是桃师兄引开那人的？”",
+        "师弟你还是这么有冷静有智"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "桃定符",
+      "aliases": [
+        "桃师兄"
+      ],
+      "identity": "真修，张御的师兄",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "真修，帮助张御引开追兵，但不愿直接参与玄修争斗。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "重视诺言"
+      ],
+      "abilities": [
+        "法术"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用骨哨召唤后出现，与张御交谈后消失。"
+        }
+      ],
+      "evidence": [
+        "桃定符笑道：“不过是一些小伎俩罢了”",
+        "桃定符道：“其他人我不知道，但是你那个蔡师兄，也就是那个蔡蕹，很可能与那些追杀你的人是一伙的。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "蔡蕹",
+      "aliases": [
+        "蔡师兄"
+      ],
+      "identity": "玄修，张御的同门",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御的同门，疑似与追杀者一伙。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被桃定符提及可能背叛。"
+        }
+      ],
+      "evidence": [
+        "但是你那个蔡师兄，也就是那个蔡蕹，很可能与那些追杀你的人是一伙的。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

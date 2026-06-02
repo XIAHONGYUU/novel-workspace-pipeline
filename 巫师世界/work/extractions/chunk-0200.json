@@ -1,0 +1,220 @@
+{
+  "chunk_id": "chunk-0200",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，正在挑选护卫和学徒，雇佣了南希等人。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗西斯",
+          "type": "离开"
+        },
+        {
+          "target": "丽丝佩尔",
+          "type": "送礼者"
+        },
+        {
+          "target": "伊万得",
+          "type": "班尼思家族联系人"
+        },
+        {
+          "target": "南希·艾利叶",
+          "type": "雇佣"
+        },
+        {
+          "target": "尤里",
+          "type": "已故朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "检查丽丝佩尔送的箱子，挑选护卫和学徒，雇佣南希等人。"
+        }
+      ],
+      "evidence": [
+        "等到罗西斯离开后，安格列才一一打开那些另外的五个箱子。",
+        "安格列走过去，翻开封面扫了眼。",
+        "他思索了一会，伸手果断点在南希的秘法印记上。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "罗西斯",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "离开",
+      "first_appearance": "",
+      "summary": "在安格列打开箱子前离开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "离开"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "离开安格列处。"
+        }
+      ],
+      "evidence": [
+        "等到罗西斯离开后，安格列才一一打开那些另外的五个箱子。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "丽丝佩尔",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "送给安格列四个地犀卵、巨树之心、魔石等礼物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "送礼"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "赠送礼物给安格列。"
+        }
+      ],
+      "evidence": [
+        "这是丽丝佩尔额外送给他的礼物。",
+        "丽丝佩尔一次性送了四个，就算安格列自己不用，也可以用来和人交换成其他资源。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "伊万得",
+      "aliases": [],
+      "identity": "班尼思家族的年轻学徒",
+      "faction": "班尼思家族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "为安格列送来护卫和学徒的挑选名册，并讲解相关事宜。",
+      "appearance": [],
+      "personality": [
+        "礼貌",
+        "耐心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "服务"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送来名册并讲解，统计安格列挑选的人选。"
+        }
+      ],
+      "evidence": [
+        "来的是伊万得，这个最开始和安格列接触的年轻学徒。",
+        "伊万得站在沙发边，一直维持着礼貌的微笑，丝毫没有露出不耐的表情。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "南希·艾利叶",
+      "aliases": [
+        "南希"
+      ],
+      "identity": "三等女学徒",
+      "faction": "",
+      "status": "被雇佣",
+      "first_appearance": "",
+      "summary": "迷盘学院出身的三等学徒，擅长巫师之书抄录制作和战斗，家族破败，被安格列雇佣。",
+      "appearance": [
+        "金色长发被绑成马尾束在脑后",
+        "相貌清秀严肃"
+      ],
+      "personality": [
+        "认真"
+      ],
+      "abilities": [
+        "巫师之书抄录制作",
+        "战斗"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被雇佣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列雇佣。"
+        }
+      ],
+      "evidence": [
+        "画册上的学徒，是个三等女学徒，相貌清秀严肃，金色长发被绑成马尾束在脑后，给人一种极其认真的感觉。",
+        "南希·艾利叶，22岁。来源：迷盘学院。实力：三等学徒。",
+        "他思索了一会，伸手果断点在南希的秘法印记上。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "尤里",
+      "aliases": [],
+      "identity": "白牙城堡的学徒",
+      "faction": "白牙城堡",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "安格列的朋友，被派去驻边后惨死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两年前",
+          "event": "被派去驻边，后惨死。"
+        }
+      ],
+      "evidence": [
+        "帮我查一个人吧，白牙城堡的一个名叫尤里的学徒，现在情况怎么样？听说他前些年被派出去外出驻边了。",
+        "白牙城堡两年前，外出驻边的人，从学徒包括巫师，不知道什么原因，全部惨死在自己的驻守区域内。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "chunk_id": "chunk-1330",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，主导对莫契神族的战斗，使用道音和道箓击败神莫。",
+      "appearance": [
+        "玉袍",
+        "大袖飘飘",
+        "云芝玉台",
+        "玉雾星光"
+      ],
+      "personality": [],
+      "abilities": [
+        "道音",
+        "道箓",
+        "心光引渡"
+      ],
+      "equipment": [
+        "指心舟",
+        "元都玄图玉符"
+      ],
+      "relationships": [
+        {
+          "target": "神莫",
+          "type": "敌对"
+        },
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "荀季",
+          "type": "给予玉符"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "喝出道音，显现道箓，与神莫交战。"
+        },
+        {
+          "stage": "战后",
+          "event": "返回间层与众修会合，后前往阵法与廷执们商议。"
+        }
+      ],
+      "evidence": [
+        "张御又是喝出了一个道音，道箓上面又是浮现出来了一个“绝”字。",
+        "张御一身玉袍，大袖飘飘，立站在天之高处",
+        "张御心意一召，将指心舟唤来"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "神莫",
+      "aliases": [
+        "莫神",
+        "莫契神族"
+      ],
+      "identity": "莫契神族之神",
+      "faction": "莫契神族",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "莫契神族的神祇，试图利用灵性预言完成窃取至高力量的最后一步，最终被张御击败，神性被至高反夺而消散。",
+      "appearance": [
+        "金光"
+      ],
+      "personality": [
+        "犹疑",
+        "谨慎"
+      ],
+      "abilities": [
+        "神性",
+        "窃取至高力量",
+        "缔结约誓"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "天夏玄廷",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "感应灵性预言应验，从间层遁入世间。"
+        },
+        {
+          "stage": "战斗",
+          "event": "试图融合应兆灵性，被清穹之气迟滞，失败。"
+        },
+        {
+          "stage": "死亡",
+          "event": "被张御道音‘诛’字击中，神性流逝，化为虚无。"
+        }
+      ],
+      "evidence": [
+        "莫神此刻感觉到的，就是灵性预言应验了",
+        "神莫这时候已经被六正天言带来的危险刺激的心神战栗",
+        "祂的身影渐渐由实转虚，最后化散成了一片金砂"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "林廷执",
+      "aliases": [],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，参与对莫契神族的战斗，与钟、崇二人一同引动清穹之气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "察觉神莫渡入世间，与钟、崇二人引动清穹之气。"
+        },
+        {
+          "stage": "战后",
+          "event": "与张御等廷执会合，商议解决神司。"
+        }
+      ],
+      "evidence": [
+        "清穹云海之上，林廷执察觉到了一股神异力量正在往世间渡来",
+        "林廷执此刻道：“张廷执回来了，廷执那里可是顺利么？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "钟廷执",
+      "aliases": [],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，与林、崇二人一同引动清穹之气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "崇廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与林、崇二人一同引动清穹之气。"
+        }
+      ],
+      "evidence": [
+        "林廷执察觉到了一股神异力量正在往世间渡来，便对钟、崇二人唤了一声"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "崇廷执",
+      "aliases": [],
+      "identity": "天夏玄廷廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏玄廷廷执，与林、钟二人一同引动清穹之气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "钟廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与林、钟二人一同引动清穹之气。"
+        }
+      ],
+      "evidence": [
+        "林廷执察觉到了一股神异力量正在往世间渡来，便对钟、崇二人唤了一声"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "英颛",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，与金郅行联手杀掉了欲鳄。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与金郅行联手杀掉了欲鳄。"
+        }
+      ],
+      "evidence": [
+        "英颛、金郅行二人联手杀掉了欲鳄"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "金郅行",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，与英颛联手杀掉了欲鳄。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "英颛",
+          "type": "战友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "与英颛联手杀掉了欲鳄。"
+        }
+      ],
+      "evidence": [
+        "英颛、金郅行二人联手杀掉了欲鳄"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "焦尧",
+      "aliases": [
+        "老龙"
+      ],
+      "identity": "天夏修士（龙族）",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一条老龙，在战斗中起到压迫作用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "转至诸人斗战之地，形成压迫。"
+        }
+      ],
+      "evidence": [
+        "这条老龙方才转到了诸人斗战之地"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "伊神",
+      "aliases": [],
+      "identity": "神祇（原四柱神之一？）",
+      "faction": "未知",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "推开门户后消耗大量神性，恢复后加入斗战，亲手斩杀一名四柱神。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "神性"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战斗",
+          "event": "推开门户后消耗神性，恢复后加入斗战，斩杀一名四柱神。"
+        }
+      ],
+      "evidence": [
+        "伊神推开门户后消耗了大量神性，可是待恢复了一些之后，也是加入了斗战，并参与亲手斩杀了一名四柱神。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "瞻空道人",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "落座于阵法之上，参与后续对神司的处置。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "落座于阵法之上，与廷执们会合。"
+        }
+      ],
+      "evidence": [
+        "瞻空道人正落座于此"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "荀季",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "给予张御元都玄图玉符的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "给予玉符"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "张御思索片刻，便拿动荀季给他的元都玄图的玉符"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

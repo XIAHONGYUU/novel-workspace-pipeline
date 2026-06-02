@@ -1,0 +1,347 @@
+{
+  "chunk_id": "chunk-0256",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，拥有金属天赋力场和芯片辅助，参与抢夺符文水晶。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "金属天赋力场",
+        "芯片分析",
+        "操控金属尖刺",
+        "释放银色细丝"
+      ],
+      "equipment": [
+        "荆棘之光指环",
+        "波浪形弯刀",
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "佩里",
+          "type": "同伙"
+        },
+        {
+          "target": "巴隆",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺前夜",
+          "event": "分析荆棘之光指环，收好魔器。"
+        },
+        {
+          "stage": "抢夺当天",
+          "event": "与佩里等人联手攻击巴隆，击败黑影，夺取符文水晶。"
+        }
+      ],
+      "evidence": [
+        "安格列默问。他前几天就开始分析这枚戒指了。",
+        "安格列手一指，一道银色金属尖刺缓缓浮现在他身边。",
+        "安格列伸出手，对准仅存的四名白袍。嗤！！无数银色细丝瞬间射出。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "佩里",
+      "aliases": [],
+      "identity": "白袍巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "白袍巫师，与安格列等人联手抢夺符文。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [
+        "传音",
+        "释放火焰流喷射"
+      ],
+      "equipment": [
+        "黄色木片（用于瞬移）"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伙"
+        },
+        {
+          "target": "巴隆",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "带头攻击巴隆，后使用木片瞬移躲避风暴元素。"
+        }
+      ],
+      "evidence": [
+        "佩里嘴唇动了动，传音过来。",
+        "佩里忽然站出来，大声说。",
+        "佩里脸上变了。他退后两步，慌忙从腰囊里摸出一块黄色木片，手往上一按，顿时身体迅速消失在原处。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "巴隆",
+      "aliases": [],
+      "identity": "巫师，符文持有者",
+      "faction": "",
+      "status": "昏迷",
+      "first_appearance": "",
+      "summary": "符文水晶的持有者，被安格列等人围攻后昏迷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "召唤风暴元素",
+        "使用魔方防御",
+        "银色十字防御"
+      ],
+      "equipment": [
+        "符文水晶",
+        "黑色魔方",
+        "银色十字"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        },
+        {
+          "target": "佩里",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "被六人围攻，召唤风暴元素，后被安格列击昏。"
+        }
+      ],
+      "evidence": [
+        "巴隆站在船头，平静地望着所有人。",
+        "巴隆脸色微变，不到两秒的时间，和他一样身高的巨大火球便已经快要到自己面前了。",
+        "嘭的一声，巴隆被猛地一下打飞，划出一道直线，狠狠撞在船舷上，直接吐了口血，昏迷过去。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "诺培",
+      "aliases": [],
+      "identity": "白袍巫师",
+      "faction": "",
+      "status": "昏迷",
+      "first_appearance": "",
+      "summary": "白袍巫师，参与抢夺，被风暴元素电晕。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伙"
+        },
+        {
+          "target": "佩里",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "与佩里一起上甲板，后被风暴元素电晕。"
+        }
+      ],
+      "evidence": [
+        "佩里和诺培。",
+        "歌尔尼和诺培反应慢了一拍，再想跑开，已经彻底来不及了。",
+        "两人同时萎靡在地，两眼翻白，浑身冒烟，直接晕了过去。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "歌尔尼",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "昏迷",
+      "first_appearance": "",
+      "summary": "参与抢夺的巫师，被风暴元素电晕。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "佩里",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "与佩里等人一起，后被风暴元素电晕。"
+        }
+      ],
+      "evidence": [
+        "看到佩里他们上来，先上来一步的歌尔尼连忙凑过来，和他们站在一起。",
+        "歌尔尼和诺培反应慢了一拍，再想跑开，已经彻底来不及了。",
+        "两人同时萎靡在地，两眼翻白，浑身冒烟，直接晕了过去。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "黑影",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "与安格列争夺符文水晶的巫师，被安格列击败。",
+      "appearance": [
+        "黑影"
+      ],
+      "personality": [],
+      "abilities": [
+        "使用黑匕首"
+      ],
+      "equipment": [
+        "黑匕首"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "偷袭巴隆未果，与安格列交手后被击伤。"
+        }
+      ],
+      "evidence": [
+        "黑匕首的那道黑影几乎是瞬间冲向昏迷的巴隆，抓向他手上的水晶符文。",
+        "黑影一阵翻滚，背部狠狠撞在船舱的入口背面，露出一张有些阴厉苍白的年轻男子面容。",
+        "黑影闷哼一声，倒飞出去，划出老远，胸口淌血，再也起不来了。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "雷林楠",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "出现在前方热气球上，手持巨弓瞄准安格列。",
+      "appearance": [
+        "金色长发"
+      ],
+      "personality": [],
+      "abilities": [
+        "使用巨弓",
+        "右眼有螺纹黑色漩涡"
+      ],
+      "equipment": [
+        "银白巨弓"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "在另一艘热气球上拉弓瞄准安格列。"
+        }
+      ],
+      "evidence": [
+        "雷林楠站在高处，金色长发随风飘动，手中提着一把巨大银白巨弓。",
+        "他的右眼亮着螺纹般黑色漩涡。",
+        "嘶……巨弓缓缓被拉开瞄准，无数细小蓝色电流漩涡般被吸引过去。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白袍夫妇",
+      "aliases": [],
+      "identity": "白袍巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "巴隆身边的两个白袍巫师，后逃离战场。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [
+        "释放白色光团防御"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "巴隆",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "协助巴隆防御，后逃离。"
+        }
+      ],
+      "evidence": [
+        "他身边站着两个一男一女的白袍巫师。",
+        "两名白袍这才清醒过来，连忙很有默契的上前一步，浑身泛起白色光晕，很快，两道白色光团浮现在三人身边，开始围绕三人迅速旋转。",
+        "另外那对白袍夫妇，也同样脸色一变，转身朝着其他地方跑开。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "四名白袍",
+      "aliases": [],
+      "identity": "白袍巫师",
+      "faction": "",
+      "status": "昏迷",
+      "first_appearance": "",
+      "summary": "巴隆手下的四名白袍巫师，被安格列用银色细丝击昏。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "巴隆",
+          "type": "手下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抢夺当天",
+          "event": "被安格列用银色细丝击昏。"
+        }
+      ],
+      "evidence": [
+        "安格列伸出手，对准仅存的四名白袍。",
+        "嗤！！无数银色细丝瞬间射出。",
+        "一秒过后。四人彻底昏迷过去，躺在甲板上。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

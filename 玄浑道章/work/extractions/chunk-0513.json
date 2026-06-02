@@ -1,0 +1,246 @@
+{
+  "chunk_id": "chunk-0513",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄修",
+        "张道友"
+      ],
+      "identity": "玄廷行走",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第十八章 奏报",
+      "summary": "玄廷行走，修为高深，斩杀裴岳，拥有玄廷行走印信，可上呈玄廷奏书。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "洞察力强"
+      ],
+      "abilities": [
+        "驾驭黄龙精魄",
+        "使用蝉鸣剑",
+        "心力灌入印信感应"
+      ],
+      "equipment": [
+        "蝉鸣剑",
+        "骨片（黄龙精魄寄托）",
+        "玄廷行走之印",
+        "星袋"
+      ],
+      "relationships": [
+        {
+          "target": "左道人",
+          "type": "同行道友"
+        },
+        {
+          "target": "裴岳",
+          "type": "敌对"
+        },
+        {
+          "target": "卫灵英",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与左道人探查巨舟，斩杀裴岳，收服黄龙精魄，后前往极地呈书之地书写奏书。"
+        }
+      ],
+      "evidence": [
+        "张御一抬袖，将玄廷行走之印托在掌心之中",
+        "张御道：“左道友，这骨片我便暂且收着”",
+        "他自星袋之中取出纸笔，便开始当场书写奏书。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "左道人",
+      "aliases": [
+        "左道友",
+        "左玄修"
+      ],
+      "identity": "奎宿地星修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第十八章 奏报",
+      "summary": "奎宿地星修士，与张御一同探查巨舟，谨慎多疑，不愿沾染烫手之物。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "多疑",
+        "务实"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同行道友"
+        },
+        {
+          "target": "裴岳",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御探查巨舟，怀疑有玄尊与上宸天牵连，后与张御统一口径上报。"
+        }
+      ],
+      "evidence": [
+        "左道人略所思忖，道：“道友所言也有几分道理”",
+        "左道人摇头道：“是张道友杀死了那裴岳，左某并未出得多少力”",
+        "左道人道：“张道友，此番回去，不知你当如何上报此事？”"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "裴岳",
+      "aliases": [
+        "裴道人"
+      ],
+      "identity": "疑似上宸天修士或相关者",
+      "faction": "上宸天（疑似）",
+      "status": "已死亡",
+      "first_appearance": "第十八章 奏报",
+      "summary": "被张御斩杀的反派，曾驾驭巨舟，使用阴像泥胎分身，真身藏于大厅。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "驾驭黄龙精魄",
+        "祭炼阴像泥胎分身"
+      ],
+      "equipment": [
+        "黄龙精魄",
+        "阴像泥胎",
+        "玉匣"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "左道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御斩杀，其真身被毁，黄龙精魄被收。"
+        }
+      ],
+      "evidence": [
+        "裴岳被杀死之后，这精魄就萎靡在了那里",
+        "裴岳真身藏于此处，又能驾驭这飞舟",
+        "裴岳或许与玄尊身边的某一人或者干脆就是其门下弟子有所牵扯"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "傅错",
+      "aliases": [],
+      "identity": "傅氏军军卒",
+      "faction": "傅氏军",
+      "status": "登场",
+      "first_appearance": "第十八章 奏报",
+      "summary": "傅氏军成员，在外守候，对巨舟内情况担忧。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "愤慨"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "左道人",
+          "type": "同军"
+        },
+        {
+          "target": "张御",
+          "type": "敬畏"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在外守候，后询问左道人情况。"
+        }
+      ],
+      "evidence": [
+        "傅错一直在外守着",
+        "傅错愤愤道：“我方才一看这人就觉得不是什么好路数”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "卫灵英",
+      "aliases": [
+        "卫军主"
+      ],
+      "identity": "卫氏军军主",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第十八章 奏报",
+      "summary": "卫氏军军主，与张御合作，驻守在地坑洞口附近。",
+      "appearance": [],
+      "personality": [
+        "认真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "驻守地坑洞口，后因飞舟陷落无法动身。"
+        }
+      ],
+      "evidence": [
+        "卫灵英等人一直驻守在地坑洞口附近",
+        "卫灵英认真道：“张玄修有事自去便可，不必顾及我等。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "靳小柏",
+      "aliases": [],
+      "identity": "卫氏军成员",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第十八章 奏报",
+      "summary": "卫氏军成员，向张御说明飞舟陷落情况。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "同军"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御报告飞舟陷落困境。"
+        }
+      ],
+      "evidence": [
+        "靳小柏苦恼道：“可是我们现在恐怕还无法动身。”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

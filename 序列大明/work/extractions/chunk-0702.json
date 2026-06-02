@@ -1,0 +1,190 @@
+{
+  "chunk_id": "chunk-0702",
+  "characters": [
+    {
+      "name": "杨白泽",
+      "aliases": [],
+      "identity": "儒序",
+      "faction": "",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "儒序成员，左臂齐肩而断，与商戮一同被东皇宫追杀。",
+      "appearance": [
+        "发髻凌乱",
+        "衣袍肮脏",
+        "左臂齐肩而断"
+      ],
+      "personality": [
+        "刚烈",
+        "愤世嫉俗"
+      ],
+      "abilities": [],
+      "equipment": [
+        "魏武卒手枪"
+      ],
+      "relationships": [
+        {
+          "target": "商戮",
+          "type": "同伴"
+        },
+        {
+          "target": "李大人",
+          "type": "上司"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与商戮在暗室中争论，后遭东皇宫袭击。"
+        }
+      ],
+      "evidence": [
+        "杨白泽箕坐在墙角位置，发髻凌乱，衣袍肮脏，左臂齐肩而断",
+        "杨白泽用后背紧紧抵着墙壁，竭力不让自己虚弱不堪的身体向下滑动"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "商戮",
+      "aliases": [],
+      "identity": "法序成员",
+      "faction": "法序",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "法序成员，与杨白泽一同被追杀，身上多处刀伤弹孔。",
+      "appearance": [
+        "一身刀伤和弹孔",
+        "鼻血不止",
+        "脸色苍白"
+      ],
+      "personality": [
+        "固执",
+        "有原则"
+      ],
+      "abilities": [
+        "律法之力"
+      ],
+      "equipment": [
+        "如刀法尺"
+      ],
+      "relationships": [
+        {
+          "target": "杨白泽",
+          "type": "同伴"
+        },
+        {
+          "target": "商司古",
+          "type": "同族"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与杨白泽争论法序理念，后遭东皇宫袭击。"
+        }
+      ],
+      "evidence": [
+        "商戮却不是很在意，随意扯下一截衣角裹住便算了事",
+        "商戮猛然抬头，冷冽的目光盯在杨白泽脸上"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "赵寅",
+      "aliases": [],
+      "identity": "东皇宫九君之一",
+      "faction": "东皇宫",
+      "status": "已死（被黄粱鬼顶替）",
+      "first_appearance": "",
+      "summary": "东皇宫九君之一，但已被黄粱鬼顶替。",
+      "appearance": [
+        "黄金面具"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以梦境出现，被商戮识破。"
+        }
+      ],
+      "evidence": [
+        "来人正是东皇宫九君之一的赵寅",
+        "或者说，这又是一头顶替上位的黄粱鬼"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "神荼",
+      "aliases": [],
+      "identity": "东皇宫成员",
+      "faction": "东皇宫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "东皇宫成员，女性，使用剑术，身体为钢铁打造。",
+      "appearance": [
+        "五官中媚意横生"
+      ],
+      "personality": [
+        "娇媚"
+      ],
+      "abilities": [
+        "兵序"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "袭击商戮和杨白泽，后被张嗣源击杀。"
+        }
+      ],
+      "evidence": [
+        "五官中媚意横生的女人抿嘴一笑",
+        "本君就不是你大明之人，连这具躯体也不过只是钢铁打造"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张嗣源",
+      "aliases": [
+        "张首辅"
+      ],
+      "identity": "首辅",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大明首辅，赶来救援商戮和杨白泽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "形如朵颜卫的枪械"
+      ],
+      "relationships": [
+        {
+          "target": "商戮",
+          "type": "有恩"
+        },
+        {
+          "target": "杨白泽",
+          "type": "疑似父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击杀神荼，救下商戮和杨白泽。"
+        }
+      ],
+      "evidence": [
+        "本公子千里奔袭赶来救你们，你们却有人想当我爹？"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

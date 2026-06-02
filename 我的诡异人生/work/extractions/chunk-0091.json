@@ -1,0 +1,121 @@
+{
+  "chunk_id": "chunk-0091",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "驭诡者，具备破幻返真能力",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第90章 “买路钱”",
+      "summary": "主角，拥有眼地藏咒印和模拟能力，正在探索一条被诡韵笼罩的道路。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "善于利用他人"
+      ],
+      "abilities": [
+        "破幻返真",
+        "模拟未来"
+      ],
+      "equipment": [
+        "背包",
+        "帝钟",
+        "罡洞",
+        "粗瓷碗",
+        "心诡纸张"
+      ],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "控制与被控制"
+        },
+        {
+          "target": "林光远",
+          "type": "控制与被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "让医生探路，发现道路被诡韵错叠，需要‘买路钱’才能通过。"
+        }
+      ],
+      "evidence": [
+        "苏午受到眼地藏咒印的加持，具备‘破幻返真’的能力",
+        "苏午看着医生在道路转弯处‘消失’后，往前延伸地整条公路因此产生的变化，心下点了点头。",
+        "苏午想了想，找了一个隐蔽的角落，躲在其中开启了一次模拟。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "医生",
+      "aliases": [],
+      "identity": "被苏午控制的驭诡者，类伥尸",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第90章 “买路钱”",
+      "summary": "被苏午利用探路的角色，拥有心相能力，被泥胎神像吞吃后消失。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "无奈"
+      ],
+      "abilities": [
+        "心相能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被控制"
+        },
+        {
+          "target": "林光远",
+          "type": "同被心诡控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午命令探路，在弯道处被泥胎神像吞吃。"
+        }
+      ],
+      "evidence": [
+        "医生看着前路。其亦能感觉到前路上诡韵的交织与流淌",
+        "医生脸色变幻一阵，答应了苏午的要求",
+        "一条条猩红的舌头从黑暗里探出，卷走了他的身体。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "林光远",
+      "aliases": [],
+      "identity": "被苏午控制的人，与医生类似",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第90章 “买路钱”",
+      "summary": "被苏午用作人质控制医生，未直接出场。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被控制"
+        },
+        {
+          "target": "医生",
+          "type": "同被心诡控制"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "林光远更是医生的命门。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

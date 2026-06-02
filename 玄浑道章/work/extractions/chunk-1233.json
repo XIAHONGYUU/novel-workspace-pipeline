@@ -1,0 +1,366 @@
+{
+  "chunk_id": "chunk-1233",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "陶先生"
+      ],
+      "identity": "眠麓城域驾阵之人",
+      "faction": "眠麓",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "眠麓城域的驾阵之人，与林老道敌对，但暂时合作。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "驾阵",
+        "弹指传讯"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林老道",
+          "type": "敌对，暂时合作"
+        },
+        {
+          "target": "朱宗护",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林老道沟通，同意其先攻熹王大军，并约定阵机信号。"
+        }
+      ],
+      "evidence": [
+        "张御道：“若当真能如此，他的确不必多此一举，诸位当可见到，方才以阵攻击我，此只是正攻之前的试探”",
+        "张御只一弹指，一道灵光就顺着两阵交融之处深入了对面阵中。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林老道",
+      "aliases": [
+        "林长老",
+        "林觉"
+      ],
+      "identity": "熹王阵营的阵法长老",
+      "faction": "熹王",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "熹王阵营的阵法长老，负责攻伐眠麓的大阵，实则心怀异志，计划先吞并熹王大军再攻眠麓。",
+      "personality": [
+        "谨慎",
+        "焦躁",
+        "有野心"
+      ],
+      "abilities": [
+        "驾阵",
+        "炼化军力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对，暂时合作"
+        },
+        {
+          "target": "熹王",
+          "type": "下属，但心怀背叛"
+        },
+        {
+          "target": "宋参议",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御沟通，决定先攻熹王大军，并约定阵机信号。"
+        },
+        {
+          "stage": "一月后",
+          "event": "收到熹王提前攻阵的命令，同意并准备。"
+        }
+      ],
+      "evidence": [
+        "林老道这时心神一动，见一道光芒过来，忙是运转阵法，接纳了过来，待心神一感，便知对面已是认同他所言，当下不觉一喜。",
+        "林老道言道：“阵法稳固，一如此前所想，也并无任何瑕疵，请转告熹王殿下，照此再巩固一下阵机，再过一至两月便可攻伐眠麓了。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "熹王",
+      "aliases": [
+        "殿下"
+      ],
+      "identity": "一方诸侯，眠麓的敌对势力首领",
+      "faction": "熹王阵营",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "眠麓的敌对势力首领，身中咒力，寿命将尽，计划提前攻阵并安排后事。",
+      "personality": [
+        "疲惫",
+        "果断",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "杖鞭",
+        "王座"
+      ],
+      "relationships": [
+        {
+          "target": "林老道",
+          "type": "下属"
+        },
+        {
+          "target": "卫道人",
+          "type": "谋士"
+        },
+        {
+          "target": "造物炼士（朱野横）",
+          "type": "子嗣/继任者"
+        },
+        {
+          "target": "朱辨业",
+          "type": "名义上的继任者，矛盾"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因咒力加重，决定提前攻阵，并饮下符水，安排后事。"
+        },
+        {
+          "stage": "三天后",
+          "event": "醒来，下令开始运阵。"
+        }
+      ],
+      "evidence": [
+        "熹王此刻坐于王座之上，他一脸精神不振的模样，他这一次催促林老道快些攻阵，倒不是他察觉到了什么，而是数天之前，他身上的咒力又加重了",
+        "熹王沉声道：“林觉承诺攻下大阵，并说攻阵十天已是足够，若是他不能完成此事，”他对身后的造物炼士关照一声，“就由朱野横代而为之。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "卫道人",
+      "aliases": [],
+      "identity": "熹王的谋士，精通符水之术",
+      "faction": "熹王阵营",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "熹王的谋士，为熹王提供符水延续生命，并暗示造物炼士准备继位。",
+      "personality": [
+        "淡然",
+        "深谋远虑"
+      ],
+      "abilities": [
+        "符水之术",
+        "炼丹"
+      ],
+      "equipment": [
+        "玉筑宝炉",
+        "玉碗",
+        "符箓",
+        "玉佩"
+      ],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "谋士"
+        },
+        {
+          "target": "造物炼士（朱野横）",
+          "type": "劝告其准备继位"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为熹王调制符水，并暗示造物炼士准备继位。"
+        }
+      ],
+      "evidence": [
+        "卫道人从袖中取出一只玉筑宝炉，打开之后，见其中却是灵光升腾，上面悬飘着一枚金光闪烁的符箓。",
+        "卫道人道：“你该准备一下了。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "造物炼士",
+      "aliases": [
+        "朱野横"
+      ],
+      "identity": "熹王的子嗣，造物炼士，可能的继任者",
+      "faction": "熹王阵营",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "熹王的子嗣，以造物炼士身份出现，被卫道人暗示准备继位。",
+      "personality": [
+        "沉默",
+        "警惕"
+      ],
+      "abilities": [],
+      "equipment": [
+        "蓝色气芒",
+        "罩衣",
+        "金铜面具"
+      ],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "子嗣"
+        },
+        {
+          "target": "卫道人",
+          "type": "被劝告"
+        },
+        {
+          "target": "朱辨业",
+          "type": "竞争继任者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被熹王指定为可能的继任者，若林老道失败则代其攻阵。"
+        }
+      ],
+      "evidence": [
+        "一个浑身散发着蓝色气芒，身着罩衣，带着金铜面具的造物炼士走了过来",
+        "造物炼士沉声道：“这是殿下的意思么？”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "宋参议",
+      "aliases": [],
+      "identity": "熹王阵营的参议官员",
+      "faction": "熹王阵营",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "熹王阵营的参议，负责传达命令和沟通。",
+      "personality": [
+        "恭敬",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林老道",
+          "type": "同阵营"
+        },
+        {
+          "target": "熹王",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向林老道传达熹王提前攻阵的命令。"
+        }
+      ],
+      "evidence": [
+        "宋参议上来问道：“林长老，如何了？”",
+        "宋参议强调道：“这是熹王殿下的传令，林长老只需遵行便好”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "阴奂庭",
+      "aliases": [],
+      "identity": "眠麓城域中的谋士",
+      "faction": "眠麓",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "眠麓城域中的谋士，考虑利用熹王战亡获取最大利益。",
+      "personality": [
+        "深谋远虑",
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "思考如何利用熹王战亡获取好处，并提及玄修势力。"
+        }
+      ],
+      "evidence": [
+        "阴奂庭在从主厅回来，则是盯着壁上的舆图直看。他此刻需要考虑的是，若是熹王真的战亡在此，那么该是如何利用这件事拿取到最大的好处。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "朱宗护",
+      "aliases": [],
+      "identity": "眠麓城域中的决策者",
+      "faction": "眠麓",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "眠麓城域中的决策者，同意张御的应对方案。",
+      "personality": [
+        "深思",
+        "郑重"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "同意张御回告林老道。"
+        }
+      ],
+      "evidence": [
+        "朱宗护深思了一下，郑重道：“那就劳烦陶先生了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "王道人",
+      "aliases": [],
+      "identity": "眠麓城域中的一员",
+      "faction": "眠麓",
+      "status": "登场",
+      "first_appearance": "第一百三十五章 布成始动阵",
+      "summary": "眠麓城域中的一员，向张御提问。",
+      "personality": [
+        "好学",
+        "认真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御提问关于吞夺策略。"
+        }
+      ],
+      "evidence": [
+        "王道人这时问道：“只是陶先生，我有一疑，既如先生所言，吞夺之后力可倍增，那为何不先攻我呢？”"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

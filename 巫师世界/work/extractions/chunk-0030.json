@@ -1,0 +1,210 @@
+{
+  "chunk_id": "chunk-0030",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "安格列·里奥"
+      ],
+      "identity": "乡下贵族次子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "在重伤后使用戒指能量爆发，击退追兵，随后被父亲救回，十五天后恢复大半，并分析戒指的奥秘。",
+      "appearance": [
+        "棕发少年",
+        "身上全是一圈圈灰布条包扎",
+        "脸色没有半点血色"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于分析"
+      ],
+      "abilities": [
+        "使用辐射能量加速",
+        "芯片辅助分析"
+      ],
+      "equipment": [
+        "绿宝石戒指",
+        "长剑",
+        "飞刀"
+      ],
+      "relationships": [
+        {
+          "target": "男爵",
+          "type": "父子"
+        },
+        {
+          "target": "迪斯",
+          "type": "敌人（已死）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "森林战斗后",
+          "event": "重伤昏迷两天，十五天后恢复大半，随马车前行。"
+        }
+      ],
+      "evidence": [
+        "安格列早就预料到零号的回复了。",
+        "安格列呆呆地躺在地上。身体整个从内向外散发着浓烈的绿光。",
+        "安格列点点头。“好多了，父亲。再过段时间，应该可以完全恢复健康。”"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "男爵",
+      "aliases": [],
+      "identity": "安格列的父亲，乡下贵族",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "在安格列重伤后赶来救援，并陪伴其恢复。",
+      "appearance": [],
+      "personality": [
+        "关心儿子"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "森林战斗后",
+          "event": "找到重伤的安格列，并带其离开。"
+        }
+      ],
+      "evidence": [
+        "男爵熟悉的身影正快速的朝着他冲过来。",
+        "男爵惊恐的面孔，焦急的神色",
+        "低沉的男声从车厢里传出来：“安格列，感觉好些了么？”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "零号",
+      "aliases": [
+        "芯片"
+      ],
+      "identity": "安格列体内的辅助芯片",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "为安格列提供数据分析与警告。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "数据分析",
+        "能量监测",
+        "光谱分析"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "宿主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "森林战斗",
+          "event": "警告辐射能量侵蚀，提示能量消耗。"
+        }
+      ],
+      "evidence": [
+        "“主体存活几率：5.15%。除预留方案外，无任何解救方案。”零号直接给出一个绝望的回复。",
+        "“警告！警告！辐射能量大量侵蚀主体，辐射能量大量侵蚀主体。储存能量快速消耗中……10%、9%、8%、7%……”",
+        "芯片零号似乎是在提示什么"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "迪斯",
+      "aliases": [],
+      "identity": "已故敌人",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "前文",
+      "summary": "戒指的原主人，因无法使用戒指而将其放在怀中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "绿宝石戒指（原持有）"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "前文",
+          "event": "被安格列杀死，戒指被夺。"
+        }
+      ],
+      "evidence": [
+        "当初戒指是从迪斯身上得到的。",
+        "迪斯应该也是刚刚到手的戒指，不然在临死也没有喊出启动字符"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "两名骑士",
+      "aliases": [],
+      "identity": "追兵",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "本章",
+      "summary": "被安格列用戒指能量杀死的追兵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "森林战斗",
+          "event": "被安格列斩杀。"
+        }
+      ],
+      "evidence": [
+        "两名骑士忽然脸色大变。“是魔化物品！快退！！！”",
+        "两名骑士使劲往前跑去，但两颗头颅却一下子往后滚落。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "其余三人",
+      "aliases": [],
+      "identity": "追兵",
+      "faction": "",
+      "status": "逃离",
+      "first_appearance": "本章",
+      "summary": "被安格列飞刀射中一人后，其余两人调头逃跑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "弓弩"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "森林战斗",
+          "event": "被安格列击退。"
+        }
+      ],
+      "evidence": [
+        "远处惨叫一声，顿时一阵骚乱，其余三人满脸惊恐的调转马头，转身就跑。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

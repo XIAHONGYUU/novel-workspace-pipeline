@@ -1,0 +1,429 @@
+{
+  "chunk_id": "chunk-0611",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张巡护"
+      ],
+      "identity": "奎宿巡护",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "奎宿巡护，负责调查异状，曾被困虢星禁阵。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "道法修为高深",
+        "能判别内外诸物"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "南宫漱",
+          "type": "同僚"
+        },
+        {
+          "target": "洪署主",
+          "type": "同僚"
+        },
+        {
+          "target": "师延辛",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从天城下来，在昙泉州花亭品茶，后与南宫漱会面，再前往内层入口探查。"
+        }
+      ],
+      "evidence": [
+        "张御从天城之上下来后，就在昙泉州中金台之前的一处花亭之中坐下品茶。",
+        "张御道：“我在来此之前，已先是去过军务署了，洪署主那里自有分寸，我只要还在奎宿待着，便会随时盯着此事。”",
+        "如今他道法修为已是极为高深，对内外诸物之判别也是异常精准"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "南宫漱",
+      "aliases": [
+        "南宫道友"
+      ],
+      "identity": "玄廷行走",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷行走，与张御会面，提及梁屹已离开奎宿，自身准备外出查探。",
+      "appearance": [],
+      "personality": [
+        "心气昂扬（过去）",
+        "心绪无波动（当前）"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "梁屹",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御在昙泉州会面，告知梁屹已离开，准备外出查探。"
+        }
+      ],
+      "evidence": [
+        "南宫漱就出现在了此间，对他拱手言道：“张巡护，有劳久等了。”",
+        "南宫漱语气自然道：“在下方才就在此附近，接到巡护的书信就立刻赶来了。”",
+        "近来在下除了盯着军务署这里，又顺带查问了一下那位梁道友"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "雍上师",
+      "aliases": [],
+      "identity": "幽城之人",
+      "faction": "幽城",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "幽城之人，与许成通密谋对付张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "同谋"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许成通商议，计划以书信引张御见面，制造苦战假象。"
+        }
+      ],
+      "evidence": [
+        "雍上师这里也是很快收到了消息，他对许成通道：“许执事，我的眼线来报，那位已是离开天城，往西北方向而去”",
+        "雍上师犹豫道：“若是这位通传军署……”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "许成通",
+      "aliases": [
+        "许执事"
+      ],
+      "identity": "幽城执事",
+      "faction": "幽城",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "幽城执事，与雍上师密谋对付张御，计划与张御照面后迅速脱离。",
+      "appearance": [],
+      "personality": [
+        "狡猾"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "雍上师",
+          "type": "同谋"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与雍上师商议，提出以书信引张御见面，并计划制造苦战假象。"
+        }
+      ],
+      "evidence": [
+        "许成通道：“这却容易，你直接去一封书信，说自己是幽城之人，想与他见上一面。他多半是会来的。”",
+        "他对付张御的办法其实很简单，那便是与张御照上一面，然后迅速脱离"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "师延辛",
+      "aliases": [
+        "师道友"
+      ],
+      "identity": "某位玄尊的记名弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄尊记名弟子，镇守内层入口，与张御交流阵法心得。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        },
+        {
+          "target": "余玄尊",
+          "type": "师门关系"
+        },
+        {
+          "target": "梁屹",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在内层入口处与张御相遇，介绍阵法布置及擅长阵法的道友。"
+        }
+      ],
+      "evidence": [
+        "张御目光一扫，意外发现师延辛也在此间",
+        "师延辛见到他，也是露出讶色，拱手一礼，道：“张巡护怎来此？”",
+        "师延辛点头道：“原是如此。”他想了想，道：“若以阵法来论，最为擅长此道的当是文恕文道友，还有薛霖薛道友”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "梁屹",
+      "aliases": [
+        "梁道友"
+      ],
+      "identity": "余玄尊大弟子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "余玄尊大弟子，被派遣去前方与敌相搏，后离开奎宿前往他处星宿。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余玄尊",
+          "type": "师徒"
+        },
+        {
+          "target": "师延辛",
+          "type": "同门"
+        },
+        {
+          "target": "南宫漱",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被派遣去前方与敌相搏。"
+        },
+        {
+          "stage": "当前",
+          "event": "已离开奎宿，前往他处星宿。"
+        }
+      ],
+      "evidence": [
+        "余玄尊大弟子梁屹被派遣去前方与敌相搏",
+        "近来在下除了盯着军务署这里，又顺带查问了一下那位梁道友，这位许是觉得在奎宿这里少有人愿意接纳观察者，故他现在已是往他处星宿去了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "洪署主",
+      "aliases": [],
+      "identity": "军务署署主",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "军务署署主，拜托张御判别内层入口异状。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传讯给守军，告知张御前来判别入口。"
+        }
+      ],
+      "evidence": [
+        "张御道：“我在来此之前，已先是去过军务署了，洪署主那里自有分寸”",
+        "旁边一名披甲军士一抱拳，道：“原来阁下就是张巡护，我们已是受到洪署主的传讯了”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "文恕",
+      "aliases": [
+        "文道友"
+      ],
+      "identity": "真修，擅长破阵解阵",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "擅长破阵解阵的真修，张御曾见过。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "破阵解阵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "相识"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "若以阵法来论，最为擅长此道的当是文恕文道友，还有薛霖薛道友，这两位都是真修，文道友擅长破阵解阵",
+        "张御道：“文道友我却是见过”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "薛霖",
+      "aliases": [
+        "薛道友"
+      ],
+      "identity": "真修，擅长布阵",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "擅长布阵的真修，昙泉州中有许多小阵由其所布。",
+      "appearance": [],
+      "personality": [
+        "脾性沉闷"
+      ],
+      "abilities": [
+        "布阵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "可能求教对象"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "薛道友擅长布阵，昙泉州中有许多小阵就是由薛道友所布。",
+        "师延辛稍作思量，道：“我可为张巡护修书一封，薛道友脾性沉闷，若是真求请到他门上，一般都会伸手帮忙”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "陆宣",
+      "aliases": [],
+      "identity": "差点成就的修士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "差点成就的修士，被张御打杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被张御打杀"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "似陆宣和那等差点成就的修士都被张御打杀"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戴玄尊",
+      "aliases": [],
+      "identity": "玄尊",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "奎宿上的玄尊，负责应付超过一定层次的力量。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "超过一定层次的力量自会有戴玄尊应付"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "余玄尊",
+      "aliases": [],
+      "identity": "玄尊",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄尊，已失势，其弟子承担更多责任。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "梁屹",
+          "type": "师徒"
+        },
+        {
+          "target": "师延辛",
+          "type": "师门关系"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "随着余玄尊失势，他一众弟子承担的责任自也大了起来"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "卫灵英",
+      "aliases": [],
+      "identity": "",
+      "faction": "卫氏军",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾希望将卫氏军驻地设在昙泉地州。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "卫灵英就曾带着几分向往说过，希望将来能把卫氏军的驻地设在昙泉地州之上。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

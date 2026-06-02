@@ -1,0 +1,278 @@
+{
+  "chunk_id": "chunk-0245",
+  "characters": [
+    {
+      "name": "短发女军士",
+      "aliases": [],
+      "identity": "军士",
+      "faction": "军府",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "负责考验学子的军士，传达学令的决定，并单独询问莫若华。",
+      "appearance": [
+        "短发"
+      ],
+      "personality": [
+        "严肃",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "考验中",
+          "event": "宣布投子规则，提醒陷阱可能，后单独询问莫若华。"
+        }
+      ],
+      "evidence": [
+        "短发女军士道：我已把方才那修士求援之事禀告给此次领队的学令了",
+        "短发女军士站在那里道：你是第一个做出选择的人"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "莫若华",
+      "aliases": [],
+      "identity": "学子",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "第一个投黑子的学子，表现出冷静和决断力。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "冷静"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "考验中",
+          "event": "第一个投黑子，后被短发女军士单独询问。"
+        }
+      ],
+      "evidence": [
+        "莫若华这时从座中站了起来，她在众人目光注视走到前面，直接从陶罐拿起一枚黑子，毫无犹豫的往竹篓之中一投",
+        "莫若华道：不救！因为我们有我们自己的任务。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "小遥",
+      "aliases": [],
+      "identity": "学子",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "跟随莫若华投黑子的学子。",
+      "appearance": [],
+      "personality": [
+        "盲从"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "追随"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "考验中",
+          "event": "跟着莫若华投黑子。"
+        }
+      ],
+      "evidence": [
+        "小遥想也不想，也是噔噔跑去跟着，跟着拿起一枚黑子投入了竹篓之中",
+        "小遥理所当然道：莫姐姐肯定是对的。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "嬴姓少女",
+      "aliases": [],
+      "identity": "学子",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "投黑子的学子，若有所思。",
+      "appearance": [],
+      "personality": [
+        "若有所思"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "考验中",
+          "event": "投黑子后询问小遥原因。"
+        }
+      ],
+      "evidence": [
+        "嬴姓少女看了一眼符纸烧尽的地方，若有所思，她也是走了上去，投入了一枚黑子",
+        "她问小遥道：你为什么投黑子？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "年轻弟子",
+      "aliases": [],
+      "identity": "学子",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "起初想救人，后被同门提醒醒悟。",
+      "appearance": [],
+      "personality": [
+        "冲动",
+        "知错能改"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "常姓修士",
+          "type": "师生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "考验中",
+          "event": "站起来想开口，被同门提醒后醒悟，对张御作揖。"
+        }
+      ],
+      "evidence": [
+        "这时一名年轻弟子终于忍不住站了起来，旁边的同门拉了下他的袖子，却被他一把甩开",
+        "他看向常姓修士道：老师，是不是……",
+        "年轻弟子顿时明白了，他露出了一丝轻松和释然，想了想，他又对着张御深深一揖"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "常姓修士",
+      "aliases": [
+        "常姓修士"
+      ],
+      "identity": "师教",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "学宫师教，教导学子。",
+      "appearance": [],
+      "personality": [
+        "严厉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻弟子",
+          "type": "师生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "考验后",
+          "event": "对年轻弟子说看破不说破。"
+        }
+      ],
+      "evidence": [
+        "常姓修士撇他一眼，道：看破不说破。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "教长",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "学宫教长，负责护持弟子，拒绝道派私约。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "坚定"
+      ],
+      "abilities": [
+        "能驱逐元神照影"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "考验后",
+          "event": "收到考验结果，后驱逐闯入的道人。"
+        }
+      ],
+      "evidence": [
+        "张御这时看他一眼，道：出去！",
+        "张御平静道：道派之定约乃是私义，护持诸弟子乃是公义"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "周姓修士",
+      "aliases": [],
+      "identity": "师教",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "学宫师教，面临道派约定与护持弟子的两难。",
+      "appearance": [],
+      "personality": [
+        "犹豫"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "道人闯入后",
+          "event": "与常姓修士商量是否随道人去。"
+        }
+      ],
+      "evidence": [
+        "周姓修士这时犹豫了一下，和常姓修士相互看了看，随后对着张御一拱手"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "道人",
+      "aliases": [],
+      "identity": "真修",
+      "faction": "灵妙玄境",
+      "status": "登场",
+      "first_appearance": "第十八章 选择",
+      "summary": "自称来自灵妙玄境的道人，以元神照影出现，要求众人协助，被张御驱逐。",
+      "appearance": [
+        "面目模糊",
+        "虚实不定"
+      ],
+      "personality": [
+        "傲慢"
+      ],
+      "abilities": [
+        "元神照影"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "考验后",
+          "event": "以元神照影闯入飞舟，要求协助，被张御驱逐。"
+        }
+      ],
+      "evidence": [
+        "这是一个面目模糊，负手而立道人，可以见到光影从身上透过",
+        "那道人虚实不定的身影立在那里，看向张御等人",
+        "那道人似还要说什么，可忽然之间，整个人倏地被一股力量推挤出去"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

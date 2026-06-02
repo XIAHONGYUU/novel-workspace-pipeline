@@ -1,0 +1,330 @@
+{
+  "chunk_id": "chunk-0201",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "戚某"
+      ],
+      "identity": "武道修行者，阎佛寺传人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，拥有地藏王佛性与燃灯佛念，推演出弥勒佛之道。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "冷酷"
+      ],
+      "abilities": [
+        "金刚杵",
+        "人皮袈裟",
+        "地藏王佛性",
+        "燃灯佛念",
+        "弥勒佛之道"
+      ],
+      "equipment": [
+        "金刚杵",
+        "人皮袈裟"
+      ],
+      "relationships": [
+        {
+          "target": "贪狼",
+          "type": "敌对"
+        },
+        {
+          "target": "死神僧",
+          "type": "继承者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在幻境中与贪狼交战，融合燃灯佛念与地藏王佛性，踏入弥勒佛之道。"
+        }
+      ],
+      "evidence": [
+        "戚笼的金刚杵一出，宏大庄严的降魔意念几乎要灭尽万魔",
+        "戚笼淡淡一笑，两眼之中，各有一道佛影",
+        "戚笼一把捏入燃灯佛念，将之与地藏王彻底合一"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "贪狼",
+      "aliases": [
+        "薛补庭"
+      ],
+      "identity": "半神强者，烛九阴使者，附身于薛补庭",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "敌对角色，附身于薛补庭，拥有皇极逆龙道和贪狼魔煞。",
+      "appearance": [],
+      "personality": [
+        "凶狠",
+        "果断"
+      ],
+      "abilities": [
+        "皇极逆龙道",
+        "贪狼魔煞",
+        "龙狼合一"
+      ],
+      "equipment": [
+        "奉龙甲"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "烛九阴",
+          "type": "使者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼在幻境中交战，吞噬半神意念，最终被戚笼击败。"
+        }
+      ],
+      "evidence": [
+        "贪狼单手挥扇，却又好似上古神器芭蕉扇用风力颠倒乾坤",
+        "贪狼附身的薛补庭一跃而起",
+        "贪狼怪吼一声，借助贪狼魔煞汲取的滚滚煞气"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "死神僧",
+      "aliases": [
+        "一代阎佛"
+      ],
+      "identity": "阎佛寺创始人，半神强者",
+      "faction": "阎佛寺",
+      "status": "已故（历史人物）",
+      "first_appearance": "",
+      "summary": "三百年前的半神，创出六道轮回印，窥大破灭失败后散溢燃灯佛性。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "六道轮回印",
+        "燃灯佛念"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "传承者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "三百年前",
+          "event": "窥大破灭失败，散溢燃灯佛性。"
+        }
+      ],
+      "evidence": [
+        "这一点‘烛光’正是三百年前，死神僧散溢的燃灯佛性",
+        "死神僧，也就是一代阎佛虽然创出了六道轮回印"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "薛补庭",
+      "aliases": [],
+      "identity": "半神强者，被贪狼附身",
+      "faction": "",
+      "status": "已死（被贪狼附身）",
+      "first_appearance": "",
+      "summary": "历史中的半神，被贪狼附身，其墓碑出现在幻境中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "贪狼",
+          "type": "被附身"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其墓碑被贪狼吐出攻击戚笼。"
+        }
+      ],
+      "evidence": [
+        "贪狼附身的薛补庭一跃而起",
+        "碑上只刻了三个字，薛补庭"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "梁天鱼",
+      "aliases": [],
+      "identity": "半神强者",
+      "faction": "",
+      "status": "已死（历史人物）",
+      "first_appearance": "",
+      "summary": "历史中的半神，被贪狼吞噬后墓碑出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被贪狼吞噬，墓碑被吐出。"
+        }
+      ],
+      "evidence": [
+        "一口将梁天鱼吞噬",
+        "这座碑的铭文是梁天鱼"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "巨神将",
+      "aliases": [],
+      "identity": "半神强者",
+      "faction": "",
+      "status": "已死（历史人物）",
+      "first_appearance": "",
+      "summary": "历史中的半神，被贪狼吞噬后墓碑出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被贪狼吞噬，墓碑被吐出。"
+        }
+      ],
+      "evidence": [
+        "一步踏入虚空，张嘴吞了巨神将",
+        "巨神将、薛补庭两座碑文尤为真实"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "云镜子",
+      "aliases": [],
+      "identity": "半神强者",
+      "faction": "",
+      "status": "已死（历史人物）",
+      "first_appearance": "",
+      "summary": "历史中的半神，被贪狼吞噬后墓碑出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被贪狼吞噬，墓碑被吐出。"
+        }
+      ],
+      "evidence": [
+        "一步踏入虚空，张嘴吞了云镜子",
+        "五座巨碑砸落在地，死神僧、云镜子、巨神将、梁天鱼、薛补庭"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "烛九阴",
+      "aliases": [],
+      "identity": "幕后巨头，上古神祇",
+      "faction": "",
+      "status": "沉睡",
+      "first_appearance": "",
+      "summary": "上古神祇，为争夺人工龙脉而重伤沉睡，派遣贪狼监视夺龙局。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "贪狼",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "争夺人工龙脉重伤沉睡，将眼珠送入凡间化身。"
+        }
+      ],
+      "evidence": [
+        "当年烛九阴为了争夺这条人工龙脉，可是说以一己之力，对抗几位幕后巨头",
+        "在沉睡之前，祂把一只眼珠送入了凡间"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "弥勒佛",
+      "aliases": [
+        "未来佛王"
+      ],
+      "identity": "佛教未来佛",
+      "faction": "",
+      "status": "概念/境界",
+      "first_appearance": "",
+      "summary": "戚笼通过融合地藏王与燃灯佛念推演出的如来之道。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "证就者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "戚笼踏入弥勒佛之道。"
+        }
+      ],
+      "evidence": [
+        "未来佛王，弥勒佛！",
+        "戚笼踏入这条道路"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "波旬",
+      "aliases": [
+        "魔王波旬"
+      ],
+      "identity": "他化自在天魔王",
+      "faction": "",
+      "status": "概念",
+      "first_appearance": "",
+      "summary": "与未来佛一体两面的存在，戚笼的魔性与之相关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "关联"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他化自在天，这条如来之道居然与魔王波旬有着若有若无的联系",
+        "戚笼眼中陡然射出森森魔光，佛心魔念疯狂瓦解对方的念头"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

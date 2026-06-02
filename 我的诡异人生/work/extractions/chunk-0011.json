@@ -1,0 +1,106 @@
+{
+  "chunk_id": "chunk-0011",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第10章 庙",
+      "summary": "被影诡追杀，拥有鬼手和帝钟，试图躲避灯笼诡的威胁。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "能摇动帝钟压制影诡",
+        "意识可影响鬼手但反应慢"
+      ],
+      "equipment": [
+        "帝钟",
+        "鬼手（右腋下）"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被影诡追杀，摇帝钟压制，最终进入小庙避难。"
+        }
+      ],
+      "evidence": [
+        "苏午摇响帝钟，铃铛声里，影诡像是掉帧的画面一样，一卡一卡地向前行进。",
+        "苏午拖着腋下一条漆黑而诡异、生出十根手指的鬼手，终于转过了巷道转角。",
+        "苏午站在橘色光芒里，打量着眼前的小庙。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "影诡",
+      "aliases": [],
+      "identity": "诡异存在",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第10章 庙",
+      "summary": "追杀苏午的诡异，能在影子中移动，被帝钟压制。",
+      "appearance": [
+        "人形轮廓，没有五官的漆黑面孔"
+      ],
+      "personality": [],
+      "abilities": [
+        "在影子中移动",
+        "被帝钟压制时卡顿"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "追杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "追杀苏午，被帝钟压制，最终消失。"
+        }
+      ],
+      "evidence": [
+        "影诡追了上来。",
+        "影诡在巷道转角处不断试图探出身形，它人形轮廓的脑袋从巷道里探出头，没有五官的漆黑面孔对着苏午。",
+        "身前的影诡无有任何征兆、泡影似的消失无踪了。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "灯笼诡",
+      "aliases": [],
+      "identity": "诡异存在",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第10章 庙",
+      "summary": "随机杀人的诡异，升起时红光笼罩，杀人方式随机。",
+      "appearance": [
+        "红灯笼"
+      ],
+      "personality": [],
+      "abilities": [
+        "红光笼罩范围内随机杀人",
+        "使灯光熄灭"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "红灯笼升上天空，红光映照街道，随机杀人。"
+        }
+      ],
+      "evidence": [
+        "红灯笼升上高天，绯红的光芒落在苏午后背。",
+        "被红光映照，自己却毫发无损。这说明灯笼诡的杀人方式，不是自己推测的那样，只要被红光照到，就必然会死。它的杀人方式完全是随机的！"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

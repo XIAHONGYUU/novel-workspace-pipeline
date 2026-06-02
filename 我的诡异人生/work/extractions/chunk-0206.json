@@ -1,0 +1,180 @@
+{
+  "chunk_id": "chunk-0206",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "尊者"
+      ],
+      "identity": "无想尊能寺呼图克图，至尊呼图克图的亲传密承弟子",
+      "faction": "无想尊能寺",
+      "status": "离开",
+      "first_appearance": "",
+      "summary": "主角，渡过三大密关后被迫离开大雪山，与丹加告别。",
+      "appearance": [
+        "浑身遍发火光",
+        "面孔被丛丛黑白相间的毛发遮住，变成狰狞的虎首",
+        "清秀俊朗的面孔"
+      ],
+      "personality": [
+        "果断",
+        "决绝",
+        "关心丹加"
+      ],
+      "abilities": [
+        "金刚轮",
+        "密藏域本源力量",
+        "红莲咒印"
+      ],
+      "equipment": [
+        "羊毛毯子"
+      ],
+      "relationships": [
+        {
+          "target": "丹加",
+          "type": "师徒/主从"
+        },
+        {
+          "target": "广愿上师",
+          "type": "灌顶弟子"
+        },
+        {
+          "target": "精莲诡",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "渡过第三关后，与丹加告别，离开大雪山，退出模拟。"
+        }
+      ],
+      "evidence": [
+        "尊者不在家的时候，丹加会很节省地使用柴禾",
+        "苏午摇了摇头，他身外金刚轮被本源力量充满，此时正熊熊燃烧着",
+        "苏午站在门口，迟疑着没有离开。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "丹加",
+      "aliases": [],
+      "identity": "无想尊能寺的弟子，八九岁女孩",
+      "faction": "无想尊能寺",
+      "status": "留下",
+      "first_appearance": "",
+      "summary": "苏午的弟子，对苏午有深厚依赖，不愿离开。",
+      "appearance": [
+        "满身泥泞",
+        "脏污不堪"
+      ],
+      "personality": [
+        "依赖",
+        "执着",
+        "伤心"
+      ],
+      "abilities": [],
+      "equipment": [
+        "羊毛毯子"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒/主从"
+        },
+        {
+          "target": "广愿上师",
+          "type": "被托付"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午告别，被要求跟随广愿离开。"
+        }
+      ],
+      "evidence": [
+        "丹加觉得，她们毕竟是客居在别的法寺里",
+        "丹加被苏午突然转变的、从未有过的态度吓得呆愣在原地",
+        "她跌坐在雨中，嚎啕大哭！"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "广愿上师",
+      "aliases": [
+        "广愿"
+      ],
+      "identity": "受过苏午灌顶的僧人",
+      "faction": "",
+      "status": "未出场",
+      "first_appearance": "",
+      "summary": "苏午的灌顶弟子，被托付照顾丹加。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "灌顶师"
+        },
+        {
+          "target": "丹加",
+          "type": "被托付照顾"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "苏午安排丹加去寻他。"
+        }
+      ],
+      "evidence": [
+        "立刻前往经纶院去寻广愿上师",
+        "他是受过我灌顶的僧人"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "精莲诡",
+      "aliases": [
+        "诡原莲",
+        "大恐怖相"
+      ],
+      "identity": "恶诡",
+      "faction": "",
+      "status": "追杀中",
+      "first_appearance": "",
+      "summary": "追杀苏午的恶诡，被苏午用红莲暂时击退。",
+      "appearance": [
+        "无头人形轮廓",
+        "黑暗里的无头人形",
+        "血肉模糊的脸"
+      ],
+      "personality": [],
+      "abilities": [
+        "毁伤念头",
+        "召唤黑暗"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "追杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "追杀苏午，被红莲击退后再次降临。"
+        }
+      ],
+      "evidence": [
+        "那个无头的模糊人形轮廓，开始在苏午的念头里出现",
+        "大恐怖相再度随着黑暗降临"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

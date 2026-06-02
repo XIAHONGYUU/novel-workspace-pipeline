@@ -1,0 +1,123 @@
+{
+  "chunk_id": "chunk-1361",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "人王",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，在元河中融合中黄太乙之血，晋升人王象升，与佛陀对抗。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有准备"
+      ],
+      "abilities": [
+        "轩辕血脉",
+        "人王体魄",
+        "三才阵势",
+        "人王象升"
+      ],
+      "equipment": [
+        "香炉",
+        "中黄太乙之血",
+        "画轴"
+      ],
+      "relationships": [
+        {
+          "target": "卖货郎",
+          "type": "协助者"
+        },
+        {
+          "target": "佛陀",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "潜隐于元河水面下，等待卖货郎送来中黄太乙之血，融合后晋升人王象升，与佛陀对抗后回归现实。"
+        }
+      ],
+      "evidence": [
+        "苏午潜隐于元河水面下",
+        "苏午一手托起那尊香炉，另一手抹过卖货郎的后脖颈",
+        "苏午坠落回现实"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "卖货郎",
+      "aliases": [],
+      "identity": "协助者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "将中黄太乙之血送给苏午，后逃入画轴。",
+      "appearance": [
+        "后颈上燃着洪炉火"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "香炉",
+        "中黄太乙之血"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "协助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将香炉捧到苏午近前，被苏午抹过后颈后逃入画轴。"
+        }
+      ],
+      "evidence": [
+        "卖货郎将一尊香炉捧到了苏午近前",
+        "卖货郎借机匆匆逃入画轴中"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "佛陀",
+      "aliases": [],
+      "identity": "佛",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与苏午对抗的存在，试图将法性灌输给苏午，但被苏午利用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "佛日",
+        "法性长河",
+        "无上正等正觉"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将佛光投照于元河水面，试图将法性灌输给苏午，但被苏午利用晋升人王象升。"
+        }
+      ],
+      "evidence": [
+        "佛陀对元河亦有一种不知原因的忌惮",
+        "佛日之中，一道缠绕‘无上正等正觉’之法性的手指，于苏午仿似猝然临于水面之上的这个瞬间，点向了苏午眉心",
+        "佛唱声逐渐远去"
+      ],
+      "mention_count": 10
+    }
+  ]
+}

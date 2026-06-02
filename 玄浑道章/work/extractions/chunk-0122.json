@@ -1,0 +1,255 @@
+{
+  "chunk_id": "chunk-0122",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张师弟"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府修士，与项淳商议朝明城事宜，支持清理异神。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "半块玄玉"
+      ],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "同门"
+        },
+        {
+          "target": "大都督",
+          "type": "有影响力"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与项淳在事务堂商议朝明城及神尉军事宜。"
+        }
+      ],
+      "evidence": [
+        "张御点头道：“听闻过一些。”",
+        "张御心下一思，与神尉军终归是要开战的",
+        "张御言道：“这几日我当在居处修行，事情若定，项师兄随时可遣人来寻。”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "项淳",
+      "aliases": [
+        "项师兄"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府修士，主导朝明城清理计划，寻求张御支持。",
+      "appearance": [],
+      "personality": [
+        "客气",
+        "坚定"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同门"
+        },
+        {
+          "target": "姚公府",
+          "type": "合作"
+        },
+        {
+          "target": "柳奉全",
+          "type": "说服对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御商议朝明城事宜，并寻求其支持。"
+        }
+      ],
+      "evidence": [
+        "项淳现在对他很是客气，请了他坐下后，又命人沏了杯香茶上来",
+        "项淳道：“张师弟既然清楚，那我便不多作言述了。”",
+        "项淳见他赞同，不觉振奋，点头道：“好，张师弟支持此事，我这里又多一臂助”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "柳奉全",
+      "aliases": [],
+      "identity": "署公",
+      "faction": "都堂",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "接任姚公府的署公，因威望不足对清理朝明城犹豫。",
+      "appearance": [],
+      "personality": [
+        "犹豫",
+        "威望不足"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "被说服"
+        },
+        {
+          "target": "姚公府",
+          "type": "接任"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被项淳说服同意继续朝明城计略。"
+        }
+      ],
+      "evidence": [
+        "柳奉全上台后，因为自身威望不足之故，对此事曾有过犹豫",
+        "我近来再次寻上柳奉全，他终于同意继续这个计略。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "姚公府",
+      "aliases": [
+        "姚老公府"
+      ],
+      "identity": "前任署公",
+      "faction": "都堂",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "前任署公，曾与项淳商议压制神尉军，后病重让位。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "合作"
+        },
+        {
+          "target": "柳奉全",
+          "type": "让位"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与项淳商议压制神尉军，后病重让位。"
+        }
+      ],
+      "evidence": [
+        "为了压制神尉军，上任姚公府曾几次我与我商议对策",
+        "姚老公府忽然病重，导致人心惶惶",
+        "姚公府让出署公之位，该由向来中立的柳奉全接任。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "大都督",
+      "aliases": [],
+      "identity": "都护府最高长官",
+      "faction": "都护府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "年纪小但有判断力，张御对其有影响力。",
+      "appearance": [],
+      "personality": [
+        "有判断力"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被影响"
+        },
+        {
+          "target": "姚公府",
+          "type": "可能被说服"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "因张御而放弃新礼。"
+        }
+      ],
+      "evidence": [
+        "大都督虽然年纪小，可也有自己的判断",
+        "张御去了一回都府，大都督就彻底放弃了所谓“新礼”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "戚毖",
+      "aliases": [],
+      "identity": "玄府修士或前辈",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾告知张御关于玄玉和章印的信息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "告知信息"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "告知张御玄玉中藏有章印，并回答其问题。"
+        }
+      ],
+      "evidence": [
+        "戚毖说这里面蕴藏有一个章印",
+        "他之前在曾问戚毖，当日初入玄府大殿后，第一个见到的道人为何人？"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "蒋定易",
+      "aliases": [],
+      "identity": "司吏衙署官员",
+      "faction": "都护府",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾为朝明城的事头疼。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "为朝明城官吏问题头疼。"
+        }
+      ],
+      "evidence": [
+        "蒋定易就曾为朝明城的事头疼"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

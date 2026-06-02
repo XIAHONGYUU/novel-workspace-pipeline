@@ -1,0 +1,178 @@
+{
+  "chunk_id": "chunk-0013",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张君子",
+        "张辅教"
+      ],
+      "identity": "泰阳学宫辅教",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第十二章 拜学玄府",
+      "summary": "通过自荐进入泰阳学宫，被任命为辅教，负责教授异族部落语言，并准备向玄府申请学习新法。",
+      "appearance": [
+        "穿着一身宽松的天青色道袍"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于思考"
+      ],
+      "abilities": [
+        "掌握坚爪部族语言"
+      ],
+      "equipment": [
+        "紫砂茶壶",
+        "异物图鉴",
+        "辅教衣冠和印信"
+      ],
+      "relationships": [
+        {
+          "target": "柳光",
+          "type": "师教与辅教"
+        },
+        {
+          "target": "宋辅教",
+          "type": "同僚"
+        },
+        {
+          "target": "汪主事",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "自荐后第三天",
+          "event": "在茶室等待学宫答复，柳光来访告知任职辅教。"
+        },
+        {
+          "stage": "任职当天",
+          "event": "收到辅教衣冠和印信，搬入新居所，写拜学贴申请学习新法。"
+        }
+      ],
+      "evidence": [
+        "张御穿着一身宽松的天青色道袍，坐在敞开的竹木门廊里",
+        "学宫对你的任职已定，暂时先做学宫里的辅教。",
+        "张御拿出早已准备好的纸笔，认真写下了一份向玄府申求学习新法的拜学贴。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "柳光",
+      "aliases": [
+        "柳师教"
+      ],
+      "identity": "泰阳学宫师教",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第十二章 拜学玄府",
+      "summary": "泰阳学宫的师教，负责通知张御任职辅教的消息，并给予提醒和建议。",
+      "appearance": [],
+      "personality": [
+        "洒脱不拘礼"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师教与辅教"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "自荐后第三天",
+          "event": "拜访张御，告知任职辅教的消息。"
+        }
+      ],
+      "evidence": [
+        "柳光笑吟吟自外走了进来，对他一拱手，道：“张君子，冒昧相扰了。”",
+        "柳光是个洒脱不拘礼的人，丝毫也不拿捏"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "宋辅教",
+      "aliases": [
+        "宋辅教"
+      ],
+      "identity": "治学堂辅教",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第十二章 拜学玄府",
+      "summary": "治学堂的年轻辅教，负责接收拜学贴，但因畏惧汪主事而不敢告知张御贴子被扣。",
+      "appearance": [],
+      "personality": [
+        "胆小",
+        "矛盾"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "汪主事",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "任职当天",
+          "event": "接收张御的拜学贴，后被汪主事拿走。"
+        }
+      ],
+      "evidence": [
+        "收下拜贴的是一位年轻的宋姓辅教",
+        "宋辅教目瞪口呆，好一会儿才反应过来发生了什么事"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "汪主事",
+      "aliases": [
+        "汪主事",
+        "汪师教"
+      ],
+      "identity": "治学堂主事",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第十二章 拜学玄府",
+      "summary": "治学堂的主事，对张御通过自荐入学的方式不满，扣下了张御的拜学贴。",
+      "appearance": [
+        "面容方正"
+      ],
+      "personality": [
+        "厌恶走捷径者",
+        "有权势"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对立"
+        },
+        {
+          "target": "宋辅教",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "任职当天",
+          "event": "拿走张御的拜学贴，表示不配修业。"
+        }
+      ],
+      "evidence": [
+        "汪主事面无表情道：“把方才那封拜学贴拿给我看。”",
+        "此等走捷径入学之人，就不配在学宫里修业！"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

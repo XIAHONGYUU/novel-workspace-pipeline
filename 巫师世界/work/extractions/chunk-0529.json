@@ -1,0 +1,430 @@
+{
+  "chunk_id": "chunk-0529",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "元能之手成员，薇薇的同伴",
+      "faction": "元能之手",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "独自行动寻找薇薇，与都灵、碧姬同行前往石之轮。",
+      "appearance": [
+        "黑袍"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "神秘"
+      ],
+      "abilities": [
+        "元素化",
+        "高速移动"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薇薇",
+          "type": "同伴/寻找对象"
+        },
+        {
+          "target": "都灵",
+          "type": "追随者"
+        },
+        {
+          "target": "碧姬",
+          "type": "随从"
+        },
+        {
+          "target": "妖龙",
+          "type": "盟友（混沌盟约）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从帐篷离开，与都灵、碧姬前往石之轮寻找薇薇。"
+        }
+      ],
+      "evidence": [
+        "安格列脸色也微微变得阴沉起来。",
+        "安格列摇摇头，转身走出帐篷。",
+        "安格列不紧不慢地跟在都灵身后。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "四长老",
+      "aliases": [
+        "门罗"
+      ],
+      "identity": "元能之手四长老",
+      "faction": "元能之手",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "关心安格列和薇薇，主张与安格列同行。",
+      "appearance": [],
+      "personality": [
+        "急切",
+        "关心同伴"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同僚"
+        },
+        {
+          "target": "大长老",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在帐篷中与安格列对话，后追出但未找到安格列。"
+        }
+      ],
+      "evidence": [
+        "四长老脱口而出。",
+        "四长老门罗叹口气。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "大长老",
+      "aliases": [
+        "赫里斯"
+      ],
+      "identity": "元能之手大长老",
+      "faction": "元能之手",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "决策者，计划集结众人前往石轮接回薇薇。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "四长老",
+          "type": "同僚"
+        },
+        {
+          "target": "安格列",
+          "type": "同僚"
+        },
+        {
+          "target": "埃菲洛",
+          "type": "盟友"
+        },
+        {
+          "target": "眀域妃",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在帐篷中与四长老商议，决定加速前往石轮。"
+        }
+      ],
+      "evidence": [
+        "大长老赫里斯皱眉道。",
+        "大长老沉声道。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "都灵",
+      "aliases": [],
+      "identity": "安格列的追随者，原妖龙下属",
+      "faction": "安格列阵营",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "为安格列带路前往石之轮，拥有高速移动能力。",
+      "appearance": [],
+      "personality": [
+        "尊敬安格列",
+        "谨慎"
+      ],
+      "abilities": [
+        "高速移动"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "追随者"
+        },
+        {
+          "target": "妖龙",
+          "type": "原下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列、碧姬一同前往石之轮。"
+        }
+      ],
+      "evidence": [
+        "都灵和碧姬一坐一站静静等待着安格列回来。",
+        "都灵微微弓身，身体陡然化为一道红影钻进树林。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "碧姬",
+      "aliases": [],
+      "identity": "安格列的随从",
+      "faction": "安格列阵营",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "跟随安格列，知晓其身份，对妖龙的做法感到无语。",
+      "appearance": [],
+      "personality": [
+        "冷笑",
+        "畏惧安格列"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列、都灵同行。"
+        }
+      ],
+      "evidence": [
+        "碧姬在一边冷笑几声。",
+        "碧姬顿时打了个寒战，笑容僵硬起来。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "薇薇",
+      "aliases": [],
+      "identity": "元能之手长老，安格列的同伴",
+      "faction": "元能之手",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被维非骗走，目前身在魔镜花园世界的空船上。",
+      "appearance": [
+        "白色束腰丝袍",
+        "月白色月牙耳坠",
+        "暗金色长发"
+      ],
+      "personality": [
+        "忧虑",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "维非",
+          "type": "欺骗者"
+        },
+        {
+          "target": "妮娜",
+          "type": "新朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在空船上与维非、妮娜共进早餐。"
+        }
+      ],
+      "evidence": [
+        "薇薇一身白色束腰丝袍。",
+        "薇薇俯身望向下方草原。",
+        "薇薇本想拒绝，但随即想到那个清秀带着一丝英气的白甲少女，顿时略微迟疑地点点头。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "维非",
+      "aliases": [],
+      "identity": "妖龙的儿子",
+      "faction": "妖龙阵营",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "以许诺骗走薇薇，意图不明。",
+      "appearance": [],
+      "personality": [
+        "温和",
+        "笑眯眯"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薇薇",
+          "type": "欺骗对象"
+        },
+        {
+          "target": "妮娜",
+          "type": "青梅竹马"
+        },
+        {
+          "target": "妖龙",
+          "type": "父亲"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薇薇在空船上，准备前往花园中枢。"
+        }
+      ],
+      "evidence": [
+        "维非的面孔出现在右侧。",
+        "维非手轻轻放在薇薇手背上。",
+        "维非温和地笑了笑。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "妮娜",
+      "aliases": [],
+      "identity": "维非的青梅竹马，白甲少女",
+      "faction": "妖龙阵营",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "为薇薇准备食物，试图与其交朋友。",
+      "appearance": [
+        "清秀",
+        "英气",
+        "白甲"
+      ],
+      "personality": [
+        "友善",
+        "热情"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "维非",
+          "type": "青梅竹马"
+        },
+        {
+          "target": "薇薇",
+          "type": "新朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在空船上准备早餐，与薇薇共进。"
+        }
+      ],
+      "evidence": [
+        "一个面带微笑的清秀少女正取下围裙走过来坐下。",
+        "妮娜可是难得下一次厨房啊。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "妖龙",
+      "aliases": [
+        "妖龙王子",
+        "妖龙殿下"
+      ],
+      "identity": "王子，都灵原主人",
+      "faction": "妖龙阵营",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的盟友，其子维非骗走薇薇。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "盟友（混沌盟约）"
+        },
+        {
+          "target": "维非",
+          "type": "儿子"
+        },
+        {
+          "target": "都灵",
+          "type": "原主人"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我倒是听妖龙殿下提到过。",
+        "妖龙绝对处于毫不知情的状态。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "埃菲洛",
+      "aliases": [],
+      "identity": "元能之手盟友",
+      "faction": "元能之手",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "大长老书信联系的对象。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大长老",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这几天我书信联系上埃菲洛和眀域妃他们。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "眀域妃",
+      "aliases": [],
+      "identity": "元能之手盟友",
+      "faction": "元能之手",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "大长老书信联系的对象。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大长老",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这几天我书信联系上埃菲洛和眀域妃他们。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

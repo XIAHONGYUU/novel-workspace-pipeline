@@ -1,0 +1,303 @@
+{
+  "chunk_id": "chunk-0430",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄正，负责调查造物人事件，行事谨慎周密。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "周密"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "合作"
+        },
+        {
+          "target": "温良",
+          "type": "下属"
+        },
+        {
+          "target": "陈大匠",
+          "type": "询问对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从陈大匠处获得造物人名单，与曹度商议抓捕计划。"
+        }
+      ],
+      "evidence": [
+        "张御对温良示意了一下，后者就将此书交到他手里。",
+        "张御拿过之后，稍稍翻了一下，就已全数记下，而后与温良离了牢舟。",
+        "张御思索一下，实际上他身为玄正，拥有先捕后问之权。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "温良",
+      "aliases": [],
+      "identity": "张御的下属",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，协助执行任务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从陈大匠处提取记忆并制成书卷。"
+        }
+      ],
+      "evidence": [
+        "温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书，转身递至张御面前。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "陈大匠",
+      "aliases": [],
+      "identity": "大匠",
+      "faction": "天机院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "提供造物人名单的大匠，对法术感兴趣。",
+      "appearance": [],
+      "personality": [
+        "好奇"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被询问"
+        },
+        {
+          "target": "温良",
+          "type": "被提取记忆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被温良提取记忆，提供造物人名单。"
+        }
+      ],
+      "evidence": [
+        "温良将手从陈大匠的额头之上拿开，他手中多了出来一份光芒闪烁卷书。",
+        "陈大匠看了看，道：“这个法子倒是十分有趣，可否给老朽也看一眼？”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "将军",
+      "faction": "锐击军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "将军，与张御合作调查造物人事件。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "神袍"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "查看造物人名单，与张御商议抓捕计划。"
+        }
+      ],
+      "evidence": [
+        "曹度拿了过来，大致翻了翻，凭借着身上神袍之力，他只是用了半个夏时，便将三千多人全数看了下来。",
+        "曹度沉声道：“这些人也必须一起找了出来。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "方谕中",
+      "aliases": [
+        "青阳天机院总院主"
+      ],
+      "identity": "青阳天机院总院主",
+      "faction": "天机院",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被怀疑是造物人的天机院高层。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "据陈大匠交代，此人很可能也是造物人。",
+        "他怀疑此事和本身身为造物人的方谕中脱不了关系。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "恽尘",
+      "aliases": [
+        "少郎"
+      ],
+      "identity": "玄首弟子",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "竺玄首的弟子，被指定为下一任玄首。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "认真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "竺玄首",
+          "type": "师徒"
+        },
+        {
+          "target": "明善道人",
+          "type": "同门"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被竺玄首召回，被告知将继承玄首之位。"
+        }
+      ],
+      "evidence": [
+        "恽尘整理了一下袍服，由正门进入台阁之内，而后腾身上了鹤殿。",
+        "竺玄首道：“我在此处镇守六十余载，是为秉承诺言看住一人，而今其人已然苏醒，我与此人一战势不可免，无论我们谁胜谁负，我必然再无法再回到此间，我已是向玄廷递交了呈书，我离去之后，当由你来承继玄首之位。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "竺玄首",
+      "aliases": [
+        "老师"
+      ],
+      "identity": "玄首",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "青阳上洲玄首，即将与苏醒之人一战，传位给恽尘。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "青阳轮"
+      ],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知恽尘将传位，并助其提升功行。"
+        }
+      ],
+      "evidence": [
+        "竺玄首道：“我在此处镇守六十余载，是为秉承诺言看住一人，而今其人已然苏醒，我与此人一战势不可免。”",
+        "竺玄首道：“你如今功行尚差了些许，不过你此前积累已是足够，我会传你一门道法，助你炼出元神照影。”"
+      ],
+      "mention_count": 9
+    },
+    {
+      "name": "明善道人",
+      "aliases": [
+        "明善师兄"
+      ],
+      "identity": "玄府道人",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府道人，负责传话。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在安寿郡玄府等候恽尘，告知其玄首召见。"
+        }
+      ],
+      "evidence": [
+        "明善道人正在此等候自己，忙是上来一礼，道：“明善师兄，不知这次急唤我回来是为何事？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "韩时",
+      "aliases": [],
+      "identity": "大匠",
+      "faction": "天机院",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与霜洲制院有技艺交流的大匠，涉嫌通敌。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "根据之前翁大匠所言，还有陈大匠的交代，这里有一位名唤韩时的大匠，这人经常与霜洲制院有着技艺上的交流。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

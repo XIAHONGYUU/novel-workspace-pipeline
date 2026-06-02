@@ -1,0 +1,255 @@
+{
+  "chunk_id": "chunk-0821",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张守正"
+      ],
+      "identity": "玄廷守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷守正，负责调查各洲动乱及背后大能者。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "细致",
+        "善于推理"
+      ],
+      "abilities": [
+        "心光凝聚书信",
+        "查阅道箓玉册"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明周道人",
+          "type": "合作调查"
+        },
+        {
+          "target": "薛箓",
+          "type": "调查对象"
+        },
+        {
+          "target": "过千寻",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "查阅光箓，发现薛箓等人断绝道场牵连的记录，随后拜访过千寻道场问询。"
+        }
+      ],
+      "evidence": [
+        "张御把那光箓拿至面前看了一下",
+        "张御了然，每个廷执实际上掌握了明周道人这个清穹之灵一部分权柄",
+        "张御道：“我为一桩事机前来问询过玄尊，还望过玄尊能如实回言。”"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周道友"
+      ],
+      "identity": "清穹之灵，负责监察",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "清穹之灵，负责监察玄尊断绝道场牵连等行为，协助张御调查。",
+      "appearance": [],
+      "personality": [
+        "认真",
+        "严谨"
+      ],
+      "abilities": [
+        "监察",
+        "传递书信",
+        "查阅记录"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "协助调查"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为张御查阅光箓、传递书信、提供五位玄尊的记述。"
+        }
+      ],
+      "evidence": [
+        "明周道人认真回道：“任何监察都有漏洞”",
+        "明周道人依令行事，他在默察片刻之后，依旧于手中凝一枚灿灿道箓",
+        "明周道人打一个稽首，郑重道：“明周记下了。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "薛箓",
+      "aliases": [
+        "薛玄尊"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄尊，擅长定拿之法及身外化身之术，曾多次断绝道场牵连。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "定拿之法",
+        "身外化身之术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被调查"
+        },
+        {
+          "target": "过千寻",
+          "type": "交情不错，曾交流道法"
+        },
+        {
+          "target": "朱凤",
+          "type": "往日交好"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去十多年",
+          "event": "断绝道场次数达五次之多。"
+        },
+        {
+          "stage": "当前",
+          "event": "张御写信询问，薛箓回书。"
+        }
+      ],
+      "evidence": [
+        "这人名唤薛箓，他恰巧也是认识的。",
+        "从记录上看，仅仅在这十多年里，这位断绝道场的次数竟是达五次之多。",
+        "张御道：“劳烦道友将此信送去薛箓薛玄尊处。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "过千寻",
+      "aliases": [
+        "过玄尊",
+        "过道人"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄尊，擅长遮掩之术，曾多次断绝道场牵连以尝试自成天地。",
+      "appearance": [
+        "鹤发童颜、着玄黑大氅，顶上戴有莲花冠"
+      ],
+      "personality": [
+        "沉稳",
+        "善于辩解"
+      ],
+      "abilities": [
+        "遮掩之术",
+        "断绝道场牵连"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被调查"
+        },
+        {
+          "target": "薛箓",
+          "type": "交情不错，曾交流道法"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去六十年",
+          "event": "数度断绝与清穹地陆的牵连。"
+        },
+        {
+          "stage": "当前",
+          "event": "张御前来拜访问询。"
+        }
+      ],
+      "evidence": [
+        "过道人叹了一声，道：“当初开辟道场之时，老道自身能为不足，是故借助了清穹元磁之力”",
+        "过道人缓缓点头，道：“原来是这般，也难怪守正见疑”",
+        "过道人沉声道：“张守正查问此事，乃是职责所在，你若因此疑我，我也无话可说”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "颜子全",
+      "aliases": [],
+      "identity": "修道人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "受大能者指使袭击天工部大匠并散布谣言，后被张御擒捉。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被擒捉"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "半月前",
+          "event": "袭击天工部大匠，散布谣言。"
+        },
+        {
+          "stage": "当前",
+          "event": "被张御擒捉，押送东庭途中遭大能者灭口未遂。"
+        }
+      ],
+      "evidence": [
+        "我查得是一位名唤颜子全的修道人所为，后将此人擒捉，才知他也是受人指使。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "朱凤",
+      "aliases": [
+        "朱玄尊"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄尊，曾与薛箓交好，近期归回天夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛箓",
+          "type": "往日交好"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "近期",
+          "event": "归回天夏。"
+        }
+      ],
+      "evidence": [
+        "就连方才归回天夏的那位朱凤朱玄尊，往日也曾与他交好"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "chunk_id": "chunk-0271",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄正，负责查验和解决魇魔侵染问题，并推动各派接受查验。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "深思熟虑",
+        "有责任感"
+      ],
+      "abilities": [
+        "观想察问魇魔图案",
+        "观知之印",
+        "浑章"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "恽尘",
+          "type": "合作者"
+        },
+        {
+          "target": "贺猛",
+          "type": "下属"
+        },
+        {
+          "target": "桃定符",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与恽尘一起查验姜敞、何固安等人，并写信给各派派主推动查验。"
+        }
+      ],
+      "evidence": [
+        "张御和恽尘两人很快在贺猛带领下来至关押姜敞和何固安的所在。",
+        "张御对此有数，这云雾他有意留下的，就是为了隔绝这两人与他人的接触。",
+        "张御在忙完了这事后，这才回了开阳学宫，随后亲自执笔，往诸派派主各自去了一封书信。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "恽尘",
+      "aliases": [
+        "恽道友"
+      ],
+      "identity": "修士，持有澄心宝镜",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "持有澄心宝镜的修士，协助张御查验魇魔侵染者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "使用澄心宝镜"
+      ],
+      "equipment": [
+        "澄心宝镜"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用澄心宝镜查验姜敞、何固安等人，并协助张御查验其他道派。"
+        }
+      ],
+      "evidence": [
+        "恽尘将澄心宝镜拿了出来，只是轻轻在上一抹，上面顿便浮现出了无数光华。",
+        "恽尘道：“这就是魇魔啊，魇魔本是无形无影，寻之不着，观之不见，但据说由人心照见出来的话，那便是这副鬼样子了。”",
+        "恽尘道了声好。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "贺猛",
+      "aliases": [],
+      "identity": "张御的下属，负责带路和看守",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，带领张御和恽尘前往关押地点。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领张御和恽尘查验姜敞和何固安。"
+        }
+      ],
+      "evidence": [
+        "张御和恽尘两人很快在贺猛带领下来至关押姜敞和何固安的所在。",
+        "贺猛道：“按照玄正的吩咐，自那日之后，我们就再未动过这两个人。”",
+        "贺猛指着上面，道：“那这些气雾呢？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "姜敞",
+      "aliases": [],
+      "identity": "被关押的修士，疑似被魇魔侵染",
+      "faction": "",
+      "status": "被关押",
+      "first_appearance": "",
+      "summary": "被关押的修士，与何固安一同被云雾包裹，经查验确认被魇魔侵染，后经宝镜压制。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "何固安",
+          "type": "同被关押"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御和恽尘查验，确认被魇魔侵染，经宝镜压制后恢复清明。"
+        }
+      ],
+      "evidence": [
+        "张御和恽尘两人很快在贺猛带领下来至关押姜敞和何固安的所在。",
+        "他将澄心镜举起，对着两人一照，这一刻，令人惊悚的一幕出现了，铜镜明明照的是两个玄修，但是镜面之上却是出现了两个浑身惨白、头生肉角的人。",
+        "随着宝镜光芒持续照射，姜敞和何固安两人的眼神逐渐变得清明了起来。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "何固安",
+      "aliases": [],
+      "identity": "被关押的修士，疑似被魇魔侵染",
+      "faction": "",
+      "status": "被关押",
+      "first_appearance": "",
+      "summary": "被关押的修士，与姜敞一同被云雾包裹，经查验确认被魇魔侵染，后经宝镜压制。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜敞",
+          "type": "同被关押"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御和恽尘查验，确认被魇魔侵染，经宝镜压制后恢复清明。"
+        }
+      ],
+      "evidence": [
+        "张御和恽尘两人很快在贺猛带领下来至关押姜敞和何固安的所在。",
+        "何固安这时看向张御，问了一句：“敢问玄正，我们二人可还能出去么？”",
+        "两人闻言，低头仔细想了想，却觉得此话有理。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "桃定符",
+      "aliases": [
+        "师兄"
+      ],
+      "identity": "张御的师兄，炼器师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的师兄，为张御炼造了‘知见真灵’。",
+      "appearance": [
+        "清俊道人"
+      ],
+      "personality": [],
+      "abilities": [
+        "炼器"
+      ],
+      "equipment": [
+        "知见真灵"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将炼造好的‘知见真灵’交给张御。"
+        }
+      ],
+      "evidence": [
+        "桃定符潇洒回有一礼，道：“师弟，你那‘知见真灵’我已是为你炼造好了，东西我已是给你带来了。”",
+        "桃定符道：“此物只需你加入自身一滴精血，便可完成最后一步了，这一步我辈称之为‘开化’。”"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

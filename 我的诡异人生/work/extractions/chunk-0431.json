@@ -1,0 +1,135 @@
+{
+  "chunk_id": "chunk-0431",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "烛照君"
+      ],
+      "identity": "井上家强者",
+      "faction": "井上家",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "井上家的强者，与安纲一同发现杀生石矿脉，试图说服安纲加入井上家。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "真诚",
+        "善于说服"
+      ],
+      "abilities": [],
+      "equipment": [
+        "天魔丸"
+      ],
+      "relationships": [
+        {
+          "target": "安纲",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在石室中解读鉴真留下的画轴，并说服安纲加入井上家。"
+        }
+      ],
+      "evidence": [
+        "苏午看着安纲，笑着摇了摇头，缓声开口道：“安纲君只要愿意将铸剑所并于‘井上家’之下，我愿予安纲君井上家‘中老’之位。”",
+        "苏午抽出天魔丸，一刀打飞了安纲君手中的胁差！"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "安纲",
+      "aliases": [
+        "安纲君"
+      ],
+      "identity": "铸剑大师，能铸造无上级刀剑",
+      "faction": "源氏（被迫）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一位杰出的铸剑师，被源氏控制，与苏午一同发现杀生石矿脉，最终被苏午说服加入井上家。",
+      "appearance": [
+        "瘦削的面孔"
+      ],
+      "personality": [
+        "激动",
+        "忠诚",
+        "易感"
+      ],
+      "abilities": [
+        "铸造无上级刀剑"
+      ],
+      "equipment": [
+        "胁差"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "合作者"
+        },
+        {
+          "target": "源氏",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午发现杀生石矿脉，被苏午说服加入井上家。"
+        }
+      ],
+      "evidence": [
+        "安纲口中叫号了一阵，忽然转头看向苏午，眼神惊恐：“烛照君，你不会杀我灭口吧？！”",
+        "安纲感应到苏午眼神中坦然与真诚，瘦削的面孔微泛红光，眼眶发红"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "鉴真",
+      "aliases": [],
+      "identity": "古代高僧",
+      "faction": "",
+      "status": "已故（提及）",
+      "first_appearance": "",
+      "summary": "古代高僧，留下佛龛、血字和画轴，考验后人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "留下佛龛、血字‘佛本是魔’和画轴。"
+        }
+      ],
+      "evidence": [
+        "纸上可能是鉴真留给后来者的一道题目而已。",
+        "那列蝇头小楷的末端，有个不足拇指四分之一大的印章。他仔细辨认，才发现那印章字迹是‘鉴真之印’。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "永嘉玄觉",
+      "aliases": [
+        "永嘉玄觉禅师"
+      ],
+      "identity": "唐朝禅师",
+      "faction": "",
+      "status": "已故（提及）",
+      "first_appearance": "",
+      "summary": "唐朝禅师，其证道歌被苏午引用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "当下苏午口中默诵的这一段佛偈，乃是自唐朝时候永嘉玄觉禅师的证道歌中截取的一段"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

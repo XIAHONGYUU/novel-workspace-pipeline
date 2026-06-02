@@ -1,0 +1,527 @@
+{
+  "chunk_id": "chunk-1915",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张道人",
+        "张上真"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，实力强大，击败师司议，被元夏视为威胁。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "言印",
+        "剑法",
+        "星光遁术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "师司议",
+          "type": "对手"
+        },
+        {
+          "target": "骆道人",
+          "type": "追击对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击败师司议，追击骆道人。"
+        }
+      ],
+      "evidence": [
+        "张御站在那里未动，似乎说了一句什么，顷刻之间形势逆转。",
+        "张御方才察觉到了道法的运转，也是望到了金舟之中还躲藏有一人",
+        "虚空之中星光一闪，便是着骆道人这里过来"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "师司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "败亡",
+      "first_appearance": "",
+      "summary": "元夏司议，与张御交战，被击败身亡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御交战，败亡。"
+        }
+      ],
+      "evidence": [
+        "师司议败亡的那一刻",
+        "师司议因为没有能够拖延住张御多少脚步",
+        "师司议赴死"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "骆道人",
+      "aliases": [
+        "骆上真"
+      ],
+      "identity": "上三世派遣的道人",
+      "faction": "元夏（上三世）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "上三世派遣的道人，拥有道法“心同神映”，可化解所见道法。",
+      "appearance": [],
+      "personality": [
+        "深沉",
+        "兴奋",
+        "忌惮"
+      ],
+      "abilities": [
+        "心同神映"
+      ],
+      "equipment": [
+        "金舟"
+      ],
+      "relationships": [
+        {
+          "target": "师司议",
+          "type": "利用其死亡"
+        },
+        {
+          "target": "张御",
+          "type": "忌惮对象"
+        },
+        {
+          "target": "雍道人",
+          "type": "派遣者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹师司议败亡，试图撤退，被张御追击。"
+        }
+      ],
+      "evidence": [
+        "他的道法名唤“心同神映”",
+        "他看得很清楚，那个手段并不是长久持续的",
+        "他没想着上去与张御对战"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "雍道人",
+      "aliases": [
+        "雍上真"
+      ],
+      "identity": "上三世修士",
+      "faction": "元夏（上三世）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "上三世修士，派遣骆道人，对张御实力感到意外。",
+      "appearance": [],
+      "personality": [
+        "冷哂",
+        "敬重"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "师司议",
+          "type": "敬重"
+        },
+        {
+          "target": "骆道人",
+          "type": "派遣者"
+        },
+        {
+          "target": "张御",
+          "type": "忌惮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "目睹师司议败亡，下令钟甲、虞月接应骆道人。"
+        }
+      ],
+      "evidence": [
+        "雍道人也是全程目睹了师司议与张御的交锋",
+        "他冷哂一声",
+        "令钟甲、虞月二人，上前接应骆上真"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "兰司议",
+      "aliases": [],
+      "identity": "两殿司议",
+      "faction": "元夏（两殿）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "两殿司议之一，提醒众人还有骆道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在师司议败亡后发言，提及骆道人。"
+        }
+      ],
+      "evidence": [
+        "兰司议看了看众人，道：“诸位，是否忘了那里还有一人？那位骆上真可还在那里”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "正清道人",
+      "aliases": [
+        "正清廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，负责攻伐世道。",
+      "appearance": [],
+      "personality": [
+        "平静"
+      ],
+      "abilities": [],
+      "equipment": [
+        "传讯晶玉"
+      ],
+      "relationships": [
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "方景凛",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从常英世道出来，接到武廷执传讯，继续攻伐下一处。"
+        }
+      ],
+      "evidence": [
+        "正清道人这时已从常英世道之中出来",
+        "正清廷执，你不必去管那边之事，且继续去攻伐下一个世道便好",
+        "他遁光回到了飞舟之内"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，通过传讯晶玉与正清道人联系。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "传讯晶玉"
+      ],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传讯给正清道人，指示继续攻伐。"
+        }
+      ],
+      "evidence": [
+        "从那传讯晶玉之中传来了武廷执的传言"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "方景凛",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，与正清道人同行。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与正清道人会合，准备攻伐下一处。"
+        }
+      ],
+      "evidence": [
+        "与方景凛等五人重新回合",
+        "方景凛笑了一笑，道：“好的很。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "岳清泽",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，与正清道人同行。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与正清道人会合，准备攻伐下一处。"
+        }
+      ],
+      "evidence": [
+        "岳清泽四人也是执礼称是"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "钟甲道人",
+      "aliases": [
+        "钟甲"
+      ],
+      "identity": "元夏修士，假身在天夏",
+      "faction": "元夏（后投诚天夏）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏修士，因假身在天夏而选择投诚。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "金舟"
+      ],
+      "relationships": [
+        {
+          "target": "虞月",
+          "type": "同伴"
+        },
+        {
+          "target": "雍道人",
+          "type": "上级"
+        },
+        {
+          "target": "尤老道",
+          "type": "投诚对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与虞月一同接应骆道人，途中决定向天夏投诚。"
+        }
+      ],
+      "evidence": [
+        "钟甲、虞月二人在收到了传命之后，已然是乘坐金舟赶来接应骆道人了",
+        "钟甲道人道：“因为我们有一具假身就在天夏”",
+        "钟甲道人执有一礼，道：“我等明白，我等会让贵方看到诚意的。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "虞月",
+      "aliases": [
+        "虞月上真",
+        "虞月女道"
+      ],
+      "identity": "元夏女修，假身在天夏",
+      "faction": "元夏（后投诚天夏）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏女修，与钟甲一同投诚天夏。",
+      "appearance": [],
+      "personality": [
+        "沉默",
+        "幽幽"
+      ],
+      "abilities": [
+        "眉心祖窍照出明光"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟甲道人",
+          "type": "同伴"
+        },
+        {
+          "target": "尤老道",
+          "type": "投诚对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与钟甲一同接应骆道人，途中决定投诚，并传递意念给尤老道。"
+        }
+      ],
+      "evidence": [
+        "虞月女道想了想，觉得可行，于是点了点头。",
+        "虞月女应一声，她手腕一番，容色一正，在身前拿一个法诀",
+        "虞月女道言道：“元夏对我们也有所怀疑了，我们不得不作出选择。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "尤老道",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，负责策应张御，接受钟甲、虞月投诚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "晶玉"
+      ],
+      "relationships": [
+        {
+          "target": "严若菡",
+          "type": "同伴"
+        },
+        {
+          "target": "钟甲道人",
+          "type": "投诚接收者"
+        },
+        {
+          "target": "武廷执",
+          "type": "通过晶玉交流"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与严若菡赶来策应张御，收到钟甲、虞月投诚意念，与武廷执交流后接纳。"
+        }
+      ],
+      "evidence": [
+        "尤老道、严若菡二人正在赶来策应张御的路上",
+        "尤老道立刻在袖中握住晶玉，与武廷执交流了下",
+        "尤老道则颔首道：“若是两位诚心投靠，我可以作主接纳”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "严若菡",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，与尤老道一同策应张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尤老道",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与尤老道赶来策应张御。"
+        }
+      ],
+      "evidence": [
+        "尤老道、严若菡二人正在赶来策应张御的路上"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "惊龙子",
+      "aliases": [],
+      "identity": "元夏修士，在天夏求取上境",
+      "faction": "元夏（提及）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被钟甲提及，作为在天夏求取上境的例子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "惊龙子为什么要在天夏求取上境"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "崔、莱两位道友",
+      "aliases": [],
+      "identity": "元夏修士",
+      "faction": "元夏（提及）",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "钟甲和虞月的同道，未被告知投诚计划。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟甲道人",
+          "type": "同道"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "所以我不打算告诉崔、莱两位道友了"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

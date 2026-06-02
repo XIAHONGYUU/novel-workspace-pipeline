@@ -11,33 +11,19 @@ venv/
 env/
 
 node_modules/
+
 *.log
 
-# Generated novel workspace outputs
-novel-run-sample/
-*/source/*
-*/work/
-*/focus-*/
-*/cards/
-*/chunks/
-*/extractions/
-*/merged/
-*/workspace-status.json
-*/workspace-gap-report.md
-*/workspace-repair-plan.md
-*/workspace-context-*.md
-*/工作区流程判断报告.md
-*/工作状态-*.md
-
-# Local build artifacts
-.codex/
+.codex
 .skill-build/
-.skill-staging/
 
-# Generated files inside tracked demo fixtures
-fixtures/CURRENT_STATUS.md
-fixtures/**/workspace-status.json
-fixtures/**/workspace-gap-report.md
-fixtures/**/workspace-repair-plan.md
-fixtures/**/workspace-context-*.md
-fixtures/**/工作区流程判断报告.md
+# local input queue and redundant source copies
+待处理小说/*.txt
+刀笼/source/DAOLONG.md
+.env
+
+# transient chapter-distillation artifacts
+**/.distill_progress
+**/*.bak
+**/*.bak2
+**/work/chapter-distillation/

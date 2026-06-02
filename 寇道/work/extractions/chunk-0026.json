@@ -1,0 +1,484 @@
+{
+  "chunk_id": "chunk-0026",
+  "characters": [
+    {
+      "name": "寇立",
+      "aliases": [
+        "老八",
+        "八师兄"
+      ],
+      "identity": "武馆学徒，内家拳大成者",
+      "faction": "烧身馆",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "内家拳大成，拳术高超，在逃亡中不断突破。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "坚韧"
+      ],
+      "abilities": [
+        "内家拳大成",
+        "丹变鞭法",
+        "入静感应"
+      ],
+      "equipment": [
+        "刀"
+      ],
+      "relationships": [
+        {
+          "target": "罗墩子",
+          "type": "四师兄"
+        },
+        {
+          "target": "江伢子",
+          "type": "八师兄"
+        },
+        {
+          "target": "翟关",
+          "type": "敌对"
+        },
+        {
+          "target": "阴鸠武官",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "逃亡中",
+          "event": "以一敌三，炸毁铁炮，突围后与武馆残党汇合。"
+        },
+        {
+          "stage": "夜间",
+          "event": "入静疗伤，感应到穴道亮点，尝试模拟火药劲。"
+        }
+      ],
+      "evidence": [
+        "寇立在这短短时间内，以一敌四，杀招频出",
+        "寇立内家拳大成，拳势不可能有间隙破绽",
+        "寇立咬牙、捏肩，九节一扭一颤，‘咔嚓’一声，那被铁石砸的错位的肩头又接了上来。"
+      ],
+      "mention_count": 45
+    },
+    {
+      "name": "翟关",
+      "aliases": [],
+      "identity": "武馆教习，背叛者",
+      "faction": "烧身馆（原）",
+      "status": "登场",
+      "first_appearance": "第094章",
+      "summary": "原烧身馆教习，背叛林师傅，与官兵联手追杀武馆残党。",
+      "appearance": [],
+      "personality": [
+        "阴狠",
+        "老练"
+      ],
+      "abilities": [
+        "百战诀刀法",
+        "骨劲爆发"
+      ],
+      "equipment": [
+        "关刀"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "阴鸠武官",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "铁炮爆炸后",
+          "event": "从泥土中爬出，感叹寇立实力超乎想象。"
+        }
+      ],
+      "evidence": [
+        "翟关刀身拖地，刀势引而不发",
+        "翟关灰头土脸的爬了出来，结实有劲的双手都在打着摆子",
+        "翟关背叛了林师傅"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "阴鸠武官",
+      "aliases": [],
+      "identity": "官兵武官",
+      "faction": "官军",
+      "status": "登场",
+      "first_appearance": "第094章",
+      "summary": "擅长火药劲的武官，与翟关联手追杀寇立。",
+      "appearance": [],
+      "personality": [
+        "阴冷",
+        "狠辣"
+      ],
+      "abilities": [
+        "火药劲",
+        "地趟腿"
+      ],
+      "equipment": [
+        "铁甲"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "翟关",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "铁炮爆炸后",
+          "event": "从泥土中半坐起身，受伤严重，拖出药师奴尸体。"
+        }
+      ],
+      "evidence": [
+        "阴鸠武官反身一个地趟腿",
+        "阴鸠武官冷冰冰的看了曹英一眼",
+        "阴鸠武官低声的道，阴冷的脸上，居然闪过一丝恐惧感。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "药师奴",
+      "aliases": [],
+      "identity": "胡人大汉，擅长塞外短打",
+      "faction": "官兵",
+      "status": "死亡",
+      "first_appearance": "第094章",
+      "summary": "擅长贴身擒拿短打的胡人，被铁炮碎片击中身亡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "塞外短打"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阴鸠武官",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "铁炮爆炸后",
+          "event": "被铁炮碎片插入胸口小腹，有出气没进气。"
+        }
+      ],
+      "evidence": [
+        "擅长贴身擒拿短打的药师奴",
+        "药师奴胸口小腹，两块铁炮碎片深深的插入其中，眼看着有出气没进气了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "曹英",
+      "aliases": [],
+      "identity": "官兵（被翟关当作挡箭牌）",
+      "faction": "官兵",
+      "status": "重伤",
+      "first_appearance": "第094章",
+      "summary": "被翟关当作挡箭牌，浑身血口、脸骨塌陷，但还有一口气。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "翟关",
+          "type": "被利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "铁炮爆炸后",
+          "event": "被翟关当作挡箭牌，重伤昏迷。"
+        }
+      ],
+      "evidence": [
+        "只见被他当作挡箭牌的曹英浑身血口、脸骨塌陷，好在胸膛起伏，看样子还有一口气。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "罗墩子",
+      "aliases": [
+        "四师兄"
+      ],
+      "identity": "武馆学徒，寇立的四师兄",
+      "faction": "烧身馆",
+      "status": "登场",
+      "first_appearance": "第095章",
+      "summary": "憨厚老实，有些结巴，拳术高超，与寇立一起逃亡。",
+      "appearance": [
+        "憨厚似老农的面孔"
+      ],
+      "personality": [
+        "憨厚",
+        "老实",
+        "木讷"
+      ],
+      "abilities": [
+        "拳术高超"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "四师兄"
+        },
+        {
+          "target": "江伢子",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "逃亡中",
+          "event": "与寇立汇合，带路找到武馆残党。"
+        },
+        {
+          "stage": "夜间",
+          "event": "与寇立讨论丹变和古五行拳。"
+        }
+      ],
+      "evidence": [
+        "罗墩子露出挠了挠头，解释道",
+        "罗墩子木讷的脸上，顿时好似见了鬼似的",
+        "罗墩子犹豫了下，挠头道"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "江伢子",
+      "aliases": [
+        "八师兄"
+      ],
+      "identity": "武馆学徒，寇立的八师兄",
+      "faction": "烧身馆",
+      "status": "登场",
+      "first_appearance": "第095章",
+      "summary": "调皮捣蛋，精力旺盛，但夜间表现出冷酷杀意，疑似内奸。",
+      "appearance": [],
+      "personality": [
+        "调皮",
+        "精力旺盛",
+        "冷酷（夜间）"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "八师兄"
+        },
+        {
+          "target": "罗墩子",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜间",
+          "event": "从石头上蹦下，眼神冷酷陌生，带有杀意。"
+        }
+      ],
+      "evidence": [
+        "江伢子更是十根手指血迹斑斑",
+        "江伢子嘟囔着嘴，不过气不过片刻，就又嘻嘻哈哈",
+        "一道人影忽然从石头上蹦了下来，身形矫健，冷冰冰的看了寇立一眼，眼神之中，透着陌生和冷酷，还有一丝淡淡的杀意"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "郑小宝",
+      "aliases": [
+        "小师兄"
+      ],
+      "identity": "武馆学徒",
+      "faction": "烧身馆",
+      "status": "登场",
+      "first_appearance": "第095章",
+      "summary": "精神状态古怪，手上没有沾血，似乎神游物外。",
+      "appearance": [],
+      "personality": [
+        "神游物外"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "被罩着"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "逃亡中",
+          "event": "跟着队伍，没有参与战斗。"
+        }
+      ],
+      "evidence": [
+        "郑小宝，他手上并没有沾上一点血，整个路上，都像神游物外似的"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "姜水源",
+      "aliases": [],
+      "identity": "武馆学徒",
+      "faction": "烧身馆",
+      "status": "登场",
+      "first_appearance": "第095章",
+      "summary": "武馆学徒，与谭鱼、马源关系好，但二人已走。",
+      "appearance": [],
+      "personality": [
+        "气闷"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谭鱼",
+          "type": "朋友"
+        },
+        {
+          "target": "马源",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "逃亡中",
+          "event": "嘀咕寇立的奇怪姿势。"
+        }
+      ],
+      "evidence": [
+        "姜水源忍不住嘀咕道",
+        "与他关系最好的两个，谭鱼走了，马源也走了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "王神奴",
+      "aliases": [],
+      "identity": "武馆学徒",
+      "faction": "烧身馆",
+      "status": "登场",
+      "first_appearance": "第095章",
+      "summary": "脑袋不大灵光的武馆学徒。",
+      "appearance": [],
+      "personality": [
+        "脑袋不灵光"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "左边是脑袋不大灵光的王神奴"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李教习",
+      "aliases": [],
+      "identity": "武馆教习",
+      "faction": "烧身馆",
+      "status": "登场",
+      "first_appearance": "第095章",
+      "summary": "带领武馆学徒逃亡的教习。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "逃亡中",
+          "event": "带领学徒应对官兵。"
+        }
+      ],
+      "evidence": [
+        "以李教习为首，活下来的武馆学徒们顿时躲树藏林"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "老将军",
+      "aliases": [],
+      "identity": "官军将领",
+      "faction": "官军",
+      "status": "登场",
+      "first_appearance": "第097章",
+      "summary": "指挥围剿的官军老将，与水龙帮大总管有矛盾。",
+      "appearance": [],
+      "personality": [
+        "老练",
+        "强硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "水龙帮大总管",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜间",
+          "event": "在营帐中与总管争论，分析逃亡路线。"
+        }
+      ],
+      "evidence": [
+        "老将军冷哼一声",
+        "老将军虎目盯着对方看了许久"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "水龙帮大总管",
+      "aliases": [],
+      "identity": "水龙帮粤州城大管家",
+      "faction": "水龙帮",
+      "status": "登场",
+      "first_appearance": "第097章",
+      "summary": "水龙帮在粤州城的负责人，下巴受伤，催促老将军剿匪。",
+      "appearance": [
+        "肥嘟嘟、胖乎乎，下巴部位被戳了洞，皮肉外掀"
+      ],
+      "personality": [
+        "急躁",
+        "强硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "老将军",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "夜间",
+          "event": "拜访老将军，催促剿匪进度。"
+        }
+      ],
+      "evidence": [
+        "水龙帮粤州城的大管家，依旧是肥嘟嘟、胖乎乎的模样，只是下巴部位被戳了洞，皮肉外掀",
+        "大总管面色一僵"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

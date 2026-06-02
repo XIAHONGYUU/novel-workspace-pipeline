@@ -1,0 +1,268 @@
+{
+  "chunk_id": "chunk-1649",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张上真"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏一方的主事者，与元上殿进行谈判和斗战。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "善于分析"
+      ],
+      "abilities": [
+        "斩诸绝",
+        "驾驭镇道之宝"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "谈判对手"
+        },
+        {
+          "target": "武廷执",
+          "type": "同阵营"
+        },
+        {
+          "target": "林廷执",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与向司议谈判，并应对元上殿的修士进攻。"
+        }
+      ],
+      "evidence": [
+        "张御知道向司议所言半是事实，半是话术，听听便罢，不能当真。",
+        "张御神情淡然，这个条件其实没有什么诚意",
+        "张御这时也是分辨清楚了，一次派遣出来了三名求全道法之人"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "向司议",
+      "aliases": [
+        "向某"
+      ],
+      "identity": "元上殿司议",
+      "faction": "元上殿",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元上殿派来与张御谈判的司议。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于话术"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "谈判对手"
+        },
+        {
+          "target": "全司议",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御谈判，之后向全司议汇报。"
+        }
+      ],
+      "evidence": [
+        "向司议神情稍微认真了些，道：“虽然现在场中局势算是持平，但是张上真，我元夏能匀出一件宝器，就能匀出第二件”",
+        "向司议对他一礼之后，便即离开了此间。",
+        "向司议在转回到了元上殿之后，没有立刻去见两殿众司议，而是先去见了全司议"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "全司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元上殿",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "元上殿的高层司议，向司议向其汇报谈判结果。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "向司议",
+          "type": "下属"
+        },
+        {
+          "target": "过司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "听取向司议汇报，并计划与过司议商议。"
+        }
+      ],
+      "evidence": [
+        "全司议道：“此事你先不必与两殿言说，下来你也不必露面，余下的事机，我会与过司议商议。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "过司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元上殿",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "全司议计划与之商议的司议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "全司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被全司议提及将与之商议。"
+        }
+      ],
+      "evidence": [
+        "余下的事机，我会与过司议商议。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "兰司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元上殿",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "此前提出要进攻一次的司议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "此前",
+          "event": "提出总是要进攻一次。"
+        }
+      ],
+      "evidence": [
+        "按照此前兰司议的说法，总是要进攻一次的"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏一方与张御、林廷执同阵营的修士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同作为阵后遮护。"
+        }
+      ],
+      "evidence": [
+        "而他自己则是令武廷执和自己作为阵后的一个遮护"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "林廷执",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏一方修士，受张御之命与元上殿修士交手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "灵机天弦"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同阵营"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "展开根本道法“灵机天弦”与金光对抗。"
+        }
+      ],
+      "evidence": [
+        "林廷执得他谕令之后，也是自后阵上来，他到得前方，将自身根本道法“灵机天弦”展开"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "金驻使",
+      "aliases": [],
+      "identity": "天夏驻使",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御命其送向司议离开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "代张御送向司议。"
+        }
+      ],
+      "evidence": [
+        "张御微微点头，道：“金驻使，代我送一送向司议吧。”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

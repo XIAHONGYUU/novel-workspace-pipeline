@@ -1,0 +1,420 @@
+{
+  "chunk_id": "chunk-0508",
+  "characters": [
+    {
+      "name": "洪原秋",
+      "aliases": [
+        "署主"
+      ],
+      "identity": "天城军务署署主",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "天城军务署署主，负责安排论法之会事宜，并派人调查张御的来历。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "在军务署大堂交代下属事宜，后回内厅听取亲信文吏关于张御来历的调查结果。"
+        }
+      ],
+      "evidence": [
+        "天城军务署大堂之中，洪原秋正对几名下属交代事宜。",
+        "洪原秋将文册拿到了手中，打开翻了翻，只是在看了一会儿之后，也是不觉露出动容之色。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "亲信文吏",
+      "aliases": [
+        "唐嵘"
+      ],
+      "identity": "天城军务总署参事",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "洪原秋的亲信文吏，负责调查张御的来历，后奉命前往卫氏军驻地询问张御。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "洪原秋",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "调查者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "向洪原秋汇报调查结果。"
+        },
+        {
+          "stage": "两天后",
+          "event": "带人前往卫氏军驻地，向张御问询。"
+        }
+      ],
+      "evidence": [
+        "那文吏在袖内摸索了一下，拿出了一份文册，道：“这是关于那一位的真正来历出身记述”",
+        "在下乙未天城军务总署参事唐嵘，张玄正有礼了。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄修",
+        "张玄正"
+      ],
+      "identity": "玄廷敕封青阳上洲玄府玄正，玄廷行走",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "奉玄廷之命到外层审观奎宿诸星，隐藏身份加入卫氏军，被金瞳署和军务署调查。",
+      "appearance": [],
+      "personality": [
+        "淡然",
+        "冷静"
+      ],
+      "abilities": [
+        "吸纳源能"
+      ],
+      "equipment": [
+        "古老手环",
+        "玉印"
+      ],
+      "relationships": [
+        {
+          "target": "洪原秋",
+          "type": "被调查"
+        },
+        {
+          "target": "苏亮",
+          "type": "被揭发"
+        },
+        {
+          "target": "卫灵英",
+          "type": "同僚"
+        },
+        {
+          "target": "靳小柏",
+          "type": "同僚"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "二月中旬后",
+          "event": "进入外层。"
+        },
+        {
+          "stage": "五旬中旬",
+          "event": "在居所研究手环，后前往大厅面对金瞳署和军务署的询问。"
+        }
+      ],
+      "evidence": [
+        "张御正在看着手中的一个古老的手环，上面本来有着微弱的源能",
+        "御受玄廷信重，授名行走，今奉玄廷之命到此，审观奎宿诸星"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "苏亮",
+      "aliases": [
+        "小亮"
+      ],
+      "identity": "卫氏军成员",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "卫氏军成员，认为张御来历有问题，带金瞳署的人来揭发张御。",
+      "appearance": [],
+      "personality": [
+        "固执",
+        "冲动"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "揭发对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "带金瞳署的人到卫氏军驻地，声称要揭露张御的真面目。"
+        }
+      ],
+      "evidence": [
+        "苏亮在离去半月之后再次来到了这里",
+        "苏亮这时站了出来，对众多卫氏军的军卒道：“我们这次只是来查那位张玄修”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "卫灵英",
+      "aliases": [
+        "卫姐",
+        "军主"
+      ],
+      "identity": "卫氏军军主",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "卫氏军的领导者，信任张御，面对金瞳署的调查不为所动。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "有主见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏亮",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "靳小柏",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "与靳小柏、林军士等商议军务署委派，后出面应对金瞳署。"
+        }
+      ],
+      "evidence": [
+        "卫灵英、靳小柏还有林军士等伍首正在商量届时如何安排",
+        "卫灵英看了看苏亮，道：“小亮，你这是？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "靳小柏",
+      "aliases": [],
+      "identity": "卫氏军伍首",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "卫氏军伍首之一，与卫灵英一同商议事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "同僚"
+        },
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "与卫灵英、林军士等商议军务署委派。"
+        }
+      ],
+      "evidence": [
+        "卫灵英、靳小柏还有林军士等伍首正在商量届时如何安排"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "林军士",
+      "aliases": [],
+      "identity": "卫氏军伍首",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "卫氏军伍首之一，参与商议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "与卫灵英、靳小柏等商议军务署委派。"
+        }
+      ],
+      "evidence": [
+        "卫灵英、靳小柏还有林军士等伍首正在商量届时如何安排"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "金瞳署道人甲",
+      "aliases": [],
+      "identity": "金瞳署道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "金瞳署派来调查张御的道人之一，态度冷厉。",
+      "appearance": [
+        "身着黑色道袍，袖口绣有金色眼瞳图纹"
+      ],
+      "personality": [
+        "冷漠",
+        "严肃"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "随苏亮到卫氏军驻地，质问张御历述伪造之事。"
+        }
+      ],
+      "evidence": [
+        "两名道人袖口之上都是绣有一只金色的眼瞳图纹",
+        "那道人冷然言道：“经我们查证，你是二月中旬后进入外层的，但你的历述却是伪造的”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "金瞳署道人乙",
+      "aliases": [],
+      "identity": "金瞳署道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "金瞳署派来调查张御的道人之一，与同伴一同行动。",
+      "appearance": [
+        "身着黑色道袍，袖口绣有金色眼瞳图纹"
+      ],
+      "personality": [
+        "冷漠"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "调查对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "随苏亮到卫氏军驻地，参与调查。"
+        }
+      ],
+      "evidence": [
+        "两名道人袖口之上都是绣有一只金色的眼瞳图纹",
+        "另一名道人也是缓缓看过来"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "张御的随从，负责通报消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "向张御通报卫氏军派人来。"
+        }
+      ],
+      "evidence": [
+        "这时李青禾走进来，拱手道：“先生，卫氏军那边派了一个人过来”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "传信军卒",
+      "aliases": [],
+      "identity": "卫氏军新卒",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 揭发",
+      "summary": "卫氏军新加入的军卒，被派去通知张御金瞳署来人的消息，行为可疑。",
+      "appearance": [],
+      "personality": [
+        "急切",
+        "可疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "传信"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "五旬中旬",
+          "event": "被派去通知张御金瞳署来人，劝张御逃走。"
+        }
+      ],
+      "evidence": [
+        "一个军卒走了进来，他抱拳一礼，而后急切言道：“张玄修，不好了。方才有金瞳署的人来找你”",
+        "这位应该是在这两天前方才加入卫氏军的。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

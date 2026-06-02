@@ -1,0 +1,264 @@
+{
+  "chunk_id": "chunk-1274",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "陶先生"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，正在为与'上我'一战做准备。",
+      "appearance": [],
+      "personality": [
+        "慎重",
+        "冷静"
+      ],
+      "abilities": [
+        "虚实相生的功果",
+        "心光"
+      ],
+      "equipment": [
+        "两柄飞剑",
+        "离空紫炁砂"
+      ],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "合作"
+        },
+        {
+          "target": "上我",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "思考如何通过至善造物迎战上我，并准备丹丸等后手。"
+        }
+      ],
+      "evidence": [
+        "张御思考了一会儿后，往莲台上面飘去",
+        "他慎重思考了一下，此事还是值得一试的",
+        "张御微微点头，道：'这位道童自何处来？'"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "熹王",
+      "aliases": [
+        "昊皇",
+        "皇帝"
+      ],
+      "identity": "昊族皇帝",
+      "faction": "昊族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "昊族新继位的皇帝，与张御合作。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "继位大典结束，成为昊皇，感到咒力侵袭加深，计划更换躯壳。"
+        }
+      ],
+      "evidence": [
+        "熹王的继位大典已然结束，现在应该是称呼这一位为昊皇了",
+        "陛下这几日感到咒力侵袭加深，想要再换一具身躯"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "道童",
+      "aliases": [],
+      "identity": "耿师门下的炼丹道童",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "奉师命为张御送丹药，并传达耿师可以炼制斗战丹丸的消息。",
+      "appearance": [],
+      "personality": [
+        "口齿清晰",
+        "略带自傲"
+      ],
+      "abilities": [],
+      "equipment": [
+        "晶板"
+      ],
+      "relationships": [
+        {
+          "target": "耿师",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "送药"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在候厅等候张御，交付丹药并询问丹丸配方。"
+        }
+      ],
+      "evidence": [
+        "道童口齿清晰道：'小童在耿师门下修学炼丹'",
+        "道童接过之后，他拿出一面晶板，在上面写写画画"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "造物炼士",
+      "aliases": [
+        "炼师"
+      ],
+      "identity": "熹王身边的造物炼士",
+      "faction": "昊族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "为熹王传信给张御，告知皇帝计划更换躯壳。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "传信"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传令道童去国库取宝材，并告知张御熹王要更换躯壳。"
+        }
+      ],
+      "evidence": [
+        "造物炼士抬了下手，示意道童离去",
+        "造物炼士来到张御身前，执有一礼后，道：'陶先生，陛下命在下前来传一个消息。'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "耿师",
+      "aliases": [],
+      "identity": "炼丹师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "擅长祭炼各种丹药的炼丹师，为张御炼制丹药。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "炼丹"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "道童",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "炼丹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过道童回应张御可以炼制斗战丹丸。"
+        }
+      ],
+      "evidence": [
+        "耿师说可以祭炼，这是宝材所需"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "傅长老",
+      "aliases": [],
+      "identity": "常生派长老",
+      "faction": "常生派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "常生派长老，与掌门商议应对熹王和天人的策略。",
+      "appearance": [],
+      "personality": [
+        "略带讽意"
+      ],
+      "abilities": [
+        "推算"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "中年道人",
+          "type": "掌门与长老"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向掌门汇报推算结果，建议与天人交好。"
+        }
+      ],
+      "evidence": [
+        "傅长老正等在大殿厅",
+        "傅长老略带讽意道：'不想各宗高人不敢舍命与敌相搏，压迫同道倒是颇有手段。'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "中年道人",
+      "aliases": [
+        "掌门"
+      ],
+      "identity": "常生派掌门",
+      "faction": "常生派",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "常生派掌门，决定对熹王下手，并计划与天人合作。",
+      "appearance": [],
+      "personality": [
+        "坚决"
+      ],
+      "abilities": [
+        "推算"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "傅长老",
+          "type": "掌门与长老"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知傅长老各派掌门决定对熹王下手，并同意与天人交好。"
+        }
+      ],
+      "evidence": [
+        "中年道人自里走了出来",
+        "中年道人道：'除了我常生派，还有谁能算准此等时机，自是非我莫属'"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

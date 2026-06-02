@@ -1,0 +1,186 @@
+{
+  "chunk_id": "chunk-0132",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "武者，接近宗师境界",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与阎佛激战，最终斩断其右臂并刺瞎其双眼，占据上风。",
+      "appearance": [
+        "精壮的半身"
+      ],
+      "personality": [
+        "凶性",
+        "宁进不退"
+      ],
+      "abilities": [
+        "神明之境",
+        "皇天如来",
+        "龙鹰合击",
+        "无刀胜有刀",
+        "斩赤龙",
+        "如来之势"
+      ],
+      "equipment": [
+        "奉龙甲"
+      ],
+      "relationships": [
+        {
+          "target": "阎佛",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前战斗",
+          "event": "与阎佛第三次交锋，击败阎佛，阎佛逃窜。"
+        }
+      ],
+      "evidence": [
+        "戚笼这一脚轰来，速度快到不可思议",
+        "戚笼皮肤表面，钝金光芒在日光照射下，竟在脑后显出一轮光晕。",
+        "戚笼转身，一手扯下被剑光划开的袖子，露出精壮的半身"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "阎佛",
+      "aliases": [
+        "老和尚",
+        "阎佛寺大主持"
+      ],
+      "identity": "阎佛寺大主持，半步宗师",
+      "faction": "阎佛寺",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与戚笼激战，被斩断右臂并刺瞎双眼，最终逃窜。",
+      "appearance": [
+        "粉嫩白皙的小脸",
+        "四十颗牙齿"
+      ],
+      "personality": [
+        "狡猾",
+        "狰狞"
+      ],
+      "abilities": [
+        "醍醐灌顶",
+        "血三业",
+        "散血泻劲",
+        "舍利打",
+        "金丹",
+        "尸解红莲",
+        "莲花剑"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "敌对"
+        },
+        {
+          "target": "薛沉舟",
+          "type": "利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前战斗",
+          "event": "被戚笼击败，右臂齐肘而断，两眼被剪瞎，逃向薛家山庄。"
+        }
+      ],
+      "evidence": [
+        "阎佛的算盘其实打的可精了。",
+        "阎佛粉嫩白皙的小脸下意识的抖动着，四十颗牙齿的牙床都在晃荡。",
+        "阎佛二话不说，脚步一转，缩步成寸，疯狂往藏经阁外奔去！"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "圆大护法",
+      "aliases": [],
+      "identity": "阎佛寺护法",
+      "faction": "阎佛寺",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "试图阻挡戚笼，被戚笼一记龙形手鞭击伤，双耳失聪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "纯钢禅杖"
+      ],
+      "relationships": [
+        {
+          "target": "阎佛",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前战斗",
+          "event": "被戚笼击伤，双耳炸裂。"
+        }
+      ],
+      "evidence": [
+        "圆大护法面色一变，手中纯钢禅杖‘哗啦啦’直响。",
+        "两只耳朵更是同时炸成肉沫，耳膜穿裂，再也听不到任何声音了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "薛沉舟",
+      "aliases": [],
+      "identity": "薛血海之子",
+      "faction": "薛家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被阎佛利用，通过醍醐灌顶炼化‘血三业’替父报仇。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阎佛",
+          "type": "被利用"
+        },
+        {
+          "target": "薛血海",
+          "type": "父子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "通过醍醐灌顶，让薛沉舟炼化‘血三业’，替父报仇。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "薛血海",
+      "aliases": [],
+      "identity": "薛沉舟之父",
+      "faction": "薛家",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "已故，其精神烙印被阎佛利用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛沉舟",
+          "type": "父子"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "如果薛沉舟技不如人，便就催动其父薛血海的精神烙印"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

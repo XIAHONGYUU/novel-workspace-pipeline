@@ -1,0 +1,205 @@
+{
+  "chunk_id": "chunk-1585",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "玄廷次执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷次执，主导论道，阐述玄法理念。",
+      "appearance": [],
+      "personality": [
+        "睿智",
+        "有远见"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "晁廷执",
+          "type": "同僚"
+        },
+        {
+          "target": "风道人",
+          "type": "道友"
+        },
+        {
+          "target": "金郅行",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "论道期间",
+          "event": "回答道人关于道法的问题，阐述玄法理念。"
+        },
+        {
+          "stage": "论道结束后",
+          "event": "与风道人交谈，并记录论道内容。"
+        },
+        {
+          "stage": "数日后",
+          "event": "参加廷议，后收到金郅行关于元夏已动的消息。"
+        }
+      ],
+      "evidence": [
+        "张御知晓，这个问题是回避不了。",
+        "张御道：“世人为何要习道法？”",
+        "张御道：“那是因为我道行比他们高，故是他们认为我说得话有道理”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "道人",
+      "aliases": [],
+      "identity": "玄修或真修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在论道中向张御提问的道人，代表部分真修或玄修的疑虑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "论道期间",
+          "event": "向张御提问关于道法的问题。"
+        }
+      ],
+      "evidence": [
+        "这名道人问出这个问题后，训天道章之中诸玄尊一齐看向张御",
+        "那道人想了想，道：“自是为了超脱，为了自在逍遥。”",
+        "那道人这时又问了一句，道：“那敢问廷执，难道不是越是纠缠，承负越大么？”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "焦尧",
+      "aliases": [
+        "老龙"
+      ],
+      "identity": "玄修（龙族）",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "一名玄修，借弟子之助参与论道，发表感慨。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "论道期间",
+          "event": "借弟子之语发表对过去修道艰难的感慨。"
+        }
+      ],
+      "evidence": [
+        "焦尧借着一名玄修弟子之助，也是把这些听在耳中",
+        "焦尧又借那弟子语发感慨道：“张廷执这话说的是，老龙寿岁长一些”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "晁廷执",
+      "aliases": [
+        "晁廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷廷执，参与论道，后与张御交谈后离去。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "论道结束后",
+          "event": "与张御交谈后离去。"
+        }
+      ],
+      "evidence": [
+        "晁廷执对张御道：“既然诸人皆退，那晁某也便走了。”",
+        "张御道：“此番多谢晁廷执了。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风道人"
+      ],
+      "identity": "玄修",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与张御论道的道友，后提及弟子欲开论道之会。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "论道结束后",
+          "event": "与张御交谈，提及弟子欲开论道之会。"
+        }
+      ],
+      "evidence": [
+        "风道人传意过来，道：“张道友，你方才那番言语，却是胜过十次论道。”",
+        "风道人觉得是如此，以前莫非就没人能说出这番道理么？"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "金郅行",
+      "aliases": [
+        "金值司"
+      ],
+      "identity": "玄廷值司",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "玄廷值司，向张御报告元夏已动的消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "论道数日后",
+          "event": "向张御传意报告元夏已动。"
+        }
+      ],
+      "evidence": [
+        "金郅行有些沉肃声音传至道：“廷执，元夏已然动了。”"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

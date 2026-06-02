@@ -2,13 +2,10 @@
 from __future__ import annotations
 
 import argparse
-import os
 import shutil
 import subprocess
 from datetime import date
 from pathlib import Path
-
-REPO_ROOT = Path(__file__).resolve().parents[2]
 
 
 def write_file(path: Path, content: str, force: bool) -> None:
@@ -18,9 +15,9 @@ def write_file(path: Path, content: str, force: bool) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-def run_cmd(cmd: list[str], env: dict[str, str] | None = None) -> bool:
+def run_cmd(cmd: list[str]) -> bool:
     try:
-        subprocess.run(cmd, check=True, env=env)
+        subprocess.run(cmd, check=True)
         return True
     except (subprocess.CalledProcessError, FileNotFoundError):
         return False
@@ -64,20 +61,17 @@ def convert_source(copied_source: Path, force: bool) -> Path | None:
     if md_target.exists() and not force:
         return md_target
 
-    text2markdown_src = REPO_ROOT / "text2markdown" / "src"
-    if text2markdown_src.exists():
-        env = os.environ.copy()
-        env["PYTHONPATH"] = str(text2markdown_src)
+    tool_script = Path("/home/zuoky/project/text2markdown/scripts/txt_to_markdown.py")
+    if tool_script.exists():
         ok = run_cmd(
             [
                 "python3",
-                "-m",
-                "text2markdown.cli",
+                str(tool_script),
+                "--input",
                 str(copied_source),
-                "-o",
+                "--output",
                 str(md_target),
-            ],
-            env=env,
+            ]
         )
         if ok and md_target.exists():
             return md_target

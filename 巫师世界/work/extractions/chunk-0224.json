@@ -1,0 +1,151 @@
+{
+  "chunk_id": "chunk-0224",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师，拥有古代鹰身女妖血脉",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "拥有古代鹰身女妖血脉的巫师，正在猎杀部队分部接受药剂师考核，被安德烈发现秘密。",
+      "appearance": [
+        "身上脸上浮现隐形的黑色花纹，如同蛇一般的触角黑纹"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "配置药剂",
+        "拥有变异幻觉印记"
+      ],
+      "equipment": [
+        "腰囊"
+      ],
+      "relationships": [
+        {
+          "target": "安德烈",
+          "type": "威胁与被威胁"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在药剂室配置凝血膏，被安德烈识破古代血脉秘密，被迫交出提取方法和腰囊。"
+        }
+      ],
+      "evidence": [
+        "你身上，有提纯过的古代血脉吧……",
+        "古代鹰身女妖的血脉，我从你身上闻到了……",
+        "把你的腰囊也给我抛过来。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "安德烈",
+      "aliases": [],
+      "identity": "六环专属药剂师，猎杀部队分部药剂部审核人员",
+      "faction": "六环高塔",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "猎杀部队分部的药剂师，识破安格列的古代血脉，并以此要挟。",
+      "appearance": [
+        "瘦一些的老头",
+        "白袍",
+        "右手能变成黑色翅膀"
+      ],
+      "personality": [
+        "贪婪",
+        "得意",
+        "谨慎"
+      ],
+      "abilities": [
+        "药剂学",
+        "变身（右手变黑色翅膀）",
+        "使用黑色旋风法阵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "威胁者"
+        },
+        {
+          "target": "维斯塔",
+          "type": "老朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "审核安格列时发现其古代血脉，进行要挟。"
+        }
+      ],
+      "evidence": [
+        "我是安德烈，也是负责药剂部新成员加入的审核人员。",
+        "古代鹰身女妖的血脉，我从你身上闻到了……",
+        "把你的古代血脉提取方法交给我。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "维斯塔",
+      "aliases": [],
+      "identity": "微胖的老头，安德烈的老朋友",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安德烈的老朋友，短暂出现后离开。",
+      "appearance": [
+        "微胖的老头"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安德烈",
+          "type": "老朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "来池塘边看望安德烈，随后离开。"
+        }
+      ],
+      "evidence": [
+        "维斯塔你总得给我留点秘密吧。",
+        "维斯塔转身，朝着花园方向走去"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "劳伦斯",
+      "aliases": [],
+      "identity": "强大巫师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "门外出现的强大巫师，与另一人交谈，被安德烈提及。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "强大精神力波动"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在门外与另一人交谈，被安德烈利用来威慑安格列。"
+        }
+      ],
+      "evidence": [
+        "劳伦斯，有什么事么？这么急着叫我过来。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

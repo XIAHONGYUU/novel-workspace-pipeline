@@ -1,0 +1,83 @@
+{
+  "chunk_id": "chunk-0020",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "模拟器使用者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第19章 说话的艺术",
+      "summary": "主角，使用完美人生模拟器进行模拟，试图在诡异事件中生存并拯救他人。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "有同情心"
+      ],
+      "abilities": [
+        "老司机（绿色）",
+        "说话的艺术（白色）"
+      ],
+      "equipment": [
+        "帝钟",
+        "蜡烛",
+        "手机",
+        "地图",
+        "背包"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "14号白天",
+          "event": "准备蜡烛和地图，决定晚上模拟。"
+        },
+        {
+          "stage": "14号夜间",
+          "event": "进入模拟，驾车寻找女孩，劝说她上车。"
+        }
+      ],
+      "evidence": [
+        "苏午留意到，模拟器对灯笼诡的正式称谓是‘眼诡’。",
+        "他再次看向表盘。",
+        "苏午推开车门，手持火苗摇曳的红烛，向那女孩大喊。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "女孩",
+      "aliases": [
+        "那女孩"
+      ],
+      "identity": "抱大公鸡的陌生女孩",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第19章 说话的艺术",
+      "summary": "在街上抱着大公鸡行走的女孩，被苏午劝说上车。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "大公鸡"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被救助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "14号夜间",
+          "event": "在街上被苏午拦住并劝说上车。"
+        }
+      ],
+      "evidence": [
+        "苏午看到街道一侧抱着大公鸡低头走路的身影",
+        "女孩被突然窜出来挡在自己前方的汽车吓了一跳",
+        "她眼圈一红，正要开口说话"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

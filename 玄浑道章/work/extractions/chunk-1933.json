@@ -1,0 +1,254 @@
+{
+  "chunk_id": "chunk-1933",
+  "characters": [
+    {
+      "name": "正清道人",
+      "aliases": [
+        "正清"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第五百章 身出自遏敌",
+      "summary": "天夏廷执，座驾立于阵势最前方，身上清光浮动，是元夏重点关注的目标。",
+      "appearance": [
+        "身上清光浮动"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "座驾巨舟"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "作为天夏阵势前沿，被元夏卞道人等人视为首要目标。"
+        }
+      ],
+      "evidence": [
+        "正清道人身为廷执，他之座驾立在阵势最前方，身上清光浮动，笼罩着整驾巨舟，可谓异常醒目"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "卞道人",
+      "aliases": [
+        "卞司议"
+      ],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百章 身出自遏敌",
+      "summary": "元夏司议，负责指挥此次对天夏的试探性进攻，后因张御脱困而撤退。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "座驾"
+      ],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察天夏阵势，部署战术，后因张御出现下令撤退。"
+        }
+      ],
+      "evidence": [
+        "卞道人远远便看见了正清道人的座驾",
+        "卞司议这里收到了向司议的建言，他看了看张御的身影，道：“走。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张道人"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第五百章 身出自遏敌",
+      "summary": "天夏修士，在尘水中炼化两枚水珠后脱身，出现在阵前，迫使元夏撤退。",
+      "appearance": [
+        "身上宝衣灿灿生辉",
+        "强盛心光升腾之下，灿烂星光照彻虚空，背后似是腾有两翼，宛若银河一般铺展开来"
+      ],
+      "personality": [],
+      "abilities": [
+        "炼化尘水",
+        "心光",
+        "星光遁法"
+      ],
+      "equipment": [
+        "宝衣",
+        "尘水珠"
+      ],
+      "relationships": [
+        {
+          "target": "武廷执",
+          "type": "通过训天道章联络"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在尘水中炼化两枚水珠，脱身后出现在阵前，迫使元夏撤退。"
+        }
+      ],
+      "evidence": [
+        "张御纵在尘水之中，仍是通过训天道章保持着与武廷执的联络",
+        "他将此水收起，把袖一振，霎时化一道星光，一個闪烁之后，已是来到了元夏、天夏双方的对阵前沿。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "辛道人",
+      "aliases": [
+        "辛上真"
+      ],
+      "identity": "元夏上真",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百章 身出自遏敌",
+      "summary": "元夏上真，擅长隐匿神气，在神虚之地种下气机，正寻找正清道人的神虚之地。",
+      "appearance": [],
+      "personality": [
+        "隐晦多变"
+      ],
+      "abilities": [
+        "隐匿自身神气",
+        "在神虚之地种下气机",
+        "破杀神虚之地"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "高道人",
+          "type": "师弟"
+        },
+        {
+          "target": "正清道人",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "潜在敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿大台上观察张御，后开始搜寻正清道人的神虚之地。"
+        }
+      ],
+      "evidence": [
+        "辛道人看着那站在银河星流之中的身影，道：“那个就是张道人么？”",
+        "辛道人已然寻到了正清道人的神虚之地"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "向司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百章 身出自遏敌",
+      "summary": "元夏司议，在后方观察，发现张御脱困后立即传告前方撤退。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "卞司议",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现张御脱困，建言卞司议撤退。"
+        }
+      ],
+      "evidence": [
+        "位于的后方向司议见他的身影，心下一惊，立时道：“此人已是脱困了，情形不对，快些传告前方诸位上真，此时不宜上前，当可先撤了回来。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "顾司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百章 身出自遏敌",
+      "summary": "元夏司议，与辛道人对话，质疑推算的可靠性。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "辛道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与辛道人讨论张御和推算。"
+        }
+      ],
+      "evidence": [
+        "顾司议道：“连高上真都败亡了，辛上真还信那个推算么？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "原空世道内那道人",
+      "aliases": [],
+      "identity": "元夏修士",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第五百章 身出自遏敌",
+      "summary": "在尘水中与张御较量的元夏修士，试图阻止张御炼化尘水，后主动推了一把让张御提前脱身。",
+      "appearance": [],
+      "personality": [
+        "自责",
+        "无奈"
+      ],
+      "abilities": [
+        "运法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在尘水中与张御较量，后主动推动尘水让张御提前脱身。"
+        }
+      ],
+      "evidence": [
+        "原空世道之内，那道人几番运法往那尘水之中",
+        "他当下加速运转法力，他可以主动推上一把，让张御从提前炼去尘水"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

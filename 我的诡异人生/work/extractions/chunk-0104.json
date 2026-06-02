@@ -1,0 +1,164 @@
+{
+  "chunk_id": "chunk-0104",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第103章 昭道师，麻仙姑",
+      "summary": "主角，能够借助阴影穿梭，正在尝试进入云龙观搬动神像以镇压三清之肠。",
+      "appearance": [
+        "浑身大汗淋漓，脸色惨白"
+      ],
+      "personality": [
+        "谨慎",
+        "冷静"
+      ],
+      "abilities": [
+        "阴影穿梭",
+        "鬼手"
+      ],
+      "equipment": [
+        "功德箱"
+      ],
+      "relationships": [
+        {
+          "target": "黄道士",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从绕山公路阴影中穿梭至云龙观前，发现道观被封，看到老槐树上的血字。"
+        }
+      ],
+      "evidence": [
+        "苏午骤然自阴影里钻出",
+        "苏午即便借助阴影在其中穿梭，亦像是在深海中游动一样",
+        "苏午顺着黄道士的目光往墙头看去，却看到一缕缕头发丝顺着墙头飘荡而起"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "黄道士",
+      "aliases": [
+        "老道士",
+        "黄道长"
+      ],
+      "identity": "云龙观道士",
+      "faction": "云龙观",
+      "status": "登场",
+      "first_appearance": "第103章 昭道师，麻仙姑",
+      "summary": "云龙观的道士，与苏午一同返回道观，发现道观大门被封。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "钥匙"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午一同到达云龙观，尝试开门失败。"
+        }
+      ],
+      "evidence": [
+        "黄道士从口袋里拿出一串钥匙",
+        "黄道士讪然一笑，用肩膀顶着门",
+        "黄道士看到苏午背后虚空中，升起的那盏红灯笼"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "昭道师",
+      "aliases": [
+        "昭"
+      ],
+      "identity": "驭诡道师",
+      "faction": "天王观",
+      "status": "已故",
+      "first_appearance": "第103章 昭道师，麻仙姑",
+      "summary": "已故的驭诡道师，曾用天王锁诡锤将万目诡（眼诡）锁于自身，后与麻仙姑合力对抗三清之肠而陨落，留下血书指示镇压方法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "天王锁诡锤",
+        "太朴抱丹功"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "麻仙姑",
+          "type": "道侣"
+        },
+        {
+          "target": "云龙道人",
+          "type": "师父"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "拜入天王观云龙道人门下，修习太朴抱丹功和天王锁诡锤，三十七岁锁万目诡于自身。"
+        },
+        {
+          "stage": "过去",
+          "event": "与麻仙姑结为道侣，共同压制体内诡。"
+        },
+        {
+          "stage": "过去",
+          "event": "感应到明州方向有诡与万目诡勾连，与麻仙姑前往明州，对抗三清之肠而陨落。"
+        }
+      ],
+      "evidence": [
+        "昭今日死三清之肠手下矣！！！",
+        "蒙天王观云龙道人不弃，拜入门下，即修太朴抱丹功以养生",
+        "随师尊修行天王锁诡锤，终于三十七岁，锁‘万目诡’于己身"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "麻仙姑",
+      "aliases": [],
+      "identity": "驭诡者，昭道师的道侣",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第103章 昭道师，麻仙姑",
+      "summary": "昭道师的道侣，与昭道师一同对抗三清之肠而陨落，死后其力量与昭道师的力量共同封绝了云龙观。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "昭道师",
+          "type": "道侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与昭道师结为道侣，共同压制体内诡。"
+        },
+        {
+          "stage": "过去",
+          "event": "与昭道师一同前往明州对抗三清之肠，陨落。"
+        }
+      ],
+      "evidence": [
+        "昭道师与一个名姓不详，只称其作‘麻仙姑’的人结为道侣",
+        "二人合力与三清之肠对抗，却终究是力有未逮，双双陨亡于此"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

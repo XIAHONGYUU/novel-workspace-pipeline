@@ -1,0 +1,332 @@
+{
+  "chunk_id": "chunk-0535",
+  "characters": [
+    {
+      "name": "左道人",
+      "aliases": [
+        "左玄修",
+        "左云罡",
+        "左某"
+      ],
+      "identity": "修道人，傅氏军中的玄修",
+      "faction": "傅氏军（即将脱离）",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "一位中位修士，原为傅氏军效力，因傅氏军不愿出击而决定与卫氏军同行，计划事后脱离傅氏军。",
+      "appearance": [
+        "摆动拂尘"
+      ],
+      "personality": [
+        "客气",
+        "果断",
+        "有主见"
+      ],
+      "abilities": [
+        "修道",
+        "不惧风雪"
+      ],
+      "equipment": [
+        "拂尘"
+      ],
+      "relationships": [
+        {
+          "target": "傅庸",
+          "type": "旧主"
+        },
+        {
+          "target": "傅错",
+          "type": "旧主之子"
+        },
+        {
+          "target": "张御",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "劝说傅氏父子出击未果，决定与卫氏军同行。"
+        }
+      ],
+      "evidence": [
+        "左道人在听闻傅氏父子回拒卫氏军一事后，立刻赶来相见。",
+        "左道人道：“既然两位不愿动用军卒，那左某也不强求，不过左某乃修道人，倒也不惧风雪，稍候愿与卫氏军一同出发。”",
+        "左道人叹道：“此事之后，若我还能活着回来，也不会在留在傅氏军中了。”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "傅庸",
+      "aliases": [
+        "军主"
+      ],
+      "identity": "傅氏军军主",
+      "faction": "傅氏军",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "傅氏军的领导者，以风雪为由拒绝与卫氏军一同出击，希望保存实力。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "谨慎",
+        "善于权衡"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "傅错",
+          "type": "父子"
+        },
+        {
+          "target": "左道人",
+          "type": "客卿"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拒绝卫氏军出击请求，并解释原因。"
+        }
+      ],
+      "evidence": [
+        "傅庸沉声道：“左玄修，非我愿意如此，我已问过此间军卒，此间风雪一来，铺天盖地，埋山填海，何况区区人乎？”",
+        "傅庸面色如常道：“要是卫氏军遇险，那么肯定是遇上了难以想象的大敌，那或许不是一件坏事。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "傅错",
+      "aliases": [
+        "错儿"
+      ],
+      "identity": "傅庸之子",
+      "faction": "傅氏军",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "傅庸之子，担心左道人离开会削弱傅氏军战力。",
+      "appearance": [],
+      "personality": [
+        "急躁",
+        "依赖父亲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "傅庸",
+          "type": "父子"
+        },
+        {
+          "target": "左道人",
+          "type": "客卿"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与父亲一同拒绝卫氏军，并劝阻左道人离开。"
+        }
+      ],
+      "evidence": [
+        "傅错这时却道：“可是暴风雪要来，我们事先也并不知道啊，就算捅到军署那里，也有话可说的。”",
+        "傅错一听，却是急了，道：“左玄修，你可是我们傅氏军的人，怎么可以……”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张道友",
+        "御"
+      ],
+      "identity": "中位修士，卫氏军中的玄修",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "一位中位修士，与左道人合作，负责守持后路，并制定应对窥视者的计划。",
+      "appearance": [],
+      "personality": [
+        "淡声",
+        "冷静",
+        "有谋略"
+      ],
+      "abilities": [
+        "修道",
+        "持剑"
+      ],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "左道人",
+          "type": "道友"
+        },
+        {
+          "target": "卫灵英",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与左道人商议后，决定由左道人护持卫氏军，自己守后路。"
+        }
+      ],
+      "evidence": [
+        "张御淡声道：“那便由得他们。”",
+        "张御一直持剑坐守在洞口之前",
+        "张御道：“我这处有一个想法，稍候不妨事按此行事。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "卫灵英",
+      "aliases": [],
+      "identity": "卫氏军领导者",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "卫氏军的领导者，带领卫氏军深入地下清剿邪神信众，并成功返回。",
+      "appearance": [
+        "身披玄胄"
+      ],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "玄胄"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        },
+        {
+          "target": "左道人",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领卫氏军深入地下清剿邪神信众，成功返回。"
+        }
+      ],
+      "evidence": [
+        "卫灵英此时也是身在其中，她行走在队伍最前方，轻轻一握拳，感受着玄胄之中传来的充沛力量。",
+        "卫灵英带着四百余人的卫氏军往下方更深处行去。",
+        "卫灵英终是带着所有士卒重新返回了地面。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "姬道人",
+      "aliases": [
+        "姬师兄"
+      ],
+      "identity": "邪异道人",
+      "faction": "未知敌对势力",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "一名相貌俊美、气息邪异的道人，与潘师弟一同在坑洞外窥视，计划等卫氏军上来后动手。",
+      "appearance": [
+        "眉心有一道红痕",
+        "身着赤色云袍",
+        "身上透着一股邪异气息"
+      ],
+      "personality": [
+        "淡然",
+        "从容"
+      ],
+      "abilities": [
+        "修道"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "潘师弟",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与潘师弟在坑洞外窥视，决定等卫氏军上来后再动手。"
+        }
+      ],
+      "evidence": [
+        "这两人表面看去二十来岁，俱是相貌俊美，其中一个眉心有一道红痕，身着赤色云袍，看去身上透着一股邪异气息。",
+        "姬道人负袖道：“不急，那下面是一处外神地窟，其信众多是狂乱无智，我看他们也是厌烦，就让此辈先清理一下好了，可待他们上来之后再动手。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "潘师弟",
+      "aliases": [
+        "潘师弟"
+      ],
+      "identity": "姬道人的师弟",
+      "faction": "未知敌对势力",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "姬道人的师弟，提议给卫氏军一些指引。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "机灵"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姬道人",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与姬道人一同窥视，提议给卫氏军指引。"
+        }
+      ],
+      "evidence": [
+        "潘师弟语带恭敬道：“驻军那里的内应已经验明了他们身份，确实是我们要找的人，姬师兄，可是现在就发动么？”",
+        "潘师弟眼珠一转，道：“姬师兄，既然如此，那我们不妨给他们一些指引？”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "张御的属下或同伴",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第四十章 道分",
+      "summary": "负责迎接左道人并带其见张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "属下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接左道人并带其见张御。"
+        }
+      ],
+      "evidence": [
+        "青曙得闻后立刻赶来相迎，很快就将左道人带到了张御所在的落脚之处。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

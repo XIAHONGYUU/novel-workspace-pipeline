@@ -1,0 +1,276 @@
+{
+  "chunk_id": "chunk-0706",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张巡护",
+        "张道友",
+        "张玄尊"
+      ],
+      "identity": "玄尊，玄法成就最高之人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一章 举身入天境",
+      "summary": "新晋玄尊，被玄廷召入上层，能直接看透上层真貌。",
+      "appearance": [],
+      "personality": [
+        "敏锐",
+        "善于思考"
+      ],
+      "abilities": [
+        "玄法成就最高",
+        "能看透上层真貌"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明周",
+          "type": "接引者"
+        },
+        {
+          "target": "少年道人",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "初入上层",
+          "event": "从光亮中踏步而出，见到清穹之舟和上层真貌。"
+        },
+        {
+          "stage": "被接引",
+          "event": "明周道人出现，告知这里是上层。"
+        },
+        {
+          "stage": "见通天之崖",
+          "event": "自行寻到通天之崖，明周改称玄尊。"
+        },
+        {
+          "stage": "见少年道人",
+          "event": "少年道人出现，带他去见一个人。"
+        }
+      ],
+      "evidence": [
+        "张御从那一隙光亮之中踏步出来",
+        "也唯有张巡护不用在下提醒，立刻就能见得此方天地之真照",
+        "玄尊，上方便是玄廷所在了。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "明周",
+      "aliases": [
+        "明周道人",
+        "接引"
+      ],
+      "identity": "玄廷所命之接引，器灵",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第一章 举身入天境",
+      "summary": "玄廷派来接引张御的器灵，能化为人形。",
+      "appearance": [
+        "年轻道人",
+        "笑吟吟"
+      ],
+      "personality": [
+        "恭敬",
+        "赞叹"
+      ],
+      "abilities": [
+        "化为人脸和道人",
+        "接引玄尊"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "接引者"
+        },
+        {
+          "target": "少年道人",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "初遇张御",
+          "event": "以巨大人脸出现，介绍清穹之舟。"
+        },
+        {
+          "stage": "化为人形",
+          "event": "化为年轻道人，与张御交谈。"
+        },
+        {
+          "stage": "被遣走",
+          "event": "少年道人到来，明周离开。"
+        }
+      ],
+      "evidence": [
+        "上空出现了一个分辨不出男女的巨大人脸",
+        "我名明周，乃是玄廷所命之接引。",
+        "明周道人这时又对他打一个稽首，道：'玄尊，上方便是玄廷所在了。'"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "少年道人",
+      "aliases": [
+        "上尊",
+        "使者"
+      ],
+      "identity": "玄廷上尊",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "第一章 举身入天境",
+      "summary": "玄廷的上尊，与张御旧识，前来接引张御。",
+      "appearance": [
+        "少年道人"
+      ],
+      "personality": [
+        "随意"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "旧识"
+        },
+        {
+          "target": "明周",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "出现",
+          "event": "从云光中走出，让明周离开，带张御去见一个人。"
+        }
+      ],
+      "evidence": [
+        "一名少年道人自里走了出来",
+        "少年道人随意言道：'你且去吧，下来之事我与张道友说。'",
+        "少年道人看向张御，笑道：'张道友，我们又见面了。'"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "玉航",
+      "aliases": [
+        "玉航道人",
+        "玉航玄尊"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一章 举身入天境",
+      "summary": "与张御有过争执的玄尊，对张御有所疑虑。",
+      "appearance": [],
+      "personality": [
+        "有心机",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "有过争执"
+        },
+        {
+          "target": "同行道人",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "与道友交谈",
+          "event": "在花树下与同行道人谈论张御。"
+        },
+        {
+          "stage": "询问消息",
+          "event": "在玉阙下询问弟子关于张御的消息。"
+        }
+      ],
+      "evidence": [
+        "玉航道人，他言道：'道友，我听说今日那一位也被召至上层了'",
+        "玉航并没有遮掩，笑道：'曾是有过一番论法'",
+        "玉航深思片刻，又看了一眼玉阙之内，笑了一笑，气息一转，便即离开了此地。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "同行道人",
+      "aliases": [
+        "道友"
+      ],
+      "identity": "玄尊",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一章 举身入天境",
+      "summary": "与玉航道人同行的玄尊，对张御持保留态度。",
+      "appearance": [
+        "身外围绕云光雾霭"
+      ],
+      "personality": [
+        "淡然"
+      ],
+      "abilities": [],
+      "equipment": [
+        "长如意"
+      ],
+      "relationships": [
+        {
+          "target": "玉航",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "与玉航交谈",
+          "event": "在花树下与玉航谈论张御和浑修之事。"
+        },
+        {
+          "stage": "收到传报",
+          "event": "青鸟飞来，得知消息后让玉航离开。"
+        }
+      ],
+      "evidence": [
+        "两个身外围绕云光雾霭的道人正在花树之下迈步而行",
+        "那道人语气如常道：'此人之前一力挡下了神怪入侵'",
+        "那道人一直波澜不惊的脸上多了一丝惊讶，一挥袖手中长如意"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "玉素上尊",
+      "aliases": [],
+      "identity": "上尊",
+      "faction": "玄廷",
+      "status": "提及",
+      "first_appearance": "第一章 举身入天境",
+      "summary": "请张御去见的玄廷上尊。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "邀请"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "邀请张御",
+          "event": "张御被玉素上尊请去。"
+        }
+      ],
+      "evidence": [
+        "听说今日来的那位张玄尊，才一入上层，便被玉素上尊请去了。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

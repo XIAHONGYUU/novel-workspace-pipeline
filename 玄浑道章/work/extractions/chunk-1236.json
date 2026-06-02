@@ -1,0 +1,256 @@
+{
+  "chunk_id": "chunk-1236",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "陶先生"
+      ],
+      "identity": "修士，以目印观阵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "以目印观察阵中情形，为朱宗护提供建议。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "洞察力强"
+      ],
+      "abilities": [
+        "目印观阵"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱宗护",
+          "type": "幕僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在眠麓城内观察大阵，向朱宗护汇报阵中情况。"
+        }
+      ],
+      "evidence": [
+        "张御以目印为观，阵中大多数变动他都是看得十分清楚。",
+        "他道：“熹王王舟未曾有损，但如今也被阵力所压制，正在往外撤走……”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "朱宗护",
+      "aliases": [
+        "宗护"
+      ],
+      "identity": "宗子，有望继承王位",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "眠麓城内的领导者，关注大阵战况，计划接收熹王遗产。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有野心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "幕僚"
+        },
+        {
+          "target": "阴奂庭",
+          "type": "参议"
+        },
+        {
+          "target": "熹王",
+          "type": "叔祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在眠麓城内询问张御阵中情形，计划在适当时机出手。"
+        }
+      ],
+      "evidence": [
+        "朱宗护见到大阵内部几乎都是化成了血红色泽……不觉向张御问道：“陶先生，不知阵中情形如何了？”",
+        "阴奂庭道：“宗护，还有一个东西需得注意，那就是熹王所携带的万灵所的制拿玉符……”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "阴奂庭",
+      "aliases": [],
+      "identity": "参议",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "朱宗护的参议，提出利用林老道杀死熹王的建议。",
+      "appearance": [],
+      "personality": [
+        "谋略型"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱宗护",
+          "type": "参议"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向朱宗护建议让林老道杀死熹王，并提醒注意制拿玉符。"
+        }
+      ],
+      "evidence": [
+        "阴奂庭道：“若是由的那位林长老来出手杀死熹王，这对我们更为有利。”",
+        "阴奂庭道：“宗护，还有一个东西需得注意，那就是熹王所携带的万灵所的制拿玉符……”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "林老道",
+      "aliases": [
+        "林长老",
+        "林由"
+      ],
+      "identity": "邪魔修士，布阵者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "布下大阵，杀戮军众，以邪魔手段提升修为，目标是杀死熹王。",
+      "appearance": [
+        "头发变作深红之色，浑身黑雾飘动，双目赤光",
+        "恢复后一派仙风道骨之姿"
+      ],
+      "personality": [
+        "执着",
+        "狠辣",
+        "有算计"
+      ],
+      "abilities": [
+        "邪魔神通",
+        "阵力操控",
+        "血炼吞魔丹",
+        "分身术"
+      ],
+      "equipment": [
+        "移方玉圭"
+      ],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "目标"
+        },
+        {
+          "target": "卫道人",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在大阵中心炼成血炼吞魔丹，提升修为，并派分身攻击环厅。"
+        }
+      ],
+      "evidence": [
+        "林老道这刻站在大阵中心处，随着邪魔神通的展开，他如今形象大变，头发变作深红之色，浑身黑雾飘动不已，双目之中更是一片赤光。",
+        "他为了这一刻，已然等了数百年了。",
+        "他决定采取先剪枝叶的做法……"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "熹王",
+      "aliases": [],
+      "identity": "王爵，朱宗护的叔祖",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被林老道大阵困住，身中咒力，依靠王舟和卫道人防守。",
+      "appearance": [],
+      "personality": [
+        "愤怒",
+        "焦虑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "王舟",
+        "万灵所制拿玉符"
+      ],
+      "relationships": [
+        {
+          "target": "林老道",
+          "type": "仇敌"
+        },
+        {
+          "target": "卫道人",
+          "type": "护持上师"
+        },
+        {
+          "target": "朱宗护",
+          "type": "叔祖"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在王舟内与卫道人商议防守，等待援军。"
+        }
+      ],
+      "evidence": [
+        "熹王看着在那重重涌动阵气之下几无法动弹的王舟，脸色难看道：“卫上师，王舟还可坚守多久？”",
+        "熹王沉声道：“那林由当也是知道这些的，会没有应对手段么？”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "卫道人",
+      "aliases": [
+        "卫上师"
+      ],
+      "identity": "修士，熹王的护持上师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "守护王舟，以法力增强防御，并准备以元神应对林老道的攻击。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "自信"
+      ],
+      "abilities": [
+        "法力护持",
+        "元神出窍"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "熹王",
+          "type": "护持上师"
+        },
+        {
+          "target": "林老道",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在王舟内增强防御，并派元神前往环厅救援。"
+        }
+      ],
+      "evidence": [
+        "卫道人道：“数天当无问题，你在这里受袭，这么大的动静，应该消息传出去了，后方的援军想必很快就会到了。”",
+        "卫道人一点头，他竖指拿决，法力向外一放，王舟之外的灵性光芒变得几乎凝若实质……",
+        "他道：“熹王，此人正在设法攻杀……若不阻止……我即便可挡住他，也护不住其余人了。”"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

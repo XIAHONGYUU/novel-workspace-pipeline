@@ -1,0 +1,173 @@
+{
+  "chunk_id": "chunk-0212",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林",
+        "格林巫师"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在布置防护符阵的巫师，与丽丝佩尔有资源往来。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "巫术",
+        "药剂调配"
+      ],
+      "equipment": [
+        "水晶叶",
+        "黑袋子",
+        "纹章符阵",
+        "魔石"
+      ],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "朋友/资源交换对象"
+        },
+        {
+          "target": "罗西斯",
+          "type": "联络人"
+        },
+        {
+          "target": "小精灵",
+          "type": "组织交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "检查水晶叶，接收罗西斯送来的资源，布置三个防护符阵。"
+        }
+      ],
+      "evidence": [
+        "安格列算是第一次领教到小精灵组织的强大武力了。",
+        "安格列微微皱了皱眉。",
+        "安格列照例把所有资源全部搬进地下室。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "罗西斯",
+      "aliases": [],
+      "identity": "白袍男巫，丽丝佩尔的心腹",
+      "faction": "琼斯家族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "为丽丝佩尔和安格列之间传递资源的巫师。",
+      "appearance": [
+        "白袍",
+        "右胸处有银色猫头鹰图案"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "下属"
+        },
+        {
+          "target": "安格列",
+          "type": "联络人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送来资源给安格列。"
+        }
+      ],
+      "evidence": [
+        "门外站着的是罗西斯。安格列和丽丝佩尔之间联络的心腹巫师。",
+        "这个白袍男巫右胸处的银色猫头鹰图案异常显眼。",
+        "罗西斯点点头，双手拍了拍，几名矮人顿时抱着一堆箱子陆陆续续走进花园。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "丽丝佩尔",
+      "aliases": [
+        "佩尔",
+        "佩尔大人"
+      ],
+      "identity": "琼斯家族成员，女巫",
+      "faction": "琼斯家族",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的朋友，持续向安格列提供资源，甚至为此拖慢自身发展。",
+      "appearance": [],
+      "personality": [
+        "重视友谊",
+        "缺乏安全感"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "朋友/资源提供者"
+        },
+        {
+          "target": "女学徒",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在庄园中摘花，被女学徒劝说减少对安格列的资助。"
+        }
+      ],
+      "evidence": [
+        "丽丝佩尔轻轻的摘下一朵白色三叶花，细细的闻着。",
+        "您又把自己的份额全部送给那个格林巫师了吧？",
+        "她脸上泛起一丝茫然。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "女学徒",
+      "aliases": [],
+      "identity": "丽丝佩尔的学徒",
+      "faction": "琼斯家族",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "劝说丽丝佩尔减少对安格列的资源供给。",
+      "appearance": [
+        "灰袍"
+      ],
+      "personality": [
+        "直率",
+        "关心主人"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向丽丝佩尔表达对其过度资助安格列的不满。"
+        }
+      ],
+      "evidence": [
+        "一名灰袍女学徒站在她背后，满脸无奈。",
+        "女学徒冷哼一声说。",
+        "女学徒说完，也无奈的鞠躬行礼，转身离开了。"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

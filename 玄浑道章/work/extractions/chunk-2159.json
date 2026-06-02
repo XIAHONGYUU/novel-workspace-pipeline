@@ -1,0 +1,355 @@
+{
+  "chunk_id": "chunk-2159",
+  "characters": [
+    {
+      "name": "万道人",
+      "aliases": [
+        "万司议"
+      ],
+      "identity": "上殿司议，主持",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "元夏上殿司议，解决了罗钟、午仞二人，重新恢复主持之位。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "段司议",
+          "type": "下属"
+        },
+        {
+          "target": "兰司议",
+          "type": "政敌"
+        },
+        {
+          "target": "罗钟",
+          "type": "敌人"
+        },
+        {
+          "target": "午仞",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被两殿复职，并得到褒奖。"
+        }
+      ],
+      "evidence": [
+        "两殿诸位大司议确认了罗钟、午仞二人之败亡，于是降下了谕旨，正式复万道人上殿主持之位",
+        "万道人并没有显得有多高兴，他沉声道：罗钟乃是来自外部的敌人"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "段司议",
+      "aliases": [
+        "段某"
+      ],
+      "identity": "司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "万道人的下属，支持万道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向万道人祝贺并讨论内部敌人。"
+        }
+      ],
+      "evidence": [
+        "段司议道：恭喜万司议了",
+        "段司议郑重起来，道：是要动手了么？"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "罗钟",
+      "aliases": [],
+      "identity": "混沌修士，樊昼之师",
+      "faction": "混沌道法",
+      "status": "已亡",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "修炼混沌道法的高深修士，被弟子午仞暗算，与午仞同归于尽。",
+      "appearance": [],
+      "personality": [
+        "刚愎自用"
+      ],
+      "abilities": [],
+      "equipment": [
+        "镇道之宝"
+      ],
+      "relationships": [
+        {
+          "target": "午仞",
+          "type": "师徒（被暗算）"
+        },
+        {
+          "target": "樊昼",
+          "type": "师徒"
+        },
+        {
+          "target": "仇司议",
+          "type": "师祖徒孙（名义）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被午仞暗算，同归于尽。"
+        }
+      ],
+      "evidence": [
+        "罗钟修炼的混沌道法，自身出问题的可能极大",
+        "我大师兄午仞暗中联络了元夏，施计暗算了老师，最后老师与我大师兄同归于尽"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "午仞",
+      "aliases": [],
+      "identity": "罗钟的大弟子",
+      "faction": "混沌道法（叛变）",
+      "status": "已亡",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "罗钟的大弟子，暗中联络元夏，暗算罗钟，最终与罗钟同归于尽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗钟",
+          "type": "师徒（暗算）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "暗算罗钟，同归于尽。"
+        }
+      ],
+      "evidence": [
+        "我大师兄午仞暗中联络了元夏，施计暗算了老师"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "樊昼",
+      "aliases": [
+        "樊玄尊"
+      ],
+      "identity": "罗钟的弟子，混沌修士",
+      "faction": "混沌道法",
+      "status": "登场",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "罗钟的弟子，在罗钟与午仞同归于尽后幸存，继承与天夏的约定，并计划消灭其他混沌修士以突破上层。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有野心"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑镜"
+      ],
+      "relationships": [
+        {
+          "target": "罗钟",
+          "type": "师徒"
+        },
+        {
+          "target": "午仞",
+          "type": "师兄弟"
+        },
+        {
+          "target": "仇司议",
+          "type": "师祖徒孙（名义）"
+        },
+        {
+          "target": "林廷执",
+          "type": "立约对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与天夏立约，继承罗钟的遗愿。"
+        }
+      ],
+      "evidence": [
+        "樊昼叹道：是我大师兄，与元夏也有一些关系",
+        "樊昼没有丝毫迟疑，直接道：我乃是老师弟子，老师未尽之事，自是由我这个做弟子的继承"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "林廷执",
+      "aliases": [
+        "林某"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "天夏廷执，负责处理与罗钟及樊昼的约定事宜。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "樊昼",
+          "type": "立约对象"
+        },
+        {
+          "target": "武廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入阵禁调查罗钟之死，与樊昼立约。"
+        }
+      ],
+      "evidence": [
+        "林廷执立刻就往阵禁之中过来",
+        "林廷执道：此人之话半真半假"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "天夏廷执，与林廷执商议对樊昼的策略。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林廷执",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林廷执讨论樊昼的可靠性。"
+        }
+      ],
+      "evidence": [
+        "武廷执道：那就如此。但是该做的防备还是一样要做"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "仇司议",
+      "aliases": [],
+      "identity": "司议，罗钟的师祖（名义）",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "罗钟名义上的师祖，给樊昼回信，提醒他警惕混沌道法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "罗钟",
+          "type": "师祖徒孙（名义）"
+        },
+        {
+          "target": "樊昼",
+          "type": "师祖徒孙（名义）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给樊昼回信。"
+        }
+      ],
+      "evidence": [
+        "仇司议来信之中，先是感慨了一下罗钟之亡"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "兰司议",
+      "aliases": [],
+      "identity": "司议",
+      "faction": "元夏",
+      "status": "提及",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "万道人的政敌，一直盯着万道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万道人",
+          "type": "政敌"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "兰司议那边虽然无法与司议争权，可却十分了解司议要做什么"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第一百五十九章 混名祭此术",
+      "summary": "天夏首执，认为樊昼之事涉及大混沌变化，将情况上呈元空上层。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将樊昼的书信及经过上呈元空上层。"
+        }
+      ],
+      "evidence": [
+        "陈首执在看过此书之后，却是觉得背后事情恐怕没这么简单"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

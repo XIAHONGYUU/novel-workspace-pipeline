@@ -1,0 +1,213 @@
+{
+  "chunk_id": "chunk-0046",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张师弟"
+      ],
+      "identity": "玄修，古代博物学学者",
+      "faction": "玄修",
+      "status": "登场",
+      "first_appearance": "第四十五章 上阳真炁",
+      "summary": "主角，习练竹剑，能运用心湖感应，持有夏剑，与旧修老师学习过，与桃定符是师兄弟关系。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "敏锐",
+        "冷静"
+      ],
+      "abilities": [
+        "心湖感应",
+        "敏思之印",
+        "壮生之印",
+        "剑术"
+      ],
+      "equipment": [
+        "夏剑",
+        "骨哨",
+        "遮帽"
+      ],
+      "relationships": [
+        {
+          "target": "桃定符",
+          "type": "师兄"
+        },
+        {
+          "target": "旧修老师",
+          "type": "学生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在废墟中探查，遇到桃定符，得知老师离开，桃定符请求协助寻找素阳前辈遗骸。"
+        }
+      ],
+      "evidence": [
+        "张御这些天来坚持习练竹剑，哪怕不用夏剑，也能稍稍运用心湖感应了",
+        "张御则是从衣兜中取出一枚带着细绳的骨哨，将之缠绕在了左手手腕上。",
+        "张御站直身躯，收剑入鞘，对于对方的出现似也并不如何意外，道：“桃师兄，果然是你，你不是跟随在老师身边么，怎么到这里来了？”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "桃定符",
+      "aliases": [
+        "桃师兄"
+      ],
+      "identity": "真修，张御的师兄",
+      "faction": "真修",
+      "status": "登场",
+      "first_appearance": "第四十五章 上阳真炁",
+      "summary": "张御的师兄，跟随旧修老师学习二十余年，练成上阳真炁，为寻找下一步功法而请求张御协助。",
+      "appearance": [
+        "身姿高拔",
+        "长眉入鬓",
+        "清俊道人"
+      ],
+      "personality": [
+        "潇洒",
+        "话只说一半"
+      ],
+      "abilities": [
+        "上阳真炁",
+        "真火炼炉",
+        "剑术"
+      ],
+      "equipment": [
+        "长剑",
+        "骨哨"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师弟"
+        },
+        {
+          "target": "旧修老师",
+          "type": "学生"
+        },
+        {
+          "target": "素阳",
+          "type": "功法传承前辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在废墟中试探张御，告知老师离开，请求张御协助寻找素阳前辈遗骸。"
+        }
+      ],
+      "evidence": [
+        "一名身姿高拔，长眉入鬓的清俊道人此刻正立于上端。",
+        "桃定符道：“老师已经离开这里了。”",
+        "桃定符道：“师弟你当是知道六十年前那一战吧？……其中一位道号‘素阳’的前辈，就擅长我这‘上阳真炁’，他的遗骸当就落在那无边丛林之中。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "两个助役",
+      "aliases": [],
+      "identity": "助役",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第四十五章 上阳真炁",
+      "summary": "跟随张御的助役，听从张御吩咐返回晓山镇。",
+      "appearance": [],
+      "personality": [
+        "会分辨形势"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御吩咐返回晓山镇。"
+        }
+      ],
+      "evidence": [
+        "张御思考了一下，才对两个助役道：“你们可先回镇中等我。”",
+        "两个助役显然都会分辨形势，听了他吩咐，没有半分磨蹭，一抱拳，就调转马头，往晓山镇返回。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "素阳",
+      "aliases": [
+        "素阳前辈"
+      ],
+      "identity": "真修前辈",
+      "faction": "真修",
+      "status": "已故",
+      "first_appearance": "第四十五章 上阳真炁",
+      "summary": "六十年前一战中陨落的真修前辈，擅长上阳真炁，遗骸落在无边丛林中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "上阳真炁"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "桃定符",
+          "type": "功法传承"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "六十年前",
+          "event": "在无边丛林中陨落。"
+        }
+      ],
+      "evidence": [
+        "其中一位道号‘素阳’的前辈，就擅长我这‘上阳真炁’，他的遗骸当就落在那无边丛林之中。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "旧修老师",
+      "aliases": [
+        "老师"
+      ],
+      "identity": "旧修，张御和桃定符的老师",
+      "faction": "旧修",
+      "status": "离开",
+      "first_appearance": "第四十五章 上阳真炁",
+      "summary": "张御和桃定符的老师，已离开此地，未留下下一步修行方式。",
+      "appearance": [],
+      "personality": [
+        "话只说一半"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "学生"
+        },
+        {
+          "target": "桃定符",
+          "type": "学生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已离开。"
+        }
+      ],
+      "evidence": [
+        "桃定符道：“老师已经离开这里了。”",
+        "桃定符道：“别问我，我也不知道老师去了哪里，可惜啊，老师他并没有把下一步修行的方式传给我，只是让我自己去找。”"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

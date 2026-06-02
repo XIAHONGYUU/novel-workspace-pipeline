@@ -1,0 +1,277 @@
+{
+  "chunk_id": "chunk-0011",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "安格列·里奥"
+      ],
+      "identity": "乡下贵族次子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第001章 穿越",
+      "summary": "乡下贵族次子，故事前期的核心人物。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "使用芯片辅助分析",
+        "铁球阵训练"
+      ],
+      "equipment": [
+        "打火石",
+        "蜡烛",
+        "黑色卡片",
+        "锁链爪",
+        "长剑",
+        "飞刀",
+        "铁球",
+        "麻绳"
+      ],
+      "relationships": [
+        {
+          "target": "男爵",
+          "type": "父子"
+        },
+        {
+          "target": "黑衣人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在藏书室发现黑色卡片与阴暗之章组织的信息。"
+        },
+        {
+          "stage": "早期",
+          "event": "发现身上沾染未知香气，确认被黑衣人追踪。"
+        },
+        {
+          "stage": "早期",
+          "event": "制作铁球阵进行训练。"
+        },
+        {
+          "stage": "早期",
+          "event": "收集食物样本，尝试分析增强体质的成分。"
+        }
+      ],
+      "evidence": [
+        "安格列小心地关好门，锁好。",
+        "安格列倒吸一口冷气。",
+        "安格列心里从未有过的平静。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "男爵",
+      "aliases": [
+        "凯尔·里奥"
+      ],
+      "identity": "男爵，安格列的父亲",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第010章 急促 1",
+      "summary": "安格列的父亲，同样被阴暗之章组织追杀。",
+      "appearance": [
+        "亚麻色的长发"
+      ],
+      "personality": [
+        "疲惫",
+        "沉思"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑色卡片"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在藏书室与安格列相遇，提议送他去诺曼城。"
+        }
+      ],
+      "evidence": [
+        "男爵一脸沉思之色，推开大门。",
+        "男爵此时也没有和儿子说话的心思，亚麻色的长发随意的披在肩上，神色间给人一种疲惫的感觉。",
+        "安格列在昨晚的时候，同样在男爵的手中看到了一样东西——那张黑色纹着蜘蛛的卡片。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "黑衣人",
+      "aliases": [
+        "未知1"
+      ],
+      "identity": "阴暗之章杀手",
+      "faction": "阴暗之章",
+      "status": "提及",
+      "first_appearance": "第010章 急促 1",
+      "summary": "追杀安格列的杀手，曾中毒受伤。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "力量4",
+        "敏捷1.5",
+        "体质5"
+      ],
+      "equipment": [
+        "锁链爪",
+        "长剑",
+        "飞刀"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "被安格列射中中毒。"
+        }
+      ],
+      "evidence": [
+        "未知人物：力量4，敏捷1.5，体质5。目测使用武器，锁链爪，长剑，飞刀。",
+        "对方处于中毒状态。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "奥迪斯",
+      "aliases": [
+        "奥迪斯骑士"
+      ],
+      "identity": "骑士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第010章 急促 1",
+      "summary": "城堡中的骑士，负责训练预备骑士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑术高超"
+      ],
+      "equipment": [
+        "十字剑"
+      ],
+      "relationships": [
+        {
+          "target": "克瑞",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在练习场与儿子克瑞进行对战演示。"
+        }
+      ],
+      "evidence": [
+        "演示者，一边是奥迪斯骑士，一边是他的儿子克瑞。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "克瑞",
+      "aliases": [],
+      "identity": "奥迪斯骑士的儿子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第010章 急促 1",
+      "summary": "奥迪斯骑士的儿子，预备骑士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "十字剑"
+      ],
+      "relationships": [
+        {
+          "target": "奥迪斯",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "在练习场与父亲奥迪斯进行对战演示。"
+        }
+      ],
+      "evidence": [
+        "克瑞看上去已经是全力以赴了，额头也满是汗水。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "铁匠老头",
+      "aliases": [],
+      "identity": "城堡铁匠",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第010章 急促 1",
+      "summary": "城堡铁匠铺的铁匠。",
+      "appearance": [
+        "赤裸上身",
+        "强壮"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "黑铁锤"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "与安格列交谈，提供铁球。"
+        }
+      ],
+      "evidence": [
+        "一个赤裸着上身的强壮老头正举起一把黑铁锤重重砸在手上的铁毡上。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "小女仆",
+      "aliases": [],
+      "identity": "城堡女仆",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第010章 急促 1",
+      "summary": "为安格列收集食物样本的女仆。",
+      "appearance": [],
+      "personality": [
+        "紧张"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "早期",
+          "event": "为安格列收集各种食物样本。"
+        }
+      ],
+      "evidence": [
+        "一个小女仆看到安格列走进来，顿时主动迎上去。",
+        "小女仆紧张道。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

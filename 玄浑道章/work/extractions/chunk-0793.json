@@ -1,0 +1,308 @@
+{
+  "chunk_id": "chunk-0793",
+  "characters": [
+    {
+      "name": "首座道人",
+      "aliases": [
+        "首执"
+      ],
+      "identity": "玄廷首座",
+      "faction": "天夏玄廷",
+      "status": "登场",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "玄廷首座，主持廷议，决定四洲升立及人选。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "决断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "主持廷议，决定增扩四座都护府为府洲，并责令补上民书。"
+        }
+      ],
+      "evidence": [
+        "首座道人先是令道童把玉京朝府递上来的呈书送去各廷执座上观看",
+        "首座道人稍作思量，便对韦廷执道：那便责令玉京朝府，令他门补上民书"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "钟道人",
+      "aliases": [
+        "钟廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "登场",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，主张立龙牙都护府为洲，后与岑道人交谈。",
+      "appearance": [],
+      "personality": [
+        "固执",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "韦廷执",
+          "type": "争论"
+        },
+        {
+          "target": "岑道人",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "主张立龙牙都护府为洲，与韦廷执争论。"
+        },
+        {
+          "stage": "廷议后",
+          "event": "与岑道人交谈，告知其只剩一处去处。"
+        }
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [
+        "韦廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "登场",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，主张立东庭都护府为洲，赞同竺易生之见。",
+      "appearance": [],
+      "personality": [
+        "理性",
+        "包容"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "争论"
+        },
+        {
+          "target": "竺易生",
+          "type": "赞同"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "反驳钟道人，主张立东庭都护府。"
+        },
+        {
+          "stage": "廷议",
+          "event": "赞同晁焕，提议补上民书。"
+        }
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "竺易生",
+      "aliases": [
+        "竺廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "登场",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，坐镇青阳七十载，主张首扩东庭都护府。",
+      "appearance": [],
+      "personality": [
+        "有远见",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "发言主张首扩东庭都护府，理由充分。"
+        }
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "陈廷执",
+      "aliases": [
+        "陈廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "登场",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，赞同竺易生，并敲磬定议。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "保守"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "赞同竺易生，敲磬定议。"
+        },
+        {
+          "stage": "廷议",
+          "event": "反驳晁焕，认为边鄙之民思量偏狭。"
+        }
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "晁焕",
+      "aliases": [
+        "晁廷执"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "登场",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，提出都护府子民意见应被考虑，要求补上民书。",
+      "appearance": [],
+      "personality": [
+        "直言",
+        "为民着想"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "对峙"
+        },
+        {
+          "target": "陈廷执",
+          "type": "反驳"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "质疑为何没有都护府子民的附书，要求补上民书。"
+        }
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "岑道人",
+      "aliases": [
+        "岑道人"
+      ],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "与钟道人交谈，询问举荐结果及去处。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议后",
+          "event": "在钟道人道宫等候，询问廷议结果。"
+        }
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "长孙道人",
+      "aliases": [
+        "长孙道人"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "提及",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，与钟道人对视后投下玉符。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钟道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "与钟道人对视后投下玉符。"
+        }
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [
+        "玉素道人"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "提及",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，略作思索后投下玉符。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "投下玉符举荐人选。"
+        }
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风道人"
+      ],
+      "identity": "玄廷廷执",
+      "faction": "天夏玄廷",
+      "status": "提及",
+      "first_appearance": "第八十八章 风云四方来",
+      "summary": "廷执之一，犹豫后投下玉符。",
+      "appearance": [],
+      "personality": [
+        "犹豫"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "廷议",
+          "event": "犹豫后投下玉符。"
+        }
+      ],
+      "mention_count": 1
+    }
+  ]
+}

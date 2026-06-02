@@ -1,0 +1,334 @@
+{
+  "chunk_id": "chunk-1914",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张道人",
+        "张廷执",
+        "张上真"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，拥有斩诸绝剑法和大道之印，与元夏师司议交战并获胜。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "斩诸绝剑法",
+        "敕封道法",
+        "大道之印"
+      ],
+      "equipment": [
+        "护持宝衣",
+        "命印分身",
+        "云芝玉台"
+      ],
+      "relationships": [
+        {
+          "target": "师司议",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与师司议交战，以敕封道法破解其道法，将其击杀。"
+        }
+      ],
+      "evidence": [
+        "张御持剑自里走了出来，脚下云芝玉台向外飘绕着一缕缕屑灵光。",
+        "他眸中神光微闪，对方无论怎么做，终究还是在于道法之运转，只要还是道法，那么就是可以被制约的。",
+        "他此刻一甩袖衣袖，站定法驾之上，凝视着师司议所在，便是喝了出一声宏大道音，道：“敕封！”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "师司议",
+      "aliases": [
+        "师少圭"
+      ],
+      "identity": "上殿司议",
+      "faction": "元夏",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "元夏上殿司议，拥有道法“延死追生”和“瑞空劫转”，与张御交战被击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "延死追生",
+        "瑞空劫转"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御交战，道法被禁绝后身亡。"
+        }
+      ],
+      "evidence": [
+        "师司议面对那一道袭来剑光，却是站在那里没动，双目无比沉凝，与此同时，有两道晦涩气机从身上涌起，那剑光毫无滞碍的从他身上一闪而过。",
+        "他的道法名唤“延死追生”。",
+        "此道法乃名“瑞空劫转”，就是可将自己所受劫数挪转到张御身上。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，信任张御，安排尤老道等人留意援助张御。",
+      "appearance": [],
+      "personality": [
+        "信任"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传意让尤老道等人留意援助张御。"
+        }
+      ],
+      "evidence": [
+        "武廷执信任张御，也了解他的本事，但为了确保事机稳妥，他伸手按住前方晶玉，传意言道：“尤道友、严道友、还有焦道友，你们注意留意张廷执那处，若是有什么变故，还望三位能加以援助。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "焦尧",
+      "aliases": [
+        "焦道友"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，认为张御不需要他们援助。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回应武廷执的传意，认为张御不需要援助。"
+        }
+      ],
+      "evidence": [
+        "焦尧口中回应着，心里却是想着，张廷执上前斗战，大约是用不到他们的。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "尤老道",
+      "aliases": [
+        "尤道友"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，被武廷执安排留意援助张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被武廷执传意要求留意援助张御。"
+        }
+      ],
+      "evidence": [
+        "武廷执传意言道：“尤道友、严道友、还有焦道友，你们注意留意张廷执那处，若是有什么变故，还望三位能加以援助。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "严道友",
+      "aliases": [],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修士，被武廷执安排留意援助张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被武廷执传意要求留意援助张御。"
+        }
+      ],
+      "evidence": [
+        "武廷执传意言道：“尤道友、严道友、还有焦道友，你们注意留意张廷执那处，若是有什么变故，还望三位能加以援助。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "骆道人",
+      "aliases": [],
+      "identity": "与师司议同来的道人",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与师司议同来的道人，站在金舟中观察双方对战。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "师司议",
+          "type": "同来"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在金舟中观察张御与师司议的对战。"
+        }
+      ],
+      "evidence": [
+        "而与师司议同来的骆道人却是站在金舟之中并不出去，只是此刻紧紧盯着双方对战所在，眼中幽光闪烁。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "全司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏司议，询问攻打常英世道之人是否为张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与过司议讨论常英世道被攻陷之事。"
+        }
+      ],
+      "evidence": [
+        "全司议道：“那攻打常英世道之人并非那张道人吧？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "过司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏司议，认为张御威胁最大。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与全司议讨论常英世道被攻陷之事。"
+        }
+      ],
+      "evidence": [
+        "过司议道：“再如何也不及那张道人对我威胁来的大，我等两殿负有守御之责，常英世道之事，不能再是重演了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "向司议",
+      "aliases": [],
+      "identity": "元夏司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏司议，认为诸世道遭创未必是坏事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "思考诸世道遭创的利弊。"
+        }
+      ],
+      "evidence": [
+        "向司议在一旁没有参与两位大司议的讨论，心中想着，诸世道遭此一回创击，倒也未必完全是坏事"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "荣上真",
+      "aliases": [],
+      "identity": "常英世道的上真",
+      "faction": "元夏",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "常英世道的上真，在常英世道被攻陷时战亡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "在常英世道被攻陷时战亡。"
+        }
+      ],
+      "evidence": [
+        "常英世道的荣上真已然战亡"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

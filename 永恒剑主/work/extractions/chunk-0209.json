@@ -1,0 +1,191 @@
+{
+  "chunk_id": "chunk-0209",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "使用红花剑和火阵与花玉奴激战，施展融合火焰招式麒麟。",
+      "appearance": [
+        "双眼隐隐泛起暗红色荧光",
+        "全身上下布满红色纹路",
+        "面部浮现诡异妖艳红色纹路",
+        "浑身包裹火焰如同红色火炬"
+      ],
+      "personality": [],
+      "abilities": [
+        "心眼剑道",
+        "红花剑道",
+        "铃音大法",
+        "化龙诀",
+        "麒麟火焰"
+      ],
+      "equipment": [
+        "红花剑",
+        "烟河宝衣（已损毁）",
+        "储物袋",
+        "绿色灵玉"
+      ],
+      "relationships": [
+        {
+          "target": "花玉奴",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在洞内融合火阵与红花剑道，使用麒麟火焰与花玉奴战斗。"
+        }
+      ],
+      "evidence": [
+        "林新静静仰面躺在地上，双眼隐隐泛起暗红色荧光。",
+        "林新双手握着红花剑，先前的双剑已经在激战中被彻底损毁。",
+        "我的麒麟结合了数十种不同火焰，以我在一次意外中发现的唯一法决融合。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "花玉奴",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与林新战斗的对手，拥有化龙诀半龙半人形态，被林新的麒麟火焰困住。",
+      "appearance": [
+        "巨大龙臂",
+        "金色龙刺"
+      ],
+      "personality": [],
+      "abilities": [
+        "化龙诀",
+        "天阴龙衣"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林新激战，被麒麟火焰困住，试图使用天阴龙衣突破。"
+        }
+      ],
+      "evidence": [
+        "花玉奴神色凝重起来",
+        "花玉奴挣扎着站起身，摇摇晃晃，巨大龙臂撑在地上。",
+        "花玉奴低声嘶吼起来...天阴龙衣！"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "东月",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "背着静儿逃离战场，寻找藏身之处。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "静儿",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "背着静儿从瀑布处逃离，遇到甲虫费罗欧。"
+        }
+      ],
+      "evidence": [
+        "东月背着静儿小心从侧面奔跑出去",
+        "东月艰难的找着密林深处不断往里钻。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "静儿",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "受伤被东月背着逃离，与甲虫费罗欧谈判，愿意交出化身换取三个要求。",
+      "appearance": [],
+      "personality": [
+        "决然"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "东月",
+          "type": "同伴"
+        },
+        {
+          "target": "费罗欧",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与费罗欧谈判，提出三个要求。"
+        }
+      ],
+      "evidence": [
+        "静儿低声道，但是，我要你帮我三个忙！",
+        "静儿顿了顿，微微闭上双眼。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "费罗欧",
+      "aliases": [],
+      "identity": "黑色大甲虫",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "静儿的弟弟，以甲虫形态出现，与静儿谈判。",
+      "appearance": [
+        "一人多高的黑色大甲虫",
+        "六条锯子一样的黑色节肢腿"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "龙骨"
+      ],
+      "relationships": [
+        {
+          "target": "静儿",
+          "type": "姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拦住东月和静儿，与静儿谈判。"
+        }
+      ],
+      "evidence": [
+        "一道黑影缓缓从正前方树干背后转出来。",
+        "甲虫发出男子一样的成熟声线。",
+        "费罗欧……我的姐姐……我可是找你找得很辛苦的……"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

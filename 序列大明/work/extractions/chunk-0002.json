@@ -1,0 +1,183 @@
+{
+  "chunk_id": "chunk-0002",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "成都府锦衣卫二处线人，明面身份为袍哥会成员",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第1章浑水袍哥",
+      "summary": "穿越者，成为锦衣卫线人潜伏在袍哥会中，受余寇指派监视赵鼎。",
+      "appearance": [
+        "留着一头干净利落的短发，身上穿着一件改良短款直裰明服，裸露在衣服外的皮肤看不出半点义肢改造的痕迹"
+      ],
+      "personality": [
+        "冷静",
+        "隐忍",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "余寇",
+          "type": "上下级（锦衣卫线人与上级）"
+        },
+        {
+          "target": "赵鼎",
+          "type": "监视对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在无事酒肆与余寇会面，接受监视赵鼎的任务。"
+        }
+      ],
+      "evidence": [
+        "明面上的身份是黑帮袍哥会的成员，暗地里还是成都府锦衣卫二处的线人！",
+        "李钧端起酒盏一饮而尽，顿时一条火线从喉间杀到胃中，将身上的寒意烧的一干二净。",
+        "李钧一脚踹开酒肆大门，径直闯入那片连绵的雨幕，大步离去。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "余寇",
+      "aliases": [
+        "寇哥"
+      ],
+      "identity": "成都府锦衣卫二处官员，李钧的上级",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第1章浑水袍哥",
+      "summary": "肥胖的锦衣卫官员，负责指挥李钧监视赵鼎，善于威逼利诱。",
+      "appearance": [
+        "肥头大耳的胖子，嘴角叼着一根市面上极为罕见的纸质卷烟"
+      ],
+      "personality": [
+        "精明",
+        "狡猾",
+        "强势"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在无事酒肆召见李钧，下达监视赵鼎的任务。"
+        }
+      ],
+      "evidence": [
+        "卡座里，一个肥头大耳的胖子正卧在沙发中，嘴角叼着一根市面上极为罕见的纸质卷烟，满脸惬意的吞云吐雾。",
+        "余寇冷冷一笑，“流川坦可是祭刀会的接班人之一，赵鼎动他是不是想跟那群倭寇罪民开战？”",
+        "余寇画饼的功夫显然不够熟练，李钧心底根本毫无波动，只是用生硬的语调附和着。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "赵鼎",
+      "aliases": [],
+      "identity": "成都府浑水袍哥的舵把子，龙头老大",
+      "faction": "袍哥会（浑水）",
+      "status": "提及",
+      "first_appearance": "第1章浑水袍哥",
+      "summary": "袍哥会浑水一脉的龙头，因侄子赵斗与祭刀会冲突，被锦衣卫盯上。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "叔侄"
+        },
+        {
+          "target": "李钧",
+          "type": "被监视对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被余寇提及，认为其已到狗急跳墙的地步。"
+        }
+      ],
+      "evidence": [
+        "李钧口中的赵鼎，正是成都府浑水袍哥的舵把子，龙头老大。",
+        "赵鼎真是越活越回去了，小辈子打架他插手像什么话，不过.",
+        "你现在就好好给我盯着赵鼎，这老头已经到了狗急跳墙的地步了。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "赵斗",
+      "aliases": [],
+      "identity": "赵鼎的侄子，袍哥会成员",
+      "faction": "袍哥会（浑水）",
+      "status": "提及",
+      "first_appearance": "第1章浑水袍哥",
+      "summary": "赵鼎的侄子，因与祭刀会流川坦争地盘吃亏，导致赵鼎插手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵鼎",
+          "type": "叔侄"
+        },
+        {
+          "target": "流川坦",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及因争地盘在流川坦手上吃亏。"
+        }
+      ],
+      "evidence": [
+        "赵斗因为争地盘的事情在流川坦手上吃了不少亏，已经成了袍哥会里的笑柄，赵鼎让我帮他出头而已。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "流川坦",
+      "aliases": [],
+      "identity": "祭刀会‘十贵’之一，中层若头级干部",
+      "faction": "祭刀会",
+      "status": "提及",
+      "first_appearance": "第1章浑水袍哥",
+      "summary": "祭刀会的接班人之一，被赵鼎掳走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赵斗",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及在歌舞伎町被袭击后掳走。"
+        }
+      ],
+      "evidence": [
+        "祭刀会旗下的一个歌舞伎町才被袭击。中层若头级干部，祭刀会‘十贵’之一的流川坦被人掳走",
+        "流川坦可是祭刀会的接班人之一，赵鼎动他是不是想跟那群倭寇罪民开战？"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

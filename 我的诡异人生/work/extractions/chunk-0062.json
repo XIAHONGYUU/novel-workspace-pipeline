@@ -1,0 +1,167 @@
+{
+  "chunk_id": "chunk-0062",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "3号实验体"
+      ],
+      "identity": "实验体",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第61章 纸上的诡异",
+      "summary": "被囚禁在密室中的实验体，拥有尸陀鬼之手和阴影能力，成功逃脱。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "尸陀鬼之手",
+        "阴影潜行"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "敌对"
+        },
+        {
+          "target": "善瑜",
+          "type": "被救者与施救者"
+        },
+        {
+          "target": "药师",
+          "type": "被救者与施救者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在密室中醒来，与医生对峙，利用阴影逃脱。"
+        }
+      ],
+      "evidence": [
+        "苏午脑海里念头急转着。",
+        "苏午无声无息地从床上坐起。",
+        "他瞬间松开了手，旋即撕裂地面上的阴影，自身钻进了其中。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "医生",
+      "aliases": [],
+      "identity": "场馆内的医生，为老板工作",
+      "faction": "老板",
+      "status": "登场",
+      "first_appearance": "第61章 纸上的诡异",
+      "summary": "脸上有虎斑，拥有咒印，神智混乱，试图让苏午签订诡异协议。",
+      "appearance": [
+        "脸上遍布虎斑，整个人犹如一只披着白大褂的老虎"
+      ],
+      "personality": [
+        "神智混乱"
+      ],
+      "abilities": [
+        "咒印（虎形斑纹）",
+        "虎爪"
+      ],
+      "equipment": [
+        "诡异纸页"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "老板",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图让苏午签订协议，被苏午反击，后被诡异纸页附身。"
+        }
+      ],
+      "evidence": [
+        "脸上遍布虎斑，使得其整个人看起来都犹如一只披着白大褂的老虎的‘医生’",
+        "医生嘴里絮絮叨叨地说着话，神智十分混乱。",
+        "他的一只虎爪直接按在了那张暗红色的纸页上！"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "善瑜",
+      "aliases": [],
+      "identity": "救援者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第61章 纸上的诡异",
+      "summary": "与药师一起用冲击钻凿开合金门，试图救援苏午。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "冲击钻"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "施救者"
+        },
+        {
+          "target": "药师",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与药师合力凿开合金门，被苏午救下。"
+        }
+      ],
+      "evidence": [
+        "门外善瑜和药师微弱的声音传入室内",
+        "善瑜当场就要伸头去看窟窿里的情景！"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "药师",
+      "aliases": [],
+      "identity": "救援者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第61章 纸上的诡异",
+      "summary": "与善瑜一起救援苏午。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "施救者"
+        },
+        {
+          "target": "善瑜",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与善瑜合力凿开合金门。"
+        }
+      ],
+      "evidence": [
+        "门外善瑜和药师微弱的声音传入室内",
+        "她们衣衫不整，合力驾驭着一台冲击钻"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

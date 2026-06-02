@@ -1,0 +1,204 @@
+{
+  "chunk_id": "chunk-0830",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "符箓修士，端公法脉传承者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，正在突破符箓修为，并研究猖兵异变和玉佩来历。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于思考"
+      ],
+      "abilities": [
+        "符箓修为达到第一阶",
+        "蓄养猖兵猖将"
+      ],
+      "equipment": [
+        "福字龙凤纹玉佩"
+      ],
+      "relationships": [
+        {
+          "target": "李彘",
+          "type": "受托人"
+        },
+        {
+          "target": "赤龙师父",
+          "type": "师父"
+        },
+        {
+          "target": "玄清师伯",
+          "type": "师伯"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "突破符箓修为至第一阶，观察猖兵异变，研究玉佩。"
+        }
+      ],
+      "evidence": [
+        "苏午从诸猖兵身上，感应到了一缕熟悉的意蕴。",
+        "他的符箓修为，终于撞破了第二阶与第一阶之间的界限，真正承接天地气韵，成就天授的一阶符箓！",
+        "李彘将这枚玉佩交托给他，却不告诉他如何见到玉佩的主人，只说让他帮助玉佩主人度过几道难关"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "李彘",
+      "aliases": [],
+      "identity": "桃源村村民",
+      "faction": "桃源村",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "将玉佩交给苏午，委托他帮助玉佩主人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "委托人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "将玉佩交给苏午，并告知他需要帮助玉佩主人度过难关。"
+        }
+      ],
+      "evidence": [
+        "李彘将这枚玉佩交托给他，却不告诉他如何见到玉佩的主人，只说让他帮助玉佩主人度过几道难关"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "精莲",
+      "aliases": [
+        "精莲大师"
+      ],
+      "identity": "密藏域高僧，大白山王寺住持",
+      "faction": "密缚法寺",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "传出法旨，发动对‘外道邪佞’和‘元魔佛敌’的大清洗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "火牛之年三月",
+          "event": "传出法旨，宣称有外道邪佞混杂，发动大清洗。"
+        }
+      ],
+      "evidence": [
+        "精莲大师于‘大白山王寺’中传出法旨，直称今遍及密藏诸地的诸密缚法寺中，有‘背离三宝’之外道邪佞混杂于其中"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "加布光山藏",
+      "aliases": [],
+      "identity": "赞普王的大相",
+      "faction": "赞普王庭",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被赞普王废除大相之位并处死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赞普王",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "火牛之年四月",
+          "event": "被赞普王废除大相之位，剥皮填草。"
+        }
+      ],
+      "evidence": [
+        "赞普王指‘加布光山藏’存心不正，勾连邪佞，试图颠覆国本，是以废除‘加布光山藏’大相之位，乃令剥其皮填入草中"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "益息旺波",
+      "aliases": [],
+      "identity": "密缚法寺高僧，新任僧相",
+      "faction": "密缚法寺",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被赞普王迎为僧相。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赞普王",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "火牛之年四月",
+          "event": "被赞普王迎为僧相。"
+        }
+      ],
+      "evidence": [
+        "迎密缚法寺高僧‘益息旺波’为僧相"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赞普王",
+      "aliases": [],
+      "identity": "密藏域赞普",
+      "faction": "赞普王庭",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "密藏域统治者，先后任命和废除大相，迎请僧相。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "加布光山藏",
+          "type": "君臣"
+        },
+        {
+          "target": "益息旺波",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "火牛之年三月",
+          "event": "以‘加布光山藏’为大相。"
+        },
+        {
+          "stage": "火牛之年四月",
+          "event": "废除‘加布光山藏’，迎‘益息旺波’为僧相。"
+        }
+      ],
+      "evidence": [
+        "赞普王以‘加布光山藏’为大相。",
+        "赞普王指‘加布光山藏’存心不正...乃令剥其皮填入草中",
+        "迎密缚法寺高僧‘益息旺波’为僧相"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

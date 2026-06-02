@@ -1,0 +1,375 @@
+{
+  "chunk_id": "chunk-0510",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "死神僧",
+        "天外来客"
+      ],
+      "identity": "死神僧，复国计划参与者",
+      "faction": "古佛传承",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "死神僧，拥有红莲念和杀佛石像，与古佛三大弟子传承共鸣，与红莲僧、杀僧、死神僧的幻影对话，拒绝完全信任复国计划，要求更多利益。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "狡诈",
+        "独立"
+      ],
+      "abilities": [
+        "操控红莲念",
+        "吞入杀佛石像"
+      ],
+      "equipment": [
+        "红莲念",
+        "杀佛石像",
+        "齐天神棍"
+      ],
+      "relationships": [
+        {
+          "target": "红莲僧",
+          "type": "古佛三大弟子之一"
+        },
+        {
+          "target": "杀僧",
+          "type": "古佛三大弟子之一"
+        },
+        {
+          "target": "死神僧",
+          "type": "自身身份"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与古佛三大弟子幻影对话，商讨对付木叉公的计划"
+        }
+      ],
+      "evidence": [
+        "外面的惊天大战半点不放在戚笼的心头",
+        "戚笼沉默了下，道：'那么该如何对付木叉公，或者说，菩提树身佛？'",
+        "戚笼却在此时摇头，平静道：'我之性命不操于人手，任何人都不行。'"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "红莲僧",
+      "aliases": [
+        "红衣小沙弥"
+      ],
+      "identity": "古佛三大弟子之一",
+      "faction": "古佛传承",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "古佛三大弟子之一，以红衣小沙弥幻影出现，态度较为温和，试图说服戚笼参与复国计划。",
+      "appearance": [
+        "红衣"
+      ],
+      "personality": [
+        "温和",
+        "善于调解"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作者"
+        },
+        {
+          "target": "杀僧",
+          "type": "师兄弟"
+        },
+        {
+          "target": "死神僧",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼对话，提出对付木叉公的计划"
+        }
+      ],
+      "evidence": [
+        "红衣小沙弥眼神最灵动",
+        "好在红衣小沙弥打圆场道：'你应该相信复国计划的其它成员'",
+        "红莲僧冷静道：'这只是你的一具分身而已'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "杀僧",
+      "aliases": [
+        "灰衣小沙弥",
+        "灰衣小和尚"
+      ],
+      "identity": "古佛三大弟子之一",
+      "faction": "古佛传承",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "古佛三大弟子之一，以灰衣小沙弥幻影出现，态度冷漠，直接指出计划漏洞，对戚笼丢失燃灯念不满。",
+      "appearance": [
+        "灰衣"
+      ],
+      "personality": [
+        "冷漠",
+        "直接",
+        "易怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "合作者但有不满"
+        },
+        {
+          "target": "红莲僧",
+          "type": "师兄弟"
+        },
+        {
+          "target": "死神僧",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼对话，指责其丢失燃灯念"
+        }
+      ],
+      "evidence": [
+        "灰衣小沙弥一脸冷漠",
+        "灰衣小沙弥不打禅语，开门见山道",
+        "灰衣小和尚冷冷道：'那就要怪你当初为什么要弄丢燃灯念了'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "死神僧",
+      "aliases": [
+        "黑衣小沙弥"
+      ],
+      "identity": "古佛三大弟子之一",
+      "faction": "古佛传承",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "古佛三大弟子之一，以黑衣小沙弥幻影出现，介乎于有无之间，未发言。",
+      "appearance": [
+        "黑衣"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同一身份？"
+        },
+        {
+          "target": "红莲僧",
+          "type": "师兄弟"
+        },
+        {
+          "target": "杀僧",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "黑衣小沙弥介乎于有无之间"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "假王爷",
+      "aliases": [
+        "干戚承"
+      ],
+      "identity": "复国计划守护者，戾妖皇之弟",
+      "faction": "复国计划",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "复国计划的守护者，与波旬争斗中被杀，死前回忆与戾妖皇的对话，揭示复国计划真相。",
+      "appearance": [
+        "形容枯槁",
+        "两颊凹陷"
+      ],
+      "personality": [
+        "忠诚",
+        "牺牲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戾妖皇",
+          "type": "皇兄"
+        },
+        {
+          "target": "波旬",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与戾妖皇商议复国计划"
+        },
+        {
+          "stage": "当前",
+          "event": "被波旬杀死"
+        }
+      ],
+      "evidence": [
+        "假王爷、云玉真、波旬的争斗，也接近最后的关口",
+        "假王爷面露惊愕之色",
+        "假王爷，干戚承，薨。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "波旬",
+      "aliases": [
+        "天魔主",
+        "欲界之王"
+      ],
+      "identity": "天魔主，欲界之王",
+      "faction": "魔道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天魔主，掌控七情六欲，与假王爷、云玉真争斗，展现出欲水本源，杀死假王爷。",
+      "appearance": [
+        "非男非女的魔王之身",
+        "拉长的扭曲的黑线"
+      ],
+      "personality": [
+        "强大",
+        "掌控欲"
+      ],
+      "abilities": [
+        "欲水本源",
+        "掌控八难"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "假王爷",
+          "type": "敌人"
+        },
+        {
+          "target": "尤难玉",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与假王爷、云玉真争斗，杀死假王爷"
+        }
+      ],
+      "evidence": [
+        "占据绝对上风的，是被算计的波旬",
+        "波旬真身已经消失不见，取而代之的是山海版图之内，浑浊的苦黄江水",
+        "波旬驱使八难之中的'无想天难'"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "尤难玉",
+      "aliases": [],
+      "identity": "复国计划下一环",
+      "faction": "复国计划",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "复国计划的下一环，以灯笼挡住波旬的欲水，用人道力量压制魔性，保持平衡。",
+      "appearance": [
+        "温润的面孔"
+      ],
+      "personality": [
+        "冷静",
+        "有策略"
+      ],
+      "abilities": [
+        "用人道力量压制魔性"
+      ],
+      "equipment": [
+        "灯笼"
+      ],
+      "relationships": [
+        {
+          "target": "波旬",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "挡住波旬，自称复国计划下一环"
+        }
+      ],
+      "evidence": [
+        "一盏灯笼挡在河流前，欲水撞上灯笼，一分为二",
+        "尤难玉笑道：'用人道的力量压制魔性'",
+        "因为我就是复国计划的下一环。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "戾妖皇",
+      "aliases": [],
+      "identity": "妖皇，假王爷之兄",
+      "faction": "妖族",
+      "status": "已故（回忆中）",
+      "first_appearance": "",
+      "summary": "假王爷回忆中的妖皇，提出复国计划，认为世界将守不住，决心保全众生。",
+      "appearance": [],
+      "personality": [
+        "远见",
+        "牺牲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "假王爷",
+          "type": "皇兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与假王爷商议复国计划"
+        }
+      ],
+      "evidence": [
+        "戾妖皇莫名的笑了笑",
+        "历代妖皇都有一个默契，便是在疯之前，留下一道意念",
+        "此后，国将不国，但众生必须保全"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "云玉真",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与假王爷、波旬争斗的第三方，但未具体描写。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "假王爷、云玉真、波旬的争斗，也接近最后的关口"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

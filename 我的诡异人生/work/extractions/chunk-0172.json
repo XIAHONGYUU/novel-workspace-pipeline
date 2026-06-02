@@ -1,0 +1,327 @@
+{
+  "chunk_id": "chunk-0172",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "佛子"
+      ],
+      "identity": "佛子，法座之主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "佛子，拥有强大的意能量，能影响他人神智。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "自信"
+      ],
+      "abilities": [
+        "眉心脉轮转动影响他人",
+        "强大的意能量"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "沛旺",
+          "type": "主仆"
+        },
+        {
+          "target": "丹加",
+          "type": "主仆"
+        },
+        {
+          "target": "康雄",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知丹加被戒律院抓走，前往戒律院要人。"
+        }
+      ],
+      "evidence": [
+        "苏午抚弄着邱杨切的脑袋，都未回身去看沛旺，语调平静地问道",
+        "他眉心轮脉倏忽转动，令自己的眼神里、言辞中投涌动出一股莫名的力量",
+        "苏午盯着广喻说道"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "沛旺",
+      "aliases": [],
+      "identity": "佛子的仆人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "佛子的仆人，为丹加被抓走而着急。",
+      "appearance": [],
+      "personality": [
+        "着急",
+        "忠诚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主仆"
+        },
+        {
+          "target": "丹加",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向佛子报告丹加被抓走的消息。"
+        }
+      ],
+      "evidence": [
+        "沛旺回到居处的时候",
+        "沛旺何止是着急，声音里都带了一丝哭腔",
+        "沛旺连忙跟在他身后"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "丹加",
+      "aliases": [],
+      "identity": "佛子的仆人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "佛子的仆人，被戒律院抓走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主仆"
+        },
+        {
+          "target": "沛旺",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被戒律院抓走。"
+        }
+      ],
+      "evidence": [
+        "丹加、丹加被抓走了！",
+        "丹加说了！请佛子您去戒律院找她！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "康雄",
+      "aliases": [
+        "康雄长老",
+        "康雄上师"
+      ],
+      "identity": "戒律长老",
+      "faction": "戒律院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戒律长老，与佛子敌对，行为不端。",
+      "appearance": [
+        "满脸的横肉"
+      ],
+      "personality": [
+        "暴怒",
+        "好色"
+      ],
+      "abilities": [
+        "背后浮现黑身白手瑜伽母的影子"
+      ],
+      "equipment": [
+        "金刚杵"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "广喻",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "正在与明妃进行秘密灌顶，被看守僧打断。"
+        }
+      ],
+      "evidence": [
+        "康雄将一个妇人的衣服剥光了",
+        "康雄满脸的横肉不住抖动着",
+        "康雄背后忽然浮现出一双玉白的手臂"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "广喻",
+      "aliases": [],
+      "identity": "红衣大僧侣",
+      "faction": "戒律院",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戒律院的红衣大僧侣，被康雄鞭打后养伤，后被苏午的意影响。",
+      "appearance": [],
+      "personality": [
+        "傲慢",
+        "屈服"
+      ],
+      "abilities": [
+        "诵念金刚萨埵心咒",
+        "结手印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "下属"
+        },
+        {
+          "target": "苏午",
+          "type": "敌对后被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午的意影响，前去向康雄传话。"
+        }
+      ],
+      "evidence": [
+        "红衣大僧侣广喻目睹了全程",
+        "广喻皱起了眉头",
+        "广喻深深俯首，恭敬应声"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "邱杨切",
+      "aliases": [],
+      "identity": "鬼獒",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "佛子苏午养的鬼獒。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午抚弄。"
+        }
+      ],
+      "evidence": [
+        "佛子正在逗弄鬼獒‘邱杨切’",
+        "苏午抚弄着邱杨切的脑袋"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "广明",
+      "aliases": [],
+      "identity": "上师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午的手下之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "手下"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "现下的寺院里，苏午的手下还有广明、广通二人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "广通",
+      "aliases": [],
+      "identity": "上师",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午的手下之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "手下"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "现下的寺院里，苏午的手下还有广明、广通二人。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "妇人",
+      "aliases": [
+        "明妃"
+      ],
+      "identity": "康雄从山下带来的明妃",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被康雄剥光衣服进行秘密灌顶的妇人。",
+      "appearance": [
+        "身材偏瘦"
+      ],
+      "personality": [
+        "害羞",
+        "害怕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "康雄",
+          "type": "被灌顶"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被康雄剥光衣服，准备进行秘密灌顶。"
+        }
+      ],
+      "evidence": [
+        "康雄将一个妇人的衣服剥光了",
+        "那妇人身材偏瘦，被老僧脱光衣物，有些害羞地蜷缩身体"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

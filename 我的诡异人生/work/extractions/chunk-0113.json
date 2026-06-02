@@ -1,0 +1,432 @@
+{
+  "chunk_id": "chunk-0113",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，拥有眼地藏咒印，能归藏诡异外相，驱使血婴等小诡。",
+      "appearance": [],
+      "personality": [
+        "专注",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "眼地藏咒印",
+        "驱使血婴",
+        "使用诡狱锁链"
+      ],
+      "equipment": [
+        "心诡纸页",
+        "诡狱锁链",
+        "塑化神像"
+      ],
+      "relationships": [
+        {
+          "target": "血婴",
+          "type": "伥鬼"
+        },
+        {
+          "target": "周洋",
+          "type": "救助对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入公墓纪念堂，归藏三清之肠外相，救助村民和周洋。"
+        }
+      ],
+      "evidence": [
+        "苏午眼中旋涡状的纹络显现又消失。",
+        "苏午刻意压制了自己的‘眼地藏咒印’，以近乎于不设防的状态‘坐观’血肉神像。",
+        "苏午冲他笑了笑。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "血婴",
+      "aliases": [],
+      "identity": "小诡，心诡的伥鬼",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "曾被沈愿愿容纳的小诡，能钻进生物体内吞吃内脏，也能吃空泥胎。现被苏午驱使。",
+      "appearance": [
+        "血色身影",
+        "没有常人膝盖高",
+        "漆黑眼睛"
+      ],
+      "personality": [],
+      "abilities": [
+        "钻进眼耳口鼻肚脐肛丨门",
+        "吞吃内脏血肉",
+        "吃空泥胎"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被驱使"
+        },
+        {
+          "target": "心诡",
+          "type": "伥鬼"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午召唤，吞吃泥胎，后守在其身边。"
+        }
+      ],
+      "evidence": [
+        "血婴这只诡的能力听起来很恐怖",
+        "血婴站在地上，一动不动。",
+        "血婴‘听’到这一段音节，直接从一个泥胎头顶‘破壳而出’"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "周洋",
+      "aliases": [],
+      "identity": "村民",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被泥胎化的村民，昏迷前说出一串数字。",
+      "appearance": [
+        "皮肤已完全泥胎化"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被救助"
+        },
+        {
+          "target": "妻子",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午救助，昏迷前说出数字。"
+        }
+      ],
+      "evidence": [
+        "走到了皮肤已完全泥胎化的周洋身边。",
+        "周洋的眼睛还未被泥胎化，内里闪动着微弱的光芒",
+        "嘴里吐出这串数字后，周洋就彻底昏迷了过去。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "朱老太",
+      "aliases": [],
+      "identity": "村民",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被血肉神像缠绕的村民之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从血肉神像上掉落，恢复神智。"
+        }
+      ],
+      "evidence": [
+        "先前消失了的村民－朱老太、朱老太的儿子、李会计之子等人，如同一条条肉虫般虬结交叠。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "朱老太的儿子",
+      "aliases": [],
+      "identity": "村民",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被血肉神像缠绕的村民之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从血肉神像上掉落，恢复神智。"
+        }
+      ],
+      "evidence": [
+        "先前消失了的村民－朱老太、朱老太的儿子、李会计之子等人，如同一条条肉虫般虬结交叠。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李会计之子",
+      "aliases": [],
+      "identity": "村民",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被血肉神像缠绕的村民之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从血肉神像上掉落，恢复神智。"
+        }
+      ],
+      "evidence": [
+        "先前消失了的村民－朱老太、朱老太的儿子、李会计之子等人，如同一条条肉虫般虬结交叠。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "昭道师",
+      "aliases": [],
+      "identity": "清朝时期的驭诡道师",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "与麻仙姑一同将眼诡、发诡的诡韵转化为克制诡韵的力量，后殒命。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "麻仙姑",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与麻仙姑转化诡韵，殒命。"
+        }
+      ],
+      "evidence": [
+        "昭道师、麻仙姑最后究竟用了什么特殊方法？",
+        "他们二人就此殒命"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "麻仙姑",
+      "aliases": [],
+      "identity": "清朝时期的驭诡道师",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "与昭道师一同转化诡韵，后殒命。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "昭道师",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与昭道师转化诡韵，殒命。"
+        }
+      ],
+      "evidence": [
+        "昭道师、麻仙姑最后究竟用了什么特殊方法？",
+        "他们二人就此殒命"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "黄道长",
+      "aliases": [
+        "老道长"
+      ],
+      "identity": "道士",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "知道苏午‘火中大有’命格，可能传承有批命方法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "批命"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "可能知晓其命格"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "可以找老道长询问一二。",
+        "黄道长没有昭道师一脉的驭诡传承，也应该传承有一套类似密藏域‘批命’的方法"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "沈愿愿",
+      "aliases": [],
+      "identity": "曾容纳血婴的人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "曾容纳小诡血婴。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "血婴",
+          "type": "曾容纳"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "曾被沈愿愿容纳的小诡‘血婴’"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "林光远",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "可以随意驱使心诡的伥鬼‘咒杀诡’。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "同伴"
+        },
+        {
+          "target": "咒杀诡",
+          "type": "驱使"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "就像林光远、医生二人可以随意驱使心诡的另一只伥鬼——‘咒杀诡’一样。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "医生",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "可以随意驱使心诡的伥鬼‘咒杀诡’。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林光远",
+          "type": "同伴"
+        },
+        {
+          "target": "咒杀诡",
+          "type": "驱使"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "就像林光远、医生二人可以随意驱使心诡的另一只伥鬼——‘咒杀诡’一样。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "许进",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "容纳了可以袭击人精神的诡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "日后一旦再遭遇到类似许进那种容纳了可以袭击人精神的诡时"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "卓杰",
+      "aliases": [],
+      "identity": "密藏域人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "其意根藏召现黑色巨犬吓走窄袖观音。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "意根藏"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "密藏域里的窄袖观音，直接被卓杰的意根藏召现而来的黑色巨犬吓走了！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "窄袖观音",
+      "aliases": [],
+      "identity": "密藏域诡异存在",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被卓杰的意根藏召现的黑色巨犬吓走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "密藏域里的窄袖观音，直接被卓杰的意根藏召现而来的黑色巨犬吓走了！"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

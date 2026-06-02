@@ -1,0 +1,209 @@
+{
+  "chunk_id": "chunk-1360",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "正在元河中补全元皇之肠，并试图寻找中黄太乙之血以维持体内三才平衡。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "敢于冒险"
+      ],
+      "abilities": [
+        "元皇之肠",
+        "诡狱锁链",
+        "洪炉火"
+      ],
+      "equipment": [
+        "画轴（卖货郎）"
+      ],
+      "relationships": [
+        {
+          "target": "卖货郎",
+          "type": "主仆"
+        },
+        {
+          "target": "鉴真神韵",
+          "type": "被其拖入元河"
+        },
+        {
+          "target": "佛陀",
+          "type": "被其注视"
+        },
+        {
+          "target": "玄奘",
+          "type": "继承其衣钵"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "补全元皇之肠，消化渡河失败者的力量，并派遣卖货郎寻找中黄太乙之血。"
+        }
+      ],
+      "evidence": [
+        "苏午的‘元皇之肠’，在此刻终得补全。",
+        "苏午沉溺于元河水面以下，依靠‘元皇之肠’不停阻断渡河失败者们寄托而来的力量。",
+        "苏午另有备用手段来接引天力——元河被桃源村人称为‘天河’。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "卖货郎",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被苏午从画轴中唤出，受命寻找中黄太乙之血。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "货物清单（含中黄太乙之血）"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午唤出，后颈被按下洪炉火掌印，化作流光消失去寻找中黄太乙之血。"
+        }
+      ],
+      "evidence": [
+        "卖货郎从那画轴中脱离，它维持不住站立的身形。",
+        "他顶着后颈上那个燃火的掌印，一瞬间化作流光消失在了苏午眼前。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "鉴真神韵",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "已死亡",
+      "first_appearance": "",
+      "summary": "融入苏午体魄内的诡狱锁链中，因贪欲将苏午拖入元河，代其承受佛陀一指而被点灭。",
+      "appearance": [],
+      "personality": [
+        "贪欲"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "融入其诡狱锁链"
+        },
+        {
+          "target": "佛陀",
+          "type": "被其点灭"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将苏午拖入元河，代其承受佛陀一指，被彻底消灭。"
+        }
+      ],
+      "evidence": [
+        "先前‘鉴真神韵’将他拖入元河水中，却并非是为了救他。",
+        "那指上缠绕的‘无上正等正觉’，却在临近鉴真神韵眉心之时，倏忽收敛去，只是稀松平常的一指，便点灭了鉴真神韵。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "佛陀",
+      "aliases": [],
+      "identity": "彼岸上的佛陀",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "将无量光铺满元河河面，诸佛菩萨罗汉林立，欲将法性投注于苏午身上。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "无上正等正觉",
+        "法性长河"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "欲投注法性"
+        },
+        {
+          "target": "鉴真神韵",
+          "type": "点灭之"
+        },
+        {
+          "target": "玄奘",
+          "type": "成佛后的形态"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元河河面上显现，点灭鉴真神韵，并注视苏午。"
+        }
+      ],
+      "evidence": [
+        "佛日将无量光铺满这元河河面之上！",
+        "那佛陀仍不满足。",
+        "古往今来，所有成佛者，皆在这寂然无声的佛日之中。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "玄奘",
+      "aliases": [
+        "玄奘法师"
+      ],
+      "identity": "法师",
+      "faction": "",
+      "status": "已死亡（成佛）",
+      "first_appearance": "",
+      "summary": "已成的佛，在大雁塔下龙脉中留下法性长河和本源神灵，寻找有缘人继承衣钵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "衣钵继承者"
+        },
+        {
+          "target": "佛陀",
+          "type": "成佛后的身份"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在大雁塔下龙脉中留下法性长河和本源神灵。"
+        },
+        {
+          "stage": "当前",
+          "event": "已彻底成佛，本我消失。"
+        }
+      ],
+      "evidence": [
+        "玄奘终于成了佛。",
+        "但玄奘却真真正正的‘死’了！",
+        "他是否还曾留下过甚么遗言，告知后来人，‘成佛的根本’、成佛的背后，蕴藏着何等骇人的真相？"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "chunk_id": "chunk-0023",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "模拟游戏玩家",
+      "faction": "",
+      "status": "死亡后复活",
+      "first_appearance": "第22章 力士咒印",
+      "summary": "模拟游戏玩家，在本次模拟中死亡，获得评分丙上，并合成咒印'力士'。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "勇敢"
+      ],
+      "abilities": [
+        "街头格斗术（绿色）",
+        "损血狂战（白色）",
+        "说话的艺术（白色）",
+        "疼痛转移（绿色）"
+      ],
+      "equipment": [
+        "帝钟",
+        "蜡烛",
+        "应急罐头"
+      ],
+      "relationships": [
+        {
+          "target": "江莺莺",
+          "type": "同伴"
+        },
+        {
+          "target": "王志友",
+          "type": "前同事（已变为诡）"
+        },
+        {
+          "target": "辛巧鸽",
+          "type": "同事（已变为诡）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "本次模拟",
+          "event": "遭遇诡群围攻，最终死亡，结束模拟。"
+        }
+      ],
+      "evidence": [
+        "苏午面无表情，没有回答这个已不能称为人的前同事'王志友'的问题。",
+        "苏午定定地看着她。片刻后点了点头：'好。'",
+        "苏午的目光在'尸陀鬼之手'选项上定定停留片刻，才挪开目光，看向其下几项物品。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "江莺莺",
+      "aliases": [],
+      "identity": "苏午的同伴",
+      "faction": "",
+      "status": "存活",
+      "first_appearance": "第22章 力士咒印",
+      "summary": "苏午的同伴，在诡群中试图引开诡群帮助苏午。",
+      "appearance": [],
+      "personality": [
+        "勇敢",
+        "善良"
+      ],
+      "abilities": [],
+      "equipment": [
+        "大公鸡",
+        "蜡烛"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "本次模拟",
+          "event": "主动提出引开诡群，让苏午带着应急罐头逃走。"
+        }
+      ],
+      "evidence": [
+        "江莺莺眼里泛着泪光，看到周围乌泱泱携裹着血腥气、焦臭气味压来的'人'，她紧咬下唇，忽然把怀里的大公鸡递向苏午：'给你！'",
+        "那道纤细的身影走向了'人群'，大部分诡都像她汇集而去"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "王志友",
+      "aliases": [],
+      "identity": "苏午的前同事，已变为诡",
+      "faction": "",
+      "status": "已死（变为诡）",
+      "first_appearance": "第22章 力士咒印",
+      "summary": "苏午的前同事，半边脑袋被撞瘪，变为诡后不断追问苏午'你为什么没有上班？'",
+      "appearance": [
+        "半边脑袋被撞瘪"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "前同事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "本次模拟",
+          "event": "作为诡出现，被苏午用帝钟和烛火击碎肢体。"
+        }
+      ],
+      "evidence": [
+        "半边脑袋被撞瘪下去的青年男人向苏午厉声追问。",
+        "'王志友'距他只有三步远"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "辛巧鸽",
+      "aliases": [],
+      "identity": "苏午的同事，已变为诡",
+      "faction": "",
+      "status": "已死（变为诡）",
+      "first_appearance": "第22章 力士咒印",
+      "summary": "苏午的同事，变为诡后与王志友一同出现。",
+      "appearance": [
+        "鹅蛋脸"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "本次模拟",
+          "event": "作为诡出现，被苏午击碎。"
+        }
+      ],
+      "evidence": [
+        "又一道身影从灰雾里走了出来，和'王志友'一齐压进了苏午周围的火光映照之地！",
+        "顶着'辛巧鸽'那张鹅蛋脸的一堆碎肉堵在苏午的前路上。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

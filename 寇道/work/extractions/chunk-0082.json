@@ -1,0 +1,366 @@
+{
+  "chunk_id": "chunk-0082",
+  "characters": [
+    {
+      "name": "寇立",
+      "aliases": [],
+      "identity": "人仙武者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，已炼成人仙躯壳，与王武烈决战并获胜，后离开凤羲继续追求仙道。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "深情"
+      ],
+      "abilities": [
+        "人仙躯壳",
+        "八法象形",
+        "先天卦象",
+        "火烧身"
+      ],
+      "equipment": [
+        "无字图"
+      ],
+      "relationships": [
+        {
+          "target": "王武烈",
+          "type": "对手"
+        },
+        {
+          "target": "凤羲",
+          "type": "爱人"
+        },
+        {
+          "target": "六通真人",
+          "type": "旧识"
+        },
+        {
+          "target": "珍妃",
+          "type": "敌对后合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "与王武烈在龙穴中决战，以仙门叩仙门获胜，吸收对方所学。"
+        },
+        {
+          "stage": "战后",
+          "event": "与珍妃交谈，得知龙柱封印解开，神仙道入世。"
+        },
+        {
+          "stage": "离别",
+          "event": "与凤羲告别，承诺来世度她。"
+        }
+      ],
+      "evidence": [
+        "寇立以人仙躯壳承受火烧身，而王武烈却是以人仙意志引导火烧身的变化",
+        "寇立一步踏入，竟是踏进王武烈的人仙之门",
+        "寇立轻轻抚摸对方如玉的面颊，温柔的道"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "王武烈",
+      "aliases": [
+        "武烈"
+      ],
+      "identity": "人仙武者",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "寇立的对手，同样达到人仙境界，在决战中落败身亡。",
+      "appearance": [],
+      "personality": [
+        "狂热",
+        "自信"
+      ],
+      "abilities": [
+        "人仙意志",
+        "吞噬拳意",
+        "神念化电",
+        "火烧身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "对手"
+        },
+        {
+          "target": "冰瑶仙子",
+          "type": "伴侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "与寇立决战，先一步叩入仙门，但被寇立闯入仙门，最终落败身亡。"
+        }
+      ],
+      "evidence": [
+        "王武烈眼中亮光一闪，一直以来陷入守势的他，酝酿已久，突然释放杀招",
+        "王武烈用‘神念化电’之术，抢先一步，叩入仙门",
+        "你赢了！王武烈叹气道"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "凤羲",
+      "aliases": [
+        "凤儿"
+      ],
+      "identity": "公主",
+      "faction": "皇室",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "寇立的爱人，公主身份，在寇立离开时要求来世度她。",
+      "appearance": [
+        "狐裘美人"
+      ],
+      "personality": [
+        "骄傲",
+        "深情",
+        "倔强"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "爱人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "战后",
+          "event": "在京城城墙等待寇立，得知寇立要离开，咬伤他并立下来世之约。"
+        }
+      ],
+      "evidence": [
+        "凤羲猛的转头，不知何时，她朝思暮想的人，已经近在眼前了",
+        "带我走好不好，凤羲的眼神中，已满是哀求",
+        "我不管，今生本宫修不成仙，来世你便要度我"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "珍妃",
+      "aliases": [],
+      "identity": "皇帝妃子，留仙居后裔",
+      "faction": "皇室/留仙居",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "皇帝妃子，实为留仙居后裔，曾刺杀寇立，后告知龙柱秘密。",
+      "appearance": [
+        "姿色上佳",
+        "雍容华贵"
+      ],
+      "personality": [
+        "谨慎",
+        "务实"
+      ],
+      "abilities": [
+        "仙气法力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "敌对后合作"
+        },
+        {
+          "target": "皇帝",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "与冰瑶仙子争斗，后与寇立交谈，告知龙柱封印和神仙道入世。"
+        },
+        {
+          "stage": "战后",
+          "event": "决定回归仙门。"
+        }
+      ],
+      "evidence": [
+        "珍妃喘着气，汗流如注，透出珍珠纱的薄衣",
+        "当晚那场刺杀，其实是皇帝暗中指使你的吧",
+        "此事过后，我也要接诏回归仙门了"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "六通真人",
+      "aliases": [
+        "曹六通"
+      ],
+      "identity": "真人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与长公主有旧，曾与寇立有交集，在决战前已‘死去’但苏醒。",
+      "appearance": [],
+      "personality": [
+        "深情",
+        "清醒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "长公主",
+          "type": "恋人"
+        },
+        {
+          "target": "寇立",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战前",
+          "event": "在长公主怀中苏醒，与寇立对话。"
+        }
+      ],
+      "evidence": [
+        "已经‘死去’半晌的六通真人，忽然微微睁开了眼，苦笑道",
+        "多谢了，六通真人忽然提声道"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "长公主",
+      "aliases": [],
+      "identity": "长公主",
+      "faction": "皇室",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "六通真人的恋人，与寇立有交集。",
+      "appearance": [],
+      "personality": [
+        "深情",
+        "情绪化"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "六通真人",
+          "type": "恋人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战前",
+          "event": "与六通真人重逢，情绪激动。"
+        }
+      ],
+      "evidence": [
+        "女人的心思总是那么难测，深爱、深仇、深怨、深怜",
+        "长公主眼孔陡然放大，激动、不解、伤心、喜悦"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "冰瑶仙子",
+      "aliases": [
+        "冰魄仙子"
+      ],
+      "identity": "仙子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "王武烈的伴侣，在决战中与珍妃争斗，王武烈死后疯狂。",
+      "appearance": [],
+      "personality": [
+        "疯狂",
+        "执着"
+      ],
+      "abilities": [
+        "法宝"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王武烈",
+          "type": "伴侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "与珍妃争斗，目睹王武烈死亡后疯狂。"
+        }
+      ],
+      "evidence": [
+        "冰瑶仙子和那珍妃，彼此间杀气腾腾，法宝周身环绕",
+        "这个女人就像是疯了似的，披头散发，钻入了龙穴深处"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "罗严宗",
+      "aliases": [],
+      "identity": "大宗师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "已故大宗师，尸体出现在龙穴中，曾与寇立有旧。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "决战前",
+          "event": "战死在龙穴中。"
+        }
+      ],
+      "evidence": [
+        "在这其中，寇立看到了罗严宗的尸体",
+        "当年，你的确不应该离开车家沟"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白神机",
+      "aliases": [],
+      "identity": "旁观者",
+      "faction": "魔门",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "来历不明的旁观者，关注决战，后化作无足鸟跟随龙柱。",
+      "appearance": [],
+      "personality": [
+        "神秘"
+      ],
+      "abilities": [
+        "变化"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "决战",
+          "event": "在龙山旁观决战，后化作无足鸟跟随龙柱。"
+        }
+      ],
+      "evidence": [
+        "唯一查不出来历的白神机看着这一幕，双目透着惊讶",
+        "白神机居然化作一只双翅无足之鸟，紧随其中一根之后"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

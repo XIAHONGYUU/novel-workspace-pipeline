@@ -1,0 +1,171 @@
+{
+  "chunk_id": "chunk-0207",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "模拟器使用者，修行者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，在模拟结束后处理模拟收获，升级天赋，融合咒印。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于推理"
+      ],
+      "abilities": [
+        "慧剑（紫色天赋）",
+        "龙象菩提咒印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丹加",
+          "type": "模拟中相识，有情感羁绊"
+        },
+        {
+          "target": "精莲化生大士",
+          "type": "推测其可能堕落为精莲诡"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "模拟结束后",
+          "event": "出售模拟知识，获得元玉；升级冷静天赋为慧剑；抽取并融合龙蛇咒印为龙象菩提。"
+        }
+      ],
+      "evidence": [
+        "坐在黑暗里，苏午默无声息，任由模拟器的提示音在耳边连续响起。",
+        "苏午闭上眼睛，自身在密藏域里经历过一桩桩事情纷纷浮显，每一帧画面的角落里，似乎都能看到丑陋小童子－丹加的身影。",
+        "他运起慧剑，将削弱或斩灭‘恐惧’、‘绝望’、‘愤怒’、‘惊惶’等负面情绪对自身的影响。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "丹加",
+      "aliases": [
+        "丑陋小童子"
+      ],
+      "identity": "密藏域中的小童子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午在模拟中认识的人物，与苏午有情感联系。",
+      "appearance": [
+        "丑陋小童子"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "模拟中相识"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "每一帧画面的角落里，似乎都能看到丑陋小童子－丹加的身影。",
+        "在过去，自己离开以后，丹加究竟做了什么？"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "精莲化生大士",
+      "aliases": [
+        "精莲化生大士"
+      ],
+      "identity": "大雪山首位至尊，据传本尊为时轮金刚",
+      "faction": "大雪山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "开创光明灌顶大圆满法，一百三十七岁时化虹飞升，苏午推测其可能堕落为精莲诡。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "光明灌顶大圆满法",
+        "如来藏豢养猊群"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "精莲诡",
+          "type": "推测为同一存在"
+        },
+        {
+          "target": "元空至尊大师",
+          "type": "后继者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "开创光明灌顶大圆满法，一百三十七岁时化虹飞升。"
+        }
+      ],
+      "evidence": [
+        "光明灌顶大圆满法由大雪山的首位至尊，据传本尊乃是时轮金刚的精莲化生大士开创，其在一百三十七岁时，化虹飞升。",
+        "借助一代代大雪山至尊呼图克图之身来转世的‘精莲诡’，其实就是精莲化生大士？"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "精莲诡",
+      "aliases": [],
+      "identity": "诡，可能为精莲化生大士堕落而成",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "借助大雪山至尊呼图克图之身转世的诡，其遗留影响附着在苏午念头上。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "召来大恐怖相"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "精莲化生大士",
+          "type": "推测为同一存在"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他的诸多念头上还残留有‘精莲诡’的遗留影响",
+        "借助一代代大雪山至尊呼图克图之身来转世的‘精莲诡’，其实就是精莲化生大士？"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "元空至尊大师",
+      "aliases": [],
+      "identity": "大雪山至尊",
+      "faction": "大雪山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "在精莲化生大士死后为猊群续命一千年。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "精莲化生大士",
+          "type": "后继者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "为猊群续命一千年。"
+        }
+      ],
+      "evidence": [
+        "乃是由‘元空至尊大师’再度出手，才为猊群续命一千年。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

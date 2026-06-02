@@ -1,0 +1,308 @@
+{
+  "chunk_id": "chunk-1498",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张正使"
+      ],
+      "identity": "天夏使者，摘取上乘功果的修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "天夏使者，与正清道人长谈后思考对抗元夏的策略，并接受元上殿安排的人员。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "交谈对象"
+        },
+        {
+          "target": "隋道人",
+          "type": "交谈对象"
+        },
+        {
+          "target": "兰司议",
+          "type": "元上殿对接人"
+        },
+        {
+          "target": "过修士",
+          "type": "传话人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与正清道人长谈后思考对抗元夏的策略。"
+        },
+        {
+          "stage": "次日",
+          "event": "过修士传达元上殿要求，张御同意并安排见面。"
+        }
+      ],
+      "evidence": [
+        "张御与正清道人长谈了一番后，对于莱原世道也是多少有了些了解",
+        "张御对于元夏的安排其实早有预料",
+        "他道：“既然是元上殿安排，我自然不会推拒”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "正清道人",
+      "aliases": [],
+      "identity": "与张御长谈的道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "与张御长谈，提供莱原世道的信息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交谈对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御长谈后离开。"
+        }
+      ],
+      "evidence": [
+        "张御与正清道人长谈了一番后",
+        "在正清道人离开后"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "隋道人",
+      "aliases": [],
+      "identity": "与张御谈论外世覆灭的道人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "与张御谈论多个被元夏覆灭的外世。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交谈对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御谈论外世覆灭情况。"
+        }
+      ],
+      "evidence": [
+        "此前他与隋道人谈论了多个被元夏覆灭的外世"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "过修士",
+      "aliases": [
+        "过真人"
+      ],
+      "identity": "元上殿修士，负责传话",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "将张御与隋道人的谈话拟成文册上呈兰司议，并传达元上殿的要求给张御。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "兰司议",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "传话对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将谈话文册上呈兰司议。"
+        },
+        {
+          "stage": "次日",
+          "event": "寻张御传达元上殿要求。"
+        }
+      ],
+      "evidence": [
+        "过修士将张御与隋道人的所有交谈话语都是拟成了文册，并上呈给了兰司议",
+        "第二日，过修士又来寻张御，并将元上殿的要求提了出来"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "兰司议",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "元上殿司议，负责与张御对接，并安排人员跟随张御回天夏。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "过修士",
+          "type": "下属"
+        },
+        {
+          "target": "张御",
+          "type": "对接人"
+        },
+        {
+          "target": "万道人",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "阅读过修士呈上的文册，并指示保密。"
+        },
+        {
+          "stage": "当前",
+          "event": "参加元上殿司议会议，被万道人要求去与张御沟通。"
+        }
+      ],
+      "evidence": [
+        "兰司议看过之后，道：“这件事不用说出去”",
+        "兰司议道：“好，我去安排。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "万道人",
+      "aliases": [],
+      "identity": "元上殿司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "元上殿司议，在会议上提出派遣人员跟随张御回天夏，并交给廖尝金符。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "兰司议",
+          "type": "同僚"
+        },
+        {
+          "target": "廖尝",
+          "type": "下达任务"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在元上殿会议上提议派遣人员，并交给廖尝金符。"
+        }
+      ],
+      "evidence": [
+        "万道人看向一边，道：“兰司议，你去和张正使说上几声”",
+        "万道人这时抛下了一物，廖尝连忙接入了手中"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "廖尝",
+      "aliases": [],
+      "identity": "被元上殿派遣跟随张御回天夏的道人",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "身形瘦小的道人，被元上殿选中，携带金符前往天夏与元都派联络。",
+      "appearance": [
+        "看着不怎么起眼，身形瘦小"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "金符"
+      ],
+      "relationships": [
+        {
+          "target": "万道人",
+          "type": "下达任务"
+        },
+        {
+          "target": "元上殿",
+          "type": "所属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被元上殿召见，接受任务，携带金符准备前往天夏。"
+        }
+      ],
+      "evidence": [
+        "自外面进来了一名看着不怎么起眼，身形瘦小的道人，对着座上恭敬一礼，道：“廖尝见过诸位司议。”",
+        "万道人这时抛下了一物，廖尝连忙接入了手中"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "庄首执",
+      "aliases": [],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "天夏首执，被张御认为可能攀渡上境，与挨近大混沌有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "再若庄首执这等人物攀渡上境"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "余黯",
+      "aliases": [],
+      "identity": "被过修士提及的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十六章 积势为有争",
+      "summary": "过修士向兰司议询问余黯所在，但兰司议未予明确答复。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "过修士道：“司议，那个余黯所在不知是……”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

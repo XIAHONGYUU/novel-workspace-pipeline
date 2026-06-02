@@ -1,0 +1,362 @@
+{
+  "chunk_id": "chunk-0925",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张守正"
+      ],
+      "identity": "东庭玄府守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "东庭玄府守正，荀师弟子，正身与分身并行，处理掌门符诏相关事务。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "善于思考"
+      ],
+      "abilities": [
+        "分身化影",
+        "法力高强"
+      ],
+      "equipment": [
+        "掌门符诏"
+      ],
+      "relationships": [
+        {
+          "target": "荀师",
+          "type": "师徒"
+        },
+        {
+          "target": "蒯荆",
+          "type": "师兄弟"
+        },
+        {
+          "target": "原辛",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到荀师书信，与蒯荆会面，取得掌门符诏。"
+        }
+      ],
+      "evidence": [
+        "张御打开书信之后，见上面只有一句话：“蒯荆之言可信。”",
+        "张御自天中缓步走来，身外则是一片灿烂耀眼的玉雾星光",
+        "张御将掌门符诏拿了过来，他感应了一下此符，略作思索，顿时明白了这里面的意思"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "原辛",
+      "aliases": [
+        "原师兄"
+      ],
+      "identity": "张御的师兄",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的师兄，负责转述蒯荆的话。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师兄弟"
+        },
+        {
+          "target": "蒯荆",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向张御转述蒯荆的话。"
+        }
+      ],
+      "evidence": [
+        "原辛道：“有一些话蒯师弟说是转述荀师之言”",
+        "原辛道：“蒯师兄说他在上次出了元都山门之后，便就遇见到了老师的化影分身”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "蒯荆",
+      "aliases": [
+        "蒯师兄",
+        "蒯师弟"
+      ],
+      "identity": "荀师弟子，执念化身",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "荀师的弟子，已逝，以执念形式存在，受托照看同门并传递符诏。",
+      "appearance": [],
+      "personality": [
+        "微笑",
+        "从容"
+      ],
+      "abilities": [
+        "遁法奇绝",
+        "进入灵关"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "荀师",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "师兄弟"
+        },
+        {
+          "target": "原辛",
+          "type": "师兄弟"
+        },
+        {
+          "target": "小道童",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御会面，将掌门符诏交给张御。"
+        }
+      ],
+      "evidence": [
+        "蒯荆微微一笑，打一个稽首，道：“是我。”",
+        "蒯荆拿过这符诏，身躯一闪不见，随后再一次出现在了张御面前，并将符诏递过",
+        "蒯荆推了下眼镜，微笑道：“我会告诉他的。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "荀师",
+      "aliases": [
+        "老师",
+        "荀师"
+      ],
+      "identity": "张御、蒯荆、原辛等人的老师",
+      "faction": "元都一脉",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御等人的老师，已留下后手，通过书信和蒯荆传达指示。",
+      "appearance": [],
+      "personality": [
+        "深谋远虑"
+      ],
+      "abilities": [
+        "化影分身"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师徒"
+        },
+        {
+          "target": "蒯荆",
+          "type": "师徒"
+        },
+        {
+          "target": "原辛",
+          "type": "师徒"
+        },
+        {
+          "target": "戚未央",
+          "type": "师徒"
+        },
+        {
+          "target": "小道童",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "阻止任殷平，收回掌门符诏，交给小道童。"
+        }
+      ],
+      "evidence": [
+        "这的确是那位老师的笔迹",
+        "蒯师兄说他在上次出了元都山门之后，便就遇见到了老师的化影分身",
+        "荀师交代过，门中有人可凭感应，寻到此符之所在"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "黑衣道人",
+      "aliases": [
+        "林道友"
+      ],
+      "identity": "上宸天修士",
+      "faction": "上宸天",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "上宸天修士，带领四名修士围攻蒯荆，被张御击杀。",
+      "appearance": [
+        "黑衣"
+      ],
+      "personality": [
+        "冷静"
+      ],
+      "abilities": [
+        "持有追魂珠"
+      ],
+      "equipment": [
+        "追魂珠"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与四名修士围攻蒯荆，被张御所杀。"
+        }
+      ],
+      "evidence": [
+        "黑衣道人悬空立在那里",
+        "黑衣道人这个时候却是没有急躁，反而很是冷静",
+        "我携带有‘追魂珠’"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "小道童",
+      "aliases": [
+        "小师弟"
+      ],
+      "identity": "荀师新收弟子，名义上的元都掌门",
+      "faction": "元都一脉",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "荀师后来找到的传道弟子，持有掌门符诏，后交给蒯荆。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "掌门符诏"
+      ],
+      "relationships": [
+        {
+          "target": "荀师",
+          "type": "师徒"
+        },
+        {
+          "target": "蒯荆",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将掌门符诏交给蒯荆。"
+        }
+      ],
+      "evidence": [
+        "小道童回道：“在的，师兄可要用？”",
+        "小道童哦了一声，从身上将那一张掌门符诏拿了出来"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "任殷平",
+      "aliases": [
+        "任玄尊"
+      ],
+      "identity": "元都前任掌门或高层",
+      "faction": "元都一脉（已叛）",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "已故的元都玄尊，曾试图利用掌门符诏作乱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "元都法器"
+      ],
+      "relationships": [
+        {
+          "target": "荀师",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被荀师阻止，打开元都法器，舍弃性命。"
+        }
+      ],
+      "evidence": [
+        "老师上一次为挽回元都一脉，所以不得不出手阻止任殷平",
+        "任玄尊在最后一刻打开了元都法器，并为此舍弃了性命"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "戚未央",
+      "aliases": [],
+      "identity": "荀师曾收的弟子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "荀师曾收的弟子，后因不满意另觅弟子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "荀师",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "这位老师曾收过一名叫作戚未央的弟子"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周道友"
+      ],
+      "identity": "张御身边的道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御召唤的道人，态度恭敬。",
+      "appearance": [],
+      "personality": [
+        "恭敬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御召唤到前殿。"
+        }
+      ],
+      "evidence": [
+        "明周道人应身出现在一旁，态度恭敬道：“明周在此，守正有何吩咐？”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

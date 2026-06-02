@@ -1,0 +1,233 @@
+{
+  "chunk_id": "chunk-1937",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张上真"
+      ],
+      "identity": "上真",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "身悬高空，操控诸多道人虚像与卞司议斗战，试图找出其道法破绽。",
+      "appearance": [
+        "身悬高空，两袖飘荡，身绕飞剑"
+      ],
+      "personality": [
+        "冷静",
+        "善于谋划"
+      ],
+      "abilities": [
+        "根本道法正御中天",
+        "意域演化"
+      ],
+      "equipment": [
+        "训天道章",
+        "大道意印"
+      ],
+      "relationships": [
+        {
+          "target": "卞司议",
+          "type": "敌对"
+        },
+        {
+          "target": "传司议",
+          "type": "下属（虚像）"
+        },
+        {
+          "target": "凌司议",
+          "type": "下属（虚像）"
+        },
+        {
+          "target": "盛筝",
+          "type": "下属（虚像）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在意域中与卞司议斗战，尝试多种道法后找到破绽，转至现世准备击杀。"
+        }
+      ],
+      "evidence": [
+        "张御身悬高空，两袖飘荡，身绕飞剑，自上看着其人",
+        "张御点点头，示意了一下，传司议恭敬一礼，退了下去",
+        "张御不管他怎么做，再次一抬手，身后诸多道人再次下场斗战"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "卞司议",
+      "aliases": [
+        "卞司议"
+      ],
+      "identity": "大司议",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "元夏大司议，陷入张御的意域幻境，被诸多昔日同道虚像围攻，试图自绝脱离未果。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "不服气"
+      ],
+      "abilities": [
+        "道法不惧斩身之法，削夺对方实力",
+        "能沟通镇道之宝"
+      ],
+      "equipment": [
+        "镇道之宝"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "传司议",
+          "type": "昔日同道"
+        },
+        {
+          "target": "凌司议",
+          "type": "昔日同道"
+        },
+        {
+          "target": "盛筝",
+          "type": "昔日同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在意域中被张御用多种道法虚像消磨，自绝后仍无法脱离。"
+        }
+      ],
+      "evidence": [
+        "卞司议看着诸多以往元夏同道，心中浮现一丝阴霾",
+        "卞司议哼了一声，也是祭动道法相抗",
+        "卞司议目中现出冷光，看着昔日那些同道在张御老老实实的听命"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "传司议",
+      "aliases": [
+        "传司议"
+      ],
+      "identity": "司议",
+      "faction": "元夏",
+      "status": "虚像",
+      "first_appearance": "",
+      "summary": "张御意域中映照出的虚像，曾与卞司议斗战，将其握成尘埃。",
+      "appearance": [],
+      "personality": [
+        "恭敬"
+      ],
+      "abilities": [
+        "化动空域，层层挤压"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属（虚像）"
+        },
+        {
+          "target": "卞司议",
+          "type": "昔日同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤出与卞司议斗战，将其击杀一次。"
+        }
+      ],
+      "evidence": [
+        "传司议这时对着张御一礼，道：“张上真，传某或可杀得这位百次千次, 但自觉无以拿他如何。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "凌司议",
+      "aliases": [
+        "凌司议"
+      ],
+      "identity": "司议",
+      "faction": "元夏",
+      "status": "虚像",
+      "first_appearance": "",
+      "summary": "张御意域中映照出的虚像，道法会根据他人道法变化而变化。",
+      "appearance": [],
+      "personality": [
+        "歉然"
+      ],
+      "abilities": [
+        "道法根据他人道法变化而变化，总能占据上流"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属（虚像）"
+        },
+        {
+          "target": "卞司议",
+          "type": "昔日同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤出与卞司议斗战，但无法克杀其人。"
+        }
+      ],
+      "evidence": [
+        "凌司议似是保持着原来的智识，面上带着一丝歉然，道：“卞司议，却是对不住了。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "盛筝",
+      "aliases": [
+        "盛司议"
+      ],
+      "identity": "司议",
+      "faction": "元夏",
+      "status": "虚像",
+      "first_appearance": "",
+      "summary": "张御意域中映照出的虚像，道法“问叩天心”，能放大自身可能做到之事。",
+      "appearance": [],
+      "personality": [
+        "有礼",
+        "不服气"
+      ],
+      "abilities": [
+        "道法“问叩天心”"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属（虚像）"
+        },
+        {
+          "target": "卞司议",
+          "type": "昔日同道"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤出与卞司议斗战，但无法真正杀死其人。"
+        }
+      ],
+      "evidence": [
+        "盛筝执有一礼，就自一边走了出来",
+        "盛筝飘身下来，道：“盛某早便想知道几位大司议的功行如何”"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

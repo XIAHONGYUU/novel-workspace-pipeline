@@ -13,6 +13,7 @@ LAYER_ORDER = (
     "chapter-distillation",
     "opening",
     "protagonist",
+    "supporting-cast",
     "outline",
     "highlight",
 )
@@ -20,6 +21,7 @@ LAYER_TO_SKILL = {
     "chapter-distillation": "novel-chapter-distillation",
     "opening": "novel-opening-analysis",
     "protagonist": "novel-protagonist-encyclopedia",
+    "supporting-cast": "novel-supporting-cast-analysis",
     "outline": "novel-outline-analysis",
     "highlight": "novel-highlight-scenes-analysis",
 }
@@ -27,6 +29,7 @@ LAYER_LABELS = {
     "chapter-distillation": "章节蒸馏层",
     "opening": "黄金前三章层",
     "protagonist": "主角百科层",
+    "supporting-cast": "重要配角层",
     "outline": "整书大纲层",
     "highlight": "剧情高光层",
 }
@@ -53,6 +56,13 @@ CHECK_LABELS = {
         "index": "词条总索引",
         "core_overview": "核心体系总览",
         "essence_summary": "全书精华总结",
+    },
+    "supporting-cast": {
+        "top10_table": "重要配角Top10总表",
+        "relation_map": "重要配角与主角关系图",
+        "stage_distribution": "重要配角阶段作用分布",
+        "index": "配角分析索引",
+        "profiles": "Top10 配角分析文件",
     },
     "outline": {
         "protagonist_layer": "主角层承接文件",
@@ -93,50 +103,24 @@ VALIDATOR_SCRIPTS = {
     / "novel-chapter-distillation-skill/scripts/validate_chapter_distillation_outputs.py",
     "opening": REPO_ROOT / "novel-opening-analysis-skill/scripts/validate_opening_outputs.py",
     "protagonist": REPO_ROOT / "novel-protagonist-encyclopedia-skill/scripts/validate_protagonist_outputs.py",
+    "supporting-cast": REPO_ROOT / "novel-supporting-cast-analysis-skill/scripts/validate_supporting_cast_outputs.py",
     "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/validate_outline_outputs.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/validate_highlight_outputs.py",
 }
-PROMPT_TEMPLATE_DIR = REPO_ROOT / "docs" / "prompt-templates"
-LAYER_GOALS = {
-    "chapter-distillation": "把原文逐章压成可校准的事实骨架，给后续各层提供稳定底稿。",
-    "opening": "判断前三章的钩子、承诺、冲突启动和章末拉力是否成立。",
-    "protagonist": "建立主角知识主梁，固定身份、成长引擎、关系和核心体系。",
-    "outline": "梳理整书阶段结构、主支线、冲突升级、高潮与收束。",
-    "highlight": "拆出最强剧情高光及其吸引力机制，并判断分布与节奏。",
-}
-LAYER_SOURCE_RECHECK_RULES = {
-    "chapter-distillation": [
-        "按章节边界重新打开原文，不要只根据记忆写“本章核心推进”。",
-        "每章至少确认实际发生了什么、主角状态如何变化、章末钩子是什么。",
-    ],
-    "opening": [
-        "重新打开前三章原文，逐章确认钩子、信息释放、冲突启动和章末拉力。",
-        "不要写“这一章很重要”式元评论，要写清具体事件和阅读牵引。",
-    ],
-    "protagonist": [
-        "回原文确认主角的本名、常见称谓、身份变化、关键能力和核心关系。",
-        "主角层最容易空泛，必须把结论落到具体事件、阶段和证据上。",
-    ],
-    "outline": [
-        "重新确认阶段边界、主要矛盾、地点转折和高潮收束，不要只复述剧情。",
-        "如果主线/支线判断拿不准，先回看主角层和开篇层，再回原文核实。",
-    ],
-    "highlight": [
-        "回原文确认高光桥段的发生位置、前置铺垫和兑现方式。",
-        "不要只列出“爽点”，还要写明为什么它成立、改变了什么、放在全书哪一段。",
-    ],
-}
+QUALITY_GATE_SCRIPT = REPO_ROOT / "novel-workspace-orchestrator-skill/scripts/quality_gate.py"
 INIT_SCRIPTS = {
     "chapter-distillation": REPO_ROOT
     / "novel-chapter-distillation-skill/scripts/init_chapter_distillation_workspace.py",
     "opening": REPO_ROOT / "novel-opening-analysis-skill/scripts/init_opening_workspace.py",
     "protagonist": REPO_ROOT / "novel-protagonist-encyclopedia-skill/scripts/init_workspace.py",
+    "supporting-cast": REPO_ROOT / "novel-supporting-cast-analysis-skill/scripts/init_supporting_cast_workspace.py",
     "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/init_outline_workspace.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/init_highlight_workspace.py",
 }
 LAYER_VALIDATED_TAGS = {
     "chapter-distillation": "章节蒸馏层校验通过",
     "opening": "黄金前三章分析层校验通过",
+    "supporting-cast": "重要配角层校验通过",
     "outline": "大纲分析层校验通过",
     "highlight": "剧情高光分析层校验通过",
 }
@@ -288,6 +272,13 @@ def validator_result_to_layer_status(
     elif layer == "protagonist":
         completion_label = result.get("system_status") or result.get("skeleton_status") or "体系闭环仍不足"
         validated = result.get("skeleton_status") == "骨架完成"
+    elif layer == "supporting-cast":
+        completion_label = result.get("top10_status", "重要配角 Top10 仍不足")
+        validated = (
+            result.get("top10_status") == "重要配角 Top10 已明确"
+            and result.get("relation_status") == "配角与主角关系已可用"
+            and result.get("stage_status") == "配角阶段作用层已可用"
+        )
     elif layer == "outline":
         completion_label = result.get("common_status", "共性标准仍不足")
         validated = result.get("common_status") == "共性标准已覆盖"
@@ -353,14 +344,6 @@ def check_label(layer: str, key: str) -> str:
     return CHECK_LABELS.get(layer, {}).get(key, key)
 
 
-def prompt_template_path(layer: str) -> Path:
-    return PROMPT_TEMPLATE_DIR / f"{layer}.md"
-
-
-def ai_fill_brief_path(workspace: Path, target_layer: str) -> Path:
-    return workspace / f"workspace-ai-fill-{target_layer}.md"
-
-
 def build_failed_checks(layer: str, item: dict[str, Any]) -> list[dict[str, Any]]:
     failed: list[dict[str, Any]] = []
     files = item.get("files", {})
@@ -375,8 +358,6 @@ def build_failed_checks(layer: str, item: dict[str, Any]) -> list[dict[str, Any]
         }
         if value.get("placeholder_hits"):
             entry["placeholder_hits"] = value["placeholder_hits"][:5]
-        entry["severity"] = "high" if entry["reason"] in {"missing", "placeholder_detected"} else "medium"
-        entry["repair_hint"] = repair_target_for_failure(layer, entry)
         failed.append(entry)
     return failed
 
@@ -439,6 +420,17 @@ def _infer_layer_file_name(layer: str, key: str, novel_name: str) -> str:
             "essence_summary": f"{novel_name}-全书精华总结.md",
         }
         return mapping.get(key, key)
+    if layer == "supporting-cast":
+        mapping = {
+            "project_entry": "README.md",
+            "handoff": latest_status_file_name(),
+            "top10_table": f"{novel_name}-重要配角Top10总表.md",
+            "relation_map": f"{novel_name}-重要配角与主角关系图.md",
+            "stage_distribution": f"{novel_name}-重要配角阶段作用分布.md",
+            "index": "supporting-cast/index.md",
+            "profiles": "supporting-cast",
+        }
+        return mapping.get(key, key)
     if layer == "outline":
         mapping = {
             "project_entry": "README.md",
@@ -499,6 +491,106 @@ def run_validator(layer: str, workspace: Path, novel_name: str, persist_report: 
     report_path = Path(raw["report_path"]) if raw.get("report_path") else None
     status_file = Path(raw["status_file"]) if raw.get("status_file") else None
     return validator_result_to_layer_status(layer, raw, workspace, report_path, status_file)
+
+
+def run_quality_gate_for_workspace(
+    workspace: Path,
+    novel_name: str,
+    target_layer: str | None = None,
+    persist_report: bool = True,
+) -> dict[str, Any] | None:
+    """Run the quality gate script and return structured results.
+
+    Returns None if the quality gate script is not available.
+    """
+    if not QUALITY_GATE_SCRIPT.exists():
+        return None
+    cmd = ["python3", str(QUALITY_GATE_SCRIPT), "--workspace", str(workspace), "--novel-name", novel_name, "--json"]
+    if target_layer:
+        cmd += ["--layer", target_layer]
+    if not persist_report:
+        cmd.append("--no-write-report")
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    if proc.returncode != 0 and not proc.stdout.strip():
+        return {
+            "ok": False,
+            "error": proc.stderr.strip() or f"exit code {proc.returncode}",
+        }
+    try:
+        raw = json.loads(proc.stdout) if proc.stdout.strip() else {}
+    except json.JSONDecodeError:
+        return {"ok": False, "error": f"json decode failed: {proc.stdout[:200]}"}
+    return raw
+
+
+def append_quality_section_to_validator_report(
+    report_text: str,
+    workspace: Path,
+    novel_name: str,
+    layer: str,
+) -> str:
+    """Run quality gate for a specific layer and append the quality section to a validator report.
+
+    If the quality gate script is unavailable or fails, returns the original report unchanged.
+    """
+    if not QUALITY_GATE_SCRIPT.exists():
+        return report_text
+
+    cmd = [
+        "python3", str(QUALITY_GATE_SCRIPT),
+        "--workspace", str(workspace),
+        "--novel-name", novel_name,
+        "--layer", layer,
+        "--json",
+        "--no-write-report",
+    ]
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    if proc.returncode != 0 or not proc.stdout.strip():
+        return report_text
+
+    try:
+        qr = json.loads(proc.stdout)
+    except json.JSONDecodeError:
+        return report_text
+
+    lr = qr.get("layer_results", {}).get(layer)
+    if not lr:
+        return report_text
+
+    score = lr.get("score", "N/A")
+    issues = lr.get("issues", [])
+    all_issues = qr.get("all_issues", [])
+
+    quality_section = [
+        "",
+        "---",
+        "",
+        "## 质量门评估（Quality Gate）",
+        "",
+        f"- 本层质量评分：**{score}/100** {'✅ 通过' if lr.get('ok') else '⚠️ 未通过'}",
+    ]
+
+    # 层特定问题
+    if issues:
+        quality_section.append("")
+        quality_section.append("### 本层质量问题")
+        for issue in issues:
+            quality_section.append(f"- ⚠️ {issue}")
+
+    # 跨层问题（仅与该层相关的）
+    cross = qr.get("cross_layer_consistency", {})
+    cross_conflicts = cross.get("conflicts", [])
+    if cross_conflicts:
+        quality_section.append("")
+        quality_section.append("### 跨层一致性问题")
+        for c in cross_conflicts:
+            sev = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(c.get("severity", ""), "⚪")
+            quality_section.append(f"- {sev} {c.get('detail', '')}")
+
+    quality_section.append("")
+    quality_section.append(f"*质量门由 `quality_gate.py --layer {layer}` 自动评估*")
+
+    return report_text.rstrip() + "\n" + "\n".join(quality_section) + "\n"
 
 
 def run_command(cmd: list[str]) -> dict[str, Any]:
@@ -583,6 +675,21 @@ def build_layer_init_command(
             cmd += ["--focus-name", protagonist_name]
         if not bootstrap_protagonist:
             cmd.append("--skip-bootstrap")
+        return cmd
+
+    if layer == "supporting-cast":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+        ]
+        if protagonist_name:
+            cmd += ["--protagonist", protagonist_name]
+        if force:
+            cmd.append("--force")
         return cmd
 
     raise ValueError(f"unsupported layer: {layer}")
@@ -691,6 +798,51 @@ def heuristic_protagonist_status(
     }
 
 
+def heuristic_supporting_cast_status(workspace: Path, novel_name: str, status_path: Path | None) -> dict[str, Any]:
+    files = {
+        "top10_table": workspace / f"{novel_name}-重要配角Top10总表.md",
+        "relation_map": workspace / f"{novel_name}-重要配角与主角关系图.md",
+        "stage_distribution": workspace / f"{novel_name}-重要配角阶段作用分布.md",
+        "index": workspace / "supporting-cast" / "index.md",
+    }
+    profile_files = sorted((workspace / "supporting-cast").glob("*-配角分析.md"))
+    checks = {
+        "top10_table": content_check(files["top10_table"], ["Top 10", "综合分", "结构角色"], minimum=3, min_chars=500),
+        "relation_map": content_check(files["relation_map"], ["关系线总判断", "与主角关系", "结构角色"], minimum=3, min_chars=420),
+        "stage_distribution": content_check(files["stage_distribution"], ["阶段层总判断", "阶段分布", "阶段作用判断"], minimum=3, min_chars=320),
+        "index": content_check(files["index"], ["Top10 文件", "Top 1"], minimum=2, min_chars=120),
+        "profiles": {
+            "exists": bool(profile_files),
+            "content_ok": len(profile_files) >= 10,
+            "reason": "ok" if len(profile_files) >= 10 else "missing_profiles",
+        },
+    }
+    validated = (
+        checks["top10_table"]["content_ok"]
+        and checks["relation_map"]["content_ok"]
+        and checks["stage_distribution"]["content_ok"]
+        and checks["index"]["content_ok"]
+        and checks["profiles"]["content_ok"]
+    )
+    completion_label = "重要配角 Top10 已明确" if validated else "重要配角 Top10 仍不足"
+    resolved_files = {key: str(path) for key, path in files.items() if path.exists()}
+    if profile_files:
+        resolved_files["profiles"] = str((workspace / "supporting-cast").resolve())
+    return {
+        "layer": "supporting-cast",
+        "label": LAYER_LABELS["supporting-cast"],
+        "exists": any(value["exists"] for value in checks.values()),
+        "validated": validated,
+        "has_placeholders": any(bool(value.get("placeholder_hits")) for value in checks.values() if isinstance(value, dict)),
+        "completion_label": completion_label,
+        "reason": "heuristic",
+        "files": resolved_files,
+        "checks": checks,
+        "validator_report": None,
+        "validator_summary": {"profile_count": len(profile_files)},
+    }
+
+
 def heuristic_outline_status(workspace: Path, novel_name: str, status_path: Path | None) -> dict[str, Any]:
     files = {
         "overview": workspace / f"{novel_name}-大纲总览.md",
@@ -759,6 +911,8 @@ def detect_layer_status(
                 continue
         if layer == "protagonist":
             result[layer] = heuristic_protagonist_status(workspace, novel_name, protagonist_name, status_path)
+        elif layer == "supporting-cast":
+            result[layer] = heuristic_supporting_cast_status(workspace, novel_name, status_path)
         elif layer == "outline":
             result[layer] = heuristic_outline_status(workspace, novel_name, status_path)
         elif layer == "chapter-distillation":
@@ -880,7 +1034,7 @@ def recommend_next_action(layer_status: dict[str, Any], is_long_novel: bool) -> 
         "recommended_mode": "validate-only",
         "recommended_next_layer": None,
         "recommended_skill": None,
-        "recommended_next_step": "五层当前都已达成可用状态；建议只做验收、交接或继续深拆项目内容。",
+        "recommended_next_step": "六层当前都已达成可用状态；建议只做验收、交接或继续深拆项目内容。",
         "optional_backfill_layers": optional_backfill_layers,
     }
 
@@ -898,9 +1052,6 @@ def build_repair_plan(status: dict[str, Any]) -> dict[str, Any] | None:
     failed_checks = item.get("failed_checks", [])
     repair_targets = item.get("repair_targets", [])
     context_files = [str(path) for _label, path in _candidate_context_files(status, target_layer)[:6]]
-    target_files = [str(path) for _label, path in layer_target_files(status, target_layer)]
-    prompt_template = prompt_template_path(target_layer)
-    ai_fill_brief = ai_fill_brief_path(Path(status["workspace_path"]), target_layer)
     summary_parts = []
     if failed_checks:
         summary_parts.append(
@@ -919,11 +1070,6 @@ def build_repair_plan(status: dict[str, Any]) -> dict[str, Any] | None:
         "failed_checks": failed_checks,
         "repair_targets": repair_targets,
         "context_files": context_files,
-        "target_files": target_files,
-        "validator_focus": [failure["label"] for failure in failed_checks] or [check_label(target_layer, key) for key in item.get("checks", {})],
-        "read_first_files": context_files[:4],
-        "prompt_template": str(prompt_template) if prompt_template.exists() else None,
-        "suggested_ai_fill_brief": str(ai_fill_brief),
         "suggested_context_file": str(Path(status["workspace_path"]) / f"workspace-context-{target_layer}.md"),
         "suggested_repair_note": str(Path(status["workspace_path"]) / "workspace-repair-plan.md"),
     }
@@ -975,18 +1121,6 @@ def collect_workspace_status(
         "updated_at": datetime.now().isoformat(timespec="seconds"),
         "layer_status": layer_status,
     }
-    if recommendation["recommended_next_layer"]:
-        recommended_layer = recommendation["recommended_next_layer"]
-        status["suggested_context_file"] = str(workspace / f"workspace-context-{recommended_layer}.md")
-        status["suggested_ai_fill_brief"] = str(ai_fill_brief_path(workspace, recommended_layer))
-        template_path = prompt_template_path(recommended_layer)
-        status["suggested_prompt_template"] = str(template_path) if template_path.exists() else None
-        status["suggested_target_files"] = [str(path) for _label, path in layer_target_files(status, recommended_layer)]
-    else:
-        status["suggested_context_file"] = None
-        status["suggested_ai_fill_brief"] = None
-        status["suggested_prompt_template"] = None
-        status["suggested_target_files"] = []
     status["repair_plan"] = build_repair_plan(status)
     return status
 
@@ -996,7 +1130,7 @@ def summarize_current_judgement(status: dict[str, Any]) -> str:
     protagonist_status = status["layer_status"]["protagonist"]
     if protagonist_status["validated"]:
         parts.append(protagonist_status["completion_label"])
-    for layer in ("chapter-distillation", "opening", "outline", "highlight"):
+    for layer in ("chapter-distillation", "opening", "supporting-cast", "outline", "highlight"):
         item = status["layer_status"][layer]
         if item["validated"]:
             parts.append(LAYER_VALIDATED_TAGS[layer])
@@ -1019,7 +1153,7 @@ def _prefer_report_or_file(item: dict[str, Any]) -> Path | None:
     report = item.get("validator_report")
     if report:
         return Path(report)
-    for preferred_key in ("index", "final_card", "core_overview", "overview", "top10_table", "total_judgment"):
+    for preferred_key in ("index", "final_card", "core_overview", "top10_table", "overview", "total_judgment"):
         if preferred_key in item.get("files", {}):
             return Path(item["files"][preferred_key])
     for path in item.get("files", {}).values():
@@ -1054,7 +1188,6 @@ def render_workspace_handoff(
     executed_mode: str | None = None,
     execution_results: list[dict[str, Any]] | None = None,
     context_path: Path | None = None,
-    ai_fill_path: Path | None = None,
 ) -> str:
     novel_name = status["novel_name"]
     judgment = summarize_current_judgement(status)
@@ -1071,8 +1204,6 @@ def render_workspace_handoff(
     ]
     if context_path:
         lines.append(f"- 已生成上下文文件：`{context_path.name}`")
-    if ai_fill_path:
-        lines.append(f"- 已生成 AI 填写说明：`{ai_fill_path.name}`")
     if execution_results:
         lines.extend(["", "## 本轮执行记录", ""])
         for item in execution_results:
@@ -1080,15 +1211,6 @@ def render_workspace_handoff(
             layer = item.get("layer", "unknown")
             state = "成功" if item.get("ok") else "失败"
             lines.append(f"- `{action}` / `{layer}`：{state}（exit {item.get('returncode', '?')}）")
-        lines.extend(
-            [
-                "",
-                "## 本轮动作边界",
-                "",
-                "- 本轮脚本动作只负责 `init/scaffold + validator refresh + handoff writeback`。",
-                "- 如果目标层还只是骨架或占位内容，下一步必须进入 AI 填写与修补循环。",
-            ]
-        )
 
     lines.extend(["", "## 当前状态判断", ""])
     for layer in LAYER_ORDER:
@@ -1112,10 +1234,6 @@ def render_workspace_handoff(
     if status["optional_backfill_layers"]:
         lines.append(
             f"2. 可选回补层：`{', '.join(status['optional_backfill_layers'])}`，用于增强前置校准稳定性。"
-        )
-    if target_layer:
-        lines.append(
-            f"3. 对 `{target_layer}` 进入 AI 填写：先看 `workspace-context-{target_layer}.md`，再填目标文件，最后重跑 validator。"
         )
     priority_read = choose_priority_read_path(status, target_layer)
     lines.extend(
@@ -1279,7 +1397,6 @@ def render_gap_report(status: dict[str, Any]) -> str:
                 "",
                 f"- 目标层：`{repair_plan['target_layer']}` / `{repair_plan['target_label']}`",
                 f"- 进入原因：{repair_plan['reason']}",
-                f"- 建议 AI 填写说明：`{Path(repair_plan['suggested_ai_fill_brief']).name}`",
             ]
         )
         for target in repair_plan["repair_targets"]:
@@ -1288,9 +1405,15 @@ def render_gap_report(status: dict[str, Any]) -> str:
     for layer in LAYER_ORDER:
         item = status["layer_status"][layer]
         state = "通过" if item["validated"] else ("仅存在" if item["exists"] else "缺失")
+        quality_info = item.get("quality", {})
+        quality_line = ""
+        if quality_info and quality_info.get("score") is not None:
+            qs = quality_info["score"]
+            q_icon = "✅" if qs >= 75 else ("⚠️" if qs >= 60 else "❌")
+            quality_line = f" | 质量评分：{q_icon} {qs}/100"
         lines.append(f"### {item['label']} / `{layer}`")
         lines.append("")
-        lines.append(f"- 当前状态：`{state}`")
+        lines.append(f"- 当前状态：`{state}`{quality_line}")
         lines.append(f"- 完成标签：`{item['completion_label']}`")
         lines.append(f"- 判断来源：`{item['reason']}`")
         if item["files"]:
@@ -1303,9 +1426,12 @@ def render_gap_report(status: dict[str, Any]) -> str:
             lines.append(f"- 主要缺口：`{' | '.join(failed_checks[:5])}`")
         if item.get("repair_targets"):
             lines.append(f"- 修复动作：`{' | '.join(item['repair_targets'][:4])}`")
-        target_files = [path.name for _label, path in layer_target_files(status, layer)[:4]]
-        if target_files:
-            lines.append(f"- 优先编辑文件：`{' | '.join(target_files)}`")
+        # 质量门问题
+        quality_issues = quality_info.get("issues", [])
+        if quality_issues:
+            lines.append(f"- 质量门问题：")
+            for qi in quality_issues[:3]:
+                lines.append(f"  - {qi}")
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
@@ -1321,8 +1447,6 @@ def render_repair_plan(status: dict[str, Any]) -> str:
         f"- 目标层：`{repair_plan['target_layer']}` / `{repair_plan['target_label']}`",
         f"- 模式：`{repair_plan['mode']}`",
         f"- 原因：{repair_plan['reason']}",
-        f"- 建议上下文文件：`{Path(repair_plan['suggested_context_file']).name}`",
-        f"- 建议 AI 填写说明：`{Path(repair_plan['suggested_ai_fill_brief']).name}`",
         "",
         "## 修复动作",
         "",
@@ -1337,51 +1461,12 @@ def render_repair_plan(status: dict[str, Any]) -> str:
                 line += f"；文件：`{Path(failure['file']).name}`"
             if failure.get("placeholder_hits"):
                 line += f"；占位：`{', '.join(failure['placeholder_hits'])}`"
-            if failure.get("repair_hint"):
-                line += f"；建议：{failure['repair_hint']}"
             lines.append(line)
-    if repair_plan.get("target_files"):
-        lines.extend(["", "## 优先编辑文件", ""])
-        for path in repair_plan["target_files"]:
-            lines.append(f"- `{Path(path).name}`")
     if repair_plan["context_files"]:
         lines.extend(["", "## 推荐先读", ""])
         for path in repair_plan["context_files"]:
             lines.append(f"- `{Path(path).name}`")
-    if repair_plan.get("validator_focus"):
-        lines.extend(["", "## Validator 关注点", ""])
-        for item in repair_plan["validator_focus"]:
-            lines.append(f"- `{item}`")
     return "\n".join(lines).rstrip() + "\n"
-
-
-def layer_target_files(status: dict[str, Any], target_layer: str) -> list[tuple[str, Path]]:
-    workspace = Path(status["workspace_path"])
-    novel_name = status["novel_name"]
-    item = status["layer_status"][target_layer]
-    files = item.get("files", {})
-    targets: list[tuple[str, Path]] = []
-    for key in item.get("checks", {}):
-        if key in {"project_entry", "handoff"}:
-            continue
-        if key in files and isinstance(files[key], str):
-            targets.append((check_label(target_layer, key), Path(files[key])))
-            continue
-        inferred_name = _infer_layer_file_name(target_layer, key, novel_name)
-        if inferred_name == key:
-            continue
-        inferred_path = workspace / inferred_name
-        if target_layer == "protagonist" and key in {"final_card", "index", "core_overview"} and not status.get("protagonist_name"):
-            continue
-        targets.append((check_label(target_layer, key), inferred_path))
-    deduped: list[tuple[str, Path]] = []
-    seen: set[Path] = set()
-    for label, path in targets:
-        if path in seen:
-            continue
-        deduped.append((label, path))
-        seen.add(path)
-    return deduped
 
 
 def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[tuple[str, Path]]:
@@ -1389,6 +1474,7 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
     novel_name = status["novel_name"]
     latest_status = latest_status_file(workspace)
     protagonist_files = status["layer_status"]["protagonist"]["files"]
+    supporting_files = status["layer_status"]["supporting-cast"]["files"]
     outline_files = status["layer_status"]["outline"]["files"]
 
     candidates: list[tuple[str, Path | None]] = [
@@ -1414,6 +1500,16 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
                 ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
             ]
         )
+    elif target_layer == "supporting-cast":
+        candidates.extend(
+            [
+                ("merged_characters", workspace / "work" / "merged" / "characters.json"),
+                ("cards_index", workspace / "work" / "cards" / "index.md"),
+                ("protagonist_index", Path(protagonist_files["index"])) if "index" in protagonist_files else ("protagonist_index", None),
+                ("final_card", Path(protagonist_files["final_card"])) if "final_card" in protagonist_files else ("final_card", None),
+                ("anchor", Path(protagonist_files["anchor"])) if "anchor" in protagonist_files else ("anchor", workspace / f"{novel_name}-主角锚点与骨架.md"),
+            ]
+        )
     elif target_layer == "outline":
         candidates.extend(
             [
@@ -1421,6 +1517,8 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
                 ("final_card", Path(protagonist_files["final_card"])) if "final_card" in protagonist_files else ("final_card", None),
                 ("core_overview", Path(protagonist_files["core_overview"])) if "core_overview" in protagonist_files else ("core_overview", None),
                 ("essence_summary", Path(protagonist_files["essence_summary"])) if "essence_summary" in protagonist_files else ("essence_summary", None),
+                ("supporting_top10", Path(supporting_files["top10_table"])) if "top10_table" in supporting_files else ("supporting_top10", None),
+                ("supporting_relations", Path(supporting_files["relation_map"])) if "relation_map" in supporting_files else ("supporting_relations", None),
                 ("opening_total", workspace / f"{novel_name}-黄金前三章总判断.md"),
             ]
         )
@@ -1430,6 +1528,7 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
                 ("outline_overview", Path(outline_files["overview"])) if "overview" in outline_files else ("outline_overview", None),
                 ("outline_stages", Path(outline_files["stages"])) if "stages" in outline_files else ("outline_stages", None),
                 ("outline_lines", Path(outline_files["lines"])) if "lines" in outline_files else ("outline_lines", None),
+                ("supporting_top10", Path(supporting_files["top10_table"])) if "top10_table" in supporting_files else ("supporting_top10", None),
                 ("protagonist_index", Path(protagonist_files["index"])) if "index" in protagonist_files else ("protagonist_index", None),
                 ("core_overview", Path(protagonist_files["core_overview"])) if "core_overview" in protagonist_files else ("core_overview", None),
                 ("opening_total", workspace / f"{novel_name}-黄金前三章总判断.md"),
@@ -1476,69 +1575,6 @@ def summarize_path(path: Path, max_lines: int = 18, max_chars: int = 1800) -> st
     return "\n".join(non_empty[:max_lines])[:max_chars]
 
 
-def build_ai_fill_brief(status: dict[str, Any], target_layer: str, context_path: Path | None = None) -> str:
-    if target_layer not in LAYER_ORDER:
-        raise ValueError(f"unknown target layer: {target_layer}")
-    workspace = Path(status["workspace_path"])
-    layer_item = status["layer_status"][target_layer]
-    target_files = layer_target_files(status, target_layer)
-    context_files = _candidate_context_files(status, target_layer)
-    prompt_path = prompt_template_path(target_layer)
-    lines = [
-        f"# {LAYER_LABELS[target_layer]} AI 填写说明",
-        "",
-        f"- 工作区：`{workspace}`",
-        f"- 小说名：`{status['novel_name']}`",
-        f"- 目标层：`{target_layer}`",
-        f"- 当前模式：`{status['recommended_mode']}`",
-        f"- 目标：{LAYER_GOALS[target_layer]}",
-        "",
-        "## 先说明白",
-        "",
-        "- `--execute` 只负责初始化、校验刷新和交接写回，不等于该层已经写完。",
-        "- 这一轮真正的核心动作，是让 AI 读取上下文与原文，把占位框架补成可校验内容。",
-        "",
-        "## 本轮建议顺序",
-        "",
-        "1. 先读上下文文件和上游复用文件。",
-        "2. 再打开本层目标文件逐个填充。",
-        "3. 必要时回原文核对事实、阶段、事件与章节位置。",
-        "4. 填完后重跑 validator，再根据 gap report 修补。",
-    ]
-    if context_path:
-        lines.extend(["", "## 上下文文件", "", f"- `{context_path.name}`"])
-    if target_files:
-        lines.extend(["", "## 本层目标文件", ""])
-        for label, path in target_files:
-            lines.append(f"- `{path.name}`：{label}")
-    if context_files:
-        lines.extend(["", "## 优先复用文件", ""])
-        for label, path in context_files[:8]:
-            lines.append(f"- `{path.name}`：{label}")
-    lines.extend(["", "## 回原文时重点确认", ""])
-    for item in LAYER_SOURCE_RECHECK_RULES[target_layer]:
-        lines.append(f"- {item}")
-    lines.extend(["", "## Validator 重点", ""])
-    if layer_item.get("failed_checks"):
-        for failure in layer_item["failed_checks"]:
-            lines.append(f"- `{failure['label']}`：当前问题是 `{failure['reason']}`")
-    else:
-        for key in layer_item.get("checks", {}):
-            lines.append(f"- `{check_label(target_layer, key)}`")
-    if prompt_path.exists():
-        lines.extend(["", "## Prompt 模板", "", f"- `{prompt_path}`"])
-    lines.extend(
-        [
-            "",
-            "## 收尾动作",
-            "",
-            f"1. 运行 `python3 novel-workspace-orchestrator-skill/scripts/workspace-gap-report.py --workspace {workspace}`",
-            f"2. 如果仍有缺口，再运行 `python3 novel-workspace-orchestrator-skill/scripts/prepare_ai_fill.py --workspace {workspace} --target-layer {target_layer}` 重新生成填写说明。",
-        ]
-    )
-    return "\n".join(lines).rstrip() + "\n"
-
-
 def build_layer_context(status: dict[str, Any], target_layer: str) -> str:
     if target_layer not in LAYER_ORDER:
         raise ValueError(f"unknown target layer: {target_layer}")
@@ -1550,10 +1586,6 @@ def build_layer_context(status: dict[str, Any], target_layer: str) -> str:
         f"- 小说名：`{status['novel_name']}`",
         f"- 目标层：`{target_layer}`",
         f"- 推荐原因：{status['recommended_next_step']}",
-        "",
-        "## 本层目标",
-        "",
-        f"- {LAYER_GOALS[target_layer]}",
         "",
         "## 当前全局状态",
         "",
@@ -1571,27 +1603,10 @@ def build_layer_context(status: dict[str, Any], target_layer: str) -> str:
                 "",
             ]
         )
-    target_files = layer_target_files(status, target_layer)
-    if target_files:
-        lines.extend(["## 本层要编辑的文件", ""])
-        for label, path in target_files:
-            lines.append(f"- `{path.name}`：{label}")
-        lines.append("")
-    lines.extend(["## Validator 关注点", ""])
-    if layer_item.get("failed_checks"):
-        for failure in layer_item["failed_checks"]:
-            lines.append(f"- `{failure['label']}`：`{failure['reason']}`")
-    else:
-        for key in layer_item.get("checks", {}):
-            lines.append(f"- `{check_label(target_layer, key)}`")
-    lines.extend(["", "## 回原文时重点确认", ""])
-    for item in LAYER_SOURCE_RECHECK_RULES[target_layer]:
-        lines.append(f"- {item}")
-    lines.append("")
     lines.extend(
         [
-            "## 选取文件",
-            "",
+        "## 选取文件",
+        "",
         ]
     )
     for label, path in _candidate_context_files(status, target_layer):
@@ -1606,7 +1621,6 @@ def render_pipeline_report(
     status: dict[str, Any],
     target_layer: str | None,
     context_path: Path | None,
-    ai_fill_path: Path | None = None,
     execution_results: list[dict[str, Any]] | None = None,
     handoff_path: Path | None = None,
     current_status_path: Path | None = None,
@@ -1627,8 +1641,6 @@ def render_pipeline_report(
     ]
     if context_path:
         lines.append(f"- 已生成上下文文件：`{context_path}`")
-    if ai_fill_path:
-        lines.append(f"- 已生成 AI 填写说明：`{ai_fill_path}`")
     if handoff_path:
         lines.append(f"- 已写回工作状态：`{handoff_path}`")
     if current_status_path:
@@ -1642,15 +1654,6 @@ def render_pipeline_report(
             layer = item.get("layer", "unknown")
             state = "成功" if item.get("ok") else "失败"
             lines.append(f"- `{action}` / `{layer}`：{state}（exit {item.get('returncode', '?')}）")
-        lines.extend(
-            [
-                "",
-                "## 执行动作边界",
-                "",
-                "- 本轮 `--execute` 只运行了该层的 init/scaffold 脚本。",
-                "- 这不代表分析已经完成；下一步仍需 AI 按上下文文件填写目标层内容。",
-            ]
-        )
     if status.get("repair_plan"):
         repair_plan = status["repair_plan"]
         lines.extend(
@@ -1664,22 +1667,6 @@ def render_pipeline_report(
         )
         for target in repair_plan["repair_targets"]:
             lines.append(f"- {target}")
-    if target_layer:
-        lines.extend(
-            [
-                "",
-                "## 下一步 AI 填写",
-                "",
-                f"- 建议先读：`workspace-context-{target_layer}.md`",
-                f"- 建议再读：`workspace-ai-fill-{target_layer}.md`",
-            ]
-        )
-        prompt_path = prompt_template_path(target_layer)
-        if prompt_path.exists():
-            lines.append(f"- Prompt 模板：`{prompt_path}`")
-        target_file_names = [path.name for _label, path in layer_target_files(status, target_layer)[:6]]
-        if target_file_names:
-            lines.append(f"- 目标文件：`{' | '.join(target_file_names)}`")
     lines.extend(
         [
             "",

@@ -1,0 +1,454 @@
+{
+  "chunk_id": "chunk-0499",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "跟随队伍进入血腥王座，谨慎观察周围环境。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "冷静"
+      ],
+      "abilities": [
+        "眼中蓝光闪烁（可能为某种侦测能力）"
+      ],
+      "equipment": [
+        "腰刀"
+      ],
+      "relationships": [
+        {
+          "target": "碧姬",
+          "type": "同行者"
+        },
+        {
+          "target": "贾斯汀",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "进入血腥王座，穿过空腔人餐桌区域。"
+        }
+      ],
+      "evidence": [
+        "安格列跟在身后，感觉红光照在身上，一阵暖洋洋的很是舒服。",
+        "安格列带着碧姬和贾斯汀两人走在一起。",
+        "安格列眼中蓝光不断闪烁，这才直接走向空隙。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "恩娜",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "队伍中的领导者之一，负责指挥行动。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安奴拉",
+          "type": "同伴"
+        },
+        {
+          "target": "西曼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领队伍进入血腥王座，识别出空腔人。"
+        }
+      ],
+      "evidence": [
+        "队伍前方的恩娜扫了眼光球。",
+        "恩娜也脸色有些难看，点点头：'应该是，大家注意，别靠近餐桌太近。'",
+        "恩娜举手止住一些想要开口发言的巫师。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "西曼",
+      "aliases": [
+        "神秘老人"
+      ],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "队伍中的老者，提供知识和辅助。",
+      "appearance": [
+        "老人"
+      ],
+      "personality": [
+        "谨慎",
+        "博学"
+      ],
+      "abilities": [
+        "使用土黄色粉末隐身"
+      ],
+      "equipment": [
+        "腰囊",
+        "黑拐杖"
+      ],
+      "relationships": [
+        {
+          "target": "恩娜",
+          "type": "同伴"
+        },
+        {
+          "target": "安奴拉",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为队伍施加隐身粉末，提醒空腔人的危险。"
+        }
+      ],
+      "evidence": [
+        "走在队伍前边的神秘老人西曼，扬起手止住所有人的脚步。",
+        "他从腰囊中取出一个土黄色小包，轻轻打开，从里面抓了一把土黄色粉末往前一撒。",
+        "老人西曼低声提醒：'诸位小心，空腔人的餐桌一旦靠得太近...'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "安奴拉",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "队伍中的巫师，尝试攻击空腔人未果。",
+      "appearance": [],
+      "personality": [
+        "急躁"
+      ],
+      "abilities": [
+        "掌心泛黄光，释放黄色光球"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "恩娜",
+          "type": "同伴"
+        },
+        {
+          "target": "西曼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "尝试攻击空腔人，发现无效。"
+        }
+      ],
+      "evidence": [
+        "走在最前面的安奴拉冷哼一声，伸手对着最近一张餐桌一抓。",
+        "他轻咦一声，右手掌心泛起淡淡黄光，往前正对餐桌。",
+        "安奴拉脸色有些难看了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "碧姬",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与安格列同行的女巫师。",
+      "appearance": [],
+      "personality": [
+        "冷笑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随安格列穿过空腔人餐桌。"
+        }
+      ],
+      "evidence": [
+        "安格列带着碧姬和贾斯汀两人走在一起。",
+        "碧姬冷笑起来，大步走过去，侧身从两个空腔人背部之间走过去，没有任何事。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "贾斯汀",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与安格列同行的男巫师。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "传记忆给红发女巫"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同行者"
+        },
+        {
+          "target": "红发女巫",
+          "type": "传记忆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列一起穿过空腔人餐桌。"
+        }
+      ],
+      "evidence": [
+        "安格列带着碧姬和贾斯汀两人走在一起。",
+        "身边的贾斯汀沉声问。",
+        "红发女巫一直没说话，现在才生涩的用梅地亚语出声。'不好意思，刚才一直在适应贾斯汀传给我的梅地亚语记忆。'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "红发女巫",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "队伍中的女巫师，红发，刚获得梅地亚语记忆。",
+      "appearance": [
+        "红发"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "贾斯汀",
+          "type": "接受记忆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "跟随队伍，适应新获得的语言记忆。"
+        }
+      ],
+      "evidence": [
+        "红发女巫一直没说话，现在才生涩的用梅地亚语出声。'不好意思，刚才一直在适应贾斯汀传给我的梅地亚语记忆。'"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "维拉",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "认出餐桌上的尸体是黑巫塔统领艾赫利。",
+      "appearance": [],
+      "personality": [
+        "惊讶"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "艾赫利",
+          "type": "前交战对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "指出餐桌上的尸体是艾赫利。"
+        }
+      ],
+      "evidence": [
+        "'不对！！'忽然有巫师惊呼起来。'这个人我认识！！他是艾赫利！！前天才和我交战过一次！'",
+        "被叫做维拉的巫师面色发白，'他左耳当时在激战中差点被我切下来...'"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "艾赫利",
+      "aliases": [],
+      "identity": "黑巫塔统领",
+      "faction": "黑巫塔",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "黑巫塔统领，尸体出现在血腥王座的餐桌上。",
+      "appearance": [
+        "左耳有伤疤"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "维拉",
+          "type": "前交战对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "尸体被维拉认出。"
+        }
+      ],
+      "evidence": [
+        "'这个人我认识！！他是艾赫利！！前天才和我交战过一次！'",
+        "果然看到餐桌上的那具尸体左耳部有着一道明显的红色伤疤"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "黑袍女巫",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "尝试用蜈蚣攻击空腔人未果。",
+      "appearance": [
+        "黑袍"
+      ],
+      "personality": [],
+      "abilities": [
+        "操控红色蜈蚣"
+      ],
+      "equipment": [
+        "红色蜈蚣"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "尝试攻击空腔人，失败。"
+        }
+      ],
+      "evidence": [
+        "一个黑袍女巫站出来，宽大的袖口一扬，里面飞出两条手臂粗的红色蜈蚣，直接咬向最近的餐桌边一个空腔人的脖子。",
+        "女巫脸色一沉，召回两条蜈蚣，收回袖子。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "络腮胡男子",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与维拉同行的巫师。",
+      "appearance": [
+        "络腮胡"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "维拉",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "质疑维拉的判断。"
+        }
+      ],
+      "evidence": [
+        "'维拉你看错了吧，艾赫利可是黑巫塔统领，怎么会死在这种地方？'巫师身边一个络腮胡男子脸色低沉。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "瘦弱男巫师",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "提议撤退的巫师。",
+      "appearance": [
+        "瘦弱"
+      ],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议撤退。"
+        }
+      ],
+      "evidence": [
+        "一个瘦弱的男巫师站出来低声问。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "两个白袍巫师",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "黎明巫师",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "尝试飞行通过空隙未果。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [
+        "飞行"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "尝试飞行通过餐桌空隙，失败。"
+        }
+      ],
+      "evidence": [
+        "空隙前边站了两个白袍巫师，也是踟蹰不前。",
+        "另一人点点头，脚下一跺，整个人顿时轻飘飘的上浮起来，往前飞去。刚刚飞起来不到一秒，那名巫师便陡然失去浮力，掉落在地一个踉跄。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

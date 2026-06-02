@@ -1,0 +1,236 @@
+{
+  "chunk_id": "chunk-0483",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "独行武序",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "独行武序，桀骜不驯，有情有义，被徐海潮代表的势力看重并试图拉拢。",
+      "appearance": [],
+      "personality": [
+        "桀骜",
+        "冷静",
+        "有情有义"
+      ],
+      "abilities": [],
+      "equipment": [
+        "刀"
+      ],
+      "relationships": [
+        {
+          "target": "徐海潮",
+          "type": "对话与拉拢"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在江户城与徐海潮投影对话，拒绝其拉拢。"
+        }
+      ],
+      "evidence": [
+        "李钧坐进那把高椅之中，刀尖杵地，双手交叠于刀柄之上。",
+        "李钧双眼目光如灼，有豪气也有匪意。",
+        "你是一个很有潜力的人，更关键的是你有情有义。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "徐海潮",
+      "aliases": [
+        "徐大人"
+      ],
+      "identity": "倭区宣慰使，儒序势力代表",
+      "faction": "春秋会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "倭区宣慰使，代表一个不属于门阀的势力（春秋会）来拉拢李钧。",
+      "appearance": [],
+      "personality": [
+        "欣赏李钧",
+        "慷慨激昂",
+        "老谋深算"
+      ],
+      "abilities": [
+        "投影"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "拉拢对象"
+        },
+        {
+          "target": "张峰岳",
+          "type": "敌对"
+        },
+        {
+          "target": "周鹤羽",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "投影与李钧对话，试图拉拢其加入春秋会。"
+        }
+      ],
+      "evidence": [
+        "堂堂倭区宣慰使，专门投影过来",
+        "徐海潮不是一个人，而是一个势力的代表",
+        "来见你，是我们共同的决议。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "周鹤羽",
+      "aliases": [],
+      "identity": "儒序成员，汝南周阀",
+      "faction": "汝南周阀",
+      "status": "已死",
+      "first_appearance": "",
+      "summary": "被李钧所杀，死状屈辱，引发周阀仇恨。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前之前",
+          "event": "被李钧杀死。"
+        }
+      ],
+      "evidence": [
+        "周鹤羽虽然在儒序内算不上什么重要人物，但他身后毕竟站着汝南周阀。",
+        "让他死的像狗一样屈辱"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "首辅大人"
+      ],
+      "identity": "大明帝国首辅，儒序二",
+      "faction": "儒序",
+      "status": "在世",
+      "first_appearance": "",
+      "summary": "大明首辅，儒序二，活近三个甲子，推行新政以求破锁晋序。",
+      "appearance": [],
+      "personality": [
+        "老谋深算",
+        "野心勃勃"
+      ],
+      "abilities": [
+        "儒序二"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "徐海潮",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被徐海潮提及，作为儒序老朽代表。"
+        }
+      ],
+      "evidence": [
+        "大明帝国首辅张峰岳。",
+        "如今张峰岳真实的序位已经是儒序二",
+        "近乎三个甲子！"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "裴行俭",
+      "aliases": [],
+      "identity": "先行之师",
+      "faction": "",
+      "status": "在世（年老）",
+      "first_appearance": "",
+      "summary": "被徐海潮敬佩的人物，行事偏激。",
+      "appearance": [],
+      "personality": [
+        "偏激"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "我很敬佩裴行俭，他可以说是我们这群人先行之师。",
+        "可惜他也老了，行事作风变得太过偏激。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赵鼎",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "已故（推测）",
+      "first_appearance": "",
+      "summary": "李钧提及的人物，可能为武序中人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "有没有听过一个叫赵鼎的名字"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "况青云",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "已故（推测）",
+      "first_appearance": "",
+      "summary": "李钧提及的人物，可能为武序中人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "知不知道谁是况青云"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "燕八荒",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "已故（推测）",
+      "first_appearance": "",
+      "summary": "李钧提及的人物，可能为武序中人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "知不知道谁是燕八荒"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

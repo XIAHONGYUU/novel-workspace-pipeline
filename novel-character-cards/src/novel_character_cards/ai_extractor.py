@@ -168,8 +168,9 @@ def _schema_to_description() -> str:
         "",
         "```json",
         "{",
-        '  "chunk_id": "字符串，从用户消息中获取',
+        '  "chunk_id": "字符串，从用户消息中获取",'
         '  "characters": [',
+
         "    {",
     ]
     for field in required:
@@ -218,16 +219,37 @@ DEEPSEEK_SYSTEM_PROMPT_TEMPLATE = """你是一个小说人物信息抽取助手�
 
 
 def _extract_deepseek_json(text: str) -> str:
-    """Extract JSON from DeepSeek response, handling markdown code blocks."""
+    """Extract JSON from DeepSeek response, handling markdown code blocks and truncated JSON."""
     text = text.strip()
+    # Try to extract from markdown code block
     code_block = re.search(r"```(?:json)?\s*\n(.*?)\n```", text, re.DOTALL)
     if code_block:
         return code_block.group(1).strip()
+    # Try to find the outermost JSON object
     brace_start = text.find("{")
     brace_end = text.rfind("}")
     if brace_start != -1 and brace_end != -1 and brace_end > brace_start:
         return text[brace_start:brace_end + 1]
     return text
+
+
+def _repair_truncated_json(text: str) -> str:
+    """Attempt to repair truncated JSON by closing open brackets and strings."""
+    # Count open/close braces and brackets
+    open_braces = text.count("{") - text.count("}")
+    open_brackets = text.count("[") - text.count("]")
+
+    # Check if the last non-whitespace char looks like an incomplete string or value
+    stripped = text.rstrip()
+    if stripped.endswith(","):
+        # Remove trailing comma before closing
+        stripped = stripped[:-1]
+
+    # Close any open structures
+    repaired = stripped
+    repaired += "]" * open_brackets
+    repaired += "}" * open_braces
+    return repaired
 
 
 def extract_with_deepseek(
@@ -269,7 +291,7 @@ def extract_with_deepseek(
         ],
         "response_format": {"type": "json_object"},
         "temperature": 0.1,
-        "max_tokens": 4096,
+        "max_tokens": 8192,
     }
 
     req = request.Request(
@@ -307,11 +329,16 @@ def extract_with_deepseek(
     json_text = _extract_deepseek_json(content)
     try:
         parsed = json.loads(json_text)
-    except json.JSONDecodeError as exc:
-        raise ValueError(
-            f"Failed to parse DeepSeek JSON response. "
-            f"Raw content (first 500 chars): {content[:500]}"
-        ) from exc
+    except json.JSONDecodeError:
+        # Attempt to repair truncated JSON
+        repaired = _repair_truncated_json(json_text)
+        try:
+            parsed = json.loads(repaired)
+        except json.JSONDecodeError as exc:
+            raise ValueError(
+                f"Failed to parse DeepSeek JSON response even after repair. "
+                f"Raw content (first 500 chars): {content[:500]}"
+            ) from exc
 
     parsed["chunk_id"] = chunk.chunk_id
     return parsed

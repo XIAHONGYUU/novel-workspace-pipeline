@@ -1,0 +1,395 @@
+{
+  "chunk_id": "chunk-0546",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "核心人物，正在行进中，拥有空间镜和火鸟凤凰，擅长药剂。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有歉意"
+      ],
+      "abilities": [
+        "药剂制作",
+        "召唤火鸟"
+      ],
+      "equipment": [
+        "空间镜",
+        "灰白色试管解药"
+      ],
+      "relationships": [
+        {
+          "target": "薇薇",
+          "type": "母亲"
+        },
+        {
+          "target": "大长老",
+          "type": "长老"
+        },
+        {
+          "target": "二长老门罗",
+          "type": "长老"
+        },
+        {
+          "target": "碧姬",
+          "type": "被试验者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "给碧姬解药，发现大头蛮族"
+        }
+      ],
+      "evidence": [
+        "安格列收集数据差不多了，看碧姬两眼无神一脸崩溃的表情，也微微感觉有些歉意。",
+        "从空间镜中取出一支灰白色试管溶液丢向碧姬。",
+        "我在例行巡视周围的时候发现了一处有趣的地方。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "碧姬",
+      "aliases": [],
+      "identity": "女巫",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被安格列试验药剂的女巫，喝下解药后恢复。",
+      "appearance": [
+        "胸部鼓起",
+        "屁股缩小"
+      ],
+      "personality": [
+        "畏惧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被试验者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "喝下安格列给的解药恢复原状"
+        }
+      ],
+      "evidence": [
+        "碧姬急忙接住试管，拔掉塞子就倒进口中。",
+        "她的胸部终于重新鼓起来，屁股也渐渐缩小恢复原状。",
+        "看向安格列的视线也从比以前多了份畏惧。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "大长老",
+      "aliases": [],
+      "identity": "长老",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "长老之一，拥有空间魔器指环。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "银白指环（空间魔器）"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "长老"
+        },
+        {
+          "target": "二长老门罗",
+          "type": "同僚"
+        },
+        {
+          "target": "薇薇",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "与安格列交谈，发现大头蛮族"
+        }
+      ],
+      "evidence": [
+        "大长老视线落在安格列腰间的黑色镜子上。",
+        "因为我们也有。大长老抬起手晃了晃中指上的银白指环。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "二长老门罗",
+      "aliases": [
+        "二长老"
+      ],
+      "identity": "长老",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "长老之一，出手对付大头蛮族。",
+      "appearance": [],
+      "personality": [
+        "反胃"
+      ],
+      "abilities": [
+        "凝固之手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "长老"
+        },
+        {
+          "target": "大长老",
+          "type": "同僚"
+        },
+        {
+          "target": "薇薇",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "发现大头蛮族并与之对峙"
+        }
+      ],
+      "evidence": [
+        "二长老一脸反胃的捂着嘴走出来。",
+        "二长老抬起手低声念出断句，身前空气迅速凝结成一只透明大手。",
+        "二长老单手一挥，放开凝固之手的控制。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "麦克",
+      "aliases": [
+        "麦克巫师"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "巫师，庆幸自己没有喝下药剂。",
+      "appearance": [],
+      "personality": [
+        "庆幸"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "与安格列交谈后离开"
+        }
+      ],
+      "evidence": [
+        "麦克巫师则是一脸庆幸，吞了吞口水，幸亏刚才他没自己喝下去。",
+        "麦克点点头：那就等着您的佳音了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "薇薇",
+      "aliases": [],
+      "identity": "长老，安格列的母亲",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "长老之一，安格列的母亲，拥有空间魔器指环。",
+      "appearance": [],
+      "personality": [
+        "微笑"
+      ],
+      "abilities": [],
+      "equipment": [
+        "火红色指环（空间魔器）"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "母亲"
+        },
+        {
+          "target": "大长老",
+          "type": "同僚"
+        },
+        {
+          "target": "二长老门罗",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "与安格列交谈，解释大头蛮族"
+        }
+      ],
+      "evidence": [
+        "薇薇也微笑着抬起手晃了晃手上的火红色指环。",
+        "薇薇轻声解释。",
+        "薇薇忍不住低声笑起来。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "大头少女",
+      "aliases": [
+        "罗丝妹妹"
+      ],
+      "identity": "大头蛮族少女",
+      "faction": "大头蛮族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大头蛮族少女，主动道歉并提出做向导。",
+      "appearance": [
+        "脑袋比正常人大四五倍",
+        "衣服装饰华丽"
+      ],
+      "personality": [
+        "有礼有节"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "二长老门罗",
+          "type": "被威慑"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "与二长老对峙后道歉，同意做向导"
+        }
+      ],
+      "evidence": [
+        "大头少女第一个主动出来道歉。",
+        "这个没有任何问题！大头妹顿时脸色一喜。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "黑耀大哥",
+      "aliases": [],
+      "identity": "大头蛮族男性",
+      "faction": "大头蛮族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大头蛮族男性，提议打赌。",
+      "appearance": [
+        "大头"
+      ],
+      "personality": [
+        "自恋"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大头少女",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "提议打赌活捉安格列等人"
+        }
+      ],
+      "evidence": [
+        "黑耀大哥~~大头妹不依的跺脚起来。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "五弟",
+      "aliases": [],
+      "identity": "大头蛮族男性",
+      "faction": "大头蛮族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大头蛮族男性，认出二长老的纹章。",
+      "appearance": [
+        "大头"
+      ],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "大头少女",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "认出二长老纹章并警告同伴"
+        }
+      ],
+      "evidence": [
+        "五弟说笑了，这种蛮荒之地还能出什么强者？",
+        "大家小心，这老头不简单！那种纹章我好像在什么地方见到过！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "阔托斯大海裂龙斩使用者",
+      "aliases": [],
+      "identity": "大头蛮族男性",
+      "faction": "大头蛮族",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大头蛮族男性，使用阔托斯大海裂龙斩攻击二长老，被击退。",
+      "appearance": [
+        "大头"
+      ],
+      "personality": [],
+      "abilities": [
+        "阔托斯大海裂龙斩"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "二长老门罗",
+          "type": "被击败"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "行进中",
+          "event": "攻击二长老被击退"
+        }
+      ],
+      "evidence": [
+        "阔托斯大海裂龙斩！！他暴喝一声，化为一条虚影飞向二长老。",
+        "大头男翻滚着倒飞出去，被一群大头人接住。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

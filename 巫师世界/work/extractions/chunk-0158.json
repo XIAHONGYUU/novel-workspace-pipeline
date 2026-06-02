@@ -1,0 +1,160 @@
+{
+  "chunk_id": "chunk-0158",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "黑巫地巫师",
+      "faction": "黑巫地",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "黑巫地巫师，拥有鹰身女妖之嚎和次级火焰之珠等法术，与液化阶段巫师卡列洛战斗并获胜。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "鹰身女妖之嚎",
+        "次级火焰之珠",
+        "金属操控",
+        "芯片辅助计算"
+      ],
+      "equipment": [
+        "十字剑",
+        "银色长弓"
+      ],
+      "relationships": [
+        {
+          "target": "卡列洛",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在船上与卡列洛战斗，使用鹰身女妖之嚎和次级火焰之珠击败卡列洛，但自身也受伤。"
+        }
+      ],
+      "evidence": [
+        "安格列眉头一皱：“可惜我看不到你的半点诚意。”",
+        "安格列面色平静，猛地冲过去，站在卡列洛原来的位置处，朝着船舷外地方向望去。",
+        "安格列苦笑着，翻过身，仰躺在床上。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "卡列洛",
+      "aliases": [],
+      "identity": "液化阶段巫师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "液化阶段巫师，与安格列战斗，最终被安格列击杀。",
+      "appearance": [
+        "瘦弱黑袍",
+        "皮肤苍白",
+        "眼窝深陷",
+        "黑色短发",
+        "双眼泛绿色荧光"
+      ],
+      "personality": [],
+      "abilities": [
+        "召唤牛头人黑影",
+        "粉红色弯刀刃",
+        "身体化为黑雾转移"
+      ],
+      "equipment": [
+        "粉红色弯刀刃",
+        "黑色巨剑"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在船上与安格列战斗，被次级火焰之珠击中，后试图逃离但被安格列远程射杀。"
+        }
+      ],
+      "evidence": [
+        "卡列洛，这是我的名字。",
+        "卡列洛微笑着张开双臂，做出一个拥抱的姿势。",
+        "不！！！他剧烈地怒吼着。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "牛头人黑影",
+      "aliases": [],
+      "identity": "卡列洛召唤物",
+      "faction": "",
+      "status": "消失",
+      "first_appearance": "",
+      "summary": "卡列洛召唤的牛头人形黑雾，力量强大，被安格列的鹰身女妖之嚎定住后消散。",
+      "appearance": [
+        "牛头人形",
+        "黑雾",
+        "猩红眼睛"
+      ],
+      "personality": [],
+      "abilities": [
+        "力量强大",
+        "使用黑色巨剑"
+      ],
+      "equipment": [
+        "黑色宽刃剑"
+      ],
+      "relationships": [
+        {
+          "target": "卡列洛",
+          "type": "召唤者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被卡列洛召唤攻击安格列，后被鹰身女妖之嚎定住，随卡列洛消散。"
+        }
+      ],
+      "evidence": [
+        "偷袭他的是一头长着牛头的人形黑雾。",
+        "牛头人黑影顿时停滞在原地，动弹不得。",
+        "随着卡列洛的燃烧，牛头黑影顿时缓缓化为无数黑气散去。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "白袍巫师",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "两名白袍巫师，被卡列洛杀死，尸体被安格列带走。",
+      "appearance": [
+        "白袍"
+      ],
+      "personality": [],
+      "abilities": [
+        "防御天赋法术"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已死亡，尸体被安格列拖走。"
+        }
+      ],
+      "evidence": [
+        "他坚持着走到两名白袍的尸体身边，将两人拖起来带走",
+        "两个白袍都是一样的防御天赋法术，很明显是一起的。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

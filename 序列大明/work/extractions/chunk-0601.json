@@ -1,0 +1,658 @@
+{
+  "chunk_id": "chunk-0601",
+  "characters": [
+    {
+      "name": "张嗣源",
+      "aliases": [
+        "义正"
+      ],
+      "identity": "首辅张峰岳之子，番地中的先生",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "首辅张峰岳之子，性情纯真但自认愚蠢，在番地教导学生，试图改变现状。",
+      "appearance": [],
+      "personality": [
+        "性情纯真",
+        "自嘲",
+        "操之过急"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "父子"
+        },
+        {
+          "target": "刘谨勋",
+          "type": "上下级"
+        },
+        {
+          "target": "顿珠",
+          "type": "师生"
+        },
+        {
+          "target": "吉央",
+          "type": "师生"
+        },
+        {
+          "target": "李钧",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与刘谨勋交谈后，决定留在番地，从庙宇开始改变。"
+        }
+      ],
+      "evidence": [
+        "张嗣源似乎无颜面去顿珠和吉央，选择背对着他们，看向刘谨勋。",
+        "张嗣源满脸都是自嘲的苦涩，“是我把事情想的太简单了。”",
+        "张嗣源哑然失笑：“如果我是他的儿子，现在应该只是一具断了气的尸体了吧。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "刘谨勋",
+      "aliases": [
+        "大人"
+      ],
+      "identity": "朝廷官员，张峰岳的下属",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "朝廷官员，受张峰岳之命在番地行事，对局势有深刻认识。",
+      "appearance": [],
+      "personality": [
+        "柔声",
+        "深思熟虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "上下级"
+        },
+        {
+          "target": "张峰岳",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张嗣源交谈，解释局势，并决定拦下李钧。"
+        }
+      ],
+      "evidence": [
+        "刘谨勋叹了口气，“义正，我知道你想说什么。只是这件事非同小可...”",
+        "刘谨勋柔声道：“义正，番地这件事不管最终结果如何...”",
+        "刘谨勋内心感慨，如果没有首辅大人提前告知的消息，这一次还真可能会让李钧坏了事。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "顿珠",
+      "aliases": [],
+      "identity": "张嗣源的学生，性情憨直",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "张嗣源的学生，看似憨直实则聪慧，对先生忠诚。",
+      "appearance": [],
+      "personality": [
+        "憨直",
+        "聪慧",
+        "忠诚"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "师生"
+        },
+        {
+          "target": "吉央",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "安慰张嗣源，提醒他该做的事情。"
+        }
+      ],
+      "evidence": [
+        "顿珠横步挡在她们身前，定定看着自己的先生，不解和困惑堵在心口。",
+        "顿珠一字一顿道：“我不聪明，但我知道谁是真心对我们好。”",
+        "顿珠柔声说道：“不怕，风雪要散了。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "吉央",
+      "aliases": [],
+      "identity": "张嗣源的学生，女性",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "张嗣源的学生，满脸忧虑不安。",
+      "appearance": [],
+      "personality": [
+        "忧虑不安"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "师生"
+        },
+        {
+          "target": "顿珠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "紧抱孩子，畏惧不敢说话。"
+        }
+      ],
+      "evidence": [
+        "吉央紧紧抱着他，满眼畏惧，不敢说话。",
+        "在他身后，吉央满脸忧虑不安，下意识抓紧了顿珠的衣角。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "老李",
+        "钧哥"
+      ],
+      "identity": "独行薪主，亡命徒",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "独行薪主，行事蛮横霸道，被张嗣源说动杀了那曲活佛。",
+      "appearance": [],
+      "personality": [
+        "蛮横霸道",
+        "不精于算计"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "合作"
+        },
+        {
+          "target": "刘谨勋",
+          "type": "对手"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        },
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "赶往天阙出事的地方，让袁明妃和陈乞生留在番地。"
+        }
+      ],
+      "evidence": [
+        "刘谨勋万万没想到张嗣源居然能够说动李钧，让对方杀了那曲活佛。",
+        "行事蛮横霸道，这是他惯用和擅长的破局方式。",
+        "老李已经在赶往天阙出事的地方，他让我和你留在番地。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [
+        "袁姐"
+      ],
+      "identity": "李钧的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "李钧的同伴，负责留在番地调查社稷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        },
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与陈乞生、邹四九商议，决定去巴康卫。"
+        }
+      ],
+      "evidence": [
+        "袁明妃停下脚步，回头看向陈乞生和邹四九，语气凝重说道。",
+        "袁明妃说道：“李钧得到的消息，这次要动天阙的也是他们。”",
+        "袁明妃果断道：“那里我熟人多，或许有办法知道他们到底想在番地搞些什么。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "老陈"
+      ],
+      "identity": "李钧的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "李钧的同伴，与袁明妃留在番地。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        },
+        {
+          "target": "邹四九",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁明妃商议，决定留在番地。"
+        }
+      ],
+      "evidence": [
+        "陈乞生懒得理会咋咋呼呼的邹四九，皱眉问道：“袁姐，钧哥怎么说。”",
+        "陈乞生笑道：“再说了，阎罗魔主座下的卒子可不是我。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "邹爷"
+      ],
+      "identity": "李钧的同伴，序四",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "李钧的同伴，序四，性格咋咋呼呼，去救沈笠。",
+      "appearance": [],
+      "personality": [
+        "咋咋呼呼",
+        "战意昂扬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "沈笠",
+          "type": "小弟"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        },
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "得知天阙出事，立即赶往救援。"
+        }
+      ],
+      "evidence": [
+        "邹四九勃然大怒，不久前才宰了一个强敌的他，现在满身都是昂扬勃发的战意。",
+        "邹四九指着自己鼻子，两眼瞪大，身上升腾的气势正在逐渐衰弱。",
+        "邹四九片刻不停，身影掠起，朝着东北方向快速远去。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "沈笠",
+      "aliases": [],
+      "identity": "邹四九的小弟",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "邹四九的小弟，在天阙出事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "小弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "天阙出事，邹四九前往救援。"
+        }
+      ],
+      "evidence": [
+        "马爷刚刚传来的消息，天阙出事了。",
+        "我可就他这么一个垫背的小弟，谁他妈敢给我撅了？！"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "首辅大人"
+      ],
+      "identity": "大明帝国首辅",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "大明帝国首辅，深藏不露，对社稷了如指掌。",
+      "appearance": [],
+      "personality": [
+        "深谋远虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "父子"
+        },
+        {
+          "target": "刘谨勋",
+          "type": "上级"
+        },
+        {
+          "target": "小皇帝",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以投影形式给小皇帝上课，讲述社稷的野心。"
+        }
+      ],
+      "evidence": [
+        "如果没有首辅大人提前告知的消息，这一次还真可能会让李钧坏了事。",
+        "张峰岳这次并非是以本体现身，而是一道投影。",
+        "张峰岳拂袖回身，一双深如渊涧的眼眸凝视着面色铁青的帝国皇帝。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "小皇帝",
+      "aliases": [
+        "陛下"
+      ],
+      "identity": "大明帝国皇帝",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "大明帝国皇帝，年轻，对社稷之名感到愤怒。",
+      "appearance": [],
+      "personality": [
+        "愤怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "君臣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "听张峰岳讲课，得知社稷的野心。"
+        }
+      ],
+      "evidence": [
+        "小皇帝好奇问道：“谁？”",
+        "小皇帝面带怒色，冷哼一声。",
+        "小皇帝骤然握紧了双拳，身体因为愤怒而微微颤栗。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张崇诚",
+      "aliases": [],
+      "identity": "龙虎山天师，新派道序",
+      "faction": "龙虎山",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "龙虎山天师，对师尊恭敬，奉命处理道门事务。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "恐惧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张希极",
+          "type": "师徒"
+        },
+        {
+          "target": "易魁斗",
+          "type": "敌对"
+        },
+        {
+          "target": "姜爵",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向师尊汇报杀死易魁斗和姜爵散道之事，并受命前往番地。"
+        }
+      ],
+      "evidence": [
+        "张崇诚屈膝跪地，语气恭敬。",
+        "张崇诚强迫自己的话音保持平稳，死死盯着地砖映出的一双显露出惊恐眼眸。",
+        "张崇诚急忙应声道：“师尊您说的是。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "张希极",
+      "aliases": [
+        "师尊",
+        "本天师"
+      ],
+      "identity": "龙虎山幕后师尊，道门天师",
+      "faction": "龙虎山",
+      "status": "登场",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "龙虎山幕后师尊，自称未死，野心勃勃，欲争大道。",
+      "appearance": [],
+      "personality": [
+        "淡漠",
+        "野心勃勃"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张崇诚",
+          "type": "师徒"
+        },
+        {
+          "target": "茅山掌教",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在祖师堂中，命令张崇诚前往番地，宣告自己未死。"
+        }
+      ],
+      "evidence": [
+        "淡漠的声音从如海的香火之中传出。",
+        "“告诉这座大明帝国，我张希极，还没有死！”",
+        "“甲子更替，新一轮的大争之世正在拉开帷幕。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "易魁斗",
+      "aliases": [],
+      "identity": "阁皂山长老",
+      "faction": "阁皂山",
+      "status": "已故",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "阁皂山长老，因起疑心被张崇诚操控葛烽火杀死。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张崇诚",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张崇诚操控葛烽火杀死。"
+        }
+      ],
+      "evidence": [
+        "阁皂山长老易魁斗不知为何起了疑心，想要强闯葛烽火的闭关之地。弟子被迫操控葛烽火将其杀死。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "姜爵",
+      "aliases": [],
+      "identity": "长老",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "长老，于南昌府自行坐化散道。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "于南昌府自行坐化散道。"
+        }
+      ],
+      "evidence": [
+        "长老姜爵于南昌府自行坐化散道，灰飞烟灭。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "茅山掌教",
+      "aliases": [],
+      "identity": "茅山掌教",
+      "faction": "茅山",
+      "status": "已故",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "茅山掌教，被张希极所杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张希极",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张希极杀死。"
+        }
+      ],
+      "evidence": [
+        "跪在地上的张崇诚自然认识这个哀嚎求饶的声音。对方正是不久前降临龙虎...的茅山掌教。",
+        "“天师饶了我求您饶了我.”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "那曲活佛",
+      "aliases": [],
+      "identity": "那曲金庙的活佛",
+      "faction": "那曲金庙",
+      "status": "已故",
+      "first_appearance": "第599章救火抽薪",
+      "summary": "那曲金庙的活佛，被李钧所杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧杀死。"
+        }
+      ],
+      "evidence": [
+        "刘谨勋万万没想到张嗣源居然能够说动李钧，让对方杀了那曲活佛。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

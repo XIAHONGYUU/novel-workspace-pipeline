@@ -1,0 +1,404 @@
+{
+  "chunk_id": "chunk-1365",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "苏卿"
+      ],
+      "identity": "不良人首领",
+      "faction": "大唐朝廷",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "不良人首领，具备镇诡能力，能窥见此岸，与陶祖、玄宗皇帝有交集。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "深思熟虑"
+      ],
+      "abilities": [
+        "窥见此岸",
+        "设下八门封锁阵势"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陶祖",
+          "type": "同伴"
+        },
+        {
+          "target": "玄宗皇帝",
+          "type": "君臣"
+        },
+        {
+          "target": "天后",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从雁塔下陵墓中走出，与陶祖交谈，后应玄宗皇帝召见入宫，并陪同玄宗皇帝再入雁塔探查。"
+        }
+      ],
+      "evidence": [
+        "苏午看着那冢中枯骨，似乎听到了‘天后’算计得逞后的笑声",
+        "苏午点了点头：‘是。先前正好抓住契机，所以能窥见此岸所在。’",
+        "苏午神色平静，肯定了玄宗皇帝的话：‘只以此尸骸而言，生机彻底断绝……’"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "陶祖",
+      "aliases": [
+        "老道"
+      ],
+      "identity": "修道高人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "修道高人，与苏午同行，对龙华树、想尔等有深刻见解。",
+      "appearance": [],
+      "personality": [
+        "懒散",
+        "睿智",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在雁塔外等候苏午，与其交谈龙华树之事，后自行离去。"
+        }
+      ],
+      "evidence": [
+        "雁塔之外，陶祖早在等候。",
+        "陶祖皱了皱眉头。",
+        "陶祖直言道：‘那便令它尽早长成罢。’"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "天后",
+      "aliases": [
+        "武则天"
+      ],
+      "identity": "前朝皇帝（武周）",
+      "faction": "武周",
+      "status": "已死（尸骸在陵墓中）",
+      "first_appearance": "",
+      "summary": "已故的武周皇帝，其尸身葬于雁塔下龙脉地相锁中，曾借鲁母之力孕育龙华树根种，企图在龙华会中成佛下生。",
+      "appearance": [],
+      "personality": [
+        "算计深远"
+      ],
+      "abilities": [
+        "借身还魂可能"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "鲁母",
+          "type": "合作/利用"
+        },
+        {
+          "target": "玄宗皇帝",
+          "type": "前朝与今朝"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "生前",
+          "event": "驾崩后葬于雁塔下龙脉中，修筑陵墓。"
+        },
+        {
+          "stage": "当前",
+          "event": "其尸骸被苏午发现，龙华树根种已破壳栽种于大唐气运。"
+        }
+      ],
+      "evidence": [
+        "苏午看着那冢中枯骨，似乎听到了‘天后’算计得逞后的笑声",
+        "天后的尸身，便葬在那云顶金宫－‘伪弥勒内院’之内。",
+        "天后投影先前称‘弥勒尊’将于‘龙华三度’之中成佛下生"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "玄宗皇帝",
+      "aliases": [
+        "圣人",
+        "唐明皇",
+        "陛下"
+      ],
+      "identity": "大唐皇帝",
+      "faction": "大唐朝廷",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大唐皇帝，对天后之事心有忌惮，励精图治后松懈，当前关注雁塔下陵墓。",
+      "appearance": [],
+      "personality": [
+        "多疑",
+        "前期励精图治",
+        "后期纵情享乐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "君臣"
+        },
+        {
+          "target": "天后",
+          "type": "前朝与今朝"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "召见苏午询问雁塔探查结果，后更衣微服与苏午同往雁塔探查陵墓。"
+        }
+      ],
+      "evidence": [
+        "玄宗皇帝已在殿中等候，见他来到，与他寒暄几句之后，便直入正题",
+        "玄宗皇帝闻言，忽然冷笑了几声",
+        "玄宗皇帝甚至笑着侧身与身后的苏午说道：‘如此残毁模样，绝无死而再生之可能了罢？！’"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "褚豆",
+      "aliases": [
+        "肉山将军"
+      ],
+      "identity": "将军",
+      "faction": "大唐朝廷",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "甲士队伍领头将军，奉圣人之命请苏午入宫。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玄宗皇帝",
+          "type": "君臣"
+        },
+        {
+          "target": "苏午",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领甲士与苏午、陶祖碰面，传达圣人召见。"
+        }
+      ],
+      "evidence": [
+        "甲士队伍当中，那领头的‘肉山将军’褚豆向苏午躬身行礼，道：‘圣人有请。’"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "杨玉环",
+      "aliases": [],
+      "identity": "杨钊堂妹，玄宗宠妃",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "本在开元七年出生，今下时空已悄然降诞，与‘想尔’产生勾连。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨钊",
+          "type": "堂兄妹"
+        },
+        {
+          "target": "想尔",
+          "type": "勾连"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已降诞，与想尔产生勾连。"
+        }
+      ],
+      "evidence": [
+        "本在开元七年出生的‘杨玉环’，在今下时空之中，已经悄然降诞，此时的杨玉环，与‘想尔’已经产生千丝万缕的勾连。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "想尔",
+      "aliases": [
+        "大道之诡"
+      ],
+      "identity": "大道之诡",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "由太上玄元与祖天师自识结合化生的大道之诡，擅长在大道变化时趁势而起，企图兴立地上天庭。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "窥察大道变化"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨玉环",
+          "type": "勾连"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已复苏，图谋兴立地上天庭。"
+        }
+      ],
+      "evidence": [
+        "想尔此大道之诡，最擅长在大道变化、天数更易之时，趁势而起",
+        "今下的想尔，已经复苏，其之所以依旧未曾显山露水，只是因为它之图谋更大，企图兴立‘地上天庭’"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "鲁母",
+      "aliases": [
+        "龙母"
+      ],
+      "identity": "密藏域中的龙之源流",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "密藏域中龙的源流，居元日神山，曾降子化龙华树，有降临现实的企图。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "降子化龙华树"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "天后",
+          "type": "合作/利用"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其龙华树根种已破壳栽种于大唐气运。"
+        }
+      ],
+      "evidence": [
+        "但她借鲁母之力孕育作龙华树根种",
+        "鲁母称作龙母也没甚么问题。",
+        "龙母降子，化‘龙华树’，几乎是板上钉钉的事情"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "弥勒尊",
+      "aliases": [
+        "弥勒"
+      ],
+      "identity": "未来佛",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "将于龙华三度中成佛下生，天后自称弥勒尊。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "天后",
+          "type": "自称"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "未来",
+          "event": "将于龙华三度中成佛下生。"
+        }
+      ],
+      "evidence": [
+        "天后投影先前称‘弥勒尊’将于‘龙华三度’之中成佛下生"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "彼岸佛陀",
+      "aliases": [],
+      "identity": "诸僧性意汇集而成之存在",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "由诸僧性意汇集而成，亦是执棋之士。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为执棋之士。"
+        }
+      ],
+      "evidence": [
+        "彼岸上还有一尊佛陀在等候着……",
+        "此外，还有诸僧性意汇集而成之‘彼岸佛陀’，亦是执棋之士"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "杨钊",
+      "aliases": [],
+      "identity": "宰相",
+      "faction": "大唐朝廷",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "宰相，其堂妹为杨玉环，与安史之乱起因有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "杨玉环",
+          "type": "堂兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及为安史之乱起因相关人物。"
+        }
+      ],
+      "evidence": [
+        "宰相‘杨钊’的形影都难以抹去。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "chunk_id": "chunk-0552",
+  "characters": [
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "师弟"
+      ],
+      "identity": "叛出龙虎山的修士，人仙主",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "龙虎山叛徒，已自毁灵窍、注销龙虎道籍，晋升人仙主。",
+      "appearance": [],
+      "personality": [
+        "警惕",
+        "恩怨分明"
+      ],
+      "abilities": [
+        "人仙主"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阳龙",
+          "type": "师兄"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与阳龙通过伍道士对话，了解道序真相。"
+        }
+      ],
+      "evidence": [
+        "陈乞生的话音中充满了警惕。",
+        "陈乞生点了点头，现在的他已经叛出了龙虎山。",
+        "陈乞生自此终于明白了所有的是前因后果。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "阳龙",
+      "aliases": [
+        "赵衍龙",
+        "师兄"
+      ],
+      "identity": "原武当山衍字辈道人，现龙虎山修士",
+      "faction": "龙虎山",
+      "status": "登场（通过伍道士传话）",
+      "first_appearance": "",
+      "summary": "昔日龙虎山师兄，实为武当山老派修士，通过夺舍进入龙虎山。",
+      "appearance": [],
+      "personality": [
+        "唯利是图",
+        "贪生怕死（表面）",
+        "有赎罪之心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过伍道士与陈乞生对话，透露龙虎山行动和道序真相。"
+        }
+      ],
+      "evidence": [
+        "阳龙语气凝重道。",
+        "阳龙苦笑道。",
+        "阳龙显然不愿意就此多说，轻描淡写便带过了这个话题。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "伍道士",
+      "aliases": [],
+      "identity": "被袁明妃控制的道士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被袁明妃控制，作为阳龙与陈乞生对话的传话工具。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "被控制"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被袁明妃控制，成为阳龙传话工具。"
+        }
+      ],
+      "evidence": [
+        "被袁明妃控制的伍道士沦为了传话的工具。",
+        "伍道士宛如断线傀儡，眼中神光褪去，退入角落之中。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [
+        "袁姐"
+      ],
+      "identity": "陈乞生的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "陈乞生的同伴，控制伍道士，提供情报。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与陈乞生讨论阳龙的话，告知龙虎山道官驻扎地。"
+        }
+      ],
+      "evidence": [
+        "袁明妃依靠着门框，静静看着陈乞生。",
+        "袁明妃说道。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "老李"
+      ],
+      "identity": "武序修士，陈乞生的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "武序修士，与马王爷一起行动，性格诙谐。",
+      "appearance": [],
+      "personality": [
+        "诙谐",
+        "机智"
+      ],
+      "abilities": [
+        "武序"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "同伴"
+        },
+        {
+          "target": "马王爷",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与马王爷在弋阳县城外山巅，讨论龙虎山部署。"
+        }
+      ],
+      "evidence": [
+        "李钧站在树冠之上，俯瞰着山下的弋阳县城。",
+        "李钧揶揄道。",
+        "李钧哈哈一笑，双臂张开，从山巅一跃而下。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "马王爷",
+      "aliases": [
+        "马爷"
+      ],
+      "identity": "明鬼，陈乞生的同伴",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "明鬼，与李钧一起行动，自称曾经是风云人物。",
+      "appearance": [
+        "盔中红眼"
+      ],
+      "personality": [
+        "自负",
+        "爱面子"
+      ],
+      "abilities": [
+        "明鬼"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧在弋阳县城外山巅，分析龙虎山部署。"
+        }
+      ],
+      "evidence": [
+        "马王爷分析道。",
+        "马王爷哼了一声。",
+        "气急败坏的喊声冲出盔中红眼。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "张清羽",
+      "aliases": [],
+      "identity": "龙虎山天师府玄坛殿监院，道四巅峰",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "龙虎山玄坛殿监院，道四巅峰，被大天师张崇源钦点领衔行动。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "道四巅峰"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张崇源",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "张清羽迟早也会发现这一点。",
+        "白玉京地仙三十四位的巅峰道四张清羽领衔。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "张崇源",
+      "aliases": [
+        "大天师"
+      ],
+      "identity": "龙虎山大天师",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "龙虎山大天师，亲自出关点将，调动大量力量围剿陈乞生等人。",
+      "appearance": [],
+      "personality": [
+        "动了真火"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张清羽",
+          "type": "下属"
+        },
+        {
+          "target": "阳宗",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "大天师张崇源亲自出关点将。",
+        "张崇源这是调动了小半个龙虎山啊。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "阳宗",
+      "aliases": [],
+      "identity": "龙虎山天师府提举署监院兼斗部主官",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "龙虎山天师府提举署监院兼斗部主官，带队驻扎上饶。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "道四"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张崇源",
+          "type": "下属"
+        },
+        {
+          "target": "陈乞生",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "现任的龙虎山天师府提举署监院兼斗部主官，阳宗。",
+        "我跟他，确实是很熟悉。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "沈笠",
+      "aliases": [],
+      "identity": "龙虎山九部主官之一",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "龙虎山九部主官之一，曾在永丰县出现。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "永丰县沈笠已经试出来了，是三名龙虎九部的主官。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "邹四九",
+      "aliases": [],
+      "identity": "情报人员",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "提供龙虎山道官驻扎情报的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "根据邹四九探查的情报。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [],
+      "identity": "被提及的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被李钧提及，曾让李钧打白工。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被提及"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "我可是稀里糊涂帮他打了不少次白工。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

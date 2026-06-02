@@ -1,0 +1,350 @@
+{
+  "chunk_id": "chunk-0620",
+  "characters": [
+    {
+      "name": "林新",
+      "aliases": [
+        "林兄"
+      ],
+      "identity": "五阶修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "五阶修士，与风槐同行，寻找林耀阳。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "净化之力",
+        "极境"
+      ],
+      "equipment": [
+        "红花剑"
+      ],
+      "relationships": [
+        {
+          "target": "风槐",
+          "type": "同行"
+        },
+        {
+          "target": "林耀阳",
+          "type": "寻找对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风槐一起追踪宋丹浩和四海仙山的人。"
+        }
+      ],
+      "evidence": [
+        "林新微笑着迅速解释。",
+        "林新顿时沉吟起来。",
+        "林新心头一动，红花剑骤然出鞘，极境凝固周围一切。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "风槐",
+      "aliases": [
+        "风兄",
+        "风师兄"
+      ],
+      "identity": "五阶修士，碧湖山领队",
+      "faction": "碧湖山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "碧湖山领队，五阶修士，身受重创，与林新同行。",
+      "appearance": [],
+      "personality": [
+        "憋屈",
+        "火大"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "同行"
+        },
+        {
+          "target": "郑融",
+          "type": "副手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带队追踪宋丹浩和四海仙山的人。"
+        }
+      ],
+      "evidence": [
+        "风槐上前，在地上雪地摸了摸。",
+        "风槐坦白道，他现在确实是力有未逮",
+        "风槐又是憋屈又是火大"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "宋丹浩",
+      "aliases": [
+        "宋大哥"
+      ],
+      "identity": "魔神王转世",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "魔神王转世，三阶实力但能爆发五阶之力，被四耳男子追杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "爆发五阶之力"
+      ],
+      "equipment": [
+        "黑刀"
+      ],
+      "relationships": [
+        {
+          "target": "林耀阳",
+          "type": "同伴"
+        },
+        {
+          "target": "许玲",
+          "type": "同伴"
+        },
+        {
+          "target": "宫商白钰",
+          "type": "同伴"
+        },
+        {
+          "target": "四耳男子",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与四耳男子激战后逃脱。"
+        }
+      ],
+      "evidence": [
+        "宋丹浩冲上前去，黑刀一撩，带出三道虚影",
+        "宋丹浩乃魔神王转世",
+        "才三阶就能爆发五阶之力"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林耀阳",
+      "aliases": [
+        "蠢姐"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被林新寻找的对象，与宋丹浩同行，受伤。",
+      "appearance": [
+        "浑身是汗，衣裙几乎都被紧贴在娇躯上，脸色隐隐有些透支过度的苍白"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林新",
+          "type": "被寻找"
+        },
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被四耳男子攻击受伤，后被许玲扶起。"
+        }
+      ],
+      "evidence": [
+        "黑刀猛然从林耀阳脸侧刺过来",
+        "林耀阳手上，腿上，肩膀，到处都是被腐蚀出来的红色伤口。",
+        "许玲跑过来扶起林耀阳"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "四耳男子",
+      "aliases": [
+        "四耳",
+        "大师兄"
+      ],
+      "identity": "四海仙山大师兄",
+      "faction": "四海仙山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "四海仙山的大师兄，四耳，追杀宋丹浩，实力强横。",
+      "appearance": [
+        "四耳"
+      ],
+      "personality": [
+        "温和"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "追杀"
+        },
+        {
+          "target": "风槐",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与宋丹浩激战后放走他们，并下追踪手段。"
+        }
+      ],
+      "evidence": [
+        "四耳男子站在原地，伸手舔了舔手背上的伤痕。",
+        "四耳摇头",
+        "四耳温和的轻笑起来"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "许玲",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与宋丹浩同行的女修，扶起林耀阳。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林耀阳",
+          "type": "同伴"
+        },
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "扶起受伤的林耀阳。"
+        }
+      ],
+      "evidence": [
+        "许玲跑过来扶起林耀阳"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "宫商白钰",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与宋丹浩同行的修士，使用银色符文。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "打出银芒，银色符文"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "宋丹浩",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "打出银色符文形成护罩帮助逃脱。"
+        }
+      ],
+      "evidence": [
+        "宫商白钰手中打出一圈银芒，大量银色符文流水一般飞射出去"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "郑融",
+      "aliases": [
+        "郑老"
+      ],
+      "identity": "四阶顶峰老修士，风槐副手",
+      "faction": "碧湖山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "风槐的副手，四阶顶峰老修士，提供建议。",
+      "appearance": [],
+      "personality": [
+        "镇定自若"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "风槐",
+          "type": "副手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "建议风槐去找宋丹浩。"
+        }
+      ],
+      "evidence": [
+        "副手老修士郑融低声道",
+        "老修士郑融镇定自若道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "白金色衣袍女修",
+      "aliases": [],
+      "identity": "四海仙山弟子",
+      "faction": "四海仙山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "四海仙山女弟子，询问四耳是否追击。",
+      "appearance": [
+        "白金色衣袍"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "四耳男子",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问四耳是否追击宋丹浩。"
+        }
+      ],
+      "evidence": [
+        "一个白金色衣袍的女修上前轻声问"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

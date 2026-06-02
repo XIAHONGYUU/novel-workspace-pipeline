@@ -1,0 +1,261 @@
+{
+  "chunk_id": "chunk-2302",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "至高化身之主，金庭大能",
+      "faction": "金庭",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与五位元圣及道人斗法，主导至高分身，运用斩诸绝道法，并寻求众道帮助。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "专注",
+        "善于谋划"
+      ],
+      "abilities": [
+        "斩诸绝道法",
+        "大道六印",
+        "至高化身操控"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "至高分身",
+          "type": "操控者"
+        },
+        {
+          "target": "霍衡",
+          "type": "盟友"
+        },
+        {
+          "target": "五位元圣",
+          "type": "敌对"
+        },
+        {
+          "target": "道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与五位元圣及道人斗法，至高分身与道人对战，同时应对恒常之道问对。"
+        }
+      ],
+      "evidence": [
+        "张御对此不为所动他的斩诸绝道法，此前不是没用过",
+        "张御此刻心思飞转，假设他此刻也是投入大道六印",
+        "张御得了众人所传，大略知悉了诸多道法运转之理"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "至高分身",
+      "aliases": [],
+      "identity": "张御的至高化身，先天灵精",
+      "faction": "金庭",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的至高化身，与道人斗法，运用斩诸绝道法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "斩诸绝道法",
+        "至高化身能力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "本体"
+        },
+        {
+          "target": "道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与道人斗法，剑光切割元空。"
+        }
+      ],
+      "evidence": [
+        "至高分身本身没有道法，其所用的一切完全是张御在后支撑",
+        "此刻至高分身手中剑光放照，在元空之中切割出一道道空痕"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "道人",
+      "aliases": [],
+      "identity": "五位元圣的代表，运用道莲映照诸般道法",
+      "faction": "元一天宫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与至高分身斗法，运用恒常之道及多种道法变化。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "恒常之道",
+        "道莲映照道法",
+        "龙祖烛相道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "五位元圣",
+          "type": "代表"
+        },
+        {
+          "target": "至高分身",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与至高分身斗法，被斩中一剑。"
+        }
+      ],
+      "evidence": [
+        "那道人此刻运使的不知是哪一位的道法",
+        "那道人也有应付之法，以各种道法变化迎战"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "霍衡",
+      "aliases": [],
+      "identity": "混沌寄身，变化之源",
+      "faction": "",
+      "status": "被清除",
+      "first_appearance": "",
+      "summary": "被五位元圣以宝莲清除，但可归来。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "混沌侵染"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "盟友"
+        },
+        {
+          "target": "五位元圣",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被五位元圣以宝莲清除，化作黑雾消失。"
+        }
+      ],
+      "evidence": [
+        "霍衡原本在恒常之道下至多被困",
+        "霍衡整个崩裂，化作无数黑雾洒落至元空之中"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "五位元圣",
+      "aliases": [],
+      "identity": "元一天宫的至高存在",
+      "faction": "元一天宫",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "操控宝莲，驱逐霍衡，与张御斗法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "至上之气",
+        "宝莲权柄",
+        "恒常之道"
+      ],
+      "equipment": [
+        "宝莲"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "霍衡",
+          "type": "敌对"
+        },
+        {
+          "target": "道人",
+          "type": "代表"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "引动至上之气，催动宝莲，驱逐霍衡，专注恒常之道问对。"
+        }
+      ],
+      "evidence": [
+        "五位元圣见局面稍稳，便是进行第二步",
+        "某位元圣此刻忽然对着霍衡所在一指"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "龙祖烛相",
+      "aliases": [],
+      "identity": "金庭大能之一",
+      "faction": "金庭",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "其道法被道人运用，适应伤害。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "适应伤害的道法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同道"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "张御判断，很可能是龙祖烛相道法的变化"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "弥祖",
+      "aliases": [],
+      "identity": "金庭大能之一",
+      "faction": "金庭",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "新投入金庭的大能，回应张御传意。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同道"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "所以即便新投入过来的弥祖、烛相等人听到此言，亦是不曾有丝毫迟疑"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

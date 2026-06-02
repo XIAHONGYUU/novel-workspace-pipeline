@@ -1,0 +1,186 @@
+{
+  "chunk_id": "chunk-1672",
+  "characters": [
+    {
+      "name": "练青云",
+      "aliases": [
+        "神子"
+      ],
+      "identity": "被神子占据身躯的修道人",
+      "faction": "神子势力",
+      "status": "被擒",
+      "first_appearance": "第四章",
+      "summary": "被神子占据身躯的修道人，拥有观想图，试图逃遁但被擒获。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "求生欲强"
+      ],
+      "abilities": [
+        "运使观想图",
+        "玄光强横"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "敌对"
+        },
+        {
+          "target": "劳诚毅",
+          "type": "敌对"
+        },
+        {
+          "target": "司顾华",
+          "type": "审讯者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "被擒",
+          "event": "被劳诚毅镇压心光，带回玄首司。"
+        }
+      ],
+      "evidence": [
+        "练青云知道自己逃不掉了",
+        "练青云抬起头，忽然道：“司玄首，我想活，我愿意配合你们”",
+        "发现练青云的名印黯淡下去，而其人还好端端的在这里，这就是说真正的练青云已然不在了。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "劳诚毅",
+      "aliases": [
+        "劳值司"
+      ],
+      "identity": "冀空上洲守正驻地值司",
+      "faction": "天夏官方",
+      "status": "登场",
+      "first_appearance": "第四章",
+      "summary": "冀空上洲守正驻地值司，出手镇压练青云。",
+      "appearance": [
+        "三十许的道人"
+      ],
+      "personality": [
+        "严谨",
+        "务实"
+      ],
+      "abilities": [
+        "使用法器镇压"
+      ],
+      "equipment": [
+        "法器"
+      ],
+      "relationships": [
+        {
+          "target": "练青云",
+          "type": "敌对"
+        },
+        {
+          "target": "莫若华",
+          "type": "同僚"
+        },
+        {
+          "target": "司顾华",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "抓捕",
+          "event": "出现并镇压练青云，将其带走。"
+        }
+      ],
+      "evidence": [
+        "来人赫然时冀空上洲的守正驻地值司劳诚毅",
+        "劳诚毅看他几眼，一甩袖，一道法器照下，就将之心光镇压住了",
+        "劳诚毅道：“人既抓了，我便先带走了”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "莫若华",
+      "aliases": [
+        "莫都尉"
+      ],
+      "identity": "舟队都尉",
+      "faction": "天夏官方",
+      "status": "登场",
+      "first_appearance": "第四章",
+      "summary": "舟队都尉，指挥舟队与练青云交战。",
+      "appearance": [],
+      "personality": [
+        "坦承",
+        "善于反思"
+      ],
+      "abilities": [
+        "指挥舟队"
+      ],
+      "equipment": [
+        "长剑"
+      ],
+      "relationships": [
+        {
+          "target": "练青云",
+          "type": "敌对"
+        },
+        {
+          "target": "劳诚毅",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "交战",
+          "event": "与练青云交战，后脱身。"
+        }
+      ],
+      "evidence": [
+        "莫若华脱身出来，收回长剑，回到了舟队之中",
+        "莫若华却是伸手阻住她的话头，认真看着劳诚毅，坦承道：“是的，我们还存在缺点”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "司顾华",
+      "aliases": [
+        "司玄首"
+      ],
+      "identity": "玄首司玄首",
+      "faction": "天夏官方",
+      "status": "登场",
+      "first_appearance": "第四章",
+      "summary": "玄首司玄首，审讯练青云。",
+      "appearance": [],
+      "personality": [
+        "敏锐",
+        "果断"
+      ],
+      "abilities": [
+        "探查意识"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "练青云",
+          "type": "审讯者"
+        },
+        {
+          "target": "劳诚毅",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "审讯",
+          "event": "审讯练青云，发现其意识被阻碍。"
+        }
+      ],
+      "evidence": [
+        "半天之后，练青云就被带到了玄首司顾华的面前",
+        "司顾华看了一会儿他的意识，发现其所知晓的东西像被一层力量所阻碍"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

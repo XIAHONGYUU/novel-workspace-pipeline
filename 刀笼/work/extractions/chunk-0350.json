@@ -1,0 +1,247 @@
+{
+  "chunk_id": "chunk-0350",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "先生",
+        "佛门道友",
+        "和尚",
+        "刀客"
+      ],
+      "identity": "佛门修士，刀客",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百二十三章 高手如林（中）",
+      "summary": "与公孙望圣对弈，识破其封印真相，拒绝其诱惑。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "警惕",
+        "果断"
+      ],
+      "abilities": [
+        "佛门功法",
+        "阿鼻道大法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙望圣",
+          "type": "对弈对手"
+        },
+        {
+          "target": "王三缺",
+          "type": "间接关联"
+        },
+        {
+          "target": "巫名",
+          "type": "传授功法"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与公孙望圣对弈，识破其封印真相。"
+        }
+      ],
+      "evidence": [
+        "戚笼面无表情的打量着对方",
+        "戚笼想了想，坐了下来",
+        "戚笼没有解释，只是笑道"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "公孙望圣",
+      "aliases": [
+        "道人",
+        "公孙家先祖"
+      ],
+      "identity": "道人，公孙家先祖",
+      "faction": "公孙家",
+      "status": "已故（元神残识）",
+      "first_appearance": "第一百二十三章 高手如林（中）",
+      "summary": "与王三缺对弈后尸解，元神被封印于剑阁，试图引诱戚笼替代自己。",
+      "appearance": [
+        "体表被青光覆盖"
+      ],
+      "personality": [
+        "怨毒",
+        "狡猾"
+      ],
+      "abilities": [
+        "天河剑解"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王三缺",
+          "type": "对弈对手，助其证剑仙"
+        },
+        {
+          "target": "戚笼",
+          "type": "对弈对手，试图引诱"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与王三缺对弈七日，尸解助其证剑仙。"
+        },
+        {
+          "stage": "当前",
+          "event": "元神残识被封印于剑阁，与戚笼对弈。"
+        }
+      ],
+      "evidence": [
+        "公孙望圣与王三缺对弈七日",
+        "公孙望圣以自身尸解为代价，让王三缺证就剑仙",
+        "公孙望圣怨毒的大吼"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "王三缺",
+      "aliases": [
+        "白发青年",
+        "剑仙",
+        "三傻子"
+      ],
+      "identity": "剑仙",
+      "faction": "王家",
+      "status": "已证剑仙",
+      "first_appearance": "第一百二十三章 高手如林（中）",
+      "summary": "钟吾古地唯一的剑仙，与公孙望圣对弈后证就剑仙。",
+      "appearance": [
+        "白发",
+        "体表白光，散发古拙锋锐之意"
+      ],
+      "personality": [],
+      "abilities": [
+        "剑仙之道",
+        "向天借剑"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "公孙望圣",
+          "type": "对弈对手，受其尸解相助"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与公孙望圣对弈七日，证就剑仙。"
+        }
+      ],
+      "evidence": [
+        "白发青年专注棋盘",
+        "如今钟吾古地，唯一的剑仙王三缺",
+        "三傻子"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "巫名",
+      "aliases": [],
+      "identity": "宗师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百二十三章 高手如林（中）",
+      "summary": "修炼阿鼻道大法，创出阿鼻魔蛊，与剑先生交手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "阿鼻道大法",
+        "阿鼻魔蛊"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "受其传授功法"
+        },
+        {
+          "target": "剑先生",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与剑先生交手，将其击退。"
+        }
+      ],
+      "evidence": [
+        "巫名突破宗师之后，在魔功之中，融入了自身修行功法，创出阿鼻魔蛊",
+        "巫名摆了摆手"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "剑先生",
+      "aliases": [],
+      "identity": "剑客",
+      "faction": "",
+      "status": "登场后撤退",
+      "first_appearance": "第一百二十三章 高手如林（中）",
+      "summary": "与巫名交手，被阿鼻魔蛊所伤，撤退。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [
+        "宝剑"
+      ],
+      "relationships": [
+        {
+          "target": "巫名",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与巫名交手，被击退。"
+        }
+      ],
+      "evidence": [
+        "剑先生‘哇’的一声，吐出一口乌血",
+        "剑先生剑意内打，将体内蛊虫一一杀尽",
+        "撤退！"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "小天器佬",
+      "aliases": [
+        "器老爷"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第一百二十三章 高手如林（中）",
+      "summary": "在军中待了半年，为真神神性而来，但未出手。",
+      "appearance": [],
+      "personality": [
+        "失望"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "见剑先生撤退，感到失望。"
+        }
+      ],
+      "evidence": [
+        "小天器佬‘啪嗒’‘啪嗒’的走了出来",
+        "为了那点真神神性，小天器佬在军中待了将近半年"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "chunk_id": "chunk-0035",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "戚大爷"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，正在谋划某事，与照灯笼同行。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "照灯笼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与照灯笼对话，提及赤天王（老六）的疯狂，并观察战局。"
+        }
+      ],
+      "evidence": [
+        "戚笼抽了抽嘴角，毫不犹豫转身便走",
+        "戚笼长叹一声：“没人让你打，只是你需明白，老六最蠢，而蠢的另一层含义，便是疯”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "照灯笼",
+      "aliases": [],
+      "identity": "照家子弟，有治骨养刀伤的老药膏子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "戚笼的同伴，左手骨折，右手骨裂，战力大减。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "嘀咕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与戚笼对话，担心戚笼的冲动。"
+        }
+      ],
+      "evidence": [
+        "照灯笼踌躇了下，道",
+        "照灯笼顿时色变：“戚大爷你莫要开玩笑，我左手骨折，右手骨裂”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "薛保侯",
+      "aliases": [
+        "侯爷"
+      ],
+      "identity": "侯爷",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "侯爷，亲自出手与赤罗刹战斗，实力高强。",
+      "appearance": [],
+      "personality": [
+        "好战",
+        "冷酷"
+      ],
+      "abilities": [
+        "补空道",
+        "隔空伤人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "赤罗刹",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与赤罗刹战斗，并试图招揽她。"
+        }
+      ],
+      "evidence": [
+        "薛保侯毫不在意的饮完酒水，目光盯在持斧头的女人身上",
+        "薛保侯背着手一转，身子竟同样消失在人群中",
+        "薛保侯收回拳头，饶有兴致的打量着对方"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "赤罗刹",
+      "aliases": [
+        "赤天王",
+        "老六"
+      ],
+      "identity": "半妖后裔，追火豹",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "女匪，持巨斧，野性难驯，与薛保侯战斗。",
+      "appearance": [
+        "小麦色皮肤",
+        "碧眼珠",
+        "高鼻梁"
+      ],
+      "personality": [
+        "野性",
+        "凶悍"
+      ],
+      "abilities": [],
+      "equipment": [
+        "巨斧"
+      ],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "对手"
+        },
+        {
+          "target": "戚笼",
+          "type": "疑似旧识（老六）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛保侯激战，被多次击飞，仍试图抢夺‘戚天王’尸体。"
+        }
+      ],
+      "evidence": [
+        "赤罗刹下意识挥动巨斧，斜劈过去",
+        "赤罗刹凶性不减，倒地一个翻滚，手中巨斧如玩具般转了两转",
+        "赤罗刹散开的血气忽然凝作血豹状"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "薛白",
+      "aliases": [
+        "表哥"
+      ],
+      "identity": "武道天才，内家拳大成",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "薛三宝的表弟，武痴，天真耿直，实力高强。",
+      "appearance": [],
+      "personality": [
+        "天真",
+        "耿直",
+        "武痴"
+      ],
+      "abilities": [
+        "膜气",
+        "太极圈手"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛三宝",
+          "type": "表兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛三宝同行，遭遇小兵（李伏威）拦截，并与之交手。"
+        }
+      ],
+      "evidence": [
+        "薛白步履如飞，薛三宝被薛白夹着",
+        "薛白面色依旧纯真，任由风声在脸上划开细碎的血口子",
+        "薛白这次干脆闭上眼睛，两脚做圈，一转一压"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "薛三宝",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "薛白的表哥，对关外势力有所了解。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛白",
+          "type": "表兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛白同行，提醒薛白小心。"
+        }
+      ],
+      "evidence": [
+        "薛三宝悄悄叹了口气",
+        "薛三宝听的两眼直翻",
+        "薛三宝还是头一次听薛白这么严肃的说话"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "李伏威",
+      "aliases": [
+        "小兵"
+      ],
+      "identity": "边军高手，曾与薛保侯一战",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "伪装成边军小兵，使用伏龙掌，被薛白认出。",
+      "appearance": [
+        "身高普通",
+        "面目普通"
+      ],
+      "personality": [],
+      "abilities": [
+        "伏龙掌",
+        "蛇形拳"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛白",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拦截薛白和薛三宝，与薛白交手。"
+        }
+      ],
+      "evidence": [
+        "小兵冷哼一声，突然后撤步，虎掌猛张",
+        "薛三宝一见此招，一脸的不可思议：“伏龙掌，李伏威！！”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "蚊三道人",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "正在布阵镇压飞鸦人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "布‘九曲退神阵’镇压飞鸦人。"
+        }
+      ],
+      "evidence": [
+        "正在布‘九曲退神阵’，把那飞鸦人镇压的蚊三道人"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "许三飙",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "以链为枪，与牛足人对轰。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与牛足人对轰。"
+        }
+      ],
+      "evidence": [
+        "又或是以链为枪，跟牛足人对轰的许三飙"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

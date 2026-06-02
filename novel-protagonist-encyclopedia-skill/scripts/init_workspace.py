@@ -10,8 +10,6 @@ import subprocess
 import shutil
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
-
 
 def write_file(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -91,7 +89,7 @@ def load_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def build_first_pass_report(workspace: Path, novel_name: str, source_text: str) -> Path:
+def build_first_pass_report(workspace: Path, novel_name: str, source_text: str, extractor: str) -> Path:
     work_dir = workspace / "work"
     merged_path = work_dir / "merged" / "characters.json"
     index_path = work_dir / "cards" / "index.md"
@@ -142,11 +140,17 @@ def build_first_pass_report(workspace: Path, novel_name: str, source_text: str) 
         data = load_json(path)
         chunk_titles.append(data.get("title", ""))
 
+    extractor_label = "AI"
+    if extractor == "deepseek":
+        extractor_label = "DeepSeek"
+    elif extractor == "openai":
+        extractor_label = "OpenAI"
+
     recommendation = "建议立即跑 focus"
     if not top_candidates:
         recommendation = "首轮结果不足，建议先人工确认主角再跑 focus"
     elif index_noise_ratio > 0.35 or preface_noise:
-        recommendation = f"heuristic 噪声较高，但主角候选最像 `{top_candidates[0][0]}`，建议立即对其跑 focus"
+        recommendation = f"{extractor_label} 首轮结果仍有噪声，但主角候选最像 `{top_candidates[0][0]}`，建议立即对其跑 focus"
 
     status_lines = [
         "- [x] 整书 chunk 蒸馏已完成",
@@ -180,7 +184,7 @@ def build_first_pass_report(workspace: Path, novel_name: str, source_text: str) 
 
 ## 一、结论
 
-这轮自动执行已经完成了工作区初始化、`txt -> md` 和首轮 heuristic pipeline，但首轮人物抽取结果的可用性需要单独判断。
+这轮自动执行已经完成了工作区初始化、`txt -> md` 和首轮 AI 人物抽取，但首轮人物抽取结果的可用性仍需要单独判断。
 
 当前判断：`{quality}`
 
@@ -190,7 +194,7 @@ def build_first_pass_report(workspace: Path, novel_name: str, source_text: str) 
 
 {top_lines}
 
-## 三、heuristic 质量检查
+## 三、首轮人物抽取质量检查
 
 - 合并后候选总数：`{len(merged)}`
 - 过滤后较像人名的候选数：`{len(candidates)}`
@@ -213,7 +217,7 @@ def build_first_pass_report(workspace: Path, novel_name: str, source_text: str) 
 
 这轮首要问题通常出在两处：
 
-- `heuristic` 会把副词、泛称、前言噪声一起当成人名候选
+- 首轮人物抽取仍可能混入泛称、前言噪声或低价值提及
 - 首轮自动结果虽然能摸到主角候选，但还不能直接代替主角骨架判断
 
 所以首轮真正的价值应该是：
@@ -571,7 +575,7 @@ def readme_md(novel_name: str, source_name: str | None) -> str:
 
 1. 放入原文
 2. txt 转 md
-3. 跑 chunk / heuristic / focus
+3. 跑 chunk / AI 人物抽取 / focus
 4. 写阶段划分
 5. 写主角骨架
 6. 写主角总卡
@@ -607,7 +611,7 @@ def workspace_status_md(novel_name: str, protagonist_name: str | None, created_f
 ## 当前不应误判为已完成的部分
 
 - 还不能因为工作区已初始化，就判断为 `骨架完成`
-- 还不能因为有 heuristic 结果，就判断为 `体系闭环完成`
+- 还不能因为有首轮人物抽取结果，就判断为 `体系闭环完成`
 - 还不能把 `work/cards/index.md` 当作正式成果
 
 ## 下一步建议
@@ -695,16 +699,16 @@ def update_root_current_status(project_root: Path, novel_name: str) -> Path:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Initialize and optionally bootstrap a protagonist-encyclopedia novel workspace.")
-    parser.add_argument("--novel-name", required=True, help="Novel workspace name, for example DemoNovel")
+    parser.add_argument("--novel-name", required=True, help="Novel workspace name, for example 刀笼")
     parser.add_argument("--source", help="Optional source text file to copy into source/")
     parser.add_argument(
         "--project-root",
-        default=str(REPO_ROOT),
+        default="/home/zuoky/project",
         help="Project root where the workspace will be created",
     )
     parser.add_argument(
         "--tool-root",
-        default=str(REPO_ROOT),
+        default="/home/zuoky/project",
         help="Tool project root containing text2markdown and novel-character-cards",
     )
     parser.add_argument(
@@ -714,9 +718,9 @@ def main() -> None:
     )
     parser.add_argument(
         "--extractor",
-        choices=("heuristic", "openai", "deepseek"),
+        choices=("openai", "deepseek"),
         default="deepseek",
-        help="Extractor for novel-character-cards pipeline",
+        help="AI extractor for novel-character-cards pipeline",
     )
     parser.add_argument("--model", default="deepseek-chat", help="Model for the OpenAI/DeepSeek extractor")
     parser.add_argument("--encoding", help="Preferred source encoding")
@@ -838,7 +842,7 @@ def main() -> None:
                 focus_cmd += ["--focus-alias", alias]
             run_cmd(focus_cmd, env=pipeline_env)
 
-        report_path = build_first_pass_report(workspace, args.novel_name, source_text)
+        report_path = build_first_pass_report(workspace, args.novel_name, source_text, args.extractor)
     else:
         report_path = None
 

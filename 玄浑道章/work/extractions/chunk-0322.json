@@ -1,0 +1,368 @@
+{
+  "chunk_id": "chunk-0322",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄廷封授的玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第九十四章 方台",
+      "summary": "玄府玄正，正在整合域外道派，拥有玄兵等强大力量。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "飞遁",
+        "使用玄兵"
+      ],
+      "equipment": [
+        "蝉鸣剑",
+        "玄兵"
+      ],
+      "relationships": [
+        {
+          "target": "桃定符",
+          "type": "通信"
+        },
+        {
+          "target": "万明道人",
+          "type": "通信"
+        },
+        {
+          "target": "李青禾",
+          "type": "下属"
+        },
+        {
+          "target": "恽尘",
+          "type": "调遣飞舟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出关后处理书信，向两府索要玄兵，乘飞舟前往域外。"
+        }
+      ],
+      "evidence": [
+        "张御经过五日时间，将蝉鸣剑与增长的心力再次调和为一。",
+        "他身份是玄廷封授的玄正",
+        "就将两只拳头大玉匣盖子重新合上，收入了袖中"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "万明道人",
+      "aliases": [
+        "万明"
+      ],
+      "identity": "域外道人",
+      "faction": "域外道派",
+      "status": "登场",
+      "first_appearance": "第九十四章 方台",
+      "summary": "与张御通信，探查方台道派投靠霜洲人的情况。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "认真"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "通信"
+        },
+        {
+          "target": "曹方定",
+          "type": "同行道友"
+        },
+        {
+          "target": "薛秋明",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与曹方定探查方台道派，发现霜洲人营地，后返回洞窟。"
+        }
+      ],
+      "evidence": [
+        "万明道人看了看前方，道：“道友，还要再往前走么？”",
+        "万明道人沉声言道：“我要将此事尽早告知张玄正”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "曹方定",
+      "aliases": [
+        "曹道友"
+      ],
+      "identity": "域外道人",
+      "faction": "域外道派",
+      "status": "登场",
+      "first_appearance": "第九十四章 方台",
+      "summary": "与万明道人同行探查方台道派。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "准备观想图"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万明道人",
+          "type": "同行道友"
+        },
+        {
+          "target": "张御",
+          "type": "提及"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与万明道人探查方台道派，后返回洞窟。"
+        }
+      ],
+      "evidence": [
+        "曹方定默然看着方台道派的附近矗立着的一座军营",
+        "曹方定能听出话中另有深意"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "薛秋明",
+      "aliases": [
+        "薛道人",
+        "薛秋明一脉"
+      ],
+      "identity": "乘常道派元老，左道修士",
+      "faction": "乘常道派（疑似与霜洲人合作）",
+      "status": "登场",
+      "first_appearance": "第九十四章 方台",
+      "summary": "乘常道派元老，修为高深，与霜洲人合作，但似乎另有打算。",
+      "appearance": [
+        "青年道人，穿着蓝色道袍，身后背着两把长剑"
+      ],
+      "personality": [
+        "笑吟吟",
+        "深沉"
+      ],
+      "abilities": [
+        "遁光"
+      ],
+      "equipment": [
+        "两把长剑"
+      ],
+      "relationships": [
+        {
+          "target": "万明道人",
+          "type": "敌对"
+        },
+        {
+          "target": "曹方定",
+          "type": "敌对"
+        },
+        {
+          "target": "黑衣道人",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在方台道派，与万明、曹方定对话，后离去。"
+        }
+      ],
+      "evidence": [
+        "薛秋明可是乘常道派的元老",
+        "其人曾是一名左道修士",
+        "穿着一身蓝色道袍，身后则是背着两把长剑"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "黑衣道人",
+      "aliases": [],
+      "identity": "方台道派之人",
+      "faction": "方台道派（与霜洲人合作）",
+      "status": "登场",
+      "first_appearance": "第九十四章 方台",
+      "summary": "方台道派中与薛秋明对话的道人，对薛放走万明等人不满。",
+      "appearance": [
+        "黑衣"
+      ],
+      "personality": [
+        "不悦",
+        "多疑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛秋明",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在薛秋明身边，质问其为何放走万明等人。"
+        }
+      ],
+      "evidence": [
+        "这时一个黑衣道人出现在了薛道人的身边",
+        "黑衣道人这时盯着他道"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "桃定符",
+      "aliases": [],
+      "identity": "张御的通信对象",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第九十四章 方台",
+      "summary": "张御通信中提及的人物，帮助打听消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "通信"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "回信给张御，表示会帮忙打听。"
+        }
+      ],
+      "evidence": [
+        "最上面一封是桃定符的回书"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的下属",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第九十四章 方台",
+      "summary": "张御的随从，负责传递文书等事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "替张御去承正院取申书，后寄信。"
+        }
+      ],
+      "evidence": [
+        "让李青禾过来替自己去了一趟承正院"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "恽尘",
+      "aliases": [],
+      "identity": "调遣飞舟给张御的人",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第九十四章 方台",
+      "summary": "收到张御书信后调遣飞舟供其乘用。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "调遣飞舟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "调遣墨色巨舟给张御。"
+        }
+      ],
+      "evidence": [
+        "这是一驾飞舟是恽尘收到他书信后特意调遣过来供他乘用的"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "玄府",
+      "status": "提及",
+      "first_appearance": "第九十四章 方台",
+      "summary": "张御的随从，负责送信。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御吩咐送信。"
+        }
+      ],
+      "evidence": [
+        "着青曙把其中一封由学宫内部渠道呈送两府"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "武老",
+      "aliases": [],
+      "identity": "造玄兵的人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第九十四章 方台",
+      "summary": "张御之前让武老造玄兵，但这次直接向两府索要。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "曾委托造玄兵"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "他也完全不必让武老去造"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

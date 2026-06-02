@@ -1,0 +1,564 @@
+{
+  "chunk_id": "chunk-1904",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，拥有斩杀求全道法之人的能力，是此战的关键人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "命印分身",
+        "斩杀求全道法之人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "正清道人",
+          "type": "同僚"
+        },
+        {
+          "target": "陈首执",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与正清道人一同击破钟甲等四人，并建议将四人关入镇狱。"
+        }
+      ],
+      "evidence": [
+        "张御听了对面的传声，又见到了此辈这番举动，倒也是没有再急着动手。",
+        "张御微微点首，道：“这些人可以关入镇狱深处，或许以后我们会有更多此类俘获。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "钟甲道人",
+      "aliases": [
+        "钟甲"
+      ],
+      "identity": "元夏求全道法之人",
+      "faction": "元夏",
+      "status": "投降",
+      "first_appearance": "",
+      "summary": "元夏求全道法之人，假身在此战中选择向天夏投诚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "宝器"
+      ],
+      "relationships": [
+        {
+          "target": "虞月女道",
+          "type": "同伙"
+        },
+        {
+          "target": "崔子因",
+          "type": "同伙"
+        },
+        {
+          "target": "莱凤明",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与虞月女道决定向天夏投诚。"
+        }
+      ],
+      "evidence": [
+        "钟甲道人和虞月女道这一决定，立刻向其余之人传递了自身的想法。",
+        "钟甲、虞月见得两人意见与他们一致，也不敢再耽搁下去。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "虞月女道",
+      "aliases": [
+        "虞月"
+      ],
+      "identity": "元夏求全道法之人",
+      "faction": "元夏",
+      "status": "投降",
+      "first_appearance": "",
+      "summary": "元夏求全道法之人，假身在此战中选择向天夏投诚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "宝器"
+      ],
+      "relationships": [
+        {
+          "target": "钟甲道人",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与钟甲道人决定向天夏投诚。"
+        }
+      ],
+      "evidence": [
+        "钟甲道人和虞月女道这一决定，立刻向其余之人传递了自身的想法。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "崔子因",
+      "aliases": [],
+      "identity": "元夏求全道法之人",
+      "faction": "元夏",
+      "status": "投降",
+      "first_appearance": "",
+      "summary": "元夏求全道法之人，假身在此战中选择向天夏投诚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "莱凤明",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "默认了钟甲、虞月的投诚决定。"
+        }
+      ],
+      "evidence": [
+        "崔子因、莱凤明二人听了两人的传意，却是也没有出声反对，算是默认了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "莱凤明",
+      "aliases": [],
+      "identity": "元夏求全道法之人",
+      "faction": "元夏",
+      "status": "投降",
+      "first_appearance": "",
+      "summary": "元夏求全道法之人，假身在此战中选择向天夏投诚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "崔子因",
+          "type": "同伙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "默认了钟甲、虞月的投诚决定。"
+        }
+      ],
+      "evidence": [
+        "崔子因、莱凤明二人听了两人的传意，却是也没有出声反对，算是默认了。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "正清道人",
+      "aliases": [
+        "正清廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，与张御一同击破钟甲等四人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同接受钟甲等人的投诚。"
+        }
+      ],
+      "evidence": [
+        "向正清、张御二人传声言道：“两位，还请罢手，我等愿意向贵方投诚。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "陈首执",
+      "aliases": [],
+      "identity": "天夏首执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏首执，主持玄廷会议，决定接纳钟甲等人投诚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "询问张御是否要趁势进攻元夏。"
+        }
+      ],
+      "evidence": [
+        "陈首执这时道：“正清廷执、武廷执，风廷执，此辈投顺之事，就交给你们三位去处置。”",
+        "陈首执则是对张御道：“张廷执，稍候请过来一叙。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "玉素道人",
+      "aliases": [
+        "玉素廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，主张将钟甲等人斩尽杀绝。",
+      "appearance": [],
+      "personality": [
+        "强硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上主张斩杀钟甲等人。"
+        }
+      ],
+      "evidence": [
+        "玉素道人当先言道：“这些人都是不可信，还是斩尽杀绝为好。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "邓廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，指出钟甲等人是假身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上指出钟甲等人是假身。"
+        }
+      ],
+      "evidence": [
+        "邓廷执则是道：“这四人都是假身吧？”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "钟廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，主张接纳钟甲等人的假身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上提议接纳钟甲等人的假身。"
+        }
+      ],
+      "evidence": [
+        "钟廷执想了想，却是提醒道：“诸位，正是因为这四人乃是假身，我等才是可以接纳下来啊。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "林廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，询问钟甲等人是否有条件。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上询问钟甲等人是否有条件。"
+        }
+      ],
+      "evidence": [
+        "林廷执问道：“这些人可有什么条件么？”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "韦廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，主张接纳钟甲等人，认为可以树立先例。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上主张接纳钟甲等人。"
+        }
+      ],
+      "evidence": [
+        "韦廷执道：“韦某觉得，却是值得接纳，这几人都是上三世的修道人。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "魏涛",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，提议将不愿投效的元夏修道人交给钟甲等人处置。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上提议将元夏修道人交给钟甲等人处置。"
+        }
+      ],
+      "evidence": [
+        "魏涛忽然说道：“可以将那些不愿意投效的元夏修道人交给此辈处置了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "俞廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，主张斩杀钟甲等人，态度强硬。",
+      "appearance": [],
+      "personality": [
+        "强硬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄廷会议上主张斩杀钟甲等人。"
+        }
+      ],
+      "evidence": [
+        "俞廷执这时缓缓道：“俞某倒是认可玉素廷执之言。这些人都是求全道法之人，对我威胁甚大。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "李弥真",
+      "aliases": [],
+      "identity": "天夏修道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修道人，操控神昭三虫吞夺元夏宝器。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "操控神昭三虫"
+      ],
+      "equipment": [
+        "神昭三虫"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "操控三虫吞夺元夏宝器，并催动吞天虫和服幽虫消化。"
+        }
+      ],
+      "evidence": [
+        "李弥真此时此刻大为欣喜，斗战之前他从未想过有这般收获，这么多宝器任他吞取。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "方景凛",
+      "aliases": [],
+      "identity": "天夏修道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏修道人，被张御叫上来控制钟甲等人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御叫上来与命印分身一同控制钟甲等人。"
+        }
+      ],
+      "evidence": [
+        "于是向下关照了一声，让方景凛等人上来，与命印分身一同，先将这些人控制起来。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "武廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，被陈首执指派处理钟甲等人投顺事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈首执指派处理钟甲等人投顺事宜。"
+        }
+      ],
+      "evidence": [
+        "陈首执这时道：“正清廷执、武廷执，风廷执，此辈投顺之事，就交给你们三位去处置。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "风廷执",
+      "aliases": [],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏廷执，被陈首执指派处理钟甲等人投顺事宜。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈首执指派处理钟甲等人投顺事宜。"
+        }
+      ],
+      "evidence": [
+        "陈首执这时道：“正清廷执、武廷执，风廷执，此辈投顺之事，就交给你们三位去处置。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "焦尧",
+      "aliases": [
+        "焦尧这头老龙"
+      ],
+      "identity": "真龙族类",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "一头老龙，借助真龙族类意域之助求全道法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "求全道法"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御提及已求全道法。"
+        }
+      ],
+      "evidence": [
+        "那焦尧借助了那方真龙族类的意域之助，已然是求全道法了。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "明周道人",
+      "aliases": [],
+      "identity": "天夏道人",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被陈首执唤出安排余下之事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被陈首执唤出安排余下之事。"
+        }
+      ],
+      "evidence": [
+        "陈首执则是唤了明周道人出了，吩咐了一下，将余下之事安排了一下。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

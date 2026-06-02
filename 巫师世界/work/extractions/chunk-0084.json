@@ -1,0 +1,394 @@
+{
+  "chunk_id": "chunk-0084",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "神秘者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "神秘者，与银发青年对峙，后追逐至马车道，发现艾薇儿的马车。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "神秘者能力",
+        "使用十字剑"
+      ],
+      "equipment": [
+        "十字剑"
+      ],
+      "relationships": [
+        {
+          "target": "海兰",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "引开巨象后返回，与银发青年战斗并追逐至马车道。"
+        }
+      ],
+      "evidence": [
+        "安格列单手提着十字剑，随意地垂在身侧。",
+        "安格列慢慢从树林中走出来。轻轻抖了抖长剑。",
+        "是艾薇儿的马车。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "海兰",
+      "aliases": [],
+      "identity": "骑士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与坎贝亚对峙，装伤引诱敌人，后与坎贝亚战斗。",
+      "appearance": [],
+      "personality": [
+        "沉着",
+        "机智"
+      ],
+      "abilities": [
+        "使用巨斧"
+      ],
+      "equipment": [
+        "巨斧"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "坎贝亚",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在伐木地与银发青年和坎贝亚对峙，后与坎贝亚战斗。"
+        }
+      ],
+      "evidence": [
+        "海兰也一扫先前的重伤势态，脸上露出一丝微笑。",
+        "海兰冷哼一声，提起巨斧身形一动，轰地一下撞向坎贝亚。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "银发青年",
+      "aliases": [],
+      "identity": "神秘者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "神秘者，与海兰对峙，后与安格列战斗并追逐。",
+      "appearance": [
+        "银发"
+      ],
+      "personality": [
+        "得意",
+        "自信"
+      ],
+      "abilities": [
+        "神秘者能力",
+        "使用电光"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "坎贝亚",
+          "type": "同伴"
+        },
+        {
+          "target": "海兰",
+          "type": "对手"
+        },
+        {
+          "target": "安格列",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在伐木地与海兰对峙，后与安格列战斗并追逐至马车道。"
+        }
+      ],
+      "evidence": [
+        "银发青年对着安格列微微一笑。",
+        "他伸出右手，手中涌出丝丝蓝色电弧。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "坎贝亚",
+      "aliases": [
+        "双剑坎贝亚"
+      ],
+      "identity": "大骑士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "大骑士，使用双剑，偷袭海兰未果，与海兰战斗。",
+      "appearance": [
+        "满脸络腮胡"
+      ],
+      "personality": [],
+      "abilities": [
+        "大骑士实力"
+      ],
+      "equipment": [
+        "两把银色大剑"
+      ],
+      "relationships": [
+        {
+          "target": "银发青年",
+          "type": "同伴"
+        },
+        {
+          "target": "海兰",
+          "type": "对手"
+        },
+        {
+          "target": "安格列",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "偷袭海兰被安格列阻止，后与海兰战斗。"
+        }
+      ],
+      "evidence": [
+        "偷袭者提着两把银色大剑，满脸络腮胡。",
+        "坎贝亚轻轻一跳，一个倒翻，落在不远处的树杈上蹲下。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "帝摩斯",
+      "aliases": [],
+      "identity": "士兵",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "士兵，与海兰等人一起，对战斗感到后怕。",
+      "appearance": [],
+      "personality": [
+        "后怕",
+        "无力"
+      ],
+      "abilities": [],
+      "equipment": [
+        "剑"
+      ],
+      "relationships": [
+        {
+          "target": "海兰",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在伐木地目睹战斗，后撤退。"
+        }
+      ],
+      "evidence": [
+        "帝摩斯更是紧紧握着剑柄，脸色苍白，眼中满是后怕和无力。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "芬奇兄弟",
+      "aliases": [],
+      "identity": "骑士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "两名骑士，挡在其他人身前。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "海兰",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在伐木地挡在其他人身前。"
+        }
+      ],
+      "evidence": [
+        "芬奇兄弟两名骑士挡在他们的身前。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "艾薇儿",
+      "aliases": [],
+      "identity": "贵族小姐",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "贵族小姐，遭遇强盗袭击，父母遇害，躲在马车下。",
+      "appearance": [
+        "漂亮大眼睛"
+      ],
+      "personality": [
+        "害怕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "父亲",
+          "type": "父女"
+        },
+        {
+          "target": "母亲",
+          "type": "母女"
+        },
+        {
+          "target": "安格列",
+          "type": "认识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在马车中遭遇强盗袭击，父亲被背叛，母亲出战，她躲在马车下。"
+        }
+      ],
+      "evidence": [
+        "艾薇儿漂亮的大眼睛忽然看到走出树林的安格列。",
+        "艾薇儿一个人呆在车里，不知所措地蹲下身。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "艾薇儿的父亲",
+      "aliases": [],
+      "identity": "贵族领主",
+      "faction": "",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "贵族领主，被骑士邓利维背叛刺伤。",
+      "appearance": [],
+      "personality": [
+        "严肃"
+      ],
+      "abilities": [
+        "武技娴熟"
+      ],
+      "equipment": [
+        "指挥刀"
+      ],
+      "relationships": [
+        {
+          "target": "艾薇儿",
+          "type": "父女"
+        },
+        {
+          "target": "邓利维",
+          "type": "被背叛"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在马车外战斗，被邓利维背叛刺伤。"
+        }
+      ],
+      "evidence": [
+        "父亲拿着指挥刀，肃然站在车外，不时上前砍死几个冲进来的漏网之鱼。",
+        "他的腹部，一把黑色匕首深深插进去，鲜血蜂拥而出。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "艾薇儿的母亲",
+      "aliases": [],
+      "identity": "贵族夫人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "贵族夫人，在丈夫受伤后提剑出战。",
+      "appearance": [],
+      "personality": [
+        "勇敢"
+      ],
+      "abilities": [],
+      "equipment": [
+        "银色长剑"
+      ],
+      "relationships": [
+        {
+          "target": "艾薇儿",
+          "type": "母女"
+        },
+        {
+          "target": "艾薇儿的父亲",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "安慰女儿后，提剑冲出马车。"
+        }
+      ],
+      "evidence": [
+        "母亲脸上露出一丝奇怪的神色，放开怀中的女儿，正色说。",
+        "站起身，母亲提起一边的银色长剑，义无反顾掀开车帘，冲出马车。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "邓利维",
+      "aliases": [],
+      "identity": "骑士",
+      "faction": "泰瑞哥",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "骑士，背叛了艾薇儿的父亲，刺伤了他。",
+      "appearance": [],
+      "personality": [
+        "冷酷"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑色匕首"
+      ],
+      "relationships": [
+        {
+          "target": "艾薇儿的父亲",
+          "type": "背叛"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "背叛并刺伤艾薇儿的父亲。"
+        }
+      ],
+      "evidence": [
+        "邓利维骑士脸上没有一丝表情。",
+        "他的腹部，一把黑色匕首深深插进去，鲜血蜂拥而出，滴落在地上。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

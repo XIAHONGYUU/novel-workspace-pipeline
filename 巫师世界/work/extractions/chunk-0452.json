@@ -1,0 +1,238 @@
+{
+  "chunk_id": "chunk-0452",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "安格列·里奥"
+      ],
+      "identity": "巫师，拥有芯片辅助",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，正在研究吸血鬼心核，并处理各种事务。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有同情心"
+      ],
+      "abilities": [
+        "记忆读取",
+        "使用巫术",
+        "召唤光焰狮妖",
+        "布置守护元素"
+      ],
+      "equipment": [
+        "金红色长刀",
+        "铠甲",
+        "黑色试管（黑石元素）",
+        "水晶球"
+      ],
+      "relationships": [
+        {
+          "target": "三只吸血鬼",
+          "type": "研究对象"
+        },
+        {
+          "target": "贝多利亚",
+          "type": "属下"
+        },
+        {
+          "target": "明古拉",
+          "type": "朋友"
+        },
+        {
+          "target": "尤金",
+          "type": "敌人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "审问吸血鬼心核，读取记忆，处理尸体，返回实验室，与贝多利亚通讯得知尤金被变形。"
+        }
+      ],
+      "evidence": [
+        "安格列一脸无辜。",
+        "安格列脸色难看的站在原地。",
+        "安格列右手轻轻一握，一把金红色长刀连同铠甲顿时浮现在右臂上。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "吸血鬼少女",
+      "aliases": [],
+      "identity": "吸血鬼，智力低下",
+      "faction": "",
+      "status": "已死（灵魂消散）",
+      "first_appearance": "",
+      "summary": "三只吸血鬼之一，因近亲吸食智力受损，灵魂被安格列读取后消散。",
+      "appearance": [],
+      "personality": [
+        "畏惧",
+        "智力低"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "被审问"
+        },
+        {
+          "target": "另外两只吸血鬼",
+          "type": "父女/兄妹"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被火蛇狼群和巫师战争重伤，与父兄相互吸食鲜血导致智力下降。"
+        },
+        {
+          "stage": "当前",
+          "event": "被安格列读取记忆后灵魂消散。"
+        }
+      ],
+      "evidence": [
+        "少女面孔隐隐马上浮现出丝丝畏惧",
+        "居然只有两岁半小孩的智力",
+        "三只吸血鬼因为太过饥饿，才相互吸食鲜血"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "贝多利亚",
+      "aliases": [],
+      "identity": "安格列的属下",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "安格列的属下，劫走了尤金并报告情况。",
+      "appearance": [],
+      "personality": [
+        "嬉笑",
+        "幸灾乐祸"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "首领"
+        },
+        {
+          "target": "尤金",
+          "type": "俘虏"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过水晶球与安格列通讯，报告尤金被变形。"
+        }
+      ],
+      "evidence": [
+        "贝多利亚的声音居然从球体中传出来",
+        "贝多利亚一身红袍，手里倒提着一只肥硕的小黑猪"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "尤金",
+      "aliases": [],
+      "identity": "黎明巫师",
+      "faction": "",
+      "status": "被变形为猪",
+      "first_appearance": "",
+      "summary": "曾经的黎明巫师，被地底王子用大巫术变成黑猪。",
+      "appearance": [
+        "黑猪头部隐约能分辨出是尤金的面孔"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "敌人"
+        },
+        {
+          "target": "贝多利亚",
+          "type": "俘虏"
+        },
+        {
+          "target": "平空王子",
+          "type": "施术者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被平空王子用黑石权杖释放的永恒变形术变成黑猪，被贝多利亚劫走。"
+        }
+      ],
+      "evidence": [
+        "黑猪头部居然隐约能够分辨出是尤金的面孔",
+        "永恒变形术"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "明古拉",
+      "aliases": [],
+      "identity": "黑肤男子，安格列的朋友",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与苏曼等人一起逃离，安格列不想误伤的朋友。",
+      "appearance": [
+        "黑皮肤"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "黑肤男子，就是当初和苏曼等人一起逃离的明古拉",
+        "安格列一直承了明古拉的人情"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "平空王子",
+      "aliases": [],
+      "identity": "地底王子",
+      "faction": "地底",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "使用黑石权杖释放永恒变形术将尤金变成猪。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "使用黑石权杖释放大巫术"
+      ],
+      "equipment": [
+        "黑石权杖"
+      ],
+      "relationships": [
+        {
+          "target": "尤金",
+          "type": "施术对象"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "被地底的平空王子用黑石权杖释放的一次性大巫术"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "chunk_id": "chunk-0034",
+  "characters": [
+    {
+      "name": "薛保侯",
+      "aliases": [
+        "薛侯爷",
+        "薛将军"
+      ],
+      "identity": "边军侯爷",
+      "faction": "边军",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "边军侯爷，主持水陆大会，以剿匪为名联合豪绅抄家，并试图收拢人心。",
+      "appearance": [],
+      "personality": [
+        "老谋深算",
+        "凶焰滔天"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛三宝",
+          "type": "敌对（薛三宝是其侄子？）"
+        },
+        {
+          "target": "蚊三道人",
+          "type": "部下"
+        },
+        {
+          "target": "浪里叟",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "宣布送银子，提出三七分账，联合豪绅剿匪。"
+        }
+      ],
+      "evidence": [
+        "薛保侯缓缓开口，'怎么会是无故呢...'",
+        "薛保侯更是赤裸裸道：'这一次，咱们不刮小民，只收豪绅，三七分账...'",
+        "薛保侯嗤笑一声，直接转身，背对二人拿起酒碗。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "蚊三道人",
+      "aliases": [],
+      "identity": "道人，薛保侯部下",
+      "faction": "边军",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "薛保侯的部下，阴森森，会法术。",
+      "appearance": [],
+      "personality": [
+        "阴森"
+      ],
+      "abilities": [
+        "铁锁印",
+        "退神指"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "部下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "上前说话，并出手阻止飞鸦人刺杀薛保侯。"
+        }
+      ],
+      "evidence": [
+        "蚊三道人上前一步，阴森森的道：'大军开拔...'",
+        "蚊三道人左手捏铁锁印，右手捏退神指，喑哑一笑..."
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "浪里叟",
+      "aliases": [],
+      "identity": "白江上的船老大",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "白江上的船老大，手下几十条运货船，已暗投薛保侯。",
+      "appearance": [
+        "红脸皮、单挂衣的瘦老汉"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "发言质疑，后暴露已投靠薛保侯。"
+        }
+      ],
+      "evidence": [
+        "说话的是个红脸皮、单挂衣的瘦老汉，外号浪里叟...",
+        "浪里叟抚须，笑而不语。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "薛三宝",
+      "aliases": [],
+      "identity": "薛保侯的侄子？",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "薛保侯的侄子，被薛白救走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "敌对（？）"
+        },
+        {
+          "target": "薛白",
+          "type": "表兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "被薛白救走，往北边冲。"
+        }
+      ],
+      "evidence": [
+        "薛三宝没有半点犹豫，直接低声道：'往北边冲！那里有我藏的后手！'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "薛白",
+      "aliases": [],
+      "identity": "薛三宝的表弟",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "薛三宝的表弟，救走薛三宝，会太极球掌。",
+      "appearance": [
+        "嫩嫩的脸"
+      ],
+      "personality": [],
+      "abilities": [
+        "太极球掌"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛三宝",
+          "type": "表兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "救走薛三宝，与许三飙交手。"
+        }
+      ],
+      "evidence": [
+        "薛白一把夹起薛三宝，张腿就奔...",
+        "薛白头也不回，右腕一翻，人体为轴，掌心红的像是滴血一般..."
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "许三飙",
+      "aliases": [],
+      "identity": "四豹将之一",
+      "faction": "边军",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "明面上唯一一位四豹将，出手拦截薛白。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "粗链"
+      ],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "部下"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "出手拦截薛白。"
+        }
+      ],
+      "evidence": [
+        "明面上唯一一位四豹将许三飙虎目圆瞪，'呔'声如雷..."
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "赤身党首领戚三郎？",
+      "faction": "赤身党",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "疑似赤身党首领戚三郎，但台上尸体与他相似，他本人则在看戏。",
+      "appearance": [],
+      "personality": [
+        "温吞",
+        "暴虐"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚三郎",
+          "type": "同一人？"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "在人群中看戏，目睹‘自己’的尸体。"
+        }
+      ],
+      "evidence": [
+        "戚笼表面的温吞，以及骨子里渐渐恢复的暴虐似乎都有些不够用了...",
+        "戚笼沉思了下，渐渐了然..."
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "照灯笼",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "目睹狼形人与黑袍人交手，似乎认识对方。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "看到狼形人与黑袍人交手，愕然。"
+        }
+      ],
+      "evidence": [
+        "照灯笼愕然看着这一幕，刚要开口..."
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赤天王",
+      "aliases": [],
+      "identity": "赤身六王之一",
+      "faction": "赤身党",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "赤身六王中的赤天王，带领马匪冲入会场为戚天王报仇。",
+      "appearance": [
+        "身披小甲，头戴血骨面具"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "近百斤的圆面骨斧"
+      ],
+      "relationships": [
+        {
+          "target": "戚天王",
+          "type": "同党"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "带领马匪冲入会场。"
+        }
+      ],
+      "evidence": [
+        "是赤身六王中的赤天王，他们给戚天王报仇来了！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "狼形人",
+      "aliases": [],
+      "identity": "地军成员",
+      "faction": "地军",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "地军成员，能化作狼形，速度快，与黑袍人交手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "狼化"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黑袍人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "与黑袍人交手，被认出是天狼裔。"
+        }
+      ],
+      "evidence": [
+        "狼形人速度快如闪电，人群中狂掠而过...",
+        "狼形人不可思议道：'你也是天狼裔？'"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "黑袍人",
+      "aliases": [],
+      "identity": "天狼裔",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "与狼形人交手的天狼裔，眼神淡漠，刀势疯狂。",
+      "appearance": [
+        "黑袍"
+      ],
+      "personality": [
+        "淡漠"
+      ],
+      "abilities": [
+        "狼化",
+        "狼刀"
+      ],
+      "equipment": [
+        "狼刀"
+      ],
+      "relationships": [
+        {
+          "target": "狼形人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "与狼形人交叉而过，拔狼刀。"
+        }
+      ],
+      "evidence": [
+        "迎面而来的极淡漠的眼神，还有疯狂如群狼奔涌的刀势。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "飞鸦人",
+      "aliases": [],
+      "identity": "地军成员",
+      "faction": "地军",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "地军成员，能化作乌鸦，袭击薛保侯被蚊三道人阻止。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "鸦化",
+        "嘴刀"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "刺杀目标"
+        },
+        {
+          "target": "蚊三道人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "袭击薛保侯，被蚊三道人用退神指击退。"
+        }
+      ],
+      "evidence": [
+        "飞鸦人两口嘴刀似是撞上了透明盾牌...",
+        "退神指隔空一指，符文掠过，飞鸦人身子一僵..."
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "牛足人",
+      "aliases": [],
+      "identity": "地军成员",
+      "faction": "地军",
+      "status": "登场",
+      "first_appearance": "第三十三章 水陆大会 砍头大会（下）",
+      "summary": "地军成员，能化作牛蹄，有夔牛震能力。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "夔牛震",
+        "牛化"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "水陆大会",
+          "event": "与狼形人、飞鸦人一同袭击，双脚陷泥中。"
+        }
+      ],
+      "evidence": [
+        "牛足人的双脚竟然深陷泥中，搅动泥水。",
+        "'夔牛震，天生神异，又是地军！'"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

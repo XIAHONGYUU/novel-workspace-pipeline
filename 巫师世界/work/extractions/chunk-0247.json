@@ -1,0 +1,230 @@
+{
+  "chunk_id": "chunk-0247",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师",
+      "faction": "六环",
+      "status": "登场",
+      "first_appearance": "第246章 了结 1",
+      "summary": "安格列正在处理信件和联系他人，准备前往六环总部。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "黑色望远镜筒",
+        "黄铜望远镜"
+      ],
+      "relationships": [
+        {
+          "target": "艾丽",
+          "type": "仆人"
+        },
+        {
+          "target": "莉莉安娜",
+          "type": "导师"
+        },
+        {
+          "target": "丽丝佩尔",
+          "type": "朋友"
+        },
+        {
+          "target": "雷蒙",
+          "type": "朋友的朋友"
+        },
+        {
+          "target": "西瓦",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "给莉莉安娜写回信，联系丽丝佩尔和西瓦了解六环总部信息。"
+        }
+      ],
+      "evidence": [
+        "安格列放下手，陷入沉思。",
+        "安格列将信筒交给艾丽。",
+        "安格列直接询问主题。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "艾丽",
+      "aliases": [],
+      "identity": "仆人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第246章 了结 1",
+      "summary": "安格列的仆人，负责取纸笔、送信等事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为安格列取纸笔，并送信。"
+        }
+      ],
+      "evidence": [
+        "艾丽，给我拿纸笔过来。",
+        "艾丽拿着信筒出门。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "丽丝佩尔",
+      "aliases": [
+        "佩尔"
+      ],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场（通过千里镜）",
+      "first_appearance": "第246章 了结 1",
+      "summary": "安格列的朋友，与雷蒙在一起。",
+      "appearance": [
+        "高挑",
+        "淡黄色长袍",
+        "黑色长发绑成一束"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "朋友"
+        },
+        {
+          "target": "雷蒙",
+          "type": "伴侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过千里镜与安格列通话。"
+        }
+      ],
+      "evidence": [
+        "人影一身淡黄色长袍，面容精致，一头柔顺的黑色长发被绑成一束。正是丽丝佩尔。",
+        "雷蒙对我很好。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "雷蒙",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场（通过千里镜）",
+      "first_appearance": "第246章 了结 1",
+      "summary": "丽丝佩尔的伴侣，对安格列提供六环总部信息。",
+      "appearance": [
+        "金发美女",
+        "白色丝质衬衣"
+      ],
+      "personality": [
+        "自信",
+        "直接"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "丽丝佩尔",
+          "type": "伴侣"
+        },
+        {
+          "target": "安格列",
+          "type": "朋友的朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过千里镜与安格列交谈，告知六环总部信息。"
+        }
+      ],
+      "evidence": [
+        "一个只穿着白色丝质衬衣的金发美女从右侧挤了进来",
+        "我是雷蒙。",
+        "作为道歉，我可以给你说一下关于六环总部的事。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "西瓦",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "",
+      "status": "登场（通过千里镜）",
+      "first_appearance": "第246章 了结 1",
+      "summary": "安格列的朋友，正在做附魔实验，对安格列前往总部表示担忧。",
+      "appearance": [
+        "矮小老头",
+        "脏兮兮的白袍"
+      ],
+      "personality": [
+        "直率"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过千里镜与安格列通话，劝其谨慎前往总部。"
+        }
+      ],
+      "evidence": [
+        "一个身穿脏兮兮的白袍的矮小老头正站在一张大圆桌前",
+        "我建议你还是就呆在诺拉"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "雷林楠",
+      "aliases": [],
+      "identity": "六环年轻一代最强者",
+      "faction": "六环",
+      "status": "提及",
+      "first_appearance": "第246章 了结 1",
+      "summary": "六环年青一代最强者，脾气不好，心狠手辣。",
+      "appearance": [],
+      "personality": [
+        "冷漠",
+        "脾气不好",
+        "心狠手辣"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "六环的年青一代最强者雷林楠也会去。他的脾气不怎么好",
+        "雷林楠看上去很冷漠，而且脾气很不好"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

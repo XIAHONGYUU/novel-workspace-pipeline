@@ -1,0 +1,219 @@
+{
+  "chunk_id": "chunk-0739",
+  "characters": [
+    {
+      "name": "菩提僧",
+      "aliases": [
+        "小和尚"
+      ],
+      "identity": "佛门僧人，主体为戚笼",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "佛门僧人，拥有地藏王传承，能吞噬鬼脉，与齐大姑争夺阴宝。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "机敏"
+      ],
+      "abilities": [
+        "无间遁法",
+        "金佛龙不度",
+        "幽冥秽土转龙法",
+        "我佛地狱"
+      ],
+      "equipment": [
+        "黑王平顶冠（阴宝）"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主体"
+        },
+        {
+          "target": "齐大姑",
+          "type": "竞争对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与齐大姑打赌降伏鬼脉，成功获得阴宝黑王平顶冠。"
+        }
+      ],
+      "evidence": [
+        "菩提僧身子一纵，施展无间遁法，脚步一错，便出现在了那老鬼身边",
+        "菩提僧笑道：“此宝与小僧有缘”",
+        "菩提僧现出金身，金身之上，一层又一层地狱幻象显现而出"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "齐大姑",
+      "aliases": [
+        "大姑",
+        "巨大肉球"
+      ],
+      "identity": "上古仙门传人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "上古仙门传人，肉身变化为巨大怪物，拥有先天之气，与菩提僧争夺阴宝。",
+      "appearance": [
+        "近乎五百丈的怪物",
+        "身体表面筋肉鼓鼓，像是一团团大号热疙瘩"
+      ],
+      "personality": [
+        "豪爽",
+        "胡搅蛮缠"
+      ],
+      "abilities": [
+        "肉身变化",
+        "烧身火",
+        "先天之气凝鼎"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "菩提僧",
+          "type": "竞争对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与菩提僧打赌降伏鬼脉，但失败。"
+        }
+      ],
+      "evidence": [
+        "一个近乎五百丈的怪物显出身形",
+        "齐大姑大喜，直接动手，巨大的手掌向上一合",
+        "齐大姑用先天之气凝出一尊宝鼎"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "裘文璇",
+      "aliases": [],
+      "identity": "东华山二女之一",
+      "faction": "东华山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "东华山弟子，拥有仙兵级别的屏风，出手困住圣女。",
+      "appearance": [
+        "文文静静",
+        "不食人间烟火"
+      ],
+      "personality": [
+        "文静",
+        "果断"
+      ],
+      "abilities": [
+        "漫天仙光"
+      ],
+      "equipment": [
+        "仙兵屏风"
+      ],
+      "relationships": [
+        {
+          "target": "东华山二女",
+          "type": "同门"
+        },
+        {
+          "target": "圣女",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "用仙兵屏风困住圣女。"
+        }
+      ],
+      "evidence": [
+        "裘文璇虽然看上去文文静静",
+        "一出手便是漫天仙光",
+        "是那口仙兵级别的屏风"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "圣女",
+      "aliases": [
+        "鬼神府的大姑娘"
+      ],
+      "identity": "鬼神府圣女",
+      "faction": "鬼神府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "鬼神府圣女，被裘文璇困住后突破封印，质问众人。",
+      "appearance": [],
+      "personality": [
+        "冷脸"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裘文璇",
+          "type": "敌对"
+        },
+        {
+          "target": "齐大姑",
+          "type": "敌对"
+        },
+        {
+          "target": "菩提僧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "突破裘文璇的封印，质问众人。"
+        }
+      ],
+      "evidence": [
+        "那位圣女也突破了裘文璇的封印，冷着脸看向三人",
+        "鬼神府的大姑娘"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "鬼王",
+      "aliases": [
+        "老鬼"
+      ],
+      "identity": "千年鬼王，生前为皇室",
+      "faction": "",
+      "status": "被吞噬",
+      "first_appearance": "",
+      "summary": "千年鬼王，生前身份尊贵，拥有金锏和黑王平顶冠，被菩提僧和齐大姑联手击败，最终被齐大姑吞噬。",
+      "appearance": [],
+      "personality": [
+        "凶残"
+      ],
+      "abilities": [
+        "驾驭龙气",
+        "恢复头颅"
+      ],
+      "equipment": [
+        "金锏（上打昏君、下打不臣）",
+        "黑王平顶冠（阴宝）"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被菩提僧轰碎头颅后恢复，但被齐大姑吞噬。"
+        }
+      ],
+      "evidence": [
+        "那鬼王也知道，这恐怕是它唯一一次能够逃离的机会",
+        "这老鬼生前的身份必然极为尊贵",
+        "那鬼王应该是被二女夹攻，一直没机会施展这最强大的本事"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

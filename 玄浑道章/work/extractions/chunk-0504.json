@@ -1,0 +1,239 @@
+{
+  "chunk_id": "chunk-0504",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "卫氏军中修士",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第九章 诛邪",
+      "summary": "卫氏军中的修士，实力强大，一剑斩杀邪神真灵。",
+      "appearance": [
+        "飘悬在半空之中",
+        "遮帽下的脸容看不清晰"
+      ],
+      "personality": [
+        "淡然"
+      ],
+      "abilities": [
+        "剑如之术",
+        "斩诸绝",
+        "心力"
+      ],
+      "equipment": [
+        "惊霄剑",
+        "蝉鸣剑",
+        "天寰玉授衣"
+      ],
+      "relationships": [
+        {
+          "target": "卫灵英",
+          "type": "同军"
+        },
+        {
+          "target": "老道人",
+          "type": "同道（潜在冲突）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "诛邪之战",
+          "event": "观望邪神与老道人的斗战，邪神逃遁至其处，被其斩杀。"
+        }
+      ],
+      "evidence": [
+        "张御飘悬在半空之中，从方才开始，他便一直在观望着这场斗战",
+        "张御淡然看着那正自冲来的邪神真灵，伸手慢慢握上了惊霄剑的剑柄",
+        "他一剑从邪神真灵的残躯之上横斩而过"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "老道人",
+      "aliases": [
+        "陈师"
+      ],
+      "identity": "修士，顾少郎的老师",
+      "faction": "顾氏军",
+      "status": "登场",
+      "first_appearance": "第九章 诛邪",
+      "summary": "顾少郎的老师，实力强大的修士，与邪神真灵斗战，后因忌惮张御而退走。",
+      "appearance": [
+        "元神照影",
+        "赤金色光芒"
+      ],
+      "personality": [
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "元神照影",
+        "道音",
+        "赤色烈火"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "顾少郎",
+          "type": "师徒"
+        },
+        {
+          "target": "张御",
+          "type": "同道（潜在冲突）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "诛邪之战",
+          "event": "以元神照影与邪神真灵斗战，后因忌惮张御而退走。"
+        }
+      ],
+      "evidence": [
+        "老道元神照影已是出现在了那里",
+        "老道人惊疑不定的看着他，张御身上气机晦涩",
+        "他哼了一声，一挥袖，元神照影化光点飘散而去"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "顾少郎",
+      "aliases": [],
+      "identity": "顾氏军的少郎",
+      "faction": "顾氏军",
+      "status": "登场",
+      "first_appearance": "第九章 诛邪",
+      "summary": "顾氏军的少郎，与老道人合作诛杀邪神，后因邪神被张御斩杀而放弃。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "不纠缠"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "老道人",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "诛邪之战",
+          "event": "按计行事，命军士投掷玄兵，后得知邪神被张御斩杀，决定返回。"
+        }
+      ],
+      "evidence": [
+        "顾少郎对他一点头，随后一抬手，身后十名披甲军士手持玄兵站了出来",
+        "顾少郎兴奋言道：“那陈师可否将那邪神残躯交予我？”",
+        "顾少郎皱眉考虑片刻，最后一拂袖，道：“罢了，要捕杀邪神真灵总是有机会的”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "卫灵英",
+      "aliases": [
+        "卫军主"
+      ],
+      "identity": "卫氏军的军主",
+      "faction": "卫氏军",
+      "status": "登场",
+      "first_appearance": "第九章 诛邪",
+      "summary": "卫氏军的军主，听从张御的指示退避。",
+      "appearance": [],
+      "personality": [
+        "警惕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同军"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "诛邪之战",
+          "event": "整晚戒备，接到张御传声后带人退避。"
+        }
+      ],
+      "evidence": [
+        "卫灵英整晚没有休息，一直在戒备之中",
+        "她急急唤起正在休息众人，动作迅速的往远处退避"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "邪神真灵",
+      "aliases": [
+        "邪神"
+      ],
+      "identity": "邪神真灵",
+      "faction": "邪神信众",
+      "status": "死亡",
+      "first_appearance": "第九章 诛邪",
+      "summary": "被邪神信众召唤出的怪物，与老道人斗战后被张御斩杀。",
+      "appearance": [
+        "巨大猩红色怪物",
+        "身上挤满长短不一的手臂",
+        "脑袋上长满眼睛",
+        "下半身是巨大触须"
+      ],
+      "personality": [],
+      "abilities": [
+        "神异力量",
+        "控制草木沼泽"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邪神信众",
+          "type": "被崇拜"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "诛邪之战",
+          "event": "被召唤出来，与老道人斗战，被玄兵炸毁大部分躯体，逃遁时被张御斩杀。"
+        }
+      ],
+      "evidence": [
+        "祭坛上就出现了一个好似剥了皮肤的巨大猩红色怪物",
+        "邪神真灵仰起滑腻腻流淌粘液的上半身",
+        "张御一剑从邪神真灵的残躯之上横斩而过"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "老道人的弟子",
+      "aliases": [],
+      "identity": "老道人的弟子",
+      "faction": "顾氏军",
+      "status": "登场",
+      "first_appearance": "第九章 诛邪",
+      "summary": "老道人的弟子，负责传信和解释。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "老道人",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "诛邪之战",
+          "event": "看到老道人牵制邪神后，飞回向顾少郎报信，后向顾少郎解释邪神被张御斩杀。"
+        }
+      ],
+      "evidence": [
+        "老道人的一名弟子在远处看到这等情况，立刻往回飞驰",
+        "那弟子走了上来，叹道：“少郎，你所要的东西怕是拿不到了？”"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

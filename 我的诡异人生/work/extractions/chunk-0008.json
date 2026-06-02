@@ -1,0 +1,104 @@
+{
+  "chunk_id": "chunk-0008",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "模拟器使用者，前公司职员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第7章 帝钟",
+      "summary": "主角，通过模拟器探索未来，谨慎且善于记录。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于记录"
+      ],
+      "abilities": [
+        "黑暗行者（绿色）天赋，可在黑暗中视物"
+      ],
+      "equipment": [
+        "记事本",
+        "手机",
+        "帝钟",
+        "神秘的包铜骨骼"
+      ],
+      "relationships": [
+        {
+          "target": "年轻道士",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在云龙观模拟未来后死亡，退出模拟器，向年轻道士求取帝钟，返回平安花苑准备再次模拟。"
+        }
+      ],
+      "evidence": [
+        "苏午睁开眼睛，看过昏暗大殿里巍然而坐的三清尊神",
+        "苏午摸了摸衣兜，摸到衣兜里的手机，以及巴掌大的一个记事本。",
+        "苏午与道士就此别过，打车回了平安花苑。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "年轻道士",
+      "aliases": [
+        "道长"
+      ],
+      "identity": "云龙观道士",
+      "faction": "云龙观",
+      "status": "登场",
+      "first_appearance": "第7章 帝钟",
+      "summary": "云龙观的道士，苏午的朋友，将师父的帝钟借给苏午。",
+      "appearance": [],
+      "personality": [
+        "随和",
+        "不在乎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "朋友"
+        },
+        {
+          "target": "师父",
+          "type": "师徒"
+        }
+      ],
+      "evidence": [
+        "年轻道士才拿着一个长条锦盒姗姗来迟。",
+        "年轻道士好笑地看着苏午",
+        "年轻道士眼睛一亮，当即扫了二维码"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "师父",
+      "aliases": [],
+      "identity": "云龙观老道士，年轻道士的师父",
+      "faction": "云龙观",
+      "status": "提及",
+      "first_appearance": "第7章 帝钟",
+      "summary": "年轻道士的师父，帝钟的原主人，也在苏午的钓鱼佬群里。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻道士",
+          "type": "师徒"
+        }
+      ],
+      "evidence": [
+        "这是我师父箱子里的东西",
+        "我师父也在你这个群里！"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

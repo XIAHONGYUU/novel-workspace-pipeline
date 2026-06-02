@@ -1,0 +1,202 @@
+{
+  "chunk_id": "chunk-0037",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张兄"
+      ],
+      "identity": "泰阳学宫讲师",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第三十六章 药骨又至",
+      "summary": "泰阳学宫讲师，教授坚爪语，同时修习剑术和浑章，通过撰写文章树立博物学家形象。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有计划"
+      ],
+      "abilities": [
+        "剑术",
+        "浑章修持",
+        "古代博物学知识"
+      ],
+      "equipment": [
+        "夏剑",
+        "元元丹"
+      ],
+      "relationships": [
+        {
+          "target": "赵相乘",
+          "type": "书信往来"
+        },
+        {
+          "target": "屈功",
+          "type": "朋友"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        },
+        {
+          "target": "任义",
+          "type": "杂库管事"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "月中",
+          "event": "收到赵相乘书信，告知夭螈获利已存入银署。"
+        },
+        {
+          "stage": "十五日",
+          "event": "去宣文堂，屈功交付查找的资料。"
+        },
+        {
+          "stage": "十六日休沐",
+          "event": "去杂库接收第二批药材（异怪骨片），吸收源能。"
+        }
+      ],
+      "evidence": [
+        "张御每日往来于学堂和居所之间，除是授课传文，就是练剑修行",
+        "他仔细检查了一下，这回却不是他人假冒的，的确是那位安巡会主事寄送来的",
+        "他来到静室之内，将骨片之中所具备的源能全数吸收"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "赵相乘",
+      "aliases": [
+        "安巡会主事"
+      ],
+      "identity": "安巡会主事",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第三十六章 药骨又至",
+      "summary": "安巡会主事，曾与张御有交易，通过安庐居转交书信告知夭螈获利。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "书信往来"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "月中",
+          "event": "寄信给张御告知夭螈获利已存入银署。"
+        }
+      ],
+      "evidence": [
+        "学宫助役送来了一封落款赵相乘的书信",
+        "信中言及，上次自夭螈身上的获利，已是存放在了都护府里银署里"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "屈功",
+      "aliases": [
+        "屈兄"
+      ],
+      "identity": "学宫人员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十六章 药骨又至",
+      "summary": "学宫中的朋友，帮助张御查找资料。",
+      "appearance": [],
+      "personality": [
+        "热心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十五日",
+          "event": "在宣文堂茶室与张御见面，交付查找的资料。"
+        }
+      ],
+      "evidence": [
+        "屈功相请",
+        "屈功笑道：'不麻烦，我也对这件事很感兴趣'"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "李青禾",
+      "aliases": [
+        "青禾"
+      ],
+      "identity": "张御的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十六章 药骨又至",
+      "summary": "张御的随从，负责送信和结账等事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十五日",
+          "event": "张御让其送信去安庐居。"
+        },
+        {
+          "stage": "十六日",
+          "event": "随张御去杂库，与任义结清账目。"
+        }
+      ],
+      "evidence": [
+        "他写了一封书信，交给李青禾，让其送去安庐居",
+        "让李青禾与任义结清账目后"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "任义",
+      "aliases": [],
+      "identity": "杂库管事",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第三十六章 药骨又至",
+      "summary": "杂库管事，负责药材接收，与张御有交易。",
+      "appearance": [],
+      "personality": [
+        "恭敬"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "交易关系"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "十六日",
+          "event": "在杂库迎接张御，解释药材情况。"
+        }
+      ],
+      "evidence": [
+        "任义早已等在门前，并恭敬将他迎了进去",
+        "任义解释了一下，说是那家药行得知买家对上次的货物有不满意的地方"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

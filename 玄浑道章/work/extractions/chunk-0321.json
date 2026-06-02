@@ -1,0 +1,336 @@
+{
+  "chunk_id": "chunk-0321",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [],
+      "identity": "玄正，开阳学宫教长",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄正，开阳学宫教长，已成就第四章书，正在筹划统合玄府事宜。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "善于谋划"
+      ],
+      "abilities": [
+        "心光力量",
+        "御使飞剑"
+      ],
+      "equipment": [
+        "蝉鸣剑"
+      ],
+      "relationships": [
+        {
+          "target": "李青禾",
+          "type": "下属"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        },
+        {
+          "target": "桃定符",
+          "type": "联系人"
+        },
+        {
+          "target": "莫若华",
+          "type": "学生"
+        },
+        {
+          "target": "武泽",
+          "type": "信息来源"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "从玄府返回开阳学宫，处理杂事，喂妙丹君，考虑另立居所和统合玄府之事。"
+        }
+      ],
+      "evidence": [
+        "张御从玄府出来，这一次直接就返回了开阳学宫。",
+        "在成就了第四章书，他曾想过是否要辞去眼下的职位，不过仔细一想，觉得教长职位还是有必要留着的。",
+        "他再处理了一些外出之后遗落下来的杂事后，就独自一人来至顶层之上，亲手喂了妙丹君一些丹散。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的下属",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，负责送信等事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤来，叮嘱送信至石渠观。"
+        }
+      ],
+      "evidence": [
+        "把信写完之后，他将之封入信封之中，把李青禾唤来，叮嘱他依旧把书信送至上回的石渠观中。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "张御的宠物",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御亲手喂食丹散的宠物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御喂食丹散。"
+        }
+      ],
+      "evidence": [
+        "亲手喂了妙丹君一些丹散"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "桃定符",
+      "aliases": [],
+      "identity": "灵妙玄境相关联系人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张御写信向其询问灵妙玄境内打造飞舟及上修弟子之事。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "联系人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "张御写信向其询问。"
+        }
+      ],
+      "evidence": [
+        "这是向桃定符问询，灵妙玄境之内现如今是否可以打造飞舟。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "莫若华",
+      "aliases": [],
+      "identity": "青阳上洲女军士，原神尉军成员",
+      "faction": "青阳上洲",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被征召至北方前线的女军士，正在进行训练，表现出色，被观察者注意。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "镇定",
+        "勇敢"
+      ],
+      "abilities": [
+        "灵性力量",
+        "战斗技巧"
+      ],
+      "equipment": [
+        "神袍"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "学生"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在北方战线营垒中与女军士对练，干净利落击败对手。"
+        }
+      ],
+      "evidence": [
+        "莫若华正与许多女军士一起进行着艰苦的训练。",
+        "莫若华冷静分辨了一下，对方力量很强，但是技巧方面却略显粗糙。",
+        "莫若华这一次干净利落的收拾了对手。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "万明道人",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与曹方定在荒原地下洞窟中交谈，告知方台道派投靠霜洲的消息，并愿陪同曹方定前往方台道派。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "关心道友"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹方定",
+          "type": "道友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在荒原地下洞窟与曹方定交谈，告知方台道派投靠霜洲的消息。"
+        }
+      ],
+      "evidence": [
+        "万明道人走入曹方定的居处，在其对面的石案前坐了下来。",
+        "万明道人言道：“道友若问的是上回那些霜洲人，他们退回去后一直没有什么动静。”",
+        "万明道人见他态度坚决，考虑片刻，点头道：“道友既然欲去，那我便随道友走一趟吧。”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "曹方定",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与万明道人在荒原地下洞窟中交谈，得知方台道派投靠霜洲的消息后，决定前往方台道派。",
+      "appearance": [],
+      "personality": [
+        "重情义",
+        "坚决"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "万明道人",
+          "type": "道友"
+        },
+        {
+          "target": "何派主",
+          "type": "旧友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与万明道人交谈，决定前往方台道派。"
+        }
+      ],
+      "evidence": [
+        "曹方定问道：“那些霜洲人现在在干什么？”",
+        "曹方定沉声道：“何派主非是那等人。”",
+        "曹方定沉声道：“我知结果可能不如人意，可是我与何派主有着百余年的交情，这件事我无法做到视而不见。”"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "中年男子",
+      "aliases": [],
+      "identity": "军中观察者，身着银色袍服",
+      "faction": "青阳上洲军方",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在营垒中观察女军士训练，对莫若华表现感兴趣，考虑将其放入后备人选。",
+      "appearance": [
+        "个头较高"
+      ],
+      "personality": [
+        "深思熟虑",
+        "有偏见"
+      ],
+      "abilities": [],
+      "equipment": [
+        "玉板"
+      ],
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "观察对象"
+        },
+        {
+          "target": "旁边的人",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "观察莫若华对练后，决定过几天再进行一次检验。"
+        }
+      ],
+      "evidence": [
+        "其中一名个头较高的中年男子看了眼手中的玉板，道：“从几天的情况来看，这个莫若华的心理状况最好。”",
+        "中年男子低头想了想，道：“这是一个问题，不过可以克服，或许还更好……”",
+        "中年男子交代完后，就要离去，可他仿佛想到了什么，回头又问了一句，“这个女军士有没有什么背景？”"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "旁边的人",
+      "aliases": [],
+      "identity": "军中观察者，身着银色袍服",
+      "faction": "青阳上洲军方",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与中年男子一同观察女军士，负责记录和安排。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "玉板",
+        "笔"
+      ],
+      "relationships": [
+        {
+          "target": "中年男子",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与中年男子观察莫若华，记录安排。"
+        }
+      ],
+      "evidence": [
+        "旁边的人则道：“她以前应该上过战场。”",
+        "旁边的人拿着笔在手中玉板划写了几下，道：“我会安排的。”",
+        "旁边那人嘴巴张动了一下，只是看见中年男子已经快步离去了，最后却是什么也没能说出来。"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

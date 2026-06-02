@@ -1,0 +1,167 @@
+{
+  "chunk_id": "chunk-0090",
+  "characters": [
+    {
+      "name": "谢云清",
+      "aliases": [
+        "小道士"
+      ],
+      "identity": "道士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第89章 变改的道路",
+      "summary": "老道士的徒弟，与师父一起在龙山集处理诡异事件。",
+      "appearance": [],
+      "personality": [
+        "焦虑",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "手机"
+      ],
+      "relationships": [
+        {
+          "target": "老道士",
+          "type": "师徒"
+        },
+        {
+          "target": "苏午",
+          "type": "求助者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在龙山集广场打电话联系苏午求助。"
+        }
+      ],
+      "evidence": [
+        "他看到谢云清放下电话，也赶快问道",
+        "小道士谢云清坐在广场的石墩子上，看着阴沉的天色，忽然沉沉地叹了口气。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "老道士",
+      "aliases": [
+        "师父"
+      ],
+      "identity": "道士",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第89章 变改的道路",
+      "summary": "谢云清的师父，似乎通过占卜知道苏午能帮忙。",
+      "appearance": [],
+      "personality": [
+        "神秘",
+        "无奈"
+      ],
+      "abilities": [
+        "占卜"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "安慰村民，并询问苏午的回复。"
+        }
+      ],
+      "evidence": [
+        "老道士在旁边安慰着一些焦虑不安的老人",
+        "老道士背着双手，慢悠悠走开，摇头晃脑地将村民们聚集起来，诉说情况去了。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "拥有特殊能力的人，疑似与诡异有关",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第89章 变改的道路",
+      "summary": "接到谢云清求助后前往龙山集，拥有眼地藏咒印和模拟能力，能操控心诡的伥尸。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "狡猾"
+      ],
+      "abilities": [
+        "眼地藏咒印",
+        "模拟能力",
+        "操控伥尸"
+      ],
+      "equipment": [
+        "背包",
+        "木盒",
+        "暗红纸页"
+      ],
+      "relationships": [
+        {
+          "target": "医生",
+          "type": "同为心诡下属，但敌对"
+        },
+        {
+          "target": "心诡",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "到达龙山界碑，发现道路被诡韵改变，进行模拟后找到路径。"
+        }
+      ],
+      "evidence": [
+        "苏午从车上下来，被阳光照得身上有些热。",
+        "苏午双眼中浮现一圈圈漩涡状纹络，些微神秘铭文在纹路中闪烁。",
+        "苏午当下是要在模拟中，寻出一条可以安全到达龙山集的路径。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "医生",
+      "aliases": [],
+      "identity": "心诡的下属，与苏午敌对",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第89章 变改的道路",
+      "summary": "被苏午从暗红纸页中放出，被迫答应帮助苏午。",
+      "appearance": [],
+      "personality": [
+        "阴沉",
+        "愤怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "敌对"
+        },
+        {
+          "target": "心诡",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午放出，被迫答应做事。"
+        }
+      ],
+      "evidence": [
+        "医生看着苏午做过这一切，眼神不禁阴沉起来",
+        "医生脸庞红得发紫，低着头，从牙缝里挤出了几个字。"
+      ],
+      "mention_count": 6
+    }
+  ]
+}

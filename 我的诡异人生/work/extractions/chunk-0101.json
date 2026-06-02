@@ -1,0 +1,162 @@
+{
+  "chunk_id": "chunk-0101",
+  "characters": [
+    {
+      "name": "周洋",
+      "aliases": [],
+      "identity": "被诡异事件卷入的普通人",
+      "faction": "",
+      "status": "被固定在莲台上，逐渐泥胎化",
+      "first_appearance": "第100章 塑像、粉饰",
+      "summary": "周洋是当前被诡异力量固定在血色莲台上的受害者，身体逐渐泥胎化，被消失的村民簇拥形成神像轮廓。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被功德箱喷出的冥钞形成的莲台固定，身体泥胎化，被消失的村民包围形成神像轮廓。"
+        }
+      ],
+      "evidence": [
+        "周洋看着那个只到自己膝盖处的功德箱，却喷出了远远大于箱子体积的一张张冥币大钞，一时间目瞪口呆",
+        "周洋站在这莲台上，脸色惨白",
+        "周洋脸上的血色渐少，他的肤色、发色、瞳色都在逐渐斑驳、起卷，如油采般脱落"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "诡异事件应对者，拥有特殊能力",
+      "faction": "",
+      "status": "正在观察并试图应对当前危机",
+      "first_appearance": "第100章 塑像、粉饰",
+      "summary": "苏午是当前场景中的关键人物，他观察着功德箱与村民投钱的关系，并试图找到破解死局的方法。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "善于观察",
+        "果断"
+      ],
+      "abilities": [
+        "能感知诡异规律",
+        "拥有进入过去人生的能力"
+      ],
+      "equipment": [
+        "手机"
+      ],
+      "relationships": [
+        {
+          "target": "周洋",
+          "type": "观察对象"
+        },
+        {
+          "target": "魏村长",
+          "type": "询问对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "发现村民投钱与周洋那边冥钞的对应关系，意识到死局，等待红灯笼出现。"
+        }
+      ],
+      "evidence": [
+        "苏午看着那个功德箱很有规律地不断弹出一张张钞票，忽然间心有所感",
+        "苏午心头凛然，目光死死盯着那一张张弹出的十亿冥钞",
+        "苏午想起自己那次在云龙观的三清神像前模拟，直接死在了道观正殿里"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "魏村长",
+      "aliases": [],
+      "identity": "龙山集村长",
+      "faction": "",
+      "status": "在场，与苏午交流",
+      "first_appearance": "第100章 塑像、粉饰",
+      "summary": "魏村长是龙山集的村长，苏午向他询问失踪村民的信息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被询问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午询问失踪村民的特征。"
+        }
+      ],
+      "evidence": [
+        "苏午忽然放下手机，走到魏村长身边，问了个问题",
+        "魏村长眼神惊异地看着他，点了点头"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "朱老太",
+      "aliases": [],
+      "identity": "龙山集失踪村民",
+      "faction": "",
+      "status": "失踪，出现在神像轮廓中",
+      "first_appearance": "第100章 塑像、粉饰",
+      "summary": "朱老太是最初失踪的村民，被苏午提及。",
+      "appearance": [
+        "又瘦又矮的婆婆"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "失踪。"
+        }
+      ],
+      "evidence": [
+        "最开始失踪的朱老太，是不是一个又瘦又矮的婆婆？"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "朱老太的儿子",
+      "aliases": [],
+      "identity": "龙山集失踪村民",
+      "faction": "",
+      "status": "失踪",
+      "first_appearance": "第100章 塑像、粉饰",
+      "summary": "朱老太的儿子，天生腿畸形，也失踪了。",
+      "appearance": [
+        "一条腿天生畸形"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱老太",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "之前",
+          "event": "失踪。"
+        }
+      ],
+      "evidence": [
+        "她儿子一条腿天生畸形？"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

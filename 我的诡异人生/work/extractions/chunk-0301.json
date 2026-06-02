@@ -1,0 +1,119 @@
+{
+  "chunk_id": "chunk-0301",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "大师兄"
+      ],
+      "identity": "灶班大师兄",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灶班大师兄，精通密藏域修行法门，指导师弟狗剩修行。",
+      "appearance": [],
+      "personality": [
+        "耐心",
+        "谨慎"
+      ],
+      "abilities": [
+        "密藏域脉轮修行法",
+        "外狮子印",
+        "焰网交彻"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "狗剩",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在柴房中指导狗剩修行虎衣明王密咒及脉轮法。"
+        }
+      ],
+      "evidence": [
+        "苏午见药汤已经熬好，便将之盛出来，去牛棚里给两匹大牲口一个端了一盆",
+        "苏午手掐外狮子印，念头一动，脐脉轮中的本源力量就被他勾动",
+        "苏午不厌其烦地讲解十数遍"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "狗剩",
+      "aliases": [
+        "小师弟"
+      ],
+      "identity": "灶班弟子",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "灶班弟子，得到虎衣明王本尊加持，开始修行密藏域脉轮法。",
+      "appearance": [],
+      "personality": [
+        "老实",
+        "勤奋"
+      ],
+      "abilities": [
+        "虎衣明王密咒"
+      ],
+      "equipment": [
+        "雁翅刀"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在苏午指导下念诵虎衣明王密咒，获得加持，并学习脉轮修行法。"
+        }
+      ],
+      "evidence": [
+        "狗剩郑重点头",
+        "狗剩咽了一口口水，回道：放在睡觉的房间里了",
+        "狗剩一捉住刀，那股方才还瑟瑟发抖的诡异力量，再度耀武扬威"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "师父",
+      "aliases": [],
+      "identity": "灶班师父",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "灶班的师父，推断马骡怀有双崽，对是否继续喂药迟疑。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "师徒"
+        },
+        {
+          "target": "狗剩",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "师父观测马骡后推断其怀有双崽，迟疑是否继续喂药。"
+        }
+      ],
+      "evidence": [
+        "师父观测过以后，推断它肚子里该有两个崽子",
+        "至到如今，师父也迟疑起来"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

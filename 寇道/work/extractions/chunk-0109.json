@@ -1,0 +1,763 @@
+{
+  "chunk_id": "chunk-0109",
+  "characters": [
+    {
+      "name": "寇立",
+      "aliases": [
+        "五灵子的小师弟",
+        "御鬼城主"
+      ],
+      "identity": "人仙分身本体，革命一道的修行者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，拥有本体和人仙分身，正在收集西南六煞的记忆和谋划。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "善于算计"
+      ],
+      "abilities": [
+        "革命一道",
+        "人仙拳意",
+        "龙影神拳"
+      ],
+      "equipment": [
+        "玄阴策"
+      ],
+      "relationships": [
+        {
+          "target": "斗无敌",
+          "type": "吸收其精神精华"
+        },
+        {
+          "target": "王无敌",
+          "type": "被其吞噬后又吸收"
+        },
+        {
+          "target": "虚一笑",
+          "type": "敌对"
+        },
+        {
+          "target": "阴长生",
+          "type": "敌对"
+        },
+        {
+          "target": "五灵子",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "深挖斗无敌记忆，收集鬼仙记忆残片，派出人仙分身寻找疯鬼仙。"
+        }
+      ],
+      "evidence": [
+        "随着寇立开始深挖斗无敌的记忆，不断收集粉碎的鬼仙记忆残片",
+        "寇立需要这个疯鬼仙的记忆，只要得到他的记忆，西南六煞的所有算计，都会彻底在他的掌握中。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "人仙分身",
+      "aliases": [
+        "御鬼城主"
+      ],
+      "identity": "寇立的人仙分身，玄阴策中名列第九",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "寇立的人仙分身，在西南名声很大，斩杀鬼物无数。",
+      "appearance": [],
+      "personality": [
+        "面无表情"
+      ],
+      "abilities": [
+        "金刀",
+        "后天五行法术",
+        "斗战圣拳意"
+      ],
+      "equipment": [
+        "鬼城"
+      ],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "本体"
+        },
+        {
+          "target": "疯鬼仙",
+          "type": "目标"
+        },
+        {
+          "target": "虚一笑",
+          "type": "被其算计杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "前往古战场寻找疯鬼仙，与疯鬼仙战斗并吸收其记忆，后被虚一笑设计杀死。"
+        }
+      ],
+      "evidence": [
+        "人仙分身如今在西南的名头，比起寇立正主还要大",
+        "人仙分身一拳轰出，将斗战圣的拳意轰入疯鬼仙的脑海中",
+        "鬼城被毁，人仙分身被杀"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "疯鬼仙",
+      "aliases": [
+        "无名",
+        "天兽御天神",
+        "老刘"
+      ],
+      "identity": "西南六煞之一，鬼仙转世，天兽御天神",
+      "faction": "西南六煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "西南六煞中的老刘，擅长抽取神兽血脉，转世后成为疯鬼仙，被斗无敌打散意识。",
+      "appearance": [],
+      "personality": [
+        "疯狂"
+      ],
+      "abilities": [
+        "天兽九转",
+        "抽取神兽血脉"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "斗无敌",
+          "type": "被其打散意识"
+        },
+        {
+          "target": "人仙分身",
+          "type": "被其吸收记忆"
+        },
+        {
+          "target": "虚一笑",
+          "type": "兄弟"
+        },
+        {
+          "target": "阴长生",
+          "type": "兄弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在古战场中心抽取鬼凤血脉，被人仙分身击败并吸收记忆。"
+        }
+      ],
+      "evidence": [
+        "这疯鬼仙十有八·九便是被斗无敌打散意识，又重新转世投胎的鬼仙。",
+        "他便是六煞中的老刘，天兽御天神！",
+        "人仙分身一拳轰出，将斗战圣的拳意轰入疯鬼仙的脑海中"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "虚一笑",
+      "aliases": [],
+      "identity": "西南六煞之一，擅长人皮变化",
+      "faction": "西南六煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "西南六煞之一，擅长人皮变化和模拟绝学，设计杀害了人仙分身。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "阴险"
+      ],
+      "abilities": [
+        "人皮变化",
+        "模拟绝学"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阴长生",
+          "type": "兄弟"
+        },
+        {
+          "target": "疯鬼仙",
+          "type": "兄弟"
+        },
+        {
+          "target": "人仙分身",
+          "type": "杀害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "假扮封岳和妖御，设计用六阳封神钟和阎帝真形符杀死人仙分身，带走疯鬼仙。"
+        }
+      ],
+      "evidence": [
+        "纯阳真光一合，化作虚一笑的身影，手抱疯鬼仙，怪笑连连，消失在虚空中。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "阴长生",
+      "aliases": [],
+      "identity": "西南六煞之一，鬼仙",
+      "faction": "西南六煞",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "西南六煞之一，正在炼制神仙令，与楚江王有联系。",
+      "appearance": [],
+      "personality": [
+        "冷酷无情"
+      ],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "虚一笑",
+          "type": "兄弟"
+        },
+        {
+          "target": "寇立",
+          "type": "敌对"
+        },
+        {
+          "target": "楚江王",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在玄阴寨炼制神仙令，后前往楚江殿取牵引灯。"
+        }
+      ],
+      "evidence": [
+        "阴长生在炼神仙令",
+        "阴长生则没有那般好运了，好不容易突破层层阴间险境，好不容易出现在楚江殿中"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "五灵子",
+      "aliases": [],
+      "identity": "五行观传人，鬼仙，五行神魔传承者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "寇立的师兄，成就鬼仙，拥有五行神魔传承，正在争夺酆都大帝之位。",
+      "appearance": [],
+      "personality": [
+        "漠然",
+        "强势"
+      ],
+      "abilities": [
+        "五行度人经",
+        "五色神火",
+        "五行神魔将传承"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "寇立",
+          "type": "师弟"
+        },
+        {
+          "target": "驭兽门门主",
+          "type": "击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闯入玄阴寨，连破禁制，击杀驭兽门门主，与平等王对峙。"
+        }
+      ],
+      "evidence": [
+        "五灵子一声不响的成就鬼仙",
+        "五灵子面色不变，身影甚至没有半点防备，就被迎面的空间裂痕撕扯成七八段",
+        "五行神魔将真正的传承封印在五灵子的体内"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "封岳",
+      "aliases": [],
+      "identity": "华山派弟子",
+      "faction": "华山派",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "华山派弟子，实际已被虚一笑杀害并假扮。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "北岳百灵百将篆"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "虚一笑",
+          "type": "被其假扮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与妖御一起邀请人仙分身深入古战场，后被虚一笑假扮。"
+        }
+      ],
+      "evidence": [
+        "一位是华山派弟子封岳",
+        "封岳同时怪笑一声，手中摸出了一张华山长老留给自家的护身符。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "妖御",
+      "aliases": [],
+      "identity": "西南降神传人",
+      "faction": "西南降神",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "西南降神传人，实际已被虚一笑杀害并假扮。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "降头神术",
+        "六阳封神钟"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "虚一笑",
+          "type": "被其假扮"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与封岳一起邀请人仙分身，后突然用六阳封神钟袭击人仙分身。"
+        }
+      ],
+      "evidence": [
+        "另一位则是妖御，是西南降神的传人。",
+        "妖御爆起，浑身忽然炸成血雾，化作一口血肉大钟，倒叩在分身头上。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "斗无敌",
+      "aliases": [],
+      "identity": "武道无敌，人仙",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "武道无敌之一，领悟斗战胜，后被王无敌吞噬，精神精华被寇立吸收。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "斗战胜",
+        "斗战圣"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "王无敌",
+          "type": "被其吞噬"
+        },
+        {
+          "target": "寇立",
+          "type": "精神精华被吸收"
+        },
+        {
+          "target": "疯鬼仙",
+          "type": "打散其意识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "轰碎神仙转世意识，达到无敌境界，后被王无敌吞噬。"
+        }
+      ],
+      "evidence": [
+        "这便是斗无敌的虚空精神，先是被王无敌吞噬，又被寇立吸收了王无敌的精神精华",
+        "斗无敌的记忆中，是他在拳术几近巅峰时，这潜伏了近二十年的神仙意识才开始苏醒"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "王无敌",
+      "aliases": [
+        "王武烈"
+      ],
+      "identity": "武道无敌之一",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "武道无敌之一，吞噬了斗无敌。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "吞噬"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "斗无敌",
+          "type": "吞噬"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "先是被王无敌吞噬"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "平等王",
+      "aliases": [],
+      "identity": "阴界阎罗王",
+      "faction": "阴界",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "阴界阎罗王之一，降临人间，与西南六煞有交易。",
+      "appearance": [
+        "金色骷髅",
+        "黑衣帝王形象"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "五灵子",
+          "type": "对峙"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "降临在血肉浮屠塔顶的白骨王座上。"
+        }
+      ],
+      "evidence": [
+        "平等王殿下，你要降临出手？",
+        "塔顶有一座白骨王座，王座上不知何时出现了一具金色骷髅，窟窿眼中，金火越来越亮，渐渐化作一座黑衣帝王的形象。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "楚江王",
+      "aliases": [],
+      "identity": "阴界阎罗王",
+      "faction": "阴界",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "阴界阎罗王之一，被封印在苍江支脉白河之上，与阴长生有联系。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "阴长生",
+          "type": "合作"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "楚江王的封印地点，便在苍江支脉白河之上"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "驭兽门门主",
+      "aliases": [
+        "兽王"
+      ],
+      "identity": "驭兽门门主",
+      "faction": "驭兽门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "驭兽门门主，被五灵子击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "百兽生裂法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "五灵子",
+          "type": "被其击杀"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与五灵子战斗，被其击杀。"
+        }
+      ],
+      "evidence": [
+        "驭兽门门主低吼一声，抛出一尊石像，随即人像合一，化作一只千年雷兽",
+        "兽王惨叫一声，魂消魄散，肉身尽毁。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "采补门门主",
+      "aliases": [],
+      "identity": "采补门门主",
+      "faction": "采补门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "旁门左道门派门主，在玄阴寨中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "采补门门主惊骇道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "天星阁星王",
+      "aliases": [],
+      "identity": "天星阁星王",
+      "faction": "天星阁",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "旁门左道门派首领，在玄阴寨中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "天星阁星王"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "龙虎派雷老道",
+      "aliases": [],
+      "identity": "龙虎派雷老道",
+      "faction": "龙虎派",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "旁门左道门派首领，在玄阴寨中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "龙虎派的雷老道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "元江魔蛟",
+      "aliases": [],
+      "identity": "千年魔蛟",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "千年魔蛟，参与玄阴寨大战。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "元江魔蛟、青牛王都不安的打了个寒颤"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青牛王",
+      "aliases": [],
+      "identity": "千年妖王",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "千年妖王，参与玄阴寨大战。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "元江魔蛟、青牛王都不安的打了个寒颤"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "紫气子",
+      "aliases": [],
+      "identity": "剑修",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "剑修，剑意化虹，参与玄阴寨大战。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑意化虹"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "紫气子剑意化虹，抵住白骨魔神"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白骨魔神",
+      "aliases": [],
+      "identity": "鬼仙宗魔神",
+      "faction": "鬼仙宗",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "鬼仙宗的白骨魔神，参与玄阴寨大战。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "一尊白骨魔神和一尊碧眼魔神现身"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "碧眼魔神",
+      "aliases": [],
+      "identity": "鬼仙宗魔神",
+      "faction": "鬼仙宗",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "鬼仙宗的碧眼魔神，参与玄阴寨大战。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "一尊白骨魔神和一尊碧眼魔神现身"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "蛊王神",
+      "aliases": [],
+      "identity": "五毒门首领",
+      "faction": "五毒门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "五毒门首领，跟随五灵子。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "五灵子",
+          "type": "跟随"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "身后的蛊王神连忙道"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "秦假仙",
+      "aliases": [],
+      "identity": "鬼仙宗长老",
+      "faction": "鬼仙宗",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "鬼仙宗长老，在西南外挡了两位鬼仙宗长老十年。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "若不是秦假仙在西南外挡了两位鬼仙宗长老十年"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "正阳子",
+      "aliases": [],
+      "identity": "剑仙",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "剑仙，曾一人一剑杀穿阴间。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "剑术"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "一人一剑，顺道而行，几乎将阴间杀了个通透。"
+        }
+      ],
+      "evidence": [
+        "正阳子一人一剑，顺道而行，几乎将阴间杀了个通透"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "赤帝",
+      "aliases": [],
+      "identity": "上古大帝",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "上古大帝，曾封印楚江王。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "楚江王",
+          "type": "封印"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "楚江王就被赤帝封印了"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

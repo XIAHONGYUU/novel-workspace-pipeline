@@ -1,0 +1,190 @@
+{
+  "chunk_id": "chunk-1363",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "檀越"
+      ],
+      "identity": "探索大雁塔的修行者，玄奘衣钵传人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "探索大雁塔，与玄奘留影对话，继承玄奘法性，进入疑似弥勒内院的钟乳洞天，遭遇被鲁母诡韵侵染的十八罗汉愿相，最终进入武则天陵墓。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有大宏愿"
+      ],
+      "abilities": [
+        "洪炉火",
+        "自性赤日",
+        "融合本源神灵"
+      ],
+      "equipment": [
+        "佛骨舍利"
+      ],
+      "relationships": [
+        {
+          "target": "玄奘",
+          "type": "衣钵传人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与玄奘留影对话，继承法性；进入钟乳洞天，击败十八罗汉愿相；进入武则天陵墓。"
+        }
+      ],
+      "evidence": [
+        "苏午喃喃低语着，将目光投向玄奘留影",
+        "苏午承继玄奘衣钵",
+        "苏午踏临此间，见得石碑上诸字迹，便已然确定自己来对了地方"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "玄奘",
+      "aliases": [
+        "玄奘法师",
+        "法师"
+      ],
+      "identity": "高僧大德，证见法性者",
+      "faction": "",
+      "status": "留影/已故",
+      "first_appearance": "",
+      "summary": "与苏午对话，解释佛陀的本质，将法性化作舍利交给苏午。",
+      "appearance": [],
+      "personality": [
+        "智慧",
+        "慈悲"
+      ],
+      "abilities": [
+        "法性"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "衣钵传人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与苏午对话后，将法性化作舍利交给苏午。"
+        }
+      ],
+      "evidence": [
+        "玄奘叹息一声，开口说道",
+        "玄奘闻言笑了起来",
+        "贫僧将法性化作舍利，留于檀越手中"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "武则天",
+      "aliases": [
+        "慈氏越古金轮圣神皇帝",
+        "天后"
+      ],
+      "identity": "唐朝皇帝，尊号慈氏越古金轮圣神皇帝",
+      "faction": "",
+      "status": "已故/陵墓主人",
+      "first_appearance": "",
+      "summary": "其陵墓位于钟乳洞天深处，陵墓内有大誓愿力架筑的天宫，疑似与弥勒内院有关。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其陵墓被苏午发现。"
+        }
+      ],
+      "evidence": [
+        "上书‘慈氏越古金轮圣神皇帝’几个大字",
+        "那‘慈氏越古金轮圣神皇帝’，即是‘武则天’的尊号"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "鲁母",
+      "aliases": [],
+      "identity": "诡邪存在，诡韵侵染大雁塔",
+      "faction": "",
+      "status": "未登场/被提及",
+      "first_appearance": "",
+      "summary": "其诡韵侵染了十八罗汉愿相，但被苏午的赤日焚炼。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "鲁母诡韵"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "其诡韵侵染十八罗汉愿相，被苏午焚炼。"
+        }
+      ],
+      "evidence": [
+        "鲁母诡韵降临于大雁塔中",
+        "十八大阿罗汉眼中涌出森森绿光，更为阴沉诡秘的鲁母诡韵从一尊尊‘愿相’之上弥散开来"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "神秀",
+      "aliases": [],
+      "identity": "僧人，立小西天世界－小雷音寺",
+      "faction": "",
+      "status": "未登场/被提及",
+      "first_appearance": "",
+      "summary": "与慧能等僧立下小西天世界－小雷音寺，自称掌握两京之间诸多龙脉本源神灵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午提及，其行为与玄奘法性相关。"
+        }
+      ],
+      "evidence": [
+        "想来神秀、慧能等僧立下‘小西天世界－小雷音寺’"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "慧能",
+      "aliases": [],
+      "identity": "僧人，立小西天世界－小雷音寺",
+      "faction": "",
+      "status": "未登场/被提及",
+      "first_appearance": "",
+      "summary": "与神秀等僧立下小西天世界－小雷音寺。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午提及。"
+        }
+      ],
+      "evidence": [
+        "想来神秀、慧能等僧立下‘小西天世界－小雷音寺’"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

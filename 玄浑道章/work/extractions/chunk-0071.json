@@ -1,0 +1,363 @@
+{
+  "chunk_id": "chunk-0071",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张师教",
+        "张辅教"
+      ],
+      "identity": "学宫师教（学正）",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "学宫师教，刚完成使命返回瑞光，处理事务并调查旧案。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有条理"
+      ],
+      "abilities": [],
+      "equipment": [
+        "裘字玉佩"
+      ],
+      "relationships": [
+        {
+          "target": "李青禾",
+          "type": "侍从"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "返回瑞光，交付使命，取金元，回居所，安排豹猫，撰写文书并送信至瀚墨报社。"
+        }
+      ],
+      "evidence": [
+        "张御回到瑞光之后，先往治署辖下的典宾司交付使命",
+        "他自里出来，顺便又去了一趟银署，将斩杀夭螈所获得的那笔丰厚金元取了出来。",
+        "张御略一思考，道：‘它喜食丹药，甚通人性，又是豹猫，山中之主，那就叫它‘妙丹君’好了。’"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "李青禾",
+      "aliases": [
+        "青禾"
+      ],
+      "identity": "张御的侍从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "张御的侍从，负责家务和传递消息。",
+      "appearance": [],
+      "personality": [
+        "忠诚",
+        "勤快"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在码头等候张御，汇报家中事务，接受照顾豹猫的任务，送信至瀚墨报社。"
+        }
+      ],
+      "evidence": [
+        "李青禾在他下码头时就已收到消息，一直在门外等候",
+        "李青禾道：‘先生，这小东西有名字么？’",
+        "李青禾一个躬身，就接过东西出去了。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "豹猫",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "张御带回的豹猫，喜食丹药，通人性。",
+      "appearance": [
+        "豹猫"
+      ],
+      "personality": [
+        "通人性",
+        "好奇"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御带回居所，获得名字‘妙丹君’。"
+        }
+      ],
+      "evidence": [
+        "这时一只豹猫从他身后冒了出来",
+        "它喜食丹药，甚通人性，又是豹猫，山中之主，那就叫它‘妙丹君’好了。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "裘学令",
+      "aliases": [
+        "裘学令"
+      ],
+      "identity": "学宫学令",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "学宫学令，因詹治同之事将其开革，并计划通过报纸撇清关系，但被张御揭露六十年前旧案。",
+      "appearance": [],
+      "personality": [
+        "狡猾",
+        "自私",
+        "虚伪"
+      ],
+      "abilities": [],
+      "equipment": [
+        "裘字玉佩"
+      ],
+      "relationships": [
+        {
+          "target": "詹治同",
+          "type": "师生（已断绝）"
+        },
+        {
+          "target": "张御",
+          "type": "同僚（表面）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "开革詹治同，安排报纸登文致歉，后因旧案被揭发而惊慌，司寇衙署上门。"
+        }
+      ],
+      "evidence": [
+        "裘学令正捧着茶杯，在苑中赏花",
+        "裘学令呵呵一笑，道：‘詹公这个人我是了解的……’",
+        "裘学令此时仍在睡梦之中，被人推动，便醒了过来"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "詹治同",
+      "aliases": [
+        "詹少郎"
+      ],
+      "identity": "裘学令的学生（已被开革）",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "裘学令的学生，因在蛮族部落表现不佳被开革。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裘学令",
+          "type": "师生（已断绝）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被裘学令开革，退还拜师贴。"
+        }
+      ],
+      "evidence": [
+        "詹少郎来了，说想要见你。",
+        "詹少郎接过拜贴，什么都没说就走了。"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "柳光",
+      "aliases": [],
+      "identity": "学宫人员（博学堂）",
+      "faction": "泰阳学宫",
+      "status": "登场",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "在博学堂阅读报纸，注意到六十年前旧案并认出玉佩为‘裘’字。",
+      "appearance": [],
+      "personality": [
+        "敏锐",
+        "正直"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在博学堂阅读报纸，发现旧案与裘学令有关。"
+        }
+      ],
+      "evidence": [
+        "柳光来至宽敞的公厅内，从报筒里拿过今天的几份报纸观看起来",
+        "他又看了眼那玉佩拓印，立刻辨认出来，那分明就是一个‘裘’字！"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "采生",
+      "aliases": [],
+      "identity": "被顶替者（已故）",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "六十年前被年轻师教买通顶替兵役的人，后因误会杀死妻子和助役后自裁。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻师教",
+          "type": "被顶替"
+        },
+        {
+          "target": "采生妻子",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "六十年前",
+          "event": "被买通顶替兵役，后因误会杀死妻子和助役后自裁。"
+        }
+      ],
+      "evidence": [
+        "采生因为报役顺利过关，拿了一笔安顿费，因心中挂念妻子，故是半夜折返回来",
+        "愤怒之下就用军中配发的刀剑了结了两人，最后又自裁而亡。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "年轻师教",
+      "aliases": [],
+      "identity": "师教（六十年前）",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "六十年前买通采生顶替兵役，并与采生妻子私通，导致惨案，后断腿逃脱。",
+      "appearance": [],
+      "personality": [
+        "贪生怕死",
+        "无耻"
+      ],
+      "abilities": [],
+      "equipment": [
+        "裘字玉佩"
+      ],
+      "relationships": [
+        {
+          "target": "采生",
+          "type": "买通顶替"
+        },
+        {
+          "target": "采生妻子",
+          "type": "私通"
+        },
+        {
+          "target": "助役",
+          "type": "主仆（后污蔑）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "六十年前",
+          "event": "买通采生顶替兵役，与采生妻子私通，导致惨案，后断腿逃脱。"
+        }
+      ],
+      "evidence": [
+        "有一名年轻师教因为贪生怕死，于是出钱买通了一个脚趾残缺，相貌与有自己七分相仿的，名叫采生的人，让他顶替自己前往。",
+        "年轻师教得知此事后，因怕牵连到自己，反污蔑助役偷了自己的东西"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "助役",
+      "aliases": [],
+      "identity": "年轻师教的助役（已故）",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "六十年前被年轻师教派去采生家取玉佩，被采生误杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻师教",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "六十年前",
+          "event": "被派去采生家取玉佩，被采生误杀。"
+        }
+      ],
+      "evidence": [
+        "助役去后，因叩门声对上了暗号，采生妻子以为是年轻师教又至，所以开门让他进屋。",
+        "愤怒之下就用军中配发的刀剑了结了两人"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "采生妻子",
+      "aliases": [],
+      "identity": "采生之妻（已故）",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七十章 陈年旧案",
+      "summary": "采生的妻子，与年轻师教私通，被采生误杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "采生",
+          "type": "夫妻"
+        },
+        {
+          "target": "年轻师教",
+          "type": "私通"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "六十年前",
+          "event": "与年轻师教私通，被采生误杀。"
+        }
+      ],
+      "evidence": [
+        "这名年轻师教竟在采生去报役的期间，与后者的安人妻子有了私情。",
+        "愤怒之下就用军中配发的刀剑了结了两人"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

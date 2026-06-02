@@ -1,0 +1,452 @@
+{
+  "chunk_id": "chunk-0431",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "玄正"
+      ],
+      "identity": "玄正",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "前往青阳上洲西南荒域搜查地下军垒，发现韩大匠已离开，后返回良州检正司安排追查其他大匠。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "心光",
+        "虹光飞行"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "温良",
+          "type": "下属"
+        },
+        {
+          "target": "时悦",
+          "type": "下属"
+        },
+        {
+          "target": "曹方定",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "搜查地下军垒，发现韩大匠已离开，返回良州安排追查范尚和费辽。"
+        }
+      ],
+      "evidence": [
+        "张御离开驻地之后，飞驰半日时间，来到了青阳上洲的西南荒域。",
+        "张御道：‘看来韩大匠已是离开了，他特意留了你下来，是要你传递什么话么？’",
+        "张御道：‘我们先回洲中。’"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "温良",
+      "aliases": [],
+      "identity": "下属",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "随张御前往地下军垒，在外等候。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随张御前往地下军垒，在外等候。"
+        }
+      ],
+      "evidence": [
+        "他让温良等人在外等候，自己则化一道虹光往下落来。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "韩大匠",
+      "aliases": [],
+      "identity": "大匠",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "地下军垒的主人，已离开至少两月，留下造物人传话。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已离开地下军垒，留下造物人传话。"
+        }
+      ],
+      "evidence": [
+        "看来韩大匠已是离开了，他特意留了你下来，是要你传递什么话么？",
+        "这里的主人离去至少也有两月余时间了"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "造物人",
+      "aliases": [
+        "年轻造物人"
+      ],
+      "identity": "造物人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "韩大匠留下的传话造物人，只有简单智慧，后引爆玄兵。",
+      "appearance": [
+        "面上只有眼、耳、口三处，身上也没有任何毛发，看着就像一个半成品"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "韩大匠",
+          "type": "创造者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "传话后引爆地下军垒中的玄兵。"
+        }
+      ],
+      "evidence": [
+        "这是一个造物人，其面上只有眼、耳、口三处，身上也没有任何毛发，看着就像一个半成品。",
+        "那个年轻造物人道：‘韩大匠说了，你们不必找他，也找不到’"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "范尚",
+      "aliases": [
+        "范大匠"
+      ],
+      "identity": "大匠，出身巨州天机院",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与霜洲交通的大匠之一，已卸任前往玉京。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "已卸任，乘飞舟前往玉京，行程约一月。"
+        }
+      ],
+      "evidence": [
+        "那位范大匠已于近期卸任了，他此刻已是沿着新近开辟出来北方通路去往玉京了。",
+        "呈报上说有一个月了。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "费辽",
+      "aliases": [
+        "费大匠"
+      ],
+      "identity": "大匠，出身涵州天机院",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与霜洲交通的大匠之一，仍在涵州天机院，可能为替身。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "仍在涵州天机院，无异常。"
+        }
+      ],
+      "evidence": [
+        "涵州天机院费大匠现在仍在院中，当地呈报说是看去没有什么异动。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "时悦",
+      "aliases": [
+        "时道友"
+      ],
+      "identity": "下属",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，被派去抓捕费辽。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御派去涵州抓捕费辽。"
+        }
+      ],
+      "evidence": [
+        "时悦道：‘那么另一个费大匠呢？’",
+        "时道友，这里就劳烦你走一趟了。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "曹方定",
+      "aliases": [
+        "曹道友"
+      ],
+      "identity": "下属",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的下属，主动请缨去追范尚。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "主动请缨去追范尚。"
+        }
+      ],
+      "evidence": [
+        "曹方定想了想，站出来一拱手，道：‘玄正，曹某愿意走一趟。’"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "曹度",
+      "aliases": [
+        "曹将军"
+      ],
+      "identity": "锐击军将军",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在独州上空青阳舰队主舟上，发现专校尉是造物人，并下令彻查军中造物人。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "专校尉",
+          "type": "下属"
+        },
+        {
+          "target": "詹校尉",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在锐击军会议上发现专校尉是造物人，并下令彻查。"
+        }
+      ],
+      "evidence": [
+        "曹度坐在主座上，沉声道：‘专校尉，你也算跟了我很多年了，却没想到你居然造物人。’",
+        "曹度肃声道：‘我问你，真正的专校尉哪里去了？’"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "专校尉",
+      "aliases": [],
+      "identity": "锐击军校尉（造物人冒充）",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被造物人冒充的校尉，被曹度识破后自杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被曹度识破是造物人，自杀。"
+        }
+      ],
+      "evidence": [
+        "专校尉挣扎了一下，抱屈道：‘将军，什么造物人啊，我不知道啊’",
+        "专校尉忽然呵呵笑了起来，道：‘曹度，看来你想查下去，我告诉你，你查不了的’"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "詹校尉",
+      "aliases": [],
+      "identity": "锐击军校尉",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "协助曹度制服专校尉。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "协助曹度制服专校尉。"
+        }
+      ],
+      "evidence": [
+        "詹校尉伸手一扯，就将军袍扯上"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "明校尉",
+      "aliases": [],
+      "identity": "锐击军校尉",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在青阳舰队主舟大厅外守候，与莫若华对话。",
+      "appearance": [],
+      "personality": [
+        "无聊",
+        "话多"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "莫若华",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与莫若华在厅外守候。"
+        }
+      ],
+      "evidence": [
+        "明校尉很是无聊道：‘莫校尉，你说他们在商量什么？’",
+        "明校尉靠在门沿上，道：‘我这不是无聊么’"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "莫若华",
+      "aliases": [
+        "莫校尉"
+      ],
+      "identity": "锐击军校尉",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与明校尉在厅外守候，性格严肃。",
+      "appearance": [],
+      "personality": [
+        "严肃",
+        "寡言"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "明校尉",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与明校尉在厅外守候。"
+        }
+      ],
+      "evidence": [
+        "莫若华不去看他，淡然言道：‘这是锐击军的军务’",
+        "莫若华道：‘我没疑问。’"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "中年参事",
+      "aliases": [],
+      "identity": "锐击军参事",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "协助曹度处理事务。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "曹度",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向曹度低语，后检查专校尉尸体。"
+        }
+      ],
+      "evidence": [
+        "这时那中年参事走过来，在他耳边低语了一声。",
+        "中年参事过去查看了一下，对着曹度摇摇头。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

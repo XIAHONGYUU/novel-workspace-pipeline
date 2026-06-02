@@ -1,0 +1,131 @@
+{
+  "chunk_id": "chunk-0073",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [],
+      "identity": "蜀道物流的人，叛徒",
+      "faction": "蜀道物流",
+      "status": "登场",
+      "first_appearance": "第72章 单挑",
+      "summary": "背刺上司顾甲，与石成峰单挑的刀客，使用破虏刀法，八品大圆满。",
+      "appearance": [
+        "黑色武服"
+      ],
+      "personality": [
+        "凶悍",
+        "嘲讽"
+      ],
+      "abilities": [
+        "破虏刀法",
+        "跃渊步身法",
+        "八品大圆满"
+      ],
+      "equipment": [
+        "直刃长刀"
+      ],
+      "relationships": [
+        {
+          "target": "顾甲",
+          "type": "被背刺的上司"
+        },
+        {
+          "target": "石成峰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "杀死顾甲后与石成峰单挑"
+        }
+      ],
+      "evidence": [
+        "李钧拔刀甩血，口中淡淡说道：“乱说话的人下场可不好。”",
+        "李钧同样察觉到了破虏刀招产生的异样",
+        "李钧低喝一声，展开跃渊步身法"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "石成峰",
+      "aliases": [
+        "持刀老猿"
+      ],
+      "identity": "未知势力成员，使用双刀",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第72章 单挑",
+      "summary": "与李钧单挑的对手，使用蝴蝶双刀，拥有械心‘举父’，可机械兽化。",
+      "appearance": [
+        "身形佝偻"
+      ],
+      "personality": [
+        "阴鸷",
+        "狡诈"
+      ],
+      "abilities": [
+        "蝴蝶双刀",
+        "械心‘举父’",
+        "机械兽化"
+      ],
+      "equipment": [
+        "蝴蝶双刀",
+        "械骨",
+        "械心‘举父’"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "敌对"
+        },
+        {
+          "target": "顾甲",
+          "type": "被诬陷杀死"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧单挑，被破虏刀法压制"
+        }
+      ],
+      "evidence": [
+        "石成峰冷哼一声，“当叛徒的下场也不会好。”",
+        "石成峰胸腔械心嗡鸣大作",
+        "石成峰怒吼一声，械心全力运转"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "顾甲",
+      "aliases": [],
+      "identity": "李钧的上司",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第72章 单挑",
+      "summary": "被李钧背刺杀死的人物。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被背刺的上司"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被李钧杀死"
+        }
+      ],
+      "evidence": [
+        "那柄直刃长刀缓缓从顾甲心口拔出",
+        "顾甲是死在你手上"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

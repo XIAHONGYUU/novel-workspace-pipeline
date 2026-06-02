@@ -1,0 +1,478 @@
+{
+  "chunk_id": "chunk-0973",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "守正"
+      ],
+      "identity": "守正",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "天夏守正，正在推演神通和祭炼法器，处理上宸天和道书事件。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "深思熟虑",
+        "果断"
+      ],
+      "abilities": [
+        "推演神通",
+        "祭炼法器",
+        "使用训天道章"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金郅行",
+          "type": "下属/情报来源"
+        },
+        {
+          "target": "晁焕",
+          "type": "同僚"
+        },
+        {
+          "target": "风子献",
+          "type": "同僚"
+        },
+        {
+          "target": "戴恭瀚",
+          "type": "同僚"
+        },
+        {
+          "target": "高墨",
+          "type": "同僚"
+        },
+        {
+          "target": "万明道人",
+          "type": "同僚"
+        },
+        {
+          "target": "许成通",
+          "type": "下属"
+        },
+        {
+          "target": "颜瑞江",
+          "type": "追捕对象"
+        },
+        {
+          "target": "赢冲",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "闭关推演神通，收到金郅行关于赢冲归来的消息，并转告晁焕。"
+        },
+        {
+          "stage": "两日后",
+          "event": "收到许成通文书，处理颜瑞江内奸事件，并发现道书问题。"
+        },
+        {
+          "stage": "之后",
+          "event": "召集廷执等人商议反制道书之法。"
+        }
+      ],
+      "evidence": [
+        "守正宫中，张御正身在后殿之中闭关推演神通。",
+        "张御待看完这些之后，心下一转念，上宸天的目的其实很好判断",
+        "张御待把消息送去许成通处之后，便就转意回来，再次看向那些道书。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "金郅行",
+      "aliases": [],
+      "identity": "情报提供者",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "向张御传递关于赢冲归来的消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "通过训天道章向张御报呈赢冲可能归来的消息。"
+        }
+      ],
+      "evidence": [
+        "他忽感训天道章之中有所异动，便暂时停了下来，将道章唤出一观，却见到了一段自金郅行处送传过来的言语。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "赢冲",
+      "aliases": [],
+      "identity": "上宸天重要人物",
+      "faction": "上宸天",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被张御打灭在世之身，但可能已归来，正在推动上宸天事务。",
+      "appearance": [],
+      "personality": [
+        "有威望",
+        "有手段",
+        "有执行力"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "对手"
+        },
+        {
+          "target": "金郅行",
+          "type": "被观察对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被张御打灭在世之身。"
+        },
+        {
+          "stage": "当前",
+          "event": "可能已归来，并推动上宸天事务。"
+        }
+      ],
+      "evidence": [
+        "上宸天那位被张御打灭在世之身的赢冲，此刻很可能已然归来了。",
+        "可在上宸天中，能有如此威望又有如此手段之人，也就只有赢冲了。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "晁焕",
+      "aliases": [
+        "廷执晁焕"
+      ],
+      "identity": "廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，参与张御召集的商议。",
+      "appearance": [],
+      "personality": [
+        "感兴趣"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "收到张御关于赢冲的消息，并参与道书反制商议。"
+        }
+      ],
+      "evidence": [
+        "故是他直接将这个消息送传去了晁焕处",
+        "廷执晁焕……等人都是意念入到此间"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "许成通",
+      "aliases": [
+        "许值司"
+      ],
+      "identity": "守正宫驻地人员",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "向张御递送关于颜瑞江的文书，并负责抓捕颜瑞江。",
+      "appearance": [],
+      "personality": [
+        "恭敬",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [
+        "飞舟"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "上级"
+        },
+        {
+          "target": "梁屹",
+          "type": "同伴"
+        },
+        {
+          "target": "师延辛",
+          "type": "同伴"
+        },
+        {
+          "target": "颜瑞江",
+          "type": "追捕对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "两日后",
+          "event": "向张御递送关于颜瑞江的文书。"
+        },
+        {
+          "stage": "之后",
+          "event": "与梁屹、师延辛一同前往翼空上洲抓捕颜瑞江。"
+        }
+      ],
+      "evidence": [
+        "许成通在将呈书送上去之后，就一直在法台之上等候消息",
+        "许成通早已在备妥了飞舟，计议一定，便请了两人一同登上了飞舟"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "颜瑞江",
+      "aliases": [],
+      "identity": "内奸",
+      "faction": "未知（可能是上宸天）",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被确认为内奸，藏身于翼空上洲，试图逃往玉京但被拦截。",
+      "appearance": [],
+      "personality": [
+        "狡猾"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "被追捕对象"
+        },
+        {
+          "target": "许成通",
+          "type": "追捕者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被许成通等人发现并拦截，未能逃入玉京。"
+        }
+      ],
+      "evidence": [
+        "颜瑞江此人确然是内奸",
+        "颜瑞江此刻正在定坐之中，忽然心生警兆"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "梁屹",
+      "aliases": [
+        "梁道友"
+      ],
+      "identity": "玄修",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与许成通一同抓捕颜瑞江。",
+      "appearance": [],
+      "personality": [
+        "沉声"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "同伴"
+        },
+        {
+          "target": "师延辛",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许成通、师延辛一同前往翼空上洲抓捕颜瑞江。"
+        }
+      ],
+      "evidence": [
+        "梁屹、师延辛此前一直在等候结果",
+        "梁屹沉声道：“好，这便与许值司同往。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "师延辛",
+      "aliases": [
+        "师道友",
+        "师玄修"
+      ],
+      "identity": "玄修",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与许成通一同抓捕颜瑞江，负责拦截去路。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "许成通",
+          "type": "同伴"
+        },
+        {
+          "target": "梁屹",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与许成通、梁屹一同前往翼空上洲抓捕颜瑞江，并提前拦截。"
+        }
+      ],
+      "evidence": [
+        "师延辛道：“就有我来做此事吧。”",
+        "师延辛对着两人一拱手，便就出了飞舟，纵光飞去。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "风子献",
+      "aliases": [
+        "廷执风子献",
+        "风道人"
+      ],
+      "identity": "廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，参与张御召集的商议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与张御召集的道书反制商议。"
+        }
+      ],
+      "evidence": [
+        "廷执风子献……等人都是意念入到此间"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "戴恭瀚",
+      "aliases": [
+        "廷执戴恭瀚"
+      ],
+      "identity": "廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏廷执，参与张御召集的商议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与张御召集的道书反制商议。"
+        }
+      ],
+      "evidence": [
+        "廷执戴恭瀚……等人都是意念入到此间"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "高墨",
+      "aliases": [
+        "玄首高墨"
+      ],
+      "identity": "玄首",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "天夏玄首，参与张御召集的商议。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与张御召集的道书反制商议。"
+        }
+      ],
+      "evidence": [
+        "玄首高墨……等人都是意念入到此间"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "万明道人",
+      "aliases": [],
+      "identity": "道人",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "参与张御召集的商议，曾想写驳斥之言。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "参与张御召集的道书反制商议。"
+        }
+      ],
+      "evidence": [
+        "万明道人道：“前日见到此书之后，便想着写几篇驳斥之言”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "chunk_id": "chunk-0545",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张巡使",
+        "张行走"
+      ],
+      "identity": "玄廷巡使",
+      "faction": "玄廷",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄廷巡使，负责调查霜星北地大阵事件，具有强大的心力和神觉之印。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "果断"
+      ],
+      "abilities": [
+        "心力",
+        "神觉之印"
+      ],
+      "equipment": [
+        "巡使之印",
+        "镂空铜球"
+      ],
+      "relationships": [
+        {
+          "target": "苗光伍",
+          "type": "合作"
+        },
+        {
+          "target": "林道修",
+          "type": "敌对"
+        },
+        {
+          "target": "陈副司马",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在驻地内堂中识破林道修和陈副司马的袭击，并反杀林道修，随后协助苗光伍清理内应。"
+        }
+      ],
+      "evidence": [
+        "张御在起身之后，就一步步向着林道修所在走去",
+        "张御此刻则是凭着神觉之印留意着每一个人的心神变动",
+        "张御道：“这次我在霜星北地发现了一座几是囊括整个地星北端的大阵”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "苗光伍",
+      "aliases": [
+        "苗司马"
+      ],
+      "identity": "驻军司马",
+      "faction": "驻地驻军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "驻地司马，负责驻地防务，因陈副司马和林道修通敌而陷入被动，后与张御合作清理内应。",
+      "appearance": [],
+      "personality": [
+        "果断",
+        "知错能改"
+      ],
+      "abilities": [],
+      "equipment": [
+        "驻地大阵阵牌"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作"
+        },
+        {
+          "target": "陈副司马",
+          "type": "敌对"
+        },
+        {
+          "target": "林道修",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御一同应对陈副司马和林道修的袭击，随后召集军士，按张御指示拿下内应。"
+        }
+      ],
+      "evidence": [
+        "苗光伍却是在这个时候上前一拳击出",
+        "苗光伍走至前方，道：“这一位是玄廷来的张行走”",
+        "苗光伍并未犹豫，他立刻自袖中将阵牌拿出，并递了过来。"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "林道修",
+      "aliases": [
+        "林道人"
+      ],
+      "identity": "修士",
+      "faction": "敌方（通敌）",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "驻军中的修士，与陈副司马合谋袭击张御和苗光伍，被张御一指击杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "法力"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈副司马",
+          "type": "同谋"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图用光芒困住张御，反被张御近身点杀。"
+        }
+      ],
+      "evidence": [
+        "林道修见状大喜，他坐在那里不停催运法力",
+        "林道修此刻神情一变，他又是一催法力",
+        "最后一指正正点在了眉心之中。霎时间，林道修浑身剧震"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "陈副司马",
+      "aliases": [],
+      "identity": "副司马",
+      "faction": "敌方（通敌）",
+      "status": "昏迷",
+      "first_appearance": "",
+      "summary": "驻军副司马，与林道修合谋，企图杀死苗光伍和张御并栽赃，后被苗光伍击昏。",
+      "appearance": [],
+      "personality": [
+        "阴险"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "林道修",
+          "type": "同谋"
+        },
+        {
+          "target": "苗光伍",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与林道修袭击张御和苗光伍，失败后投降，被苗光伍一拳击昏。"
+        }
+      ],
+      "evidence": [
+        "陈副司马见事情如此顺利，也是精神一振",
+        "陈副司马看出不对，他一咬牙，决定先行解决苗光伍",
+        "陈副司马一下倒飞了出去，身躯撞在了内堂那坚固的墙壁之上，顿时一口鲜血喷了出来"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "牛道修",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "驻地驻军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "驻军中的修士，被苗光伍要求遵守禁令。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苗光伍",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被召入内堂，后表示遵守禁令。"
+        }
+      ],
+      "evidence": [
+        "牛道修打一个稽首，道：“既在军中，自当遵命。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "齐玄修",
+      "aliases": [],
+      "identity": "修士",
+      "faction": "驻地驻军",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "驻军中的修士，被苗光伍要求遵守禁令。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苗光伍",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被召入内堂，后向张御行礼。"
+        }
+      ],
+      "evidence": [
+        "齐玄修一声不吭，看了眼张御，随后抬手行有一礼。"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "苏军候",
+      "aliases": [],
+      "identity": "军候",
+      "faction": "敌方（疑似内应）",
+      "status": "被拘押",
+      "first_appearance": "",
+      "summary": "驻军军候，被张御指出为内应，后被苗光伍下令拿下。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苗光伍",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御指出，后被苗光伍下令拿下。"
+        }
+      ],
+      "evidence": [
+        "张御此刻则是凭着神觉之印留意着每一个人的心神变动，而此时此刻，他果然也是有所发现，目光一移，抬起手来，对着人群点了几点。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "王军候",
+      "aliases": [],
+      "identity": "军候",
+      "faction": "敌方（疑似内应）",
+      "status": "被拘押",
+      "first_appearance": "",
+      "summary": "驻军军候，被张御指出为内应，后被苗光伍下令拿下。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苗光伍",
+          "type": "上下级"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御指出，后被苗光伍下令拿下。"
+        }
+      ],
+      "evidence": [
+        "张御此刻则是凭着神觉之印留意着每一个人的心神变动，而此时此刻，他果然也是有所发现，目光一移，抬起手来，对着人群点了几点。"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

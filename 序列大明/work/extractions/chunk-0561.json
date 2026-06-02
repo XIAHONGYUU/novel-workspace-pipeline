@@ -1,0 +1,400 @@
+{
+  "chunk_id": "chunk-0561",
+  "characters": [
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "老陈"
+      ],
+      "identity": "龙虎山叛徒，前斗部成员",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "龙虎山叛徒，师傅玄斗天师被害，心中充满疑惑与愤怒，被邹四九开导后决心复仇。",
+      "appearance": [
+        "剪去长发，留寸头，身穿黑色衣袍，胸膛缠绕绷带，侧脸有狭长疤痕"
+      ],
+      "personality": [
+        "迷惑",
+        "愤怒",
+        "坚韧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玄斗",
+          "type": "师傅"
+        },
+        {
+          "target": "阳宗",
+          "type": "师兄（已反目）"
+        },
+        {
+          "target": "邹四九",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清平道观大殿门槛上独坐，被邹四九开导，决心复仇。"
+        }
+      ],
+      "evidence": [
+        "陈乞生剪去了曾经的长发，留了一个在今日道门中依旧被视为离经叛道的寸长短发",
+        "陈乞生想不明白这是为什么",
+        "陈乞生望着神台上的龙虎祖师像，不掩眼中的蔑视"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "邹爷",
+        "四九",
+        "神棍"
+      ],
+      "identity": "阴阳序从序者，外号‘黄粱硕鼠’",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "陈乞生的朋友，性格粗犷直率，曾因不敬神而受排挤，游历各地，如今与陈乞生等人为伍。",
+      "appearance": [
+        "油亮的背头一丝不苟"
+      ],
+      "personality": [
+        "直率",
+        "粗犷",
+        "坚韧",
+        "重情义"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "朋友"
+        },
+        {
+          "target": "守御",
+          "type": "伴侣"
+        },
+        {
+          "target": "李钧",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在清平道观大殿开导陈乞生，提及自己过去的经历。"
+        }
+      ],
+      "evidence": [
+        "邹四九一屁股坐到了陈乞生的旁边",
+        "邹四九狞声道",
+        "邹四九挤眉弄眼，一脸得意"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "守御",
+      "aliases": [],
+      "identity": "邹四九的伴侣",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "红发女子，邹四九的伴侣，性格冷淡。",
+      "appearance": [
+        "满头红发似火"
+      ],
+      "personality": [
+        "冷淡"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "邹四九",
+          "type": "伴侣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出现在邹四九身后，后消失。"
+        }
+      ],
+      "evidence": [
+        "一道清丽的身影浮现在邹四九身后",
+        "满头红发似火",
+        "如焰的红发骤然消失"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "老李",
+        "钧哥",
+        "李薪主"
+      ],
+      "identity": "具证八身武者，薪主",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "陈乞生和邹四九的朋友，实力强大，独自前往袁州府，被阁皂山葛敬拦截。",
+      "appearance": [],
+      "personality": [
+        "警惕",
+        "果断"
+      ],
+      "abilities": [
+        "武功惊人"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "朋友"
+        },
+        {
+          "target": "邹四九",
+          "type": "朋友"
+        },
+        {
+          "target": "葛敬",
+          "type": "对手"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在袁州府被阁皂山葛敬拉入幻境交谈。"
+        }
+      ],
+      "evidence": [
+        "钧哥走了几天了？",
+        "李钧冷眼环伺",
+        "李薪主你的武功实在惊人"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "葛敬",
+      "aliases": [],
+      "identity": "阁皂山道序",
+      "faction": "阁皂山",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "阁皂山道序，气质温润，圆脸，拥有具证八身，代表阁皂山与李钧谈判，提及强敌张峰岳。",
+      "appearance": [
+        "气质温润的圆脸道人"
+      ],
+      "personality": [
+        "恭敬",
+        "圆滑"
+      ],
+      "abilities": [
+        "具证八身",
+        "幻境"
+      ],
+      "equipment": [
+        "青铜色泽的械臂"
+      ],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对手/谈判对象"
+        },
+        {
+          "target": "罗城",
+          "type": "同门后辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在袁州府幻境中拦截李钧，试图化解恩怨。"
+        }
+      ],
+      "evidence": [
+        "在下阁皂山，葛敬",
+        "葛敬脸上露出无奈的苦笑",
+        "葛敬拱手道"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "阳宗",
+      "aliases": [],
+      "identity": "龙虎山道序，陈乞生曾经的师兄",
+      "faction": "龙虎山",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "陈乞生曾经的师兄，如今反目成仇，在上饶县与陈乞生相遇，给了陈乞生脸上的疤痕。",
+      "appearance": [],
+      "personality": [
+        "怨恨",
+        "仇视"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "师兄（已反目）"
+        },
+        {
+          "target": "玄斗",
+          "type": "师傅（已故）"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在上饶县与陈乞生相遇，辱骂师傅玄斗，并给陈乞生留下疤痕。"
+        }
+      ],
+      "evidence": [
+        "阳宗为什么恨自己，陈乞生知道",
+        "这条疤是阳宗给他的回答",
+        "在上饶宰了那个叫阳宗的龙虎山道序"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "玄斗",
+      "aliases": [
+        "玄斗天师"
+      ],
+      "identity": "龙虎山天师，陈乞生的师傅",
+      "faction": "龙虎山",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "陈乞生的师傅，已故，被天师府迫害。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "陈乞生",
+          "type": "师傅"
+        },
+        {
+          "target": "阳宗",
+          "type": "徒弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "被天师府迫害致死。"
+        }
+      ],
+      "evidence": [
+        "师傅玄斗没了",
+        "玄斗天师出事以后"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [],
+      "identity": "新东林党魁首，内阁首辅，儒序二，帝师",
+      "faction": "新东林党",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被葛敬提及的强敌，儒序二，帝师。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "新东林党魁首，内阁首辅，儒序二，帝师张峰岳"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "罗城",
+      "aliases": [],
+      "identity": "阁皂山弟子（已故）",
+      "faction": "阁皂山",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "阁皂山弟子，在倭区行事入魔道，被李钧所杀。",
+      "appearance": [],
+      "personality": [
+        "跋扈",
+        "偏激"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "仇敌"
+        },
+        {
+          "target": "葛敬",
+          "type": "同门长辈"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "在倭区屠戮同门，祸及无辜，被李钧杀死。"
+        }
+      ],
+      "evidence": [
+        "罗城在倭区做的事情我们已经调查清楚了",
+        "罗城行事已入魔道"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "沈笠",
+      "aliases": [],
+      "identity": "被提及的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被邹四九提及，曾在津门被人逼得跳河也不低头。",
+      "appearance": [],
+      "personality": [
+        "坚韧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "沈笠，不愧是在津门被人逼得跳河也不低头的真爷们"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "阳龙",
+      "aliases": [],
+      "identity": "被提及的人物",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "邹四九提及阳龙可能出事了。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "阳龙应该是出事了"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "chunk_id": "chunk-0130",
+  "characters": [
+    {
+      "name": "裴行俭",
+      "aliases": [
+        "裴大人",
+        "裴县令",
+        "老人"
+      ],
+      "identity": "成都县县令",
+      "faction": "儒家",
+      "status": "登场",
+      "first_appearance": "第128章大忌",
+      "summary": "成都县县令，儒家官员，性格强势，对锦衣卫和法家持强硬态度。",
+      "appearance": [],
+      "personality": [
+        "强势",
+        "城府深",
+        "后知后觉"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "下属"
+        },
+        {
+          "target": "顾玺",
+          "type": "下属"
+        },
+        {
+          "target": "姚崇礼",
+          "type": "下属"
+        },
+        {
+          "target": "锦衣卫",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在县衙处理举荐事件，最终允许锦衣卫带走吴拱。"
+        }
+      ],
+      "evidence": [
+        "裴行俭止住笑声，一边擦着眼角的泪水，一边朝着那群锦衣卫摆了摆手。",
+        "裴行俭眉眼一冷，“到时候就别怪老夫痛打落水狗，不给伱们片瓦遮头了。”",
+        "裴行俭音调拔高，“既然都输了，那就大大方方的受着。”"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "吴拱",
+      "aliases": [],
+      "identity": "被举荐者，吴家成员",
+      "faction": "儒家",
+      "status": "死亡",
+      "first_appearance": "第128章大忌",
+      "summary": "参与举荐的官员，因与锦衣卫合作犯了大忌，被姚崇礼杀死。",
+      "appearance": [],
+      "personality": [
+        "疯癫",
+        "惊慌"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "下属"
+        },
+        {
+          "target": "姚崇礼",
+          "type": "同僚"
+        },
+        {
+          "target": "顾玺",
+          "type": "同僚"
+        },
+        {
+          "target": "锦衣卫",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被姚崇礼用绣春刀杀死。"
+        }
+      ],
+      "evidence": [
+        "吴拱置若罔闻，冲到姚崇礼身旁，疯癫一般抓着对方的衣袖",
+        "吴拱惊惶喊道：“这是他们给我设的局，我根本不知道这份档案是锦衣卫的人提供的!”",
+        "一柄绣春刀洞穿吴拱的咽喉，将他口中剩下的话全部斩断。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "姚崇礼",
+      "aliases": [
+        "姚大人"
+      ],
+      "identity": "考功司官员",
+      "faction": "儒家",
+      "status": "登场",
+      "first_appearance": "第128章大忌",
+      "summary": "考功司官员，动手杀死吴拱，与锦衣卫有合作。",
+      "appearance": [],
+      "personality": [
+        "面无表情",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绣春刀"
+      ],
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "同僚"
+        },
+        {
+          "target": "锦衣卫",
+          "type": "合作"
+        },
+        {
+          "target": "裴行俭",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拔出绣春刀杀死吴拱。"
+        }
+      ],
+      "evidence": [
+        "动手的姚崇礼面无表情的拔出绣春刀，丢给了那名领头的锦衣卫。",
+        "姚崇礼振袖一甩，直接将吴拱抽开。",
+        "姚崇礼或许还是不忍见吴拱死的不明不白，咬着牙着解释了一句。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "顾玺",
+      "aliases": [],
+      "identity": "被举荐者，顾家成员",
+      "faction": "儒家",
+      "status": "登场",
+      "first_appearance": "第128章大忌",
+      "summary": "参与举荐的官员，因吴拱之死而幸免，后发现自己家被烧。",
+      "appearance": [],
+      "personality": [
+        "激动",
+        "惊愕"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "吴拱",
+          "type": "同僚"
+        },
+        {
+          "target": "裴行俭",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "吴拱死后，顾玺发现自家被烧。"
+        }
+      ],
+      "evidence": [
+        "旁边本已经垂着脑袋，摆出一副束手就擒模样的顾玺突然抬头，呼吸蓦然急促起来，惨白的脸上满是惊愕和劫后余生的狂喜。",
+        "脸色大变的顾玺再也顾不得什么儒家礼仪，箭步冲到门边，抬眼眺望南边。",
+        "自己的家，真被烧了!"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "张显",
+      "aliases": [],
+      "identity": "考察组官员",
+      "faction": "儒家",
+      "status": "登场",
+      "first_appearance": "第128章大忌",
+      "summary": "考察组三人之一，对锦衣卫态度强硬。",
+      "appearance": [],
+      "personality": [
+        "愤怒"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "锦衣卫",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "拍案而起怒斥锦衣卫。"
+        }
+      ],
+      "evidence": [
+        "张显眼角一抽，拍案而起，怒道：“给脸不要脸是吧！”",
+        "张显厉声喝道:“连被人利用了都看不出来，你这样的人也配参加举荐？”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "锦衣卫领头的汉子",
+      "aliases": [
+        "领头的锦衣卫",
+        "汉子"
+      ],
+      "identity": "锦衣卫小旗或总旗下属",
+      "faction": "锦衣卫",
+      "status": "登场",
+      "first_appearance": "第128章大忌",
+      "summary": "锦衣卫行动负责人，持有徙木信物，最终带走吴拱尸体。",
+      "appearance": [
+        "穿着草鞋"
+      ],
+      "personality": [
+        "沉默",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "绣春刀",
+        "金色木头（徙木）"
+      ],
+      "relationships": [
+        {
+          "target": "裴行俭",
+          "type": "敌对"
+        },
+        {
+          "target": "姚崇礼",
+          "type": "合作"
+        },
+        {
+          "target": "余总旗",
+          "type": "上司"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "出示徙木，最终带走吴拱尸体。"
+        }
+      ],
+      "evidence": [
+        "领头的锦衣卫汉子深吸了一口气，沉默着从怀中拿出了一截金色的木头，举在身前。",
+        "汉子见老人如此霸道，倒也不含糊，直接翻开了最后的底牌，“我们的总旗姓余。”",
+        "汉子沉默良久，最终还是将绣春刀收回鞘中，拱手道:“不过上面有命，要把犯人的意识投入诏狱，带回去审问。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "余总旗",
+      "aliases": [
+        "余"
+      ],
+      "identity": "锦衣卫总旗",
+      "faction": "锦衣卫",
+      "status": "提及",
+      "first_appearance": "第128章大忌",
+      "summary": "锦衣卫总旗，姓余，是此次行动的后台。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "锦衣卫领头的汉子",
+          "type": "下属"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "“我们的总旗姓余。”",
+        "“余”老人沉吟片刻，“青城集团里的余？”"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

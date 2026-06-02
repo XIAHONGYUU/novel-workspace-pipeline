@@ -1,0 +1,228 @@
+{
+  "chunk_id": "chunk-0166",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张士君"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府修士，正在寻找神袍所在，与项淳商议对策。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "善于谋划"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄"
+        },
+        {
+          "target": "詹治同",
+          "type": "合作译读密卷"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "译读密卷完成，与项淳商议寻找神袍之事，并推荐白擎青执行计划。"
+        }
+      ],
+      "evidence": [
+        "张御把译文反复看过几遍，确认其中并无错漏和偏解，这才收回目光。",
+        "张御道：“这几日御和詹少郎合作，已是将那密卷译读了出来。”",
+        "张御道：“我推荐一个人，他能做到此事。”"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "项淳",
+      "aliases": [
+        "项师兄"
+      ],
+      "identity": "玄府主事",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府主事，与张御商议应对神尉军寻找神袍之事。",
+      "appearance": [],
+      "personality": [
+        "沉稳",
+        "忧虑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师弟"
+        },
+        {
+          "target": "白擎青",
+          "type": "师弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御商议，并召见白擎青布置任务。"
+        }
+      ],
+      "evidence": [
+        "项淳惊喜道：“这么快？张师弟，这么说来你已是可以找到那处地界了？”",
+        "项淳沉声道：“这几日窦师弟和王师弟他们也已经赶到了北方...”",
+        "项淳点了点，他自案上拿出一封书信，递过来道：“如何做，上面都已写明...”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "詹治同",
+      "aliases": [
+        "詹少郎"
+      ],
+      "identity": "译读秘文的学者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "协助张御译读密卷的学者，对固元丹丸感兴趣。",
+      "appearance": [],
+      "personality": [
+        "好学",
+        "有孝心"
+      ],
+      "abilities": [
+        "译读古文字"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "合作者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "完成译读，向张御请求固元丹丸，后告辞回家。"
+        }
+      ],
+      "evidence": [
+        "詹治同想了想，拿起桌案上那瓶丹丸，道：“我不需其他东西，不知道张士君可还有这种固元丹丸？”",
+        "詹治同一拱手道：“多谢张士君告知。”这时他站了起来，整了整衣衫，再揖礼道：“张士君，我家中还有老父要照顾，若无什么事，我便先回去了。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "张御的随从，负责送詹治同离开。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "随从"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送詹治同离开。"
+        }
+      ],
+      "evidence": [
+        "李青禾应了一声，就将詹治同送了下去。"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "白擎青",
+      "aliases": [
+        "白师弟"
+      ],
+      "identity": "玄府修士",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府修士，观读了侵心之印，被项淳委派执行秘密任务。",
+      "appearance": [],
+      "personality": [
+        "敏锐",
+        "谨慎"
+      ],
+      "abilities": [
+        "侵心之印"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "项淳",
+          "type": "师兄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被项淳召见，接受任务，随后前往银署执行计划。"
+        }
+      ],
+      "evidence": [
+        "白擎青感激道：“多谢师兄关心，近来修行还算顺利。”",
+        "项淳道：“我近来观你道册，见你成功观读了‘侵心之印’？”",
+        "白擎青神情一肃，拱手道：“师兄请讲，擎青定然不负所托。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "尚夫人",
+      "aliases": [
+        "尚夫人"
+      ],
+      "identity": "尚学令的夫人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "尚学令的夫人，在银署被白擎青用侵心之印影响。",
+      "appearance": [
+        "身躯肥胖",
+        "衣着艳丽"
+      ],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "尚学令",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在银署被白擎青用侵心之印影响，提前离开。"
+        }
+      ],
+      "evidence": [
+        "有一个五十多岁，身躯肥胖，衣着艳丽的中年女子在一众护卫的前呼后拥下走了过来。",
+        "尚夫人此时的面色有些古怪，她干咳一声，揉了揉自己的前额，道：“怎么有些发晕，算了，今天不去看布拍了，先回去吧。”"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "chunk_id": "chunk-0567",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "元能之手",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "薇薇的儿子，巫师，与母亲在小镇生活，准备应对教会追捕。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "巫师力量"
+      ],
+      "equipment": [
+        "黑大衣"
+      ],
+      "relationships": [
+        {
+          "target": "薇薇",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薇薇商议教会威胁，决定处理教会人员。"
+        }
+      ],
+      "evidence": [
+        "安格列轻轻将手放在她的手背上。“母亲，别乱说，您至少还能活几百岁呢。”",
+        "那就不用巫师力量就好了。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "薇薇",
+      "aliases": [],
+      "identity": "巫师",
+      "faction": "元能之手",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的母亲，巫师，因环境贫瘠力量削弱，准备离开小镇。",
+      "appearance": [
+        "月白色丝质旗袍"
+      ],
+      "personality": [
+        "温柔",
+        "怅然"
+      ],
+      "abilities": [
+        "巫师力量"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "母子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与安格列商议教会威胁，建议离开。"
+        }
+      ],
+      "evidence": [
+        "薇薇一身月白色丝质旗袍",
+        "薇薇点点头，从桌上端起红茶壶分别倒了两杯花茶",
+        "离开吧。"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "芙瑞拉·洛里亚",
+      "aliases": [
+        "芙瑞拉"
+      ],
+      "identity": "镇长女儿",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "洛里亚镇长的女儿，目睹父亲被杀，躲藏在屋顶。",
+      "appearance": [
+        "皮裙长腿靴",
+        "额头有黑色胎记"
+      ],
+      "personality": [
+        "恐惧",
+        "无助"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "洛里亚镇长",
+          "type": "父女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "躲在屋顶目睹父亲被教会骑士杀害。"
+        }
+      ],
+      "evidence": [
+        "这小女孩正是被安格列气跑了的芙瑞拉洛里亚",
+        "芙瑞拉在屋顶上紧捂着嘴一声也不敢吭，望着死在下方的父亲"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "爱丽丝",
+      "aliases": [],
+      "identity": "教会骑士队长",
+      "faction": "教会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "教会骑士队长，残忍暴虐，杀害洛里亚镇长并侵犯其妻女。",
+      "appearance": [
+        "灰色马尾",
+        "黑色独眼罩",
+        "脸上有刀疤"
+      ],
+      "personality": [
+        "暴虐",
+        "淫邪"
+      ],
+      "abilities": [],
+      "equipment": [
+        "钉头槌",
+        "十字剑",
+        "银质短剑"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领骑兵闯入洛里亚镇长家，杀害镇长并施暴。"
+        }
+      ],
+      "evidence": [
+        "男子戴着一只黑色独眼罩，脸上皮肤全是横七竖八的刀疤",
+        "爱丽丝脸上露出一个狰狞的笑容。",
+        "十字剑狠狠扎进镇长背心"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "洛里亚镇长",
+      "aliases": [],
+      "identity": "小镇镇长",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "芙瑞拉的父亲，被教会骑士爱丽丝杀害。",
+      "appearance": [],
+      "personality": [
+        "谄媚",
+        "恐惧"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "芙瑞拉·洛里亚",
+          "type": "父女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被爱丽丝用十字剑刺死。"
+        }
+      ],
+      "evidence": [
+        "洛里亚镇长正弯腰跪在地毯上",
+        "十字剑狠狠扎进镇长背心"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "葛林",
+      "aliases": [],
+      "identity": "骑兵",
+      "faction": "教会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "爱丽丝手下的年轻骑兵。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "爱丽丝",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随爱丽丝行动。"
+        }
+      ],
+      "evidence": [
+        "年轻骑兵有些为难"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "女骑兵",
+      "aliases": [],
+      "identity": "骑兵",
+      "faction": "教会",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "爱丽丝手下的女骑兵，负责善后。",
+      "appearance": [],
+      "personality": [
+        "习以为常"
+      ],
+      "abilities": [],
+      "equipment": [
+        "小刀"
+      ],
+      "relationships": [
+        {
+          "target": "爱丽丝",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "报告发现洛里亚有儿子。"
+        }
+      ],
+      "evidence": [
+        "剩下一个女骑兵低头正用小刀刻着十字架",
+        "队长！这里还有幅画像"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "chunk_id": "chunk-0271",
+  "characters": [
+    {
+      "name": "安格列",
+      "aliases": [
+        "格林"
+      ],
+      "identity": "巫师，船队控制者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "船队的控制者，使用恶念弯刀和幻觉印记战斗，击败了女首领并获得了风暴灰烬之珠。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [
+        "恶念弯刀",
+        "幻觉印记",
+        "控制水晶符文"
+      ],
+      "equipment": [
+        "恶念弯刀",
+        "控制水晶符文",
+        "风暴灰烬之珠"
+      ],
+      "relationships": [
+        {
+          "target": "西格尼",
+          "type": "同伴"
+        },
+        {
+          "target": "茉伊拉",
+          "type": "同伴"
+        },
+        {
+          "target": "希曼",
+          "type": "同伴"
+        },
+        {
+          "target": "雷林楠",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "击败女首领，获得风暴灰烬之珠，发现大量风暴元素涌出。"
+        }
+      ],
+      "evidence": [
+        "安格列眼中黑色符文一闪，恶念弯刀瞬间劈下去。",
+        "安格列微微有些狼狈的从电浆中走出来。",
+        "安格列高举着符文水晶，周边无数红色绿色光点纷纷浮现出来，朝着水晶符文汇聚而去。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "女首领",
+      "aliases": [
+        "雷娜多"
+      ],
+      "identity": "风暴元素女首领",
+      "faction": "风暴元素",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "风暴元素的首领，被安格列击败后化为蓝色粉末，留下风暴灰烬之珠。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "操控雷电",
+        "长矛攻击",
+        "电流长发"
+      ],
+      "equipment": [
+        "长矛"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被安格列杀死，尸体化为蓝色粉末。"
+        }
+      ],
+      "evidence": [
+        "女首领大吼一声，后脑的头发上，蓝色的电流长发猛地一涨",
+        "女首领陡然感觉小腹一痛，低头看去。一个白色人影弓着身体，正刚刚嗤地一下拔出弯刀。正是安格列。",
+        "苍白的身躯陡然浮现出丝丝龟裂裂纹，无数蓝色电浆从裂纹里溢出来"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "西格尼",
+      "aliases": [],
+      "identity": "同伴，巫师",
+      "faction": "",
+      "status": "受伤",
+      "first_appearance": "",
+      "summary": "安格列的同伴，为保护安格列而受重伤，后得到治疗。",
+      "appearance": [],
+      "personality": [
+        "勇敢"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被女首领的长矛击中腰部，重伤，后经茉伊拉和希曼治疗。"
+        }
+      ],
+      "evidence": [
+        "黑色的甲板上，西格尼半靠在黑色船舷边，脸色苍白，口角溢血。",
+        "那是被女首领的长矛砸出来的恐怖伤势",
+        "西格尼虚弱的接过来，“谢了。”"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "茉伊拉",
+      "aliases": [],
+      "identity": "同伴，治疗者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的同伴，负责治疗西格尼的伤势。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "治疗巫术"
+      ],
+      "equipment": [
+        "白色小刀"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "西格尼",
+          "type": "治疗对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为西格尼处理伤口，进行切除和再生治疗。"
+        }
+      ],
+      "evidence": [
+        "茉伊拉正拖着西格尼躲在甲板上的一个角落里，身前释放着一层白色光幕",
+        "茉伊拉双手泛着白光，小心地用一把白色小刀切除着西格尼的腰部部分肌肉。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "希曼",
+      "aliases": [],
+      "identity": "同伴，植物系巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的同伴，使用植物恢复系巫术帮助治疗西格尼。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "创生术",
+        "植物恢复系巫术"
+      ],
+      "equipment": [
+        "微紫色药水"
+      ],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "西格尼",
+          "type": "治疗对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "使用创生术帮助治疗西格尼，并给予回复药剂。"
+        }
+      ],
+      "evidence": [
+        "希曼走过来低沉的说，“植物恢复系的巫术，我恰巧会一个创生术。”",
+        "希曼从腰囊里取出一瓶微紫色药水递给西格尼。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "雷林楠",
+      "aliases": [],
+      "identity": "同伴，雷系巫师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "安格列的同伴，雷系巫师，帮助解决了风暴元素，并扶着西格尼回房间。",
+      "appearance": [],
+      "personality": [
+        "冷漠"
+      ],
+      "abilities": [
+        "雷系巫术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安格列",
+          "type": "同伴"
+        },
+        {
+          "target": "西格尼",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与希曼解决其余风暴元素，后扶着西格尼回房间。"
+        }
+      ],
+      "evidence": [
+        "雷林楠和希曼已经解决了其余的重伤的风暴元素",
+        "雷林楠扶着西格尼回到房间"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

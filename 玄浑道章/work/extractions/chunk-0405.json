@@ -1,0 +1,270 @@
+{
+  "chunk_id": "chunk-0405",
+  "characters": [
+    {
+      "name": "张御",
+      "aliases": [
+        "张玄正"
+      ],
+      "identity": "玄府玄正",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "玄府玄正，实力强大，能斩杀罔乘，并控制飞舟内众人。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [
+        "剑术高超",
+        "能使用光芒控制他人"
+      ],
+      "equipment": [
+        "蝉鸣剑"
+      ],
+      "relationships": [
+        {
+          "target": "罔乘",
+          "type": "敌对"
+        },
+        {
+          "target": "翁大匠",
+          "type": "追捕对象"
+        },
+        {
+          "target": "龚大匠",
+          "type": "追捕对象"
+        },
+        {
+          "target": "汪中平",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "斩杀罔乘，控制飞舟，转向南行。"
+        }
+      ],
+      "evidence": [
+        "张御站在那里未动，只是放出一道剑光在那里往来劈斩",
+        "张御伸手一拿，将飞转回来回来蝉鸣剑拿在手中，再从容放归了剑鞘之中。",
+        "张御已是出现在了此间，他扫了一眼，汪中平和舱室之内站立着的所有人身上都被一层光芒所包裹"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "罔乘",
+      "aliases": [
+        "造物妖蛟"
+      ],
+      "identity": "造物妖蛟",
+      "faction": "青阳天机院",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "青阳天机院的造物妖蛟，身穿妖袍妖甲，实力强劲，但被张御斩杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "强横妖身",
+        "战斗技巧"
+      ],
+      "equipment": [
+        "妖袍",
+        "妖甲",
+        "长枪"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "敌对"
+        },
+        {
+          "target": "汪中平",
+          "type": "所属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御战斗，被剑光斩杀。"
+        }
+      ],
+      "evidence": [
+        "罔乘原先只是穿着妖袍与张御争斗，现在又披上了妖甲",
+        "罔乘高估了自己对剑光的承受力，也低估了张御在剑光之上所能承载的力量。",
+        "他整个忽然化散为了无数碎块"
+      ],
+      "mention_count": 14
+    },
+    {
+      "name": "翁大匠",
+      "aliases": [],
+      "identity": "大匠",
+      "faction": "霜洲",
+      "status": "被俘",
+      "first_appearance": "",
+      "summary": "霜洲的大匠，了解妖甲等技艺，被汪中平设计困住，后向张御请求赦免。",
+      "appearance": [],
+      "personality": [
+        "谨慎"
+      ],
+      "abilities": [
+        "技艺高超"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "龚大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "汪中平",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "追捕对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被汪中平设计困住，后向张御请求赦免。"
+        }
+      ],
+      "evidence": [
+        "翁大匠眼神之中出现了些许波动",
+        "翁大匠道：“果然是了。”",
+        "翁大匠这时感觉自身躯上的麻痹渐去，已是可以活动身躯了"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "龚大匠",
+      "aliases": [
+        "龚兄"
+      ],
+      "identity": "大匠",
+      "faction": "霜洲",
+      "status": "被俘",
+      "first_appearance": "",
+      "summary": "霜洲的大匠，与翁大匠一同被追捕。",
+      "appearance": [],
+      "personality": [
+        "在技艺上自信"
+      ],
+      "abilities": [
+        "技艺高超"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "翁大匠",
+          "type": "同僚"
+        },
+        {
+          "target": "汪中平",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与翁大匠一同被汪中平设计困住。"
+        }
+      ],
+      "evidence": [
+        "龚大匠说到技艺的时候，就一点也没有那等畏缩之态了",
+        "龚大匠道：“他们现在打造的东西，并没有超脱我们之前的理念范畴。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "汪中平",
+      "aliases": [],
+      "identity": "青阳天机院人员",
+      "faction": "青阳天机院",
+      "status": "被俘",
+      "first_appearance": "",
+      "summary": "青阳天机院的人，负责押送翁大匠和龚大匠，后试图杀死二人但被张御阻止。",
+      "appearance": [],
+      "personality": [
+        "得意",
+        "冰冷"
+      ],
+      "abilities": [],
+      "equipment": [
+        "神袍"
+      ],
+      "relationships": [
+        {
+          "target": "翁大匠",
+          "type": "敌对"
+        },
+        {
+          "target": "龚大匠",
+          "type": "敌对"
+        },
+        {
+          "target": "张御",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "试图杀死翁大匠和龚大匠，被张御控制。"
+        }
+      ],
+      "evidence": [
+        "汪中平面上略带一丝得意道：“正是妖甲”",
+        "汪中平此刻快步走了过来，他鼻息有点粗重，也没有说什么废话，直接一掌就向着翁大匠的面目拍下来",
+        "他的身上不知道什么时候包裹了一层光芒，让他根本无力再有任何动作。"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "陈绍",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，实力不如罔乘。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "要是换了之前的陈绍，恐怕接上十来剑就承受不住了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "明校尉",
+      "aliases": [],
+      "identity": "校尉",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "被提及的人物，潜力巨大，被张御用来与罔乘比较。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "潜力无尽"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "至少后者潜力无尽",
+        "而明校尉那等人，则就是冰山一角"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

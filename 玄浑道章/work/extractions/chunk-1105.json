@@ -1,0 +1,281 @@
+{
+  "chunk_id": "chunk-1105",
+  "characters": [
+    {
+      "name": "安小郎",
+      "aliases": [
+        "安小郎"
+      ],
+      "identity": "张御的学生，天机工坊主人",
+      "faction": "东庭",
+      "status": "登场",
+      "first_appearance": "第七章 盛光入画影",
+      "summary": "张御的学生，擅长造物，制作了影画长卷，正与玉京天机总院的人对抗。",
+      "appearance": [],
+      "personality": [
+        "开心",
+        "不服输",
+        "有才华"
+      ],
+      "abilities": [
+        "造物技艺"
+      ],
+      "equipment": [
+        "影画长卷",
+        "青玉叶（法器衣袍）"
+      ],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "师生"
+        },
+        {
+          "target": "卫山",
+          "type": "随从"
+        },
+        {
+          "target": "中年男子",
+          "type": "对立"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "送给张御影画长卷，得到青玉叶回礼；回到工坊后与中年男子对峙。"
+        }
+      ],
+      "evidence": [
+        "安小郎应下之后，又一拍脑袋，道：“对了，学生还有一件礼物要送给老师。”",
+        "安小郎开心道：“老师喜欢就好。”",
+        "安小郎哼了一声，大声道：“我不会把东西交出来的，你们别做梦了！”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张廷执",
+        "老师"
+      ],
+      "identity": "玄清道宫廷执，守正宫负责人",
+      "faction": "玄清道宫",
+      "status": "登场",
+      "first_appearance": "第七章 盛光入画影",
+      "summary": "安小郎的老师，玄清道宫廷执，正在调整守正宫职司。",
+      "appearance": [],
+      "personality": [
+        "睿智",
+        "从容"
+      ],
+      "abilities": [
+        "神通广大"
+      ],
+      "equipment": [
+        "青玉叶"
+      ],
+      "relationships": [
+        {
+          "target": "安小郎",
+          "type": "师生"
+        },
+        {
+          "target": "朱凤",
+          "type": "同僚"
+        },
+        {
+          "target": "梅商",
+          "type": "同僚"
+        },
+        {
+          "target": "明周道人",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接受安小郎的礼物并回赠青玉叶；召见朱凤、梅商安排守正职司；准备召见甘、常、薛道友布置警星之事。"
+        }
+      ],
+      "evidence": [
+        "张御看了一会儿，不觉颌首道：“这礼物很不错，为师收下了。”",
+        "张御道：“此物自有玄妙，你回去慢慢探究便是。”",
+        "张御神气分身还在东庭的时候，他位于玄清道宫之内的正身已然知悉了所有。"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "中年男子",
+      "aliases": [],
+      "identity": "玉京天机总院的说客",
+      "faction": "玉京天机总院",
+      "status": "登场",
+      "first_appearance": "第七章 盛光入画影",
+      "summary": "拿着郭樱书信来劝说安小郎交出东西的中年男子，自称有类似经历。",
+      "appearance": [
+        "四十来岁",
+        "身着圆领古服"
+      ],
+      "personality": [
+        "不以为然",
+        "愤愤不平"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安小郎",
+          "type": "对立"
+        },
+        {
+          "target": "郭樱",
+          "type": "受其书信"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "再次来劝说安小郎交出东西，未果后离开。"
+        }
+      ],
+      "evidence": [
+        "一个四十来岁的中年男子站在那里，其人身着一身圆领古服，正神态悠闲的看着四周精美的小型造物",
+        "中年男子也不生气，微笑道：“小郎二十岁可是都不到……”",
+        "中年男子又是笑了笑，但是笑容之中多少带有几分不以为然，他摇头道：“你会答应的。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "卫山",
+      "aliases": [],
+      "identity": "安小郎的随从",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第七章 盛光入画影",
+      "summary": "安小郎的随从，向他通报中年男子再次到来。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "安小郎",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向安小郎通报中年男子到来。"
+        }
+      ],
+      "evidence": [
+        "随从卫山走了过来，低声道：“小郎，那人又来了。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "朱凤",
+      "aliases": [
+        "朱守正"
+      ],
+      "identity": "守正",
+      "faction": "玄清道宫",
+      "status": "登场",
+      "first_appearance": "第七章 盛光入画影",
+      "summary": "守正之一，被张御召见安排职司。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "梅商",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与梅商一同被张御召见，接受守正职司安排。"
+        }
+      ],
+      "evidence": [
+        "朱凤、梅商二人被神人值司引路之下走入了大殿之中",
+        "朱凤道：“有什么交代，请廷执吩咐就是。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "梅商",
+      "aliases": [
+        "梅守正"
+      ],
+      "identity": "守正",
+      "faction": "玄清道宫",
+      "status": "登场",
+      "first_appearance": "第七章 盛光入画影",
+      "summary": "守正之一，被张御召见安排职司。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "朱凤",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与朱凤一同被张御召见，接受守正职司安排。"
+        }
+      ],
+      "evidence": [
+        "朱凤、梅商二人被神人值司引路之下走入了大殿之中",
+        "梅商想了想，道：“在下听凭张廷执的安排。”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "明周道人",
+      "aliases": [
+        "明周道友"
+      ],
+      "identity": "道人，张御的下属",
+      "faction": "玄清道宫",
+      "status": "登场",
+      "first_appearance": "第七章 盛光入画影",
+      "summary": "张御唤来去请甘、常、薛道友的道人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被张御唤去请甘、常、薛道友。"
+        }
+      ],
+      "evidence": [
+        "殿内金光一闪，明周道人现身出来，恭敬一礼，道：“廷执有何吩咐？”"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

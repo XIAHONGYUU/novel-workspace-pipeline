@@ -1,0 +1,129 @@
+{
+  "chunk_id": "chunk-1091",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "修行者，掌握观火祭神法、傩神金身法门",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "主角，通过观火祭祀唤醒性中神灵，尝试将傩神金身与观火祭神法融合。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "观火祭神法",
+        "傩神金身",
+        "劫力操控",
+        "薪火祭祀"
+      ],
+      "equipment": [
+        "收魂米"
+      ],
+      "relationships": [
+        {
+          "target": "鲍保",
+          "type": "审问对象"
+        },
+        {
+          "target": "黑傩太上爷",
+          "type": "随从/顾问"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "审问鲍保后将其献祭，唤醒重耳神；与黑傩讨论融合法门，并先后献祭转轮大日王傩府和龙首王尸傩神。"
+        }
+      ],
+      "evidence": [
+        "苏午收回了按在鲍保脑顶的手掌",
+        "苏午瞬时作出反应！如血浆一般的赤红大火从他周身气孔中涌动而出",
+        "苏午抬头看着薪火之上渐渐消隐的性灵"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "鲍保",
+      "aliases": [],
+      "identity": "被审问者",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "",
+      "summary": "被苏午审问关于长生牌坊之事，体内有诡异力量，最终被苏午投入薪火献祭。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被审问/献祭"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午审问后体内力量爆发，被投入薪火献祭。"
+        }
+      ],
+      "evidence": [
+        "苏午收回了按在鲍保脑顶的手掌",
+        "四肢浸没入劫影之中，被劫力重重禁锢的鲍保",
+        "它体内骤然间传出一阵阵血肉撕裂、骨骼毁碎的声音"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "黑傩太上爷",
+      "aliases": [
+        "黑傩"
+      ],
+      "identity": "傩神，苏午的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "苏午唤出的傩神，与苏午讨论傩神金身与观火祭神法的融合。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午唤出，讨论法门融合。"
+        }
+      ],
+      "evidence": [
+        "他将‘黑傩太上爷’唤了出来",
+        "黑傩太上爷听过苏午所言，皱眉沉思了一阵"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "康熙",
+      "aliases": [],
+      "identity": "皇帝（提及）",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "苏午审问鲍保时提及的人物，可能主持修建长生牌坊。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [],
+      "evidence": [
+        "可是康熙？"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

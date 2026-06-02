@@ -1,0 +1,444 @@
+{
+  "chunk_id": "chunk-0253",
+  "characters": [
+    {
+      "name": "汤营管",
+      "aliases": [],
+      "identity": "营地营管",
+      "faction": "洲府军府",
+      "status": "登场",
+      "first_appearance": "第二十六章 查检",
+      "summary": "营地营管，负责处理俘虏事务，对检正司的麋玄修保持警惕。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "坚决"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "麋玄修",
+          "type": "合作与冲突"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "审问俘虏，与麋玄修争论，安排张御等人接受询问。"
+        }
+      ],
+      "evidence": [
+        "汤营管很快就见到了那名被固定锁链捆缚住俘虏",
+        "汤营管十分坚决的说道：“我相信我们营地的检验方法没有问题。”"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "麋玄修",
+      "aliases": [
+        "糜合"
+      ],
+      "identity": "擅长审检的玄修",
+      "faction": "检正司",
+      "status": "登场",
+      "first_appearance": "第二十六章 查检",
+      "summary": "检正司的玄修，擅长审检，对俘虏进行意识检查，怀疑张御。",
+      "appearance": [],
+      "personality": [
+        "冷淡",
+        "多疑"
+      ],
+      "abilities": [
+        "意识检查"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "汤营管",
+          "type": "合作与冲突"
+        },
+        {
+          "target": "张御",
+          "type": "怀疑对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "检查俘虏，与汤营管争论，询问张御等人。"
+        }
+      ],
+      "evidence": [
+        "麋玄修在经过检查后，把手从那人的额头之上收了回来",
+        "麋玄修这时一敲桌案，提高声音道：“麋玄修，你这个问题和这次的事情无关”"
+      ],
+      "mention_count": 9
+    },
+    {
+      "name": "张御",
+      "aliases": [
+        "张教长"
+      ],
+      "identity": "开阳学宫教长",
+      "faction": "开阳学宫",
+      "status": "登场",
+      "first_appearance": "第二十六章 查检",
+      "summary": "开阳学宫教长，从外海归来，被麋玄修怀疑，拒绝提供精血。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "谨慎"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "麋玄修",
+          "type": "被怀疑"
+        },
+        {
+          "target": "常姓修士",
+          "type": "同僚"
+        },
+        {
+          "target": "周姓修士",
+          "type": "同僚"
+        },
+        {
+          "target": "李青禾",
+          "type": "随从"
+        },
+        {
+          "target": "妙丹君",
+          "type": "宠物"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被麋玄修询问，拒绝提供精血，考虑与惠元武见面。"
+        }
+      ],
+      "evidence": [
+        "张御见已无事，就告辞出来",
+        "张御平静道：“那便帮我回绝他们吧。”"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "常姓修士",
+      "aliases": [
+        "常姓修士"
+      ],
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第二十六章 查检",
+      "summary": "玄修，对检正司不满，与张御交谈。",
+      "appearance": [],
+      "personality": [
+        "直率",
+        "不屑"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "周姓修士",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御、周姓修士一起被询问，后与张御交谈。"
+        }
+      ],
+      "evidence": [
+        "常姓修士冷笑道：“那人名叫糜合，早早就投到了检正司的门下”"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "周姓修士",
+      "aliases": [
+        "周姓修士"
+      ],
+      "identity": "玄修",
+      "faction": "玄府",
+      "status": "登场",
+      "first_appearance": "第二十六章 查检",
+      "summary": "玄修，断臂，对麋玄修有一定认可。",
+      "appearance": [
+        "断臂"
+      ],
+      "personality": [
+        "客观"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        },
+        {
+          "target": "常姓修士",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张御、常姓修士一起被询问。"
+        }
+      ],
+      "evidence": [
+        "周姓修士道：“不过他也确实有几分本事”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李青禾",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二十六章 查检",
+      "summary": "张御的随从，负责通报消息。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "迎接张御归来，通报学宫询问。"
+        }
+      ],
+      "evidence": [
+        "李青禾上来一揖，道：“先生回来了。”"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "妙丹君",
+      "aliases": [],
+      "identity": "张御的宠物（豹猫）",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第二十六章 查检",
+      "summary": "张御的宠物，正在沉睡中，灵性成长。",
+      "appearance": [
+        "金色小豹猫"
+      ],
+      "personality": [],
+      "abilities": [
+        "灵性成长"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主人"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "沉睡两个月，灵性成长。"
+        }
+      ],
+      "evidence": [
+        "妙丹君便就开始睡觉了，已是睡了有两个月了",
+        "有一缕金色的小豹猫影子正跟着一只软脂球在活泼的跳跃来去"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "冯学令",
+      "aliases": [],
+      "identity": "学令",
+      "faction": "开阳学宫",
+      "status": "提及",
+      "first_appearance": "第二十六章 查检",
+      "summary": "学令，告知张御汤营管为其请功。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "告知张御请功之事。"
+        }
+      ],
+      "evidence": [
+        "冯学令找了过来，告诉他汤营管已是向上为他请功了"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "从副",
+      "aliases": [],
+      "identity": "汤营管的副手",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十六章 查检",
+      "summary": "汤营管的副手，报告俘虏情况。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "汤营管",
+          "type": "下属"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向汤营管报告俘虏情况。"
+        }
+      ],
+      "evidence": [
+        "从副道：“是的，只是那些残存物都化为灰炭了，没有留下的。”"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青曙",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十六章 查检",
+      "summary": "张御的随从之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随张御回到金台。"
+        }
+      ],
+      "evidence": [
+        "张御也是带着青曙、青曦二人回到了自己的金台之内"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "青曦",
+      "aliases": [],
+      "identity": "张御的随从",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十六章 查检",
+      "summary": "张御的随从之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "随张御回到金台。"
+        }
+      ],
+      "evidence": [
+        "张御也是带着青曙、青曦二人回到了自己的金台之内"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "卫学令",
+      "aliases": [],
+      "identity": "制院学令",
+      "faction": "开阳学宫",
+      "status": "提及",
+      "first_appearance": "第二十六章 查检",
+      "summary": "负责制院的学令，询问张御是否需要打造观察者。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "同僚"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "派人询问张御是否需要观察者。"
+        }
+      ],
+      "evidence": [
+        "是一位负责制院的学令，姓卫"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "惠元武",
+      "aliases": [],
+      "identity": "张御的朋友",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第二十六章 查检",
+      "summary": "张御的朋友，曾寄信说有要事商谈。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张御",
+          "type": "朋友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "寄信给张御，有要事商谈。"
+        }
+      ],
+      "evidence": [
+        "惠元武寄来的那封书信，上面说是有什么要事与他商谈"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

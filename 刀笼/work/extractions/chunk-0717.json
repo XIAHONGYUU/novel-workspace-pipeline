@@ -1,0 +1,124 @@
+{
+  "chunk_id": "chunk-0717",
+  "characters": [
+    {
+      "name": "菩提僧",
+      "aliases": [
+        "菩提僧",
+        "小僧"
+      ],
+      "identity": "佛门中人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第八十一章 十大道",
+      "summary": "佛门僧人，与裘文璇交易，打听后天大道和功法信息。",
+      "appearance": [
+        "月光一般的眼神"
+      ],
+      "personality": [
+        "冷静",
+        "善于谈判"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裘文璇",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与裘文璇讨论后天大道，并打听《托天圣灵碑》功法。"
+        }
+      ],
+      "evidence": [
+        "菩提僧感觉到，那八道先天气息便是先天八卦。",
+        "菩提僧月光一般的眼神眯了眯，没有说话。",
+        "菩提僧双手合十，“阿弥陀佛，善哉善哉。”"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "裘文璇",
+      "aliases": [
+        "裘文璇",
+        "本姑娘"
+      ],
+      "identity": "东华山传承上古仙门的弟子，擅长风水相术",
+      "faction": "东华山",
+      "status": "登场",
+      "first_appearance": "第八十一章 十大道",
+      "summary": "擅长推算后天大道的修士，与菩提僧交易，因推算受到反噬。",
+      "appearance": [],
+      "personality": [
+        "贪财",
+        "精明"
+      ],
+      "abilities": [
+        "先天八卦推算",
+        "后天大道推演"
+      ],
+      "equipment": [
+        "屏风（疑似仙器）"
+      ],
+      "relationships": [
+        {
+          "target": "菩提僧",
+          "type": "交易对象"
+        },
+        {
+          "target": "师弟",
+          "type": "同门"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "为菩提僧推算后天大道，受到反噬但获得报酬。"
+        }
+      ],
+      "evidence": [
+        "裘文璇的声音一次比一次尖戾，像是老鸦尖叫，不似人声",
+        "裘文璇的干咳声才缓缓响起，有气无力道：“这一次可是亏大了，卦象反噬”",
+        "裘文璇一边喜滋滋的点着神石，一边头也不抬道"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "师弟",
+      "aliases": [
+        "师弟"
+      ],
+      "identity": "东华山弟子，修炼后天建木大道",
+      "faction": "东华山",
+      "status": "转劫重修",
+      "first_appearance": "第八十一章 十大道",
+      "summary": "裘文璇的师弟，因修炼后天建木大道失败而转劫重修。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "后天建木大道"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "裘文璇",
+          "type": "同门师姐弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "修炼后天建木大道失败，转劫重修。"
+        }
+      ],
+      "evidence": [
+        "我师门之中，便有一位师弟修炼此类大道",
+        "我那师弟转劫重修了。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

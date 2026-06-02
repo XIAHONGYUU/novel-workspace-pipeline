@@ -1,0 +1,201 @@
+{
+  "chunk_id": "chunk-0622",
+  "characters": [
+    {
+      "name": "李钧",
+      "aliases": [
+        "李薪主"
+      ],
+      "identity": "武序领路人",
+      "faction": "武序",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "武序领路人，性格谨慎多疑，但言辞犀利，与张峰岳进行了一场关于序列、仪轨的对话。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "多疑",
+        "犀利",
+        "蛮横有智"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "对话者"
+        },
+        {
+          "target": "袁明妃",
+          "type": "同伴/被解救对象"
+        },
+        {
+          "target": "张嗣源",
+          "type": "称兄道弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与张峰岳在幻境中对话，讨论序列、仪轨等问题。"
+        }
+      ],
+      "evidence": [
+        "李钧沉吟片刻后，依旧没有贸然回答，而是冷声道",
+        "李钧闻言心头不禁一惊，却几乎就在同时便猜到了这个上山之人会是谁。",
+        "李钧以彼之道还施彼身，抢声打断了张峰岳的话音"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "张首辅",
+        "张大人"
+      ],
+      "identity": "儒序魁首、帝国首辅",
+      "faction": "儒序",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "儒序魁首，帝国首辅，深谋远虑，与李钧进行了一场关于序列、仪轨的深刻对话。",
+      "appearance": [],
+      "personality": [
+        "深谋远虑",
+        "淡定",
+        "霸道",
+        "强势"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "对话者"
+        },
+        {
+          "target": "张嗣源",
+          "type": "儿子"
+        },
+        {
+          "target": "袁明妃",
+          "type": "知晓其行动"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与李钧在幻境中对话，提出关于序列、仪轨的问题。"
+        }
+      ],
+      "evidence": [
+        "张峰岳淡定挥袖，两把并排太师椅聚现而出",
+        "张峰岳眉头微蹙，语气中终于见了些许起伏，流露出点滴久居上位之人身负的霸道和强势。",
+        "张峰岳的这番惊世骇俗的话语，让李钧霎时怔住。"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "袁明妃",
+      "aliases": [],
+      "identity": "佛序三",
+      "faction": "佛序",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "佛序三，为救李钧而上桑烟神山，与林迦婆进行交易。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李钧",
+          "type": "被解救对象"
+        },
+        {
+          "target": "林迦婆",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "上桑烟神山继承林迦婆的一切，试图破入序二。"
+        }
+      ],
+      "evidence": [
+        "袁明妃上桑烟神山，是为了继承桑烟佛祖林迦婆的一切",
+        "袁明妃杀身成仁想救你"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "林迦婆",
+      "aliases": [
+        "桑烟佛祖"
+      ],
+      "identity": "佛序三",
+      "faction": "佛序",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "佛序三，桑烟佛祖，与袁明妃进行交易，试图金蝉脱壳。",
+      "appearance": [],
+      "personality": [
+        "心狠",
+        "果断",
+        "聪明"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "袁明妃",
+          "type": "交易对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与袁明妃交易，试图金蝉脱壳。"
+        }
+      ],
+      "evidence": [
+        "林迦婆金蝉脱壳想救自己",
+        "林迦婆这个女人，心狠、果断，而且聪明。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "张嗣源",
+      "aliases": [],
+      "identity": "张峰岳之子",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "张峰岳的儿子，在桑烟神山上阻挡，保护李钧的人。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "父亲"
+        },
+        {
+          "target": "李钧",
+          "type": "称兄道弟"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在桑烟神山上挡着。"
+        }
+      ],
+      "evidence": [
+        "现在有嗣源在桑烟神山上挡着"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

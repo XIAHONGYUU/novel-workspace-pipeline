@@ -1,0 +1,291 @@
+{
+  "chunk_id": "chunk-1510",
+  "characters": [
+    {
+      "name": "帝辛",
+      "aliases": [
+        "辛",
+        "大王",
+        "商王"
+      ],
+      "identity": "商王",
+      "faction": "商",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "商王，人王体魄，与妲己敌对，试图阻止妲己的阴谋。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "刚强",
+        "果断"
+      ],
+      "abilities": [
+        "人王体魄",
+        "祭祀仪轨"
+      ],
+      "equipment": [
+        "青铜剑"
+      ],
+      "relationships": [
+        {
+          "target": "恶来",
+          "type": "君臣"
+        },
+        {
+          "target": "妲己",
+          "type": "敌对"
+        },
+        {
+          "target": "午",
+          "type": "盟友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "返回王宫，得知妲己可能复活，前往祭坛并召唤王叔未果。"
+        }
+      ],
+      "evidence": [
+        "辛闻听甲士的汇报，神色一下子凝重了起来。",
+        "辛坐回车驾之内，纱幔遮挡住了他的面孔，外面的甲士只能听到他平静得好似无有情绪的声音",
+        "大王眼中光芒灼亮，映现出内里的刚强灵魂"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "妲己",
+      "aliases": [
+        "天臣傩",
+        "妲己贞人",
+        "妖妇",
+        "皇母降生之人"
+      ],
+      "identity": "天臣傩，贞人",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "神秘女子，拥有九条性命，被帝辛与午杀死后疑似复活，试图献祭人王之子。",
+      "appearance": [
+        "白裙女子",
+        "白茫茫雾气"
+      ],
+      "personality": [
+        "神秘",
+        "狡猾"
+      ],
+      "abilities": [
+        "死而复生",
+        "操控细长人影绒毛",
+        "祭祀仪轨"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "帝辛",
+          "type": "敌对"
+        },
+        {
+          "target": "午",
+          "type": "敌对"
+        },
+        {
+          "target": "皇母",
+          "type": "关联"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "疑似复活，出现在祭坛中，与帝辛对话。"
+        }
+      ],
+      "evidence": [
+        "妲己已经被他与午联手杀死。九条性命尽皆荡然无存！她又怎么可能还乘车驾回到王宫之内？！",
+        "白茫茫雾气遮盖着白裙女子的全身，雾气里，传出她带着笑意的话语声",
+        "妲己来历神秘，我这样的人神，完全无法抗御她的侵袭。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "恶来",
+      "aliases": [
+        "恶来将军"
+      ],
+      "identity": "将军，人神",
+      "faction": "商",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "商王麾下将军，人神体魄，曾被妲己杀死后被帝辛救活，对帝辛忠心耿耿。",
+      "appearance": [
+        "身材高大",
+        "体格魁伟",
+        "面貌丑陋凶恶"
+      ],
+      "personality": [
+        "忠诚",
+        "勇猛",
+        "消沉后振奋"
+      ],
+      "abilities": [
+        "人神体魄",
+        "驾服万兽"
+      ],
+      "equipment": [
+        "甲胄"
+      ],
+      "relationships": [
+        {
+          "target": "帝辛",
+          "type": "君臣"
+        },
+        {
+          "target": "妲己",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "苏醒后率甲士搜查祭坛，向帝辛汇报，并准备再次对抗妲己。"
+        }
+      ],
+      "evidence": [
+        "恶来遍身披覆甲胄，匆匆行至帝辛面前。",
+        "恶来面色却有些憔悴，眼神更是消沉。",
+        "恶来语气铿锵有力，眼中火光闪闪"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与帝辛联手杀死妲己的人物，身份不明。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "帝辛",
+          "type": "盟友"
+        },
+        {
+          "target": "妲己",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "过去",
+          "event": "与帝辛联手杀死妲己。"
+        }
+      ],
+      "evidence": [
+        "妲己已经被他与午联手杀死。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "姬昌",
+      "aliases": [
+        "周国方伯"
+      ],
+      "identity": "周国方伯",
+      "faction": "周",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "周国方伯，前来殷都拜见帝辛，可能以自身换取质子平安。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "帝辛",
+          "type": "君臣/敌对"
+        },
+        {
+          "target": "考",
+          "type": "父子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被帝辛安排在其他宫室居住，质子被关押。"
+        }
+      ],
+      "evidence": [
+        "而今，周国方伯‘姬昌’前来殷都拜见帝辛"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "考",
+      "aliases": [],
+      "identity": "周国质子，人王之子",
+      "faction": "周",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "姬昌之子，作为质子被关押，妲己试图献祭他。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姬昌",
+          "type": "父子"
+        },
+        {
+          "target": "妲己",
+          "type": "目标"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被关押在囚牢中，可能被妲己盯上。"
+        }
+      ],
+      "evidence": [
+        "妲己先前作为天臣傩的时候，一直试图献祭‘考’这样贵胄人王之子。"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "王叔",
+      "aliases": [],
+      "identity": "商王叔",
+      "faction": "商",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "帝辛通过祭祀仪轨召唤的王叔，但未回应。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "帝辛",
+          "type": "叔侄"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "帝辛召唤未果。"
+        }
+      ],
+      "evidence": [
+        "请王叔领周国方伯姬昌，速至王宫之中。"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

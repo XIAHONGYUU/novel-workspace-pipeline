@@ -1,0 +1,116 @@
+{
+  "chunk_id": "chunk-0007",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "拥有模拟器的普通人，正面临影诡威胁",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第6章 云龙观",
+      "summary": "主角，通过模拟器验证罡洞对影诡有效，决定留下罡洞并寻找第二件法器。前往云龙观寻求帮助。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "果断",
+        "善于思考"
+      ],
+      "abilities": [
+        "拥有完美人生模拟器"
+      ],
+      "equipment": [
+        "罡洞",
+        "钱包",
+        "手机",
+        "钥匙",
+        "记事本"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在云龙观三清殿上香，与年轻道士交谈，请求帮助。"
+        }
+      ],
+      "evidence": [
+        "苏午低头看着手里包铜凿孔的罡洞，分外确定此物绝不可能出自牦牛身上，更可能是一个人的骨骼！",
+        "思虑片刻，苏午决定还是留下这件法器。",
+        "苏午走到了道士近前，露出一个笑脸：“道长。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "年轻道士",
+      "aliases": [
+        "道长"
+      ],
+      "identity": "云龙观道士",
+      "faction": "云龙观",
+      "status": "登场",
+      "first_appearance": "第6章 云龙观",
+      "summary": "云龙观中看守三清殿的年轻道士，懒散但热心，建议苏午去医院精神科，后答应帮忙找东西。",
+      "appearance": [],
+      "personality": [
+        "懒散",
+        "热心",
+        "幽默"
+      ],
+      "abilities": [],
+      "equipment": [
+        "手机"
+      ],
+      "relationships": [
+        {
+          "target": "师父",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在云龙观三清殿刷手机，接待苏午，后去后院找东西。"
+        }
+      ],
+      "evidence": [
+        "守着三清殿的年轻道士坐在圈椅上刷着手机",
+        "年轻道士神色一紧，直起了身子：“那你得去医院精神科看一看呐！”",
+        "年轻道士把手机揣回兜里，也不怕苏午是什么不法分子，把他云龙观里的雕像搬空，径自转去了后院。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "师父",
+      "aliases": [
+        "老道士"
+      ],
+      "identity": "云龙观道士，年轻道士的师父",
+      "faction": "云龙观",
+      "status": "提及",
+      "first_appearance": "第6章 云龙观",
+      "summary": "年轻道士的师父，擅长抓药，当天清晨去钓鱼未归。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "能抓药"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "年轻道士",
+          "type": "师徒"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "天不亮就去钓鱼。"
+        }
+      ],
+      "evidence": [
+        "我师父能抓药，他要是在这，应该能给你开个安神的方子。",
+        "今天天不亮，他就钓鱼去了，说去的早，鱼儿才睡醒，这时候打窝好上鱼……"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

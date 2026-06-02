@@ -1,0 +1,405 @@
+{
+  "chunk_id": "chunk-0018",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [
+        "戚师傅"
+      ],
+      "identity": "刀匠行年轻匠师，匪类出身",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "刀匠行年轻匠师，被龙煞附体，能制造风水幻象，正在设法营救段大师。",
+      "appearance": [
+        "高高瘦瘦、皮肤比以往还要白皙"
+      ],
+      "personality": [
+        "冷静",
+        "谨慎",
+        "有耐性"
+      ],
+      "abilities": [
+        "制造风水幻象",
+        "被龙煞附体"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "段七娘",
+          "type": "相识"
+        },
+        {
+          "target": "段大师",
+          "type": "欲营救"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在李府中收集情报，计划营救段大师。"
+        }
+      ],
+      "evidence": [
+        "戚笼表情温和，声音像是有回声",
+        "戚笼被一部分龙煞附体，天然与风水变化产生了一定的联系",
+        "戚笼渐渐有了一道思路。"
+      ],
+      "mention_count": 18
+    },
+    {
+      "name": "段七娘",
+      "aliases": [
+        "七姑娘",
+        "七娘"
+      ],
+      "identity": "李府女红，段大师的孙女",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "段大师的孙女，在李府做女红，因爷爷被抓而焦急，向戚笼求助。",
+      "appearance": [
+        "肩上有大面积青肿"
+      ],
+      "personality": [
+        "焦急",
+        "勇敢"
+      ],
+      "abilities": [
+        "小河针法",
+        "编织锦绣凤凰交颈图"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "求助对象"
+        },
+        {
+          "target": "段大师",
+          "type": "孙女"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "梦见爷爷被抓，向戚笼求助。"
+        }
+      ],
+      "evidence": [
+        "段七娘睁眼，一个高高瘦瘦、皮肤比以往还要白皙的戚笼就坐在窗前",
+        "段七娘突然打了一个机灵，连忙抓住戚笼的手",
+        "段七娘红眼大叫，扑了上去，随后被守卫压倒。"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "段大师",
+      "aliases": [
+        "老爷子",
+        "段大师"
+      ],
+      "identity": "黑山城矿冶主事，铸器大师",
+      "faction": "",
+      "status": "被抓",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "铸器三十年的大师，开发出碧炼刀、斩蛇剑等道器，因铸剑失败被薛保侯抓走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "铸器"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "段七娘",
+          "type": "孙女"
+        },
+        {
+          "target": "薛保侯",
+          "type": "抓捕者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "因铸小刑剑失败，被薛保侯抓走。"
+        }
+      ],
+      "evidence": [
+        "段大师的嗓门依旧响如铜锣",
+        "老爷子铸器三十年，开发出的道器也只有四种",
+        "若只是试剑，以老爷子的水准，未必能一次铸成"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "赵黑",
+      "aliases": [
+        "赵老管家",
+        "赵管家"
+      ],
+      "identity": "李府管家",
+      "faction": "李府",
+      "status": "登场",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "李府管家，曾为段大师出头，与羊校尉对峙。",
+      "appearance": [
+        "沟壑纵横的老脸"
+      ],
+      "personality": [
+        "阴险",
+        "老谋深算"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "监视"
+        },
+        {
+          "target": "段大师",
+          "type": "曾维护"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "深夜查看戚笼是否睡好。"
+        }
+      ],
+      "evidence": [
+        "赵老管家一脸阴沉的走了进来，盯向戚笼",
+        "赵老管家挡在段大师身前",
+        "秋风未到蝉先觉，杀机一现、银针落地"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "羊校尉",
+      "aliases": [
+        "羊校尉"
+      ],
+      "identity": "校尉，薛保侯手下",
+      "faction": "薛保侯",
+      "status": "登场",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "薛保侯手下的校尉，逼迫段大师铸剑，并杀害老邓头。",
+      "appearance": [],
+      "personality": [
+        "残忍",
+        "嚣张"
+      ],
+      "abilities": [],
+      "equipment": [
+        "弯刀，刀上咬着一颗血色狼头"
+      ],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "下属"
+        },
+        {
+          "target": "段大师",
+          "type": "迫害"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在段七娘记忆中，逼迫段大师铸剑，杀害老邓头。"
+        }
+      ],
+      "evidence": [
+        "羊校尉不会是连公城命官都想强行征召吧",
+        "一颗脑袋被弯刀摘了下来，随后丢入了火炉中",
+        "那口弯刀上很邪异，似乎咬着一颗血色狼头"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "老邓头",
+      "aliases": [
+        "邓叔"
+      ],
+      "identity": "段大师的助手或朋友",
+      "faction": "",
+      "status": "死亡",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "被羊校尉杀害，头颅被丢入火炉。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "段七娘",
+          "type": "被称呼为邓叔"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被羊校尉杀害。"
+        }
+      ],
+      "evidence": [
+        "一颗脑袋被弯刀摘了下来，随后丢入了火炉中，是死不瞑目的老邓头"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "薛保侯",
+      "aliases": [
+        "薛保侯将军"
+      ],
+      "identity": "将军，掌管黑山城",
+      "faction": "边军",
+      "status": "提及",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "掌管黑山城的将军，与李伏威冲突，大掠钱财，监禁城主，抓捕段大师。",
+      "appearance": [],
+      "personality": [
+        "横行霸道",
+        "百无禁忌"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李伏威",
+          "type": "敌对"
+        },
+        {
+          "target": "段大师",
+          "type": "抓捕"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "掌管黑山城，大掠钱财，监禁城主。"
+        }
+      ],
+      "evidence": [
+        "薛保侯掌管了黑山城，大掠钱财，横行霸道",
+        "老爷子是遭了薛保侯的算计"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "李伏威",
+      "aliases": [
+        "伏龙总管",
+        "李饕餮"
+      ],
+      "identity": "李府总管，黑山城豪强",
+      "faction": "李府",
+      "status": "提及",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "李府总管，与薛保侯大战后败北，闭关中。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "薛保侯",
+          "type": "敌对"
+        },
+        {
+          "target": "白夫人",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与薛保侯大战，轰碎半面城墙，败后闭关。"
+        }
+      ],
+      "evidence": [
+        "伏龙总管李伏威与那位薛保侯将军在方一入城时便起了冲突",
+        "李伏威败，至今仍闭关中"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "白夫人",
+      "aliases": [],
+      "identity": "李伏威之妻，白府二小姐",
+      "faction": "白府",
+      "status": "提及",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "白府二小姐，嫁与李伏威，本家垄断宁海府绸缎生意。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "李伏威",
+          "type": "夫妻"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "白夫人本家人数众多，势力庞大",
+        "将白府的二小姐嫁给李伏威"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "那日·喜",
+      "aliases": [],
+      "identity": "蜘蛛贵族直系血脉，宫内人",
+      "faction": "蜘蛛贵族",
+      "status": "提及",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "被抓的宫内人，后被压在城中监狱。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被抓后经求情，被压在监狱。"
+        }
+      ],
+      "evidence": [
+        "当初城门口被抓的那位宫内人名为那日·喜",
+        "那位宫内人被压在城中一处监狱里"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "虞道人",
+      "aliases": [],
+      "identity": "风水道人",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "第十七章 小刑剑",
+      "summary": "风水道人，曾指点戚笼风水之道。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "风水术"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "曾指点"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "就像是当初虞道人指点自己一般"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

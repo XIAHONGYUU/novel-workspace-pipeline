@@ -1,0 +1,351 @@
+{
+  "chunk_id": "chunk-0508",
+  "characters": [
+    {
+      "name": "戚笼",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "坐在莲台上，把玩树枝，感知佛性执念，与云玉真对话，关注波旬与假王爷争斗。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "云玉真",
+          "type": "主仆"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在鬼子母天莲台上，感知波旬动手，与云玉真交谈复国计划。"
+        }
+      ],
+      "evidence": [
+        "戚笼正坐在一座莲台上，把玩着一截树枝",
+        "戚笼眼中闪过一丝讶然，“假王爷！”",
+        "戚笼和云玉真互视一眼"
+      ],
+      "mention_count": 6
+    },
+    {
+      "name": "云玉真",
+      "aliases": [],
+      "identity": "长公主安排的后手？",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与戚笼对话，后化身七大观音，在东方琉璃世界中解救众生，与波旬交手。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "大自在魔光",
+        "七大观音分身"
+      ],
+      "equipment": [
+        "玉净瓶"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "主人"
+        },
+        {
+          "target": "波旬",
+          "type": "敌对"
+        },
+        {
+          "target": "红莲僧",
+          "type": "受其指点"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在鬼子母天与戚笼交谈，后前往东方琉璃世界解救众生，与波旬交手。"
+        }
+      ],
+      "evidence": [
+        "云玉真娇笑一声，道：“复国计划分成很多部分...”",
+        "云玉真突然出现在东方琉璃世界中，素手轻挥",
+        "云玉真脸上鬼影一闪，似是挣扎欲出"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "波旬",
+      "aliases": [
+        "魔主"
+      ],
+      "identity": "魔主",
+      "faction": "魔道",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "与假王爷争斗，被云玉真干扰，与木叉公对峙。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "天魔神光"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "假王爷",
+          "type": "敌对"
+        },
+        {
+          "target": "云玉真",
+          "type": "敌对"
+        },
+        {
+          "target": "木叉公",
+          "type": "合作破裂"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在东方琉璃世界中与云玉真交手，质问木叉公。"
+        }
+      ],
+      "evidence": [
+        "波旬动手了，好强的魔性——对手居然是他！",
+        "波旬突然出现，手一抓，大片的琉璃魔光裹向云玉真",
+        "波旬怒极反笑，道：“本座明白了...”"
+      ],
+      "mention_count": 7
+    },
+    {
+      "name": "假王爷",
+      "aliases": [],
+      "identity": "长公主安排的后手，杀长公主祖父者",
+      "faction": "",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与波旬争斗，被如来仙人镇压。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "波旬",
+          "type": "敌对"
+        },
+        {
+          "target": "木叉公",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与波旬争斗，被如来仙人镇压。"
+        }
+      ],
+      "evidence": [
+        "波旬动手了，好强的魔性——对手居然是他！",
+        "假王爷！",
+        "如来仙人镇压假王爷"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "木叉公",
+      "aliases": [
+        "木叉公"
+      ],
+      "identity": "古佛",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "与波旬有合作，但似乎另有打算，与假王爷合作。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "波旬",
+          "type": "合作破裂"
+        },
+        {
+          "target": "假王爷",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被波旬质问，回应“八难不灭，我佛难安”。"
+        }
+      ],
+      "evidence": [
+        "木叉公对于波旬与假王爷的争斗，应该是乐见其成的吧",
+        "一道苍老的声音缓缓响起",
+        "八难不灭，我佛难安"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "如来仙人",
+      "aliases": [
+        "如来"
+      ],
+      "identity": "三如来级",
+      "faction": "佛门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "镇压假王爷。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "假王爷",
+          "type": "镇压"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "一尊万手万首的巨佛从二十诸天中升腾而起，镇压假王爷。"
+        }
+      ],
+      "evidence": [
+        "一尊万手万首的巨佛从二十诸天中升腾而起",
+        "如来仙人镇压假王爷"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "红莲僧",
+      "aliases": [
+        "红莲"
+      ],
+      "identity": "小和尚",
+      "faction": "魔门",
+      "status": "提及",
+      "first_appearance": "",
+      "summary": "指点云玉真修炼大自在魔光。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "云玉真",
+          "type": "指点"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "大自在魔光！红莲这小和尚也敢插手！"
+      ],
+      "mention_count": 1
+    },
+    {
+      "name": "玉池夫人",
+      "aliases": [
+        "月神",
+        "玉池贱婢"
+      ],
+      "identity": "月神",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在钟吾古地外围与白虎争斗，迫使白虎妥协。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [
+        "八月为刀"
+      ],
+      "equipment": [
+        "弯刀"
+      ],
+      "relationships": [
+        {
+          "target": "白虎",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在钟吾古地外围与白虎争斗，获得好处。"
+        }
+      ],
+      "evidence": [
+        "月月为刀，每一轮斩下，就彻底泯灭一尊白虎神兽",
+        "玉池贱婢，莫要以为你真身下凡",
+        "手里把玩着得来的好处，月中玉池夫人自言自语"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "白虎",
+      "aliases": [
+        "白虎神兽"
+      ],
+      "identity": "上古凶兽",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在钟吾古地外围与玉池夫人争斗，最终妥协。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "玉池夫人",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与玉池夫人争斗，妥协分出一半所得。"
+        }
+      ],
+      "evidence": [
+        "无数白虎仰天啸月",
+        "白虎怒吼道：“玉池贱婢...”",
+        "白虎面色一变，万虎合一，化作一尊赤着上半身的昂赞巨汉"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "道真天师",
+      "aliases": [],
+      "identity": "天师",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "在关内某地，钢城拔地而起，准备做法。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [
+        "木剑"
+      ],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "在钢城中准备做法，被压住剑尖。"
+        }
+      ],
+      "evidence": [
+        "道真天师望向北方，沉吟片刻，开口道：“升法台，我要做法。”",
+        "道真天师刚刚握住木剑，剑尖另一头就被人压住了"
+      ],
+      "mention_count": 2
+    }
+  ]
+}

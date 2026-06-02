@@ -1,0 +1,194 @@
+{
+  "chunk_id": "chunk-1180",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "跟随骡车来到太平顶，与中年男人对话。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "中年男人",
+          "type": "跟随"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "乘骡车经过牌坊到达太平顶，目睹中年男人处理女尸，随后跟随其登山。"
+        }
+      ],
+      "evidence": [
+        "苏午坐在排子车上，跟着经过这一道道分辨不出任何有用线索、只剩些残缺石柱、柱础石块的破碎牌坊",
+        "苏午仰头看着牌坊后那庞大雄峻的山影",
+        "苏午看着老车夫掌心里的那块银锭"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "中年男人",
+      "aliases": [
+        "先生"
+      ],
+      "identity": "掌握正气符文字，与素王有牵连",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "束发髻，披玄色大氅，穿青色交领道袍，两鬓斑白，模样俊秀。指挥石像搬运女尸，使用正气符文字封印棺材。",
+      "appearance": [
+        "束着发髻，披着一身玄色大氅，内里穿着件青色交领道袍",
+        "两鬓斑白、模样仍旧俊秀"
+      ],
+      "personality": [],
+      "abilities": [
+        "掌握正气符文字"
+      ],
+      "equipment": [
+        "薄册"
+      ],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被跟随"
+        },
+        {
+          "target": "老车夫",
+          "type": "雇主"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "接收老车夫运来的肿胀女尸，安排其葬于桃山，随后登上太平顶。"
+        }
+      ],
+      "evidence": [
+        "那中年男人转过头来，似笑非笑地看了他一眼",
+        "中年男人拿出一锭银元宝，交到了老车夫手里",
+        "中年男人取出一本薄册来，随手从薄册上撕下一张，贴在了棺盖上"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "老车夫",
+      "aliases": [
+        "老丈"
+      ],
+      "identity": "赶骡车的老车夫",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "驱赶瞎眼骡马运送肿胀女尸到太平顶，得到中年男人五两银锭作为酬劳和分别赠礼。",
+      "appearance": [],
+      "personality": [
+        "老实",
+        "感恩"
+      ],
+      "abilities": [],
+      "equipment": [
+        "骡车",
+        "瞎眼骡马"
+      ],
+      "relationships": [
+        {
+          "target": "中年男人",
+          "type": "被雇佣"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "将肿胀女尸运到太平顶，交给中年男人后驾车离开。"
+        }
+      ],
+      "evidence": [
+        "老车夫驱赶着瞎眼的骡马，就从那一道道破损严重的牌坊下经过",
+        "老车夫听到这声响，顿时循声仰起头",
+        "老车夫最终坐上了骡车，老骡马带着他缓缓调头，往山下的牌坊缓行而去"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "肿胀女尸",
+      "aliases": [
+        "不死尸",
+        "撒旦祥羊"
+      ],
+      "identity": "不死尸，撒旦祥羊",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "被老车夫运到太平顶的女尸，试图僭葬太平顶，被中年男人封印并安排葬于桃山。",
+      "appearance": [
+        "肿胀"
+      ],
+      "personality": [],
+      "abilities": [
+        "散发香火气息和恶堕诡韵"
+      ],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被运到太平顶，试图反抗葬地安排，被中年男人封印，送往桃山。"
+        }
+      ],
+      "evidence": [
+        "骡车上仰躺的‘肿胀女尸’",
+        "棺椁内的肿胀女尸似是听懂了中年男人的话",
+        "强烈的香火气息混合着‘撒旦’的‘恶堕诡韵’猛然间自黑棺之中散发而出"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "石像",
+      "aliases": [
+        "石人"
+      ],
+      "identity": "活动自如的石像",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "穿直裾衣袍，推着大车，听从中年男人指挥搬运女尸。",
+      "appearance": [
+        "穿直裾衣袍",
+        "抖落下满身的石屑"
+      ],
+      "personality": [],
+      "abilities": [
+        "活动自如"
+      ],
+      "equipment": [
+        "铁戈",
+        "长矛",
+        "大车"
+      ],
+      "relationships": [
+        {
+          "target": "中年男人",
+          "type": "被指挥"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "推车跟随中年男人，搬运女尸至棺材，随后推车离开。"
+        }
+      ],
+      "evidence": [
+        "几具穿直裾衣袍的石像抖落下满身的石屑，将手中的铁戈、长矛搠在石块边，推着一副车轮箍了黑铁、上面放着一具黑棺材的大车",
+        "那几具活动自如的‘石像’便走到骡车侧，将骡车上仰躺的‘肿胀女尸’搬起来",
+        "那几具石像未有回应甚么，只是推着大车上的棺材渐渐走远"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

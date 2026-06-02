@@ -1,0 +1,392 @@
+{
+  "chunk_id": "chunk-0706",
+  "characters": [
+    {
+      "name": "施卿",
+      "aliases": [],
+      "identity": "纵横序说客",
+      "faction": "朱彝焰（大明皇帝）",
+      "status": "死亡",
+      "first_appearance": "第703章长生",
+      "summary": "纵横序说客，受朱彝焰之命劝说张嗣源离开，最终被李钧击杀。",
+      "appearance": [
+        "残破的身躯",
+        "受损的械体",
+        "仅存的一只械眼"
+      ],
+      "personality": [
+        "能言善辩",
+        "冷静",
+        "骄傲"
+      ],
+      "abilities": [
+        "纵横序能力",
+        "捭阖之术"
+      ],
+      "equipment": [
+        "械体"
+      ],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "劝说对象"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "君主"
+        },
+        {
+          "target": "李钧",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "劝说张嗣源离开大明，被李钧枪杀。"
+        }
+      ],
+      "evidence": [
+        "施卿侃侃而谈",
+        "施卿挺起残破的身躯",
+        "砰！枪声暴起，瞬间轰碎了施卿的械躯。"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "张嗣源",
+      "aliases": [
+        "张公子",
+        "张大人"
+      ],
+      "identity": "张峰岳之子，儒序三（射艺儒序）",
+      "faction": "张峰岳阵营",
+      "status": "存活",
+      "first_appearance": "第703章长生",
+      "summary": "张峰岳之子，儒序三，性格豪爽不羁，与李钧、邹四九、陈乞生同行。",
+      "appearance": [],
+      "personality": [
+        "豪爽",
+        "不羁",
+        "狡猾",
+        "至孝"
+      ],
+      "abilities": [
+        "儒序三（射艺）",
+        "枪法"
+      ],
+      "equipment": [
+        "枪"
+      ],
+      "relationships": [
+        {
+          "target": "张峰岳",
+          "type": "父子"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        },
+        {
+          "target": "施卿",
+          "type": "敌对"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与施卿对话，套取情报，后与李钧等人离开。"
+        }
+      ],
+      "evidence": [
+        "张嗣源不屑道",
+        "张嗣源冷笑道",
+        "张嗣源脱下外衣裹住李不逢的遗骸"
+      ],
+      "mention_count": 25
+    },
+    {
+      "name": "李钧",
+      "aliases": [
+        "李革君"
+      ],
+      "identity": "武序强者",
+      "faction": "张峰岳阵营",
+      "status": "存活",
+      "first_appearance": "第703章长生",
+      "summary": "武序强者，与张嗣源同行，击杀施卿。",
+      "appearance": [
+        "脸色苍白"
+      ],
+      "personality": [
+        "冷静",
+        "杀伐果断"
+      ],
+      "abilities": [
+        "武序能力",
+        "枪法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "同伴"
+        },
+        {
+          "target": "施卿",
+          "type": "敌对"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身，击杀施卿，与张嗣源等人离开。"
+        }
+      ],
+      "evidence": [
+        "李钧不知何时悄然现身",
+        "李钧冷声开口",
+        "砰！枪声暴起，瞬间轰碎了施卿的械躯。"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "张峰岳",
+      "aliases": [
+        "张大人",
+        "张老头"
+      ],
+      "identity": "儒序二，前首辅",
+      "faction": "反朱阵营",
+      "status": "存活（提及）",
+      "first_appearance": "第703章长生",
+      "summary": "张嗣源之父，儒序二，推行新政，意图断绝序列。",
+      "appearance": [],
+      "personality": [
+        "老谋深算",
+        "理想主义"
+      ],
+      "abilities": [
+        "儒序二"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "父子"
+        },
+        {
+          "target": "朱彝焰",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及正在推行新政，与朱家对抗。"
+        }
+      ],
+      "evidence": [
+        "张大人所追求的梦想，是打破序列形成的壁垒",
+        "张峰岳要想断绝序列"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "朱彝焰",
+      "aliases": [
+        "陛下",
+        "小皇帝"
+      ],
+      "identity": "大明皇帝",
+      "faction": "大明皇室",
+      "status": "存活（提及）",
+      "first_appearance": "第703章长生",
+      "summary": "大明皇帝，与张峰岳对抗，利用纵横序和黄粱。",
+      "appearance": [],
+      "personality": [
+        "阴险",
+        "善于布局"
+      ],
+      "abilities": [
+        "可能拥有长生之秘"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "施卿",
+          "type": "君主"
+        },
+        {
+          "target": "张峰岳",
+          "type": "敌对"
+        },
+        {
+          "target": "张嗣源",
+          "type": "敌对"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及派施卿劝说张嗣源，并分享长生之秘。"
+        }
+      ],
+      "evidence": [
+        "陛下却不允许我们这这么做",
+        "朱彝焰这是打定主意要当缩头乌龟了"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "邹四九",
+      "aliases": [
+        "邹爷"
+      ],
+      "identity": "序列能力者（梦境相关）",
+      "faction": "张峰岳阵营",
+      "status": "存活",
+      "first_appearance": "第703章长生",
+      "summary": "与张嗣源、李钧同行，能力与梦境相关。",
+      "appearance": [],
+      "personality": [
+        "洒脱"
+      ],
+      "abilities": [
+        "梦境序列"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身与张嗣源等人同行。"
+        }
+      ],
+      "evidence": [
+        "邹四九的身影出现在张嗣源左侧"
+      ],
+      "mention_count": 3
+    },
+    {
+      "name": "陈乞生",
+      "aliases": [
+        "牛鼻子"
+      ],
+      "identity": "道序修仙者",
+      "faction": "张峰岳阵营",
+      "status": "存活",
+      "first_appearance": "第703章长生",
+      "summary": "道序修仙者，杀性重，与张嗣源等人同行。",
+      "appearance": [],
+      "personality": [
+        "杀伐果断",
+        "言简意赅"
+      ],
+      "abilities": [
+        "道序修仙"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "同伴"
+        },
+        {
+          "target": "李钧",
+          "type": "同伴"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "现身与张嗣源等人同行。"
+        }
+      ],
+      "evidence": [
+        "陈乞生双手踹在袖中，站在李钧右手"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "詹舜",
+      "aliases": [],
+      "identity": "黄粱鬼野性难驯的存在",
+      "faction": "未知",
+      "status": "存活（提及）",
+      "first_appearance": "第703章长生",
+      "summary": "被提及帮助朱彝焰，但可能反噬。",
+      "appearance": [],
+      "personality": [
+        "野性难驯"
+      ],
+      "abilities": [
+        "黄粱相关"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "朱彝焰",
+          "type": "合作"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被提及帮助朱彝焰。"
+        }
+      ],
+      "evidence": [
+        "现在有詹舜帮忙",
+        "他能捅张希极一刀，一样也能捅你们一刀"
+      ],
+      "mention_count": 2
+    },
+    {
+      "name": "李不逢",
+      "aliases": [],
+      "identity": "遗骸",
+      "faction": "未知",
+      "status": "死亡",
+      "first_appearance": "第703章长生",
+      "summary": "遗骸被张嗣源包裹带走。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "张嗣源",
+          "type": "被其带走"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "遗骸被张嗣源包裹带走。"
+        }
+      ],
+      "evidence": [
+        "张嗣源脱下外衣裹住李不逢的遗骸"
+      ],
+      "mention_count": 1
+    }
+  ]
+}

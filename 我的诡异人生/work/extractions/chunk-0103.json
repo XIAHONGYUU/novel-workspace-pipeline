@@ -1,0 +1,213 @@
+{
+  "chunk_id": "chunk-0103",
+  "characters": [
+    {
+      "name": "苏午",
+      "aliases": [
+        "苏小哥"
+      ],
+      "identity": "民间驭诡者",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "民间驭诡者，拥有模拟器能力，能压制其他驭诡者，使用暴食之口天赋。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断",
+        "谨慎"
+      ],
+      "abilities": [
+        "模拟器",
+        "暴食之口",
+        "诡韵操控",
+        "阴影穿梭"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "云霓裳",
+          "type": "临时队友"
+        },
+        {
+          "target": "黄道士",
+          "type": "同行者"
+        },
+        {
+          "target": "谢云清",
+          "type": "被托付者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "带领村民撤离，决定前往云龙观探查诡变源头。"
+        }
+      ],
+      "evidence": [
+        "苏午站在龙山集东头的出村口处，身后就是排成五队的村民",
+        "苏午从竹林里走了出来",
+        "苏午随即转向黄道士：“道长，我们准备出发了。”"
+      ],
+      "mention_count": 20
+    },
+    {
+      "name": "云霓裳",
+      "aliases": [],
+      "identity": "官方驭诡者",
+      "faction": "官方",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "官方驭诡者，容纳‘绣娘’诡，擅长使用绣线进行医疗和傀儡控制。",
+      "appearance": [
+        "缠满绷带的双手"
+      ],
+      "personality": [
+        "惭愧",
+        "积极",
+        "谨慎"
+      ],
+      "abilities": [
+        "绣娘诡",
+        "绣线控制",
+        "医疗缝合"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "临时队友"
+        },
+        {
+          "target": "肖锦荣",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "提议先行探查诡韵区，后协助苏午用绣线保护黄道士。"
+        }
+      ],
+      "evidence": [
+        "云霓裳走近苏午身畔，轻声说道",
+        "云霓裳背后浮现一抹白影，那白影渐渐凝聚成‘绣娘’的模样",
+        "云霓裳在官方驭诡者团队里，一直扮演的都是后勤医疗师的角色"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "黄道士",
+      "aliases": [
+        "黄道长",
+        "老道士",
+        "老道长"
+      ],
+      "identity": "云龙观当代观主",
+      "faction": "云龙观",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "云龙观观主，年事已高，愿意与苏午一同前往云龙观探查。",
+      "appearance": [],
+      "personality": [
+        "释然",
+        "爽朗"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "谢云清",
+          "type": "师徒"
+        },
+        {
+          "target": "苏午",
+          "type": "同行者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "同意与苏午前往云龙观，被绣线包裹成茧团。"
+        }
+      ],
+      "evidence": [
+        "老道士面上流露出一种释然之色",
+        "黄道士点了点头，道：“挺好，这件事情早点解决，大家都能早点安心”",
+        "老道长的爽朗笑声传出茧团"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "谢云清",
+      "aliases": [],
+      "identity": "黄道士的徒弟",
+      "faction": "云龙观",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "黄道士的徒弟，关心师父安危。",
+      "appearance": [],
+      "personality": [
+        "紧张",
+        "关心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "黄道士",
+          "type": "师徒"
+        },
+        {
+          "target": "苏午",
+          "type": "被托付者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "请求苏午照顾师父，目送师父离开。"
+        }
+      ],
+      "evidence": [
+        "一旁的谢云清连忙出声",
+        "谢云清仰起脸，眼眶泛红地看着苏午"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "肖锦荣",
+      "aliases": [],
+      "identity": "驭诡者",
+      "faction": "",
+      "status": "被压制",
+      "first_appearance": "",
+      "summary": "被苏午压制的驭诡者之一。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "苏午",
+          "type": "被压制"
+        },
+        {
+          "target": "云霓裳",
+          "type": "队友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被苏午压制，不断挣扎散发诡韵。"
+        }
+      ],
+      "evidence": [
+        "你还压制着肖锦荣他们两个人",
+        "压制肖锦荣二人，倒也无法给苏午带来什么压力"
+      ],
+      "mention_count": 3
+    }
+  ]
+}

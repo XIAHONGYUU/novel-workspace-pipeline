@@ -1,0 +1,127 @@
+{
+  "chunk_id": "chunk-1202",
+  "characters": [
+    {
+      "name": "钏宝儿",
+      "aliases": [
+        "宝儿",
+        "妹子"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "金孝泉的妹妹，因家人冷漠而心生怨恨，毒杀父母后自己也中毒。",
+      "appearance": [
+        "口鼻流血",
+        "面白如纸"
+      ],
+      "personality": [
+        "冷酷",
+        "决绝"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "金孝泉",
+          "type": "兄妹"
+        },
+        {
+          "target": "爹娘",
+          "type": "父母"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "毒杀父母后与金孝泉对峙，自己也中毒倒地。"
+        }
+      ],
+      "evidence": [
+        "钏宝儿冷眼看着涕泪横流，求饶不已的金孝泉",
+        "给他们的那酒里就下着毒药哩……",
+        "钏宝儿身躯摇晃着，踉跄后退，也跌坐在了庙门口"
+      ],
+      "mention_count": 10
+    },
+    {
+      "name": "金孝泉",
+      "aliases": [
+        "兄长"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "",
+      "summary": "钏宝儿的兄长，因贪心作祟而求饶，最终得知父母被毒杀。",
+      "appearance": [
+        "头破血流"
+      ],
+      "personality": [
+        "懦弱",
+        "贪心"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钏宝儿",
+          "type": "兄妹"
+        },
+        {
+          "target": "爹娘",
+          "type": "父母"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "向钏宝儿求饶，得知父母被毒杀后惊恐磕头。"
+        }
+      ],
+      "evidence": [
+        "金孝泉下意识回道",
+        "金孝泉直接双手撑地，不停地朝钏宝儿磕着响头"
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "爹娘",
+      "aliases": [
+        "爹爹",
+        "娘亲"
+      ],
+      "identity": "",
+      "faction": "",
+      "status": "已故",
+      "first_appearance": "",
+      "summary": "钏宝儿和金孝泉的父母，被钏宝儿毒杀。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "钏宝儿",
+          "type": "女儿"
+        },
+        {
+          "target": "金孝泉",
+          "type": "儿子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被钏宝儿毒杀，已死亡。"
+        }
+      ],
+      "evidence": [
+        "给他们的那酒里就下着毒药哩……",
+        "他俩吃了酒，今下应当也睡死了过去，再醒不过来啦！"
+      ],
+      "mention_count": 5
+    }
+  ]
+}

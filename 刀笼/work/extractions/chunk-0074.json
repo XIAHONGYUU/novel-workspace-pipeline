@@ -1,0 +1,191 @@
+{
+  "chunk_id": "chunk-0074",
+  "characters": [
+    {
+      "name": "贾似盗",
+      "aliases": [],
+      "identity": "杂戏大师，幻天王",
+      "faction": "赤身党",
+      "status": "登场",
+      "first_appearance": "第七十四章 戚不见戚（上）",
+      "summary": "赤身党幻天王，被戚笼重创后正在养伤。",
+      "appearance": [
+        "一身单衣",
+        "柳眉"
+      ],
+      "personality": [
+        "警觉",
+        "不信任自己"
+      ],
+      "abilities": [
+        "杂戏大师基本功",
+        "天作戏级别的戏法"
+      ],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "仇敌"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "躺在绳子上调息养伤，被戚笼的骷髅化身潜入。"
+        }
+      ],
+      "evidence": [
+        "一身单衣的贾似盗正躺在横竖交叉的两根绳子上闭目调息。",
+        "当初戚笼连诛两侯爵，杀的这位幻天王狼狈而逃，不仅伤了他的身，还重创了他的魂。"
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "戚笼",
+      "aliases": [
+        "戚大匠"
+      ],
+      "identity": "风水师，前赤身党天王",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七十四章 戚不见戚（上）",
+      "summary": "通过风水术化身无头骷髅潜入赤身党驻地，意图救人。",
+      "appearance": [],
+      "personality": [
+        "谨慎",
+        "有谋略"
+      ],
+      "abilities": [
+        "风水术",
+        "吞噬风水之宝"
+      ],
+      "equipment": [
+        "五杆三角令旗",
+        "龟甲",
+        "巽风左腿",
+        "白雷煞右腿",
+        "三奇贵人骨胸甲"
+      ],
+      "relationships": [
+        {
+          "target": "贾似盗",
+          "type": "仇敌"
+        },
+        {
+          "target": "宫元朗",
+          "type": "盟友"
+        },
+        {
+          "target": "艳内人",
+          "type": "旧识"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "以无头骷髅化身潜入赤身党驻地，找到宫元朗并带其逃离。"
+        }
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "宫元朗",
+      "aliases": [
+        "宫将军"
+      ],
+      "identity": "将军",
+      "faction": "",
+      "status": "登场",
+      "first_appearance": "第七十四章 戚不见戚（上）",
+      "summary": "被赤身党俘虏的将军，被戚笼所救。",
+      "appearance": [
+        "虎背熊腰",
+        "气质阳刚"
+      ],
+      "personality": [
+        "温柔"
+      ],
+      "abilities": [],
+      "equipment": [
+        "‘攻虎’枪"
+      ],
+      "relationships": [
+        {
+          "target": "戚笼",
+          "type": "被救者"
+        },
+        {
+          "target": "艳内人",
+          "type": "俘虏与俘虏者"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "被艳内人俘虏，后被戚笼救出。"
+        }
+      ],
+      "mention_count": 8
+    },
+    {
+      "name": "艳内人",
+      "aliases": [
+        "肉娘子"
+      ],
+      "identity": "第四十九寇",
+      "faction": "赤身党",
+      "status": "登场",
+      "first_appearance": "第七十四章 戚不见戚（上）",
+      "summary": "好色成性的女寇，俘虏了宫元朗。",
+      "appearance": [
+        "身材姣好",
+        "长发",
+        "右眼下有美人痣",
+        "看上去二十五六"
+      ],
+      "personality": [
+        "好色"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "宫元朗",
+          "type": "俘虏者"
+        },
+        {
+          "target": "肉娘子",
+          "type": "好友"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与宫元朗同床，被戚笼用白雷击晕。"
+        }
+      ],
+      "mention_count": 5
+    },
+    {
+      "name": "村民",
+      "aliases": [],
+      "identity": "赤身党成员",
+      "faction": "赤身党",
+      "status": "登场",
+      "first_appearance": "第七十四章 戚不见戚（上）",
+      "summary": "赤身党驻地中的巡逻村民，与宫元朗对切口。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "巡逻时遇到宫元朗，被切口骗过。"
+        }
+      ],
+      "mention_count": 2
+    }
+  ]
+}

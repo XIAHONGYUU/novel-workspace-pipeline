@@ -1,0 +1,194 @@
+{
+  "chunk_id": "chunk-1435",
+  "characters": [
+    {
+      "name": "妘蕞",
+      "aliases": [
+        "妘副使",
+        "妘某"
+      ],
+      "identity": "元夏副使",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第十三章 利己非利义",
+      "summary": "元夏副使，负责招降天夏修士，内心对烛午江的待遇感到不平，并开始考虑投靠天夏的可能性。",
+      "appearance": [],
+      "personality": [
+        "焦躁",
+        "多疑",
+        "嫉妒",
+        "狠厉"
+      ],
+      "abilities": [],
+      "equipment": [
+        "玉蛇"
+      ],
+      "relationships": [
+        {
+          "target": "常旸",
+          "type": "对话者，被劝说"
+        },
+        {
+          "target": "姜道人",
+          "type": "同僚，正使"
+        },
+        {
+          "target": "烛午江",
+          "type": "嫉妒对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与常旸密谈，得知天夏对待投靠者的优待，内心动摇；后与姜道人发生冲突，率先动手。"
+        }
+      ],
+      "evidence": [
+        "妘蕞听到这里，心中不由涌起一股深深的不平和嫉妒。",
+        "妘蕞心中有些纷乱，他的脑海之中也不由冒了各种念头，其中有一个也逐渐往上浮现。",
+        "他神色数变，面上露出狰狞之色，与其等着其人到来，那还不如自己先来动手。"
+      ],
+      "mention_count": 30
+    },
+    {
+      "name": "常旸",
+      "aliases": [
+        "常道友",
+        "常某"
+      ],
+      "identity": "天夏修士",
+      "faction": "天夏",
+      "status": "登场",
+      "first_appearance": "第十三章 利己非利义",
+      "summary": "天夏修士，负责与妘蕞接触，劝说其投靠天夏，并透露天夏对待投靠者的优待政策。",
+      "appearance": [],
+      "personality": [
+        "圆滑",
+        "善于劝说"
+      ],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "妘蕞",
+          "type": "对话者，劝说对象"
+        },
+        {
+          "target": "烛午江",
+          "type": "提及，作为例子"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与妘蕞密谈，劝说其投靠天夏，并签署约书。"
+        }
+      ],
+      "evidence": [
+        "常旸道：“常某此前与道友有说过，在我天夏，只要立有大功，那与对待自家人没什么两样，更别说烛午江乃是第一个投靠天夏的贵方修士，我天夏还需要这面招牌的，又怎么舍得让他出外与人争锋呢？”",
+        "常旸这时想了想，忽然压低语气传声道：“其实道友若是在两家对抗之中有危险，也可以假意来投我天夏么，最后若是有机会的，再反投回去也是可以的。”"
+      ],
+      "mention_count": 15
+    },
+    {
+      "name": "姜道人",
+      "aliases": [
+        "姜正使",
+        "姜役",
+        "姜道友"
+      ],
+      "identity": "元夏正使",
+      "faction": "元夏",
+      "status": "登场",
+      "first_appearance": "第十三章 利己非利义",
+      "summary": "元夏正使，与妘蕞一同出使天夏，与天夏高层密谈后，与妘蕞产生猜忌，最终爆发冲突。",
+      "appearance": [],
+      "personality": [
+        "冷静",
+        "果断"
+      ],
+      "abilities": [],
+      "equipment": [
+        "玉槌"
+      ],
+      "relationships": [
+        {
+          "target": "妘蕞",
+          "type": "同僚，副使"
+        },
+        {
+          "target": "风道人",
+          "type": "密谈对象"
+        }
+      ],
+      "timeline": [
+        {
+          "stage": "当前",
+          "event": "与风道人密谈后，与妘蕞互相猜忌，最终在道宫中与妘蕞动手。"
+        }
+      ],
+      "evidence": [
+        "姜道人淡淡道：“我亦一样。”",
+        "姜道人道：“不知副使说了些什么？”",
+        "姜道人猛然将手中玉槌祭出"
+      ],
+      "mention_count": 12
+    },
+    {
+      "name": "烛午江",
+      "aliases": [],
+      "identity": "第一个投靠天夏的元夏修士",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第十三章 利己非利义",
+      "summary": "第一个投靠天夏的元夏修士，受到天夏优待，成为妘蕞嫉妒的对象。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "妘蕞",
+          "type": "被嫉妒"
+        },
+        {
+          "target": "常旸",
+          "type": "被提及"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "更别说烛午江乃是第一个投靠天夏的贵方修士",
+        "这个烛午江逆贼，明明行了逆举，怎能得享到这般好处？"
+      ],
+      "mention_count": 4
+    },
+    {
+      "name": "风道人",
+      "aliases": [
+        "风廷执"
+      ],
+      "identity": "天夏廷执",
+      "faction": "天夏",
+      "status": "提及",
+      "first_appearance": "第十三章 利己非利义",
+      "summary": "天夏廷执，与姜道人密谈，内容未知。",
+      "appearance": [],
+      "personality": [],
+      "abilities": [],
+      "equipment": [],
+      "relationships": [
+        {
+          "target": "姜道人",
+          "type": "密谈对象"
+        }
+      ],
+      "timeline": [],
+      "evidence": [
+        "常道友想要知晓，可以去问一下风廷执了。",
+        "他忽然想到，风道人会与姜道人说些什么？"
+      ],
+      "mention_count": 3
+    }
+  ]
+}
