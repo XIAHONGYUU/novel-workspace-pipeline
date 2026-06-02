@@ -18,6 +18,7 @@ This repository takes a different approach. Each novel becomes its own workspace
 - Layer init scripts that scaffold missing outputs
 - A documented AI fill step that turns scaffold files into real analysis
 - Validators that distinguish real progress from placeholders
+- An optional quality gate that scores analysis quality above basic validator checks
 - Status, gap-report, and repair-plan generation
 - Local helpers for `.txt -> .md` conversion and character extraction
 
@@ -173,6 +174,13 @@ Run validators and persist reports:
 python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.py \
   --workspace ./your-workspace \
   --persist-validator-reports
+```
+
+Run the quality gate after validator cleanup:
+
+```bash
+python3 novel-workspace-orchestrator-skill/scripts/quality_gate.py \
+  --workspace ./your-workspace
 ```
 
 Run regression with your own fixtures:
