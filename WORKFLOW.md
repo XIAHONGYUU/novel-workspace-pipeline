@@ -170,6 +170,21 @@ python3 novel-workspace-orchestrator-skill/scripts/run_workspace_regression.py
 - 检查推荐模式、推荐下一层、已完成层、待修层是否漂移
 - 作为 workflow 脚本改动后的最小验收
 
+### 工作区整理
+
+```bash
+python3 scripts/organize_workspaces.py
+```
+
+作用：
+
+- 重写各工作区 `README.md`，按层整理正式产物入口
+- 生成各工作区 `WORKSPACE_FILES.md`，按根目录文件类型归类
+- 刷新 `source/README.md`、`work/README.md`、`supporting-cast/README.md`
+- 把 `.distill_progress` 和章节蒸馏备份迁入 `work/chapter-distillation/`
+- 为缺失的 `supporting-cast/index.md` 自动补索引
+- 生成仓库级 `docs/WORKSPACE_INDEX.md`
+
 ## 五、每次开始
 
 1. 先看 `git status --short`
