@@ -1,40 +1,14 @@
-# 我的诡异人生 工作区说明
+# 我的诡异人生 根目录文件索引
 
-本目录是《我的诡异人生》的独立工作区。正式产物继续保留在根目录，便于现有 validator / orchestrator 直接识别；中间缓存统一收纳到 `work/`。
+本索引用于把工作区根目录下的正式产物、状态文件、目录入口和历史目录分开查看。
 
-## 快速入口
+## 目录入口
 
-- 最新交接：`工作状态-2026-05-30.md`
-- 机器状态：`workspace-status.json`
-- 根目录索引：`WORKSPACE_FILES.md`
-- 差距报告：`workspace-gap-report.md`
-- 修复计划：`workspace-repair-plan.md`
-- 流程判断：`工作区流程判断报告.md`
+- `source`
+- `supporting-cast`
+- `work`
 
-## 当前状态摘要
-
-- 主角：`苏午`
-- 已达标层：`protagonist, outline`
-- 待修层：`opening, supporting-cast, highlight`
-- 推荐模式：`repair-existing`
-- 推荐下一层：`opening`
-- 推荐 skill：`novel-opening-analysis`
-- 当前建议：优先修复 黄金前三章层，因为该层已存在但尚未达标。
-
-## 目录分层
-
-- `source/`
-  原文与转换稿，共 2 个条目。
-- `supporting-cast/`
-  重要配角分析目录，当前 10 份配角卡。
-- `work/`
-  中间运行产物、抽取缓存、章节蒸馏续跑状态。
-- `work_backup_heuristic/`
-  历史启发式抽取备份，保留但不作为正式入口。
-- `focus-<主角名>/`
-  主角卡抽取阶段缓存目录：`focus-苏午`。
-
-## 正式产物分层
+## 正式产物
 
 ### 章节蒸馏层
 - `我的诡异人生-章节蒸馏校验报告.md`
@@ -80,7 +54,6 @@
 - `我的诡异人生-重要配角与主角关系图.md`
 - `我的诡异人生-重要配角层校验报告.md`
 - `我的诡异人生-重要配角阶段作用分布.md`
-- `supporting-cast/index.md`
 
 ### 整书大纲层
 - `我的诡异人生-主线支线与冲突地图.md`
@@ -102,41 +75,34 @@
 - `我的诡异人生-最强爽点痛点悬念点总结.md`
 - `我的诡异人生-高光桥段分布与节奏判断.md`
 
-### 综合校验与质量门
+## 综合校验与质量门
+
 - `我的诡异人生-质量门报告.md`
-
-### 历史诊断文件
-- `我的诡异人生-首轮诊断报告.md`
-
-### 历史别名文件
-- 无
 
 ## 状态与交接文件
 
-- `workspace-status.json`
+- `workspace-context-protagonist.md`
 - `workspace-gap-report.md`
 - `workspace-repair-plan.md`
+- `workspace-status.json`
 - `工作区流程判断报告.md`
-- 最新 `工作状态-YYYY-MM-DD.md`：`工作状态-2026-05-30.md`
-- `workspace-context-protagonist.md`
+- `工作状态-2026-04-21.md`
+- `工作状态-2026-05-12.md`
+- `工作状态-2026-05-23.md`
+- `工作状态-2026-05-30.md`
 
-## 中间产物与缓存
+## 历史诊断文件
 
-- `work/` 下已有 8 个一级条目
-- `work/chapter-distillation/` 用于章节蒸馏续跑、批次缓存、备份
+- `我的诡异人生-首轮诊断报告.md`
 
-## 本次整理动作
+## 历史目录与中间目录
 
-- 已刷新 `supporting-cast/README.md`
-- 已刷新 `source/README.md`
-- 已刷新 `work/README.md`
-- 已刷新 `WORKSPACE_FILES.md`
+- `work_backup_heuristic`
+- `focus-苏午`
 
-## 文件约定
+## 说明
 
-- 根目录：正式分析产物与状态文件，保持对现有脚本的兼容。
-- `source/`：原文和转换稿。
-- `supporting-cast/`：配角层专用目录。
-- `work/`：所有中间缓存、历史备份、续跑状态。
-- `work_backup_heuristic/`：历史备份，不作为当前正式入口。
+- `README.md` 负责工作区说明与分层导航。
+- `WORKSPACE_FILES.md` 负责根目录文件归类，不替代正式内容本身。
+- 未被纳入正式产物分层的根目录文件，会保留在“其他根目录文件/目录”里，便于后续继续清理。
 
