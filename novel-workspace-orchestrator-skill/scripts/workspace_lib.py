@@ -117,6 +117,14 @@ INIT_SCRIPTS = {
     "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/init_outline_workspace.py",
     "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/init_highlight_workspace.py",
 }
+AUTO_FILL_SCRIPTS = {
+    "chapter-distillation": REPO_ROOT / "novel-chapter-distillation-skill/scripts/fill_chapter_distillation_workspace.py",
+    "opening": REPO_ROOT / "novel-opening-analysis-skill/scripts/fill_opening_workspace.py",
+    "protagonist": REPO_ROOT / "novel-protagonist-encyclopedia-skill/scripts/fill_protagonist_workspace.py",
+    "supporting-cast": REPO_ROOT / "novel-supporting-cast-analysis-skill/scripts/fill_supporting_cast_workspace.py",
+    "outline": REPO_ROOT / "novel-outline-analysis-skill/scripts/fill_outline_workspace.py",
+    "highlight": REPO_ROOT / "novel-highlight-scenes-analysis-skill/scripts/fill_highlight_workspace.py",
+}
 LAYER_VALIDATED_TAGS = {
     "chapter-distillation": "章节蒸馏层校验通过",
     "opening": "黄金前三章分析层校验通过",
@@ -275,7 +283,7 @@ def validator_result_to_layer_status(
     elif layer == "supporting-cast":
         completion_label = result.get("top10_status", "重要配角 Top10 仍不足")
         validated = (
-            result.get("top10_status") == "重要配角 Top10 已明确"
+            result.get("top10_status") in {"重要配角 Top10 已明确", "重要配角 Top10 已完成 AI 定榜"}
             and result.get("relation_status") == "配角与主角关系已可用"
             and result.get("stage_status") == "配角阶段作用层已可用"
         )
@@ -523,6 +531,27 @@ def run_quality_gate_for_workspace(
     return raw
 
 
+def apply_quality_gate_to_status(status: dict[str, Any], quality_result: dict[str, Any] | None) -> dict[str, Any]:
+    if not quality_result or "layer_results" not in quality_result:
+        return status
+    for layer in LAYER_ORDER:
+        lr = quality_result["layer_results"].get(layer)
+        if not lr or layer not in status["layer_status"]:
+            continue
+        status["layer_status"][layer]["quality"] = {
+            "score": lr.get("score"),
+            "ok": lr.get("ok"),
+            "issues": lr.get("issues", []),
+        }
+    status["quality_gate"] = {
+        "overall_score": quality_result.get("overall_score"),
+        "is_quality_pass": quality_result.get("is_quality_pass"),
+        "issue_count": quality_result.get("issue_count"),
+        "cross_layer_conflicts": quality_result.get("cross_layer_consistency", {}).get("conflict_count", 0),
+    }
+    return status
+
+
 def append_quality_section_to_validator_report(
     report_text: str,
     workspace: Path,
@@ -723,6 +752,186 @@ def execute_layer_init(
     return result
 
 
+def supports_layer_autofill(layer: str) -> bool:
+    script_path = AUTO_FILL_SCRIPTS.get(layer)
+    return bool(script_path and script_path.exists())
+
+
+def build_layer_autofill_command(
+    layer: str,
+    workspace: Path,
+    novel_name: str,
+    protagonist_name: str | None = None,
+    source: Path | None = None,
+    project_root: Path | None = None,
+    attempt_label: str = "draft",
+    force: bool = False,
+    context_files: list[Path] | None = None,
+) -> list[str]:
+    script_path = AUTO_FILL_SCRIPTS.get(layer)
+    if not script_path or not script_path.exists():
+        raise FileNotFoundError(f"auto-fill script not found for layer {layer}: {script_path}")
+
+    if layer == "opening":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+            "--attempt-label",
+            attempt_label,
+        ]
+        if source:
+            cmd += ["--source", str(source)]
+        if protagonist_name:
+            cmd += ["--protagonist", protagonist_name]
+        if project_root:
+            cmd += ["--project-root", str(project_root.resolve())]
+        if force:
+            cmd.append("--force")
+        for path in context_files or []:
+            cmd += ["--context-file", str(path)]
+        return cmd
+
+    if layer == "chapter-distillation":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+            "--attempt-label",
+            attempt_label,
+        ]
+        if source:
+            cmd += ["--source", str(source)]
+        if project_root:
+            cmd += ["--project-root", str(project_root.resolve())]
+        if force:
+            cmd.append("--force")
+        for path in context_files or []:
+            cmd += ["--context-file", str(path)]
+        return cmd
+
+    if layer == "highlight":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+            "--attempt-label",
+            attempt_label,
+        ]
+        if protagonist_name:
+            cmd += ["--protagonist", protagonist_name]
+        if project_root:
+            cmd += ["--project-root", str(project_root.resolve())]
+        if force:
+            cmd.append("--force")
+        for path in context_files or []:
+            cmd += ["--context-file", str(path)]
+        return cmd
+
+    if layer == "outline":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+            "--attempt-label",
+            attempt_label,
+        ]
+        if protagonist_name:
+            cmd += ["--protagonist", protagonist_name]
+        if project_root:
+            cmd += ["--project-root", str(project_root.resolve())]
+        if force:
+            cmd.append("--force")
+        for path in context_files or []:
+            cmd += ["--context-file", str(path)]
+        return cmd
+
+    if layer == "protagonist":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+            "--attempt-label",
+            attempt_label,
+        ]
+        if protagonist_name:
+            cmd += ["--protagonist", protagonist_name]
+        if project_root:
+            cmd += ["--project-root", str(project_root.resolve())]
+        if force:
+            cmd.append("--force")
+        for path in context_files or []:
+            cmd += ["--context-file", str(path)]
+        return cmd
+
+    if layer == "supporting-cast":
+        cmd = [
+            "python3",
+            str(script_path),
+            "--workspace",
+            str(workspace),
+            "--novel-name",
+            novel_name,
+            "--attempt-label",
+            attempt_label,
+        ]
+        if protagonist_name:
+            cmd += ["--protagonist", protagonist_name]
+        if project_root:
+            cmd += ["--project-root", str(project_root.resolve())]
+        if force:
+            cmd.append("--force")
+        for path in context_files or []:
+            cmd += ["--context-file", str(path)]
+        return cmd
+
+    raise ValueError(f"unsupported auto-fill layer: {layer}")
+
+
+def execute_layer_autofill(
+    layer: str,
+    workspace: Path,
+    novel_name: str,
+    protagonist_name: str | None = None,
+    source: Path | None = None,
+    project_root: Path | None = None,
+    attempt_label: str = "draft",
+    force: bool = False,
+    context_files: list[Path] | None = None,
+) -> dict[str, Any]:
+    cmd = build_layer_autofill_command(
+        layer,
+        workspace,
+        novel_name,
+        protagonist_name=protagonist_name,
+        source=source,
+        project_root=project_root,
+        attempt_label=attempt_label,
+        force=force,
+        context_files=context_files,
+    )
+    result = run_command(cmd)
+    result["action"] = "fill" if attempt_label == "draft" else "repair"
+    result["layer"] = layer
+    result["attempt_label"] = attempt_label
+    return result
+
+
 def heuristic_protagonist_status(
     workspace: Path, novel_name: str, protagonist_name: str | None, status_path: Path | None
 ) -> dict[str, Any]:
@@ -824,7 +1033,7 @@ def heuristic_supporting_cast_status(workspace: Path, novel_name: str, status_pa
         and checks["index"]["content_ok"]
         and checks["profiles"]["content_ok"]
     )
-    completion_label = "重要配角 Top10 已明确" if validated else "重要配角 Top10 仍不足"
+    completion_label = "重要配角 Top10 已完成 AI 定榜" if validated else "重要配角 Top10 仍不足"
     resolved_files = {key: str(path) for key, path in files.items() if path.exists()}
     if profile_files:
         resolved_files["profiles"] = str((workspace / "supporting-cast").resolve())
@@ -1489,30 +1698,53 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
                 ("chapter_manifest", workspace / "chapter-distillation-manifest.json"),
                 ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
                 ("stage_skeleton", workspace / f"{novel_name}-阶段骨架与换挡草图.md"),
+                ("calibration_anchors", workspace / f"{novel_name}-校准与验证锚点.md"),
+                ("distill_section_0001", workspace / "work" / "chapter-distillation" / "sections" / "0001.md"),
+                ("distill_section_0002", workspace / "work" / "chapter-distillation" / "sections" / "0002.md"),
+                ("distill_section_0003", workspace / "work" / "chapter-distillation" / "sections" / "0003.md"),
             ]
         )
     elif target_layer == "protagonist":
         candidates.extend(
             [
+                ("chapter_manifest", workspace / "chapter-distillation-manifest.json"),
+                ("stage_skeleton", workspace / f"{novel_name}-阶段骨架与换挡草图.md"),
+                ("calibration_anchors", workspace / f"{novel_name}-校准与验证锚点.md"),
+                ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
+                ("distill_section_0001", workspace / "work" / "chapter-distillation" / "sections" / "0001.md"),
+                ("distill_section_0002", workspace / "work" / "chapter-distillation" / "sections" / "0002.md"),
+                ("distill_section_0003", workspace / "work" / "chapter-distillation" / "sections" / "0003.md"),
                 ("opening_total", workspace / f"{novel_name}-黄金前三章总判断.md"),
                 ("opening_hook", workspace / f"{novel_name}-开篇钩子与读者承诺.md"),
-                ("stage_skeleton", workspace / f"{novel_name}-阶段骨架与换挡草图.md"),
-                ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
             ]
         )
     elif target_layer == "supporting-cast":
         candidates.extend(
             [
+                ("chapter_manifest", workspace / "chapter-distillation-manifest.json"),
+                ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
+                ("stage_skeleton", workspace / f"{novel_name}-阶段骨架与换挡草图.md"),
+                ("opening_total", workspace / f"{novel_name}-黄金前三章总判断.md"),
                 ("merged_characters", workspace / "work" / "merged" / "characters.json"),
                 ("cards_index", workspace / "work" / "cards" / "index.md"),
                 ("protagonist_index", Path(protagonist_files["index"])) if "index" in protagonist_files else ("protagonist_index", None),
                 ("final_card", Path(protagonist_files["final_card"])) if "final_card" in protagonist_files else ("final_card", None),
                 ("anchor", Path(protagonist_files["anchor"])) if "anchor" in protagonist_files else ("anchor", workspace / f"{novel_name}-主角锚点与骨架.md"),
+                ("outline_overview", Path(outline_files["overview"])) if "overview" in outline_files else ("outline_overview", workspace / f"{novel_name}-大纲总览.md"),
+                ("outline_stages", Path(outline_files["stages"])) if "stages" in outline_files else ("outline_stages", workspace / f"{novel_name}-阶段与篇章拆分.md"),
+                ("highlight_top10", workspace / f"{novel_name}-最吸引人的十个剧情细节总表.md"),
             ]
         )
     elif target_layer == "outline":
         candidates.extend(
             [
+                ("chapter_manifest", workspace / "chapter-distillation-manifest.json"),
+                ("stage_skeleton", workspace / f"{novel_name}-阶段骨架与换挡草图.md"),
+                ("calibration_anchors", workspace / f"{novel_name}-校准与验证锚点.md"),
+                ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
+                ("distill_section_0001", workspace / "work" / "chapter-distillation" / "sections" / "0001.md"),
+                ("distill_section_0002", workspace / "work" / "chapter-distillation" / "sections" / "0002.md"),
+                ("distill_section_0003", workspace / "work" / "chapter-distillation" / "sections" / "0003.md"),
                 ("protagonist_index", Path(protagonist_files["index"])) if "index" in protagonist_files else ("protagonist_index", None),
                 ("final_card", Path(protagonist_files["final_card"])) if "final_card" in protagonist_files else ("final_card", None),
                 ("core_overview", Path(protagonist_files["core_overview"])) if "core_overview" in protagonist_files else ("core_overview", None),
@@ -1525,6 +1757,13 @@ def _candidate_context_files(status: dict[str, Any], target_layer: str) -> list[
     elif target_layer == "highlight":
         candidates.extend(
             [
+                ("chapter_manifest", workspace / "chapter-distillation-manifest.json"),
+                ("stage_skeleton", workspace / f"{novel_name}-阶段骨架与换挡草图.md"),
+                ("calibration_anchors", workspace / f"{novel_name}-校准与验证锚点.md"),
+                ("chapter_skeleton", workspace / f"{novel_name}-章节蒸馏骨架.md"),
+                ("distill_section_0001", workspace / "work" / "chapter-distillation" / "sections" / "0001.md"),
+                ("distill_section_0002", workspace / "work" / "chapter-distillation" / "sections" / "0002.md"),
+                ("distill_section_0003", workspace / "work" / "chapter-distillation" / "sections" / "0003.md"),
                 ("outline_overview", Path(outline_files["overview"])) if "overview" in outline_files else ("outline_overview", None),
                 ("outline_stages", Path(outline_files["stages"])) if "stages" in outline_files else ("outline_stages", None),
                 ("outline_lines", Path(outline_files["lines"])) if "lines" in outline_files else ("outline_lines", None),
@@ -1600,6 +1839,16 @@ def build_layer_context(status: dict[str, Any], target_layer: str) -> str:
                 "## 当前 repair 重点",
                 "",
                 *[f"- {target}" for target in layer_item["repair_targets"]],
+                "",
+            ]
+        )
+    quality = layer_item.get("quality", {})
+    if quality.get("issues"):
+        lines.extend(
+            [
+                "## 当前质量门问题",
+                "",
+                *[f"- {issue}" for issue in quality["issues"][:6]],
                 "",
             ]
         )
