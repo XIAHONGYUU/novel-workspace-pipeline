@@ -8,8 +8,10 @@ from pathlib import Path
 
 from workspace_lib import (
     LAYER_ORDER,
+    apply_quality_gate_to_status,
     build_layer_context,
     collect_workspace_status,
+    execute_layer_autofill,
     execute_layer_init,
     preferred_source_file,
     render_gap_report,
@@ -17,6 +19,7 @@ from workspace_lib import (
     render_repair_plan,
     render_workspace_handoff,
     run_quality_gate_for_workspace,
+    supports_layer_autofill,
     update_repo_current_status,
     write_json,
 )
@@ -31,6 +34,8 @@ def main() -> int:
     parser.add_argument("--source", help="Optional source file override used when initializing a lower layer.")
     parser.add_argument("--execute", action="store_true", help="Actually call the lower-layer init entrypoint before re-validating.")
     parser.add_argument("--force-init", action="store_true", help="Allow the target layer init script to overwrite scaffold files when supported.")
+    parser.add_argument("--no-auto-fill", action="store_true", help="Only scaffold the target layer, skip supported AI fill.")
+    parser.add_argument("--repair-attempts", type=int, default=2, help="Automatic repair retries after the first AI fill.")
     parser.add_argument(
         "--bootstrap-protagonist",
         action="store_true",
@@ -67,6 +72,37 @@ def main() -> int:
     args = parser.parse_args()
 
     workspace = Path(args.workspace).expanduser().resolve()
+    project_root = Path(args.project_root).expanduser().resolve() if args.project_root else workspace.parent
+    tool_root = Path(args.tool_root).expanduser().resolve() if args.tool_root else None
+
+    def refresh_status(*, persist_reports: bool) -> dict:
+        return collect_workspace_status(
+            workspace,
+            novel_name=args.novel_name,
+            protagonist_name=args.protagonist_name,
+            run_validators=not args.skip_validators,
+            persist_validator_reports=persist_reports,
+        )
+
+    def augment_quality(current_status: dict) -> dict:
+        if args.skip_quality_gate:
+            return current_status
+        try:
+            quality_result = run_quality_gate_for_workspace(
+                workspace,
+                args.novel_name or current_status["novel_name"],
+                target_layer=None,
+                persist_report=True,
+            )
+            return apply_quality_gate_to_status(current_status, quality_result)
+        except Exception as exc:
+            current_status["quality_gate"] = {
+                "overall_score": None,
+                "is_quality_pass": False,
+                "error": str(exc),
+            }
+            return current_status
+
     status = collect_workspace_status(
         workspace,
         novel_name=args.novel_name,
@@ -74,38 +110,10 @@ def main() -> int:
         run_validators=not args.skip_validators,
         persist_validator_reports=args.persist_validator_reports,
     )
+    status = augment_quality(status)
     target_layer = args.target_layer or status["recommended_next_layer"]
     execution_results: list[dict] = []
     executed_mode = status["recommended_mode"]
-
-    # 运行质量门检测（默认开启，--skip-quality-gate 跳过）
-    if not args.skip_quality_gate:
-        try:
-            novel_name_qg = args.novel_name or status["novel_name"]
-            quality_result = run_quality_gate_for_workspace(
-                workspace, novel_name_qg, target_layer=None, persist_report=True
-            )
-            if quality_result and "layer_results" in quality_result:
-                for layer in LAYER_ORDER:
-                    lr = quality_result["layer_results"].get(layer)
-                    if lr:
-                        status["layer_status"][layer]["quality"] = {
-                            "score": lr["score"],
-                            "ok": lr["ok"],
-                            "issues": lr["issues"],
-                        }
-                status["quality_gate"] = {
-                    "overall_score": quality_result["overall_score"],
-                    "is_quality_pass": quality_result["is_quality_pass"],
-                    "issue_count": quality_result["issue_count"],
-                    "cross_layer_conflicts": quality_result.get("cross_layer_consistency", {}).get("conflict_count", 0),
-                }
-        except Exception as e:
-            status["quality_gate"] = {
-                "overall_score": None,
-                "is_quality_pass": False,
-                "error": str(e),
-            }
 
     if args.execute and target_layer:
         layer_state = status["layer_status"][target_layer]
@@ -125,17 +133,62 @@ def main() -> int:
             source=source_path,
             force=args.force_init,
             bootstrap_protagonist=args.bootstrap_protagonist,
-            project_root=Path(args.project_root).expanduser().resolve() if args.project_root else workspace.parent,
-            tool_root=Path(args.tool_root).expanduser().resolve() if args.tool_root else None,
+            project_root=project_root,
+            tool_root=tool_root,
         )
         execution_results.append(init_result)
-        status = collect_workspace_status(
-            workspace,
-            novel_name=args.novel_name or status["novel_name"],
-            protagonist_name=args.protagonist_name or status["protagonist_name"],
-            run_validators=not args.skip_validators,
-            persist_validator_reports=True,
+        status = refresh_status(persist_reports=True)
+        status = augment_quality(status)
+
+        can_autofill = (
+            not args.no_auto_fill
+            and init_result.get("ok")
+            and supports_layer_autofill(target_layer)
         )
+        if can_autofill:
+            fill_result = execute_layer_autofill(
+                target_layer,
+                workspace,
+                status["novel_name"],
+                protagonist_name=args.protagonist_name or status["protagonist_name"],
+                source=source_path,
+                project_root=project_root,
+                attempt_label="draft",
+                force=args.force_init,
+            )
+            execution_results.append(fill_result)
+            status = refresh_status(persist_reports=True)
+            status = augment_quality(status)
+
+            for attempt in range(1, max(args.repair_attempts, 0) + 1):
+                if not fill_result.get("ok") and attempt == 1:
+                    break
+                layer_validated = status["layer_status"][target_layer]["validated"]
+                quality_ok = args.skip_quality_gate or status["layer_status"][target_layer].get("quality", {}).get("ok", True)
+                if layer_validated and quality_ok:
+                    break
+                context_path = workspace / f"workspace-context-{target_layer}.md"
+                context_path.write_text(build_layer_context(status, target_layer), encoding="utf-8")
+                repair_plan_text = render_repair_plan(status)
+                context_files = [context_path]
+                if repair_plan_text:
+                    repair_plan_path = workspace / "workspace-repair-plan.md"
+                    repair_plan_path.write_text(repair_plan_text, encoding="utf-8")
+                    context_files.append(repair_plan_path)
+                repair_result = execute_layer_autofill(
+                    target_layer,
+                    workspace,
+                    status["novel_name"],
+                    protagonist_name=args.protagonist_name or status["protagonist_name"],
+                    source=source_path,
+                    project_root=project_root,
+                    attempt_label=f"repair-{attempt}",
+                    force=True,
+                    context_files=context_files,
+                )
+                execution_results.append(repair_result)
+                status = refresh_status(persist_reports=True)
+                status = augment_quality(status)
 
     context_path: Path | None = None
     should_write_context = args.write_context or (args.execute and target_layer is not None)
@@ -165,7 +218,6 @@ def main() -> int:
 
     current_status_path: Path | None = None
     if not args.no_write_current_status:
-        project_root = Path(args.project_root).expanduser().resolve() if args.project_root else workspace.parent
         current_status_path = update_repo_current_status(
             project_root,
             status,
