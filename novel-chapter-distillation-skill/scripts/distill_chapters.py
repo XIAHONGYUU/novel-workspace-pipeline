@@ -14,20 +14,28 @@ import json
 import os
 import re
 import shutil
+import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 
-import requests
-
 BATCH_SIZE = 3
 ENCODINGS = ["utf-8", "utf-8-sig", "gb18030", "gbk"]
+SHARED_SCRIPTS_DIR = Path(__file__).resolve().parents[2] / "novel-workspace-orchestrator-skill" / "scripts"
+if str(SHARED_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SHARED_SCRIPTS_DIR))
+from shared_api_client import call_chat_completion
+
 CHAPTER_PATTERNS = [
     re.compile(r"^## 第([0-9]+)章\s*(.*)"),
     re.compile(r"^正文 第(.+?)章\s*(.*)"),
     re.compile(r"^## 第(.+?)章\s*(.*)"),
     re.compile(r"^第([0-9]+)章\s*(.*)"),
+    re.compile(r"^第?([0-9]+)[章节卷集部]\s*(.*)"),
+    re.compile(r"^(?:##\s*)?([0-9]{1,4})\s*$"),
+    re.compile(r"^(?:##\s*)?([0-9]{1,4})[-\s:：、.]+(.*)$"),
+    re.compile(r"^(?:chapter|Chapter)\s+([0-9]+)\s*(.*)$"),
 ]
 SYSTEM_PROMPT = """你是专业的网络小说章节分析专家。对每章输出七维度蒸馏分析。
 
@@ -157,6 +165,18 @@ def read_chapters(source_path: Path) -> tuple[list[Chapter], str, str]:
             best_chapters = chapters
             best_pattern = pattern.pattern
     return best_chapters, encoding, best_pattern
+
+
+def chapter_parse_guard(source_path: Path, chapters: list[Chapter]) -> str | None:
+    if len(chapters) >= 3:
+        if source_path.stat().st_size < 200_000 or len(chapters) >= 10:
+            return None
+    if not chapters:
+        return "未检测到足够章节，请检查源文件格式"
+    return (
+        f"章节识别结果过少：当前只识别到 {len(chapters)} 章。"
+        "请检查是否为裸数字章节、英文 Chapter 标题或其他未覆盖格式。"
+    )
 
 
 def resolve_workspace_and_source(project_root: Path, novel_name: str, source_override: str | None) -> tuple[Path, Path]:
@@ -299,40 +319,27 @@ def trim_body(body: str) -> str:
 
 
 def call_api(batch: list[Chapter], batch_size: int) -> str | None:
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
-    if not api_key:
-        return None
-
     src = ""
     for chapter in batch:
         src += f"\n{chapter.title}\n{trim_body(chapter.body)}\n"
-
-    for attempt in range(3):
-        try:
-            response = requests.post(
-                "https://api.deepseek.com/v1/chat/completions",
-                headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-                json={
-                    "model": "deepseek-chat",
-                    "messages": [
-                        {"role": "system", "content": SYSTEM_PROMPT},
-                        {"role": "user", "content": f"分析以下{batch_size}章：\n{src}"},
-                    ],
-                    "max_tokens": 4000,
-                    "temperature": 0.5,
-                },
-                timeout=300,
-            )
-            if response.status_code == 200:
-                result = response.json()["choices"][0]["message"]["content"].strip()
-                if result.startswith("```"):
-                    result = re.sub(r"^```\w*\n?", "", result)
-                    result = re.sub(r"\n?```$", "", result)
-                return result
-            time.sleep(5 * (attempt + 1))
-        except Exception:
-            time.sleep(10 * (attempt + 1))
-    return None
+    try:
+        result = call_chat_completion(
+            system_prompt=SYSTEM_PROMPT,
+            user_prompt=f"分析以下{batch_size}章：\n{src}",
+            model_env_vars=("CHAPTER_DISTILLATION_MODEL",),
+            fallback_model_env_vars=("CHAPTER_DISTILLATION_FALLBACK_MODELS",),
+            default_model="deepseek-chat",
+            temperature=0.5,
+            max_tokens=4000,
+            timeout=300,
+            max_attempts=4,
+        )["content"].strip()
+    except Exception:
+        return None
+    if result.startswith("```"):
+        result = re.sub(r"^```\w*\n?", "", result)
+        result = re.sub(r"\n?```$", "", result)
+    return result
 
 
 def split_result_sections(result: str) -> list[str]:
@@ -484,8 +491,9 @@ def main() -> None:
     ensure_dirs(paths)
 
     chapters, encoding, pattern = read_chapters(source)
-    if not chapters:
-        raise SystemExit("未检测到足够章节，请检查源文件格式")
+    parse_error = chapter_parse_guard(source, chapters)
+    if parse_error:
+        raise SystemExit(parse_error)
 
     print("=" * 60)
     print("章节蒸馏 (DeepSeek API)")

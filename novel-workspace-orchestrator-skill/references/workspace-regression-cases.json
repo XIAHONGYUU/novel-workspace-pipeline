@@ -3,63 +3,63 @@
     "name": "刀笼",
     "workspace": "刀笼",
     "expected_mode": "repair-existing",
-    "expected_next_layer": "outline",
-    "expected_completed_layers": ["opening", "protagonist", "highlight"],
-    "expected_incomplete_layers": ["outline"],
-    "expected_repair_target": "outline"
+    "expected_next_layer": "chapter-distillation",
+    "expected_completed_layers": ["opening", "outline", "highlight"],
+    "expected_incomplete_layers": ["chapter-distillation", "protagonist", "supporting-cast"],
+    "expected_repair_target": "chapter-distillation"
   },
   {
     "name": "寇道",
     "workspace": "寇道",
     "expected_mode": "repair-existing",
-    "expected_next_layer": "protagonist",
-    "expected_completed_layers": [],
-    "expected_incomplete_layers": ["protagonist", "outline"],
-    "expected_repair_target": "protagonist"
+    "expected_next_layer": "supporting-cast",
+    "expected_completed_layers": ["chapter-distillation", "opening", "protagonist", "outline", "highlight"],
+    "expected_incomplete_layers": ["supporting-cast"],
+    "expected_repair_target": "supporting-cast"
   },
   {
     "name": "巫师世界",
     "workspace": "巫师世界",
     "expected_mode": "repair-existing",
-    "expected_next_layer": "protagonist",
-    "expected_completed_layers": [],
-    "expected_incomplete_layers": ["protagonist", "outline"],
-    "expected_repair_target": "protagonist"
+    "expected_next_layer": "chapter-distillation",
+    "expected_completed_layers": ["protagonist"],
+    "expected_incomplete_layers": ["chapter-distillation", "opening", "supporting-cast", "outline", "highlight"],
+    "expected_repair_target": "chapter-distillation"
   },
   {
     "name": "序列大明",
     "workspace": "序列大明",
     "expected_mode": "repair-existing",
-    "expected_next_layer": "outline",
+    "expected_next_layer": "chapter-distillation",
     "expected_completed_layers": ["protagonist"],
-    "expected_incomplete_layers": ["outline"],
-    "expected_repair_target": "outline"
+    "expected_incomplete_layers": ["chapter-distillation", "opening", "supporting-cast", "outline", "highlight"],
+    "expected_repair_target": "chapter-distillation"
   },
   {
     "name": "我的诡异人生",
     "workspace": "我的诡异人生",
     "expected_mode": "repair-existing",
-    "expected_next_layer": "protagonist",
-    "expected_completed_layers": [],
-    "expected_incomplete_layers": ["protagonist", "outline"],
-    "expected_repair_target": "protagonist"
+    "expected_next_layer": "chapter-distillation",
+    "expected_completed_layers": ["protagonist"],
+    "expected_incomplete_layers": ["chapter-distillation", "opening", "supporting-cast", "outline", "highlight"],
+    "expected_repair_target": "chapter-distillation"
   },
   {
     "name": "永恒剑主",
     "workspace": "永恒剑主",
-    "expected_mode": "extend-existing",
-    "expected_next_layer": "opening",
-    "expected_completed_layers": ["protagonist", "outline"],
-    "expected_incomplete_layers": [],
-    "expected_repair_target": null
+    "expected_mode": "repair-existing",
+    "expected_next_layer": "chapter-distillation",
+    "expected_completed_layers": ["opening", "protagonist", "outline", "highlight"],
+    "expected_incomplete_layers": ["chapter-distillation", "supporting-cast"],
+    "expected_repair_target": "chapter-distillation"
   },
   {
     "name": "玄浑道章",
     "workspace": "玄浑道章",
     "expected_mode": "repair-existing",
-    "expected_next_layer": "protagonist",
+    "expected_next_layer": "chapter-distillation",
     "expected_completed_layers": [],
-    "expected_incomplete_layers": ["protagonist", "outline"],
-    "expected_repair_target": "protagonist"
+    "expected_incomplete_layers": ["chapter-distillation", "opening", "protagonist", "supporting-cast", "outline", "highlight"],
+    "expected_repair_target": "chapter-distillation"
   }
 ]

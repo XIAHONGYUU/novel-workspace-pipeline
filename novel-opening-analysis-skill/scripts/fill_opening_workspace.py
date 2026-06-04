@@ -5,18 +5,26 @@ import argparse
 import json
 import os
 import re
+import sys
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any
 
-import requests
-
 TEXT_ENCODINGS = ("utf-8", "utf-8-sig", "gb18030", "gbk")
+SHARED_SCRIPTS_DIR = Path(__file__).resolve().parents[2] / "novel-workspace-orchestrator-skill" / "scripts"
+if str(SHARED_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SHARED_SCRIPTS_DIR))
+from shared_api_client import call_chat_completion
+
 CHAPTER_PATTERNS = [
     re.compile(r"^## 第([0-9]+)章\s*(.*)"),
     re.compile(r"^正文 第(.+?)章\s*(.*)"),
     re.compile(r"^## 第(.+?)章\s*(.*)"),
     re.compile(r"^第([0-9]+)章\s*(.*)"),
+    re.compile(r"^第?([0-9]+)[章节卷集部]\s*(.*)"),
+    re.compile(r"^(?:##\s*)?([0-9]{1,4})\s*$"),
+    re.compile(r"^(?:##\s*)?([0-9]{1,4})[-\s:：、.]+(.*)$"),
+    re.compile(r"^(?:chapter|Chapter)\s+([0-9]+)\s*(.*)$"),
 ]
 SYSTEM_PROMPT = """你是经验很强的网络小说开篇诊断编辑。
 
@@ -234,6 +242,18 @@ def read_chapters(source_path: Path) -> tuple[list[dict[str, Any]], str]:
     return best, encoding
 
 
+def chapter_parse_guard(source_path: Path, chapters: list[dict[str, Any]]) -> str | None:
+    if len(chapters) >= 3:
+        if source_path.stat().st_size < 120_000 or len(chapters) >= 6:
+            return None
+    if not chapters:
+        return "未检测到足够章节，请检查源文件格式"
+    return (
+        f"前三章解析失败：当前只识别到 {len(chapters)} 章。"
+        "请检查源文是否使用裸数字章节、英文 Chapter 标题或其他未覆盖格式。"
+    )
+
+
 def latest_status_file(workspace: Path) -> Path | None:
     candidates = sorted(workspace.glob("工作状态-*.md"))
     return candidates[-1] if candidates else None
@@ -340,29 +360,19 @@ def extract_json_blob(text: str) -> str:
 
 
 def call_api(prompt: str) -> dict[str, Any]:
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
-    if not api_key:
-        raise RuntimeError("DEEPSEEK_API_KEY is missing; set it in environment or .env")
-    model = os.environ.get("OPENING_ANALYSIS_MODEL", "deepseek-chat").strip() or "deepseek-chat"
-    response = requests.post(
-        "https://api.deepseek.com/v1/chat/completions",
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-        json={
-            "model": model,
-            "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt},
-            ],
-            "response_format": {"type": "json_object"},
-            "temperature": 0.35,
-            "max_tokens": 4000,
-        },
+    result = call_chat_completion(
+        system_prompt=SYSTEM_PROMPT,
+        user_prompt=prompt,
+        model_env_vars=("OPENING_ANALYSIS_MODEL",),
+        fallback_model_env_vars=("OPENING_ANALYSIS_FALLBACK_MODELS",),
+        default_model="deepseek-chat",
+        response_format={"type": "json_object"},
+        temperature=0.35,
+        max_tokens=4000,
         timeout=300,
+        max_attempts=4,
     )
-    response.raise_for_status()
-    payload = response.json()
-    content = payload["choices"][0]["message"]["content"]
-    return {"raw_api": payload, "content": content}
+    return {"raw_api": result["raw_api"], "content": result["content"]}
 
 
 def sanitize_text(value: Any) -> str:
@@ -528,8 +538,9 @@ def main() -> int:
     work_dir, attempts_dir = ensure_dirs(workspace)
     source_path = detect_source_file(workspace, args.source)
     chapters, encoding = read_chapters(source_path)
-    if len(chapters) < 3:
-        raise SystemExit(f"unable to parse at least 3 chapters from source: {source_path}")
+    parse_error = chapter_parse_guard(source_path, chapters)
+    if parse_error:
+        raise SystemExit(parse_error)
 
     distillation_context = read_distillation_context(workspace, args.novel_name)
     extra_contexts: list[tuple[Path, str]] = []
