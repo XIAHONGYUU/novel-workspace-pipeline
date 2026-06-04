@@ -8,6 +8,8 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Any
 
+from output_normalizer import normalize_layer_outputs
+
 REPO_ROOT = Path(__file__).resolve().parents[2]
 LAYER_ORDER = (
     "chapter-distillation",
@@ -929,6 +931,24 @@ def execute_layer_autofill(
     result["action"] = "fill" if attempt_label == "draft" else "repair"
     result["layer"] = layer
     result["attempt_label"] = attempt_label
+    return result
+
+
+def execute_output_normalizer(
+    layer: str,
+    workspace: Path,
+    novel_name: str,
+    protagonist_name: str | None = None,
+) -> dict[str, Any]:
+    result = normalize_layer_outputs(
+        layer=layer,
+        workspace=workspace,
+        novel_name=novel_name,
+        protagonist_name=protagonist_name,
+    )
+    result.setdefault("returncode", 0)
+    result.setdefault("stdout", "")
+    result.setdefault("stderr", "")
     return result
 
 

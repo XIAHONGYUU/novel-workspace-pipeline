@@ -13,6 +13,7 @@ from workspace_lib import (
     collect_workspace_status,
     execute_layer_autofill,
     execute_layer_init,
+    execute_output_normalizer,
     preferred_source_file,
     render_gap_report,
     render_pipeline_report,
@@ -157,6 +158,15 @@ def main() -> int:
                 force=args.force_init,
             )
             execution_results.append(fill_result)
+            if fill_result.get("ok"):
+                execution_results.append(
+                    execute_output_normalizer(
+                        target_layer,
+                        workspace,
+                        status["novel_name"],
+                        protagonist_name=args.protagonist_name or status["protagonist_name"],
+                    )
+                )
             status = refresh_status(persist_reports=True)
             status = augment_quality(status)
 
@@ -187,6 +197,15 @@ def main() -> int:
                     context_files=context_files,
                 )
                 execution_results.append(repair_result)
+                if repair_result.get("ok"):
+                    execution_results.append(
+                        execute_output_normalizer(
+                            target_layer,
+                            workspace,
+                            status["novel_name"],
+                            protagonist_name=args.protagonist_name or status["protagonist_name"],
+                        )
+                    )
                 status = refresh_status(persist_reports=True)
                 status = augment_quality(status)
 

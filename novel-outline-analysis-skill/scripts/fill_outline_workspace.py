@@ -5,11 +5,15 @@ import argparse
 import json
 import os
 import re
+import sys
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any
 
-import requests
+SHARED_SCRIPTS_DIR = Path(__file__).resolve().parents[2] / "novel-workspace-orchestrator-skill" / "scripts"
+if str(SHARED_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SHARED_SCRIPTS_DIR))
+from shared_api_client import call_chat_completion
 
 SYSTEM_PROMPT = """你是资深网文结构编辑，任务是为“整书大纲层”生成可直接落盘的正式分析文档。
 
@@ -245,29 +249,19 @@ def extract_json_blob(text: str) -> str:
 
 
 def call_api(prompt: str) -> dict[str, Any]:
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
-    if not api_key:
-        raise RuntimeError("DEEPSEEK_API_KEY is missing; set it in environment or .env")
-    model = os.environ.get("OUTLINE_ANALYSIS_MODEL", "deepseek-chat").strip() or "deepseek-chat"
-    response = requests.post(
-        "https://api.deepseek.com/v1/chat/completions",
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-        json={
-            "model": model,
-            "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt},
-            ],
-            "response_format": {"type": "json_object"},
-            "temperature": 0.35,
-            "max_tokens": 5200,
-        },
+    result = call_chat_completion(
+        system_prompt=SYSTEM_PROMPT,
+        user_prompt=prompt,
+        model_env_vars=("OUTLINE_ANALYSIS_MODEL",),
+        fallback_model_env_vars=("OUTLINE_ANALYSIS_FALLBACK_MODELS",),
+        default_model="deepseek-chat",
+        response_format={"type": "json_object"},
+        temperature=0.35,
+        max_tokens=5200,
         timeout=300,
+        max_attempts=4,
     )
-    response.raise_for_status()
-    payload = response.json()
-    content = payload["choices"][0]["message"]["content"]
-    return {"raw_api": payload, "content": content}
+    return {"raw_api": result["raw_api"], "content": result["content"]}
 
 
 def sanitize_text(value: Any) -> str:

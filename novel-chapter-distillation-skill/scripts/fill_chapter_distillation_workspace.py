@@ -363,6 +363,23 @@ def render_status(novel_name: str, section_payloads: list[dict[str, Any]]) -> st
     )
 
 
+def build_manifest_payload(novel_name: str, source_path: Path, chapters: list[Any]) -> dict[str, Any]:
+    return {
+        "novel_name": novel_name,
+        "source_file": str(source_path.resolve()),
+        "chapter_count": len(chapters),
+        "chapters": [
+            {
+                "index": chapter.index,
+                "title": chapter.title,
+                "start_line": chapter.start_line,
+                "end_line": chapter.end_line,
+            }
+            for chapter in chapters
+        ],
+    }
+
+
 def main() -> int:
     args = parse_args()
     workspace = Path(args.workspace).expanduser().resolve()
@@ -402,6 +419,10 @@ def main() -> int:
     distill_module.rebuild_skeleton(paths, args.novel_name, chapters)
     section_payloads = load_section_payloads(paths, chapters)
 
+    (workspace / "chapter-distillation-manifest.json").write_text(
+        json.dumps(build_manifest_payload(args.novel_name, source_path, chapters), ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
     (workspace / "README.md").write_text(render_readme(args.novel_name, source_path, len(chapters)), encoding="utf-8")
     (workspace / f"{args.novel_name}-阶段骨架与换挡草图.md").write_text(
         render_stage_skeleton(args.novel_name, section_payloads), encoding="utf-8"
@@ -423,6 +444,7 @@ def main() -> int:
         "attempt_label": args.attempt_label,
         "written_files": [
             str((workspace / "README.md").resolve()),
+            str((workspace / "chapter-distillation-manifest.json").resolve()),
             str((workspace / f"{args.novel_name}-章节蒸馏骨架.md").resolve()),
             str((workspace / f"{args.novel_name}-阶段骨架与换挡草图.md").resolve()),
             str((workspace / f"{args.novel_name}-校准与验证锚点.md").resolve()),
