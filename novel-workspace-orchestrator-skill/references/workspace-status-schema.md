@@ -25,9 +25,26 @@ Use this reference when you want a stable machine-readable view of a novel works
 - `recommended_mode`
 - `recommended_next_step`
 - `optional_backfill_layers`
+- `human_escalation`
 - `repair_plan`
 - `updated_at`
 - `layer_status`
+
+## `human_escalation`
+
+Present when an executed layer still cannot close after automatic init/fill/repair.
+
+- `needed`
+- `trigger`
+- `target_layer`
+- `target_label`
+- `executed_mode`
+- `reason`
+- `failed_actions`
+- `next_actions`
+- `resume_from`
+- `notify_user`
+- `silent_stop`
 
 ## `layer_status.<layer>`
 
@@ -67,6 +84,7 @@ Present when the current workspace should enter `repair-existing`.
 - `chapter-distillation`
 - `opening`
 - `protagonist`
+- `supporting-cast`
 - `outline`
 - `highlight`
 

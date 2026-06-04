@@ -3,13 +3,15 @@
   "novel_name": "序列大明",
   "protagonist_name": "李钧",
   "source_files": [
+    "/home/zuoky/project/序列大明/source/README.md",
     "/home/zuoky/project/序列大明/source/序列大明.md",
     "/home/zuoky/project/序列大明/source/XULIEDAMING.txt"
   ],
-  "source_total_bytes": 12338524,
-  "source_estimated_chars": 3310505,
+  "source_total_bytes": 12339021,
+  "source_estimated_chars": 3310752,
   "is_long_novel": true,
   "available_layers": [
+    "chapter-distillation",
     "opening",
     "protagonist",
     "supporting-cast",
@@ -17,40 +19,43 @@
     "highlight"
   ],
   "completed_layers": [
-    "opening",
-    "protagonist",
-    "outline"
+    "protagonist"
   ],
   "incomplete_layers": [
+    "chapter-distillation",
+    "opening",
     "supporting-cast",
+    "outline",
     "highlight"
   ],
-  "last_run_layer": "outline",
+  "last_run_layer": "protagonist",
   "last_validator_result": {
-    "opening": "开篇抓力已明确",
+    "chapter-distillation": "章节骨架仍不足",
+    "opening": "开篇抓力仍不足",
     "protagonist": "体系闭环完成（主干闭环版）",
     "supporting-cast": "重要配角 Top10 仍不足",
-    "outline": "共性标准已覆盖",
+    "outline": "共性标准仍不足",
     "highlight": "高光桥段仍不足"
   },
-  "recommended_next_layer": "supporting-cast",
-  "recommended_skill": "novel-supporting-cast-analysis",
+  "recommended_next_layer": "chapter-distillation",
+  "recommended_skill": "novel-chapter-distillation",
   "recommended_mode": "repair-existing",
-  "recommended_next_step": "优先修复 重要配角层，因为该层已存在但尚未达标。",
+  "recommended_next_step": "优先修复 章节蒸馏层，因为该层已存在但尚未达标。",
   "optional_backfill_layers": [],
-  "updated_at": "2026-05-30T21:55:54",
+  "updated_at": "2026-06-04T22:10:43",
   "layer_status": {
     "chapter-distillation": {
       "layer": "chapter-distillation",
       "label": "章节蒸馏层",
-      "exists": false,
+      "exists": true,
       "validated": false,
-      "has_placeholders": false,
+      "has_placeholders": true,
       "completion_label": "章节骨架仍不足",
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/序列大明/README.md",
         "handoff": "/home/zuoky/project/序列大明/工作状态-2026-05-30.md",
+        "chapter_skeleton": "/home/zuoky/project/序列大明/序列大明-章节蒸馏骨架.md",
         "validator_report": "/home/zuoky/project/序列大明/序列大明-章节蒸馏校验报告.md"
       },
       "checks": {
@@ -70,9 +75,12 @@
           "reason": "missing"
         },
         "chapter_skeleton": {
-          "exists": false,
+          "exists": true,
           "content_ok": false,
-          "reason": "missing"
+          "reason": "placeholder_detected",
+          "placeholder_hits": [
+            "待补充"
+          ]
         },
         "stage_skeleton": {
           "exists": false,
@@ -90,7 +98,7 @@
         "novel_name": "序列大明",
         "skeleton_status": "章节骨架仍不足",
         "calibration_status": "校准锚点仍不足",
-        "existing_count": 2,
+        "existing_count": 3,
         "content_ok_count": 2,
         "required_core_ok_count": 2
       },
@@ -104,8 +112,11 @@
         {
           "check": "chapter_skeleton",
           "label": "章节蒸馏骨架",
-          "reason": "missing",
-          "file": null
+          "reason": "placeholder_detected",
+          "file": "/home/zuoky/project/序列大明/序列大明-章节蒸馏骨架.md",
+          "placeholder_hits": [
+            "待补充"
+          ]
         },
         {
           "check": "stage_skeleton",
@@ -122,7 +133,7 @@
       ],
       "repair_targets": [
         "补齐 `章节蒸馏 manifest`，至少先从缺失补到可校验骨架。",
-        "补齐 `章节蒸馏骨架`，至少先从缺失补到可校验骨架。",
+        "替换 `章节蒸馏骨架` 里的占位内容，补成明确结论和证据。",
         "补齐 `阶段骨架与换挡草图`，至少先从缺失补到可校验骨架。",
         "补齐 `校准与验证锚点`，至少先从缺失补到可校验骨架。"
       ]
@@ -131,9 +142,9 @@
       "layer": "opening",
       "label": "黄金前三章层",
       "exists": true,
-      "validated": true,
+      "validated": false,
       "has_placeholders": false,
-      "completion_label": "开篇抓力已明确",
+      "completion_label": "开篇抓力仍不足",
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/序列大明/README.md",
@@ -184,21 +195,30 @@
         },
         "issues_revision": {
           "exists": true,
-          "content_ok": true,
-          "reason": "ok"
+          "content_ok": false,
+          "reason": "keywords_missing"
         }
       },
       "validator_report": "/home/zuoky/project/序列大明/序列大明-黄金前三章校验报告.md",
       "validator_summary": {
         "novel_name": "序列大明",
-        "opening_status": "开篇抓力已明确",
+        "opening_status": "开篇抓力仍不足",
         "structure_status": "前三章结构已拆清",
         "existing_count": 8,
-        "content_ok_count": 8,
-        "required_core_ok_count": 8
+        "content_ok_count": 7,
+        "required_core_ok_count": 7
       },
-      "failed_checks": [],
-      "repair_targets": []
+      "failed_checks": [
+        {
+          "check": "issues_revision",
+          "label": "开篇问题与修改建议",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/序列大明/序列大明-开篇问题与修改建议.md"
+        }
+      ],
+      "repair_targets": [
+        "补齐 `开篇问题与修改建议` 的关键判断字段，避免只有摘要没有结论。"
+      ]
     },
     "protagonist": {
       "layer": "protagonist",
@@ -339,26 +359,17 @@
         "top10_table": {
           "exists": true,
           "content_ok": false,
-          "reason": "placeholder_detected",
-          "placeholder_hits": [
-            "待AI复核"
-          ]
+          "reason": "keywords_missing"
         },
         "relation_map": {
           "exists": true,
           "content_ok": false,
-          "reason": "placeholder_detected",
-          "placeholder_hits": [
-            "待AI复核"
-          ]
+          "reason": "keywords_missing"
         },
         "stage_distribution": {
           "exists": true,
           "content_ok": false,
-          "reason": "placeholder_detected",
-          "placeholder_hits": [
-            "待AI复核"
-          ]
+          "reason": "keywords_missing"
         },
         "index": {
           "exists": true,
@@ -387,7 +398,7 @@
           "杨白泽-配角分析.md:too_short",
           "沈笠-配角分析.md:too_short",
           "范无咎-配角分析.md:too_short",
-          "邹四九-配角分析.md:keywords_missing",
+          "邹四九-配角分析.md:too_short",
           "陈乞生-配角分析.md:too_short",
           "顾甲-配角分析.md:too_short"
         ],
@@ -422,29 +433,20 @@
         {
           "check": "top10_table",
           "label": "重要配角Top10总表",
-          "reason": "placeholder_detected",
-          "file": "/home/zuoky/project/序列大明/序列大明-重要配角Top10总表.md",
-          "placeholder_hits": [
-            "待AI复核"
-          ]
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/序列大明/序列大明-重要配角Top10总表.md"
         },
         {
           "check": "relation_map",
           "label": "重要配角与主角关系图",
-          "reason": "placeholder_detected",
-          "file": "/home/zuoky/project/序列大明/序列大明-重要配角与主角关系图.md",
-          "placeholder_hits": [
-            "待AI复核"
-          ]
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/序列大明/序列大明-重要配角与主角关系图.md"
         },
         {
           "check": "stage_distribution",
           "label": "重要配角阶段作用分布",
-          "reason": "placeholder_detected",
-          "file": "/home/zuoky/project/序列大明/序列大明-重要配角阶段作用分布.md",
-          "placeholder_hits": [
-            "待AI复核"
-          ]
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/序列大明/序列大明-重要配角阶段作用分布.md"
         },
         {
           "check": "profiles",
@@ -456,9 +458,9 @@
       "repair_targets": [
         "补齐 `handoff` 的关键判断字段，避免只有摘要没有结论。",
         "替换 `ai_review` 里的占位内容，补成明确结论和证据。",
-        "替换 `重要配角Top10总表` 里的占位内容，补成明确结论和证据。",
-        "替换 `重要配角与主角关系图` 里的占位内容，补成明确结论和证据。",
-        "替换 `重要配角阶段作用分布` 里的占位内容，补成明确结论和证据。",
+        "补齐 `重要配角Top10总表` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `重要配角与主角关系图` 的关键判断字段，避免只有摘要没有结论。",
+        "补齐 `重要配角阶段作用分布` 的关键判断字段，避免只有摘要没有结论。",
         "检查并修复 `Top10 配角分析文件`，当前原因：`profile_quality_insufficient`。"
       ]
     },
@@ -466,9 +468,9 @@
       "layer": "outline",
       "label": "整书大纲层",
       "exists": true,
-      "validated": true,
+      "validated": false,
       "has_placeholders": false,
-      "completion_label": "共性标准已覆盖",
+      "completion_label": "共性标准仍不足",
       "reason": "validator",
       "files": {
         "project_entry": "/home/zuoky/project/序列大明/README.md",
@@ -537,18 +539,18 @@
         },
         "issues_revision": {
           "exists": true,
-          "content_ok": true,
-          "reason": "ok"
+          "content_ok": false,
+          "reason": "keywords_missing"
         }
       },
       "validator_report": "/home/zuoky/project/序列大明/序列大明-大纲分析校验报告.md",
       "validator_summary": {
         "novel_name": "序列大明",
-        "common_status": "共性标准已覆盖",
+        "common_status": "共性标准仍不足",
         "feature_status": "单书特性仍不足",
         "existing_count": 11,
-        "content_ok_count": 11,
-        "required_core_ok_count": 7,
+        "content_ok_count": 10,
+        "required_core_ok_count": 6,
         "feature_file": null,
         "feature_items": [],
         "files": {
@@ -565,8 +567,17 @@
           "issues_revision": "/home/zuoky/project/序列大明/序列大明-结构问题与修改建议.md"
         }
       },
-      "failed_checks": [],
-      "repair_targets": []
+      "failed_checks": [
+        {
+          "check": "issues_revision",
+          "label": "结构问题与修改建议",
+          "reason": "keywords_missing",
+          "file": "/home/zuoky/project/序列大明/序列大明-结构问题与修改建议.md"
+        }
+      ],
+      "repair_targets": [
+        "补齐 `结构问题与修改建议` 的关键判断字段，避免只有摘要没有结论。"
+      ]
     },
     "highlight": {
       "layer": "highlight",
@@ -660,77 +671,52 @@
   },
   "repair_plan": {
     "required": true,
-    "target_layer": "supporting-cast",
-    "target_label": "重要配角层",
+    "target_layer": "chapter-distillation",
+    "target_label": "章节蒸馏层",
     "mode": "repair-existing",
-    "reason": "handoff -> keywords_missing；ai_review -> placeholder_detected；重要配角Top10总表 -> placeholder_detected；重要配角与主角关系图 -> placeholder_detected；检测到占位内容",
+    "reason": "章节蒸馏 manifest -> missing；章节蒸馏骨架 -> placeholder_detected；阶段骨架与换挡草图 -> missing；校准与验证锚点 -> missing；检测到占位内容",
     "failed_checks": [
       {
-        "check": "handoff",
-        "label": "handoff",
-        "reason": "keywords_missing",
-        "file": "/home/zuoky/project/序列大明/工作状态-2026-05-30.md"
+        "check": "manifest",
+        "label": "章节蒸馏 manifest",
+        "reason": "missing",
+        "file": null
       },
       {
-        "check": "ai_review",
-        "label": "ai_review",
+        "check": "chapter_skeleton",
+        "label": "章节蒸馏骨架",
         "reason": "placeholder_detected",
-        "file": "/home/zuoky/project/序列大明/序列大明-重要配角AI复核结论.md",
+        "file": "/home/zuoky/project/序列大明/序列大明-章节蒸馏骨架.md",
         "placeholder_hits": [
-          "待AI复核"
+          "待补充"
         ]
       },
       {
-        "check": "top10_table",
-        "label": "重要配角Top10总表",
-        "reason": "placeholder_detected",
-        "file": "/home/zuoky/project/序列大明/序列大明-重要配角Top10总表.md",
-        "placeholder_hits": [
-          "待AI复核"
-        ]
+        "check": "stage_skeleton",
+        "label": "阶段骨架与换挡草图",
+        "reason": "missing",
+        "file": null
       },
       {
-        "check": "relation_map",
-        "label": "重要配角与主角关系图",
-        "reason": "placeholder_detected",
-        "file": "/home/zuoky/project/序列大明/序列大明-重要配角与主角关系图.md",
-        "placeholder_hits": [
-          "待AI复核"
-        ]
-      },
-      {
-        "check": "stage_distribution",
-        "label": "重要配角阶段作用分布",
-        "reason": "placeholder_detected",
-        "file": "/home/zuoky/project/序列大明/序列大明-重要配角阶段作用分布.md",
-        "placeholder_hits": [
-          "待AI复核"
-        ]
-      },
-      {
-        "check": "profiles",
-        "label": "Top10 配角分析文件",
-        "reason": "profile_quality_insufficient",
-        "file": "/home/zuoky/project/序列大明/supporting-cast"
+        "check": "calibration_anchors",
+        "label": "校准与验证锚点",
+        "reason": "missing",
+        "file": null
       }
     ],
     "repair_targets": [
-      "补齐 `handoff` 的关键判断字段，避免只有摘要没有结论。",
-      "替换 `ai_review` 里的占位内容，补成明确结论和证据。",
-      "替换 `重要配角Top10总表` 里的占位内容，补成明确结论和证据。",
-      "替换 `重要配角与主角关系图` 里的占位内容，补成明确结论和证据。",
-      "替换 `重要配角阶段作用分布` 里的占位内容，补成明确结论和证据。",
-      "检查并修复 `Top10 配角分析文件`，当前原因：`profile_quality_insufficient`。"
+      "补齐 `章节蒸馏 manifest`，至少先从缺失补到可校验骨架。",
+      "替换 `章节蒸馏骨架` 里的占位内容，补成明确结论和证据。",
+      "补齐 `阶段骨架与换挡草图`，至少先从缺失补到可校验骨架。",
+      "补齐 `校准与验证锚点`，至少先从缺失补到可校验骨架。"
     ],
     "context_files": [
       "/home/zuoky/project/序列大明/README.md",
       "/home/zuoky/project/序列大明/工作状态-2026-05-30.md",
-      "/home/zuoky/project/序列大明/work/merged/characters.json",
-      "/home/zuoky/project/序列大明/work/cards/index.md",
-      "/home/zuoky/project/序列大明/李钧-词条总索引.md",
-      "/home/zuoky/project/序列大明/李钧-最终人物卡.md"
+      "/home/zuoky/project/序列大明/source/README.md",
+      "/home/zuoky/project/序列大明/source/序列大明.md"
     ],
-    "suggested_context_file": "/home/zuoky/project/序列大明/workspace-context-supporting-cast.md",
+    "suggested_context_file": "/home/zuoky/project/序列大明/workspace-context-chapter-distillation.md",
     "suggested_repair_note": "/home/zuoky/project/序列大明/workspace-repair-plan.md"
   }
 }

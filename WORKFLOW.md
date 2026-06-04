@@ -114,6 +114,12 @@ python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.
 6. 写回当天 `工作状态-YYYY-MM-DD.md`
 7. 更新仓库级 `CURRENT_STATUS.md`
 
+如果某一层在自动 init / fill / repair 后仍然跑不动，总控会：
+
+1. 写回 `workspace-status.json`、`workspace-gap-report.md`、`工作状态-YYYY-MM-DD.md`
+2. 在状态中标记 `human_escalation`
+3. 静默停在当前层，等待人工接手，而不是把循环误判为完成
+
 ## 四、常用脚本
 
 ### 状态刷新

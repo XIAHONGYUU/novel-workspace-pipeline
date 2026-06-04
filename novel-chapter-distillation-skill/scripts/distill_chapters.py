@@ -19,6 +19,7 @@ import time
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 BATCH_SIZE = 3
 ENCODINGS = ["utf-8", "utf-8-sig", "gb18030", "gbk"]
@@ -318,14 +319,56 @@ def trim_body(body: str) -> str:
     return body[:2500] if len(body) > 3000 else body
 
 
-def call_api(batch: list[Chapter], batch_size: int) -> str | None:
-    src = ""
+def read_context_file(path: Path, limit: int = 2200) -> str:
+    if path.suffix.lower() == ".json":
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return path.read_text(encoding="utf-8", errors="ignore")[:limit]
+        return json.dumps(payload, ensure_ascii=False, indent=2)[:limit]
+    return path.read_text(encoding="utf-8", errors="ignore")[:limit]
+
+
+def build_user_prompt(
+    batch: list[Chapter],
+    batch_size: int,
+    extra_contexts: list[tuple[Path, str]] | None = None,
+) -> str:
+    chapter_blocks: list[str] = []
     for chapter in batch:
-        src += f"\n{chapter.title}\n{trim_body(chapter.body)}\n"
+        chapter_blocks.append(
+            "\n".join(
+                [
+                    f"## {chapter.title}",
+                    f"- 章节序号：第{chapter.index}章",
+                    f"- 源文件行号：{chapter.start_line}-{chapter.end_line}",
+                    trim_body(chapter.body),
+                ]
+            )
+        )
+    extra_sections = [f"### 额外上下文：{path.name}\n{text}" for path, text in extra_contexts or []]
+    return "\n\n".join(
+        [
+            f"任务：分析以下 {batch_size} 章，为每章输出七维度蒸馏分析。",
+            "要求：必须引用具体角色、事件、设定和局势变化，不要输出模板化空话。",
+            "## 待分析章节",
+            "\n\n".join(chapter_blocks),
+            "## 额外上下文",
+            "\n\n".join(extra_sections) if extra_sections else "（无）",
+            "请严格按 system prompt 结构输出。",
+        ]
+    )
+
+
+def call_api(
+    batch: list[Chapter],
+    batch_size: int,
+    extra_contexts: list[tuple[Path, str]] | None = None,
+) -> str | None:
     try:
         result = call_chat_completion(
             system_prompt=SYSTEM_PROMPT,
-            user_prompt=f"分析以下{batch_size}章：\n{src}",
+            user_prompt=build_user_prompt(batch, batch_size, extra_contexts),
             model_env_vars=("CHAPTER_DISTILLATION_MODEL",),
             fallback_model_env_vars=("CHAPTER_DISTILLATION_FALLBACK_MODELS",),
             default_model="deepseek-chat",
