@@ -24,7 +24,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--attempt-label", default="draft", help="Artifact label, e.g. draft / repair-1.")
     parser.add_argument("--force", action="store_true", help="Overwrite durable outputs.")
     parser.add_argument("--batch-size", type=int, default=3, help="How many chapters to send per batch when filling missing sections.")
-    parser.add_argument("--context-file", action="append", default=[], help="Additional markdown/json files to record alongside the run.")
+    parser.add_argument("--context-file", action="append", default=[], help="Additional markdown/json files to inject into repair/fill context.")
     parser.add_argument("--response-file", help="Debug override: load chapter batch response from a local text file.")
     return parser.parse_args()
 
@@ -132,6 +132,7 @@ def fill_missing_sections(
     paths: Any,
     chapters: list[Any],
     batch_size: int,
+    extra_contexts: list[tuple[Path, str]],
     debug_response: str | None,
     attempts_dir: Path,
     attempt_label: str,
@@ -145,7 +146,7 @@ def fill_missing_sections(
         if debug_response is not None:
             raw_result = debug_response
         else:
-            raw_result = distill_module.call_api(batch, len(batch))
+            raw_result = distill_module.call_api(batch, len(batch), extra_contexts)
         if not raw_result:
             raise RuntimeError(f"chapter distillation API failed for batch starting at chapter {batch[0].index}")
         ok = distill_module.write_batch_artifacts(paths, batch, raw_result)
@@ -407,11 +408,17 @@ def main() -> int:
 
     distill_module.bootstrap_from_existing_skeleton(paths, chapters)
     debug_response = load_debug_response(args)
+    extra_contexts: list[tuple[Path, str]] = []
+    for raw_path in args.context_file:
+        path = Path(raw_path).expanduser().resolve()
+        if path.exists():
+            extra_contexts.append((path, distill_module.read_context_file(path)))
     completed_batches = fill_missing_sections(
         distill_module,
         paths,
         chapters,
         max(1, args.batch_size),
+        extra_contexts,
         debug_response,
         attempts_dir,
         args.attempt_label,

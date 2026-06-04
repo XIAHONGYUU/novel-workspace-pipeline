@@ -551,6 +551,7 @@ def apply_quality_gate_to_status(status: dict[str, Any], quality_result: dict[st
         "issue_count": quality_result.get("issue_count"),
         "cross_layer_conflicts": quality_result.get("cross_layer_consistency", {}).get("conflict_count", 0),
     }
+    status["repair_plan"] = build_repair_plan(status)
     return status
 
 
@@ -1281,6 +1282,10 @@ def build_repair_plan(status: dict[str, Any]) -> dict[str, Any] | None:
     failed_checks = item.get("failed_checks", [])
     repair_targets = item.get("repair_targets", [])
     context_files = [str(path) for _label, path in _candidate_context_files(status, target_layer)[:6]]
+    quality = item.get("quality", {})
+    quality_score = quality.get("score")
+    quality_ok = quality.get("ok")
+    quality_issues = quality.get("issues", [])
     summary_parts = []
     if failed_checks:
         summary_parts.append(
@@ -1288,6 +1293,8 @@ def build_repair_plan(status: dict[str, Any]) -> dict[str, Any] | None:
         )
     if item.get("has_placeholders"):
         summary_parts.append("检测到占位内容")
+    if quality_score is not None and not quality_ok:
+        summary_parts.append(f"质量门未通过（{quality_score}/100）")
     if not summary_parts:
         summary_parts.append(f"{item['label']} 已存在但尚未达标")
     return {
@@ -1298,9 +1305,70 @@ def build_repair_plan(status: dict[str, Any]) -> dict[str, Any] | None:
         "reason": "；".join(summary_parts),
         "failed_checks": failed_checks,
         "repair_targets": repair_targets,
+        "quality_score": quality_score,
+        "quality_ok": quality_ok,
+        "quality_issues": quality_issues,
         "context_files": context_files,
         "suggested_context_file": str(Path(status["workspace_path"]) / f"workspace-context-{target_layer}.md"),
         "suggested_repair_note": str(Path(status["workspace_path"]) / "workspace-repair-plan.md"),
+    }
+
+
+def build_human_escalation(
+    status: dict[str, Any],
+    attempted_layer: str | None = None,
+    executed_mode: str | None = None,
+    execution_results: list[dict[str, Any]] | None = None,
+) -> dict[str, Any] | None:
+    if not attempted_layer or not execution_results:
+        return None
+
+    failed_actions = [item for item in execution_results if item.get("layer") == attempted_layer and not item.get("ok")]
+    layer_item = status["layer_status"].get(attempted_layer, {})
+    quality_ok = layer_item.get("quality", {}).get("ok", True)
+    layer_closed = layer_item.get("validated") and quality_ok
+    if not failed_actions and layer_closed:
+        return None
+
+    trigger = "layer_not_closed"
+    reasons: list[str] = []
+    if failed_actions:
+        trigger = "command_failed"
+        reasons.append("下层脚本执行失败，自动流程无法继续闭环")
+    if layer_item.get("exists") and not layer_closed:
+        trigger = "repair_exhausted" if not failed_actions else trigger
+        reasons.append(f"{layer_item.get('label', attempted_layer)} 已建立，但自动修复轮次后仍未达标")
+    elif not layer_item.get("exists"):
+        reasons.append(f"{LAYER_LABELS.get(attempted_layer, attempted_layer)} 尚未成功建立")
+
+    next_actions = list(layer_item.get("repair_targets") or [])
+    if not next_actions:
+        next_actions.append(status["recommended_next_step"])
+
+    failed_action_summaries = []
+    for item in failed_actions[:4]:
+        detail = item.get("stderr") or item.get("stdout") or f"exit {item.get('returncode', '?')}"
+        failed_action_summaries.append(
+            {
+                "action": item.get("action", "run"),
+                "returncode": item.get("returncode"),
+                "detail": detail[:240],
+            }
+        )
+
+    priority_read = choose_priority_read_path(status, attempted_layer)
+    return {
+        "needed": True,
+        "trigger": trigger,
+        "target_layer": attempted_layer,
+        "target_label": layer_item.get("label", LAYER_LABELS.get(attempted_layer, attempted_layer)),
+        "executed_mode": executed_mode,
+        "reason": "；".join(reasons) if reasons else "自动流程未能完成当前目标层，需要人工接手",
+        "failed_actions": failed_action_summaries,
+        "next_actions": next_actions,
+        "resume_from": priority_read.name if priority_read else "workspace-gap-report.md",
+        "notify_user": False,
+        "silent_stop": True,
     }
 
 
@@ -1347,6 +1415,7 @@ def collect_workspace_status(
         "recommended_mode": recommendation["recommended_mode"],
         "recommended_next_step": recommendation["recommended_next_step"],
         "optional_backfill_layers": recommendation["optional_backfill_layers"],
+        "human_escalation": None,
         "updated_at": datetime.now().isoformat(timespec="seconds"),
         "layer_status": layer_status,
     }
@@ -1460,6 +1529,25 @@ def render_workspace_handoff(
             f"1. {status['recommended_next_step']}",
         ]
     )
+    human_escalation = status.get("human_escalation")
+    if human_escalation:
+        lines.extend(
+            [
+                "",
+                "## 人工接手",
+                "",
+                f"- 当前状态：`需要人工接手`",
+                f"- 触发层：`{human_escalation['target_layer']}` / `{human_escalation['target_label']}`",
+                f"- 触发原因：{human_escalation['reason']}",
+                "- 当前策略：`静默停`；已写 handoff，不额外通知。",
+            ]
+        )
+        for item in human_escalation.get("next_actions", [])[:4]:
+            lines.append(f"- {item}")
+        for failure in human_escalation.get("failed_actions", [])[:3]:
+            lines.append(
+                f"- 失败记录：`{failure['action']}` / exit {failure['returncode']} / {failure['detail']}"
+            )
     if status["optional_backfill_layers"]:
         lines.append(
             f"2. 可选回补层：`{', '.join(status['optional_backfill_layers'])}`，用于增强前置校准稳定性。"
@@ -1507,9 +1595,15 @@ def update_repo_current_status(
     priority_read = choose_priority_read_path(status, target_layer)
     priority_name = priority_read.name if priority_read else "README.md"
     next_step = _sanitize_table_cell(status["recommended_next_step"])
+    human_escalation = status.get("human_escalation")
+    next_step_text = next_step
+    if human_escalation:
+        next_step_text = _sanitize_table_cell(
+            f"需要人工接手：{human_escalation['reason']}；恢复入口 {human_escalation['resume_from']}"
+        )
     row = (
         f"| `{novel_name}` | `{stage}` | `{_sanitize_table_cell(judgment)}` | "
-        f"`{latest_status_rel}` | `{priority_name}` | {next_step} |"
+        f"`{latest_status_rel}` | `{priority_name}` | {next_step_text} |"
     )
 
     if path.exists():
@@ -1572,6 +1666,11 @@ def update_repo_current_status(
         f"- 已达标层：`{', '.join(status['completed_layers']) if status['completed_layers'] else '无'}`\n"
         f"- 待修层：`{', '.join(status['incomplete_layers']) if status['incomplete_layers'] else '无'}`\n"
         f"- 下一步建议：{status['recommended_next_step']}\n"
+        + (
+            f"- 人工接手：已触发；原因：{human_escalation['reason']}；恢复入口：`{human_escalation['resume_from']}`\n"
+            if human_escalation
+            else ""
+        )
     )
     if "## 当前活跃项目说明" in content and "## 恢复上下文顺序" in content:
         content = re.sub(
@@ -1592,6 +1691,7 @@ def update_repo_current_status(
 def render_gap_report(status: dict[str, Any]) -> str:
     workspace = status["workspace_path"]
     novel_name = status["novel_name"]
+    human_escalation = status.get("human_escalation")
     lines = [
         f"# 《{novel_name}》工作区差距报告",
         "",
@@ -1608,6 +1708,13 @@ def render_gap_report(status: dict[str, Any]) -> str:
         "",
         f"- {status['recommended_next_step']}",
     ]
+    if human_escalation:
+        lines.extend(
+            [
+                f"- 当前已触发 `human_escalation`：{human_escalation['reason']}",
+                "- 策略：写 handoff 后静默停，不额外通知。",
+            ]
+        )
     if status["optional_backfill_layers"]:
         lines.extend(
             [
@@ -1682,6 +1789,22 @@ def render_repair_plan(status: dict[str, Any]) -> str:
     ]
     for target in repair_plan["repair_targets"]:
         lines.append(f"- {target}")
+    quality_score = repair_plan.get("quality_score")
+    quality_issues = repair_plan.get("quality_issues", [])
+    if quality_score is not None or quality_issues:
+        quality_status = "通过" if repair_plan.get("quality_ok") else "未通过"
+        lines.extend(
+            [
+                "",
+                "## 质量门反馈",
+                "",
+                f"- 当前质量状态：`{quality_status}`",
+            ]
+        )
+        if quality_score is not None:
+            lines.append(f"- 当前质量评分：`{quality_score}/100`")
+        for issue in quality_issues[:6]:
+            lines.append(f"- {issue}")
     if repair_plan["failed_checks"]:
         lines.extend(["", "## 失败检查项", ""])
         for failure in repair_plan["failed_checks"]:
@@ -1908,12 +2031,15 @@ def render_pipeline_report(
         "",
         f"- {status['recommended_next_step']}",
     ]
+    human_escalation = status.get("human_escalation")
     if context_path:
         lines.append(f"- 已生成上下文文件：`{context_path}`")
     if handoff_path:
         lines.append(f"- 已写回工作状态：`{handoff_path}`")
     if current_status_path:
         lines.append(f"- 已更新仓库状态：`{current_status_path}`")
+    if human_escalation:
+        lines.append("- 当前已触发 `human_escalation`：写回 handoff 后静默停。")
     if status.get("repair_plan"):
         lines.append("- 当前存在 repair plan：`workspace-repair-plan.md`")
     if execution_results:
@@ -1936,6 +2062,24 @@ def render_pipeline_report(
         )
         for target in repair_plan["repair_targets"]:
             lines.append(f"- {target}")
+    if human_escalation:
+        lines.extend(
+            [
+                "",
+                "## Human Escalation",
+                "",
+                f"- 目标层：`{human_escalation['target_layer']}` / `{human_escalation['target_label']}`",
+                f"- 触发原因：{human_escalation['reason']}",
+                f"- 通知策略：`notify_user={human_escalation['notify_user']}` / `silent_stop={human_escalation['silent_stop']}`",
+                f"- 恢复入口：`{human_escalation['resume_from']}`",
+            ]
+        )
+        for item in human_escalation.get("next_actions", [])[:4]:
+            lines.append(f"- {item}")
+        for failure in human_escalation.get("failed_actions", [])[:3]:
+            lines.append(
+                f"- 失败记录：`{failure['action']}` / exit {failure['returncode']} / {failure['detail']}"
+            )
     lines.extend(
         [
             "",

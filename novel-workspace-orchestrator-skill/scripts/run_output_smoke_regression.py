@@ -95,10 +95,35 @@ def case_keyword_normalizer() -> tuple[bool, str]:
         shutil.rmtree(tempdir, ignore_errors=True)
 
 
+def case_chapter_distillation_context_injection() -> tuple[bool, str]:
+    distill = load_module(
+        "smoke_distill_context",
+        REPO_ROOT / "novel-chapter-distillation-skill/scripts/distill_chapters.py",
+    )
+    chapter = distill.Chapter(
+        index=1,
+        title="第1章 测试开局",
+        body="主角在雨夜进城，立刻撞上第一场冲突。",
+        start_line=1,
+        end_line=12,
+    )
+    prompt = distill.build_user_prompt(
+        [chapter],
+        1,
+        [(Path("workspace-context-chapter-distillation.md"), "质量门问题：模板密度过高，需要补具体事件与角色。")],
+    )
+    if "额外上下文" not in prompt:
+        return False, "distillation prompt missing extra context section"
+    if "质量门问题：模板密度过高" not in prompt:
+        return False, "distillation prompt missing injected quality feedback"
+    return True, "chapter-distillation context injection passed"
+
+
 def main() -> int:
     cases = [
         ("bare-number-chapters", case_bare_numeric_chapters),
         ("keyword-normalizer", case_keyword_normalizer),
+        ("chapter-distillation-context", case_chapter_distillation_context_injection),
     ]
     failures: list[str] = []
     for name, fn in cases:

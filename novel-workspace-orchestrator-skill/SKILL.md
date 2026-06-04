@@ -312,6 +312,12 @@ Prefer durable outputs such as:
 - `workspace-repair-plan.md` when the workspace should enter `repair-existing`
 - `工作区流程判断报告.md`
 
+If `--execute` or `--execute-all` stalls, prefer this stop rule:
+
+- write back `workspace-status.json`, `工作状态-YYYY-MM-DD.md`, and `工作区流程判断报告.md`
+- mark `human_escalation` with the blocked layer, reason, and resume file
+- stop silently after handoff instead of pretending the loop closed
+
 ## Scripts
 
 Use the bundled scripts when you want repeatable routing and judgment instead of ad hoc inspection.

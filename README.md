@@ -144,6 +144,12 @@ python3 novel-workspace-orchestrator-skill/scripts/run_novel_workspace_pipeline.
 - 语义级正文补写
 - 高质量 `repair-existing` 内容重构
 
+现在总控在 `--execute` / `--execute-all` 卡住时会：
+
+- 写回 `handoff` / `workspace-status.json` / `工作区流程判断报告.md`
+- 标记 `human_escalation`
+- 采用“静默停”策略，不把“循环已完成”误报成成功
+
 所以它现在更接近一个可用的小说分析 workflow，而不是全自动写作代理。
 
 ## 建议阅读顺序
