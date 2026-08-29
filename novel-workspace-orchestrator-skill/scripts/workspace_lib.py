@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import subprocess
 from datetime import date, datetime
@@ -482,7 +483,7 @@ def run_validator(layer: str, workspace: Path, novel_name: str, persist_report: 
     cmd = ["python3", str(script_path), "--workspace", str(workspace), "--novel-name", novel_name, "--json"]
     if not persist_report:
         cmd.append("--no-write-report")
-    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False, env={**os.environ, "PYTHONUNBUFFERED": "1"})
     if proc.returncode != 0:
         return {
             "layer": layer,
@@ -520,7 +521,7 @@ def run_quality_gate_for_workspace(
         cmd += ["--layer", target_layer]
     if not persist_report:
         cmd.append("--no-write-report")
-    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False, env={**os.environ, "PYTHONUNBUFFERED": "1"})
     if proc.returncode != 0 and not proc.stdout.strip():
         return {
             "ok": False,
@@ -576,7 +577,7 @@ def append_quality_section_to_validator_report(
         "--json",
         "--no-write-report",
     ]
-    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False, env={**os.environ, "PYTHONUNBUFFERED": "1"})
     if proc.returncode != 0 or not proc.stdout.strip():
         return report_text
 
@@ -626,7 +627,7 @@ def append_quality_section_to_validator_report(
 
 
 def run_command(cmd: list[str]) -> dict[str, Any]:
-    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False, env={**os.environ, "PYTHONUNBUFFERED": "1"})
     return {
         "cmd": cmd,
         "returncode": proc.returncode,
@@ -643,7 +644,7 @@ def build_layer_init_command(
     protagonist_name: str | None = None,
     source: Path | None = None,
     force: bool = False,
-    bootstrap_protagonist: bool = False,
+    bootstrap_protagonist: bool = True,
     project_root: Path | None = None,
     tool_root: Path | None = None,
 ) -> list[str]:
@@ -734,7 +735,7 @@ def execute_layer_init(
     protagonist_name: str | None = None,
     source: Path | None = None,
     force: bool = False,
-    bootstrap_protagonist: bool = False,
+    bootstrap_protagonist: bool = True,
     project_root: Path | None = None,
     tool_root: Path | None = None,
 ) -> dict[str, Any]:

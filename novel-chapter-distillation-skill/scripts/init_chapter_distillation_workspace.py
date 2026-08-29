@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import os
 import argparse
 import json
 import re
@@ -31,7 +32,7 @@ def write_file(path: Path, content: str, force: bool) -> None:
 
 def run_cmd(cmd: list[str]) -> bool:
     try:
-        subprocess.run(cmd, check=True)
+        subprocess.run(cmd, check=True, env={**os.environ, "PYTHONUNBUFFERED": "1"})
         return True
     except (subprocess.CalledProcessError, FileNotFoundError):
         return False

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import os
 import argparse
 import json
 import re
@@ -52,7 +53,7 @@ def refresh_workspace_status(workspace: Path, novel_name: str, protagonist: str 
     cmd = ["python3", str(script), "--workspace", str(workspace), "--novel-name", novel_name]
     if protagonist:
         cmd += ["--protagonist-name", protagonist]
-    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False, env={**os.environ, "PYTHONUNBUFFERED": "1"})
     if proc.returncode != 0:
         message = proc.stderr.strip() or proc.stdout.strip() or "unknown error"
         print(f"warning: failed to refresh workspace-status.json: {message}")
