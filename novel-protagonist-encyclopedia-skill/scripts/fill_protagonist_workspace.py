@@ -399,7 +399,7 @@ def render_stage_outline_md(novel_name: str, normalized: dict[str, Any]) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def render_anchor_md(novel_name: str, normalized: dict[str, Any]) -> str:
+def render_anchor_md(novel_name: str, protagonist_name: str, normalized: dict[str, Any]) -> str:
     data = normalized["anchor"]
     lines = [
         f"# 《{novel_name}》主角锚点与骨架",
@@ -656,7 +656,7 @@ def persist_outputs(workspace: Path, novel_name: str, protagonist_name: str, nor
     written.append(str(stage_outline_path))
 
     anchor_path = workspace / f"{novel_name}-主角锚点与骨架.md"
-    write_file(anchor_path, render_anchor_md(novel_name, normalized), force)
+    write_file(anchor_path, render_anchor_md(novel_name, protagonist_name, normalized), force)
     written.append(str(anchor_path))
 
     final_card_path = workspace / f"{protagonist_name}-最终人物卡.md"

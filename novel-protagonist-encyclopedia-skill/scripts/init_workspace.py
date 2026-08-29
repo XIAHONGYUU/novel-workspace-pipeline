@@ -35,7 +35,7 @@ def refresh_workspace_status(workspace: Path, novel_name: str, protagonist: str 
     cmd = ["python3", str(script), "--workspace", str(workspace), "--novel-name", novel_name]
     if protagonist:
         cmd += ["--protagonist-name", protagonist]
-    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False, env={**os.environ, "PYTHONUNBUFFERED": "1"})
     if proc.returncode != 0:
         message = proc.stderr.strip() or proc.stdout.strip() or "unknown error"
         print(f"warning: failed to refresh workspace-status.json: {message}")
@@ -588,6 +588,11 @@ def workspace_status_md(novel_name: str, protagonist_name: str | None, created_f
     protagonist_line = protagonist_name or "待确认"
     report_line = "已生成首轮诊断报告" if report_created else "尚未生成首轮诊断报告"
     focus_line = "已建立主角 focus 入口" if created_focus else "尚未建立主角 focus 入口"
+    protagonist_templates = (
+        "- 主角最终人物卡模板\n"
+        "- 主角词条总索引模板\n"
+        "- 主角核心体系总览模板"
+    ) if protagonist_name else ""
     return f"""# 《{novel_name}》工作状态 {today.isoformat()}
 
 ## 当前结论
@@ -606,7 +611,7 @@ def workspace_status_md(novel_name: str, protagonist_name: str | None, created_f
 - 整书粗阶段划分
 - 主角锚点与骨架
 - 全书精华总结模板
-{"- 主角最终人物卡模板\n- 主角词条总索引模板\n- 主角核心体系总览模板" if protagonist_name else ""}
+{protagonist_templates}
 
 ## 当前不应误判为已完成的部分
 
@@ -751,7 +756,11 @@ def main() -> None:
         if not src.exists():
             raise SystemExit(f"source file not found: {src}")
         copied_name = src.name
-        shutil.copy2(src, source_dir / src.name)
+        dst = source_dir / src.name
+        try:
+            shutil.copy2(src, dst)
+        except shutil.SameFileError:
+            pass  # source already in workspace
 
     write_file(workspace / f"{args.novel_name}-项目启动清单.md", checklist_md(args.novel_name))
     write_file(workspace / f"{args.novel_name}-整书粗阶段划分.md", stage_outline_md(args.novel_name))

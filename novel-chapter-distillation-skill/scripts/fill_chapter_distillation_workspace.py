@@ -148,10 +148,12 @@ def fill_missing_sections(
         else:
             raw_result = distill_module.call_api(batch, len(batch), extra_contexts)
         if not raw_result:
-            raise RuntimeError(f"chapter distillation API failed for batch starting at chapter {batch[0].index}")
+            print(f"[WARN] chapter distillation API failed for batch starting at chapter {batch[0].index}, skipping", file=sys.stderr)
+            continue
         ok = distill_module.write_batch_artifacts(paths, batch, raw_result)
         if not ok:
-            raise RuntimeError(f"chapter distillation returned insufficient sections for batch starting at chapter {batch[0].index}")
+            print(f"[WARN] chapter distillation returned insufficient sections for batch starting at chapter {batch[0].index}, skipping", file=sys.stderr)
+            continue
         stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
         (attempts_dir / f"{stamp}-{attempt_label}-batch-{batch_index:02d}.txt").write_text(raw_result.rstrip() + "\n", encoding="utf-8")
         completed_batches.append(
@@ -396,7 +398,7 @@ def main() -> int:
 
     distill_module = load_module("chapter_distill_module", Path(__file__).with_name("distill_chapters.py"))
     workspace_resolved, source_path = distill_module.resolve_workspace_and_source(project_root, args.novel_name, args.source)
-    if workspace_resolved != workspace:
+    if workspace_resolved.resolve() != workspace.resolve():
         raise SystemExit(f"workspace mismatch: expected {workspace}, resolved {workspace_resolved}")
     paths = distill_module.build_paths(workspace, args.novel_name)
     distill_module.ensure_dirs(paths)

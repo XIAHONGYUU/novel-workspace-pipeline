@@ -181,7 +181,7 @@ def check_chapter_uniqueness(skeleton_path: Path) -> dict[str, Any]:
 
     # 提取每章的"本章核心推进"行
     core_progressions = re.findall(
-        r'-\s*本章核心推进[：:]\s*(.+?)(?=\n-|\n##|\n\n\S|\Z)',
+        r'-\s*\*{0,2}本章核心推进\*{0,2}[：:]\s*(.+?)(?=\n-|\n##|\n\n\S|\Z)',
         text,
         re.DOTALL,
     )

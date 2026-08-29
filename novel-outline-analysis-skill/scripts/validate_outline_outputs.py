@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import os
 import argparse
 import json
 import re
@@ -250,7 +251,7 @@ def main() -> int:
             "--json",
             "--no-write-report",
         ]
-        qg_proc = subprocess.run(qg_cmd, capture_output=True, text=True, check=False)
+        qg_proc = subprocess.run(qg_cmd, capture_output=True, text=True, check=False, env={**os.environ, "PYTHONUNBUFFERED": "1"})
         if qg_proc.returncode == 0 and qg_proc.stdout.strip():
             try:
                 qg = json.loads(qg_proc.stdout)
